@@ -10,7 +10,7 @@ import (
 	"github.com/mmcdole/gofeed"
 )
 
-type Feeds struct {
+type Feed struct {
 	Name            string `mapstructure:"name"`
 	Url             string `mapstructure:"url"`
 	TargetLanguage  string `mapstructure:"target_language"`
@@ -20,7 +20,7 @@ type Feeds struct {
 }
 
 type Translator struct {
-	Feeds
+	Feed
 }
 
 func (translator *Translator) Execute(outputDir string) {

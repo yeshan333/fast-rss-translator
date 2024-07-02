@@ -8,7 +8,7 @@ import (
 
 func TestExecute(t *testing.T) {
 	trans := &translator.Translator{
-		Feeds: translator.Feeds{
+		Feed: translator.Feed{
 			Name:            "feed_test.xml",
 			Url:             "https://shan333.cn/rss2.xml",
 			TargetLanguage:  "en",

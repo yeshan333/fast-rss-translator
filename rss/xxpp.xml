@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ShanSan</title>
+    <link>https://yeshan333.github.io/rss2.xml</link>
+    <description>ShanSan&#39;s Blog</description>
+    <pubDate>Tue, 18 Jun 2024 22:58:39 +0000</pubDate>
+    <item>
+      <title>(Amazing!) 通过 vfox 在 Windows 上安装管理多个 Erlang/OTP 和 Elixir 的版本</title>
+      <link>https://yeshan333.github.io/2024/06/18/install-erlang-and-elixir-via-vfox-on-windows/</link>
+      <description>通过 vfox 安装在 Windows 上管理多个 Erlang/OTP 和 Elixir 的版本</description>
+      <pubDate>Tue, 18 Jun 2024 22:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>手把手教你如何在 Sider (ChatGPT Sidebar) 中免费使用通义千问</title>
+      <link>https://yeshan333.github.io/2024/05/29/free-to-use-sider-with-qwen/</link>
+      <description>手把手教你如何在 Sider (ChatGPT Sidebar) 中免费使用通义千问</description>
+      <pubDate>Wed, 29 May 2024 00:29:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 vscode 插件 vscode-jenkins-pipeline-linter-connector 和 LLMs 大模型校验你的 Jenkinsfile</title>
+      <link>https://yeshan333.github.io/2024/05/25/validate-jenkinsfile/</link>
+      <description>使用 vscode 插件 vscode-jenkins-pipeline-linter-connector 和 LLMs 校验你的 Jenkinsfile</description>
+      <pubDate>Sat, 25 May 2024 17:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>etcd 和 MongoDB 的混沌（故障）测试方法</title>
+      <link>https://yeshan333.github.io/2024/05/18/etcd-and-mongodb-chaos-testing/</link>
+      <description>etcd 和 MongoDB 的混沌（故障）测试方法</description>
+      <pubDate>Sat, 18 May 2024 15:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>通过 vfox 安装管理多版本 Erlang 和 Elixir</title>
+      <link>https://yeshan333.github.io/2024/04/27/install-erlang-and-elixir-via-vfox/</link>
+      <description>通过 vfox 安装管理多版本 Erlang 和 Elixir</description>
+      <pubDate>Sat, 27 Apr 2024 15:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 vfox-erlang 安装管理多个 Erlang/OTP 版本</title>
+      <link>https://yeshan333.github.io/2024/04/25/using-vfox-erlang-to-manage-erlang-version/</link>
+      <description>使用 vfox-erlang 安装管理多个 Erlang/OTP 版本</description>
+      <pubDate>Thu, 25 Apr 2024 23:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 chezmoi &amp; vscode, 管理你的 dotfiles</title>
+      <link>https://yeshan333.github.io/2024/03/23/using-chezmoi-to-manage-dotfiles/</link>
+      <description>使用 chezmoi &amp; vscode, 管理你的 dotfiles</description>
+      <pubDate>Sat, 23 Mar 2024 16:11:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 WXT 开发浏览器插件（上手使用篇）</title>
+      <link>https://yeshan333.github.io/2024/03/15/develop-web-extension-with-wxt/</link>
+      <description>WXT 开发浏览器插件</description>
+      <pubDate>Fri, 15 Mar 2024 07:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows PowerToys：屏幕标尺，测量屏幕上任何内容的像素</title>
+      <link>https://yeshan333.github.io/2024/03/13/markup-screen/</link>
+      <description>屏幕标尺，测量屏幕上任何内容的像素</description>
+      <pubDate>Wed, 13 Mar 2024 03:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览</title>
+      <link>https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/</link>
+      <description>Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览, 文章每三小时刷新</description>
+      <pubDate>Mon, 04 Mar 2024 11:14:47 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

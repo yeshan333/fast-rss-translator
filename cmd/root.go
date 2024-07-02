@@ -25,10 +25,12 @@ import (
 	"fmt"
 	"log/slog"
 	"os"
+	"sync"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"github.com/yeshan333/fast-rss-translator/internal/config"
+	"github.com/yeshan333/fast-rss-translator/internal/translator"
 )
 
 var cfgFile string // rss feed subcribes configuration file
@@ -43,6 +45,20 @@ var rootCmd = &cobra.Command{
 			panic(err)
 		}
 		slog.Info("get rss feeds from config file", "filepath", cfgFile)
+		slog.Info("global subscribes config", "config", fmt.Sprintf("%+v", globalConfig))
+
+		wg := sync.WaitGroup{}
+		wg.Add(len(globalConfig.Feeds))
+		for i := 0; i < len(globalConfig.Feeds); i++ {
+			go func(i int) {
+				trans := &translator.Translator{
+					Feed: globalConfig.Feeds[i],
+				}
+				trans.Execute(globalConfig.Base.OutputPath)
+				wg.Done()
+			}(i)
+		}
+		wg.Wait()
 	},
 }
 
@@ -64,12 +80,10 @@ func ReadConfig() {
 	if err != nil {
 		panic(fmt.Errorf("fatal error config file: %w", err))
 	}
-
 }
 
 func init() {
 	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "subscribes.yaml", "config file (default is $(pwd)/.subscribes.yaml)")
 	ReadConfig()
-	slog.Info("global config", "config", fmt.Sprintf("%+v", globalConfig))
 	// rootCmd.MarkFlagRequired("config")
 }

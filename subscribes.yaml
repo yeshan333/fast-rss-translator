@@ -3,14 +3,14 @@ base:
 
 feeds:
   - name: qq.xml
-    url: "https://shan333.cn"
+    url: "https://shan333.cn/rss2.xml"
     target_language: "en"
     translate_mode: "en"
     translate_engine: "google"
     max_post: 10
 
   - name: xxpp.xml
-    url: "https://shan333.cn"
+    url: "https://shan333.cn/rss2.xml"
     target_language: "en"
     translate_mode: "en"
     translate_engine: "google"

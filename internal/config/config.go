@@ -7,7 +7,7 @@ type Base struct {
 }
 
 type Config struct {
-	Base      Base               `mapstructure:"base"`
-	HttpProxy string             `mapstructure:"http_proxy"`
-	Feeds     []translator.Feeds `mapstructure:"feeds"`
+	Base      Base              `mapstructure:"base"`
+	HttpProxy string            `mapstructure:"http_proxy"`
+	Feeds     []translator.Feed `mapstructure:"feeds"`
 }
