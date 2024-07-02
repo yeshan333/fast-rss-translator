@@ -50,11 +50,21 @@ func (translator *Translator) Execute(outputDir string) {
 	// limit translate post items
 	for i := 0; i < translator.MaxPost; i++ {
 		go func(i int) {
+			var transTitle string
+			var transDesc string
+			if translator.TranslateMode == "bilingual" {
+				transTitle = fmt.Sprintf("【%s】%s", feed.Items[i].Title, translator.DoTranslate(feed.Items[i].Title))
+				transDesc = fmt.Sprintf("【%s】%s", feed.Items[i].Description, translator.DoTranslate(feed.Items[i].Description))
+			} else {
+				transTitle = translator.DoTranslate(feed.Items[i].Title)
+			}
+
 			newfeed.Add(&feeds.Item{
-				Title:       translator.DoTranslate(feed.Items[i].Title),
+				Title:       transTitle,
 				Link:        &feeds.Link{Href: feed.Items[i].Link},
-				Description: translator.DoTranslate(feed.Items[i].Description),
+				Description: transDesc,
 				Created:     *feed.Items[i].PublishedParsed,
+				// TODO: add categories
 				// Categories:  []string{item.Categories[0]},
 			})
 			wg.Done()
@@ -112,12 +122,16 @@ func (translator *Translator) DoTranslate(content string) string {
 		} else {
 			googleTranslator = gtranslator.New()
 		}
-		result, err := googleTranslator.Translate(content, "auto", "zh")
+		result, err := googleTranslator.Translate(content, "auto", translator.TargetLanguage)
 		if err != nil {
 			slog.Error("use google translate err", "err", err)
+			// return origin text
+			return content
 		}
 		return result.Text
-	case "OpenAI":
+	case "openai":
+		return ""
+	case "aliyun":
 		return ""
 	default:
 		return ""

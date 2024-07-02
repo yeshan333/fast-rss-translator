@@ -7,13 +7,13 @@ feeds:
     target_language: "en"
     translate_mode: "en"
     translate_engine: "google"
-    max_post: 10
+    max_post: 1
 
   - name: aws_eng.xml
     url: "https://aws.amazon.com/blogs/architecture/feed/"
     target_language: "zh"
     translate_mode: "origin"
     translate_engine: "google"
-    max_post: 10
+    max_post: 1
 
 http_proxy: "http://127.0.0.1:7890"
