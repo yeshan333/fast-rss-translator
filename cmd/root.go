@@ -22,20 +22,26 @@ THE SOFTWARE.
 package cmd
 
 import (
+	"fmt"
 	"log/slog"
 	"os"
 
 	"github.com/spf13/cobra"
+	"github.com/spf13/viper"
+	"github.com/yeshan333/fast-rss-translator/internal/config"
 )
 
 var cfgFile string // rss feed subcribes configuration file
+var globalConfig config.Config
 
 var rootCmd = &cobra.Command{
 	Use:   "fast-rss-translator",
 	Short: "A faster rss translator for rss feeds. translate any xml-format file",
 	Run: func(cmd *cobra.Command, args []string) {
-		cfgFile, _ = cmd.Flags().GetString("config")
-
+		cfgFile, err := cmd.Flags().GetString("config")
+		if err != nil {
+			panic(err)
+		}
 		slog.Info("get rss feeds from config file", "filepath", cfgFile)
 	},
 }
@@ -47,7 +53,23 @@ func Execute() {
 	}
 }
 
+func ReadConfig() {
+	viper.SetConfigFile(cfgFile)
+	viper.SetConfigType("yaml")
+	err := viper.ReadInConfig()
+	if err != nil {
+		panic(fmt.Errorf("fatal error config file: %w", err))
+	}
+	err = viper.Unmarshal(&globalConfig)
+	if err != nil {
+		panic(fmt.Errorf("fatal error config file: %w", err))
+	}
+
+}
+
 func init() {
-	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "fast-rss-translator.yaml", "config file (default is $HOME/.fast-rss-translator.yaml)")
+	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "subscribes.yaml", "config file (default is $(pwd)/.subscribes.yaml)")
+	ReadConfig()
+	slog.Info("global config", "config", fmt.Sprintf("%+v", globalConfig))
 	// rootCmd.MarkFlagRequired("config")
 }

@@ -1,0 +1,17 @@
+base:
+  output_path: "./rss"
+
+feeds:
+  - name: qq.xml
+    url: "https://shan333.cn"
+    target_language: "en"
+    translate_mode: "en"
+    translate_engine: "google"
+    max_post: 10
+
+  - name: xxpp.xml
+    url: "https://shan333.cn"
+    target_language: "en"
+    translate_mode: "en"
+    translate_engine: "google"
+    max_post: 10
