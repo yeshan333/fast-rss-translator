@@ -5,7 +5,9 @@ import (
 	"log/slog"
 	"os"
 	"path/filepath"
+	"sync"
 
+	gtranslator "github.com/Conight/go-googletrans"
 	"github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
 )
@@ -21,6 +23,7 @@ type Feed struct {
 
 type Translator struct {
 	Feed
+	HttpProxy string
 }
 
 func (translator *Translator) Execute(outputDir string) {
@@ -33,7 +36,7 @@ func (translator *Translator) Execute(outputDir string) {
 		Title:       feed.Title,
 		Link:        &feeds.Link{Href: feed.FeedLink},
 		Description: feed.Description,
-		Created:     *feed.PublishedParsed,
+		// Created:     *feed.PublishedParsed,
 	}
 
 	if len(feed.Authors) > 0 {
@@ -42,16 +45,22 @@ func (translator *Translator) Execute(outputDir string) {
 		newfeed.Author = &feeds.Author{Name: author.Name, Email: author.Email}
 	}
 
+	wg := sync.WaitGroup{}
+	wg.Add(translator.MaxPost)
 	// limit translate post items
 	for i := 0; i < translator.MaxPost; i++ {
-		newfeed.Add(&feeds.Item{
-			Title:       feed.Items[i].Title,
-			Link:        &feeds.Link{Href: feed.Items[i].Link},
-			Description: feed.Items[i].Description,
-			Created:     *feed.Items[i].PublishedParsed,
-			// Categories:  []string{item.Categories[0]},
-		})
+		go func(i int) {
+			newfeed.Add(&feeds.Item{
+				Title:       translator.DoTranslate(feed.Items[i].Title),
+				Link:        &feeds.Link{Href: feed.Items[i].Link},
+				Description: translator.DoTranslate(feed.Items[i].Description),
+				Created:     *feed.Items[i].PublishedParsed,
+				// Categories:  []string{item.Categories[0]},
+			})
+			wg.Done()
+		}(i)
 	}
+	wg.Wait()
 
 	// var rss string
 	// switch feed.FeedType {
@@ -79,7 +88,7 @@ func (translator *Translator) CreateNewFeedFile(rssContent, targetFile string) e
 	// if dir no exist, create it~
 	err := os.MkdirAll(dirPath, os.ModePerm)
 	if err != nil {
-		slog.Error(err.Error())
+		slog.Error("somthing wrong", "err", err)
 		panic(err)
 	}
 
@@ -91,10 +100,23 @@ func (translator *Translator) CreateNewFeedFile(rssContent, targetFile string) e
 	return nil
 }
 
-func (translator *Translator) DoTranslate() string {
+func (translator *Translator) DoTranslate(content string) string {
 	switch translator.TranslateEngine {
-	case "Google":
-		return ""
+	case "google":
+		var googleTranslator *gtranslator.Translator
+		if translator.HttpProxy != "" {
+			c := gtranslator.Config{
+				Proxy: translator.HttpProxy,
+			}
+			googleTranslator = gtranslator.New(c)
+		} else {
+			googleTranslator = gtranslator.New()
+		}
+		result, err := googleTranslator.Translate(content, "auto", "zh")
+		if err != nil {
+			slog.Error("use google translate err", "err", err)
+		}
+		return result.Text
 	case "OpenAI":
 		return ""
 	default:

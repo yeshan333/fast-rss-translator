@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS Architecture Blog</title>
+    <link>https://aws.amazon.com/blogs/architecture/feed/</link>
+    <description>Just another Amazon Web Services site</description>
+    <item>
+      <title>基因组学工作流程，第 7 部分：使用 AWS HealthOmics 分析公共 RNA 测序数据</title>
+      <link>https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/</link>
+      <description>基因组学工作流程在大型计算资源池上处理 PB 级数据集。在这篇博文中，我们讨论生命科学组织如何使用 Amazon Web Services (AWS) 使用公共数据集运行转录组测序数据分析。这使得用户能够针对更大的数据集快速测试研究假设，以支持临床诊断。我们使用 AWS [...]</description>
+      <pubDate>Wed, 05 Jun 2024 15:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>创建组织多区域故障转移策略</title>
+      <link>https://aws.amazon.com/blogs/architecture/creating-an-organizational-multi-region-failover-strategy/</link>
+      <description>AWS 区域提供故障隔离边界，可防止相关故障并遏制 AWS 服务损坏发生时对单个区域的影响。您可以使用这些故障边界构建多区域应用程序，这些应用程序由每个区域中独立的、故障隔离的副本组成，从而限制共享命运场景。这允许您构建多区域[...]</description>
+      <pubDate>Wed, 08 May 2024 18:50:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！了解 AWS 上的机器学习</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/</link>
+      <description>数据驱动的方法使企业能够根据准确的预测和预测做出明智的决策，从而提高运营效率和资源优化。机器学习 (ML) 系统具有持续学习和适应的卓越能力，随着接触更多数据，其性能会随着时间的推移而提高。这种自学能力确保组织能够[...]</description>
+      <pubDate>Thu, 30 May 2024 15:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>基因组学工作流程，第 6 部分：成本预测</title>
+      <link>https://aws.amazon.com/blogs/architecture/part-6-genomics-workflows-cost-prediction/</link>
+      <description>基因组学工作流程在大型计算资源池上运行，并采用 PB 级数据集作为输入。工作流程运行的成本可能高达数十万美元。鉴于规模如此之大，科学家们希望在决定启动基因组学工作流程之前估算其运行的预计成本。在本系列的第 6 部分中，[...]</description>
+      <pubDate>Wed, 24 Apr 2024 16:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>宣布更新 AWS 架构完善的框架指南</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-2/</link>
+      <description>我们很高兴地宣布推出增强型 AWS 架构完善的框架。在此更新中，您将找到涵盖该框架所有六个支柱的扩展指南：卓越运营、安全性、可靠性、性能效率、成本优化和可持续性。在此版本中，我们更新了新的和现有最佳实践的实施指南，使其更具规范性。这包括增强的建议和步骤[...]</description>
+      <pubDate>Thu, 27 Jun 2024 20:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>伦敦证券交易所集团在 AWS 上使用混沌工程来提高弹性</title>
+      <link>https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/</link>
+      <description>这篇文章是与伦敦证券交易所集团的交易后首席 DevOps 工程师 Luke Sudgen 和交易后解决方案架构师 Padraig Murphy 共同撰写的。在这篇文章中，我们将讨论伦敦证券交易所集团 (LSEG) 交易后技术团队在 AWS 支持的混沌工程活动中测试的一些故障场景。混沌工程[…]</description>
+      <pubDate>Mon, 01 Apr 2024 20:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 AWS 上的智能搜索机器人大规模简化文档搜索</title>
+      <link>https://aws.amazon.com/blogs/architecture/simplify-document-search-at-scale-with-intelligent-search-bot-on-aws/</link>
+      <description>企业文档管理系统 (EDMS) 管理文档的生命周期和分发。他们通常依赖基于关键字的搜索功能。然而，随着此类存储库增长到数以万计的项目，发现文档变得越来越困难。在本博客中，我们讨论 Amazon Web Services (AWS) 如何在 [...] 之上构建智能搜索机器人</description>
+      <pubDate>Thu, 21 Mar 2024 16:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>在 AWS 上弹性高效地部署 Stable Diffusion ComfyUI</title>
+      <link>https://aws.amazon.com/blogs/architecture/deploy-stable-diffusion-comfyui-on-aws-elastically-and-efficiently/</link>
+      <description>简介 ComfyUI 是一个基于节点的开源工作流解决方案，用于稳定扩散。它具有以下优势： SDXL 模型推理的显着性能优化 高可定制性，允许用户精细控制 可轻松共享的便携式工作流程 开发人员友好 由于这些优势，ComfyUI 越来越多地被艺术创作者使用。在这篇文章中，我们将介绍[...]</description>
+      <pubDate>Thu, 16 May 2024 15:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！使用 AWS 迁移到云</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/</link>
+      <description>在当今的数字世界中，企业越来越多地转向云的可扩展性、敏捷性和成本效益。将数据中心迁移到云可能是一项艰巨的任务，但通过正确的方法和工具，这可能是一次成功的旅程。这让我们成为建筑师吧！博客文章将指导您完成迁移过程[...]</description>
+      <pubDate>Wed, 26 Jun 2024 23:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！在 AWS 上发现生成式 AI</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/</link>
+      <description>生成式人工智能（generative AI）是一种用于生成内容的人工智能，包括对话、图像、视频和音乐。生成式人工智能可以直接用于构建面向客户的功能（聊天机器人或图像生成器），也可以作为更复杂系统中的底层组件。例如，它可以生成嵌入[...]</description>
+      <pubDate>Wed, 24 Apr 2024 20:21:26 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

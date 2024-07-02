@@ -42,6 +42,7 @@ var rootCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		cfgFile, err := cmd.Flags().GetString("config")
 		if err != nil {
+			slog.Error("somthing wrong", "err", err)
 			panic(err)
 		}
 		slog.Info("get rss feeds from config file", "filepath", cfgFile)
@@ -52,7 +53,8 @@ var rootCmd = &cobra.Command{
 		for i := 0; i < len(globalConfig.Feeds); i++ {
 			go func(i int) {
 				trans := &translator.Translator{
-					Feed: globalConfig.Feeds[i],
+					Feed:      globalConfig.Feeds[i],
+					HttpProxy: globalConfig.HttpProxy,
 				}
 				trans.Execute(globalConfig.Base.OutputPath)
 				wg.Done()
@@ -74,10 +76,12 @@ func ReadConfig() {
 	viper.SetConfigType("yaml")
 	err := viper.ReadInConfig()
 	if err != nil {
+		slog.Error("somthing wrong", "err", err)
 		panic(fmt.Errorf("fatal error config file: %w", err))
 	}
 	err = viper.Unmarshal(&globalConfig)
 	if err != nil {
+		slog.Error("somthing wrong", "err", err)
 		panic(fmt.Errorf("fatal error config file: %w", err))
 	}
 }
