@@ -15,6 +15,7 @@ import (
 type Feed struct {
 	Name            string `mapstructure:"name"`
 	Url             string `mapstructure:"url"`
+	OriginLanguage  string `mapstructure:"origin_language"`
 	TargetLanguage  string `mapstructure:"target_language"`
 	TranslateMode   string `mapstructure:"translate_mode"`   // origin | bilingual, mix origin and target lang
 	TranslateEngine string `mapstructure:"translate_engine"` // google | openai
@@ -122,7 +123,12 @@ func (translator *Translator) DoTranslate(content string) string {
 		} else {
 			googleTranslator = gtranslator.New()
 		}
-		result, err := googleTranslator.Translate(content, "auto", translator.TargetLanguage)
+		srcLang := "auto"
+		if translator.OriginLanguage != "" {
+			srcLang = translator.OriginLanguage
+		}
+
+		result, err := googleTranslator.Translate(content, srcLang, translator.TargetLanguage)
 		if err != nil {
 			slog.Error("use google translate err", "err", err)
 			// return origin text

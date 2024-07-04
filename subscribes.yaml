@@ -1,16 +1,19 @@
 base:
   output_path: "./rss"
+  visit_base_url: "https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/"
 
 feeds:
-  - name: shansan.xml
-    url: "https://shan333.cn/rss2.xml"
-    target_language: "en"
-    translate_mode: "en"
+  - name: golangweekly.xml
+    url: "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
     translate_engine: "google"
     max_post: 1
 
-  - name: aws_eng.xml
+  - name: aws_architecture_blog.xml
     url: "https://aws.amazon.com/blogs/architecture/feed/"
+    origin_language: "en"
     target_language: "zh"
     translate_mode: "origin"
     translate_engine: "google"

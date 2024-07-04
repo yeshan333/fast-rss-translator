@@ -3,7 +3,8 @@ package config
 import "github.com/yeshan333/fast-rss-translator/internal/translator"
 
 type Base struct {
-	OutputPath string `mapstructure:"output_path"`
+	OutputPath    string `mapstructure:"output_path"`
+	VisitBasicUrl string `mapstructure:"visit_base_url"`
 }
 
 type Config struct {

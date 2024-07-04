@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	translator "github.com/Conight/go-googletrans"
-	"github.com/magiconair/properties/assert"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestGoogleTranslate(t *testing.T) {

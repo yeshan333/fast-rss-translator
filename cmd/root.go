@@ -29,22 +29,25 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"github.com/yeshan333/fast-rss-translator/cmd/commands"
 	"github.com/yeshan333/fast-rss-translator/internal/config"
+	"github.com/yeshan333/fast-rss-translator/internal/transformer"
 	"github.com/yeshan333/fast-rss-translator/internal/translator"
 )
 
 var cfgFile string // rss feed subcribes configuration file
 var globalConfig config.Config
+var updateFile string
 
 var rootCmd = &cobra.Command{
 	Use:   "fast-rss-translator",
 	Short: "A faster rss translator for rss feeds. translate any xml-format file",
 	Run: func(cmd *cobra.Command, args []string) {
-		cfgFile, err := cmd.Flags().GetString("config")
-		if err != nil {
-			slog.Error("somthing wrong", "err", err)
-			panic(err)
-		}
+		// cfgFile, err := cmd.Flags().GetString("config")
+		// if err != nil {
+		// 	slog.Error("somthing wrong", "err", err)
+		// 	panic(err)
+		// }
 		slog.Info("get rss feeds from config file", "filepath", cfgFile)
 		slog.Info("global subscribes config", "config", fmt.Sprintf("%+v", globalConfig))
 
@@ -61,6 +64,12 @@ var rootCmd = &cobra.Command{
 			}(i)
 		}
 		wg.Wait()
+
+		transformer.DoTransform(
+			updateFile,
+			globalConfig.Base.VisitBasicUrl,
+			globalConfig.Feeds,
+		)
 	},
 }
 
@@ -87,7 +96,9 @@ func ReadConfig() {
 }
 
 func init() {
+	rootCmd.AddCommand(commands.UpdateCmd)
 	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "subscribes.yaml", "config file (default is $(pwd)/.subscribes.yaml)")
+	rootCmd.Flags().StringVarP(&updateFile, "update-file", "f", "README.md", "update file path (default is $(pwd)/README.md)")
 	ReadConfig()
-	// rootCmd.MarkFlagRequired("config")
+	rootCmd.MarkFlagRequired("update-file")
 }
