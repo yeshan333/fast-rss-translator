@@ -4,16 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Introducing Online Migration Capability for vCore-based Azure Cosmos DB for MongoDB  in Azure Data Studio】在 Azure Data Studio 中引入基于 vCore 的 Azure Cosmos DB for MongoDB 的在线迁移功能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/introducing-online-migration-capability-for-vcore-based-azure-cosmos-db-for-mongodb-in-azure-data-studio</link>
-      <description>【We’re thrilled to announce a significant enhancement to the Azure Cosmos DB Migration for MongoDB extension! Now, you can seamlessly migrate your MongoDB workloads to vCore-based Azure Cosmos DB for MongoDB with the added convenience of online migration capability. Let’s dive into the details.】我们很高兴地宣布 Azure Cosmos DB Migration for MongoDB 扩展有了重大增强！现在，你可以将 MongoDB 工作负载无缝迁移到基于 vCore 的 Azure Cosmos DB for MongoDB，并享受在线迁移功能带来的便利。让我们深入了解细节。</description>
-      <pubDate>Wed, 03 Jul 2024 14:00:50 +0000</pubDate>
-    </item>
-    <item>
       <title>【How do I produce a Windows Runtime asynchronous activity from C++/WinRT?】如何从 C++/WinRT 生成 Windows 运行时异步活动？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240705-00/?p=109957</link>
       <description>【Somebody that deals with them natively.】与他们打交道的人。</description>
       <pubDate>Fri, 05 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Instant GraphQL APIs with Hasura Data Connector for Azure Cosmos DB for NoSQL】宣布推出适用于 Azure Cosmos DB for NoSQL 的 Hasura Data Connector 的 Instant GraphQL API</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-instant-graphql-apis-with-hasuras-data-connector-for-azure-cosmos-db-nosql</link>
+      <description>【We’re excited to partner with Hasura to launch a new Hasura native data connector that generates instant GraphQL APIs on Azure Cosmos DB for NoSQL.  Hasura DDN makes data access easy by enabling backend teams to effortlessly deliver a unified API on all your data.】我们很高兴与 Hasura 合作推出新的 Hasura 本机数据连接器，该连接器可在适用于 NoSQL 的 Azure Cosmos DB 上生成即时 GraphQL API。  Hasura DDN 使后端团队能够轻松地为所有数据提供统一的 API，从而简化数据访问。</description>
+      <pubDate>Wed, 03 Jul 2024 16:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How do I produce a Windows Runtime asynchronous activity from C#?】如何从 C# 生成 Windows 运行时异步活动？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240704-00/?p=109955</link>
+      <description>【The AsyncInfo helper class converts Tasks to Windows Runtime asynchronous activities.】AsyncInfo 帮助程序类将任务转换为 Windows 运行时异步活动。</description>
+      <pubDate>Thu, 04 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Customer Case Study: preezie’s AI Journey with Microsoft Semantic Kernel】客户案例研究：preezie 使用 Microsoft Semantic Kernel 的 AI 之旅</title>
@@ -22,10 +28,28 @@
       <pubDate>Thu, 04 Jul 2024 00:00:58 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I produce a Windows Runtime asynchronous activity from C#?】如何从 C# 生成 Windows 运行时异步活动？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240704-00/?p=109955</link>
-      <description>【The AsyncInfo helper class converts Tasks to Windows Runtime asynchronous activities.】AsyncInfo 帮助程序类将任务转换为 Windows 运行时异步活动。</description>
-      <pubDate>Thu, 04 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【How do I produce a Windows Runtime asynchronous activity from C++/CX?】如何从 C++/CX 生成 Windows 运行时异步活动？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240703-00/?p=109953</link>
+      <description>【The Parallel Patterns Library has special support for C++/CX.】并行模式库对 C++/CX 有特殊支持。</description>
+      <pubDate>Wed, 03 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure IoT Operations Data Processor Pipelines: Unlocking Efficiency in the Industrial Metaverse】Azure IoT 操作数据处理器管道：释放工业元宇宙的效率</title>
+      <link>https://devblogs.microsoft.com/ise/aio-data-processor-pipelines-unlocking-efficiency-industrial-metaverse</link>
+      <description>【In this post we explore the implementation of Azure IoT Operations Data Processor pipelines in a manufacturing context, focusing on data processing at the edge.】在这篇文章中，我们探讨了 Azure IoT 操作数据处理器管道在制造环境中的实施，重点关注边缘的数据处理。</description>
+      <pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Online Migration Capability for vCore-based Azure Cosmos DB for MongoDB  in Azure Data Studio】在 Azure Data Studio 中引入基于 vCore 的 Azure Cosmos DB for MongoDB 的在线迁移功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-online-migration-capability-for-vcore-based-azure-cosmos-db-for-mongodb-in-azure-data-studio</link>
+      <description>【We’re thrilled to announce a significant enhancement to the Azure Cosmos DB Migration for MongoDB extension! Now, you can seamlessly migrate your MongoDB workloads to vCore-based Azure Cosmos DB for MongoDB with the added convenience of online migration capability. Let’s dive into the details.】我们很高兴地宣布 Azure Cosmos DB Migration for MongoDB 扩展有了重大增强！现在，你可以将 MongoDB 工作负载无缝迁移到基于 vCore 的 Azure Cosmos DB for MongoDB，并享受在线迁移功能带来的便利。让我们深入了解细节。</description>
+      <pubDate>Wed, 03 Jul 2024 14:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Retirement of Office 365 connectors within Microsoft Teams】Microsoft Teams 中的 Office 365 连接器停用</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams</link>
+      <description>【Starting August 15, 2024 we will be retiring the Office 365 connectors feature from Microsoft Teams and recommend Power Automate workflows as the solution to relay information into and out of Teams in a scalable, flexible, and secure way.】从 2024 年 8 月 15 日开始，我们将从 Microsoft Teams 中停用 Office 365 连接器功能，并推荐 Power Automate 工作流作为以可扩展、灵活且安全的方式将信息传入和传出 Teams 的解决方案。</description>
+      <pubDate>Wed, 03 Jul 2024 15:00:17 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.22.5-1 and 1.21.12-1 Microsoft builds now available】Go 1.22.5-1 和 1.21.12-1 Microsoft 版本现已推出</title>
@@ -36,32 +60,8 @@
     <item>
       <title>【Copilot Studio – Prompt Response Times】Copilot Studio – 快速响应时间</title>
       <link>https://devblogs.microsoft.com/premier-developer/copilot-studio-prompt-response-times</link>
-      <description>【Tahir Naveed walks through how to measure prompt response times with Microsoft Copilot Studio and explores considerations that factor into the overall performance of these requests. Building custom copilots (GenAI chatbots) in Microsoft Copilot Studio is amazing. Especially with the new functionalities which were released in Microsoft Build 2024.】Tahir Naveed 介绍了如何使用 Microsoft Copilot Studio 测量即时响应时间，并探讨了影响这些请求整体性能的注意事项。在 Microsoft Copilot Studio 中构建自定义副驾驶（GenAI 聊天机器人）是令人惊叹的。尤其是 Microsoft Build 2024 中发布的新功能。</description>
+      <description>【Tahir Naveed walks through how to measure prompt response times with Microsoft Copilot Studio and explores considerations that factor into the overall performance of these requests. Building custom copilots (GenAI chatbots) in Microsoft Copilot Studio is amazing. Especially with the new functionalities which were released in Microsoft Build 2024.】Tahir Naveed 介绍了如何使用 Microsoft Copilot Studio 衡量即时响应时间，并探讨了影响这些请求整体性能的注意事项。在 Microsoft Copilot Studio 中构建自定义副驾驶（GenAI 聊天机器人）是令人惊叹的。尤其是 Microsoft Build 2024 中发布的新功能。</description>
       <pubDate>Fri, 05 Jul 2024 07:43:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How do I produce a Windows Runtime asynchronous activity from C++/CX?】如何从 C++/CX 生成 Windows 运行时异步活动？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240703-00/?p=109953</link>
-      <description>【The Parallel Patterns Library has special support for C++/CX.】并行模式库对 C++/CX 有特殊支持。</description>
-      <pubDate>Wed, 03 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Instant GraphQL APIs with Hasura Data Connector for Azure Cosmos DB for NoSQL】宣布推出适用于 Azure Cosmos DB for NoSQL 的 Hasura Data Connector 的 Instant GraphQL API</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-instant-graphql-apis-with-hasuras-data-connector-for-azure-cosmos-db-nosql</link>
-      <description>【We’re excited to partner with Hasura to launch a new Hasura native data connector that generates instant GraphQL APIs on Azure Cosmos DB for NoSQL.  Hasura DDN makes data access easy by enabling backend teams to effortlessly deliver a unified API on all your data.】我们很高兴与 Hasura 合作推出新的 Hasura 本机数据连接器，该连接器可在适用于 NoSQL 的 Azure Cosmos DB 上生成即时 GraphQL API。  Hasura DDN 使后端团队能够轻松地为所有数据提供统一的 API，从而简化数据访问。</description>
-      <pubDate>Wed, 03 Jul 2024 16:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Retirement of Office 365 connectors within Microsoft Teams】Microsoft Teams 中的 Office 365 连接器停用</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams</link>
-      <description>【Starting August 15, 2024 we will be retiring the Office 365 connectors feature from Microsoft Teams and recommend Power Automate workflows as the solution to relay information into and out of Teams in a scalable, flexible, and secure way.】从 2024 年 8 月 15 日开始，我们将从 Microsoft Teams 中停用 Office 365 连接器功能，并推荐 Power Automate 工作流作为以可扩展、灵活且安全的方式将信息传入和传出 Teams 的解决方案。</description>
-      <pubDate>Wed, 03 Jul 2024 15:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure IoT Operations Data Processor Pipelines: Unlocking Efficiency in the Industrial Metaverse】Azure IoT 操作数据处理器管道：释放工业元宇宙的效率</title>
-      <link>https://devblogs.microsoft.com/ise/aio-data-processor-pipelines-unlocking-efficiency-industrial-metaverse</link>
-      <description>【In this post we explore the implementation of Azure IoT Operations Data Processor pipelines in a manufacturing context, focusing on data processing at the edge.】在这篇文章中，我们探讨了 Azure IoT 操作数据处理器管道在制造环境中的实施，重点关注边缘的数据处理。</description>
-      <pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
