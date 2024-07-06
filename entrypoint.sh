@@ -8,6 +8,18 @@ while [ $# -gt 0 ]; do
     --update_file=*)
       update_file="${1#*=}"
       ;;
+    --username=*)
+      username="${1#*=}"
+      ;;
+    --push=*)
+      push="${1#*=}"
+      ;;
+    --org=*)
+      org="${1#*=}"
+      ;;
+    --repo=*)
+      repo="${1#*=}"
+      ;;
     *)
       printf "***************************\n"
       printf "* Error: Invalid argument.*\n"
@@ -17,13 +29,24 @@ while [ $# -gt 0 ]; do
   shift
 done
 
-fast-rss-translator --update-file "$update_file" > "$output"
+fast-rss-translator --update-file "$update_file" > running.log
 
 if [ $? -eq 0 ]
 then
-  cat "$output"
+  cat running.log
 else
   echo "Generate $output failed"
-  cat "$output"
+  cat running.log
   exit 1
+fi
+
+if [ "$push" = "true" ]
+then
+  git config --local user.email "${username}@users.noreply.github.com"
+  git config --local user.name "${username}"
+  git status -s
+  git add .
+
+  git commit -m "Auto commit by bot, ci skip"
+  git push https://${username}:${GITHUB_TOKEN}@github.com/${org}/${repo}.git
 fi

@@ -5,8 +5,25 @@ inputs:
     description: 'update rss urls file path'
     required: true
     default: 'README.md'
+  push:
+    description: 'Indicate if you want to push the changes automatically to github repository'
+    default: 'true'
+    required: true
+  username:
+    description: 'The username of the git repository'
+    required: true
+  org:
+    description: 'The org of the current repo'
+    required: true
+  repo:
+    description: 'The repo name'
+    required: true
 runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
     - --update_file=${{ inputs.update_file }}
+    - --username=${{ inputs.username }}
+    - --org=${{ inputs.org }}
+    - --repo=${{ inputs.repo }}
+    
