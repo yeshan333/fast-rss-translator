@@ -32,8 +32,6 @@ while [ $# -gt 0 ]; do
   shift
 done
 
-ls -al /usr/bin/ >> running.log
-
 /bin/fast-rss-translator --update-file "$update_file" >> running.log
 
 if [ $? -eq 0 ]
@@ -47,6 +45,7 @@ fi
 
 if [ "$push" = "true" ]
 then
+  git config --global --add safe.directory /github/workspace
   git config --local user.email "${username}@users.noreply.github.com"
   git config --local user.name "${username}"
   git status -s
