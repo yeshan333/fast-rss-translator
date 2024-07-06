@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>System Design Newsletter</title>
+    <link>https://newsletter.systemdesign.one/feed</link>
+    <description>A weekly newsletter to help you pass system design interview and become good at work</description>
+    <managingEditor>systemdesignone@substack.com</managingEditor>
+    <item>
+      <title>【How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern 🎮】Halo 如何使用 Saga 设计模式扩展到 1160 万用户 🎮</title>
+      <link>https://newsletter.systemdesign.one/p/saga-design-pattern</link>
+      <description>【#51: Break Into Saga Design Pattern (4 Minutes)】#51：闯入 Saga 设计模式（4 分钟）</description>
+      <pubDate>Thu, 04 Jul 2024 12:54:58 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

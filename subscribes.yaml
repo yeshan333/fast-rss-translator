@@ -1,8 +1,161 @@
 base:
   output_path: "./rss"
   visit_base_url: "https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/"
+  translate_engine: "google"
 
 feeds:
+  - name: softwaretestingweekly.xml
+    url: "https://softwaretestingweekly.com/issues.rss"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: thinkingelixir.xml
+    url: "https://podcast.thinkingelixir.com/rss"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: netflixtechblog.xml
+    url: "https://netflixtechblog.com/feed"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: dzone.xml
+    url: "https://feeds.dzone.com/home"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: microsoft_devblogs.xml
+    url: "https://devblogs.microsoft.com/landingpage/"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: cncf_blog.xml
+    url: "https://rsshub.rssforever.com/cncf"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: uber_blog.xml
+    url: "https://rsshub.rssforever.com/uber/blog"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: grafana_blog.xml
+    url: "https://grafana.com/blog/index.xml"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: ebpf_blog.xml
+    url: "https://ebpf.io/blog/rss.xml"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: pythoncat.xml
+    url: "https://pythoncat.top/rss.xml"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: systemdesign.xml
+    url: "https://newsletter.systemdesign.one/feed"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: bytebytego.xml
+    url: "https://blog.bytebytego.com/feed"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: sreweekly.xml
+    url: "https://sreweekly.com/feed/"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: cloudflare.xml
+    url: "https://blog.cloudflare.com/rss"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: javascriptweekly.xml
+    url: "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: pycoders.xml
+    url: "https://pycoders.com/feed/jDwcOsNM"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: thisweekinreact.xml
+    url: "https://thisweekinreact.com/newsletter/rss.xml"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: elixirstatus.xml
+    url: "https://elixirstatus.com/rss"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
+  - name: sspai_daily.xml
+    url: "https://rsshub.rssforever.com/sspai/author/ee0vj778"
+    origin_language: "auto"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    translate_engine: "google"
+    max_post: 1
+
   - name: golangweekly.xml
     url: "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
     origin_language: "auto"
@@ -16,7 +169,6 @@ feeds:
     origin_language: "en"
     target_language: "zh"
     translate_mode: "origin"
-    translate_engine: "google"
     max_post: 1
 
 http_proxy: "http://127.0.0.1:7890"

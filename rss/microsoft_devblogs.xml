@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microsoft Developer Blogs</title>
+    <link>https://devblogs.microsoft.com/landingpage/</link>
+    <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
+    <item>
+      <title>【How do I produce a Windows Runtime asynchronous activity from C++/WinRT?】如何从 C++/WinRT 生成 Windows 运行时异步活动？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240705-00/?p=109957</link>
+      <description>【Somebody that deals with them natively.】与他们打交道的人。</description>
+      <pubDate>Fri, 05 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

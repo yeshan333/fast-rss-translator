@@ -1,0 +1,34 @@
+name: translate_timer
+
+on:
+  schedule: # 3:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '^1.22.4'
+
+      - name: Do translate
+        run: |
+          go run main.go --update-file README.md
+
+      - name: Push translated rss
+        env:
+          username: yeshan333
+          org: yeshan333
+          repo: "fast-rss-translator"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --local user.email "${username}@users.noreply.github.com"
+          git config --local user.name "${username}"
+          git add .
+
+          git commit -m "Auto commit by bot, ci skip"
+          git push https://${username}:${GH_TOKEN}@github.com/${org}/${repo}.git

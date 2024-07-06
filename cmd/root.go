@@ -54,7 +54,13 @@ var rootCmd = &cobra.Command{
 		wg := sync.WaitGroup{}
 		wg.Add(len(globalConfig.Feeds))
 		for i := 0; i < len(globalConfig.Feeds); i++ {
+			// default translate engine
+			translate_engine := globalConfig.Base.TranslateEngine
+
 			go func(i int) {
+				if globalConfig.Feeds[i].TranslateEngine == "" {
+					globalConfig.Feeds[i].TranslateEngine = translate_engine
+				}
 				trans := &translator.Translator{
 					Feed:      globalConfig.Feeds[i],
 					HttpProxy: globalConfig.HttpProxy,
@@ -97,7 +103,7 @@ func ReadConfig() {
 
 func init() {
 	rootCmd.AddCommand(commands.UpdateCmd)
-	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "subscribes.yaml", "config file (default is $(pwd)/.subscribes.yaml)")
+	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "subscribes.yaml", "config file (default is $(pwd)/subscribes.yaml)")
 	rootCmd.Flags().StringVarP(&updateFile, "update-file", "f", "README.md", "update file path (default is $(pwd)/README.md)")
 	ReadConfig()
 	rootCmd.MarkFlagRequired("update-file")

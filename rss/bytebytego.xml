@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ByteByteGo Newsletter</title>
+    <link>https://blog.bytebytego.com/feed</link>
+    <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 500,000 friendly readers.</description>
+    <managingEditor>alex@bytebytego.com</managingEditor>
+    <item>
+      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
+      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
+      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

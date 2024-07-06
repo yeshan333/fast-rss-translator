@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DZone.com Feed</title>
+    <link>https://feeds.dzone.com/home</link>
+    <description>Recent posts on DZone.com</description>
+    <item>
+      <title>【Contexts in Go: A Comprehensive Guide】Go 中的上下文：综合指南</title>
+      <link>https://dzone.com/articles/contexts-in-go-a-comprehensive-guide</link>
+      <description>【&lt;p&gt;&lt;a href=&#34;https://pkg.go.dev/context&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;Contexts&lt;/a&gt; in &lt;a href=&#34;https://dzone.com/articles/golang-tutorial-learn-golang-by-examples&#34;&gt;Go&lt;/a&gt; provide a standard way to pass metadata and control signals between goroutines. They are mainly used to manage task execution time, data passing, and operation cancellation. This article covers different types of contexts in Go and examples of how to use them.&lt;/p&gt;&#xA;&lt;h2&gt;Introduction to Contexts&lt;/h2&gt;&#xA;&lt;p&gt;Contexts in Go are represented by the &lt;a href=&#34;https://pkg.go.dev/context#Context&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;context.Context&lt;/code&gt;&lt;/a&gt; interface, which includes methods for getting &lt;code&gt;deadlines&lt;/code&gt;, &lt;code&gt;cancellation&lt;/code&gt;, &lt;code&gt;values&lt;/code&gt;, and &lt;code&gt;done&lt;/code&gt; channels. The primary package for working with contexts is &lt;code&gt;context&lt;/code&gt;.&lt;/p&gt;】&lt;p&gt;&lt;a href=&#34;https://pkg.go.dev/context&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;上下文&lt;/a&gt;位于&lt;a href=&#34;https://dzone.com /articles/golang-tutorial-learn-golang-by-examples&#34;&gt;Go&lt;/a&gt; 提供了一种在 goroutine 之间传递元数据和控制信号的标准方法。它们主要用于管理任务执行时间、数据传递和操作取消。本文介绍了 Go 中不同类型的上下文以及如何使用它们的示例。&lt;/p&gt;&#xA;&lt;h2&gt;上下文简介&lt;/h2&gt;&#xA;&lt;p&gt;Go 中的上下文由 &lt;a href=&#34;https://pkg.go.dev/context#Context&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;context.Context&lt;/code 表示&gt;&lt;/a&gt; 接口，其中包括获取&lt;code&gt;截止日期&lt;/code&gt;、&lt;code&gt;取消&lt;/code&gt;、&lt;code&gt;值&lt;/code&gt;和&lt;code&gt;完成&lt;/code&gt;渠道的方法。用于处理上下文的主要包是 &lt;code&gt;context&lt;/code&gt;。&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Jul 2024 21:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

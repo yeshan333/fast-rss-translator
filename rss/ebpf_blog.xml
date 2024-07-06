@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>eBPF - The latest news, updates and articles covering eBPF and related topics.</title>
+    <link></link>
+    <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
+    <item>
+      <title>【Hello eBPF: BPF Type Format and 13 Thousand Generated Java Classes (11)】Hello eBPF：BPF 类型格式和 13000 个生成的 Java 类（11）</title>
+      <link>https://mostlynerdless.de/blog/2024/07/02/hello-ebpf-bpf-type-format-and-13-thousand-generated-java-classes-11/</link>
+      <description>【The eleventh installment of the Hello eBPF series. In this part, you’ll learn about the BPF Type Format (BTF) and how and why we generate Java code from it】Hello eBPF 系列的第十一部分。在这一部分中，您将了解 BPF 类型格式 (BTF) 以及我们如何以及为何从中生成 Java 代码</description>
+      <pubDate>Tue, 02 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
