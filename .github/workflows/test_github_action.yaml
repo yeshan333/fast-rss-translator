@@ -21,7 +21,7 @@ jobs:
         id: fast-rss-translator-action
         with:
           config_file: 'subscribes.yaml'
-          update_file: 'README.md'
+          update_file: 'TEST_README.md'
           push: true
           username: "github-actions[bot]"
           org: "yeshan333"
