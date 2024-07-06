@@ -2,8 +2,8 @@
 
 while [ $# -gt 0 ]; do
   case "$1" in
-    --pattern=*)
-      pattern="${1#*=}"
+    --config_file=*)
+      config_file="${1#*=}"
       ;;
     --update_file=*)
       update_file="${1#*=}"
@@ -32,7 +32,7 @@ while [ $# -gt 0 ]; do
   shift
 done
 
-/bin/fast-rss-translator --update-file "$update_file" >> running.log
+/bin/fast-rss-translator --config "$config_file" --update-file "$update_file" >> running.log
 
 if [ $? -eq 0 ]
 then

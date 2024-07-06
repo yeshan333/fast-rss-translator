@@ -1,6 +1,10 @@
 name: 'fast-rss-translator'
 description: 'fast-rss-translator'
 inputs:
+  config_file:
+    description: 'rss configuration file'
+    required: true
+    default: 'subscribes.yaml'
   update_file:
     description: 'update rss urls file path'
     required: true
@@ -25,6 +29,7 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
+    - --config_file=${{ inputs.config_file }}
     - --update_file=${{ inputs.update_file }}
     - --username=${{ inputs.username }}
     - --push=${{ inputs.push }}

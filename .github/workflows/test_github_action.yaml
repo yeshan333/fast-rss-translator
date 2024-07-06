@@ -1,8 +1,8 @@
 name: test_github_action
 
 on:
-  schedule: # 3:00 UTC
-    - cron: "0 3 * * *"
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -20,6 +20,7 @@ jobs:
         uses: ./
         id: fast-rss-translator-action
         with:
+          config_file: 'subscribes.yaml'
           update_file: 'README.md'
           push: true
           username: "github-actions[bot]"
