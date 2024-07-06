@@ -31,7 +31,12 @@ func (translator *Translator) Execute(outputDir string) {
 	var newfeed *feeds.Feed
 
 	fp := gofeed.NewParser()
-	feed, _ := fp.ParseURL(translator.Url)
+	feed, err := fp.ParseURL(translator.Url)
+
+	if err != nil {
+		slog.Error("parse feed raise exception", "err", err)
+		return
+	}
 
 	newfeed = &feeds.Feed{
 		Title:       feed.Title,
