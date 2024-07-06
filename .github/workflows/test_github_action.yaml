@@ -1,0 +1,33 @@
+name: test_github_action
+
+on:
+  schedule: # 3:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  test_fast_rss_translator_action:
+    runs-on: ubuntu-latest
+    name: test fast-rss-translator action
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: fast-rss-translator
+        uses: ./
+        id: fast-rss-translator-action
+        with:
+          update_file: 'README.md'
+
+      - name: Push translated rss
+        run: |
+            pwd
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"github-actions[bot]
+            if [[ -n $(git status -s) ]]; then
+                git add .
+                git commit -m "update feed files by ci"
+                git push https://github-actions[bot]:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            else
+                echo "never updated."
+            fi
