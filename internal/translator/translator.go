@@ -34,7 +34,7 @@ func (translator *Translator) Execute(outputDir string) {
 	feed, err := fp.ParseURL(translator.Url)
 
 	if err != nil {
-		slog.Error("parse feed raise exception", "err", err)
+		slog.Error("parse feed raise exception", "err", err, "feedUrl", translator.Url)
 		return
 	}
 
