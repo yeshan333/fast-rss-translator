@@ -5,6 +5,9 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   do_rss_tranaslte:
     runs-on: ubuntu-20.04
@@ -20,12 +23,14 @@ jobs:
           go run main.go --update-file README.md
 
       - name: Push translated rss
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-
-          git commit -m "Auto commit by bot, ci skip"
-          git push
+          pwd
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"github-actions[bot]
+          if [[ -n $(git status -s) ]]; then
+            git add .
+            git commit -m "chore(versions.txt): update Erlang/OTP version file"
+            git push https://github-actions[bot]:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          else
+            echo "never updated."
+          fi
