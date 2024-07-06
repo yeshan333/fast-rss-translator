@@ -3,7 +3,7 @@ FROM golang:1.22.4 as builder
 WORKDIR /workspace
 COPY . .
 RUN go mod download
-RUN CGO_ENABLE=0 go build -ldflags "-w -s" -o fast-rss-translator
+RUN go build -o fast-rss-translator
 
 FROM alpine:3.20
 

@@ -32,7 +32,9 @@ while [ $# -gt 0 ]; do
   shift
 done
 
-/usr/bin/fast-rss-translator --update-file "$update_file" > running.log
+ls -al /usr/bin/ >> running.log
+
+/usr/bin/fast-rss-translator --update-file "$update_file" >> running.log
 
 if [ $? -eq 0 ]
 then
