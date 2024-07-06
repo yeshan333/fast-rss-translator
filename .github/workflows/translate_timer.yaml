@@ -29,7 +29,7 @@ jobs:
           git config --local user.name "github-actions[bot]"github-actions[bot]
           if [[ -n $(git status -s) ]]; then
             git add .
-            git commit -m "chore(versions.txt): update Erlang/OTP version file"
+            git commit -m "update feed files by ci"
             git push https://github-actions[bot]:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           else
             echo "never updated."

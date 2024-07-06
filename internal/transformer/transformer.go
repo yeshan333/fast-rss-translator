@@ -116,7 +116,7 @@ func DoTransform(modifyFilePath, visitBaseUrl string, feeds []translator.Feed) {
 	visitInfo := ""
 
 	for _, feed := range feeds {
-		visitInfo = fmt.Sprintf("%s\n[%s](%s) -> [%s%s](%s%s)\n", visitInfo, feed.Url, feed.Url, visitBaseUrl, feed.Name, visitBaseUrl, feed.Name)
+		visitInfo = fmt.Sprintf("%s\n- [%s](%s) -> [%s%s](%s%s)\n", visitInfo, feed.Url, feed.Url, visitBaseUrl, feed.Name, visitBaseUrl, feed.Name)
 	}
 
 	ModifyStartLine, ModifyEndLine := GetModifyRange(modifyFilePath)

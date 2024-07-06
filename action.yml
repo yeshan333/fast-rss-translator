@@ -1,0 +1,12 @@
+name: 'fast-rss-translator'
+description: 'fast-rss-translator'
+inputs:
+  update_file:
+    description: 'update rss urls file path'
+    required: true
+    default: 'README.md'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - --update_file=${{ inputs.update_file }}
