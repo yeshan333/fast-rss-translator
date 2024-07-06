@@ -24,5 +24,6 @@ ENV LANGUAGE en_US.UTF-8
 
 COPY entrypoint.sh /entrypoint.sh
 COPY --from=builder /workspace/fast-rss-translator /usr/bin/fast-rss-translator
+RUN chmod +x /entrypoint.sh /usr/bin/fast-rss-translator
 
 ENTRYPOINT ["/entrypoint.sh"]
