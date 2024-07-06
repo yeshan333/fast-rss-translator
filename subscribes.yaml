@@ -3,6 +3,8 @@ base:
   visit_base_url: "https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/"
   translate_engine: "google"
 
+# http_proxy: "http://127.0.0.1:7890"
+
 feeds:
   - name: softwaretestingweekly.xml
     url: "https://softwaretestingweekly.com/issues.rss"
@@ -170,5 +172,3 @@ feeds:
     target_language: "zh"
     translate_mode: "origin"
     max_post: 1
-
-http_proxy: "http://127.0.0.1:7890"
