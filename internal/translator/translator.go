@@ -51,10 +51,15 @@ func (translator *Translator) Execute(outputDir string) {
 		newfeed.Author = &feeds.Author{Name: author.Name, Email: author.Email}
 	}
 
+	max := len(feed.Items)
+	if translator.MaxPost < max {
+		max = translator.MaxPost
+	}
+
 	wg := sync.WaitGroup{}
-	wg.Add(translator.MaxPost)
+	wg.Add(max)
 	// limit translate post items
-	for i := 0; i < translator.MaxPost; i++ {
+	for i := 0; i < max; i++ {
 		go func(i int) {
 			var transTitle string
 			var transDesc string
