@@ -45,6 +45,7 @@ fi
 
 if [ "$push" = "true" ]
 then
+  rm -f running.log
   git config --global --add safe.directory /github/workspace
   git config --local user.email "${username}@users.noreply.github.com"
   git config --local user.name "${username}"
