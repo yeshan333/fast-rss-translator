@@ -18,12 +18,16 @@ inputs:
   repo:
     description: 'The repo name'
     required: true
+  token:
+    description: 'github token, has repo contents write permission'
+    required: true
 runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
     - --update_file=${{ inputs.update_file }}
     - --username=${{ inputs.username }}
+    - --push=${{ inputs.push }}
     - --org=${{ inputs.org }}
     - --repo=${{ inputs.repo }}
-    
+    - --token=${{ inputs.token }}

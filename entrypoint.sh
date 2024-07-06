@@ -20,6 +20,9 @@ while [ $# -gt 0 ]; do
     --repo=*)
       repo="${1#*=}"
       ;;
+    --token=*)
+      token="${1#*=}"
+      ;;
     *)
       printf "***************************\n"
       printf "* Error: Invalid argument.*\n"
@@ -29,13 +32,13 @@ while [ $# -gt 0 ]; do
   shift
 done
 
-fast-rss-translator --update-file "$update_file" > running.log
+/usr/bin/fast-rss-translator --update-file "$update_file" > running.log
 
 if [ $? -eq 0 ]
 then
   cat running.log
 else
-  echo "Generate $output failed"
+  echo "Update rss feed files failed"
   cat running.log
   exit 1
 fi
@@ -48,5 +51,5 @@ then
   git add .
 
   git commit -m "Auto commit by bot, ci skip"
-  git push https://${username}:${GITHUB_TOKEN}@github.com/${org}/${repo}.git
+  git push https://${username}:${token}@github.com/${org}/${repo}.git
 fi

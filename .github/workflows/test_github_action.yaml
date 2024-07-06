@@ -22,5 +22,4 @@ jobs:
           username: "github-actions[bot]"
           org: "yeshan333"
           repo: "fast-rss-translator"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
