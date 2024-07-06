@@ -45,7 +45,7 @@ jobs:
 
 **config_file**: a file path. for reading origin feed url and translate it. example: [subscribes.yaml](./subscribes.yaml)
 
-Make sure **update_file** has content section as follow:
+Make sure **update_file** has content section as follow, example: [TEST_README.md](./TEST_README.md):
 
 ```text
 <!-- fast-rss-translator: start -->
