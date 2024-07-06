@@ -34,7 +34,7 @@ done
 
 ls -al /usr/bin/ >> running.log
 
-/usr/bin/fast-rss-translator --update-file "$update_file" >> running.log
+/bin/fast-rss-translator --update-file "$update_file" >> running.log
 
 if [ $? -eq 0 ]
 then

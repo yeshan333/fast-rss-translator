@@ -22,8 +22,15 @@ ENV LC_ALL C.UTF-8
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
 
-COPY --from=builder /workspace/fast-rss-translator /usr/bin/fast-rss-translator
+RUN apk add --no-cache \
+        git \
+        openssh-client \
+        libc6-compat \
+        libstdc++ \
+        curl
+
+COPY --from=builder /workspace/fast-rss-translator /bin/fast-rss-translator
 COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh && chmod +x /usr/bin/fast-rss-translator
+RUN chmod +x /entrypoint.sh && chmod +x /bin/fast-rss-translator
 
 ENTRYPOINT ["/entrypoint.sh"]
