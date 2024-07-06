@@ -12,7 +12,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: thinkingelixir.xml
     url: "https://podcast.thinkingelixir.com/rss"
@@ -20,7 +20,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: netflixtechblog.xml
     url: "https://netflixtechblog.com/feed"
@@ -28,7 +28,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: dzone.xml
     url: "https://feeds.dzone.com/home"
@@ -36,7 +36,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: microsoft_devblogs.xml
     url: "https://devblogs.microsoft.com/landingpage/"
@@ -44,7 +44,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: cncf_blog.xml
     url: "https://rsshub.rssforever.com/cncf"
@@ -52,7 +52,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: uber_blog.xml
     url: "https://rsshub.rssforever.com/uber/blog"
@@ -60,7 +60,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: grafana_blog.xml
     url: "https://grafana.com/blog/index.xml"
@@ -68,7 +68,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: ebpf_blog.xml
     url: "https://ebpf.io/blog/rss.xml"
@@ -76,7 +76,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: pythoncat.xml
     url: "https://pythoncat.top/rss.xml"
@@ -84,7 +84,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: systemdesign.xml
     url: "https://newsletter.systemdesign.one/feed"
@@ -92,7 +92,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: bytebytego.xml
     url: "https://blog.bytebytego.com/feed"
@@ -100,7 +100,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: sreweekly.xml
     url: "https://sreweekly.com/feed/"
@@ -108,7 +108,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: cloudflare.xml
     url: "https://blog.cloudflare.com/rss"
@@ -116,7 +116,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: javascriptweekly.xml
     url: "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
@@ -124,7 +124,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: pycoders.xml
     url: "https://pycoders.com/feed/jDwcOsNM"
@@ -132,7 +132,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: thisweekinreact.xml
     url: "https://thisweekinreact.com/newsletter/rss.xml"
@@ -140,7 +140,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: elixirstatus.xml
     url: "https://elixirstatus.com/rss"
@@ -148,7 +148,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: sspai_daily.xml
     url: "https://rsshub.rssforever.com/sspai/author/ee0vj778"
@@ -156,7 +156,7 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: golangweekly.xml
     url: "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
@@ -164,11 +164,11 @@ feeds:
     target_language: "zh"
     translate_mode: "bilingual"
     translate_engine: "google"
-    max_post: 1
+    max_post: 10
 
   - name: aws_architecture_blog.xml
     url: "https://aws.amazon.com/blogs/architecture/feed/"
     origin_language: "en"
     target_language: "zh"
     translate_mode: "origin"
-    max_post: 1
+    max_post: 10
