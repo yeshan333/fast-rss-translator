@@ -5,30 +5,6 @@
     <description>A weekly newsletter to help you pass system design interview and become good at work</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
-      <title>【How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern 🎮】Halo 如何使用 Saga 设计模式扩展到 1160 万用户 🎮</title>
-      <link>https://newsletter.systemdesign.one/p/saga-design-pattern</link>
-      <description>【#51: Break Into Saga Design Pattern (4 Minutes)】#51：闯入 Saga 设计模式（4 分钟）</description>
-      <pubDate>Thu, 04 Jul 2024 12:54:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Lyft Support Rides to 21 Million Users】Lyft 如何为 2100 万用户提供支持</title>
-      <link>https://newsletter.systemdesign.one/p/lyft-engineering</link>
-      <description>【#43: Break Into Lyft Architecture (11 minutes)】#43：深入 Lyft 架构（11 分钟）</description>
-      <pubDate>Fri, 12 Apr 2024 11:58:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why Is Redis a Distributed Swiss Army Knife 💭】为什么说Redis是分布式瑞士军刀💭</title>
-      <link>https://newsletter.systemdesign.one/p/redis-use-cases</link>
-      <description>【#50: Break Into Redis Use Cases (5 Minutes)】#50：深入了解 Redis 用例（5 分钟）</description>
-      <pubDate>Thu, 20 Jun 2024 12:22:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Instagram Scaled to 2.5 Billion Users】Instagram 如何扩展到 25 亿用户</title>
-      <link>https://newsletter.systemdesign.one/p/instagram-infrastructure</link>
-      <description>【#49: Break Into Instagram Scalability Techniques (7 minutes)】#49：深入了解 Instagram 可扩展性技术（7 分钟）</description>
-      <pubDate>Tue, 11 Jun 2024 11:24:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【How YouTube Was Able to Support 2.49 Billion Users With MySQL】YouTube 如何通过 MySQL 支持 24.9 亿用户</title>
       <link>https://newsletter.systemdesign.one/p/vitess-mysql</link>
       <description>【#48: Break Into Vitess Architecture (4 minutes)】#48：闯入 Vitess 架构（4 分钟）</description>
@@ -47,10 +23,22 @@
       <pubDate>Fri, 17 May 2024 12:01:21 +0000</pubDate>
     </item>
     <item>
-      <title>【How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second】麦当劳送餐平台如何处理每秒 20,000 个订单</title>
-      <link>https://newsletter.systemdesign.one/p/mcdonalds-architecture</link>
-      <description>【#44: Break Into McDonald&amp;#8217;s Architecture (7 minutes)】#44：闯入麦当劳的建筑（7 分钟）</description>
-      <pubDate>Fri, 03 May 2024 12:05:12 +0000</pubDate>
+      <title>【How Lyft Support Rides to 21 Million Users】Lyft 如何为 2100 万用户提供支持</title>
+      <link>https://newsletter.systemdesign.one/p/lyft-engineering</link>
+      <description>【#43: Break Into Lyft Architecture (11 minutes)】#43：深入 Lyft 架构（11 分钟）</description>
+      <pubDate>Fri, 12 Apr 2024 11:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Dropbox Scaled to 100 Thousand Users in a Year After Launch】Dropbox 如何在推出后一年内扩展到​​ 10 万用户</title>
+      <link>https://newsletter.systemdesign.one/p/dropbox-architecture</link>
+      <description>【#43: Break Into Early Architecture of Dropbox (6 minutes)】#43：深入了解 Dropbox 的早期架构（6 分钟）</description>
+      <pubDate>Tue, 23 Apr 2024 11:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern 🎮】Halo 如何使用 Saga 设计模式扩展到 1160 万用户 🎮</title>
+      <link>https://newsletter.systemdesign.one/p/saga-design-pattern</link>
+      <description>【#51: Break Into Saga Design Pattern (4 Minutes)】#51：闯入 Saga 设计模式（4 分钟）</description>
+      <pubDate>Thu, 04 Jul 2024 12:54:58 +0000</pubDate>
     </item>
     <item>
       <title>【How Facebook Scaled Live Video to a Billion Users】Facebook 如何将直播视频扩展到十亿用户</title>
@@ -59,10 +47,22 @@
       <pubDate>Fri, 24 May 2024 12:08:20 +0000</pubDate>
     </item>
     <item>
-      <title>【How Dropbox Scaled to 100 Thousand Users in a Year After Launch】Dropbox 如何在推出后一年内扩展到​​ 10 万用户</title>
-      <link>https://newsletter.systemdesign.one/p/dropbox-architecture</link>
-      <description>【#43: Break Into Early Architecture of Dropbox (6 minutes)】#43：深入了解 Dropbox 的早期架构（6 分钟）</description>
-      <pubDate>Tue, 23 Apr 2024 11:33:10 +0000</pubDate>
+      <title>【Why Is Redis a Distributed Swiss Army Knife 💭】为什么说Redis是分布式瑞士军刀💭</title>
+      <link>https://newsletter.systemdesign.one/p/redis-use-cases</link>
+      <description>【#50: Break Into Redis Use Cases (5 Minutes)】#50：深入了解 Redis 用例（5 分钟）</description>
+      <pubDate>Thu, 20 Jun 2024 12:22:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Instagram Scaled to 2.5 Billion Users】Instagram 如何扩展到 25 亿用户</title>
+      <link>https://newsletter.systemdesign.one/p/instagram-infrastructure</link>
+      <description>【#49: Break Into Instagram Scalability Techniques (7 minutes)】#49：深入了解 Instagram 可扩展性技术（7 分钟）</description>
+      <pubDate>Tue, 11 Jun 2024 11:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second】麦当劳送餐平台如何处理每秒 20,000 个订单</title>
+      <link>https://newsletter.systemdesign.one/p/mcdonalds-architecture</link>
+      <description>【#44: Break Into McDonald&amp;#8217;s Architecture (7 minutes)】#44：闯入麦当劳的建筑（7 分钟）</description>
+      <pubDate>Fri, 03 May 2024 12:05:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

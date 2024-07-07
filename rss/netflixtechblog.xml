@@ -5,10 +5,10 @@
     <description>Learn about Netflix’s world class engineering efforts, company culture, product developments and more. - Medium</description>
     <managingEditor>yourfriends@medium.com</managingEditor>
     <item>
-      <title>【Bending pause times to your will with Generational ZGC】通过 Generational ZGC 将暂停时间调整为您的意愿</title>
-      <link>https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?source=rss----2615bd06b42e---4</link>
+      <title>【Round 2: A Survey of Causal Inference Applications at Netflix】第二轮：Netflix 因果推理应用程序调查</title>
+      <link>https://netflixtechblog.com/round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Wed, 06 Mar 2024 01:35:08 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2024 20:10:54 +0000</pubDate>
     </item>
     <item>
       <title>【Enhancing Netflix Reliability with Service-Level Prioritized Load Shedding】通过服务级别优先减载增强 Netflix 可靠性</title>
@@ -29,6 +29,12 @@
       <pubDate>Wed, 19 Jun 2024 15:29:29 +0000</pubDate>
     </item>
     <item>
+      <title>【A Recap of the Data Engineering Open Forum at Netflix】Netflix 数据工程开放论坛回顾</title>
+      <link>https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Thu, 20 Jun 2024 15:01:27 +0000</pubDate>
+    </item>
+    <item>
       <title>【Sequential Testing Keeps the World Streaming Netflix Part 2: Counting Processes】顺序测试让世界保持流媒体 Netflix 第 2 部分：计算进程</title>
       <link>https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
@@ -41,28 +47,22 @@
       <pubDate>Tue, 09 Apr 2024 22:12:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Supporting Diverse ML Systems at Netflix】支持 Netflix 的多种机器学习系统</title>
-      <link>https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Thu, 07 Mar 2024 18:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Recap of the Data Engineering Open Forum at Netflix】Netflix 数据工程开放论坛回顾</title>
-      <link>https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Thu, 20 Jun 2024 15:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Round 2: A Survey of Causal Inference Applications at Netflix】第二轮：Netflix 因果推理应用程序调查</title>
-      <link>https://netflixtechblog.com/round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Thu, 06 Jun 2024 20:10:54 +0000</pubDate>
-    </item>
-    <item>
       <title>【Reverse Searching Netflix’s Federated Graph】反向搜索 Netflix 的联合图</title>
       <link>https://netflixtechblog.com/reverse-searching-netflixs-federated-graph-222ac5d23576?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
       <pubDate>Thu, 04 Apr 2024 21:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bending pause times to your will with Generational ZGC】通过 Generational ZGC 将暂停时间调整为您的意愿</title>
+      <link>https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Wed, 06 Mar 2024 01:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Supporting Diverse ML Systems at Netflix】支持 Netflix 的多种机器学习系统</title>
+      <link>https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Thu, 07 Mar 2024 18:33:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
