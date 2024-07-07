@@ -20,7 +20,7 @@ jobs:
 
       - name: Do translate
         run: |
-          go run main.go --update-file README.md
+          go run main.go --update-file TEST_README.md
 
       - name: Push translated rss
         run: |
