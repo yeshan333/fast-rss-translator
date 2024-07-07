@@ -22,36 +22,6 @@
       <pubDate>Thu, 16 May 2024 15:25:06 +0000</pubDate>
     </item>
     <item>
-      <title>基因组学工作流程，第 7 部分：使用 AWS HealthOmics 分析公共 RNA 测序数据</title>
-      <link>https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/</link>
-      <description></description>
-      <pubDate>Wed, 05 Jun 2024 15:46:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>伦敦证券交易所集团在 AWS 上使用混沌工程来提高弹性</title>
-      <link>https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/</link>
-      <description></description>
-      <pubDate>Mon, 01 Apr 2024 20:43:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 AWS 上的智能搜索机器人大规模简化文档搜索</title>
-      <link>https://aws.amazon.com/blogs/architecture/simplify-document-search-at-scale-with-intelligent-search-bot-on-aws/</link>
-      <description></description>
-      <pubDate>Thu, 21 Mar 2024 16:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>来当建筑师吧！在 AWS 上发现生成式 AI</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/</link>
-      <description></description>
-      <pubDate>Wed, 24 Apr 2024 20:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>创建组织多区域故障转移策略</title>
-      <link>https://aws.amazon.com/blogs/architecture/creating-an-organizational-multi-region-failover-strategy/</link>
-      <description></description>
-      <pubDate>Wed, 08 May 2024 18:50:56 +0000</pubDate>
-    </item>
-    <item>
       <title>来当建筑师吧！使用 AWS 迁移到云</title>
       <link>https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/</link>
       <description></description>
@@ -62,6 +32,36 @@
       <link>https://aws.amazon.com/blogs/architecture/part-6-genomics-workflows-cost-prediction/</link>
       <description></description>
       <pubDate>Wed, 24 Apr 2024 16:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！在 AWS 上发现生成式 AI</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/</link>
+      <description></description>
+      <pubDate>Wed, 24 Apr 2024 20:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>伦敦证券交易所集团在 AWS 上使用混沌工程来提高弹性</title>
+      <link>https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/</link>
+      <description></description>
+      <pubDate>Mon, 01 Apr 2024 20:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>基因组学工作流程，第 7 部分：使用 AWS HealthOmics 分析公共 RNA 测序数据</title>
+      <link>https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/</link>
+      <description></description>
+      <pubDate>Wed, 05 Jun 2024 15:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 AWS 上的智能搜索机器人大规模简化文档搜索</title>
+      <link>https://aws.amazon.com/blogs/architecture/simplify-document-search-at-scale-with-intelligent-search-bot-on-aws/</link>
+      <description></description>
+      <pubDate>Thu, 21 Mar 2024 16:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>创建组织多区域故障转移策略</title>
+      <link>https://aws.amazon.com/blogs/architecture/creating-an-organizational-multi-region-failover-strategy/</link>
+      <description></description>
+      <pubDate>Wed, 08 May 2024 18:50:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

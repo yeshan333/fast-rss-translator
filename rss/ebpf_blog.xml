@@ -10,22 +10,46 @@
       <pubDate>Fri, 21 Jun 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>【How eBPF is shaping the future of Linux and platform engineering】eBPF 如何塑造 Linux 和平台工程的未来</title>
+      <link>https://www.infoworld.com/article/3715503/how-ebpf-is-shaping-the-future-of-linux-and-platform-engineering.html</link>
+      <description>【Explore eBPF&#39;s origins, its impact on modernizing the kernel for cloud native use cases, and how it is becoming mainstream through projects like Cilium, Tetragon, and Pixie】探索 eBPF 的起源、它对云原生用例内核现代化的影响，以及它如何通过 Cilium、Tetragon 和 Pixie 等项目成为主流</description>
+      <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monitoring PostgreSQL Database on Kubernetes using eBPF】使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</title>
+      <link>https://getanteon.com/blog/monitoring-postgre-sql-database-on-kubernetes-using-ebpf/</link>
+      <description>【Learn how to use eBPF for monitoring PostgreSQL databases on Kubernetes】了解如何使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</description>
+      <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【Hello eBPF: BPF Type Format and 13 Thousand Generated Java Classes (11)】Hello eBPF：BPF 类型格式和 13000 个生成的 Java 类（11）</title>
       <link>https://mostlynerdless.de/blog/2024/07/02/hello-ebpf-bpf-type-format-and-13-thousand-generated-java-classes-11/</link>
       <description>【The eleventh installment of the Hello eBPF series. In this part, you’ll learn about the BPF Type Format (BTF) and how and why we generate Java code from it】Hello eBPF 系列的第十一部分。在这一部分中，您将了解 BPF 类型格式 (BTF) 以及我们如何以及为何从中生成 Java 代码</description>
       <pubDate>Tue, 02 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Aya Rust Tutorial part 5: Using Maps】Aya Rust 教程第 5 部分：使用地图</title>
-      <link>https://dev.to/stevelatif/aya-rust-tutorial-part-5-using-maps-1boe</link>
-      <description>【Learn how to pass data between the kernel and user space using Maps in eBPF】了解如何使用 eBPF 中的映射在内核和用户空间之间传递数据</description>
-      <pubDate>Wed, 19 Jun 2024 17:20:05 +0000</pubDate>
+      <title>【Unveiling Hidden Threats: Detecting Unauthorized Access in Kubernetes with eBPF】揭露隐藏威胁：使用 eBPF 检测 Kubernetes 中未经授权的访问</title>
+      <link>https://engineering.01cloud.com/2024/06/21/unveiling-hidden-threats-detecting-unauthorized-access-in-kubernetes-with-ebpf/</link>
+      <description>【Dive deep into using eBPF for security, specifically detecting unauthorized access attempts】深入研究使用 eBPF 来确保安全，特别是检测未经授权的访问尝试</description>
+      <pubDate>Fri, 21 Jun 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Securing Linux Systems with eBPF: The Future of In-Kernel Observability and Security】使用 eBPF 保护 Linux 系统：内核内可观察性和安全性的未来</title>
+      <link>https://www.itprotoday.com/linux-os/securing-linux-systems-with-ebpf-the-future-of-in-kernel-observability-and-security</link>
+      <description>【Learn about eBPF, its integration with Linux, applications in monitoring and securing systems, and more】了解 eBPF、其与 Linux 的集成、监控和保护系统中的应用程序等</description>
+      <pubDate>Thu, 20 Jun 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Fooling Port Scanners: Simulating Open Ports with eBPF and Rust】欺骗端口扫描器：使用 eBPF 和 Rust 模拟开放端口</title>
       <link>https://douglasmakey.medium.com/fooling-port-scanners-simulating-open-ports-with-ebpf-and-rust-e70a3591ffc9</link>
       <description>【Learn how to use Rust and eBPF to thwart curious individuals attempting to scan a machine using the three-way handshake behavior and a related port scanning technique】了解如何使用 Rust 和 eBPF 来阻止好奇的个人尝试使用三向握手行为和相关端口扫描技术来扫描机器</description>
       <pubDate>Sun, 30 Jun 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aya Rust Tutorial part 5: Using Maps】Aya Rust 教程第 5 部分：使用地图</title>
+      <link>https://dev.to/stevelatif/aya-rust-tutorial-part-5-using-maps-1boe</link>
+      <description>【Learn how to pass data between the kernel and user space using Maps in eBPF】了解如何使用 eBPF 中的映射在内核和用户空间之间传递数据</description>
+      <pubDate>Wed, 19 Jun 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Simple Firewall with Rust and Aya】使用 Rust 和 Aya 的简单防火墙</title>
@@ -38,30 +62,6 @@
       <link>https://observability-360.com/article/ViewArticle?id=ebpf-in-observability-pt2</link>
       <description>【Dive into the internals of how eBPF works by reverse engineering some eBPF-based programs】通过对一些基于 eBPF 的程序进行逆向工程，深入了解 eBPF 的工作原理</description>
       <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Monitoring PostgreSQL Database on Kubernetes using eBPF】使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</title>
-      <link>https://getanteon.com/blog/monitoring-postgre-sql-database-on-kubernetes-using-ebpf/</link>
-      <description>【Learn how to use eBPF for monitoring PostgreSQL databases on Kubernetes】了解如何使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</description>
-      <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Securing Linux Systems with eBPF: The Future of In-Kernel Observability and Security】使用 eBPF 保护 Linux 系统：内核内可观察性和安全性的未来</title>
-      <link>https://www.itprotoday.com/linux-os/securing-linux-systems-with-ebpf-the-future-of-in-kernel-observability-and-security</link>
-      <description>【Learn about eBPF, its integration with Linux, applications in monitoring and securing systems, and more】了解 eBPF、其与 Linux 的集成、监控和保护系统中的应用程序等</description>
-      <pubDate>Thu, 20 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How eBPF is shaping the future of Linux and platform engineering】eBPF 如何塑造 Linux 和平台工程的未来</title>
-      <link>https://www.infoworld.com/article/3715503/how-ebpf-is-shaping-the-future-of-linux-and-platform-engineering.html</link>
-      <description>【Explore eBPF&#39;s origins, its impact on modernizing the kernel for cloud native use cases, and how it is becoming mainstream through projects like Cilium, Tetragon, and Pixie】探索 eBPF 的起源、它对云原生用例内核现代化的影响，以及它如何通过 Cilium、Tetragon 和 Pixie 等项目成为主流</description>
-      <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unveiling Hidden Threats: Detecting Unauthorized Access in Kubernetes with eBPF】揭露隐藏威胁：使用 eBPF 检测 Kubernetes 中未经授权的访问</title>
-      <link>https://engineering.01cloud.com/2024/06/21/unveiling-hidden-threats-detecting-unauthorized-access-in-kubernetes-with-ebpf/</link>
-      <description>【Dive deep into using eBPF for security, specifically detecting unauthorized access attempts】深入研究使用 eBPF 来确保安全，特别是检测未经授权的访问尝试</description>
-      <pubDate>Fri, 21 Jun 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
