@@ -4,12 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Copilot Studio – Prompt Response Times】Copilot Studio – 快速响应时间</title>
-      <link>https://devblogs.microsoft.com/premier-developer/copilot-studio-prompt-response-times</link>
-      <description>【Tahir Naveed walks through how to measure prompt response times with Microsoft Copilot Studio and explores considerations that factor into the overall performance of these requests. Building custom copilots (GenAI chatbots) in Microsoft Copilot Studio is amazing. Especially with the new functionalities which were released in Microsoft Build 2024.】Tahir Naveed 介绍了如何使用 Microsoft Copilot Studio 测量即时响应时间，并探讨了影响这些请求整体性能的注意事项。在 Microsoft Copilot Studio 中构建自定义副驾驶（GenAI 聊天机器人）是令人惊叹的。尤其是 Microsoft Build 2024 中发布的新功能。</description>
-      <pubDate>Fri, 05 Jul 2024 07:43:20 +0000</pubDate>
-    </item>
-    <item>
       <title>【How do I produce a Windows Runtime asynchronous activity from C++/WinRT?】如何从 C++/WinRT 生成 Windows 运行时异步活动？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240705-00/?p=109957</link>
       <description>【Somebody that deals with them natively.】与他们打交道的人。</description>
@@ -20,18 +14,6 @@
       <link>https://devblogs.microsoft.com/ise/aio-data-processor-pipelines-unlocking-efficiency-industrial-metaverse</link>
       <description>【In this post we explore the implementation of Azure IoT Operations Data Processor pipelines in a manufacturing context, focusing on data processing at the edge.】在这篇文章中，我们探讨了 Azure IoT 操作数据处理器管道在制造环境中的实施，重点关注边缘的数据处理。</description>
       <pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: preezie’s AI Journey with Microsoft Semantic Kernel】客户案例研究：preezie 使用 Microsoft Semantic Kernel 的 AI 之旅</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-prezzies-ai-journey-with-microsoft-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re thrilled to feature the preezie team on the Semantic Kernel blog. The preezie team will discuss their AI journey, how they&amp;#8217;ve integrated the Semantic Kernel SDK to build out their AI solutions and advice they&amp;#8217;d give to other customers getting started on their AI journeys.】今天，我们很高兴在 Semantic Kernel 博客上介绍 preezie 团队。 preezie 团队将讨论他们的 AI 之旅、他们如何集成语义内核 SDK 来构建他们的 AI 解决方案，以及他们为其他客户开始 AI 之旅提供的建议。</description>
-      <pubDate>Thu, 04 Jul 2024 00:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.22.5-1 and 1.21.12-1 Microsoft builds now available】Go 1.22.5-1 和 1.21.12-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-21-12-1-and-1-22-5-1-microsoft-builds-now-available</link>
-      <description>【The Microsoft builds of the Go security patches released today, are now available for download.】今天发布的 Microsoft 版本的 Go 安全补丁现已可供下载。</description>
-      <pubDate>Tue, 02 Jul 2024 23:09:25 +0000</pubDate>
     </item>
     <item>
       <title>【How do I produce a Windows Runtime asynchronous activity from C#?】如何从 C# 生成 Windows 运行时异步活动？</title>
@@ -46,10 +28,22 @@
       <pubDate>Wed, 03 Jul 2024 16:00:29 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I produce a Windows Runtime asynchronous activity from C++/CX?】如何从 C++/CX 生成 Windows 运行时异步活动？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240703-00/?p=109953</link>
-      <description>【The Parallel Patterns Library has special support for C++/CX.】并行模式库对 C++/CX 有特殊支持。</description>
-      <pubDate>Wed, 03 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【What’s the point of std::monostate? You can’t do anything with it!】std::monostate 有什么意义？你不能用它做任何事！</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959</link>
+      <description>【Not doing anything with it is exactly the point.】不用它做任何事情正是重点。</description>
+      <pubDate>Mon, 08 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: preezie’s AI Journey with Microsoft Semantic Kernel】客户案例研究：preezie 使用 Microsoft Semantic Kernel 的 AI 之旅</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-prezzies-ai-journey-with-microsoft-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re thrilled to feature the preezie team on the Semantic Kernel blog. The preezie team will discuss their AI journey, how they&amp;#8217;ve integrated the Semantic Kernel SDK to build out their AI solutions and advice they&amp;#8217;d give to other customers getting started on their AI journeys.】今天，我们很高兴在 Semantic Kernel 博客上介绍 preezie 团队。 preezie 团队将讨论他们的 AI 之旅、他们如何集成语义内核 SDK 来构建他们的 AI 解决方案，以及他们为其他客户开始 AI 之旅提供的建议。</description>
+      <pubDate>Thu, 04 Jul 2024 00:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Demystify history with GitHub Copilot commit explanations】通过 GitHub Copilot 提交解释揭秘历史</title>
+      <link>https://devblogs.microsoft.com/visualstudio/demystify-history-with-github-copilot-commit-explanations</link>
+      <description>【Have you ever struggled to understand what a commit was doing or why it was made? Do you wish you had more clarity and context when reviewing or collaborating on code changes? If you answered yes, then you&amp;#8217;ll love what GitHub Copilot can do for you: generate commit explanations.】您是否曾经很难理解提交正在做什么或为什么要做？您是否希望在审查或协作代码更改时有更多的清晰度和上下文？如果您的回答是“是”，那么您一定会喜欢 GitHub Copilot 可以为您做的事情：生成提交解释。</description>
+      <pubDate>Mon, 08 Jul 2024 07:00:53 +0000</pubDate>
     </item>
     <item>
       <title>【Retirement of Office 365 connectors within Microsoft Teams】Microsoft Teams 中的 Office 365 连接器停用</title>
@@ -58,10 +52,16 @@
       <pubDate>Wed, 03 Jul 2024 15:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Online Migration Capability for vCore-based Azure Cosmos DB for MongoDB  in Azure Data Studio】在 Azure Data Studio 中引入基于 vCore 的 Azure Cosmos DB for MongoDB 的在线迁移功能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/introducing-online-migration-capability-for-vcore-based-azure-cosmos-db-for-mongodb-in-azure-data-studio</link>
-      <description>【We’re thrilled to announce a significant enhancement to the Azure Cosmos DB Migration for MongoDB extension! Now, you can seamlessly migrate your MongoDB workloads to vCore-based Azure Cosmos DB for MongoDB with the added convenience of online migration capability. Let’s dive into the details.】我们很高兴地宣布 Azure Cosmos DB Migration for MongoDB 扩展有了重大增强！现在，你可以将 MongoDB 工作负载无缝迁移到基于 vCore 的 Azure Cosmos DB for MongoDB，并享受在线迁移功能带来的便利。让我们深入了解细节。</description>
-      <pubDate>Wed, 03 Jul 2024 14:00:50 +0000</pubDate>
+      <title>【July 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 7 月：查看最新的 Microsoft Entra 关键功能发布、公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-jul-24</link>
+      <description>【An overview of the latest updates in Microsoft Entra for Jul 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】2024 年 7 月 Microsoft Entra 最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
+      <pubDate>Mon, 08 Jul 2024 13:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Copilot Studio – Prompt Response Times】Copilot Studio – 快速响应时间</title>
+      <link>https://devblogs.microsoft.com/premier-developer/copilot-studio-prompt-response-times</link>
+      <description>【Tahir Naveed walks through how to measure prompt response times with Microsoft Copilot Studio and explores considerations that factor into the overall performance of these requests. Building custom copilots (GenAI chatbots) in Microsoft Copilot Studio is amazing. Especially with the new functionalities which were released in Microsoft Build 2024.】Tahir Naveed 介绍了如何使用 Microsoft Copilot Studio 衡量即时响应时间，并探讨了影响这些请求整体性能的注意事项。在 Microsoft Copilot Studio 中构建自定义副驾驶（GenAI 聊天机器人）是令人惊叹的。尤其是 Microsoft Build 2024 中发布的新功能。</description>
+      <pubDate>Fri, 05 Jul 2024 07:43:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
