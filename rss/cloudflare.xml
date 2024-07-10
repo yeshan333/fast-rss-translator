@@ -4,34 +4,10 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Cloudflare 1.1.1.1 incident on June 27, 2024】2024 年 6 月 27 日的 Cloudflare 1.1.1.1 事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024</link>
-      <description>【 On June 27, 2024, a small number of users globally may have noticed that 1.1.1.1 was unreachable or degraded. The root cause was a mix of BGP (Border Gateway Protocol) hijacking and a route leak 】2024 年 6 月 27 日，全球少数用户可能已经注意到 1.1.1.1 无法访问或降级。根本原因是 BGP（边界网关协议）劫持和路由泄漏的混合</description>
-      <pubDate>Thu, 04 Jul 2024 13:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Embedded function calling in Workers AI: easier, smarter, faster】Workers AI 中的嵌入式函数调用：更简单、更智能、更快</title>
-      <link>https://blog.cloudflare.com/embedded-function-calling</link>
-      <description>【 Introducing a new way to do function calling in Workers AI by running function code alongside your inference. Plus, a new @cloudflare/ai-utils package to make getting started as simple as possible 】通过在推理的同时运行函数代码，引入了一种在 Workers AI 中进行函数调用的新方法。另外，新的 @cloudflare/ai-utils 包使入门尽可能简单</description>
-      <pubDate>Thu, 27 Jun 2024 17:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automatically replacing polyfill.io links with Cloudflare’s mirror for a safer Internet】使用 Cloudflare 的镜像自动替换 polyfill.io 链接，以实现更安全的互联网</title>
-      <link>https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet</link>
-      <description>【 polyfill.io, a popular JavaScript library service, can no longer be trusted and should be removed from websites 】polyfill.io 是一种流行的 JavaScript 库服务，不再受信任，应从网站中删除</description>
-      <pubDate>Wed, 26 Jun 2024 20:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【French elections: political cyber attacks and Internet traffic shifts】法国选举：政治网络攻击和互联网流量变化</title>
-      <link>https://blog.cloudflare.com/2024-french-elections-political-cyber-attacks-and-internet-traffic-shifts</link>
-      <description>【 Check the dynamics of the 2024 French legislative elections, the surprising election results’ impact on Internet traffic changes, and the cyber attacks targeting political parties 】查看2024年法国立法选举动态、出人意料的选举结果对互联网流量变化的影响以及针对政党的网络攻击</description>
-      <pubDate>Mon, 08 Jul 2024 15:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Supporting Postgres Named Prepared Statements in Hyperdrive】在 Hyperdrive 中支持 Postgres 命名准备语句</title>
-      <link>https://blog.cloudflare.com/postgres-named-prepared-statements-supported-hyperdrive</link>
-      <description>【 Hyperdrive (Cloudflare’s globally distributed SQL connection pooler and cache) recently added support for Postgres protocol-level named prepared statements across pooled connections. We dive deep on what it took to add this feature 】Hyperdrive（Cloudflare 的全球分布式 SQL 连接池和缓存）最近添加了对跨池连接的 Postgres 协议级命名准备语句的支持。我们深入研究添加此功能所需的工作</description>
-      <pubDate>Fri, 28 Jun 2024 13:00:09 +0000</pubDate>
+      <title>【First round of French election: party attacks and a modest traffic dip】法国大选第一轮：政党攻击和流量小幅下降</title>
+      <link>https://blog.cloudflare.com/first-round-of-french-election-2024-party-attacks-and-a-modest-traffic-dip</link>
+      <description>【 How Cloudflare mitigated DDoS attacks targeting French political parties during the 2024 legislative elections, as detailed in our ongoing election coverage 】Cloudflare 如何在 2024 年立法选举期间缓解针对法国政党的 DDoS 攻击，详情请参阅我们正在进行的选举报道</description>
+      <pubDate>Wed, 03 Jul 2024 13:00:34 +0000</pubDate>
     </item>
     <item>
       <title>【UK election day 2024: traffic trends and attacks on political parties】2024 年英国选举日：流量趋势和对政党的攻击</title>
@@ -40,16 +16,10 @@
       <pubDate>Fri, 05 Jul 2024 13:24:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare incident on June 20, 2024】2024 年 6 月 20 日的 Cloudflare 事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-june-20-2024</link>
-      <description>【 A new DDoS rule resulted in an increase in error responses and latency for Cloudflare customers. Here’s how it went wrong, and what we’ve learned 】新的 DDoS 规则导致 Cloudflare 客户的错误响应和延迟增加。这是错误的原因以及我们学到的教训</description>
-      <pubDate>Wed, 26 Jun 2024 13:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【First round of French election: party attacks and a modest traffic dip】法国大选第一轮：政党攻击和流量小幅下降</title>
-      <link>https://blog.cloudflare.com/first-round-of-french-election-2024-party-attacks-and-a-modest-traffic-dip</link>
-      <description>【 How Cloudflare mitigated DDoS attacks targeting French political parties during the 2024 legislative elections, as detailed in our ongoing election coverage 】Cloudflare 如何在 2024 年立法选举期间缓解针对法国政党的 DDoS 攻击，详情请参阅我们正在进行的选举报道</description>
-      <pubDate>Wed, 03 Jul 2024 13:00:34 +0000</pubDate>
+      <title>【Embedded function calling in Workers AI: easier, smarter, faster】Workers AI 中的嵌入式函数调用：更简单、更智能、更快</title>
+      <link>https://blog.cloudflare.com/embedded-function-calling</link>
+      <description>【 Introducing a new way to do function calling in Workers AI by running function code alongside your inference. Plus, a new @cloudflare/ai-utils package to make getting started as simple as possible 】通过在推理的同时运行函数代码，引入了一种在 Workers AI 中进行函数调用的新方法。另外，新的 @cloudflare/ai-utils 包使入门尽可能简单</description>
+      <pubDate>Thu, 27 Jun 2024 17:00:09 +0000</pubDate>
     </item>
     <item>
       <title>【Declare your AIndependence: block AI bots, scrapers and crawlers with a single click】宣告您的 AIndependence：只需单击一下即可阻止 AI 机器人、抓取工具和爬虫</title>
@@ -62,6 +32,36 @@
       <link>https://blog.cloudflare.com/how-the-first-2024-us-presidential-debate-influenced-internet-traffic-and-security-trends</link>
       <description>【 See how the first 2024 US presidential debate between Biden and Trump influenced Internet traffic patterns, email trends, and heightened cybersecurity concerns across digital platforms 】了解拜登和特朗普之间的 2024 年首场美国总统辩论如何影响互联网流量模式、电子邮件趋势以及数字平台上日益严重的网络安全担忧</description>
       <pubDate>Fri, 28 Jun 2024 14:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【French elections: political cyber attacks and Internet traffic shifts】法国选举：政治网络攻击和互联网流量变化</title>
+      <link>https://blog.cloudflare.com/2024-french-elections-political-cyber-attacks-and-internet-traffic-shifts</link>
+      <description>【 Check the dynamics of the 2024 French legislative elections, the surprising election results’ impact on Internet traffic changes, and the cyber attacks targeting political parties 】查看2024年法国立法选举动态、出人意料的选举结果对互联网流量变化的影响以及针对政党的网络攻击</description>
+      <pubDate>Mon, 08 Jul 2024 15:52:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【RADIUS/UDP vulnerable to improved MD5 collision attack】RADIUS/UDP 容易受到改进的 MD5 冲突攻击</title>
+      <link>https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack</link>
+      <description>【 The RADIUS protocol is commonly used to control administrative access to networking gear. Despite its importance, RADIUS hasn’t changed much in decades. We discuss an attack on RADIUS as a case study for why it’s important for legacy protocols to keep up with advancements in cryptography 】RADIUS 协议通常用于控制对网络设备的管理访问。尽管 RADIUS 很重要，但它几十年来并没有发生太大变化。我们讨论对 RADIUS 的攻击作为案例研究，了解为什么遗留协议跟上密码学的进步很重要</description>
+      <pubDate>Tue, 09 Jul 2024 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【DDoS threat report for 2024 Q2】2024 年第二季度 DDoS 威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q2</link>
+      <description>【 Welcome to the 18th edition of the Cloudflare DDoS Threat Report. Released quarterly, these reports provide an in-depth analysis of the DDoS threat landscape as observed across the Cloudflare network. This edition focuses on the second quarter of 2024 】欢迎阅读第 18 版 Cloudflare DDoS 威胁报告。这些报告每季度发布一次，提供对 Cloudflare 网络中观察到的 DDoS 威胁态势的深入分析。本版重点关注 2024 年第二季度</description>
+      <pubDate>Tue, 09 Jul 2024 13:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare 1.1.1.1 incident on June 27, 2024】2024 年 6 月 27 日的 Cloudflare 1.1.1.1 事件</title>
+      <link>https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024</link>
+      <description>【 On June 27, 2024, a small number of users globally may have noticed that 1.1.1.1 was unreachable or degraded. The root cause was a mix of BGP (Border Gateway Protocol) hijacking and a route leak 】2024 年 6 月 27 日，全球少数用户可能已经注意到 1.1.1.1 无法访问或降级。根本原因是 BGP（边界网关协议）劫持和路由泄漏的混合</description>
+      <pubDate>Thu, 04 Jul 2024 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Supporting Postgres Named Prepared Statements in Hyperdrive】在 Hyperdrive 中支持 Postgres 命名准备语句</title>
+      <link>https://blog.cloudflare.com/postgres-named-prepared-statements-supported-hyperdrive</link>
+      <description>【 Hyperdrive (Cloudflare’s globally distributed SQL connection pooler and cache) recently added support for Postgres protocol-level named prepared statements across pooled connections. We dive deep on what it took to add this feature 】Hyperdrive（Cloudflare 的全球分布式 SQL 连接池和缓存）最近添加了对跨池连接的 Postgres 协议级命名准备语句的支持。我们深入研究了添加此功能所需的内容</description>
+      <pubDate>Fri, 28 Jun 2024 13:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
