@@ -10,6 +10,30 @@
       <pubDate>Tue, 09 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>【July 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 7 月：查看最新的 Microsoft Entra 关键功能发布、公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-jul-24</link>
+      <description>【An overview of the latest updates in Microsoft Entra for Jul 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】2024 年 7 月 Microsoft Entra 最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
+      <pubDate>Mon, 08 Jul 2024 13:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Running Open AI Whisper on Azure】在 Azure 上运行 Open AI Whisper</title>
+      <link>https://devblogs.microsoft.com/premier-developer/open-ai-whisper</link>
+      <description>【Monu Bambroo explores Whisper, a speech to text model from OpenAI that you can use to transcribe audio files. The model is trained on a large dataset of English audio and text. The model is optimized for transcribing audio files that contain speech in English.】Monu Bambroo 探索了 Whisper，这是一种来自 OpenAI 的语音到文本模型，可用于转录音频文件。该模型是在大型英语音频和文本数据集上进行训练的。该模型针对转录包含英语语音的音频文件进行了优化。</description>
+      <pubDate>Tue, 09 Jul 2024 07:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Open Sourcing DXIL Validator Hash】开源 DXIL 验证器哈希</title>
+      <link>https://devblogs.microsoft.com/directx/open-sourcing-dxil-validator-hash</link>
+      <description>【Today the HLSL team is announcing plans to open source the DXIL validator hashing algorithm and include it in the DirectXShaderCompiler sources on GitHub. If you’re wondering what any of that means, strap in! DXIL Validator To understand the DXIL Validator you first need to understand a few basics of what DXIL is.】今天，HLSL 团队宣布计划开源 DXIL 验证器哈希算法，并将其包含在 GitHub 上的 DirectXShaderCompiler 源代码中。如果您想知道这意味着什么，请系好安全带！ DXIL 验证器 要了解 DXIL 验证器，您首先需要了解 DXIL 的一些基础知识。</description>
+      <pubDate>Wed, 10 Jul 2024 21:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – July 2024 Release】Visual Studio Code 中的 Python – 2024 年 7 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2024-release</link>
+      <description>【The July 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include a new tool for more performant environment discovery, improved support for reStructuredText docstrings, and community contributed Pixi support. Keep reading to learn more!】2024 年 7 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括用于更高效环境发现的新工具、改进的对 reStructuredText 文档字符串的支持以及社区贡献的 Pixi 支持。继续阅读以了解更多信息！</description>
+      <pubDate>Tue, 09 Jul 2024 15:45:29 +0000</pubDate>
+    </item>
+    <item>
       <title>【Creating an already-completed asynchonous activity in C++/WinRT, part 1】在 C++/WinRT 中创建已完成的异步活动，第 1 部分</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240709-00/?p=109961</link>
       <description>【The simplest version.】最简单的版本。</description>
@@ -22,46 +46,22 @@
       <pubDate>Tue, 09 Jul 2024 17:29:24 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework July 2024 servicing releases updates】.NET 和 .NET Framework 2024 年 7 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for July 2024.】2024 年 7 月 .NET 和 .NET Framework 的最新服务更新回顾。</description>
-      <pubDate>Tue, 09 Jul 2024 17:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How do I produce a Windows Runtime asynchronous activity from C++/WinRT?】如何从 C++/WinRT 生成 Windows 运行时异步活动？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240705-00/?p=109957</link>
-      <description>【Somebody that deals with them natively.】与他们打交道的人。</description>
-      <pubDate>Fri, 05 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Demystify history with GitHub Copilot commit explanations】通过 GitHub Copilot 提交解释揭秘历史</title>
-      <link>https://devblogs.microsoft.com/visualstudio/demystify-history-with-github-copilot-commit-explanations</link>
-      <description>【Have you ever struggled to understand what a commit was doing or why it was made? Do you wish you had more clarity and context when reviewing or collaborating on code changes? If you answered yes, then you&amp;#8217;ll love what GitHub Copilot can do for you: generate commit explanations.】您是否曾经很难理解提交正在做什么或为什么要做？您是否希望在审查或协作代码更改时有更多的清晰度和上下文？如果您的回答是“是”，那么您一定会喜欢 GitHub Copilot 可以为您做的事情：生成提交解释。</description>
-      <pubDate>Mon, 08 Jul 2024 07:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【July 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 7 月：查看最新的 Microsoft Entra 关键功能发布、公告和更新</title>
-      <link>https://devblogs.microsoft.com/identity/eng-connect-jul-24</link>
-      <description>【An overview of the latest updates in Microsoft Entra for Jul 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】2024 年 7 月 Microsoft Entra 最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
-      <pubDate>Mon, 08 Jul 2024 13:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Open AI Whisper】打开AI耳语</title>
-      <link>https://devblogs.microsoft.com/premier-developer/open-ai-whisper</link>
-      <description>【Monu Bambroo explores Whisper, a speech to text model from OpenAI that you can use to transcribe audio files. The model is trained on a large dataset of English audio and text. The model is optimized for transcribing audio files that contain speech in English.】Monu Bambroo 探索了 Whisper，这是一种来自 OpenAI 的语音到文本模型，可用于转录音频文件。该模型是在大型英语音频和文本数据集上进行训练的。该模型针对转录包含英语语音的音频文件进行了优化。</description>
-      <pubDate>Tue, 09 Jul 2024 07:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code – July 2024 Release】Visual Studio Code 中的 Python – 2024 年 7 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2024-release</link>
-      <description>【The July 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include a new tool for more performant environment discovery, improved support for reStructuredText docstrings, and community contributed Pixi support. Keep reading to learn more!】2024 年 7 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括用于更高效环境发现的新工具、改进的对 reStructuredText 文档字符串的支持以及社区贡献的 Pixi 支持。继续阅读以了解更多信息！</description>
-      <pubDate>Tue, 09 Jul 2024 15:45:29 +0000</pubDate>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 2】在 C++/WinRT 中创建已完成的异步活动，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240710-00/?p=109963</link>
+      <description>【Making our function a coroutine.】让我们的函数成为协程。</description>
+      <pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s the point of std::monostate? You can’t do anything with it!】std::monostate 有什么意义？你不能用它做任何事！</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959</link>
       <description>【Not doing anything with it is exactly the point.】不用它做任何事情正是重点。</description>
       <pubDate>Mon, 08 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET and .NET Framework July 2024 servicing releases updates】.NET 和 .NET Framework 2024 年 7 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for July 2024.】2024 年 7 月 .NET 和 .NET Framework 的最新服务更新回顾。</description>
+      <pubDate>Tue, 09 Jul 2024 17:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
