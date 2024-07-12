@@ -4,40 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【Dark Mode Now Available on NuGet.org】NuGet.org 现已推出深色模式</title>
+      <link>https://devblogs.microsoft.com/nuget/dark-mode-now-available-on-nuget-org</link>
+      <description>【We won’t keep you “in the dark” about this any longer… Dark Mode for NuGet.org is finally here!   Your feedback has been invaluable in making this happen. We know that eye strain is a significant issue for many developers, and we&amp;#8217;re excited to offer a solution.】我们不会再让您对此“一无所知”……NuGet.org 的黑暗模式终于来了！   您的反馈对于实现这一目标非常宝贵。我们知道眼睛疲劳对于许多开发人员来说是一个重大问题，我们很高兴能够提供解决方案。</description>
+      <pubDate>Thu, 11 Jul 2024 13:08:54 +0000</pubDate>
+    </item>
+    <item>
       <title>【C# 13: Explore the latest preview features】C# 13：探索最新的预览功能</title>
       <link>https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features</link>
       <description>【C# 13 focuses on flexibility and performance, with top features like params collections for added flexibility, lock object for improved performance, and partial properties to support generators.】C# 13 专注于灵活性和性能，具有诸如用于增加灵活性的参数集合、用于提高性能的锁定对象以及用于支持生成器的部分属性等顶级功能。</description>
       <pubDate>Tue, 09 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【July 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 7 月：查看最新的 Microsoft Entra 关键功能发布、公告和更新</title>
-      <link>https://devblogs.microsoft.com/identity/eng-connect-jul-24</link>
-      <description>【An overview of the latest updates in Microsoft Entra for Jul 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】2024 年 7 月 Microsoft Entra 最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
-      <pubDate>Mon, 08 Jul 2024 13:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Running Open AI Whisper on Azure】在 Azure 上运行 Open AI Whisper</title>
-      <link>https://devblogs.microsoft.com/premier-developer/open-ai-whisper</link>
-      <description>【Monu Bambroo explores Whisper, a speech to text model from OpenAI that you can use to transcribe audio files. The model is trained on a large dataset of English audio and text. The model is optimized for transcribing audio files that contain speech in English.】Monu Bambroo 探索了 Whisper，这是一种来自 OpenAI 的语音到文本模型，可用于转录音频文件。该模型是在大型英语音频和文本数据集上进行训练的。该模型针对转录包含英语语音的音频文件进行了优化。</description>
-      <pubDate>Tue, 09 Jul 2024 07:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Open Sourcing DXIL Validator Hash】开源 DXIL 验证器哈希</title>
-      <link>https://devblogs.microsoft.com/directx/open-sourcing-dxil-validator-hash</link>
-      <description>【Today the HLSL team is announcing plans to open source the DXIL validator hashing algorithm and include it in the DirectXShaderCompiler sources on GitHub. If you’re wondering what any of that means, strap in! DXIL Validator To understand the DXIL Validator you first need to understand a few basics of what DXIL is.】今天，HLSL 团队宣布计划开源 DXIL 验证器哈希算法，并将其包含在 GitHub 上的 DirectXShaderCompiler 源代码中。如果您想知道这意味着什么，请系好安全带！ DXIL 验证器 要了解 DXIL 验证器，您首先需要了解 DXIL 的一些基础知识。</description>
-      <pubDate>Wed, 10 Jul 2024 21:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code – July 2024 Release】Visual Studio Code 中的 Python – 2024 年 7 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2024-release</link>
-      <description>【The July 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include a new tool for more performant environment discovery, improved support for reStructuredText docstrings, and community contributed Pixi support. Keep reading to learn more!】2024 年 7 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括用于更高效环境发现的新工具、改进的对 reStructuredText 文档字符串的支持以及社区贡献的 Pixi 支持。继续阅读以了解更多信息！</description>
-      <pubDate>Tue, 09 Jul 2024 15:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchonous activity in C++/WinRT, part 1】在 C++/WinRT 中创建已完成的异步活动，第 1 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240709-00/?p=109961</link>
-      <description>【The simplest version.】最简单的版本。</description>
-      <pubDate>Tue, 09 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【.NET and .NET Framework July 2024 servicing releases updates】.NET 和 .NET Framework 2024 年 7 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for July 2024.】2024 年 7 月 .NET 和 .NET Framework 的最新服务更新回顾。</description>
+      <pubDate>Tue, 09 Jul 2024 17:04:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure DevOps Server 2022.2 RTW now available】Azure DevOps Server 2022.2 RTW 现已推出</title>
@@ -46,22 +28,40 @@
       <pubDate>Tue, 09 Jul 2024 17:29:24 +0000</pubDate>
     </item>
     <item>
+      <title>【Open Sourcing DXIL Validator Hash】开源 DXIL 验证器哈希</title>
+      <link>https://devblogs.microsoft.com/directx/open-sourcing-dxil-validator-hash</link>
+      <description>【Today the HLSL team is announcing plans to open source the DXIL validator hashing algorithm and include it in the DirectXShaderCompiler sources on GitHub. If you’re wondering what any of that means, strap in! DXIL Validator To understand the DXIL Validator you first need to understand a few basics of what DXIL is.】今天，HLSL 团队宣布计划开源 DXIL 验证器哈希算法，并将其包含在 GitHub 上的 DirectXShaderCompiler 源代码中。如果您想知道这意味着什么，请系好安全带！ DXIL 验证器 要了解 DXIL 验证器，您首先需要了解 DXIL 的一些基础知识。</description>
+      <pubDate>Wed, 10 Jul 2024 21:27:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 2】在 C++/WinRT 中创建已完成的异步活动，第 2 部分</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240710-00/?p=109963</link>
       <description>【Making our function a coroutine.】让我们的函数成为协程。</description>
       <pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s the point of std::monostate? You can’t do anything with it!】std::monostate 有什么意义？你不能用它做任何事！</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959</link>
-      <description>【Not doing anything with it is exactly the point.】不用它做任何事情正是重点。</description>
-      <pubDate>Mon, 08 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【Why and How to Execute GraphQL Queries in .NET】为什么以及如何在 .NET 中执行 GraphQL 查询</title>
+      <link>https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet</link>
+      <description>【This post shows how to query a GraphQL API in .NET using Strawberry Shake from a console application】这篇文章展示了如何从控制台应用程序使用 Strawberry Shake 查询 .NET 中的 GraphQL API</description>
+      <pubDate>Thu, 11 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework July 2024 servicing releases updates】.NET 和 .NET Framework 2024 年 7 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for July 2024.】2024 年 7 月 .NET 和 .NET Framework 的最新服务更新回顾。</description>
-      <pubDate>Tue, 09 Jul 2024 17:04:00 +0000</pubDate>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 3】在 C++/WinRT 中创建已完成的异步活动，第 3 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240711-00/?p=109965</link>
+      <description>【Generalizing to the four kinds of Windows Runtime asynchronous activities.】概括为四种 Windows 运行时异步活动。</description>
+      <pubDate>Thu, 11 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Python Function Choice Behavior: Streamlining AI Model Configuration】Python 函数选择行为简介：简化 AI 模型配置</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-python-function-choice-behavior-streamlining-ai-model-configuration</link>
+      <description>【&amp;nbsp; Introducing Function Choice Behavior Today, we&amp;#8217;re excited to introduce the Function Choice Behavior, an enhancement over the existing Function Call Behavior. This new feature streamlines configuration and supports specifying multiple required functions, simplifying code and enhancing functionality. One significant advantage of Function Choice Behavior is its abstraction at the base PromptExecutionSettings level,】  介绍函数选择行为 今天，我们很高兴地介绍函数选择行为，它是对现有函数调用行为的增强。这一新功能简化了配置并支持指定多个所需功能，从而简化了代码并增强了功能。函数选择行为的一个显着优势是它在基本 PromptExecutionSettings 级别的抽象，</description>
+      <pubDate>Thu, 11 Jul 2024 21:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Secure your Python applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 保护您的 Python 应用程序</title>
+      <link>https://devblogs.microsoft.com/identity/secure-python-apps-with-external-id</link>
+      <description>【Integrate Microsoft Entra External ID with your Python Flask applications for secure user authentication. By leveraging External ID, you can securely manage access for external identities like business partners and customers, create custom branded sign-up experiences, and simplify user management. Follow this step-by-step guide to set up and run a sample Flask application using the Microsoft Authentication Library (MSAL).】将 Microsoft Entra 外部 ID 与 Python Flask 应用程序集成以实现安全的用户身份验证。通过利用外部 ID，您可以安全地管理业务合作伙伴和客户等外部身份的访问、创建自定义品牌注册体验并简化用户管理。按照此分步指南使用 Microsoft 身份验证库 (MSAL) 设置和运行示例 Flask 应用程序。</description>
+      <pubDate>Thu, 11 Jul 2024 18:30:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
