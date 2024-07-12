@@ -17,7 +17,7 @@ type Feed struct {
 	Url             string `mapstructure:"url"`
 	OriginLanguage  string `mapstructure:"origin_language"`
 	TargetLanguage  string `mapstructure:"target_language"`
-	TranslateMode   string `mapstructure:"translate_mode"`   // origin | bilingual, mix origin and target lang
+	TranslateMode   string `mapstructure:"translate_mode"`   // origin | proxy | bilingual, bilingual: mix origin and target lang, proxy: do not translate
 	TranslateEngine string `mapstructure:"translate_engine"` // google | openai
 	MaxPost         int    `mapstructure:"max_post"`         // max handled posts
 }
@@ -66,6 +66,9 @@ func (translator *Translator) Execute(outputDir string) {
 			if translator.TranslateMode == "bilingual" {
 				transTitle = fmt.Sprintf("【%s】%s", feed.Items[i].Title, translator.DoTranslate(feed.Items[i].Title))
 				transDesc = fmt.Sprintf("【%s】%s", feed.Items[i].Description, translator.DoTranslate(feed.Items[i].Description))
+			} else if translator.TranslateMode == "proxy" {
+				transTitle = feed.Items[i].Title
+				transDesc = feed.Items[i].Description
 			} else {
 				transTitle = translator.DoTranslate(feed.Items[i].Title)
 			}

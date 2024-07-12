@@ -82,7 +82,7 @@ feeds:
     url: "https://pythoncat.top/rss.xml"
     origin_language: "auto"
     target_language: "zh"
-    translate_mode: "bilingual"
+    translate_mode: "proxy"
     translate_engine: "google"
     max_post: 10
 
