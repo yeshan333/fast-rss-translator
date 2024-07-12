@@ -5,22 +5,28 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 500,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【A Crash Course on Distributed Systems】分布式系统速成班</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-distributed-systems</link>
+      <description>【A distributed system is a collection of computers, also known as nodes, that collaborate to perform a specific task or provide a service. These nodes are physically separate and communicate with each other by passing messages over a network. Distributed systems can span geographical boundaries, enabling them to utilize resources from different locations.】分布式系统是计算机（也称为节点）的集合，它们协作执行特定任务或提供服务。这些节点在物理上是独立的，并通过网络传递消息来相互通信。分布式系统可以跨越地理边界，使它们能够利用不同位置的资源。</description>
+      <pubDate>Thu, 11 Jul 2024 15:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course on Microservice Communication Patterns】微服务通信模式速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-microservice-communication</link>
+      <description>【Microservices architecture promotes the development of independent services. However, these services still need to communicate with each other to function as a cohesive system. Getting the communication right between microservices is often a challenge. There are two primary reasons for this:】微服务架构促进了独立服务的发展。然而，这些服务仍然需要相互通信才能作为一个内聚系统发挥作用。在微服务之间建立正确的通信通常是一个挑战。造成这种情况的主要原因有两个：</description>
+      <pubDate>Thu, 20 Jun 2024 15:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
+      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
+      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP116: 11 steps to go from Junior to Senior Developer】EP116：从初级开发人员到高级开发人员的 11 个步骤</title>
       <link>https://blog.bytebytego.com/p/ep116-11-steps-to-go-from-junior</link>
-      <description>【This week&amp;#8217;s system design refresher: What is Data Pipeline? | Why Is It So Popular? (Youtube video) 11 steps to go from Junior to Senior Developer Top 8 must-know Docker concepts What does a typical microservice architecture look like? Top 10 Most Popular Open-Source Databases】本周的系统设计复习：什么是数据管道？ |为什么如此受欢迎？ （Youtube 视频）从初级开发人员到高级开发人员的 11 个步骤 8 个必须了解的 Docker 概念 典型的微服务架构是什么样的？十大最受欢迎的开源数据库</description>
+      <description>【This week&amp;#8217;s system design refresher: What is Data Pipeline? | Why Is It So Popular? (Youtube video) 11 steps to go from Junior to Senior Developer Top 8 must-know Docker concepts What does a typical microservice architecture look like? Top 10 Most Popular Open-Source Databases】本周的系统设计复习：什么是数据管道？ |为什么它如此受欢迎？ （Youtube 视频）从初级开发人员到高级开发人员的 11 个步骤 8 个必须了解的 Docker 概念 典型的微服务架构是什么样的？十大最受欢迎的开源数据库</description>
       <pubDate>Sat, 15 Jun 2024 15:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP119: What do Amazon, Netflix, and Uber have in common?】EP119：亚马逊、Netflix 和 Uber 有什么共同点？</title>
-      <link>https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and</link>
-      <description>【This week&amp;#8217;s system design refresher: 7 Must-know Strategies to Scale Your Database (Youtube video) What do Amazon, Netflix, and Uber have in common? 100X Postgres Scaling at Figma Best ways to test system functionality SPONSOR US Monitor AI Applications Built with NVIDIA NIM (Sponsored)】本周的系统设计复习：扩展数据库的 7 个必须了解的策略（Youtube 视频）Amazon、Netflix 和 Uber 有什么共同点？ Figma 的 100 倍 Postgres 扩展 测试系统功能的最佳方法 赞助使用 NVIDIA NIM 构建的 US Monitor AI 应用程序（赞助）</description>
-      <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course in Database Sharding】数据库分片速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-sharding</link>
-      <description>【As an application grows in popularity, it attracts more active users and incorporates additional features. This growth leads to a daily increase in data generation, which is a positive indicator from a business perspective. However, it can also pose challenges to the application&#39;s architecture, particularly in terms of database scalability.】随着应用程序越来越受欢迎，它会吸引更多的活跃用户并包含更多功能。这种增长导致数据生成量每天增加，从业务角度来看，这是一个积极的指标。然而，它也可能给应用程序的架构带来挑战，特别是在数据库可扩展性方面。</description>
-      <pubDate>Thu, 27 Jun 2024 15:30:37 +0000</pubDate>
     </item>
     <item>
       <title>【Scaling to 1.2 Billion Daily API Requests with Caching at RevenueCat】通过 RevenueCat 的缓存将每日 API 请求扩展到 12 亿个</title>
@@ -29,10 +35,16 @@
       <pubDate>Tue, 18 Jun 2024 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Microservice Communication Patterns】微服务通信模式速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-microservice-communication</link>
-      <description>【Microservices architecture promotes the development of independent services. However, these services still need to communicate with each other to function as a cohesive system. Getting the communication right between microservices is often a challenge. There are two primary reasons for this:】微服务架构促进了独立服务的发展。然而，这些服务仍然需要相互通信才能作为一个内聚系统发挥作用。在微服务之间建立正确的通信通常是一个挑战。造成这种情况的主要原因有两个：</description>
-      <pubDate>Thu, 20 Jun 2024 15:30:51 +0000</pubDate>
+      <title>【A Crash Course in Database Sharding】数据库分片速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-sharding</link>
+      <description>【As an application grows in popularity, it attracts more active users and incorporates additional features. This growth leads to a daily increase in data generation, which is a positive indicator from a business perspective. However, it can also pose challenges to the application&#39;s architecture, particularly in terms of database scalability.】随着应用程序越来越受欢迎，它会吸引更多的活跃用户并包含更多功能。这种增长导致数据生成量每天增加，从业务角度来看，这是一个积极的指标。然而，它也可能给应用程序的架构带来挑战，特别是在数据库可扩展性方面。</description>
+      <pubDate>Thu, 27 Jun 2024 15:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP119: What do Amazon, Netflix, and Uber have in common?】EP119：亚马逊、Netflix 和 Uber 有什么共同点？</title>
+      <link>https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and</link>
+      <description>【This week&amp;#8217;s system design refresher: 7 Must-know Strategies to Scale Your Database (Youtube video) What do Amazon, Netflix, and Uber have in common? 100X Postgres Scaling at Figma Best ways to test system functionality SPONSOR US Monitor AI Applications Built with NVIDIA NIM (Sponsored)】本周的系统设计复习：扩展数据库的 7 个必须了解的策略（Youtube 视频）Amazon、Netflix 和 Uber 有什么共同点？ Figma 的 100 倍 Postgres 扩展 测试系统功能的最佳方法 赞助使用 NVIDIA NIM 构建的 US Monitor AI 应用程序（赞助）</description>
+      <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
     </item>
     <item>
       <title>【How Netflix Manages 238 Million Memberships?】Netflix 如何管理 2.38 亿会员？</title>
@@ -45,18 +57,6 @@
       <link>https://blog.bytebytego.com/p/ep117-what-makes-http2-faster-than</link>
       <description>【This week&amp;#8217;s system design refresher: Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar (Youtube video) What makes HTTP2 faster than HTTP1? Top 6 Cases to Apply Idempotency 4 Ways Netflix Uses Caching to Hold User Attention Log Parsing Cheat Sheet】本周的系统设计复习：Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar（Youtube 视频） 是什么让 HTTP2 比 HTTP1 更快？应用幂等性的 6 大案例 Netflix 使用缓存保存用户注意力日志的 4 种方式解析备忘单</description>
       <pubDate>Sat, 22 Jun 2024 15:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
-      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
-      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Distributed Systems】分布式系统速成班</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-distributed-systems</link>
-      <description>【A distributed system is a collection of computers, also known as nodes, that collaborate to perform a specific task or provide a service. These nodes are physically separate and communicate with each other by passing messages over a network. Distributed systems can span geographical boundaries, enabling them to utilize resources from different locations.】分布式系统是计算机（也称为节点）的集合，它们协作执行特定任务或提供服务。这些节点在物理上是独立的，并通过网络传递消息来相互通信。分布式系统可以跨越地理边界，使它们能够利用不同位置的资源。</description>
-      <pubDate>Thu, 11 Jul 2024 15:30:43 +0000</pubDate>
     </item>
     <item>
       <title>【EP118: What are the differences among database locks? 】EP118：数据库锁之间有什么区别？</title>
