@@ -4,16 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【Introducing Python Function Choice Behavior: Streamlining AI Model Configuration】Python 函数选择行为简介：简化 AI 模型配置</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-python-function-choice-behavior-streamlining-ai-model-configuration</link>
+      <description>【&amp;nbsp; Introducing Function Choice Behavior Today, we&amp;#8217;re excited to introduce the Function Choice Behavior, an enhancement over the existing Function Call Behavior. This new feature streamlines configuration and supports specifying multiple required functions, simplifying code and enhancing functionality. One significant advantage of Function Choice Behavior is its abstraction at the base PromptExecutionSettings level,】  介绍函数选择行为 今天，我们很高兴地介绍函数选择行为，它是对现有函数调用行为的增强。这一新功能简化了配置并支持指定多个所需功能，从而简化了代码并增强了功能。函数选择行为的一个显着优势是它在基本 PromptExecutionSettings 级别的抽象，</description>
+      <pubDate>Thu, 11 Jul 2024 21:02:11 +0000</pubDate>
+    </item>
+    <item>
       <title>【Open Sourcing DXIL Validator Hash】开源 DXIL 验证器哈希</title>
       <link>https://devblogs.microsoft.com/directx/open-sourcing-dxil-validator-hash</link>
       <description>【Today the HLSL team is announcing plans to open source the DXIL validator hashing algorithm and include it in the DirectXShaderCompiler sources on GitHub. If you’re wondering what any of that means, strap in! DXIL Validator To understand the DXIL Validator you first need to understand a few basics of what DXIL is.】今天，HLSL 团队宣布计划开源 DXIL 验证器哈希算法，并将其包含在 GitHub 上的 DirectXShaderCompiler 源代码中。如果您想知道这意味着什么，请系好安全带！ DXIL 验证器 要了解 DXIL 验证器，您首先需要了解 DXIL 的一些基础知识。</description>
       <pubDate>Wed, 10 Jul 2024 21:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 2】在 C++/WinRT 中创建已完成的异步活动，第 2 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240710-00/?p=109963</link>
-      <description>【Making our function a coroutine.】让我们的函数成为协程。</description>
-      <pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Dark Mode Now Available on NuGet.org】NuGet.org 现已推出深色模式</title>
@@ -22,34 +22,10 @@
       <pubDate>Thu, 11 Jul 2024 13:08:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Python Function Choice Behavior: Streamlining AI Model Configuration】Python 函数选择行为简介：简化 AI 模型配置</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-python-function-choice-behavior-streamlining-ai-model-configuration</link>
-      <description>【&amp;nbsp; Introducing Function Choice Behavior Today, we&amp;#8217;re excited to introduce the Function Choice Behavior, an enhancement over the existing Function Call Behavior. This new feature streamlines configuration and supports specifying multiple required functions, simplifying code and enhancing functionality. One significant advantage of Function Choice Behavior is its abstraction at the base PromptExecutionSettings level,】  介绍函数选择行为 今天，我们很高兴地介绍函数选择行为，它是对现有函数调用行为的增强。这一新功能简化了配置并支持指定多个所需功能，从而简化了代码并增强了功能。函数选择行为的一个显着优势是它在基本 PromptExecutionSettings 级别的抽象，</description>
-      <pubDate>Thu, 11 Jul 2024 21:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 3】在 C++/WinRT 中创建已完成的异步活动，第 3 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240711-00/?p=109965</link>
-      <description>【Generalizing to the four kinds of Windows Runtime asynchronous activities.】概括为四种 Windows 运行时异步活动。</description>
-      <pubDate>Thu, 11 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why and How to Execute GraphQL Queries in .NET】为什么以及如何在 .NET 中执行 GraphQL 查询</title>
-      <link>https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet</link>
-      <description>【This post shows how to query a GraphQL API in .NET using Strawberry Shake from a console application】这篇文章展示了如何从控制台应用程序使用 Strawberry Shake 查询 .NET 中的 GraphQL API</description>
-      <pubDate>Thu, 11 Jul 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 4】在 C++/WinRT 中创建已完成的异步活动，第 4 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240712-00/?p=109967</link>
-      <description>【Failing is easy. Failing correctly is hard.】失败很容易。正确地失败是很难的。</description>
-      <pubDate>Fri, 12 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing OData .NET 8 Release Candidate 1】宣布 OData .NET 8 候选版本 1</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-8-release-candidate-1</link>
-      <description>【OData .NET 8.0 RC1 is now available, bringing numerous significant improvements to the following libraries: Microsoft.OData.Core Microsoft.OData.Edm Microsoft.Spatia Microsoft.OData.Client This is the final release candidate before the official launch of these libraries, scheduled for August 12th. Most of the planned features and changes are included in this release candidate and are ready for you to explore.】OData .NET 8.0 RC1 现已推出，为以下库带来了众多重大改进： Microsoft.OData.Core Microsoft.OData.Edm Microsoft.Spatia Microsoft.OData.Client 这是这些库正式发布之前的最终候选版本，预定8月12日。大多数计划的功能和更改都包含在此候选版本中，可供您探索。</description>
-      <pubDate>Fri, 12 Jul 2024 08:26:13 +0000</pubDate>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 2】在 C++/WinRT 中创建已完成的异步活动，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240710-00/?p=109963</link>
+      <description>【Making our function a coroutine.】让我们的函数成为协程。</description>
+      <pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Secure your Python applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 保护您的 Python 应用程序</title>
@@ -58,10 +34,34 @@
       <pubDate>Thu, 11 Jul 2024 18:30:14 +0000</pubDate>
     </item>
     <item>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 4】在 C++/WinRT 中创建已完成的异步活动，第 4 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240712-00/?p=109967</link>
+      <description>【Failing is easy. Failing correctly is hard.】失败很容易。正确地失败是很难的。</description>
+      <pubDate>Fri, 12 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why and How to Execute GraphQL Queries in .NET】为什么以及如何在 .NET 中执行 GraphQL 查询</title>
+      <link>https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet</link>
+      <description>【This post shows how to query a GraphQL API in .NET using Strawberry Shake from a console application】这篇文章展示了如何从控制台应用程序使用 Strawberry Shake 查询 .NET 中的 GraphQL API</description>
+      <pubDate>Thu, 11 Jul 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing OData .NET 8 Release Candidate 1】宣布 OData .NET 8 候选版本 1</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-8-release-candidate-1</link>
+      <description>【OData .NET 8.0 RC1 is now available, bringing numerous significant improvements to the following libraries: Microsoft.OData.Core Microsoft.OData.Edm Microsoft.Spatia Microsoft.OData.Client This is the final release candidate before the official launch of these libraries, scheduled for August 12th. Most of the planned features and changes are included in this release candidate and are ready for you to explore.】OData .NET 8.0 RC1 现已推出，为以下库带来了众多重大改进： Microsoft.OData.Core Microsoft.OData.Edm Microsoft.Spatia Microsoft.OData.Client 这是这些库正式发布之前的最终候选版本，预定8月12日。大多数计划的功能和更改都包含在此候选版本中，可供您探索。</description>
+      <pubDate>Fri, 12 Jul 2024 08:26:13 +0000</pubDate>
+    </item>
+    <item>
       <title>【Document Summarization Solution Patterns using Azure Open AI &amp; Langchain】使用 Azure 开放 AI 和 Langchain 的文档摘要解决方案模式</title>
       <link>https://devblogs.microsoft.com/ise/solution-patterns-for-document-summarization-azureopenai</link>
       <description>【This post lists the various solution patterns that can be applied for document summarization. Document summarization comes with its challenges related to token limitation and chunk sizes. This blog post discusses about the solutions to tackle those challenges.】这篇文章列出了可应用于文档摘要的各种解决方案模式。文档摘要面临着与令牌限制和块大小相关的挑战。这篇博文讨论了应对这些挑战的解决方案。</description>
       <pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 3】在 C++/WinRT 中创建已完成的异步活动，第 3 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240711-00/?p=109965</link>
+      <description>【Generalizing to the four kinds of Windows Runtime asynchronous activities.】概括为四种 Windows 运行时异步活动。</description>
+      <pubDate>Thu, 11 Jul 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
