@@ -4,22 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【Why and How to Execute GraphQL Queries in .NET】为什么以及如何在 .NET 中执行 GraphQL 查询</title>
+      <link>https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet</link>
+      <description>【This post shows how to query a GraphQL API in .NET using Strawberry Shake from a console application】这篇文章展示了如何从控制台应用程序使用 Strawberry Shake 查询 .NET 中的 GraphQL API</description>
+      <pubDate>Thu, 11 Jul 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Document Summarization Solution Patterns using Azure Open AI &amp; Langchain】使用 Azure 开放 AI 和 Langchain 的文档摘要解决方案模式</title>
+      <link>https://devblogs.microsoft.com/ise/solution-patterns-for-document-summarization-azureopenai</link>
+      <description>【This post lists the various solution patterns that can be applied for document summarization. Document summarization comes with its challenges related to token limitation and chunk sizes. This blog post discusses about the solutions to tackle those challenges.】这篇文章列出了可应用于文档摘要的各种解决方案模式。文档摘要面临着与令牌限制和块大小相关的挑战。这篇博文讨论了应对这些挑战的解决方案。</description>
+      <pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing Python Function Choice Behavior: Streamlining AI Model Configuration】Python 函数选择行为简介：简化 AI 模型配置</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/introducing-python-function-choice-behavior-streamlining-ai-model-configuration</link>
       <description>【&amp;nbsp; Introducing Function Choice Behavior Today, we&amp;#8217;re excited to introduce the Function Choice Behavior, an enhancement over the existing Function Call Behavior. This new feature streamlines configuration and supports specifying multiple required functions, simplifying code and enhancing functionality. One significant advantage of Function Choice Behavior is its abstraction at the base PromptExecutionSettings level,】  介绍函数选择行为 今天，我们很高兴地介绍函数选择行为，它是对现有函数调用行为的增强。这一新功能简化了配置并支持指定多个所需功能，从而简化了代码并增强了功能。函数选择行为的一个显着优势是它在基本 PromptExecutionSettings 级别的抽象，</description>
       <pubDate>Thu, 11 Jul 2024 21:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Open Sourcing DXIL Validator Hash】开源 DXIL 验证器哈希</title>
-      <link>https://devblogs.microsoft.com/directx/open-sourcing-dxil-validator-hash</link>
-      <description>【Today the HLSL team is announcing plans to open source the DXIL validator hashing algorithm and include it in the DirectXShaderCompiler sources on GitHub. If you’re wondering what any of that means, strap in! DXIL Validator To understand the DXIL Validator you first need to understand a few basics of what DXIL is.】今天，HLSL 团队宣布计划开源 DXIL 验证器哈希算法，并将其包含在 GitHub 上的 DirectXShaderCompiler 源代码中。如果您想知道这意味着什么，请系好安全带！ DXIL 验证器 要了解 DXIL 验证器，您首先需要了解 DXIL 的一些基础知识。</description>
-      <pubDate>Wed, 10 Jul 2024 21:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dark Mode Now Available on NuGet.org】NuGet.org 现已推出深色模式</title>
-      <link>https://devblogs.microsoft.com/nuget/dark-mode-now-available-on-nuget-org</link>
-      <description>【We won’t keep you “in the dark” about this any longer… Dark Mode for NuGet.org is finally here!   Your feedback has been invaluable in making this happen. We know that eye strain is a significant issue for many developers, and we&amp;#8217;re excited to offer a solution.】我们不会再让您对此“一无所知”……NuGet.org 的黑暗模式终于来了！   您的反馈对于实现这一目标非常宝贵。我们知道眼睛疲劳对于许多开发人员来说是一个重大问题，我们很高兴能够提供解决方案。</description>
-      <pubDate>Thu, 11 Jul 2024 13:08:54 +0000</pubDate>
     </item>
     <item>
       <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 2】在 C++/WinRT 中创建已完成的异步活动，第 2 部分</title>
@@ -28,22 +28,16 @@
       <pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Secure your Python applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 保护您的 Python 应用程序</title>
-      <link>https://devblogs.microsoft.com/identity/secure-python-apps-with-external-id</link>
-      <description>【Integrate Microsoft Entra External ID with your Python Flask applications for secure user authentication. By leveraging External ID, you can securely manage access for external identities like business partners and customers, create custom branded sign-up experiences, and simplify user management. Follow this step-by-step guide to set up and run a sample Flask application using the Microsoft Authentication Library (MSAL).】将 Microsoft Entra 外部 ID 与 Python Flask 应用程序集成以实现安全的用户身份验证。通过利用外部 ID，您可以安全地管理业务合作伙伴和客户等外部身份的访问、创建自定义品牌注册体验并简化用户管理。按照此分步指南使用 Microsoft 身份验证库 (MSAL) 设置和运行示例 Flask 应用程序。</description>
-      <pubDate>Thu, 11 Jul 2024 18:30:14 +0000</pubDate>
-    </item>
-    <item>
       <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 4】在 C++/WinRT 中创建已完成的异步活动，第 4 部分</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240712-00/?p=109967</link>
       <description>【Failing is easy. Failing correctly is hard.】失败很容易。正确地失败是很难的。</description>
       <pubDate>Fri, 12 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why and How to Execute GraphQL Queries in .NET】为什么以及如何在 .NET 中执行 GraphQL 查询</title>
-      <link>https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet</link>
-      <description>【This post shows how to query a GraphQL API in .NET using Strawberry Shake from a console application】这篇文章展示了如何从控制台应用程序使用 Strawberry Shake 查询 .NET 中的 GraphQL API</description>
-      <pubDate>Thu, 11 Jul 2024 17:05:00 +0000</pubDate>
+      <title>【Dark Mode Now Available on NuGet.org】NuGet.org 现已推出深色模式</title>
+      <link>https://devblogs.microsoft.com/nuget/dark-mode-now-available-on-nuget-org</link>
+      <description>【We won’t keep you “in the dark” about this any longer… Dark Mode for NuGet.org is finally here!   Your feedback has been invaluable in making this happen. We know that eye strain is a significant issue for many developers, and we&amp;#8217;re excited to offer a solution.】我们不会再让您对此“一无所知”……NuGet.org 的黑暗模式终于来了！   您的反馈对于实现这一目标非常宝贵。我们知道眼睛疲劳对于许多开发人员来说是一个重大问题，我们很高兴能够提供解决方案。</description>
+      <pubDate>Thu, 11 Jul 2024 13:08:54 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing OData .NET 8 Release Candidate 1】宣布 OData .NET 8 候选版本 1</title>
@@ -52,10 +46,16 @@
       <pubDate>Fri, 12 Jul 2024 08:26:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Document Summarization Solution Patterns using Azure Open AI &amp; Langchain】使用 Azure 开放 AI 和 Langchain 的文档摘要解决方案模式</title>
-      <link>https://devblogs.microsoft.com/ise/solution-patterns-for-document-summarization-azureopenai</link>
-      <description>【This post lists the various solution patterns that can be applied for document summarization. Document summarization comes with its challenges related to token limitation and chunk sizes. This blog post discusses about the solutions to tackle those challenges.】这篇文章列出了可应用于文档摘要的各种解决方案模式。文档摘要面临着与令牌限制和块大小相关的挑战。这篇博文讨论了应对这些挑战的解决方案。</description>
-      <pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
+      <title>【Secure your Python applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 保护您的 Python 应用程序</title>
+      <link>https://devblogs.microsoft.com/identity/secure-python-apps-with-external-id</link>
+      <description>【Integrate Microsoft Entra External ID with your Python Flask applications for secure user authentication. By leveraging External ID, you can securely manage access for external identities like business partners and customers, create custom branded sign-up experiences, and simplify user management. Follow this step-by-step guide to set up and run a sample Flask application using the Microsoft Authentication Library (MSAL).】将 Microsoft Entra 外部 ID 与 Python Flask 应用程序集成以实现安全的用户身份验证。通过利用外部 ID，您可以安全地管理业务合作伙伴和客户等外部身份的访问、创建自定义品牌注册体验并简化用户管理。按照此分步指南使用 Microsoft 身份验证库 (MSAL) 设置和运行示例 Flask 应用程序。</description>
+      <pubDate>Thu, 11 Jul 2024 18:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Open Sourcing DXIL Validator Hash】开源 DXIL 验证器哈希</title>
+      <link>https://devblogs.microsoft.com/directx/open-sourcing-dxil-validator-hash</link>
+      <description>【Today the HLSL team is announcing plans to open source the DXIL validator hashing algorithm and include it in the DirectXShaderCompiler sources on GitHub. If you’re wondering what any of that means, strap in! DXIL Validator To understand the DXIL Validator you first need to understand a few basics of what DXIL is.】今天，HLSL 团队宣布计划开源 DXIL 验证器哈希算法，并将其包含在 GitHub 上的 DirectXShaderCompiler 源代码中。如果您想知道这意味着什么，请系好安全带！ DXIL 验证器 要了解 DXIL 验证器，您首先需要了解 DXIL 的一些基础知识。</description>
+      <pubDate>Wed, 10 Jul 2024 21:27:05 +0000</pubDate>
     </item>
     <item>
       <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 3】在 C++/WinRT 中创建已完成的异步活动，第 3 部分</title>
