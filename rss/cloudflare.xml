@@ -10,40 +10,10 @@
       <pubDate>Tue, 09 Jul 2024 12:00:59 +0000</pubDate>
     </item>
     <item>
-      <title>【DDoS threat report for 2024 Q2】2024 年第二季度 DDoS 威胁报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q2</link>
-      <description>【 Welcome to the 18th edition of the Cloudflare DDoS Threat Report. Released quarterly, these reports provide an in-depth analysis of the DDoS threat landscape as observed across the Cloudflare network. This edition focuses on the second quarter of 2024 】欢迎阅读第 18 版 Cloudflare DDoS 威胁报告。这些报告每季度发布一次，提供对 Cloudflare 网络中观察到的 DDoS 威胁态势的深入分析。本版重点关注 2024 年第二季度</description>
-      <pubDate>Tue, 09 Jul 2024 13:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Declare your AIndependence: block AI bots, scrapers and crawlers with a single click】宣告您的 AIndependence：只需单击一下即可阻止 AI 机器人、抓取工具和爬虫</title>
-      <link>https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click</link>
-      <description>【 To help preserve a safe Internet for content creators, we’ve just launched a brand new “easy button” to block all AI bots. It’s available for all customers, including those on our free tier 】为了帮助内容创作者维护安全的互联网，我们刚刚推出了一个全新的“简单按钮”来阻止所有人工智能机器人。它适用于所有客户，包括我们的免费套餐客户</description>
-      <pubDate>Wed, 03 Jul 2024 13:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【French elections: political cyber attacks and Internet traffic shifts】法国选举：政治网络攻击和互联网流量变化</title>
-      <link>https://blog.cloudflare.com/2024-french-elections-political-cyber-attacks-and-internet-traffic-shifts</link>
-      <description>【 Check the dynamics of the 2024 French legislative elections, the surprising election results’ impact on Internet traffic changes, and the cyber attacks targeting political parties 】查看2024年法国立法选举动态、出人意料的选举结果对互联网流量变化的影响以及针对政党的网络攻击</description>
-      <pubDate>Mon, 08 Jul 2024 15:52:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【Application Security report: 2024 update】应用程序安全报告：2024 年更新</title>
       <link>https://blog.cloudflare.com/application-security-report-2024-update</link>
       <description>【 Cloudflare’s updated 2024 view on Internet cyber security trends spanning global traffic insights, bot traffic insights, API traffic insights, and client-side risks 】Cloudflare 对 2024 年互联网网络安全趋势的最新看法，涵盖全球流量洞察、机器人流量洞察、API 流量洞察和客户端风险</description>
       <pubDate>Thu, 11 Jul 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare 1.1.1.1 incident on June 27, 2024】2024 年 6 月 27 日的 Cloudflare 1.1.1.1 事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024</link>
-      <description>【 On June 27, 2024, a small number of users globally may have noticed that 1.1.1.1 was unreachable or degraded. The root cause was a mix of BGP (Border Gateway Protocol) hijacking and a route leak 】2024 年 6 月 27 日，全球少数用户可能已经注意到 1.1.1.1 无法访问或降级。根本原因是 BGP（边界网关协议）劫持和路由泄漏的混合</description>
-      <pubDate>Thu, 04 Jul 2024 13:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【UK election day 2024: traffic trends and attacks on political parties】2024 年英国选举日：流量趋势和对政党的攻击</title>
-      <link>https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties</link>
-      <description>【 Here, we explore the dynamics of Internet traffic and cybersecurity during the UK’s 2024 general election, highlighting late-day traffic changes and a post-vote attack on a political party 】在这里，我们探讨了英国 2024 年大选期间互联网流量和网络安全的动态，重点介绍了晚间流量变化和针对政党的投票后攻击</description>
-      <pubDate>Fri, 05 Jul 2024 13:24:49 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare Zaraz adds support for server-side rendering of X and Instagram embeds】Cloudflare Zaraz 增加了对 X 和 Instagram 嵌入的服务器端渲染的支持</title>
@@ -52,16 +22,46 @@
       <pubDate>Wed, 10 Jul 2024 13:00:55 +0000</pubDate>
     </item>
     <item>
-      <title>【Euro 2024’s impact on Internet traffic: a closer look at finalists Spain and England】2024 年欧洲杯对互联网流量的影响：仔细观察决赛入围球队西班牙和英格兰</title>
-      <link>https://blog.cloudflare.com/euro-2024s-impact-on-internet-traffic-a-closer-look-at-finalists-spain-and-england</link>
-      <description>【 Here we examine how UEFA Euro 2024 football matches have influenced Internet traffic patterns in participating countries, with a special focus on the two finalists, Spain and England, on their journey to the final 】在这里，我们研究了 2024 年欧洲杯足球比赛如何影响参赛国家的互联网流量模式，特别关注西班牙和英格兰这两个决赛选手进入决赛的过程</description>
-      <pubDate>Thu, 11 Jul 2024 16:41:39 +0000</pubDate>
+      <title>【French elections: political cyber attacks and Internet traffic shifts】法国选举：政治网络攻击和互联网流量变化</title>
+      <link>https://blog.cloudflare.com/2024-french-elections-political-cyber-attacks-and-internet-traffic-shifts</link>
+      <description>【 Check the dynamics of the 2024 French legislative elections, the surprising election results’ impact on Internet traffic changes, and the cyber attacks targeting political parties 】查看2024年法国立法选举动态、出人意料的选举结果对互联网流量变化的影响以及针对政党的网络攻击</description>
+      <pubDate>Mon, 08 Jul 2024 15:52:38 +0000</pubDate>
     </item>
     <item>
       <title>【First round of French election: party attacks and a modest traffic dip】法国大选第一轮：政党攻击和流量小幅下降</title>
       <link>https://blog.cloudflare.com/first-round-of-french-election-2024-party-attacks-and-a-modest-traffic-dip</link>
       <description>【 How Cloudflare mitigated DDoS attacks targeting French political parties during the 2024 legislative elections, as detailed in our ongoing election coverage 】Cloudflare 如何在 2024 年立法选举期间缓解针对法国政党的 DDoS 攻击，详情请参阅我们正在进行的选举报道</description>
       <pubDate>Wed, 03 Jul 2024 13:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Euro 2024’s impact on Internet traffic: a closer look at finalists Spain and England】2024 年欧洲杯对互联网流量的影响：仔细观察决赛入围球队西班牙和英格兰</title>
+      <link>https://blog.cloudflare.com/euro-2024s-impact-on-internet-traffic-a-closer-look-at-finalists-spain-and-england</link>
+      <description>【 Here we examine how UEFA Euro 2024 football matches have influenced Internet traffic patterns in participating countries, with a special focus on the two finalists, Spain and England, on their journey to the final 】在这里，我们研究了 2024 年欧洲杯足球比赛如何影响参赛国家的互联网流量模式，特别关注西班牙和英格兰这两个决赛选手进入决赛的过程</description>
+      <pubDate>Thu, 11 Jul 2024 16:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【UK election day 2024: traffic trends and attacks on political parties】2024 年英国选举日：流量趋势和对政党的攻击</title>
+      <link>https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties</link>
+      <description>【 Here, we explore the dynamics of Internet traffic and cybersecurity during the UK’s 2024 general election, highlighting late-day traffic changes and a post-vote attack on a political party 】在这里，我们探讨了英国 2024 年大选期间互联网流量和网络安全的动态，重点介绍了晚间流量变化和针对政党的投票后攻击</description>
+      <pubDate>Fri, 05 Jul 2024 13:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Declare your AIndependence: block AI bots, scrapers and crawlers with a single click】宣告您的 AIndependence：只需单击一下即可阻止 AI 机器人、抓取工具和爬虫</title>
+      <link>https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click</link>
+      <description>【 To help preserve a safe Internet for content creators, we’ve just launched a brand new “easy button” to block all AI bots. It’s available for all customers, including those on our free tier 】为了帮助内容创作者维护安全的互联网，我们刚刚推出了一个全新的“简单按钮”来阻止所有人工智能机器人。它适用于所有客户，包括我们的免费套餐客户</description>
+      <pubDate>Wed, 03 Jul 2024 13:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【DDoS threat report for 2024 Q2】2024 年第二季度 DDoS 威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q2</link>
+      <description>【 Welcome to the 18th edition of the Cloudflare DDoS Threat Report. Released quarterly, these reports provide an in-depth analysis of the DDoS threat landscape as observed across the Cloudflare network. This edition focuses on the second quarter of 2024 】欢迎阅读第 18 版 Cloudflare DDoS 威胁报告。这些报告每季度发布一次，提供对 Cloudflare 网络中观察到的 DDoS 威胁态势的深入分析。本版重点关注 2024 年第二季度</description>
+      <pubDate>Tue, 09 Jul 2024 13:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare 1.1.1.1 incident on June 27, 2024】2024 年 6 月 27 日的 Cloudflare 1.1.1.1 事件</title>
+      <link>https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024</link>
+      <description>【 On June 27, 2024, a small number of users globally may have noticed that 1.1.1.1 was unreachable or degraded. The root cause was a mix of BGP (Border Gateway Protocol) hijacking and a route leak 】2024 年 6 月 27 日，全球少数用户可能已经注意到 1.1.1.1 无法访问或降级。根本原因是 BGP（边界网关协议）劫持和路由泄漏的混合</description>
+      <pubDate>Thu, 04 Jul 2024 13:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

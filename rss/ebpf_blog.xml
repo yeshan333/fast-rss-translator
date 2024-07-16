@@ -4,40 +4,10 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【Monitoring PostgreSQL Database on Kubernetes using eBPF】使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</title>
-      <link>https://getanteon.com/blog/monitoring-postgre-sql-database-on-kubernetes-using-ebpf/</link>
-      <description>【Learn how to use eBPF for monitoring PostgreSQL databases on Kubernetes】了解如何使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</description>
-      <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using eBPF to Deep Dive Into Functions in the Kernel】使用 eBPF 深入研究内核中的函数</title>
-      <link>https://blog.devops.dev/using-ebpf-to-deep-dive-into-functions-in-the-kernel-478c49ccb6a5</link>
-      <description>【Learn about what eBPF is, how it works, and what its programming model is like】了解 eBPF 是什么、它是如何工作的以及它的编程模型是什么样的</description>
-      <pubDate>Sun, 07 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【Reverse engineering eBPF programs】逆向工程 eBPF 程序</title>
       <link>https://observability-360.com/article/ViewArticle?id=ebpf-in-observability-pt2</link>
       <description>【Dive into the internals of how eBPF works by reverse engineering some eBPF-based programs】通过对一些基于 eBPF 的程序进行逆向工程，深入了解 eBPF 的工作原理</description>
       <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Talking eBPF and Cilium with Liz Rice】与 Liz Rice 谈论 eBPF 和 Cilium</title>
-      <link>https://www.youtube.com/watch?v=fFeBNvociwE</link>
-      <description>【Liz Rice explains how eBPF works, what benefits and value it offers to enterprises looking to not only consolidate their observability of cloud native platforms and applications but also gain Linux kernel-level security and networking management】Liz Rice 解释了 eBPF 的工作原理，以及它为那些不仅希望巩固云原生平台和应用程序的可观察性，而且还希望获得 Linux 内核级安全性和网络管理的企业提供的好处和价值</description>
-      <pubDate>Fri, 05 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fooling Port Scanners: Simulating Open Ports with eBPF and Rust】欺骗端口扫描器：使用 eBPF 和 Rust 模拟开放端口</title>
-      <link>https://douglasmakey.medium.com/fooling-port-scanners-simulating-open-ports-with-ebpf-and-rust-e70a3591ffc9</link>
-      <description>【Learn how to use Rust and eBPF to thwart curious individuals attempting to scan a machine using the three-way handshake behavior and a related port scanning technique】了解如何使用 Rust 和 eBPF 来阻止好奇的个人尝试使用三向握手行为和相关端口扫描技术来扫描机器</description>
-      <pubDate>Sun, 30 Jun 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【App-Level eBPF Applications - User vs. Kernel Probes】应用程序级 eBPF 应用程序 - 用户与内核探针</title>
-      <link>https://www.oligo.security/blog/app-level-ebpf-applications</link>
-      <description>【Learn about the two most popular methods for implementing eBPF instrumentation to gain application context in the runtime, by using user-space and kernel probes - and understand how each impacts the application performance and compute cost】了解通过使用用户空间和内核探针实现 eBPF 检测以在运行时获取应用程序上下文的两种最流行的方法 - 并了解每种方法如何影响应用程序性能和计算成本</description>
-      <pubDate>Mon, 01 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Writing eBPF Tracepoint Program with Rust Aya: Tips and Example】使用 Rust Aya 编写 eBPF 跟踪点程序：提示和示例</title>
@@ -46,22 +16,52 @@
       <pubDate>Sat, 06 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF Network Vershitifier】eBPF 网络 Vershitifier</title>
-      <link>https://blog.scottgerring.com/ebpf-network-vershitifier/</link>
-      <description>【Learn about eBPF Network Vershitifier, a simple ebpf-go application that randomly drops outgoing packets for targeted processes using the eBPF TC filters】了解 eBPF Network Vershitifier，这是一个简单的 ebpf-go 应用程序，它使用 eBPF TC 过滤器随机丢弃目标进程的传出数据包</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【App-Level eBPF Applications - User vs. Kernel Probes】应用程序级 eBPF 应用程序 - 用户与内核探针</title>
+      <link>https://www.oligo.security/blog/app-level-ebpf-applications</link>
+      <description>【Learn about the two most popular methods for implementing eBPF instrumentation to gain application context in the runtime, by using user-space and kernel probes - and understand how each impacts the application performance and compute cost】了解通过使用用户空间和内核探针实现 eBPF 检测以在运行时获取应用程序上下文的两种最流行的方法 - 并了解每种方法如何影响应用程序性能和计算成本</description>
+      <pubDate>Mon, 01 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Aflevering 59: Unpacking eBPF and Sustainability】Aflevering 59：解析 eBPF 和可持续性</title>
-      <link>https://www.k8spodcast.nl/afleveringen/aflevering-59-unpacking-ebpf-and-sustainability</link>
-      <description>【In deze aflevering legt Alessandro de complexiteit van eBPF-maps uit en hoe ze de beweging van data mogelijk maken】在本集中，Alessandro 解释了 eBPF 映射的复杂性以及它们如何实现数据移动</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Using eBPF to Deep Dive Into Functions in the Kernel】使用 eBPF 深入研究内核中的函数</title>
+      <link>https://blog.devops.dev/using-ebpf-to-deep-dive-into-functions-in-the-kernel-478c49ccb6a5</link>
+      <description>【Learn about what eBPF is, how it works, and what its programming model is like】了解 eBPF 是什么、它是如何工作的以及它的编程模型是什么样的</description>
+      <pubDate>Sun, 07 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monitoring PostgreSQL Database on Kubernetes using eBPF】使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</title>
+      <link>https://getanteon.com/blog/monitoring-postgre-sql-database-on-kubernetes-using-ebpf/</link>
+      <description>【Learn how to use eBPF for monitoring PostgreSQL databases on Kubernetes】了解如何使用 eBPF 监控 Kubernetes 上的 PostgreSQL 数据库</description>
+      <pubDate>Tue, 25 Jun 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Hello eBPF: BPF Type Format and 13 Thousand Generated Java Classes (11)】Hello eBPF：BPF 类型格式和 13000 个生成的 Java 类（11）</title>
       <link>https://mostlynerdless.de/blog/2024/07/02/hello-ebpf-bpf-type-format-and-13-thousand-generated-java-classes-11/</link>
       <description>【The eleventh installment of the Hello eBPF series. In this part, you’ll learn about the BPF Type Format (BTF) and how and why we generate Java code from it】Hello eBPF 系列的第十一部分。在这一部分中，您将了解 BPF 类型格式 (BTF) 以及我们如何以及为何从中生成 Java 代码</description>
       <pubDate>Tue, 02 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Talking eBPF and Cilium with Liz Rice】与 Liz Rice 谈论 eBPF 和 Cilium</title>
+      <link>https://www.youtube.com/watch?v=fFeBNvociwE</link>
+      <description>【Liz Rice explains how eBPF works, what benefits and value it offers to enterprises looking to not only consolidate their observability of cloud native platforms and applications but also gain Linux kernel-level security and networking management】Liz Rice 解释了 eBPF 的工作原理，以及它为那些不仅希望巩固云原生平台和应用程序的可观察性，而且还希望获得 Linux 内核级安全性和网络管理的企业提供的好处和价值</description>
+      <pubDate>Fri, 05 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【eBPF Network Vershitifier】eBPF 网络 Vershitifier</title>
+      <link>https://blog.scottgerring.com/ebpf-network-vershitifier/</link>
+      <description>【Learn about eBPF Network Vershitifier, a simple ebpf-go application that randomly drops outgoing packets for targeted processes using the eBPF TC filters】了解 eBPF Network Vershitifier，这是一个简单的 ebpf-go 应用程序，它使用 eBPF TC 过滤器随机丢弃目标进程的传出数据包</description>
+      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Fooling Port Scanners: Simulating Open Ports with eBPF and Rust】欺骗端口扫描器：使用 eBPF 和 Rust 模拟开放端口</title>
+      <link>https://douglasmakey.medium.com/fooling-port-scanners-simulating-open-ports-with-ebpf-and-rust-e70a3591ffc9</link>
+      <description>【Learn how to use Rust and eBPF to thwart curious individuals attempting to scan a machine using the three-way handshake behavior and a related port scanning technique】了解如何使用 Rust 和 eBPF 来阻止好奇的个人尝试使用三向握手行为和相关端口扫描技术来扫描机器</description>
+      <pubDate>Sun, 30 Jun 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aflevering 59: Unpacking eBPF and Sustainability】Aflevering 59：解析 eBPF 和可持续性</title>
+      <link>https://www.k8spodcast.nl/afleveringen/aflevering-59-unpacking-ebpf-and-sustainability</link>
+      <description>【In deze aflevering legt Alessandro de complexiteit van eBPF-maps uit en hoe ze de beweging van data mogelijk maken】在本集中，Alessandro 解释了 eBPF 映射的复杂性以及它们如何实现数据移动</description>
+      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
