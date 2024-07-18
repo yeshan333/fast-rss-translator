@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 6】在 C++/WinRT 中创建已完成的异步活动，第 6 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240716-00/?p=109973</link>
-      <description>【Let the conversion do the talking.】让转换来说话。</description>
-      <pubDate>Tue, 16 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【Making Visual Studio a bit more visual】让 Visual Studio 更加直观</title>
+      <link>https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual</link>
+      <description>【Any web, desktop, or mobile developer works with images often. You reference them from C#, HTML, XAML, CSS, C++, VB, TypeScript, and even in code comments. Some images are local, and some exist online or on network shares, while others only exist as base64 encoded strings.】任何 Web、桌面或移动开发人员都经常使用图像。您可以从 C#、HTML、XAML、CSS、C++、VB、TypeScript 甚至代码注释中引用它们。有些图像是本地的，有些存在于在线或网络共享上，而其他图像仅作为 base64 编码字符串存在。</description>
+      <pubDate>Tue, 16 Jul 2024 10:00:23 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Fluid Relay: Leveraging Azure Blob Storage to scale Git】Azure Fluid Relay：利用 Azure Blob 存储来扩展 Git</title>
@@ -22,22 +22,16 @@
       <pubDate>Mon, 15 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 7】在 C++/WinRT 中创建已完成的异步活动，第 7 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240717-00/?p=109975</link>
+      <description>【Implementing the contract directly.】直接履行合同。</description>
+      <pubDate>Wed, 17 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Building a Safer Future – How NuGet is Tackling Software Supply Chain Threats】构建更安全的未来 - NuGet 如何应对软件供应链威胁</title>
       <link>https://devblogs.microsoft.com/nuget/building-a-safer-future-how-nuget-is-tackling-software-supply-chain-threats</link>
       <description>【Despite significant technological progress in addressing complex security threats, the key to preventing the next attack lies in adhering to fundamental security principles. It&amp;#8217;s essential to ensure the software ecosystem is secure, focusing on protecting .NET developers who design, build, and maintain the critical software we all use.】尽管在解决复杂的安全威胁方面取得了重大的技术进步，但防止下一次攻击的关键在于坚持基本的安全原则。确保软件生态系统的安全至关重要，重点是保护设计、构建和维护我们都使用的关键软件的 .NET 开发人员。</description>
       <pubDate>Tue, 16 Jul 2024 18:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 5】在 C++/WinRT 中创建已完成的异步活动，第 5 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240715-00/?p=109971</link>
-      <description>【Trying to fail more correctly.】尝试更正确地失败。</description>
-      <pubDate>Mon, 15 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Making Visual Studio a bit more visual】让 Visual Studio 更加直观</title>
-      <link>https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual</link>
-      <description>【Any web, desktop, or mobile developer works with images often. You reference them from C#, HTML, XAML, CSS, C++, VB, TypeScript, and even in code comments. Some images are local, and some exist online or on network shares, while others only exist as base64 encoded strings.】任何 Web、桌面或移动开发人员都经常使用图像。您可以从 C#、HTML、XAML、CSS、C++、VB、TypeScript 甚至代码注释中引用它们。有些图像是本地的，有些存在于在线或网络共享上，而其他图像仅以 base64 编码字符串存在。</description>
-      <pubDate>Tue, 16 Jul 2024 10:00:23 +0000</pubDate>
     </item>
     <item>
       <title>【Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!】亲身体验 Visual Studio 和 Azure：今年 8 月在 Microsoft 总部现场直播！</title>
@@ -46,22 +40,28 @@
       <pubDate>Mon, 15 Jul 2024 14:45:58 +0000</pubDate>
     </item>
     <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 4】在 C++/WinRT 中创建已完成的异步活动，第 4 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240712-00/?p=109967</link>
-      <description>【Failing is easy. Failing correctly is hard.】失败很容易。正确地失败是很难的。</description>
-      <pubDate>Fri, 12 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【Model as a Service (MaaS) Available for Semantic Kernel】可用于语义内核的模型即服务 (MaaS)</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/model-as-a-service-maas-available-for-semantic-kernel</link>
+      <description>【Hello! We are delighted to make an announcement regarding the availability of Azure AI Inference within Semantic Kernel (Python). This latest AI connector empowers you to experiment with a broader range of models hosted on Azure within your applications. &amp;nbsp; The Sample Application: Evaluating LLMs Here is the location of the full sample.】你好！我们很高兴地宣布有关语义内核 (Python) 中 Azure AI 推理的可用性。这个最新的 AI 连接器使您能够在应用程序中试验 Azure 上托管的更广泛的模型。   示例应用程序：评估法学硕士 这里是完整示例的位置。</description>
+      <pubDate>Wed, 17 Jul 2024 21:12:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Python Function Choice Behavior: Streamlining AI Model Configuration】Python 函数选择行为简介：简化 AI 模型配置</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-python-function-choice-behavior-streamlining-ai-model-configuration</link>
-      <description>【&amp;nbsp; Introducing Function Choice Behavior Today, we&amp;#8217;re excited to introduce the Function Choice Behavior, an enhancement over the existing Function Call Behavior. This new feature streamlines configuration and supports specifying multiple required functions, simplifying code and enhancing functionality. One significant advantage of Function Choice Behavior is its abstraction at the base PromptExecutionSettings level,】  介绍函数选择行为 今天，我们很高兴地介绍函数选择行为，它是对现有函数调用行为的增强。这一新功能简化了配置并支持指定多个所需功能，从而简化了代码并增强了功能。函数选择行为的一个显着优势是它在基本 PromptExecutionSettings 级别的抽象，</description>
-      <pubDate>Thu, 11 Jul 2024 21:02:11 +0000</pubDate>
+      <title>【NuGetAudit 2.0: Elevating Security and Trust in Package Management】NuGetAudit 2.0：提升包管理的安全性和信任度</title>
+      <link>https://devblogs.microsoft.com/nuget/nugetaudit-2-0-elevating-security-and-trust-in-package-management</link>
+      <description>【Introduction In November 2023 (NuGet 6.8, Visual Studio 17.8, .NET SDK 8.0.100), we released NuGet Audit. NuGet Audit provides warnings during restore when a package with a known vulnerability is used by a project. More information about NuGet Audit, including detailed configuration options can be found on our learn website.】简介 2023 年 11 月（NuGet 6.8、Visual Studio 17.8、.NET SDK 8.0.100），我们发布了 NuGet Audit。当项目使用具有已知漏洞的包时，NuGet Audit 会在还原期间提供警告。有关 NuGet Audit 的更多信息（包括详细的配置选项）可以在我们的学习网站上找到。</description>
+      <pubDate>Wed, 17 Jul 2024 19:37:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing OData .NET 8 Release Candidate 1】宣布 OData .NET 8 候选版本 1</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-8-release-candidate-1</link>
-      <description>【OData .NET 8.0 RC1 is now available, bringing numerous significant improvements to the following libraries: Microsoft.OData.Core Microsoft.OData.Edm Microsoft.Spatia Microsoft.OData.Client This is the final release candidate before the official launch of these libraries, scheduled for August 12th. Most of the planned features and changes are included in this release candidate and are ready for you to explore.】OData .NET 8.0 RC1 现已推出，为以下库带来了众多重大改进： Microsoft.OData.Core Microsoft.OData.Edm Microsoft.Spatia Microsoft.OData.Client 这是这些库正式发布之前的最终候选版本，预定8月12日。大多数计划的功能和更改都包含在此候选版本中，可供您探索。</description>
-      <pubDate>Fri, 12 Jul 2024 08:26:13 +0000</pubDate>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 6】在 C++/WinRT 中创建已完成的异步活动，第 6 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240716-00/?p=109973</link>
+      <description>【Let the conversion do the talking.】让转换来说话。</description>
+      <pubDate>Tue, 16 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building React Native for Windows Apps from a Mac】从 Mac 构建 React Native for Windows 应用程序</title>
+      <link>https://devblogs.microsoft.com/react-native/2024-07-18-running-rnw-from-a-mac-md</link>
+      <description>【Owning a Windows PC is not a requirement to build and ship Windows experiences. In this blog post, I&#39;ll walk through my investigation of how to develop React Native for Windows applications from a Mac.】拥有 Windows PC 并不是构建和交付 Windows 体验的必要条件。在这篇博文中，我将逐步研究如何从 Mac 开发适用于 Windows 应用程序的 React Native。</description>
+      <pubDate>Thu, 18 Jul 2024 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

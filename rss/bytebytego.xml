@@ -7,20 +7,8 @@
     <item>
       <title>【Where to get started with GenAI】从哪里开始使用 GenAI</title>
       <link>https://blog.bytebytego.com/p/where-to-get-started-with-genai</link>
-      <description>【How to monitor AWS container environments at scale (Sponsored) In this eBook, Datadog and AWS share insights into the changing state of containers in the cloud and explore why orchestration technologies are an essential part of managing ever-changing containerized workloads.】如何大规模监控 AWS 容器环境（赞助） 在这本电子书中，Datadog 和 AWS 分享了对云中容器不断变化的状态的见解，并探讨了为什么编排技术是管理不断变化的容器化工作负载的重要组成部分。</description>
+      <description>【How to monitor AWS container environments at scale (Sponsored) In this eBook, Datadog and AWS share insights into the changing state of containers in the cloud and explore why orchestration technologies are an essential part of managing ever-changing containerized workloads.】如何大规模监控 AWS 容器环境（赞助）在这本电子书中，Datadog 和 AWS 分享了对云中容器不断变化的状态的见解，并探讨了为什么编排技术是管理不断变化的容器化工作负载的重要组成部分。</description>
       <pubDate>Tue, 16 Jul 2024 15:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP117: What makes HTTP2 faster than HTTP1? 】EP117：是什么让 HTTP2 比 HTTP1 更快？</title>
-      <link>https://blog.bytebytego.com/p/ep117-what-makes-http2-faster-than</link>
-      <description>【This week&amp;#8217;s system design refresher: Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar (Youtube video) What makes HTTP2 faster than HTTP1? Top 6 Cases to Apply Idempotency 4 Ways Netflix Uses Caching to Hold User Attention Log Parsing Cheat Sheet】本周的系统设计复习：Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar（Youtube 视频） 是什么让 HTTP2 比 HTTP1 更快？应用幂等性的 6 大案例 Netflix 使用缓存保存用户注意力日志的 4 种方式解析备忘单</description>
-      <pubDate>Sat, 22 Jun 2024 15:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course in Database Sharding】数据库分片速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-sharding</link>
-      <description>【As an application grows in popularity, it attracts more active users and incorporates additional features. This growth leads to a daily increase in data generation, which is a positive indicator from a business perspective. However, it can also pose challenges to the application&#39;s architecture, particularly in terms of database scalability.】随着应用程序越来越受欢迎，它会吸引更多的活跃用户并包含更多功能。这种增长导致数据生成量每天增加，从业务角度来看，这是一个积极的指标。然而，它也可能给应用程序的架构带来挑战，特别是在数据库可扩展性方面。</description>
-      <pubDate>Thu, 27 Jun 2024 15:30:37 +0000</pubDate>
     </item>
     <item>
       <title>【EP118: What are the differences among database locks? 】EP118：数据库锁之间有什么区别？</title>
@@ -29,16 +17,28 @@
       <pubDate>Sat, 29 Jun 2024 15:30:59 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Distributed Systems】分布式系统速成班</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-distributed-systems</link>
-      <description>【A distributed system is a collection of computers, also known as nodes, that collaborate to perform a specific task or provide a service. These nodes are physically separate and communicate with each other by passing messages over a network. Distributed systems can span geographical boundaries, enabling them to utilize resources from different locations.】分布式系统是计算机（也称为节点）的集合，它们协作执行特定任务或提供服务。这些节点在物理上是独立的，并通过网络传递消息来相互通信。分布式系统可以跨越地理边界，使它们能够利用不同位置的资源。</description>
-      <pubDate>Thu, 11 Jul 2024 15:30:43 +0000</pubDate>
+      <title>【EP117: What makes HTTP2 faster than HTTP1? 】EP117：是什么让 HTTP2 比 HTTP1 更快？</title>
+      <link>https://blog.bytebytego.com/p/ep117-what-makes-http2-faster-than</link>
+      <description>【This week&amp;#8217;s system design refresher: Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar (Youtube video) What makes HTTP2 faster than HTTP1? Top 6 Cases to Apply Idempotency 4 Ways Netflix Uses Caching to Hold User Attention Log Parsing Cheat Sheet】本周的系统设计复习：Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar（Youtube 视频） 是什么让 HTTP2 比 HTTP1 更快？应用幂等性的 6 大案例 Netflix 使用缓存保存用户注意力日志的 4 种方式解析备忘单</description>
+      <pubDate>Sat, 22 Jun 2024 15:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Microservice Communication Patterns】微服务通信模式速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-microservice-communication</link>
-      <description>【Microservices architecture promotes the development of independent services. However, these services still need to communicate with each other to function as a cohesive system. Getting the communication right between microservices is often a challenge. There are two primary reasons for this:】微服务架构促进了独立服务的发展。然而，这些服务仍然需要相互通信才能作为一个内聚系统发挥作用。在微服务之间建立正确的通信通常是一个挑战。造成这种情况的主要原因有两个：</description>
-      <pubDate>Thu, 20 Jun 2024 15:30:51 +0000</pubDate>
+      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
+      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
+      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Manages 238 Million Memberships?】Netflix 如何管理 2.38 亿会员？</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-manages-238-million-memberships</link>
+      <description>【Guide to Accelerating DevOps Transformation (Sponsored) The DevOps model can engender faster development cycles and enhanced agility in responding to market needs. Datadog&#39;s DevOps Kit gives you the resources to create and strengthen cultures of observability, collaboration, and data sharing within organizations&amp;#8212;key pillars of the DevOps movement.】加速 DevOps 转型指南（赞助）DevOps 模型可以缩短开发周期并增强响应市场需求的敏捷性。 Datadog 的 DevOps 套件为您提供资源，用于创建和加强组织内的可观察性、协作和数据共享文化——DevOps 运动的关键支柱。</description>
+      <pubDate>Tue, 25 Jun 2024 15:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course in Database Sharding】数据库分片速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-sharding</link>
+      <description>【As an application grows in popularity, it attracts more active users and incorporates additional features. This growth leads to a daily increase in data generation, which is a positive indicator from a business perspective. However, it can also pose challenges to the application&#39;s architecture, particularly in terms of database scalability.】随着应用程序越来越受欢迎，它会吸引更多的活跃用户并包含更多功能。这种增长导致数据生成量每天增加，从业务角度来看，这是一个积极的指标。然而，它也可能给应用程序的架构带来挑战，特别是在数据库可扩展性方面。</description>
+      <pubDate>Thu, 27 Jun 2024 15:30:37 +0000</pubDate>
     </item>
     <item>
       <title>【EP120: What do version numbers mean? 】EP120：版本号是什么意思？</title>
@@ -53,16 +53,16 @@
       <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
     </item>
     <item>
-      <title>【How Netflix Manages 238 Million Memberships?】Netflix 如何管理 2.38 亿会员？</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-manages-238-million-memberships</link>
-      <description>【Guide to Accelerating DevOps Transformation (Sponsored) The DevOps model can engender faster development cycles and enhanced agility in responding to market needs. Datadog&#39;s DevOps Kit gives you the resources to create and strengthen cultures of observability, collaboration, and data sharing within organizations&amp;#8212;key pillars of the DevOps movement.】加速 DevOps 转型指南（赞助）DevOps 模型可以缩短开发周期并增强响应市场需求的敏捷性。 Datadog 的 DevOps 套件为您提供资源，用于创建和加强组织内的可观察性、协作和数据共享文化——DevOps 运动的关键支柱。</description>
-      <pubDate>Tue, 25 Jun 2024 15:31:15 +0000</pubDate>
+      <title>【A Crash Course on Distributed Systems】分布式系统速成班</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-distributed-systems</link>
+      <description>【A distributed system is a collection of computers, also known as nodes, that collaborate to perform a specific task or provide a service. These nodes are physically separate and communicate with each other by passing messages over a network. Distributed systems can span geographical boundaries, enabling them to utilize resources from different locations.】分布式系统是计算机（也称为节点）的集合，它们协作执行特定任务或提供服务。这些节点在物理上是独立的，并通过网络传递消息来相互通信。分布式系统可以跨越地理边界，使它们能够利用不同位置的资源。</description>
+      <pubDate>Thu, 11 Jul 2024 15:30:43 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
-      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
-      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
+      <title>【A Crash Course on Microservice Communication Patterns】微服务通信模式速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-microservice-communication</link>
+      <description>【Microservices architecture promotes the development of independent services. However, these services still need to communicate with each other to function as a cohesive system. Getting the communication right between microservices is often a challenge. There are two primary reasons for this:】微服务架构促进了独立服务的发展。然而，这些服务仍然需要相互通信才能作为一个内聚系统发挥作用。在微服务之间建立正确的通信通常是一个挑战。造成这种情况的主要原因有两个：</description>
+      <pubDate>Thu, 20 Jun 2024 15:30:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
