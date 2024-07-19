@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Making Visual Studio a bit more visual】让 Visual Studio 更加直观</title>
-      <link>https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual</link>
-      <description>【Any web, desktop, or mobile developer works with images often. You reference them from C#, HTML, XAML, CSS, C++, VB, TypeScript, and even in code comments. Some images are local, and some exist online or on network shares, while others only exist as base64 encoded strings.】任何 Web、桌面或移动开发人员都经常使用图像。您可以从 C#、HTML、XAML、CSS、C++、VB、TypeScript 甚至代码注释中引用它们。有些图像是本地的，有些存在于在线或网络共享上，而其他图像仅作为 base64 编码字符串存在。</description>
-      <pubDate>Tue, 16 Jul 2024 10:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Fluid Relay: Leveraging Azure Blob Storage to scale Git】Azure Fluid Relay：利用 Azure Blob 存储来扩展 Git</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/azure-fluid-relay-leveraging-azure-blob-storage-to-scale-git</link>
-      <description>【Learn how to leverage Git as a storage mechanism behind the globally available Azure Fluid Relay (AFR) service.】了解如何利用 Git 作为全球可用的 Azure Fluid Relay (AFR) 服务背后的存储机制。</description>
-      <pubDate>Mon, 15 Jul 2024 15:59:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 9 Preview 6 is now available!】.NET 9 预览版 6 现已推出！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6</link>
-      <description>【Try out the latest features in .NET 9 Preview 6 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, and more!】跨 .NET 运行时、SDK、库、ASP.NET Core、Blazor 等尝试 .NET 9 Preview 6 中的最新功能！</description>
-      <pubDate>Mon, 15 Jul 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 7】在 C++/WinRT 中创建已完成的异步活动，第 7 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240717-00/?p=109975</link>
-      <description>【Implementing the contract directly.】直接履行合同。</description>
-      <pubDate>Wed, 17 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a Safer Future – How NuGet is Tackling Software Supply Chain Threats】构建更安全的未来 - NuGet 如何应对软件供应链威胁</title>
-      <link>https://devblogs.microsoft.com/nuget/building-a-safer-future-how-nuget-is-tackling-software-supply-chain-threats</link>
-      <description>【Despite significant technological progress in addressing complex security threats, the key to preventing the next attack lies in adhering to fundamental security principles. It&amp;#8217;s essential to ensure the software ecosystem is secure, focusing on protecting .NET developers who design, build, and maintain the critical software we all use.】尽管在解决复杂的安全威胁方面取得了重大的技术进步，但防止下一次攻击的关键在于坚持基本的安全原则。确保软件生态系统的安全至关重要，重点是保护设计、构建和维护我们都使用的关键软件的 .NET 开发人员。</description>
-      <pubDate>Tue, 16 Jul 2024 18:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!】亲身体验 Visual Studio 和 Azure：今年 8 月在 Microsoft 总部现场直播！</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-microsoft-hq</link>
-      <description>【Visual Studio LIVE! Microsoft HQ 2024 August 5-9 | Microsoft Conference Center, Redmond, WA There’s still time to register, join us, get your questions answered, and bring back a wealth of knowledge and excitement to your teams! We’re close to selling out for next month’s conference,】视觉工作室上线！ Microsoft 总部 2024 年 8 月 5 日至 9 日 |华盛顿州雷德蒙德 Microsoft 会议中心 现在还有时间注册、加入我们、解答您的问题并为您的团队带回丰富的知识和兴奋！下个月的会议门票即将售完，</description>
-      <pubDate>Mon, 15 Jul 2024 14:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Model as a Service (MaaS) Available for Semantic Kernel】可用于语义内核的模型即服务 (MaaS)</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/model-as-a-service-maas-available-for-semantic-kernel</link>
-      <description>【Hello! We are delighted to make an announcement regarding the availability of Azure AI Inference within Semantic Kernel (Python). This latest AI connector empowers you to experiment with a broader range of models hosted on Azure within your applications. &amp;nbsp; The Sample Application: Evaluating LLMs Here is the location of the full sample.】你好！我们很高兴地宣布有关语义内核 (Python) 中 Azure AI 推理的可用性。这个最新的 AI 连接器使您能够在应用程序中试验 Azure 上托管的更广泛的模型。   示例应用程序：评估法学硕士 这里是完整示例的位置。</description>
-      <pubDate>Wed, 17 Jul 2024 21:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【NuGetAudit 2.0: Elevating Security and Trust in Package Management】NuGetAudit 2.0：提升包管理的安全性和信任度</title>
-      <link>https://devblogs.microsoft.com/nuget/nugetaudit-2-0-elevating-security-and-trust-in-package-management</link>
-      <description>【Introduction In November 2023 (NuGet 6.8, Visual Studio 17.8, .NET SDK 8.0.100), we released NuGet Audit. NuGet Audit provides warnings during restore when a package with a known vulnerability is used by a project. More information about NuGet Audit, including detailed configuration options can be found on our learn website.】简介 2023 年 11 月（NuGet 6.8、Visual Studio 17.8、.NET SDK 8.0.100），我们发布了 NuGet Audit。当项目使用具有已知漏洞的包时，NuGet Audit 会在还原期间提供警告。有关 NuGet Audit 的更多信息（包括详细的配置选项）可以在我们的学习网站上找到。</description>
-      <pubDate>Wed, 17 Jul 2024 19:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 6】在 C++/WinRT 中创建已完成的异步活动，第 6 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240716-00/?p=109973</link>
-      <description>【Let the conversion do the talking.】让转换来说话。</description>
-      <pubDate>Tue, 16 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Building React Native for Windows Apps from a Mac】从 Mac 构建 React Native for Windows 应用程序</title>
       <link>https://devblogs.microsoft.com/react-native/2024-07-18-running-rnw-from-a-mac-md</link>
       <description>【Owning a Windows PC is not a requirement to build and ship Windows experiences. In this blog post, I&#39;ll walk through my investigation of how to develop React Native for Windows applications from a Mac.】拥有 Windows PC 并不是构建和交付 Windows 体验的必要条件。在这篇博文中，我将逐步研究如何从 Mac 开发适用于 Windows 应用程序的 React Native。</description>
       <pubDate>Thu, 18 Jul 2024 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the stable release of Azure Event Grid Namespaces HTTP client libraries】宣布 Azure 事件网格命名空间 HTTP 客户端库的稳定版本</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-stable-event-grid-namespaces-http-libraries</link>
+      <description>【This post announces stable release of the HTTP Azure Event Grid Namespaces client libraries in .NET, Java, JavaScript, Python, and Go.】本文宣布在 .NET、Java、JavaScript、Python 和 Go 中发布 HTTP Azure 事件网格命名空间客户端库的稳定版本。</description>
+      <pubDate>Thu, 18 Jul 2024 16:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET】介绍适用于 .NET 的 CoreWCF 和 WCF 客户端 Azure 队列存储绑定</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet</link>
+      <description>【The initial beta release of the official libraries Microsoft.CoreWCF.Azure.StorageQueues and Microsoft.WCF.Azure.StorageQueues.Client library for .NET is now available.】适用于 .NET 的官方库 Microsoft.CoreWCF.Azure.StorageQueues 和 Microsoft.WCF.Azure.StorageQueues.Client 库的初始测试版现已推出。</description>
+      <pubDate>Thu, 18 Jul 2024 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Latest NoSQL Java Ecosystem Updates 2024 Q1 &amp; Q2】最新 NoSQL Java 生态系统更新 2024 年第一季度和第二季度</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-2024-q1-q2</link>
+      <description>【We’re always busy adding new features, fixes, patches, and improvements to our Java-based client libraries for Azure Cosmos DB for NoSQL. In this regular blog series, we share highlights of recent updates in the last period. January – June 2024 updates Java SDK Updates Integrate ThroughputControl with ChangeFeedProcessor Added Payload Size Metrics for Gateway Mode Overloads for readMany with Request Options Public APIs for MicroBatch Size in CosmosBulkExecutionOptions Custom Item Serializer Vector Embedding Policy and Indexes for Vector Search Support for Non-streaming OrderBy Regional Scope for Session Tokens Query Statement in Diagnostics and Tracing Spring Connector Updates IndexQueryMetrics in Configuration Support for Transient Annotation Hierarchical Partition Key Support Spark Connector Updates Configurable Connection Pool Size Optimization for readMany Queries Custom Schema Support for Nested Properties Reuse CosmosAsyncClient for Spark Applications Spark 3.5 Support Native Netty Transport ManagedIdentity Authentication in Databricks Support for Access Tokens via AccountDataResolver SPN Authentication with Certificates Kafka Connector Updates Major V2 Release Fixes,】我们始终忙于为 Azure Cosmos DB for NoSQL 基于 Java 的客户端库添加新功能、修复、补丁和改进。在这个定期博客系列中，我们分享了上一时期的最新更新亮点。 2024 年 1 月至 6 月更新 Java SDK 更新 将 ThroughputControl 与 ChangeFeedProcessor 集成 为带有请求选项的 readMany 的网关模式重载添加了有效负载大小指标 CosmosBulkExecutionOptions 中用于 MicroBatch 大小的公共 API 自定义项目序列化器 用于向量搜索的向量嵌入策略和索引 支持非流式 OrderBy Regional会话令牌的范围 诊断和跟踪中的查询语句 Spring Connector 更新配置中的 IndexQueryMetrics 对瞬态注释的支持 分层分区键支持 Spark Connector 更新可配置的连接池大小 优化 readMany 查询 自定义架构支持嵌套属性 对 Spark 应用程序重用 CosmosAsyncClient Spark 3.5 支持本机Databricks 中的 Netty Transport ManagedIdentity 身份验证 通过 AccountDataResolver 支持访问令牌 使用证书进行 SPN 身份验证 Kafka 连接器更新主要 V2 版本修复，</description>
+      <pubDate>Thu, 18 Jul 2024 14:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 8】在 C++/WinRT 中创建已完成的异步活动，第 8 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240718-00/?p=109977</link>
+      <description>【Generalizing the pattern.】概括模式。</description>
+      <pubDate>Thu, 18 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 6 will reach End of Support on November 12, 2024】.NET 6 将于 2024 年 11 月 12 日终止支持</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support</link>
+      <description>【.NET 6 will reach end of support on November 12, 2024, this blog breaks down all the valuable information you need to know and how to update to .NET 8.】.NET 6 将于 2024 年 11 月 12 日终止支持，此博客详细介绍了您需要了解的所有有价值的信息以及如何更新到 .NET 8。</description>
+      <pubDate>Thu, 18 Jul 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2407.17-preview: Mesh Nodes in Work Graphs】PIX 2407.17-预览版：工作图中的网格节点</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2407-17-preview</link>
+      <description>【Today we released PIX version 2407.17-preview, which can be downloaded here. This release has initial support for the exciting new Mesh Nodes in Work Graphs feature that was released in a preview DirectX Agility SDK today. Please visit this blog post for more information about the Agility SDK release.】今天我们发布了 PIX 版本 2407.17-preview，可以在此处下载。此版本初步支持工作图中令人兴奋的新网格节点功能，该功能已在预览版 DirectX Agility SDK 中发布。请访问此博客文章，了解有关 Agility SDK 版本的更多信息。</description>
+      <pubDate>Thu, 18 Jul 2024 18:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Three New Premium Visual Studio Subscriber Benefits Announced】宣布三项新的高级 Visual Studio 订阅者权益</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024</link>
+      <description>【A Visual Studio Subscription, whether Professional or Enterprise, delivers far more than just software usage rights; it&amp;#8217;s a comprehensive toolkit designed to significantly boost your development capabilities and career growth. These subscriptions can save you thousands each year, offering everything from monthly Azure credits for cloud experimentation to complimentary access to premium training platforms like Pluralsight and LinkedIn Learning.】Visual Studio 订阅，无论是专业版还是企业版，提供的不仅仅是软件使用权；它是一个全面的工具包，旨在显着提高您的开发能力和职业发展。这些订阅每年可以为您节省数千美元，提供从用于云实验的每月 Azure 积分到免费访问 Pluralsight 和 LinkedIn Learning 等高级培训平台的一切内容。</description>
+      <pubDate>Thu, 18 Jul 2024 14:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Managed DevOps Pools – The Origin Story】托管 DevOps 池 – 起源故事</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story</link>
+      <description>【Learn about how Microsoft&#39;s 1ES organization developed an internal service called &#34;1ES Hosted Pools&#34; to manage Microsoft&#39;s diverse Engineering system infrastructure and how it helped make significant improvements to productivity, cost savings, and security. This solution will soon be available as a third-party offering named &#34;Managed DevOps Pools&#34;.】了解 Microsoft 的 1ES 组织如何开发名为“1ES 托管池”的内部服务来管理 Microsoft 多样化的工程系统基础架构，以及它如何帮助显着提高生产力、节省成本和安全性。该解决方案很快将作为名为“托管 DevOps 池”的第三方产品提供。</description>
+      <pubDate>Thu, 18 Jul 2024 16:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【D3D12 Preview: Mesh Nodes in Work Graphs】D3D12 预览：工作图中的网格节点</title>
+      <link>https://devblogs.microsoft.com/directx/d3d12-mesh-nodes-in-work-graphs</link>
+      <description>【Hi everyone, Today we’re excited to announce the newest Preview Agility SDK v1.715.0, download here. Since this is a preview SDK, the new features are not in final state and thus only available via Developer Mode within Windows (see the prerequisites section for more). 】大家好，今天我们很高兴宣布推出最新的预览敏捷 SDK v1.715.0，请在此处下载。由于这是预览版 SDK，因此新功能尚未处于最终状态，因此只能通过 Windows 中的开发人员模式使用（有关更多信息，请参阅先决条件部分）。 </description>
+      <pubDate>Thu, 18 Jul 2024 18:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
