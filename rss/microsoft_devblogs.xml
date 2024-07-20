@@ -4,37 +4,13 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Building React Native for Windows Apps from a Mac】从 Mac 构建 React Native for Windows 应用程序</title>
-      <link>https://devblogs.microsoft.com/react-native/2024-07-18-running-rnw-from-a-mac-md</link>
-      <description>【Owning a Windows PC is not a requirement to build and ship Windows experiences. In this blog post, I&#39;ll walk through my investigation of how to develop React Native for Windows applications from a Mac.】拥有 Windows PC 并不是构建和交付 Windows 体验的必要条件。在这篇博文中，我将逐步研究如何从 Mac 开发适用于 Windows 应用程序的 React Native。</description>
-      <pubDate>Thu, 18 Jul 2024 03:00:00 +0000</pubDate>
+      <title>【Three New Premium Visual Studio Subscriber Benefits Announced】宣布三项新的高级 Visual Studio 订阅者权益</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024</link>
+      <description>【A Visual Studio Subscription, whether Professional or Enterprise, delivers far more than just software usage rights; it&amp;#8217;s a comprehensive toolkit designed to significantly boost your development capabilities and career growth. These subscriptions can save you thousands each year, offering everything from monthly Azure credits for cloud experimentation to complimentary access to premium training platforms like Pluralsight and LinkedIn Learning.】Visual Studio 订阅，无论是专业版还是企业版，提供的不仅仅是软件使用权；它是一个全面的工具包，旨在显着提高您的开发能力和职业发展。这些订阅每年可以为您节省数千美元，提供从用于云实验的每月 Azure 积分到免费访问 Pluralsight 和 LinkedIn Learning 等高级培训平台的一切内容。</description>
+      <pubDate>Thu, 18 Jul 2024 14:54:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the stable release of Azure Event Grid Namespaces HTTP client libraries】宣布 Azure 事件网格命名空间 HTTP 客户端库的稳定版本</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/announcing-stable-event-grid-namespaces-http-libraries</link>
-      <description>【This post announces stable release of the HTTP Azure Event Grid Namespaces client libraries in .NET, Java, JavaScript, Python, and Go.】本文宣布在 .NET、Java、JavaScript、Python 和 Go 中发布 HTTP Azure 事件网格命名空间客户端库的稳定版本。</description>
-      <pubDate>Thu, 18 Jul 2024 16:49:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET】介绍适用于 .NET 的 CoreWCF 和 WCF 客户端 Azure 队列存储绑定</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet</link>
-      <description>【The initial beta release of the official libraries Microsoft.CoreWCF.Azure.StorageQueues and Microsoft.WCF.Azure.StorageQueues.Client library for .NET is now available.】适用于 .NET 的官方库 Microsoft.CoreWCF.Azure.StorageQueues 和 Microsoft.WCF.Azure.StorageQueues.Client 库的初始测试版现已推出。</description>
-      <pubDate>Thu, 18 Jul 2024 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Latest NoSQL Java Ecosystem Updates 2024 Q1 &amp; Q2】最新 NoSQL Java 生态系统更新 2024 年第一季度和第二季度</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-2024-q1-q2</link>
-      <description>【We’re always busy adding new features, fixes, patches, and improvements to our Java-based client libraries for Azure Cosmos DB for NoSQL. In this regular blog series, we share highlights of recent updates in the last period. January – June 2024 updates Java SDK Updates Integrate ThroughputControl with ChangeFeedProcessor Added Payload Size Metrics for Gateway Mode Overloads for readMany with Request Options Public APIs for MicroBatch Size in CosmosBulkExecutionOptions Custom Item Serializer Vector Embedding Policy and Indexes for Vector Search Support for Non-streaming OrderBy Regional Scope for Session Tokens Query Statement in Diagnostics and Tracing Spring Connector Updates IndexQueryMetrics in Configuration Support for Transient Annotation Hierarchical Partition Key Support Spark Connector Updates Configurable Connection Pool Size Optimization for readMany Queries Custom Schema Support for Nested Properties Reuse CosmosAsyncClient for Spark Applications Spark 3.5 Support Native Netty Transport ManagedIdentity Authentication in Databricks Support for Access Tokens via AccountDataResolver SPN Authentication with Certificates Kafka Connector Updates Major V2 Release Fixes,】我们始终忙于为 Azure Cosmos DB for NoSQL 基于 Java 的客户端库添加新功能、修复、补丁和改进。在这个定期博客系列中，我们分享了上一时期的最新更新亮点。 2024 年 1 月至 6 月更新 Java SDK 更新 将 ThroughputControl 与 ChangeFeedProcessor 集成 为带有请求选项的 readMany 的网关模式重载添加了有效负载大小指标 CosmosBulkExecutionOptions 中用于 MicroBatch 大小的公共 API 自定义项目序列化器 用于向量搜索的向量嵌入策略和索引 支持非流式 OrderBy Regional会话令牌的范围 诊断和跟踪中的查询语句 Spring Connector 更新配置中的 IndexQueryMetrics 对瞬态注释的支持 分层分区键支持 Spark Connector 更新可配置的连接池大小 优化 readMany 查询 自定义架构支持嵌套属性 对 Spark 应用程序重用 CosmosAsyncClient Spark 3.5 支持本机Databricks 中的 Netty Transport ManagedIdentity 身份验证 通过 AccountDataResolver 支持访问令牌 使用证书进行 SPN 身份验证 Kafka 连接器更新主要 V2 版本修复，</description>
-      <pubDate>Thu, 18 Jul 2024 14:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 8】在 C++/WinRT 中创建已完成的异步活动，第 8 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240718-00/?p=109977</link>
-      <description>【Generalizing the pattern.】概括模式。</description>
-      <pubDate>Thu, 18 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 6 will reach End of Support on November 12, 2024】.NET 6 将于 2024 年 11 月 12 日终止支持</title>
+      <title>【.NET 6 will reach End of Support on November 12, 2024】.NET 6 将于 2024 年 11 月 12 日停止支持</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support</link>
       <description>【.NET 6 will reach end of support on November 12, 2024, this blog breaks down all the valuable information you need to know and how to update to .NET 8.】.NET 6 将于 2024 年 11 月 12 日终止支持，此博客详细介绍了您需要了解的所有有价值的信息以及如何更新到 .NET 8。</description>
       <pubDate>Thu, 18 Jul 2024 17:00:00 +0000</pubDate>
@@ -46,22 +22,46 @@
       <pubDate>Thu, 18 Jul 2024 18:00:57 +0000</pubDate>
     </item>
     <item>
-      <title>【Three New Premium Visual Studio Subscriber Benefits Announced】宣布三项新的高级 Visual Studio 订阅者权益</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024</link>
-      <description>【A Visual Studio Subscription, whether Professional or Enterprise, delivers far more than just software usage rights; it&amp;#8217;s a comprehensive toolkit designed to significantly boost your development capabilities and career growth. These subscriptions can save you thousands each year, offering everything from monthly Azure credits for cloud experimentation to complimentary access to premium training platforms like Pluralsight and LinkedIn Learning.】Visual Studio 订阅，无论是专业版还是企业版，提供的不仅仅是软件使用权；它是一个全面的工具包，旨在显着提高您的开发能力和职业发展。这些订阅每年可以为您节省数千美元，提供从用于云实验的每月 Azure 积分到免费访问 Pluralsight 和 LinkedIn Learning 等高级培训平台的一切内容。</description>
-      <pubDate>Thu, 18 Jul 2024 14:54:59 +0000</pubDate>
+      <title>【D3D12 Preview: Mesh Nodes in Work Graphs】D3D12 预览：工作图中的网格节点</title>
+      <link>https://devblogs.microsoft.com/directx/d3d12-mesh-nodes-in-work-graphs</link>
+      <description>【Hi everyone, Today we’re excited to announce the newest Preview Agility SDK v1.715.0, download here. Since this is a preview SDK, the new features are not in final state and thus only available via Developer Mode within Windows (see the prerequisites section for more). 】大家好，今天我们很高兴宣布推出最新的预览敏捷 SDK v1.715.0，请在此处下载。由于这是预览版 SDK，因此新功能尚未处于最终状态，因此只能通过 Windows 中的开发人员模式使用（有关更多信息，请参阅先决条件部分）。 </description>
+      <pubDate>Thu, 18 Jul 2024 18:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET】介绍适用于 .NET 的 CoreWCF 和 WCF 客户端 Azure 队列存储绑定</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet</link>
+      <description>【The initial beta release of the official libraries Microsoft.CoreWCF.Azure.StorageQueues and Microsoft.WCF.Azure.StorageQueues.Client library for .NET is now available.】适用于 .NET 的官方库 Microsoft.CoreWCF.Azure.StorageQueues 和 Microsoft.WCF.Azure.StorageQueues.Client 库的初始测试版现已推出。</description>
+      <pubDate>Thu, 18 Jul 2024 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 9】在 C++/WinRT 中创建已完成的异步活动，第 9 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240719-00/?p=109980</link>
+      <description>【Cheating the delegates.】欺骗代表。</description>
+      <pubDate>Fri, 19 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the stable release of Azure Event Grid Namespaces HTTP client libraries】宣布 Azure 事件网格命名空间 HTTP 客户端库的稳定版本</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-stable-event-grid-namespaces-http-libraries</link>
+      <description>【This post announces stable release of the HTTP Azure Event Grid Namespaces client libraries in .NET, Java, JavaScript, Python, and Go.】本文宣布在 .NET、Java、JavaScript、Python 和 Go 中发布 HTTP Azure 事件网格命名空间客户端库的稳定版本。</description>
+      <pubDate>Thu, 18 Jul 2024 16:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing a new Learn module: Use service principal authentication in custom connectors】宣布推出新的学习模块：在自定义连接器中使用服务主体身份验证</title>
+      <link>https://devblogs.microsoft.com/powerplatform/use-service-principal-auth-in-custom-connectors-microsoft-learn</link>
+      <description>【Connectors are one of the superpowers of the Microsoft Power Platform. They link the Power Platform to a vast array of external services and applications. Over 1200 connectors are available now out of the box. But &amp;#8211; what if the API you want to connect to doesn&amp;#8217;t have an out of the box connector?】连接器是 Microsoft Power Platform 的超级功能之一。它们将 Power Platform 与大量外部服务和应用程序连接起来。现已提供超过 1200 个开箱即用的连接器。但是 – 如果您想要连接的 API 没有现成的连接器怎么办？</description>
+      <pubDate>Fri, 19 Jul 2024 12:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Latest NoSQL Java Ecosystem Updates 2024 Q1 &amp; Q2】最新 NoSQL Java 生态系统更新 2024 年第一季度和第二季度</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-2024-q1-q2</link>
+      <description>【We’re always busy adding new features, fixes, patches, and improvements to our Java-based client libraries for Azure Cosmos DB for NoSQL. In this regular blog series, we share highlights of recent updates in the last period. January – June 2024 updates Java SDK Updates Integrate ThroughputControl with ChangeFeedProcessor Added Payload Size Metrics for Gateway Mode Overloads for readMany with Request Options Public APIs for MicroBatch Size in CosmosBulkExecutionOptions Custom Item Serializer Vector Embedding Policy and Indexes for Vector Search Support for Non-streaming OrderBy Regional Scope for Session Tokens Query Statement in Diagnostics and Tracing Spring Connector Updates IndexQueryMetrics in Configuration Support for Transient Annotation Hierarchical Partition Key Support Spark Connector Updates Configurable Connection Pool Size Optimization for readMany Queries Custom Schema Support for Nested Properties Reuse CosmosAsyncClient for Spark Applications Spark 3.5 Support Native Netty Transport ManagedIdentity Authentication in Databricks Support for Access Tokens via AccountDataResolver SPN Authentication with Certificates Kafka Connector Updates Major V2 Release Fixes,】我们始终忙于为 Azure Cosmos DB for NoSQL 基于 Java 的客户端库添加新功能、修复、补丁和改进。在这个定期博客系列中，我们分享了上一时期的最新更新亮点。 2024 年 1 月至 6 月更新 Java SDK 更新 将 ThroughputControl 与 ChangeFeedProcessor 集成 为带有请求选项的 readMany 的网关模式重载添加了有效负载大小指标 CosmosBulkExecutionOptions 中用于 MicroBatch 大小的公共 API 自定义项目序列化器 用于向量搜索的向量嵌入策略和索引 支持非流式 OrderBy Regional会话令牌的范围 诊断和跟踪中的查询语句 Spring Connector 更新配置中的 IndexQueryMetrics 对瞬态注释的支持 分层分区键支持 Spark Connector 更新可配置的连接池大小 优化 readMany 查询 自定义架构支持嵌套属性 对 Spark 应用程序重用 CosmosAsyncClient Spark 3.5 支持本机Databricks 中的 Netty Transport ManagedIdentity 身份验证 通过 AccountDataResolver 支持访问令牌 使用证书进行 SPN 身份验证 Kafka 连接器更新主要 V2 版本修复，</description>
+      <pubDate>Thu, 18 Jul 2024 14:00:40 +0000</pubDate>
     </item>
     <item>
       <title>【Managed DevOps Pools – The Origin Story】托管 DevOps 池 – 起源故事</title>
       <link>https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story</link>
       <description>【Learn about how Microsoft&#39;s 1ES organization developed an internal service called &#34;1ES Hosted Pools&#34; to manage Microsoft&#39;s diverse Engineering system infrastructure and how it helped make significant improvements to productivity, cost savings, and security. This solution will soon be available as a third-party offering named &#34;Managed DevOps Pools&#34;.】了解 Microsoft 的 1ES 组织如何开发名为“1ES 托管池”的内部服务来管理 Microsoft 多样化的工程系统基础架构，以及它如何帮助显着提高生产力、节省成本和安全性。该解决方案很快将作为名为“托管 DevOps 池”的第三方产品提供。</description>
       <pubDate>Thu, 18 Jul 2024 16:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【D3D12 Preview: Mesh Nodes in Work Graphs】D3D12 预览：工作图中的网格节点</title>
-      <link>https://devblogs.microsoft.com/directx/d3d12-mesh-nodes-in-work-graphs</link>
-      <description>【Hi everyone, Today we’re excited to announce the newest Preview Agility SDK v1.715.0, download here. Since this is a preview SDK, the new features are not in final state and thus only available via Developer Mode within Windows (see the prerequisites section for more). 】大家好，今天我们很高兴宣布推出最新的预览敏捷 SDK v1.715.0，请在此处下载。由于这是预览版 SDK，因此新功能尚未处于最终状态，因此只能通过 Windows 中的开发人员模式使用（有关更多信息，请参阅先决条件部分）。 </description>
-      <pubDate>Thu, 18 Jul 2024 18:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
