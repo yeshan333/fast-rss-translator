@@ -4,22 +4,22 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【RADIUS/UDP vulnerable to improved MD5 collision attack】RADIUS/UDP 容易受到改进的 MD5 冲突攻击</title>
-      <link>https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack</link>
-      <description>【 The RADIUS protocol is commonly used to control administrative access to networking gear. Despite its importance, RADIUS hasn’t changed much in decades. We discuss an attack on RADIUS as a case study for why it’s important for legacy protocols to keep up with advancements in cryptography 】RADIUS 协议通常用于控制对网络设备的管理访问。尽管 RADIUS 很重要，但它几十年来并没有发生太大变化。我们讨论对 RADIUS 的攻击作为案例研究，了解为什么遗留协议跟上密码学的进步很重要</description>
-      <pubDate>Tue, 09 Jul 2024 12:00:59 +0000</pubDate>
+      <title>【Exploring Internet traffic during the 2024 U.S. Republican National Convention】探索 2024 年美国共和党全国代表大会期间的互联网流量</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-during-the-2024-us-republican-national-convention</link>
+      <description>【 This week, the Republican National Convention was hosted in Milwaukee, Wisconsin from July 15 to 18, 2024. We examined traffic shifts and cyberattacks since June 2024 to see how these events have impacted the Internet 】本周，共和党全国代表大会于 2024 年 7 月 15 日至 18 日在威斯康星州密尔沃基举行。我们研究了 2024 年 6 月以来的流量变化和网络攻击，以了解这些事件如何影响互联网</description>
+      <pubDate>Fri, 19 Jul 2024 15:07:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Q2 2024 Internet disruption summary】2024 年第 2 季度互联网中断摘要</title>
-      <link>https://blog.cloudflare.com/q2-2024-internet-disruption-summary</link>
-      <description>【 Government directed shutdowns and cable cuts were both significant sources of Internet outages in Q2 2024. This post explores these disruptions, as well as others caused by power outages, maintenance, technical problems, military action, and unknown causes 】政府指导的关闭和电缆切断都是 2024 年第二季度互联网中断的重要原因。本文探讨了这些中断以及由停电、维护、技术问题、军事行动和未知原因引起的其他中断</description>
-      <pubDate>Tue, 16 Jul 2024 13:00:01 +0000</pubDate>
+      <title>【DDoS threat report for 2024 Q2】2024 年第二季度 DDoS 威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q2</link>
+      <description>【 Welcome to the 18th edition of the Cloudflare DDoS Threat Report. Released quarterly, these reports provide an in-depth analysis of the DDoS threat landscape as observed across the Cloudflare network. This edition focuses on the second quarter of 2024 】欢迎阅读第 18 版 Cloudflare DDoS 威胁报告。这些报告每季度发布一次，提供对 Cloudflare 网络中观察到的 DDoS 威胁态势的深入分析。本版重点关注 2024 年第二季度</description>
+      <pubDate>Tue, 09 Jul 2024 13:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Eliminating hardware with Load Balancing and Cloudflare One】通过负载平衡和 Cloudflare One 消除硬件</title>
-      <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
-      <description>【 Cloudflare is adding support for end-to-end private traffic flows to our local traffic management (LTM) load balancing solution, and allowing for the replacement of hardware load balancers 】Cloudflare 正在向我们的本地流量管理 (LTM) 负载均衡解决方案添加对端到端专用流量的支持，并允许更换硬件负载均衡器</description>
-      <pubDate>Tue, 16 Jul 2024 13:02:00 +0000</pubDate>
+      <title>【Application Security report: 2024 update】应用程序安全报告：2024 年更新</title>
+      <link>https://blog.cloudflare.com/application-security-report-2024-update</link>
+      <description>【 Cloudflare’s updated 2024 view on Internet cyber security trends spanning global traffic insights, bot traffic insights, API traffic insights, and client-side risks 】Cloudflare 对 2024 年互联网网络安全趋势的最新看法，涵盖全球流量洞察、机器人流量洞察、API 流量洞察和客户端风险</description>
+      <pubDate>Thu, 11 Jul 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Euro 2024’s impact on Internet traffic: a closer look at finalists Spain and England】2024 年欧洲杯对互联网流量的影响：仔细观察决赛入围球队西班牙和英格兰</title>
@@ -34,10 +34,16 @@
       <pubDate>Wed, 10 Jul 2024 13:00:55 +0000</pubDate>
     </item>
     <item>
-      <title>【Application Security report: 2024 update】应用程序安全报告：2024 年更新</title>
-      <link>https://blog.cloudflare.com/application-security-report-2024-update</link>
-      <description>【 Cloudflare’s updated 2024 view on Internet cyber security trends spanning global traffic insights, bot traffic insights, API traffic insights, and client-side risks 】Cloudflare 对 2024 年互联网网络安全趋势的最新看法，涵盖全球流量洞察、机器人流量洞察、API 流量洞察和客户端风险</description>
-      <pubDate>Thu, 11 Jul 2024 17:00:00 +0000</pubDate>
+      <title>【Q2 2024 Internet disruption summary】2024 年第 2 季度互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q2-2024-internet-disruption-summary</link>
+      <description>【 Government directed shutdowns and cable cuts were both significant sources of Internet outages in Q2 2024. This post explores these disruptions, as well as others caused by power outages, maintenance, technical problems, military action, and unknown causes 】政府指导的关闭和电缆切断都是 2024 年第二季度互联网中断的重要原因。本文探讨了这些中断以及由停电、维护、技术问题、军事行动和未知原因引起的其他中断</description>
+      <pubDate>Tue, 16 Jul 2024 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Eliminating hardware with Load Balancing and Cloudflare One】通过负载平衡和 Cloudflare One 消除硬件</title>
+      <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
+      <description>【 Cloudflare is adding support for end-to-end private traffic flows to our local traffic management (LTM) load balancing solution, and allowing for the replacement of hardware load balancers 】Cloudflare 正在向我们的本地流量管理 (LTM) 负载均衡解决方案添加对端到端专用流量的支持，并允许更换硬件负载均衡器</description>
+      <pubDate>Tue, 16 Jul 2024 13:02:00 +0000</pubDate>
     </item>
     <item>
       <title>【French elections: political cyber attacks and Internet traffic shifts】法国选举：政治网络攻击和互联网流量变化</title>
@@ -52,16 +58,10 @@
       <pubDate>Fri, 05 Jul 2024 13:24:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring Internet traffic during the 2024 U.S. Republican National Convention】探索 2024 年美国共和党全国代表大会期间的互联网流量</title>
-      <link>https://blog.cloudflare.com/exploring-internet-traffic-during-the-2024-us-republican-national-convention</link>
-      <description>【 This week, the Republican National Convention was hosted in Milwaukee, Wisconsin from July 15 to 18, 2024. We examined traffic shifts and cyberattacks since June 2024 to see how these events have impacted the Internet 】本周，共和党全国代表大会于 2024 年 7 月 15 日至 18 日在威斯康星州密尔沃基举行。我们研究了 2024 年 6 月以来的流量变化和网络攻击，以了解这些事件如何影响互联网</description>
-      <pubDate>Fri, 19 Jul 2024 15:07:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DDoS threat report for 2024 Q2】2024 年第二季度 DDoS 威胁报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q2</link>
-      <description>【 Welcome to the 18th edition of the Cloudflare DDoS Threat Report. Released quarterly, these reports provide an in-depth analysis of the DDoS threat landscape as observed across the Cloudflare network. This edition focuses on the second quarter of 2024 】欢迎阅读第 18 版 Cloudflare DDoS 威胁报告。这些报告每季度发布一次，提供对 Cloudflare 网络中观察到的 DDoS 威胁态势的深入分析。本版重点关注 2024 年第二季度</description>
-      <pubDate>Tue, 09 Jul 2024 13:00:32 +0000</pubDate>
+      <title>【RADIUS/UDP vulnerable to improved MD5 collision attack】RADIUS/UDP 容易受到改进的 MD5 冲突攻击</title>
+      <link>https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack</link>
+      <description>【 The RADIUS protocol is commonly used to control administrative access to networking gear. Despite its importance, RADIUS hasn’t changed much in decades. We discuss an attack on RADIUS as a case study for why it’s important for legacy protocols to keep up with advancements in cryptography 】RADIUS 协议通常用于控制对网络设备的管理访问。尽管 RADIUS 很重要，但它几十年来并没有发生太大变化。我们讨论对 RADIUS 的攻击作为案例研究，了解为什么遗留协议跟上密码学的进步很重要</description>
+      <pubDate>Tue, 09 Jul 2024 12:00:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
