@@ -4,16 +4,10 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【The coming eBPF revolution and why Kubernetes monitoring will never be the same】即将到来的 eBPF 革命以及为什么 Kubernetes 监控将永远不同</title>
-      <link>https://getanteon.com/blog/the-coming-ebpf-revolution-and-why-kubernetes-monitoring-will-never-be-the-same/</link>
-      <description>【Learn how eBPF revolutionizes Kubernetes monitoring by making the Linux kernel programmable, enhancing performance, visibility, and innovation. It also outlines the history of eBPF, its core use cases, and examples of major companies benefiting from its implementation】了解 eBPF 如何通过使 Linux 内核可编程、增强性能、可见性和创新来彻底改变 Kubernetes 监控。它还概述了 eBPF 的历史、其核心用例以及受益于其实施的主要公司的示例</description>
-      <pubDate>Tue, 02 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF Network Vershitifier】eBPF 网络 Vershitifier</title>
-      <link>https://blog.scottgerring.com/ebpf-network-vershitifier/</link>
-      <description>【Learn about eBPF Network Vershitifier, a simple ebpf-go application that randomly drops outgoing packets for targeted processes using the eBPF TC filters】了解 eBPF Network Vershitifier，这是一个简单的 ebpf-go 应用程序，它使用 eBPF TC 过滤器随机丢弃目标进程的传出数据包</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Run your program in the kernel space with eBPF】使用 eBPF 在内核空间中运行您的程序</title>
+      <link>https://prodsens.live/2024/07/13/run-your-program-in-the-kernel-space-with-ebpf/</link>
+      <description>【Learn how to implement a simple program that will monitor deleted files in the system and print their filename using eBPF】了解如何实现一个简单的程序，该程序将监视系统中已删除的文件并使用 eBPF 打印其文件名</description>
+      <pubDate>Sat, 13 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Writing eBPF Tracepoint Program with Rust Aya: Tips and Example】使用 Rust Aya 编写 eBPF 跟踪点程序：提示和示例</title>
@@ -28,9 +22,33 @@
       <pubDate>Sun, 07 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>【eBPF map as communication channel】eBPF 映射作为通信通道</title>
+      <link>https://redplait.blogspot.com/2024/07/ebpf-map-as-communication-channel.html</link>
+      <description>【Dive into how eBPF maps can be repurposed for communication between userland applications and kernel drivers on Linux systems】深入研究如何将 eBPF 映射重新用于 Linux 系统上用户态应用程序和内核驱动程序之间的通信</description>
+      <pubDate>Thu, 11 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Instrumenting Python GIL with eBPF】使用 eBPF 检测 Python GIL</title>
+      <link>https://coroot.com/blog/instrumenting-python-gil-with-ebpf</link>
+      <description>【Explore how to measure the impact of the Global Interpreter Lock (GIL) in Python using eBPF】探索如何使用 eBPF 衡量 Python 中全局解释器锁 (GIL) 的影响</description>
+      <pubDate>Fri, 12 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aflevering 59: Unpacking eBPF and Sustainability】Aflevering 59：解析 eBPF 和可持续性</title>
+      <link>https://www.k8spodcast.nl/afleveringen/aflevering-59-unpacking-ebpf-and-sustainability</link>
+      <description>【In deze aflevering legt Alessandro de complexiteit van eBPF-maps uit en hoe ze de beweging van data mogelijk maken】在本集中，Alessandro 解释了 eBPF 映射的复杂性以及它们如何实现数据移动</description>
+      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【Go Weekly: Mastering Go Performance - eBPF and PGO Optimization Techniques】Go 周刊：掌握 Go 性能 - eBPF 和 PGO 优化技术</title>
       <link>https://memo.d.foundation/playground/00_fleeting/go-weekly-510/</link>
       <description>【A list of posts on achieving PGO optimization with eBPF and an introduction to eBPF with Go】有关使用 eBPF 实现 PGO 优化的帖子列表以及使用 Go 实现 eBPF 的介绍</description>
+      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【eBPF Network Vershitifier】eBPF 网络 Vershitifier</title>
+      <link>https://blog.scottgerring.com/ebpf-network-vershitifier/</link>
+      <description>【Learn about eBPF Network Vershitifier, a simple ebpf-go application that randomly drops outgoing packets for targeted processes using the eBPF TC filters】了解 eBPF Network Vershitifier，这是一个简单的 ebpf-go 应用程序，它使用 eBPF TC 过滤器随机丢弃目标进程的传出数据包</description>
       <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
@@ -40,28 +58,10 @@
       <pubDate>Fri, 05 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【App-Level eBPF Applications - User vs. Kernel Probes】应用程序级 eBPF 应用程序 - 用户与内核探针</title>
-      <link>https://www.oligo.security/blog/app-level-ebpf-applications</link>
-      <description>【Learn about the two most popular methods for implementing eBPF instrumentation to gain application context in the runtime, by using user-space and kernel probes - and understand how each impacts the application performance and compute cost】了解通过使用用户空间和内核探针实现 eBPF 检测以在运行时获取应用程序上下文的两种最流行的方法 - 并了解每种方法如何影响应用程序性能和计算成本</description>
-      <pubDate>Mon, 01 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Hello eBPF: BPF Type Format and 13 Thousand Generated Java Classes (11)】Hello eBPF：BPF 类型格式和 13000 个生成的 Java 类（11）</title>
-      <link>https://mostlynerdless.de/blog/2024/07/02/hello-ebpf-bpf-type-format-and-13-thousand-generated-java-classes-11/</link>
-      <description>【The eleventh installment of the Hello eBPF series. In this part, you’ll learn about the BPF Type Format (BTF) and how and why we generate Java code from it】Hello eBPF 系列的第十一部分。在这一部分中，您将了解 BPF 类型格式 (BTF) 以及我们如何以及为何从中生成 Java 代码</description>
-      <pubDate>Tue, 02 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Memory Management on Kubernetes with Golang and eBPF: Deep Dive】使用 Golang 和 eBPF 进行 Kubernetes 内存管理：深入探讨</title>
-      <link>https://mtardy.com/posts/memory-kubernetes-golang-ebpf/</link>
-      <description>【An exploration on workload memory use, the memory control group, the OOM killer, and their relation with applications running on Kubernetes using Go and eBPF】对工作负载内存使用、内存控制组、OOM 杀手及其与使用 Go 和 eBPF 在 Kubernetes 上运行的应用程序的关系的探索</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Aflevering 59: Unpacking eBPF and Sustainability】Aflevering 59：解析 eBPF 和可持续性</title>
-      <link>https://www.k8spodcast.nl/afleveringen/aflevering-59-unpacking-ebpf-and-sustainability</link>
-      <description>【In deze aflevering legt Alessandro de complexiteit van eBPF-maps uit en hoe ze de beweging van data mogelijk maken】在本集中，Alessandro 解释了 eBPF 映射的复杂性以及它们如何实现数据移动</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【eBPF on WSL2 [kernel version 6.x] [Ubuntu] [x64] [Arm64] [2024]】WSL2 上的 eBPF [内核版本 6.x] [Ubuntu] [x64] [Arm64] [2024]</title>
+      <link>https://massoudasadiblog.blogspot.com/2024/07/ebpf-on-wsl2-kernel-version-6x-ubuntu.html</link>
+      <description>【Learn how to develop and run eBPF programs on WSL2】了解如何在 WSL2 上开发和运行 eBPF 程序</description>
+      <pubDate>Mon, 15 Jul 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
