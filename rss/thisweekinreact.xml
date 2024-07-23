@@ -4,19 +4,7 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
-      <title>【This Week In React #191: React-Router, Remix, React Query, Suspense, Compiler, Remotion, CodeHike, next-safe-action, Framer-Motion, React-Admin, StyleX, Mobx, FlashList, RN native bridging, Expo, TypeScript, State of JS, Node ...】本周 React #191：React-Router、Remix、React Query、Suspense、编译器、Remotion、CodeHike、next-safe-action、Framer-Motion、React-Admin、StyleX、Mobx、FlashList、RN 原生桥接、Expo、 TypeScript、JS 状态、Node ...</title>
-      <link>https://thisweekinreact.com/newsletter/191</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #189: Next.js Security, Memoization, useFormStatus, React State, Remix Typesafe Routes, View Transitions, Astro, Starlight, Hydrogen, Remotion, Lingui, Storybook, Skia Video, Starlink, App Clips, VisionOS...】本周 React #189：Next.js 安全性、Memoization、useFormStatus、React State、Remix Typesafe 路由、视图转换、Astro、Starlight、Hydrogen、Remotion、Lingui、Storybook、Skia Video、Starlink、App Clips、VisionOS...</title>
-      <link>https://thisweekinreact.com/newsletter/189</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #188: React 19 RC0, Data Fetching, Framer Motion, Compiler, Astro, Zod, Remix, Docusaurus, React-Query,, Memory Leaks, Spline, Module Mocking, Slow Networks, MS Edge, RN Security Guide, RN 0.74.2, Reanimated 3.12, Turborepo 2, Biome 1.8...】本周 React #188：React 19 RC0、数据获取、Framer Motion、编译器、Astro、Zod、Remix、Docusaurus、React-Query、内存泄漏、样条曲线、模块模拟、慢速网络、MS Edge、RN 安全指南、 RN 0.74.2、复活 3.12、Turborepo 2、生物群落 1.8...</title>
+      <title>【This Week In React #188: React 19 RC0, Data Fetching, Framer Motion, Compiler, Astro, Zod, Remix, Docusaurus, React-Query,, Memory Leaks, Spline, Module Mocking, Slow Networks, MS Edge, RN Security Guide, RN 0.74.2, Reanimated 3.12, Turborepo 2, Biome 1.8...】本周 React #188：React 19 RC0、数据获取、Framer Motion、编译器、Astro、Zod、Remix、Docusaurus、React-Query、内存泄漏、样条线、模块模拟、慢速网络、MS Edge、RN 安全指南、 RN 0.74.2、复活 3.12、Turborepo 2、生物群落 1.8...</title>
       <link>https://thisweekinreact.com/newsletter/188</link>
       <description>【Hey,】嘿，</description>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
@@ -28,10 +16,22 @@
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【This Week In React #189: Next.js Security, Memoization, useFormStatus, React State, Remix Typesafe Routes, View Transitions, Astro, Starlight, Hydrogen, Remotion, Lingui, Storybook, Skia Video, Starlink, App Clips, VisionOS...】本周 React #189：Next.js 安全性、Memoization、useFormStatus、React State、Remix Typesafe 路由、视图转换、Astro、Starlight、Hydrogen、Remotion、Lingui、Storybook、Skia Video、Starlink、App Clips、VisionOS...</title>
+      <link>https://thisweekinreact.com/newsletter/189</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #190: Suspense, Internals Explorer, DevTools, RSC + Vite, Codemod, Astro, INP, composition, Reassure, Fumadocs, tscircuit, Sonner, Relay, Reanimated, RNGH, BottomSheet, RNScreens, VisionOS, TC39, Node, CSS ...】本周 React #190：Suspense、Internals Explorer、DevTools、RSC + Vite、Codemod、Astro、INP、composition、Reassure、Fumadocs、tscircuit、Sonner、Relay、Reanimated、RNGH、BottomSheet、RNScreens、VisionOS、TC39、Node、 CSS...</title>
       <link>https://thisweekinreact.com/newsletter/190</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #191: React-Router, Remix, React Query, Suspense, Compiler, Remotion, CodeHike, next-safe-action, Framer-Motion, React-Admin, StyleX, Mobx, FlashList, RN native bridging, Expo, TypeScript, State of JS, Node ...】本周 React #191：React-Router、Remix、React Query、Suspense、编译器、Remotion、CodeHike、next-safe-action、Framer-Motion、React-Admin、StyleX、Mobx、FlashList、RN 原生桥接、Expo、 TypeScript、JS 状态、Node ...</title>
+      <link>https://thisweekinreact.com/newsletter/191</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
