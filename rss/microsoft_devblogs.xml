@@ -4,36 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【C# 13：探索最新的预览功能】C# 13：探索最新的预览功能</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/c-13%ef%bc%9a%e6%8e%a2%e7%b4%a2%e6%9c%80%e6%96%b0%e7%9a%84%e9%a2%84%e8%a7%88%e5%8a%9f%e8%83%bd</link>
-      <description>【本篇翻译于Kathleen Dollard 的C# 13: Explore the latest preview features &amp;#8211; .NET Blog (microsoft.com)  C# 13 已初具雏形，其新特性侧重于灵活性、性能以及使您最喜欢的功能在日常中变得更容易使用。我们以公开的方式构建 C#，在今年的 Microsoft Build 大会上，我们会让您一睹 C# 13 的精彩之处。今天，我们想分享一下C# 13 当前的状态，以及您今天就可以尝试的新功能，并提供有关此版本及以后计划中的功能更新。让我们更详细地了解这些新功能。  增强了 params 集合以实现更强的灵活性 lock对象 索引运算符改进 转义序列 \e Partial属性 方法组自然类型改进 async方法和迭代器中的 ref 和 unsafe 扩展类型更新 立即试用 C# 13  在我们深入研究 C# 13 的每个新功能之前，您可能想知道如何使用它。  您可以在最新的 .NET 9 预览版（撰写本文时为预览版 6）和 Visual Studio 2022-17.11 的最新预览版中找到 C# 13 的最新预览版。若要访问预览功能，请在项目文件中将您的语言版本设置为preview：  &amp;lt;Project Sdk=&#34;Microsoft.NET.Sdk&#34;&amp;gt;】本篇翻译于Kathleen Dollard 的C# 13: Explore the latest preview features – .NET Blog (microsoft.com)  C# 13 已初具雏形，其新特性侧重于灵活性、性能以及使您最喜欢的功能在日常中变得更容易使用。我们以公开的方式构建 C#，在今年的 Microsoft Build 大会上，我们会让您一睹 C# 13 的精彩之处。今天，我们想分享一下C# 13 当前的状态，以及您今天就可以尝试的新功能，并提供有关此版本及以后计划中的功能更新。让我们更详细地了解这些新功能。  增强了 params 集合以实现更强的灵活性 lock对象 索引运算符改进 转义序列 \e Partial属性 方法组自然类型改进 async方法和迭代器中的 ref 和 unsafe 扩展类型更新 立即试用 C# 13  在我们深入研究 C# 13 的每个新功能之前，您可能想知道如何使用它。  您可以在最新的 .NET 9 预览版（撰写本文时为预览版 6）和 Visual Studio 2022-17.11 的最新预览版中找到 C# 13 的最新预览版。若要访问预览功能，请在项目文件中将您的语言版本设置为preview：  &lt;Project Sdk=&#34;Microsoft.NET.Sdk&#34;&gt;</description>
-      <pubDate>Tue, 23 Jul 2024 08:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET】介绍适用于 .NET 的 CoreWCF 和 WCF 客户端 Azure 队列存储绑定</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet</link>
-      <description>【The initial beta release of the official libraries Microsoft.CoreWCF.Azure.StorageQueues and Microsoft.WCF.Azure.StorageQueues.Client library for .NET is now available.】适用于 .NET 的官方库 Microsoft.CoreWCF.Azure.StorageQueues 和 Microsoft.WCF.Azure.StorageQueues.Client 库的初始测试版现已推出。</description>
-      <pubDate>Thu, 18 Jul 2024 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Organizing the five creation dispositions of the Create­File function】组织CreateFile函数的五种创建配置</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240722-00/?p=110026</link>
-      <description>【Six possibilities, but only five useful ones.】六种可能性，但只有五种有用。</description>
-      <pubDate>Mon, 22 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 9】在 C++/WinRT 中创建已完成的异步活动，第 9 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240719-00/?p=109980</link>
-      <description>【Cheating the delegates.】欺骗代表。</description>
-      <pubDate>Fri, 19 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing v7.0 Support on vCore-based Azure Cosmos DB for MongoDB】宣布对基于 vCore 的 Azure Cosmos DB for MongoDB 提供 v7.0 支持</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-v7-0-support-on-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【&amp;nbsp; &amp;nbsp; We are thrilled to announce that vCore-based Azure Cosmos DB for MongoDB now officially supports version 7.0. This addition expands our range of supported versions to include 5.0, 6.0, and now 7.0, providing you with more options when setting up a new cluster.】    我们很高兴地宣布，基于 vCore 的 Azure Cosmos DB for MongoDB 现已正式支持版本 7.0。此添加扩展了我们支持的版本范围，包括 5.0、6.0 和现在的 7.0，为您在设置新集群时提供更多选项。</description>
-      <pubDate>Tue, 23 Jul 2024 00:25:46 +0000</pubDate>
-    </item>
-    <item>
       <title>【C#12新功能合集四：使用默认 lambda 参数重构C#代码】C#12新功能合集四：使用默认 lambda 参数重构C#代码</title>
       <link>https://devblogs.microsoft.com/dotnet-ch/c12%e6%96%b0%e5%8a%9f%e8%83%bd%e5%90%88%e9%9b%86%e5%9b%9b%ef%bc%9a%e4%bd%bf%e7%94%a8%e9%bb%98%e8%ae%a4-lambda-%e5%8f%82%e6%95%b0%e9%87%8d%e6%9e%84c%e4%bb%a3%e7%a0%81</link>
       <description>【本文翻译于David Pine的这篇文章:Refactor your code with default lambda parameters 。 本文是探讨 C# 12的各种功能的四篇系列文章中的最后一篇。在这篇文章中，我们将探讨“默认 lambda 参数”功能，使开发人员能够在 lambda 表达式中使用默认参数值。本系列涵盖了很多内容：  使用主构造函数重构 C# 代码  使用集合表达式重构 C# 代码  使用任意类型别名重构 C# 代码  使用默认 lambda 参数重构C#代码（本篇文章） 这些功能是我们不断努力提高代码可读性和可维护性的一部分。让我们详细探索它们！  默认 Lambda 参数🧮 默认 lambda 参数是 C# 12 中的一项新功能，允许开发人员在 lambda 中表达默认参数值。此功能是 C# 方法中现有默认参数功能的自然扩展。  C# 12 之前🕰️ 在 C# 12 之前，当您定义需要提供某种默认行为的 lambda 表达式时，您必须使用空合并运算符 (??) 或条件运算符 (?:)。请查看以下示例：  var IncrementBy = static (int source,】本文翻译于David Pine的这篇文章:Refactor your code with default lambda parameters 。 本文是探讨 C# 12的各种功能的四篇系列文章中的最后一篇。在这篇文章中，我们将探讨“默认 lambda 参数”功能，使开发人员能够在 lambda 表达式中使用默认参数值。本系列涵盖了很多内容：  使用主构造函数重构 C# 代码  使用集合表达式重构 C# 代码  使用任意类型别名重构 C# 代码  使用默认 lambda 参数重构C#代码（本篇文章） 这些功能是我们不断努力提高代码可读性和可维护性的一部分。让我们详细探索它们！  默认 Lambda 参数🧮 默认 lambda 参数是 C# 12 中的一项新功能，允许开发人员在 lambda 中表达默认参数值。此功能是 C# 方法中现有默认参数功能的自然扩展。  C# 12 之前🕰️ 在 C# 12 之前，当您定义需要提供某种默认行为的 lambda 表达式时，您必须使用空合并运算符 (??) 或条件运算符 (?:)。请查看以下示例：  var IncrementBy = static (int source,</description>
@@ -46,16 +16,46 @@
       <pubDate>Fri, 19 Jul 2024 12:26:12 +0000</pubDate>
     </item>
     <item>
+      <title>【Organizing the five creation dispositions of the Create­File function】组织CreateFile函数的五种创建配置</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240722-00/?p=110026</link>
+      <description>【Six possibilities, but only five useful ones.】六种可能性，但只有五种有用。</description>
+      <pubDate>Mon, 22 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C# 13：探索最新的预览功能】C# 13：探索最新的预览功能</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/c-13%ef%bc%9a%e6%8e%a2%e7%b4%a2%e6%9c%80%e6%96%b0%e7%9a%84%e9%a2%84%e8%a7%88%e5%8a%9f%e8%83%bd</link>
+      <description>【本篇翻译于Kathleen Dollard 的C# 13: Explore the latest preview features &amp;#8211; .NET Blog (microsoft.com)  C# 13 已初具雏形，其新特性侧重于灵活性、性能以及使您最喜欢的功能在日常中变得更容易使用。我们以公开的方式构建 C#，在今年的 Microsoft Build 大会上，我们会让您一睹 C# 13 的精彩之处。今天，我们想分享一下C# 13 当前的状态，以及您今天就可以尝试的新功能，并提供有关此版本及以后计划中的功能更新。让我们更详细地了解这些新功能。  增强了 params 集合以实现更强的灵活性 lock对象 索引运算符改进 转义序列 \e Partial属性 方法组自然类型改进 async方法和迭代器中的 ref 和 unsafe 扩展类型更新 立即试用 C# 13  在我们深入研究 C# 13 的每个新功能之前，您可能想知道如何使用它。  您可以在最新的 .NET 9 预览版（撰写本文时为预览版 6）和 Visual Studio 2022-17.11 的最新预览版中找到 C# 13 的最新预览版。若要访问预览功能，请在项目文件中将您的语言版本设置为preview：  &amp;lt;Project Sdk=&#34;Microsoft.NET.Sdk&#34;&amp;gt;】本篇翻译于Kathleen Dollard 的C# 13: Explore the latest preview features – .NET Blog (microsoft.com)  C# 13 已初具雏形，其新特性侧重于灵活性、性能以及使您最喜欢的功能在日常中变得更容易使用。我们以公开的方式构建 C#，在今年的 Microsoft Build 大会上，我们会让您一睹 C# 13 的精彩之处。今天，我们想分享一下C# 13 当前的状态，以及您今天就可以尝试的新功能，并提供有关此版本及以后计划中的功能更新。让我们更详细地了解这些新功能。  增强了 params 集合以实现更强的灵活性 lock对象 索引运算符改进 转义序列 \e Partial属性 方法组自然类型改进 async方法和迭代器中的 ref 和 unsafe 扩展类型更新 立即试用 C# 13  在我们深入研究 C# 13 的每个新功能之前，您可能想知道如何使用它。  您可以在最新的 .NET 9 预览版（撰写本文时为预览版 6）和 Visual Studio 2022-17.11 的最新预览版中找到 C# 13 的最新预览版。若要访问预览功能，请在项目文件中将您的语言版本设置为preview：  &lt;Project Sdk=&#34;Microsoft.NET.Sdk&#34;&gt;</description>
+      <pubDate>Tue, 23 Jul 2024 08:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET】介绍适用于 .NET 的 CoreWCF 和 WCF 客户端 Azure 队列存储绑定</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet</link>
+      <description>【The initial beta release of the official libraries Microsoft.CoreWCF.Azure.StorageQueues and Microsoft.WCF.Azure.StorageQueues.Client library for .NET is now available.】适用于 .NET 的官方库 Microsoft.CoreWCF.Azure.StorageQueues 和 Microsoft.WCF.Azure.StorageQueues.Client 库的初始测试版现已推出。</description>
+      <pubDate>Thu, 18 Jul 2024 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating an already-completed asynchronous activity in C++/WinRT, part 9】在 C++/WinRT 中创建已完成的异步活动，第 9 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240719-00/?p=109980</link>
+      <description>【Cheating the delegates.】欺骗代表。</description>
+      <pubDate>Fri, 19 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improving GitHub Copilot Completions in VS Code for C++ Developers】为 C++ 开发人员改进 VS Code 中的 GitHub Copilot 完成情况</title>
+      <link>https://devblogs.microsoft.com/cppblog/improving-github-copilot-completions-in-vs-code-for-c-developers</link>
+      <description>【GitHub Copilot code completions are autocomplete-stye suggestions that appear inline as you code. Until today, they have used context from your active file and other tabs open in the editor to inform the suggestion that is returned. However, we know that more contextually relevant input leads to better suggestions.】GitHub Copilot 代码完成是在您编码时内联显示的自动完成样式建议。直到今天，他们仍然使用活动文件中的上下文和编辑器中打开的其他选项卡来通知返回的建议。然而，我们知道，更多与上下文相关的输入会带来更好的建议。</description>
+      <pubDate>Mon, 22 Jul 2024 14:43:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【Teams Toolkit for Visual Studio Code update – July 2024】Teams Toolkit for Visual Studio Code 更新 – 2024 年 7 月</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-july-2024</link>
       <description>【Learn about the latest Teams Toolkit for Visual Studio Code updates including a faster and more reliable way to debug your Teams applications.】了解最新的 Teams Toolkit for Visual Studio Code 更新，包括更快、更可靠的调试 Teams 应用程序的方法。</description>
       <pubDate>Tue, 23 Jul 2024 14:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Improving GitHub Copilot Completions in VS Code for C++ Developers】为 C++ 开发人员改进 VS Code 中的 GitHub Copilot 完成情况</title>
-      <link>https://devblogs.microsoft.com/cppblog/improving-github-copilot-completions-in-vs-code-for-c-developers</link>
-      <description>【GitHub Copilot code completions are autocomplete-stye suggestions that appear inline as you code. Until today, they have used context from your active file and other tabs open in the editor to inform the suggestion that is returned. However, we know that more contextually relevant input leads to better suggestions.】GitHub Copilot 代码完成是在您编码时内联显示的自动完成样式建议。直到今天，他们一直使用活动文件中的上下文和编辑器中打开的其他选项卡来通知返回的建议。然而，我们知道，更多与上下文相关的输入会带来更好的建议。</description>
-      <pubDate>Mon, 22 Jul 2024 14:43:56 +0000</pubDate>
+      <title>【Announcing v7.0 Support on vCore-based Azure Cosmos DB for MongoDB】宣布对基于 vCore 的 Azure Cosmos DB for MongoDB 提供 v7.0 支持</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-v7-0-support-on-vcore-based-azure-cosmos-db-for-mongodb</link>
+      <description>【&amp;nbsp; &amp;nbsp; We are thrilled to announce that vCore-based Azure Cosmos DB for MongoDB now officially supports version 7.0. This addition expands our range of supported versions to include 5.0, 6.0, and now 7.0, providing you with more options when setting up a new cluster.】    我们很高兴地宣布，基于 vCore 的 Azure Cosmos DB for MongoDB 现已正式支持版本 7.0。此添加扩展了我们支持的版本范围，包括 5.0、6.0 和现在的 7.0，为您在设置新集群时提供更多选项。</description>
+      <pubDate>Tue, 23 Jul 2024 00:25:46 +0000</pubDate>
     </item>
     <item>
       <title>【Add AI to Your .NET Apps Easily with Prompty】立即轻松地将 AI 添加到您的 .NET 应用程序</title>
