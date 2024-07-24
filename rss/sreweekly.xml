@@ -4,6 +4,18 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #434】SRE 周刊第 #434 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-434/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: We&amp;#8217;ve gone all out on our new integration with Microsoft Teams. If you&amp;#8217;re a MS Teams user, FireHydrant now supports the most comprehensive integration for incident management. Run the entire IM process without ever leaving the chat. https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ Technical Details: Falcon Update for Windows Hosts The [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：我们已全力以赴与 Microsoft Teams 进行新的集成。如果您是 MS Teams 用户，FireHydrant 现在支持最全面的事件管理集成。无需离开聊天即可运行整个 IM 流程。 https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 技术详细信息：适用于 Windows 主机的 Falcon 更新 [...]</description>
+      <pubDate>Mon, 22 Jul 2024 01:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #433】SRE 周刊第 #433 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-433/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: We&amp;#8217;ve gone all out on our new integration with Microsoft Teams. If you&amp;#8217;re a MS Teams user, FireHydrant now supports the most comprehensive integration for incident management. Run the entire IM process without ever leaving the chat. https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 5 Non-Technical Skills Every Site Reliability Engineer Should [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：我们已全力以赴与 Microsoft Teams 进行新的集成。如果您是 MS Teams 用户，FireHydrant 现在支持最全面的事件管理集成。无需离开聊天即可运行整个 IM 流程。 https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 每个站点可靠性工程师应该具备的 5 项非技术技能 [...]</description>
+      <pubDate>Mon, 15 Jul 2024 02:10:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #432】SRE 周刊第 #432 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-432/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: We&amp;#8217;ve gone all out on our new integration with Microsoft Teams. If you&amp;#8217;re a MS Teams user, FireHydrant now supports the most comprehensive integration for incident management. Run the entire IM process without ever leaving the chat. https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ Investigating Mysterious Kafka Broker I/O When Using Confluent [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：我们已全力以赴与 Microsoft Teams 进行新的集成。如果您是 MS Teams 用户，FireHydrant 现在支持最全面的事件管理集成。无需离开聊天即可运行整个 IM 流程。 https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 使用 Confluence 时调查神秘的 Kafka Broker I/O [...]</description>
@@ -20,18 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-430/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: We&amp;#8217;ve gone all out on our new integration with Microsoft Teams. If you&amp;#8217;re a MS Teams user, FireHydrant now supports the most comprehensive integration for incident management. Run the entire IM process without ever leaving the chat. https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ r/sre: Senior SRE looking for a resume review, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：我们已全力以赴与 Microsoft Teams 进行新的集成。如果您是 MS Teams 用户，FireHydrant 现在支持最全面的事件管理集成。无需离开聊天即可运行整个 IM 流程。 https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/r/sre：高级 SRE 正在寻找简历审查，[...]</description>
       <pubDate>Mon, 24 Jun 2024 01:47:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #433】SRE 周刊第 #433 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-433/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: We&amp;#8217;ve gone all out on our new integration with Microsoft Teams. If you&amp;#8217;re a MS Teams user, FireHydrant now supports the most comprehensive integration for incident management. Run the entire IM process without ever leaving the chat. https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 5 Non-Technical Skills Every Site Reliability Engineer Should [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：我们已全力以赴与 Microsoft Teams 进行新的集成。如果您是 MS Teams 用户，FireHydrant 现在支持最全面的事件管理集成。无需离开聊天即可运行整个 IM 流程。 https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 每个站点可靠性工程师应该具备的 5 项非技术技能 [...]</description>
-      <pubDate>Mon, 15 Jul 2024 02:10:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #434】SRE 周刊第 #434 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-434/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: We&amp;#8217;ve gone all out on our new integration with Microsoft Teams. If you&amp;#8217;re a MS Teams user, FireHydrant now supports the most comprehensive integration for incident management. Run the entire IM process without ever leaving the chat. https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ Technical Details: Falcon Update for Windows Hosts The [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：我们已全力以赴与 Microsoft Teams 进行新的集成。如果您是 MS Teams 用户，FireHydrant 现在支持最全面的事件管理集成。无需离开聊天即可运行整个 IM 流程。 https://firehydrant.com/blog/introducing-a-brand-new-microsoft-teams-integration/ 技术详细信息：适用于 Windows 主机的 Falcon 更新 [...]</description>
-      <pubDate>Mon, 22 Jul 2024 01:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
