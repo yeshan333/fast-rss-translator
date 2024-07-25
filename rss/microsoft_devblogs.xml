@@ -4,46 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Teams Toolkit for Visual Studio Code update – July 2024】Teams Toolkit for Visual Studio Code 更新 – 2024 年 7 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-july-2024</link>
-      <description>【Learn about the latest Teams Toolkit for Visual Studio Code updates including a faster and more reliable way to debug your Teams applications.】了解最新的 Teams Toolkit for Visual Studio Code 更新，包括更快、更可靠的调试 Teams 应用程序的方法。</description>
-      <pubDate>Tue, 23 Jul 2024 14:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing v7.0 Support on vCore-based Azure Cosmos DB for MongoDB】宣布对基于 vCore 的 Azure Cosmos DB for MongoDB 提供 v7.0 支持</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-v7-0-support-on-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【&amp;nbsp; &amp;nbsp; We are thrilled to announce that vCore-based Azure Cosmos DB for MongoDB now officially supports version 7.0. This addition expands our range of supported versions to include 5.0, 6.0, and now 7.0, providing you with more options when setting up a new cluster.】    我们很高兴地宣布，基于 vCore 的 Azure Cosmos DB for MongoDB 现已正式支持版本 7.0。此添加扩展了我们支持的版本范围，包括 5.0、6.0 和现在的 7.0，为您在设置新集群时提供更多选项。</description>
-      <pubDate>Tue, 23 Jul 2024 00:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C# 13：探索最新的预览功能】C# 13：探索最新的预览功能</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/c-13%ef%bc%9a%e6%8e%a2%e7%b4%a2%e6%9c%80%e6%96%b0%e7%9a%84%e9%a2%84%e8%a7%88%e5%8a%9f%e8%83%bd</link>
-      <description>【本篇翻译于Kathleen Dollard 的C# 13: Explore the latest preview features &amp;#8211; .NET Blog (microsoft.com)  C# 13 已初具雏形，其新特性侧重于灵活性、性能以及使您最喜欢的功能在日常中变得更容易使用。我们以公开的方式构建 C#，在今年的 Microsoft Build 大会上，我们会让您一睹 C# 13 的精彩之处。今天，我们想分享一下C# 13 当前的状态，以及您今天就可以尝试的新功能，并提供有关此版本及以后计划中的功能更新。让我们更详细地了解这些新功能。  增强了 params 集合以实现更强的灵活性 lock对象 索引运算符改进 转义序列 \e Partial属性 方法组自然类型改进 async方法和迭代器中的 ref 和 unsafe 扩展类型更新 立即试用 C# 13  在我们深入研究 C# 13 的每个新功能之前，您可能想知道如何使用它。  您可以在最新的 .NET 9 预览版（撰写本文时为预览版 6）和 Visual Studio 2022-17.11 的最新预览版中找到 C# 13 的最新预览版。若要访问预览功能，请在项目文件中将您的语言版本设置为preview：  &amp;lt;Project Sdk=&#34;Microsoft.NET.Sdk&#34;&amp;gt;】本篇翻译于Kathleen Dollard 的C# 13: Explore the latest preview features – .NET Blog (microsoft.com)  C# 13 已初具雏形，其新特性侧重于灵活性、性能以及使您最喜欢的功能在日常中变得更容易使用。我们以公开的方式构建 C#，在今年的 Microsoft Build 大会上，我们会让您一睹 C# 13 的精彩之处。今天，我们想分享一下C# 13 当前的状态，以及您今天就可以尝试的新功能，并提供有关此版本及以后计划中的功能更新。让我们更详细地了解这些新功能。  增强了 params 集合以实现更强的灵活性 lock对象 索引运算符改进 转义序列 \e Partial属性 方法组自然类型改进 async方法和迭代器中的 ref 和 unsafe 扩展类型更新 立即试用 C# 13  在我们深入研究 C# 13 的每个新功能之前，您可能想知道如何使用它。  您可以在最新的 .NET 9 预览版（撰写本文时为预览版 6）和 Visual Studio 2022-17.11 的最新预览版中找到 C# 13 的最新预览版。若要访问预览功能，请在项目文件中将您的语言版本设置为preview：  &lt;Project Sdk=&#34;Microsoft.NET.Sdk&#34;&gt;</description>
-      <pubDate>Tue, 23 Jul 2024 08:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in .NET Aspire 8.1 for cloud native developers!】.NET Aspire 8.1 为云原生开发人员提供的新增功能！</title>
-      <link>https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1</link>
-      <description>【Let&#39;s take a look at what is new with .NET Aspire 8.1 for building cloud native applications!】让我们来看看 .NET Aspire 8.1 在构建云原生应用程序方面有哪些新功能！</description>
-      <pubDate>Tue, 23 Jul 2024 16:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Planning with Semantic Kernel using Automatic Function Calling】使用自动函数调用进行语义内核规划</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/planning-with-semantic-kernel-using-automatic-function-calling</link>
-      <description>【Hello, everyone! AI planning is a powerful tool that allows to generate and execute complex workflows in applications based on specified goal. In Semantic Kernel, it&amp;#8217;s possible to implement planning logic using FunctionCallingStepwisePlanner class. Today we want to introduce a new way how to achieve the same results by using Automatic Function Calling.】大家好！人工智能规划是一个强大的工具，可以根据指定的目标在应用程序中生成和执行复杂的工作流程。在语义内核中，可以使用 FunctionCallingStepwisePlanner 类来实现规划逻辑。今天我们想介绍一种新方法，如何使用自动函数调用来实现相同的结果。</description>
-      <pubDate>Tue, 23 Jul 2024 19:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unquoted service paths: The new frontier in script kiddie security vulnerability reports】不带引号的服务路径：Script Kiddie 安全漏洞报告的新领域</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240723-00/?p=110032</link>
-      <description>【Usually not exploitable, but the script kiddies don&#39;t know that.】通常不可利用，但脚本小子不知道这一点。</description>
-      <pubDate>Tue, 23 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【The future of Planners in Semantic Kernel】语义内核中规划器的未来</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel</link>
       <description>【Since the very earlier days of Semantic Kernel, we have shipped experimental “planners” that use prompts to generate multi-step plans. This was extremely powerful because it allowed developers to use LLMs (which were created to merely generate text) to begin automating business processes.】从语义内核的早期开始，我们就已经推出了实验性“规划器”，它使用提示来生成多步骤计划。这是非常强大的，因为它允许开发人员使用法学硕士（创建它只是为了生成文本）来开始自动化业务流程。</description>
       <pubDate>Tue, 23 Jul 2024 18:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing .NET Conf: Focus on AI – August 20th 2024】宣布 .NET Conf：聚焦 AI – 2024 年 8 月 20 日</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai</link>
+      <description>【We&#39;re thrilled to announce the upcoming .NET Conf: Focus on AI, happening on August 20th! This one-day, virtual event will be packed with insightful sessions from both the community and Microsoft teams, showcasing how you can infuse your .NET applications with powerful AI capabilities.】我们很高兴地宣布即将于 8 月 20 日举行的 .NET Conf：聚焦 AI！这个为期一天的虚拟活动将包含来自社区和 Microsoft 团队的富有洞察力的会议，展示如何为您的 .NET 应用程序注入强大的 AI 功能。</description>
+      <pubDate>Tue, 23 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Genetec uses Visual Studio, CMake, vcpkg, and Docker for remote Linux C++ development】Genetec 使用 Visual Studio、CMake、vcpkg 和 Docker 进行远程 Linux C++ 开发</title>
@@ -52,16 +22,46 @@
       <pubDate>Tue, 23 Jul 2024 14:54:52 +0000</pubDate>
     </item>
     <item>
+      <title>【How use a Blazor QuickGrid with GraphQL】如何将 Blazor QuickGrid 与 GraphQL 结合使用</title>
+      <link>https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql</link>
+      <description>【In this is the second post in a series of posts about GraphQL and .NET, we will see how to fill a Blazor QuickGrid component with data fetched with GraphQL. We will also use the virtualize feature of the QuickGrid to improve performance.】这是有关 GraphQL 和 .NET 的系列文章中的第二篇文章，我们将了解如何使用 GraphQL 获取的数据填充 Blazor QuickGrid 组件。我们还将使用 QuickGrid 的虚拟化功能来提高性能。</description>
+      <pubDate>Wed, 24 Jul 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s new in .NET Aspire 8.1 for cloud native developers!】.NET Aspire 8.1 为云原生开发人员提供的新增功能！</title>
+      <link>https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1</link>
+      <description>【Let&#39;s take a look at what is new with .NET Aspire 8.1 for building cloud native applications!】让我们来看看 .NET Aspire 8.1 在构建云原生应用程序方面有哪些新功能！</description>
+      <pubDate>Tue, 23 Jul 2024 16:50:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Go 1.22.5-2 and 1.21.12-2 Microsoft builds now available】Go 1.22.5-2 和 1.21.12-2 Microsoft 版本现已推出</title>
       <link>https://devblogs.microsoft.com/go/go-1-22-5-2-and-1-21-12-2-microsoft-builds-now-available</link>
       <description>【A new Microsoft build released yesterday is now available for download.】昨天发布的新 Microsoft 版本现已可供下载。</description>
       <pubDate>Tue, 23 Jul 2024 22:09:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing .NET Conf: Focus on AI – August 20th 2024】宣布 .NET Conf：聚焦 AI – 2024 年 8 月 20 日</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai</link>
-      <description>【We&#39;re thrilled to announce the upcoming .NET Conf: Focus on AI, happening on August 20th! This one-day, virtual event will be packed with insightful sessions from both the community and Microsoft teams, showcasing how you can infuse your .NET applications with powerful AI capabilities.】我们很高兴地宣布即将于 8 月 20 日举行的 .NET Conf：聚焦 AI！这个为期一天的虚拟活动将包含来自社区和 Microsoft 团队的富有洞察力的会议，展示如何为您的 .NET 应用程序注入强大的 AI 功能。</description>
-      <pubDate>Tue, 23 Jul 2024 17:05:00 +0000</pubDate>
+      <title>【Planning with Semantic Kernel using Automatic Function Calling】使用自动函数调用进行语义内核规划</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/planning-with-semantic-kernel-using-automatic-function-calling</link>
+      <description>【Hello, everyone! AI planning is a powerful tool that allows to generate and execute complex workflows in applications based on specified goal. In Semantic Kernel, it&amp;#8217;s possible to implement planning logic using FunctionCallingStepwisePlanner class. Today we want to introduce a new way how to achieve the same results by using Automatic Function Calling.】大家好！人工智能规划是一个强大的工具，可以根据指定的目标在应用程序中生成和执行复杂的工作流程。在语义内核中，可以使用 FunctionCallingStepwisePlanner 类来实现规划逻辑。今天我们想介绍一种新方法，如何使用自动函数调用来实现相同的结果。</description>
+      <pubDate>Tue, 23 Jul 2024 19:26:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup】Visual Studio 提示：使用 Ctrl-L 删除带或不带剪贴板备份的行</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line</link>
+      <description>【Here is one Visual Studio tip from my colleague Gwyn Peña-Siguenza which I didn&amp;#8217;t know about! Yes, even after 26 years using this fantastic tool, I am still discovering new features. So thanks to Gwyn for this!! This is all about deleting lines,】这是我的同事 Gwyn Peña-Siguenza 提供的一个 Visual Studio 技巧，但我并不知道！是的，即使在使用这个出色的工具 26 年之后，我仍然在发现新功能。所以感谢格温！这都是关于删除行的，</description>
+      <pubDate>Wed, 24 Jul 2024 07:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【API naming principle: If there is no direct object, then the direct object is the source object】API命名原则：如果没有直接对象，那么直接对象就是源对象</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240724-00/?p=110037</link>
+      <description>【If you don&#39;t know what it operates on or produces, then it operates on or produces itself.】如果你不知道它作用于什么或产生什么，那么它就会作用于自身或产生自身。</description>
+      <pubDate>Wed, 24 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: SimCorp’s AI Journey with Semantic Kernel】客户案例研究：SimCorp 的语义内核人工智能之旅</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-simcorps-ai-journey-with-semantic-kernel</link>
+      <description>【We&amp;#8217;re excited to feature the SimCorp team on the Semantic Kernel blog today. The SimCorp team will discuss their AI journey and how they’ve integrated Semantic Kernel to build out their AI solutions. Let’s dive into the details from the SimCorp team!】我们很高兴今天在 Semantic Kernel 博客上介绍 SimCorp 团队。 SimCorp 团队将讨论他们的 AI 之旅以及他们如何集成语义内核来构建他们的 AI 解决方案。让我们深入了解 SimCorp 团队的详细信息！</description>
+      <pubDate>Wed, 24 Jul 2024 15:50:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

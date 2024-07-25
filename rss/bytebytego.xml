@@ -11,10 +11,34 @@
       <pubDate>Sat, 20 Jul 2024 15:30:46 +0000</pubDate>
     </item>
     <item>
+      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
+      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
+      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP118: What are the differences among database locks? 】EP118：数据库锁之间有什么区别？</title>
+      <link>https://blog.bytebytego.com/p/ep118-what-are-the-differences-among</link>
+      <description>【This week&amp;#8217;s system design refresher: What are the differences among database locks? How do we Perform Pagination in API Design? What distinguishes MVC, MVP, MVVM, MVVM-C, and VIPER architecture patterns from each other? What happens when you type a URL into your browser?】本周系统设计复习：数据库锁之间有什么区别？ API设计中如何进行分页？ MVC、MVP、MVVM、MVVM-C 和 VIPER 架构模式有何区别？当您在浏览器中输入 URL 时会发生什么？</description>
+      <pubDate>Sat, 29 Jun 2024 15:30:59 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Crash Course in Database Sharding】数据库分片速成课程</title>
       <link>https://blog.bytebytego.com/p/a-crash-course-in-database-sharding</link>
-      <description>【As an application grows in popularity, it attracts more active users and incorporates additional features. This growth leads to a daily increase in data generation, which is a positive indicator from a business perspective. However, it can also pose challenges to the application&#39;s architecture, particularly in terms of database scalability.】随着应用程序越来越受欢迎，它会吸引更多的活跃用户并包含更多功能。这种增长导致数据生成量每天增加，从业务角度来看，这是一个积极的指标。然而，它也可能给应用程序的架构带来挑战，特别是在数据库可扩展性方面。</description>
+      <description>【As an application grows in popularity, it attracts more active users and incorporates additional features. This growth leads to a daily increase in data generation, which is a positive indicator from a business perspective.】随着应用程序越来越受欢迎，它会吸引更多的活跃用户并包含更多功能。这种增长导致数据生成量每天增加，从业务角度来看，这是一个积极的指标。</description>
       <pubDate>Thu, 27 Jun 2024 15:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Stripe Scaled to 5 Million Database Queries Per Second】Stripe 如何扩展到每秒 500 万次数据库查询</title>
+      <link>https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database</link>
+      <description>【WorkOS: modern identity platform for B2B SaaS (Sponsored) Start selling to enterprises with just a few lines of code. &amp;#8594; WorkOS provides a complete User Management solution along with SSO, SCIM, RBAC, &amp; FGA. &amp;#8594; Unlike other auth providers that rely on user-centric models, WorkOS is designed for B2B SaaS with an org modeling approach.】WorkOS：B2B SaaS 的现代身份平台（赞助）只需几行代码即可开始向企业销售。 → WorkOS 提供完整的用户管理解决方案以及 SSO、SCIM、RBAC 和 FGA。 → 与其他依赖以用户为中心的模型的身份验证提供商不同，WorkOS 专为采用组织建模方法的 B2B SaaS 设计。</description>
+      <pubDate>Tue, 23 Jul 2024 15:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP119: What do Amazon, Netflix, and Uber have in common?】EP119：亚马逊、Netflix 和 Uber 有什么共同点？</title>
+      <link>https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and</link>
+      <description>【This week&amp;#8217;s system design refresher: 7 Must-know Strategies to Scale Your Database (Youtube video) What do Amazon, Netflix, and Uber have in common? 100X Postgres Scaling at Figma Best ways to test system functionality SPONSOR US Monitor AI Applications Built with NVIDIA NIM (Sponsored)】本周的系统设计复习：扩展数据库的 7 个必须了解的策略（Youtube 视频）Amazon、Netflix 和 Uber 有什么共同点？ Figma 的 100 倍 Postgres 扩展 测试系统功能的最佳方法 赞助使用 NVIDIA NIM 构建的 US Monitor AI 应用程序（赞助）</description>
+      <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Distributed Systems】分布式系统速成班</title>
@@ -29,40 +53,16 @@
       <pubDate>Thu, 18 Jul 2024 15:31:12 +0000</pubDate>
     </item>
     <item>
-      <title>【EP119: What do Amazon, Netflix, and Uber have in common?】EP119：亚马逊、Netflix 和 Uber 有什么共同点？</title>
-      <link>https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and</link>
-      <description>【This week&amp;#8217;s system design refresher: 7 Must-know Strategies to Scale Your Database (Youtube video) What do Amazon, Netflix, and Uber have in common? 100X Postgres Scaling at Figma Best ways to test system functionality SPONSOR US Monitor AI Applications Built with NVIDIA NIM (Sponsored)】本周的系统设计复习：扩展数据库的 7 个必须了解的策略（Youtube 视频）Amazon、Netflix 和 Uber 有什么共同点？ Figma 的 100 倍 Postgres 扩展 测试系统功能的最佳方法 赞助使用 NVIDIA NIM 构建的 US Monitor AI 应用程序（赞助）</description>
-      <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
+      <title>【Where to get started with GenAI】从哪里开始使用 GenAI</title>
+      <link>https://blog.bytebytego.com/p/where-to-get-started-with-genai</link>
+      <description>【How to monitor AWS container environments at scale (Sponsored) In this eBook, Datadog and AWS share insights into the changing state of containers in the cloud and explore why orchestration technologies are an essential part of managing ever-changing containerized workloads.】如何大规模监控 AWS 容器环境（赞助） 在这本电子书中，Datadog 和 AWS 分享了对云中容器不断变化的状态的见解，并探讨了为什么编排技术是管理不断变化的容器化工作负载的重要组成部分。</description>
+      <pubDate>Tue, 16 Jul 2024 15:30:47 +0000</pubDate>
     </item>
     <item>
       <title>【EP120: What do version numbers mean? 】EP120：版本号是什么意思？</title>
       <link>https://blog.bytebytego.com/p/ep120-what-do-version-numbers-mean</link>
       <description>【This week&amp;#8217;s system design refresher: Concurrency Vs Parallelism! (Youtube video) What do version numbers mean? Looking for a Job? This Free AI Tool Can Get You More Interviews! Cybersecurity 101 in one picture What is k8s (Kubernetes)? SPONSOR US &amp;#9986;&amp;#65039;Cut your QA cycles down to minutes with automated testing (Sponsored)】本周的系统设计复习：并发与并行！ （Youtube 视频）版本号是什么意思？正在找工作吗？这个免费的人工智能工具可以让你获得更多面试机会！一张图片中的网络安全 101 什么是 k8s (Kubernetes)？赞助我们✂️通过自动化测试将您的 QA 周期缩短至几分钟（赞助）</description>
       <pubDate>Sat, 13 Jul 2024 15:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP118: What are the differences among database locks? 】EP118：数据库锁之间有什么区别？</title>
-      <link>https://blog.bytebytego.com/p/ep118-what-are-the-differences-among</link>
-      <description>【This week&amp;#8217;s system design refresher: What are the differences among database locks? How do we Perform Pagination in API Design? What distinguishes MVC, MVP, MVVM, MVVM-C, and VIPER architecture patterns from each other? What happens when you type a URL into your browser?】本周系统设计复习：数据库锁之间有什么区别？ API设计中如何进行分页？ MVC、MVP、MVVM、MVVM-C 和 VIPER 架构模式有何区别？当您在浏览器中输入 URL 时会发生什么？</description>
-      <pubDate>Sat, 29 Jun 2024 15:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Where to get started with GenAI】从哪里开始使用 GenAI</title>
-      <link>https://blog.bytebytego.com/p/where-to-get-started-with-genai</link>
-      <description>【How to monitor AWS container environments at scale (Sponsored) In this eBook, Datadog and AWS share insights into the changing state of containers in the cloud and explore why orchestration technologies are an essential part of managing ever-changing containerized workloads.】如何大规模监控 AWS 容器环境（赞助）在这本电子书中，Datadog 和 AWS 分享了对云中容器不断变化的状态的见解，并探讨了为什么编排技术是管理不断变化的容器化工作负载的重要组成部分。</description>
-      <pubDate>Tue, 16 Jul 2024 15:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-in-database-scaling</link>
-      <description>【Databases form the backbone of modern application development. They play a vital role in storing, managing, and retrieving data, enabling applications and services to function effectively. As applications gain popularity and attract a growing user base, databases face the challenge of handling ever-increasing data volumes, concurrent users, and complex queries.】数据库构成了现代应用程序开发的支柱。它们在存储、管理和检索数据、使应用程序和服务有效运行方面发挥着至关重要的作用。随着应用程序越来越受欢迎并吸引不断增长的用户群，数据库面临着处理不断增加的数据量、并发用户和复杂查询的挑战。</description>
-      <pubDate>Thu, 04 Jul 2024 15:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Stripe Scaled to 5 Million Database Queries Per Second】Stripe 如何扩展到每秒 500 万次数据库查询</title>
-      <link>https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database</link>
-      <description>【WorkOS: modern identity platform for B2B SaaS (Sponsored) Start selling to enterprises with just a few lines of code. &amp;#8594; WorkOS provides a complete User Management solution along with SSO, SCIM, RBAC, &amp; FGA. &amp;#8594; Unlike other auth providers that rely on user-centric models, WorkOS is designed for B2B SaaS with an org modeling approach.】WorkOS：B2B SaaS 的现代身份平台（赞助）只需几行代码即可开始向企业销售。 → WorkOS 提供完整的用户管理解决方案以及 SSO、SCIM、RBAC 和 FGA。 → 与其他依赖以用户为中心的模型的身份验证提供商不同，WorkOS 专为采用组织建模方法的 B2B SaaS 设计。</description>
-      <pubDate>Tue, 23 Jul 2024 15:30:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
