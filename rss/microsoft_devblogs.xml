@@ -4,52 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【The future of Planners in Semantic Kernel】语义内核中规划器的未来</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel</link>
-      <description>【Since the very earlier days of Semantic Kernel, we have shipped experimental “planners” that use prompts to generate multi-step plans. This was extremely powerful because it allowed developers to use LLMs (which were created to merely generate text) to begin automating business processes.】从语义内核的早期开始，我们就已经推出了实验性“规划器”，它使用提示来生成多步骤计划。这是非常强大的，因为它允许开发人员使用法学硕士（创建它只是为了生成文本）来开始自动化业务流程。</description>
-      <pubDate>Tue, 23 Jul 2024 18:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing .NET Conf: Focus on AI – August 20th 2024】宣布 .NET Conf：聚焦 AI – 2024 年 8 月 20 日</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai</link>
-      <description>【We&#39;re thrilled to announce the upcoming .NET Conf: Focus on AI, happening on August 20th! This one-day, virtual event will be packed with insightful sessions from both the community and Microsoft teams, showcasing how you can infuse your .NET applications with powerful AI capabilities.】我们很高兴地宣布即将于 8 月 20 日举行的 .NET Conf：聚焦 AI！这个为期一天的虚拟活动将包含来自社区和 Microsoft 团队的富有洞察力的会议，展示如何为您的 .NET 应用程序注入强大的 AI 功能。</description>
-      <pubDate>Tue, 23 Jul 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Genetec uses Visual Studio, CMake, vcpkg, and Docker for remote Linux C++ development】Genetec 使用 Visual Studio、CMake、vcpkg 和 Docker 进行远程 Linux C++ 开发</title>
-      <link>https://devblogs.microsoft.com/cppblog/genetec-uses-visual-studio-for-cmake-and-remote-container-development</link>
-      <description>【Over the past couple of months, the Microsoft C++ team reached out to a series of customers voting on a suggestion ticket asking for Remote Linux Unit Testing support to understand their full set of interactions and needs with CMake and remote Linux scenarios in Visual Studio.】在过去的几个月里，Microsoft C++ 团队联系了一系列客户，他们对建议票进行了投票，请求远程 Linux 单元测试支持，以了解他们与 CMake 和 Visual Studio 中的远程 Linux 场景的全套交互和需求。</description>
-      <pubDate>Tue, 23 Jul 2024 14:54:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How use a Blazor QuickGrid with GraphQL】如何将 Blazor QuickGrid 与 GraphQL 结合使用</title>
-      <link>https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql</link>
-      <description>【In this is the second post in a series of posts about GraphQL and .NET, we will see how to fill a Blazor QuickGrid component with data fetched with GraphQL. We will also use the virtualize feature of the QuickGrid to improve performance.】这是有关 GraphQL 和 .NET 的系列文章中的第二篇文章，我们将了解如何使用 GraphQL 获取的数据填充 Blazor QuickGrid 组件。我们还将使用 QuickGrid 的虚拟化功能来提高性能。</description>
-      <pubDate>Wed, 24 Jul 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in .NET Aspire 8.1 for cloud native developers!】.NET Aspire 8.1 为云原生开发人员提供的新增功能！</title>
-      <link>https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1</link>
-      <description>【Let&#39;s take a look at what is new with .NET Aspire 8.1 for building cloud native applications!】让我们来看看 .NET Aspire 8.1 在构建云原生应用程序方面有哪些新功能！</description>
-      <pubDate>Tue, 23 Jul 2024 16:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.22.5-2 and 1.21.12-2 Microsoft builds now available】Go 1.22.5-2 和 1.21.12-2 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-22-5-2-and-1-21-12-2-microsoft-builds-now-available</link>
-      <description>【A new Microsoft build released yesterday is now available for download.】昨天发布的新 Microsoft 版本现已可供下载。</description>
-      <pubDate>Tue, 23 Jul 2024 22:09:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Planning with Semantic Kernel using Automatic Function Calling】使用自动函数调用进行语义内核规划</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/planning-with-semantic-kernel-using-automatic-function-calling</link>
-      <description>【Hello, everyone! AI planning is a powerful tool that allows to generate and execute complex workflows in applications based on specified goal. In Semantic Kernel, it&amp;#8217;s possible to implement planning logic using FunctionCallingStepwisePlanner class. Today we want to introduce a new way how to achieve the same results by using Automatic Function Calling.】大家好！人工智能规划是一个强大的工具，可以根据指定的目标在应用程序中生成和执行复杂的工作流程。在语义内核中，可以使用 FunctionCallingStepwisePlanner 类来实现规划逻辑。今天我们想介绍一种新方法，如何使用自动函数调用来实现相同的结果。</description>
-      <pubDate>Tue, 23 Jul 2024 19:26:02 +0000</pubDate>
-    </item>
-    <item>
       <title>【Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup】Visual Studio 提示：使用 Ctrl-L 删除带或不带剪贴板备份的行</title>
       <link>https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line</link>
       <description>【Here is one Visual Studio tip from my colleague Gwyn Peña-Siguenza which I didn&amp;#8217;t know about! Yes, even after 26 years using this fantastic tool, I am still discovering new features. So thanks to Gwyn for this!! This is all about deleting lines,】这是我的同事 Gwyn Peña-Siguenza 提供的一个 Visual Studio 技巧，但我并不知道！是的，即使在使用这个出色的工具 26 年之后，我仍然在发现新功能。所以感谢格温！这都是关于删除行的，</description>
       <pubDate>Wed, 24 Jul 2024 07:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java on Azure Tooling的更新 – 2024年6月】Java on Azure Tooling的更新 – 2024年6月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-june-2024</link>
+      <description>【大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!】大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!</description>
+      <pubDate>Fri, 26 Jul 2024 02:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【In my Visual Studio project, I set my Conformance mode to permissive, but it’s still not permissive】在我的 Visual Studio 项目中，我将一致性模式设置为宽容，但它仍然不宽容</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240725-00/?p=110045</link>
+      <description>【Digging into what the compiler sees.】深入研究编译器所看到的内容。</description>
+      <pubDate>Thu, 25 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【API naming principle: If there is no direct object, then the direct object is the source object】API命名原则：如果没有直接对象，那么直接对象就是源对象</title>
@@ -58,10 +28,40 @@
       <pubDate>Wed, 24 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【How use a Blazor QuickGrid with GraphQL】如何将 Blazor QuickGrid 与 GraphQL 结合使用</title>
+      <link>https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql</link>
+      <description>【In this is the second post in a series of posts about GraphQL and .NET, we will see how to fill a Blazor QuickGrid component with data fetched with GraphQL. We will also use the virtualize feature of the QuickGrid to improve performance.】这是有关 GraphQL 和 .NET 的系列文章中的第二篇文章，我们将了解如何使用 GraphQL 获取的数据填充 Blazor QuickGrid 组件。我们还将使用 QuickGrid 的虚拟化功能来提高性能。</description>
+      <pubDate>Wed, 24 Jul 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Update on Azure Boards + GitHub Integration】Azure Boards + GitHub 集成更新</title>
+      <link>https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration</link>
+      <description>【It&amp;#8217;s been a few months since our last update on the initiative to enhance the integration between Azure Boards and GitHub. We&amp;#8217;re excited to share that many new features have been completed and are in the process of being rolled out.】距离我们上次更新有关增强 Azure Boards 和 GitHub 之间集成的计划已经过去了几个月。我们很高兴地告诉大家，许多新功能已经完成并且正在推出。</description>
+      <pubDate>Thu, 25 Jul 2024 19:14:20 +0000</pubDate>
+    </item>
+    <item>
       <title>【Customer Case Study: SimCorp’s AI Journey with Semantic Kernel】客户案例研究：SimCorp 的语义内核人工智能之旅</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-simcorps-ai-journey-with-semantic-kernel</link>
       <description>【We&amp;#8217;re excited to feature the SimCorp team on the Semantic Kernel blog today. The SimCorp team will discuss their AI journey and how they’ve integrated Semantic Kernel to build out their AI solutions. Let’s dive into the details from the SimCorp team!】我们很高兴今天在 Semantic Kernel 博客上介绍 SimCorp 团队。 SimCorp 团队将讨论他们的 AI 之旅以及他们如何集成语义内核来构建他们的 AI 解决方案。让我们深入了解 SimCorp 团队的详细信息！</description>
       <pubDate>Wed, 24 Jul 2024 15:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bring your custom engine copilot from Azure OpenAI Studio to Microsoft Teams: now in public preview】将自定义引擎 copilot 从 Azure OpenAI Studio 引入 Microsoft Teams：现已推出公共预览版</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/bring-your-custom-engine-copilot-from-azure-openai-studio-to-microsoft-teams-now-in-public-preview</link>
+      <description>【Azure OpenAI now offers a Deploy to a Teams app option in public preview, providing a new way to connect enterprise data with custom engine copilots in Microsoft Teams.】Azure OpenAI 现在在公共预览版中提供“部署到 Teams 应用程序”选项，提供了一种将企业数据与 Microsoft Teams 中的自定义引擎副驾驶连接的新方法。</description>
+      <pubDate>Thu, 25 Jul 2024 15:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Semantic Kernel for Java 1.2.0】宣布推出 Java 语义内核 1.2.0</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-2-0</link>
+      <description>【Hello Java AI developers! We are announcing the release of Semantic Kernel for Java v1.2.0! Since our release of v1.0 this past May, we have been working to improve and expand the capabilities we provide. Today, we are thrilled to share the latest updates,】Java AI 开发者们大家好！我们宣布发布 Java 语义内核 v1.2.0！自从今年 5 月发布 v1.0 以来，我们一直致力于改进和扩展我们提供的功能。今天，我们很高兴与大家分享最新的更新，</description>
+      <pubDate>Thu, 25 Jul 2024 15:51:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java on Azure Tooling Update – June 2024】Azure 上的 Java 工具更新 – 2024 年 6 月</title>
+      <link>https://devblogs.microsoft.com/java/java-on-azure-tooling-update-june-2024</link>
+      <description>【Hi everyone, welcome to the June update of Java on Azure developer tools. In this update, we will introduce our Workload Profiles Support for Azure Container Apps in Azure Toolkit for IntelliJ IDEA. We hope you enjoy these updates and have a smooth experience with our Azure toolkit.】大家好，欢迎来到 Azure 开发人员工具上的 Java 六月更新。在此更新中，我们将介绍 Azure Toolkit for IntelliJ IDEA 中对 Azure 容器应用程序的工作负载配置文件支持。我们希望您喜欢这些更新并拥有我们的 Azure 工具包的流畅体验。</description>
+      <pubDate>Fri, 26 Jul 2024 02:37:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

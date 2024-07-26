@@ -4,16 +4,22 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Euro 2024’s impact on Internet traffic: a closer look at finalists Spain and England】2024 年欧洲杯对互联网流量的影响：仔细观察决赛入围球队西班牙和英格兰</title>
+      <link>https://blog.cloudflare.com/euro-2024s-impact-on-internet-traffic-a-closer-look-at-finalists-spain-and-england</link>
+      <description>【 Here we examine how UEFA Euro 2024 football matches have influenced Internet traffic patterns in participating countries, with a special focus on the two finalists, Spain and England, on their journey to the final 】在这里，我们研究了 2024 年欧洲杯足球比赛如何影响参赛国家的互联网流量模式，特别关注西班牙和英格兰这两个决赛选手进入决赛的过程</description>
+      <pubDate>Thu, 11 Jul 2024 16:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare Zaraz adds support for server-side rendering of X and Instagram embeds】Cloudflare Zaraz 增加了对 X 和 Instagram 嵌入的服务器端渲染的支持</title>
+      <link>https://blog.cloudflare.com/zaraz-supports-server-side-rendering-of-embeds</link>
+      <description>【 We are thrilled to announce Cloudflare Zaraz support for server-side rendering of embeds from X and Instagram. This allows for secure, privacy-preserving, and performant embedding without third-party JavaScript or cookies, enhancing security, privacy, and performance on your website 】我们很高兴地宣布 Cloudflare Zaraz 支持 X 和 Instagram 嵌入的服务器端渲染。这样可以实现安全、隐私保护和高性能的嵌入，无需第三方 JavaScript 或 cookie，从而增强网站的安全性、隐私和性能</description>
+      <pubDate>Wed, 10 Jul 2024 13:00:55 +0000</pubDate>
+    </item>
+    <item>
       <title>【Meta Llama 3.1 now available on Workers AI】Meta Llama 3.1 现已在 Workers AI 上可用</title>
       <link>https://blog.cloudflare.com/meta-llama-3-1-available-on-workers-ai</link>
       <description>【 Cloudflare is excited to be a launch partner with Meta to introduce Workers AI support for Llama 3.1 】Cloudflare 很高兴成为 Meta 的发布合作伙伴，推出对 Llama 3.1 的 Workers AI 支持</description>
       <pubDate>Tue, 23 Jul 2024 15:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exploring Internet traffic during the 2024 U.S. Republican National Convention】探索 2024 年美国共和党全国代表大会期间的互联网流量</title>
-      <link>https://blog.cloudflare.com/exploring-internet-traffic-during-the-2024-us-republican-national-convention</link>
-      <description>【 This week, the Republican National Convention was hosted in Milwaukee, Wisconsin from July 15 to 18, 2024. We examined traffic shifts and cyberattacks since June 2024 to see how these events have impacted the Internet 】本周，共和党全国代表大会于 2024 年 7 月 15 日至 18 日在威斯康星州密尔沃基举行。我们研究了 2024 年 6 月以来的流量变化和网络攻击，以了解这些事件如何影响互联网</description>
-      <pubDate>Fri, 19 Jul 2024 15:07:04 +0000</pubDate>
     </item>
     <item>
       <title>【Application Security report: 2024 update】应用程序安全报告：2024 年更新</title>
@@ -22,16 +28,10 @@
       <pubDate>Thu, 11 Jul 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【RADIUS/UDP vulnerable to improved MD5 collision attack】RADIUS/UDP 容易受到改进的 MD5 冲突攻击</title>
-      <link>https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack</link>
-      <description>【 The RADIUS protocol is commonly used to control administrative access to networking gear. Despite its importance, RADIUS hasn’t changed much in decades. We discuss an attack on RADIUS as a case study for why it’s important for legacy protocols to keep up with advancements in cryptography 】RADIUS 协议通常用于控制对网络设备的管理访问。尽管 RADIUS 很重要，但它几十年来并没有发生太大变化。我们讨论对 RADIUS 的攻击作为案例研究，了解为什么遗留协议跟上密码学的进步很重要</description>
-      <pubDate>Tue, 09 Jul 2024 12:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Euro 2024’s impact on Internet traffic: a closer look at finalists Spain and England】2024 年欧洲杯对互联网流量的影响：仔细观察决赛入围球队西班牙和英格兰</title>
-      <link>https://blog.cloudflare.com/euro-2024s-impact-on-internet-traffic-a-closer-look-at-finalists-spain-and-england</link>
-      <description>【 Here we examine how UEFA Euro 2024 football matches have influenced Internet traffic patterns in participating countries, with a special focus on the two finalists, Spain and England, on their journey to the final 】在这里，我们研究了 2024 年欧洲杯足球比赛如何影响参赛国家的互联网流量模式，特别关注西班牙和英格兰这两个决赛选手进入决赛的过程</description>
-      <pubDate>Thu, 11 Jul 2024 16:41:39 +0000</pubDate>
+      <title>【Countdown to Paris 2024 Olympics: France leads in web interest】2024 年巴黎奥运会倒计时：法国在网络兴趣方面领先</title>
+      <link>https://blog.cloudflare.com/countdown-to-paris-2024-france-leads-in-olympic-web-interest</link>
+      <description>【 As the Paris 2024 Olympics approach, our analysis reveals France, the host nation, leads in DNS traffic to official Olympic sites, followed by the UK, the US, and Australia 】随着 2024 年巴黎奥运会的临近，我们的分析显示，主办国法国在奥运会官方网站的 DNS 流量方面处于领先地位，其次是英国、美国和澳大利亚</description>
+      <pubDate>Mon, 22 Jul 2024 14:41:52 +0000</pubDate>
     </item>
     <item>
       <title>【DDoS threat report for 2024 Q2】2024 年第二季度 DDoS 威胁报告</title>
@@ -40,28 +40,28 @@
       <pubDate>Tue, 09 Jul 2024 13:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Countdown to Paris 2024 Olympics: France leads in web interest】2024 年巴黎奥运会倒计时：法国在网络兴趣方面领先</title>
-      <link>https://blog.cloudflare.com/countdown-to-paris-2024-france-leads-in-olympic-web-interest</link>
-      <description>【 As the Paris 2024 Olympics approach, our analysis reveals France, the host nation, leads in DNS traffic to official Olympic sites, followed by the UK, the US, and Australia 】随着 2024 年巴黎奥运会的临近，我们的分析显示，主办国法国在奥运会官方网站的 DNS 流量方面处于领先地位，其次是英国、美国和澳大利亚</description>
-      <pubDate>Mon, 22 Jul 2024 14:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Eliminating hardware with Load Balancing and Cloudflare One】通过负载平衡和 Cloudflare One 消除硬件</title>
-      <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
-      <description>【 Cloudflare is adding support for end-to-end private traffic flows to our local traffic management (LTM) load balancing solution, and allowing for the replacement of hardware load balancers 】Cloudflare 正在向我们的本地流量管理 (LTM) 负载均衡解决方案添加对端到端专用流量的支持，并允许更换硬件负载均衡器</description>
-      <pubDate>Tue, 16 Jul 2024 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare Zaraz adds support for server-side rendering of X and Instagram embeds】Cloudflare Zaraz 增加了对 X 和 Instagram 嵌入的服务器端渲染的支持</title>
-      <link>https://blog.cloudflare.com/zaraz-supports-server-side-rendering-of-embeds</link>
-      <description>【 We are thrilled to announce Cloudflare Zaraz support for server-side rendering of embeds from X and Instagram. This allows for secure, privacy-preserving, and performant embedding without third-party JavaScript or cookies, enhancing security, privacy, and performance on your website 】我们很高兴地宣布 Cloudflare Zaraz 支持 X 和 Instagram 嵌入的服务器端渲染。这样可以实现安全、隐私保护和高性能的嵌入，无需第三方 JavaScript 或 cookie，从而增强网站的安全性、隐私性和性能</description>
-      <pubDate>Wed, 10 Jul 2024 13:00:55 +0000</pubDate>
+      <title>【Making WAF ML models go brrr: saving decades of processing time】让 WAF ML 模型变得更好：节省数十年的处理时间</title>
+      <link>https://blog.cloudflare.com/making-waf-ai-models-go-brr</link>
+      <description>【 In this post, we discuss the performance optimizations we&#39;ve implemented for our WAF ML product. We&#39;ll guide you through specific code examples and benchmark numbers, and we&#39;ll share the impressive latency reduction numbers observed after the rollout 】在这篇文章中，我们讨论了为 WAF ML 产品实施的性能优化。我们将指导您完成具体的代码示例和基准数据，并且我们将分享推出后观察到的令人印象深刻的延迟减少数字</description>
+      <pubDate>Thu, 25 Jul 2024 13:00:46 +0000</pubDate>
     </item>
     <item>
       <title>【Q2 2024 Internet disruption summary】2024 年第 2 季度互联网中断摘要</title>
       <link>https://blog.cloudflare.com/q2-2024-internet-disruption-summary</link>
       <description>【 Government directed shutdowns and cable cuts were both significant sources of Internet outages in Q2 2024. This post explores these disruptions, as well as others caused by power outages, maintenance, technical problems, military action, and unknown causes 】政府指导的关闭和电缆切断都是 2024 年第二季度互联网中断的重要原因。本文探讨了这些中断以及由停电、维护、技术问题、军事行动和未知原因引起的其他中断</description>
       <pubDate>Tue, 16 Jul 2024 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring Internet traffic during the 2024 U.S. Republican National Convention】探索 2024 年美国共和党全国代表大会期间的互联网流量</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-during-the-2024-us-republican-national-convention</link>
+      <description>【 This week, the Republican National Convention was hosted in Milwaukee, Wisconsin from July 15 to 18, 2024. We examined traffic shifts and cyberattacks since June 2024 to see how these events have impacted the Internet 】本周，共和党全国代表大会于 2024 年 7 月 15 日至 18 日在威斯康星州密尔沃基举行。我们研究了 2024 年 6 月以来的流量变化和网络攻击，以了解这些事件如何影响互联网</description>
+      <pubDate>Fri, 19 Jul 2024 15:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Eliminating hardware with Load Balancing and Cloudflare One】通过负载平衡和 Cloudflare One 消除硬件</title>
+      <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
+      <description>【 Cloudflare is adding support for end-to-end private traffic flows to our local traffic management (LTM) load balancing solution, and allowing for the replacement of hardware load balancers 】Cloudflare 正在向我们的本地流量管理 (LTM) 负载均衡解决方案添加对端到端专用流量的支持，并允许更换硬件负载均衡器</description>
+      <pubDate>Tue, 16 Jul 2024 13:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
