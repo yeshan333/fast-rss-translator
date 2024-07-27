@@ -5,28 +5,22 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP121: 9 Essential Components of a Production Microservice Application 】EP121：生产微服务应用程序的 9 个基本组件</title>
-      <link>https://blog.bytebytego.com/p/ep121-9-essential-components-of-a</link>
-      <description>【This week&amp;#8217;s system design interview: Linux Crash Course - Understanding File Permissions (Youtube video) 9 Essential Components of a Production Microservice Application Iterative, Agile, Waterfall, Spiral Model, RAD Model... What are the differences?】本周的系统设计面试：Linux速成课程 - 了解文件权限（Youtube视频） 生产微服务应用程序的9个基本组件迭代、敏捷、瀑布、螺旋模型、RAD模型......有什么区别？</description>
-      <pubDate>Sat, 20 Jul 2024 15:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP120: What do version numbers mean? 】EP120：版本号是什么意思？</title>
-      <link>https://blog.bytebytego.com/p/ep120-what-do-version-numbers-mean</link>
-      <description>【This week&amp;#8217;s system design refresher: Concurrency Vs Parallelism! (Youtube video) What do version numbers mean? Looking for a Job? This Free AI Tool Can Get You More Interviews! Cybersecurity 101 in one picture What is k8s (Kubernetes)? SPONSOR US &amp;#9986;&amp;#65039;Cut your QA cycles down to minutes with automated testing (Sponsored)】本周的系统设计复习：并发与并行！ （Youtube 视频）版本号是什么意思？正在找工作吗？这个免费的人工智能工具可以让你获得更多面试机会！一张图片中的网络安全 101 什么是 k8s (Kubernetes)？赞助我们✂️通过自动化测试将您的 QA 周期缩短至几分钟（赞助）</description>
-      <pubDate>Sat, 13 Jul 2024 15:30:35 +0000</pubDate>
+      <title>【Where to get started with GenAI】从哪里开始使用 GenAI</title>
+      <link>https://blog.bytebytego.com/p/where-to-get-started-with-genai</link>
+      <description>【How to monitor AWS container environments at scale (Sponsored) In this eBook, Datadog and AWS share insights into the changing state of containers in the cloud and explore why orchestration technologies are an essential part of managing ever-changing containerized workloads.】如何大规模监控 AWS 容器环境（赞助） 在这本电子书中，Datadog 和 AWS 分享了对云中容器不断变化的状态的见解，并探讨了为什么编排技术是管理不断变化的容器化工作负载的重要组成部分。</description>
+      <pubDate>Tue, 16 Jul 2024 15:30:47 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Relational Database Design】关系数据库设计速成班</title>
       <link>https://blog.bytebytego.com/p/a-crash-course-on-relational-database</link>
-      <description>【In today&#39;s data-driven world, efficient storage and management of information are critical requirements for businesses and organizations of all sizes. Relational databases provide a robust framework for storing and retrieving data based on well-defined relationships between entities. They offer a structured approach to data management, enabling users to:】在当今数据驱动的世界中，高效的信息存储和管理是各种规模的企业和组织的关键要求。关系数据库提供了一个强大的框架，用于根据实体之间明确定义的关系来存储和检索数据。它们提供了结构化的数据管理方法，使用户能够：</description>
+      <description>【In today&#39;s data-driven world, efficient storage and management of information are critical requirements for businesses and organizations of all sizes. Relational databases provide a robust framework for storing and retrieving data based on well-defined relationships between entities. They offer a structured approach to data management, enabling users to:】在当今数据驱动的世界中，高效的信息存储和管理是各种规模的企业和组织的关键要求。关系数据库提供了一个强大的框架，用于根据实体之间明确定义的关系来存储和检索数据。它们提供结构化的数据管理方法，使用户能够：</description>
       <pubDate>Thu, 18 Jul 2024 15:31:12 +0000</pubDate>
     </item>
     <item>
-      <title>【EP119: What do Amazon, Netflix, and Uber have in common?】EP119：亚马逊、Netflix 和 Uber 有什么共同点？</title>
-      <link>https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and</link>
-      <description>【This week&amp;#8217;s system design refresher: 7 Must-know Strategies to Scale Your Database (Youtube video) What do Amazon, Netflix, and Uber have in common? 100X Postgres Scaling at Figma Best ways to test system functionality SPONSOR US Monitor AI Applications Built with NVIDIA NIM (Sponsored)】本周的系统设计复习：扩展数据库的 7 个必须了解的策略（Youtube 视频）Amazon、Netflix 和 Uber 有什么共同点？ Figma 的 100 倍 Postgres 扩展 测试系统功能的最佳方法 赞助使用 NVIDIA NIM 构建的 US Monitor AI 应用程序（赞助）</description>
-      <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
+      <title>【How Stripe Scaled to 5 Million Database Queries Per Second】Stripe 如何扩展到每秒 500 万次数据库查询</title>
+      <link>https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database</link>
+      <description>【WorkOS: modern identity platform for B2B SaaS (Sponsored) Start selling to enterprises with just a few lines of code. &amp;#8594; WorkOS provides a complete User Management solution along with SSO, SCIM, RBAC, &amp; FGA. &amp;#8594; Unlike other auth providers that rely on user-centric models, WorkOS is designed for B2B SaaS with an org modeling approach.】WorkOS：B2B SaaS 的现代身份平台（赞助）只需几行代码即可开始向企业销售。 → WorkOS 提供完整的用户管理解决方案以及 SSO、SCIM、RBAC 和 FGA。 → 与其他依赖以用户为中心的模型的身份验证提供商不同，WorkOS 专为采用组织建模方法的 B2B SaaS 设计。</description>
+      <pubDate>Tue, 23 Jul 2024 15:30:54 +0000</pubDate>
     </item>
     <item>
       <title>【&#34;Tidying&#34; Code】“整理”代码</title>
@@ -41,10 +35,16 @@
       <pubDate>Sat, 29 Jun 2024 15:30:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Where to get started with GenAI】从哪里开始使用 GenAI</title>
-      <link>https://blog.bytebytego.com/p/where-to-get-started-with-genai</link>
-      <description>【How to monitor AWS container environments at scale (Sponsored) In this eBook, Datadog and AWS share insights into the changing state of containers in the cloud and explore why orchestration technologies are an essential part of managing ever-changing containerized workloads.】如何大规模监控 AWS 容器环境（赞助）在这本电子书中，Datadog 和 AWS 分享了对云中容器不断变化的状态的见解，并探讨了为什么编排技术是管理不断变化的容器化工作负载的重要组成部分。</description>
-      <pubDate>Tue, 16 Jul 2024 15:30:47 +0000</pubDate>
+      <title>【EP121: 9 Essential Components of a Production Microservice Application 】EP121：生产微服务应用程序的 9 个基本组件</title>
+      <link>https://blog.bytebytego.com/p/ep121-9-essential-components-of-a</link>
+      <description>【This week&amp;#8217;s system design interview: Linux Crash Course - Understanding File Permissions (Youtube video) 9 Essential Components of a Production Microservice Application Iterative, Agile, Waterfall, Spiral Model, RAD Model... What are the differences?】本周的系统设计面试：Linux速成课程 - 了解文件权限（Youtube视频） 生产微服务应用程序的9个基本组件迭代、敏捷、瀑布、螺旋模型、RAD模型......有什么区别？</description>
+      <pubDate>Sat, 20 Jul 2024 15:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP119: What do Amazon, Netflix, and Uber have in common?】EP119：亚马逊、Netflix 和 Uber 有什么共同点？</title>
+      <link>https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and</link>
+      <description>【This week&amp;#8217;s system design refresher: 7 Must-know Strategies to Scale Your Database (Youtube video) What do Amazon, Netflix, and Uber have in common? 100X Postgres Scaling at Figma Best ways to test system functionality SPONSOR US Monitor AI Applications Built with NVIDIA NIM (Sponsored)】本周的系统设计复习：扩展数据库的 7 个必须了解的策略（Youtube 视频）Amazon、Netflix 和 Uber 有什么共同点？ Figma 的 100 倍 Postgres 扩展 测试系统功能的最佳方法 赞助使用 NVIDIA NIM 构建的 US Monitor AI 应用程序（赞助）</description>
+      <pubDate>Sat, 06 Jul 2024 15:30:46 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Distributed Systems】分布式系统速成班</title>
@@ -53,10 +53,10 @@
       <pubDate>Thu, 11 Jul 2024 15:30:43 +0000</pubDate>
     </item>
     <item>
-      <title>【How Stripe Scaled to 5 Million Database Queries Per Second】Stripe 如何扩展到每秒 500 万次数据库查询</title>
-      <link>https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database</link>
-      <description>【WorkOS: modern identity platform for B2B SaaS (Sponsored) Start selling to enterprises with just a few lines of code. &amp;#8594; WorkOS provides a complete User Management solution along with SSO, SCIM, RBAC, &amp; FGA. &amp;#8594; Unlike other auth providers that rely on user-centric models, WorkOS is designed for B2B SaaS with an org modeling approach.】WorkOS：B2B SaaS 的现代身份平台（赞助）只需几行代码即可开始向企业销售。 → WorkOS 提供完整的用户管理解决方案以及 SSO、SCIM、RBAC 和 FGA。 → 与其他依赖以用户为中心的模型的身份验证提供商不同，WorkOS 专为采用组织建模方法的 B2B SaaS 设计。</description>
-      <pubDate>Tue, 23 Jul 2024 15:30:54 +0000</pubDate>
+      <title>【EP120: What do version numbers mean? 】EP120：版本号是什么意思？</title>
+      <link>https://blog.bytebytego.com/p/ep120-what-do-version-numbers-mean</link>
+      <description>【This week&amp;#8217;s system design refresher: Concurrency Vs Parallelism! (Youtube video) What do version numbers mean? Looking for a Job? This Free AI Tool Can Get You More Interviews! Cybersecurity 101 in one picture What is k8s (Kubernetes)? SPONSOR US &amp;#9986;&amp;#65039;Cut your QA cycles down to minutes with automated testing (Sponsored)】本周的系统设计复习：并发与并行！ （Youtube 视频）版本号是什么意思？正在找工作吗？这个免费的人工智能工具可以让你获得更多面试机会！一张图片中的网络安全 101 什么是 k8s (Kubernetes)？赞助我们✂️通过自动化测试将您的 QA 周期缩短至几分钟（赞助）</description>
+      <pubDate>Sat, 13 Jul 2024 15:30:35 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course in Database Scaling Strategies】数据库扩展策略速成班</title>
