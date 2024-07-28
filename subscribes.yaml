@@ -172,3 +172,10 @@ feeds:
     target_language: "zh"
     translate_mode: "origin"
     max_post: 10
+
+  - name: gremlin_blog.xml
+    url: "https://www.gremlin.com/blog/rss.xml"
+    origin_language: "en"
+    target_language: "zh"
+    translate_mode: "bilingual"
+    max_post: 10
