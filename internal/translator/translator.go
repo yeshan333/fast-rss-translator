@@ -3,6 +3,7 @@ package translator
 import (
 	"fmt"
 	"log/slog"
+	"math"
 	"os"
 	"path/filepath"
 	"sync"
@@ -130,7 +131,8 @@ func (translator *Translator) DoTranslate(content string) string {
 		var googleTranslator *gtranslator.Translator
 		if translator.HttpProxy != "" {
 			c := gtranslator.Config{
-				Proxy: translator.HttpProxy,
+				Proxy:       translator.HttpProxy,
+				ServiceUrls: []string{"translate.google.com.hk"},
 			}
 			googleTranslator = gtranslator.New(c)
 		} else {
@@ -141,13 +143,34 @@ func (translator *Translator) DoTranslate(content string) string {
 			srcLang = translator.OriginLanguage
 		}
 
-		result, err := googleTranslator.Translate(content, srcLang, translator.TargetLanguage)
-		if err != nil {
-			slog.Error("use google translate err", "err", err, "feed", translator.Feed.Url, "translate_content", content)
-			// return origin text
-			return content
+		length := len(content)
+		if length < 3000 {
+			result, err := googleTranslator.Translate(content, srcLang, translator.TargetLanguage)
+			if err != nil {
+				slog.Error("use google translate err", "err", err, "feed", translator.Feed.Url, "translate_content", content)
+				// return origin text
+				return content
+			}
+			return result.Text
+		} else {
+			translatedContent := ""
+			for i := 0; i < int(math.Ceil(float64(length)/3000.0)); i++ {
+				start := i * 3000
+				end := start + 3000
+				if end > length {
+					end = length
+				}
+				part := content[start:end]
+				result, err := googleTranslator.Translate(part, srcLang, translator.TargetLanguage)
+				if err != nil {
+					slog.Error("use google translate err", "err", err, "feed", translator.Feed.Url, "translate_content", part)
+					// return origin text
+					return content
+				}
+				translatedContent += result.Text
+			}
+			return translatedContent
 		}
-		return result.Text
 	case "openai":
 		return ""
 	case "aliyun":
