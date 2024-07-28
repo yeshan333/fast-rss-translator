@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Update on Azure Boards + GitHub Integration】Azure Boards + GitHub 集成更新</title>
-      <link>https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration</link>
-      <description>【It&amp;#8217;s been a few months since our last update on the initiative to enhance the integration between Azure Boards and GitHub. We&amp;#8217;re excited to share that many new features have been completed and are in the process of being rolled out.】距离我们上次更新有关增强 Azure Boards 和 GitHub 之间集成的计划已经过去了几个月。我们很高兴地告诉大家，许多新功能已经完成并且正在推出。</description>
-      <pubDate>Thu, 25 Jul 2024 19:14:20 +0000</pubDate>
+      <title>【Java on Azure Tooling的更新 – 2024年6月】Java on Azure Tooling的更新 – 2024年6月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-june-2024</link>
+      <description>【大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!】大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!</description>
+      <pubDate>Fri, 26 Jul 2024 02:51:22 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing TypeScript 5.6 Beta】宣布推出 TypeScript 5.6 Beta</title>
@@ -16,22 +16,10 @@
       <pubDate>Fri, 26 Jul 2024 14:11:05 +0000</pubDate>
     </item>
     <item>
-      <title>【In my Visual Studio project, I set my Conformance mode to permissive, but it’s still not permissive】在我的 Visual Studio 项目中，我将一致性模式设置为宽容，但它仍然不宽容</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240725-00/?p=110045</link>
-      <description>【Digging into what the compiler sees.】深入研究编译器所看到的内容。</description>
-      <pubDate>Thu, 25 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What can I do if IMlangConvertCharset is unable to convert from code page 28591 directly to UTF-8?】如果 IMlangConvertCharset 无法从代码页 28591 直接转换为 UTF-8，我该怎么办？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240726-00/?p=110048</link>
-      <description>【You can do the conversion in two steps using things you already have.】您可以使用已有的东西分两步进行转换。</description>
-      <pubDate>Fri, 26 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Semantic Kernel for Java 1.2.0】宣布推出 Java 语义内核 1.2.0</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-2-0</link>
-      <description>【Hello Java AI developers! We are announcing the release of Semantic Kernel for Java v1.2.0! Since our release of v1.0 this past May, we have been working to improve and expand the capabilities we provide. Today, we are thrilled to share the latest updates,】Java AI 开发者们大家好！我们宣布发布 Java 语义内核 v1.2.0！自从今年 5 月发布 v1.0 以来，我们一直致力于改进和扩展我们提供的功能。今天，我们很高兴与大家分享最新的更新，</description>
-      <pubDate>Thu, 25 Jul 2024 15:51:41 +0000</pubDate>
+      <title>【Update on Azure Boards + GitHub Integration】Azure Boards + GitHub 集成更新</title>
+      <link>https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration</link>
+      <description>【It&amp;#8217;s been a few months since our last update on the initiative to enhance the integration between Azure Boards and GitHub. We&amp;#8217;re excited to share that many new features have been completed and are in the process of being rolled out.】距离我们上次更新有关增强 Azure Boards 和 GitHub 之间集成的计划已经过去了几个月。我们很高兴地告诉大家，许多新功能已经完成并且正在推出。</description>
+      <pubDate>Thu, 25 Jul 2024 19:14:20 +0000</pubDate>
     </item>
     <item>
       <title>【Bring your custom engine copilot from Azure OpenAI Studio to Microsoft Teams: now in public preview】将自定义引擎 copilot 从 Azure OpenAI Studio 引入 Microsoft Teams：现已推出公共预览版</title>
@@ -40,16 +28,16 @@
       <pubDate>Thu, 25 Jul 2024 15:36:48 +0000</pubDate>
     </item>
     <item>
-      <title>【LLM Prompt Injection Considerations With Tool Use】法学硕士即时注入工具使用注意事项</title>
-      <link>https://devblogs.microsoft.com/ise/llm-prompt-injection-considerations-for-tool-use</link>
-      <description>【This post discusses a pattern to prevent a class of prompt injection attacks in LLM-based solutions. It emphasizes the importance of building strong foundational patterns to mitigate risks and avoid potential pitfalls. By implementing this pattern, teams can enhance the security of their tool-based solutions.】这篇文章讨论了一种在基于 LLM 的解决方案中防止一类即时注入攻击的模式。它强调了建立强大的基础模式以减轻风险和避免潜在陷阱的重要性。通过实施此模式，团队可以增强基于工具的解决方案的安全性。</description>
-      <pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
+      <title>【In my Visual Studio project, I set my Conformance mode to permissive, but it’s still not permissive】在我的 Visual Studio 项目中，我将一致性模式设置为宽容，但它仍然不宽容</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240725-00/?p=110045</link>
+      <description>【Digging into what the compiler sees.】深入研究编译器所看到的内容。</description>
+      <pubDate>Thu, 25 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Java on Azure Tooling的更新 – 2024年6月】Java on Azure Tooling的更新 – 2024年6月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-june-2024</link>
-      <description>【大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!】大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!</description>
-      <pubDate>Fri, 26 Jul 2024 02:51:22 +0000</pubDate>
+      <title>【Java on Azure Tooling Update – June 2024】Azure 上的 Java 工具更新 – 2024 年 6 月</title>
+      <link>https://devblogs.microsoft.com/java/java-on-azure-tooling-update-june-2024</link>
+      <description>【Hi everyone, welcome to the June update of Java on Azure developer tools. In this update, we will introduce our Workload Profiles Support for Azure Container Apps in Azure Toolkit for IntelliJ IDEA. We hope you enjoy these updates and have a smooth experience with our Azure toolkit.】大家好，欢迎来到 Azure 开发人员工具上的 Java 六月更新。在此更新中，我们将介绍 Azure Toolkit for IntelliJ IDEA 中对 Azure 容器应用程序的工作负载配置文件支持。我们希望您喜欢这些更新并拥有我们的 Azure 工具包的流畅体验。</description>
+      <pubDate>Fri, 26 Jul 2024 02:37:14 +0000</pubDate>
     </item>
     <item>
       <title>【How use a Blazor QuickGrid with GraphQL】如何将 Blazor QuickGrid 与 GraphQL 结合使用</title>
@@ -58,10 +46,22 @@
       <pubDate>Wed, 24 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Java on Azure Tooling Update – June 2024】Azure 上的 Java 工具更新 – 2024 年 6 月</title>
-      <link>https://devblogs.microsoft.com/java/java-on-azure-tooling-update-june-2024</link>
-      <description>【Hi everyone, welcome to the June update of Java on Azure developer tools. In this update, we will introduce our Workload Profiles Support for Azure Container Apps in Azure Toolkit for IntelliJ IDEA. We hope you enjoy these updates and have a smooth experience with our Azure toolkit.】大家好，欢迎来到 Azure 开发人员工具上的 Java 六月更新。在此更新中，我们将介绍 Azure Toolkit for IntelliJ IDEA 中对 Azure 容器应用程序的工作负载配置文件支持。我们希望您喜欢这些更新并拥有我们的 Azure 工具包的流畅体验。</description>
-      <pubDate>Fri, 26 Jul 2024 02:37:14 +0000</pubDate>
+      <title>【Announcing Semantic Kernel for Java 1.2.0】宣布推出 Java 语义内核 1.2.0</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-2-0</link>
+      <description>【Hello Java AI developers! We are announcing the release of Semantic Kernel for Java v1.2.0! Since our release of v1.0 this past May, we have been working to improve and expand the capabilities we provide. Today, we are thrilled to share the latest updates,】Java AI 开发者们大家好！我们宣布发布 Java 语义内核 v1.2.0！自从今年 5 月发布 v1.0 以来，我们一直致力于改进和扩展我们提供的功能。今天，我们很高兴与大家分享最新的更新，</description>
+      <pubDate>Thu, 25 Jul 2024 15:51:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【LLM Prompt Injection Considerations With Tool Use】法学硕士即时注入工具使用注意事项</title>
+      <link>https://devblogs.microsoft.com/ise/llm-prompt-injection-considerations-for-tool-use</link>
+      <description>【This post discusses a pattern to prevent a class of prompt injection attacks in LLM-based solutions. It emphasizes the importance of building strong foundational patterns to mitigate risks and avoid potential pitfalls. By implementing this pattern, teams can enhance the security of their tool-based solutions.】这篇文章讨论了一种在基于 LLM 的解决方案中防止一类即时注入攻击的模式。它强调了建立强大的基础模式以减轻风险和避免潜在陷阱的重要性。通过实施此模式，团队可以增强其基于工具的解决方案的安全性。</description>
+      <pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What can I do if IMlangConvertCharset is unable to convert from code page 28591 directly to UTF-8?】如果 IMlangConvertCharset 无法从代码页 28591 直接转换为 UTF-8，我该怎么办？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240726-00/?p=110048</link>
+      <description>【You can do the conversion in two steps using things you already have.】您可以使用已有的东西分两步进行转换。</description>
+      <pubDate>Fri, 26 Jul 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
