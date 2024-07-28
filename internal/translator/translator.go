@@ -143,7 +143,7 @@ func (translator *Translator) DoTranslate(content string) string {
 
 		result, err := googleTranslator.Translate(content, srcLang, translator.TargetLanguage)
 		if err != nil {
-			slog.Error("use google translate err", "err", err, "feed", translator.Feed.Url)
+			slog.Error("use google translate err", "err", err, "feed", translator.Feed.Url, "translate_content", content)
 			// return origin text
 			return content
 		}
