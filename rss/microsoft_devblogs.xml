@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【In my Visual Studio project, I set my Conformance mode to permissive, but it’s still not permissive】在我的 Visual Studio 项目中，我将一致性模式设置为宽容，但它仍然不宽容</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240725-00/?p=110045</link>
-      <description>【Digging into what the compiler sees.】深入研究编译器所看到的内容。</description>
-      <pubDate>Thu, 25 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.6 Beta】宣布推出 TypeScript 5.6 Beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta</link>
-      <description>【Today we are excited to announce the availability of TypeScript 5.6 Beta. To get started using the beta, you can get it through NuGet, or through npm with the following command: npm install -D typescript@beta Here&amp;#8217;s a quick list of what&amp;#8217;s new in TypeScript 5.6!】今天，我们很高兴地宣布 TypeScript 5.6 Beta 推出。要开始使用 Beta 版，您可以通过 NuGet 或通过 npm 使用以下命令获取它： npm install -D typescript@beta 以下是 TypeScript 5.6 中新增功能的快速列表！</description>
-      <pubDate>Fri, 26 Jul 2024 14:11:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Azure Tooling的更新 – 2024年6月】Java on Azure Tooling的更新 – 2024年6月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-june-2024</link>
-      <description>【大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!】大家好，欢迎阅读 Java on Azure 开发者工具6月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure Container Apps 提供的工作负载配置文件支持。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 对 Azure Container Apps 支持工作负荷配置文件 在 5 月份的更新中，我们宣布针对 IntelliJ IDEA 的 Azure 工具包已为具有灵活部署选项的 Azure 容器应用程序提供了支持。 在最新版本中，我们通过工作负载配置文件环境支持进一步增强了这种体验。工作负载配置文件决定了部署在环境中的容器应用程序可用的计算和内存资源量。通过这一增强功能，您可以在 IntelliJ IDEA 中轻松调整工作负载配置文件的最小和最大实例数。此外，您还可以灵活配置每个应用程序，使其运行在容器应用程序环境中最合适的工作负载配置文件上。下面是一个简短的演示。 反馈与建议 如果您感兴趣，请不要犹豫并尝试使用我们的产品吧!</description>
-      <pubDate>Fri, 26 Jul 2024 02:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Semantic Kernel for Java 1.2.0】宣布推出 Java 语义内核 1.2.0</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-2-0</link>
-      <description>【Hello Java AI developers! We are announcing the release of Semantic Kernel for Java v1.2.0! Since our release of v1.0 this past May, we have been working to improve and expand the capabilities we provide. Today, we are thrilled to share the latest updates,】Java AI 开发者们大家好！我们宣布发布 Java 语义内核 v1.2.0！自从今年 5 月发布 v1.0 以来，我们一直致力于改进和扩展我们提供的功能。今天，我们很高兴与大家分享最新的更新，</description>
-      <pubDate>Thu, 25 Jul 2024 15:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Azure Tooling Update – June 2024】Azure 上的 Java 工具更新 – 2024 年 6 月</title>
-      <link>https://devblogs.microsoft.com/java/java-on-azure-tooling-update-june-2024</link>
-      <description>【Hi everyone, welcome to the June update of Java on Azure developer tools. In this update, we will introduce our Workload Profiles Support for Azure Container Apps in Azure Toolkit for IntelliJ IDEA. We hope you enjoy these updates and have a smooth experience with our Azure toolkit.】大家好，欢迎来到 Azure 开发人员工具上的 Java 六月更新。在此更新中，我们将介绍 Azure Toolkit for IntelliJ IDEA 中对 Azure 容器应用程序的工作负载配置文件支持。我们希望您喜欢这些更新并拥有我们的 Azure 工具包的流畅体验。</description>
-      <pubDate>Fri, 26 Jul 2024 02:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LLM Prompt Injection Considerations With Tool Use】法学硕士即时注入工具使用注意事项</title>
-      <link>https://devblogs.microsoft.com/ise/llm-prompt-injection-considerations-for-tool-use</link>
-      <description>【This post discusses a pattern to prevent a class of prompt injection attacks in LLM-based solutions. It emphasizes the importance of building strong foundational patterns to mitigate risks and avoid potential pitfalls. By implementing this pattern, teams can enhance the security of their tool-based solutions.】这篇文章讨论了一种在基于 LLM 的解决方案中防止一类即时注入攻击的模式。它强调了建立强大的基础模式以减轻风险和避免潜在陷阱的重要性。通过实施此模式，团队可以增强其基于工具的解决方案的安全性。</description>
-      <pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How use a Blazor QuickGrid with GraphQL】如何将 Blazor QuickGrid 与 GraphQL 结合使用</title>
-      <link>https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql</link>
-      <description>【In this is the second post in a series of posts about GraphQL and .NET, we will see how to fill a Blazor QuickGrid component with data fetched with GraphQL. We will also use the virtualize feature of the QuickGrid to improve performance.】这是有关 GraphQL 和 .NET 的系列文章中的第二篇文章，我们将了解如何使用 GraphQL 获取的数据填充 Blazor QuickGrid 组件。我们还将使用 QuickGrid 的虚拟化功能来提高性能。</description>
-      <pubDate>Wed, 24 Jul 2024 17:05:00 +0000</pubDate>
+      <title>【Azure SDK Release (July 2024)】Azure SDK 版本（2024 年 7 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2024</link>
+      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
+      <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
     </item>
     <item>
       <title>【What can I do if IMlangConvertCharset is unable to convert from code page 28591 directly to UTF-8?】如果 IMlangConvertCharset 无法从代码页 28591 直接转换为 UTF-8，我该怎么办？</title>
@@ -52,16 +16,52 @@
       <pubDate>Fri, 26 Jul 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Bring your custom engine copilot from Azure OpenAI Studio to Microsoft Teams: now in public preview】将自定义引擎 copilot 从 Azure OpenAI Studio 引入 Microsoft Teams：现已推出公共预览版</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/bring-your-custom-engine-copilot-from-azure-openai-studio-to-microsoft-teams-now-in-public-preview</link>
-      <description>【Azure OpenAI now offers a Deploy to a Teams app option in public preview, providing a new way to connect enterprise data with custom engine copilots in Microsoft Teams.】Azure OpenAI 现在在公共预览版中提供“部署到 Teams 应用程序”选项，提供了一种将企业数据与 Microsoft Teams 中的自定义引擎副驾驶连接的新方法。</description>
-      <pubDate>Thu, 25 Jul 2024 15:36:48 +0000</pubDate>
+      <title>【MSVC Backend Updates in Visual Studio 2022 version 17.10】Visual Studio 2022 版本 17.10 中的 MSVC 后端更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-10</link>
+      <description>【Visual Studio 2022 17.10 brings new optimizations, intrinsics, features, and improvements to the MSVC backend. Check out the highlights below: Performance improvements and additional functionality for all architectures: Improved SLP vectorizer. Now it runs on more functions, recognizes more operations, and may choose to use larger vector widths if allowed by the appropriate /arch flag.】Visual Studio 2022 17.10 为 MSVC 后端带来了新的优化、内在函数、功能和改进。查看以下亮点： 所有架构的性能改进和附加功能：改进的 SLP 矢量器。现在，它可以运行更多函数，识别更多操作，并且如果适当的 /arch 标志允许，可以选择使用更大的向量宽度。</description>
+      <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Update on Azure Boards + GitHub Integration】Azure Boards + GitHub 集成更新</title>
-      <link>https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration</link>
-      <description>【It&amp;#8217;s been a few months since our last update on the initiative to enhance the integration between Azure Boards and GitHub. We&amp;#8217;re excited to share that many new features have been completed and are in the process of being rolled out.】距离我们上次更新有关增强 Azure Boards 和 GitHub 之间集成的计划已经过去了几个月。我们很高兴地告诉大家，许多新功能已经完成并且正在推出。</description>
-      <pubDate>Thu, 25 Jul 2024 19:14:20 +0000</pubDate>
+      <title>【Sign VSIX packages with Sign CLI】使用 Sign CLI 签署 VSIX 包</title>
+      <link>https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli</link>
+      <description>【You can now leverage Sign CLI for a more secure, modern way to sign your Visual Studio extensions. Signing your VSIX packages improves security, prevents tampering, and builds trust with your users. This integration makes it easier and more convenient to sign your packages than ever before!】现在，您可以利用 Sign CLI 以更安全、更现代的方式来签署 Visual Studio 扩展。对 VSIX 包进行签名可以提高安全性、防止篡改并与用户建立信任。这种集成使您比以往任何时候都更轻松、更方便地签署您的包裹！</description>
+      <pubDate>Mon, 29 Jul 2024 15:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Easily Create Bindings for .NET MAUI with Native Library Interop】使用本机库互操作轻松创建 .NET MAUI 的绑定</title>
+      <link>https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui</link>
+      <description>【Learn how to get started creating bindings with Native Library Interop by following this example binding native Chart libraries in a .NET MAUI application.】通过遵循在 .NET MAUI 应用程序中绑定本机图表库的示例，了解如何开始使用本机库互操作创建绑定。</description>
+      <pubDate>Mon, 29 Jul 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Integrated Hybrid Support in the Azure Quantum Development Kit】Azure Quantum 开发套件中的集成混合支持</title>
+      <link>https://devblogs.microsoft.com/qsharp/integrated-hybrid-support-in-the-azure-quantum-development-kit</link>
+      <description>【Some quantum computers can do more than execute a static sequence of gates. The most advanced ones can perform mid-circuit measurements, conditionally execute gates, perform real-time classical computations and re-use qubits. If you want to experiment with these state-of-the-art capabilities, we have good news for you.】一些量子计算机不仅仅可以执行静态门序列。最先进的可以执行中间电路测量、有条件地执行门、执行实时经典计算和重用量子位。如果您想尝试这些最先进的功能，我们有好消息给您。</description>
+      <pubDate>Mon, 29 Jul 2024 17:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Entra External ID: Secure, scalable external identity management for your apps and resources】Microsoft Entra 外部 ID：为您的应用程序和资源提供安全、可扩展的外部身份管理</title>
+      <link>https://devblogs.microsoft.com/identity/external-identity-solutions</link>
+      <description>【Unlock the potential of secure and efficient identity management with Microsoft Entra External ID. Focusing on two key scenarios, we show how External ID simplifies the process of managing external identities, including business partners, consumers, and customers. Dive in to discover how you can streamline identity management with straightforward, customizable solutions that cater to diverse end-user segments.】使用 Microsoft Entra 外部 ID 释放安全、高效的身份管理的潜力。我们重点关注两个关键场景，展示外部 ID 如何简化管理外部身份（包括业务合作伙伴、消费者和客户）的流程。深入了解如何通过简单、可定制的解决方案来简化身份管理，以满足不同的最终用户群体。</description>
+      <pubDate>Mon, 29 Jul 2024 11:12:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【LLM Prompt Injection Considerations With Tool Use】法学硕士即时注入工具使用注意事项</title>
+      <link>https://devblogs.microsoft.com/ise/llm-prompt-injection-considerations-for-tool-use</link>
+      <description>【This post discusses a pattern to prevent a class of prompt injection attacks in LLM-based solutions. It emphasizes the importance of building strong foundational patterns to mitigate risks and avoid potential pitfalls. By implementing this pattern, teams can enhance the security of their tool-based solutions.】这篇文章讨论了一种在基于 LLM 的解决方案中防止一类即时注入攻击的模式。它强调了建立强大的基础模式以减轻风险和避免潜在陷阱的重要性。通过实施此模式，团队可以增强基于工具的解决方案的安全性。</description>
+      <pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.6 Beta】宣布推出 TypeScript 5.6 Beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta</link>
+      <description>【Today we are excited to announce the availability of TypeScript 5.6 Beta. To get started using the beta, you can get it through NuGet, or through npm with the following command: npm install -D typescript@beta Here&amp;#8217;s a quick list of what&amp;#8217;s new in TypeScript 5.6!】今天，我们很高兴地宣布 TypeScript 5.6 Beta 推出。要开始使用 Beta 版，您可以通过 NuGet 或通过 npm 使用以下命令获取它： npm install -D typescript@beta 以下是 TypeScript 5.6 中新增功能的快速列表！</description>
+      <pubDate>Fri, 26 Jul 2024 14:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why don’t Windows Imaging Component pixel format GUIDs continue their nice pattern?】为什么 Windows 成像组件像素格式 GUID 不继续其良好的模式？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240729-00/?p=110054</link>
+      <description>【Patterns are predictable, which is not always a good thing.】模式是可预测的，这并不总是一件好事。</description>
+      <pubDate>Mon, 29 Jul 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
