@@ -4,16 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【Why don’t Windows Imaging Component pixel format GUIDs continue their nice pattern?】为什么 Windows 成像组件像素格式 GUID 不继续其良好的模式？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240729-00/?p=110054</link>
+      <description>【Patterns are predictable, which is not always a good thing.】模式是可预测的，这并不总是一件好事。</description>
+      <pubDate>Mon, 29 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【There is no mystery over who wrote the Blue Screen of Death, despite what some may want you to believe】尽管有些人可能想让你相信，谁创造了蓝屏死机，这并不神秘</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062</link>
+      <description>【No real contradictions in anybody&#39;s story.】任何人的故事中都没有真正的矛盾。</description>
+      <pubDate>Tue, 30 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure SDK Release (July 2024)】Azure SDK 版本（2024 年 7 月）</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2024</link>
       <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
       <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
     </item>
     <item>
-      <title>【What can I do if IMlangConvertCharset is unable to convert from code page 28591 directly to UTF-8?】如果 IMlangConvertCharset 无法从代码页 28591 直接转换为 UTF-8，我该怎么办？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240726-00/?p=110048</link>
-      <description>【You can do the conversion in two steps using things you already have.】您可以使用已有的东西分两步进行转换。</description>
-      <pubDate>Fri, 26 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【Microsoft Entra External ID: Secure, scalable external identity management for your apps and resources】Microsoft Entra 外部 ID：为您的应用程序和资源提供安全、可扩展的外部身份管理</title>
+      <link>https://devblogs.microsoft.com/identity/external-identity-solutions</link>
+      <description>【Unlock the potential of secure and efficient identity management with Microsoft Entra External ID. Focusing on two key scenarios, we show how External ID simplifies the process of managing external identities, including business partners, consumers, and customers. Dive in to discover how you can streamline identity management with straightforward, customizable solutions that cater to diverse end-user segments.】使用 Microsoft Entra 外部 ID 释放安全、高效的身份管理的潜力。我们重点关注两个关键场景，展示外部 ID 如何简化管理外部身份（包括业务合作伙伴、消费者和客户）的流程。深入了解如何通过简单、可定制的解决方案来简化身份管理，以满足不同的最终用户群体。</description>
+      <pubDate>Mon, 29 Jul 2024 11:12:31 +0000</pubDate>
     </item>
     <item>
       <title>【MSVC Backend Updates in Visual Studio 2022 version 17.10】Visual Studio 2022 版本 17.10 中的 MSVC 后端更新</title>
@@ -22,15 +34,21 @@
       <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Sign VSIX packages with Sign CLI】使用 Sign CLI 签署 VSIX 包</title>
-      <link>https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli</link>
-      <description>【You can now leverage Sign CLI for a more secure, modern way to sign your Visual Studio extensions. Signing your VSIX packages improves security, prevents tampering, and builds trust with your users. This integration makes it easier and more convenient to sign your packages than ever before!】现在，您可以利用 Sign CLI 以更安全、更现代的方式来签署 Visual Studio 扩展。对 VSIX 包进行签名可以提高安全性、防止篡改并与用户建立信任。这种集成使您比以往任何时候都更轻松、更方便地签署您的包裹！</description>
-      <pubDate>Mon, 29 Jul 2024 15:00:14 +0000</pubDate>
+      <title>【Support for Azure.AI.OpenAI and OpenAI v2 is coming】对 Azure.AI.OpenAI 和 OpenAI v2 的支持即将推出</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/support-for-azure-ai-openai-and-openai-v2-is-coming</link>
+      <description>【Microsoft announced the official OpenAI library for .NET at the Build 2024 conference. This new SDK ensures that .NET developers have parity with other programming language libraries when accessing Azure OpenAI models. This means the new SDK will be able to support the latest OpenAI features and models as soon as they come out,】微软在 Build 2024 大会上宣布了适用于 .NET 的官方 OpenAI 库。这个新的 SDK 可确保 .NET 开发人员在访问 Azure OpenAI 模型时与其他编程语言库具有同等地位。这意味着新的SDK一经推出就能够支持最新的OpenAI功能和模型，</description>
+      <pubDate>Tue, 30 Jul 2024 08:34:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Easily Create Bindings for .NET MAUI with Native Library Interop】使用本机库互操作轻松创建 .NET MAUI 的绑定</title>
+      <title>【What’s coming next? Summer / Fall roadmap for Semantic Kernel】接下来会发生什么？语义内核夏季/秋季路线图</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/whats-coming-next-summer-fall-roadmap-for-semantic-kernel</link>
+      <description>【It feels like yesterday when we went live with v1.0+ of all our SDKs (Python, Java, and C#) at Microsoft Build. Since then, the Semantic Kernel team has been hard at work making Semantic Kernel even better. Now that we&amp;#8217;ve made some progress,】当我们在 Microsoft Build 上发布所有 SDK（Python、Java 和 C#）的 v1.0+ 时，感觉就像昨天一样。从那时起，Semantic Kernel 团队一直在努力使 Semantic Kernel 变得更好。现在我们已经取得了一些进展</description>
+      <pubDate>Tue, 30 Jul 2024 19:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating Bindings for .NET MAUI with Native Library Interop】使用本机库互操作为 .NET MAUI 创建绑定</title>
       <link>https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui</link>
-      <description>【Learn how to get started creating bindings with Native Library Interop by following this example binding native Chart libraries in a .NET MAUI application.】通过遵循在 .NET MAUI 应用程序中绑定本机图表库的示例，了解如何开始使用本机库互操作创建绑定。</description>
+      <description>【Learn how to get started creating bindings with Native Library Interop by following this example binding native Chart libraries in a .NET MAUI application.】通过在 .NET MAUI 应用程序中绑定本机图表库的示例，了解如何开始使用本机库互操作创建绑定。</description>
       <pubDate>Mon, 29 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
@@ -40,28 +58,10 @@
       <pubDate>Mon, 29 Jul 2024 17:21:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Entra External ID: Secure, scalable external identity management for your apps and resources】Microsoft Entra 外部 ID：为您的应用程序和资源提供安全、可扩展的外部身份管理</title>
-      <link>https://devblogs.microsoft.com/identity/external-identity-solutions</link>
-      <description>【Unlock the potential of secure and efficient identity management with Microsoft Entra External ID. Focusing on two key scenarios, we show how External ID simplifies the process of managing external identities, including business partners, consumers, and customers. Dive in to discover how you can streamline identity management with straightforward, customizable solutions that cater to diverse end-user segments.】使用 Microsoft Entra 外部 ID 释放安全、高效的身份管理的潜力。我们重点关注两个关键场景，展示外部 ID 如何简化管理外部身份（包括业务合作伙伴、消费者和客户）的流程。深入了解如何通过简单、可定制的解决方案来简化身份管理，以满足不同的最终用户群体。</description>
-      <pubDate>Mon, 29 Jul 2024 11:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LLM Prompt Injection Considerations With Tool Use】法学硕士即时注入工具使用注意事项</title>
-      <link>https://devblogs.microsoft.com/ise/llm-prompt-injection-considerations-for-tool-use</link>
-      <description>【This post discusses a pattern to prevent a class of prompt injection attacks in LLM-based solutions. It emphasizes the importance of building strong foundational patterns to mitigate risks and avoid potential pitfalls. By implementing this pattern, teams can enhance the security of their tool-based solutions.】这篇文章讨论了一种在基于 LLM 的解决方案中防止一类即时注入攻击的模式。它强调了建立强大的基础模式以减轻风险和避免潜在陷阱的重要性。通过实施此模式，团队可以增强基于工具的解决方案的安全性。</description>
-      <pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.6 Beta】宣布推出 TypeScript 5.6 Beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta</link>
-      <description>【Today we are excited to announce the availability of TypeScript 5.6 Beta. To get started using the beta, you can get it through NuGet, or through npm with the following command: npm install -D typescript@beta Here&amp;#8217;s a quick list of what&amp;#8217;s new in TypeScript 5.6!】今天，我们很高兴地宣布 TypeScript 5.6 Beta 推出。要开始使用 Beta 版，您可以通过 NuGet 或通过 npm 使用以下命令获取它： npm install -D typescript@beta 以下是 TypeScript 5.6 中新增功能的快速列表！</description>
-      <pubDate>Fri, 26 Jul 2024 14:11:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why don’t Windows Imaging Component pixel format GUIDs continue their nice pattern?】为什么 Windows 成像组件像素格式 GUID 不继续其良好的模式？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240729-00/?p=110054</link>
-      <description>【Patterns are predictable, which is not always a good thing.】模式是可预测的，这并不总是一件好事。</description>
-      <pubDate>Mon, 29 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【Sign VSIX packages with Sign CLI】使用 Sign CLI 签署 VSIX 包</title>
+      <link>https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli</link>
+      <description>【You can now leverage Sign CLI for a more secure, modern way to sign your Visual Studio extensions. Signing your VSIX packages improves security, prevents tampering, and builds trust with your users. This integration makes it easier and more convenient to sign your packages than ever before!】现在，您可以利用 Sign CLI 以更安全、更现代的方式来签署 Visual Studio 扩展。对 VSIX 包进行签名可以提高安全性、防止篡改并与用户建立信任。这种集成使您比以往任何时候都更轻松、更方便地签署您的包裹！</description>
+      <pubDate>Mon, 29 Jul 2024 15:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

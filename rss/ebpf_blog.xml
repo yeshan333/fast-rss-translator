@@ -4,10 +4,16 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【Instrumenting Python GIL with eBPF】使用 eBPF 检测 Python GIL</title>
-      <link>https://coroot.com/blog/instrumenting-python-gil-with-ebpf</link>
-      <description>【Explore how to measure the impact of the Global Interpreter Lock (GIL) in Python using eBPF】探索如何使用 eBPF 衡量 Python 中全局解释器锁 (GIL) 的影响</description>
-      <pubDate>Fri, 12 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Using eBPF to Deep Dive Into Functions in the Kernel】使用 eBPF 深入研究内核中的函数</title>
+      <link>https://blog.devops.dev/using-ebpf-to-deep-dive-into-functions-in-the-kernel-478c49ccb6a5</link>
+      <description>【Learn about what eBPF is, how it works, and what its programming model is like】了解 eBPF 是什么、它是如何工作的以及它的编程模型是什么样的</description>
+      <pubDate>Sun, 07 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【No More Blue Fridays】不再有蓝色星期五</title>
+      <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+      <description>【Brendan Gregg discusses the recent Windows outage caused by a kernel update and advocates for eBPF to prevent such crashes, enhancing software reliability in Linux and Windows】Brendan Gregg 讨论了最近由内核更新导致的 Windows 中断，并提倡使用 eBPF 来防止此类崩溃，从而增强 Linux 和 Windows 中的软件可靠性</description>
+      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Aflevering 59: Unpacking eBPF and Sustainability】Aflevering 59：解析 eBPF 和可持续性</title>
@@ -22,12 +28,6 @@
       <pubDate>Mon, 15 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF map as communication channel】eBPF 映射作为通信通道</title>
-      <link>https://redplait.blogspot.com/2024/07/ebpf-map-as-communication-channel.html</link>
-      <description>【Dive into how eBPF maps can be repurposed for communication between userland applications and kernel drivers on Linux systems】深入研究如何将 eBPF 映射重新用于 Linux 系统上用户态应用程序和内核驱动程序之间的通信</description>
-      <pubDate>Thu, 11 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【Run your program in the kernel space with eBPF】使用 eBPF 在内核空间中运行您的程序</title>
       <link>https://prodsens.live/2024/07/13/run-your-program-in-the-kernel-space-with-ebpf/</link>
       <description>【Learn how to implement a simple program that will monitor deleted files in the system and print their filename using eBPF】了解如何实现一个简单的程序，该程序将监视系统中已删除的文件并使用 eBPF 打印其文件名</description>
@@ -40,28 +40,28 @@
       <pubDate>Fri, 05 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【No More Blue Fridays】不再有蓝色星期五</title>
-      <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
-      <description>【Brendan Gregg discusses the recent Windows outage caused by a kernel update and advocates for eBPF to prevent such crashes, enhancing software reliability in Linux and Windows】Brendan Gregg 讨论了最近由内核更新导致的 Windows 中断，并提倡使用 eBPF 来防止此类崩溃，从而增强 Linux 和 Windows 中的软件可靠性</description>
-      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Writing eBPF Tracepoint Program with Rust Aya: Tips and Example】使用 Rust Aya 编写 eBPF 跟踪点程序：提示和示例</title>
-      <link>https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/</link>
-      <description>【Learn how to write and run an eBPF Tracepoint program with Rust Aya】了解如何使用 Rust Aya 编写和运行 eBPF Tracepoint 程序</description>
-      <pubDate>Sat, 06 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using eBPF to Deep Dive Into Functions in the Kernel】使用 eBPF 深入研究内核中的函数</title>
-      <link>https://blog.devops.dev/using-ebpf-to-deep-dive-into-functions-in-the-kernel-478c49ccb6a5</link>
-      <description>【Learn about what eBPF is, how it works, and what its programming model is like】了解 eBPF 是什么、它是如何工作的以及它的编程模型是什么样的</description>
-      <pubDate>Sun, 07 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【eBPF map as communication channel】eBPF 映射作为通信通道</title>
+      <link>https://redplait.blogspot.com/2024/07/ebpf-map-as-communication-channel.html</link>
+      <description>【Dive into how eBPF maps can be repurposed for communication between userland applications and kernel drivers on Linux systems】深入研究如何将 eBPF 映射重新用于 Linux 系统上用户态应用程序和内核驱动程序之间的通信</description>
+      <pubDate>Thu, 11 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【eBPF Network Vershitifier】eBPF 网络 Vershitifier</title>
       <link>https://blog.scottgerring.com/ebpf-network-vershitifier/</link>
       <description>【Learn about eBPF Network Vershitifier, a simple ebpf-go application that randomly drops outgoing packets for targeted processes using the eBPF TC filters】了解 eBPF Network Vershitifier，这是一个简单的 ebpf-go 应用程序，它使用 eBPF TC 过滤器随机丢弃目标进程的传出数据包</description>
       <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Instrumenting Python GIL with eBPF】使用 eBPF 检测 Python GIL</title>
+      <link>https://coroot.com/blog/instrumenting-python-gil-with-ebpf</link>
+      <description>【Explore how to measure the impact of the Global Interpreter Lock (GIL) in Python using eBPF】探索如何使用 eBPF 衡量 Python 中全局解释器锁 (GIL) 的影响</description>
+      <pubDate>Fri, 12 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Writing eBPF Tracepoint Program with Rust Aya: Tips and Example】使用 Rust Aya 编写 eBPF 跟踪点程序：提示和示例</title>
+      <link>https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/</link>
+      <description>【Learn how to write and run an eBPF Tracepoint program with Rust Aya】了解如何使用 Rust Aya 编写和运行 eBPF Tracepoint 程序</description>
+      <pubDate>Sat, 06 Jul 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
