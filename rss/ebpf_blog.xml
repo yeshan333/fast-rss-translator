@@ -4,10 +4,10 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【Using eBPF to Deep Dive Into Functions in the Kernel】使用 eBPF 深入研究内核中的函数</title>
-      <link>https://blog.devops.dev/using-ebpf-to-deep-dive-into-functions-in-the-kernel-478c49ccb6a5</link>
-      <description>【Learn about what eBPF is, how it works, and what its programming model is like】了解 eBPF 是什么、它是如何工作的以及它的编程模型是什么样的</description>
-      <pubDate>Sun, 07 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Recent Crowdstrike Outage Emphasizes the Need for Less Intrusive Malware Behavior Detection Technologies】最近的 Crowdstrike 中断凸显了对侵入性较小的恶意软件行为检测技术的需求</title>
+      <link>https://www.uptycs.com/blog/crowdstrike-outage-less-intrusive-malware-detection</link>
+      <description>【CrowdStrike outage sparks debate on Windows security, highlighting eBPF&#39;s absence and the need for less intrusive alternatives to kernel drivers】CrowdStrike 中断引发了有关 Windows 安全性的争论，凸显了 eBPF 的缺失以及对内核驱动程序的侵入性较小的替代方案的需求</description>
+      <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【No More Blue Fridays】不再有蓝色星期五</title>
@@ -16,52 +16,52 @@
       <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Aflevering 59: Unpacking eBPF and Sustainability】Aflevering 59：解析 eBPF 和可持续性</title>
-      <link>https://www.k8spodcast.nl/afleveringen/aflevering-59-unpacking-ebpf-and-sustainability</link>
-      <description>【In deze aflevering legt Alessandro de complexiteit van eBPF-maps uit en hoe ze de beweging van data mogelijk maken】在本集中，Alessandro 解释了 eBPF 映射的复杂性以及它们如何实现数据移动</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【eBPF on WSL2 [kernel version 6.x] [Ubuntu] [x64] [Arm64] [2024]】WSL2 上的 eBPF [内核版本 6.x] [Ubuntu] [x64] [Arm64] [2024]</title>
       <link>https://massoudasadiblog.blogspot.com/2024/07/ebpf-on-wsl2-kernel-version-6x-ubuntu.html</link>
       <description>【Learn how to develop and run eBPF programs on WSL2】了解如何在 WSL2 上开发和运行 eBPF 程序</description>
       <pubDate>Mon, 15 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Run your program in the kernel space with eBPF】使用 eBPF 在内核空间中运行您的程序</title>
-      <link>https://prodsens.live/2024/07/13/run-your-program-in-the-kernel-space-with-ebpf/</link>
-      <description>【Learn how to implement a simple program that will monitor deleted files in the system and print their filename using eBPF】了解如何实现一个简单的程序，该程序将监视系统中已删除的文件并使用 eBPF 打印其文件名</description>
-      <pubDate>Sat, 13 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【eBPF use cases】eBPF 用例</title>
+      <link>https://www.armosec.io/blog/ebpf-use-cases/</link>
+      <description>【Dive deep into the intricacies of eBPF, unraveling its capabilities and exploring its seamless integration within the Kubernetes landscape】深入研究 eBPF 的复杂性，揭示其功能并探索其在 Kubernetes 环境中的无缝集成</description>
+      <pubDate>Thu, 18 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Talking eBPF and Cilium with Liz Rice】与 Liz Rice 谈论 eBPF 和 Cilium</title>
-      <link>https://www.youtube.com/watch?v=fFeBNvociwE</link>
-      <description>【Liz Rice explains how eBPF works, what benefits and value it offers to enterprises looking to not only consolidate their observability of cloud native platforms and applications but also gain Linux kernel-level security and networking management】Liz Rice 解释了 eBPF 的工作原理，以及它为那些不仅希望巩固云原生平台和应用程序的可观察性，而且还希望获得 Linux 内核级安全性和网络管理的企业提供的好处和价值</description>
-      <pubDate>Fri, 05 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Using eBPF for Better Kubernetes Performance】使用 eBPF 提高 Kubernetes 性能</title>
+      <link>https://www.youtube.com/watch?v=iwEireAzRSQ</link>
+      <description>【Scott Moore and Donald Lutz discuss their experiences using eBPF, its performance and some of the pitfalls to watch out for】Scott Moore 和 Donald Lutz 讨论了他们使用 eBPF 的经验、其性能以及需要注意的一些陷阱</description>
+      <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF map as communication channel】eBPF 映射作为通信通道</title>
-      <link>https://redplait.blogspot.com/2024/07/ebpf-map-as-communication-channel.html</link>
-      <description>【Dive into how eBPF maps can be repurposed for communication between userland applications and kernel drivers on Linux systems】深入研究如何将 eBPF 映射重新用于 Linux 系统上用户态应用程序和内核驱动程序之间的通信</description>
-      <pubDate>Thu, 11 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Recent CrowdStrike Outage Emphasizes the Need for eBPF-Based Sensors】最近的 CrowdStrike 中断凸显了对基于 eBPF 的传感器的需求</title>
+      <link>https://www.oligo.security/blog/recent-crowdstrike-outage-emphasizes-the-need-for-ebpf-based-sensors</link>
+      <description>【Global IT disruption caused by a Windows security update fuels debate on adopting eBPF for more resilient endpoint protection】Windows 安全更新造成的全球 IT 中断引发了关于采用 eBPF 实现更具弹性的端点保护的争论</description>
+      <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF Network Vershitifier】eBPF 网络 Vershitifier</title>
-      <link>https://blog.scottgerring.com/ebpf-network-vershitifier/</link>
-      <description>【Learn about eBPF Network Vershitifier, a simple ebpf-go application that randomly drops outgoing packets for targeted processes using the eBPF TC filters】了解 eBPF Network Vershitifier，这是一个简单的 ebpf-go 应用程序，它使用 eBPF TC 过滤器随机丢弃目标进程的传出数据包</description>
-      <pubDate>Wed, 03 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【Observability Cost-Savings and eBPF Goodness with Groundcover】Groundcover 的可观测性成本节约和 eBPF 优点</title>
+      <link>https://podcast.bretfisher.com/episodes/observability-cost-savings-and-ebpf-goodness-with-groundcover</link>
+      <description>【Bret Fisher is joined by Shahar Azulay, Groundcover CEO and Co-Founder, to discuss their new approach to fully observe K8s and its workloads with a hybrid observability architecture and eBPF】Bret Fisher 与 Groundcover 首席执行官兼联合创始人 Shahar Azulay 一起讨论他们通过混合可观测性架构和 eBPF 全面观察 K8s 及其工作负载的新方法</description>
+      <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Instrumenting Python GIL with eBPF】使用 eBPF 检测 Python GIL</title>
-      <link>https://coroot.com/blog/instrumenting-python-gil-with-ebpf</link>
-      <description>【Explore how to measure the impact of the Global Interpreter Lock (GIL) in Python using eBPF】探索如何使用 eBPF 衡量 Python 中全局解释器锁 (GIL) 的影响</description>
-      <pubDate>Fri, 12 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【How Open Source Project Tetragon Is Evolving Security via eBPF】开源项目 Tetragon 如何通过 eBPF 改进安全性</title>
+      <link>https://dzone.com/articles/open-source-project-tetragon-is-evolving-security</link>
+      <description>【Learn how Tetragon leverages eBPF to revolutionize runtime security, offering deep observability and real-time enforcement for cloud native environments】了解 Tetragon 如何利用 eBPF 彻底改变运行时安全性，为云原生环境提供深度可观察性和实时实施</description>
+      <pubDate>Tue, 16 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Writing eBPF Tracepoint Program with Rust Aya: Tips and Example】使用 Rust Aya 编写 eBPF 跟踪点程序：提示和示例</title>
-      <link>https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/</link>
-      <description>【Learn how to write and run an eBPF Tracepoint program with Rust Aya】了解如何使用 Rust Aya 编写和运行 eBPF Tracepoint 程序</description>
-      <pubDate>Sat, 06 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【‍Could eBPF Save Us From CrowdStrike-Style Disasters?】‍eBPF 能否将我们从 CrowdStrike 式的灾难中拯救出来？</title>
+      <link>https://thenewstack.io/could-ebpf-save-us-from-crowdstrike-style-disasters/</link>
+      <description>【The New Stack discusses the potential of eBPF to provide deep visibility into system operations, thereby helping to prevent and mitigate security incidents similar to the CrowdStrike outage】新堆栈讨论了 eBPF 提供对系统操作的深入可见性的潜力，从而有助于预防和减轻类似于 CrowdStrike 中断的安全事件</description>
+      <pubDate>Mon, 29 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Comparing eBPF and Kernel Modules for Application Vulnerability Detection and Attack Monitoring】‍eBPF 和内核模块在应用程序漏洞检测和攻击监控方面的比较</title>
+      <link>https://www.kodemsecurity.com/resources/comparing-ebpf-and-kernel-modules-for-application-vulnerability-detection-and-attack-monitoring</link>
+      <description>【A comparison between eBPF and Kernel modules across various factors, assessing their viability as a context capture tool for application security vulnerability detection and attack monitoring purposes】eBPF 和内核模块在各种因素上的比较，评估它们作为应用程序安全漏洞检测和攻击监控目的的上下文捕获工具的可行性</description>
+      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

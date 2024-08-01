@@ -4,30 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Why don’t Windows Imaging Component pixel format GUIDs continue their nice pattern?】为什么 Windows 成像组件像素格式 GUID 不继续其良好的模式？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240729-00/?p=110054</link>
-      <description>【Patterns are predictable, which is not always a good thing.】模式是可预测的，这并不总是一件好事。</description>
-      <pubDate>Mon, 29 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【There is no mystery over who wrote the Blue Screen of Death, despite what some may want you to believe】尽管有些人可能想让你相信，谁创造了蓝屏死机，这并不神秘</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062</link>
-      <description>【No real contradictions in anybody&#39;s story.】任何人的故事中都没有真正的矛盾。</description>
-      <pubDate>Tue, 30 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (July 2024)】Azure SDK 版本（2024 年 7 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Entra External ID: Secure, scalable external identity management for your apps and resources】Microsoft Entra 外部 ID：为您的应用程序和资源提供安全、可扩展的外部身份管理</title>
-      <link>https://devblogs.microsoft.com/identity/external-identity-solutions</link>
-      <description>【Unlock the potential of secure and efficient identity management with Microsoft Entra External ID. Focusing on two key scenarios, we show how External ID simplifies the process of managing external identities, including business partners, consumers, and customers. Dive in to discover how you can streamline identity management with straightforward, customizable solutions that cater to diverse end-user segments.】使用 Microsoft Entra 外部 ID 释放安全、高效的身份管理的潜力。我们重点关注两个关键场景，展示外部 ID 如何简化管理外部身份（包括业务合作伙伴、消费者和客户）的流程。深入了解如何通过简单、可定制的解决方案来简化身份管理，以满足不同的最终用户群体。</description>
-      <pubDate>Mon, 29 Jul 2024 11:12:31 +0000</pubDate>
-    </item>
-    <item>
       <title>【MSVC Backend Updates in Visual Studio 2022 version 17.10】Visual Studio 2022 版本 17.10 中的 MSVC 后端更新</title>
       <link>https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-10</link>
       <description>【Visual Studio 2022 17.10 brings new optimizations, intrinsics, features, and improvements to the MSVC backend. Check out the highlights below: Performance improvements and additional functionality for all architectures: Improved SLP vectorizer. Now it runs on more functions, recognizes more operations, and may choose to use larger vector widths if allowed by the appropriate /arch flag.】Visual Studio 2022 17.10 为 MSVC 后端带来了新的优化、内在函数、功能和改进。查看以下亮点： 所有架构的性能改进和附加功能：改进的 SLP 矢量器。现在，它可以运行更多函数，识别更多操作，并且如果适当的 /arch 标志允许，可以选择使用更大的向量宽度。</description>
@@ -40,28 +16,52 @@
       <pubDate>Tue, 30 Jul 2024 08:34:41 +0000</pubDate>
     </item>
     <item>
+      <title>【Azure SDK Release (July 2024)】Azure SDK 版本（2024 年 7 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2024</link>
+      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
+      <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【There is no mystery over who wrote the Blue Screen of Death, despite what some may want you to believe】尽管有些人可能想让你相信，谁创造了蓝屏死机，这并不神秘</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062</link>
+      <description>【No real contradictions in anybody&#39;s story.】任何人的故事中都没有真正的矛盾。</description>
+      <pubDate>Tue, 30 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【What’s coming next? Summer / Fall roadmap for Semantic Kernel】接下来会发生什么？语义内核夏季/秋季路线图</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/whats-coming-next-summer-fall-roadmap-for-semantic-kernel</link>
       <description>【It feels like yesterday when we went live with v1.0+ of all our SDKs (Python, Java, and C#) at Microsoft Build. Since then, the Semantic Kernel team has been hard at work making Semantic Kernel even better. Now that we&amp;#8217;ve made some progress,】当我们在 Microsoft Build 上发布所有 SDK（Python、Java 和 C#）的 v1.0+ 时，感觉就像昨天一样。从那时起，Semantic Kernel 团队一直在努力使 Semantic Kernel 变得更好。现在我们已经取得了一些进展</description>
       <pubDate>Tue, 30 Jul 2024 19:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【Creating Bindings for .NET MAUI with Native Library Interop】使用本机库互操作为 .NET MAUI 创建绑定</title>
-      <link>https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui</link>
-      <description>【Learn how to get started creating bindings with Native Library Interop by following this example binding native Chart libraries in a .NET MAUI application.】通过在 .NET MAUI 应用程序中绑定本机图表库的示例，了解如何开始使用本机库互操作创建绑定。</description>
-      <pubDate>Mon, 29 Jul 2024 17:05:00 +0000</pubDate>
+      <title>【Enhancing #help in F# Interactive】增强 F# Interactive 中的 #help</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi</link>
+      <description>【The &#39;#help&#39; directive in F# Interactive can now quickly access documentation instantly within the REPL.】F# Interactive 中的“#help”指令现在可以在 REPL 中立即快速访问文档。</description>
+      <pubDate>Wed, 31 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Integrated Hybrid Support in the Azure Quantum Development Kit】Azure Quantum 开发套件中的集成混合支持</title>
-      <link>https://devblogs.microsoft.com/qsharp/integrated-hybrid-support-in-the-azure-quantum-development-kit</link>
-      <description>【Some quantum computers can do more than execute a static sequence of gates. The most advanced ones can perform mid-circuit measurements, conditionally execute gates, perform real-time classical computations and re-use qubits. If you want to experiment with these state-of-the-art capabilities, we have good news for you.】一些量子计算机不仅仅可以执行静态门序列。最先进的可以执行中间电路测量、有条件地执行门、执行实时经典计算和重用量子位。如果您想尝试这些最先进的功能，我们有好消息给您。</description>
-      <pubDate>Mon, 29 Jul 2024 17:21:53 +0000</pubDate>
+      <title>【Announcing a new Learn module: Create a copilot to help promote your podcast】宣布推出新的学习模块：创建副驾驶以帮助推广您的播客</title>
+      <link>https://devblogs.microsoft.com/powerplatform/create-a-copilot-to-help-promote-your-podcast</link>
+      <description>【Microsoft Learn has always been a way to learn new skills and concepts and discover the power of Microsoft products with step-by-step guidance. Recently, there has been an increase of learn paths and modules that throw you further into the deep end allowing you to develop new skills by building an end-to-end solution or project.】Microsoft Learn 始终是学习新技能和概念并通过分步指导发现 Microsoft 产品功能的一种方式。最近，学习路径和模块的增加使您进一步深入，使您可以通过构建端到端解决方案或项目来开发新技能。</description>
+      <pubDate>Wed, 31 Jul 2024 10:20:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Sign VSIX packages with Sign CLI】使用 Sign CLI 签署 VSIX 包</title>
-      <link>https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli</link>
-      <description>【You can now leverage Sign CLI for a more secure, modern way to sign your Visual Studio extensions. Signing your VSIX packages improves security, prevents tampering, and builds trust with your users. This integration makes it easier and more convenient to sign your packages than ever before!】现在，您可以利用 Sign CLI 以更安全、更现代的方式来签署 Visual Studio 扩展。对 VSIX 包进行签名可以提高安全性、防止篡改并与用户建立信任。这种集成使您比以往任何时候都更轻松、更方便地签署您的包裹！</description>
-      <pubDate>Mon, 29 Jul 2024 15:00:14 +0000</pubDate>
+      <title>【Python in Visual Studio Code – August 2024 Release】Visual Studio Code 中的 Python – 2024 年 8 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release</link>
+      <description>【The August 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improved Python discovery using python environment tools, inline variable values with the python debugger, and improvements to the VS Code native REPL. Keep reading to learn more!】2024 年 8 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括使用 python 环境工具改进 Python 发现、使用 python 调试器内联变量值以及对 VS Code 本机 REPL 的改进。继续阅读以了解更多信息！</description>
+      <pubDate>Wed, 31 Jul 2024 20:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to compress out interior padding in a std::pair and why you don’t want to】如何压缩 std::pair 中的内部填充以及为什么你不想这样做</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240731-00/?p=110069</link>
+      <description>【Context-sensitive layout means you get a different structure each time you use it.】上下文相关布局意味着每次使用它时都会得到不同的结构。</description>
+      <pubDate>Wed, 31 Jul 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Transforming Fleet Operations with vCore-based Azure Cosmos DB for MongoDB Geospatial Capabilities】使用基于 vCore 的 Azure Cosmos DB for MongoDB 地理空间功能转变车队运营</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/transforming-fleet-operations-with-vcore-based-azure-cosmos-db-for-mongodb-geospatial-capabilities</link>
+      <description>【Efficient fleet management is essential for industries that rely on transportation, such as logistics, delivery services, and public transportation. vCore-based Azure Cosmos DB for MongoDB supports enabling developers to create sophisticated geo-enabled applications with ease. Organizations can streamline fleet operations, monitor vehicle locations in real-time,】高效的车队管理对于依赖运输的行业（例如物流、送货服务和公共交通）至关重要。基于 vCore 的 Azure Cosmos DB for MongoDB 支持开发人员轻松创建复杂的地理应用程序。组织可以简化车队运营、实时监控车辆位置、</description>
+      <pubDate>Wed, 31 Jul 2024 14:00:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
