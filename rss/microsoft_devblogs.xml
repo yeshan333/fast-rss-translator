@@ -4,34 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【MSVC Backend Updates in Visual Studio 2022 version 17.10】Visual Studio 2022 版本 17.10 中的 MSVC 后端更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-10</link>
-      <description>【Visual Studio 2022 17.10 brings new optimizations, intrinsics, features, and improvements to the MSVC backend. Check out the highlights below: Performance improvements and additional functionality for all architectures: Improved SLP vectorizer. Now it runs on more functions, recognizes more operations, and may choose to use larger vector widths if allowed by the appropriate /arch flag.】Visual Studio 2022 17.10 为 MSVC 后端带来了新的优化、内在函数、功能和改进。查看以下亮点： 所有架构的性能改进和附加功能：改进的 SLP 矢量器。现在，它可以运行更多函数，识别更多操作，并且如果适当的 /arch 标志允许，可以选择使用更大的向量宽度。</description>
-      <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
+      <title>【Python in Visual Studio Code – August 2024 Release】Visual Studio Code 中的 Python – 2024 年 8 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release</link>
+      <description>【The August 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improved Python discovery using python environment tools, inline variable values with the python debugger, and improvements to the VS Code native REPL. Keep reading to learn more!】2024 年 8 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括使用 python 环境工具改进 Python 发现、使用 python 调试器内联变量值以及对 VS Code 本机 REPL 的改进。继续阅读以了解更多信息！</description>
+      <pubDate>Wed, 31 Jul 2024 20:44:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Support for Azure.AI.OpenAI and OpenAI v2 is coming】对 Azure.AI.OpenAI 和 OpenAI v2 的支持即将推出</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/support-for-azure-ai-openai-and-openai-v2-is-coming</link>
-      <description>【Microsoft announced the official OpenAI library for .NET at the Build 2024 conference. This new SDK ensures that .NET developers have parity with other programming language libraries when accessing Azure OpenAI models. This means the new SDK will be able to support the latest OpenAI features and models as soon as they come out,】微软在 Build 2024 大会上宣布了适用于 .NET 的官方 OpenAI 库。这个新的 SDK 可确保 .NET 开发人员在访问 Azure OpenAI 模型时与其他编程语言库具有同等地位。这意味着新的SDK一经推出就能够支持最新的OpenAI功能和模型，</description>
-      <pubDate>Tue, 30 Jul 2024 08:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (July 2024)】Azure SDK 版本（2024 年 7 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-july-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Mon, 29 Jul 2024 19:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【There is no mystery over who wrote the Blue Screen of Death, despite what some may want you to believe】尽管有些人可能想让你相信，谁创造了蓝屏死机，这并不神秘</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062</link>
-      <description>【No real contradictions in anybody&#39;s story.】任何人的故事中都没有真正的矛盾。</description>
-      <pubDate>Tue, 30 Jul 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s coming next? Summer / Fall roadmap for Semantic Kernel】接下来会发生什么？语义内核夏季/秋季路线图</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/whats-coming-next-summer-fall-roadmap-for-semantic-kernel</link>
-      <description>【It feels like yesterday when we went live with v1.0+ of all our SDKs (Python, Java, and C#) at Microsoft Build. Since then, the Semantic Kernel team has been hard at work making Semantic Kernel even better. Now that we&amp;#8217;ve made some progress,】当我们在 Microsoft Build 上发布所有 SDK（Python、Java 和 C#）的 v1.0+ 时，感觉就像昨天一样。从那时起，Semantic Kernel 团队一直在努力使 Semantic Kernel 变得更好。现在我们已经取得了一些进展</description>
-      <pubDate>Tue, 30 Jul 2024 19:31:08 +0000</pubDate>
+      <title>【Transforming Fleet Operations with vCore-based Azure Cosmos DB for MongoDB Geospatial Capabilities】使用基于 vCore 的 Azure Cosmos DB for MongoDB 地理空间功能转变车队运营</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/transforming-fleet-operations-with-vcore-based-azure-cosmos-db-for-mongodb-geospatial-capabilities</link>
+      <description>【Efficient fleet management is essential for industries that rely on transportation, such as logistics, delivery services, and public transportation. vCore-based Azure Cosmos DB for MongoDB supports enabling developers to create sophisticated geo-enabled applications with ease. Organizations can streamline fleet operations, monitor vehicle locations in real-time,】高效的车队管理对于依赖运输的行业（例如物流、送货服务和公共交通）至关重要。基于 vCore 的 Azure Cosmos DB for MongoDB 支持开发人员轻松创建复杂的地理应用程序。组织可以简化车队运营、实时监控车辆位置、</description>
+      <pubDate>Wed, 31 Jul 2024 14:00:31 +0000</pubDate>
     </item>
     <item>
       <title>【Enhancing #help in F# Interactive】增强 F# Interactive 中的 #help</title>
@@ -40,28 +22,46 @@
       <pubDate>Wed, 31 Jul 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing a new Learn module: Create a copilot to help promote your podcast】宣布推出新的学习模块：创建副驾驶以帮助推广您的播客</title>
-      <link>https://devblogs.microsoft.com/powerplatform/create-a-copilot-to-help-promote-your-podcast</link>
-      <description>【Microsoft Learn has always been a way to learn new skills and concepts and discover the power of Microsoft products with step-by-step guidance. Recently, there has been an increase of learn paths and modules that throw you further into the deep end allowing you to develop new skills by building an end-to-end solution or project.】Microsoft Learn 始终是学习新技能和概念并通过分步指导发现 Microsoft 产品功能的一种方式。最近，学习路径和模块的增加使您进一步深入，使您可以通过构建端到端解决方案或项目来开发新技能。</description>
-      <pubDate>Wed, 31 Jul 2024 10:20:36 +0000</pubDate>
+      <title>【Introducing Agents in Semantic Kernel】在语义内核中引入代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-agents-in-semantic-kernel</link>
+      <description>【Overview We are excited to announce support for agents as part of the Semantic Kernel ecosystem: Agent Framework (Semantic Kernel GitHub Repo) An agent may be thought of as an AI entity that is focused on a performing a particular role. 】概述 我们很高兴地宣布支持代理作为语义内核生态系统的一部分：代理框架（语义内核 GitHub 存储库） 代理可以被视为专注于执行特定角色的 AI 实体。 </description>
+      <pubDate>Thu, 01 Aug 2024 22:13:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code – August 2024 Release】Visual Studio Code 中的 Python – 2024 年 8 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release</link>
-      <description>【The August 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improved Python discovery using python environment tools, inline variable values with the python debugger, and improvements to the VS Code native REPL. Keep reading to learn more!】2024 年 8 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括使用 python 环境工具改进 Python 发现、使用 python 调试器内联变量值以及对 VS Code 本机 REPL 的改进。继续阅读以了解更多信息！</description>
-      <pubDate>Wed, 31 Jul 2024 20:44:33 +0000</pubDate>
+      <title>【Similarity Search with FAISS and Azure SQL】使用 FAISS 和 Azure SQL 进行相似性搜索</title>
+      <link>https://devblogs.microsoft.com/azure-sql/faiss-and-azure-sql</link>
+      <description>【In today’s data-driven world, finding similar items within large datasets is a common challenge. Whether it’s recommending products, identifying similar documents, or clustering data points, efficient similarity search is crucial. This blog post will explore how to leverage FAISS (Facebook AI Similarity Search) and Azure SQL to perform similarity searches on Wikipedia movie plots data.】在当今数据驱动的世界中，在大型数据集中查找相似的项目是一个常见的挑战。无论是推荐产品、识别相似文档还是聚类数据点，高效的相似性搜索都至关重要。本博文将探讨如何利用 FAISS（Facebook AI 相似性搜索）和 Azure SQL 对维基百科电影情节数据执行相似性搜索。</description>
+      <pubDate>Thu, 01 Aug 2024 14:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>【How to compress out interior padding in a std::pair and why you don’t want to】如何压缩 std::pair 中的内部填充以及为什么你不想这样做</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240731-00/?p=110069</link>
-      <description>【Context-sensitive layout means you get a different structure each time you use it.】上下文相关布局意味着每次使用它时都会得到不同的结构。</description>
-      <pubDate>Wed, 31 Jul 2024 14:00:00 +0000</pubDate>
+      <title>【What’s the difference between Data­Package­View.Get­Uri­Async and Data­Package­View.Get­Web­Link­Async?】DataPackageView.GetUriAsync 和 DataPackageView.GetWebLinkAsync 有什么区别？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240801-00/?p=110085</link>
+      <description>【Just improving on an ambiguous name.】只是改进了一个模棱两可的名字。</description>
+      <pubDate>Thu, 01 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Transforming Fleet Operations with vCore-based Azure Cosmos DB for MongoDB Geospatial Capabilities】使用基于 vCore 的 Azure Cosmos DB for MongoDB 地理空间功能转变车队运营</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/transforming-fleet-operations-with-vcore-based-azure-cosmos-db-for-mongodb-geospatial-capabilities</link>
-      <description>【Efficient fleet management is essential for industries that rely on transportation, such as logistics, delivery services, and public transportation. vCore-based Azure Cosmos DB for MongoDB supports enabling developers to create sophisticated geo-enabled applications with ease. Organizations can streamline fleet operations, monitor vehicle locations in real-time,】高效的车队管理对于依赖运输的行业（例如物流、送货服务和公共交通）至关重要。基于 vCore 的 Azure Cosmos DB for MongoDB 支持开发人员轻松创建复杂的地理应用程序。组织可以简化车队运营、实时监控车辆位置、</description>
-      <pubDate>Wed, 31 Jul 2024 14:00:31 +0000</pubDate>
+      <title>【Java on Visual Studio Code Update – July 2024】Visual Studio 代码上的 Java 更新 – 2024 年 7 月</title>
+      <link>https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-july-2024</link>
+      <description>【Hi everyone, welcome to the July update for Visual Studio Code for Java! This blog will cover the latest Gradle enhancements, user experience improvements and new Spring features, so let&amp;#8217;s get started! Gradle enhancements HCR Support for Gradle Build Server HCR (Hot Code Replace) is an advanced feature that debugger supports in VS Code Java.】大家好，欢迎来到 Visual Studio Code for Java 的 7 月更新！本博客将介绍最新的 Gradle 增强功能、用户体验改进和新的 Spring 功能，所以让我们开始吧！ Gradle 增强 HCR 对 Gradle 构建服务器的支持 HCR（热代码替换）是调试器在 VS Code Java 中支持的一项高级功能。</description>
+      <pubDate>Thu, 01 Aug 2024 09:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java on Visual Studio Code的更新 – 2024年7月】Java on Visual Studio Code的更新 – 2024年7月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-07</link>
+      <description>【大家好，欢迎来到 Visual Studio Code 7月份的 Java 更新！本博客将覆盖最新的 Gradle 功能增强、用户体验改进以及新的 Spring 功能，让我们开始吧！ Gradle 功能增强 支持 Gradle 的 HCR （热代码替换） HCR（热代码替换）是 VS Code Java 调试器支持的一项高级功能。它允许您启动调试会话并更改 Java 文件而无需重启，调试器将在运行中的 JVM 中替换代码。以前，这项功能不支持 Gradle 插件中使用的 Gradle 构建服务器。在我们最近的更新中，我们已经实现了这一支持，现在您可以在调试会话中利用 HCR。这里有一个此功能的演示。 要了解有关 HCR 的更多详情，请访问此链接。 委托测试到 Gradle 在我们的最新插件发布中，我们增加了“Delegate Test to Gradle”的支持，这允许您在 VS Code Java 中执行测试中委托Gradle进行测试，确保结果与命令行工具保持一致，并利用 Gradle 工具中的优势。要使用此功能，只需在运行测试之前选择“Delegate Test to Gradle”作为默认测试配置文件。这里有一个如何使用它的演示。 在这次发布中，我们只支持“运行测试”，但我们也计划很快支持“调试测试”，所以请继续关注。下面是这个功能的演示。 要使用上述 Gradle 功能，请安装 Extension Pack for Java 和 Gradle for Java插件。 用户体验改进 在文件管理器中创建 Java 包 创建 Java 包是 Java 开发人员经常执行的任务，根据用户反馈，我们已将此操作添加到文件管理器的右键菜单中。要访问它，用户只需在文件管理器中右键单击一个文件夹，并在那里找到“Create Java Package”以及其他常见的 Java 任务。以下是参考的屏幕截图。 从状态栏访问帮助中心(Help Center) 我们为 Java 开发人员创建了一个帮助中心，这个帮助中心提供了各种有用信息和文档，方便Java开发者快速上手和学习关于VS Code Java的使用方法。以前，它有些隐藏并不容易访问。在最新发布中，我们通过在状态栏中添加了它的快捷方式，让它更方便访问。这是如何从状态栏访问帮助中心的演示。 Spring 功能更新 我们还有几个令人兴奋的新 Spring 功能。要使用以下功能，请安装 Spring Boot 插件包。 SpEL 语法高亮显示和验证 像 JPQL 语法高亮显示一样，SpEL 表达式现在在注解（如 @Value）或查询中也具有语法高亮显示和基本验证。 Spring 注解的内容辅助和查找引用支持 每个版本迭代后，使用 Java 源代码中的 Spring 注解都变得更快更容易。最新的 Spring Boot 工具增加了对以下内容的高级支持： @Profile（自动完成和查找配置文件名的引用） @Qualifier（自动完成，转到定义和查找限定符值的引用） @DependsOn（自动完成，转到定义的 bean 名称） @Resource（自动完成和转到定义的 bean 名称） @Value（自动完成和转到定义的类路径资源） 这里有内容辅助和查找引用的演示。 内容辅助 查找引用 安装 Java 插件包 要使用上述所有功能，请在 Visual Studio Code 上下载并安装Extension Pack for Java 。 如果您是一位Spring开发者，并且正在编写Spring Boot相关的程序，您也可以下载并安装Spring Boot插件包，获得与Spring Boot有关的专属开发体验 反馈与建议 2024 年，Visual Studio Code 上的 Java 会有很多激动人心的更新，一如既往，您的反馈和建议对我们非常重要，将有助于我们未来的产品塑造。有几种方法可以给我们留下反馈 填写中文问卷 在这个帖子下留言 在我们的GitHub repo上创建Issue 发送电子邮件到vscjfeedback@microsoft.com 资源 以下链接和资源能帮助您更好地了解Java on Visual Studio Code的相关信息 了解更多 Visual Studio Code上Java的更多信息 逐步探索有关Visual Studio Code的Java教程】大家好，欢迎来到 Visual Studio Code 7月份的 Java 更新！本博客将覆盖最新的 Gradle 功能增强、用户体验改进以及新的 Spring 功能，让我们开始吧！ Gradle 功能增强 支持 Gradle 的 HCR （热代码替换） HCR（热代码替换）是 VS Code Java 调试器支持的一项高级功能。它允许您启动调试会话并更改 Java 文件而无需重启，调试器将在运行中的 JVM 中替换代码。以前，这项功能不支持 Gradle 插件中使用的 Gradle 构建服务器。在我们最近的更新中，我们已经实现了这一支持，现在您可以在调试会话中利用 HCR。这里有一个此功能的演示。 要了解有关 HCR 的更多详情，请访问此链接。 委托测试到 Gradle 在我们的最新插件发布中，我们增加了“Delegate Test to Gradle”的支持，这允许您在 VS Code Java 中执行测试中委托Gradle进行测试，确保结果与命令行工具保持一致，并利用 Gradle 工具中的优势。要使用此功能，只需在运行测试之前选择“Delegate Test to Gradle”作为默认测试配置文件。这里有一个如何使用它的演示。 在这次发布中，我们只支持“运行测试”，但我们也计划很快支持“调试测试”，所以请继续关注。下面是这个功能的演示。 要使用上述 Gradle 功能，请安装 Extension Pack for Java 和 Gradle for Java插件。 用户体验改进 在文件管理器中创建 Java 包 创建 Java 包是 Java 开发人员经常执行的任务，根据用户反馈，我们已将此操作添加到文件管理器的右键菜单中。要访问它，用户只需在文件管理器中右键单击一个文件夹，并在那里找到“Create Java Package”以及其他常见的 Java 任务。以下是参考的屏幕截图。 从状态栏访问帮助中心(Help Center) 我们为 Java 开发人员创建了一个帮助中心，这个帮助中心提供了各种有用信息和文档，方便Java开发者快速上手和学习关于VS Code Java的使用方法。以前，它有些隐藏并不容易访问。在最新发布中，我们通过在状态栏中添加了它的快捷方式，让它更方便访问。这是如何从状态栏访问帮助中心的演示。 Spring 功能更新 我们还有几个令人兴奋的新 Spring 功能。要使用以下功能，请安装 Spring Boot 插件包。 SpEL 语法高亮显示和验证 像 JPQL 语法高亮显示一样，SpEL 表达式现在在注解（如 @Value）或查询中也具有语法高亮显示和基本验证。 Spring 注解的内容辅助和查找引用支持 每个版本迭代后，使用 Java 源代码中的 Spring 注解都变得更快更容易。最新的 Spring Boot 工具增加了对以下内容的高级支持： @Profile（自动完成和查找配置文件名的引用） @Qualifier（自动完成，转到定义和查找限定符值的引用） @DependsOn（自动完成，转到定义的 bean 名称） @Resource（自动完成��转到定义的 bean 名称） @Value（自动完成和转到定义的类路径资源） 这里有内容辅助和查找引用的演示。 内容辅助 查找引用 安装 Java 插件包 要使用上述所有功能，请在 Visual Studio Code 上下载并安装Extension Pack for Java 。 如果您是一位Spring开发者，并且正在编写Spring Boot相关的程序，您也可以下载并安装Spring Boot插件包，获得与Spring Boot有关的专属开发体验 反馈与建议 2024 年，Visual Studio Code 上的 Java 会有很多激动人心的更新，一如既往，您的反馈和建议对我们非常重要，将有助于我们未来的产品塑造。有几种方法可以给我们留下反馈 填写中文问卷 在这个帖子下留言 在我们的GitHub repo上创建Issue 发送电子邮件到vscjfeedback@microsoft.com 资源 以下链接和资源能帮助您更好地了解Java on Visual Studio Code的相关信息 了解更多 Visual Studio Code上Java的更多信息 逐步探索有关Visual Studio Code的Java教程</description>
+      <pubDate>Thu, 01 Aug 2024 09:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (July 2024)】vcpkg 的新增功能（2024 年 7 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.07.12 release, 2024-07-10 tool release, as well as changes to vcpkg documentation throughout July. This month’s release includes some minor changes to output, bug fixes, and documentation improvements.】这篇博文总结了 2024.07.12 版本、2024-07-10 工具版本中对 vcpkg 包管理器的更改，以及整个 7 月份对 vcpkg 文档的更改。本月的版本包括对输出的一些细微更改、错误修复和文档改进。</description>
+      <pubDate>Thu, 01 Aug 2024 19:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Resource Estimation Challenge at QRISE 2024: Recap】QRISE 2024 的资源估算挑战赛：回顾</title>
+      <link>https://devblogs.microsoft.com/qsharp/resource-estimation-challenge-at-qrise-2024-recap</link>
+      <description>【This spring, we partnered with Quantum Coalition to offer a challenge at QRISE 2024 - a six-week-long event aiming to get students started doing research projects in areas of interest in quantum computing industry. Meet the challenge winners and learn about their projects!】今年春天，我们与 Quantum Coalition 合作，在 QRISE 2024 上提出了一项挑战，这是一项为期六周的活动，旨在让学生开始在量子计算行业感兴趣的领域开展研究项目。与挑战获胜者见面并了解他们的项目！</description>
+      <pubDate>Thu, 01 Aug 2024 18:04:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
