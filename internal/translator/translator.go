@@ -143,6 +143,7 @@ func (translator *Translator) DoTranslate(content string) string {
 			srcLang = translator.OriginLanguage
 		}
 
+		// language code: https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages
 		length := len(content)
 		if length < 3000 {
 			result, err := googleTranslator.Translate(content, srcLang, translator.TargetLanguage)
