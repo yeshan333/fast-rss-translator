@@ -4,10 +4,28 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【Recent Crowdstrike Outage Emphasizes the Need for Less Intrusive Malware Behavior Detection Technologies】最近的 Crowdstrike 中断凸显了对侵入性较小的恶意软件行为检测技术的需求</title>
-      <link>https://www.uptycs.com/blog/crowdstrike-outage-less-intrusive-malware-detection</link>
-      <description>【CrowdStrike outage sparks debate on Windows security, highlighting eBPF&#39;s absence and the need for less intrusive alternatives to kernel drivers】CrowdStrike 中断引发了有关 Windows 安全性的争论，凸显了 eBPF 的缺失以及对内核驱动程序的侵入性较小的替代方案的需求</description>
+      <title>【No More Blue Fridays】不再有蓝色星期五</title>
+      <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+      <description>【Brendan Gregg discusses the recent Windows outage caused by a kernel update and advocates for eBPF to prevent such crashes, enhancing software reliability in Linux and Windows】Brendan Gregg 讨论了最近由内核更新导致的 Windows 中断，并提倡使用 eBPF 来防止此类崩溃，从而增强 Linux 和 Windows 中的软件可靠性</description>
+      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【eBPF on WSL2 [kernel version 6.x] [Ubuntu] [x64] [Arm64] [2024]】WSL2 上的 eBPF [内核版本 6.x] [Ubuntu] [x64] [Arm64] [2024]</title>
+      <link>https://massoudasadiblog.blogspot.com/2024/07/ebpf-on-wsl2-kernel-version-6x-ubuntu.html</link>
+      <description>【Learn how to develop and run eBPF programs on WSL2】了解如何在 WSL2 上开发和运行 eBPF 程序</description>
+      <pubDate>Mon, 15 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Recent CrowdStrike Outage Emphasizes the Need for eBPF-Based Sensors】最近的 CrowdStrike 中断凸显了对基于 eBPF 的传感器的需求</title>
+      <link>https://www.oligo.security/blog/recent-crowdstrike-outage-emphasizes-the-need-for-ebpf-based-sensors</link>
+      <description>【Global IT disruption caused by a Windows security update fuels debate on adopting eBPF for more resilient endpoint protection】Windows 安全更新造成的全球 IT 中断引发了关于采用 eBPF 实现更具弹性的端点保护的争论</description>
       <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Could eBPF Save Us From CrowdStrike-Style Disasters?】‍eBPF 能否将我们从 CrowdStrike 式的灾难中拯救出来？</title>
+      <link>https://thenewstack.io/could-ebpf-save-us-from-crowdstrike-style-disasters/</link>
+      <description>【The New Stack discusses the potential of eBPF to provide deep visibility into system operations, thereby helping to prevent and mitigate security incidents similar to the CrowdStrike outage】新堆栈讨论了 eBPF 提供对系统操作的深入可见性的潜力，从而有助于预防和减轻类似于 CrowdStrike 中断的安全事件</description>
+      <pubDate>Mon, 29 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Comparing eBPF and Kernel Modules for Application Vulnerability Detection and Attack Monitoring】‍eBPF 和内核模块在应用程序漏洞检测和攻击监控方面的比较</title>
@@ -22,9 +40,15 @@
       <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Recent CrowdStrike Outage Emphasizes the Need for eBPF-Based Sensors】最近的 CrowdStrike 中断凸显了对基于 eBPF 的传感器的需求</title>
-      <link>https://www.oligo.security/blog/recent-crowdstrike-outage-emphasizes-the-need-for-ebpf-based-sensors</link>
-      <description>【Global IT disruption caused by a Windows security update fuels debate on adopting eBPF for more resilient endpoint protection】Windows 安全更新造成的全球 IT 中断引发了关于采用 eBPF 实现更具弹性的端点保护的争论</description>
+      <title>【Using eBPF for Better Kubernetes Performance】使用 eBPF 提高 Kubernetes 性能</title>
+      <link>https://www.youtube.com/watch?v=iwEireAzRSQ</link>
+      <description>【Scott Moore and Donald Lutz discuss their experiences using eBPF, its performance and some of the pitfalls to watch out for】Scott Moore 和 Donald Lutz 讨论了他们使用 eBPF 的经验、其性能以及需要注意的一些陷阱</description>
+      <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Recent Crowdstrike Outage Emphasizes the Need for Less Intrusive Malware Behavior Detection Technologies】最近的 Crowdstrike 中断凸显了对侵入性较小的恶意软件行为检测技术的需求</title>
+      <link>https://www.uptycs.com/blog/crowdstrike-outage-less-intrusive-malware-detection</link>
+      <description>【CrowdStrike outage sparks debate on Windows security, highlighting eBPF&#39;s absence and the need for less intrusive alternatives to kernel drivers】CrowdStrike 中断引发了有关 Windows 安全性的争论，凸显了 eBPF 的缺失以及对内核驱动程序的侵入性较小的替代方案的需求</description>
       <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
@@ -38,30 +62,6 @@
       <link>https://dzone.com/articles/open-source-project-tetragon-is-evolving-security</link>
       <description>【Learn how Tetragon leverages eBPF to revolutionize runtime security, offering deep observability and real-time enforcement for cloud native environments】了解 Tetragon 如何利用 eBPF 彻底改变运行时安全性，为云原生环境提供深度可观察性和实时实施</description>
       <pubDate>Tue, 16 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF on WSL2 [kernel version 6.x] [Ubuntu] [x64] [Arm64] [2024]】WSL2 上的 eBPF [内核版本 6.x] [Ubuntu] [x64] [Arm64] [2024]</title>
-      <link>https://massoudasadiblog.blogspot.com/2024/07/ebpf-on-wsl2-kernel-version-6x-ubuntu.html</link>
-      <description>【Learn how to develop and run eBPF programs on WSL2】了解如何在 WSL2 上开发和运行 eBPF 程序</description>
-      <pubDate>Mon, 15 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Could eBPF Save Us From CrowdStrike-Style Disasters?】‍eBPF 能否将我们从 CrowdStrike 式的灾难中拯救出来？</title>
-      <link>https://thenewstack.io/could-ebpf-save-us-from-crowdstrike-style-disasters/</link>
-      <description>【The New Stack discusses the potential of eBPF to provide deep visibility into system operations, thereby helping to prevent and mitigate security incidents similar to the CrowdStrike outage】新堆栈讨论了 eBPF 提供对系统操作的深入可见性的潜力，从而有助于预防和减轻类似于 CrowdStrike 中断的安全事件</description>
-      <pubDate>Mon, 29 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【No More Blue Fridays】不再有蓝色星期五</title>
-      <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
-      <description>【Brendan Gregg discusses the recent Windows outage caused by a kernel update and advocates for eBPF to prevent such crashes, enhancing software reliability in Linux and Windows】Brendan Gregg 讨论了最近由内核更新导致的 Windows 中断，并提倡使用 eBPF 来防止此类崩溃，从而增强 Linux 和 Windows 中的软件可靠性</description>
-      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using eBPF for Better Kubernetes Performance】使用 eBPF 提高 Kubernetes 性能</title>
-      <link>https://www.youtube.com/watch?v=iwEireAzRSQ</link>
-      <description>【Scott Moore and Donald Lutz discuss their experiences using eBPF, its performance and some of the pitfalls to watch out for】Scott Moore 和 Donald Lutz 讨论了他们使用 eBPF 的经验、其性能以及需要注意的一些陷阱</description>
-      <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
