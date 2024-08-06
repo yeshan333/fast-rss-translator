@@ -78,13 +78,13 @@ feeds:
     translate_engine: "google"
     max_post: 10
 
-  - name: pythoncat.xml
-    url: "https://pythoncat.top/rss.xml"
-    origin_language: "auto"
-    target_language: "zh"
-    translate_mode: "proxy"
-    translate_engine: "google"
-    max_post: 10
+  # - name: pythoncat.xml
+  #   url: "https://pythoncat.top/rss.xml"
+  #   origin_language: "auto"
+  #   target_language: "zh"
+  #   translate_mode: "proxy"
+  #   translate_engine: "google"
+  #   max_post: 10
 
   - name: systemdesign.xml
     url: "https://newsletter.systemdesign.one/feed"

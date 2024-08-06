@@ -11,7 +11,7 @@ import (
 
 func TestParseFeed(t *testing.T) {
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL("https://pythoncat.top/rss.xml")
+	feed, err := fp.ParseURL("https://shansan.top/rss2.xml")
 
 	if err != nil {
 		slog.Error("parse feed raise exception", "err", err, "feedUrl", "https://pythoncat.top/rss.xml")
