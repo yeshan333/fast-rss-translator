@@ -10,28 +10,10 @@
       <pubDate>Mon, 05 Aug 2024 06:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【The difference between undefined behavior and ill-formed C++ programs】未定义行为和格式错误的 C++ 程序之间的区别</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091</link>
-      <description>【They are two kinds of undefined-ness, one for runtime and one for compile-time.】它们有两种未定义性，一种用于运行时，一种用于编译时。</description>
-      <pubDate>Fri, 02 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the deprecation of the isPasscodeRequired property on the Microsoft Graph online meeting API】宣布弃用 Microsoft Graph 在线会议 API 上的 isPasscodeRequired 属性</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-deprecation-of-the-ispasscoderequired-property-on-the-microsoft-graph-online-meeting-api</link>
-      <description>【As part of Microsoft&#39;s secure future initiative, we&#39;re announcing the deprecation of the Microsoft Graph API to create an online meeting without a passcode. This API will be removed on September 30, 2027.】作为 Microsoft 安全未来计划的一部分，我们宣布弃用 Microsoft Graph API 以创建无需密码的在线会议。该 API 将于 2027 年 9 月 30 日删除。</description>
-      <pubDate>Fri, 02 Aug 2024 15:30:07 +0000</pubDate>
-    </item>
-    <item>
       <title>【Announcing Public Preview of Managed DevOps Pools (MDP) for Azure DevOps】宣布推出适用于 Azure DevOps 的托管 DevOps 池 (MDP) 的公开预览版</title>
       <link>https://devblogs.microsoft.com/devops/managed-devops-pools</link>
       <description>【Engineering teams ideally want to spend all their time writing code to create applications and services for their users! In reality, many end up spending a significant portion of their time on other tasks, such as maintaining DevOps infrastructure. In Azure DevOps,】理想情况下，工程团队希望将所有时间都花在编写代码来为用户创建应用程序和服务！事实上，许多人最终将大部分时间花在其他任务上，例如维护 DevOps 基础设施。在 Azure DevOps 中，</description>
       <pubDate>Fri, 02 Aug 2024 18:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What are the dire consequences of registering a RunOnce command from my RunOnce command?】从我的 RunOnce 命令注册 RunOnce 命令会带来什么可怕的后果？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240805-00/?p=110098</link>
-      <description>【The circle of life, or a perpetual motion machine.】生命的循环，或者说是永动机。</description>
-      <pubDate>Mon, 05 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New in vcpkg (July 2024)】vcpkg 的新增功能（2024 年 7 月）</title>
@@ -40,16 +22,22 @@
       <pubDate>Thu, 01 Aug 2024 19:15:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Similarity Search with FAISS and Azure SQL】使用 FAISS 和 Azure SQL 进行相似性搜索</title>
-      <link>https://devblogs.microsoft.com/azure-sql/faiss-and-azure-sql</link>
-      <description>【In today’s data-driven world, finding similar items within large datasets is a common challenge. Whether it’s recommending products, identifying similar documents, or clustering data points, efficient similarity search is crucial. This blog post will explore how to leverage FAISS (Facebook AI Similarity Search) and Azure SQL to perform similarity searches on Wikipedia movie plots data.】在当今数据驱动的世界中，在大型数据集中查找相似的项目是一个常见的挑战。无论是推荐产品、识别相似文档还是聚类数据点，高效的相似性搜索都至关重要。本博文将探讨如何利用 FAISS（Facebook AI 相似性搜索）和 Azure SQL 对维基百科电影情节数据执行相似性搜索。</description>
-      <pubDate>Thu, 01 Aug 2024 14:00:40 +0000</pubDate>
+      <title>【PIX 2408.05 – Custom Mesh/Texture Visualizers, faster playback, and a lot more】PIX 2408.05 – 自定义网格/纹理可视化工具、更快的播放速度等等</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2408-05</link>
+      <description>【Today we released PIX version 2408.05, which can be downloaded here. This release includes a lot of new improvements in GPU Captures, Timing Captures and the System Monitor, including:  GPU Captures  Custom Mesh/Texture Visualizers -&amp;gt; write your own HLSL code to process textures and meshes inside the PIX UI! 】今天我们发布了 PIX 版本 2408.05，可以在这里下载。此版本包括 GPU 捕获、定时捕获和系统监视器方面的许多新改进，包括： GPU 捕获 自定义网格/纹理可视化工具 -&gt; 编写您自己的 HLSL 代码来处理 PIX UI 内的纹理和网格！ </description>
+      <pubDate>Mon, 05 Aug 2024 21:19:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Resource Estimation Challenge at QRISE 2024: Recap】QRISE 2024 的资源估算挑战赛：回顾</title>
-      <link>https://devblogs.microsoft.com/qsharp/resource-estimation-challenge-at-qrise-2024-recap</link>
-      <description>【This spring, we partnered with Quantum Coalition to offer a challenge at QRISE 2024 - a six-week-long event aiming to get students started doing research projects in areas of interest in quantum computing industry. Meet the challenge winners and learn about their projects!】今年春天，我们与 Quantum Coalition 合作，在 QRISE 2024 上提出了一项挑战，这是一项为期六周的活动，旨在让学生开始在量子计算行业感兴趣的领域开展研究项目。与挑战获胜者见面并了解他们的项目！</description>
-      <pubDate>Thu, 01 Aug 2024 18:04:33 +0000</pubDate>
+      <title>【Add secure user profile editing to your applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 将安全的用户配置文件编辑添加到您的应用程序</title>
+      <link>https://devblogs.microsoft.com/identity/external-id-profile-edit</link>
+      <description>【Enhance your application by adding secure user profile editing with Microsoft Entra External ID. Microsoft Entra External ID provides simple integration for secure user authentication and profile management, offering custom branded sign-up experiences and efficient user management. The blog post covers high-level setup steps and links to detailed documentation for further guidance.】通过使用 Microsoft Entra 外部 ID 添加安全的用户配置文件编辑来增强您的应用程序。 Microsoft Entra 外部 ID 为安全用户身份验证和配置文件管理提供简单集成，提供自定义品牌注册体验和高效的用户管理。该博客文章介绍了高级设置步骤以及详细文档的链接以获取进一步指导。</description>
+      <pubDate>Tue, 06 Aug 2024 15:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the deprecation of the isPasscodeRequired property on the Microsoft Graph online meeting API】宣布弃用 Microsoft Graph 在线会议 API 上的 isPasscodeRequired 属性</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-deprecation-of-the-ispasscoderequired-property-on-the-microsoft-graph-online-meeting-api</link>
+      <description>【As part of Microsoft&#39;s secure future initiative, we&#39;re announcing the deprecation of the Microsoft Graph API to create an online meeting without a passcode. This API will be removed on September 30, 2027.】作为 Microsoft 安全未来计划的一部分，我们宣布弃用 Microsoft Graph API 以创建无需密码的在线会议。该 API 将于 2027 年 9 月 30 日删除。</description>
+      <pubDate>Fri, 02 Aug 2024 15:30:07 +0000</pubDate>
     </item>
     <item>
       <title>【Converting multiple sources to FHIR using Liquid】使用 Liquid 将多个源转换为 FHIR</title>
@@ -58,10 +46,22 @@
       <pubDate>Fri, 02 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2408.05 – Custom Mesh/Texture Visualizers, faster playback, and a lot more】PIX 2408.05 – 自定义网格/纹理可视化工具、更快的播放速度等等</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2408-05</link>
-      <description>【Today we released PIX version 2408.05, which can be downloaded here. This release includes a lot of new improvements in GPU Captures, Timing Captures and the System Monitor, including:  GPU Captures  Custom Mesh/Texture Visualizers -&amp;gt; write your own HLSL code to process textures and meshes inside the PIX UI! 】今天我们发布了 PIX 版本 2408.05，可以在这里下载。此版本包括 GPU 捕获、定时捕获和系统监视器方面的许多新改进，包括： GPU 捕获 自定义网格/纹理可视化工具 -&gt; 编写您自己的 HLSL 代码来处理 PIX UI 内的纹理和网格！ </description>
-      <pubDate>Mon, 05 Aug 2024 21:19:22 +0000</pubDate>
+      <title>【What are the dire consequences of registering a RunOnce command from my RunOnce command?】从我的 RunOnce 命令注册 RunOnce 命令会带来什么可怕的后果？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240805-00/?p=110098</link>
+      <description>【The circle of life, or a perpetual motion machine.】生命的循环，或者说是永动机。</description>
+      <pubDate>Mon, 05 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the revamped Attach to Process experience】引入改进的“附加到流程”体验</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience</link>
+      <description>【One of the most powerful and frequently used features of Visual Studio is the Attach to Process dialog, which enables you to debug processes running on your machine or on a remote machine. For anything you could develop using Visual Studio,】Visual Studio 最强大且最常用的功能之一是“附加到进程”对话框，它使您能够调试在您的计算机或远程计算机上运行的进程。对于任何可以使用 Visual Studio 开发的内容，</description>
+      <pubDate>Tue, 06 Aug 2024 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The difference between undefined behavior and ill-formed C++ programs】未定义行为和格式错误的 C++ 程序之间的区别</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091</link>
+      <description>【They are two kinds of undefined-ness, one for runtime and one for compile-time.】它们有两种未定义性，一种用于运行时，一种用于编译时。</description>
+      <pubDate>Fri, 02 Aug 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
