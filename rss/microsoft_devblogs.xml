@@ -10,22 +10,28 @@
       <pubDate>Mon, 05 Aug 2024 06:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>【PIX 2408.05 – Custom Mesh/Texture Visualizers, faster playback, and a lot more】PIX 2408.05 – 自定义网格/纹理可视化工具、更快的播放速度等等</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2408-05</link>
+      <description>【Today we released PIX version 2408.05, which can be downloaded here. This release includes a lot of new improvements in GPU Captures, Timing Captures and the System Monitor, including:  GPU Captures  Custom Mesh/Texture Visualizers -&amp;gt; write your own HLSL code to process textures and meshes inside the PIX UI! 】今天我们发布了 PIX 版本 2408.05，可以在这里下载。此版本包括 GPU 捕获、定时捕获和系统监视器方面的许多新改进，包括： GPU 捕获 自定义网格/纹理可视化工具 -&gt; 编写您自己的 HLSL 代码来处理 PIX UI 内的纹理和网格！ </description>
+      <pubDate>Mon, 05 Aug 2024 21:19:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【It rather involved being on the other side of the airtight hatchway: Disabling a security feature as an administrator】它涉及到在密闭舱口的另一边：以管理员身份禁用安全功能</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240806-00/?p=110103</link>
+      <description>【At least they don&#39;t beat around the bush.】至少他们不会拐弯抹角。</description>
+      <pubDate>Tue, 06 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing Public Preview of Managed DevOps Pools (MDP) for Azure DevOps】宣布推出适用于 Azure DevOps 的托管 DevOps 池 (MDP) 的公开预览版</title>
       <link>https://devblogs.microsoft.com/devops/managed-devops-pools</link>
       <description>【Engineering teams ideally want to spend all their time writing code to create applications and services for their users! In reality, many end up spending a significant portion of their time on other tasks, such as maintaining DevOps infrastructure. In Azure DevOps,】理想情况下，工程团队希望将所有时间都花在编写代码来为用户创建应用程序和服务！事实上，许多人最终将大部分时间花在其他任务上，例如维护 DevOps 基础设施。在 Azure DevOps 中，</description>
       <pubDate>Fri, 02 Aug 2024 18:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (July 2024)】vcpkg 的新增功能（2024 年 7 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.07.12 release, 2024-07-10 tool release, as well as changes to vcpkg documentation throughout July. This month’s release includes some minor changes to output, bug fixes, and documentation improvements.】这篇博文总结了 2024.07.12 版本、2024-07-10 工具版本中对 vcpkg 包管理器的更改，以及整个 7 月份对 vcpkg 文档的更改。本月的版本包括对输出的一些细微更改、错误修复和文档改进。</description>
-      <pubDate>Thu, 01 Aug 2024 19:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2408.05 – Custom Mesh/Texture Visualizers, faster playback, and a lot more】PIX 2408.05 – 自定义网格/纹理可视化工具、更快的播放速度等等</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2408-05</link>
-      <description>【Today we released PIX version 2408.05, which can be downloaded here. This release includes a lot of new improvements in GPU Captures, Timing Captures and the System Monitor, including:  GPU Captures  Custom Mesh/Texture Visualizers -&amp;gt; write your own HLSL code to process textures and meshes inside the PIX UI! 】今天我们发布了 PIX 版本 2408.05，可以在这里下载。此版本包括 GPU 捕获、定时捕获和系统监视器方面的许多新改进，包括： GPU 捕获 自定义网格/纹理可视化工具 -&gt; 编写您自己的 HLSL 代码来处理 PIX UI 内的纹理和网格！ </description>
-      <pubDate>Mon, 05 Aug 2024 21:19:22 +0000</pubDate>
+      <title>【Introducing private registry support in Azure Deployment Environments】在 Azure 部署环境中引入私有注册表支持</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/private-registry-support-in-azure-deployment-environments</link>
+      <description>【As the cloud landscape continues to evolve, there is growing need for secure, customizable tools for provisioning application infrastructure to meet unique organizational requirements. Azure Deployment Environments, a flexible and powerful solution that empowers developers to easily deploy app infrastructure in a secure,】随着云环境的不断发展，人们越来越需要安全、可定制的工具来配置应用程序基础设施，以满足独特的组织需求。 Azure 部署环境是一种灵活而强大的解决方案，使开发人员能够在安全、可靠的环境中轻松部署应用程序基础架构</description>
+      <pubDate>Tue, 06 Aug 2024 18:59:07 +0000</pubDate>
     </item>
     <item>
       <title>【Add secure user profile editing to your applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 将安全的用户配置文件编辑添加到您的应用程序</title>
@@ -34,22 +40,16 @@
       <pubDate>Tue, 06 Aug 2024 15:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the deprecation of the isPasscodeRequired property on the Microsoft Graph online meeting API】宣布弃用 Microsoft Graph 在线会议 API 上的 isPasscodeRequired 属性</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-deprecation-of-the-ispasscoderequired-property-on-the-microsoft-graph-online-meeting-api</link>
-      <description>【As part of Microsoft&#39;s secure future initiative, we&#39;re announcing the deprecation of the Microsoft Graph API to create an online meeting without a passcode. This API will be removed on September 30, 2027.】作为 Microsoft 安全未来计划的一部分，我们宣布弃用 Microsoft Graph API 以创建无需密码的在线会议。该 API 将于 2027 年 9 月 30 日删除。</description>
-      <pubDate>Fri, 02 Aug 2024 15:30:07 +0000</pubDate>
+      <title>【Guest Blog: Microsoft MVP Developed Course on Understanding Semantic Kernel】客座博客：Microsoft MVP 开发的有关理解语义内核的课程</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-microsoft-mvp-developed-course-on-understanding-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re featuring an AI Microsoft Most Valuable Professional (MVP) who&amp;#8217;s been developing content on Semantic Kernel. We wanted to highlight Jamie Maguire&amp;#8217;s work and detail the multi-part blog below. Here&amp;#8217;s the link to his course: New Course: Understanding Semantic Kernel – Jamie Maguire New Course: Understanding Semantic Kernel Jamie has broken the Semantic Kernel content he&amp;#8217;s developed for an Understanding Semantic Kernel course into 7 parts.】今天，我们邀请了一位人工智能微软最有价值专家 (MVP)，他一直在语义内核上开发内容。我们想重点介绍杰米·马奎尔的工作并详细介绍下面的多部分博客。以下是他的课程链接：新课程：理解语义内核 – Jamie Maguire 新课程：理解语义内核 Jamie 将他为理解语义内核课程开发的语义内核内容分为 7 个部分。</description>
+      <pubDate>Tue, 06 Aug 2024 18:44:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Converting multiple sources to FHIR using Liquid】使用 Liquid 将多个源转换为 FHIR</title>
-      <link>https://devblogs.microsoft.com/ise/profiling-docker-compose-services-through-visual-studio</link>
-      <description>【A brief summary of how Microsoft ISE teams creation a solution to integrate patients data from multiple fragmented sources into a standard FHIR data model】简要概述 Microsoft ISE 团队如何创建解决方案，将多个分散来源的患者数据集成到标准 FHIR 数据模型中</description>
-      <pubDate>Fri, 02 Aug 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What are the dire consequences of registering a RunOnce command from my RunOnce command?】从我的 RunOnce 命令注册 RunOnce 命令会带来什么可怕的后果？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240805-00/?p=110098</link>
-      <description>【The circle of life, or a perpetual motion machine.】生命的循环，或者说是永动机。</description>
-      <pubDate>Mon, 05 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【Querying the PIX Timing Capture file format】查询PIX时序捕获文件格式</title>
+      <link>https://devblogs.microsoft.com/pix/querying-the-pix-timing-capture-file-format</link>
+      <description>【The Timing Capture file format is a Sqlite database.  Queries written in standard SQL syntax can be used to extract data from Timing Capture files to perform a variety of analysis tasks without requiring the PIX user interface. PIX on Windows includes a Sqlite extension that simplifies the queries for common tasks such as determining the duration and execution times for a PIX event,】时序捕获文件格式是 Sqlite 数据库。  以标准 SQL 语法编写的查询可用于从时序捕获文件中提取数据，以执行各种分析任务，而无需 PIX 用户界面。 Windows 上的 PIX 包含一个 Sqlite 扩展，可简化常见任务的查询，例如确定 PIX 事件的持续时间和执行时间，</description>
+      <pubDate>Tue, 06 Aug 2024 18:44:02 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing the revamped Attach to Process experience】引入改进的“附加到流程”体验</title>
@@ -58,10 +58,10 @@
       <pubDate>Tue, 06 Aug 2024 10:00:36 +0000</pubDate>
     </item>
     <item>
-      <title>【The difference between undefined behavior and ill-formed C++ programs】未定义行为和格式错误的 C++ 程序之间的区别</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091</link>
-      <description>【They are two kinds of undefined-ness, one for runtime and one for compile-time.】它们有两种未定义性，一种用于运行时，一种用于编译时。</description>
-      <pubDate>Fri, 02 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【What are the dire consequences of registering a RunOnce command from my RunOnce command?】从我的 RunOnce 命令注册 RunOnce 命令会带来什么可怕的后果？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240805-00/?p=110098</link>
+      <description>【The circle of life, or a perpetual motion machine.】生命的循环，或者说是永动机。</description>
+      <pubDate>Mon, 05 Aug 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
