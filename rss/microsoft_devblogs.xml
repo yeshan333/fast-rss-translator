@@ -4,46 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【.NET 9 预览版 6：新功能抢先看】.NET 9 预览版 6：新功能抢先看</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/net-9-%e9%a2%84%e8%a7%88%e7%89%88-6%ef%bc%9a%e6%96%b0%e5%8a%9f%e8%83%bd%e6%8a%a2%e5%85%88%e7%9c%8b</link>
-      <description>【本篇翻译于.NET Team的.NET 9 Preview 6 is now available! 现在是了解最新 .NET 9 预览版的好时机！我们刚刚发布了第六个预览版，在之前预览版的基础上添加了一些很棒的功能，并对 .NET Runtime、SDK、库、C# 和框架（包括 ASP.NET Core、Blazor 和 .NET MAUI）进行了重大改进。请查看下面链接的完整发行说明并立即开始使用。                                                            下载 .NET 9 Preview 6                                                   此版本包含以下改进：  📚库：  对System.Numerics 的改进  支持日志源生成器中的主构造函数  System.Text.Json 增强功能包括新的 JsonSchemaExporter、可为null的注释识别、需要非可选构造函数参数、对JsonObject 属性进行排序以及新的契约元数据 API  [GeneratedRegex] 现在可以在属性上使用  Regex 的新 EnumerateSplits 方法可拆分更多集合类型   引入泛型 OrderedDictionary，包括 OrderedDictionary&amp;lt;TKey,】本篇翻译于.NET Team的.NET 9 Preview 6 is now available! 现在是了解最新 .NET 9 预览版的好时机！我们刚刚发布了第六个预览版，在之前预览版的基础上添加了一些很棒的功能，并对 .NET Runtime、SDK、库、C# 和框架（包括 ASP.NET Core、Blazor 和 .NET MAUI）进行了重大改进。请查看下面链接的完整发行说明并立即开始使用。                                                            下载 .NET 9 Preview 6                                                   此版本包含以下改进：  📚库：  对System.Numerics 的改进  支持日志源生成器中的主构造函数  System.Text.Json 增强功能包括新的 JsonSchemaExporter、可为null的注释识别、需要非可选构造函数参数、对JsonObject 属性进行排序以及新的契约元数据 API  [GeneratedRegex] 现在可以在属性上使用  Regex 的新 EnumerateSplits 方法可拆分更多集合类型   引入泛型 OrderedDictionary，包括 OrderedDictionary&lt;TKey,</description>
-      <pubDate>Mon, 05 Aug 2024 06:20:05 +0000</pubDate>
+      <title>【Adding .NET Aspire to your existing .NET apps】将 .NET Aspire 添加到现有 .NET 应用程序</title>
+      <link>https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps</link>
+      <description>【.NET Aspire can really simplify local development for your existing apps, large or small. In this post, we&#39;ll look at how easy it is to make your current solutions better with just a few lines of code.】.NET Aspire 可以真正简化现有应用程序（无论大小）的本地开发。在这篇文章中，我们将了解如何轻松地通过几行代码来改进当前的解决方案。</description>
+      <pubDate>Wed, 07 Aug 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2408.05 – Custom Mesh/Texture Visualizers, faster playback, and a lot more】PIX 2408.05 – 自定义网格/纹理可视化工具、更快的播放速度等等</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2408-05</link>
-      <description>【Today we released PIX version 2408.05, which can be downloaded here. This release includes a lot of new improvements in GPU Captures, Timing Captures and the System Monitor, including:  GPU Captures  Custom Mesh/Texture Visualizers -&amp;gt; write your own HLSL code to process textures and meshes inside the PIX UI! 】今天我们发布了 PIX 版本 2408.05，可以在这里下载。此版本包括 GPU 捕获、定时捕获和系统监视器方面的许多新改进，包括： GPU 捕获 自定义网格/纹理可视化工具 -&gt; 编写您自己的 HLSL 代码来处理 PIX UI 内的纹理和网格！ </description>
-      <pubDate>Mon, 05 Aug 2024 21:19:22 +0000</pubDate>
+      <title>【How do I know when the user has finished interacting with the Accounts­Settings­Pane?】我如何知道用户何时完成与 AccountsSettingsPane 的交互？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240807-00/?p=110108</link>
+      <description>【You can use the version that runs an asynchronous operation.】您可以使用运行异步操作的版本。</description>
+      <pubDate>Wed, 07 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【It rather involved being on the other side of the airtight hatchway: Disabling a security feature as an administrator】它涉及到在密闭舱口的另一边：以管理员身份禁用安全功能</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240806-00/?p=110103</link>
-      <description>【At least they don&#39;t beat around the bush.】至少他们不会拐弯抹角。</description>
-      <pubDate>Tue, 06 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Public Preview of Managed DevOps Pools (MDP) for Azure DevOps】宣布推出适用于 Azure DevOps 的托管 DevOps 池 (MDP) 的公开预览版</title>
-      <link>https://devblogs.microsoft.com/devops/managed-devops-pools</link>
-      <description>【Engineering teams ideally want to spend all their time writing code to create applications and services for their users! In reality, many end up spending a significant portion of their time on other tasks, such as maintaining DevOps infrastructure. In Azure DevOps,】理想情况下，工程团队希望将所有时间都花在编写代码来为用户创建应用程序和服务！事实上，许多人最终将大部分时间花在其他任务上，例如维护 DevOps 基础设施。在 Azure DevOps 中，</description>
-      <pubDate>Fri, 02 Aug 2024 18:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing private registry support in Azure Deployment Environments】在 Azure 部署环境中引入私有注册表支持</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/private-registry-support-in-azure-deployment-environments</link>
-      <description>【As the cloud landscape continues to evolve, there is growing need for secure, customizable tools for provisioning application infrastructure to meet unique organizational requirements. Azure Deployment Environments, a flexible and powerful solution that empowers developers to easily deploy app infrastructure in a secure,】随着云环境的不断发展，人们越来越需要安全、可定制的工具来配置应用程序基础设施，以满足独特的组织需求。 Azure 部署环境是一种灵活而强大的解决方案，使开发人员能够在安全、可靠的环境中轻松部署应用程序基础架构</description>
-      <pubDate>Tue, 06 Aug 2024 18:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Add secure user profile editing to your applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 将安全的用户配置文件编辑添加到您的应用程序</title>
-      <link>https://devblogs.microsoft.com/identity/external-id-profile-edit</link>
-      <description>【Enhance your application by adding secure user profile editing with Microsoft Entra External ID. Microsoft Entra External ID provides simple integration for secure user authentication and profile management, offering custom branded sign-up experiences and efficient user management. The blog post covers high-level setup steps and links to detailed documentation for further guidance.】通过使用 Microsoft Entra 外部 ID 添加安全的用户配置文件编辑来增强您的应用程序。 Microsoft Entra 外部 ID 为安全用户身份验证和配置文件管理提供简单集成，提供自定义品牌注册体验和高效的用户管理。该博客文章介绍了高级设置步骤以及详细文档的链接以获取进一步指导。</description>
-      <pubDate>Tue, 06 Aug 2024 15:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Microsoft MVP Developed Course on Understanding Semantic Kernel】客座博客：Microsoft MVP 开发的有关理解语义内核的课程</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-microsoft-mvp-developed-course-on-understanding-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re featuring an AI Microsoft Most Valuable Professional (MVP) who&amp;#8217;s been developing content on Semantic Kernel. We wanted to highlight Jamie Maguire&amp;#8217;s work and detail the multi-part blog below. Here&amp;#8217;s the link to his course: New Course: Understanding Semantic Kernel – Jamie Maguire New Course: Understanding Semantic Kernel Jamie has broken the Semantic Kernel content he&amp;#8217;s developed for an Understanding Semantic Kernel course into 7 parts.】今天，我们邀请了一位人工智能微软最有价值专家 (MVP)，他一直在语义内核上开发内容。我们想重点介绍杰米·马奎尔的工作并详细介绍下面的多部分博客。以下是他的课程链接：新课程：理解语义内核 – Jamie Maguire 新课程：理解语义内核 Jamie 将他为理解语义内核课程开发的语义内核内容分为 7 个部分。</description>
-      <pubDate>Tue, 06 Aug 2024 18:44:07 +0000</pubDate>
+      <title>【Timing Capture bookmarks】定时捕获书签</title>
+      <link>https://devblogs.microsoft.com/pix/timing-capture-bookmarks</link>
+      <description>【Starting with the 2408.05 release of PIX on Windows, developers can add bookmarks, or annotations, to lanes in the Timeline layout of Timing Captures. Bookmarks are text notes that can be added at either a specific point in time, or to a range of time,】从 Windows 上的 PIX 2408.05 版本开始，开发人员可以向时序捕获的时间轴布局中的通道添加书签或注释。书签是可以在特定时间点或某个时间范围添加的文本注释，</description>
+      <pubDate>Wed, 07 Aug 2024 16:21:00 +0000</pubDate>
     </item>
     <item>
       <title>【Querying the PIX Timing Capture file format】查询PIX时序捕获文件格式</title>
@@ -52,16 +28,40 @@
       <pubDate>Tue, 06 Aug 2024 18:44:02 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the revamped Attach to Process experience】引入改进的“附加到流程”体验</title>
-      <link>https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience</link>
-      <description>【One of the most powerful and frequently used features of Visual Studio is the Attach to Process dialog, which enables you to debug processes running on your machine or on a remote machine. For anything you could develop using Visual Studio,】Visual Studio 最强大且最常用的功能之一是“附加到进程”对话框，它使您能够调试在您的计算机或远程计算机上运行的进程。对于任何可以使用 Visual Studio 开发的内容，</description>
-      <pubDate>Tue, 06 Aug 2024 10:00:36 +0000</pubDate>
+      <title>【Introducing private registry support in Azure Deployment Environments】在 Azure 部署环境中引入私有注册表支持</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/private-registry-support-in-azure-deployment-environments</link>
+      <description>【As the cloud landscape continues to evolve, there is growing need for secure, customizable tools for provisioning application infrastructure to meet unique organizational requirements. Azure Deployment Environments, a flexible and powerful solution that empowers developers to easily deploy app infrastructure in a secure,】随着云环境的不断发展，人们越来越需要安全、可定制的工具来配置应用程序基础设施，以满足独特的组织需求。 Azure 部署环境是一种灵活而强大的解决方案，使开发人员能够在安全、可靠的环境中轻松部署应用程序基础架构</description>
+      <pubDate>Tue, 06 Aug 2024 18:59:07 +0000</pubDate>
     </item>
     <item>
-      <title>【What are the dire consequences of registering a RunOnce command from my RunOnce command?】从我的 RunOnce 命令注册 RunOnce 命令会带来什么可怕的后果？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240805-00/?p=110098</link>
-      <description>【The circle of life, or a perpetual motion machine.】生命的循环，或者说是永动机。</description>
-      <pubDate>Mon, 05 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【Go 1.22.6-1 and 1.21.13-1 Microsoft builds now available】Go 1.22.6-1 和 1.21.13-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-22-6-1-and-1-21-13-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Wed, 07 Aug 2024 21:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Microsoft MVP Developed Course on Understanding Semantic Kernel】客座博客：Microsoft MVP 开发的有关理解语义内核的课程</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-microsoft-mvp-developed-course-on-understanding-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re featuring an AI Microsoft Most Valuable Professional (MVP) who&amp;#8217;s been developing content on Semantic Kernel. We wanted to highlight Jamie Maguire&amp;#8217;s work and detail the multi-part blog below. Here&amp;#8217;s the link to his course: New Course: Understanding Semantic Kernel – Jamie Maguire New Course: Understanding Semantic Kernel Jamie has broken the Semantic Kernel content he&amp;#8217;s developed for an Understanding Semantic Kernel course into 7 parts.】今天，我们邀请了一位人工智能微软最有价值专家 (MVP)，他一直在语义内核上开发内容。我们想重点介绍杰米·马奎尔的工作并详细介绍下面的多部分博客。以下是他的课程链接：新课程：理解语义内核 – Jamie Maguire 新课程：理解语义内核 Jamie 将他为理解语义内核课程开发的语义内核内容分为 7 个部分。</description>
+      <pubDate>Tue, 06 Aug 2024 18:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Add secure user profile editing to your applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 将安全的用户配置文件编辑添加到您的应用程序</title>
+      <link>https://devblogs.microsoft.com/identity/external-id-profile-edit</link>
+      <description>【Enhance your application by adding secure user profile editing with Microsoft Entra External ID. Microsoft Entra External ID provides simple integration for secure user authentication and profile management, offering custom branded sign-up experiences and efficient user management. The blog post covers high-level setup steps and links to detailed documentation for further guidance.】通过使用 Microsoft Entra 外部 ID 添加安全的用户配置文件编辑来增强您的应用程序。 Microsoft Entra 外部 ID 为安全用户身份验证和配置文件管理提供简单集成，提供自定义品牌注册体验和高效的用户管理。该博客文章介绍了高级设置步骤以及详细文档的链接以获取进一步指导。</description>
+      <pubDate>Tue, 06 Aug 2024 15:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GitHub Copilot Extensions for C++ developers and beyond now available in VS Code】面向 C++ 开发人员及其他开发人员的 GitHub Copilot 扩展现已在 VS Code 中提供</title>
+      <link>https://devblogs.microsoft.com/cppblog/github-copilot-extensions-for-c-developers-and-beyond-now-available-in-vs-code</link>
+      <description>【GitHub Copilot is now more extensible than ever for extension authors in VS Code. At the Microsoft Build conference, we announced that VS Code extensions can now leverage APIs for Copilot to build custom chat participants that users can interact with in the GitHub Copilot Chat view in VS Code.】对于 VS Code 中的扩展作者来说，GitHub Copilot 现在比以往任何时候都更具可扩展性。在 Microsoft Build 大会上，我们宣布 VS Code 扩展现在可以利用 Copilot 的 API 来构建自定义聊天参与者，用户可以在 VS Code 的 GitHub Copilot 聊天视图中与这些参与者进行交互。</description>
+      <pubDate>Wed, 07 Aug 2024 09:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Silicon Graphics Media and Artificial Intelligence (SiGMA) team is hiring!】硅谷图形媒体和人工智能 (SiGMA) 团队正在招聘！</title>
+      <link>https://devblogs.microsoft.com/directx/sigma-engineering-hiring-2024</link>
+      <description>【Do you want to be a part of the Silicon Graphics Media and Artificial Intelligence (SiGMA) platform team? We are hiring for multiple positions in multiple locations &amp;#8211; if you&amp;#8217;re interested in knowing more about opportunities in SiGMA, please see the below for more details!】您想成为 Silicon Graphics 媒体和人工智能 (SiGMA) 平台团队的一员吗？我们正在多个地点招聘多个职位 - 如果您有兴趣了解更多有关 SiGMA 工作机会的信息，请参阅以下内容了解更多详细信息！</description>
+      <pubDate>Wed, 07 Aug 2024 20:08:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

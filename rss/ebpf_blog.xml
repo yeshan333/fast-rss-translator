@@ -4,10 +4,28 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【Observability Cost-Savings and eBPF Goodness with Groundcover】Groundcover 的可观测性成本节约和 eBPF 优点</title>
-      <link>https://podcast.bretfisher.com/episodes/observability-cost-savings-and-ebpf-goodness-with-groundcover</link>
-      <description>【Bret Fisher is joined by Shahar Azulay, Groundcover CEO and Co-Founder, to discuss their new approach to fully observe K8s and its workloads with a hybrid observability architecture and eBPF】Bret Fisher 与 Groundcover 首席执行官兼联合创始人 Shahar Azulay 一起讨论他们通过混合可观测性架构和 eBPF 全面观察 K8s 及其工作负载的新方法</description>
+      <title>【‍A look inside the BPF verifier】‍BPF 验证器内部一览</title>
+      <link>https://lwn.net/Articles/982077/</link>
+      <description>【Learn about the BPF verifier and how it works】了解 BPF 验证器及其工作原理</description>
+      <pubDate>Tue, 23 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【No More Blue Fridays】不再有蓝色星期五</title>
+      <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+      <description>【Brendan Gregg discusses the recent Windows outage caused by a kernel update and advocates for eBPF to prevent such crashes, enhancing software reliability in Linux and Windows】Brendan Gregg 讨论了最近由内核更新导致的 Windows 中断，并提倡使用 eBPF 来防止此类崩溃，从而增强 Linux 和 Windows 中的软件可靠性</description>
+      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using eBPF for Better Kubernetes Performance】使用 eBPF 提高 Kubernetes 性能</title>
+      <link>https://www.youtube.com/watch?v=iwEireAzRSQ</link>
+      <description>【Scott Moore and Donald Lutz discuss their experiences using eBPF, its performance and some of the pitfalls to watch out for】Scott Moore 和 Donald Lutz 讨论了他们使用 eBPF 的经验、其性能以及需要注意的一些陷阱</description>
       <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Recent Crowdstrike Outage Emphasizes the Need for Less Intrusive Malware Behavior Detection Technologies】最近的 Crowdstrike 中断凸显了对侵入性较小的恶意软件行为检测技术的需求</title>
+      <link>https://www.uptycs.com/blog/crowdstrike-outage-less-intrusive-malware-detection</link>
+      <description>【CrowdStrike outage sparks debate on Windows security, highlighting eBPF&#39;s absence and the need for less intrusive alternatives to kernel drivers】CrowdStrike 中断引发了有关 Windows 安全性的争论，凸显了 eBPF 的缺失以及对内核驱动程序的侵入性较小的替代方案的需求</description>
+      <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Comparing eBPF and Kernel Modules for Application Vulnerability Detection and Attack Monitoring】‍eBPF 和内核模块在应用程序漏洞检测和攻击监控方面的比较</title>
@@ -22,10 +40,10 @@
       <pubDate>Wed, 31 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍A look inside the BPF verifier】‍BPF 验证器内部一览</title>
-      <link>https://lwn.net/Articles/982077/</link>
-      <description>【Learn about the BPF verifier and how it works】了解 BPF 验证器及其工作原理</description>
-      <pubDate>Tue, 23 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【‍Writing a system call tracer using eBPF】‍使用 eBPF 编写系统调用跟踪器</title>
+      <link>https://sh4dy.com/2024/08/03/beetracer/</link>
+      <description>【Learn how to build a system call tracer program with eBPF】了解如何使用 eBPF 构建系统调用跟踪器程序</description>
+      <pubDate>Sat, 03 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Recent CrowdStrike Outage Emphasizes the Need for eBPF-Based Sensors】最近的 CrowdStrike 中断凸显了对基于 eBPF 的传感器的需求</title>
@@ -34,27 +52,9 @@
       <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Writing a system call tracer using eBPF】‍使用 eBPF 编写系统调用跟踪器</title>
-      <link>https://sh4dy.com/2024/08/03/beetracer/</link>
-      <description>【Learn how to build a system call tracer program with eBPF】了解如何使用 eBPF 构建系统调用跟踪器程序</description>
-      <pubDate>Sat, 03 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【No More Blue Fridays】不再有蓝色星期五</title>
-      <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
-      <description>【Brendan Gregg discusses the recent Windows outage caused by a kernel update and advocates for eBPF to prevent such crashes, enhancing software reliability in Linux and Windows】Brendan Gregg 讨论了最近由内核更新导致的 Windows 中断，并提倡使用 eBPF 来防止此类崩溃，从而增强 Linux 和 Windows 中的软件可靠性</description>
-      <pubDate>Mon, 22 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Recent Crowdstrike Outage Emphasizes the Need for Less Intrusive Malware Behavior Detection Technologies】最近的 Crowdstrike 中断凸显了对侵入性较小的恶意软件行为检测技术的需求</title>
-      <link>https://www.uptycs.com/blog/crowdstrike-outage-less-intrusive-malware-detection</link>
-      <description>【CrowdStrike outage sparks debate on Windows security, highlighting eBPF&#39;s absence and the need for less intrusive alternatives to kernel drivers】CrowdStrike 中断引发了有关 Windows 安全性的争论，凸显了 eBPF 的缺失以及对内核驱动程序的侵入性较小的替代方案的需求</description>
-      <pubDate>Fri, 19 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using eBPF for Better Kubernetes Performance】使用 eBPF 提高 Kubernetes 性能</title>
-      <link>https://www.youtube.com/watch?v=iwEireAzRSQ</link>
-      <description>【Scott Moore and Donald Lutz discuss their experiences using eBPF, its performance and some of the pitfalls to watch out for】Scott Moore 和 Donald Lutz 讨论了他们使用 eBPF 的经验、其性能以及需要注意的一些陷阱</description>
+      <title>【Observability Cost-Savings and eBPF Goodness with Groundcover】Groundcover 的可观测性成本节约和 eBPF 优点</title>
+      <link>https://podcast.bretfisher.com/episodes/observability-cost-savings-and-ebpf-goodness-with-groundcover</link>
+      <description>【Bret Fisher is joined by Shahar Azulay, Groundcover CEO and Co-Founder, to discuss their new approach to fully observe K8s and its workloads with a hybrid observability architecture and eBPF】Bret Fisher 与 Groundcover 首席执行官兼联合创始人 Shahar Azulay 一起讨论他们通过混合可观测性架构和 eBPF 全面观察 K8s 及其工作负载的新方法</description>
       <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
