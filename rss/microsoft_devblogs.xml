@@ -4,6 +4,54 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【Go 1.22.6-1 and 1.21.13-1 Microsoft builds now available】Go 1.22.6-1 和 1.21.13-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-22-6-1-and-1-21-13-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Wed, 07 Aug 2024 21:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why do I get E_ACCESS­DENIED when trying to access my brokered Windows Runtime object?COM is double-checking the trust level.】为什么在尝试访问我的代理 Windows 运行时对象时收到 E_ACCESSDENIED？COM 正在仔细检查信任级别。</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240808-00/?p=110112</link>
+      <description>【COM is double-checking the trust level.】COM 正在仔细检查信任级别。</description>
+      <pubDate>Thu, 08 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Silicon Graphics Media and Artificial Intelligence (SiGMA) team is hiring!】硅谷图形媒体和人工智能 (SiGMA) 团队正在招聘！</title>
+      <link>https://devblogs.microsoft.com/directx/sigma-engineering-hiring-2024</link>
+      <description>【Do you want to be a part of the Silicon Graphics Media and Artificial Intelligence (SiGMA) platform team? We are hiring for multiple positions in multiple locations &amp;#8211; if you&amp;#8217;re interested in knowing more about opportunities in SiGMA, please see the below for more details!】您想成为 Silicon Graphics 媒体和人工智能 (SiGMA) 平台团队的一员吗？我们正在多个地点招聘多个职位 - 如果您有兴趣了解更多有关 SiGMA 工作机会的信息，请参阅以下内容了解更多详细信息！</description>
+      <pubDate>Wed, 07 Aug 2024 20:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB JavaScript SDK 4.1.0 Preview is Here!】Azure Cosmos DB JavaScript SDK 4.1.0 预览版现已推出！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-javascript-sdk-4-1-0-preview-is-here</link>
+      <description>【We are excited to announce the release of the Azure Cosmos DB JavaScript SDK 4.1.0 Preview! This latest update brings several improvements, new features, and bug fixes to enhance developer experience and enable advanced data querying capabilities when working with Azure Cosmos DB.】我们很高兴地宣布发布 Azure Cosmos DB JavaScript SDK 4.1.0 预览版！此最新更新带来了多项改进、新功能和错误修复，以增强开发人员体验并在使用 Azure Cosmos DB 时启用高级数据查询功能。</description>
+      <pubDate>Fri, 09 Aug 2024 02:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Dev Box Customization Now Supports Native Run-as-user】Microsoft Dev Box 自定义现在支持本机以用户身份运行</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-customization-now-supports-native-run-as-user</link>
+      <description>【Dev Box customization now supports native run as user in the customization yaml files. The native run-as-user capability is more powerful in terms of reliability, status tracking and error reporting. You can also see the execution progress on run-as-user customization tasks from Dev Portal.】Dev Box 自定义现在支持在自定义 yaml 文件中以用户身份本机运行。本机用户运行功能在可靠性、状态跟踪和错误报告方面更加强大。您还可以从开发门户查看以用户身份运行自定义任务的执行进度。</description>
+      <pubDate>Thu, 08 Aug 2024 15:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Security awareness training】Microsoft 365 认证控制焦点：安全意识培训</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-awareness-training</link>
+      <description>【Discover how Microsoft 365 Certification validates compliance for enterprise-ready apps with security awareness training.】了解 Microsoft 365 认证如何通过安全意识培训来验证企业就绪应用的合规性。</description>
+      <pubDate>Thu, 08 Aug 2024 15:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GitHub Copilot Extensions for C++ developers and beyond now available in VS Code】面向 C++ 开发人员及其他开发人员的 GitHub Copilot 扩展现已在 VS Code 中提供</title>
+      <link>https://devblogs.microsoft.com/cppblog/github-copilot-extensions-for-c-developers-and-beyond-now-available-in-vs-code</link>
+      <description>【GitHub Copilot is now more extensible than ever for extension authors in VS Code. At the Microsoft Build conference, we announced that VS Code extensions can now leverage APIs for Copilot to build custom chat participants that users can interact with in the GitHub Copilot Chat view in VS Code.】对于 VS Code 中的扩展作者来说，GitHub Copilot 现在比以往任何时候都更具可扩展性。在 Microsoft Build 大会上，我们宣布 VS Code 扩展现在可以利用 Copilot 的 API 来构建自定义聊天参与者，用户可以在 VS Code 的 GitHub Copilot 聊天视图中与这些参与者进行交互。</description>
+      <pubDate>Wed, 07 Aug 2024 09:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Timing Capture bookmarks】定时捕获书签</title>
+      <link>https://devblogs.microsoft.com/pix/timing-capture-bookmarks</link>
+      <description>【Starting with the 2408.05 release of PIX on Windows, developers can add bookmarks, or annotations, to lanes in the Timeline layout of Timing Captures. Bookmarks are text notes that can be added at either a specific point in time, or to a range of time,】从 Windows 上的 PIX 2408.05 版本开始，开发人员可以向时序捕获的时间线布局中的通道添加书签或注释。书签是可以在特定时间点或某个时间范围添加的文本注释，</description>
+      <pubDate>Wed, 07 Aug 2024 16:21:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Adding .NET Aspire to your existing .NET apps】将 .NET Aspire 添加到现有 .NET 应用程序</title>
       <link>https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps</link>
       <description>【.NET Aspire can really simplify local development for your existing apps, large or small. In this post, we&#39;ll look at how easy it is to make your current solutions better with just a few lines of code.】.NET Aspire 可以真正简化现有应用程序（无论大小）的本地开发。在这篇文章中，我们将了解如何轻松地通过几行代码来改进当前的解决方案。</description>
@@ -14,54 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20240807-00/?p=110108</link>
       <description>【You can use the version that runs an asynchronous operation.】您可以使用运行异步操作的版本。</description>
       <pubDate>Wed, 07 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Timing Capture bookmarks】定时捕获书签</title>
-      <link>https://devblogs.microsoft.com/pix/timing-capture-bookmarks</link>
-      <description>【Starting with the 2408.05 release of PIX on Windows, developers can add bookmarks, or annotations, to lanes in the Timeline layout of Timing Captures. Bookmarks are text notes that can be added at either a specific point in time, or to a range of time,】从 Windows 上的 PIX 2408.05 版本开始，开发人员可以向时序捕获的时间轴布局中的通道添加书签或注释。书签是可以在特定时间点或某个时间范围添加的文本注释，</description>
-      <pubDate>Wed, 07 Aug 2024 16:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Querying the PIX Timing Capture file format】查询PIX时序捕获文件格式</title>
-      <link>https://devblogs.microsoft.com/pix/querying-the-pix-timing-capture-file-format</link>
-      <description>【The Timing Capture file format is a Sqlite database.  Queries written in standard SQL syntax can be used to extract data from Timing Capture files to perform a variety of analysis tasks without requiring the PIX user interface. PIX on Windows includes a Sqlite extension that simplifies the queries for common tasks such as determining the duration and execution times for a PIX event,】时序捕获文件格式是 Sqlite 数据库。  以标准 SQL 语法编写的查询可用于从时序捕获文件中提取数据，以执行各种分析任务，而无需 PIX 用户界面。 Windows 上的 PIX 包含一个 Sqlite 扩展，可简化常见任务的查询，例如确定 PIX 事件的持续时间和执行时间，</description>
-      <pubDate>Tue, 06 Aug 2024 18:44:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing private registry support in Azure Deployment Environments】在 Azure 部署环境中引入私有注册表支持</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/private-registry-support-in-azure-deployment-environments</link>
-      <description>【As the cloud landscape continues to evolve, there is growing need for secure, customizable tools for provisioning application infrastructure to meet unique organizational requirements. Azure Deployment Environments, a flexible and powerful solution that empowers developers to easily deploy app infrastructure in a secure,】随着云环境的不断发展，人们越来越需要安全、可定制的工具来配置应用程序基础设施，以满足独特的组织需求。 Azure 部署环境是一种灵活而强大的解决方案，使开发人员能够在安全、可靠的环境中轻松部署应用程序基础架构</description>
-      <pubDate>Tue, 06 Aug 2024 18:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.22.6-1 and 1.21.13-1 Microsoft builds now available】Go 1.22.6-1 和 1.21.13-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-22-6-1-and-1-21-13-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Wed, 07 Aug 2024 21:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Microsoft MVP Developed Course on Understanding Semantic Kernel】客座博客：Microsoft MVP 开发的有关理解语义内核的课程</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-microsoft-mvp-developed-course-on-understanding-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re featuring an AI Microsoft Most Valuable Professional (MVP) who&amp;#8217;s been developing content on Semantic Kernel. We wanted to highlight Jamie Maguire&amp;#8217;s work and detail the multi-part blog below. Here&amp;#8217;s the link to his course: New Course: Understanding Semantic Kernel – Jamie Maguire New Course: Understanding Semantic Kernel Jamie has broken the Semantic Kernel content he&amp;#8217;s developed for an Understanding Semantic Kernel course into 7 parts.】今天，我们邀请了一位人工智能微软最有价值专家 (MVP)，他一直在语义内核上开发内容。我们想重点介绍杰米·马奎尔的工作并详细介绍下面的多部分博客。以下是他的课程链接：新课程：理解语义内核 – Jamie Maguire 新课程：理解语义内核 Jamie 将他为理解语义内核课程开发的语义内核内容分为 7 个部分。</description>
-      <pubDate>Tue, 06 Aug 2024 18:44:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Add secure user profile editing to your applications with Microsoft Entra External ID】使用 Microsoft Entra 外部 ID 将安全的用户配置文件编辑添加到您的应用程序</title>
-      <link>https://devblogs.microsoft.com/identity/external-id-profile-edit</link>
-      <description>【Enhance your application by adding secure user profile editing with Microsoft Entra External ID. Microsoft Entra External ID provides simple integration for secure user authentication and profile management, offering custom branded sign-up experiences and efficient user management. The blog post covers high-level setup steps and links to detailed documentation for further guidance.】通过使用 Microsoft Entra 外部 ID 添加安全的用户配置文件编辑来增强您的应用程序。 Microsoft Entra 外部 ID 为安全用户身份验证和配置文件管理提供简单集成，提供自定义品牌注册体验和高效的用户管理。该博客文章介绍了高级设置步骤以及详细文档的链接以获取进一步指导。</description>
-      <pubDate>Tue, 06 Aug 2024 15:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GitHub Copilot Extensions for C++ developers and beyond now available in VS Code】面向 C++ 开发人员及其他开发人员的 GitHub Copilot 扩展现已在 VS Code 中提供</title>
-      <link>https://devblogs.microsoft.com/cppblog/github-copilot-extensions-for-c-developers-and-beyond-now-available-in-vs-code</link>
-      <description>【GitHub Copilot is now more extensible than ever for extension authors in VS Code. At the Microsoft Build conference, we announced that VS Code extensions can now leverage APIs for Copilot to build custom chat participants that users can interact with in the GitHub Copilot Chat view in VS Code.】对于 VS Code 中的扩展作者来说，GitHub Copilot 现在比以往任何时候都更具可扩展性。在 Microsoft Build 大会上，我们宣布 VS Code 扩展现在可以利用 Copilot 的 API 来构建自定义聊天参与者，用户可以在 VS Code 的 GitHub Copilot 聊天视图中与这些参与者进行交互。</description>
-      <pubDate>Wed, 07 Aug 2024 09:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Silicon Graphics Media and Artificial Intelligence (SiGMA) team is hiring!】硅谷图形媒体和人工智能 (SiGMA) 团队正在招聘！</title>
-      <link>https://devblogs.microsoft.com/directx/sigma-engineering-hiring-2024</link>
-      <description>【Do you want to be a part of the Silicon Graphics Media and Artificial Intelligence (SiGMA) platform team? We are hiring for multiple positions in multiple locations &amp;#8211; if you&amp;#8217;re interested in knowing more about opportunities in SiGMA, please see the below for more details!】您想成为 Silicon Graphics 媒体和人工智能 (SiGMA) 平台团队的一员吗？我们正在多个地点招聘多个职位 - 如果您有兴趣了解更多有关 SiGMA 工作机会的信息，请参阅以下内容了解更多详细信息！</description>
-      <pubDate>Wed, 07 Aug 2024 20:08:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
