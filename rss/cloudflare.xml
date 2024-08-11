@@ -4,10 +4,10 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Making WAF ML models go brrr: saving decades of processing time】让 WAF ML 模型变得更好：节省数十年的处理时间</title>
-      <link>https://blog.cloudflare.com/making-waf-ai-models-go-brr</link>
-      <description>【 In this post, we discuss the performance optimizations we&#39;ve implemented for our WAF ML product. We&#39;ll guide you through specific code examples and benchmark numbers, and we&#39;ll share the impressive latency reduction numbers observed after the rollout 】在这篇文章中，我们将讨论我们为 WAF ML 产品实施的性能优化。我们将指导您完成具体的代码示例和基准数据，并且我们将分享推出后观察到的令人印象深刻的延迟减少数字</description>
-      <pubDate>Thu, 25 Jul 2024 13:00:46 +0000</pubDate>
+      <title>【Meta Llama 3.1 now available on Workers AI】Meta Llama 3.1 现已在 Workers AI 上可用</title>
+      <link>https://blog.cloudflare.com/meta-llama-3-1-available-on-workers-ai</link>
+      <description>【 Cloudflare is excited to be a launch partner with Meta to introduce Workers AI support for Llama 3.1 】Cloudflare 很高兴成为 Meta 的发布合作伙伴，推出对 Llama 3.1 的 Workers AI 支持</description>
+      <pubDate>Tue, 23 Jul 2024 15:15:55 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing Automatic SSL/TLS: securing and simplifying origin connectivity】引入自动 SSL/TLS：保护和简化源连接</title>
@@ -22,6 +22,18 @@
       <pubDate>Fri, 19 Jul 2024 15:07:04 +0000</pubDate>
     </item>
     <item>
+      <title>【Countdown to Paris 2024 Olympics: France leads in web interest】2024 年巴黎奥运会倒计时：法国在网络兴趣方面领先</title>
+      <link>https://blog.cloudflare.com/countdown-to-paris-2024-france-leads-in-olympic-web-interest</link>
+      <description>【 As the Paris 2024 Olympics approach, our analysis reveals France, the host nation, leads in DNS traffic to official Olympic sites, followed by the UK, the US, and Australia 】随着 2024 年巴黎奥运会的临近，我们的分析显示，主办国法国在奥运会官方网站的 DNS 流量方面处于领先地位，其次是英国、美国和澳大利亚</description>
+      <pubDate>Mon, 22 Jul 2024 14:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Avoiding downtime: modern alternatives to outdated certificate pinning practices】避免停机：过时的证书固定做法的现代替代方案</title>
+      <link>https://blog.cloudflare.com/why-certificate-pinning-is-outdated</link>
+      <description>【 The number of outages caused by certificate pinning is increasing. We’ll explore why certificate pinning hasn’t kept up with modern standards and recommend alternatives to improve security while reducing management overhead 】由证书固定导致的中断数量正在增加。我们将探讨为什么证书固定没有跟上现代标准，并推荐替代方案来提高安全性，同时减少管理开销</description>
+      <pubDate>Mon, 29 Jul 2024 13:00:37 +0000</pubDate>
+    </item>
+    <item>
       <title>【A recent spate of Internet disruptions】最近一系列的互联网中断</title>
       <link>https://blog.cloudflare.com/a-recent-spate-of-internet-disruptions-july-2024</link>
       <description>【 Cloudflare Radar is constantly monitoring the Internet for widespread disruptions. Here we examine several recent  noteworthy disruptions detected in the first month of Q3, including traffic anomalies observed in Bangladesh, Syria, Pakistan, and Venezuela 】Cloudflare Radar 持续监控互联网是否存在大范围中断。在这里，我们研究了第三季度第一个月最近检测到的几个值得注意的中断，包括在孟加拉国、叙利亚、巴基斯坦和委内瑞拉观察到的交通异常</description>
@@ -34,10 +46,10 @@
       <pubDate>Thu, 08 Aug 2024 13:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Avoiding downtime: modern alternatives to outdated certificate pinning practices】避免停机：过时的证书固定做法的现代替代方案</title>
-      <link>https://blog.cloudflare.com/why-certificate-pinning-is-outdated</link>
-      <description>【 The number of outages caused by certificate pinning is increasing. We’ll explore why certificate pinning hasn’t kept up with modern standards and recommend alternatives to improve security while reducing management overhead 】由证书固定导致的中断数量正在增加。我们将探讨为什么证书固定没有跟上现代标准，并推荐替代方案来提高安全性，同时减少管理开销</description>
-      <pubDate>Mon, 29 Jul 2024 13:00:37 +0000</pubDate>
+      <title>【The backbone behind Cloudflare’s Connectivity Cloud】Cloudflare 连接云背后的支柱</title>
+      <link>https://blog.cloudflare.com/backbone2024</link>
+      <description>【 Read through the latest milestones and expansions of Cloudflare&#39;s global backbone and how it supports our Connectivity Cloud and our services 】了解 Cloudflare 全球主干网的最新里程碑和扩展，以及它如何支持我们的 Connectivity Cloud 和我们的服务</description>
+      <pubDate>Tue, 06 Aug 2024 13:00:22 +0000</pubDate>
     </item>
     <item>
       <title>【How the Paris 2024 Summer Olympics has impacted Internet traffic】巴黎 2024 年夏季奥运会对互联网流量有何影响</title>
@@ -46,22 +58,10 @@
       <pubDate>Tue, 30 Jul 2024 19:46:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Meta Llama 3.1 now available on Workers AI】Meta Llama 3.1 现已在 Workers AI 上可用</title>
-      <link>https://blog.cloudflare.com/meta-llama-3-1-available-on-workers-ai</link>
-      <description>【 Cloudflare is excited to be a launch partner with Meta to introduce Workers AI support for Llama 3.1 】Cloudflare 很高兴成为 Meta 的发布合作伙伴，推出对 Llama 3.1 的 Workers AI 支持</description>
-      <pubDate>Tue, 23 Jul 2024 15:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The backbone behind Cloudflare’s Connectivity Cloud】Cloudflare 连接云背后的支柱</title>
-      <link>https://blog.cloudflare.com/backbone2024</link>
-      <description>【 Read through the latest milestones and expansions of Cloudflare&#39;s global backbone and how it supports our Connectivity Cloud and our services 】了解 Cloudflare 全球主干网的最新里程碑和扩展，以及它如何支持我们的 Connectivity Cloud 和我们的服务</description>
-      <pubDate>Tue, 06 Aug 2024 13:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Countdown to Paris 2024 Olympics: France leads in web interest】2024 年巴黎奥运会倒计时：法国在网络兴趣方面领先</title>
-      <link>https://blog.cloudflare.com/countdown-to-paris-2024-france-leads-in-olympic-web-interest</link>
-      <description>【 As the Paris 2024 Olympics approach, our analysis reveals France, the host nation, leads in DNS traffic to official Olympic sites, followed by the UK, the US, and Australia 】随着 2024 年巴黎奥运会的临近，我们的分析显示，主办国法国在奥运会官方网站的 DNS 流量方面处于领先地位，其次是英国、美国和澳大利亚</description>
-      <pubDate>Mon, 22 Jul 2024 14:41:52 +0000</pubDate>
+      <title>【Making WAF ML models go brrr: saving decades of processing time】让 WAF ML 模型变得更好：节省数十年的处理时间</title>
+      <link>https://blog.cloudflare.com/making-waf-ai-models-go-brr</link>
+      <description>【 In this post, we discuss the performance optimizations we&#39;ve implemented for our WAF ML product. We&#39;ll guide you through specific code examples and benchmark numbers, and we&#39;ll share the impressive latency reduction numbers observed after the rollout 】在这篇文章中，我们将讨论我们为 WAF ML 产品实施的性能优化。我们将指导您完成具体的代码示例和基准数据，并且我们将分享推出后观察到的令人印象深刻的延迟减少数字</description>
+      <pubDate>Thu, 25 Jul 2024 13:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

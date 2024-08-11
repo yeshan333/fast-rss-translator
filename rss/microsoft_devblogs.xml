@@ -4,10 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Why do I get E_ACCESS­DENIED when trying to access my brokered Windows Runtime object?COM is double-checking the trust level.】为什么在尝试访问我的代理 Windows 运行时对象时收到 E_ACCESSDENIED？COM 正在仔细检查信任级别。</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240808-00/?p=110112</link>
-      <description>【COM is double-checking the trust level.】COM 正在仔细检查信任级别。</description>
-      <pubDate>Thu, 08 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【What does it even mean to Close a Windows Runtime asynchronous operation or action?】关闭 Windows 运行时异步操作或操作是什么意思？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240809-00/?p=110116</link>
+      <description>【That&#39;s the end of the road.】那就是路的尽头。</description>
+      <pubDate>Fri, 09 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Security awareness training】Microsoft 365 认证控制焦点：安全意识培训</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-awareness-training</link>
+      <description>【Discover how Microsoft 365 Certification validates compliance for enterprise-ready apps with security awareness training.】了解 Microsoft 365 认证如何通过安全意识培训来验证企业就绪应用的合规性。</description>
+      <pubDate>Thu, 08 Aug 2024 15:00:43 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft Dev Box Customization Now Supports Native Run-as-user】Microsoft Dev Box 自定义现在支持本机以用户身份运行</title>
@@ -16,16 +22,22 @@
       <pubDate>Thu, 08 Aug 2024 15:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Pre-pin Microsoft Teams meeting apps using Teams Admin Center】使用 Teams 管理中心预固定 Microsoft Teams 会议应用程序</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/pre-pin-microsoft-teams-meeting-apps-using-teams-admin-center</link>
-      <description>【We are thrilled to announce that tenant admins can now pin apps to Microsoft Teams meetings organized in their organization.】我们很高兴地宣布，租户管理员现在可以将应用程序固定到其组织中组织的 Microsoft Teams 会议。</description>
-      <pubDate>Fri, 09 Aug 2024 15:00:35 +0000</pubDate>
+      <title>【My Summer Experience as a SWE Intern at Microsoft】我在微软担任 SWE 实习生的暑期经历</title>
+      <link>https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft</link>
+      <description>【Hi everyone! I’m Serena, a rising 4th year at Rochester Institute of Technology with a major in Computer Science and a minor in Psychology. This summer I was a returning intern at Microsoft as a software engineering intern with the JavaScript and TypeScript Tooling team.】大家好！我是 Serena，罗彻斯特理工学院四年级新生，主修计算机科学，辅修心理学。今年夏天，我作为 JavaScript 和 TypeScript 工具团队的软件工程实习生回到了 Microsoft。</description>
+      <pubDate>Fri, 09 Aug 2024 15:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB JavaScript SDK 4.1.0 Preview is Here!】Azure Cosmos DB JavaScript SDK 4.1.0 预览版现已推出！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-javascript-sdk-4-1-0-preview-is-here</link>
-      <description>【We are excited to announce the release of the Azure Cosmos DB JavaScript SDK 4.1.0 Preview! This latest update brings several improvements, new features, and bug fixes to enhance developer experience and enable advanced data querying capabilities when working with Azure Cosmos DB.】我们很高兴地宣布发布 Azure Cosmos DB JavaScript SDK 4.1.0 预览版！此最新更新带来了多项改进、新功能和错误修复，以增强开发人员体验并在使用 Azure Cosmos DB 时启用高级数据查询功能。</description>
-      <pubDate>Fri, 09 Aug 2024 02:55:45 +0000</pubDate>
+      <title>【Measuring Differentials of Product Images in AI-generated Ads】测量人工智能生成的广告中产品图像的差异</title>
+      <link>https://devblogs.microsoft.com/ise/ai-ad-image-differential</link>
+      <description>【Various methodologies of measuring differentials between a product image and an AI-generated ad for the purpose of product representation integrity in serving AI-generated ads.】测量产品图像和人工智能生成的广告之间差异的各种方法，目的是在提供人工智能生成的广告时确保产品表现的完整性。</description>
+      <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Pre-pin Microsoft Teams meeting apps using Teams Admin Center】使用 Teams 管理中心预固定 Microsoft Teams 会议应用程序</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/pre-pin-microsoft-teams-meeting-apps-using-teams-admin-center</link>
+      <description>【We are thrilled to announce that tenant admins can now pin apps to Microsoft Teams meetings organized in their organization.】我们很高兴地宣布，租户管理员现在可以将应用程序固定到在其组织中组织的 Microsoft Teams 会议。</description>
+      <pubDate>Fri, 09 Aug 2024 15:00:35 +0000</pubDate>
     </item>
     <item>
       <title>【The Silicon Graphics Media and Artificial Intelligence (SiGMA) team is hiring!】硅谷图形媒体和人工智能 (SiGMA) 团队正在招聘！</title>
@@ -40,28 +52,16 @@
       <pubDate>Wed, 07 Aug 2024 21:11:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Security awareness training】Microsoft 365 认证控制焦点：安全意识培训</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-awareness-training</link>
-      <description>【Discover how Microsoft 365 Certification validates compliance for enterprise-ready apps with security awareness training.】了解 Microsoft 365 认证如何通过安全意识培训来验证企业就绪应用的合规性。</description>
-      <pubDate>Thu, 08 Aug 2024 15:00:43 +0000</pubDate>
+      <title>【Why do I get E_ACCESS­DENIED when trying to access my brokered Windows Runtime object?COM is double-checking the trust level.】为什么在尝试访问我的代理 Windows 运行时对象时收到 E_ACCESSDENIED？COM 正在仔细检查信任级别。</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240808-00/?p=110112</link>
+      <description>【COM is double-checking the trust level.】COM 正在仔细检查信任级别。</description>
+      <pubDate>Thu, 08 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What does it even mean to Close a Windows Runtime asynchronous operation or action?】关闭 Windows 运行时异步操作或操作是什么意思？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240809-00/?p=110116</link>
-      <description>【That&#39;s the end of the road.】那就是路的尽头。</description>
-      <pubDate>Fri, 09 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Measuring Differentials of Product Images in AI-generated Ads】测量人工智能生成的广告中产品图像的差异</title>
-      <link>https://devblogs.microsoft.com/ise/ai-ad-image-differential</link>
-      <description>【Various methodologies of measuring differentials between a product image and an AI-generated ad for the purpose of product representation integrity in serving AI-generated ads.】测量产品图像和人工智能生成的广告之间差异的各种方法，目的是在提供人工智能生成的广告时确保产品表现的完整性。</description>
-      <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【My Summer Experience as a SWE Intern at Microsoft】我在微软担任 SWE 实习生的暑期经历</title>
-      <link>https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft</link>
-      <description>【Hi everyone! I’m Serena, a rising 4th year at Rochester Institute of Technology with a major in Computer Science and a minor in Psychology. This summer I was a returning intern at Microsoft as a software engineering intern with the JavaScript and TypeScript Tooling team.】大家好！我是 Serena，罗切斯特理工学院四年级新生，主修计算机科学，辅修心理学。今年夏天，我作为 JavaScript 和 TypeScript 工具团队的软件工程实习生回到了 Microsoft。</description>
-      <pubDate>Fri, 09 Aug 2024 15:00:25 +0000</pubDate>
+      <title>【Azure Cosmos DB JavaScript SDK 4.1.0 Preview is Here!】Azure Cosmos DB JavaScript SDK 4.1.0 预览版现已推出！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-javascript-sdk-4-1-0-preview-is-here</link>
+      <description>【We are excited to announce the release of the Azure Cosmos DB JavaScript SDK 4.1.0 Preview! This latest update brings several improvements, new features, and bug fixes to enhance developer experience and enable advanced data querying capabilities when working with Azure Cosmos DB.】我们很高兴地宣布发布 Azure Cosmos DB JavaScript SDK 4.1.0 预览版！此最新更新带来了多项改进、新功能和错误修复，以增强开发人员体验并在使用 Azure Cosmos DB 时启用高级数据查询功能。</description>
+      <pubDate>Fri, 09 Aug 2024 02:55:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
