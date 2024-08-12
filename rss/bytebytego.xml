@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How Stripe Scaled to 5 Million Database Queries Per Second】Stripe 如何扩展到每秒 500 万次数据库查询</title>
-      <link>https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database</link>
-      <description>【WorkOS: modern identity platform for B2B SaaS (Sponsored) Start selling to enterprises with just a few lines of code. &amp;#8594; WorkOS provides a complete User Management solution along with SSO, SCIM, RBAC, &amp; FGA. &amp;#8594; Unlike other auth providers that rely on user-centric models, WorkOS is designed for B2B SaaS with an org modeling approach.】WorkOS：B2B SaaS 的现代身份平台（赞助）只需几行代码即可开始向企业销售。 → WorkOS 提供完整的用户管理解决方案以及 SSO、SCIM、RBAC 和 FGA。 → 与其他依赖以用户为中心的模型的身份验证提供商不同，WorkOS 专为采用组织建模方法的 B2B SaaS 设计。</description>
-      <pubDate>Tue, 23 Jul 2024 15:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP123: What is a Load Balancer? 】EP123：什么是负载均衡器？</title>
-      <link>https://blog.bytebytego.com/p/ep123-what-is-a-load-balancer</link>
+      <title>【EP122: API Gateway 101 】EP122：API网关101</title>
+      <link>https://blog.bytebytego.com/p/ep122-api-gateway-101</link>
       <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 03 Aug 2024 15:31:05 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2024 15:30:25 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Microservices Design Patterns】微服务设计模式速成课程</title>
@@ -23,34 +17,10 @@
       <pubDate>Thu, 08 Aug 2024 15:30:37 +0000</pubDate>
     </item>
     <item>
-      <title>【EP122: API Gateway 101 】EP122：API网关101</title>
-      <link>https://blog.bytebytego.com/p/ep122-api-gateway-101</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 27 Jul 2024 15:30:25 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Facebook Syncs Time Across Millions of Servers】Facebook 如何在数百万台服务器之间同步时间</title>
       <link>https://blog.bytebytego.com/p/how-facebook-syncs-time-across-millions</link>
       <description>【FusionAuth: Auth.】FusionAuth：身份验证。</description>
       <pubDate>Tue, 06 Aug 2024 15:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP124: How does SSH work?】EP124：SSH 是如何工作的？</title>
-      <link>https://blog.bytebytego.com/p/ep124-how-does-ssh-work</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 10 Aug 2024 15:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Domain-Driven Design】领域驱动设计速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-domain-driven-design</link>
-      <description>【Developing software for complex domains is a challenging task.】为复杂领域开发软件是一项具有挑战性的任务。</description>
-      <pubDate>Thu, 01 Aug 2024 15:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP121: 9 Essential Components of a Production Microservice Application 】EP121：生产微服务应用程序的 9 个基本组件</title>
-      <link>https://blog.bytebytego.com/p/ep121-9-essential-components-of-a</link>
-      <description>【This week&amp;#8217;s system design interview: Linux Crash Course - Understanding File Permissions (Youtube video) 9 Essential Components of a Production Microservice Application Iterative, Agile, Waterfall, Spiral Model, RAD Model... What are the differences?】本周的系统设计面试：Linux速成课程 - 了解文件权限（Youtube视频） 生产微服务应用程序的9个基本组件迭代、敏捷、瀑布、螺旋模型、RAD模型......有什么区别？</description>
-      <pubDate>Sat, 20 Jul 2024 15:30:46 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Relational Database Design】关系数据库设计速成班</title>
@@ -59,10 +29,40 @@
       <pubDate>Thu, 18 Jul 2024 15:31:12 +0000</pubDate>
     </item>
     <item>
+      <title>【EP121: 9 Essential Components of a Production Microservice Application 】EP121：生产微服务应用程序的 9 个基本组件</title>
+      <link>https://blog.bytebytego.com/p/ep121-9-essential-components-of-a</link>
+      <description>【This week&amp;#8217;s system design interview: Linux Crash Course - Understanding File Permissions (Youtube video) 9 Essential Components of a Production Microservice Application Iterative, Agile, Waterfall, Spiral Model, RAD Model... What are the differences?】本周的系统设计面试：Linux速成课程 - 了解文件权限（Youtube视频） 生产微服务应用程序的9个基本组件迭代、敏捷、瀑布、螺旋模型、RAD模型......有什么区别？</description>
+      <pubDate>Sat, 20 Jul 2024 15:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP124: How does SSH work?】EP124：SSH 是如何工作的？</title>
+      <link>https://blog.bytebytego.com/p/ep124-how-does-ssh-work</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 10 Aug 2024 15:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP123: What is a Load Balancer? 】EP123：什么是负载均衡器？</title>
+      <link>https://blog.bytebytego.com/p/ep123-what-is-a-load-balancer</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 03 Aug 2024 15:31:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【&#34;Tidying&#34; Code】“整理”代码</title>
       <link>https://blog.bytebytego.com/p/tidying-code</link>
       <description>【I&amp;#8217;ve found my new favorite book on refactoring code.】我找到了我最喜欢的关于重构代码的新书。</description>
       <pubDate>Thu, 25 Jul 2024 15:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Stripe Scaled to 5 Million Database Queries Per Second】Stripe 如何扩展到每秒 500 万次数据库查询</title>
+      <link>https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database</link>
+      <description>【WorkOS: modern identity platform for B2B SaaS (Sponsored) Start selling to enterprises with just a few lines of code. &amp;#8594; WorkOS provides a complete User Management solution along with SSO, SCIM, RBAC, &amp; FGA. &amp;#8594; Unlike other auth providers that rely on user-centric models, WorkOS is designed for B2B SaaS with an org modeling approach.】WorkOS：B2B SaaS 的现代身份平台（赞助）只需几行代码即可开始向企业销售。 → WorkOS 提供完整的用户管理解决方案以及 SSO、SCIM、RBAC 和 FGA。 → 与其他依赖以用户为中心的模型的身份验证提供商不同，WorkOS 专为采用组织建模方法的 B2B SaaS 设计。</description>
+      <pubDate>Tue, 23 Jul 2024 15:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course on Domain-Driven Design】领域驱动设计速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-domain-driven-design</link>
+      <description>【Developing software for complex domains is a challenging task.】为复杂领域开发软件是一项具有挑战性的任务。</description>
+      <pubDate>Thu, 01 Aug 2024 15:31:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
