@@ -4,10 +4,22 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【‍Could eBPF Save Us From CrowdStrike-Style Disasters?】‍eBPF 能否将我们从 CrowdStrike 式的灾难中拯救出来？</title>
-      <link>https://thenewstack.io/could-ebpf-save-us-from-crowdstrike-style-disasters/</link>
-      <description>【The New Stack discusses the potential of eBPF to provide deep visibility into system operations, thereby helping to prevent and mitigate security incidents similar to the CrowdStrike outage】新堆栈讨论了 eBPF 提供对系统操作的深入可见性的潜力，从而有助于预防和减轻类似于 CrowdStrike 中断的安全事件</description>
-      <pubDate>Mon, 29 Jul 2024 17:20:05 +0000</pubDate>
+      <title>【‍Upwind Extends its CNAPP with Agentless Cloud Scanners】‍Upwind 通过无代理云扫描仪扩展其 CNAPP</title>
+      <link>https://www.upwind.io/feed/upwind-extends-its-cnapp-with-agentless-cloud-scanners</link>
+      <description>【Upwind announces Upwind Agentless Cloud Scanners, an additional component to their eBPF-based sensor which provides unified, comprehensive coverage for infrastructure and applications, across clouds, platforms and architectures】Upwind 宣布推出 Upwind Agentless Cloud Scanners，这是其基于 eBPF 的传感器的附加组件，可为跨云、平台和架构的基础设施和应用程序提供统一、全面的覆盖</description>
+      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Go deeper: Linux runtime visibility meets Wireshark】‍更深入：Linux 运行时可见性与 Wireshark 的结合</title>
+      <link>https://www.aquasec.com/blog/go-deeper-linux-runtime-visibility-meets-wireshark/</link>
+      <description>【Aqua announces Traceeshark, a plugin for Wireshark that enables visual and interactive analysis of eBPF-based Tracee events, which include kernel-level events and behavioral detections, together with network traffic】Aqua 宣布推出 Traceeshark，这是 Wireshark 的一个插件，可以对基于 eBPF 的 Tracee 事件进行可视化和交互式分析，其中包括内核级事件和行为检测以及网络流量</description>
+      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF Foundation Member Spotlight: Isovalent】‍eBPF 基金会成员聚焦：Isovalent</title>
+      <link>https://ebpf.foundation/ebpf-foundation-member-spotlight-isovalent/</link>
+      <description>【Liz Rice, Chief Open Source Officer at Isovalent, talks about how Isovalent is using eBPF and why she feels the eBPF Foundation is so important】Isovalent 首席开源官 Liz Rice 谈论 Isovalent 如何使用 eBPF 以及为什么她认为 eBPF 基金会如此重要</description>
+      <pubDate>Tue, 06 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Introduction To Writing eBPF Programs for Linux Security】‍为 Linux 安全编写 eBPF 程序简介</title>
@@ -22,34 +34,10 @@
       <pubDate>Sat, 03 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Go deeper: Linux runtime visibility meets Wireshark】‍更深入：Linux 运行时可见性与 Wireshark 的结合</title>
-      <link>https://www.aquasec.com/blog/go-deeper-linux-runtime-visibility-meets-wireshark/</link>
-      <description>【Aqua announces Traceeshark, a plugin for Wireshark that enables visual and interactive analysis of eBPF-based Tracee events, which include kernel-level events and behavioral detections, together with network traffic】Aqua 宣布推出 Traceeshark，这是 Wireshark 的一个插件，可以对基于 eBPF 的 Tracee 事件进行可视化和交互式分析，其中包括内核级事件和行为检测以及网络流量</description>
-      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Observability Cost-Savings and eBPF Goodness with Groundcover】Groundcover 的可观测性成本节约和 eBPF 优点</title>
-      <link>https://podcast.bretfisher.com/episodes/observability-cost-savings-and-ebpf-goodness-with-groundcover</link>
-      <description>【Bret Fisher is joined by Shahar Azulay, Groundcover CEO and Co-Founder, to discuss their new approach to fully observe K8s and its workloads with a hybrid observability architecture and eBPF】Bret Fisher 与 Groundcover 首席执行官兼联合创始人 Shahar Azulay 一起讨论他们通过混合可观测性架构和 eBPF 全面观察 K8s 及其工作负载的新方法</description>
-      <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【‍CrowdStrike: A Wake-Up Call for eBPF-Based Endpoint Security】‍CrowdStrike：敲响基于 eBPF 的端点安全的警钟</title>
       <link>https://thenewstack.io/crowdstrike-a-wake-up-call-for-ebpf-based-endpoint-security/</link>
       <description>【Learn about the underlying causes of the adverse impact of cybersecurity attacks on organizations and how eBPF can help tackle these attacks】了解网络安全攻击对组织造成不利影响的根本原因以及 eBPF 如何帮助应对这些攻击</description>
       <pubDate>Wed, 31 Jul 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍eBPF Insights Into Real-Time SSL/TLS Monitoring】‍eBPF 深入了解实时 SSL/TLS 监控</title>
-      <link>https://getanteon.com/blog/ebpf-and-ssl-tls-encrypted-traffic/</link>
-      <description>【Learn about how eBPF can help intercept and monitor SSL/TLS encrypted traffic】了解 eBPF 如何帮助拦截和监控 SSL/TLS 加密流量</description>
-      <pubDate>Tue, 06 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Upwind Extends its CNAPP with Agentless Cloud Scanners】‍Upwind 通过无代理云扫描仪扩展其 CNAPP</title>
-      <link>https://www.upwind.io/feed/upwind-extends-its-cnapp-with-agentless-cloud-scanners</link>
-      <description>【Upwind announces Upwind Agentless Cloud Scanners, an additional component to their eBPF-based sensor which provides unified, comprehensive coverage for infrastructure and applications, across clouds, platforms and architectures】Upwind 宣布推出 Upwind Agentless Cloud Scanners，这是其基于 eBPF 的传感器的附加组件，可为跨云、平台和架构的基础设施和应用程序提供统一、全面的覆盖</description>
-      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍extended Berkeley Packet Filter (eBPF) for Cloud Computing】‍用于云计算的扩展伯克利数据包过滤器（eBPF）</title>
@@ -58,10 +46,22 @@
       <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍eBPF Foundation Member Spotlight: Isovalent】‍eBPF 基金会成员聚焦：Isovalent</title>
-      <link>https://ebpf.foundation/ebpf-foundation-member-spotlight-isovalent/</link>
-      <description>【Liz Rice, Chief Open Source Officer at Isovalent, talks about how Isovalent is using eBPF and why she feels the eBPF Foundation is so important】Isovalent 首席开源官 Liz Rice 谈论 Isovalent 如何使用 eBPF 以及为什么她认为 eBPF 基金会如此重要</description>
+      <title>【‍eBPF Insights Into Real-Time SSL/TLS Monitoring】‍eBPF 深入了解实时 SSL/TLS 监控</title>
+      <link>https://getanteon.com/blog/ebpf-and-ssl-tls-encrypted-traffic/</link>
+      <description>【Learn about how eBPF can help intercept and monitor SSL/TLS encrypted traffic】了解 eBPF 如何帮助拦截和监控 SSL/TLS 加密流量</description>
       <pubDate>Tue, 06 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Observability Cost-Savings and eBPF Goodness with Groundcover】Groundcover 的可观测性成本节约和 eBPF 优点</title>
+      <link>https://podcast.bretfisher.com/episodes/observability-cost-savings-and-ebpf-goodness-with-groundcover</link>
+      <description>【Bret Fisher is joined by Shahar Azulay, Groundcover CEO and Co-Founder, to discuss their new approach to fully observe K8s and its workloads with a hybrid observability architecture and eBPF】Bret Fisher 与 Groundcover 首席执行官兼联合创始人 Shahar Azulay 一起讨论他们通过混合可观测性架构和 eBPF 全面观察 K8s 及其工作负载的新方法</description>
+      <pubDate>Fri, 26 Jul 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Could eBPF Save Us From CrowdStrike-Style Disasters?】‍eBPF 能否将我们从 CrowdStrike 式的灾难中拯救出来？</title>
+      <link>https://thenewstack.io/could-ebpf-save-us-from-crowdstrike-style-disasters/</link>
+      <description>【The New Stack discusses the potential of eBPF to provide deep visibility into system operations, thereby helping to prevent and mitigate security incidents similar to the CrowdStrike outage】新堆栈讨论了 eBPF 提供对系统操作的深入可见性的潜力，从而有助于预防和减轻类似于 CrowdStrike 中断的安全事件</description>
+      <pubDate>Mon, 29 Jul 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

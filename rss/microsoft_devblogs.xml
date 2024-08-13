@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【The Silicon Graphics Media and Artificial Intelligence (SiGMA) team is hiring!】硅谷图形媒体和人工智能 (SiGMA) 团队正在招聘！</title>
-      <link>https://devblogs.microsoft.com/directx/sigma-engineering-hiring-2024</link>
-      <description>【Do you want to be a part of the Silicon Graphics Media and Artificial Intelligence (SiGMA) platform team? We are hiring for multiple positions in multiple locations &amp;#8211; if you&amp;#8217;re interested in knowing more about opportunities in SiGMA, please see the below for more details!】您想成为 Silicon Graphics 媒体和人工智能 (SiGMA) 平台团队的一员吗？我们正在多个地点招聘多个职位 - 如果您有兴趣了解更多有关 SiGMA 工作机会的信息，请参阅以下内容了解更多详细信息！</description>
-      <pubDate>Wed, 07 Aug 2024 20:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why do I get E_ACCESS­DENIED when trying to access my brokered Windows Runtime object?COM is double-checking the trust level.】为什么在尝试访问我的代理 Windows 运行时对象时收到 E_ACCESSDENIED？COM 正在仔细检查信任级别。</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240808-00/?p=110112</link>
-      <description>【COM is double-checking the trust level.】COM 正在仔细检查信任级别。</description>
-      <pubDate>Thu, 08 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Measuring Differentials of Product Images in AI-generated Ads】测量人工智能生成的广告中产品图像的差异</title>
-      <link>https://devblogs.microsoft.com/ise/ai-ad-image-differential</link>
-      <description>【Various methodologies of measuring differentials between a product image and an AI-generated ad for the purpose of product representation integrity in serving AI-generated ads.】测量产品图像和人工智能生成的广告之间差异的各种方法，目的是在提供人工智能生成的广告时确保产品表现的完整性。</description>
-      <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
+      <title>【Pre-pin Microsoft Teams meeting apps using Teams Admin Center】使用 Teams 管理中心预固定 Microsoft Teams 会议应用程序</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/pre-pin-microsoft-teams-meeting-apps-using-teams-admin-center</link>
+      <description>【We are thrilled to announce that tenant admins can now pin apps to Microsoft Teams meetings organized in their organization.】我们很高兴地宣布，租户管理员现在可以将应用程序固定到在其组织中组织的 Microsoft Teams 会议。</description>
+      <pubDate>Fri, 09 Aug 2024 15:00:35 +0000</pubDate>
     </item>
     <item>
       <title>【What does it even mean to Close a Windows Runtime asynchronous operation or action?】关闭 Windows 运行时异步操作或操作是什么意思？</title>
@@ -28,40 +16,52 @@
       <pubDate>Fri, 09 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Pre-pin Microsoft Teams meeting apps using Teams Admin Center】使用 Teams 管理中心预固定 Microsoft Teams 会议应用程序</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/pre-pin-microsoft-teams-meeting-apps-using-teams-admin-center</link>
-      <description>【We are thrilled to announce that tenant admins can now pin apps to Microsoft Teams meetings organized in their organization.】我们很高兴地宣布，租户管理员现在可以将应用程序固定到在其组织中组织的 Microsoft Teams 会议。</description>
-      <pubDate>Fri, 09 Aug 2024 15:00:35 +0000</pubDate>
-    </item>
-    <item>
       <title>【My Summer Experience as a SWE Intern at Microsoft】我在微软担任 SWE 实习生的暑期经历</title>
       <link>https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft</link>
       <description>【Hi everyone! I’m Serena, a rising 4th year at Rochester Institute of Technology with a major in Computer Science and a minor in Psychology. This summer I was a returning intern at Microsoft as a software engineering intern with the JavaScript and TypeScript Tooling team.】大家好！我是 Serena，罗彻斯特理工学院四年级新生，主修计算机科学，辅修心理学。今年夏天，我作为 JavaScript 和 TypeScript 工具团队的软件工程实习生回到了 Microsoft。</description>
       <pubDate>Fri, 09 Aug 2024 15:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Dev Box Customization Now Supports Native Run-as-user】Microsoft Dev Box 自定义现在支持本机以用户身份运行</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-customization-now-supports-native-run-as-user</link>
-      <description>【Dev Box customization now supports native run as user in the customization yaml files. The native run-as-user capability is more powerful in terms of reliability, status tracking and error reporting. You can also see the execution progress on run-as-user customization tasks from Dev Portal.】Dev Box 自定义现在支持在自定义 yaml 文件中以用户身份本机运行。本机用户运行功能在可靠性、状态跟踪和错误报告方面更加强大。您还可以从开发门户查看以用户身份运行自定义任务的执行进度。</description>
-      <pubDate>Thu, 08 Aug 2024 15:00:45 +0000</pubDate>
+      <title>【PIX 2408.09 – Bug fixes + everything in 2408.05】PIX 2408.09 – 错误修复 + 2408.05 中的所有内容</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2408-09</link>
+      <description>【Today we released PIX version 2408.09, which can be downloaded here. This release includes everything that was in the 2408.05 version of PIX, plus the following bug fixes: Fix PIX bug that caused misc counter collection errors on Intel GPUs Fix performance regression when opening DXR captures with big shader tables Fix DXR invocations view when DispatchRays() event has no global root signature Fix showing root Acceleration Structures in Pipeline View created via CreateCommittedResource3() Make formatted text in text editor update with theme changes Rename shader table column header from &amp;#8220;Root Signature&amp;#8221;】今天我们发布了 PIX 版本 2408.09，可以在这里下载。此版本包含 PIX 2408.05 版本中的所有内容，以及以下错误修复： 修复在 Intel GPU 上导致杂项计数器收集错误的 PIX 错误 修复使用大着色器表打开 DXR 捕获时的性能回归 修复 DispatchRays() 时的 DXR 调用视图事件没有全局根签名修复在通过 CreateCommitedResource3() 创建的管道视图中显示根加速结构在文本编辑器中使用格式化文本更新主题更改从“根签名”重命名着色器表列标题</description>
+      <pubDate>Mon, 12 Aug 2024 20:16:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Security awareness training】Microsoft 365 认证控制焦点：安全意识培训</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-awareness-training</link>
-      <description>【Discover how Microsoft 365 Certification validates compliance for enterprise-ready apps with security awareness training.】了解 Microsoft 365 认证如何通过安全意识培训来验证企业就绪应用的合规性。</description>
-      <pubDate>Thu, 08 Aug 2024 15:00:43 +0000</pubDate>
+      <title>【New SDK Options for Fine-Grained Request Routing to Azure Cosmos DB】用于将细粒度请求路由到 Azure Cosmos DB 的新 SDK 选项</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/new-sdk-options-for-fine-grained-request-routing-to-azure-cosmos-db</link>
+      <description>【The latest updates to the Azure Cosmos DB .NET SDK bring a powerful new feature with the release of version 3.37.0: the ExcludeRegions request option. This enhancement allows developers to exclude specific regions from their preferred locations when making a request,】Azure Cosmos DB .NET SDK 的最新更新在版本 3.37.0 中带来了一项强大的新功能：ExcludeRegions 请求选项。此增强功能允许开发人员在发出请求时从其首选位置中排除特定区域，</description>
+      <pubDate>Mon, 12 Aug 2024 13:34:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB JavaScript SDK 4.1.0 Preview is Here!】Azure Cosmos DB JavaScript SDK 4.1.0 预览版现已推出！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-javascript-sdk-4-1-0-preview-is-here</link>
-      <description>【We are excited to announce the release of the Azure Cosmos DB JavaScript SDK 4.1.0 Preview! This latest update brings several improvements, new features, and bug fixes to enhance developer experience and enable advanced data querying capabilities when working with Azure Cosmos DB.】我们很高兴地宣布发布 Azure Cosmos DB JavaScript SDK 4.1.0 预览版！此最新更新带来了多项改进、新功能和错误修复，以增强开发人员体验并在使用 Azure Cosmos DB 时启用高级数据查询功能。</description>
-      <pubDate>Fri, 09 Aug 2024 02:55:45 +0000</pubDate>
+      <title>【Announcing OData .NET 8 Official Release】宣布 OData .NET 8 正式发布</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-8-official-release</link>
+      <description>【We&amp;#8217;re happy to announce that OData .NET 8 has been officially released and is available on NuGet: Microsoft.OData.Core 8.0.0 Microsoft.OData.Edm 8.0.0 Microsoft.OData.Client 8.0.0 Microsoft.Spatial 8.0.0 We would like to thank the community for trying out the pre-release versions and sharing feedback with us following our announcements of the previews and release candidates.】我们很高兴地宣布，OData .NET 8 已正式发布，并可在 NuGet 上使用： Microsoft.OData.Core 8.0.0 Microsoft.OData.Edm 8.0.0 Microsoft.OData.Client 8.0.0 Microsoft.Spatial 8.0。 0 我们要感谢社区尝试预发布版本，并在我们宣布预览版和候选发布版后与我们分享反馈。</description>
+      <pubDate>Mon, 12 Aug 2024 21:13:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.22.6-1 and 1.21.13-1 Microsoft builds now available】Go 1.22.6-1 和 1.21.13-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-22-6-1-and-1-21-13-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Wed, 07 Aug 2024 21:11:44 +0000</pubDate>
+      <title>【Measuring Differentials of Product Images in AI-generated Ads】测量人工智能生成的广告中产品图像的差异</title>
+      <link>https://devblogs.microsoft.com/ise/ai-ad-image-differential</link>
+      <description>【Various methodologies of measuring differentials between a product image and an AI-generated ad for the purpose of product representation integrity in serving AI-generated ads.】测量产品图像和人工智能生成的广告之间差异的各种方法，目的是在提供人工智能生成的广告时确保产品表现的完整性。</description>
+      <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【View and Delete Multiple Items at once in Azure Cosmos DB with Data Explorer】使用数据资源管理器在 Azure Cosmos DB 中一次查看和删除多个项目</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/delete-items-azure-cosmos-db-data-explorer</link>
+      <description>【One common task that developers need to perform when working with Azure Cosmos DB is deleting and viewing items from a container. Whether it&amp;#8217;s for cleaning up test data, removing obsolete records, or complying with data retention policies, deleting items is an essential operation that should be easy and efficient.】开发人员在使用 Azure Cosmos DB 时需要执行的一项常见任务是删除和查看容器中的项目。无论是清理测试数据、删除过时的记录，还是遵守数据保留策略，删除项目都是一项重要的操作，应该简单高效。</description>
+      <pubDate>Mon, 12 Aug 2024 12:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure OpenAI, including GPT-4o, Approved as a Service within the FedRAMP High Authorization for Azure Government】Azure OpenAI（包括 GPT-4o）已被批准为 Azure 政府 FedRAMP 高授权范围内的一项服务</title>
+      <link>https://devblogs.microsoft.com/azuregov/azure-openai-fedramp-high-for-government</link>
+      <description>【As part of our ongoing effort to deliver the latest AI innovations to our government customers, our team is proud to announce two significant updates:  Azure OpenAI Service is now approved as a service within the FedRAMP High Authorization for Azure Government. 】作为我们不断努力向政府客户提供最新人工智能创新的一部分，我们的团队很自豪地宣布两项重大更新：Azure OpenAI 服务现已被批准为 Azure 政府 FedRAMP 高授权范围内的一项服务。 </description>
+      <pubDate>Mon, 12 Aug 2024 13:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Embracing the power of the empty set in API design (and applying this principle to selectors and filters)】在 API 设计中拥抱空集的力量（并将这一原则应用于选择器和过滤器）</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240812-00/?p=110121</link>
+      <description>【You got plenty of nothing.】你一无所有。</description>
+      <pubDate>Mon, 12 Aug 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
