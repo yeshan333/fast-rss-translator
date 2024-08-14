@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Pre-pin Microsoft Teams meeting apps using Teams Admin Center】使用 Teams 管理中心预固定 Microsoft Teams 会议应用程序</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/pre-pin-microsoft-teams-meeting-apps-using-teams-admin-center</link>
-      <description>【We are thrilled to announce that tenant admins can now pin apps to Microsoft Teams meetings organized in their organization.】我们很高兴地宣布，租户管理员现在可以将应用程序固定到在其组织中组织的 Microsoft Teams 会议。</description>
-      <pubDate>Fri, 09 Aug 2024 15:00:35 +0000</pubDate>
+      <title>【Use Dev Box Team Customizations and Imaging to streamline your team’s development workflow】使用 Dev Box 团队自定义和映像来简化团队的开发工作流程</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/use-dev-box-team-customizations-and-imaging-to-streamline-your-teams-development-workflow</link>
+      <description>【TLDR: We are excited to introduce team-based customization of Dev Boxes with built in imaging capabilities, using the familiar Dev Box customization format, to help you create and optimize ready-to-code Dev Box configurations for your entire team. Sign up for the private preview here.】TLDR：我们很高兴推出基于团队的 Dev Box 定制，具有内置成像功能，使用熟悉的 Dev Box 定制格式，帮助您为整个团队创建和优化可立即编码的 Dev Box 配置。在此处注册私人预览。</description>
+      <pubDate>Tue, 13 Aug 2024 15:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>【What does it even mean to Close a Windows Runtime asynchronous operation or action?】关闭 Windows 运行时异步操作或操作是什么意思？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240809-00/?p=110116</link>
-      <description>【That&#39;s the end of the road.】那就是路的尽头。</description>
-      <pubDate>Fri, 09 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【What’s New in Azure Cosmos DB Data Explorer: A Better Way to Navigate Your Data】Azure Cosmos DB 数据资源管理器的新增功能：更好的数据导航方式</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/a-better-way-to-navigate-your-data</link>
+      <description>【As a developer, you may have to work on various projects that involve storing and querying data from different regions and devices. Whether you are building a web application, a mobile app, a gaming platform, or an IoT solution, you want a database that can handle the complexity and scale of your data without compromising on performance and availability.】作为开发人员，您可能需要处理涉及存储和查询来自不同区域和设备的数据的各种项目。无论您是构建 Web 应用程序、移动应用程序、游戏平台还是 IoT 解决方案，您都需要一个能够处理数据的复杂性和规模而不影响性能和可用性的数据库。</description>
+      <pubDate>Tue, 13 Aug 2024 12:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>【My Summer Experience as a SWE Intern at Microsoft】我在微软担任 SWE 实习生的暑期经历</title>
-      <link>https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft</link>
-      <description>【Hi everyone! I’m Serena, a rising 4th year at Rochester Institute of Technology with a major in Computer Science and a minor in Psychology. This summer I was a returning intern at Microsoft as a software engineering intern with the JavaScript and TypeScript Tooling team.】大家好！我是 Serena，罗彻斯特理工学院四年级新生，主修计算机科学，辅修心理学。今年夏天，我作为 JavaScript 和 TypeScript 工具团队的软件工程实习生回到了 Microsoft。</description>
-      <pubDate>Fri, 09 Aug 2024 15:00:25 +0000</pubDate>
+      <title>【Visual Studio 2022 v17.11 – Your feedback in action】Visual Studio 2022 v17.11 – 您的实际反馈</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action</link>
+      <description>【We are thrilled to announce the General Availability (GA) of Visual Studio 2022 version 17.11. This release is a testament to our commitment to listening to you, our developer community. Every enhancement, every fix, and every new feature in this release has been shaped by your feedback.】我们很高兴地宣布 Visual Studio 2022 版本 17.11 正式发布 (GA)。此版本证明了我们致力于倾听您（我们的开发者社区）的意见。此版本中的每项增强、每项修复和每项新功能都是根据您的反馈制定的。</description>
+      <pubDate>Tue, 13 Aug 2024 17:30:45 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2408.09 – Bug fixes + everything in 2408.05】PIX 2408.09 – 错误修复 + 2408.05 中的所有内容</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2408-09</link>
-      <description>【Today we released PIX version 2408.09, which can be downloaded here. This release includes everything that was in the 2408.05 version of PIX, plus the following bug fixes: Fix PIX bug that caused misc counter collection errors on Intel GPUs Fix performance regression when opening DXR captures with big shader tables Fix DXR invocations view when DispatchRays() event has no global root signature Fix showing root Acceleration Structures in Pipeline View created via CreateCommittedResource3() Make formatted text in text editor update with theme changes Rename shader table column header from &amp;#8220;Root Signature&amp;#8221;】今天我们发布了 PIX 版本 2408.09，可以在这里下载。此版本包含 PIX 2408.05 版本中的所有内容，以及以下错误修复： 修复在 Intel GPU 上导致杂项计数器收集错误的 PIX 错误 修复使用大着色器表打开 DXR 捕获时的性能回归 修复 DispatchRays() 时的 DXR 调用视图事件没有全局根签名修复在通过 CreateCommitedResource3() 创建的管道视图中显示根加速结构在文本编辑器中使用格式化文本更新主题更改从“根签名”重命名着色器表列标题</description>
-      <pubDate>Mon, 12 Aug 2024 20:16:53 +0000</pubDate>
+      <title>【.NET and .NET Framework August 2024 updates】.NET 和 .NET Framework 2024 年 8 月更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates</link>
+      <description>【A recap of the updates for .NET and .NET Framework for August 2024.】2024 年 8 月 .NET 和 .NET Framework 更新回顾。</description>
+      <pubDate>Tue, 13 Aug 2024 17:22:50 +0000</pubDate>
     </item>
     <item>
-      <title>【New SDK Options for Fine-Grained Request Routing to Azure Cosmos DB】用于将细粒度请求路由到 Azure Cosmos DB 的新 SDK 选项</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/new-sdk-options-for-fine-grained-request-routing-to-azure-cosmos-db</link>
-      <description>【The latest updates to the Azure Cosmos DB .NET SDK bring a powerful new feature with the release of version 3.37.0: the ExcludeRegions request option. This enhancement allows developers to exclude specific regions from their preferred locations when making a request,】Azure Cosmos DB .NET SDK 的最新更新在版本 3.37.0 中带来了一项强大的新功能：ExcludeRegions 请求选项。此增强功能允许开发人员在发出请求时从其首选位置中排除特定区域，</description>
-      <pubDate>Mon, 12 Aug 2024 13:34:06 +0000</pubDate>
+      <title>【Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog】Azure AI 推理 SDK 简介：使用 Azure AI 模型目录访问更多 AI 模型</title>
+      <link>https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk</link>
+      <description>【Announcing the Azure AI Inference SDK for .NET! This SDK provides easy access to a comprehensive suite of AI models in the Azure AI Model Catalog for inference tasks like chat, enabling you to effortlessly incorporate AI into your applications that align with your requirements.】宣布推出适用于 .NET 的 Azure AI 推理 SDK！通过此 SDK，您可以轻松访问 Azure AI 模型目录中的全套 AI 模型，以执行聊天等推理任务，从而使您能够轻松地将 AI 合并到符合您要求的应用程序中。</description>
+      <pubDate>Tue, 13 Aug 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing OData .NET 8 Official Release】宣布 OData .NET 8 正式发布</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-8-official-release</link>
-      <description>【We&amp;#8217;re happy to announce that OData .NET 8 has been officially released and is available on NuGet: Microsoft.OData.Core 8.0.0 Microsoft.OData.Edm 8.0.0 Microsoft.OData.Client 8.0.0 Microsoft.Spatial 8.0.0 We would like to thank the community for trying out the pre-release versions and sharing feedback with us following our announcements of the previews and release candidates.】我们很高兴地宣布，OData .NET 8 已正式发布，并可在 NuGet 上使用： Microsoft.OData.Core 8.0.0 Microsoft.OData.Edm 8.0.0 Microsoft.OData.Client 8.0.0 Microsoft.Spatial 8.0。 0 我们要感谢社区尝试预发布版本，并在我们宣布预览版和候选发布版后与我们分享反馈。</description>
-      <pubDate>Mon, 12 Aug 2024 21:13:25 +0000</pubDate>
+      <title>【How to migrate MongoDB to Azure Cosmos DB for MongoDB using Spark and Databricks】如何使用 Spark 和 Databricks 将 MongoDB 迁移到 Azure Cosmos DB for MongoDB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/mongo-migrations-spark-databricks</link>
+      <description>【MongoDB is a popular document database that offers high performance, scalability, and flexibility. Many organizations use MongoDB to store and process large volumes of data for various applications. However, managing and maintaining MongoDB clusters can be challenging and costly, especially as the data grows and the demand increases. 】MongoDB 是一种流行的文档数据库，具有高性能、可扩展性和灵活性。许多组织使用 MongoDB 来存储和处理各种应用程序的大量数据。然而，管理和维护 MongoDB 集群可能具有挑战性且成本高昂，尤其是随着数据的增长和需求的增加。 </description>
+      <pubDate>Tue, 13 Aug 2024 14:00:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Measuring Differentials of Product Images in AI-generated Ads】测量人工智能生成的广告中产品图像的差异</title>
-      <link>https://devblogs.microsoft.com/ise/ai-ad-image-differential</link>
-      <description>【Various methodologies of measuring differentials between a product image and an AI-generated ad for the purpose of product representation integrity in serving AI-generated ads.】测量产品图像和人工智能生成的广告之间差异的各种方法，目的是在提供人工智能生成的广告时确保产品表现的完整性。</description>
-      <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
+      <title>【What’s New for C++ Developers in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中 C++ 开发人员的新增功能</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-11</link>
+      <description>【We are happy to announce that Visual Studio 2022 version 17.11 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the Visual Studio downloads page or upgrade your existing installation by following the Update Visual Studio Learn page.】我们很高兴地宣布 Visual Studio 2022 版本 17.11 现已全面发布！这篇文章总结了您可以在这个 C++ 版本中找到的新功能。您可以从 Visual Studio 下载页面下载 Visual Studio 2022，或按照更新 Visual Studio Learn 页面升级现有安装。</description>
+      <pubDate>Tue, 13 Aug 2024 13:36:48 +0000</pubDate>
     </item>
     <item>
-      <title>【View and Delete Multiple Items at once in Azure Cosmos DB with Data Explorer】使用数据资源管理器在 Azure Cosmos DB 中一次查看和删除多个项目</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/delete-items-azure-cosmos-db-data-explorer</link>
-      <description>【One common task that developers need to perform when working with Azure Cosmos DB is deleting and viewing items from a container. Whether it&amp;#8217;s for cleaning up test data, removing obsolete records, or complying with data retention policies, deleting items is an essential operation that should be easy and efficient.】开发人员在使用 Azure Cosmos DB 时需要执行的一项常见任务是删除和查看容器中的项目。无论是清理测试数据、删除过时的记录，还是遵守数据保留策略，删除项目都是一项重要的操作，应该简单高效。</description>
-      <pubDate>Mon, 12 Aug 2024 12:00:43 +0000</pubDate>
+      <title>【Support for Azure.AI.OpenAI and OpenAI v2 is here】对 Azure.AI.OpenAI 和 OpenAI v2 的支持在这里</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/support-for-azure-ai-openai-and-openai-v2-is-here</link>
+      <description>【Today we are announcing that support for for Azure.AI.OpenAI and OpenAI v2 .NET SDK is available in the Semantic Kernel v1.18.0-rc release candidate. This release supports the official OpenAI library for .NET which Microsoft announced at the Build 2024 conference. This new SDK ensures that .NET developers have parity with other programming language libraries when accessing Azure OpenAI models.】今天，我们宣布 Semantic Kernel v1.18.0-rc 候选版本中提供了对 Azure.AI.OpenAI 和 OpenAI v2 .NET SDK 的支持。此版本支持 Microsoft 在 Build 2024 会议上宣布的 .NET 官方 OpenAI 库。这个新的 SDK 可确保 .NET 开发人员在访问 Azure OpenAI 模型时与其他编程语言库具有同等地位。</description>
+      <pubDate>Tue, 13 Aug 2024 19:27:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure OpenAI, including GPT-4o, Approved as a Service within the FedRAMP High Authorization for Azure Government】Azure OpenAI（包括 GPT-4o）已被批准为 Azure 政府 FedRAMP 高授权范围内的一项服务</title>
-      <link>https://devblogs.microsoft.com/azuregov/azure-openai-fedramp-high-for-government</link>
-      <description>【As part of our ongoing effort to deliver the latest AI innovations to our government customers, our team is proud to announce two significant updates:  Azure OpenAI Service is now approved as a service within the FedRAMP High Authorization for Azure Government. 】作为我们不断努力向政府客户提供最新人工智能创新的一部分，我们的团队很自豪地宣布两项重大更新：Azure OpenAI 服务现已被批准为 Azure 政府 FedRAMP 高授权范围内的一项服务。 </description>
-      <pubDate>Mon, 12 Aug 2024 13:00:58 +0000</pubDate>
+      <title>【A look back at one of the (many) projects code-named Highlander】回顾代号为 Highlander 的（众多）项目之一</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240813-00/?p=110127</link>
+      <description>【The showdown that almost repeated.】几乎重演的对决。</description>
+      <pubDate>Tue, 13 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Embracing the power of the empty set in API design (and applying this principle to selectors and filters)】在 API 设计中拥抱空集的力量（并将这一原则应用于选择器和过滤器）</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240812-00/?p=110121</link>
-      <description>【You got plenty of nothing.】你一无所有。</description>
-      <pubDate>Mon, 12 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) – August 2024】Azure 开发人员 CLI (azd) – 2024 年 8 月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2024</link>
+      <description>【This post announces the August release of the Azure Developer CLI (`azd`) and recaps the July release. Includes enhancements for `azd pipeline config`, deployment status tracking for Linux web apps, support for managed identity during login, and more.】本文宣布了 Azure 开发人员 CLI (`azd`) 的 8 月份版本，并回顾了 7 月份的版本。包括“azd 管道配置”的增强功能、Linux Web 应用程序的部署状态跟踪、登录期间对托管身份的支持等。</description>
+      <pubDate>Tue, 13 Aug 2024 17:15:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
