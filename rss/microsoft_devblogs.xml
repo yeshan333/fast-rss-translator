@@ -10,16 +10,10 @@
       <pubDate>Tue, 13 Aug 2024 15:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in Azure Cosmos DB Data Explorer: A Better Way to Navigate Your Data】Azure Cosmos DB 数据资源管理器的新增功能：更好的数据导航方式</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/a-better-way-to-navigate-your-data</link>
-      <description>【As a developer, you may have to work on various projects that involve storing and querying data from different regions and devices. Whether you are building a web application, a mobile app, a gaming platform, or an IoT solution, you want a database that can handle the complexity and scale of your data without compromising on performance and availability.】作为开发人员，您可能需要处理涉及存储和查询来自不同区域和设备的数据的各种项目。无论您是构建 Web 应用程序、移动应用程序、游戏平台还是 IoT 解决方案，您都需要一个能够处理数据的复杂性和规模而不影响性能和可用性的数据库。</description>
-      <pubDate>Tue, 13 Aug 2024 12:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio 2022 v17.11 – Your feedback in action】Visual Studio 2022 v17.11 – 您的实际反馈</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action</link>
-      <description>【We are thrilled to announce the General Availability (GA) of Visual Studio 2022 version 17.11. This release is a testament to our commitment to listening to you, our developer community. Every enhancement, every fix, and every new feature in this release has been shaped by your feedback.】我们很高兴地宣布 Visual Studio 2022 版本 17.11 正式发布 (GA)。此版本证明了我们致力于倾听您（我们的开发者社区）的意见。此版本中的每项增强、每项修复和每项新功能都是根据您的反馈制定的。</description>
-      <pubDate>Tue, 13 Aug 2024 17:30:45 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) – August 2024】Azure 开发人员 CLI (azd) – 2024 年 8 月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2024</link>
+      <description>【This post announces the August release of the Azure Developer CLI (`azd`) and recaps the July release. Includes enhancements for `azd pipeline config`, deployment status tracking for Linux web apps, support for managed identity during login, and more.】本文宣布了 Azure 开发人员 CLI (`azd`) 的 8 月份版本，并回顾了 7 月份的版本。包括“azd 管道配置”的增强功能、Linux Web 应用程序的部署状态跟踪、登录期间对托管身份的支持等。</description>
+      <pubDate>Tue, 13 Aug 2024 17:15:08 +0000</pubDate>
     </item>
     <item>
       <title>【.NET and .NET Framework August 2024 updates】.NET 和 .NET Framework 2024 年 8 月更新</title>
@@ -28,40 +22,46 @@
       <pubDate>Tue, 13 Aug 2024 17:22:50 +0000</pubDate>
     </item>
     <item>
+      <title>【Visual Studio 2022 v17.11 – Your feedback in action】Visual Studio 2022 v17.11 – 您的实际反馈</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action</link>
+      <description>【We are thrilled to announce the General Availability (GA) of Visual Studio 2022 version 17.11. This release is a testament to our commitment to listening to you, our developer community. Every enhancement, every fix, and every new feature in this release has been shaped by your feedback.】我们很高兴地宣布 Visual Studio 2022 版本 17.11 正式发布 (GA)。此版本证明了我们致力于倾听您（我们的开发者社区）的意见。此版本中的每项增强、每项修复和每项新功能都是根据您的反馈制定的。</description>
+      <pubDate>Tue, 13 Aug 2024 17:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Temporarily dropping a lock: The anti-lock pattern】暂时松开锁：防锁模式</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240814-00/?p=110129</link>
+      <description>【It&#39;s not to prevent locking, but rather to counteract a lock.】它不是为了防止锁定，而是为了抵消锁定。</description>
+      <pubDate>Wed, 14 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【First preview of Visual Studio 2022 v17.12 with .NET 9】使用 .NET 9 的 Visual Studio 2022 v17.12 首次预览</title>
+      <link>https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-12-with-net-9</link>
+      <description>【We’re excited to announce the availability of Visual Studio 2022 v17.12 Preview 1 – the first preview of our next update to Visual Studio. This update focuses on providing fantastic developer experiences for working with .NET 9 projects and new AI productivity features,】我们很高兴地宣布 Visual Studio 2022 v17.12 Preview 1 现已推出——这是 Visual Studio 下一次更新的第一个预览。此更新的重点是为使用 .NET 9 项目和新的 AI 生产力功能提供出色的开发人员体验，</description>
+      <pubDate>Wed, 14 Aug 2024 10:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Updates on deprecating legacy Exchange Online tokens for Outlook add-ins】有关弃用 Outlook 加载项的旧版 Exchange Online 令牌的更新</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/updates-on-deprecating-legacy-exchange-online-tokens-for-outlook-add-ins</link>
+      <description>【In April, we announced that Exchange tokens will be turned off by default for all tenants in October 2024. This has been updated and you should have more time to move your Outlook add-ins from Exchange tokens to NAA.】今年 4 月，我们宣布将于 2024 年 10 月默认关闭所有租户的 Exchange 令牌。此内容已更新，您应该有更多时间将 Outlook 加载项从 Exchange 令牌移至 NAA。</description>
+      <pubDate>Wed, 14 Aug 2024 17:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!】.NET Conf 2024 – 庆祝 .NET 9 的发布！ – 保存日期！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date</link>
+      <description>【Announcing .NET Conf 2024 - a free, three-day virtual developer event that celebrates the release of .NET 9.】宣布 .NET Conf 2024 - 一场为期三天的免费虚拟开发者活动，旨在庆祝 .NET 9 的发布。</description>
+      <pubDate>Wed, 14 Aug 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog】Azure AI 推理 SDK 简介：使用 Azure AI 模型目录访问更多 AI 模型</title>
       <link>https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk</link>
       <description>【Announcing the Azure AI Inference SDK for .NET! This SDK provides easy access to a comprehensive suite of AI models in the Azure AI Model Catalog for inference tasks like chat, enabling you to effortlessly incorporate AI into your applications that align with your requirements.】宣布推出适用于 .NET 的 Azure AI 推理 SDK！通过此 SDK，您可以轻松访问 Azure AI 模型目录中的全套 AI 模型，以执行聊天等推理任务，从而使您能够轻松地将 AI 合并到符合您要求的应用程序中。</description>
       <pubDate>Tue, 13 Aug 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to migrate MongoDB to Azure Cosmos DB for MongoDB using Spark and Databricks】如何使用 Spark 和 Databricks 将 MongoDB 迁移到 Azure Cosmos DB for MongoDB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/mongo-migrations-spark-databricks</link>
-      <description>【MongoDB is a popular document database that offers high performance, scalability, and flexibility. Many organizations use MongoDB to store and process large volumes of data for various applications. However, managing and maintaining MongoDB clusters can be challenging and costly, especially as the data grows and the demand increases. 】MongoDB 是一种流行的文档数据库，具有高性能、可扩展性和灵活性。许多组织使用 MongoDB 来存储和处理各种应用程序的大量数据。然而，管理和维护 MongoDB 集群可能具有挑战性且成本高昂，尤其是随着数据的增长和需求的增加。 </description>
-      <pubDate>Tue, 13 Aug 2024 14:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New for C++ Developers in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中 C++ 开发人员的新增功能</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-11</link>
-      <description>【We are happy to announce that Visual Studio 2022 version 17.11 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the Visual Studio downloads page or upgrade your existing installation by following the Update Visual Studio Learn page.】我们很高兴地宣布 Visual Studio 2022 版本 17.11 现已全面发布！这篇文章总结了您可以在这个 C++ 版本中找到的新功能。您可以从 Visual Studio 下载页面下载 Visual Studio 2022，或按照更新 Visual Studio Learn 页面升级现有安装。</description>
-      <pubDate>Tue, 13 Aug 2024 13:36:48 +0000</pubDate>
-    </item>
-    <item>
       <title>【Support for Azure.AI.OpenAI and OpenAI v2 is here】对 Azure.AI.OpenAI 和 OpenAI v2 的支持在这里</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/support-for-azure-ai-openai-and-openai-v2-is-here</link>
-      <description>【Today we are announcing that support for for Azure.AI.OpenAI and OpenAI v2 .NET SDK is available in the Semantic Kernel v1.18.0-rc release candidate. This release supports the official OpenAI library for .NET which Microsoft announced at the Build 2024 conference. This new SDK ensures that .NET developers have parity with other programming language libraries when accessing Azure OpenAI models.】今天，我们宣布 Semantic Kernel v1.18.0-rc 候选版本中提供了对 Azure.AI.OpenAI 和 OpenAI v2 .NET SDK 的支持。此版本支持 Microsoft 在 Build 2024 会议上宣布的 .NET 官方 OpenAI 库。这个新的 SDK 可确保 .NET 开发人员在访问 Azure OpenAI 模型时与其他编程语言库具有同等地位。</description>
+      <description>【Today we are announcing that support for Azure.AI.OpenAI and OpenAI v2 .NET SDK is available in the Semantic Kernel v1.18.0-rc release candidate. This release supports the official OpenAI library for .NET which Microsoft announced at the Build 2024 conference. This new SDK ensures that .NET developers have parity with other programming language libraries when accessing Azure OpenAI models.】今天，我们宣布 Semantic Kernel v1.18.0-rc 候选版本中提供了对 Azure.AI.OpenAI 和 OpenAI v2 .NET SDK 的支持。此版本支持 Microsoft 在 Build 2024 会议上宣布的 .NET 官方 OpenAI 库。这个新的 SDK 可确保 .NET 开发人员在访问 Azure OpenAI 模型时与其他编程语言库具有同等地位。</description>
       <pubDate>Tue, 13 Aug 2024 19:27:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A look back at one of the (many) projects code-named Highlander】回顾代号为 Highlander 的（众多）项目之一</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240813-00/?p=110127</link>
-      <description>【The showdown that almost repeated.】几乎重演的对决。</description>
-      <pubDate>Tue, 13 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) – August 2024】Azure 开发人员 CLI (azd) – 2024 年 8 月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2024</link>
-      <description>【This post announces the August release of the Azure Developer CLI (`azd`) and recaps the July release. Includes enhancements for `azd pipeline config`, deployment status tracking for Linux web apps, support for managed identity during login, and more.】本文宣布了 Azure 开发人员 CLI (`azd`) 的 8 月份版本，并回顾了 7 月份的版本。包括“azd 管道配置”的增强功能、Linux Web 应用程序的部署状态跟踪、登录期间对托管身份的支持等。</description>
-      <pubDate>Tue, 13 Aug 2024 17:15:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
