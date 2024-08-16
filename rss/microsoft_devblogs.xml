@@ -4,46 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Use Dev Box Team Customizations and Imaging to streamline your team’s development workflow】使用 Dev Box 团队自定义和映像来简化团队的开发工作流程</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/use-dev-box-team-customizations-and-imaging-to-streamline-your-teams-development-workflow</link>
-      <description>【TLDR: We are excited to introduce team-based customization of Dev Boxes with built in imaging capabilities, using the familiar Dev Box customization format, to help you create and optimize ready-to-code Dev Box configurations for your entire team. Sign up for the private preview here.】TLDR：我们很高兴推出基于团队的 Dev Box 定制，具有内置成像功能，使用熟悉的 Dev Box 定制格式，帮助您为整个团队创建和优化可立即编码的 Dev Box 配置。在此处注册私人预览。</description>
-      <pubDate>Tue, 13 Aug 2024 15:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) – August 2024】Azure 开发人员 CLI (azd) – 2024 年 8 月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2024</link>
-      <description>【This post announces the August release of the Azure Developer CLI (`azd`) and recaps the July release. Includes enhancements for `azd pipeline config`, deployment status tracking for Linux web apps, support for managed identity during login, and more.】本文宣布了 Azure 开发人员 CLI (`azd`) 的 8 月份版本，并回顾了 7 月份的版本。包括“azd 管道配置”的增强功能、Linux Web 应用程序的部署状态跟踪、登录期间对托管身份的支持等。</description>
-      <pubDate>Tue, 13 Aug 2024 17:15:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework August 2024 updates】.NET 和 .NET Framework 2024 年 8 月更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates</link>
-      <description>【A recap of the updates for .NET and .NET Framework for August 2024.】2024 年 8 月 .NET 和 .NET Framework 更新回顾。</description>
-      <pubDate>Tue, 13 Aug 2024 17:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio 2022 v17.11 – Your feedback in action】Visual Studio 2022 v17.11 – 您的实际反馈</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action</link>
-      <description>【We are thrilled to announce the General Availability (GA) of Visual Studio 2022 version 17.11. This release is a testament to our commitment to listening to you, our developer community. Every enhancement, every fix, and every new feature in this release has been shaped by your feedback.】我们很高兴地宣布 Visual Studio 2022 版本 17.11 正式发布 (GA)。此版本证明了我们致力于倾听您（我们的开发者社区）的意见。此版本中的每项增强、每项修复和每项新功能都是根据您的反馈制定的。</description>
-      <pubDate>Tue, 13 Aug 2024 17:30:45 +0000</pubDate>
-    </item>
-    <item>
       <title>【Temporarily dropping a lock: The anti-lock pattern】暂时松开锁：防锁模式</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240814-00/?p=110129</link>
       <description>【It&#39;s not to prevent locking, but rather to counteract a lock.】它不是为了防止锁定，而是为了抵消锁定。</description>
       <pubDate>Wed, 14 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【First preview of Visual Studio 2022 v17.12 with .NET 9】使用 .NET 9 的 Visual Studio 2022 v17.12 首次预览</title>
-      <link>https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-12-with-net-9</link>
-      <description>【We’re excited to announce the availability of Visual Studio 2022 v17.12 Preview 1 – the first preview of our next update to Visual Studio. This update focuses on providing fantastic developer experiences for working with .NET 9 projects and new AI productivity features,】我们很高兴地宣布 Visual Studio 2022 v17.12 Preview 1 现已推出——这是 Visual Studio 下一次更新的第一个预览。此更新的重点是为使用 .NET 9 项目和新的 AI 生产力功能提供出色的开发人员体验，</description>
-      <pubDate>Wed, 14 Aug 2024 10:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Updates on deprecating legacy Exchange Online tokens for Outlook add-ins】有关弃用 Outlook 加载项的旧版 Exchange Online 令牌的更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/updates-on-deprecating-legacy-exchange-online-tokens-for-outlook-add-ins</link>
-      <description>【In April, we announced that Exchange tokens will be turned off by default for all tenants in October 2024. This has been updated and you should have more time to move your Outlook add-ins from Exchange tokens to NAA.】今年 4 月，我们宣布将于 2024 年 10 月默认关闭所有租户的 Exchange 令牌。此内容已更新，您应该有更多时间将 Outlook 加载项从 Exchange 令牌移至 NAA。</description>
-      <pubDate>Wed, 14 Aug 2024 17:34:06 +0000</pubDate>
+      <title>【Customer Case Study: Orion Innovation’s usage of Kernel Arguments】客户案例研究：Orion Innovation 对内核参数的使用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-orion-innovations-usage-of-kernel-arguments</link>
+      <description>【Today we&amp;#8217;re featuring Vyshag Vadakara and Prasanth Thekkelthody from Orion Innovation and a recent article Vyshag published focused on Orion&amp;#8217;s usage of Microsoft Semantic Kernel. The article is linked here: Discover the Magic of Microsoft’s Semantic Kernel Arguments. &amp;nbsp; Getting Started The article highlights the benefits of using Semantic Kernel and the best way to learn through exploring the samples provided in the repository.】今天，我们将重点介绍 Orion Innovation 的 Vyshag Vadakara 和 Prasanth Thekkelthody，以及 Vyshag 最近发表的一篇文章，重点介绍了 Orion 对 Microsoft Semantic Kernel 的使用。该文章的链接如下：发现 Microsoft 语义内核参数的魔力。   入门 本文重点介绍了使用语义内核的好处以及通过探索存储库中提供的示例进行学习的最佳方法。</description>
+      <pubDate>Thu, 15 Aug 2024 23:18:33 +0000</pubDate>
     </item>
     <item>
       <title>【.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!】.NET Conf 2024 – 庆祝 .NET 9 的发布！ – 保存日期！</title>
@@ -52,16 +22,46 @@
       <pubDate>Wed, 14 Aug 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog】Azure AI 推理 SDK 简介：使用 Azure AI 模型目录访问更多 AI 模型</title>
-      <link>https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk</link>
-      <description>【Announcing the Azure AI Inference SDK for .NET! This SDK provides easy access to a comprehensive suite of AI models in the Azure AI Model Catalog for inference tasks like chat, enabling you to effortlessly incorporate AI into your applications that align with your requirements.】宣布推出适用于 .NET 的 Azure AI 推理 SDK！通过此 SDK，您可以轻松访问 Azure AI 模型目录中的全套 AI 模型，以执行聊天等推理任务，从而使您能够轻松地将 AI 合并到符合您要求的应用程序中。</description>
-      <pubDate>Tue, 13 Aug 2024 18:00:00 +0000</pubDate>
+      <title>【.NET 9 Preview 7 is now available!】.NET 9 预览版 7 现已推出！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7</link>
+      <description>【Try out the latest features in .NET 9 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】跨 .NET 运行时、SDK、库、ASP.NET Core、Blazor、C#、.NET MAUI 等尝试 .NET 9 Preview 7 中的最新功能！</description>
+      <pubDate>Thu, 15 Aug 2024 20:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Support for Azure.AI.OpenAI and OpenAI v2 is here】对 Azure.AI.OpenAI 和 OpenAI v2 的支持在这里</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/support-for-azure-ai-openai-and-openai-v2-is-here</link>
-      <description>【Today we are announcing that support for Azure.AI.OpenAI and OpenAI v2 .NET SDK is available in the Semantic Kernel v1.18.0-rc release candidate. This release supports the official OpenAI library for .NET which Microsoft announced at the Build 2024 conference. This new SDK ensures that .NET developers have parity with other programming language libraries when accessing Azure OpenAI models.】今天，我们宣布 Semantic Kernel v1.18.0-rc 候选版本中提供了对 Azure.AI.OpenAI 和 OpenAI v2 .NET SDK 的支持。此版本支持 Microsoft 在 Build 2024 会议上宣布的 .NET 官方 OpenAI 库。这个新的 SDK 可确保 .NET 开发人员在访问 Azure OpenAI 模型时与其他编程语言库具有同等地位。</description>
-      <pubDate>Tue, 13 Aug 2024 19:27:26 +0000</pubDate>
+      <title>【Teams Toolkit for Visual Studio Code update – August 2024】Teams Toolkit for Visual Studio Code 更新 – 2024 年 8 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-august-2024</link>
+      <description>【Learn about the latest Teams Toolkit for Visual Studio Code updates including the capability to create declarative copilots.】了解最新的 Teams Toolkit for Visual Studio Code 更新，包括创建声明性副驾驶的功能。</description>
+      <pubDate>Thu, 15 Aug 2024 14:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Updates on deprecating legacy Exchange Online tokens for Outlook add-ins】有关弃用 Outlook 加载项的旧版 Exchange Online 令牌的更新</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/updates-on-deprecating-legacy-exchange-online-tokens-for-outlook-add-ins</link>
+      <description>【In April, we announced that Exchange tokens will be turned off by default for all tenants in October 2024. This has been updated and you should have more time to move your Outlook add-ins from Exchange tokens to NAA.】今年 4 月，我们宣布将于 2024 年 10 月默认关闭所有租户的 Exchange 令牌。此内容已更新，您应该有更多时间将 Outlook 加载项从 Exchange 令牌移至 NAA。</description>
+      <pubDate>Wed, 14 Aug 2024 17:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Create scripts with Power Platform CLI】使用 Power Platform CLI 创建脚本</title>
+      <link>https://devblogs.microsoft.com/powerplatform/create-scripts-with-power-platform-cli</link>
+      <description>【The Power Platform CLI is a great tool to use when you are working with the Power Platform. You can create Power Apps Component Framework (PCF) components with it, you can do tons of administrative actions, and much more! You can run these one by one in the console when you&amp;#8217;re developing a Power Platform solution,】当您使用 Power Platform 时，Power Platform CLI 是一个非常有用的工具。您可以使用它创建 Power Apps 组件框架 (PCF) 组件，可以执行大量管理操作等等！当您开发 Power Platform 解决方案时，您可以在控制台中一一运行这些，</description>
+      <pubDate>Thu, 15 Aug 2024 15:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Copilot Content Exclusion Now Available in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中现已提供 Copilot 内容排除功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio</link>
+      <description>【We are excited to announce that Copilot Content Exclusion is now available in Visual Studio 2022 17.11. This feature allows your admins to configure Copilot to ignore certain files in a repository or organization, giving you enterprise control that ensures sensitive information is protected while seamlessly integrating trusted AI for efficient coding.】我们很高兴地宣布，Copilot 内容排除现已在 Visual Studio 2022 17.11 中推出。此功能允许您的管理员将 Copilot 配置为忽略存储库或组织中的某些文件，从而为您提供企业控制，确保敏感信息受到保护，同时无缝集成可信 AI 以实现高效编码。</description>
+      <pubDate>Thu, 15 Aug 2024 17:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Instead of putting a hash in the Portable Executable timestamp field, why not create a separate field for the hash?】为什么不为哈希创建一个单独的字段，而不是将哈希放在可移植可执行时间戳字段中？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240815-00/?p=110131</link>
+      <description>【That would defeat the purpose.】那会达不到目的。</description>
+      <pubDate>Thu, 15 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improving OpenJDK Scalar Replacement – Part 3/3】改进 OpenJDK 标量替换 - 第 3/3 部分</title>
+      <link>https://devblogs.microsoft.com/java/improving-openjdk-scalar-replacement-part-3-3</link>
+      <description>【Welcome to the final part of our series on scalar replacement in OpenJDK. In the previous posts, we covered the basics of scalar replacement and detailed the improvements we introduced to the implementation. Now, it&amp;#8217;s time to see these enhancements in action.】欢迎来到 OpenJDK 中标量替换系列的最后一部分。在之前的文章中，我们介绍了标量替换的基础知识，并详细介绍了我们在实现中引入的改进。现在，是时候看看这些增强功能的实际效果了。</description>
+      <pubDate>Thu, 15 Aug 2024 21:40:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
