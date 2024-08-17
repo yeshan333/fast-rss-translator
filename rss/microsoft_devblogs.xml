@@ -4,22 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Temporarily dropping a lock: The anti-lock pattern】暂时松开锁：防锁模式</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240814-00/?p=110129</link>
-      <description>【It&#39;s not to prevent locking, but rather to counteract a lock.】它不是为了防止锁定，而是为了抵消锁定。</description>
-      <pubDate>Wed, 14 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【Go 1.23.0-1 Microsoft build now available】Go 1.23.0-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-0-1-microsoft-build-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Fri, 16 Aug 2024 16:31:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Orion Innovation’s usage of Kernel Arguments】客户案例研究：Orion Innovation 对内核参数的使用</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-orion-innovations-usage-of-kernel-arguments</link>
-      <description>【Today we&amp;#8217;re featuring Vyshag Vadakara and Prasanth Thekkelthody from Orion Innovation and a recent article Vyshag published focused on Orion&amp;#8217;s usage of Microsoft Semantic Kernel. The article is linked here: Discover the Magic of Microsoft’s Semantic Kernel Arguments. &amp;nbsp; Getting Started The article highlights the benefits of using Semantic Kernel and the best way to learn through exploring the samples provided in the repository.】今天，我们将重点介绍 Orion Innovation 的 Vyshag Vadakara 和 Prasanth Thekkelthody，以及 Vyshag 最近发表的一篇文章，重点介绍了 Orion 对 Microsoft Semantic Kernel 的使用。该文章的链接如下：发现 Microsoft 语义内核参数的魔力。   入门 本文重点介绍了使用语义内核的好处以及通过探索存储库中提供的示例进行学习的最佳方法。</description>
-      <pubDate>Thu, 15 Aug 2024 23:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!】.NET Conf 2024 – 庆祝 .NET 9 的发布！ – 保存日期！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date</link>
-      <description>【Announcing .NET Conf 2024 - a free, three-day virtual developer event that celebrates the release of .NET 9.】宣布 .NET Conf 2024 - 一场为期三天的免费虚拟开发者活动，旨在庆祝 .NET 9 的发布。</description>
-      <pubDate>Wed, 14 Aug 2024 17:05:00 +0000</pubDate>
+      <title>【The case of the missing ordinal 380】序号 380 缺失的案例</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240816-00/?p=110136</link>
+      <description>【Untangling the error message and developing a theory.】理清错误消息并发展理论。</description>
+      <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【.NET 9 Preview 7 is now available!】.NET 9 预览版 7 现已推出！</title>
@@ -28,22 +22,10 @@
       <pubDate>Thu, 15 Aug 2024 20:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Teams Toolkit for Visual Studio Code update – August 2024】Teams Toolkit for Visual Studio Code 更新 – 2024 年 8 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-august-2024</link>
-      <description>【Learn about the latest Teams Toolkit for Visual Studio Code updates including the capability to create declarative copilots.】了解最新的 Teams Toolkit for Visual Studio Code 更新，包括创建声明性副驾驶的功能。</description>
-      <pubDate>Thu, 15 Aug 2024 14:54:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Updates on deprecating legacy Exchange Online tokens for Outlook add-ins】有关弃用 Outlook 加载项的旧版 Exchange Online 令牌的更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/updates-on-deprecating-legacy-exchange-online-tokens-for-outlook-add-ins</link>
-      <description>【In April, we announced that Exchange tokens will be turned off by default for all tenants in October 2024. This has been updated and you should have more time to move your Outlook add-ins from Exchange tokens to NAA.】今年 4 月，我们宣布将于 2024 年 10 月默认关闭所有租户的 Exchange 令牌。此内容已更新，您应该有更多时间将 Outlook 加载项从 Exchange 令牌移至 NAA。</description>
-      <pubDate>Wed, 14 Aug 2024 17:34:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Create scripts with Power Platform CLI】使用 Power Platform CLI 创建脚本</title>
-      <link>https://devblogs.microsoft.com/powerplatform/create-scripts-with-power-platform-cli</link>
-      <description>【The Power Platform CLI is a great tool to use when you are working with the Power Platform. You can create Power Apps Component Framework (PCF) components with it, you can do tons of administrative actions, and much more! You can run these one by one in the console when you&amp;#8217;re developing a Power Platform solution,】当您使用 Power Platform 时，Power Platform CLI 是一个非常有用的工具。您可以使用它创建 Power Apps 组件框架 (PCF) 组件，可以执行大量管理操作等等！当您开发 Power Platform 解决方案时，您可以在控制台中一一运行这些，</description>
-      <pubDate>Thu, 15 Aug 2024 15:00:48 +0000</pubDate>
+      <title>【Improving OpenJDK Scalar Replacement – Part 3/3】改进 OpenJDK 标量替换 – 第 3/3 部分</title>
+      <link>https://devblogs.microsoft.com/java/improving-openjdk-scalar-replacement-part-3-3</link>
+      <description>【Welcome to the final part of our series on scalar replacement in OpenJDK. In the previous posts, we covered the basics of scalar replacement and detailed the improvements we introduced to the implementation. Now, it&amp;#8217;s time to see these enhancements in action.】欢迎来到 OpenJDK 中标量替换系列的最后一部分。在之前的文章中，我们介绍了标量替换的基础知识，并详细介绍了我们在实现中引入的改进。现在，是时候看看这些增强功能的实际效果了。</description>
+      <pubDate>Thu, 15 Aug 2024 21:40:04 +0000</pubDate>
     </item>
     <item>
       <title>【Copilot Content Exclusion Now Available in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中现已提供 Copilot 内容排除功能</title>
@@ -52,16 +34,34 @@
       <pubDate>Thu, 15 Aug 2024 17:15:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Instead of putting a hash in the Portable Executable timestamp field, why not create a separate field for the hash?】为什么不为哈希创建一个单独的字段，而不是将哈希放在可移植可执行时间戳字段中？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240815-00/?p=110131</link>
-      <description>【That would defeat the purpose.】那会达不到目的。</description>
-      <pubDate>Thu, 15 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【Semantic Router using Azure AI Search】使用 Azure AI 搜索的语义路由器</title>
+      <link>https://devblogs.microsoft.com/ise/semantic-routing-using-azure-ai-search</link>
+      <description>【Potential semantic routing solution using Azure AI Search for scalable query handling.】使用 Azure AI 搜索进行可扩展查询处理的潜在语义路由解决方案。</description>
+      <pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Improving OpenJDK Scalar Replacement – Part 3/3】改进 OpenJDK 标量替换 - 第 3/3 部分</title>
-      <link>https://devblogs.microsoft.com/java/improving-openjdk-scalar-replacement-part-3-3</link>
-      <description>【Welcome to the final part of our series on scalar replacement in OpenJDK. In the previous posts, we covered the basics of scalar replacement and detailed the improvements we introduced to the implementation. Now, it&amp;#8217;s time to see these enhancements in action.】欢迎来到 OpenJDK 中标量替换系列的最后一部分。在之前的文章中，我们介绍了标量替换的基础知识，并详细介绍了我们在实现中引入的改进。现在，是时候看看这些增强功能的实际效果了。</description>
-      <pubDate>Thu, 15 Aug 2024 21:40:04 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Malware protection】Microsoft 365 认证控制焦点：恶意软件防护</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-malware-protection</link>
+      <description>【Read about the different ways that Microsoft 365 Certification validates anti-malware controls.】了解 Microsoft 365 认证验证反恶意软件控制的不同方式。</description>
+      <pubDate>Fri, 16 Aug 2024 15:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Simplify development with Dev Container templates for Azure SQL Database – Preview】使用 Azure SQL 数据库的开发容器模板简化开发 - 预览</title>
+      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-dev-containers</link>
+      <description>【In today&amp;#8217;s fast-paced software development landscape, having a reliable and efficient local development setup is crucial. Dev Containers provide developers with a seamless way to build and test applications locally before deploying them to the cloud. We are announcing the Public Preview of Dev Container templates for Azure SQL Database.】在当今快节奏的软件开发环境中，拥有可靠且高效的本地开发设置至关重要。开发容器为开发人员提供了一种在将应用程序部署到云之前在本地构建和测试应用程序的无缝方法。我们宣布推出 Azure SQL 数据库开发容器模板的公共预览版。</description>
+      <pubDate>Fri, 16 Aug 2024 15:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Orion Innovation’s usage of Kernel Arguments】客户案例研究：Orion Innovation 对内核参数的使用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-orion-innovations-usage-of-kernel-arguments</link>
+      <description>【Today we&amp;#8217;re featuring Vyshag Vadakara and Prasanth Thekkelthody from Orion Innovation and a recent article Vyshag published focused on Orion&amp;#8217;s usage of Microsoft Semantic Kernel. The article is linked here: Discover the Magic of Microsoft’s Semantic Kernel Arguments. &amp;nbsp; Getting Started The article highlights the benefits of using Semantic Kernel and the best way to learn through exploring the samples provided in the repository.】今天，我们将重点介绍 Orion Innovation 的 Vyshag Vadakara 和 Prasanth Thekkelthody，以及 Vyshag 最近发表的一篇文章，重点介绍了 Orion 对 Microsoft Semantic Kernel 的使用。该文章的链接如下：发现 Microsoft 语义内核参数的魔力。   入门 本文重点介绍了使用语义内核的好处以及通过探索存储库中提供的示例进行学习的最佳方法。</description>
+      <pubDate>Thu, 15 Aug 2024 23:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing a new learning module for evaluating and building with Microsoft Entra External ID】宣布推出新的学习模块，用于使用 Microsoft Entra 外部 ID 进行评估和构建</title>
+      <link>https://devblogs.microsoft.com/identity/external-id-learning-module</link>
+      <description>【Announcing a new learning module that helps you explore Microsoft Entra External ID. This module guides you through building a website for an online grocery store, demonstrating how to use External ID for customer sign-ups and sign-ins. It&#39;s a perfect starting point if you&#39;re new to External ID, offering a hands-on way to create a proof-of-concept project while discovering the platform&#39;s features and capabilities.】宣布推出新的学习模块，可帮助您探索 Microsoft Entra 外部 ID。本模块将指导您构建在线杂货店网站，演示如何使用外部 ID 进行客户注册和登录。如果您是外部 ID 的新手，那么这是一个完美的起点，它提供了一种创建概念验证项目的实践方法，同时发现该平台的特性和功能。</description>
+      <pubDate>Fri, 16 Aug 2024 15:01:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
