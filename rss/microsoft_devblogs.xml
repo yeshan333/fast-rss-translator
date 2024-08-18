@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Go 1.23.0-1 Microsoft build now available】Go 1.23.0-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-0-1-microsoft-build-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Fri, 16 Aug 2024 16:31:40 +0000</pubDate>
+      <title>【Customer Case Study: Orion Innovation’s usage of Kernel Arguments】客户案例研究：Orion Innovation 对内核参数的使用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-orion-innovations-usage-of-kernel-arguments</link>
+      <description>【Today we&amp;#8217;re featuring Vyshag Vadakara and Prasanth Thekkelthody from Orion Innovation and a recent article Vyshag published focused on Orion&amp;#8217;s usage of Microsoft Semantic Kernel. The article is linked here: Discover the Magic of Microsoft’s Semantic Kernel Arguments. &amp;nbsp; Getting Started The article highlights the benefits of using Semantic Kernel and the best way to learn through exploring the samples provided in the repository.】今天，我们将重点介绍 Orion Innovation 的 Vyshag Vadakara 和 Prasanth Thekkelthody，以及 Vyshag 最近发表的一篇文章，重点介绍了 Orion 对 Microsoft Semantic Kernel 的使用。该文章的链接如下：发现 Microsoft 语义内核参数的魔力。   入门 本文重点介绍了使用语义内核的好处以及通过探索存储库中提供的示例进行学习的最佳方法。</description>
+      <pubDate>Thu, 15 Aug 2024 23:18:33 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the missing ordinal 380】序号 380 缺失的案例</title>
@@ -16,10 +16,10 @@
       <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 9 Preview 7 is now available!】.NET 9 预览版 7 现已推出！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7</link>
-      <description>【Try out the latest features in .NET 9 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】跨 .NET 运行时、SDK、库、ASP.NET Core、Blazor、C#、.NET MAUI 等尝试 .NET 9 Preview 7 中的最新功能！</description>
-      <pubDate>Thu, 15 Aug 2024 20:25:00 +0000</pubDate>
+      <title>【Semantic Router using Azure AI Search】使用 Azure AI 搜索的语义路由器</title>
+      <link>https://devblogs.microsoft.com/ise/semantic-routing-using-azure-ai-search</link>
+      <description>【Potential semantic routing solution using Azure AI Search for scalable query handling.】使用 Azure AI 搜索进行可扩展查询处理的潜在语义路由解决方案。</description>
+      <pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Improving OpenJDK Scalar Replacement – Part 3/3】改进 OpenJDK 标量替换 – 第 3/3 部分</title>
@@ -28,22 +28,10 @@
       <pubDate>Thu, 15 Aug 2024 21:40:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Copilot Content Exclusion Now Available in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中现已提供 Copilot 内容排除功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio</link>
-      <description>【We are excited to announce that Copilot Content Exclusion is now available in Visual Studio 2022 17.11. This feature allows your admins to configure Copilot to ignore certain files in a repository or organization, giving you enterprise control that ensures sensitive information is protected while seamlessly integrating trusted AI for efficient coding.】我们很高兴地宣布，Copilot 内容排除现已在 Visual Studio 2022 17.11 中推出。此功能允许您的管理员将 Copilot 配置为忽略存储库或组织中的某些文件，从而为您提供企业控制，确保敏感信息受到保护，同时无缝集成可信 AI 以实现高效编码。</description>
-      <pubDate>Thu, 15 Aug 2024 17:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Router using Azure AI Search】使用 Azure AI 搜索的语义路由器</title>
-      <link>https://devblogs.microsoft.com/ise/semantic-routing-using-azure-ai-search</link>
-      <description>【Potential semantic routing solution using Azure AI Search for scalable query handling.】使用 Azure AI 搜索进行可扩展查询处理的潜在语义路由解决方案。</description>
-      <pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Malware protection】Microsoft 365 认证控制焦点：恶意软件防护</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-malware-protection</link>
-      <description>【Read about the different ways that Microsoft 365 Certification validates anti-malware controls.】了解 Microsoft 365 认证验证反恶意软件控制的不同方式。</description>
-      <pubDate>Fri, 16 Aug 2024 15:39:35 +0000</pubDate>
+      <title>【.NET 9 Preview 7 is now available!】.NET 9 Preview 7 现已推出！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7</link>
+      <description>【Try out the latest features in .NET 9 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】跨 .NET 运行时、SDK、库、ASP.NET Core、Blazor、C#、.NET MAUI 等尝试 .NET 9 Preview 7 中的最新功能！</description>
+      <pubDate>Thu, 15 Aug 2024 20:25:00 +0000</pubDate>
     </item>
     <item>
       <title>【Simplify development with Dev Container templates for Azure SQL Database – Preview】使用 Azure SQL 数据库的开发容器模板简化开发 - 预览</title>
@@ -52,16 +40,28 @@
       <pubDate>Fri, 16 Aug 2024 15:40:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Orion Innovation’s usage of Kernel Arguments】客户案例研究：Orion Innovation 对内核参数的使用</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-orion-innovations-usage-of-kernel-arguments</link>
-      <description>【Today we&amp;#8217;re featuring Vyshag Vadakara and Prasanth Thekkelthody from Orion Innovation and a recent article Vyshag published focused on Orion&amp;#8217;s usage of Microsoft Semantic Kernel. The article is linked here: Discover the Magic of Microsoft’s Semantic Kernel Arguments. &amp;nbsp; Getting Started The article highlights the benefits of using Semantic Kernel and the best way to learn through exploring the samples provided in the repository.】今天，我们将重点介绍 Orion Innovation 的 Vyshag Vadakara 和 Prasanth Thekkelthody，以及 Vyshag 最近发表的一篇文章，重点介绍了 Orion 对 Microsoft Semantic Kernel 的使用。该文章的链接如下：发现 Microsoft 语义内核参数的魔力。   入门 本文重点介绍了使用语义内核的好处以及通过探索存储库中提供的示例进行学习的最佳方法。</description>
-      <pubDate>Thu, 15 Aug 2024 23:18:33 +0000</pubDate>
-    </item>
-    <item>
       <title>【Announcing a new learning module for evaluating and building with Microsoft Entra External ID】宣布推出新的学习模块，用于使用 Microsoft Entra 外部 ID 进行评估和构建</title>
       <link>https://devblogs.microsoft.com/identity/external-id-learning-module</link>
       <description>【Announcing a new learning module that helps you explore Microsoft Entra External ID. This module guides you through building a website for an online grocery store, demonstrating how to use External ID for customer sign-ups and sign-ins. It&#39;s a perfect starting point if you&#39;re new to External ID, offering a hands-on way to create a proof-of-concept project while discovering the platform&#39;s features and capabilities.】宣布推出新的学习模块，可帮助您探索 Microsoft Entra 外部 ID。本模块将指导您构建在线杂货店网站，演示如何使用外部 ID 进行客户注册和登录。如果您是外部 ID 的新手，那么这是一个完美的起点，它提供了一种创建概念验证项目的实践方法，同时发现该平台的特性和功能。</description>
       <pubDate>Fri, 16 Aug 2024 15:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.23.0-1 Microsoft build now available】Go 1.23.0-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-0-1-microsoft-build-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Fri, 16 Aug 2024 16:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Malware protection】Microsoft 365 认证控制焦点：恶意软件防护</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-malware-protection</link>
+      <description>【Read about the different ways that Microsoft 365 Certification validates anti-malware controls.】了解 Microsoft 365 认证验证反恶意软件控制的不同方式。</description>
+      <pubDate>Fri, 16 Aug 2024 15:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Copilot Content Exclusion Now Available in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中现已提供 Copilot 内容排除功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio</link>
+      <description>【We are excited to announce that Copilot Content Exclusion is now available in Visual Studio 2022 17.11. This feature allows your admins to configure Copilot to ignore certain files in a repository or organization, giving you enterprise control that ensures sensitive information is protected while seamlessly integrating trusted AI for efficient coding.】我们很高兴地宣布，Copilot 内容排除现已在 Visual Studio 2022 17.11 中推出。此功能允许您的管理员将 Copilot 配置为忽略存储库或组织中的某些文件，从而为您提供企业控制，确保敏感信息受到保护，同时无缝集成可信 AI 以实现高效编码。</description>
+      <pubDate>Thu, 15 Aug 2024 17:15:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

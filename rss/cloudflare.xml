@@ -4,30 +4,6 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【The backbone behind Cloudflare’s Connectivity Cloud】Cloudflare 连接云背后的支柱</title>
-      <link>https://blog.cloudflare.com/backbone2024</link>
-      <description>【 Read through the latest milestones and expansions of Cloudflare&#39;s global backbone and how it supports our Connectivity Cloud and our services 】了解 Cloudflare 全球主干网的最新里程碑和扩展，以及它如何支持我们的 Connectivity Cloud 和我们的服务</description>
-      <pubDate>Tue, 06 Aug 2024 13:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing HTTP request traffic insights on Cloudflare Radar】在 Cloudflare Radar 上引入 HTTP 请求流量洞察</title>
-      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
-      <description>【 The traffic graphs on Cloudflare Radar have been enhanced to include HTTP request traffic. This new metric complements the existing bytes-based “HTTP traffic” view, and the new graphs can be found on Radar’s Overview and Traffic pages 】Cloudflare Radar 上的流量图已得到增强，包含 HTTP 请求流量。这个新指标补充了现有的基于字节的“HTTP 流量”视图，新的图表可以在 Radar 的概述和流量页面上找到</description>
-      <pubDate>Tue, 13 Aug 2024 13:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing high-definition portrait video support for Cloudflare Stream】推出对 Cloudflare Stream 的高清肖像视频支持</title>
-      <link>https://blog.cloudflare.com/introducing-high-definition-portrait-video-support-for-cloudflare-stream</link>
-      <description>【 Cloudflare Stream is an end-to-end solution for video encoding, storage, delivery, and playback, focused on simplifying all aspects of video for developers. Newly uploaded or ingested portrait videos will now automatically be processed in full HD quality 】Cloudflare Stream 是一种用于视频编码、存储、交付和播放的端到端解决方案，专注于为开发人员简化视频的各个方面。新上传或摄取的肖像视频现在将自动以全高清质量进行处理</description>
-      <pubDate>Fri, 16 Aug 2024 13:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A recent spate of Internet disruptions】最近一系列的互联网中断</title>
-      <link>https://blog.cloudflare.com/a-recent-spate-of-internet-disruptions-july-2024</link>
-      <description>【 Cloudflare Radar is constantly monitoring the Internet for widespread disruptions. Here we examine several recent  noteworthy disruptions detected in the first month of Q3, including traffic anomalies observed in Bangladesh, Syria, Pakistan, and Venezuela 】Cloudflare Radar 持续监控互联网是否存在大范围中断。在这里，我们研究了第三季度第一个月最近检测到的几个值得注意的中断，包括在孟加拉国、叙利亚、巴基斯坦和委内瑞拉观察到的交通异常</description>
-      <pubDate>Thu, 01 Aug 2024 14:21:15 +0000</pubDate>
-    </item>
-    <item>
       <title>【Advancing Threat Intelligence: JA4 fingerprints and inter-request signals】推进威胁情报：JA4 指纹和请求间信号</title>
       <link>https://blog.cloudflare.com/ja4-signals</link>
       <description>【 Explore how Cloudflare&#39;s JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection 】探索 Cloudflare 的 JA4 指纹识别和请求间信号如何为高级 Web 安全和威胁检测提供强大且可扩展的见解</description>
@@ -46,6 +22,30 @@
       <pubDate>Thu, 08 Aug 2024 13:05:18 +0000</pubDate>
     </item>
     <item>
+      <title>【Introducing high-definition portrait video support for Cloudflare Stream】推出对 Cloudflare Stream 的高清肖像视频支持</title>
+      <link>https://blog.cloudflare.com/introducing-high-definition-portrait-video-support-for-cloudflare-stream</link>
+      <description>【 Cloudflare Stream is an end-to-end solution for video encoding, storage, delivery, and playback, focused on simplifying all aspects of video for developers. Newly uploaded or ingested portrait videos will now automatically be processed in full HD quality 】Cloudflare Stream 是一种用于视频编码、存储、交付和播放的端到端解决方案，专注于为开发人员简化视频的各个方面。新上传或摄取的肖像视频现在将自动以全高清质量进行处理</description>
+      <pubDate>Fri, 16 Aug 2024 13:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing HTTP request traffic insights on Cloudflare Radar】在 Cloudflare Radar 上引入 HTTP 请求流量洞察</title>
+      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
+      <description>【 The traffic graphs on Cloudflare Radar have been enhanced to include HTTP request traffic. This new metric complements the existing bytes-based “HTTP traffic” view, and the new graphs can be found on Radar’s Overview and Traffic pages 】Cloudflare Radar 上的流量图已得到增强，包含 HTTP 请求流量。这个新指标补充了现有的基于字节的“HTTP 流量”视图，新的图表可以在 Radar 的概述和流量页面上找到</description>
+      <pubDate>Tue, 13 Aug 2024 13:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The backbone behind Cloudflare’s Connectivity Cloud】Cloudflare 连接云背后的支柱</title>
+      <link>https://blog.cloudflare.com/backbone2024</link>
+      <description>【 Read through the latest milestones and expansions of Cloudflare&#39;s global backbone and how it supports our Connectivity Cloud and our services 】了解 Cloudflare 全球主干网的最新里程碑和扩展，以及它如何支持我们的 Connectivity Cloud 和我们的服务</description>
+      <pubDate>Tue, 06 Aug 2024 13:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments】2024 年巴黎奥运会回顾：互联网趋势、网络威胁和热门时刻</title>
+      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
+      <description>【 As the Paris 2024 Olympics ended, our analysis shows the event’s impact on the Internet in France and other countries at different moments, its effect on specific web properties, and a spike in cyber threats and emails related to Simone Biles and others 】随着 2024 年巴黎奥运会结束，我们的分析显示了该赛事在不同时刻对法国和其他国家互联网的影响、对特定网络资产的影响，以及与西蒙·拜尔斯 (Simone Biles) 等人相关的网络威胁和电子邮件的激增</description>
+      <pubDate>Wed, 14 Aug 2024 13:00:34 +0000</pubDate>
+    </item>
+    <item>
       <title>【Celebrating one year of Project Cybersafe Schools】庆祝网络安全学校项目一周年</title>
       <link>https://blog.cloudflare.com/celebrating-one-year-of-project-cybersafe-schools</link>
       <description>【 August 8, 2024, marks the first anniversary of Project Cybersafe Schools, Cloudflare’s initiative to provide small K-12 public school districts in the United States with a package of Zero Trust cybersecurity solutions – for free, and with no time limit 】2024 年 8 月 8 日是网络安全学校项目一周年纪念日，该项目是 Cloudflare 的一项举措，旨在为美国小型 K-12 公立学区免费提供一揽子零信任网络安全解决方案，且没有时间限制</description>
@@ -58,10 +58,10 @@
       <pubDate>Fri, 16 Aug 2024 13:00:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments】2024 年巴黎奥运会回顾：互联网趋势、网络威胁和热门时刻</title>
-      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
-      <description>【 As the Paris 2024 Olympics ended, our analysis shows the event’s impact on the Internet in France and other countries at different moments, its effect on specific web properties, and a spike in cyber threats and emails related to Simone Biles and others 】随着 2024 年巴黎奥运会结束，我们的分析显示了该赛事在不同时刻对法国和其他国家互联网的影响、对特定网络资产的影响，以及与西蒙·拜尔斯 (Simone Biles) 等人相关的网络威胁和电子邮件的激增</description>
-      <pubDate>Wed, 14 Aug 2024 13:00:34 +0000</pubDate>
+      <title>【A recent spate of Internet disruptions】最近一系列的互联网中断</title>
+      <link>https://blog.cloudflare.com/a-recent-spate-of-internet-disruptions-july-2024</link>
+      <description>【 Cloudflare Radar is constantly monitoring the Internet for widespread disruptions. Here we examine several recent  noteworthy disruptions detected in the first month of Q3, including traffic anomalies observed in Bangladesh, Syria, Pakistan, and Venezuela 】Cloudflare Radar 持续监控互联网是否存在大范围中断。在这里，我们研究了第三季度第一个月最近检测到的几个值得注意的中断，包括在孟加拉国、叙利亚、巴基斯坦和委内瑞拉观察到的交通异常</description>
+      <pubDate>Thu, 01 Aug 2024 14:21:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
