@@ -4,16 +4,16 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【A recent spate of Internet disruptions】最近一系列的互联网中断</title>
-      <link>https://blog.cloudflare.com/a-recent-spate-of-internet-disruptions-july-2024</link>
-      <description>【 Cloudflare Radar is constantly monitoring the Internet for widespread disruptions. Here we examine several recent  noteworthy disruptions detected in the first month of Q3, including traffic anomalies observed in Bangladesh, Syria, Pakistan, and Venezuela 】Cloudflare Radar 持续监控互联网是否存在大范围中断。在这里，我们研究了第三季度第一个月最近检测到的几个值得注意的中断，包括在孟加拉国、叙利亚、巴基斯坦和委内瑞拉观察到的交通异常</description>
-      <pubDate>Thu, 01 Aug 2024 14:21:15 +0000</pubDate>
+      <title>【Advancing Threat Intelligence: JA4 fingerprints and inter-request signals】推进威胁情报：JA4 指纹和请求间信号</title>
+      <link>https://blog.cloudflare.com/ja4-signals</link>
+      <description>【 Explore how Cloudflare&#39;s JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection 】探索 Cloudflare 的 JA4 指纹识别和请求间信号如何为高级 Web 安全和威胁检测提供强大且可扩展的见解</description>
+      <pubDate>Mon, 12 Aug 2024 13:00:52 +0000</pubDate>
     </item>
     <item>
-      <title>【Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments】2024 年巴黎奥运会回顾：互联网趋势、网络威胁和热门时刻</title>
-      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
-      <description>【 As the Paris 2024 Olympics ended, our analysis shows the event’s impact on the Internet in France and other countries at different moments, its effect on specific web properties, and a spike in cyber threats and emails related to Simone Biles and others 】随着 2024 年巴黎奥运会结束，我们的分析显示了该赛事在不同时刻对法国和其他国家互联网的影响、对特定网络资产的影响，以及与西蒙·拜尔斯 (Simone Biles) 等人相关的网络威胁和电子邮件的激增</description>
-      <pubDate>Wed, 14 Aug 2024 13:00:34 +0000</pubDate>
+      <title>【Rising together: honoring Cloudflare’s outstanding partners】共同崛起：表彰 Cloudflare 的杰出合作伙伴</title>
+      <link>https://blog.cloudflare.com/partner-award-winners-2023</link>
+      <description>【 Cloudflare’s success is fueled by exceptional partnerships. Our PowerUP program empowers these collaborations, driving innovation, profitability, and growth. We celebrate outstanding achievements with the Partner Awards. Let’s recognize the partners shaping our future 】Cloudflare 的成功得益于卓越的合作伙伴关系。我们的 PowerUP 计划为这些合作提供支持，推动创新、盈利和增长。我们通过合作伙伴奖来庆祝杰出成就。让我们认识那些塑造我们未来的合作伙伴</description>
+      <pubDate>Mon, 12 Aug 2024 22:00:23 +0000</pubDate>
     </item>
     <item>
       <title>【Celebrating one year of Project Cybersafe Schools】庆祝网络安全学校项目一周年</title>
@@ -28,28 +28,10 @@
       <pubDate>Fri, 16 Aug 2024 13:00:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Advancing Threat Intelligence: JA4 fingerprints and inter-request signals】推进威胁情报：JA4 指纹和请求间信号</title>
-      <link>https://blog.cloudflare.com/ja4-signals</link>
-      <description>【 Explore how Cloudflare&#39;s JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection 】探索 Cloudflare 的 JA4 指纹识别和请求间信号如何为高级 Web 安全和威胁检测提供强大且可扩展的见解</description>
-      <pubDate>Mon, 12 Aug 2024 13:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Rising together: honoring Cloudflare’s outstanding partners】共同崛起：表彰 Cloudflare 的杰出合作伙伴</title>
-      <link>https://blog.cloudflare.com/partner-award-winners-2023</link>
-      <description>【 Cloudflare’s success is fueled by exceptional partnerships. Our PowerUP program empowers these collaborations, driving innovation, profitability, and growth. We celebrate outstanding achievements with the Partner Awards. Let’s recognize the partners shaping our future 】Cloudflare 的成功得益于卓越的合作伙伴关系。我们的 PowerUP 计划为这些合作提供支持，推动创新、盈利和增长。我们通过合作伙伴奖来庆祝杰出成就。让我们认识那些塑造我们未来的合作伙伴</description>
-      <pubDate>Mon, 12 Aug 2024 22:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The backbone behind Cloudflare’s Connectivity Cloud】Cloudflare 连接云背后的支柱</title>
-      <link>https://blog.cloudflare.com/backbone2024</link>
-      <description>【 Read through the latest milestones and expansions of Cloudflare&#39;s global backbone and how it supports our Connectivity Cloud and our services 】了解 Cloudflare 全球主干网的最新里程碑和扩展，以及它如何支持我们的 Connectivity Cloud 和我们的服务</description>
-      <pubDate>Tue, 06 Aug 2024 13:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing HTTP request traffic insights on Cloudflare Radar】在 Cloudflare Radar 上引入 HTTP 请求流量洞察</title>
-      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
-      <description>【 The traffic graphs on Cloudflare Radar have been enhanced to include HTTP request traffic. This new metric complements the existing bytes-based “HTTP traffic” view, and the new graphs can be found on Radar’s Overview and Traffic pages 】Cloudflare Radar 上的流量图已得到增强，包含 HTTP 请求流量。这个新指标补充了现有的基于字节的“HTTP 流量”视图，新的图表可以在 Radar 的概述和流量页面上找到</description>
-      <pubDate>Tue, 13 Aug 2024 13:00:24 +0000</pubDate>
+      <title>【A wild week in phishing, and what it means for you】网络钓鱼的疯狂一周及其对您意味着什么</title>
+      <link>https://blog.cloudflare.com/a-wild-week-in-phishing-and-what-it-means-for-you</link>
+      <description>【 From the U.S. elections and geopolitical conflict to tens of millions in corporate dollars lost, phishing remains the root cause of cyber damages. Learn why a comprehensive solution is the best way to stay protected 】从美国大选和地缘政治冲突到数千万美元的企业损失，网络钓鱼仍然是网络损害的根本原因。了解为什么全面的解决方案是保持保护的最佳方式</description>
+      <pubDate>Fri, 16 Aug 2024 17:34:14 +0000</pubDate>
     </item>
     <item>
       <title>【Simplify cloud routing and object storage configurations with Cloud Connector】使用 Cloud Connector 简化云路由和对象存储配置</title>
@@ -58,10 +40,28 @@
       <pubDate>Fri, 16 Aug 2024 13:00:18 +0000</pubDate>
     </item>
     <item>
+      <title>【Introducing HTTP request traffic insights on Cloudflare Radar】在 Cloudflare Radar 上引入 HTTP 请求流量洞察</title>
+      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
+      <description>【 The traffic graphs on Cloudflare Radar have been enhanced to include HTTP request traffic. This new metric complements the existing bytes-based “HTTP traffic” view, and the new graphs can be found on Radar’s Overview and Traffic pages 】Cloudflare Radar 上的流量图已得到增强，包含 HTTP 请求流量。这个新指标补充了现有的基于字节的“HTTP 流量”视图，新的图表可以在 Radar 的概述和流量页面上找到</description>
+      <pubDate>Tue, 13 Aug 2024 13:00:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing Automatic SSL/TLS: securing and simplifying origin connectivity】引入自动 SSL/TLS：保护和简化源连接</title>
       <link>https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity</link>
       <description>【 This new Automatic SSL/TLS setting will maximize and simplify the encryption modes Cloudflare uses to communicate with origin servers by using the SSL/TLS Recommender 】这一新的自动 SSL/TLS 设置将最大化并简化 Cloudflare 通过使用 SSL/TLS Recommender 与源服务器进行通信的加密模式</description>
       <pubDate>Thu, 08 Aug 2024 13:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments】2024 年巴黎奥运会回顾：互联网趋势、网络威胁和热门时刻</title>
+      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
+      <description>【 As the Paris 2024 Olympics ended, our analysis shows the event’s impact on the Internet in France and other countries at different moments, its effect on specific web properties, and a spike in cyber threats and emails related to Simone Biles and others 】随着 2024 年巴黎奥运会结束，我们的分析显示了该赛事在不同时刻对法国和其他国家互联网的影响、对特定网络资产的影响，以及与西蒙·拜尔斯 (Simone Biles) 等人相关的网络威胁和电子邮件的激增</description>
+      <pubDate>Wed, 14 Aug 2024 13:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Summer 2024 weather report: Cloudflare with a chance of Intern-ets】2024 年夏季天气预报：Cloudflare 有机会实现互联网</title>
+      <link>https://blog.cloudflare.com/2024-interns</link>
+      <description>【 This summer, Cloudflare welcomed approximately 60 interns from all around the globe, on a mission to #HelpBuildABetterInternet. Join us as we dive into what we were able to accomplish and our experiences! 】今年夏天，Cloudflare 迎来了来自全球各地的约 60 名实习生，他们的使命是 #HelpBuildABetterInternet。加入我们，深入了解我们能够实现的目标和我们的经验！</description>
+      <pubDate>Mon, 19 Aug 2024 13:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
