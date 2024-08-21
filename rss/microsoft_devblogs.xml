@@ -4,10 +4,52 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【Simplify development with Dev Container templates for Azure SQL Database – Preview】使用 Azure SQL 数据库的开发容器模板简化开发 - 预览</title>
+      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-dev-containers</link>
+      <description>【In today&amp;#8217;s fast-paced software development landscape, having a reliable and efficient local development setup is crucial. Dev Containers provide developers with a seamless way to build and test applications locally before deploying them to the cloud. We are announcing the Public Preview of Dev Container templates for Azure SQL Database.】在当今快节奏的软件开发环境中，拥有可靠且高效的本地开发设置至关重要。开发容器为开发人员提供了一种在将应用程序部署到云之前在本地构建和测试应用程序的无缝方法。我们宣布推出 Azure SQL 数据库开发容器模板的公共预览版。</description>
+      <pubDate>Fri, 16 Aug 2024 15:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Boards Hub Rollout Update】新板中心推出更新</title>
+      <link>https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2</link>
+      <description>【Back in March, we shared an update on our initiative to make the New Boards Hub the default experience for all organizations. However, that rollout was delayed as we shifted priorities for several months. Today, we&amp;#8217;re excited to announce that the rollout of the New Boards Hub is back on track.】早在三月份，我们就分享了有关让新董事会中心成为所有组织的默认体验的计划的最新信息。然而，由于我们将优先事项转移了几个月，该推出被推迟了。今天，我们很高兴地宣布新董事会中心的推出已重回正轨。</description>
+      <pubDate>Tue, 20 Aug 2024 17:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New debugging and diagnostic features】新的调试和诊断功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features</link>
+      <description>【Debugging and diagnostics are vital skills for any developer, but they can also be difficult and time-consuming to get proficient . That&amp;#8217;s why we&amp;#8217;ve added some fantastic new features and enhancements to Visual Studio 2022 v17.11 that will help you find and resolve bugs faster and easier than ever before.】调试和诊断对于任何开发人员来说都是至关重要的技能，但要精通它们也可能很困难且耗时。因此，我们在 Visual Studio 2022 v17.11 中添加了一些出色的新功能和增强功能，以帮助您比以往更快、更轻松地查找和解决错误。</description>
+      <pubDate>Tue, 20 Aug 2024 10:00:11 +0000</pubDate>
+    </item>
+    <item>
       <title>【New Azure DevOps Server Roadmap】新的 Azure DevOps 服务器路线图</title>
       <link>https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap</link>
       <description>【While we recommend our hosted service for most customers due to its scalability and flexibility, we understand the importance of the on-premises version for many of our customers. Therefore, we remain committed to providing support and improvement for both versions. Previously,】虽然我们因其可扩展性和灵活性而向大多数客户推荐我们的托管服务，但我们了解本地版本对于许多客户的重要性。因此，我们仍然致力于为这两个版本提供支持和改进。之前，</description>
       <pubDate>Mon, 19 Aug 2024 21:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Constructing nodes of a hand-made linked list, how hard can it be?】构建一个手工链表的节点，有多难？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240819-00/?p=110145</link>
+      <description>【Trying to force copy elision.】试图强制复制省略。</description>
+      <pubDate>Mon, 19 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Public preview of SharePoint Framework 1.20 – First release of upcoming features】SharePoint 框架 1.20 的公共预览版 – 即将推出的功能的第一个版本</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-20-first-release-of-upcoming-features</link>
+      <description>【We are excited to announce the first preview of the upcoming SharePoint Framework 1.20. This time focus is primarily on the Microsoft Viva platform capabilities.】我们很高兴地宣布即将推出的 SharePoint Framework 1.20 的第一个预览版。这次的重点主要是 Microsoft Viva 平台功能。</description>
+      <pubDate>Tue, 20 Aug 2024 13:05:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Another tribute to Microsoft history hiding in Building 41】隐藏在 41 号楼​​的另一项对微软历史的致敬</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240820-00/?p=110152</link>
+      <description>【Logo touches.】标志触动。</description>
+      <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: KPMG Clara AI and Microsoft’s Semantic Kernel】客户案例研究：KPMG Clara AI 和 Microsoft 的语义内核</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-kpmg-clara-ai-and-microsofts-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re featuring KPMG on our Semantic Kernel blog for their work on Clara AI in KPMG. You can learn more about the solution here: KPMG Partnership with Microsoft&amp;#8217;s Semantic Kernel Here&amp;#8217;s a quote from KPMG on the partnership, &amp;#8220;Microsoft and KPMG entered a strategic alliance to modernize the work of KPMG professionals.】今天，我们在语义内核博客上重点介绍毕马威 (KPMG) 在毕马威 (KPMG) 在 Clara AI 方面的工作。您可以在此处了解有关该解决方案的更多信息：毕马威与微软语义内核的合作关系以下是毕马威关于合作伙伴关系的引述：“微软和毕马威建立了战略联盟，以实现毕马威专业人员的工作现代化。</description>
+      <pubDate>Tue, 20 Aug 2024 16:57:10 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.23.0-1 Microsoft build now available】Go 1.23.0-1 Microsoft 版本现已推出</title>
@@ -20,48 +62,6 @@
       <link>https://devblogs.microsoft.com/visualstudio/new-git-tooling-features</link>
       <description>【Visual Studio 2022 v17.11 includes fantastic updates to everyone working with Git. They bring the richness of both GitHub and Azure DevOps into Visual Studio and part of your natural workflow. This greatly simplifies your inner loop, making you even more productive than before.】Visual Studio 2022 v17.11 为所有使用 Git 的人提供了精彩的更新。它们将 GitHub 和 Azure DevOps 的丰富性带入 Visual Studio 中，并成为您自然工作流程的一部分。这极大地简化了您的内部循环，使您比以前更加高效。</description>
       <pubDate>Mon, 19 Aug 2024 10:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Malware protection】Microsoft 365 认证控制焦点：恶意软件防护</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-malware-protection</link>
-      <description>【Read about the different ways that Microsoft 365 Certification validates anti-malware controls.】了解 Microsoft 365 认证验证反恶意软件控制的不同方式。</description>
-      <pubDate>Fri, 16 Aug 2024 15:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Simplify development with Dev Container templates for Azure SQL Database – Preview】使用 Azure SQL 数据库的开发容器模板简化开发 - 预览</title>
-      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-dev-containers</link>
-      <description>【In today&amp;#8217;s fast-paced software development landscape, having a reliable and efficient local development setup is crucial. Dev Containers provide developers with a seamless way to build and test applications locally before deploying them to the cloud. We are announcing the Public Preview of Dev Container templates for Azure SQL Database.】在当今快节奏的软件开发环境中，拥有可靠且高效的本地开发设置至关重要。开发容器为开发人员提供了一种在将应用程序部署到云之前在本地构建和测试应用程序的无缝方法。我们宣布推出 Azure SQL 数据库开发容器模板的公共预览版。</description>
-      <pubDate>Fri, 16 Aug 2024 15:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the missing ordinal 380】序号 380 缺失的案例</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240816-00/?p=110136</link>
-      <description>【Untangling the error message and developing a theory.】理清错误消息并发展理论。</description>
-      <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Constructing nodes of a hand-made linked list, how hard can it be?】构建一个手工链表的节点，有多难？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240819-00/?p=110145</link>
-      <description>【Trying to force copy elision.】试图强制复制省略。</description>
-      <pubDate>Mon, 19 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Router using Azure AI Search】使用 Azure AI 搜索的语义路由器</title>
-      <link>https://devblogs.microsoft.com/ise/semantic-routing-using-azure-ai-search</link>
-      <description>【Potential semantic routing solution using Azure AI Search for scalable query handling.】使用 Azure AI 搜索进行可扩展查询处理的潜在语义路由解决方案。</description>
-      <pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: Orion Innovation’s usage of Kernel Arguments】客户案例研究：Orion Innovation 对内核参数的使用</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-orion-innovations-usage-of-kernel-arguments</link>
-      <description>【Today we&amp;#8217;re featuring Vyshag Vadakara and Prasanth Thekkelthody from Orion Innovation and a recent article Vyshag published focused on Orion&amp;#8217;s usage of Microsoft Semantic Kernel. The article is linked here: Discover the Magic of Microsoft’s Semantic Kernel Arguments. &amp;nbsp; Getting Started The article highlights the benefits of using Semantic Kernel and the best way to learn through exploring the samples provided in the repository.】今天，我们将重点介绍 Orion Innovation 的 Vyshag Vadakara 和 Prasanth Thekkelthody，以及 Vyshag 最近发表的一篇文章，重点介绍了 Orion 对 Microsoft Semantic Kernel 的使用。该文章的链接如下：发现 Microsoft 语义内核参数的魔力。   入门 本文重点介绍了使用语义内核的好处以及通过探索存储库中提供的示例进行学习的最佳方法。</description>
-      <pubDate>Thu, 15 Aug 2024 23:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing a new learning module for evaluating and building with Microsoft Entra External ID】宣布推出新的学习模块，用于使用 Microsoft Entra 外部 ID 进行评估和构建</title>
-      <link>https://devblogs.microsoft.com/identity/external-id-learning-module</link>
-      <description>【Announcing a new learning module that helps you explore Microsoft Entra External ID. This module guides you through building a website for an online grocery store, demonstrating how to use External ID for customer sign-ups and sign-ins. It&#39;s a perfect starting point if you&#39;re new to External ID, offering a hands-on way to create a proof-of-concept project while discovering the platform&#39;s features and capabilities.】宣布推出新的学习模块，可帮助您探索 Microsoft Entra 外部 ID。本模块将指导您构建在线杂货店网站，演示如何使用外部 ID 进行客户注册和登录。如果您是外部 ID 的新手，那么这是一个完美的起点，它提供了一种创建概念验证项目的实践方法，同时发现该平台的特性和功能。</description>
-      <pubDate>Fri, 16 Aug 2024 15:01:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

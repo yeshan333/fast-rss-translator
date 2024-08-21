@@ -4,52 +4,10 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【‍Go deeper: Linux runtime visibility meets Wireshark】‍更深入：Linux 运行时可见性与 Wireshark 的结合</title>
-      <link>https://www.aquasec.com/blog/go-deeper-linux-runtime-visibility-meets-wireshark/</link>
-      <description>【Aqua announces Traceeshark, a plugin for Wireshark that enables visual and interactive analysis of eBPF-based Tracee events, which include kernel-level events and behavioral detections, together with network traffic】Aqua 宣布推出 Traceeshark，这是 Wireshark 的一个插件，可以对基于 eBPF 的 Tracee 事件进行可视化和交互式分析，其中包括内核级事件和行为检测以及网络流量</description>
-      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Hello eBPF: A Packet Logger in Pure Java using TC and XDP Hooks (13)】‍Hello eBPF：使用 TC 和 XDP Hooks 的纯 Java 数据包记录器 (13)</title>
-      <link>https://levelup.gitconnected.com/part-2-ebpf-map-metrics-prometheus-exporter-fd2e3f12239a</link>
-      <description>【The thirteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a packet logger in pure Java using TC and XDP hooks】Hello eBPF 系列的第十三部分。在这一部分中，您将学习如何使用 TC 和 XDP hooks 在纯 Java 中构建数据包记录器</description>
-      <pubDate>Tue, 13 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability】‍深入探讨 CVE-2023-2163：我们如何发现并修复 eBPF Linux 内核漏洞</title>
-      <link>https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability</link>
-      <description>【Learn about the discovery of CVE-2023-2163, a vulnerability within the eBPF verifier, what the root-cause analysis process looked like, and what was done to fix the issue】了解 eBPF 验证器中的漏洞 CVE-2023-2163 的发现、根本原因分析过程是什么样的，以及解决该问题所采取的措施</description>
-      <pubDate>Thu, 08 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【‍Part 2: eBPF Map Metrics Prometheus Exporter】‍第 2 部分：eBPF Map Metrics Prometheus Exporter</title>
       <link>https://levelup.gitconnected.com/part-2-ebpf-map-metrics-prometheus-exporter-fd2e3f12239a</link>
       <description>【Learn about eBPF Iterators and how to export eBPF Map metrics without altering your application stack】了解 eBPF 迭代器以及如何在不更改应用程序堆栈的情况下导出 eBPF Map 指标</description>
       <pubDate>Fri, 09 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍extended Berkeley Packet Filter (eBPF) for Cloud Computing】‍用于云计算的扩展伯克利数据包过滤器（eBPF）</title>
-      <link>https://dzone.com/articles/ebpf-for-cloud-computing</link>
-      <description>【Learn about eBPF and how it is used today in cloud computing】了解 eBPF 及其当今在云计算中的使用方式</description>
-      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Writing eBPF RawTracepoint Program with Rust Aya】‍用 Rust Aya 编写 eBPF RawTracepoint 程序</title>
-      <link>https://yuki-nakamura.com/2024/08/12/writing-ebpf-rawtracepoint-program-with-rust-aya/</link>
-      <description>【Learn how to write an eBPF RawTracepoint program using Aya with Rust】了解如何使用 Aya 和 Rust 编写 eBPF RawTracepoint 程序</description>
-      <pubDate>Mon, 12 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Introduction To Writing eBPF Programs for Linux Security】‍为 Linux 安全编写 eBPF 程序简介</title>
-      <link>https://www.itprotoday.com/linux-os/introduction-to-writing-ebpf-programs-for-linux-security</link>
-      <description>【Learn about eBPF and how to write eBPF programs for Linux security】了解 eBPF 以及如何编写用于 Linux 安全的 eBPF 程序</description>
-      <pubDate>Thu, 08 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Re-implementing my Linux Rust scheduler in eBPF】‍在 eBPF 中重新实现我的 Linux Rust 调度程序</title>
-      <link>https://arighi.blogspot.com/2024/08/re-implementing-my-linux-rust-scheduler.html</link>
-      <description>【Learn how a rust-based Linux scheduler was re-implemented with BPF】了解如何使用 BPF 重新实现基于 Rust 的 Linux 调度程序</description>
-      <pubDate>Sat, 10 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Challenges and Strategies in eBPF Uprobe Development】‍eBPF Uprobe 开发的挑战与策略</title>
@@ -58,10 +16,52 @@
       <pubDate>Mon, 12 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Upwind Extends its CNAPP with Agentless Cloud Scanners】‍Upwind 通过无代理云扫描仪扩展其 CNAPP</title>
-      <link>https://www.upwind.io/feed/upwind-extends-its-cnapp-with-agentless-cloud-scanners</link>
-      <description>【Upwind announces Upwind Agentless Cloud Scanners, an additional component to their eBPF-based sensor which provides unified, comprehensive coverage for infrastructure and applications, across clouds, platforms and architectures】Upwind 宣布推出 Upwind Agentless Cloud Scanners，这是其基于 eBPF 的传感器的附加组件，可为跨云、平台和架构的基础设施和应用程序提供统一、全面的覆盖</description>
-      <pubDate>Wed, 07 Aug 2024 17:20:05 +0000</pubDate>
+      <title>【‍eBPF for Anything!】‍eBPF 无所不能！</title>
+      <link>https://isovalent.com/blog/post/ebpf-for-anything/</link>
+      <description>【Learn about how eBPF is Turing Complete by implementing Conway’s Game of Life entirely in eBPF】通过完全在 eBPF 中实现康威的生命游戏，了解 eBPF 如何实现图灵完备</description>
+      <pubDate>Tue, 20 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Re-implementing my Linux Rust scheduler in eBPF】‍在 eBPF 中重新实现我的 Linux Rust 调度程序</title>
+      <link>https://arighi.blogspot.com/2024/08/re-implementing-my-linux-rust-scheduler.html</link>
+      <description>【Learn how a rust-based Linux scheduler was re-implemented with BPF】了解如何使用 BPF 重新实现基于 Rust 的 Linux 调度程序</description>
+      <pubDate>Sat, 10 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Writing eBPF RawTracepoint Program with Rust Aya】‍用 Rust Aya 编写 eBPF RawTracepoint 程序</title>
+      <link>https://yuki-nakamura.com/2024/08/12/writing-ebpf-rawtracepoint-program-with-rust-aya/</link>
+      <description>【Learn how to write an eBPF RawTracepoint program using Aya with Rust】了解如何使用 Aya 和 Rust 编写 eBPF RawTracepoint 程序</description>
+      <pubDate>Mon, 12 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Want to Stop Kernel Panics? Use eBPF】想要阻止内核恐慌吗？使用 eBPF</title>
+      <link>https://devops.com/want-to-stop-kernel-panics-use-ebpf/</link>
+      <description>【Learn how how eBPF can be used to prevent kernel panics by allowing developers to write kernel-level code that is safer and more controlled】了解如何使用 eBPF 通过允许开发人员编写更安全、更受控制的内核级代码来防止内核恐慌</description>
+      <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍How the CrowdStrike Tech Outage Reignited a Battle Over the Heart of Microsoft Systems】‍CrowdStrike 技术中断如何重新点燃了微软系统核心之战</title>
+      <link>https://www.wsj.com/articles/how-the-crowdstrike-tech-outage-reignited-a-battle-over-the-heart-of-microsoft-systems-72b62c90</link>
+      <description>【Learn how eBPF might have prevented the recent CrowdStrike outage in Windows systems】了解 eBPF 如何阻止最近 Windows 系统中的 CrowdStrike 中断</description>
+      <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Unleashing the power of frame pointers for profiling pt.2 - Writing a simple profiler】‍释放帧指针的力量进行分析第 2 部分 - 编写一个简单的分析器</title>
+      <link>https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/</link>
+      <description>【Learn how to build a simple sampling-based continuous profiler with eBPF】了解如何使用 eBPF 构建简单的基于采样的连续分析器</description>
+      <pubDate>Sun, 18 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Hello eBPF: A Packet Logger in Pure Java using TC and XDP Hooks (13)】‍Hello eBPF：使用 TC 和 XDP Hooks 的纯 Java 数据包记录器 (13)</title>
+      <link>https://levelup.gitconnected.com/part-2-ebpf-map-metrics-prometheus-exporter-fd2e3f12239a</link>
+      <description>【The thirteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a packet logger in pure Java using TC and XDP hooks】Hello eBPF 系列的第十三部分。在这一部分中，您将学习如何使用 TC 和 XDP hooks 在纯 Java 中构建数据包记录器</description>
+      <pubDate>Tue, 13 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF for Security】‍eBPF 安全性</title>
+      <link>https://www.sjultra.com/ebpf-for-security/</link>
+      <description>【Learn how organizations are using eBPF for security, as a new ubiquitous technology to protect their workloads】了解组织如何使用 eBPF 来确保安全，将其作为一种新的普遍技术来保护其工作负载</description>
+      <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
