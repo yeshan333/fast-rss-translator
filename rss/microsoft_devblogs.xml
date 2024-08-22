@@ -4,34 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Simplify development with Dev Container templates for Azure SQL Database – Preview】使用 Azure SQL 数据库的开发容器模板简化开发 - 预览</title>
-      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-dev-containers</link>
-      <description>【In today&amp;#8217;s fast-paced software development landscape, having a reliable and efficient local development setup is crucial. Dev Containers provide developers with a seamless way to build and test applications locally before deploying them to the cloud. We are announcing the Public Preview of Dev Container templates for Azure SQL Database.】在当今快节奏的软件开发环境中，拥有可靠且高效的本地开发设置至关重要。开发容器为开发人员提供了一种在将应用程序部署到云之前在本地构建和测试应用程序的无缝方法。我们宣布推出 Azure SQL 数据库开发容器模板的公共预览版。</description>
-      <pubDate>Fri, 16 Aug 2024 15:40:28 +0000</pubDate>
+      <title>【Securing your Azure deployments with PSRule】使用 PSRule 保护 Azure 部署</title>
+      <link>https://devblogs.microsoft.com/identity/secure-azure-deployments-with-psrule</link>
+      <description>【PSRule for Azure is a powerful tool designed to validate your Azure Infrastructure as Code (IaC). PSRule runs checks based on the Well-Architected Framework, helping you ensure your Azure solutions follow security best practices. See how to integrate PSRule into your workflow, and catch security issues in your IaC templates early.】PSRule for Azure 是一款功能强大的工具，旨在验证 Azure 基础结构即代码 (IaC)。 PSRule 基于架构完善的框架运行检查，帮助你确保 Azure 解决方案遵循安全最佳实践。了解如何将 PSRule 集成到您的工作流程中，并尽早发现 IaC 模板中的安全问题。</description>
+      <pubDate>Wed, 21 Aug 2024 13:19:47 +0000</pubDate>
     </item>
     <item>
-      <title>【New Boards Hub Rollout Update】新板中心推出更新</title>
-      <link>https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2</link>
-      <description>【Back in March, we shared an update on our initiative to make the New Boards Hub the default experience for all organizations. However, that rollout was delayed as we shifted priorities for several months. Today, we&amp;#8217;re excited to announce that the rollout of the New Boards Hub is back on track.】早在三月份，我们就分享了有关让新董事会中心成为所有组织的默认体验的计划的最新信息。然而，由于我们将优先事项转移了几个月，该推出被推迟了。今天，我们很高兴地宣布新董事会中心的推出已重回正轨。</description>
-      <pubDate>Tue, 20 Aug 2024 17:04:38 +0000</pubDate>
+      <title>【Customer Case Study: KPMG Clara AI and Microsoft’s Semantic Kernel】客户案例研究：KPMG Clara AI 和 Microsoft 的语义内核</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-kpmg-clara-ai-and-microsofts-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re featuring KPMG on our Semantic Kernel blog for their work on Clara AI in KPMG. You can learn more about the solution here: KPMG Partnership with Microsoft&amp;#8217;s Semantic Kernel Here&amp;#8217;s a quote from KPMG on the partnership, &amp;#8220;Microsoft and KPMG entered a strategic alliance to modernize the work of KPMG professionals.】今天，我们在 Semantic Kernel 博客上重点介绍毕马威 (KPMG) 在毕马威 (KPMG) 在 Clara AI 方面的工作。您可以在此处了解有关该解决方案的更多信息：毕马威与微软语义内核的合作关系以下是毕马威关于合作伙伴关系的引述：“微软和毕马威建立了战略联盟，以实现毕马威专业人员的工作现代化。</description>
+      <pubDate>Tue, 20 Aug 2024 16:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>【New debugging and diagnostic features】新的调试和诊断功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features</link>
-      <description>【Debugging and diagnostics are vital skills for any developer, but they can also be difficult and time-consuming to get proficient . That&amp;#8217;s why we&amp;#8217;ve added some fantastic new features and enhancements to Visual Studio 2022 v17.11 that will help you find and resolve bugs faster and easier than ever before.】调试和诊断对于任何开发人员来说都是至关重要的技能，但要精通它们也可能很困难且耗时。因此，我们在 Visual Studio 2022 v17.11 中添加了一些出色的新功能和增强功能，以帮助您比以往更快、更轻松地查找和解决错误。</description>
-      <pubDate>Tue, 20 Aug 2024 10:00:11 +0000</pubDate>
+      <title>【New C++ features in Visual Studio v17.11】Visual Studio v17.11 中的新 C++ 功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11</link>
+      <description>【Visual Studio 2022 version 17.11 is here and comes with a host of new features for C++ developers. We’ve made improvements across our toolchain, Unreal Engine support, Build Insights, CMake debugger, and more. This post gives a quick overview of what’s available;】Visual Studio 2022 版本 17.11 现已发布，为 C++ 开发人员提供了许多新功能。我们对工具链、虚幻引擎支持、Build Insights、CMake 调试器等进行了改进。这篇文章简要概述了可用的内容；</description>
+      <pubDate>Wed, 21 Aug 2024 10:00:31 +0000</pubDate>
     </item>
     <item>
       <title>【New Azure DevOps Server Roadmap】新的 Azure DevOps 服务器路线图</title>
       <link>https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap</link>
       <description>【While we recommend our hosted service for most customers due to its scalability and flexibility, we understand the importance of the on-premises version for many of our customers. Therefore, we remain committed to providing support and improvement for both versions. Previously,】虽然我们因其可扩展性和灵活性而向大多数客户推荐我们的托管服务，但我们了解本地版本对于许多客户的重要性。因此，我们仍然致力于为这两个版本提供支持和改进。之前，</description>
       <pubDate>Mon, 19 Aug 2024 21:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Constructing nodes of a hand-made linked list, how hard can it be?】构建一个手工链表的节点，有多难？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240819-00/?p=110145</link>
-      <description>【Trying to force copy elision.】试图强制复制省略。</description>
-      <pubDate>Mon, 19 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Public preview of SharePoint Framework 1.20 – First release of upcoming features】SharePoint 框架 1.20 的公共预览版 – 即将推出的功能的第一个版本</title>
@@ -46,22 +40,28 @@
       <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: KPMG Clara AI and Microsoft’s Semantic Kernel】客户案例研究：KPMG Clara AI 和 Microsoft 的语义内核</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-kpmg-clara-ai-and-microsofts-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re featuring KPMG on our Semantic Kernel blog for their work on Clara AI in KPMG. You can learn more about the solution here: KPMG Partnership with Microsoft&amp;#8217;s Semantic Kernel Here&amp;#8217;s a quote from KPMG on the partnership, &amp;#8220;Microsoft and KPMG entered a strategic alliance to modernize the work of KPMG professionals.】今天，我们在语义内核博客上重点介绍毕马威 (KPMG) 在毕马威 (KPMG) 在 Clara AI 方面的工作。您可以在此处了解有关该解决方案的更多信息：毕马威与微软语义内核的合作关系以下是毕马威关于合作伙伴关系的引述：“微软和毕马威建立了战略联盟，以实现毕马威专业人员的工作现代化。</description>
-      <pubDate>Tue, 20 Aug 2024 16:57:10 +0000</pubDate>
+      <title>【New debugging and diagnostic features】新的调试和诊断功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features</link>
+      <description>【Debugging and diagnostics are vital skills for any developer, but they can also be difficult and time-consuming to get proficient . That&amp;#8217;s why we&amp;#8217;ve added some fantastic new features and enhancements to Visual Studio 2022 v17.11 that will help you find and resolve bugs faster and easier than ever before.】调试和诊断对于任何开发人员来说都是至关重要的技能，但要精通它们也可能很困难且耗时。因此，我们在 Visual Studio 2022 v17.11 中添加了一些出色的新功能和增强功能，以帮助您比以往更快、更轻松地查找和解决错误。</description>
+      <pubDate>Tue, 20 Aug 2024 10:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.23.0-1 Microsoft build now available】Go 1.23.0-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-0-1-microsoft-build-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Fri, 16 Aug 2024 16:31:40 +0000</pubDate>
+      <title>【What does ERROR_KEY_DELETED mean?】ERROR_KEY_DELETED 是什么意思？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240821-46/?p=110160</link>
+      <description>【You now have a handle to a key that doesn&#39;t exist, and there&#39;s nothing you can do with it.】现在，您拥有了一个不存在的密钥的句柄，并且您无法使用它执行任何操作。</description>
+      <pubDate>Wed, 21 Aug 2024 14:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>【New git tooling features】新的 git 工具功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-git-tooling-features</link>
-      <description>【Visual Studio 2022 v17.11 includes fantastic updates to everyone working with Git. They bring the richness of both GitHub and Azure DevOps into Visual Studio and part of your natural workflow. This greatly simplifies your inner loop, making you even more productive than before.】Visual Studio 2022 v17.11 为所有使用 Git 的人提供了精彩的更新。它们将 GitHub 和 Azure DevOps 的丰富性带入 Visual Studio 中，并成为您自然工作流程的一部分。这极大地简化了您的内部循环，使您比以前更加高效。</description>
-      <pubDate>Mon, 19 Aug 2024 10:00:33 +0000</pubDate>
+      <title>【Supercharge your testing experience with MSTest.Analyzers】使用 MSTest.Analyzers 增强您的测试体验</title>
+      <link>https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers</link>
+      <description>【MSTest ships with extensive suite of code analyzers to help you write well-formed, performant and error free tests.】MSTest 附带了广泛的代码分析器套件，可帮助您编写格式良好、高性能且无错误的测试。</description>
+      <pubDate>Wed, 21 Aug 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Boards Hub Rollout Update】新板中心推出更新</title>
+      <link>https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2</link>
+      <description>【Back in March, we shared an update on our initiative to make the New Boards Hub the default experience for all organizations. However, that rollout was delayed as we shifted priorities for several months. Today, we&amp;#8217;re excited to announce that the rollout of the New Boards Hub is back on track.】早在三月份，我们就分享了有关使新董事会中心成为所有组织的默认体验的计划的最新信息。然而，由于我们将优先事项转移了几个月，该推出被推迟了。今天，我们很高兴地宣布新董事会中心的推出已重回正轨。</description>
+      <pubDate>Tue, 20 Aug 2024 17:04:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
