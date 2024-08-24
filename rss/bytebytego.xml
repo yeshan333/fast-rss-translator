@@ -23,16 +23,10 @@
       <pubDate>Tue, 06 Aug 2024 15:30:43 +0000</pubDate>
     </item>
     <item>
-      <title>【EP125: How does Garbage Collection work? 】EP125：垃圾收集是如何工作的？</title>
-      <link>https://blog.bytebytego.com/p/ep125-how-does-garbage-collection</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 17 Aug 2024 15:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Domain-Driven Design】领域驱动设计速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-domain-driven-design</link>
-      <description>【Developing software for complex domains is a challenging task.】为复杂领域开发软件是一项具有挑战性的任务。</description>
-      <pubDate>Thu, 01 Aug 2024 15:31:02 +0000</pubDate>
+      <title>【A Crash Course on Scaling the API Layer】扩展 API 层的速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-api</link>
+      <description>【The API (Application Programming Interface) layer serves as the backbone for communication between clients and the backend services in modern internet-based applications.】API（应用程序编程接口）层是现代基于互联网的应用程序中客户端和后端服务之间通信的支柱。</description>
+      <pubDate>Thu, 22 Aug 2024 15:30:14 +0000</pubDate>
     </item>
     <item>
       <title>【EP123: What is a Load Balancer? 】EP123：什么是负载均衡器？</title>
@@ -41,10 +35,22 @@
       <pubDate>Sat, 03 Aug 2024 15:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Scaling the API Layer】扩展 API 层的速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-api</link>
-      <description>【The API (Application Programming Interface) layer serves as the backbone for communication between clients and the backend services in modern internet-based applications.】API（应用程序编程接口）层是现代基于互联网的应用程序中客户端和后端服务之间通信的支柱。</description>
-      <pubDate>Thu, 22 Aug 2024 15:30:14 +0000</pubDate>
+      <title>【A Crash Course on Domain-Driven Design】领域驱动设计速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-domain-driven-design</link>
+      <description>【Developing software for complex domains is a challenging task.】为复杂领域开发软件是一项具有挑战性的任务。</description>
+      <pubDate>Thu, 01 Aug 2024 15:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Trillions of Indexes: How Uber’s LedgerStore Supports Such Massive Scale】数万亿个索引：Uber 的 LedgerStore 如何支持如此大规模</title>
+      <link>https://blog.bytebytego.com/p/trillions-of-indexes-how-ubers-ledgerstore</link>
+      <description>【Try Fully Managed Apache Airflow and get certified for FREE (Sponsored)】尝试完全托管的 Apache Airflow 并免费获得认证（赞助）</description>
+      <pubDate>Tue, 20 Aug 2024 15:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP125: How does Garbage Collection work? 】EP125：垃圾收集是如何工作的？</title>
+      <link>https://blog.bytebytego.com/p/ep125-how-does-garbage-collection</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 17 Aug 2024 15:30:37 +0000</pubDate>
     </item>
     <item>
       <title>【Counting Billions of Content Usage at Canva】统计 Canva 数十亿内容的使用情况</title>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/a-crash-course-on-architectural-scalability</link>
       <description>【In today&#39;s interconnected world, software applications have a global reach, serving users from diverse geographical locations.】在当今互联的世界中，软件应用程序具有全球影响力，为来自不同地理位置的用户提供服务。</description>
       <pubDate>Thu, 15 Aug 2024 15:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Trillions of Indexes: How Uber’s LedgerStore Supports Such Massive Scale】数万亿个索引：Uber 的 LedgerStore 如何支持如此大规模</title>
-      <link>https://blog.bytebytego.com/p/trillions-of-indexes-how-ubers-ledgerstore</link>
-      <description>【Try Fully Managed Apache Airflow and get certified for FREE (Sponsored)】尝试完全托管的 Apache Airflow 并免费获得认证（赞助）</description>
-      <pubDate>Tue, 20 Aug 2024 15:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

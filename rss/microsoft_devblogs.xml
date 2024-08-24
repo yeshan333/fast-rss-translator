@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Supercharge your testing experience with MSTest.Analyzers】使用 MSTest.Analyzers 增强您的测试体验</title>
-      <link>https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers</link>
-      <description>【MSTest ships with extensive suite of code analyzers to help you write well-formed, performant and error free tests.】MSTest 附带了广泛的代码分析器套件，可帮助您编写格式良好、高性能且无错误的测试。</description>
-      <pubDate>Wed, 21 Aug 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Prevent Critical Bugs with MSVC Code Analysis】通过 MSVC 代码分析防止严重错误</title>
-      <link>https://devblogs.microsoft.com/cppblog/prevent-critical-bugs-with-msvc-code-analysis</link>
-      <description>【Imagine this: You’re deep into a complex C++ project, and everything seems to be running smoothly. But then, out of nowhere, a critical bug surfaces— one that requires a bit more foresight. We’ve all been there, right? This is where code analysis steps in as your silent guardian. 】想象一下：您正在深入研究一个复杂的 C++ 项目，并且一切似乎都运行得很顺利。但随后，一个严重的错误突然出现——需要更多的远见。我们都去过那里，对吗？这就是代码分析作为你沉默的守护者介入的地方。 </description>
-      <pubDate>Thu, 22 Aug 2024 18:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What does ERROR_KEY_DELETED mean?】ERROR_KEY_DELETED 是什么意思？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240821-46/?p=110160</link>
-      <description>【You now have a handle to a key that doesn&#39;t exist, and there&#39;s nothing you can do with it.】现在，您拥有了一个不存在的密钥的句柄，并且您无法使用它执行任何操作。</description>
-      <pubDate>Wed, 21 Aug 2024 14:59:46 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Application control】Microsoft 365 认证控制焦点：应用程序控制</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control</link>
+      <description>【Explore how Microsoft 365 Certification validates application controls for enterprise-ready apps.】探索 Microsoft 365 认证如何验证企业就绪应用的应用程序控制。</description>
+      <pubDate>Thu, 22 Aug 2024 17:00:28 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing the General Availability of the VS Code extension for Azure Machine Learning】宣布面向 Azure 机器学习的 VS Code 扩展全面可用</title>
@@ -28,22 +16,10 @@
       <pubDate>Thu, 22 Aug 2024 17:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Application control】Microsoft 365 认证控制焦点：应用程序控制</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control</link>
-      <description>【Explore how Microsoft 365 Certification validates application controls for enterprise-ready apps.】探索 Microsoft 365 认证如何验证企业就绪应用的应用程序控制。</description>
-      <pubDate>Thu, 22 Aug 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel Python】深入研究语义内核 Python 中的函数调用及其 JSON 模式</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-python</link>
-      <description>【One of the most exciting features available in certain Large Language Models (LLMs) is function-calling. In Semantic Kernel, we handle the heavy lifting so that you can bring your own code or utilize built-in plugins that cater to your use case.】某些大型语言模型 (LLM) 中最令人兴奋的功能之一是函数调用。在语义内核中，我们处理繁重的工作，以便您可以携带自己的代码或利用适合您的用例的内置插件。</description>
-      <pubDate>Thu, 22 Aug 2024 14:03:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11】增强代码理解：Visual Studio 2022 17.11 中的 GitHub Copilot 功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11</link>
-      <description>【GitHub Copilot in Visual Studio 2022 17.11 now offers an improved experience you to refer to their methods, classes, functions, and entire solution directly within the chat. By using the # symbol followed by the name of a method, class, or function,】Visual Studio 2022 17.11 中的 GitHub Copilot 现在提供改进的体验，您可以直接在聊天中引用其方法、类、函数和整个解决方案。通过使用 # 符号后跟方法、类或函数的名称，</description>
-      <pubDate>Thu, 22 Aug 2024 10:00:28 +0000</pubDate>
+      <title>【Announcing Windows Community Toolkit v8.1】发布 Windows 社区工具包 v8.1</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-windows-community-toolkit-v8-1</link>
+      <description>【Announcing Windows Community Toolkit v8.1 We&amp;#8217;re happy to announce that version 8.1 is available today! It&amp;#8217;s a minor update which contains a variety of new features and improvements, made possible again with the support and contributions of our developer community. 🎉 If you&amp;#8217;re not familiar with the Windows Community Toolkit,】发布 Windows 社区工具包 v8.1 我们很高兴地宣布 8.1 版现已推出！这是一个小更新，包含各种新功能和改进，在我们开发者社区的支持和贡献下再次成为可能。 🎉 如果您不熟悉 Windows 社区工具包，</description>
+      <pubDate>Thu, 22 Aug 2024 16:12:03 +0000</pubDate>
     </item>
     <item>
       <title>【The role of the activation factory in the Windows Runtime】激活工厂在 Windows 运行时中的作用</title>
@@ -52,16 +28,40 @@
       <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Windows Community Toolkit v8.1】发布 Windows 社区工具包 v8.1</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-windows-community-toolkit-v8-1</link>
-      <description>【Announcing Windows Community Toolkit v8.1 We&amp;#8217;re happy to announce that version 8.1 is available today! It&amp;#8217;s a minor update which contains a variety of new features and improvements, made possible again with the support and contributions of our developer community. 🎉 If you&amp;#8217;re not familiar with the Windows Community Toolkit,】发布 Windows 社区工具包 v8.1 我们很高兴地宣布 8.1 版现已推出！这是一个小更新，包含各种新功能和改进，在我们开发者社区的支持和贡献下再次成为可能。 🎉 如果您不熟悉 Windows 社区工具包，</description>
-      <pubDate>Thu, 22 Aug 2024 16:12:03 +0000</pubDate>
+      <title>【What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?】如果我需要等待超过 MAXIMUM_WAIT_OBJECTS 个线程怎么办？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110169</link>
+      <description>【Studying your options, and the consequences of breaking things up.】研究你的选择，以及分手的后果。</description>
+      <pubDate>Fri, 23 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Object Limit Tracker in Azure DevOps】Azure DevOps 中引入对象限制跟踪器</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops</link>
-      <description>【We&amp;#8217;re excited to introduce the Object Limit Tracker in Azure DevOps! This new feature provides real-time visibility into resource usage for each organization and project directly within Azure DevOps. By offering insights into commonly asked limits, we enable users to manage resources more proactively and prevent potential issues.】我们很高兴在 Azure DevOps 中引入对象限制跟踪器！这项新功能可以直接在 Azure DevOps 中实时了解每个组织和项目的资源使用情况。通过提供对常见限制的见解，我们使用户能够更主动地管理资源并防止潜在问题。</description>
-      <pubDate>Thu, 22 Aug 2024 03:10:53 +0000</pubDate>
+      <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel Python】深入研究语义内核 Python 中的函数调用及其 JSON 模式</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-python</link>
+      <description>【One of the most exciting features available in certain Large Language Models (LLMs) is function-calling. In Semantic Kernel, we handle the heavy lifting so that you can bring your own code or utilize built-in plugins that cater to your use case.】某些大型语言模型 (LLM) 中最令人兴奋的功能之一是函数调用。在语义内核中，我们处理繁重的工作，以便您可以携带自己的代码或利用适合您的用例的内置插件。</description>
+      <pubDate>Thu, 22 Aug 2024 14:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Prevent Critical Bugs with MSVC Code Analysis】通过 MSVC 代码分析防止严重错误</title>
+      <link>https://devblogs.microsoft.com/cppblog/prevent-critical-bugs-with-msvc-code-analysis</link>
+      <description>【Imagine this: You’re deep into a complex C++ project, and everything seems to be running smoothly. But then, out of nowhere, a critical bug surfaces— one that requires a bit more foresight. We’ve all been there, right? This is where code analysis steps in as your silent guardian. 】想象一下：您正在深入研究一个复杂的 C++ 项目，并且一切似乎都运行得很顺利。但随后，一个严重的错误突然出现——需要更多的远见。我们都去过那里，对吗？这就是代码分析作为你沉默的守护者介入的地方。 </description>
+      <pubDate>Thu, 22 Aug 2024 18:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.6 RC】宣布推出 TypeScript 5.6 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc</link>
+      <description>【Today we are excited to announce the availability of the release candidate of TypeScript 5.6. To get started using the RC, you can get it through npm with the following command: npm install -D typescript@rc Here&amp;#8217;s a quick list of what&amp;#8217;s new in TypeScript 5.6!】今天，我们很高兴地宣布 TypeScript 5.6 候选版本现已推出。要开始使用 RC，您可以使用以下命令通过 npm 获取它： npm install -D typescript@rc 以下是 TypeScript 5.6 中新增功能的快速列表！</description>
+      <pubDate>Fri, 23 Aug 2024 16:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Farewell Spring Cloud Azure 4.x, Hello 5.x: The Future is Now!】告别 Spring Cloud Azure 4.x，你好 5.x：未来就是现在！</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/farewell-spring-cloud-azure-4-x-hello-5-x-the-future-is-now</link>
+      <description>【This post announces that Spring Cloud Azure is deprecating version 4.x in favor of version 5.x.】这篇文章宣布 Spring Cloud Azure 将弃用版本 4.x，转而使用版本 5.x。</description>
+      <pubDate>Fri, 23 Aug 2024 03:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor】使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor</link>
+      <description>【Today we&amp;#8217;re featuring a guest author, Akshay Kokane, who&amp;#8217;s a Software Engineer at Microsoft within the Azure CxP team. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on a Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor: Master TokenUsage Metrics and Custom Metrics using SK Filters.】今天我们邀请到一位客座作者 Akshay Kokane，他是 Microsoft Azure CxP 团队的软件工程师。他写了一篇我们在下面分享的文章，重点介绍了使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南：使用 SK 筛选器掌握 TokenUsage 指标和自定义指标。</description>
+      <pubDate>Fri, 23 Aug 2024 18:29:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

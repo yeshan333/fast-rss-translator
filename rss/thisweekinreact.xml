@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #193: State of React, Server Functions, next/form, useId, Astro, Meteor, Gluestack, React-Aria, Turbopack, Airbnb, Apollo, DRY, IDX, Bootsplash, Flash Calendar, CSS, ES, Poku...】本周 React #193：React 状态、服务器功能、next/form、useId、Astro、Meteor、Gluestack、React-Aria、Turbopack、Airbnb、Apollo、DRY、IDX、Bootsplash、Flash Calendar、CSS、ES、Poku ...</title>
+      <link>https://thisweekinreact.com/newsletter/193</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #197: Waku, Effect, TanStack, Framer Motion, use(), Preact, Valtio, Astro, Three.js, Nitrogen, React-Native-Web, expo-dom, Tophat, React-Navigation, Skip, TypeScript, Rspack, Volta...】本周 React #197：Waku、Effect、TanStack、Framer Motion、use()、Preact、Valtio、Astro、Three.js、Nitrogen、React-Native-Web、expo-dom、Tophat、React-Navigation、Skip、 TypeScript、Rspack、Volta...</title>
       <link>https://thisweekinreact.com/newsletter/197</link>
       <description>【Hi everyone!】大家好！</description>
@@ -14,12 +20,6 @@
       <link>https://thisweekinreact.com/newsletter/194</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #193: State of React, Server Functions, next/form, useId, Astro, Meteor, Gluestack, React-Aria, Turbopack, Airbnb, Apollo, DRY, IDX, Bootsplash, Flash Calendar, CSS, ES, Poku...】本周 React #193：React 状态、服务器功能、next/form、useId、Astro、Meteor、Gluestack、React-Aria、Turbopack、Airbnb、Apollo、DRY、IDX、Bootsplash、Flash Calendar、CSS、ES、Poku ...</title>
-      <link>https://thisweekinreact.com/newsletter/193</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #196: Forms, Jotai, DI, Electron, Docusaurus, Signals, Plunk, React-Server, Switchboard, React-Call, RN WebGPU, Nitro Modules, use dom, macOS, Screens, Autolinking, Cocoapods, Corepack, Node.js, TypeScript...】本周 React #196：Forms、Jotai、DI、Electron、Docusaurus、Signals、Plunk、React-Server、Switchboard、React-Call、RN WebGPU、Nitro Modules、use dom、macOS、Screens、Autolinking、Cocoapods、Corepack、 Node.js、TypeScript...</title>
