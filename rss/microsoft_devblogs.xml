@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Application control】Microsoft 365 认证控制焦点：应用程序控制</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control</link>
-      <description>【Explore how Microsoft 365 Certification validates application controls for enterprise-ready apps.】探索 Microsoft 365 认证如何验证企业就绪应用的应用程序控制。</description>
-      <pubDate>Thu, 22 Aug 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the General Availability of the VS Code extension for Azure Machine Learning】宣布面向 Azure 机器学习的 VS Code 扩展全面可用</title>
-      <link>https://devblogs.microsoft.com/python/announcing-the-general-availability-of-the-vs-code-extension-for-azure-machine-learning</link>
-      <description>【Machine learning and artificial intelligence are transforming the world as we know it. With the power of data, you will have countless opportunities to create something new, unique, and exciting. Whether you are a seasoned data scientist or a curious beginner,】机器学习和人工智能正在改变我们所知的世界。借助数据的力量，您将有无数的机会来创造新的、独特的和令人兴奋的东西。无论您是经验丰富的数据科学家还是好奇的初学者，</description>
-      <pubDate>Thu, 22 Aug 2024 17:00:11 +0000</pubDate>
+      <title>【Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor】使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor</link>
+      <description>【Today we&amp;#8217;re featuring a guest author, Akshay Kokane, who&amp;#8217;s a Software Engineer at Microsoft within the Azure CxP team. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on a Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor: Master TokenUsage Metrics and Custom Metrics using SK Filters.】今天我们邀请到一位客座作者 Akshay Kokane，他是 Microsoft Azure CxP 团队的软件工程师。他写了一篇我们在下面分享的文章，重点介绍了使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南：使用 SK 筛选器掌握 TokenUsage 指标和自定义指标。</description>
+      <pubDate>Fri, 23 Aug 2024 18:29:52 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Windows Community Toolkit v8.1】发布 Windows 社区工具包 v8.1</title>
@@ -22,22 +16,10 @@
       <pubDate>Thu, 22 Aug 2024 16:12:03 +0000</pubDate>
     </item>
     <item>
-      <title>【The role of the activation factory in the Windows Runtime】激活工厂在 Windows 运行时中的作用</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240822-00/?p=110165</link>
-      <description>【The activation factory represents the class itself.】激活工厂代表类本身。</description>
-      <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?】如果我需要等待超过 MAXIMUM_WAIT_OBJECTS 个线程怎么办？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110169</link>
-      <description>【Studying your options, and the consequences of breaking things up.】研究你的选择，以及分手的后果。</description>
-      <pubDate>Fri, 23 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel Python】深入研究语义内核 Python 中的函数调用及其 JSON 模式</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-python</link>
-      <description>【One of the most exciting features available in certain Large Language Models (LLMs) is function-calling. In Semantic Kernel, we handle the heavy lifting so that you can bring your own code or utilize built-in plugins that cater to your use case.】某些大型语言模型 (LLM) 中最令人兴奋的功能之一是函数调用。在语义内核中，我们处理繁重的工作，以便您可以携带自己的代码或利用适合您的用例的内置插件。</description>
-      <pubDate>Thu, 22 Aug 2024 14:03:18 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Application control】Microsoft 365 认证控制焦点：应用程序控制</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control</link>
+      <description>【Explore how Microsoft 365 Certification validates application controls for enterprise-ready apps.】探索 Microsoft 365 认证如何验证企业就绪应用的应用程序控制。</description>
+      <pubDate>Thu, 22 Aug 2024 17:00:28 +0000</pubDate>
     </item>
     <item>
       <title>【Prevent Critical Bugs with MSVC Code Analysis】通过 MSVC 代码分析防止严重错误</title>
@@ -52,16 +34,34 @@
       <pubDate>Fri, 23 Aug 2024 16:14:22 +0000</pubDate>
     </item>
     <item>
+      <title>【What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?】如果我需要等待超过 MAXIMUM_WAIT_OBJECTS 个线程怎么办？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110169</link>
+      <description>【Studying your options, and the consequences of breaking things up.】研究你的选择，以及分手的后果。</description>
+      <pubDate>Fri, 23 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The role of the activation factory in the Windows Runtime】激活工厂在 Windows 运行时中的作用</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240822-00/?p=110165</link>
+      <description>【The activation factory represents the class itself.】激活工厂代表类本身。</description>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Farewell Spring Cloud Azure 4.x, Hello 5.x: The Future is Now!】告别 Spring Cloud Azure 4.x，你好 5.x：未来就是现在！</title>
       <link>https://devblogs.microsoft.com/azure-sdk/farewell-spring-cloud-azure-4-x-hello-5-x-the-future-is-now</link>
       <description>【This post announces that Spring Cloud Azure is deprecating version 4.x in favor of version 5.x.】这篇文章宣布 Spring Cloud Azure 将弃用版本 4.x，转而使用版本 5.x。</description>
       <pubDate>Fri, 23 Aug 2024 03:31:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor】使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor</link>
-      <description>【Today we&amp;#8217;re featuring a guest author, Akshay Kokane, who&amp;#8217;s a Software Engineer at Microsoft within the Azure CxP team. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on a Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor: Master TokenUsage Metrics and Custom Metrics using SK Filters.】今天我们邀请到一位客座作者 Akshay Kokane，他是 Microsoft Azure CxP 团队的软件工程师。他写了一篇我们在下面分享的文章，重点介绍了使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南：使用 SK 筛选器掌握 TokenUsage 指标和自定义指标。</description>
-      <pubDate>Fri, 23 Aug 2024 18:29:52 +0000</pubDate>
+      <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel Python】深入研究语义内核 Python 中的函数调用及其 JSON 模式</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-python</link>
+      <description>【One of the most exciting features available in certain Large Language Models (LLMs) is function-calling. In Semantic Kernel, we handle the heavy lifting so that you can bring your own code or utilize built-in plugins that cater to your use case.】某些大型语言模型 (LLM) 中最令人兴奋的功能之一是函数调用。在语义内核中，我们处理繁重的工作，以便您可以携带自己的代码或利用适合您的用例的内置插件。</description>
+      <pubDate>Thu, 22 Aug 2024 14:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the General Availability of the VS Code extension for Azure Machine Learning】宣布面向 Azure 机器学习的 VS Code 扩展全面可用</title>
+      <link>https://devblogs.microsoft.com/python/announcing-the-general-availability-of-the-vs-code-extension-for-azure-machine-learning</link>
+      <description>【Machine learning and artificial intelligence are transforming the world as we know it. With the power of data, you will have countless opportunities to create something new, unique, and exciting. Whether you are a seasoned data scientist or a curious beginner,】机器学习和人工智能正在改变我们所知的世界。借助数据的力量，您将有无数的机会来创造新的、独特的和令人兴奋的东西。无论您是经验丰富的数据科学家还是好奇的初学者，</description>
+      <pubDate>Thu, 22 Aug 2024 17:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
