@@ -10,34 +10,16 @@
       <pubDate>Fri, 23 Aug 2024 03:31:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel Python】深入研究语义内核 Python 中的函数调用及其 JSON 模式</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-python</link>
-      <description>【One of the most exciting features available in certain Large Language Models (LLMs) is function-calling. In Semantic Kernel, we handle the heavy lifting so that you can bring your own code or utilize built-in plugins that cater to your use case.】某些大型语言模型 (LLM) 中最令人兴奋的功能之一是函数调用。在语义内核中，我们处理繁重的工作，以便您可以携带自己的代码或利用适合您的用例的内置插件。</description>
-      <pubDate>Thu, 22 Aug 2024 14:03:18 +0000</pubDate>
+      <title>【Thoughts on finding the essential elements of a set】关于寻找集合基本元素的思考</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
+      <description>【Another binary search, but searching a different way.】另一种二分搜索，但搜索方式不同。</description>
+      <pubDate>Mon, 26 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?】如果我需要等待超过 MAXIMUM_WAIT_OBJECTS 个线程怎么办？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110169</link>
-      <description>【Studying your options, and the consequences of breaking things up.】研究你的选择，以及分手的后果。</description>
-      <pubDate>Fri, 23 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Windows Community Toolkit v8.1】发布 Windows 社区工具包 v8.1</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-windows-community-toolkit-v8-1</link>
-      <description>【Announcing Windows Community Toolkit v8.1 We&amp;#8217;re happy to announce that version 8.1 is available today! It&amp;#8217;s a minor update which contains a variety of new features and improvements, made possible again with the support and contributions of our developer community. 🎉 If you&amp;#8217;re not familiar with the Windows Community Toolkit,】发布 Windows 社区工具包 v8.1 我们很高兴地宣布 8.1 版现已推出！这是一个小更新，包含各种新功能和改进，在我们开发者社区的支持和贡献下再次成为可能。 🎉 如果您不熟悉 Windows 社区工具包，</description>
-      <pubDate>Thu, 22 Aug 2024 16:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the General Availability of the VS Code extension for Azure Machine Learning】宣布面向 Azure 机器学习的 VS Code 扩展全面可用</title>
-      <link>https://devblogs.microsoft.com/python/announcing-the-general-availability-of-the-vs-code-extension-for-azure-machine-learning</link>
-      <description>【Machine learning and artificial intelligence are transforming the world as we know it. With the power of data, you will have countless opportunities to create something new, unique, and exciting. Whether you are a seasoned data scientist or a curious beginner,】机器学习和人工智能正在改变我们所知的世界。借助数据的力量，您将有无数的机会来创造新的、独特的和令人兴奋的东西。无论您是经验丰富的数据科学家还是好奇的初学者，</description>
-      <pubDate>Thu, 22 Aug 2024 17:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Application control】Microsoft 365 认证控制焦点：应用程序控制</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control</link>
-      <description>【Explore how Microsoft 365 Certification validates application controls for enterprise-ready apps.】探索 Microsoft 365 认证如何验证企业就绪应用的应用程序控制。</description>
-      <pubDate>Thu, 22 Aug 2024 17:00:28 +0000</pubDate>
+      <title>【Retrieval Augmented Generation with Azure SQL】使用 Azure SQL 检索增强生成</title>
+      <link>https://devblogs.microsoft.com/azure-sql/rag-with-azure-sql</link>
+      <description>【Retrieval Augmented Generation, or RAG, is one of the hottest topics at the moment as it opens up the possibility of interacting with data using natural language, which is a long-time dream finally coming true. It is very likely that a lot of your data is already stored or will be stored in Azure SQL,】检索增强生成（RAG）是目前最热门的话题之一，因为它开启了使用自然语言与数据交互的可能性，这是一个长久以来的梦想终于实现。您的大量数据很可能已经存储或将存储在 Azure SQL 中，</description>
+      <pubDate>Mon, 26 Aug 2024 15:42:16 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing TypeScript 5.6 RC】宣布推出 TypeScript 5.6 RC</title>
@@ -46,22 +28,40 @@
       <pubDate>Fri, 23 Aug 2024 16:14:22 +0000</pubDate>
     </item>
     <item>
+      <title>【Microsoft 365 Certification control spotlight: Application control】Microsoft 365 认证控制焦点：应用程序控制</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control</link>
+      <description>【Explore how Microsoft 365 Certification validates application controls for enterprise-ready apps.】探索 Microsoft 365 认证如何验证企业就绪应用的应用程序控制。</description>
+      <pubDate>Thu, 22 Aug 2024 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aug 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 8 月：查看最新的 Microsoft Entra 关键功能发布、公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-aug-24</link>
+      <description>【An overview of the latest updates in Microsoft Entra for Aug 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】2024 年 8 月 Microsoft Entra 最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
+      <pubDate>Mon, 26 Aug 2024 13:18:30 +0000</pubDate>
+    </item>
+    <item>
       <title>【Prevent Critical Bugs with MSVC Code Analysis】通过 MSVC 代码分析防止严重错误</title>
       <link>https://devblogs.microsoft.com/cppblog/prevent-critical-bugs-with-msvc-code-analysis</link>
       <description>【Imagine this: You’re deep into a complex C++ project, and everything seems to be running smoothly. But then, out of nowhere, a critical bug surfaces— one that requires a bit more foresight. We’ve all been there, right? This is where code analysis steps in as your silent guardian. 】想象一下：您正在深入研究一个复杂的 C++ 项目，并且一切似乎都运行得很顺利。但随后，一个严重的错误突然出现——需要更多的远见。我们都去过那里，对吗？这就是代码分析作为你沉默的守护者介入的地方。 </description>
       <pubDate>Thu, 22 Aug 2024 18:12:24 +0000</pubDate>
     </item>
     <item>
-      <title>【The role of the activation factory in the Windows Runtime】激活工厂在 Windows 运行时中的作用</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240822-00/?p=110165</link>
-      <description>【The activation factory represents the class itself.】激活工厂代表类本身。</description>
-      <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor】使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor</link>
       <description>【Today we&amp;#8217;re featuring a guest author, Akshay Kokane, who&amp;#8217;s a Software Engineer at Microsoft within the Azure CxP team. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on a Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor: Master TokenUsage Metrics and Custom Metrics using SK Filters.】今天我们邀请到一位客座作者 Akshay Kokane，他是 Microsoft Azure CxP 团队的软件工程师。他写了一篇我们在下面分享的文章，重点介绍了使用语义内核和 Azure Monitor 构建强大的 AI 监控仪表板的分步指南：使用 SK 筛选器掌握 TokenUsage 指标和自定义指标。</description>
       <pubDate>Fri, 23 Aug 2024 18:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New IDE features in Visual Studio v17.11】Visual Studio v17.11 中的新 IDE 功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-ide-features-in-visual-studio-v17-11</link>
+      <description>【In Visual Studio 2022 v17.11, you&amp;#8217;ll discover several new features that address specific issues developers have reported. These updates don&amp;#8217;t belong to a distinct category, but we&amp;#8217;re dedicated to sharing them with you in this blog post. You can download the update and view the comprehensive release notes for full details.】在 Visual Studio 2022 v17.11 中，您将发现一些新功能，可以解决开发人员报告的特定问题。这些更新不属于不同的类别，但我们致力于在这篇博文中与您分享。您可以下载更新并查看全面的发行说明以获取完整详细信息。</description>
+      <pubDate>Mon, 26 Aug 2024 15:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?】如果我需要等待超过 MAXIMUM_WAIT_OBJECTS 个线程怎么办？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110169</link>
+      <description>【Studying your options, and the consequences of breaking things up.】研究你的选择，以及分手的后果。</description>
+      <pubDate>Fri, 23 Aug 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
