@@ -5,16 +5,10 @@
     <description>A weekly newsletter to help you pass system design interview and become good at work</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
-      <title>【How Instagram Scaled to 2.5 Billion Users】Instagram 如何扩展到 25 亿用户</title>
-      <link>https://newsletter.systemdesign.one/p/instagram-infrastructure</link>
-      <description>【#49: Break Into Instagram Scalability Techniques (7 minutes)】#49：深入了解 Instagram 可扩展性技术（7 分钟）</description>
-      <pubDate>Tue, 11 Jun 2024 11:24:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Stripe Prevents Double Payment Using Idempotent API】Stripe 如何使用幂等 API 防止双重支付</title>
-      <link>https://newsletter.systemdesign.one/p/idempotent-api</link>
-      <description>【#45: A Simple Introduction to Idempotent API (4 minutes)】#45：幂等 API 简单介绍（4 分钟）</description>
-      <pubDate>Thu, 09 May 2024 12:18:34 +0000</pubDate>
+      <title>【How Meta Achieves 99.99999999% Cache Consistency 🎯】Meta 如何实现 99.99999999% 的缓存一致性🎯</title>
+      <link>https://newsletter.systemdesign.one/p/cache-consistency</link>
+      <description>【#52: Break Into Meta Engineering (4 minutes)】#52：深入元工程（4 分钟）</description>
+      <pubDate>Thu, 18 Jul 2024 12:32:25 +0000</pubDate>
     </item>
     <item>
       <title>【How Netflix Uses Chaos Engineering to Create Resilience Systems 🐒】Netflix 如何使用混沌工程创建弹性系统🐒</title>
@@ -23,16 +17,16 @@
       <pubDate>Mon, 05 Aug 2024 09:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>【How Meta Achieves 99.99999999% Cache Consistency 🎯】Meta 如何实现 99.99999999% 的缓存一致性🎯</title>
-      <link>https://newsletter.systemdesign.one/p/cache-consistency</link>
-      <description>【#52: Break Into Meta Engineering (4 minutes)】#52：深入元工程（4 分钟）</description>
-      <pubDate>Thu, 18 Jul 2024 12:32:25 +0000</pubDate>
+      <title>【Why Is Redis a Distributed Swiss Army Knife 💭】为什么说Redis是分布式瑞士军刀💭</title>
+      <link>https://newsletter.systemdesign.one/p/redis-use-cases</link>
+      <description>【#50: Break Into Redis Use Cases (5 Minutes)】#50：深入了解 Redis 用例（5 分钟）</description>
+      <pubDate>Thu, 20 Jun 2024 12:22:21 +0000</pubDate>
     </item>
     <item>
-      <title>【How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern 🎮】Halo 如何使用 Saga 设计模式扩展到 1160 万用户 🎮</title>
-      <link>https://newsletter.systemdesign.one/p/saga-design-pattern</link>
-      <description>【#51: Break Into Saga Design Pattern (4 Minutes)】#51：闯入 Saga 设计模式（4 分钟）</description>
-      <pubDate>Thu, 04 Jul 2024 12:54:58 +0000</pubDate>
+      <title>【How Facebook Scaled Live Video to a Billion Users】Facebook 如何将直播视频扩展到十亿用户</title>
+      <link>https://newsletter.systemdesign.one/p/live-streaming-architecture</link>
+      <description>【#47: Break Into Live Streaming Architecture (6 minutes)】#47：闯入直播架构（6 分钟）</description>
+      <pubDate>Fri, 24 May 2024 12:08:20 +0000</pubDate>
     </item>
     <item>
       <title>【How to Scale an App to 100 Million Users on GCP 🚀】如何在 GCP 上将应用程序扩展到 1 亿用户 🚀</title>
@@ -47,22 +41,28 @@
       <pubDate>Fri, 31 May 2024 12:06:04 +0000</pubDate>
     </item>
     <item>
-      <title>【How Facebook Scaled Live Video to a Billion Users】Facebook 如何将直播视频扩展到十亿用户</title>
-      <link>https://newsletter.systemdesign.one/p/live-streaming-architecture</link>
-      <description>【#47: Break Into Live Streaming Architecture (6 minutes)】#47：闯入直播架构（6 分钟）</description>
-      <pubDate>Fri, 24 May 2024 12:08:20 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Razorpay Scaled to Handle Flash Sales at 1500 Requests per Second】Razorpay 如何扩展以处理每秒 1500 个请求的闪购</title>
       <link>https://newsletter.systemdesign.one/p/payment-gateway-architecture</link>
       <description>【#46: A Case Study on Payment Gateway Scalability (5 minutes)】#46：支付网关可扩展性案例研究（5 分钟）</description>
       <pubDate>Fri, 17 May 2024 12:01:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Why Is Redis a Distributed Swiss Army Knife 💭】为什么说Redis是分布式瑞士军刀💭</title>
-      <link>https://newsletter.systemdesign.one/p/redis-use-cases</link>
-      <description>【#50: Break Into Redis Use Cases (5 Minutes)】#50：深入了解 Redis 用例（5 分钟）</description>
-      <pubDate>Thu, 20 Jun 2024 12:22:21 +0000</pubDate>
+      <title>【How Instagram Scaled to 2.5 Billion Users】Instagram 如何扩展到 25 亿用户</title>
+      <link>https://newsletter.systemdesign.one/p/instagram-infrastructure</link>
+      <description>【#49: Break Into Instagram Scalability Techniques (7 minutes)】#49：深入了解 Instagram 可扩展性技术（7 分钟）</description>
+      <pubDate>Tue, 11 Jun 2024 11:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern 🎮】Halo 如何使用 Saga 设计模式扩展到 1160 万用户 🎮</title>
+      <link>https://newsletter.systemdesign.one/p/saga-design-pattern</link>
+      <description>【#51: Break Into Saga Design Pattern (4 Minutes)】#51：闯入 Saga 设计模式（4 分钟）</description>
+      <pubDate>Thu, 04 Jul 2024 12:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Stripe Prevents Double Payment Using Idempotent API】Stripe 如何使用幂等 API 防止双重支付</title>
+      <link>https://newsletter.systemdesign.one/p/idempotent-api</link>
+      <description>【#45: A Simple Introduction to Idempotent API (4 minutes)】#45：幂等 API 简单介绍（4 分钟）</description>
+      <pubDate>Thu, 09 May 2024 12:18:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

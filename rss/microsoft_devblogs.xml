@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Introducing the Pinecone .NET SDK】Pinecone .NET SDK 简介</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk</link>
-      <description>【Get started building AI applications in .NET using the Pinecone Vector DB and the Pinecone .NET SDK.】开始使用 Pinecone Vector DB 和 Pinecone .NET SDK 在 .NET 中构建 AI 应用程序。</description>
-      <pubDate>Tue, 27 Aug 2024 20:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【BinaryFormatter removed from .NET 9】BinaryFormatter 从 .NET 9 中删除</title>
-      <link>https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9</link>
-      <description>【Starting with .NET 9, we no longer include an implementation of BinaryFormatter in the runtime. This post covers what options you have to move forward.】从 .NET 9 开始，我们不再在运行时中包含 BinaryFormatter 的实现。这篇文章介绍了您必须采取哪些选择才能继续前进。</description>
-      <pubDate>Wed, 28 Aug 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【On the strange status of wchar_t in classic MIDL】论经典MIDL中wchar_t的奇怪地位</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240828-00/?p=110188</link>
-      <description>【From the era before wchar_t was a standard type.】从 wchar_t 成为标准类型之前的时代开始。</description>
-      <pubDate>Wed, 28 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Windows Terminal Preview 1.22 Release】Windows 终端预览版 1.22 发布</title>
-      <link>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-22-release</link>
-      <description>【Hello friends, we have a new Windows Terminal Preview release! Windows Terminal Preview 1.22 is a large release that contains new features such as Sixel image support (a LARGE community contribution!), Grapheme Cluster Support, the Snippets Pane, Quick Fixes in CMD,】朋友们大家好，我们发布了新的 Windows 终端预览版！ Windows Terminal Preview 1.22 是一个大型版本，包含新功能，例如 Sixel 图像支持（社区贡献很大！）、Grapheme Cluster 支持、代码片段窗格、CMD 中的快速修复、</description>
-      <pubDate>Tue, 27 Aug 2024 18:57:04 +0000</pubDate>
+      <title>【How is the Windows.Foundation.Uri.Domain property different from Host?】Windows.Foundation.Uri.Domain 属性与 Host 有何不同？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240829-00/?p=110192</link>
+      <description>【It&#39;s an educated guess.】这是一个有根据的猜测。</description>
+      <pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft 365 Certification control spotlight: Patch management】Microsoft 365 认证控制焦点：补丁管理</title>
@@ -34,10 +16,16 @@
       <pubDate>Wed, 28 Aug 2024 19:58:34 +0000</pubDate>
     </item>
     <item>
-      <title>【C++ Gaming Productivity Update for Visual Studio 2022 version 17.11】Visual Studio 2022 版本 17.11 的 C++ 游戏生产力更新</title>
-      <link>https://devblogs.microsoft.com/visualstudio/c-gaming-productivity-update-for-visual-studio-2022-version-17-11</link>
-      <description>【Introduction In Visual Studio 2022 version 17.11, you will find brand new productivity enhancements for your game development workflows. From faster conditional breakpoints to a swath of Unreal Engine enhancements, we have added various productivity boosters based on your feedback. Once again,】简介 在 Visual Studio 2022 版本 17.11 中，您将发现游戏开发工作流程的全新生产力增强功能。从更快的条件断点到一系列虚幻引擎增强功能，我们根据您的反馈添加了各种生产力增强器。再次，</description>
-      <pubDate>Wed, 28 Aug 2024 10:00:20 +0000</pubDate>
+      <title>【New GitHub Copilot features in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中的 GitHub Copilot 新功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11</link>
+      <description>【Visual Studio 2022 17.11 now brings exciting advancements from GitHub Copilot! This release significantly improves how GitHub Copilot integrates into your development workflow, offering smarter and more intuitive coding assistance. Discover the new GitHub Copilot features in Visual Studio, such as enhanced context understanding,】Visual Studio 2022 17.11 现在带来了来自 GitHub Copilot 的令人兴奋的进步！此版本显着改进了 GitHub Copilot 集成到开发工作流程中的方式，提供更智能、更直观的编码帮助。探索 Visual Studio 中的新 GitHub Copilot 功能，例如增强的上下文理解、</description>
+      <pubDate>Thu, 29 Aug 2024 16:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.20 with improved simulating API errors and a new API for building integrations】Dev Proxy v0.20 改进了模拟 API 错误和用于构建集成的新 API</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-20-with-improved-simulating-api-errors-and-a-new-api-for-building-integrations</link>
+      <description>【Discover what&#39;s new in the latest version of Dev Proxy to help you build robust apps connected to APIs.】了解最新版本的 Dev Proxy 中的新增功能，帮助您构建连接到 API 的强大应用程序。</description>
+      <pubDate>Thu, 29 Aug 2024 06:44:50 +0000</pubDate>
     </item>
     <item>
       <title>【Protecting against Prompt Injection Attacks in Chat Prompts】防范聊天提示中的提示注入攻击</title>
@@ -46,16 +34,28 @@
       <pubDate>Wed, 28 Aug 2024 15:53:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (August 2024)】Azure SDK 版本（2024 年 8 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Tue, 27 Aug 2024 18:48:10 +0000</pubDate>
+      <title>【BinaryFormatter removed from .NET 9】BinaryFormatter 从 .NET 9 中删除</title>
+      <link>https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9</link>
+      <description>【Starting with .NET 9, we no longer include an implementation of BinaryFormatter in the runtime. This post covers what options you have to move forward.】从 .NET 9 开始，我们不再在运行时中包含 BinaryFormatter 的实现。这篇文章介绍了您必须采取哪些选择才能继续前进。</description>
+      <pubDate>Wed, 28 Aug 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!】.NET 社区工具包 8.3 现已推出！ NativeAOT、.NET 8 增强功能等等！</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830</link>
-      <description>【We&#39;re happy to announce the official launch of the .NET Community Toolkit 8.3 release, featuring .NET 8 and NativeAOT support, performance improvements, several bug fixes and enhancements, and more!】我们很高兴地宣布正式推出 .NET Community Toolkit 8.3 版本，其中包含 .NET 8 和 NativeAOT 支持、性能改进、多项错误修复和增强功能等等！</description>
-      <pubDate>Tue, 27 Aug 2024 17:30:00 +0000</pubDate>
+      <title>【We are deprecating earlier versions of Visual Studio for Dynamics 365 for Finance and Operations development】我们将弃用早期版​​本的 Visual Studio for Dynamics 365 用于财务和运营开发</title>
+      <link>https://devblogs.microsoft.com/powerplatform/we-are-deprecating-earlier-versions-of-visual-studio-for-dynamics-365-for-finance-and-operations-development</link>
+      <description>【Abstract Microsoft will no longer be shipping or supporting the Visual Studio extensions supporting development work against Dynamics 365 for Finance and Operations, and for the Power Platform tools, for Visual Studio versions other than Visual Studio 2022. What will change?】摘要 Microsoft 将不再发布或支持 Visual Studio 扩展，这些扩展支持针对 Dynamics 365 for Finance and Operations、Power Platform 工具、Visual Studio 2022 以外的 Visual Studio 版本的开发工作。将会发生什么变化？</description>
+      <pubDate>Thu, 29 Aug 2024 22:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Vector Support EAP extended to Azure SQL MI】Vector 支持 EAP 扩展到 Azure SQL MI</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vector-support-eap-extended-to-azure-sql-mi</link>
+      <description>【If you are looking forward to build AI-enabled applications on your own data, you&amp;#8217;ll be excited to know that the Early Adopter Preview announced for Azure SQL DB on native vector capabilities is now available also for those who have data stored in Azure SQL Managed Instance!】如果您希望在自己的数据上构建支持 AI 的应用程序，那么您会很高兴知道针对 Azure SQL DB 宣布的基于本机矢量功能的早期采用者预览版现在也可供那些将数据存储在 Azure SQL 中的用户使用托管实例！</description>
+      <pubDate>Thu, 29 Aug 2024 16:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!】发布 .NET Aspire 8.2 – 再见组件，你好集成！</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2</link>
+      <description>【.NET Aspire 8.2 is here with some nice updates for components... we mean integrations! Learn more about this rename, what it means for you, and what the teams has been adding to testing in .NET Aspire!】.NET Aspire 8.2 在这里对组件进行了一些不错的更新...我们指的是集成！了解有关此重命名的更多信息、它对您意味着什么，以及团队在 .NET Aspire 测试中添加的内容！</description>
+      <pubDate>Thu, 29 Aug 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Streamline your workflow: Embracing Adaptive Cards Templating】简化您的工作流程：采用自适应卡片模板</title>
