@@ -4,54 +4,6 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Advancing Threat Intelligence: JA4 fingerprints and inter-request signals】推进威胁情报：JA4 指纹和请求间信号</title>
-      <link>https://blog.cloudflare.com/ja4-signals</link>
-      <description>【 Explore how Cloudflare&#39;s JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.&#xA; 】探索 Cloudflare 的 JA4 指纹识别和请求间信号如何为高级 Web 安全和威胁检测提供强大且可扩展的见解。</description>
-      <pubDate>Mon, 12 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing high-definition portrait video support for Cloudflare Stream】推出对 Cloudflare Stream 的高清肖像视频支持</title>
-      <link>https://blog.cloudflare.com/introducing-high-definition-portrait-video-support-for-cloudflare-stream</link>
-      <description>【 Cloudflare Stream is an end-to-end solution for video encoding, storage, delivery, and playback, focused on simplifying all aspects of video for developers. Newly uploaded or ingested portrait videos will now automatically be processed in full HD quality 】Cloudflare Stream 是一种用于视频编码、存储、交付和播放的端到端解决方案，专注于为开发人员简化视频的各个方面。新上传或摄取的肖像视频现在将自动以全高清质量进行处理</description>
-      <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments】2024 年巴黎奥运会回顾：互联网趋势、网络威胁和热门时刻</title>
-      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
-      <description>【 As the Paris 2024 Olympics ended, our analysis shows the event’s impact on the Internet in France and other countries at different moments, its effect on specific web properties, and a spike in cyber threats and emails related to Simone Biles and others. 】随着 2024 年巴黎奥运会结束，我们的分析显示了该赛事在不同时刻对法国和其他国家互联网的影响、对特定网络资产的影响，以及与西蒙·拜尔斯 (Simone Biles) 等人相关的网络威胁和电子邮件的激增。</description>
-      <pubDate>Wed, 14 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing HTTP request traffic insights on Cloudflare Radar】在 Cloudflare Radar 上引入 HTTP 请求流量洞察</title>
-      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
-      <description>【 The traffic graphs on Cloudflare Radar have been enhanced to include HTTP request traffic. This new metric complements the existing bytes-based “HTTP traffic” view, and the new graphs can be found on Radar’s Overview and Traffic pages. 】Cloudflare Radar 上的流量图已得到增强，包含 HTTP 请求流量。这个新指标补充了现有的基于字节的“HTTP 流量”视图，新的图表可以在 Radar 的概述和流量页面上找到。</description>
-      <pubDate>Tue, 13 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Rising together: honoring Cloudflare’s outstanding partners】共同崛起：表彰 Cloudflare 的杰出合作伙伴</title>
-      <link>https://blog.cloudflare.com/partner-award-winners-2023</link>
-      <description>【 Cloudflare’s success is fueled by exceptional partnerships. Our PowerUP program empowers these collaborations, driving innovation, profitability, and growth. We celebrate outstanding achievements with the Partner Awards. Let’s recognize the partners shaping our future 】Cloudflare 的成功得益于卓越的合作伙伴关系。我们的 PowerUP 计划为这些合作提供支持，推动创新、盈利和增长。我们通过合作伙伴奖来庆祝杰出成就。让我们认识那些塑造我们未来的合作伙伴</description>
-      <pubDate>Mon, 12 Aug 2024 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go wild: Wildcard support in Rules and a new open-source wildcard crate】疯狂：规则中的通配符支持和新的开源通配符箱</title>
-      <link>https://blog.cloudflare.com/wildcard-rules</link>
-      <description>【 We’re excited to announce wildcard support across our Ruleset Engine-based products and our open-source wildcard crate in Rust. Configuring rules has never been easier, with powerful pattern matching enabling simple and flexible URL redirects and beyond for users on all plans. 】我们很高兴地宣布我们基于规则集引擎的产品和 Rust 中的开源通配符箱支持通配符。配置规则从未如此简单，强大的模式匹配可为所有计划的用户提供简单灵活的 URL 重定向及其他功能。</description>
-      <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Summer 2024 weather report: Cloudflare with a chance of Intern-ets】2024 年夏季天气预报：Cloudflare 有机会实现互联网</title>
-      <link>https://blog.cloudflare.com/2024-interns</link>
-      <description>【 This summer, Cloudflare welcomed approximately 60 interns from all around the globe, on a mission to #HelpBuildABetterInternet. Join us as we dive into what we were able to accomplish and our experiences! 】今年夏天，Cloudflare 迎来了来自全球各地的约 60 名实习生，他们的使命是 #HelpBuildABetterInternet。加入我们，深入了解我们能够实现的目标和我们的经验！</description>
-      <pubDate>Mon, 19 Aug 2024 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A wild week in phishing, and what it means for you】网络钓鱼的疯狂一周及其对您意味着什么</title>
-      <link>https://blog.cloudflare.com/a-wild-week-in-phishing-and-what-it-means-for-you</link>
-      <description>【 From the U.S. elections and geopolitical conflict to tens of millions in corporate dollars lost, phishing remains the root cause of cyber damages. Learn why a comprehensive solution is the best way to stay protected. 】从美国大选和地缘政治冲突到数千万美元的企业损失，网络钓鱼仍然是网络损害的根本原因。了解为什么全面的解决方案是保持保护的最佳方式。</description>
-      <pubDate>Fri, 16 Aug 2024 18:34:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【NIST’s first post-quantum standards】NIST 的第一个后量子标准</title>
       <link>https://blog.cloudflare.com/nists-first-post-quantum-standards</link>
       <description>【 NIST has published the first cryptographic standards for protecting against attacks from quantum computers. Learn what this means for you and your organization. 】NIST 发布了第一个用于防御量子计算机攻击的密码标准。了解这对您和您的组织意味着什么。</description>
@@ -62,6 +14,54 @@
       <link>https://blog.cloudflare.com/cloud-connector</link>
       <description>【 Meet Cloud Connector — a new free product to simplify your cloud routing and object storage configurations. Say goodbye to frustrating Host Header workarounds and hello to protecting your assets, accelerating applications, and routing your traffic between multiple cloud providers seamlessly 】了解云连接器 — 一款新的免费产品，可简化您的云路由和对象存储配置。告别令人沮丧的主机标头解决方法，开始保护您的资产、加速应用程序以及在多个云提供商之间无缝路由流量</description>
       <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing HTTP request traffic insights on Cloudflare Radar】在 Cloudflare Radar 上引入 HTTP 请求流量洞察</title>
+      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
+      <description>【 The traffic graphs on Cloudflare Radar have been enhanced to include HTTP request traffic. This new metric complements the existing bytes-based “HTTP traffic” view, and the new graphs can be found on Radar’s Overview and Traffic pages. 】Cloudflare Radar 上的流量图已得到增强，包含 HTTP 请求流量。这个新指标补充了现有的基于字节的“HTTP 流量”视图，新的图表可以在 Radar 的概述和流量页面上找到。</description>
+      <pubDate>Tue, 13 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments】2024 年巴黎奥运会回顾：互联网趋势、网络威胁和热门时刻</title>
+      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
+      <description>【 As the Paris 2024 Olympics ended, our analysis shows the event’s impact on the Internet in France and other countries at different moments, its effect on specific web properties, and a spike in cyber threats and emails related to Simone Biles and others. 】随着 2024 年巴黎奥运会结束，我们的分析显示了该赛事在不同时刻对法国和其他国家互联网的影响、对特定网络资产的影响，以及与西蒙·拜尔斯 (Simone Biles) 等人相关的网络威胁和电子邮件的激增。</description>
+      <pubDate>Wed, 14 Aug 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Advancing Threat Intelligence: JA4 fingerprints and inter-request signals】推进威胁情报：JA4 指纹和请求间信号</title>
+      <link>https://blog.cloudflare.com/ja4-signals</link>
+      <description>【 Explore how Cloudflare&#39;s JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.&#xA; 】探索 Cloudflare 的 JA4 指纹识别和请求间信号如何为高级 Web 安全和威胁检测提供强大且可扩展的见解。</description>
+      <pubDate>Mon, 12 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go wild: Wildcard support in Rules and a new open-source wildcard crate】狂野起来：规则中的通配符支持和新的开源通配符箱</title>
+      <link>https://blog.cloudflare.com/wildcard-rules</link>
+      <description>【 We’re excited to announce wildcard support across our Ruleset Engine-based products and our open-source wildcard crate in Rust. Configuring rules has never been easier, with powerful pattern matching enabling simple and flexible URL redirects and beyond for users on all plans. 】我们很高兴地宣布我们基于规则集引擎的产品和 Rust 中的开源通配符箱支持通配符。配置规则从未如此简单，强大的模式匹配为所有计划的用户提供简单灵活的 URL 重定向及其他功能。</description>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A wild week in phishing, and what it means for you】网络钓鱼的疯狂一周及其对您意味着什么</title>
+      <link>https://blog.cloudflare.com/a-wild-week-in-phishing-and-what-it-means-for-you</link>
+      <description>【 From the U.S. elections and geopolitical conflict to tens of millions in corporate dollars lost, phishing remains the root cause of cyber damages. Learn why a comprehensive solution is the best way to stay protected. 】从美国大选和地缘政治冲突到数千万美元的企业损失，网络钓鱼仍然是网络损害的根本原因。了解为什么全面的解决方案是保持保护的最佳方式。</description>
+      <pubDate>Fri, 16 Aug 2024 18:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing high-definition portrait video support for Cloudflare Stream】推出对 Cloudflare Stream 的高清肖像视频支持</title>
+      <link>https://blog.cloudflare.com/introducing-high-definition-portrait-video-support-for-cloudflare-stream</link>
+      <description>【 Cloudflare Stream is an end-to-end solution for video encoding, storage, delivery, and playback, focused on simplifying all aspects of video for developers. Newly uploaded or ingested portrait videos will now automatically be processed in full HD quality 】Cloudflare Stream 是一种用于视频编码、存储、传输和播放的端到端解决方案，专注于为开发人员简化视频的各个方面。新上传或摄取的肖像视频现在将自动以全高清质量进行处理</description>
+      <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Rising together: honoring Cloudflare’s outstanding partners】共同崛起：表彰 Cloudflare 的杰出合作伙伴</title>
+      <link>https://blog.cloudflare.com/partner-award-winners-2023</link>
+      <description>【 Cloudflare’s success is fueled by exceptional partnerships. Our PowerUP program empowers these collaborations, driving innovation, profitability, and growth. We celebrate outstanding achievements with the Partner Awards. Let’s recognize the partners shaping our future 】Cloudflare 的成功得益于卓越的合作伙伴关系。我们的 PowerUP 计划为这些合作提供支持，推动创新、盈利和增长。我们通过合作伙伴奖来庆祝杰出成就。让我们认识那些塑造我们未来的合作伙伴</description>
+      <pubDate>Mon, 12 Aug 2024 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Summer 2024 weather report: Cloudflare with a chance of Intern-ets】2024 年夏季天气预报：Cloudflare 有机会实现互联网</title>
+      <link>https://blog.cloudflare.com/2024-interns</link>
+      <description>【 This summer, Cloudflare welcomed approximately 60 interns from all around the globe, on a mission to #HelpBuildABetterInternet. Join us as we dive into what we were able to accomplish and our experiences! 】今年夏天，Cloudflare 迎来了来自全球各地的约 60 名实习生，他们的使命是#HelpBuildABetterInternet。加入我们，深入了解我们能够实现的目标和我们的经验！</description>
+      <pubDate>Mon, 19 Aug 2024 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

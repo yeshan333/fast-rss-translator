@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【How is the Windows.Foundation.Uri.Domain property different from Host?】Windows.Foundation.Uri.Domain 属性与 Host 有何不同？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240829-00/?p=110192</link>
-      <description>【It&#39;s an educated guess.】这是一个有根据的猜测。</description>
-      <pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Patch management】Microsoft 365 认证控制焦点：补丁管理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-patch-management</link>
-      <description>【Discover how Microsoft 365 Certification validates patching best practices for enterprise-ready apps.】了解 Microsoft 365 认证如何验证企业就绪应用程序的修补最佳实践。</description>
-      <pubDate>Wed, 28 Aug 2024 19:58:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New GitHub Copilot features in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中的 GitHub Copilot 新功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11</link>
-      <description>【Visual Studio 2022 17.11 now brings exciting advancements from GitHub Copilot! This release significantly improves how GitHub Copilot integrates into your development workflow, offering smarter and more intuitive coding assistance. Discover the new GitHub Copilot features in Visual Studio, such as enhanced context understanding,】Visual Studio 2022 17.11 现在带来了来自 GitHub Copilot 的令人兴奋的进步！此版本显着改进了 GitHub Copilot 集成到开发工作流程中的方式，提供更智能、更直观的编码帮助。探索 Visual Studio 中的新 GitHub Copilot 功能，例如增强的上下文理解、</description>
-      <pubDate>Thu, 29 Aug 2024 16:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v0.20 with improved simulating API errors and a new API for building integrations】Dev Proxy v0.20 改进了模拟 API 错误和用于构建集成的新 API</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-20-with-improved-simulating-api-errors-and-a-new-api-for-building-integrations</link>
-      <description>【Discover what&#39;s new in the latest version of Dev Proxy to help you build robust apps connected to APIs.】了解最新版本的 Dev Proxy 中的新增功能，帮助您构建连接到 API 的强大应用程序。</description>
-      <pubDate>Thu, 29 Aug 2024 06:44:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Protecting against Prompt Injection Attacks in Chat Prompts】防范聊天提示中的提示注入攻击</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/protecting-against-prompt-injection-attacks-in-chat-prompts</link>
-      <description>【Semantic Kernel allows prompts to be automatically converted to ChatHistory instances. Developers can create prompts which include &amp;lt;message&amp;gt; tags and these will be parsed (using an XML parser) and converted into instances of ChatMessageContent. See mapping of prompt syntax to completion service model for more information.】语义内核允许提示自动转换为 ChatHistory 实例。开发人员可以创建包含 &lt;message&gt; 标签的提示，这些提示将被解析（使用 XML 解析器）并转换为 ChatMessageContent 的实例。有关详细信息，请参阅提示语法到完成服务模型的映射。</description>
-      <pubDate>Wed, 28 Aug 2024 15:53:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【BinaryFormatter removed from .NET 9】BinaryFormatter 从 .NET 9 中删除</title>
-      <link>https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9</link>
-      <description>【Starting with .NET 9, we no longer include an implementation of BinaryFormatter in the runtime. This post covers what options you have to move forward.】从 .NET 9 开始，我们不再在运行时中包含 BinaryFormatter 的实现。这篇文章介绍了您必须采取哪些选择才能继续前进。</description>
-      <pubDate>Wed, 28 Aug 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【We are deprecating earlier versions of Visual Studio for Dynamics 365 for Finance and Operations development】我们将弃用早期版​​本的 Visual Studio for Dynamics 365 用于财务和运营开发</title>
-      <link>https://devblogs.microsoft.com/powerplatform/we-are-deprecating-earlier-versions-of-visual-studio-for-dynamics-365-for-finance-and-operations-development</link>
-      <description>【Abstract Microsoft will no longer be shipping or supporting the Visual Studio extensions supporting development work against Dynamics 365 for Finance and Operations, and for the Power Platform tools, for Visual Studio versions other than Visual Studio 2022. What will change?】摘要 Microsoft 将不再发布或支持 Visual Studio 扩展，这些扩展支持针对 Dynamics 365 for Finance and Operations、Power Platform 工具、Visual Studio 2022 以外的 Visual Studio 版本的开发工作。将会发生什么变化？</description>
-      <pubDate>Thu, 29 Aug 2024 22:09:47 +0000</pubDate>
+      <title>【Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!】发布 .NET Aspire 8.2 – 再见组件，你好集成！</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2</link>
+      <description>【.NET Aspire 8.2 is here with some nice updates for components... we mean integrations! Learn more about this rename, what it means for you, and what the teams has been adding to testing in .NET Aspire!】.NET Aspire 8.2 在这里对组件进行了一些不错的更新...我们指的是集成！了解有关此重命名的更多信息、它对您意味着什么，以及团队在 .NET Aspire 测试中添加的内容！</description>
+      <pubDate>Thu, 29 Aug 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Vector Support EAP extended to Azure SQL MI】Vector 支持 EAP 扩展到 Azure SQL MI</title>
@@ -52,16 +16,52 @@
       <pubDate>Thu, 29 Aug 2024 16:36:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!】发布 .NET Aspire 8.2 – 再见组件，你好集成！</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2</link>
-      <description>【.NET Aspire 8.2 is here with some nice updates for components... we mean integrations! Learn more about this rename, what it means for you, and what the teams has been adding to testing in .NET Aspire!】.NET Aspire 8.2 在这里对组件进行了一些不错的更新...我们指的是集成！了解有关此重命名的更多信息、它对您意味着什么，以及团队在 .NET Aspire 测试中添加的内容！</description>
-      <pubDate>Thu, 29 Aug 2024 17:05:00 +0000</pubDate>
+      <title>【How is the Windows.Foundation.Uri.Domain property different from Host?】Windows.Foundation.Uri.Domain 属性与 Host 有何不同？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240829-00/?p=110192</link>
+      <description>【It&#39;s an educated guess.】这是一个有根据的猜测。</description>
+      <pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Streamline your workflow: Embracing Adaptive Cards Templating】简化您的工作流程：采用自适应卡片模板</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/streamline-your-workflow-embracing-adaptive-cards-templating</link>
-      <description>【We’re excited to continue our journey with the adaptivecards-templating package, a more robust and streamlined approach to creating Adaptive Cards.】我们很高兴能够继续我们的自适应卡模板包之旅，这是一种更强大、更简化的创建自适应卡的方法。</description>
-      <pubDate>Wed, 28 Aug 2024 15:58:54 +0000</pubDate>
+      <title>【Introducing Azure AI Inference Connector for Azure AI Studio Models】推出适用于 Azure AI Studio 模型的 Azure AI 推理连接器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-azure-ai-inference-connector-for-azure-ai-studio-models</link>
+      <description>【Introduction  With the latest launch of the Azure AI Inference SDK for Azure AI Studio Models Catalog, we are happy to announce that we have also made available our dedicated Azure AI Inference Semantic Kernel Connector.  This connector is specially designed on top of the published Azure AI Inference SDK and is targeted to allow easy access to a comprehensive suite of AI models in the Azure AI Model Catalog for inferencing for use in your Semantic Kernel projects. 】简介 随着最新推出适用于 Azure AI Studio 模型目录的 Azure AI 推理 SDK，我们很高兴地宣布，我们还推出了专用的 Azure AI 推理语义内核连接器。  该连接器是在已发布的 Azure AI 推理 SDK 之上专门设计的，旨在允许轻松访问 Azure AI 模型目录中的全套 AI 模型，以便在语义内核项目中进行推理。 </description>
+      <pubDate>Fri, 30 Aug 2024 16:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【使用 MSTest.Analyzers 增强您的测试体验】使用 MSTest.Analyzers 增强您的测试体验</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-mstest-analyzers-%e5%a2%9e%e5%bc%ba%e6%82%a8%e7%9a%84%e6%b5%8b%e8%af%95%e4%bd%93%e9%aa%8c</link>
+      <description>【本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers &amp;#8211; .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with &#39;[TestClass]&#39; dotnet_diagnostic.MSTEST0030.severity = warning 为什么默认情况下这不是警告？  您可能会问为什么 MSTEST0030 默认是一条信息提示而不是默认的警告。原因是我们不能在 MSTest v3 中引入重大变更，而上述代码是一个常见的模式，用于从基类重用测试。  public class MyTestsBase { [TestMethod] public async Task CommonTestMethod() { } } [TestClass] public class MyTests : MyTestsBase { [TestMethod] public async Task TestMethod1() { Assert.Fail();】本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers – .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with &#39;[TestClass]&#39; dotnet_diagnostic.MSTEST0030.severity = warning 为什么默认情况下这不是警告？  您可能会问为什么 MSTEST0030 默认是一条信息提示而不是默认的警告。原因是我们不能在 MSTest v3 中引入重大变更，而上述代码是一个常见的模式，用于从基类重用测试。  public class MyTestsBase { [TestMethod] public async Task CommonTestMethod() { } } [TestClass] public class MyTests : MyTestsBase { [TestMethod] public async Task TestMethod1() { Assert.Fail();</description>
+      <pubDate>Fri, 30 Aug 2024 06:41:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing ASP.NET Core OData 9 Official Release】宣布 ASP.NET Core OData 9 正式发布</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-asp-net-core-odata-9-official-release</link>
+      <description>【We&amp;#8217;re happy to announce that ASP.NET Core OData 9 has been officially released and is available on NuGet: Microsoft.AspNetCore.OData 9.0.0 The major highlight of this release is the update of the OData .NET dependencies to the 8.x major version. By updating the dependencies,】我们很高兴地宣布 ASP.NET Core OData 9 已正式发布并可在 NuGet 上使用：Microsoft.AspNetCore.OData 9.0.0 此版本的主要亮点是将 OData .NET 依赖项更新到 8。 x 主要版本。通过更新依赖关系，</description>
+      <pubDate>Fri, 30 Aug 2024 09:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Graph APIs for Teams webinar registration now generally available】Microsoft Graph API for Teams 网络研讨会注册现已全面开放</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-webinar-registration-now-generally-available</link>
+      <description>【Explore how to use Microsoft Graph APIs to programmatically schedule online meetings with the appropriate meeting options.】探索如何使用 Microsoft Graph API 以编程方式安排具有适当会议选项的在线会议。</description>
+      <pubDate>Fri, 30 Aug 2024 14:38:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【We are deprecating earlier versions of Visual Studio for Dynamics 365 for Finance and Operations development】我们将弃用早期版​​本的 Visual Studio for Dynamics 365 用于财务和运营开发</title>
+      <link>https://devblogs.microsoft.com/powerplatform/we-are-deprecating-earlier-versions-of-visual-studio-for-dynamics-365-for-finance-and-operations-development</link>
+      <description>【Abstract Microsoft will no longer be shipping or supporting the Visual Studio extensions supporting development work against Dynamics 365 for Finance and Operations, and for the Power Platform tools, for Visual Studio versions other than Visual Studio 2022. What will change?】摘要 Microsoft 将不再发布或支持 Visual Studio 扩展，这些扩展支持针对 Dynamics 365 for Finance and Operations、Power Platform 工具、Visual Studio 2022 以外的 Visual Studio 版本的开发工作。将会发生什么变化？</description>
+      <pubDate>Thu, 29 Aug 2024 22:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【In the Windows kernel, what is a LUID, and what makes it loo-ey?】在 Windows 内核中，什么是 LUID，是什么让它变得如此混乱？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240830-00/?p=110198</link>
+      <description>【It&#39;s a locally-unique ID, for a specific definition of &#34;local&#34;.】它是本地唯一的 ID，用于“本地”的特定定义。</description>
+      <pubDate>Fri, 30 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New GitHub Copilot features in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中的 GitHub Copilot 新功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11</link>
+      <description>【Visual Studio 2022 17.11 now brings exciting advancements from GitHub Copilot! This release significantly improves how GitHub Copilot integrates into your development workflow, offering smarter and more intuitive coding assistance. Discover the new GitHub Copilot features in Visual Studio, such as enhanced context understanding,】Visual Studio 2022 17.11 现在带来了来自 GitHub Copilot 的令人兴奋的进步！此版本显着改进了 GitHub Copilot 集成到开发工作流程中的方式，提供更智能、更直观的编码帮助。探索 Visual Studio 中的新 GitHub Copilot 功能，例如增强的上下文理解、</description>
+      <pubDate>Thu, 29 Aug 2024 16:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
