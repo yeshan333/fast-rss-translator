@@ -5,22 +5,40 @@
     <description>Learn about Netflix’s world class engineering efforts, company culture, product developments and more. - Medium</description>
     <managingEditor>yourfriends@medium.com</managingEditor>
     <item>
-      <title>【Video annotator: building video classifiers using vision-language models and active learning】视频注释器：使用视觉语言模型和主动学习构建视频分类器</title>
-      <link>https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4?source=rss----2615bd06b42e---4</link>
+      <title>【Enhancing Netflix Reliability with Service-Level Prioritized Load Shedding】通过服务级别优先减载增强 Netflix 可靠性</title>
+      <link>https://netflixtechblog.com/enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Wed, 19 Jun 2024 15:29:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Recap of the Data Engineering Open Forum at Netflix】Netflix 数据工程开放论坛回顾</title>
-      <link>https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Thu, 20 Jun 2024 15:01:27 +0000</pubDate>
+      <pubDate>Tue, 25 Jun 2024 22:58:09 +0000</pubDate>
     </item>
     <item>
       <title>【Round 2: A Survey of Causal Inference Applications at Netflix】第二轮：Netflix 因果推理应用程序调查</title>
       <link>https://netflixtechblog.com/round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
       <pubDate>Thu, 06 Jun 2024 20:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Making of VES: the Cosmos Microservice for Netflix Video Encoding】VES 的制作：用于 Netflix 视频编码的 Cosmos 微服务</title>
+      <link>https://netflixtechblog.com/the-making-of-ves-the-cosmos-microservice-for-netflix-video-encoding-946b9b3cd300?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Tue, 09 Apr 2024 22:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Investigation of a Cross-regional Network Performance Issue】跨区域网络性能问题调查</title>
+      <link>https://netflixtechblog.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Mon, 05 Aug 2024 22:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Maestro: Netflix’s Workflow Orchestrator】Maestro：Netflix 的工作流程协调器</title>
+      <link>https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Mon, 22 Jul 2024 17:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Video annotator: building video classifiers using vision-language models and active learning】视频注释器：使用视觉语言模型和主动学习构建视频分类器</title>
+      <link>https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Wed, 19 Jun 2024 15:29:29 +0000</pubDate>
     </item>
     <item>
       <title>【Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments】通过从过去的实验中学习更好的代理指标来改进您的下一个实验</title>
@@ -35,28 +53,10 @@
       <pubDate>Thu, 29 Aug 2024 01:01:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Investigation of a Cross-regional Network Performance Issue】跨区域网络性能问题调查</title>
-      <link>https://netflixtechblog.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1?source=rss----2615bd06b42e---4</link>
+      <title>【A Recap of the Data Engineering Open Forum at Netflix】Netflix 数据工程开放论坛回顾</title>
+      <link>https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Mon, 05 Aug 2024 22:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhancing Netflix Reliability with Service-Level Prioritized Load Shedding】通过服务级别优先减载增强 Netflix 可靠性</title>
-      <link>https://netflixtechblog.com/enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Tue, 25 Jun 2024 22:58:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Maestro: Netflix’s Workflow Orchestrator】Maestro：Netflix 的工作流程协调器</title>
-      <link>https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Mon, 22 Jul 2024 17:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Making of VES: the Cosmos Microservice for Netflix Video Encoding】VES 的制作：用于 Netflix 视频编码的 Cosmos 微服务</title>
-      <link>https://netflixtechblog.com/the-making-of-ves-the-cosmos-microservice-for-netflix-video-encoding-946b9b3cd300?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Tue, 09 Apr 2024 22:12:32 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2024 15:01:27 +0000</pubDate>
     </item>
     <item>
       <title>【Java 21 Virtual Threads - Dude, Where’s My Lock?】Java 21 虚拟线程 - 老兄，我的锁在哪里？</title>
