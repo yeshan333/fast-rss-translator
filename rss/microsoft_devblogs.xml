@@ -4,10 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
+      <title>【New GitHub Copilot features in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中的 GitHub Copilot 新功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11</link>
+      <description>【Visual Studio 2022 17.11 now brings exciting advancements from GitHub Copilot! This release significantly improves how GitHub Copilot integrates into your development workflow, offering smarter and more intuitive coding assistance. Discover the new GitHub Copilot features in Visual Studio, such as enhanced context understanding,】Visual Studio 2022 17.11 现在带来了来自 GitHub Copilot 的令人兴奋的进步！此版本显着改进了 GitHub Copilot 集成到开发工作流程中的方式，提供更智能、更直观的编码帮助。探索 Visual Studio 中的新 GitHub Copilot 功能，例如增强的上下文理解、</description>
+      <pubDate>Thu, 29 Aug 2024 16:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!】发布 .NET Aspire 8.2 – 再见组件，你好集成！</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2</link>
+      <description>【.NET Aspire 8.2 is here with some nice updates for components... we mean integrations! Learn more about this rename, what it means for you, and what the teams has been adding to testing in .NET Aspire!】.NET Aspire 8.2 在这里对组件进行了一些不错的更新...我们指的是集成！了解有关此重命名的更多信息、它对您意味着什么，以及团队在 .NET Aspire 测试中添加的内容！</description>
+      <pubDate>Thu, 29 Aug 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【使用 MSTest.Analyzers 增强您的测试体验】使用 MSTest.Analyzers 增强您的测试体验</title>
       <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-mstest-analyzers-%e5%a2%9e%e5%bc%ba%e6%82%a8%e7%9a%84%e6%b5%8b%e8%af%95%e4%bd%93%e9%aa%8c</link>
       <description>【本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers &amp;#8211; .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with &#39;[TestClass]&#39; dotnet_diagnostic.MSTEST0030.severity = warning 为什么默认情况下这不是警告？  您可能会问为什么 MSTEST0030 默认是一条信息提示而不是默认的警告。原因是我们不能在 MSTest v3 中引入重大变更，而上述代码是一个常见的模式，用于从基类重用测试。  public class MyTestsBase { [TestMethod] public async Task CommonTestMethod() { } } [TestClass] public class MyTests : MyTestsBase { [TestMethod] public async Task TestMethod1() { Assert.Fail();】本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers – .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with &#39;[TestClass]&#39; dotnet_diagnostic.MSTEST0030.severity = warning 为什么默认情况下这不是警告？  您可能会问为什么 MSTEST0030 默认是一条信息提示而不是默认的警告。原因是我们不能在 MSTest v3 中引入重大变更，而上述代码是一个常见的模式，用于从基类重用测试。  public class MyTestsBase { [TestMethod] public async Task CommonTestMethod() { } } [TestClass] public class MyTests : MyTestsBase { [TestMethod] public async Task TestMethod1() { Assert.Fail();</description>
       <pubDate>Fri, 30 Aug 2024 06:41:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【We are deprecating earlier versions of Visual Studio for Dynamics 365 for Finance and Operations development】我们将弃用早期版​​本的 Visual Studio for Dynamics 365 用于财务和运营开发</title>
+      <link>https://devblogs.microsoft.com/powerplatform/we-are-deprecating-earlier-versions-of-visual-studio-for-dynamics-365-for-finance-and-operations-development</link>
+      <description>【Abstract Microsoft will no longer be shipping or supporting the Visual Studio extensions supporting development work against Dynamics 365 for Finance and Operations, and for the Power Platform tools, for Visual Studio versions other than Visual Studio 2022. What will change?】摘要 Microsoft 将不再发布或支持 Visual Studio 扩展，这些扩展支持针对 Dynamics 365 for Finance and Operations、Power Platform 工具、Visual Studio 2022 以外的 Visual Studio 版本的开发工作。将会发生什么变化？</description>
+      <pubDate>Thu, 29 Aug 2024 22:09:47 +0000</pubDate>
     </item>
     <item>
       <title>【In the Windows kernel, what is a LUID, and what makes it loo-ey?】在 Windows 内核中，什么是 LUID，是什么让它变得如此混乱？</title>
@@ -22,12 +40,6 @@
       <pubDate>Fri, 30 Aug 2024 09:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【New GitHub Copilot features in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中的 GitHub Copilot 新功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11</link>
-      <description>【Visual Studio 2022 17.11 now brings exciting advancements from GitHub Copilot! This release significantly improves how GitHub Copilot integrates into your development workflow, offering smarter and more intuitive coding assistance. Discover the new GitHub Copilot features in Visual Studio, such as enhanced context understanding,】Visual Studio 2022 17.11 现在带来了来自 GitHub Copilot 的令人兴奋的进步！此版本显着改进了 GitHub Copilot 集成到开发工作流程中的方式，提供更智能、更直观的编码帮助。探索 Visual Studio 中的新 GitHub Copilot 功能，例如增强的上下文理解、</description>
-      <pubDate>Thu, 29 Aug 2024 16:20:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【Microsoft Graph APIs for Teams webinar registration now generally available】Microsoft Graph API for Teams 网络研讨会注册现已全面开放</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-webinar-registration-now-generally-available</link>
       <description>【Explore how to use Microsoft Graph APIs to programmatically schedule online meetings with the appropriate meeting options.】探索如何使用 Microsoft Graph API 以编程方式安排具有适当会议选项的在线会议。</description>
@@ -40,28 +52,16 @@
       <pubDate>Thu, 29 Aug 2024 16:36:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Azure AI Inference Connector for Azure AI Studio Models】推出适用于 Azure AI Studio 模型的 Azure AI 推理连接器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-azure-ai-inference-connector-for-azure-ai-studio-models</link>
-      <description>【Introduction  With the latest launch of the Azure AI Inference SDK for Azure AI Studio Models Catalog, we are happy to announce that we have also made available our dedicated Azure AI Inference Semantic Kernel Connector.  This connector is specially designed on top of the published Azure AI Inference SDK and is targeted to allow easy access to a comprehensive suite of AI models in the Azure AI Model Catalog for inferencing for use in your Semantic Kernel projects. 】简介 随着最新推出适用于 Azure AI Studio 模型目录的 Azure AI 推理 SDK，我们很高兴地宣布，我们还推出了专用的 Azure AI 推理语义内核连接器。  该连接器是在已发布的 Azure AI 推理 SDK 之上专门设计的，旨在允许轻松访问 Azure AI 模型目录中的全套 AI 模型，以便在语义内核项目中进行推理。 </description>
-      <pubDate>Fri, 30 Aug 2024 16:07:13 +0000</pubDate>
+      <title>【Announcing the Proxy 3 Library for Dynamic Polymorphism】宣布推出用于动态多态性的 Proxy 3 库</title>
+      <link>https://devblogs.microsoft.com/cppblog/announcing-the-proxy-3-library-for-dynamic-polymorphism</link>
+      <description>【Next Generation Polymorphism in C++】C++ 中的下一代多态性</description>
+      <pubDate>Mon, 02 Sep 2024 14:52:50 +0000</pubDate>
     </item>
     <item>
-      <title>【How is the Windows.Foundation.Uri.Domain property different from Host?】Windows.Foundation.Uri.Domain 属性与 Host 有何不同？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240829-00/?p=110192</link>
-      <description>【It&#39;s an educated guess.】这是一个有根据的猜测。</description>
-      <pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!】发布 .NET Aspire 8.2 – 再见组件，你好集成！</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2</link>
-      <description>【.NET Aspire 8.2 is here with some nice updates for components... we mean integrations! Learn more about this rename, what it means for you, and what the teams has been adding to testing in .NET Aspire!】.NET Aspire 8.2 在这里对组件进行了一些不错的更新...我们指的是集成！了解有关此重命名的更多信息、它对您意味着什么，以及团队在 .NET Aspire 测试中添加的内容！</description>
-      <pubDate>Thu, 29 Aug 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【We are deprecating earlier versions of Visual Studio for Dynamics 365 for Finance and Operations development】我们将弃用早期版​​本的 Visual Studio for Dynamics 365 用于财务和运营开发</title>
-      <link>https://devblogs.microsoft.com/powerplatform/we-are-deprecating-earlier-versions-of-visual-studio-for-dynamics-365-for-finance-and-operations-development</link>
-      <description>【Abstract Microsoft will no longer be shipping or supporting the Visual Studio extensions supporting development work against Dynamics 365 for Finance and Operations, and for the Power Platform tools, for Visual Studio versions other than Visual Studio 2022. What will change?】摘要 Microsoft 将不再发布或支持 Visual Studio 扩展，这些扩展支持针对 Dynamics 365 for Finance and Operations、Power Platform 工具、Visual Studio 2022 以外的 Visual Studio 版本的开发工作。将会发生什么变化？</description>
-      <pubDate>Thu, 29 Aug 2024 22:09:47 +0000</pubDate>
+      <title>【The Co­Initialize­Security function demands an absolute security descriptor】CoInitializeSecurity 函数需要绝对安全描述符</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201</link>
+      <description>【Even though you usually have a self-relative one in hand.】即使你通常手里有一份与自己相关的东西。</description>
+      <pubDate>Mon, 02 Sep 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

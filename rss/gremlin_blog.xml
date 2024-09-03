@@ -4,10 +4,10 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
-      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
-      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
-      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
+      <link>https://www.gremlin.com/blog/gremlin-for-compliance</link>
+      <description>【Find out how Gremlin can help companies in regulated industries comply with Operational Resilience requirements like DORA, APRA CPS230, FCA PS21/3, and more.】了解 Gremlin 如何帮助受监管行业的公司遵守 DORA、APRA CPS230、FCA PS21/3 等运营弹性要求。</description>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to load-balance across multiple availability zones for improved redundancy】如何跨多个可用区进行负载平衡以提高冗余</title>
@@ -16,40 +16,10 @@
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What is the Well-Architected Cloud Test Suite?】什么是架构完善的云测试套件？</title>
-      <link>https://www.gremlin.com/blog/what-is-the-well-architected-cloud-test-suite</link>
-      <description>【Find out the tests included in Gremlin’s Well-Architected Cloud Test Suite to make it easier than ever to verify your cloud reliability.】了解 Gremlin 架构完善的云测试套件中包含的测试，以便比以往更轻松地验证云可靠性。</description>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Gremlin for AWS】适用于 AWS 的 Gremlin</title>
-      <link>https://www.gremlin.com/blog/gremlin-for-aws</link>
-      <description>【Gremlin is introducing Gremlin for AWS, a suite of tools to more easily find and fix the reliability risks that cause downtime on AWS. Gremlin for AWS enables engineering teams on AWS to prevent incidents, monitor and test systems for known causes of failure, and gain visibility into the reliability posture of their applications.】Gremlin 推出了 Gremlin for AWS，这是一套工具，可以更轻松地查找和修复导致 AWS 停机的可靠性风险。 Gremlin for AWS 使 AWS 上的工程团队能够预防事故、监控和测试系统以找出已知的故障原因，并了解其应用程序的可靠性状况。</description>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to prevent accidental load balancer deletions】如何防止负载均衡器意外删除</title>
-      <link>https://www.gremlin.com/blog/how-to-prevent-accidental-aws-elb-load-balancer-deletions</link>
-      <description>【Accidentally deleting cloud resources happens more often than you’d think. Learn how to enable deletion protection for your AWS Elastic Load Balancers (ELBs) and lower your risk of service outages.】意外删除云资源的情况比您想象的要频繁。了解如何为您的 AWS Elastic Load Balancer (ELB) 启用删除保护并降低服务中断的风险。</description>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Observability and incident response need resilience testing】可观察性和事件响应需要弹性测试</title>
-      <link>https://www.gremlin.com/blog/observability-and-incident-response-need-resilience-testing</link>
-      <description>【Find out how observability, incident response, and resilience testing work together to help you make your system more reliable, resilient, and available.】了解可观察性、事件响应和弹性​​测试如何协同工作，帮助您提高系统的可靠性、弹性和可用性。</description>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
-      <link>https://www.gremlin.com/blog/gremlin-for-compliance</link>
-      <description>【Find out how Gremlin can help companies in regulated industries comply with Operational Resilience requirements like DORA, APRA CPS230, FCA PS21/3, and more.】了解 Gremlin 如何帮助受监管行业的公司遵守 DORA、APRA CPS230、FCA PS21/3 等运营弹性要求。</description>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Intelligent Health Checks: one-click observability for reliability tests】智能健康检查：可靠性测试的一键可观察性</title>
-      <link>https://www.gremlin.com/blog/intelligent-health-checks-one-click-observability-for-reliability-tests</link>
-      <description>【Figuring out what to monitor can be a challenge. That’s why Gremlin does it for you. Learn how Gremlin automatically creates and monitors critical metrics for your AWS services.】弄清楚要监控什么可能是一个挑战。这就是 Gremlin 为您做这件事的原因。了解 Gremlin 如何自动创建和监控 AWS 服务的关键指标。</description>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <title>【Testing for expiring ‌TLS and SSL certificates using Gremlin】使用 Gremlin 测试过期的 TLS 和 SSL 证书</title>
+      <link>https://www.gremlin.com/blog/testing-for-expiring-tls-and-ssl-certificates-using-gremlin</link>
+      <description>【TLS certificates are a critical part of the modern web, but they require rotating. Learn why expiring certificates are such a big problem, and how Gremlin helps you stay ahead of them.】TLS 证书是现代网络的重要组成部分，但它们需要轮换。了解为什么过期证书是一个大问题，以及 Gremlin 如何帮助您保持领先地位。</description>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How role-based access control (RBAC) works in Gremlin】基于角色的访问控制 (RBAC) 在 Gremlin 中的工作原理</title>
@@ -58,10 +28,40 @@
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Testing for expiring ‌TLS and SSL certificates using Gremlin】使用 Gremlin 测试过期的 TLS 和 SSL 证书</title>
-      <link>https://www.gremlin.com/blog/testing-for-expiring-tls-and-ssl-certificates-using-gremlin</link>
-      <description>【TLS certificates are a critical part of the modern web, but they require rotating. Learn why expiring certificates are such a big problem, and how Gremlin helps you stay ahead of them.】TLS 证书是现代网络的重要组成部分，但它们需要轮换。了解为什么过期证书是一个大问题，以及 Gremlin 如何帮助您保持领先地位。</description>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <title>【Intelligent Health Checks: one-click observability for reliability tests】智能健康检查：可靠性测试的一键可观察性</title>
+      <link>https://www.gremlin.com/blog/intelligent-health-checks-one-click-observability-for-reliability-tests</link>
+      <description>【Figuring out what to monitor can be a challenge. That’s why Gremlin does it for you. Learn how Gremlin automatically creates and monitors critical metrics for your AWS services.】弄清楚要监控什么可能是一个挑战。这就是 Gremlin 为您做这件事的原因。了解 Gremlin 如何自动创建和监控 AWS 服务的关键指标。</description>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Observability and incident response need resilience testing】可观察性和事件响应需要弹性测试</title>
+      <link>https://www.gremlin.com/blog/observability-and-incident-response-need-resilience-testing</link>
+      <description>【Find out how observability, incident response, and resilience testing work together to help you make your system more reliable, resilient, and available.】了解可观察性、事件响应和弹性​​测试如何协同工作，帮助您提高系统的可靠性、弹性和可用性。</description>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What is the Well-Architected Cloud Test Suite?】什么是架构完善的云测试套件？</title>
+      <link>https://www.gremlin.com/blog/what-is-the-well-architected-cloud-test-suite</link>
+      <description>【Find out the tests included in Gremlin’s Well-Architected Cloud Test Suite to make it easier than ever to verify your cloud reliability.】了解 Gremlin 架构完善的云测试套件中包含的测试，以便比以往更轻松地验证云可靠性。</description>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to prevent accidental load balancer deletions】如何防止负载均衡器意外删除</title>
+      <link>https://www.gremlin.com/blog/how-to-prevent-accidental-aws-elb-load-balancer-deletions</link>
+      <description>【Accidentally deleting cloud resources happens more often than you’d think. Learn how to enable deletion protection for your AWS Elastic Load Balancers (ELBs) and lower your risk of service outages.】意外删除云资源的情况比您想象的要频繁。了解如何为您的 AWS Elastic Load Balancer (ELB) 启用删除保护并降低服务中断的风险。</description>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
+      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
+      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Gremlin for AWS】适用于 AWS 的 Gremlin</title>
+      <link>https://www.gremlin.com/blog/gremlin-for-aws</link>
+      <description>【Gremlin is introducing Gremlin for AWS, a suite of tools to more easily find and fix the reliability risks that cause downtime on AWS. Gremlin for AWS enables engineering teams on AWS to prevent incidents, monitor and test systems for known causes of failure, and gain visibility into the reliability posture of their applications.】Gremlin 推出了 Gremlin for AWS，这是一套工具，可以更轻松地查找和修复导致 AWS 停机的可靠性风险。 Gremlin for AWS 使 AWS 上的工程团队能够预防事故、监控和测试系统以找出已知的故障原因，并了解其应用程序的可靠性状况。</description>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

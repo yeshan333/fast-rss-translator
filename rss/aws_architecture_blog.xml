@@ -4,22 +4,10 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>来当建筑师吧！了解 AWS 上的机器学习</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/</link>
-      <description></description>
-      <pubDate>Thu, 30 May 2024 15:01:20 +0000</pubDate>
-    </item>
-    <item>
       <title>来当建筑师吧！设计架构良好的系统</title>
       <link>https://aws.amazon.com/blogs/architecture/lets-architect-well-architected-systems/</link>
       <description></description>
       <pubDate>Wed, 31 Jul 2024 16:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wesfarmers Health 如何使用 Amazon SQS FIFO 实施上游事件缓冲</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-wesfarmers-health-implemented-upstream-event-buffering-using-amazon-sqs-fifo/</link>
-      <description></description>
-      <pubDate>Thu, 22 Aug 2024 17:50:07 +0000</pubDate>
     </item>
     <item>
       <title>使用 Amazon Bedrock 简化和自动化账单处理</title>
@@ -34,16 +22,10 @@
       <pubDate>Wed, 05 Jun 2024 15:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>宣布更新 AWS 架构完善的框架指南</title>
-      <link>https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-2/</link>
+      <title>使用 AWS 架构完善的框架指南实现节俭架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/</link>
       <description></description>
-      <pubDate>Thu, 27 Jun 2024 20:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>引入毛利数据镜头以实现架构良好的框架</title>
-      <link>https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/</link>
-      <description></description>
-      <pubDate>Thu, 01 Aug 2024 22:56:37 +0000</pubDate>
+      <pubDate>Wed, 14 Aug 2024 19:55:53 +0000</pubDate>
     </item>
     <item>
       <title>来当建筑师吧！使用 AWS 迁移到云</title>
@@ -58,10 +40,28 @@
       <pubDate>Wed, 07 Aug 2024 17:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>使用 AWS 架构完善的框架指南实现节俭架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/</link>
+      <title>宣布更新 AWS 架构完善的框架指南</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-2/</link>
       <description></description>
-      <pubDate>Wed, 14 Aug 2024 19:55:53 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2024 20:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>引入毛利数据镜头以实现架构良好的框架</title>
+      <link>https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/</link>
+      <description></description>
+      <pubDate>Thu, 01 Aug 2024 22:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wesfarmers Health 如何使用 Amazon SQS FIFO 实施上游事件缓冲</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-wesfarmers-health-implemented-upstream-event-buffering-using-amazon-sqs-fifo/</link>
+      <description></description>
+      <pubDate>Thu, 22 Aug 2024 17:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！了解 AWS 上的机器学习</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/</link>
+      <description></description>
+      <pubDate>Thu, 30 May 2024 15:01:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
