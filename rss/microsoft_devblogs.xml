@@ -4,54 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【New GitHub Copilot features in Visual Studio 2022 17.11】Visual Studio 2022 17.11 中的 GitHub Copilot 新功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11</link>
-      <description>【Visual Studio 2022 17.11 now brings exciting advancements from GitHub Copilot! This release significantly improves how GitHub Copilot integrates into your development workflow, offering smarter and more intuitive coding assistance. Discover the new GitHub Copilot features in Visual Studio, such as enhanced context understanding,】Visual Studio 2022 17.11 现在带来了来自 GitHub Copilot 的令人兴奋的进步！此版本显着改进了 GitHub Copilot 集成到开发工作流程中的方式，提供更智能、更直观的编码帮助。探索 Visual Studio 中的新 GitHub Copilot 功能，例如增强的上下文理解、</description>
-      <pubDate>Thu, 29 Aug 2024 16:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!】发布 .NET Aspire 8.2 – 再见组件，你好集成！</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2</link>
-      <description>【.NET Aspire 8.2 is here with some nice updates for components... we mean integrations! Learn more about this rename, what it means for you, and what the teams has been adding to testing in .NET Aspire!】.NET Aspire 8.2 在这里对组件进行了一些不错的更新...我们指的是集成！了解有关此重命名的更多信息、它对您意味着什么，以及团队在 .NET Aspire 测试中添加的内容！</description>
-      <pubDate>Thu, 29 Aug 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【使用 MSTest.Analyzers 增强您的测试体验】使用 MSTest.Analyzers 增强您的测试体验</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-mstest-analyzers-%e5%a2%9e%e5%bc%ba%e6%82%a8%e7%9a%84%e6%b5%8b%e8%af%95%e4%bd%93%e9%aa%8c</link>
-      <description>【本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers &amp;#8211; .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with &#39;[TestClass]&#39; dotnet_diagnostic.MSTEST0030.severity = warning 为什么默认情况下这不是警告？  您可能会问为什么 MSTEST0030 默认是一条信息提示而不是默认的警告。原因是我们不能在 MSTest v3 中引入重大变更，而上述代码是一个常见的模式，用于从基类重用测试。  public class MyTestsBase { [TestMethod] public async Task CommonTestMethod() { } } [TestClass] public class MyTests : MyTestsBase { [TestMethod] public async Task TestMethod1() { Assert.Fail();】本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers – .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with &#39;[TestClass]&#39; dotnet_diagnostic.MSTEST0030.severity = warning 为什么默认情况下这不是警告？  您可能会问为什么 MSTEST0030 默认是一条信息提示而不是默认的警告。原因是我们不能在 MSTest v3 中引入重大变更，而上述代码是一个常见的模式，用于从基类重用测试。  public class MyTestsBase { [TestMethod] public async Task CommonTestMethod() { } } [TestClass] public class MyTests : MyTestsBase { [TestMethod] public async Task TestMethod1() { Assert.Fail();</description>
-      <pubDate>Fri, 30 Aug 2024 06:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【We are deprecating earlier versions of Visual Studio for Dynamics 365 for Finance and Operations development】我们将弃用早期版​​本的 Visual Studio for Dynamics 365 用于财务和运营开发</title>
-      <link>https://devblogs.microsoft.com/powerplatform/we-are-deprecating-earlier-versions-of-visual-studio-for-dynamics-365-for-finance-and-operations-development</link>
-      <description>【Abstract Microsoft will no longer be shipping or supporting the Visual Studio extensions supporting development work against Dynamics 365 for Finance and Operations, and for the Power Platform tools, for Visual Studio versions other than Visual Studio 2022. What will change?】摘要 Microsoft 将不再发布或支持 Visual Studio 扩展，这些扩展支持针对 Dynamics 365 for Finance and Operations、Power Platform 工具、Visual Studio 2022 以外的 Visual Studio 版本的开发工作。将会发生什么变化？</description>
-      <pubDate>Thu, 29 Aug 2024 22:09:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【In the Windows kernel, what is a LUID, and what makes it loo-ey?】在 Windows 内核中，什么是 LUID，是什么让它变得如此混乱？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240830-00/?p=110198</link>
-      <description>【It&#39;s a locally-unique ID, for a specific definition of &#34;local&#34;.】它是本地唯一的 ID，用于“本地”的特定定义。</description>
-      <pubDate>Fri, 30 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing ASP.NET Core OData 9 Official Release】宣布 ASP.NET Core OData 9 正式发布</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-asp-net-core-odata-9-official-release</link>
-      <description>【We&amp;#8217;re happy to announce that ASP.NET Core OData 9 has been officially released and is available on NuGet: Microsoft.AspNetCore.OData 9.0.0 The major highlight of this release is the update of the OData .NET dependencies to the 8.x major version. By updating the dependencies,】我们很高兴地宣布 ASP.NET Core OData 9 已正式发布并可在 NuGet 上使用：Microsoft.AspNetCore.OData 9.0.0 此版本的主要亮点是将 OData .NET 依赖项更新到 8。 x 主要版本。通过更新依赖关系，</description>
-      <pubDate>Fri, 30 Aug 2024 09:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Graph APIs for Teams webinar registration now generally available】Microsoft Graph API for Teams 网络研讨会注册现已全面开放</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-webinar-registration-now-generally-available</link>
-      <description>【Explore how to use Microsoft Graph APIs to programmatically schedule online meetings with the appropriate meeting options.】探索如何使用 Microsoft Graph API 以编程方式安排具有适当会议选项的在线会议。</description>
-      <pubDate>Fri, 30 Aug 2024 14:38:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Vector Support EAP extended to Azure SQL MI】Vector 支持 EAP 扩展到 Azure SQL MI</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vector-support-eap-extended-to-azure-sql-mi</link>
-      <description>【If you are looking forward to build AI-enabled applications on your own data, you&amp;#8217;ll be excited to know that the Early Adopter Preview announced for Azure SQL DB on native vector capabilities is now available also for those who have data stored in Azure SQL Managed Instance!】如果您希望在自己的数据上构建支持 AI 的应用程序，那么您会很高兴知道针对 Azure SQL DB 宣布的基于本机矢量功能的早期采用者预览版现在也可供那些将数据存储在 Azure SQL 中的用户使用托管实例！</description>
-      <pubDate>Thu, 29 Aug 2024 16:36:43 +0000</pubDate>
-    </item>
-    <item>
       <title>【Announcing the Proxy 3 Library for Dynamic Polymorphism】宣布推出用于动态多态性的 Proxy 3 库</title>
       <link>https://devblogs.microsoft.com/cppblog/announcing-the-proxy-3-library-for-dynamic-polymorphism</link>
       <description>【Next Generation Polymorphism in C++】C++ 中的下一代多态性</description>
@@ -62,6 +14,54 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201</link>
       <description>【Even though you usually have a self-relative one in hand.】即使你通常手里有一份与自己相关的东西。</description>
       <pubDate>Mon, 02 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【使用 MSTest.Analyzers 增强您的测试体验】使用 MSTest.Analyzers 增强您的测试体验</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-mstest-analyzers-%e5%a2%9e%e5%bc%ba%e6%82%a8%e7%9a%84%e6%b5%8b%e8%af%95%e4%bd%93%e9%aa%8c</link>
+      <description>【本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers &amp;#8211; .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with [&amp;hellip;]】本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers – .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with […]</description>
+      <pubDate>Fri, 30 Aug 2024 06:41:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why did Windows 95 use blue screen error messages instead of hard error messages?】为什么 Windows 95 使用蓝屏错误消息而不是硬错误消息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205</link>
+      <description>【You may not able to get there from here.】您可能无法从这里到达那里。</description>
+      <pubDate>Tue, 03 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’】在“Azure 开发者 – .NET Aspire Day 2024”中提高您的云开发技能</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024</link>
+      <description>【Join us at the Azure Developers - .NET Aspire Day 2024, a virtual event happening on September 18, 2024】加入我们的 Azure 开发者 - .NET Aspire Day 2024，该虚拟活动将于 2024 年 9 月 18 日举行</description>
+      <pubDate>Tue, 03 Sep 2024 22:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Graph APIs for Teams webinar registration now generally available】Microsoft Graph API for Teams 网络研讨会注册现已全面开放</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-webinar-registration-now-generally-available</link>
+      <description>【Explore how to use Microsoft Graph APIs to programmatically schedule online meetings with the appropriate meeting options.】探索如何使用 Microsoft Graph API 以编程方式安排具有适当会议选项的在线会议。</description>
+      <pubDate>Fri, 30 Aug 2024 14:38:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Load optimization in Azure Fluid Relay using Managed Prometheus】使用托管 Prometheus 在 Azure Fluid Relay 中进行负载优化</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/load-optimization-in-azure-fluid-relay-using-managed-prometheus</link>
+      <description>【Read how Azure Fluid Relay leverages Prometheus metrics in determining cluster load and can restrict the cluster from taking in additional traffic once it reaches certain thresholds.】了解 Azure Fluid Relay 如何利用 Prometheus 指标来确定集群负载，并在达到特定阈值时限制集群接收额外流量。</description>
+      <pubDate>Tue, 03 Sep 2024 16:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing ASP.NET Core OData 9 Official Release】宣布 ASP.NET Core OData 9 正式发布</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-asp-net-core-odata-9-official-release</link>
+      <description>【We&amp;#8217;re happy to announce that ASP.NET Core OData 9 has been officially released and is available on NuGet: Microsoft.AspNetCore.OData 9.0.0 The major highlight of this release is the update of the OData .NET dependencies to the 8.x major version. By updating the dependencies, we&amp;#8217;re able to take advantage of the improvements and new capabilities introduced [&amp;hellip;]】我们很高兴地宣布 ASP.NET Core OData 9 已正式发布并可在 NuGet 上使用：Microsoft.AspNetCore.OData 9.0.0 此版本的主要亮点是将 OData .NET 依赖项更新到 8。 x 主要版本。通过更新依赖项，我们能够利用引入的改进和新功能[...]</description>
+      <pubDate>Fri, 30 Aug 2024 09:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【In the Windows kernel, what is a LUID, and what makes it loo-ey?】在 Windows 内核中，什么是 LUID，是什么让它变得如此混乱？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240830-00/?p=110198</link>
+      <description>【It&#39;s a locally-unique ID, for a specific definition of &#34;local&#34;.】它是本地唯一的 ID，用于“本地”的特定定义。</description>
+      <pubDate>Fri, 30 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhancing your Visual Studio authentication experience】增强您的 Visual Studio 身份验证体验</title>
+      <link>https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience</link>
+      <description>【The current cyber security climate demands that applications not only provide outstanding features but also prioritize the security of user data. Applications like Visual Studio rely on token-based authentication to access resources on your behalf. While effective, token-based authentication can be susceptible to attacks if not properly protected. Today, we are happy to announce that [&amp;hellip;]】当前的网络安全环境要求应用程序不仅要提供出色的功能，还要优先考虑用户数据的安全。 Visual Studio 等应用程序依赖基于令牌的身份验证来代表您访问资源。基于令牌的身份验证虽然有效，但如果保护不当，可能容易受到攻击。今天，我们很高兴地宣布[...]</description>
+      <pubDate>Tue, 03 Sep 2024 14:17:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
