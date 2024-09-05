@@ -4,28 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Announcing the Proxy 3 Library for Dynamic Polymorphism】宣布推出用于动态多态性的 Proxy 3 库</title>
-      <link>https://devblogs.microsoft.com/cppblog/announcing-the-proxy-3-library-for-dynamic-polymorphism</link>
-      <description>【Next Generation Polymorphism in C++】C++ 中的下一代多态性</description>
-      <pubDate>Mon, 02 Sep 2024 14:52:50 +0000</pubDate>
+      <title>【The case of the image that came out horribly slanted: Diagnosis】图像严重倾斜的案例：诊断</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240904-00/?p=110216</link>
+      <description>【Imperfect pitch.】不完美的音调。</description>
+      <pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The Co­Initialize­Security function demands an absolute security descriptor】CoInitializeSecurity 函数需要绝对安全描述符</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201</link>
-      <description>【Even though you usually have a self-relative one in hand.】即使你通常手里有一份与自己相关的东西。</description>
-      <pubDate>Mon, 02 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Incorporate GitHub Copilot into your daily flow】将 GitHub Copilot 纳入您的日常流程</title>
+      <link>https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow</link>
+      <description>【Streamlining Workflow with GitHub Copilot  Have you ever received code completions that are too large to manage or ones that need slight tweaks, but you must accept all the code to make those changes? To address these pain points, in Visual Studio 17.11 we’ve introduced a new feature that allows you to refine your completions [&amp;hellip;]】使用 GitHub Copilot 简化工作流程 您是否曾经收到过太大而无法管理的代码完成或需要稍微调整的代码，但您必须接受所有代码才能进行这些更改？为了解决这些痛点，在 Visual Studio 17.11 中，我们引入了一项新功能，可让您改进完成情况 [...]</description>
+      <pubDate>Wed, 04 Sep 2024 16:44:52 +0000</pubDate>
     </item>
     <item>
-      <title>【使用 MSTest.Analyzers 增强您的测试体验】使用 MSTest.Analyzers 增强您的测试体验</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-mstest-analyzers-%e5%a2%9e%e5%bc%ba%e6%82%a8%e7%9a%84%e6%b5%8b%e8%af%95%e4%bd%93%e9%aa%8c</link>
-      <description>【本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers &amp;#8211; .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with [&amp;hellip;]】本篇翻译于Jakub Jareš的Supercharge your testing experience with MSTest.Analyzers – .NET Blog (microsoft.com)  MSTest 附带一组分析器，用于检查您的测试代码并指出常见的错误和陷阱。这些错误可能很微妙，并导致测试框架完全忽略您的测试。  我们从 3.2.0 版本就开始提供这些分析器了，但在最新的 3.5.1 版本中，我们添加了一些我们认为您不应错过的分析器。  遗漏的测试  一个常见问题是当您忘记在类上添加 [TestClass] 时。MSTest 将无法知道类中有测试，也不会运行它们：  public class MyTests { [TestMethod] public async Task TestMethod1() { Assert.Fail(); } } 如果没有 MSTest.Analyzers，此代码在构建时不会出现警告或信息提示。运行测试时也不会出现测试失败的情况。由于类上没有 [TestClass] 属性，MSTest 会出于性能原因跳过整个类，并且您的测试将永远不会被找到。  但是使用分析器时您会在构建过程中收到一条信息提示：  我们建议将此信息提示升级为警告，甚至是构建错误。可以通过在 .editorconfig 文件中添加以下这行代码来实现  [*.cs] # MSTEST0030: Type containing &#39;[TestMethod]&#39; should be marked with […]</description>
-      <pubDate>Fri, 30 Aug 2024 06:41:28 +0000</pubDate>
+      <title>【Enhancing your Visual Studio authentication experience】增强您的 Visual Studio 身份验证体验</title>
+      <link>https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience</link>
+      <description>【The current cyber security climate demands that applications not only provide outstanding features but also prioritize the security of user data. Applications like Visual Studio rely on token-based authentication to access resources on your behalf. While effective, token-based authentication can be susceptible to attacks if not properly protected. Today, we are happy to announce that [&amp;hellip;]】当前的网络安全环境要求应用程序不仅要提供出色的功能，还要优先考虑用户数据的安全。 Visual Studio 等应用程序依赖基于令牌的身份验证来代表您访问资源。基于令牌的身份验证虽然有效，但如果保护不当，可能容易受到攻击。今天，我们很高兴地宣布 [...]</description>
+      <pubDate>Tue, 03 Sep 2024 14:17:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Why did Windows 95 use blue screen error messages instead of hard error messages?】为什么 Windows 95 使用蓝屏错误消息而不是硬错误消息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205</link>
-      <description>【You may not able to get there from here.】您可能无法从这里到达那里。</description>
-      <pubDate>Tue, 03 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Introducing Nested App Authentication: An improved authentication protocol for your Teams app】引入嵌套应用程序身份验证：针对 Teams 应用程序的改进身份验证协议</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-nested-app-authentication-an-improved-authentication-protocol-for-your-teams-app</link>
+      <description>【Learn how Nested App Authentication simplifies the authentication process and enables single sign-on across supported Microsoft first-party applications.】了解嵌套应用程序身份验证如何简化身份验证过程并支持跨受支持的 Microsoft 第一方应用程序进行单点登录。</description>
+      <pubDate>Wed, 04 Sep 2024 16:25:11 +0000</pubDate>
     </item>
     <item>
       <title>【Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’】在“Azure 开发者 – .NET Aspire Day 2024”中提高您的云开发技能</title>
@@ -34,10 +34,16 @@
       <pubDate>Tue, 03 Sep 2024 22:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Graph APIs for Teams webinar registration now generally available】Microsoft Graph API for Teams 网络研讨会注册现已全面开放</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-webinar-registration-now-generally-available</link>
-      <description>【Explore how to use Microsoft Graph APIs to programmatically schedule online meetings with the appropriate meeting options.】探索如何使用 Microsoft Graph API 以编程方式安排具有适当会议选项的在线会议。</description>
-      <pubDate>Fri, 30 Aug 2024 14:38:55 +0000</pubDate>
+      <title>【Why did Windows 95 use blue screen error messages instead of hard error messages?】为什么 Windows 95 使用蓝屏错误消息而不是硬错误消息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205</link>
+      <description>【You may not able to get there from here.】您可能无法从这里到达那里。</description>
+      <pubDate>Tue, 03 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Discover .NET at DEVintersection Las Vegas 2024】在 2024 年拉斯维加斯 DEVintersection 上探索 .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024</link>
+      <description>【Join us at DEVintersection Las Vegas from September 9-12, 2024, for an in-person event featuring the latest in .NET and Azure technologies. Connect with experts, dive into new advancements, and get your questions answered by the people who build the tools you use every day.】欢迎参加我们于 2024 年 9 月 9 日至 12 日在拉斯维加斯 DEVintersection 举办的现场活动，该活动将展示最新的 .NET 和 Azure 技术。与专家联系，深入了解新的进步，并让构建您每天使用的工具的人员回答您的问题。</description>
+      <pubDate>Wed, 04 Sep 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Load optimization in Azure Fluid Relay using Managed Prometheus】使用托管 Prometheus 在 Azure Fluid Relay 中进行负载优化</title>
@@ -46,22 +52,16 @@
       <pubDate>Tue, 03 Sep 2024 16:51:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing ASP.NET Core OData 9 Official Release】宣布 ASP.NET Core OData 9 正式发布</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-asp-net-core-odata-9-official-release</link>
-      <description>【We&amp;#8217;re happy to announce that ASP.NET Core OData 9 has been officially released and is available on NuGet: Microsoft.AspNetCore.OData 9.0.0 The major highlight of this release is the update of the OData .NET dependencies to the 8.x major version. By updating the dependencies, we&amp;#8217;re able to take advantage of the improvements and new capabilities introduced [&amp;hellip;]】我们很高兴地宣布 ASP.NET Core OData 9 已正式发布并可在 NuGet 上使用：Microsoft.AspNetCore.OData 9.0.0 此版本的主要亮点是将 OData .NET 依赖项更新到 8。 x 主要版本。通过更新依赖项，我们能够利用引入的改进和新功能[...]</description>
-      <pubDate>Fri, 30 Aug 2024 09:00:01 +0000</pubDate>
+      <title>【MSVC Backend Updates in Visual Studio 2022 version 17.11】Visual Studio 2022 版本 17.11 中的 MSVC 后端更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-11</link>
+      <description>【Visual Studio 2022 17.11 brings new optimizations, intrinsics, features, and improvements to the MSVC backend. Check out the highlights below:  Performance improvements and additional functionality for all architectures:  The SLP vectorizer can now recognize when vectors need to be permuted and when elements of a vector are defined by different operations.  Updated corruption handling in [&amp;hellip;]】Visual Studio 2022 17.11 为 MSVC 后端带来了新的优化、内在函数、功能和改进。查看以下亮点： 所有架构的性能改进和附加功能：SLP 向量化器现在可以识别何时需要对向量进行排列以及向量的元素何时由不同的操作定义。  更新了 [...] 中的腐败处理</description>
+      <pubDate>Wed, 04 Sep 2024 18:00:28 +0000</pubDate>
     </item>
     <item>
-      <title>【In the Windows kernel, what is a LUID, and what makes it loo-ey?】在 Windows 内核中，什么是 LUID，是什么让它变得如此混乱？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240830-00/?p=110198</link>
-      <description>【It&#39;s a locally-unique ID, for a specific definition of &#34;local&#34;.】它是本地唯一的 ID，用于“本地”的特定定义。</description>
-      <pubDate>Fri, 30 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhancing your Visual Studio authentication experience】增强您的 Visual Studio 身份验证体验</title>
-      <link>https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience</link>
-      <description>【The current cyber security climate demands that applications not only provide outstanding features but also prioritize the security of user data. Applications like Visual Studio rely on token-based authentication to access resources on your behalf. While effective, token-based authentication can be susceptible to attacks if not properly protected. Today, we are happy to announce that [&amp;hellip;]】当前的网络安全环境要求应用程序不仅要提供出色的功能，还要优先考虑用户数据的安全。 Visual Studio 等应用程序依赖基于令牌的身份验证来代表您访问资源。基于令牌的身份验证虽然有效，但如果保护不当，可能容易受到攻击。今天，我们很高兴地宣布[...]</description>
-      <pubDate>Tue, 03 Sep 2024 14:17:03 +0000</pubDate>
+      <title>【Guest Blog: Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel】来宾博客：利用 Phi-3 和语义内核将您的 AI 副驾驶带到边缘</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-bring-your-ai-copilots-to-the-edge-with-phi-3-and-semantic-kernel</link>
+      <description>【Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel Today we&amp;#8217;re featuring a guest author, Arafat Tehsin, who&amp;#8217;s a Microsoft Most Valuable Professional (MVP) for AI. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on how to Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel. We&amp;#8217;ll turn it [&amp;hellip;]】利用 Phi-3 和 Semantic Kernel 将您的 AI Copilot 带到边缘 今天我们邀请了一位客座作者 Arafat Tehsin，他是 Microsoft AI 领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点介绍了如何利用 Phi-3 和语义内核将 AI Copilots 带到边缘。我们将把它变成[...]</description>
+      <pubDate>Wed, 04 Sep 2024 18:32:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
