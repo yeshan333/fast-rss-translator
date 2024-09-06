@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【The case of the image that came out horribly slanted: Diagnosis】图像严重倾斜的案例：诊断</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240904-00/?p=110216</link>
-      <description>【Imperfect pitch.】不完美的音调。</description>
-      <pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Incorporate GitHub Copilot into your daily flow】将 GitHub Copilot 纳入您的日常流程</title>
-      <link>https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow</link>
-      <description>【Streamlining Workflow with GitHub Copilot  Have you ever received code completions that are too large to manage or ones that need slight tweaks, but you must accept all the code to make those changes? To address these pain points, in Visual Studio 17.11 we’ve introduced a new feature that allows you to refine your completions [&amp;hellip;]】使用 GitHub Copilot 简化工作流程 您是否曾经收到过太大而无法管理的代码完成或需要稍微调整的代码，但您必须接受所有代码才能进行这些更改？为了解决这些痛点，在 Visual Studio 17.11 中，我们引入了一项新功能，可让您改进完成情况 [...]</description>
-      <pubDate>Wed, 04 Sep 2024 16:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhancing your Visual Studio authentication experience】增强您的 Visual Studio 身份验证体验</title>
-      <link>https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience</link>
-      <description>【The current cyber security climate demands that applications not only provide outstanding features but also prioritize the security of user data. Applications like Visual Studio rely on token-based authentication to access resources on your behalf. While effective, token-based authentication can be susceptible to attacks if not properly protected. Today, we are happy to announce that [&amp;hellip;]】当前的网络安全环境要求应用程序不仅要提供出色的功能，还要优先考虑用户数据的安全。 Visual Studio 等应用程序依赖基于令牌的身份验证来代表您访问资源。基于令牌的身份验证虽然有效，但如果保护不当，可能容易受到攻击。今天，我们很高兴地宣布 [...]</description>
-      <pubDate>Tue, 03 Sep 2024 14:17:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Nested App Authentication: An improved authentication protocol for your Teams app】引入嵌套应用程序身份验证：针对 Teams 应用程序的改进身份验证协议</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-nested-app-authentication-an-improved-authentication-protocol-for-your-teams-app</link>
-      <description>【Learn how Nested App Authentication simplifies the authentication process and enables single sign-on across supported Microsoft first-party applications.】了解嵌套应用程序身份验证如何简化身份验证过程并支持跨受支持的 Microsoft 第一方应用程序进行单点登录。</description>
-      <pubDate>Wed, 04 Sep 2024 16:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’】在“Azure 开发者 – .NET Aspire Day 2024”中提高您的云开发技能</title>
-      <link>https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024</link>
-      <description>【Join us at the Azure Developers - .NET Aspire Day 2024, a virtual event happening on September 18, 2024】加入我们的 Azure 开发者 - .NET Aspire Day 2024，该虚拟活动将于 2024 年 9 月 18 日举行</description>
-      <pubDate>Tue, 03 Sep 2024 22:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why did Windows 95 use blue screen error messages instead of hard error messages?】为什么 Windows 95 使用蓝屏错误消息而不是硬错误消息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205</link>
-      <description>【You may not able to get there from here.】您可能无法从这里到达那里。</description>
-      <pubDate>Tue, 03 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Discover .NET at DEVintersection Las Vegas 2024】在 2024 年拉斯维加斯 DEVintersection 上探索 .NET</title>
-      <link>https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024</link>
-      <description>【Join us at DEVintersection Las Vegas from September 9-12, 2024, for an in-person event featuring the latest in .NET and Azure technologies. Connect with experts, dive into new advancements, and get your questions answered by the people who build the tools you use every day.】欢迎参加我们于 2024 年 9 月 9 日至 12 日在拉斯维加斯 DEVintersection 举办的现场活动，该活动将展示最新的 .NET 和 Azure 技术。与专家联系，深入了解新的进步，并让构建您每天使用的工具的人员回答您的问题。</description>
-      <pubDate>Wed, 04 Sep 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Load optimization in Azure Fluid Relay using Managed Prometheus】使用托管 Prometheus 在 Azure Fluid Relay 中进行负载优化</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/load-optimization-in-azure-fluid-relay-using-managed-prometheus</link>
-      <description>【Read how Azure Fluid Relay leverages Prometheus metrics in determining cluster load and can restrict the cluster from taking in additional traffic once it reaches certain thresholds.】了解 Azure Fluid Relay 如何利用 Prometheus 指标来确定集群负载，并在达到特定阈值时限制集群接收额外流量。</description>
-      <pubDate>Tue, 03 Sep 2024 16:51:35 +0000</pubDate>
+      <title>【Guest Blog: Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel】来宾博客：利用 Phi-3 和语义内核将您的 AI 副驾驶带到边缘</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-bring-your-ai-copilots-to-the-edge-with-phi-3-and-semantic-kernel</link>
+      <description>【Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel Today we&amp;#8217;re featuring a guest author, Arafat Tehsin, who&amp;#8217;s a Microsoft Most Valuable Professional (MVP) for AI. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on how to Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel. We&amp;#8217;ll turn it [&amp;hellip;]】利用 Phi-3 和 Semantic Kernel 将您的 AI Copilot 带到边缘 今天我们邀请了一位客座作者 Arafat Tehsin，他是 Microsoft AI 领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点介绍了如何利用 Phi-3 和语义内核将 AI Copilots 带到边缘。我们将把它变成[...]</description>
+      <pubDate>Wed, 04 Sep 2024 18:32:18 +0000</pubDate>
     </item>
     <item>
       <title>【MSVC Backend Updates in Visual Studio 2022 version 17.11】Visual Studio 2022 版本 17.11 中的 MSVC 后端更新</title>
@@ -58,10 +16,52 @@
       <pubDate>Wed, 04 Sep 2024 18:00:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel】来宾博客：利用 Phi-3 和语义内核将您的 AI 副驾驶带到边缘</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-bring-your-ai-copilots-to-the-edge-with-phi-3-and-semantic-kernel</link>
-      <description>【Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel Today we&amp;#8217;re featuring a guest author, Arafat Tehsin, who&amp;#8217;s a Microsoft Most Valuable Professional (MVP) for AI. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on how to Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel. We&amp;#8217;ll turn it [&amp;hellip;]】利用 Phi-3 和 Semantic Kernel 将您的 AI Copilot 带到边缘 今天我们邀请了一位客座作者 Arafat Tehsin，他是 Microsoft AI 领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点介绍了如何利用 Phi-3 和语义内核将 AI Copilots 带到边缘。我们将把它变成[...]</description>
-      <pubDate>Wed, 04 Sep 2024 18:32:18 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) – September 2024】Azure 开发人员 CLI (azd) – 2024 年 9 月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-september-2024</link>
+      <description>【This post announces the September release of the Azure Developer CLI (`azd`). Including remote container build support, multiple hooks per event, deployment stack support, promoting resource group scoped deployments to the Beta feature stage, and more.】这篇文章宣布了 9 月份发布的 Azure 开发人员 CLI (`azd`)。包括远程容器构建支持、每个事件多个挂钩、部署堆栈支持、将资源组范围的部署提升到 Beta 功能阶段等等。</description>
+      <pubDate>Thu, 05 Sep 2024 16:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Discover .NET at DEVintersection Las Vegas 2024】在 2024 年拉斯维加斯 DEVintersection 上探索 .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024</link>
+      <description>【Join us at DEVintersection Las Vegas from September 9-12, 2024, for an in-person event featuring the latest in .NET and Azure technologies. Connect with experts, dive into new advancements, and get your questions answered by the people who build the tools you use every day.】欢迎参加我们于 2024 年 9 月 9 日至 12 日在拉斯维加斯 DEVintersection 举办的现场活动，该活动将展示最新的 .NET 和 Azure 技术。与专家联系，深入了解新的进步，并让构建您每天使用的工具的人员回答您的问题。</description>
+      <pubDate>Wed, 04 Sep 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (August 2024)】vcpkg 的新增功能（2024 年 8 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.08.23 release, 2024-08-01 tool release, as well as changes to vcpkg documentation throughout August. This month’s release includes several notable changes as well as bug fixes and documentation improvements. The most notable changes were: The shell function used to run vcpkg [&amp;hellip;]】这篇博文总结了 2024.08.23 版本、2024-08-01 工具版本中对 vcpkg 包管理器的更改，以及整个 8 月份对 vcpkg 文档的更改。本月的版本包括几个显着的更改以及错误修复和文档改进。最显着的变化是： 用于运行 vcpkg 的 shell 函数 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 22:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Easily dock and float tool windows】轻松停靠和浮动工具窗口</title>
+      <link>https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows</link>
+      <description>【You’re in the middle of a debugging session, attempting to chase down that one issue that is causing you trouble. In the heat of the moment, you grab a tool window and drag it out of its docked position – purely by accident. You didn’t mean to drag it, but sometimes when you move the [&amp;hellip;]】您正处于调试会话中，试图找出给您带来麻烦的问题。一时冲动，您抓住一个工具窗口并将其从停靠位置拖出——纯粹是出于意外。你并不是故意拖动它的，但有时当你移动 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 10:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Vulnerability scanning】Microsoft 365 认证控制焦点：漏洞扫描</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-vulnerability-scanning</link>
+      <description>【Learn how Microsoft 365 Certification validates vulnerability scanning for your application.】了解 Microsoft 365 认证如何验证应用程序的漏洞扫描。</description>
+      <pubDate>Thu, 05 Sep 2024 15:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB Vector Search with DiskANN Part 1: Full Space Search】使用 DiskANN 进行 Azure Cosmos DB 矢量搜索第 1 部分：全空间搜索</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vector-search-with-diskann-part-1-full-space-search</link>
+      <description>【Vector Search with Azure Cosmos DB Azure Cosmos DB NoSQL features advanced vector indexing and search capabilities powered by DiskANN, a suite of highly scalable, accurate, and cost-effective approximate nearest neighbor (ANN) algorithms for low-latency vector search at any scale. Azure Cosmos DB features key capabilities important for building Modern AI applications: A mission critical [&amp;hellip;]】使用 Azure Cosmos DB 进行矢量搜索 Azure Cosmos DB NoSQL 具有由 DiskANN 提供支持的高级矢量索引和搜索功能，DiskANN 是一套高度可扩展、准确且经济高效的近似最近邻 (ANN) 算法，适用于任何规模的低延迟矢量搜索。 Azure Cosmos DB 具有对于构建现代 AI 应用程序非常重要的关键功能：关键任务 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 18:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Vision Buddy – Empowering the Visually Impaired with AI and .NET Semantic Kernel】来宾博客：Vision Buddy – 通过 AI 和 .NET 语义内核为视障人士提供帮助</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-vision-buddy-empowering-the-visually-impaired-with-ai-and-net-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re featuring a guest author, Jonathan David. He’s written an article we’re sharing below, focused on how to create Vision Buddy to empower visually impaired individuals using .NET and Semantic Kernel. We’ll turn it over to Jonathan to share more! Discover how this proof-of-concept leverages AI using .NET Semantic Kernel to provide visually impaired users [&amp;hellip;]】今天我们请来一位客座作家乔纳森·大卫。他写了一篇我们在下面分享的文章，重点介绍了如何创建 Vision Buddy，以使用 .NET 和语义内核为视障人士提供帮助。 我们将把它交给乔纳森来分享更多！了解此概念验证如何利用 .NET 语义内核的 AI 为视障用户提供服务 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 19:21:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the image that came out horribly slanted: Taking the pitch into account】图像严重倾斜的情况：考虑到倾斜度</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240905-00/?p=110224</link>
+      <description>【Getting the pieces to line up.】让碎片对齐。</description>
+      <pubDate>Thu, 05 Sep 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
