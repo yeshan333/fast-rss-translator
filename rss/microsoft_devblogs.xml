@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Guest Blog: Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel】来宾博客：利用 Phi-3 和语义内核将您的 AI 副驾驶带到边缘</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-bring-your-ai-copilots-to-the-edge-with-phi-3-and-semantic-kernel</link>
-      <description>【Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel Today we&amp;#8217;re featuring a guest author, Arafat Tehsin, who&amp;#8217;s a Microsoft Most Valuable Professional (MVP) for AI. He&amp;#8217;s written an article we&amp;#8217;re sharing below, focused on how to Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel. We&amp;#8217;ll turn it [&amp;hellip;]】利用 Phi-3 和 Semantic Kernel 将您的 AI Copilot 带到边缘 今天我们邀请了一位客座作者 Arafat Tehsin，他是 Microsoft AI 领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点介绍了如何利用 Phi-3 和语义内核将 AI Copilots 带到边缘。我们将把它变成[...]</description>
-      <pubDate>Wed, 04 Sep 2024 18:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MSVC Backend Updates in Visual Studio 2022 version 17.11】Visual Studio 2022 版本 17.11 中的 MSVC 后端更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-11</link>
-      <description>【Visual Studio 2022 17.11 brings new optimizations, intrinsics, features, and improvements to the MSVC backend. Check out the highlights below:  Performance improvements and additional functionality for all architectures:  The SLP vectorizer can now recognize when vectors need to be permuted and when elements of a vector are defined by different operations.  Updated corruption handling in [&amp;hellip;]】Visual Studio 2022 17.11 为 MSVC 后端带来了新的优化、内在函数、功能和改进。查看以下亮点： 所有架构的性能改进和附加功能：SLP 向量化器现在可以识别何时需要对向量进行排列以及向量的元素何时由不同的操作定义。  更新了 [...] 中的腐败处理</description>
-      <pubDate>Wed, 04 Sep 2024 18:00:28 +0000</pubDate>
-    </item>
-    <item>
       <title>【Azure Developer CLI (azd) – September 2024】Azure 开发人员 CLI (azd) – 2024 年 9 月</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-september-2024</link>
       <description>【This post announces the September release of the Azure Developer CLI (`azd`). Including remote container build support, multiple hooks per event, deployment stack support, promoting resource group scoped deployments to the Beta feature stage, and more.】这篇文章宣布了 9 月份发布的 Azure 开发人员 CLI (`azd`)。包括远程容器构建支持、每个事件多个挂钩、部署堆栈支持、将资源组范围的部署提升到 Beta 功能阶段等等。</description>
       <pubDate>Thu, 05 Sep 2024 16:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Discover .NET at DEVintersection Las Vegas 2024】在 2024 年拉斯维加斯 DEVintersection 上探索 .NET</title>
-      <link>https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024</link>
-      <description>【Join us at DEVintersection Las Vegas from September 9-12, 2024, for an in-person event featuring the latest in .NET and Azure technologies. Connect with experts, dive into new advancements, and get your questions answered by the people who build the tools you use every day.】欢迎参加我们于 2024 年 9 月 9 日至 12 日在拉斯维加斯 DEVintersection 举办的现场活动，该活动将展示最新的 .NET 和 Azure 技术。与专家联系，深入了解新的进步，并让构建您每天使用的工具的人员回答您的问题。</description>
-      <pubDate>Wed, 04 Sep 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in vcpkg (August 2024)】vcpkg 的新增功能（2024 年 8 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.08.23 release, 2024-08-01 tool release, as well as changes to vcpkg documentation throughout August. This month’s release includes several notable changes as well as bug fixes and documentation improvements. The most notable changes were: The shell function used to run vcpkg [&amp;hellip;]】这篇博文总结了 2024.08.23 版本、2024-08-01 工具版本中对 vcpkg 包管理器的更改，以及整个 8 月份对 vcpkg 文档的更改。本月的版本包括几个显着的更改以及错误修复和文档改进。最显着的变化是： 用于运行 vcpkg 的 shell 函数 [...]</description>
-      <pubDate>Thu, 05 Sep 2024 22:06:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Easily dock and float tool windows】轻松停靠和浮动工具窗口</title>
-      <link>https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows</link>
-      <description>【You’re in the middle of a debugging session, attempting to chase down that one issue that is causing you trouble. In the heat of the moment, you grab a tool window and drag it out of its docked position – purely by accident. You didn’t mean to drag it, but sometimes when you move the [&amp;hellip;]】您正处于调试会话中，试图找出给您带来麻烦的问题。一时冲动，您抓住一个工具窗口并将其从停靠位置拖出——纯粹是出于意外。你并不是故意拖动它的，但有时当你移动 [...]</description>
-      <pubDate>Thu, 05 Sep 2024 10:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Vulnerability scanning】Microsoft 365 认证控制焦点：漏洞扫描</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-vulnerability-scanning</link>
-      <description>【Learn how Microsoft 365 Certification validates vulnerability scanning for your application.】了解 Microsoft 365 认证如何验证应用程序的漏洞扫描。</description>
-      <pubDate>Thu, 05 Sep 2024 15:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Cosmos DB Vector Search with DiskANN Part 1: Full Space Search】使用 DiskANN 进行 Azure Cosmos DB 矢量搜索第 1 部分：全空间搜索</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vector-search-with-diskann-part-1-full-space-search</link>
-      <description>【Vector Search with Azure Cosmos DB Azure Cosmos DB NoSQL features advanced vector indexing and search capabilities powered by DiskANN, a suite of highly scalable, accurate, and cost-effective approximate nearest neighbor (ANN) algorithms for low-latency vector search at any scale. Azure Cosmos DB features key capabilities important for building Modern AI applications: A mission critical [&amp;hellip;]】使用 Azure Cosmos DB 进行矢量搜索 Azure Cosmos DB NoSQL 具有由 DiskANN 提供支持的高级矢量索引和搜索功能，DiskANN 是一套高度可扩展、准确且经济高效的近似最近邻 (ANN) 算法，适用于任何规模的低延迟矢量搜索。 Azure Cosmos DB 具有对于构建现代 AI 应用程序非常重要的关键功能：关键任务 [...]</description>
-      <pubDate>Thu, 05 Sep 2024 18:28:12 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: Vision Buddy – Empowering the Visually Impaired with AI and .NET Semantic Kernel】来宾博客：Vision Buddy – 通过 AI 和 .NET 语义内核为视障人士提供帮助</title>
@@ -58,10 +16,52 @@
       <pubDate>Thu, 05 Sep 2024 19:21:47 +0000</pubDate>
     </item>
     <item>
+      <title>【Go 1.23.1-1 and 1.22.7-1 Microsoft builds now available】Go 1.23.1-1 和 1.22.7-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-1-1-and-1-22-7-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Fri, 06 Sep 2024 20:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the image that came out horribly slanted: Negative stride】图像严重倾斜的情况：负步幅</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240906-00/?p=110228</link>
+      <description>【It&#39;s all topsy-turvy.】一切都是颠倒的。</description>
+      <pubDate>Fri, 06 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – September 2024 Release】Visual Studio Code 中的 Python – 2024 年 9 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2024-release</link>
+      <description>【The September 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include Django test support. Keep reading to learn more!】适用于 Visual Studio Code 的 Python 和 Jupyter 扩展的 2024 年 9 月版本现已推出。本月的更新包括 Django 测试支持。继续阅读以了解更多信息！</description>
+      <pubDate>Fri, 06 Sep 2024 13:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (August 2024)】vcpkg 的新增功能（2024 年 8 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.08.23 release, 2024-08-01 tool release, as well as changes to vcpkg documentation throughout August. This month’s release includes several notable changes as well as bug fixes and documentation improvements. The most notable changes were: The shell function used to run vcpkg [&amp;hellip;]】这篇博文总结了 2024.08.23 版本、2024-08-01 工具版本中对 vcpkg 包管理器的更改，以及整个 8 月份对 vcpkg 文档的更改。本月的版本包括几个显着的更改以及错误修复和文档改进。最显着的变化是： 用于运行 vcpkg 的 shell 函数 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 22:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Graph APIs for Teams town hall now generally available】适用于 Teams 市政厅的 Microsoft Graph API 现已全面可用</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-town-hall-now-generally-available</link>
+      <description>【Learn more about the general availability of new Teams town hall APIs and discover what&#39;s new.】详细了解新 Teams 市政厅 API 的一般可用性并发现新功能。</description>
+      <pubDate>Fri, 06 Sep 2024 15:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>【The case of the image that came out horribly slanted: Taking the pitch into account】图像严重倾斜的情况：考虑到倾斜度</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240905-00/?p=110224</link>
       <description>【Getting the pieces to line up.】让碎片对齐。</description>
       <pubDate>Thu, 05 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB Vector Search with DiskANN Part 1: Full Space Search】使用 DiskANN 进行 Azure Cosmos DB 矢量搜索第 1 部分：全空间搜索</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vector-search-with-diskann-part-1-full-space-search</link>
+      <description>【Vector Search with Azure Cosmos DB Azure Cosmos DB NoSQL features advanced vector indexing and search capabilities powered by DiskANN, a suite of highly scalable, accurate, and cost-effective approximate nearest neighbor (ANN) algorithms for low-latency vector search at any scale. Azure Cosmos DB features key capabilities important for building Modern AI applications: A mission critical [&amp;hellip;]】使用 Azure Cosmos DB 进行矢量搜索 Azure Cosmos DB NoSQL 具有由 DiskANN 提供支持的高级矢量索引和搜索功能，DiskANN 是一套高度可扩展、准确且经济高效的近似最近邻 (ANN) 算法，适用于任何规模的低延迟矢量搜索。 Azure Cosmos DB 具有对于构建现代 AI 应用程序非常重要的关键功能：关键任务 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 18:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Vulnerability scanning】Microsoft 365 认证控制焦点：漏洞扫描</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-vulnerability-scanning</link>
+      <description>【Learn how Microsoft 365 Certification validates vulnerability scanning for your application.】了解 Microsoft 365 认证如何验证应用程序的漏洞扫描。</description>
+      <pubDate>Thu, 05 Sep 2024 15:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
