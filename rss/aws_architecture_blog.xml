@@ -4,40 +4,10 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>租户可移植性：在 SaaS 应用程序中跨层移动租户</title>
-      <link>https://aws.amazon.com/blogs/architecture/tenant-portability-move-tenants-across-tiers-in-a-saas-application/</link>
+      <title>来当建筑师吧！使用 AWS 迁移到云</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/</link>
       <description></description>
-      <pubDate>Wed, 07 Aug 2024 17:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>为架构良好的框架引入毛利数据镜头</title>
-      <link>https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/</link>
-      <description></description>
-      <pubDate>Thu, 01 Aug 2024 22:56:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 AWS 架构完善的框架指南实现节俭架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/</link>
-      <description></description>
-      <pubDate>Wed, 14 Aug 2024 19:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 Amazon Bedrock 简化和自动化账单处理</title>
-      <link>https://aws.amazon.com/blogs/architecture/simplify-and-automate-bill-processing-with-amazon-bedrock/</link>
-      <description></description>
-      <pubDate>Fri, 19 Jul 2024 15:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>来当建筑师吧！设计架构良好的系统</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-well-architected-systems/</link>
-      <description></description>
-      <pubDate>Wed, 31 Jul 2024 16:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>来当建筑师吧！了解 AWS 上的机器学习</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/</link>
-      <description></description>
-      <pubDate>Thu, 30 May 2024 15:01:20 +0000</pubDate>
+      <pubDate>Wed, 26 Jun 2024 23:14:38 +0000</pubDate>
     </item>
     <item>
       <title>Wesfarmers Health 如何使用 Amazon SQS FIFO 实施上游事件缓冲</title>
@@ -52,16 +22,46 @@
       <pubDate>Thu, 27 Jun 2024 20:14:06 +0000</pubDate>
     </item>
     <item>
+      <title>来当建筑师吧！了解 AWS 上的机器学习</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/</link>
+      <description></description>
+      <pubDate>Thu, 30 May 2024 15:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！设计架构良好的系统</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-well-architected-systems/</link>
+      <description></description>
+      <pubDate>Wed, 31 Jul 2024 16:47:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 Amazon Bedrock 简化和自动化账单处理</title>
+      <link>https://aws.amazon.com/blogs/architecture/simplify-and-automate-bill-processing-with-amazon-bedrock/</link>
+      <description></description>
+      <pubDate>Fri, 19 Jul 2024 15:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 AWS 架构完善的框架指南实现节俭架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/</link>
+      <description></description>
+      <pubDate>Wed, 14 Aug 2024 19:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>租户可移植性：在 SaaS 应用程序中跨层移动租户</title>
+      <link>https://aws.amazon.com/blogs/architecture/tenant-portability-move-tenants-across-tiers-in-a-saas-application/</link>
+      <description></description>
+      <pubDate>Wed, 07 Aug 2024 17:12:13 +0000</pubDate>
+    </item>
+    <item>
       <title>基因组学工作流程，第 7 部分：使用 AWS HealthOmics 分析公共 RNA 测序数据</title>
       <link>https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/</link>
       <description></description>
       <pubDate>Wed, 05 Jun 2024 15:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>来当建筑师吧！使用 AWS 迁移到云</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/</link>
+      <title>为架构良好的框架引入毛利数据镜头</title>
+      <link>https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/</link>
       <description></description>
-      <pubDate>Wed, 26 Jun 2024 23:14:38 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 22:56:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

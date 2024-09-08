@@ -4,22 +4,10 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #440】SRE 周刊 #440</title>
-      <link>https://sreweekly.com/sre-weekly-issue-440/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Migrate off of PagerDuty, save money, and then have all of your configuration exported as Terraform modules? We did that. We know one of the hardest parts of leaving a legacy tool is the old configuration, that&amp;#8217;s why we dedicated time to build the Signals migrator, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：从 PagerDuty 迁移、省钱，然后将所有配置导出为 Terraform 模块？我们做到了。我们知道离开遗留工具最困难的部分之一是旧配置，这就是为什么我们花时间构建信号迁移器，[...]</description>
-      <pubDate>Mon, 02 Sep 2024 00:11:58 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #439】SRE 周刊第 #439 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-439/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Migrate off of PagerDuty, save money, and then have all of your configuration exported as Terraform modules? We did that. We know one of the hardest parts of leaving a legacy tool is the old configuration, that&amp;#8217;s why we dedicated time to build the Signals migrator, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：从 PagerDuty 迁移、省钱，然后将所有配置导出为 Terraform 模块？我们做到了。我们知道离开遗留工具最困难的部分之一是旧配置，这就是为什么我们花时间构建信号迁移器，[...]</description>
       <pubDate>Mon, 26 Aug 2024 02:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #437】SRE 周刊第 #437 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-437/</link>
-      <description>【View on sreweekly.com This week&amp;#8217;s issue is entirely focused on the CrowdStrike incident: more details on what happened, analysis, and learnings. I&amp;#8217;ll be back next week with a selection of all of the great stuff you folks have been writing while I&amp;#8217;ve been off on vacation for the past two weeks—my RSS reader is packed [&amp;#8230;]】查看 sreweekly.com 本周的问题完全集中在 CrowdStrike 事件上：有关所发生事件、分析和教训的更多详细信息。下周我会回来，挑选出过去两周我休假期间你们写的所有精彩内容——我的 RSS 阅读器已经挤满了 […]</description>
-      <pubDate>Mon, 12 Aug 2024 04:09:43 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #436】SRE 周刊 #436</title>
@@ -28,10 +16,22 @@
       <pubDate>Mon, 05 Aug 2024 02:48:39 +0000</pubDate>
     </item>
     <item>
+      <title>【SRE Weekly Issue #440】SRE 周刊 #440</title>
+      <link>https://sreweekly.com/sre-weekly-issue-440/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Migrate off of PagerDuty, save money, and then have all of your configuration exported as Terraform modules? We did that. We know one of the hardest parts of leaving a legacy tool is the old configuration, that&amp;#8217;s why we dedicated time to build the Signals migrator, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：从 PagerDuty 迁移、省钱，然后将所有配置导出为 Terraform 模块？我们做到了。我们知道离开遗留工具最困难的部分之一是旧配置，这就是为什么我们花时间构建信号迁移器，[...]</description>
+      <pubDate>Mon, 02 Sep 2024 00:11:58 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #438】SRE 周刊 #438</title>
       <link>https://sreweekly.com/sre-weekly-issue-438/</link>
       <description>【View on sreweekly.com Are there any blind or low-vision readers out there that would be willing to answer a few questions? I&amp;#8217;m looking to learn more about your experience of reading a newsletter like this and the articles I link to. If you&amp;#8217;re interested, please drop me an email at lex at sreweekly dot com. [&amp;#8230;]】在 sreweekly.com 上查看 有盲人或弱视读者愿意回答几个问题吗？我希望更多地了解您阅读此类新闻通讯以及我链接到的文章的体验。如果您有兴趣，请给我发送电子邮件至 lex at sreweekly dot com。 […]</description>
       <pubDate>Mon, 19 Aug 2024 02:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #437】SRE 周刊第 #437 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-437/</link>
+      <description>【View on sreweekly.com This week&amp;#8217;s issue is entirely focused on the CrowdStrike incident: more details on what happened, analysis, and learnings. I&amp;#8217;ll be back next week with a selection of all of the great stuff you folks have been writing while I&amp;#8217;ve been off on vacation for the past two weeks—my RSS reader is packed [&amp;#8230;]】查看 sreweekly.com 本周的问题完全集中在 CrowdStrike 事件上：有关所发生事件、分析和教训的更多详细信息。下周我会回来，挑选出过去两周我休假期间你们写的所有精彩内容——我的 RSS 阅读器已经挤满了 […]</description>
+      <pubDate>Mon, 12 Aug 2024 04:09:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
