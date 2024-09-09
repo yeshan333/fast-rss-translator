@@ -4,28 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【The case of the image that came out horribly slanted: Negative stride】图像严重倾斜的情况：负步幅</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240906-00/?p=110228</link>
-      <description>【It&#39;s all topsy-turvy.】一切都是颠倒的。</description>
-      <pubDate>Fri, 06 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Azure Developer CLI (azd) – September 2024】Azure 开发人员 CLI (azd) – 2024 年 9 月</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-september-2024</link>
       <description>【This post announces the September release of the Azure Developer CLI (`azd`). Including remote container build support, multiple hooks per event, deployment stack support, promoting resource group scoped deployments to the Beta feature stage, and more.】这篇文章宣布了 9 月份发布的 Azure 开发人员 CLI (`azd`)。包括远程容器构建支持、每个事件多个挂钩、部署堆栈支持、将资源组范围的部署提升到 Beta 功能阶段等等。</description>
       <pubDate>Thu, 05 Sep 2024 16:39:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Vulnerability scanning】Microsoft 365 认证控制焦点：漏洞扫描</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-vulnerability-scanning</link>
-      <description>【Learn how Microsoft 365 Certification validates vulnerability scanning for your application.】了解 Microsoft 365 认证如何验证应用程序的漏洞扫描。</description>
-      <pubDate>Thu, 05 Sep 2024 15:00:35 +0000</pubDate>
+      <title>【Azure Cosmos DB Vector Search with DiskANN Part 1: Full Space Search】使用 DiskANN 进行 Azure Cosmos DB 矢量搜索第 1 部分：全空间搜索</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vector-search-with-diskann-part-1-full-space-search</link>
+      <description>【Vector Search with Azure Cosmos DB Azure Cosmos DB NoSQL features advanced vector indexing and search capabilities powered by DiskANN, a suite of highly scalable, accurate, and cost-effective approximate nearest neighbor (ANN) algorithms for low-latency vector search at any scale. Azure Cosmos DB features key capabilities important for building Modern AI applications: A mission critical [&amp;hellip;]】使用 Azure Cosmos DB 进行矢量搜索 Azure Cosmos DB NoSQL 具有由 DiskANN 提供支持的高级矢量索引和搜索功能，DiskANN 是一套高度可扩展、准确且经济高效的近似最近邻 (ANN) 算法，适用于任何规模的低延迟矢量搜索。 Azure Cosmos DB 具有对于构建现代 AI 应用程序非常重要的关键功能：关键任务 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 18:28:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.23.1-1 and 1.22.7-1 Microsoft builds now available】Go 1.23.1-1 和 1.22.7-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-1-1-and-1-22-7-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Fri, 06 Sep 2024 20:16:56 +0000</pubDate>
+      <title>【The case of the image that came out horribly slanted: Negative stride】图像严重倾斜的情况：负步幅</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240906-00/?p=110228</link>
+      <description>【It&#39;s all topsy-turvy.】一切都是颠倒的。</description>
+      <pubDate>Fri, 06 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the image that came out horribly slanted: Taking the pitch into account】图像严重倾斜的情况：考虑到倾斜度</title>
@@ -34,10 +28,10 @@
       <pubDate>Thu, 05 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Graph APIs for Teams town hall now generally available】适用于 Teams 市政厅的 Microsoft Graph API 现已全面可用</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-town-hall-now-generally-available</link>
-      <description>【Learn more about the general availability of new Teams town hall APIs and discover what&#39;s new.】详细了解新 Teams 市政厅 API 的一般可用性并发现新功能。</description>
-      <pubDate>Fri, 06 Sep 2024 15:00:02 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Vulnerability scanning】Microsoft 365 认证控制焦点：漏洞扫描</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-vulnerability-scanning</link>
+      <description>【Learn how Microsoft 365 Certification validates vulnerability scanning for your application.】了解 Microsoft 365 认证如何验证应用程序的漏洞扫描。</description>
+      <pubDate>Thu, 05 Sep 2024 15:00:35 +0000</pubDate>
     </item>
     <item>
       <title>【Python in Visual Studio Code – September 2024 Release】Visual Studio Code 中的 Python – 2024 年 9 月发布</title>
@@ -46,10 +40,10 @@
       <pubDate>Fri, 06 Sep 2024 13:50:48 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (August 2024)】vcpkg 的新增功能（2024 年 8 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.08.23 release, 2024-08-01 tool release, as well as changes to vcpkg documentation throughout August. This month’s release includes several notable changes as well as bug fixes and documentation improvements. The most notable changes were: The shell function used to run vcpkg [&amp;hellip;]】这篇博文总结了 2024.08.23 版本、2024-08-01 工具版本中对 vcpkg 包管理器的更改，以及整个 8 月份对 vcpkg 文档的更改。本月的版本包括几个显着的更改以及错误修复和文档改进。最显着的变化是： 用于运行 vcpkg 的 shell 函数 [...]</description>
-      <pubDate>Thu, 05 Sep 2024 22:06:11 +0000</pubDate>
+      <title>【Go 1.23.1-1 and 1.22.7-1 Microsoft builds now available】Go 1.23.1-1 和 1.22.7-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-1-1-and-1-22-7-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Fri, 06 Sep 2024 20:16:56 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: Vision Buddy – Empowering the Visually Impaired with AI and .NET Semantic Kernel】来宾博客：Vision Buddy – 通过 AI 和 .NET 语义内核为视障人士提供帮助</title>
@@ -58,10 +52,16 @@
       <pubDate>Thu, 05 Sep 2024 19:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Vector Search with DiskANN Part 1: Full Space Search】使用 DiskANN 进行 Azure Cosmos DB 矢量搜索第 1 部分：全空间搜索</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vector-search-with-diskann-part-1-full-space-search</link>
-      <description>【Vector Search with Azure Cosmos DB Azure Cosmos DB NoSQL features advanced vector indexing and search capabilities powered by DiskANN, a suite of highly scalable, accurate, and cost-effective approximate nearest neighbor (ANN) algorithms for low-latency vector search at any scale. Azure Cosmos DB features key capabilities important for building Modern AI applications: A mission critical [&amp;hellip;]】使用 Azure Cosmos DB 进行矢量搜索 Azure Cosmos DB NoSQL 具有由 DiskANN 提供支持的高级矢量索引和搜索功能，DiskANN 是一套高度可扩展、准确且经济高效的近似最近邻 (ANN) 算法，适用于任何规模的低延迟矢量搜索。 Azure Cosmos DB 具有对于构建现代 AI 应用程序非常重要的关键功能：关键任务 [...]</description>
-      <pubDate>Thu, 05 Sep 2024 18:28:12 +0000</pubDate>
+      <title>【Microsoft Graph APIs for Teams town hall now generally available】适用于 Teams 市政厅的 Microsoft Graph API 现已全面可用</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-town-hall-now-generally-available</link>
+      <description>【Learn more about the general availability of new Teams town hall APIs and discover what&#39;s new.】详细了解新 Teams 市政厅 API 的一般可用性并发现新功能。</description>
+      <pubDate>Fri, 06 Sep 2024 15:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (August 2024)】vcpkg 的新增功能（2024 年 8 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.08.23 release, 2024-08-01 tool release, as well as changes to vcpkg documentation throughout August. This month’s release includes several notable changes as well as bug fixes and documentation improvements. The most notable changes were: The shell function used to run vcpkg [&amp;hellip;]】这篇博文总结了 2024.08.23 版本、2024-08-01 工具版本中对 vcpkg 包管理器的更改，以及整个 8 月份对 vcpkg 文档的更改。本月的版本包括几个显着的更改以及错误修复和文档改进。最显着的变化是： 用于运行 vcpkg 的 shell 函数 [...]</description>
+      <pubDate>Thu, 05 Sep 2024 22:06:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
