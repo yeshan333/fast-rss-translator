@@ -4,16 +4,10 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【‍Monitoring Inter-Pod Traffic at the AZ Level with Retina (an eBPF based tool)】‍使用 Retina（基于 eBPF 的工具）监控 AZ 级别的 Pod 间流量</title>
-      <link>https://medium.com/@j.aslanov94/monitoring-inter-pod-traffic-at-the-az-level-with-ebpf-based-tool-retina-7a79818e305b</link>
-      <description>【Learn what eBPF is, explore the tools available for using it, and implement monitoring for inter-pod traffic using Retina, Kube State Metrics, Prometheus, and Grafana】了解 eBPF 是什么，探索可用于使用它的工具，并使用 Retina、Kube State Metrics、Prometheus 和 Grafana 实施对 Pod 间流量的监控</description>
-      <pubDate>Mon, 26 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍eBPF TLS tracing: The Past, Present and Future】‍eBPF TLS 追踪：过去、现在和未来</title>
-      <link>https://blog.px.dev/ebpf-tls-tracing-past-present-future/</link>
-      <description>【Explore the TLS tracing tactics used by open source projects, how they&#39;ve evolved to address these unstable user space library interfaces and where the future is headed】探索开源项目使用的 TLS 跟踪策略、它们如何发展以解决这些不稳定的用户空间库接口以及未来的发展方向</description>
-      <pubDate>Mon, 12 Aug 2024 17:20:05 +0000</pubDate>
+      <title>【‍Unleashing the power of frame pointers for profiling pt.2 - Writing a simple profiler】‍释放帧指针的力量进行分析第 2 部分 - 编写一个简单的分析器</title>
+      <link>https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/</link>
+      <description>【Learn how to build a simple sampling-based continuous profiler with eBPF】了解如何使用 eBPF 构建简单的基于采样的连续分析器</description>
+      <pubDate>Sun, 18 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍eBPF for Anything!】‍eBPF 无所不能！</title>
@@ -22,34 +16,10 @@
       <pubDate>Tue, 20 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Unleashing the power of frame pointers for profiling pt.2 - Writing a simple profiler】‍释放帧指针的力量进行分析第 2 部分 - 编写一个简单的分析器</title>
-      <link>https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/</link>
-      <description>【Learn how to build a simple sampling-based continuous profiler with eBPF】了解如何使用 eBPF 构建简单的基于采样的连续分析器</description>
-      <pubDate>Sun, 18 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Want to Stop Kernel Panics? Use eBPF】想要阻止内核恐慌吗？使用 eBPF</title>
-      <link>https://devops.com/want-to-stop-kernel-panics-use-ebpf/</link>
-      <description>【Learn how how eBPF can be used to prevent kernel panics by allowing developers to write kernel-level code that is safer and more controlled】了解如何使用 eBPF 通过允许开发人员编写更安全、更受控制的内核级代码来防止内核恐慌</description>
-      <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Writing eBPF RawTracepoint Program with Rust Aya】‍用 Rust Aya 编写 eBPF RawTracepoint 程序</title>
-      <link>https://yuki-nakamura.com/2024/08/12/writing-ebpf-rawtracepoint-program-with-rust-aya/</link>
-      <description>【Learn how to write an eBPF RawTracepoint program using Aya with Rust】了解如何使用 Aya 和 Rust 编写 eBPF RawTracepoint 程序</description>
-      <pubDate>Mon, 12 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Hello eBPF: A Packet Logger in Pure Java using TC and XDP Hooks (13)】‍Hello eBPF：使用 TC 和 XDP Hooks 的纯 Java 数据包记录器 (13)</title>
-      <link>https://levelup.gitconnected.com/part-2-ebpf-map-metrics-prometheus-exporter-fd2e3f12239a</link>
-      <description>【The thirteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a packet logger in pure Java using TC and XDP hooks】Hello eBPF 系列的第十三部分。在这一部分中，您将学习如何使用 TC 和 XDP hooks 在纯 Java 中构建数据包记录器</description>
-      <pubDate>Tue, 13 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Challenges and Strategies in eBPF Uprobe Development】‍eBPF Uprobe 开发的挑战与策略</title>
-      <link>https://www.linkedin.com/pulse/challenges-strategies-ebpf-uprobe-development-teodor-podobnik-q3vqf/</link>
-      <description>【Learn where and how to discover and attach uprobes in the application stack】了解在应用程序堆栈中的位置以及如何发现和附加 uprobe</description>
-      <pubDate>Mon, 12 Aug 2024 17:20:05 +0000</pubDate>
+      <title>【‍Monitoring Inter-Pod Traffic at the AZ Level with Retina (an eBPF based tool)】‍使用 Retina（基于 eBPF 的工具）监控 AZ 级别的 Pod 间流量</title>
+      <link>https://medium.com/@j.aslanov94/monitoring-inter-pod-traffic-at-the-az-level-with-ebpf-based-tool-retina-7a79818e305b</link>
+      <description>【Learn what eBPF is, explore the tools available for using it, and implement monitoring for inter-pod traffic using Retina, Kube State Metrics, Prometheus, and Grafana】了解 eBPF 是什么，探索可用于使用它的工具，并使用 Retina、Kube State Metrics、Prometheus 和 Grafana 实施对 Pod 间流量的监控</description>
+      <pubDate>Mon, 26 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍How the CrowdStrike Tech Outage Reignited a Battle Over the Heart of Microsoft Systems】‍CrowdStrike 技术中断如何重新点燃了微软系统核心之战</title>
@@ -58,10 +28,40 @@
       <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍eBPF for Security】‍eBPF 安全性</title>
-      <link>https://www.sjultra.com/ebpf-for-security/</link>
-      <description>【Learn how organizations are using eBPF for security, as a new ubiquitous technology to protect their workloads】了解组织如何使用 eBPF 来确保安全，将其作为一种新的普遍技术来保护其工作负载</description>
+      <title>【‍Hello eBPF: Building a Lightning Fast Firewall with Java &amp; eBPF (14)】‍Hello eBPF：使用 Java 和 eBPF 构建闪电般快速的防火墙 (14)</title>
+      <link>https://mostlynerdless.de/blog/2024/08/27/hello-ebpf-building-a-lightning-fast-firewall-with-java-ebpf-14/</link>
+      <description>【The fourteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a Lightning Fast Firewall with Java &amp; eBPF】Hello eBPF 系列的第十四部分。在这一部分中，您将学习如何使用 Java 和 eBPF 构建闪电般快速的防火墙</description>
+      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Want to Stop Kernel Panics? Use eBPF】想要阻止内核恐慌吗？使用 eBPF</title>
+      <link>https://devops.com/want-to-stop-kernel-panics-use-ebpf/</link>
+      <description>【Learn how how eBPF can be used to prevent kernel panics by allowing developers to write kernel-level code that is safer and more controlled】了解如何使用 eBPF 通过允许开发人员编写更安全、更受控制的内核级代码来防止内核恐慌</description>
       <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF Security Power and Shortfalls】‍eBPF 安全能力和不足</title>
+      <link>https://thenewstack.io/ebpf-security-power-and-shortfalls/</link>
+      <description>【An overview on the security implications and applications of eBPF】eBPF 的安全影响和应用概述</description>
+      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF in practice – PID concealment (Part 2)】‍eBPF 实践——PID 隐藏（第 2 部分）</title>
+      <link>https://www.acceis.fr/ebpf-in-practice-pid-concealment-part-2/</link>
+      <description>【Learn how how eBPF works and how to hide a process identifier (PID) from a user using a practical example】通过实际示例了解 eBPF 的工作原理以及如何向用户隐藏进程标识符 (PID)</description>
+      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF Foundation Announces $250,000 in Grant Awards for Five eBPF Academic Research Projects】‍eBPF 基金会宣布为五个 eBPF 学术研究项目提供 25 万美元的资助</title>
+      <link>https://ebpf.foundation/ebpf-foundation-announces-250000-in-grant-awards-for-five-ebpf-academic-research-projects/</link>
+      <description>【The eBPF Foundation announce their funding of five eBPF research projects! Three are about improving and verifying the eBPF verifier; one is about enabling application offloading into eBPF】eBPF 基金会宣布资助五个 eBPF 研究项目！三是关于改进和验证eBPF验证器；一是关于启用应用程序卸载到 eBPF</description>
+      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Optimierung der Netzwerk- und Laufzeitsicherheit in Kubernetes durch den Einsatz von eBPF und Cilium】‍通过使用 eBPF 和 Cilium 优化 Kubernetes 中的网络和运行时安全性</title>
+      <link>https://whiteduck.de/optimierung-der-netzwerk-und-laufzeitsicherheit-in-kubernetes-durch-den-einsatz-von-ebpf-und-cilium/</link>
+      <description>【Lernen Sie, wie eBPF und Cilium die Netzwerk- und Laufzeitsicherheit in Kubernetes-Umgebungen verbessern können】了解 eBPF 和 Cilium 如何提高 Kubernetes 环境中的网络和运行时安全性</description>
+      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
