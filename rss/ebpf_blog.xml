@@ -4,16 +4,34 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【‍Unleashing the power of frame pointers for profiling pt.2 - Writing a simple profiler】‍释放帧指针的力量进行分析第 2 部分 - 编写一个简单的分析器</title>
-      <link>https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/</link>
-      <description>【Learn how to build a simple sampling-based continuous profiler with eBPF】了解如何使用 eBPF 构建简单的基于采样的连续分析器</description>
-      <pubDate>Sun, 18 Aug 2024 17:20:05 +0000</pubDate>
+      <title>【‍Hello eBPF: Building a Lightning Fast Firewall with Java &amp; eBPF (14)】‍Hello eBPF：使用 Java 和 eBPF 构建闪电般快速的防火墙 (14)</title>
+      <link>https://mostlynerdless.de/blog/2024/08/27/hello-ebpf-building-a-lightning-fast-firewall-with-java-ebpf-14/</link>
+      <description>【The fourteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a Lightning Fast Firewall with Java &amp; eBPF】Hello eBPF 系列的第十四部分。在这一部分中，您将学习如何使用 Java 和 eBPF 构建闪电般快速的防火墙</description>
+      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍eBPF for Anything!】‍eBPF 无所不能！</title>
       <link>https://isovalent.com/blog/post/ebpf-for-anything/</link>
       <description>【Learn about how eBPF is Turing Complete by implementing Conway’s Game of Life entirely in eBPF】通过完全在 eBPF 中实现康威的生命游戏，了解 eBPF 如何实现图灵完备</description>
       <pubDate>Tue, 20 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF Security Power and Shortfalls】‍eBPF 安全能力和不足</title>
+      <link>https://thenewstack.io/ebpf-security-power-and-shortfalls/</link>
+      <description>【An overview on the security implications and applications of eBPF】eBPF 的安全影响和应用概述</description>
+      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Want to Stop Kernel Panics? Use eBPF】想要阻止内核恐慌吗？使用 eBPF</title>
+      <link>https://devops.com/want-to-stop-kernel-panics-use-ebpf/</link>
+      <description>【Learn how how eBPF can be used to prevent kernel panics by allowing developers to write kernel-level code that is safer and more controlled】了解如何使用 eBPF 通过允许开发人员编写更安全、更受控制的内核级代码来防止内核恐慌</description>
+      <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF Foundation Announces $250,000 in Grant Awards for Five eBPF Academic Research Projects】‍eBPF 基金会宣布为五个 eBPF 学术研究项目提供 25 万美元的资助</title>
+      <link>https://ebpf.foundation/ebpf-foundation-announces-250000-in-grant-awards-for-five-ebpf-academic-research-projects/</link>
+      <description>【The eBPF Foundation announce their funding of five eBPF research projects! Three are about improving and verifying the eBPF verifier; one is about enabling application offloading into eBPF】eBPF 基金会宣布资助五个 eBPF 研究项目！三是关于改进和验证eBPF验证器；一是关于启用应用程序卸载到 eBPF</description>
+      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Monitoring Inter-Pod Traffic at the AZ Level with Retina (an eBPF based tool)】‍使用 Retina（基于 eBPF 的工具）监控 AZ 级别的 Pod 间流量</title>
@@ -28,34 +46,16 @@
       <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Hello eBPF: Building a Lightning Fast Firewall with Java &amp; eBPF (14)】‍Hello eBPF：使用 Java 和 eBPF 构建闪电般快速的防火墙 (14)</title>
-      <link>https://mostlynerdless.de/blog/2024/08/27/hello-ebpf-building-a-lightning-fast-firewall-with-java-ebpf-14/</link>
-      <description>【The fourteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a Lightning Fast Firewall with Java &amp; eBPF】Hello eBPF 系列的第十四部分。在这一部分中，您将学习如何使用 Java 和 eBPF 构建闪电般快速的防火墙</description>
-      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Want to Stop Kernel Panics? Use eBPF】想要阻止内核恐慌吗？使用 eBPF</title>
-      <link>https://devops.com/want-to-stop-kernel-panics-use-ebpf/</link>
-      <description>【Learn how how eBPF can be used to prevent kernel panics by allowing developers to write kernel-level code that is safer and more controlled】了解如何使用 eBPF 通过允许开发人员编写更安全、更受控制的内核级代码来防止内核恐慌</description>
-      <pubDate>Fri, 16 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍eBPF Security Power and Shortfalls】‍eBPF 安全能力和不足</title>
-      <link>https://thenewstack.io/ebpf-security-power-and-shortfalls/</link>
-      <description>【An overview on the security implications and applications of eBPF】eBPF 的安全影响和应用概述</description>
-      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
+      <title>【‍Unleashing the power of frame pointers for profiling pt.2 - Writing a simple profiler】‍释放帧指针的力量进行分析第 2 部分 - 编写一个简单的分析器</title>
+      <link>https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/</link>
+      <description>【Learn how to build a simple sampling-based continuous profiler with eBPF】了解如何使用 eBPF 构建简单的基于采样的连续分析器</description>
+      <pubDate>Sun, 18 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍eBPF in practice – PID concealment (Part 2)】‍eBPF 实践——PID 隐藏（第 2 部分）</title>
       <link>https://www.acceis.fr/ebpf-in-practice-pid-concealment-part-2/</link>
       <description>【Learn how how eBPF works and how to hide a process identifier (PID) from a user using a practical example】通过实际示例了解 eBPF 的工作原理以及如何向用户隐藏进程标识符 (PID)</description>
       <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍eBPF Foundation Announces $250,000 in Grant Awards for Five eBPF Academic Research Projects】‍eBPF 基金会宣布为五个 eBPF 学术研究项目提供 25 万美元的资助</title>
-      <link>https://ebpf.foundation/ebpf-foundation-announces-250000-in-grant-awards-for-five-ebpf-academic-research-projects/</link>
-      <description>【The eBPF Foundation announce their funding of five eBPF research projects! Three are about improving and verifying the eBPF verifier; one is about enabling application offloading into eBPF】eBPF 基金会宣布资助五个 eBPF 研究项目！三是关于改进和验证eBPF验证器；一是关于启用应用程序卸载到 eBPF</description>
-      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Optimierung der Netzwerk- und Laufzeitsicherheit in Kubernetes durch den Einsatz von eBPF und Cilium】‍通过使用 eBPF 和 Cilium 优化 Kubernetes 中的网络和运行时安全性</title>

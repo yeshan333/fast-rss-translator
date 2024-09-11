@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【The case of the image that came out horribly slanted: Negative stride】图像严重倾斜的情况：负步幅</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240906-00/?p=110228</link>
-      <description>【It&#39;s all topsy-turvy.】一切都是颠倒的。</description>
-      <pubDate>Fri, 06 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.23.1-1 and 1.22.7-1 Microsoft builds now available】Go 1.23.1-1 和 1.22.7-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-1-1-and-1-22-7-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Fri, 06 Sep 2024 20:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Graph APIs for Teams town hall now generally available】适用于 Teams 市政厅的 Microsoft Graph API 现已全面可用</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-teams-town-hall-now-generally-available</link>
-      <description>【Learn more about the general availability of new Teams town hall APIs and discover what&#39;s new.】详细了解新 Teams 市政厅 API 的一般可用性并发现新功能。</description>
-      <pubDate>Fri, 06 Sep 2024 15:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why is F# code so robust and reliable?】为什么 F# 代码如此健壮可靠？</title>
-      <link>https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable</link>
-      <description>【F# is not just for math and big data, it&#39;s a general purpose language that will greatly reduce the amount of bugs in your code.】F# 不仅仅适用于数学和大数据，它还是一种通用语言，可以大大减少代码中的错误数量。</description>
-      <pubDate>Mon, 09 Sep 2024 18:00:00 +0000</pubDate>
+      <title>【Break for Async User-Unhandled exceptions in the Visual Studio Debugger】Visual Studio 调试器中的异步用户未处理异常中断</title>
+      <link>https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger</link>
+      <description>【Before .NET 9, the debugger was unable to track exceptions thrown from user-code async methods into non-user code framework methods, such as ASP.NET middleware. We are pleased to announce that you will now start seeing the debugger stop for these user-unhandled exceptions in your ASP.NET applications, as well as anywhere else this might happen! Summary [&amp;hellip;]】在 .NET 9 之前，调试器无法跟踪从用户代码异步方法抛出到非用户代码框架方法（例如 ASP.NET 中间件）的异常。我们很高兴地宣布，您现在将开始看到调试器因 ASP.NET 应用程序中的这些用户未处理的异常而停止，以及任何其他可能发生这种情况的地方！概括 […]</description>
+      <pubDate>Tue, 10 Sep 2024 10:00:16 +0000</pubDate>
     </item>
     <item>
       <title>【Askia, an Ipsos company, achieved faster, reproducible builds with vcpkg】Askia（Ipsos 旗下公司）使用 vcpkg 实现了更快、可重复的构建</title>
@@ -34,34 +16,52 @@
       <pubDate>Mon, 09 Sep 2024 19:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Supercharge C++ Debugging with AI-Generated breakpoint expressions】使用 AI 生成的断点表达式增强 C++ 调试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/supercharge-c-debugging-with-ai-generated-breakpoint-expressions</link>
-      <description>【Have you ever spent hours debugging your C++ code, struggling to set up the right conditional breakpoint or tracepoint? Or wished for a smarter way to obtain detailed runtime information without manually crafting complex expressions? You&amp;#8217;re in luck! With Visual Studio 2022, the latest GitHub Copilot feature now offers AI-generated expressions for both conditional breakpoints [&amp;hellip;]】您是否曾经花费数小时调试 C++ 代码，努力设置正确的条件断点或跟踪点？或者希望有一种更智能的方式来获取详细的运行时信息，而无需手动制作复杂的表达式？你很幸运！在 Visual Studio 2022 中，最新的 GitHub Copilot 功能现在为两个条件断点提供 AI 生成的表达式 [...]</description>
-      <pubDate>Mon, 09 Sep 2024 13:39:25 +0000</pubDate>
+      <title>【Does the Resource Compiler have a separate preprocessor or doesn’t it?】资源编译器是否有单独的预处理器？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240910-00/?p=110243</link>
+      <description>【It did, but now it doesn&#39;t.】曾经有过，但现在没有了。</description>
+      <pubDate>Tue, 10 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Office Add-ins Development Kit for Visual Studio Code (public preview)】宣布推出适用于 Visual Studio Code 的 Office 加载项开发工具包（公共预览版）</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-office-add-ins-development-kit-for-visual-studio-code-public-preview</link>
-      <description>【The Office Add-ins Development Kit is a new development tool to help you set up your environment, create Office Add-ins, and debug the code with a streamlined developer experience in Visual Studio Code.】Office 加载项开发工具包是一种新的开发工具，可帮助您设置环境、创建 Office 加载项并在 Visual Studio Code 中通过简化的开发人员体验调试代码。</description>
-      <pubDate>Mon, 09 Sep 2024 15:00:22 +0000</pubDate>
+      <title>【Increase your Microsoft Teams app’s visibility and adoption with asynchronous link unfurling】通过异步链接展开提高 Microsoft Teams 应用程序的可见性和采用率</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/how-asynchronous-link-unfurling-increases-your-microsoft-teams-apps-visibility-and-adoption</link>
+      <description>【Learn how to leverage link unfurling for your Microsoft Teams app, now enhanced with asynchronous capabilities.】了解如何利用 Microsoft Teams 应用程序的链接展开，该应用程序现已通过异步功能得到增强。</description>
+      <pubDate>Tue, 10 Sep 2024 15:31:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 5.6】发布 TypeScript 5.6</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6</link>
-      <description>【Today we&amp;#8217;re excited to announce the release of TypeScript 5.6! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on top of JavaScript by adding syntax for types. Types describe the shapes we expect of our variables, parameters, and functions, and the TypeScript type-checker can help catch issues like typos, missing properties, and [&amp;hellip;]】今天我们很高兴地宣布 TypeScript 5.6 发布！如果您不熟悉 TypeScript，它是一种通过添加类型语法构建在 JavaScript 之上的语言。类型描述了我们期望的变量、参数和函数的形状，TypeScript 类型检查器可以帮助捕获诸如拼写错误、缺少属性和 [...]</description>
-      <pubDate>Mon, 09 Sep 2024 17:13:26 +0000</pubDate>
+      <title>【Why is F# code so robust and reliable?】为什么 F# 代码如此健壮可靠？</title>
+      <link>https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable</link>
+      <description>【F# is not just for math and big data, it&#39;s a general purpose language that will greatly reduce the amount of bugs in your code.】F# 不仅仅适用于数学和大数据，它还是一种通用语言，可以大大减少代码中的错误数量。</description>
+      <pubDate>Mon, 09 Sep 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Earning Agentic (and LangChain) Complexity】赚取代理（和 LangChain）复杂性</title>
-      <link>https://devblogs.microsoft.com/ise/earning-agentic-complexity</link>
-      <description>【This post examines the challenges of adopting complex technologies like LangChain and agentic solutions in production environments, emphasizing the importance of understanding the necessity of such complexity. It provides insights on how to evaluate these technologies carefully, manage dependencies, and adhere to best practices for secure and stable AI applications.】这篇文章探讨了在生产环境中采用像 LangChain 这样的复杂技术和代理解决方案所面临的挑战，强调了理解这种复杂性的必要性的重要性。它提供了有关如何仔细评估这些技术、管理依赖关系以及遵守安全稳定人工智能应用程序最佳实践的见解。</description>
-      <pubDate>Mon, 09 Sep 2024 07:00:00 +0000</pubDate>
+      <title>【Go 1.23.1-2 and 1.22.7-2 Microsoft builds now available】Go 1.23.1-2 和 1.22.7-2 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-1-2-and-1-22-7-2-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Tue, 10 Sep 2024 23:36:21 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub trick to find the commit that deleted a file】GitHub 找到删除文件的提交的技巧</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240909-00/?p=110234</link>
-      <description>【Ask for the history of the file.】询问该文件的历史记录。</description>
-      <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Add enhanced flexibility to your apps with custom claims on Native Authentication】通过本机身份验证的自定义声明为您的应用程序添加增强的灵活性</title>
+      <link>https://devblogs.microsoft.com/identity/custom-claims-on-native-auth</link>
+      <description>【Discover how the custom claims feature, now available in public preview for Native Authentication on Microsoft Entra External ID, enhances your app&#39;s authentication process. This new capability allows you to tailor app behavior, based on specific user data, by allowing apps to dynamically add custom claims to authentication tokens via a custom claims provider during user sign-up or sign-in.】了解自定义声明功能（现已在 Microsoft Entra 外部 ID 上的本机身份验证的公共预览版中提供）如何增强应用程序的身份验证过程。这项新功能允许您根据特定的用户数据定制应用程序行为，方法是允许应用程序在用户注册或登录期间通过自定义声明提供程序将自定义声明动态添加到身份验证令牌。</description>
+      <pubDate>Tue, 10 Sep 2024 14:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Data API Preview in vCore-based Azure Cosmos DB for MongoDB】在基于 vCore 的 Azure Cosmos DB for MongoDB 中引入数据 API 预览版</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-the-data-api-preview-in-vcore-based-azure-cosmos-db-for-mongodb</link>
+      <description>【We&amp;#8217;re excited to announce the preview of the Data API for vCore-based Azure Cosmos DB for MongoDB. The Data API provides a flexible and powerful way to interact with your database through HTTP-based API calls. What is the Data API The Data API for vCore-based Azure Cosmos DB for MongoDB allows you work with your [&amp;hellip;]】我们很高兴地宣布推出适用于基于 vCore 的 Azure Cosmos DB for MongoDB 的数据 API 预览版。数据 API 提供了一种灵活而强大的方式，通过基于 HTTP 的 API 调用与数据库进行交互。什么是数据 API 基于 vCore 的 Azure Cosmos DB for MongoDB 的数据 API 允许您使用您的 [...]</description>
+      <pubDate>Tue, 10 Sep 2024 16:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learn to Build Your First Blazor Hybrid App!】学习构建您的第一个 Blazor 混合应用程序！</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop</link>
+      <description>【Learn all about the Blazor Hybrid workshop that you can follow yourself or teach to others!】了解有关 Blazor Hybrid 研讨会的所有信息，您可以自己学习或教授给他人！</description>
+      <pubDate>Tue, 10 Sep 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Roadmaps for Microsoft Dev Box and Azure Deployment Environments are now live!】Microsoft Dev Box 和 Azure 部署环境的路线图现已上线！</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/roadmaps-for-microsoft-dev-box-and-azure-deployment-environments-are-now-live</link>
+      <description>【We have just published the roadmaps for Microsoft Dev Box and Azure Deployment Environments! These roadmaps showcase our plans and upcoming features for both services, reflecting our commitment to enhancing your experience developing in the cloud. Your feedback is invaluable to us.  We’ve built these roadmaps in a direct response to some feedback we’ve heard [&amp;hellip;]】我们刚刚发布了 Microsoft Dev Box 和 Azure 部署环境的路线图！这些路线图展示了我们对这两项服务的计划和即将推出的功能，反映了我们对增强您在云中开发的体验的承诺。您的反馈对我们来说非常宝贵。  我们制定这些路线图是为了直接回应我们听到的一些反馈[...]</description>
+      <pubDate>Tue, 10 Sep 2024 17:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

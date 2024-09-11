@@ -5,22 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Millions of Requests Per Hour: SoundCloud’s Microservices Evolution】每小时数百万个请求：SoundCloud 的微服务演变</title>
-      <link>https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds</link>
-      <description>【How to monitor containerized applications in Azure (Sponsored)】如何监控 Azure 中的容器化应用程序（赞助）</description>
-      <pubDate>Tue, 03 Sep 2024 15:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP128: The Ultimate Software Architect Knowledge Map 】EP128：终极软件架构师知识图</title>
-      <link>https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 07 Sep 2024 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Trillions of Indexes: How Uber’s LedgerStore Supports Such Massive Scale】数万亿个索引：Uber 的 LedgerStore 如何支持如此大规模</title>
-      <link>https://blog.bytebytego.com/p/trillions-of-indexes-how-ubers-ledgerstore</link>
-      <description>【Try Fully Managed Apache Airflow and get certified for FREE (Sponsored)】尝试完全托管的 Apache Airflow 并免费获得认证（赞助）</description>
-      <pubDate>Tue, 20 Aug 2024 15:31:12 +0000</pubDate>
+      <title>【A Crash Course on Scaling the Data Layer】扩展数据层的速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-data</link>
+      <description>【The scalability of a system is heavily dependent on the data layer.】系统的可扩展性很大程度上取决于数据层。</description>
+      <pubDate>Thu, 05 Sep 2024 15:30:43 +0000</pubDate>
     </item>
     <item>
       <title>【EP126: The Ultimate Kafka 101 You Cannot Miss 】EP126：你不能错过的终极卡夫卡101</title>
@@ -29,16 +17,16 @@
       <pubDate>Sat, 24 Aug 2024 15:30:51 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Load Balancers for Scaling】用于扩展的负载均衡器速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-load-balancers</link>
-      <description>【Over the years, load balancers have become a crucial component of system architecture, acting as the front-line gatekeepers that distribute incoming network traffic across multiple servers.】多年来，负载均衡器已成为系统架构的重要组成部分，充当在多个服务器之间分配传入网络流量的一线守门人。</description>
-      <pubDate>Thu, 29 Aug 2024 15:30:30 +0000</pubDate>
+      <title>【EP128: The Ultimate Software Architect Knowledge Map 】EP128：终极软件架构师知识图</title>
+      <link>https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 07 Sep 2024 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【EP125: How does Garbage Collection work? 】EP125：垃圾收集是如何工作的？</title>
-      <link>https://blog.bytebytego.com/p/ep125-how-does-garbage-collection</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 17 Aug 2024 15:30:37 +0000</pubDate>
+      <title>【How Shopify Manages its Petabyte Scale MySQL Database】Shopify 如何管理其 PB 级 MySQL 数据库</title>
+      <link>https://blog.bytebytego.com/p/how-shopify-manages-its-petabyte</link>
+      <description>【Generate Handwritten SDKs (Sponsored)】生成手写 SDK（赞助）</description>
+      <pubDate>Tue, 10 Sep 2024 15:30:35 +0000</pubDate>
     </item>
     <item>
       <title>【EP127: 20 Popular Open Source Projects Started or Supported By Big Companies 】EP127：20 个由大公司发起或支持的流行开源项目</title>
@@ -47,10 +35,22 @@
       <pubDate>Sat, 31 Aug 2024 15:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Architectural Scalability】架构可扩展性速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-architectural-scalability</link>
-      <description>【In today&#39;s interconnected world, software applications have a global reach, serving users from diverse geographical locations.】在当今互联的世界中，软件应用程序具有全球影响力，为来自不同地理位置的用户提供服务。</description>
-      <pubDate>Thu, 15 Aug 2024 15:30:52 +0000</pubDate>
+      <title>【EP125: How does Garbage Collection work? 】EP125：垃圾收集是如何工作的？</title>
+      <link>https://blog.bytebytego.com/p/ep125-how-does-garbage-collection</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 17 Aug 2024 15:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course on Load Balancers for Scaling】用于扩展的负载均衡器速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-load-balancers</link>
+      <description>【Over the years, load balancers have become a crucial component of system architecture, acting as the front-line gatekeepers that distribute incoming network traffic across multiple servers.】多年来，负载均衡器已成为系统架构的重要组成部分，充当在多个服务器之间分配传入网络流量的一线守门人。</description>
+      <pubDate>Thu, 29 Aug 2024 15:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Millions of Requests Per Hour: SoundCloud’s Microservices Evolution】每小时数百万个请求：SoundCloud 的微服务演变</title>
+      <link>https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds</link>
+      <description>【How to monitor containerized applications in Azure (Sponsored)】如何监控 Azure 中的容器化应用程序（赞助）</description>
+      <pubDate>Tue, 03 Sep 2024 15:31:02 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Scaling the API Layer】扩展 API 层的速成课程</title>
@@ -59,10 +59,10 @@
       <pubDate>Thu, 22 Aug 2024 15:30:14 +0000</pubDate>
     </item>
     <item>
-      <title>【A Crash Course on Scaling the Data Layer】扩展数据层的速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-data</link>
-      <description>【The scalability of a system is heavily dependent on the data layer.】系统的可扩展性很大程度上取决于数据层。</description>
-      <pubDate>Thu, 05 Sep 2024 15:30:43 +0000</pubDate>
+      <title>【Trillions of Indexes: How Uber’s LedgerStore Supports Such Massive Scale】数万亿个索引：Uber 的 LedgerStore 如何支持如此大规模</title>
+      <link>https://blog.bytebytego.com/p/trillions-of-indexes-how-ubers-ledgerstore</link>
+      <description>【Try Fully Managed Apache Airflow and get certified for FREE (Sponsored)】尝试完全托管的 Apache Airflow 并免费获得认证（赞助）</description>
+      <pubDate>Tue, 20 Aug 2024 15:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

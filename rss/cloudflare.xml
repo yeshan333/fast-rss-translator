@@ -4,28 +4,16 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Summer 2024 weather report: Cloudflare with a chance of Intern-ets】2024 年夏季天气预报：Cloudflare 有机会实现互联网</title>
-      <link>https://blog.cloudflare.com/2024-interns</link>
-      <description>【 This summer, Cloudflare welcomed approximately 60 interns from all around the globe, on a mission to #HelpBuildABetterInternet. Join us as we dive into what we were able to accomplish and our experiences! 】今年夏天，Cloudflare 迎来了来自全球各地的约 60 名实习生，他们的使命是 #HelpBuildABetterInternet。加入我们，深入了解我们能够实现的目标和我们的经验！</description>
-      <pubDate>Mon, 19 Aug 2024 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing high-definition portrait video support for Cloudflare Stream】推出对 Cloudflare Stream 的高清肖像视频支持</title>
-      <link>https://blog.cloudflare.com/introducing-high-definition-portrait-video-support-for-cloudflare-stream</link>
-      <description>【 Cloudflare Stream is an end-to-end solution for video encoding, storage, delivery, and playback, focused on simplifying all aspects of video for developers. Newly uploaded or ingested portrait videos will now automatically be processed in full HD quality 】Cloudflare Stream 是一种用于视频编码、存储、交付和播放的端到端解决方案，专注于为开发人员简化视频的各个方面。新上传或摄取的肖像视频现在将自动以全高清质量进行处理</description>
-      <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Bringing insights into TCP resets and timeouts to Cloudflare Radar】将 TCP 重置和超时的见解引入 Cloudflare Radar</title>
       <link>https://blog.cloudflare.com/tcp-resets-timeouts</link>
       <description>【 New TCP resets and timeouts dataset on Cloudflare Radar surfaces connection tampering, scanning, DoS attacks, and more. 】Cloudflare Radar 上的新 TCP 重置和超时数据集揭示了连接篡改、扫描、DoS 攻击等。</description>
       <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring Internet and security trends during the 2024 U.S. Democratic National Convention】探索 2024 年美国民主党全国代表大会期间的互联网和安全趋势</title>
-      <link>https://blog.cloudflare.com/internet-security-trends-2024-us-democratic-convention</link>
-      <description>【 This analysis highlights the 2024 Democratic National Convention’s impact on Internet traffic and security, with spikes in interest for sites related to Kamala Harris and the Democrats, as well as news sites, plus pre-convention attacks on political organizations. 】该分析强调了 2024 年民主党全国代表大会对互联网流量和安全的影响，与卡马拉·哈里斯和民主党相关的网站以及新闻网站的兴趣激增，再加上大会前对政治组织的攻击。</description>
-      <pubDate>Fri, 23 Aug 2024 14:52:00 +0000</pubDate>
+      <title>【More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs】Cloudflare Workers 上的更多 NPM 包：结合 polyfill 和本机代码来支持 Node.js API</title>
+      <link>https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code</link>
+      <description>【 Workers now supports more NPM packages and Node.js APIs using an overhauled hybrid compatibility layer. 】Workers 现在使用经过彻底修改的混合兼容性层支持更多 NPM 包和 Node.js API。</description>
+      <pubDate>Mon, 09 Sep 2024 21:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【A global assessment of third-party connection tampering】对第三方连接篡改的全球评估</title>
@@ -34,13 +22,19 @@
       <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A wild week in phishing, and what it means for you】网络钓鱼的疯狂一周及其对您意味着什么</title>
-      <link>https://blog.cloudflare.com/a-wild-week-in-phishing-and-what-it-means-for-you</link>
-      <description>【 From the U.S. elections and geopolitical conflict to tens of millions in corporate dollars lost, phishing remains the root cause of cyber damages. Learn why a comprehensive solution is the best way to stay protected. 】从美国大选和地缘政治冲突到数千万美元的企业损失，网络钓鱼仍然是网络损害的根本原因。了解为什么全面的解决方案是保持保护的最佳方式。</description>
-      <pubDate>Fri, 16 Aug 2024 18:34:00 +0000</pubDate>
+      <title>【NIST’s first post-quantum standards】NIST 的第一个后量子标准</title>
+      <link>https://blog.cloudflare.com/nists-first-post-quantum-standards</link>
+      <description>【 NIST has published the first cryptographic standards for protecting against attacks from quantum computers. Learn what this means for you and your organization. 】NIST 发布了第一个用于防御量子计算机攻击的密码标准。了解这对您和您的组织意味着什么。</description>
+      <pubDate>Tue, 20 Aug 2024 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Go wild: Wildcard support in Rules and a new open-source wildcard crate】狂野起来：规则中的通配符支持和新的开源通配符箱</title>
+      <title>【Summer 2024 weather report: Cloudflare with a chance of Intern-ets】2024 年夏季天气预报：Cloudflare 有机会实现互联网</title>
+      <link>https://blog.cloudflare.com/2024-interns</link>
+      <description>【 This summer, Cloudflare welcomed approximately 60 interns from all around the globe, on a mission to #HelpBuildABetterInternet. Join us as we dive into what we were able to accomplish and our experiences! 】今年夏天，Cloudflare 迎来了来自全球各地的约 60 名实习生，他们的使命是 #HelpBuildABetterInternet。加入我们，深入了解我们能够实现的目标和我们的经验！</description>
+      <pubDate>Mon, 19 Aug 2024 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go wild: Wildcard support in Rules and a new open-source wildcard crate】疯狂：规则中的通配符支持和新的开源通配符箱</title>
       <link>https://blog.cloudflare.com/wildcard-rules</link>
       <description>【 We’re excited to announce wildcard support across our Ruleset Engine-based products and our open-source wildcard crate in Rust. Configuring rules has never been easier, with powerful pattern matching enabling simple and flexible URL redirects and beyond for users on all plans. 】我们很高兴地宣布我们基于规则集引擎的产品和 Rust 中的开源通配符箱支持通配符。配置规则从未如此简单，强大的模式匹配可为所有计划的用户提供简单灵活的 URL 重定向及其他功能。</description>
       <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
@@ -52,16 +46,22 @@
       <pubDate>Mon, 02 Sep 2024 23:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【A wild week in phishing, and what it means for you】网络钓鱼的疯狂一周及其对您意味着什么</title>
+      <link>https://blog.cloudflare.com/a-wild-week-in-phishing-and-what-it-means-for-you</link>
+      <description>【 From the U.S. elections and geopolitical conflict to tens of millions in corporate dollars lost, phishing remains the root cause of cyber damages. Learn why a comprehensive solution is the best way to stay protected. 】从美国大选和地缘政治冲突到数千万美元的企业损失，网络钓鱼仍然是网络损害的根本原因。了解为什么全面的解决方案是保持保护的最佳方式。</description>
+      <pubDate>Fri, 16 Aug 2024 18:34:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Simplify cloud routing and object storage configurations with Cloud Connector】使用 Cloud Connector 简化云路由和对象存储配置</title>
       <link>https://blog.cloudflare.com/cloud-connector</link>
       <description>【 Meet Cloud Connector — a new free product to simplify your cloud routing and object storage configurations. Say goodbye to frustrating Host Header workarounds and hello to protecting your assets, accelerating applications, and routing your traffic between multiple cloud providers seamlessly 】了解云连接器 — 一款新的免费产品，可简化您的云路由和对象存储配置。告别令人沮丧的主机标头解决方法，开始保护您的资产、加速应用程序以及在多个云提供商之间无缝路由流量</description>
       <pubDate>Fri, 16 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【NIST’s first post-quantum standards】NIST 的第一个后量子标准</title>
-      <link>https://blog.cloudflare.com/nists-first-post-quantum-standards</link>
-      <description>【 NIST has published the first cryptographic standards for protecting against attacks from quantum computers. Learn what this means for you and your organization. 】NIST 发布了第一个用于防御量子计算机攻击的密码标准。了解这对您和您的组织意味着什么。</description>
-      <pubDate>Tue, 20 Aug 2024 21:00:00 +0000</pubDate>
+      <title>【Exploring Internet and security trends during the 2024 U.S. Democratic National Convention】探索 2024 年美国民主党全国代表大会期间的互联网和安全趋势</title>
+      <link>https://blog.cloudflare.com/internet-security-trends-2024-us-democratic-convention</link>
+      <description>【 This analysis highlights the 2024 Democratic National Convention’s impact on Internet traffic and security, with spikes in interest for sites related to Kamala Harris and the Democrats, as well as news sites, plus pre-convention attacks on political organizations. 】该分析强调了 2024 年民主党全国代表大会对互联网流量和安全的影响，与卡马拉·哈里斯和民主党相关的网站以及新闻网站的兴趣激增，再加上大会前对政治组织的攻击。</description>
+      <pubDate>Fri, 23 Aug 2024 14:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
