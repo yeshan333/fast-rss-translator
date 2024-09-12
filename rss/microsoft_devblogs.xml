@@ -4,34 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Break for Async User-Unhandled exceptions in the Visual Studio Debugger】Visual Studio 调试器中的异步用户未处理异常中断</title>
-      <link>https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger</link>
-      <description>【Before .NET 9, the debugger was unable to track exceptions thrown from user-code async methods into non-user code framework methods, such as ASP.NET middleware. We are pleased to announce that you will now start seeing the debugger stop for these user-unhandled exceptions in your ASP.NET applications, as well as anywhere else this might happen! Summary [&amp;hellip;]】在 .NET 9 之前，调试器无法跟踪从用户代码异步方法抛出到非用户代码框架方法（例如 ASP.NET 中间件）的异常。我们很高兴地宣布，您现在将开始看到调试器因 ASP.NET 应用程序中的这些用户未处理的异常而停止，以及任何其他可能发生这种情况的地方！概括 […]</description>
-      <pubDate>Tue, 10 Sep 2024 10:00:16 +0000</pubDate>
+      <title>【GitHub Models and .NET: Building Generative AI apps for engineers】GitHub 模型和 .NET：为工程师构建生成式 AI 应用程序</title>
+      <link>https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps</link>
+      <description>【In this post, you&#39;ll learn how to use AI models on GitHub.】在本文中，您将学习如何使用 GitHub 上的 AI 模型。</description>
+      <pubDate>Wed, 11 Sep 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Askia, an Ipsos company, achieved faster, reproducible builds with vcpkg】Askia（Ipsos 旗下公司）使用 vcpkg 实现了更快、可重复的构建</title>
-      <link>https://devblogs.microsoft.com/cppblog/askia-an-ipsos-company-achieved-faster-reproducible-builds-with-vcpkg</link>
-      <description>【vcpkg is a free and open-source C/C++ package manager maintained by Microsoft and the C++ community that runs on Windows, macOS, and Linux. Over the years we have heard from companies using vcpkg to manage dependencies at enterprise-scale. In this interview, I spoke to Dimitri Rochette, a lead developer at Askia, an Ipsos company, about [&amp;hellip;]】vcpkg 是由 Microsoft 和 C++ 社区维护的免费开源 C/C++ 包管理器，可在 Windows、macOS 和 Linux 上运行。多年来，我们听到一些公司使用 vcpkg 来管理企业规模的依赖关系。在这次采访中，我与 Ipsos 公司 Askia 的首席开发人员 Dimitri Rochette 谈论了 [...]</description>
-      <pubDate>Mon, 09 Sep 2024 19:09:56 +0000</pubDate>
+      <title>【Optimizing large payloads in Fluid Framework】优化 Fluid Framework 中的大型有效负载</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/optimizing-large-payloads-in-fluid-framework</link>
+      <description>【Learn about three Fluid Framework features which can be used to work around large payload scenarios: Grouped Batching, Batch Compression, and Compressed Batch Chunking.】了解可用于解决大负载场景的三个 Fluid Framework 功能：分组批处理、批量压缩和压缩批量分块。</description>
+      <pubDate>Wed, 11 Sep 2024 14:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Does the Resource Compiler have a separate preprocessor or doesn’t it?】资源编译器是否有单独的预处理器？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240910-00/?p=110243</link>
-      <description>【It did, but now it doesn&#39;t.】曾经有过，但现在没有了。</description>
-      <pubDate>Tue, 10 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【.NET 9 Release Candidate 1 is now available!】.NET 9 候选版本 1 现已推出！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-release-candidate-1-is-now-available</link>
+      <description>【Try out the latest features in .NET 9 Release Candidate 1 across the .NET SDK, libraries, ASP.NET Core, SignalR, .NET MAUI, and more!】跨 .NET SDK、库、ASP.NET Core、SignalR、.NET MAUI 等尝试 .NET 9 Release Candidate 1 中的最新功能！</description>
+      <pubDate>Wed, 11 Sep 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Increase your Microsoft Teams app’s visibility and adoption with asynchronous link unfurling】通过异步链接展开提高 Microsoft Teams 应用程序的可见性和采用率</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/how-asynchronous-link-unfurling-increases-your-microsoft-teams-apps-visibility-and-adoption</link>
-      <description>【Learn how to leverage link unfurling for your Microsoft Teams app, now enhanced with asynchronous capabilities.】了解如何利用 Microsoft Teams 应用程序的链接展开，该应用程序现已通过异步功能得到增强。</description>
-      <pubDate>Tue, 10 Sep 2024 15:31:44 +0000</pubDate>
+      <title>【Fix C++ warnings and errors with Copilot: Introducing AI-Assisted Code Fixes in Visual Studio】使用 Copilot 修复 C++ 警告和错误：在 Visual Studio 中引入 AI 辅助代码修复</title>
+      <link>https://devblogs.microsoft.com/cppblog/fix-c-warnings-and-errors-with-copilot-introducing-ai-assisted-code-fixes-in-visual-studio</link>
+      <description>【Stuck on an unfamiliar build error? Want to resolve your code errors quickly? Copilot is now integrated into Visual Studio error workflows to assist you with understanding and resolving C++ errors and warnings. To access this new feature, you will need an active Copilot subscription and the latest 17.11 GA version of Visual Studio. How [&amp;hellip;]】遇到不熟悉的构建错误？想要快速解决代码错误吗？ Copilot 现已集成到 Visual Studio 错误工作流程中，以帮助您理解和解决 C++ 错误和警告。要访问此新功能，您需要有效的 Copilot 订阅和最新的 17.11 GA 版本的 Visual Studio。如何 […]</description>
+      <pubDate>Wed, 11 Sep 2024 10:00:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Why is F# code so robust and reliable?】为什么 F# 代码如此健壮可靠？</title>
-      <link>https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable</link>
-      <description>【F# is not just for math and big data, it&#39;s a general purpose language that will greatly reduce the amount of bugs in your code.】F# 不仅仅适用于数学和大数据，它还是一种通用语言，可以大大减少代码中的错误数量。</description>
-      <pubDate>Mon, 09 Sep 2024 18:00:00 +0000</pubDate>
+      <title>【The case of the string being copied from a mysterious pointer to invalid memory, revisited】重新审视字符串从神秘指针复制到无效内存的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240911-00/?p=110247</link>
+      <description>【Reflections on an older topic.】对一个较旧主题的思考。</description>
+      <pubDate>Wed, 11 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.23.1-2 and 1.22.7-2 Microsoft builds now available】Go 1.23.1-2 和 1.22.7-2 Microsoft 版本现已推出</title>
@@ -40,28 +40,28 @@
       <pubDate>Tue, 10 Sep 2024 23:36:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Add enhanced flexibility to your apps with custom claims on Native Authentication】通过本机身份验证的自定义声明为您的应用程序添加增强的灵活性</title>
-      <link>https://devblogs.microsoft.com/identity/custom-claims-on-native-auth</link>
-      <description>【Discover how the custom claims feature, now available in public preview for Native Authentication on Microsoft Entra External ID, enhances your app&#39;s authentication process. This new capability allows you to tailor app behavior, based on specific user data, by allowing apps to dynamically add custom claims to authentication tokens via a custom claims provider during user sign-up or sign-in.】了解自定义声明功能（现已在 Microsoft Entra 外部 ID 上的本机身份验证的公共预览版中提供）如何增强应用程序的身份验证过程。这项新功能允许您根据特定的用户数据定制应用程序行为，方法是允许应用程序在用户注册或登录期间通过自定义声明提供程序将自定义声明动态添加到身份验证令牌。</description>
-      <pubDate>Tue, 10 Sep 2024 14:39:09 +0000</pubDate>
+      <title>【Introducing Azure AI Inference Connector for Azure AI Studio Models】推出适用于 Azure AI Studio 模型的 Azure AI 推理连接器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-azure-ai-inference-connector-for-azure-ai-studio-models</link>
+      <description>【Introduction  With the latest launch of the Azure AI Inference SDK for Azure AI Studio Models Catalog, we are happy to announce that we have also made available our dedicated Azure AI Inference Semantic Kernel Connector.  This connector is specially designed on top of the published Azure AI Inference SDK and is targeted to allow [&amp;hellip;]】简介 随着最新推出适用于 Azure AI Studio 模型目录的 Azure AI 推理 SDK，我们很高兴地宣布，我们还推出了专用的 Azure AI 推理语义内核连接器。  该连接器是在已发布的 Azure AI 推理 SDK 之上专门设计的，旨在允许 [...]</description>
+      <pubDate>Wed, 11 Sep 2024 16:07:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Data API Preview in vCore-based Azure Cosmos DB for MongoDB】在基于 vCore 的 Azure Cosmos DB for MongoDB 中引入数据 API 预览版</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/introducing-the-data-api-preview-in-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【We&amp;#8217;re excited to announce the preview of the Data API for vCore-based Azure Cosmos DB for MongoDB. The Data API provides a flexible and powerful way to interact with your database through HTTP-based API calls. What is the Data API The Data API for vCore-based Azure Cosmos DB for MongoDB allows you work with your [&amp;hellip;]】我们很高兴地宣布推出适用于基于 vCore 的 Azure Cosmos DB for MongoDB 的数据 API 预览版。数据 API 提供了一种灵活而强大的方式，通过基于 HTTP 的 API 调用与数据库进行交互。什么是数据 API 基于 vCore 的 Azure Cosmos DB for MongoDB 的数据 API 允许您使用您的 [...]</description>
-      <pubDate>Tue, 10 Sep 2024 16:00:41 +0000</pubDate>
+      <title>【Search scoping helps you find what you’re looking for】搜索范围可帮助您找到所需内容</title>
+      <link>https://devblogs.microsoft.com/visualstudio/search-scoping-helps-you-find-what-youre-looking-for</link>
+      <description>【If you&amp;#8217;re working on a large and complex solution, you might find yourself overwhelmed by the number of results when you use code search in Visual Studio. You might be looking for a specific class, method, or variable, but end up scrolling through pages of irrelevant matches. Wouldn&amp;#8217;t it be nice if you could narrow [&amp;hellip;]】如果您正在开发大型且复杂的解决方案，那么当您在 Visual Studio 中使用代码搜索时，您可能会发现自己对结果数量感到不知所措。您可能正在寻找特定的类、方法或变量，但最终会滚动浏览不相关匹配的页面。如果你能缩小范围，那不是很好吗？</description>
+      <pubDate>Wed, 11 Sep 2024 10:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Learn to Build Your First Blazor Hybrid App!】学习构建您的第一个 Blazor 混合应用程序！</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop</link>
-      <description>【Learn all about the Blazor Hybrid workshop that you can follow yourself or teach to others!】了解有关 Blazor Hybrid 研讨会的所有信息，您可以自己学习或教授给他人！</description>
-      <pubDate>Tue, 10 Sep 2024 17:05:00 +0000</pubDate>
+      <title>【EAP for Vector Support Refresh – Introducing Vector type】用于矢量支持刷新的 EAP – 引入矢量类型</title>
+      <link>https://devblogs.microsoft.com/azure-sql/eap-for-vector-support-refresh-introducing-vector-type</link>
+      <description>【Not even 6 months ago we started the Early Adopter Preview vector data support in Azure SQL, and we got great feedback and a lot of enthusiasm about the feature. Developers are excited to be able to easily build AI-enabled solution using an enterprise ready, secure, scalable and proven platform like Azure SQL, without the [&amp;hellip;]】不到 6 个月前，我们就开始在 Azure SQL 中提供早期采用者预览版矢量数据支持，我们得到了很好的反馈以及对该功能的极大热情。开发人员很高兴能够使用 Azure SQL 等企业就绪、安全、可扩展且经过验证的平台轻松构建支持 AI 的解决方案，而无需 [...]</description>
+      <pubDate>Wed, 11 Sep 2024 15:56:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Roadmaps for Microsoft Dev Box and Azure Deployment Environments are now live!】Microsoft Dev Box 和 Azure 部署环境的路线图现已上线！</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/roadmaps-for-microsoft-dev-box-and-azure-deployment-environments-are-now-live</link>
-      <description>【We have just published the roadmaps for Microsoft Dev Box and Azure Deployment Environments! These roadmaps showcase our plans and upcoming features for both services, reflecting our commitment to enhancing your experience developing in the cloud. Your feedback is invaluable to us.  We’ve built these roadmaps in a direct response to some feedback we’ve heard [&amp;hellip;]】我们刚刚发布了 Microsoft Dev Box 和 Azure 部署环境的路线图！这些路线图展示了我们对这两项服务的计划和即将推出的功能，反映了我们对增强您在云中开发的体验的承诺。您的反馈对我们来说非常宝贵。  我们制定这些路线图是为了直接回应我们听到的一些反馈[...]</description>
-      <pubDate>Tue, 10 Sep 2024 17:30:35 +0000</pubDate>
+      <title>【Modernize your UWP app with preview UWP support for .NET 9 and Native AOT】通过对 .NET 9 和本机 AOT 的预览 UWP 支持实现 UWP 应用现代化</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/preview-uwp-support-for-dotnet-9-native-aot</link>
+      <description>【We’re introducing the initial preview UWP (Universal Windows Platform) support for .NET 9, providing a path for existing UWP developers to modernize their apps with the latest .NET and Native AOT. Are you a UWP app developer considering migrating to Windows App SDK and WinUI 3? Or wanting to leverage the latest releases of .NET [&amp;hellip;]】我们推出了对 .NET 9 的初始预览版 UWP（通用 Windows 平台）支持，为现有 UWP 开发人员提供了一条利用最新的 .NET 和本机 AOT 对其应用进行现代化改造的途径。您是考虑迁移到 Windows App SDK 和 WinUI 3 的 UWP 应用开发人员吗？或者想要利用最新版本的 .NET [...]</description>
+      <pubDate>Wed, 11 Sep 2024 15:01:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
