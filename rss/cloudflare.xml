@@ -4,28 +4,10 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs】Cloudflare Workers 上的更多 NPM 包：结合 polyfill 和本机代码来支持 Node.js API</title>
-      <link>https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code</link>
-      <description>【 Workers now supports more NPM packages and Node.js APIs using an overhauled hybrid compatibility layer. 】Workers 现在使用经过彻底修改的混合兼容性层支持更多 NPM 包和 Node.js API。</description>
-      <pubDate>Mon, 09 Sep 2024 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How the Harris-Trump US presidential debate influenced Internet traffic】哈里斯与特朗普美国总统辩论如何影响互联网流量</title>
-      <link>https://blog.cloudflare.com/how-the-harris-trump-us-presidential-debate-influenced-internet-traffic</link>
-      <description>【 See how the first 2024 US presidential debate between Kamala Harris and Donald Trump influenced Internet traffic patterns compared to the Biden-Trump debate. We also review email trends and observed attack activity. 】了解卡马拉·哈里斯 (Kamala Harris) 和唐纳德·特朗普 (Donald Trump) 之间的 2024 年首场美国总统辩论与拜登 (Biden) 和特朗普 (Donald Trump) 的辩论相比如何影响互联网流量模式。我们还审查电子邮件趋势并观察攻击活动。</description>
-      <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Bringing insights into TCP resets and timeouts to Cloudflare Radar】将 TCP 重置和超时的见解引入 Cloudflare Radar</title>
-      <link>https://blog.cloudflare.com/tcp-resets-timeouts</link>
-      <description>【 New TCP resets and timeouts dataset on Cloudflare Radar surfaces connection tampering, scanning, DoS attacks, and more. 】Cloudflare Radar 上的新 TCP 重置和超时数据集揭示了连接篡改、扫描、DoS 攻击等。</description>
-      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customers get increased integration with Cloudflare Email Security and Zero Trust through expanded partnership with CrowdStrike】通过与 CrowdStrike 扩大合作伙伴关系，客户可以增强与 Cloudflare Email Security 和零信任的集成</title>
-      <link>https://blog.cloudflare.com/customers-get-increased-integration-with-cloudflare-email-security-and-zero-trust</link>
-      <description>【 This post explains how our integrations with CrowdStrike Falcon® Next-Gen SIEM allow customers to identify and investigate risky user behavior and analyze data combined with other log sources to uncover hidden threats. 】这篇文章解释了我们与 CrowdStrike Falcon® 下一代 SIEM 的集成如何帮助客户识别和调查有风险的用户行为，并结合其他日志源分析数据以发现隐藏的威胁。</description>
-      <pubDate>Wed, 11 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Protecting APIs from abuse using sequence learning and variable order Markov chains】使用序列学习和可变阶马尔可夫链保护 API 免遭滥用</title>
+      <link>https://blog.cloudflare.com/protecting-apis-from-abuse-using-sequence-learning-and-variable-order-markov</link>
+      <description>【 At Cloudflare, we protect customer APIs from abuse. This is no easy task, as abusive traffic can take different forms, from giant DDoS attacks to low-and-slow credential stuffing campaigns. We now address this challenge in a new way: by looking outside typical volumetric measures and using statistical machine learning to find important API client request sequences. 】在 Cloudflare，我们保护客户 API 免遭滥用。这不是一件容易的事，因为滥用流量可以采取不同的形式，从巨大的 DDoS 攻击到低而缓慢的撞库活动。我们现在以一种新的方式应对这一挑战：通过观察典型的体积测量并使用统计机器学习来查找重要的 API 客户端请求序列。</description>
+      <pubDate>Thu, 12 Sep 2024 14:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【A good day to trie-hard: saving compute 1% at a time】努力的一天：一次节省 1% 的计算量</title>
@@ -34,10 +16,16 @@
       <pubDate>Tue, 10 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring Internet and security trends during the 2024 U.S. Democratic National Convention】探索 2024 年美国民主党全国代表大会期间的互联网和安全趋势</title>
-      <link>https://blog.cloudflare.com/internet-security-trends-2024-us-democratic-convention</link>
-      <description>【 This analysis highlights the 2024 Democratic National Convention’s impact on Internet traffic and security, with spikes in interest for sites related to Kamala Harris and the Democrats, as well as news sites, plus pre-convention attacks on political organizations. 】该分析强调了 2024 年民主党全国代表大会对互联网流量和安全的影响，与卡马拉·哈里斯和民主党相关的网站以及新闻网站的兴趣激增，再加上大会前对政治组织的攻击。</description>
-      <pubDate>Fri, 23 Aug 2024 14:52:00 +0000</pubDate>
+      <title>【How the Harris-Trump US presidential debate influenced Internet traffic】哈里斯与特朗普美国总统辩论如何影响互联网流量</title>
+      <link>https://blog.cloudflare.com/how-the-harris-trump-us-presidential-debate-influenced-internet-traffic</link>
+      <description>【 See how the first 2024 US presidential debate between Kamala Harris and Donald Trump influenced Internet traffic patterns compared to the Biden-Trump debate. We also review email trends and observed attack activity. 】了解卡马拉·哈里斯 (Kamala Harris) 和唐纳德·特朗普 (Donald Trump) 之间的 2024 年首场美国总统辩论与拜登 (Biden) 和特朗普 (Donald Trump) 的辩论相比如何影响互联网流量模式。我们还审查电子邮件趋势并观察攻击活动。</description>
+      <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs】Cloudflare Workers 上的更多 NPM 包：结合 polyfill 和本机代码来支持 Node.js API</title>
+      <link>https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code</link>
+      <description>【 Workers now supports more NPM packages and Node.js APIs using an overhauled hybrid compatibility layer. 】Workers 现在使用经过彻底修改的混合兼容性层支持更多 NPM 包和 Node.js API。</description>
+      <pubDate>Mon, 09 Sep 2024 21:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【A global assessment of third-party connection tampering】对第三方连接篡改的全球评估</title>
@@ -46,16 +34,28 @@
       <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Protecting APIs from abuse using sequence learning and variable order Markov chains】使用序列学习和可变阶马尔可夫链保护 API 免遭滥用</title>
-      <link>https://blog.cloudflare.com/protecting-apis-from-abuse-using-sequence-learning-and-variable-order-markov</link>
-      <description>【 At Cloudflare, we protect customer APIs from abuse. This is no easy task, as abusive traffic can take different forms, from giant DDoS attacks to low-and-slow credential stuffing campaigns. We now address this challenge in a new way: by looking outside typical volumetric measures and using statistical machine learning to find important API client request sequences. 】在 Cloudflare，我们保护客户 API 免遭滥用。这不是一件容易的事，因为滥用流量可以采取不同的形式，从巨大的 DDoS 攻击到低而缓慢的撞库活动。我们现在以一种新的方式应对这一挑战：通过观察典型的体积测量并使用统计机器学习来查找重要的 API 客户端请求序列。</description>
-      <pubDate>Thu, 12 Sep 2024 14:15:00 +0000</pubDate>
+      <title>【Bringing insights into TCP resets and timeouts to Cloudflare Radar】将 TCP 重置和超时的见解引入 Cloudflare Radar</title>
+      <link>https://blog.cloudflare.com/tcp-resets-timeouts</link>
+      <description>【 New TCP resets and timeouts dataset on Cloudflare Radar surfaces connection tampering, scanning, DoS attacks, and more. 】Cloudflare Radar 上的新 TCP 重置和超时数据集揭示了连接篡改、扫描、DoS 攻击等。</description>
+      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring Internet and security trends during the 2024 U.S. Democratic National Convention】探索 2024 年美国民主党全国代表大会期间的互联网和安全趋势</title>
+      <link>https://blog.cloudflare.com/internet-security-trends-2024-us-democratic-convention</link>
+      <description>【 This analysis highlights the 2024 Democratic National Convention’s impact on Internet traffic and security, with spikes in interest for sites related to Kamala Harris and the Democrats, as well as news sites, plus pre-convention attacks on political organizations. 】该分析强调了 2024 年民主党全国代表大会对互联网流量和安全的影响，与卡马拉·哈里斯和民主党相关的网站以及新闻网站的兴趣激增，再加上大会前对政治组织的攻击。</description>
+      <pubDate>Fri, 23 Aug 2024 14:52:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go wild: Wildcard support in Rules and a new open-source wildcard crate】疯狂：规则中的通配符支持和新的开源通配符箱</title>
       <link>https://blog.cloudflare.com/wildcard-rules</link>
       <description>【 We’re excited to announce wildcard support across our Ruleset Engine-based products and our open-source wildcard crate in Rust. Configuring rules has never been easier, with powerful pattern matching enabling simple and flexible URL redirects and beyond for users on all plans. 】我们很高兴地宣布我们基于规则集引擎的产品和 Rust 中的开源通配符箱支持通配符。配置规则从未如此简单，强大的模式匹配可为所有计划的用户提供简单灵活的 URL 重定向及其他功能。</description>
       <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customers get increased integration with Cloudflare Email Security and Zero Trust through expanded partnership with CrowdStrike】通过与 CrowdStrike 扩大合作伙伴关系，客户可以增强与 Cloudflare Email Security 和零信任的集成</title>
+      <link>https://blog.cloudflare.com/customers-get-increased-integration-with-cloudflare-email-security-and-zero-trust</link>
+      <description>【 This post explains how our integrations with CrowdStrike Falcon® Next-Gen SIEM allow customers to identify and investigate risky user behavior and analyze data combined with other log sources to uncover hidden threats. 】这篇文章解释了我们与 CrowdStrike Falcon® 下一代 SIEM 的集成如何帮助客户识别和调查有风险的用户行为，并结合其他日志源分析数据以发现隐藏的威胁。</description>
+      <pubDate>Wed, 11 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Making progress on routing security: the new White House roadmap】在路由安全方面取得进展：新的白宫路线图</title>
