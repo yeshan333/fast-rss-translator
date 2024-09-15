@@ -4,28 +4,10 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【‍Hello eBPF: Collection of Resources for eBPF (14.5)】‍Hello eBPF：eBPF 资源集合（14.5）</title>
-      <link>https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-collection-of-resources-for-ebpf-14-5/</link>
-      <description>【The second part of the fourteenth installment of the Hello eBPF series. In this part, you&#39;ll find resources to help you get started with eBPF】Hello eBPF 系列第十四部分的第二部分。在本部分中，您将找到可帮助您开始使用 eBPF 的资源</description>
-      <pubDate>Tue, 10 Sep 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍What is BTF (BPF Type Format)?】‍什么是BTF（BPF类型格式）？</title>
+      <title>【‍Transparent Proxy Implementation using eBPF and Go】‍使用 eBPF 和 Go 实现透明代理</title>
       <link>https://cloudchirp.substack.com/p/transparent-proxy-implementation</link>
-      <description>【Learn about the BPF type format and BTF-enabled BPF programs】了解 BPF 类型格式和支持 BTF 的 BPF 程序</description>
-      <pubDate>Wed, 04 Sep 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Hello eBPF: Building a Lightning Fast Firewall with Java &amp; eBPF (14)】‍Hello eBPF：使用 Java 和 eBPF 构建闪电般快速的防火墙 (14)</title>
-      <link>https://mostlynerdless.de/blog/2024/08/27/hello-ebpf-building-a-lightning-fast-firewall-with-java-ebpf-14/</link>
-      <description>【The fourteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a Lightning Fast Firewall with Java &amp; eBPF】Hello eBPF 系列的第十四部分。在这一部分中，您将学习如何使用 Java 和 eBPF 构建闪电般快速的防火墙</description>
-      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Building High-Performance Userspace eBPF VMs with LLVM】‍使用 LLVM 构建高性能用户空间 eBPF VM</title>
-      <link>https://dev.to/yunwei37/building-high-performance-userspace-ebpf-vms-with-llvm-55en</link>
-      <description>【Learn about llvmbpf, a new project aimed at empowering developers with a high-performance eBPF virtual machine that leverages the LLVM framework for Just-In-Time and Ahead-Of-Time compilation】了解 llvmbpf，这是一个新项目，旨在为开发人员提供高性能 eBPF 虚拟机，该虚拟机利用 LLVM 框架进行即时和提前编译</description>
-      <pubDate>Sun, 01 Sep 2024 17:20:05 +0000</pubDate>
+      <description>【Learn how to implement a transparent proxy using eBPF and Go】了解如何使用 eBPF 和 Go 实现透明代理</description>
+      <pubDate>Sun, 08 Sep 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍eBPF-Powered Load Balancing for SO_REUSEPORT】‍eBPF 支持的 SO_REUSEPORT 负载均衡</title>
@@ -34,22 +16,16 @@
       <pubDate>Sun, 01 Sep 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍eBPF Security Power and Shortfalls】‍eBPF 安全能力和不足</title>
-      <link>https://thenewstack.io/ebpf-security-power-and-shortfalls/</link>
-      <description>【An overview on the security implications and applications of eBPF】eBPF 的安全影响和应用概述</description>
-      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【‍eBPF in practice – PID concealment (Part 2)】‍eBPF 实践——PID 隐藏（第 2 部分）</title>
       <link>https://www.acceis.fr/ebpf-in-practice-pid-concealment-part-2/</link>
       <description>【Learn how how eBPF works and how to hide a process identifier (PID) from a user using a practical example】通过实际示例了解 eBPF 的工作原理以及如何向用户隐藏进程标识符 (PID)</description>
       <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Transparent Proxy Implementation using eBPF and Go】‍使用 eBPF 和 Go 实现透明代理</title>
+      <title>【‍What is BTF (BPF Type Format)?】‍什么是BTF（BPF类型格式）？</title>
       <link>https://cloudchirp.substack.com/p/transparent-proxy-implementation</link>
-      <description>【Learn how to implement a transparent proxy using eBPF and Go】了解如何使用 eBPF 和 Go 实现透明代理</description>
-      <pubDate>Sun, 08 Sep 2024 17:20:05 +0000</pubDate>
+      <description>【Learn about the BPF type format and BTF-enabled BPF programs】了解 BPF 类型格式和支持 BTF 的 BPF 程序</description>
+      <pubDate>Wed, 04 Sep 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍Optimierung der Netzwerk- und Laufzeitsicherheit in Kubernetes durch den Einsatz von eBPF und Cilium】‍通过使用 eBPF 和 Cilium 优化 Kubernetes 中的网络和运行时安全性</title>
@@ -58,10 +34,34 @@
       <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>【‍eBPF Security Power and Shortfalls】‍eBPF 安全能力和不足</title>
+      <link>https://thenewstack.io/ebpf-security-power-and-shortfalls/</link>
+      <description>【An overview on the security implications and applications of eBPF】eBPF 的安全影响和应用概述</description>
+      <pubDate>Wed, 28 Aug 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Hello eBPF: Collection of Resources for eBPF (14.5)】‍Hello eBPF：eBPF 资源集合（14.5）</title>
+      <link>https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-collection-of-resources-for-ebpf-14-5/</link>
+      <description>【The second part of the fourteenth installment of the Hello eBPF series. In this part, you&#39;ll find resources to help you get started with eBPF】Hello eBPF 系列第十四部分的第二部分。在本部分中，您将找到可帮助您开始使用 eBPF 的资源</description>
+      <pubDate>Tue, 10 Sep 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【‍The magic of eBPF III: Development playground】‍eBPF III 的魔力：开发游乐场</title>
       <link>https://rattlesploitable.blogspot.com/2024/09/the-magic-of-ebpf-iii-development.html</link>
       <description>【Explore several approaches to writing eBPF programs, including powerful tools like Cilium and BCC】探索编写 eBPF 程序的多种方法，包括 Cilium 和 BCC 等强大的工具</description>
       <pubDate>Mon, 09 Sep 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Building High-Performance Userspace eBPF VMs with LLVM】‍使用 LLVM 构建高性能用户空间 eBPF VM</title>
+      <link>https://dev.to/yunwei37/building-high-performance-userspace-ebpf-vms-with-llvm-55en</link>
+      <description>【Learn about llvmbpf, a new project aimed at empowering developers with a high-performance eBPF virtual machine that leverages the LLVM framework for Just-In-Time and Ahead-Of-Time compilation】了解 llvmbpf，这是一个新项目，旨在为开发人员提供高性能 eBPF 虚拟机，该虚拟机利用 LLVM 框架进行即时和提前编译</description>
+      <pubDate>Sun, 01 Sep 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Hello eBPF: Building a Lightning Fast Firewall with Java &amp; eBPF (14)】‍Hello eBPF：使用 Java 和 eBPF 构建闪电般快速的防火墙 (14)</title>
+      <link>https://mostlynerdless.de/blog/2024/08/27/hello-ebpf-building-a-lightning-fast-firewall-with-java-ebpf-14/</link>
+      <description>【The fourteenth installment of the Hello eBPF series. In this part, you’ll learn how to build a Lightning Fast Firewall with Java &amp; eBPF】Hello eBPF 系列的第十四部分。在这一部分中，您将学习如何使用 Java 和 eBPF 构建闪电般快速的防火墙</description>
+      <pubDate>Tue, 27 Aug 2024 17:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

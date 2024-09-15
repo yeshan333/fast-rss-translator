@@ -4,16 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【What’s New in Visual Studio Build Insights 17.12】Visual Studio Build Insights 17.12 中的新增功能</title>
-      <link>https://devblogs.microsoft.com/cppblog/build-insights-17-12</link>
-      <description>【We are excited to announce the latest Visual Studio 2022 17.12 Build Insights features. These updates provide developers with greater control and accuracy when diagnosing and optimizing C++ builds directly within Visual Studio. Download Visual Studio 2022 17.12 Preview We extend our thanks to the developer community, particularly our game studio partners, for providing invaluable [&amp;hellip;]】我们很高兴地宣布最新的 Visual Studio 2022 17.12 Build Insights 功能。这些更新为开发人员直接在 Visual Studio 中诊断和优化 C++ 构建提供了更好的控制和准确性。下载 Visual Studio 2022 17.12 预览版我们向开发者社区，特别是我们的游戏工作室合作伙伴表示感谢，感谢他们提供了宝贵的[...]</description>
-      <pubDate>Thu, 12 Sep 2024 20:56:58 +0000</pubDate>
+      <title>【Java on Azure Tooling的更新 – 2024年8月】Java on Azure Tooling的更新 – 2024年8月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-august-2024</link>
+      <description>【大家好，欢迎阅读 Java on Azure 开发者工具8月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure App Service 提供托管身份支持（Managed Identity），以及宣布 Java 在 Azure 容器应用程序体验上正式发布。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure App Service上支持Managed Identity 托管身份是 Azure 中的一项功能，可简化应用程序的凭证管理。有关详细信息，请访问这篇文档。 在最新版本中，我们在工具包中为 Azure Web 应用程序添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。它有助于降低凭证暴露的风险，并简化各种服务的安全集成。在我们的工具包中将 Java 应用程序部署到 Azure 应用服务时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 宣布 Java体验在Azure Container [&amp;hellip;]】大家好，欢迎阅读 Java on Azure 开发者工具8月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure App Service 提供托管身份支持（Managed Identity），以及宣布 Java 在 Azure 容器应用程序体验上正式发布。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure App Service上支持Managed Identity 托管身份是 Azure 中的一项功能，可简化应用程序的凭证管理。有关详细信息，请访问这篇文档。 在最新版本中，我们在工具包中为 Azure Web 应用程序添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。它有助于降低凭证暴露的风险，并简化各种服务的安全集成。在我们的工具包中将 Java 应用程序部署到 Azure 应用服务时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 宣布 Java体验在Azure Container […]</description>
+      <pubDate>Fri, 13 Sep 2024 08:12:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Network security controls】Microsoft 365 认证控制焦点：网络安全控制</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-network-security-controls</link>
-      <description>【Learn how Microsoft 365 Certification verifies network security controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的网络安全控制是否到位。</description>
-      <pubDate>Thu, 12 Sep 2024 16:00:16 +0000</pubDate>
+      <title>【The case of the fail-fast crashes coming from the power management system】来自电源管理系统的快速故障崩溃案例</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240913-00/?p=110257</link>
+      <description>【Understanding why it decided to fail fast.】了解为什么它决定快速失败。</description>
+      <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Android Asset Packs for .NET &amp; .NET MAUI Android Apps】适用于 .NET 和 .NET MAUI Android 应用程序的 Android 资源包</title>
@@ -22,22 +22,10 @@
       <pubDate>Thu, 12 Sep 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Java on Azure Tooling的更新 – 2024年8月】Java on Azure Tooling的更新 – 2024年8月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-august-2024</link>
-      <description>【大家好，欢迎阅读 Java on Azure 开发者工具8月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure App Service 提供托管身份支持（Managed Identity），以及宣布 Java 在 Azure 容器应用程序体验上正式发布。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure App Service上支持Managed Identity 托管身份是 Azure 中的一项功能，可简化应用程序的凭证管理。有关详细信息，请访问这篇文档。 在最新版本中，我们在工具包中为 Azure Web 应用程序添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。它有助于降低凭证暴露的风险，并简化各种服务的安全集成。在我们的工具包中将 Java 应用程序部署到 Azure 应用服务时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 宣布 Java体验在Azure Container [&amp;hellip;]】大家好，欢迎阅读 Java on Azure 开发者工具8月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure App Service 提供托管身份支持（Managed Identity），以及宣布 Java 在 Azure 容器应用程序体验上正式发布。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure App Service上支持Managed Identity 托管身份是 Azure 中的一项功能，可简化应用程序的凭证管理。有关详细信息，请访问这篇文档。 在最新版本中，我们在工具包中为 Azure Web 应用程序添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。它有助于降低凭证暴露的风险，并简化各种服务的安全集成。在我们的工具包中将 Java 应用程序部署到 Azure 应用服务时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 宣布 Java体验在Azure Container […]</description>
-      <pubDate>Fri, 13 Sep 2024 08:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing new Ollama Connector for Local Models】推出适用于本地模型的新 Ollama 连接器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models</link>
-      <description>【Introducing new Ollama Connector for Local Models  As a long-awaited feature we are happy to bring a dedicated Ollama Connector. In the core implementation of this connector, we are also using the Ollama Sharp library which allows you to manipulate some native Ollama APIs as well as using it with our connector for breaking glass [&amp;hellip;]】为本地模型推出新的 Ollama 连接器 作为一项期待已久的功能，我们很高兴推出专用的 Ollama 连接器。在此连接器的核心实现中，我们还使用 Ollama Sharp 库，它允许您操作一些本机 Ollama API，并将其与我们的连接器一起使用来打破玻璃 [...]</description>
-      <pubDate>Thu, 12 Sep 2024 17:58:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Visual Studio Code的更新 – 2024年8月】Java on Visual Studio Code的更新 – 2024年8月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-08</link>
-      <description>【大家好，欢迎来到 Visual Studio Code for Java 八月更新！在这篇博客中，我们将涵盖重要Gradle 更新、更多用户体验改进以及更好的入门体验，马上开始吧！ Gradle 更新 将 Gradle for Java 添加到 Java 插件包中 一些用户可能已经注意到，最近在 Java 插件包中添加了一个名为“Gradle for Java”的插件，我们想介绍一下这一改动背后的故事。 Gradle for Java 插件是一个专门为 Visual Studio Code 提供 Gradle 支持的工具。长期以来，我们已经在这个插件中陆续了加入新功能，包括 Gradle 的构建服务器。不过，由于它是一个独立的插件，很多 Gradle / Java 开发者很难发现它。因此，我们收集了关于该扩展的反馈，最终决定在最近的版本中将其添加到 Java 插件包中。 然而，在将其添加到插件包之前，我们发现该插件的架构需要一些改进。具体来说，该插件会启动多个 JVM 进程来提供不同的功能，这会占用过多的计算资源。因此，我们决定进行一些优化——简单来说，我们将这些不同的 JVM 进程合并为一个，从而减少了 JVM 进程的数量，并显著降低了使用该扩展时的内存消耗。以下是不同项目大小下的内存消耗对比。 中型项目 大型项目 我们希望您喜欢我们在该扩展中提供的 Gradle 功能，如果有任何问题，请随时通过提交问题告诉我们！ 将“调试测试”委托给 Gradle 在我们之前的博客中，我们提到支持将测试委托给 [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 八月更新！在这篇博客中，我们将涵盖重要Gradle 更新、更多用户体验改进以及更好的入门体验，马上开始吧！ Gradle 更新 将 Gradle for Java 添加到 Java 插件包中 一些用户可能已经注意到，最近在 Java 插件包中添加了一个名为“Gradle for Java”的插件，我们想介绍一下这一改动背后的故事。 Gradle for Java 插件是一个专门为 Visual Studio Code 提供 Gradle 支持的工具。长期以来，我们已经在这个插件中陆续了加入新功能，包括 Gradle 的构建服务器。不过，由于它是一个独立的插件，很多 Gradle / Java 开发者很难发现它。因此，我们收集了关于该扩展的反馈，最终决定在最近的版本中将其添加到 Java 插件包中。 然而，在将其添加到插件包之前，我们发现该插件的架构需要一些改进。具体来说，该插件会启动多个 JVM 进程来提供不同的功能，这会占用过多的计算资源。因此，我们决定进行一些优化——简单来说，我们将这些不同的 JVM 进程合并为一个，从而减少了 JVM 进程的数量，并显著降低了使用该扩展时的内存消耗。以下是不同项目大小下的内存消耗对比。 中型项目 大型项目 我们希望您喜欢我们在该扩展中提供的 Gradle 功能，如果有任何问题，请随时通过提交问题告诉我们！ 将“调试测试”委托给 Gradle 在我们之前的博客中，我们提到支持将测试委托给 […]</description>
-      <pubDate>Fri, 13 Sep 2024 03:29:40 +0000</pubDate>
+      <title>【Java on Visual Studio Code Update – August 2024】Visual Studio 代码上的 Java 更新 – 2024 年 8 月</title>
+      <link>https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-august-2024</link>
+      <description>【Hi everyone, welcome to the August update for Visual Studio Code for Java! In this blog, we will cover important Gradle updates, more user experience improvements, and an improved getting started experience, let&amp;#8217;s get started! Gradle Updates Adding Gradle for Java into Extension Pack for Java Some of our users might have noticed that recently [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 的 8 月更新！在这篇博客中，我们将介绍重要的 Gradle 更新、更多用户体验改进以及改进的入门体验，让我们开始吧！ Gradle 更新将 Gradle for Java 添加到 Java 扩展包中 我们的一些用户可能已经注意到最近 [...]</description>
+      <pubDate>Fri, 13 Sep 2024 10:18:39 +0000</pubDate>
     </item>
     <item>
       <title>【Java on Azure Tooling Update – August 2024】Azure 上的 Java 工具更新 – 2024 年 8 月</title>
@@ -46,16 +34,28 @@
       <pubDate>Fri, 13 Sep 2024 07:58:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Java on Visual Studio Code Update – August 2024】Visual Studio 代码上的 Java 更新 – 2024 年 8 月</title>
-      <link>https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-august-2024</link>
-      <description>【Hi everyone, welcome to the August update for Visual Studio Code for Java! In this blog, we will cover important Gradle updates, more user experience improvements, and an improved getting started experience, let&amp;#8217;s get started! Gradle Updates Adding Gradle for Java into Extension Pack for Java Some of our users might have noticed that recently [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 的 8 月更新！在这篇博客中，我们将介绍重要的 Gradle 更新、更多用户体验改进以及改进的入门体验，让我们开始吧！ Gradle 更新将 Gradle for Java 添加到 Java 扩展包中 我们的一些用户可能已经注意到最近 [...]</description>
-      <pubDate>Fri, 13 Sep 2024 10:18:39 +0000</pubDate>
+      <title>【What’s New in Visual Studio Build Insights 17.12】Visual Studio Build Insights 17.12 中的新增功能</title>
+      <link>https://devblogs.microsoft.com/cppblog/build-insights-17-12</link>
+      <description>【We are excited to announce the latest Visual Studio 2022 17.12 Build Insights features. These updates provide developers with greater control and accuracy when diagnosing and optimizing C++ builds directly within Visual Studio. Download Visual Studio 2022 17.12 Preview We extend our thanks to the developer community, particularly our game studio partners, for providing invaluable [&amp;hellip;]】我们很高兴地宣布最新的 Visual Studio 2022 17.12 Build Insights 功能。这些更新为开发人员直接在 Visual Studio 中诊断和优化 C++ 构建提供了更好的控制和准确性。下载 Visual Studio 2022 17.12 预览版我们向开发者社区，特别是我们的游戏工作室合作伙伴表示感谢，感谢他们提供了宝贵的[...]</description>
+      <pubDate>Thu, 12 Sep 2024 20:56:58 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the fail-fast crashes coming from the power management system】来自电源管理系统的快速故障崩溃案例</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240913-00/?p=110257</link>
-      <description>【Understanding why it decided to fail fast.】了解为什么它决定快速失败。</description>
-      <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Introducing new Ollama Connector for Local Models】推出适用于本地模型的新 Ollama 连接器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models</link>
+      <description>【Introducing new Ollama Connector for Local Models  As a long-awaited feature we are happy to bring a dedicated Ollama Connector. In the core implementation of this connector, we are also using the Ollama Sharp library which allows you to manipulate some native Ollama APIs as well as using it with our connector for breaking glass [&amp;hellip;]】为本地模型推出新的 Ollama 连接器 作为一项期待已久的功能，我们很高兴推出专用的 Ollama 连接器。在此连接器的核心实现中，我们还使用 Ollama Sharp 库，它允许您操作一些本机 Ollama API，并将其与我们的连接器一起使用来打破玻璃 [...]</description>
+      <pubDate>Thu, 12 Sep 2024 17:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Network security controls】Microsoft 365 认证控制焦点：网络安全控制</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-network-security-controls</link>
+      <description>【Learn how Microsoft 365 Certification verifies network security controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的网络安全控制是否到位。</description>
+      <pubDate>Thu, 12 Sep 2024 16:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java on Visual Studio Code的更新 – 2024年8月】Java on Visual Studio Code的更新 – 2024年8月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-08</link>
+      <description>【大家好，欢迎来到 Visual Studio Code for Java 八月更新！在这篇博客中，我们将涵盖重要Gradle 更新、更多用户体验改进以及更好的入门体验，马上开始吧！ Gradle 更新 将 Gradle for Java 添加到 Java 插件包中 一些用户可能已经注意到，最近在 Java 插件包中添加了一个名为“Gradle for Java”的插件，我们想介绍一下这一改动背后的故事。 Gradle for Java 插件是一个专门为 Visual Studio Code 提供 Gradle 支持的工具。长期以来，我们已经在这个插件中陆续了加入新功能，包括 Gradle 的构建服务器。不过，由于它是一个独立的插件，很多 Gradle / Java 开发者很难发现它。因此，我们收集了关于该扩展的反馈，最终决定在最近的版本中将其添加到 Java 插件包中。 然而，在将其添加到插件包之前，我们发现该插件的架构需要一些改进。具体来说，该插件会启动多个 JVM 进程来提供不同的功能，这会占用过多的计算资源。因此，我们决定进行一些优化——简单来说，我们将这些不同的 JVM 进程合并为一个，从而减少了 JVM 进程的数量，并显著降低了使用该扩展时的内存消耗。以下是不同项目大小下的内存消耗对比。 中型项目 大型项目 我们希望您喜欢我们在该扩展中提供的 Gradle 功能，如果有任何问题，请随时通过提交问题告诉我们！ 将“调试测试”委托给 Gradle 在我们之前的博客中，我们提到支持将测试委托给 [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 八月更新！在这篇博客中，我们将涵盖重要Gradle 更新、更多用户体验改进以及更好的入门体验，马上开始吧！ Gradle 更新 将 Gradle for Java 添加到 Java 插件包中 一些用户可能已经注意到，最近在 Java 插件包中添加了一个名为“Gradle for Java”的插件，我们想介绍一下这一改动背后的故事。 Gradle for Java 插件是一个专门为 Visual Studio Code 提供 Gradle 支持的工具。长期以来，我们已经在这个插件中陆续了加入新功能，包括 Gradle 的构建服务器。不过，由于它是一个独立的插件，很多 Gradle / Java 开发者很难发现它。因此，我们收集了关于该扩展的反馈，最终决定在最近的版本中将其添加到 Java 插件包中。 然而，在将其添加到插件包之前，我们发现该插件的架构需要一些改进。具体来说，该插件会启动多个 JVM 进程来提供不同的功能，这会占用过多的计算资源。因此，我们决定进行一些优化——简单来说，我们将这些不同的 JVM 进程合并为一个，从而减少了 JVM 进程的数量，并显著降低了使用该扩展时的内存消耗。以下是不同项目大小下的内存消耗对比。 中型项目 大型项目 我们希望您喜欢我们在该扩展中提供的 Gradle 功能，如果有任何问题，请随时通过提交问题告诉我们！ 将“调试测试”委托给 Gradle 在我们之前的博客中，我们提到支持将测试委托给 […]</description>
+      <pubDate>Fri, 13 Sep 2024 03:29:40 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft C++ Team at CppCon 2024】Microsoft C++ 团队参加 CppCon 2024</title>
