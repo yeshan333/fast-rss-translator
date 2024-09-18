@@ -4,12 +4,6 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
-      <title>【This Week In React #196: Forms, Jotai, DI, Electron, Docusaurus, Signals, Plunk, React-Server, Switchboard, React-Call, RN WebGPU, Nitro Modules, use dom, macOS, Screens, Autolinking, Cocoapods, Corepack, Node.js, TypeScript...】本周 React #196：Forms、Jotai、DI、Electron、Docusaurus、Signals、Plunk、React-Server、Switchboard、React-Call、RN WebGPU、Nitro Modules、use dom、macOS、Screens、Autolinking、Cocoapods、Corepack、 Node.js、TypeScript...</title>
-      <link>https://thisweekinreact.com/newsletter/196</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【This Week In React #200: Remix, React Universe, Next.js dynamicIO, :has, Redwood, MDX, Atomic-CRM, NewArch, Fusebox, Hermes, Gesture Handler, TypedGPU, Firebase, Vite, Express, TypeScript, Rsbuild...】本周 React #200：Remix、React Universe、Next.jsdynamicIO、:has、Redwood、MDX、Atomic-CRM、NewArch、Fusebox、Hermes、Gesture Handler、TypedGPU、Firebase、Vite、Express、TypeScript、Rsbuild.. 。</title>
       <link>https://thisweekinreact.com/newsletter/200</link>
       <description>【Hi everyone!】大家好！</description>
@@ -32,6 +26,12 @@
       <link>https://thisweekinreact.com/newsletter/197</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #196: Forms, Jotai, DI, Electron, Docusaurus, Signals, Plunk, React-Server, Switchboard, React-Call, RN WebGPU, Nitro Modules, use dom, macOS, Screens, Autolinking, Cocoapods, Corepack, Node.js, TypeScript...】本周 React #196：Forms、Jotai、DI、Electron、Docusaurus、Signals、Plunk、React-Server、Switchboard、React-Call、RN WebGPU、Nitro Modules、use dom、macOS、Screens、Autolinking、Cocoapods、Corepack、 Node.js、TypeScript...</title>
+      <link>https://thisweekinreact.com/newsletter/196</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

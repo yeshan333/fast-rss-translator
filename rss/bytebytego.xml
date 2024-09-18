@@ -5,42 +5,6 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Infrastructure as Code】基础设施即代码</title>
-      <link>https://blog.bytebytego.com/p/infrastructure-as-code</link>
-      <description>【It is difficult to imagine modern businesses operating without a scalable process to provision and manage the infrastructure.】很难想象现代企业在没有可扩展的流程来配置和管理基础设施的情况下运营。</description>
-      <pubDate>Thu, 12 Sep 2024 15:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Scaling the Data Layer】扩展数据层的速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-data</link>
-      <description>【The scalability of a system is heavily dependent on the data layer.】系统的可扩展性很大程度上取决于数据层。</description>
-      <pubDate>Thu, 05 Sep 2024 15:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Scaling the API Layer】扩展 API 层的速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-api</link>
-      <description>【The API (Application Programming Interface) layer serves as the backbone for communication between clients and the backend services in modern internet-based applications.】API（应用程序编程接口）层是现代基于互联网的应用程序中客户端和后端服务之间通信的支柱。</description>
-      <pubDate>Thu, 22 Aug 2024 15:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP128: The Ultimate Software Architect Knowledge Map 】EP128：终极软件架构师知识图</title>
-      <link>https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 07 Sep 2024 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP126: The Ultimate Kafka 101 You Cannot Miss 】EP126：你不能错过的终极卡夫卡101</title>
-      <link>https://blog.bytebytego.com/p/ep126-the-ultimate-kafka-101-you</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 24 Aug 2024 15:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Millions of Requests Per Hour: SoundCloud’s Microservices Evolution】每小时数百万个请求：SoundCloud 的微服务演变</title>
-      <link>https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds</link>
-      <description>【How to monitor containerized applications in Azure (Sponsored)】如何监控 Azure 中的容器化应用程序（赞助）</description>
-      <pubDate>Tue, 03 Sep 2024 15:31:02 +0000</pubDate>
-    </item>
-    <item>
       <title>【EP129: The Ultimate Walkthrough of the Generative AI Landscape 】EP129：生成式人工智能领域的终极演练</title>
       <link>https://blog.bytebytego.com/p/ep129-the-ultimate-walkthrough-of</link>
       <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
@@ -53,10 +17,46 @@
       <pubDate>Tue, 10 Sep 2024 15:30:35 +0000</pubDate>
     </item>
     <item>
+      <title>【Millions of Requests Per Hour: SoundCloud’s Microservices Evolution】每小时数百万个请求：SoundCloud 的微服务演变</title>
+      <link>https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds</link>
+      <description>【How to monitor containerized applications in Azure (Sponsored)】如何监控 Azure 中的容器化应用程序（赞助）</description>
+      <pubDate>Tue, 03 Sep 2024 15:31:02 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Crash Course on Load Balancers for Scaling】用于扩展的负载均衡器速成课程</title>
       <link>https://blog.bytebytego.com/p/a-crash-course-on-load-balancers</link>
       <description>【Over the years, load balancers have become a crucial component of system architecture, acting as the front-line gatekeepers that distribute incoming network traffic across multiple servers.】多年来，负载均衡器已成为系统架构的重要组成部分，充当在多个服务器之间分配传入网络流量的一线守门人。</description>
       <pubDate>Thu, 29 Aug 2024 15:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course on Scaling the Data Layer】扩展数据层的速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-data</link>
+      <description>【The scalability of a system is heavily dependent on the data layer.】系统的可扩展性很大程度上取决于数据层。</description>
+      <pubDate>Thu, 05 Sep 2024 15:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP126: The Ultimate Kafka 101 You Cannot Miss 】EP126：你不能错过的终极卡夫卡101</title>
+      <link>https://blog.bytebytego.com/p/ep126-the-ultimate-kafka-101-you</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 24 Aug 2024 15:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP128: The Ultimate Software Architect Knowledge Map 】EP128：终极软件架构师知识图</title>
+      <link>https://blog.bytebytego.com/p/ep128-the-ultimate-software-architect</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 07 Sep 2024 15:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Infrastructure as Code】基础设施即代码</title>
+      <link>https://blog.bytebytego.com/p/infrastructure-as-code</link>
+      <description>【It is difficult to imagine modern businesses operating without a scalable process to provision and manage the infrastructure.】很难想象现代企业在没有可扩展的流程来配置和管理基础设施的情况下运营。</description>
+      <pubDate>Thu, 12 Sep 2024 15:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Warms Petabytes of Cache Data】Netflix 如何加热 PB 级缓存数据</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-warms-petabytes-of-cache</link>
+      <description>【Free tickets to P99 CONF &amp;#8212; 60+ low-latency engineering talks (Sponsored)】P99 CONF 的免费门票 — 60 多场低延迟工程讲座（赞助）</description>
+      <pubDate>Tue, 17 Sep 2024 15:31:12 +0000</pubDate>
     </item>
     <item>
       <title>【EP127: 20 Popular Open Source Projects Started or Supported By Big Companies 】EP127：20 个由大公司发起或支持的流行开源项目</title>

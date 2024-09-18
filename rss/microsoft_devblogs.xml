@@ -4,48 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Java on Visual Studio Code的更新 – 2024年8月】Java on Visual Studio Code的更新 – 2024年8月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-08</link>
-      <description>【大家好，欢迎来到 Visual Studio Code for Java 八月更新！在这篇博客中，我们将涵盖重要Gradle 更新、更多用户体验改进以及更好的入门体验，马上开始吧！ Gradle 更新 将 Gradle for Java 添加到 Java 插件包中 一些用户可能已经注意到，最近在 Java 插件包中添加了一个名为“Gradle for Java”的插件，我们想介绍一下这一改动背后的故事。 Gradle for Java 插件是一个专门为 Visual Studio Code 提供 Gradle 支持的工具。长期以来，我们已经在这个插件中陆续了加入新功能，包括 Gradle 的构建服务器。不过，由于它是一个独立的插件，很多 Gradle / Java 开发者很难发现它。因此，我们收集了关于该扩展的反馈，最终决定在最近的版本中将其添加到 Java 插件包中。 然而，在将其添加到插件包之前，我们发现该插件的架构需要一些改进。具体来说，该插件会启动多个 JVM 进程来提供不同的功能，这会占用过多的计算资源。因此，我们决定进行一些优化——简单来说，我们将这些不同的 JVM 进程合并为一个，从而减少了 JVM 进程的数量，并显著降低了使用该扩展时的内存消耗。以下是不同项目大小下的内存消耗对比。 中型项目 大型项目 我们希望您喜欢我们在该扩展中提供的 Gradle 功能，如果有任何问题，请随时通过提交问题告诉我们！ 将“调试测试”委托给 Gradle 在我们之前的博客中，我们提到支持将测试委托给 [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 八月更新！在这篇博客中，我们将涵盖重要Gradle 更新、更多用户体验改进以及更好的入门体验，马上开始吧！ Gradle 更新 将 Gradle for Java 添加到 Java 插件包中 一些用户可能已经注意到，最近在 Java 插件包中添加了一个名为“Gradle for Java”的插件，我们想介绍一下这一改动背后的故事。 Gradle for Java 插件是一个专门为 Visual Studio Code 提供 Gradle 支持的工具。长期以来，我们已经在这个插件中陆续了加入新功能，包括 Gradle 的构建服务器。不过，由于它是一个独立的插件，很多 Gradle / Java 开发者很难发现它。因此，我们收集了关于该扩展的反馈，最终决定在最近的版本中将其添加到 Java 插件包中。 然而，在将其添加到插件包之前，我们发现该插件的架构需要一些改进。具体来说，该插件会启动多个 JVM 进程来提供不同的功能，这会占用过多的计算资源。因此，我们决定进行一些优化——简单来说，我们将这些不同的 JVM 进程合并为一个，从而减少了 JVM 进程的数量，并显著降低了使用该扩展时的内存消耗。以下是不同项目大小下的内存消耗对比。 中型项目 大型项目 我们希望您喜欢我们在该扩展中提供的 Gradle 功能，如果有任何问题，请随时通过提交问题告诉我们！ 将“调试测试”委托给 Gradle 在我们之前的博客中，我们提到支持将测试委托给 […]</description>
-      <pubDate>Fri, 13 Sep 2024 03:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the fail-fast crashes coming from the power management system】来自电源管理系统的快速故障崩溃案例</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240913-00/?p=110257</link>
-      <description>【Understanding why it decided to fail fast.】了解为什么它决定快速失败。</description>
-      <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Azure Tooling的更新 – 2024年8月】Java on Azure Tooling的更新 – 2024年8月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-august-2024</link>
-      <description>【大家好，欢迎阅读 Java on Azure 开发者工具8月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure App Service 提供托管身份支持（Managed Identity），以及宣布 Java 在 Azure 容器应用程序体验上正式发布。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure App Service上支持Managed Identity 托管身份是 Azure 中的一项功能，可简化应用程序的凭证管理。有关详细信息，请访问这篇文档。 在最新版本中，我们在工具包中为 Azure Web 应用程序添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。它有助于降低凭证暴露的风险，并简化各种服务的安全集成。在我们的工具包中将 Java 应用程序部署到 Azure 应用服务时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 宣布 Java体验在Azure Container [&amp;hellip;]】大家好，欢迎阅读 Java on Azure 开发者工具8月份更新。在本次更新中，我们将介绍在 IntelliJ IDEA 中 Azure Toolkit 对 Azure App Service 提供托管身份支持（Managed Identity），以及宣布 Java 在 Azure 容器应用程序体验上正式发布。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure App Service上支持Managed Identity 托管身份是 Azure 中的一项功能，可简化应用程序的凭证管理。有关详细信息，请访问这篇文档。 在最新版本中，我们在工具包中为 Azure Web 应用程序添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。它有助于降低凭证暴露的风险，并简化各种服务的安全集成。在我们的工具包中将 Java 应用程序部署到 Azure 应用服务时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 宣布 Java体验在Azure Container […]</description>
-      <pubDate>Fri, 13 Sep 2024 08:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Visual Studio Code Update – August 2024】Visual Studio 代码上的 Java 更新 – 2024 年 8 月</title>
-      <link>https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-august-2024</link>
-      <description>【Hi everyone, welcome to the August update for Visual Studio Code for Java! In this blog, we will cover important Gradle updates, more user experience improvements, and an improved getting started experience, let&amp;#8217;s get started! Gradle Updates Adding Gradle for Java into Extension Pack for Java Some of our users might have noticed that recently [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 的 8 月更新！在这篇博客中，我们将介绍重要的 Gradle 更新、更多用户体验改进以及改进的入门体验，让我们开始吧！ Gradle 更新将 Gradle for Java 添加到 Java 扩展包中 我们的一些用户可能已经注意到最近 [...]</description>
-      <pubDate>Fri, 13 Sep 2024 10:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing new Ollama Connector for Local Models】推出适用于本地模型的新 Ollama 连接器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models</link>
-      <description>【Introducing new Ollama Connector for Local Models  As a long-awaited feature we are happy to bring a dedicated Ollama Connector. In the core implementation of this connector, we are also using the Ollama Sharp library which allows you to manipulate some native Ollama APIs as well as using it with our connector for breaking glass [&amp;hellip;]】为本地模型推出新的 Ollama 连接器 作为一项期待已久的功能，我们很高兴推出专用的 Ollama 连接器。在此连接器的核心实现中，我们还使用 Ollama Sharp 库，它允许您操作一些本机 Ollama API，并将其与我们的连接器一起使用来打破玻璃 [...]</description>
-      <pubDate>Thu, 12 Sep 2024 17:58:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Azure Tooling Update – August 2024】Azure 上的 Java 工具更新 – 2024 年 8 月</title>
-      <link>https://devblogs.microsoft.com/java/java-on-azure-tooling-update-august-2024</link>
-      <description>【Hi everyone, welcome to the August update of Java on Azure developer tools. In this update, we will introduce our Managed Identity Support for Azure App Service in Azure toolkit, and General Availability of Java experiences on Azure Container Apps. We hope you enjoy these updates and have a smooth experience with our Azure toolkit. [&amp;hellip;]】大家好，欢迎来到 Azure 开发人员工具上的 Java 八月更新。在此更新中，我们将介绍 Azure 工具包中对 Azure 应用服务的托管身份支持，以及 Azure 容器应用上 Java 体验的普遍可用性。我们希望您喜欢这些更新并拥有我们的 Azure 工具包的流畅体验。 […]</description>
-      <pubDate>Fri, 13 Sep 2024 07:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in Visual Studio Build Insights 17.12】Visual Studio Build Insights 17.12 中的新增功能</title>
-      <link>https://devblogs.microsoft.com/cppblog/build-insights-17-12</link>
-      <description>【We are excited to announce the latest Visual Studio 2022 17.12 Build Insights features. These updates provide developers with greater control and accuracy when diagnosing and optimizing C++ builds directly within Visual Studio. Download Visual Studio 2022 17.12 Preview We extend our thanks to the developer community, particularly our game studio partners, for providing invaluable [&amp;hellip;]】我们很高兴地宣布最新的 Visual Studio 2022 17.12 Build Insights 功能。这些更新为开发人员直接在 Visual Studio 中诊断和优化 C++ 构建提供了更好的控制和准确性。下载 Visual Studio 2022 17.12 预览版我们向开发者社区，特别是我们的游戏工作室合作伙伴表示感谢，感谢他们提供了宝贵的[...]</description>
-      <pubDate>Thu, 12 Sep 2024 20:56:58 +0000</pubDate>
-    </item>
-    <item>
       <title>【Some notes on Win32 carets】关于 Win32 插入符的一些注释</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240916-00/?p=110272</link>
       <description>【Assorted notes and musings.】各种笔记和沉思。</description>
@@ -62,6 +20,48 @@
       <link>https://devblogs.microsoft.com/visualstudio/understanding-the-behavior-of-the-xaml-designer-with-abstract-base-classes</link>
       <description>【Visual Studio 2022 introduced a new XAML designer for building WPF apps, with a goal of increasing the performance and reliability of the designer. The new designer can quickly open a XAML file by using WPF’s built-in parser and display. This new design has a nuanced behavior when the root XAML element derives from an [&amp;hellip;]】Visual Studio 2022 引入了用于构建 WPF 应用程序的新 XAML 设计器，其目标是提高设计器的性能和可靠性。新设计器可以使用 WPF 的内置解析器和显示来快速打开 XAML 文件。当根 XAML 元素派生自 [...] 时，这种新设计具有微妙的行为</description>
       <pubDate>Mon, 16 Sep 2024 13:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【It rather involved being on the other side of this airtight hatchway: Posting completions to somebody else’s I/O completion port】它更涉及到在这个密闭舱口的另一边：将完成发送到其他人的 I/O 完成端口</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240917-00/?p=110276</link>
+      <description>【If you have gained access to it, then that was the problem.】如果您已经获得了它的访问权限，那么这就是问题所在。</description>
+      <pubDate>Tue, 17 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the General Availability (GA) of Microsoft Entra External ID extension for Visual Studio Code】宣布 Visual Studio Code 的 Microsoft Entra 外部 ID 扩展全面可用 (GA)</title>
+      <link>https://devblogs.microsoft.com/identity/external-id-vs-code-extension-ga</link>
+      <description>【Explore the new Microsoft Entra External ID extension for Visual Studio Code, now Generally Available (GA), created to simplify CIAM integration in your development process. See how this extension provides a smooth experience for setting up External ID applications from within VS Code.】探索适用于 Visual Studio Code 的新 Microsoft Entra 外部 ID 扩展，现已正式发布 (GA)，旨在简化开发过程中的 CIAM 集成。了解此扩展如何为从 VS Code 内设置外部 ID 应用程序提供流畅的体验。</description>
+      <pubDate>Tue, 17 Sep 2024 15:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to run .NET apps natively on Arm64 devices】如何在 Arm64 设备上本机运行 .NET 应用程序</title>
+      <link>https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices</link>
+      <description>【Are you developing .NET applications for Arm-based processors? Do you want to take advantage of the performance and power efficiency of running your apps natively on Arm64 devices? If so, you&amp;#8217;ll be happy to hear that Visual Studio 2022 17.11 has a new feature that makes it easier than ever to do just that. Visual [&amp;hellip;]】您是否正在为基于 Arm 的处理器开发 .NET 应用程序？您想利用在 Arm64 设备上本地运行应用程序的性能和能效吗？如果是这样，您会很高兴听到 Visual Studio 2022 17.11 有一项新功能，可以让您比以往更轻松地做到这一点。视觉的 […]</description>
+      <pubDate>Tue, 17 Sep 2024 10:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Function Calling Model Available in .NET for Semantic Kernel】.NET 中可用于语义内核的新函数调用模型</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/new-function-calling-model-available-in-net-for-semantic-kernel</link>
+      <description>【We are happy to announce release of the new function-calling model that is available in Semantic Kernel v1.20. The new model incorporates the best parts of the existing function-calling model, such as ease of use, and improves on it by making it more extensible and reusable. using Microsoft.SemanticKernel; IKernelBuilder builder = Kernel.CreateBuilder(); // Register OpenAI [&amp;hellip;]】我们很高兴地宣布发布 Semantic Kernel v1.20 中提供的新函数调用模型。新模型融合了现有函数调用模型的最佳部分（例如易用性），并通过使其更具可扩展性和可重用性对其进行了改进。使用 Microsoft.SemanticKernel； IKernelBuilder 构建器 = Kernel.CreateBuilder(); // 注册 OpenAI [...]</description>
+      <pubDate>Tue, 17 Sep 2024 22:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the fail-fast crashes coming from the power management system】来自电源管理系统的快速故障崩溃案例</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240913-00/?p=110257</link>
+      <description>【Understanding why it decided to fail fast.】了解为什么它决定快速失败。</description>
+      <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Boosting Azure DevOps Security with GHAS Code Scanning】通过 GHAS 代码扫描增强 Azure DevOps 安全性</title>
+      <link>https://devblogs.microsoft.com/premier-developer/boosting-azure-devops-security-with-ghas-code-scanning</link>
+      <description>【Debjyoti Ganguly shares insights on the security benefits and configuration of GHAS Code Scanning with Azure DevOps. Boosting Azure DevOps Security with GHAS Code Scanning Code scanning, a pipeline-based tool available in GitHub Advanced Security, is designed to detect code vulnerabilities and bugs within the source code of ADO (Azure DevOps) repositories. Utilizing CodeQL as [&amp;hellip;]】Debjyoti Ganguly 分享了有关使用 Azure DevOps 进行 GHAS 代码扫描的安全优势和配置的见解。使用 GHAS 代码扫描增强 Azure DevOps 安全性 代码扫描是 GitHub Advanced Security 中提供的基于管道的工具，旨在检测 ADO (Azure DevOps) 存储库源代码中的代码漏洞和错误。使用 CodeQL 作为 [...]</description>
+      <pubDate>Tue, 17 Sep 2024 07:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Observability in Semantic Kernel】语义内核中的可观察性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/observability-in-semantic-kernel</link>
+      <description>【Many of you have asked similar questions: How do I obtain the rendered prompt that Semantic Kernel sends to the AI service? How do I monitor the token usage of my application? How do I gain insights into Semantic Kernel&amp;#8217;s operations during runtime? These are all excellent questions! They fundamentally belong to the same class [&amp;hellip;]】很多人都问过类似的问题：如何获取语义内核发送给AI服务的渲染提示？如何监控应用程序的令牌使用情况？如何深入了解语义内核在运行时的操作？这些都是很好的问题！他们基本上属于同一类[…]</description>
+      <pubDate>Tue, 17 Sep 2024 16:58:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
