@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Some notes on Win32 carets】关于 Win32 插入符的一些注释</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240916-00/?p=110272</link>
-      <description>【Assorted notes and musings.】各种笔记和沉思。</description>
-      <pubDate>Mon, 16 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel Content in Spanish: ¡Crea un ChatGPT en tu equipo sin la nube! Con Ollama, Microsoft PHI-3 y Semantic Kernel💥】西班牙语语义内核内容：在您的计算机上创建一个 ChatGPT，无需云！与 Ollama、Microsoft PHI-3 和语义内核💥</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-content-in-spanish-crea-un-chatgpt-en-tu-equipo-sin-la-nube-con-ollama-microsoft-phi-3-y-semantic-kernel%f0%9f%92%a5</link>
-      <description>【Today we&amp;#8217;re highlighting Semantic Kernel content created in Spanish here: 💥¡Crea un ChatGPT en tu equipo sin la nube! Con Ollama, Microsoft PHI-3 y Semantic Kernel💥 (youtube.com) Estamos destacando a Rodrigo Ezequiel Liberoff Vazquez, quien es Arquitecto Senior de Software Cloud en Encamina y ha creado videos de Semantic Kernel en español enfocados en Modelos [&amp;hellip;]】今天，我们在这里重点介绍用西班牙语创建的语义内核内容：💥在您的计算机上创建一个 ChatGPT，无需云！通过 Ollama、Microsoft PHI-3 和语义内核💥 (youtube.com)，我们重点介绍 Rodrigo Ezequiel Liberoff Vazquez，他是 Encamina 的高级软件云架构师，并用西班牙语创建了专注于模型的语义内核视频 [...]</description>
-      <pubDate>Mon, 16 Sep 2024 23:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Understanding the behavior of the XAML Designer with abstract base classes】了解具有抽象基类的 XAML 设计器的行为</title>
-      <link>https://devblogs.microsoft.com/visualstudio/understanding-the-behavior-of-the-xaml-designer-with-abstract-base-classes</link>
-      <description>【Visual Studio 2022 introduced a new XAML designer for building WPF apps, with a goal of increasing the performance and reliability of the designer. The new designer can quickly open a XAML file by using WPF’s built-in parser and display. This new design has a nuanced behavior when the root XAML element derives from an [&amp;hellip;]】Visual Studio 2022 引入了用于构建 WPF 应用程序的新 XAML 设计器，其目标是提高设计器的性能和可靠性。新设计器可以使用 WPF 的内置解析器和显示来快速打开 XAML 文件。当根 XAML 元素派生自 [...] 时，这种新设计具有微妙的行为</description>
-      <pubDate>Mon, 16 Sep 2024 13:49:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【It rather involved being on the other side of this airtight hatchway: Posting completions to somebody else’s I/O completion port】它更涉及到在这个密闭舱口的另一边：将完成发送到其他人的 I/O 完成端口</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240917-00/?p=110276</link>
-      <description>【If you have gained access to it, then that was the problem.】如果您已经获得了它的访问权限，那么这就是问题所在。</description>
-      <pubDate>Tue, 17 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Observability in Semantic Kernel】语义内核中的可观察性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/observability-in-semantic-kernel</link>
+      <description>【Many of you have asked similar questions: How do I obtain the rendered prompt that Semantic Kernel sends to the AI service? How do I monitor the token usage of my application? How do I gain insights into Semantic Kernel&amp;#8217;s operations during runtime? These are all excellent questions! They fundamentally belong to the same class [&amp;hellip;]】很多人都问过类似的问题：如何获取语义内核发送给AI服务的渲染提示？如何监控应用程序的令牌使用情况？如何深入了解语义内核在运行时的操作？这些都是很好的问题！他们基本上属于同一类[…]</description>
+      <pubDate>Tue, 17 Sep 2024 16:58:12 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing the General Availability (GA) of Microsoft Entra External ID extension for Visual Studio Code】宣布 Visual Studio Code 的 Microsoft Entra 外部 ID 扩展全面可用 (GA)</title>
@@ -34,22 +16,34 @@
       <pubDate>Tue, 17 Sep 2024 15:40:40 +0000</pubDate>
     </item>
     <item>
-      <title>【How to run .NET apps natively on Arm64 devices】如何在 Arm64 设备上本机运行 .NET 应用程序</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices</link>
-      <description>【Are you developing .NET applications for Arm-based processors? Do you want to take advantage of the performance and power efficiency of running your apps natively on Arm64 devices? If so, you&amp;#8217;ll be happy to hear that Visual Studio 2022 17.11 has a new feature that makes it easier than ever to do just that. Visual [&amp;hellip;]】您是否正在为基于 Arm 的处理器开发 .NET 应用程序？您想利用在 Arm64 设备上本地运行应用程序的性能和能效吗？如果是这样，您会很高兴听到 Visual Studio 2022 17.11 有一项新功能，可以让您比以往更轻松地做到这一点。视觉的 […]</description>
-      <pubDate>Tue, 17 Sep 2024 10:00:19 +0000</pubDate>
+      <title>【It rather involved being on the other side of this airtight hatchway: Posting completions to somebody else’s I/O completion port】它更涉及到在这个密闭舱口的另一边：将完成发送到其他人的 I/O 完成端口</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240917-00/?p=110276</link>
+      <description>【If you have gained access to it, then that was the problem.】如果您已经获得了它的访问权限，那么这就是问题所在。</description>
+      <pubDate>Tue, 17 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New Function Calling Model Available in .NET for Semantic Kernel】.NET 中可用于语义内核的新函数调用模型</title>
+      <title>【New Function Calling Available in .NET for Semantic Kernel】.NET 中可用于语义内核的新函数调用</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/new-function-calling-model-available-in-net-for-semantic-kernel</link>
-      <description>【We are happy to announce release of the new function-calling model that is available in Semantic Kernel v1.20. The new model incorporates the best parts of the existing function-calling model, such as ease of use, and improves on it by making it more extensible and reusable. using Microsoft.SemanticKernel; IKernelBuilder builder = Kernel.CreateBuilder(); // Register OpenAI [&amp;hellip;]】我们很高兴地宣布发布 Semantic Kernel v1.20 中提供的新函数调用模型。新模型融合了现有函数调用模型的最佳部分（例如易用性），并通过使其更具可扩展性和可重用性对其进行了改进。使用 Microsoft.SemanticKernel； IKernelBuilder 构建器 = Kernel.CreateBuilder(); // 注册 OpenAI [...]</description>
+      <description>【We are happy to announce release of the new function-calling capabilities available in Semantic Kernel v1.20 (.NET). The new capabilities incorporates the best parts of the existing function-calling, such as ease of use, and improves on it by making it more extensible and reusable. Function calling allows Plugin descriptions to be passed into a model [&amp;hellip;]】我们很高兴地宣布发布 Semantic Kernel v1.20 (.NET) 中提供的新函数调用功能。新功能融合了现有函数调用的最佳部分（例如易用性），并通过使其更具可扩展性和可重用性对其进行了改进。函数调用允许将插件描述传递到模型中[...]</description>
       <pubDate>Tue, 17 Sep 2024 22:21:44 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the fail-fast crashes coming from the power management system】来自电源管理系统的快速故障崩溃案例</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240913-00/?p=110257</link>
-      <description>【Understanding why it decided to fail fast.】了解为什么它决定快速失败。</description>
-      <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【More on the mysterious [default_interface] attribute in Windows Runtime classes】有关 Windows 运行时类中神秘的 [default_interface] 属性的更多信息</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240918-00/?p=110279</link>
+      <description>【Forcing you to make a choice.】强迫你做出选择。</description>
+      <pubDate>Wed, 18 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multi-Project Launch Configuration】多项目启动配置</title>
+      <link>https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration</link>
+      <description>【Are you tired of the hassle of manually configuring your development environment every time you want to launch multiple projects? We&amp;#8217;ve heard your feedback and are thrilled to announce a feature in Visual Studio that simplifies your workflow. The Multi-Project Launch Configuration feature in Visual Studio allows developers to set up and save profiles for [&amp;hellip;]】您是否厌倦了每次要启动多个项目时手动配置开发环境的麻烦？我们已听到您的反馈，并很高兴地宣布 Visual Studio 中的一项功能可以简化您的工作流程。 Visual Studio 中的多项目启动配置功能允许开发人员设置和保存配置文件 [...]</description>
+      <pubDate>Wed, 18 Sep 2024 16:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the new Python Data Science Extension Pack for VS Code】宣布推出适用于 VS Code 的新 Python 数据科学扩展包</title>
+      <link>https://devblogs.microsoft.com/python/announcing-the-new-python-data-science-extension-pack-for-vs-code</link>
+      <description>【We&amp;#8217;re thrilled to announce the launch of the new Python Data Science Extension Pack for Visual Studio Code! This powerful pack brings together some of the most popular and essential VS Code extensions, making it your one-stop shop for all things data science in Python. What&amp;#8217;s Inside? Our extension pack is designed to streamline your data [&amp;hellip;]】我们很高兴地宣布推出适用于 Visual Studio Code 的新 Python 数据科学扩展包！这个功能强大的包汇集了一些最流行和最重要的 VS Code 扩展，使其成为您使用 Python 进行数据科学的一站式商店。里面有什么？我们的扩展包旨在简化您的数据[...]</description>
+      <pubDate>Wed, 18 Sep 2024 23:53:26 +0000</pubDate>
     </item>
     <item>
       <title>【Boosting Azure DevOps Security with GHAS Code Scanning】通过 GHAS 代码扫描增强 Azure DevOps 安全性</title>
@@ -58,10 +52,16 @@
       <pubDate>Tue, 17 Sep 2024 07:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Observability in Semantic Kernel】语义内核中的可观察性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/observability-in-semantic-kernel</link>
-      <description>【Many of you have asked similar questions: How do I obtain the rendered prompt that Semantic Kernel sends to the AI service? How do I monitor the token usage of my application? How do I gain insights into Semantic Kernel&amp;#8217;s operations during runtime? These are all excellent questions! They fundamentally belong to the same class [&amp;hellip;]】很多人都问过类似的问题：如何获取语义内核发送给AI服务的渲染提示？如何监控应用程序的令牌使用情况？如何深入了解语义内核在运行时的操作？这些都是很好的问题！他们基本上属于同一类[…]</description>
-      <pubDate>Tue, 17 Sep 2024 16:58:12 +0000</pubDate>
+      <title>【Improving GitHub Copilot Completions in Visual Studio for C# Developers】为 C# 开发人员改进 Visual Studio 中的 GitHub Copilot 完成情况</title>
+      <link>https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers</link>
+      <description>【Learn about the latest GitHub Copilot improvements for C# developers】了解针对 C# 开发人员的最新 GitHub Copilot 改进</description>
+      <pubDate>Wed, 18 Sep 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to run .NET apps natively on Arm64 devices】如何在 Arm64 设备上本机运行 .NET 应用程序</title>
+      <link>https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices</link>
+      <description>【Are you developing .NET applications for Arm-based processors? Do you want to take advantage of the performance and power efficiency of running your apps natively on Arm64 devices? If so, you&amp;#8217;ll be happy to hear that Visual Studio 2022 17.11 has a new feature that makes it easier than ever to do just that. Visual [&amp;hellip;]】您是否正在为基于 Arm 的处理器开发 .NET 应用程序？您想利用在 Arm64 设备上本地运行应用程序的性能和能效吗？如果是这样，您会很高兴听到 Visual Studio 2022 17.11 有一项新功能，可以让您比以往更轻松地做到这一点。视觉的 […]</description>
+      <pubDate>Tue, 17 Sep 2024 10:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
