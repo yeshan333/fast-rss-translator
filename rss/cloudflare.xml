@@ -10,16 +10,28 @@
       <pubDate>Thu, 12 Sep 2024 14:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Bringing insights into TCP resets and timeouts to Cloudflare Radar】将 TCP 重置和超时的见解引入 Cloudflare Radar</title>
-      <link>https://blog.cloudflare.com/tcp-resets-timeouts</link>
-      <description>【 New TCP resets and timeouts dataset on Cloudflare Radar surfaces connection tampering, scanning, DoS attacks, and more. 】Cloudflare Radar 上的新 TCP 重置和超时数据集揭示了连接篡改、扫描、DoS 攻击等。</description>
-      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
+      <title>【Customers get increased integration with Cloudflare Email Security and Zero Trust through expanded partnership with CrowdStrike】通过与 CrowdStrike 扩大合作伙伴关系，客户可以增强与 Cloudflare Email Security 和零信任的集成</title>
+      <link>https://blog.cloudflare.com/customers-get-increased-integration-with-cloudflare-email-security-and-zero-trust</link>
+      <description>【 This post explains how our integrations with CrowdStrike Falcon® Next-Gen SIEM allow customers to identify and investigate risky user behavior and analyze data combined with other log sources to uncover hidden threats. 】这篇文章解释了我们与 CrowdStrike Falcon® 下一代 SIEM 的集成如何帮助客户识别和调查有风险的用户行为，并结合其他日志源分析数据以发现隐藏的威胁。</description>
+      <pubDate>Wed, 11 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A global assessment of third-party connection tampering】对第三方连接篡改的全球评估</title>
-      <link>https://blog.cloudflare.com/connection-tampering</link>
-      <description>【 Cloudflare brings visibility to the practice of connection tampering as observed from our global network. 】Cloudflare 使我们能够了解从我们的全球网络观察到的连接篡改行为。</description>
-      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
+      <title>【A good day to trie-hard: saving compute 1% at a time】努力的一天：一次节省 1% 的计算量</title>
+      <link>https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time</link>
+      <description>【 Pingora handles 35M+ requests per second, so saving a few microseconds per request can translate to thousands of dollars saved on computing costs. In this post, we share how we freed up over 500 CPU cores by optimizing one function and announce trie-hard, the open source crate that we created to do it. 】Pingora 每秒处理超过 3500 万个请求，因此每个请求节省几微秒可以转化为节省数千美元的计算成本。在这篇文章中，我们分享了如何通过优化一项功能来释放 500 多个 CPU 核心，并宣布了 trie-hard，这是我们为此创建的开源包。</description>
+      <pubDate>Tue, 10 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs】Cloudflare Workers 上的更多 NPM 包：结合 polyfill 和本机代码来支持 Node.js API</title>
+      <link>https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code</link>
+      <description>【 Workers now supports more NPM packages and Node.js APIs using an overhauled hybrid compatibility layer. 】Workers 现在使用经过彻底修改的混合兼容性层支持更多 NPM 包和 Node.js API。</description>
+      <pubDate>Mon, 09 Sep 2024 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Cloudflare is helping domain owners with the upcoming Entrust CA distrust by Chrome and Mozilla】Cloudflare 如何帮助域名所有者应对 Chrome 和 Mozilla 即将推出的 Entrust CA 不信任问题</title>
+      <link>https://blog.cloudflare.com/how-cloudflare-is-helping-domain-owners-with-the-upcoming-entrust-ca</link>
+      <description>【 Chrome and Mozilla will stop trusting Entrust’s public TLS certificates issued after November 2024 due to concerns about Entrust’s compliance with security standards. In response, Entrust is partnering with SSL.com to continue providing trusted certificates. Cloudflare will support SSL.com as a CA, simplifying certificate management for customers using Entrust by automating issuance and renewals. 】由于担心 Entrust 遵守安全标准，Chrome 和 Mozilla 将停止信任 Entrust 在 2024 年 11 月之后颁发的公共 TLS 证书。作为回应，Entrust 正在与 SSL.com 合作，继续提供可信证书。 Cloudflare 将支持 SSL.com 作为 CA，通过自动颁发和续订来简化使用 Entrust 的客户的证书管理。</description>
+      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Making progress on routing security: the new White House roadmap】在路由安全方面取得进展：新的白宫路线图</title>
@@ -34,28 +46,16 @@
       <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A good day to trie-hard: saving compute 1% at a time】努力的一天：一次节省 1% 的计算量</title>
-      <link>https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time</link>
-      <description>【 Pingora handles 35M+ requests per second, so saving a few microseconds per request can translate to thousands of dollars saved on computing costs. In this post, we share how we freed up over 500 CPU cores by optimizing one function and announce trie-hard, the open source crate that we created to do it. 】Pingora 每秒处理超过 3500 万个请求，因此每个请求节省几微秒可以转化为节省数千美元的计算成本。在这篇文章中，我们分享了如何通过优化一项功能来释放 500 多个 CPU 核心，并宣布了 trie-hard，这是我们为此创建的开源包。</description>
-      <pubDate>Tue, 10 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Bringing insights into TCP resets and timeouts to Cloudflare Radar】将 TCP 重置和超时的见解引入 Cloudflare Radar</title>
+      <link>https://blog.cloudflare.com/tcp-resets-timeouts</link>
+      <description>【 New TCP resets and timeouts dataset on Cloudflare Radar surfaces connection tampering, scanning, DoS attacks, and more. 】Cloudflare Radar 上的新 TCP 重置和超时数据集揭示了连接篡改、扫描、DoS 攻击等。</description>
+      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customers get increased integration with Cloudflare Email Security and Zero Trust through expanded partnership with CrowdStrike】通过与 CrowdStrike 扩大合作伙伴关系，客户可以增强与 Cloudflare Email Security 和零信任的集成</title>
-      <link>https://blog.cloudflare.com/customers-get-increased-integration-with-cloudflare-email-security-and-zero-trust</link>
-      <description>【 This post explains how our integrations with CrowdStrike Falcon® Next-Gen SIEM allow customers to identify and investigate risky user behavior and analyze data combined with other log sources to uncover hidden threats. 】这篇文章解释了我们与 CrowdStrike Falcon® 下一代 SIEM 的集成如何帮助客户识别和调查有风险的用户行为，并结合其他日志源分析数据以发现隐藏的威胁。</description>
-      <pubDate>Wed, 11 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs】Cloudflare Workers 上的更多 NPM 包：结合 polyfill 和本机代码来支持 Node.js API</title>
-      <link>https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code</link>
-      <description>【 Workers now supports more NPM packages and Node.js APIs using an overhauled hybrid compatibility layer. 】Workers 现在使用经过彻底修改的混合兼容性层支持更多 NPM 包和 Node.js API。</description>
-      <pubDate>Mon, 09 Sep 2024 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go wild: Wildcard support in Rules and a new open-source wildcard crate】疯狂：规则中的通配符支持和新的开源通配符箱</title>
-      <link>https://blog.cloudflare.com/wildcard-rules</link>
-      <description>【 We’re excited to announce wildcard support across our Ruleset Engine-based products and our open-source wildcard crate in Rust. Configuring rules has never been easier, with powerful pattern matching enabling simple and flexible URL redirects and beyond for users on all plans. 】我们很高兴地宣布我们基于规则集引擎的产品和 Rust 中的开源通配符箱支持通配符。配置规则从未如此简单，强大的模式匹配可为所有计划的用户提供简单灵活的 URL 重定向及其他功能。</description>
-      <pubDate>Thu, 22 Aug 2024 14:00:00 +0000</pubDate>
+      <title>【A global assessment of third-party connection tampering】对第三方连接篡改的全球评估</title>
+      <link>https://blog.cloudflare.com/connection-tampering</link>
+      <description>【 Cloudflare brings visibility to the practice of connection tampering as observed from our global network. 】Cloudflare 使我们能够了解从我们的全球网络观察到的连接篡改行为。</description>
+      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Exploring Internet and security trends during the 2024 U.S. Democratic National Convention】探索 2024 年美国民主党全国代表大会期间的互联网和安全趋势</title>
