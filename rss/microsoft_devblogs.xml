@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【How can I check that all the changes in a git branch have been cherry-picked or rebased into its upstream branch?】如何检查 git 分支中的所有更改是否已被精心挑选或重新调整到其上游分支中？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240920-00/?p=110287</link>
-      <description>【You can pretend to merge it and see if anything happens.】你可以假装合并它，看看是否会发生什么。</description>
-      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the new Python Data Science Extension Pack for VS Code】宣布推出适用于 VS Code 的新 Python 数据科学扩展包</title>
-      <link>https://devblogs.microsoft.com/python/announcing-the-new-python-data-science-extension-pack-for-vs-code</link>
-      <description>【We&amp;#8217;re thrilled to announce the launch of the new Python Data Science Extension Pack for Visual Studio Code! This powerful pack brings together some of the most popular and essential VS Code extensions, making it your one-stop shop for all things data science in Python. What&amp;#8217;s Inside? Our extension pack is designed to streamline your data [&amp;hellip;]】我们很高兴地宣布推出适用于 Visual Studio Code 的新 Python 数据科学扩展包！这个功能强大的包汇集了一些最流行和最重要的 VS Code 扩展，使其成为您使用 Python 进行数据科学的一站式商店。里面有什么？我们的扩展包旨在简化您的数据[...]</description>
-      <pubDate>Wed, 18 Sep 2024 23:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Autogen RAG】Autogen RAG</title>
-      <link>https://devblogs.microsoft.com/premier-developer/autogen-rag</link>
-      <description>【Linkai Yu explores the retrieval-augemented generation pattern with Azure OpenAI Assistants API. The Retrieval-Augmented Generation (RAG) pattern is the standard for integrating ground AI with local data. One powerful way to implement RAG is through the function call or tool call feature in the Function Call API. When examining the samples provided by the Azure [&amp;hellip;]】Linkai Yu 使用 Azure OpenAI Assistants API 探索检索增强生成模式。检索增强生成（RAG）模式是将地面人工智能与本地数据集成的标准。实现 RAG 的一种强大方法是通过函数调用 API 中的函数调用或工具调用功能。在检查 Azure 提供的样本时 [...]</description>
-      <pubDate>Fri, 20 Sep 2024 07:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Change controls】Microsoft 365 认证控制焦点：变更控制</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-change-controls</link>
-      <description>【Read how Microsoft 365 Certification validates change controls are in place for your app.】了解 Microsoft 365 认证如何验证您的应用的变更控制是否到位。</description>
-      <pubDate>Thu, 19 Sep 2024 14:00:29 +0000</pubDate>
+      <title>【DirectX Adopting SPIR-V as the Interchange Format of the Future】DirectX 采用 SPIR-V 作为未来的交换格式</title>
+      <link>https://devblogs.microsoft.com/directx/directx-adopting-spir-v</link>
+      <description>【Today the Direct3D and HLSL teams are excited to share some insight into the next big step for GPU programmability. Once Shader Model 7 is released, DirectX 12 will accept shaders compiled to SPIR-V™. The HLSL team is committed to open development processes and collaborating with The Khronos® Group and LLVM Project. We’re sharing this [&amp;hellip;]】今天，Direct3D 和 HLSL 团队很高兴能够分享一些有关 GPU 可编程性下一步重大进展的见解。 Shader Model 7 发布后，DirectX 12 将接受编译为 SPIR-V™ 的着色器。 HLSL 团队致力于开放开发流程并与 Khronos® Group 和 LLVM 项目合作。我们正在分享这个[…]</description>
+      <pubDate>Thu, 19 Sep 2024 18:13:22 +0000</pubDate>
     </item>
     <item>
       <title>【My window has the WS_EX_NOACTIVATE extended style, but it got activated anyway】我的窗口具有 WS_EX_NOACTIVATE 扩展样式，但它还是被激活了</title>
@@ -34,16 +16,16 @@
       <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Multi-Project Launch Configuration】多项目启动配置</title>
-      <link>https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration</link>
-      <description>【Are you tired of the hassle of manually configuring your development environment every time you want to launch multiple projects? We&amp;#8217;ve heard your feedback and are thrilled to announce a feature in Visual Studio that simplifies your workflow. The Multi-Project Launch Configuration feature in Visual Studio allows developers to set up and save profiles for [&amp;hellip;]】您是否厌倦了每次要启动多个项目时手动配置开发环境的麻烦？我们已听到您的反馈，并很高兴地宣布 Visual Studio 中的一项功能可以简化您的工作流程。 Visual Studio 中的多项目启动配置功能允许开发人员设置和保存配置文件 [...]</description>
-      <pubDate>Wed, 18 Sep 2024 16:08:38 +0000</pubDate>
+      <title>【How can I check that all the changes in a git branch have been cherry-picked or rebased into its upstream branch?】如何检查 git 分支中的所有更改是否已被精心挑选或重新调整到其上游分支中？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240920-00/?p=110287</link>
+      <description>【You can pretend to merge it and see if anything happens.】你可以假装合并它，看看是否会发生什么。</description>
+      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【DirectX Adopting SPIR-V as the Interchange Format of the Future】DirectX 采用 SPIR-V 作为未来的交换格式</title>
-      <link>https://devblogs.microsoft.com/directx/directx-adopting-spir-v</link>
-      <description>【Today the Direct3D and HLSL teams are excited to share some insight into the next big step for GPU programmability. Once Shader Model 7 is released, DirectX 12 will accept shaders compiled to SPIR-V™. The HLSL team is committed to open development processes and collaborating with The Khronos® Group and LLVM Project. We’re sharing this [&amp;hellip;]】今天，Direct3D 和 HLSL 团队很高兴能够分享一些有关 GPU 可编程性下一步重大进展的见解。 Shader Model 7 发布后，DirectX 12 将接受编译为 SPIR-V™ 的着色器。 HLSL 团队致力于开放开发流程并与 Khronos® Group 和 LLVM 项目合作。我们正在分享这个[…]</description>
-      <pubDate>Thu, 19 Sep 2024 18:13:22 +0000</pubDate>
+      <title>【More on the mysterious [default_interface] attribute in Windows Runtime classes】有关 Windows 运行时类中神秘的 [default_interface] 属性的更多信息</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240918-00/?p=110279</link>
+      <description>【Forcing you to make a choice.】强迫你做出选择。</description>
+      <pubDate>Wed, 18 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Improving GitHub Copilot Completions in Visual Studio for C# Developers】为 C# 开发人员改进 Visual Studio 中的 GitHub Copilot 完成情况</title>
@@ -52,10 +34,28 @@
       <pubDate>Wed, 18 Sep 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【More on the mysterious [default_interface] attribute in Windows Runtime classes】有关 Windows 运行时类中神秘的 [default_interface] 属性的更多信息</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240918-00/?p=110279</link>
-      <description>【Forcing you to make a choice.】强迫你做出选择。</description>
-      <pubDate>Wed, 18 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Change controls】Microsoft 365 认证控制焦点：变更控制</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-change-controls</link>
+      <description>【Read how Microsoft 365 Certification validates change controls are in place for your app.】了解 Microsoft 365 认证如何验证您的应用的变更控制是否到位。</description>
+      <pubDate>Thu, 19 Sep 2024 14:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Autogen RAG】Autogen RAG</title>
+      <link>https://devblogs.microsoft.com/premier-developer/autogen-rag</link>
+      <description>【Linkai Yu explores the retrieval-augemented generation pattern with Azure OpenAI Assistants API. The Retrieval-Augmented Generation (RAG) pattern is the standard for integrating ground AI with local data. One powerful way to implement RAG is through the function call or tool call feature in the Function Call API. When examining the samples provided by the Azure [&amp;hellip;]】Linkai Yu 使用 Azure OpenAI Assistants API 探索检索增强生成模式。检索增强生成（RAG）模式是将地面人工智能与本地数据集成的标准。实现 RAG 的一种强大方法是通过函数调用 API 中的函数调用或工具调用功能。在检查 Azure 提供的样本时 [...]</description>
+      <pubDate>Fri, 20 Sep 2024 07:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multi-Project Launch Configuration】多项目启动配置</title>
+      <link>https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration</link>
+      <description>【Are you tired of the hassle of manually configuring your development environment every time you want to launch multiple projects? We&amp;#8217;ve heard your feedback and are thrilled to announce a feature in Visual Studio that simplifies your workflow. The Multi-Project Launch Configuration feature in Visual Studio allows developers to set up and save profiles for [&amp;hellip;]】您是否厌倦了每次要启动多个项目时手动配置开发环境的麻烦？我们已听到您的反馈，并很高兴地宣布 Visual Studio 中的一项功能可以简化您的工作流程。 Visual Studio 中的多项目启动配置功能允许开发人员设置和保存配置文件 [...]</description>
+      <pubDate>Wed, 18 Sep 2024 16:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the new Python Data Science Extension Pack for VS Code】宣布推出适用于 VS Code 的新 Python 数据科学扩展包</title>
+      <link>https://devblogs.microsoft.com/python/announcing-the-new-python-data-science-extension-pack-for-vs-code</link>
+      <description>【We&amp;#8217;re thrilled to announce the launch of the new Python Data Science Extension Pack for Visual Studio Code! This powerful pack brings together some of the most popular and essential VS Code extensions, making it your one-stop shop for all things data science in Python. What&amp;#8217;s Inside? Our extension pack is designed to streamline your data [&amp;hellip;]】我们很高兴地宣布推出适用于 Visual Studio Code 的新 Python 数据科学扩展包！这个功能强大的包汇集了一些最流行和最重要的 VS Code 扩展，使其成为您使用 Python 进行数据科学的一站式商店。里面有什么？我们的扩展包旨在简化您的数据[...]</description>
+      <pubDate>Wed, 18 Sep 2024 23:53:26 +0000</pubDate>
     </item>
     <item>
       <title>【Join the .NET Smart Components ecosystem】加入.NET智能组件生态系统</title>
