@@ -10,16 +10,22 @@
       <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customers get increased integration with Cloudflare Email Security and Zero Trust through expanded partnership with CrowdStrike】通过与 CrowdStrike 扩大合作伙伴关系，客户可以增强与 Cloudflare Email Security 和零信任的集成</title>
-      <link>https://blog.cloudflare.com/customers-get-increased-integration-with-cloudflare-email-security-and-zero-trust</link>
-      <description>【 This post explains how our integrations with CrowdStrike Falcon® Next-Gen SIEM allow customers to identify and investigate risky user behavior and analyze data combined with other log sources to uncover hidden threats. 】这篇文章解释了我们与 CrowdStrike Falcon® 下一代 SIEM 的集成如何帮助客户识别和调查有风险的用户行为，并结合其他日志源分析数据以发现隐藏的威胁。</description>
-      <pubDate>Wed, 11 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Making zone management more efficient with batch DNS record updates】通过批量 DNS 记录更新使区域管理更加高效</title>
+      <link>https://blog.cloudflare.com/batched-dns-changes</link>
+      <description>【 In response to customer demand, we now support the ability to DELETE, PATCH, PUT and POST multiple DNS records in a single API call, enabling more efficient and reliable zone management.&#xA; 】为了满足客户需求，我们现在支持在单个 API 调用中删除、修补、放置和发布多个 DNS 记录的功能，从而实现更高效、更可靠的区域管理。</description>
+      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Protecting APIs from abuse using sequence learning and variable order Markov chains】使用序列学习和可变阶马尔可夫链保护 API 免遭滥用</title>
-      <link>https://blog.cloudflare.com/protecting-apis-from-abuse-using-sequence-learning-and-variable-order-markov</link>
-      <description>【 At Cloudflare, we protect customer APIs from abuse. This is no easy task, as abusive traffic can take different forms, from giant DDoS attacks to low-and-slow credential stuffing campaigns. We now address this challenge in a new way: by looking outside typical volumetric measures and using statistical machine learning to find important API client request sequences. 】在 Cloudflare，我们保护客户 API 免遭滥用。这不是一件容易的事，因为滥用流量可以采取不同的形式，从巨大的 DDoS 攻击到低而缓慢的撞库活动。我们现在以一种新的方式应对这一挑战：通过观察典型的体积测量并使用统计机器学习来查找重要的 API 客户端请求序列。</description>
-      <pubDate>Thu, 12 Sep 2024 14:15:00 +0000</pubDate>
+      <title>【Network performance update: Birthday Week 2024】网络性能更新：2024 年生日周</title>
+      <link>https://blog.cloudflare.com/network-performance-update-birthday-week-2024</link>
+      <description>【 Since June 2021, we’ve been measuring and ranking our network performance against the top global networks in the world. We use this data to improve our performance, and to share the results of those initiatives. &#xA;&#xA;In this post, we’re going to share with you how network performance has changed since our last post in March 2024, and discuss the tools and processes we are using to assess network performance. &#xA; 】自 2021 年 6 月以来，我们一直在根据世界顶级全球网络来衡量和排名我们的网络性能。我们使用这些数据来提高我们的绩效，并分享这些举措的成果。 &#xA;&#xA;在这篇文章中，我们将与您分享自 2024 年 3 月上一篇文章以来网络性能发生的变化，并讨论我们用于评估网络性能的工具和流程。</description>
+      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Start auditing and controlling the AI models accessing your content】开始审核和控制访问您内容的 AI 模型</title>
+      <link>https://blog.cloudflare.com/cloudflare-ai-audit-control-ai-content-crawlers</link>
+      <description>【 Cloudflare customers on any plan can now audit and control how AI models access the content on their site.&#xA; 】任何计划的 Cloudflare 客户现在都可以审核和控制 AI 模型如何访问其网站上的内容。</description>
+      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How Cloudflare is helping domain owners with the upcoming Entrust CA distrust by Chrome and Mozilla】Cloudflare 如何帮助域名所有者应对 Chrome 和 Mozilla 即将推出的 Entrust CA 不信任问题</title>
@@ -28,16 +34,10 @@
       <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Bringing insights into TCP resets and timeouts to Cloudflare Radar】将 TCP 重置和超时的见解引入 Cloudflare Radar</title>
-      <link>https://blog.cloudflare.com/tcp-resets-timeouts</link>
-      <description>【 New TCP resets and timeouts dataset on Cloudflare Radar surfaces connection tampering, scanning, DoS attacks, and more. 】Cloudflare Radar 上的新 TCP 重置和超时数据集揭示了连接篡改、扫描、DoS 攻击等。</description>
-      <pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare incident on September 17, 2024】2024 年 9 月 17 日的 Cloudflare 事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-september-17-2024</link>
-      <description>【 On September 17, 2024, during planned routine maintenance, Cloudflare stopped announcing 15 IPv4 prefixes, affecting some Business plan websites for approximately one hour. During this time, IPv4 traffic for these customers would not have reached Cloudflare and users attempting to connect to websites using addresses within those prefixes would have received errors.  】2024 年 9 月 17 日，在计划的例行维护期间，Cloudflare 停止公布 15 个 IPv4 前缀，影响了一些商业计划网站约一小时。在此期间，这些客户的 IPv4 流量不会到达 Cloudflare，并且尝试使用这些前缀内的地址连接到网站的用户将会收到错误。</description>
-      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Cloudflare’s 2024 Annual Founders’ Letter】Cloudflare 2024 年度创始人致辞</title>
+      <link>https://blog.cloudflare.com/cloudflare-2024-annual-founders-letter</link>
+      <description>【 Cloudflare launched on September 27, 2010. This week we celebrate our fourteenth birthday 】Cloudflare 于 2010 年 9 月 27 日推出。本周我们庆祝我们的十四岁生日</description>
+      <pubDate>Sun, 22 Sep 2024 15:51:00 +0000</pubDate>
     </item>
     <item>
       <title>【Removing uncertainty through &#34;what-if&#34; capacity planning】通过“假设”容量规划消除不确定性</title>
@@ -46,22 +46,22 @@
       <pubDate>Fri, 20 Sep 2024 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>【More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs】Cloudflare Workers 上的更多 NPM 包：结合 polyfill 和本机代码来支持 Node.js API</title>
-      <link>https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code</link>
-      <description>【 Workers now supports more NPM packages and Node.js APIs using an overhauled hybrid compatibility layer. 】Workers 现在使用经过彻底修改的混合兼容性层支持更多 NPM 包和 Node.js API。</description>
-      <pubDate>Mon, 09 Sep 2024 21:00:00 +0000</pubDate>
+      <title>【Cloudflare incident on September 17, 2024】2024 年 9 月 17 日的 Cloudflare 事件</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-september-17-2024</link>
+      <description>【 On September 17, 2024, during planned routine maintenance, Cloudflare stopped announcing 15 IPv4 prefixes, affecting some Business plan websites for approximately one hour. During this time, IPv4 traffic for these customers would not have reached Cloudflare and users attempting to connect to websites using addresses within those prefixes would have received errors.  】2024 年 9 月 17 日，在计划的例行维护期间，Cloudflare 停止公布 15 个 IPv4 前缀，影响了一些商业计划网站约一小时。在此期间，这些客户的 IPv4 流量不会到达 Cloudflare，并且尝试使用这些前缀内的地址连接到网站的用户将会收到错误。</description>
+      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare’s 2024 Annual Founders’ Letter】Cloudflare 2024 年度创始人致辞</title>
-      <link>https://blog.cloudflare.com/cloudflare-2024-annual-founders-letter</link>
-      <description>【 Cloudflare launched on September 27, 2010. This week we celebrate our fourteenth birthday 】Cloudflare 于 2010 年 9 月 27 日推出。本周我们庆祝我们的十四岁生日</description>
-      <pubDate>Sun, 22 Sep 2024 15:51:00 +0000</pubDate>
+      <title>【Protecting APIs from abuse using sequence learning and variable order Markov chains】使用序列学习和可变阶马尔可夫链保护 API 免遭滥用</title>
+      <link>https://blog.cloudflare.com/protecting-apis-from-abuse-using-sequence-learning-and-variable-order-markov</link>
+      <description>【 At Cloudflare, we protect customer APIs from abuse. This is no easy task, as abusive traffic can take different forms, from giant DDoS attacks to low-and-slow credential stuffing campaigns. We now address this challenge in a new way: by looking outside typical volumetric measures and using statistical machine learning to find important API client request sequences. 】在 Cloudflare，我们保护客户 API 免遭滥用。这不是一件容易的事，因为滥用流量可以采取不同的形式，从巨大的 DDoS 攻击到低而缓慢的撞库活动。我们现在以一种新的方式应对这一挑战：通过观察典型的体积测量并使用统计机器学习来查找重要的 API 客户端请求序列。</description>
+      <pubDate>Thu, 12 Sep 2024 14:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A good day to trie-hard: saving compute 1% at a time】努力的一天：一次节省 1% 的计算量</title>
-      <link>https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time</link>
-      <description>【 Pingora handles 35M+ requests per second, so saving a few microseconds per request can translate to thousands of dollars saved on computing costs. In this post, we share how we freed up over 500 CPU cores by optimizing one function and announce trie-hard, the open source crate that we created to do it. 】Pingora 每秒处理超过 3500 万个请求，因此每个请求节省几微秒可以转化为节省数千美元的计算成本。在这篇文章中，我们分享了如何通过优化一项功能来释放 500 多个 CPU 核心，并宣布了 trie-hard，这是我们为此创建的开源包。</description>
-      <pubDate>Tue, 10 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Introducing Ephemeral IDs: a new tool for fraud detection】推出临时 ID：欺诈检测的新工具</title>
+      <link>https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection</link>
+      <description>【 As the Internet evolves, Turnstile does too. Introducing Ephemeral IDs — a new dimension in detecting fraudulent activity, bot or human, that links behavior to a specific client instead of an IP address. This makes Turnstile better for everyone, everywhere. &#xA; 】随着互联网的发展，Turnstile 也在不断发展。引入临时 ID — 检测欺诈活动（机器人或人为）的新维度，它将行为链接到特定客户端而不是 IP 地址。这使得 Turnstile 对世界各地的每个人来说都更好。</description>
+      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

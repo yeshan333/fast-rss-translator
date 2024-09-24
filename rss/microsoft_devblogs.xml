@@ -4,34 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【DirectX Adopting SPIR-V as the Interchange Format of the Future】DirectX 采用 SPIR-V 作为未来的交换格式</title>
-      <link>https://devblogs.microsoft.com/directx/directx-adopting-spir-v</link>
-      <description>【Today the Direct3D and HLSL teams are excited to share some insight into the next big step for GPU programmability. Once Shader Model 7 is released, DirectX 12 will accept shaders compiled to SPIR-V™. The HLSL team is committed to open development processes and collaborating with The Khronos® Group and LLVM Project. We’re sharing this [&amp;hellip;]】今天，Direct3D 和 HLSL 团队很高兴能够分享一些有关 GPU 可编程性下一步重大进展的见解。 Shader Model 7 发布后，DirectX 12 将接受编译为 SPIR-V™ 的着色器。 HLSL 团队致力于开放开发流程并与 Khronos® Group 和 LLVM 项目合作。我们正在分享这个[…]</description>
-      <pubDate>Thu, 19 Sep 2024 18:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【My window has the WS_EX_NOACTIVATE extended style, but it got activated anyway】我的窗口具有 WS_EX_NOACTIVATE 扩展样式，但它还是被激活了</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240919-00/?p=110283</link>
-      <description>【Well, at least it wasn&#39;t activated by a click.】好吧，至少它不是通过点击激活的。</description>
-      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【How can I check that all the changes in a git branch have been cherry-picked or rebased into its upstream branch?】如何检查 git 分支中的所有更改是否已被精心挑选或重新调整到其上游分支中？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240920-00/?p=110287</link>
       <description>【You can pretend to merge it and see if anything happens.】你可以假装合并它，看看是否会发生什么。</description>
       <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【More on the mysterious [default_interface] attribute in Windows Runtime classes】有关 Windows 运行时类中神秘的 [default_interface] 属性的更多信息</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240918-00/?p=110279</link>
-      <description>【Forcing you to make a choice.】强迫你做出选择。</description>
-      <pubDate>Wed, 18 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Going beyond the empty set: Embracing the power of other empty things】超越空集：拥抱其他空事物的力量</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240923-00/?p=110297</link>
+      <description>【Just because there&#39;s nothing in it doesn&#39;t mean it&#39;s not valid.】仅仅因为其中没有任何内容并不意味着它无效。</description>
+      <pubDate>Mon, 23 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Improving GitHub Copilot Completions in Visual Studio for C# Developers】为 C# 开发人员改进 Visual Studio 中的 GitHub Copilot 完成情况</title>
-      <link>https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers</link>
-      <description>【Learn about the latest GitHub Copilot improvements for C# developers】了解针对 C# 开发人员的最新 GitHub Copilot 改进</description>
-      <pubDate>Wed, 18 Sep 2024 17:05:00 +0000</pubDate>
+      <title>【DirectX Adopting SPIR-V as the Interchange Format of the Future】DirectX 采用 SPIR-V 作为未来的交换格式</title>
+      <link>https://devblogs.microsoft.com/directx/directx-adopting-spir-v</link>
+      <description>【Today the Direct3D and HLSL teams are excited to share some insight into the next big step for GPU programmability. Once Shader Model 7 is released, DirectX 12 will accept shaders compiled to SPIR-V™. The HLSL team is committed to open development processes and collaborating with The Khronos® Group and LLVM Project. We’re sharing this [&amp;hellip;]】今天，Direct3D 和 HLSL 团队很高兴能够分享一些有关 GPU 可编程性下一步重大进展的见解。 Shader Model 7 发布后，DirectX 12 将接受编译为 SPIR-V™ 的着色器。 HLSL 团队致力于开放开发流程并与 Khronos® Group 和 LLVM 项目合作。我们正在分享这个[…]</description>
+      <pubDate>Thu, 19 Sep 2024 18:13:22 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft 365 Certification control spotlight: Change controls】Microsoft 365 认证控制焦点：变更控制</title>
@@ -40,28 +28,40 @@
       <pubDate>Thu, 19 Sep 2024 14:00:29 +0000</pubDate>
     </item>
     <item>
+      <title>【Join the .NET Smart Components ecosystem】加入.NET智能组件生态系统</title>
+      <link>https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem</link>
+      <description>【The .NET Smart Components are now open source to help library authors build and share easy-to-use AI-powered features, including new AI-powered components from Telerik, DevExpress, and Syncfusion.】.NET 智能组件现已开源，可帮助库作者构建和共享易于使用的 AI 驱动功能，包括来自 Telerik、DevExpress 和 Syncfusion 的新 AI 驱动组件。</description>
+      <pubDate>Thu, 19 Sep 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Level up your collaborations with the pull request experience in Visual Studio】通过 Visual Studio 中的拉取请求体验提升您的协作水平</title>
+      <link>https://devblogs.microsoft.com/visualstudio/level-up-your-collaborations-with-the-pull-request-experience-in-visual-studio</link>
+      <description>【One of our main goals is to help you and your team collaborate more effectively and efficiently on your software projects. That&amp;#8217;s why we are constantly improving our Version Control features, especially the ones related to the pull request workflow. Starting in Visual Studio version 17.11, you can enjoy a smoother and smarter pull request [&amp;hellip;]】我们的主要目标之一是帮助您和您的团队在软件项目上更有效地协作。这就是为什么我们不断改进版本控制功能，尤其是与拉取请求工作流程相关的功能。从 Visual Studio 版本 17.11 开始，您可以享受更流畅、更智能的拉取请求 [...]</description>
+      <pubDate>Mon, 23 Sep 2024 10:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【My window has the WS_EX_NOACTIVATE extended style, but it got activated anyway】我的窗口具有 WS_EX_NOACTIVATE 扩展样式，但它还是被激活了</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240919-00/?p=110283</link>
+      <description>【Well, at least it wasn&#39;t activated by a click.】好吧，至少它不是通过点击激活的。</description>
+      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Autogen RAG】Autogen RAG</title>
       <link>https://devblogs.microsoft.com/premier-developer/autogen-rag</link>
       <description>【Linkai Yu explores the retrieval-augemented generation pattern with Azure OpenAI Assistants API. The Retrieval-Augmented Generation (RAG) pattern is the standard for integrating ground AI with local data. One powerful way to implement RAG is through the function call or tool call feature in the Function Call API. When examining the samples provided by the Azure [&amp;hellip;]】Linkai Yu 使用 Azure OpenAI Assistants API 探索检索增强生成模式。检索增强生成（RAG）模式是将地面人工智能与本地数据集成的标准。实现 RAG 的一种强大方法是通过函数调用 API 中的函数调用或工具调用功能。在检查 Azure 提供的样本时 [...]</description>
       <pubDate>Fri, 20 Sep 2024 07:00:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Multi-Project Launch Configuration】多项目启动配置</title>
-      <link>https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration</link>
-      <description>【Are you tired of the hassle of manually configuring your development environment every time you want to launch multiple projects? We&amp;#8217;ve heard your feedback and are thrilled to announce a feature in Visual Studio that simplifies your workflow. The Multi-Project Launch Configuration feature in Visual Studio allows developers to set up and save profiles for [&amp;hellip;]】您是否厌倦了每次要启动多个项目时手动配置开发环境的麻烦？我们已听到您的反馈，并很高兴地宣布 Visual Studio 中的一项功能可以简化您的工作流程。 Visual Studio 中的多项目启动配置功能允许开发人员设置和保存配置文件 [...]</description>
-      <pubDate>Wed, 18 Sep 2024 16:08:38 +0000</pubDate>
+      <title>【Microsoft Dev Box regional availability】Microsoft Dev Box 区域可用性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-regional-availability</link>
+      <description>【We&amp;#8217;ve received some questions recently about where Microsoft Dev Box is available. While you can always check the latest list at https://aka.ms/devbox/regions, for a quick reference, here’s the current regional availability for Dev Box: Dev Box regions West US 2 West Europe Central India West US 3 North Europe Southeast Asia Central US UK South [&amp;hellip;]】我们最近收到了一些有关 Microsoft Dev Box 在哪里可用的问题。虽然您可以随时在 https://aka.ms/devbox/regions 上查看最新列表，但为了快速参考，以下是 Dev Box 的当前可用区域： Dev Box 区域 美国西部 2 西欧 印度中部 美国西部 3 北欧东南亚 中部 美国 英国南部 [...]</description>
+      <pubDate>Tue, 24 Sep 2024 00:22:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the new Python Data Science Extension Pack for VS Code】宣布推出适用于 VS Code 的新 Python 数据科学扩展包</title>
-      <link>https://devblogs.microsoft.com/python/announcing-the-new-python-data-science-extension-pack-for-vs-code</link>
-      <description>【We&amp;#8217;re thrilled to announce the launch of the new Python Data Science Extension Pack for Visual Studio Code! This powerful pack brings together some of the most popular and essential VS Code extensions, making it your one-stop shop for all things data science in Python. What&amp;#8217;s Inside? Our extension pack is designed to streamline your data [&amp;hellip;]】我们很高兴地宣布推出适用于 Visual Studio Code 的新 Python 数据科学扩展包！这个功能强大的包汇集了一些最流行和最重要的 VS Code 扩展，使其成为您使用 Python 进行数据科学的一站式商店。里面有什么？我们的扩展包旨在简化您的数据[...]</description>
-      <pubDate>Wed, 18 Sep 2024 23:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Join the .NET Smart Components ecosystem】加入.NET智能组件生态系统</title>
-      <link>https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem</link>
-      <description>【The .NET Smart Components are now open source to help library authors build and share easy-to-use AI-powered features, including new AI-powered components from Telerik, DevExpress, and Syncfusion.】.NET 智能组件现已开源，可帮助库作者构建和共享易于使用的 AI 驱动功能，包括来自 Telerik、DevExpress 和 Syncfusion 的新 AI 驱动组件。</description>
-      <pubDate>Thu, 19 Sep 2024 19:00:00 +0000</pubDate>
+      <title>【세계로 뻗어갑니다: “G3J Learn Semantic Kernel” 쇼 – 한국어로 배우는 Semantic Kernel!】走向世界：“G3J学习语义内核”节目——用韩语学习语义内核！</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/%ec%84%b8%ea%b3%84%eb%a1%9c-%eb%bb%97%ec%96%b4%ea%b0%91%eb%8b%88%eb%8b%a4-g3j-learn-semantic-kernel-%ec%87%bc-%ed%95%9c%ea%b5%ad%ec%96%b4%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-semantic-k</link>
+      <description>【세계로 뻗어갑니다: &amp;#8220;G3J Learn Semantic Kernel&amp;#8221; 쇼 – 한국어로 배우는 Semantic Kernel! 최근 빠르게 변화하는 기술 환경에서 개발자들은 지능형 애플리케이션을 구축하기 위한 최신 도구와 프레임워크를 지속적으로 탐색하고 있습니다. 이러한 요구에 맞춰 Microsoft는 자연어 처리와 데이터를 효과적으로 결합한 강력한 프레임워크, Semantic Kernel을 제공합니다. 저희는 최근 Let&amp;#8217;s Learn .NET 쇼를 통해 Microsoft Learn 모듈의 Semantic Kernel을 성공적으로 [&amp;hellip;]】走向世界：“G3J学习语义内核”节目——用韩语学习语义内核！在当今快速变化的技术环境中，开发人员不断探索用于构建智能应用程序的最新工具和框架。为了满足这些需求，微软提供了Semantic Kernel，一个强大的框架，可以有效地将自然语言处理和数据结合起来。我们最近通过 Let&#39;s Learn .NET 节目成功演示了 Microsoft Learn 模块的语义内核 [...] ]</description>
+      <pubDate>Mon, 23 Sep 2024 16:21:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

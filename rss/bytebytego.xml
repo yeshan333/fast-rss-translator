@@ -17,40 +17,10 @@
       <pubDate>Sat, 07 Sep 2024 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【Millions of Requests Per Hour: SoundCloud’s Microservices Evolution】每小时数百万个请求：SoundCloud 的微服务演变</title>
-      <link>https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds</link>
-      <description>【How to monitor containerized applications in Azure (Sponsored)】如何监控 Azure 中的容器化应用程序（赞助）</description>
-      <pubDate>Tue, 03 Sep 2024 15:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP129: The Ultimate Walkthrough of the Generative AI Landscape 】EP129：生成式人工智能领域的终极演练</title>
-      <link>https://blog.bytebytego.com/p/ep129-the-ultimate-walkthrough-of</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 14 Sep 2024 15:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Scaling the Data Layer】扩展数据层的速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-data</link>
-      <description>【The scalability of a system is heavily dependent on the data layer.】系统的可扩展性很大程度上取决于数据层。</description>
-      <pubDate>Thu, 05 Sep 2024 15:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP130: Design a System Like YouTube】EP130：设计一个像 YouTube 这样的系统</title>
-      <link>https://blog.bytebytego.com/p/ep130-design-a-system-like-youtube</link>
-      <description>【&amp;#9986;&amp;#65039;Cut your QA cycles down to minutes with QA Wolf (Sponsored)】✂️使用 QA Wolf（赞助）将您的 QA 周期缩短至几分钟</description>
-      <pubDate>Sat, 21 Sep 2024 15:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Warms Petabytes of Cache Data】Netflix 如何加热 PB 级缓存数据</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-warms-petabytes-of-cache</link>
-      <description>【Free tickets to P99 CONF &amp;#8212; 60+ low-latency engineering talks (Sponsored)】P99 CONF 的免费门票 — 60 多场低延迟工程讲座（赞助）</description>
-      <pubDate>Tue, 17 Sep 2024 15:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP127: 20 Popular Open Source Projects Started or Supported By Big Companies 】EP127：20 个由大公司发起或支持的流行开源项目</title>
-      <link>https://blog.bytebytego.com/p/ep127-20-popular-open-source-projects</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 31 Aug 2024 15:30:54 +0000</pubDate>
+      <title>【Infrastructure as Code】基础设施即代码</title>
+      <link>https://blog.bytebytego.com/p/infrastructure-as-code</link>
+      <description>【It is difficult to imagine modern businesses operating without a scalable process to provision and manage the infrastructure.】很难想象现代企业在没有可扩展的流程来配置和管理基础设施的情况下运营。</description>
+      <pubDate>Thu, 12 Sep 2024 15:30:10 +0000</pubDate>
     </item>
     <item>
       <title>【The Saga Pattern】传奇模式</title>
@@ -59,10 +29,40 @@
       <pubDate>Thu, 19 Sep 2024 15:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Infrastructure as Code】基础设施即代码</title>
-      <link>https://blog.bytebytego.com/p/infrastructure-as-code</link>
-      <description>【It is difficult to imagine modern businesses operating without a scalable process to provision and manage the infrastructure.】很难想象现代企业在没有可扩展的流程来配置和管理基础设施的情况下运营。</description>
-      <pubDate>Thu, 12 Sep 2024 15:30:10 +0000</pubDate>
+      <title>【EP129: The Ultimate Walkthrough of the Generative AI Landscape 】EP129：生成式人工智能领域的终极演练</title>
+      <link>https://blog.bytebytego.com/p/ep129-the-ultimate-walkthrough-of</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 14 Sep 2024 15:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Warms Petabytes of Cache Data】Netflix 如何加热 PB 级缓存数据</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-warms-petabytes-of-cache</link>
+      <description>【Free tickets to P99 CONF &amp;#8212; 60+ low-latency engineering talks (Sponsored)】P99 CONF 的免费门票 — 60 多场低延迟工程讲座（赞助）</description>
+      <pubDate>Tue, 17 Sep 2024 15:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course on Scaling the Data Layer】扩展数据层的速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-scaling-the-data</link>
+      <description>【The scalability of a system is heavily dependent on the data layer.】系统的可扩展性很大程度上取决于数据层。</description>
+      <pubDate>Thu, 05 Sep 2024 15:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP127: 20 Popular Open Source Projects Started or Supported By Big Companies 】EP127：20 个由大公司发起或支持的流行开源项目</title>
+      <link>https://blog.bytebytego.com/p/ep127-20-popular-open-source-projects</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 31 Aug 2024 15:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP130: Design a System Like YouTube】EP130：设计一个像 YouTube 这样的系统</title>
+      <link>https://blog.bytebytego.com/p/ep130-design-a-system-like-youtube</link>
+      <description>【&amp;#9986;&amp;#65039;Cut your QA cycles down to minutes with QA Wolf (Sponsored)】✂️使用 QA Wolf（赞助）将您的 QA 周期缩短至几分钟</description>
+      <pubDate>Sat, 21 Sep 2024 15:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Millions of Requests Per Hour: SoundCloud’s Microservices Evolution】每小时数百万个请求：SoundCloud 的微服务演变</title>
+      <link>https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds</link>
+      <description>【How to monitor containerized applications in Azure (Sponsored)】如何监控 Azure 中的容器化应用程序（赞助）</description>
+      <pubDate>Tue, 03 Sep 2024 15:31:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
