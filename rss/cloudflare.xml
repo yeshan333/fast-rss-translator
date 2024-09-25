@@ -4,15 +4,27 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【How the Harris-Trump US presidential debate influenced Internet traffic】哈里斯与特朗普美国总统辩论如何影响互联网流量</title>
-      <link>https://blog.cloudflare.com/how-the-harris-trump-us-presidential-debate-influenced-internet-traffic</link>
-      <description>【 See how the first 2024 US presidential debate between Kamala Harris and Donald Trump influenced Internet traffic patterns compared to the Biden-Trump debate. We also review email trends and observed attack activity. 】了解卡马拉·哈里斯 (Kamala Harris) 和唐纳德·特朗普 (Donald Trump) 之间的 2024 年首场美国总统辩论与拜登 (Biden) 和特朗普 (Donald Trump) 的辩论相比如何影响互联网流量模式。我们还审查电子邮件趋势并观察攻击活动。</description>
-      <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
+      <title>【A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections】借助 Cloudflare 打造更安全的互联网：免费威胁情报、分析和新威胁检测</title>
+      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
+      <description>【 Today, we are taking some big steps forward in our mission to help build a better Internet. Cloudflare is giving everyone free access to 10+ different website and network security products and features. 】今天，我们正在朝着帮助建设更好的互联网的使命迈出一些重大一步。 Cloudflare 让每个人都可以免费访问 10 多个不同的网站和网络安全产品和功能。</description>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Making zone management more efficient with batch DNS record updates】通过批量 DNS 记录更新使区域管理更加高效</title>
-      <link>https://blog.cloudflare.com/batched-dns-changes</link>
-      <description>【 In response to customer demand, we now support the ability to DELETE, PATCH, PUT and POST multiple DNS records in a single API call, enabling more efficient and reliable zone management.&#xA; 】为了满足客户需求，我们现在支持在单个 API 调用中删除、修补、放置和发布多个 DNS 记录的功能，从而实现更高效、更可靠的区域管理。</description>
+      <title>【Removing uncertainty through &#34;what-if&#34; capacity planning】通过“假设”容量规划消除不确定性</title>
+      <link>https://blog.cloudflare.com/scenario-planner</link>
+      <description>【 Cloudflare’s Capacity Planning team discusses planning for “what-if” type scenarios, and how they’ve introduced a new “Scenario Planner” system to quickly model hypothetical future changes 】Cloudflare 的容量规划团队讨论了“假设”类型场景的规划，以及他们如何引入新的“场景规划器”系统来快速对假设的未来变化进行建模</description>
+      <pubDate>Fri, 20 Sep 2024 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare partners with Internet Service Providers and network equipment providers to deliver a safer browsing experience to millions of homes】Cloudflare 与互联网服务提供商和网络设备提供商合作，为数百万家庭提供更安全的浏览体验</title>
+      <link>https://blog.cloudflare.com/safer-resolver</link>
+      <description>【 Cloudflare is extending the use of our public DNS resolver through partnering with ISPs and network providers to deliver a safer browsing experience directly to families. Join us in protecting every Internet user from unsafe content with the click of a button, powered by 1.1.1.1 for Families. 】Cloudflare 通过与 ISP 和网络提供商合作，扩展了我们公共 DNS 解析器的使用范围，直接为家庭提供更安全的浏览体验。只需单击一下按钮，与我们一起保护每个互联网用户免受不安全内容的侵害，由 1.1.1.1 for Families 提供支持。</description>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Ephemeral IDs: a new tool for fraud detection】推出临时 ID：欺诈检测新工具</title>
+      <link>https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection</link>
+      <description>【 As the Internet evolves, Turnstile does too. Introducing Ephemeral IDs — a new dimension in detecting fraudulent activity, bot or human, that links behavior to a specific client instead of an IP address. This makes Turnstile better for everyone, everywhere. &#xA; 】随着互联网的发展，Turnstile 也在不断发展。引入临时 ID — 检测欺诈活动（机器人或人为）的新维度，它将行为链接到特定客户端而不是 IP 地址。这使得 Turnstile 对世界各地的每个人来说都更好。</description>
       <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -28,10 +40,10 @@
       <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Cloudflare is helping domain owners with the upcoming Entrust CA distrust by Chrome and Mozilla】Cloudflare 如何帮助域名所有者应对 Chrome 和 Mozilla 即将推出的 Entrust CA 不信任问题</title>
-      <link>https://blog.cloudflare.com/how-cloudflare-is-helping-domain-owners-with-the-upcoming-entrust-ca</link>
-      <description>【 Chrome and Mozilla will stop trusting Entrust’s public TLS certificates issued after November 2024 due to concerns about Entrust’s compliance with security standards. In response, Entrust is partnering with SSL.com to continue providing trusted certificates. Cloudflare will support SSL.com as a CA, simplifying certificate management for customers using Entrust by automating issuance and renewals. 】由于担心 Entrust 遵守安全标准，Chrome 和 Mozilla 将停止信任 Entrust 在 2024 年 11 月之后颁发的公共 TLS 证书。作为回应，Entrust 正在与 SSL.com 合作，继续提供可信证书。 Cloudflare 将支持 SSL.com 作为 CA，通过自动颁发和续订来简化使用 Entrust 的客户的证书管理。</description>
-      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Cloudflare helps verify the security of end-to-end encrypted messages by auditing key transparency for WhatsApp】Cloudflare 通过审核 WhatsApp 的密钥透明度来帮助验证端到端加密消息的安全性</title>
+      <link>https://blog.cloudflare.com/key-transparency</link>
+      <description>【 Cloudflare is now verifying WhatsApp’s Key Transparency audit proofs to ensure the security of end-to-end encrypted messaging conversations without having to manually check QR codes. We are publishing the results of the proof verification to https://dash.key-transparency.cloudflare.com for independent researchers and security experts to compare against WhatsApp’s. Cloudflare does not have access to underlying public key material or message metadata as part of this infrastructure. 】Cloudflare 目前正在验证 WhatsApp 的密钥透明度审核证明，以确保端到端加密消息对话的安全性，而无需手动检查二维码。我们将证明验证的结果发布到 https://dash.key-transparency.cloudflare.com，供独立研究人员和安全专家与 WhatsApp 进行比较。 Cloudflare 无法访问作为此基础设施一部分的底层公钥材料或消息元数据。</description>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare’s 2024 Annual Founders’ Letter】Cloudflare 2024 年度创始人致辞</title>
@@ -40,27 +52,15 @@
       <pubDate>Sun, 22 Sep 2024 15:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Removing uncertainty through &#34;what-if&#34; capacity planning】通过“假设”容量规划消除不确定性</title>
-      <link>https://blog.cloudflare.com/scenario-planner</link>
-      <description>【 Cloudflare’s Capacity Planning team discusses planning for “what-if” type scenarios, and how they’ve introduced a new “Scenario Planner” system to quickly model hypothetical future changes 】Cloudflare 的容量规划团队讨论了“假设”类型场景的规划，以及他们如何引入新的“场景规划器”系统来快速对假设的未来变化进行建模</description>
-      <pubDate>Fri, 20 Sep 2024 14:01:00 +0000</pubDate>
+      <title>【Automatically generating Cloudflare’s Terraform provider】自动生成 Cloudflare 的 Terraform 提供程序</title>
+      <link>https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider</link>
+      <description>【 The Cloudflare Terraform provider used to be manually maintained. With the help of our existing OpenAPI code generation pipeline, we’re now automatically generating the provider for better endpoint and attribute coverage, faster updates when new products are announced and a new API documentation site to top it all off. Read on to see how we pulled it all together. 】Cloudflare Terraform 提供程序过去是手动维护的。借助现有的 OpenAPI 代码生成管道，我们现在可以自动生成提供程序，以实现更好的端点和属性覆盖、新产品发布时的更快更新以及新的 API 文档站点。请继续阅读，了解我们如何将所有这些整合在一起。</description>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare incident on September 17, 2024】2024 年 9 月 17 日的 Cloudflare 事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-september-17-2024</link>
-      <description>【 On September 17, 2024, during planned routine maintenance, Cloudflare stopped announcing 15 IPv4 prefixes, affecting some Business plan websites for approximately one hour. During this time, IPv4 traffic for these customers would not have reached Cloudflare and users attempting to connect to websites using addresses within those prefixes would have received errors.  】2024 年 9 月 17 日，在计划的例行维护期间，Cloudflare 停止公布 15 个 IPv4 前缀，影响了一些商业计划网站约一小时。在此期间，这些客户的 IPv4 流量不会到达 Cloudflare，并且尝试使用这些前缀内的地址连接到网站的用户将会收到错误。</description>
-      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Protecting APIs from abuse using sequence learning and variable order Markov chains】使用序列学习和可变阶马尔可夫链保护 API 免遭滥用</title>
-      <link>https://blog.cloudflare.com/protecting-apis-from-abuse-using-sequence-learning-and-variable-order-markov</link>
-      <description>【 At Cloudflare, we protect customer APIs from abuse. This is no easy task, as abusive traffic can take different forms, from giant DDoS attacks to low-and-slow credential stuffing campaigns. We now address this challenge in a new way: by looking outside typical volumetric measures and using statistical machine learning to find important API client request sequences. 】在 Cloudflare，我们保护客户 API 免遭滥用。这不是一件容易的事，因为滥用流量可以采取不同的形式，从巨大的 DDoS 攻击到低而缓慢的撞库活动。我们现在以一种新的方式应对这一挑战：通过观察典型的体积测量并使用统计机器学习来查找重要的 API 客户端请求序列。</description>
-      <pubDate>Thu, 12 Sep 2024 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Ephemeral IDs: a new tool for fraud detection】推出临时 ID：欺诈检测的新工具</title>
-      <link>https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection</link>
-      <description>【 As the Internet evolves, Turnstile does too. Introducing Ephemeral IDs — a new dimension in detecting fraudulent activity, bot or human, that links behavior to a specific client instead of an IP address. This makes Turnstile better for everyone, everywhere. &#xA; 】随着互联网的发展，Turnstile 也在不断发展。引入临时 ID — 检测欺诈活动（机器人或人为）的新维度，它将行为链接到特定客户端而不是 IP 地址。这使得 Turnstile 对世界各地的每个人来说都更好。</description>
+      <title>【Making zone management more efficient with batch DNS record updates】通过批量 DNS 记录更新使区域管理更加高效</title>
+      <link>https://blog.cloudflare.com/batched-dns-changes</link>
+      <description>【 In response to customer demand, we now support the ability to DELETE, PATCH, PUT and POST multiple DNS records in a single API call, enabling more efficient and reliable zone management.&#xA; 】为了满足客户需求，我们现在支持在单个 API 调用中删除、修补、放置和发布多个 DNS 记录的功能，从而实现更高效、更可靠的区域管理。</description>
       <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>

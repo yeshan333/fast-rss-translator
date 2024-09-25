@@ -10,28 +10,22 @@
       <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Going beyond the empty set: Embracing the power of other empty things】超越空集：拥抱其他空事物的力量</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240923-00/?p=110297</link>
-      <description>【Just because there&#39;s nothing in it doesn&#39;t mean it&#39;s not valid.】仅仅因为其中没有任何内容并不意味着它无效。</description>
-      <pubDate>Mon, 23 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Next-Gen Code Coverage in Visual Studio: Enhanced C++ Support and Security】Visual Studio 中的下一代代码覆盖率：增强的 C++ 支持和安全性</title>
+      <link>https://devblogs.microsoft.com/visualstudio/next-gen-code-coverage-in-visual-studio-enhanced-c-support-and-security</link>
+      <description>【We’re excited to share the latest changes in Visual Studio’s code coverage components. If you haven’t already, be sure to check out our previous blog posts: What’s New in Our Code Coverage Tooling? and Code coverage features in Visual Studio Enterprise. C++ Code Coverage Tired of instable native code coverage that doesn’t support ARM64? Now, [&amp;hellip;]】我们很高兴与大家分享 Visual Studio 代码覆盖率组件的最新变化。如果您还没有阅读过，请务必查看我们之前的博客文章：我们的代码覆盖工具有哪些新增功能？ Visual Studio Enterprise 中的代码覆盖率功能。 C++ 代码覆盖率厌倦了不支持 ARM64 的不稳定本机代码覆盖率？现在， […]</description>
+      <pubDate>Tue, 24 Sep 2024 10:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>【DirectX Adopting SPIR-V as the Interchange Format of the Future】DirectX 采用 SPIR-V 作为未来的交换格式</title>
-      <link>https://devblogs.microsoft.com/directx/directx-adopting-spir-v</link>
-      <description>【Today the Direct3D and HLSL teams are excited to share some insight into the next big step for GPU programmability. Once Shader Model 7 is released, DirectX 12 will accept shaders compiled to SPIR-V™. The HLSL team is committed to open development processes and collaborating with The Khronos® Group and LLVM Project. We’re sharing this [&amp;hellip;]】今天，Direct3D 和 HLSL 团队很高兴能够分享一些有关 GPU 可编程性下一步重大进展的见解。 Shader Model 7 发布后，DirectX 12 将接受编译为 SPIR-V™ 的着色器。 HLSL 团队致力于开放开发流程并与 Khronos® Group 和 LLVM 项目合作。我们正在分享这个[…]</description>
-      <pubDate>Thu, 19 Sep 2024 18:13:22 +0000</pubDate>
+      <title>【Microsoft Hackathon: Virtual Customer Success Manager (VCSM) using Semantic Kernel】Microsoft 黑客马拉松：使用语义内核的虚拟客户成功经理 (VCSM)</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-virtual-customer-success-manager-vcsm-using-semantic-kernel</link>
+      <description>【Background on Hackathon Project: Virtual Customer Success Manager (VCSM) Semantic Kernel is a versatile SDK that seamlessly integrates AI models into applications, enhancing their responsiveness and understanding. It offers tools for chat completion, multi-agent coordination, and data retrieval, enabling developers to create advanced AI-driven solutions. The Virtual Customer Success Manager (VCSM), developed during Hackathon ’24, [&amp;hellip;]】黑客马拉松项目背景：虚拟客户成功经理 (VCSM) 语义内核是一种多功能 SDK，可将 AI 模型无缝集成到应用程序中，从而增强其响应能力和理解能力。它提供用于聊天完成、多代理协调和数据检索的工具，使开发人员能够创建先进的人工智能驱动的解决方案。虚拟客户成功管理器 (VCSM)，在 Hackathon &#39;24 期间开发，[...]</description>
+      <pubDate>Tue, 24 Sep 2024 19:44:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Change controls】Microsoft 365 认证控制焦点：变更控制</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-change-controls</link>
-      <description>【Read how Microsoft 365 Certification validates change controls are in place for your app.】了解 Microsoft 365 认证如何验证您的应用的变更控制是否到位。</description>
-      <pubDate>Thu, 19 Sep 2024 14:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Join the .NET Smart Components ecosystem】加入.NET智能组件生态系统</title>
-      <link>https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem</link>
-      <description>【The .NET Smart Components are now open source to help library authors build and share easy-to-use AI-powered features, including new AI-powered components from Telerik, DevExpress, and Syncfusion.】.NET 智能组件现已开源，可帮助库作者构建和共享易于使用的 AI 驱动功能，包括来自 Telerik、DevExpress 和 Syncfusion 的新 AI 驱动组件。</description>
-      <pubDate>Thu, 19 Sep 2024 19:00:00 +0000</pubDate>
+      <title>【Microsoft Dev Box regional availability】Microsoft Dev Box 区域可用性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-regional-availability</link>
+      <description>【We&amp;#8217;ve received some questions recently about where Microsoft Dev Box is available. While you can always check the latest list at https://aka.ms/devbox/regions, for a quick reference, here’s the current regional availability for Dev Box: Dev Box regions West US 2 West Europe Central India West US 3 North Europe Southeast Asia Central US UK South [&amp;hellip;]】我们最近收到了一些有关 Microsoft Dev Box 在哪里可用的问题。虽然您可以随时在 https://aka.ms/devbox/regions 上查看最新列表，但为了快速参考，以下是 Dev Box 的当前可用区域： Dev Box 区域 美国西部 2 西欧 印度中部 美国西部 3 北欧东南亚 中部 美国 英国南部 [...]</description>
+      <pubDate>Tue, 24 Sep 2024 00:22:07 +0000</pubDate>
     </item>
     <item>
       <title>【Level up your collaborations with the pull request experience in Visual Studio】通过 Visual Studio 中的拉取请求体验提升您的协作水平</title>
@@ -40,22 +34,28 @@
       <pubDate>Mon, 23 Sep 2024 10:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>【My window has the WS_EX_NOACTIVATE extended style, but it got activated anyway】我的窗口具有 WS_EX_NOACTIVATE 扩展样式，但它还是被激活了</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240919-00/?p=110283</link>
-      <description>【Well, at least it wasn&#39;t activated by a click.】好吧，至少它不是通过点击激活的。</description>
-      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Going beyond the empty set: Embracing the power of other empty things】超越空集：拥抱其他空事物的力量</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240923-00/?p=110297</link>
+      <description>【Just because there&#39;s nothing in it doesn&#39;t mean it&#39;s not valid.】仅仅因为其中没有任何内容并不意味着它无效。</description>
+      <pubDate>Mon, 23 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Autogen RAG】Autogen RAG</title>
-      <link>https://devblogs.microsoft.com/premier-developer/autogen-rag</link>
-      <description>【Linkai Yu explores the retrieval-augemented generation pattern with Azure OpenAI Assistants API. The Retrieval-Augmented Generation (RAG) pattern is the standard for integrating ground AI with local data. One powerful way to implement RAG is through the function call or tool call feature in the Function Call API. When examining the samples provided by the Azure [&amp;hellip;]】Linkai Yu 使用 Azure OpenAI Assistants API 探索检索增强生成模式。检索增强生成（RAG）模式是将地面人工智能与本地数据集成的标准。实现 RAG 的一种强大方法是通过函数调用 API 中的函数调用或工具调用功能。在检查 Azure 提供的样本时 [...]</description>
-      <pubDate>Fri, 20 Sep 2024 07:00:12 +0000</pubDate>
+      <title>【Jakarta EE on Azure – September 2024】Azure 上的雅加达 EE – 2024 年 9 月</title>
+      <link>https://devblogs.microsoft.com/java/jakarta-ee-on-azure-september-2024</link>
+      <description>【Hi everyone, welcome to the September 2024 update for Jakarta EE on Azure. The September 2024 update covers the most popular workshop series- Build, run and monitor intelligent Java apps on Azure Container Apps with Azure OpenAI, along with the latest updates on our Quarkus Azure extensions and other offers. Microsoft partners with Jakarta EE [&amp;hellip;]】大家好，欢迎来到 Azure 上的 Jakarta EE 2024 年 9 月更新。 2024 年 9 月更新涵盖了最受欢迎的研讨会系列 - 使用 Azure OpenAI 在 Azure 容器应用程序上构建、运行和监控智能 Java 应用程序，以及我们的 Quarkus Azure 扩展和其他产品的最新更新。微软与 Jakarta EE 合作 [...]</description>
+      <pubDate>Sat, 21 Sep 2024 11:36:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Dev Box regional availability】Microsoft Dev Box 区域可用性</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-regional-availability</link>
-      <description>【We&amp;#8217;ve received some questions recently about where Microsoft Dev Box is available. While you can always check the latest list at https://aka.ms/devbox/regions, for a quick reference, here’s the current regional availability for Dev Box: Dev Box regions West US 2 West Europe Central India West US 3 North Europe Southeast Asia Central US UK South [&amp;hellip;]】我们最近收到了一些有关 Microsoft Dev Box 在哪里可用的问题。虽然您可以随时在 https://aka.ms/devbox/regions 上查看最新列表，但为了快速参考，以下是 Dev Box 的当前可用区域： Dev Box 区域 美国西部 2 西欧 印度中部 美国西部 3 北欧东南亚 中部 美国 英国南部 [...]</description>
-      <pubDate>Tue, 24 Sep 2024 00:22:07 +0000</pubDate>
+      <title>【PIX 2409.23 – Support for new devices, bug fixes, and everything in 2408.09】PIX 2409.23 – 支持新设备、错误修复以及 2408.09 中的所有内容</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2409-23</link>
+      <description>【Today we released PIX version 2409.23, which can be downloaded here. This release includes everything that was in the 2408.09 version of PIX, plus the following improvements: GPU Captures: Fix capture-time issue on some ARM64 devices Add support for D3D_FEATURE_LEVEL_1_0_GENERIC Significant perf improvement during replay for some ExecuteIndirect users Enable side-by-side installation of pix via command [&amp;hellip;]】今天我们发布了 PIX 版本 2409.23，可以在这里下载。此版本包含 PIX 2408.09 版本中的所有内容，并进行了以下改进： GPU 捕获：修复了某些 ARM64 设备上的捕获时间问题 添加对 D3D_FEATURE_LEVEL_1_0_GENERIC 的支持 对某些 ExecuteIndirect 用户而言，重播期间的性能得到显着改进 启用并行安装通过命令 [...]</description>
+      <pubDate>Tue, 24 Sep 2024 20:28:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The UserConsentVerifier confirms that the user is there, but it doesn’t protect any data】UserConsentVerifier 确认用户存在，但不保护任何数据</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240924-00/?p=110308</link>
+      <description>【Is that really you?】那真的是你吗？</description>
+      <pubDate>Tue, 24 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【세계로 뻗어갑니다: “G3J Learn Semantic Kernel” 쇼 – 한국어로 배우는 Semantic Kernel!】走向世界：“G3J学习语义内核”节目——用韩语学习语义内核！</title>
