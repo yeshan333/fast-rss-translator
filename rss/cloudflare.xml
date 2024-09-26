@@ -4,16 +4,16 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections】借助 Cloudflare 打造更安全的互联网：免费威胁情报、分析和新威胁检测</title>
-      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
-      <description>【 Today, we are taking some big steps forward in our mission to help build a better Internet. Cloudflare is giving everyone free access to 10+ different website and network security products and features. 】今天，我们正在朝着帮助建设更好的互联网的使命迈出一些重大一步。 Cloudflare 让每个人都可以免费访问 10 多个不同的网站和网络安全产品和功能。</description>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Introducing Speed Brain: helping web pages load 45% faster 】Speed Brain 简介：帮助网页加载速度提高 45%</title>
+      <link>https://blog.cloudflare.com/introducing-speed-brain</link>
+      <description>【 We are excited to announce the latest leap forward in speed – Speed Brain. Speed Brain uses the Speculation Rules API to prefetch content for the user&#39;s likely next navigations. The goal is to download a web page to the browser before a user navigates to it, allowing pages to load instantly. &#xA; 】我们很高兴地宣布最新的速度飞跃——Speed Brain。 Speed Brain 使用推测规则 API 来预取用户可能的下一次导航的内容。目标是在用户导航到网页之前将网页下载到浏览器，从而允许页面立即加载。</description>
+      <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Removing uncertainty through &#34;what-if&#34; capacity planning】通过“假设”容量规划消除不确定性</title>
-      <link>https://blog.cloudflare.com/scenario-planner</link>
-      <description>【 Cloudflare’s Capacity Planning team discusses planning for “what-if” type scenarios, and how they’ve introduced a new “Scenario Planner” system to quickly model hypothetical future changes 】Cloudflare 的容量规划团队讨论了“假设”类型场景的规划，以及他们如何引入新的“场景规划器”系统来快速对假设的未来变化进行建模</description>
-      <pubDate>Fri, 20 Sep 2024 14:01:00 +0000</pubDate>
+      <title>【Introducing Ephemeral IDs: a new tool for fraud detection】推出临时 ID：欺诈检测的新工具</title>
+      <link>https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection</link>
+      <description>【 As the Internet evolves, Turnstile does too. Introducing Ephemeral IDs — a new dimension in detecting fraudulent activity, bot or human, that links behavior to a specific client instead of an IP address. This makes Turnstile better for everyone, everywhere. &#xA; 】随着互联网的发展，Turnstile 也在不断发展。引入临时 ID — 检测欺诈活动（机器人或人为）的新维度，它将行为链接到特定客户端而不是 IP 地址。这使得 Turnstile 对世界各地的每个人来说都更好。</description>
+      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare partners with Internet Service Providers and network equipment providers to deliver a safer browsing experience to millions of homes】Cloudflare 与互联网服务提供商和网络设备提供商合作，为数百万家庭提供更安全的浏览体验</title>
@@ -22,34 +22,28 @@
       <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Ephemeral IDs: a new tool for fraud detection】推出临时 ID：欺诈检测新工具</title>
-      <link>https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection</link>
-      <description>【 As the Internet evolves, Turnstile does too. Introducing Ephemeral IDs — a new dimension in detecting fraudulent activity, bot or human, that links behavior to a specific client instead of an IP address. This makes Turnstile better for everyone, everywhere. &#xA; 】随着互联网的发展，Turnstile 也在不断发展。引入临时 ID — 检测欺诈活动（机器人或人为）的新维度，它将行为链接到特定客户端而不是 IP 地址。这使得 Turnstile 对世界各地的每个人来说都更好。</description>
-      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Network performance update: Birthday Week 2024】网络性能更新：2024 年生日周</title>
-      <link>https://blog.cloudflare.com/network-performance-update-birthday-week-2024</link>
-      <description>【 Since June 2021, we’ve been measuring and ranking our network performance against the top global networks in the world. We use this data to improve our performance, and to share the results of those initiatives. &#xA;&#xA;In this post, we’re going to share with you how network performance has changed since our last post in March 2024, and discuss the tools and processes we are using to assess network performance. &#xA; 】自 2021 年 6 月以来，我们一直在根据世界顶级全球网络来衡量和排名我们的网络性能。我们使用这些数据来提高我们的绩效，并分享这些举措的成果。 &#xA;&#xA;在这篇文章中，我们将与您分享自 2024 年 3 月上一篇文章以来网络性能发生的变化，并讨论我们用于评估网络性能的工具和流程。</description>
-      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Start auditing and controlling the AI models accessing your content】开始审核和控制访问您内容的 AI 模型</title>
-      <link>https://blog.cloudflare.com/cloudflare-ai-audit-control-ai-content-crawlers</link>
-      <description>【 Cloudflare customers on any plan can now audit and control how AI models access the content on their site.&#xA; 】任何计划的 Cloudflare 客户现在都可以审核和控制 AI 模型如何访问其网站上的内容。</description>
-      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare helps verify the security of end-to-end encrypted messages by auditing key transparency for WhatsApp】Cloudflare 通过审核 WhatsApp 的密钥透明度来帮助验证端到端加密消息的安全性</title>
       <link>https://blog.cloudflare.com/key-transparency</link>
       <description>【 Cloudflare is now verifying WhatsApp’s Key Transparency audit proofs to ensure the security of end-to-end encrypted messaging conversations without having to manually check QR codes. We are publishing the results of the proof verification to https://dash.key-transparency.cloudflare.com for independent researchers and security experts to compare against WhatsApp’s. Cloudflare does not have access to underlying public key material or message metadata as part of this infrastructure. 】Cloudflare 目前正在验证 WhatsApp 的密钥透明度审核证明，以确保端到端加密消息对话的安全性，而无需手动检查二维码。我们将证明验证的结果发布到 https://dash.key-transparency.cloudflare.com，供独立研究人员和安全专家与 WhatsApp 进行比较。 Cloudflare 无法访问作为此基础设施一部分的底层公钥材料或消息元数据。</description>
       <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare’s 2024 Annual Founders’ Letter】Cloudflare 2024 年度创始人致辞</title>
-      <link>https://blog.cloudflare.com/cloudflare-2024-annual-founders-letter</link>
-      <description>【 Cloudflare launched on September 27, 2010. This week we celebrate our fourteenth birthday 】Cloudflare 于 2010 年 9 月 27 日推出。本周我们庆祝我们的十四岁生日</description>
-      <pubDate>Sun, 22 Sep 2024 15:51:00 +0000</pubDate>
+      <title>【TURN and anycast: making peer connections work globally】TURN 和选播：使对等连接在全球范围内发挥作用</title>
+      <link>https://blog.cloudflare.com/webrtc-turn-using-anycast</link>
+      <description>【 TURN servers help relay media and data between devices when direct peer-to-peer connections are blocked or fail. Cloudflare Calls&#39; TURN server uses anycast to eliminate the need to think about regions or scaling, improving reliability of WebRTC applications. 】当直接对等连接被阻止或失败时，TURN 服务器可帮助在设备之间中继媒体和数据。 Cloudflare Calls 的 TURN 服务器使用任播来消除考虑区域或扩展的需要，从而提高 WebRTC 应用程序的可靠性。</description>
+      <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections】借助 Cloudflare 打造更安全的互联网：免费威胁情报、分析和新威胁检测</title>
+      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
+      <description>【 Today, we are taking some big steps forward in our mission to help build a better Internet. Cloudflare is giving everyone free access to 10+ different website and network security products and features. 】今天，我们正在朝着帮助建设更好的互联网的使命迈出一些重大一步。 Cloudflare 让每个人都可以免费访问 10 多个不同的网站和网络安全产品和功能。</description>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New standards for a faster and more private Internet】更快、更私密的互联网的新标准</title>
+      <link>https://blog.cloudflare.com/new-standards</link>
+      <description>【 Cloudflare&#39;s customers can now take advantage of Zstandard (zstd) compression, offering 42% faster compression than Brotli and 11.3% more efficiency than GZIP. We&#39;re further optimizing performance for our customers with HTTP/3 prioritization and BBR congestion control, and enhancing privacy through Encrypted Client Hello (ECH). 】Cloudflare 的客户现在可以利用 Zstandard (zstd) 压缩，其压缩速度比 Brotli 快 42%，效率比 GZIP 高 11.3%。我们通过 HTTP/3 优先级和 BBR 拥塞控制进一步为客户优化性能，并通过加密客户端 Hello (ECH) 增强隐私性。</description>
+      <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Automatically generating Cloudflare’s Terraform provider】自动生成 Cloudflare 的 Terraform 提供程序</title>
@@ -58,10 +52,16 @@
       <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Making zone management more efficient with batch DNS record updates】通过批量 DNS 记录更新使区域管理更加高效</title>
-      <link>https://blog.cloudflare.com/batched-dns-changes</link>
-      <description>【 In response to customer demand, we now support the ability to DELETE, PATCH, PUT and POST multiple DNS records in a single API call, enabling more efficient and reliable zone management.&#xA; 】为了满足客户需求，我们现在支持在单个 API 调用中删除、修补、放置和发布多个 DNS 记录的功能，从而实现更高效、更可靠的区域管理。</description>
-      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Instant Purge: invalidating cached content in under 150ms】即时清除：在 150 毫秒内使缓存内容失效</title>
+      <link>https://blog.cloudflare.com/instant-purge</link>
+      <description>【 Today we’re excited to share that we’ve built the fastest cache purge in the industry.  We now offer a global purge latency for purge by tags, hostnames, and prefixes of less than 150ms on average (P50), representing a 90% improvement since May 2022.  】今天，我们很高兴与大家分享，我们已经构建了业内最快的缓存清除功能。  我们现在为按标签、主机名和前缀进行的清除提供平均小于 150 毫秒 (P50) 的全局清除延迟，自 2022 年 5 月以来提高了 90%。</description>
+      <pubDate>Tue, 24 Sep 2024 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare’s 12th Generation servers — 145% more performant and 63% more efficient】Cloudflare 的第 12 代服务器 — 性能提高 145%，效率提高 63%</title>
+      <link>https://blog.cloudflare.com/gen-12-servers</link>
+      <description>【 Cloudflare is thrilled to announce the general deployment of our next generation of server — Gen 12 powered by AMD Genoa-X processors. This new generation of server focuses on delivering exceptional performance across all Cloudflare services, enhanced support for AI/ML workloads, significant strides in power efficiency, and improved security features. 】Cloudflare 很高兴地宣布全面部署我们的下一代服务器 — 由 AMD Genoa-X 处理器提供支持的第 12 代服务器。新一代服务器致力于为所有 Cloudflare 服务提供卓越的性能、增强对 AI/ML 工作负载的支持、显着提高能效并改进安全功能。</description>
+      <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

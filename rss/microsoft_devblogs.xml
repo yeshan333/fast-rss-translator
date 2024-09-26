@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【How can I check that all the changes in a git branch have been cherry-picked or rebased into its upstream branch?】如何检查 git 分支中的所有更改是否已被精心挑选或重新调整到其上游分支中？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240920-00/?p=110287</link>
-      <description>【You can pretend to merge it and see if anything happens.】你可以假装合并它，看看是否会发生什么。</description>
-      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Announcing Cost and Performance Improvements with Azure Cosmos DB’s Binary Encoding】宣布通过 Azure Cosmos DB 的二进制编码实现成本和性能改进</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-cost-and-performance-improvements-with-azure-cosmos-dbs-binary-encoding</link>
+      <description>【We are excited to announce a significant enhancement to Azure Cosmos DB, bringing substantial cost savings and performance improvements to our users. The new binary encoding feature is now available for new containers and will soon be available for existing ones. What is Binary Encoding? Binary encoding converts JSON or other text-based data formats into [&amp;hellip;]】我们很高兴地宣布对 Azure Cosmos DB 进行重大增强，为我们的用户带来大量成本节省和性能改进。新的二进制编码功能现已可用于新容器，并且很快将可用于现有容器。什么是二进制编码？二进制编码将 JSON 或其他基于文本的数据格式转换为 [...]</description>
+      <pubDate>Wed, 25 Sep 2024 14:00:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Next-Gen Code Coverage in Visual Studio: Enhanced C++ Support and Security】Visual Studio 中的下一代代码覆盖率：增强的 C++ 支持和安全性</title>
-      <link>https://devblogs.microsoft.com/visualstudio/next-gen-code-coverage-in-visual-studio-enhanced-c-support-and-security</link>
-      <description>【We’re excited to share the latest changes in Visual Studio’s code coverage components. If you haven’t already, be sure to check out our previous blog posts: What’s New in Our Code Coverage Tooling? and Code coverage features in Visual Studio Enterprise. C++ Code Coverage Tired of instable native code coverage that doesn’t support ARM64? Now, [&amp;hellip;]】我们很高兴与大家分享 Visual Studio 代码覆盖率组件的最新变化。如果您还没有阅读过，请务必查看我们之前的博客文章：我们的代码覆盖工具有哪些新增功能？ Visual Studio Enterprise 中的代码覆盖率功能。 C++ 代码覆盖率厌倦了不支持 ARM64 的不稳定本机代码覆盖率？现在， […]</description>
-      <pubDate>Tue, 24 Sep 2024 10:00:02 +0000</pubDate>
+      <title>【Common annotated security keys】常见的带注释的安全密钥</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/common-annotated-security-keys</link>
+      <description>【In April 2021, GitHub announced changes to their security token format that significantly enhanced security. The improvement leveraged two straightforward techniques: a fixed signature in the generated token and a checksum &amp;#8211; both of which are highly effective in eliminating false positives (noise) and false negatives (missed findings). Microsoft also implements these techniques widely in [&amp;hellip;]】2021 年 4 月，GitHub 宣布更改其安全令牌格式，显着增强了安全性。该改进利用了两种简单的技术：生成的令牌中的固定签名和校验和——这两种技术在消除误报（噪声）和漏报（遗漏发现）方面非常有效。微软还在[...]中广泛实施了这些技术</description>
+      <pubDate>Wed, 25 Sep 2024 18:50:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Hackathon: Virtual Customer Success Manager (VCSM) using Semantic Kernel】Microsoft 黑客马拉松：使用语义内核的虚拟客户成功经理 (VCSM)</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-virtual-customer-success-manager-vcsm-using-semantic-kernel</link>
-      <description>【Background on Hackathon Project: Virtual Customer Success Manager (VCSM) Semantic Kernel is a versatile SDK that seamlessly integrates AI models into applications, enhancing their responsiveness and understanding. It offers tools for chat completion, multi-agent coordination, and data retrieval, enabling developers to create advanced AI-driven solutions. The Virtual Customer Success Manager (VCSM), developed during Hackathon ’24, [&amp;hellip;]】黑客马拉松项目背景：虚拟客户成功经理 (VCSM) 语义内核是一种多功能 SDK，可将 AI 模型无缝集成到应用程序中，从而增强其响应能力和理解能力。它提供用于聊天完成、多代理协调和数据检索的工具，使开发人员能够创建先进的人工智能驱动的解决方案。虚拟客户成功管理器 (VCSM)，在 Hackathon &#39;24 期间开发，[...]</description>
-      <pubDate>Tue, 24 Sep 2024 19:44:43 +0000</pubDate>
+      <title>【Announcing the GA of Dynamic Scaling (Per Region and Per Partition Autoscale)】宣布动态扩展正式发布（按区域和按分区自动缩放）</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-the-ga-of-dynamic-scaling-per-region-and-per-partition-autoscale</link>
+      <description>【We are excited to announce the GA of Azure Cosmos DB dynamic scaling – among multiple new features (Binary Encoding, Reserved Capacity) released recently to make your Azure Cosmos DB workloads even more cost efficient. Dynamic scaling is an enhancement to autoscale which provides cost optimization for nonuniform workloads. In the earlier version of autoscale, [&amp;hellip;]】我们很高兴地宣布 Azure Cosmos DB 动态扩展正式发布，其中包括最近发布的多项新功能（二进制编码、预留容量），可让您的 Azure Cosmos DB 工作负载更具成本效益。动态扩展是自动扩展的增强功能，可为非均匀工作负载提供成本优化。在早期版本的自动缩放中，[...]</description>
+      <pubDate>Wed, 25 Sep 2024 14:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Dev Box regional availability】Microsoft Dev Box 区域可用性</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-regional-availability</link>
-      <description>【We&amp;#8217;ve received some questions recently about where Microsoft Dev Box is available. While you can always check the latest list at https://aka.ms/devbox/regions, for a quick reference, here’s the current regional availability for Dev Box: Dev Box regions West US 2 West Europe Central India West US 3 North Europe Southeast Asia Central US UK South [&amp;hellip;]】我们最近收到了一些有关 Microsoft Dev Box 在哪里可用的问题。虽然您可以随时在 https://aka.ms/devbox/regions 上查看最新列表，但为了快速参考，以下是 Dev Box 的当前可用区域： Dev Box 区域 美国西部 2 西欧 印度中部 美国西部 3 北欧东南亚 中部 美国 英国南部 [...]</description>
-      <pubDate>Tue, 24 Sep 2024 00:22:07 +0000</pubDate>
+      <title>【Sep 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 9 月：查看最新的 Microsoft Entra 关键功能版本、公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-sep-24</link>
+      <description>【An overview of the latest updates in Microsoft Entra for Sep 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】Microsoft Entra 2024 年 9 月最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
+      <pubDate>Wed, 25 Sep 2024 11:29:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Level up your collaborations with the pull request experience in Visual Studio】通过 Visual Studio 中的拉取请求体验提升您的协作水平</title>
-      <link>https://devblogs.microsoft.com/visualstudio/level-up-your-collaborations-with-the-pull-request-experience-in-visual-studio</link>
-      <description>【One of our main goals is to help you and your team collaborate more effectively and efficiently on your software projects. That&amp;#8217;s why we are constantly improving our Version Control features, especially the ones related to the pull request workflow. Starting in Visual Studio version 17.11, you can enjoy a smoother and smarter pull request [&amp;hellip;]】我们的主要目标之一是帮助您和您的团队在软件项目上更有效地协作。这就是为什么我们不断改进版本控制功能，尤其是与拉取请求工作流程相关的功能。从 Visual Studio 版本 17.11 开始，您可以享受更流畅、更智能的拉取请求 [...]</description>
-      <pubDate>Mon, 23 Sep 2024 10:00:47 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Secure software development and deployment】Microsoft 365 认证控制焦点：安全软件开发和部署</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-secure-software-development-and-deployment</link>
+      <description>【Explore how Microsoft 365 Certification validates secure software development and deployment best practices.】探索 Microsoft 365 认证如何验证安全软件开发和部署最佳实践。</description>
+      <pubDate>Wed, 25 Sep 2024 14:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Going beyond the empty set: Embracing the power of other empty things】超越空集：拥抱其他空事物的力量</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240923-00/?p=110297</link>
-      <description>【Just because there&#39;s nothing in it doesn&#39;t mean it&#39;s not valid.】仅仅因为其中没有任何内容并不意味着它无效。</description>
-      <pubDate>Mon, 23 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Getting started with testing and .NET Aspire】测试和 .NET Aspire 入门</title>
+      <link>https://devblogs.microsoft.com/dotnet/getting-started-with-testing-and-dotnet-aspire</link>
+      <description>【Learn how to improve your software development process with automated testing in .NET Aspire. This post covers the basics of getting started, writing tests for distributed applications, and ensuring your services run smoothly.】了解如何通过 .NET Aspire 中的自动化测试改进软件开发流程。这篇文章涵盖了入门、为分布式应用程序编写测试以及确保服务顺利运行的基础知识。</description>
+      <pubDate>Wed, 25 Sep 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Jakarta EE on Azure – September 2024】Azure 上的雅加达 EE – 2024 年 9 月</title>
-      <link>https://devblogs.microsoft.com/java/jakarta-ee-on-azure-september-2024</link>
-      <description>【Hi everyone, welcome to the September 2024 update for Jakarta EE on Azure. The September 2024 update covers the most popular workshop series- Build, run and monitor intelligent Java apps on Azure Container Apps with Azure OpenAI, along with the latest updates on our Quarkus Azure extensions and other offers. Microsoft partners with Jakarta EE [&amp;hellip;]】大家好，欢迎来到 Azure 上的 Jakarta EE 2024 年 9 月更新。 2024 年 9 月更新涵盖了最受欢迎的研讨会系列 - 使用 Azure OpenAI 在 Azure 容器应用程序上构建、运行和监控智能 Java 应用程序，以及我们的 Quarkus Azure 扩展和其他产品的最新更新。微软与 Jakarta EE 合作 [...]</description>
-      <pubDate>Sat, 21 Sep 2024 11:36:41 +0000</pubDate>
+      <title>【Security Update: Changes to URI Expiry Time in Azure Notification Hubs】安全更新：Azure 通知中心中 URI 过期时间的更改</title>
+      <link>https://devblogs.microsoft.com/azure-notification-hubs/security-update-changes-to-uri-expiry-time-in-azure-notification-hubs</link>
+      <description>【As part of our ongoing efforts to enhance the security of Azure Notification Hubs, we are making an important change to the expiry time of the generated URIs. Starting from October 2024, the expiry time of PnsErrorDetailsUri will be reduced from 10 days to 5 days. This means that the PnsErrorDetailsUri returned will now be [&amp;hellip;]】作为我们增强 Azure 通知中心安全性的持续努力的一部分，我们正在对生成的 URI 的到期时间进行重要更改。从2024年10月开始，PnsErrorDetailsUri的过期时间将从10天减少到5天。这意味着返回的 PnsErrorDetailsUri 现在将是 [...]</description>
+      <pubDate>Wed, 25 Sep 2024 09:35:26 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2409.23 – Support for new devices, bug fixes, and everything in 2408.09】PIX 2409.23 – 支持新设备、错误修复以及 2408.09 中的所有内容</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2409-23</link>
-      <description>【Today we released PIX version 2409.23, which can be downloaded here. This release includes everything that was in the 2408.09 version of PIX, plus the following improvements: GPU Captures: Fix capture-time issue on some ARM64 devices Add support for D3D_FEATURE_LEVEL_1_0_GENERIC Significant perf improvement during replay for some ExecuteIndirect users Enable side-by-side installation of pix via command [&amp;hellip;]】今天我们发布了 PIX 版本 2409.23，可以在这里下载。此版本包含 PIX 2408.09 版本中的所有内容，并进行了以下改进： GPU 捕获：修复了某些 ARM64 设备上的捕获时间问题 添加对 D3D_FEATURE_LEVEL_1_0_GENERIC 的支持 对某些 ExecuteIndirect 用户而言，重播期间的性能得到显着改进 启用并行安装通过命令 [...]</description>
-      <pubDate>Tue, 24 Sep 2024 20:28:29 +0000</pubDate>
+      <title>【Organize Your Breakpoints like a pro】像专业人士一样组织您的断点</title>
+      <link>https://devblogs.microsoft.com/visualstudio/organize-your-breakpoints-like-a-pro</link>
+      <description>【Do you feel overwhelmed by the sheer number of breakpoints in your Visual Studio project? Wish you could categorize and toggle them on and off with ease? The new breakpoint group feature in Visual Studio 2022 is here to transform your debugging experience. Breakpoint groups allow you to create custom collections of breakpoints and apply [&amp;hellip;]】您是否对 Visual Studio 项目中断点的数量感到不知所措？希望您可以轻松地对它们进行分类并打开和关闭它们？ Visual Studio 2022 中的新断点组功能将改变您的调试体验。断点组允许您创建自定义断点集合并应用[...]</description>
+      <pubDate>Wed, 25 Sep 2024 10:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>【The UserConsentVerifier confirms that the user is there, but it doesn’t protect any data】UserConsentVerifier 确认用户存在，但不保护任何数据</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240924-00/?p=110308</link>
-      <description>【Is that really you?】那真的是你吗？</description>
-      <pubDate>Tue, 24 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Integrating AI into Business Processes with the Process Framework】通过流程框架将人工智能集成到业务流程中</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-ai-into-business-processes-with-the-process-framework</link>
+      <description>【As organizations look to enhance efficiency and decision-making, the integration of AI into business processes has become increasingly important. The new Process Framework for Microsoft Semantic Kernel empowers developers to seamlessly embed AI into their workflows, providing a structured approach to optimizing daily operations. Not sure what a business process is? A Process is a structured sequence [&amp;hellip;]】随着组织寻求提高效率和决策能力，将人工智能集成到业务流程中变得越来越重要。 Microsoft Semantic Kernel 的新流程框架使开发人员能够将 AI 无缝嵌入到他们的工作流程中，从而提供优化日常运营的结构化方法。不确定什么是业务流程？流程是一个结构化序列[...]</description>
+      <pubDate>Wed, 25 Sep 2024 14:30:34 +0000</pubDate>
     </item>
     <item>
-      <title>【세계로 뻗어갑니다: “G3J Learn Semantic Kernel” 쇼 – 한국어로 배우는 Semantic Kernel!】走向世界：“G3J学习语义内核”节目——用韩语学习语义内核！</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/%ec%84%b8%ea%b3%84%eb%a1%9c-%eb%bb%97%ec%96%b4%ea%b0%91%eb%8b%88%eb%8b%a4-g3j-learn-semantic-kernel-%ec%87%bc-%ed%95%9c%ea%b5%ad%ec%96%b4%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-semantic-k</link>
-      <description>【세계로 뻗어갑니다: &amp;#8220;G3J Learn Semantic Kernel&amp;#8221; 쇼 – 한국어로 배우는 Semantic Kernel! 최근 빠르게 변화하는 기술 환경에서 개발자들은 지능형 애플리케이션을 구축하기 위한 최신 도구와 프레임워크를 지속적으로 탐색하고 있습니다. 이러한 요구에 맞춰 Microsoft는 자연어 처리와 데이터를 효과적으로 결합한 강력한 프레임워크, Semantic Kernel을 제공합니다. 저희는 최근 Let&amp;#8217;s Learn .NET 쇼를 통해 Microsoft Learn 모듈의 Semantic Kernel을 성공적으로 [&amp;hellip;]】走向世界：“G3J学习语义内核”节目——用韩语学习语义内核！在当今快速变化的技术环境中，开发人员不断探索用于构建智能应用程序的最新工具和框架。为了满足这些需求，微软提供了Semantic Kernel，一个强大的框架，可以有效地将自然语言处理和数据结合起来。我们最近通过 Let&#39;s Learn .NET 节目成功演示了 Microsoft Learn 模块的语义内核 [...] ]</description>
-      <pubDate>Mon, 23 Sep 2024 16:21:31 +0000</pubDate>
+      <title>【Another example of the Windows Runtime interop pattern: Using the UserConsentVerifier from a Win32 program】Windows 运行时互操作模式的另一个示例：使用 Win32 程序中的 UserConsentVerifier</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240925-00/?p=110312</link>
+      <description>【Following the standard pattern.】遵循标准模式。</description>
+      <pubDate>Wed, 25 Sep 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
