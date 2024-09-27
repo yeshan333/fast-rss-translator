@@ -4,40 +4,22 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Introducing Speed Brain: helping web pages load 45% faster 】Speed Brain 简介：帮助网页加载速度提高 45%</title>
-      <link>https://blog.cloudflare.com/introducing-speed-brain</link>
-      <description>【 We are excited to announce the latest leap forward in speed – Speed Brain. Speed Brain uses the Speculation Rules API to prefetch content for the user&#39;s likely next navigations. The goal is to download a web page to the browser before a user navigates to it, allowing pages to load instantly. &#xA; 】我们很高兴地宣布最新的速度飞跃——Speed Brain。 Speed Brain 使用推测规则 API 来预取用户可能的下一次导航的内容。目标是在用户导航到网页之前将网页下载到浏览器，从而允许页面立即加载。</description>
-      <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Ephemeral IDs: a new tool for fraud detection】推出临时 ID：欺诈检测的新工具</title>
-      <link>https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection</link>
-      <description>【 As the Internet evolves, Turnstile does too. Introducing Ephemeral IDs — a new dimension in detecting fraudulent activity, bot or human, that links behavior to a specific client instead of an IP address. This makes Turnstile better for everyone, everywhere. &#xA; 】随着互联网的发展，Turnstile 也在不断发展。引入临时 ID — 检测欺诈活动（机器人或人为）的新维度，它将行为链接到特定客户端而不是 IP 地址。这使得 Turnstile 对世界各地的每个人来说都更好。</description>
-      <pubDate>Mon, 23 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare partners with Internet Service Providers and network equipment providers to deliver a safer browsing experience to millions of homes】Cloudflare 与互联网服务提供商和网络设备提供商合作，为数百万家庭提供更安全的浏览体验</title>
-      <link>https://blog.cloudflare.com/safer-resolver</link>
-      <description>【 Cloudflare is extending the use of our public DNS resolver through partnering with ISPs and network providers to deliver a safer browsing experience directly to families. Join us in protecting every Internet user from unsafe content with the click of a button, powered by 1.1.1.1 for Families. 】Cloudflare 通过与 ISP 和网络提供商合作，扩展了我们公共 DNS 解析器的使用范围，直接为家庭提供更安全的浏览体验。只需单击一下按钮，与我们一起保护每个互联网用户免受不安全内容的侵害，由 1.1.1.1 for Families 提供支持。</description>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare helps verify the security of end-to-end encrypted messages by auditing key transparency for WhatsApp】Cloudflare 通过审核 WhatsApp 的密钥透明度来帮助验证端到端加密消息的安全性</title>
-      <link>https://blog.cloudflare.com/key-transparency</link>
-      <description>【 Cloudflare is now verifying WhatsApp’s Key Transparency audit proofs to ensure the security of end-to-end encrypted messaging conversations without having to manually check QR codes. We are publishing the results of the proof verification to https://dash.key-transparency.cloudflare.com for independent researchers and security experts to compare against WhatsApp’s. Cloudflare does not have access to underlying public key material or message metadata as part of this infrastructure. 】Cloudflare 目前正在验证 WhatsApp 的密钥透明度审核证明，以确保端到端加密消息对话的安全性，而无需手动检查二维码。我们将证明验证的结果发布到 https://dash.key-transparency.cloudflare.com，供独立研究人员和安全专家与 WhatsApp 进行比较。 Cloudflare 无法访问作为此基础设施一部分的底层公钥材料或消息元数据。</description>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【TURN and anycast: making peer connections work globally】TURN 和选播：使对等连接在全球范围内发挥作用</title>
       <link>https://blog.cloudflare.com/webrtc-turn-using-anycast</link>
       <description>【 TURN servers help relay media and data between devices when direct peer-to-peer connections are blocked or fail. Cloudflare Calls&#39; TURN server uses anycast to eliminate the need to think about regions or scaling, improving reliability of WebRTC applications. 】当直接对等连接被阻止或失败时，TURN 服务器可帮助在设备之间中继媒体和数据。 Cloudflare Calls 的 TURN 服务器使用任播来消除考虑区域或扩展的需要，从而提高 WebRTC 应用程序的可靠性。</description>
       <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections】借助 Cloudflare 打造更安全的互联网：免费威胁情报、分析和新威胁检测</title>
-      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
-      <description>【 Today, we are taking some big steps forward in our mission to help build a better Internet. Cloudflare is giving everyone free access to 10+ different website and network security products and features. 】今天，我们正在朝着帮助建设更好的互联网的使命迈出一些重大一步。 Cloudflare 让每个人都可以免费访问 10 多个不同的网站和网络安全产品和功能。</description>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Introducing Speed Brain: helping web pages load 45% faster 】Speed Brain 简介：帮助网页加载速度提高 45%</title>
+      <link>https://blog.cloudflare.com/introducing-speed-brain</link>
+      <description>【 We are excited to announce the latest leap forward in speed – Speed Brain. Speed Brain uses the Speculation Rules API to prefetch content for the user&#39;s likely next navigations. The goal is to download a web page to the browser before a user navigates to it, allowing pages to load instantly. &#xA; 】我们很高兴地宣布最新的速度飞跃——Speed Brain。 Speed Brain 使用推测规则 API 来预取用户可能的下一次导航的内容。目标是在用户导航到网页之前将网页下载到浏览器，从而允许页面立即加载。</description>
+      <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Startup Program revamped: build and grow on Cloudflare with up to $250,000 in credits】改造启动计划：利用高达 250,000 美元的积分在 Cloudflare 上构建和发展</title>
+      <link>https://blog.cloudflare.com/startup-program-250k-credits</link>
+      <description>【 Cloudflare’s Startup Program now offers up to $250,000 in credits for companies building on our Developer Platform. The program relaunch uses clear and predictable credits so that you can easily see how usage impacts future pricing.  】Cloudflare 的启动计划现在为在我们的开发者平台上构建的公司提供高达 250,000 美元的积分。计划重新启动使用清晰且可预测的积分，以便您可以轻松了解使用情况如何影响未来的定价。</description>
+      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【New standards for a faster and more private Internet】更快、更私密的互联网的新标准</title>
@@ -46,22 +28,40 @@
       <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Automatically generating Cloudflare’s Terraform provider】自动生成 Cloudflare 的 Terraform 提供程序</title>
-      <link>https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider</link>
-      <description>【 The Cloudflare Terraform provider used to be manually maintained. With the help of our existing OpenAPI code generation pipeline, we’re now automatically generating the provider for better endpoint and attribute coverage, faster updates when new products are announced and a new API documentation site to top it all off. Read on to see how we pulled it all together. 】Cloudflare Terraform 提供程序过去是手动维护的。借助现有的 OpenAPI 代码生成管道，我们现在可以自动生成提供程序，以实现更好的端点和属性覆盖、新产品发布时的更快更新以及新的 API 文档站点。请继续阅读，了解我们如何将所有这些整合在一起。</description>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Instant Purge: invalidating cached content in under 150ms】即时清除：在 150 毫秒内使缓存内容失效</title>
-      <link>https://blog.cloudflare.com/instant-purge</link>
-      <description>【 Today we’re excited to share that we’ve built the fastest cache purge in the industry.  We now offer a global purge latency for purge by tags, hostnames, and prefixes of less than 150ms on average (P50), representing a 90% improvement since May 2022.  】今天，我们很高兴与大家分享，我们已经构建了业内最快的缓存清除功能。  我们现在为按标签、主机名和前缀进行的清除提供平均小于 150 毫秒 (P50) 的全局清除延迟，自 2022 年 5 月以来提高了 90%。</description>
-      <pubDate>Tue, 24 Sep 2024 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare’s 12th Generation servers — 145% more performant and 63% more efficient】Cloudflare 的第 12 代服务器 — 性能提高 145%，效率提高 63%</title>
       <link>https://blog.cloudflare.com/gen-12-servers</link>
       <description>【 Cloudflare is thrilled to announce the general deployment of our next generation of server — Gen 12 powered by AMD Genoa-X processors. This new generation of server focuses on delivering exceptional performance across all Cloudflare services, enhanced support for AI/ML workloads, significant strides in power efficiency, and improved security features. 】Cloudflare 很高兴地宣布全面部署我们的下一代服务器 — 由 AMD Genoa-X 处理器提供支持的第 12 代服务器。新一代服务器致力于为所有 Cloudflare 服务提供卓越的性能、增强对 AI/ML 工作负载的支持、显着提高能效并改进安全功能。</description>
       <pubDate>Wed, 25 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare’s bigger, better, faster AI platform】Cloudflare 更大、更好、更快的 AI 平台</title>
+      <link>https://blog.cloudflare.com/workers-ai-bigger-better-faster</link>
+      <description>【 Whether you want the fastest inference at the edge, optimized AI workflows, or vector database-powered RAG, we’re excited to help you harness the full potential of AI and get started on building with Cloudflare. 】无论您想要最快的边缘推理、优化的 AI 工作流程还是矢量数据库驱动的 RAG，我们都很高兴能够帮助您充分利用 AI 的潜力并开始使用 Cloudflare 进行构建。</description>
+      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【We made Workers KV up to 3x faster — here’s the data】我们使 Workers KV 速度提高了 3 倍 - 这是数据</title>
+      <link>https://blog.cloudflare.com/faster-workers-kv</link>
+      <description>【 Speed is a critical factor that dictates Internet behavior. Every additional millisecond a user spends waiting for your web page to load results in them abandoning your website.  】速度是决定互联网行为的关键因素。用户等待您的网页加载的时间每增加一毫秒，就会导致他们放弃您的网站。</description>
+      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Zero-latency SQLite storage in every Durable Object】每个持久对象中的零延迟 SQLite 存储</title>
+      <link>https://blog.cloudflare.com/sqlite-in-durable-objects</link>
+      <description>【 Traditional cloud storage is inherently slow because it is accessed over a network and must synchronize many clients. But what if we could instead put your application code deep into the storage layer, such that your code runs where the data is stored? Durable Objects with SQLite do just that.&#xA; 】传统的云存储本质上很慢，因为它是通过网络访问的，并且必须同步许多客户端。但是，如果我们可以将您的应用程序代码深入存储层，以便您的代码在存储数据的地方运行呢？ SQLite 的持久对象就是这样做的。</description>
+      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Builder Day 2024: 18 big updates to the Workers platform】2024 年建造者日：Workers 平台的 18 项重大更新</title>
+      <link>https://blog.cloudflare.com/builder-day-2024-announcements</link>
+      <description>【 To celebrate Builder Day 2024, we’re shipping 18 updates inspired by direct feedback from developers building on Cloudflare. This includes new capabilities, like running evals with AI Gateway, beta products like Queues and Vectorize graduating to GA, massive speed improvements to KV and Workers AI, pricing simplifications, and bringing key features from Pages into Workers. 】为了庆祝 2024 年 Builder Day，我们发布了 18 项更新，这些更新的灵感来自于在 Cloudflare 上构建的开发人员的直接反馈。这包括新功能，例如使用 AI Gateway 运行评估、队列和 Vectorize 等测试版产品升级为 GA、KV 和 Workers AI 的大幅速度改进、定价简化以及将 Pages 的关键功能引入 Workers。</description>
+      <pubDate>Thu, 26 Sep 2024 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Making Workers AI faster and more efficient: Performance optimization with KV cache compression and speculative decoding】让 Workers AI 更快、更高效：通过 KV 缓存压缩和推测解码进行性能优化</title>
+      <link>https://blog.cloudflare.com/making-workers-ai-faster</link>
+      <description>【 With a new generation of data center accelerator hardware and using optimization techniques such as KV cache compression and speculative decoding, we’ve made large language model (LLM) inference lightning-fast on the Cloudflare Workers AI platform. 】借助新一代数据中心加速器硬件并使用 KV 缓存压缩和推测解码等优化技术，我们在 Cloudflare Workers AI 平台上实现了闪电般的大型语言模型 (LLM) 推理。</description>
+      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

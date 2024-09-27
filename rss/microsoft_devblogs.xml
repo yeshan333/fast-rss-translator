@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Announcing Cost and Performance Improvements with Azure Cosmos DB’s Binary Encoding】宣布通过 Azure Cosmos DB 的二进制编码实现成本和性能改进</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-cost-and-performance-improvements-with-azure-cosmos-dbs-binary-encoding</link>
-      <description>【We are excited to announce a significant enhancement to Azure Cosmos DB, bringing substantial cost savings and performance improvements to our users. The new binary encoding feature is now available for new containers and will soon be available for existing ones. What is Binary Encoding? Binary encoding converts JSON or other text-based data formats into [&amp;hellip;]】我们很高兴地宣布对 Azure Cosmos DB 进行重大增强，为我们的用户带来大量成本节省和性能改进。新的二进制编码功能现已可用于新容器，并且很快将可用于现有容器。什么是二进制编码？二进制编码将 JSON 或其他基于文本的数据格式转换为 [...]</description>
-      <pubDate>Wed, 25 Sep 2024 14:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Common annotated security keys】常见的带注释的安全密钥</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/common-annotated-security-keys</link>
-      <description>【In April 2021, GitHub announced changes to their security token format that significantly enhanced security. The improvement leveraged two straightforward techniques: a fixed signature in the generated token and a checksum &amp;#8211; both of which are highly effective in eliminating false positives (noise) and false negatives (missed findings). Microsoft also implements these techniques widely in [&amp;hellip;]】2021 年 4 月，GitHub 宣布更改其安全令牌格式，显着增强了安全性。该改进利用了两种简单的技术：生成的令牌中的固定签名和校验和——这两种技术在消除误报（噪声）和漏报（遗漏发现）方面非常有效。微软还在[...]中广泛实施了这些技术</description>
-      <pubDate>Wed, 25 Sep 2024 18:50:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the GA of Dynamic Scaling (Per Region and Per Partition Autoscale)】宣布动态扩展正式发布（按区域和按分区自动缩放）</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-the-ga-of-dynamic-scaling-per-region-and-per-partition-autoscale</link>
-      <description>【We are excited to announce the GA of Azure Cosmos DB dynamic scaling – among multiple new features (Binary Encoding, Reserved Capacity) released recently to make your Azure Cosmos DB workloads even more cost efficient. Dynamic scaling is an enhancement to autoscale which provides cost optimization for nonuniform workloads. In the earlier version of autoscale, [&amp;hellip;]】我们很高兴地宣布 Azure Cosmos DB 动态扩展正式发布，其中包括最近发布的多项新功能（二进制编码、预留容量），可让您的 Azure Cosmos DB 工作负载更具成本效益。动态扩展是自动扩展的增强功能，可为非均匀工作负载提供成本优化。在早期版本的自动缩放中，[...]</description>
-      <pubDate>Wed, 25 Sep 2024 14:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Sep 2024: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2024 年 9 月：查看最新的 Microsoft Entra 关键功能版本、公告和更新</title>
-      <link>https://devblogs.microsoft.com/identity/eng-connect-sep-24</link>
-      <description>【An overview of the latest updates in Microsoft Entra for Sep 2024. Discover how these new capabilities can be integrated into your projects for optimal performance and security.】Microsoft Entra 2024 年 9 月最新更新概述。了解如何将这些新功能集成到您的项目中，以获得最佳性能和安全性。</description>
-      <pubDate>Wed, 25 Sep 2024 11:29:07 +0000</pubDate>
+      <title>【Announcing SharePoint Framework 1.20 with updates on building enterprise extensibility within Microsoft 365】发布 SharePoint 框架 1.20，其中包含有关在 Microsoft 365 中构建企业可扩展性的更新</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-20-with-updates-on-building-enterprise-extensibility-within-microsoft-365</link>
+      <description>【We are excited to announce general availability for the SharePoint Framework 1.20. This time focus is primarily on the Microsoft Viva platform capabilities.】我们很高兴地宣布 SharePoint Framework 1.20 全面上市。这次的重点主要是 Microsoft Viva 平台功能。</description>
+      <pubDate>Thu, 26 Sep 2024 15:36:00 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft 365 Certification control spotlight: Secure software development and deployment】Microsoft 365 认证控制焦点：安全软件开发和部署</title>
@@ -40,28 +22,46 @@
       <pubDate>Wed, 25 Sep 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Security Update: Changes to URI Expiry Time in Azure Notification Hubs】安全更新：Azure 通知中心中 URI 过期时间的更改</title>
-      <link>https://devblogs.microsoft.com/azure-notification-hubs/security-update-changes-to-uri-expiry-time-in-azure-notification-hubs</link>
-      <description>【As part of our ongoing efforts to enhance the security of Azure Notification Hubs, we are making an important change to the expiry time of the generated URIs. Starting from October 2024, the expiry time of PnsErrorDetailsUri will be reduced from 10 days to 5 days. This means that the PnsErrorDetailsUri returned will now be [&amp;hellip;]】作为我们增强 Azure 通知中心安全性的持续努力的一部分，我们正在对生成的 URI 的到期时间进行重要更改。从2024年10月开始，PnsErrorDetailsUri的过期时间将从10天减少到5天。这意味着返回的 PnsErrorDetailsUri 现在将是 [...]</description>
-      <pubDate>Wed, 25 Sep 2024 09:35:26 +0000</pubDate>
+      <title>【Creating a React TODO app in Visual Studio 2022】在 Visual Studio 2022 中创建 React TODO 应用程序</title>
+      <link>https://devblogs.microsoft.com/visualstudio/creating-a-react-todo-app-in-visual-studio-2022</link>
+      <description>【In this tutorial we will create a React front-end, with JavaScript, of a TODO web app using a Visual Studio 2022. To get started install Visual Studio with the Node.js development workload. This will include the JavaScript/TypeScript (JSTS) projects and the associated support. The code for this app can be found at sayedihashimi/todojswebapp (github.com). Create [&amp;hellip;]】在本教程中，我们将使用 Visual Studio 2022 创建一个带有 JavaScript 的 TODO Web 应用程序的 React 前端。要开始安装带有 Node.js 开发工作负载的 Visual Studio。这将包括 JavaScript/TypeScript (JSTS) 项目和相关支持。该应用程序的代码可以在 sayedihashimi/todojswebapp (github.com) 中找到。创造 […]</description>
+      <pubDate>Thu, 26 Sep 2024 10:00:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Organize Your Breakpoints like a pro】像专业人士一样组织您的断点</title>
-      <link>https://devblogs.microsoft.com/visualstudio/organize-your-breakpoints-like-a-pro</link>
-      <description>【Do you feel overwhelmed by the sheer number of breakpoints in your Visual Studio project? Wish you could categorize and toggle them on and off with ease? The new breakpoint group feature in Visual Studio 2022 is here to transform your debugging experience. Breakpoint groups allow you to create custom collections of breakpoints and apply [&amp;hellip;]】您是否对 Visual Studio 项目中断点的数量感到不知所措？希望您可以轻松地对它们进行分类并打开和关闭它们？ Visual Studio 2022 中的新断点组功能将改变您的调试体验。断点组允许您创建自定义断点集合并应用[...]</description>
-      <pubDate>Wed, 25 Sep 2024 10:00:50 +0000</pubDate>
+      <title>【If you’re going to specify the LVS_SORTASCENDING or LVS_SORTDESCENDING style, you had better be telling the truth】如果你要指定 LVS_SORTASCENDING 或 LVS_SORTDESCENDING 风格，你最好说实话</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240926-00/?p=110316</link>
+      <description>【Because the listview control uses it to optimize searching.】因为listview控件就是用它来优化搜索的。</description>
+      <pubDate>Thu, 26 Sep 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Integrating AI into Business Processes with the Process Framework】通过流程框架将人工智能集成到业务流程中</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-ai-into-business-processes-with-the-process-framework</link>
-      <description>【As organizations look to enhance efficiency and decision-making, the integration of AI into business processes has become increasingly important. The new Process Framework for Microsoft Semantic Kernel empowers developers to seamlessly embed AI into their workflows, providing a structured approach to optimizing daily operations. Not sure what a business process is? A Process is a structured sequence [&amp;hellip;]】随着组织寻求提高效率和决策能力，将人工智能集成到业务流程中变得越来越重要。 Microsoft Semantic Kernel 的新流程框架使开发人员能够将 AI 无缝嵌入到他们的工作流程中，从而提供优化日常运营的结构化方法。不确定什么是业务流程？流程是一个结构化序列[...]</description>
-      <pubDate>Wed, 25 Sep 2024 14:30:34 +0000</pubDate>
+      <title>【Using JSON Schema for Structured Output in Python for OpenAI Models】在 OpenAI 模型的 Python 中使用 JSON 架构进行结构化输出</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/using-json-schema-for-structured-output-in-python-for-openai-models</link>
+      <description>【In working with AI applications, ensuring that the output generated by a language model is structured and follows a consistent format is critical—especially when handling complex tasks like solving math problems. A powerful way to achieve this is through the use of JSON Schema, which allows the AI model to produce outputs that align with [&amp;hellip;]】在使用人工智能应用程序时，确保语言模型生成的输出是结构化的并遵循一致的格式至关重要，尤其是在处理解决数学问题等复杂任务时。实现这一目标的一个强大方法是使用 JSON Schema，它允许 AI 模型生成与 [...] 一致的输出。</description>
+      <pubDate>Thu, 26 Sep 2024 17:53:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Another example of the Windows Runtime interop pattern: Using the UserConsentVerifier from a Win32 program】Windows 运行时互操作模式的另一个示例：使用 Win32 程序中的 UserConsentVerifier</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240925-00/?p=110312</link>
-      <description>【Following the standard pattern.】遵循标准模式。</description>
-      <pubDate>Wed, 25 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Build a chatbot on your own data in 1 hour with Azure SQL, Langchain and Chainlit】使用 Azure SQL、Langchain 和 Chainlit 在 1 小时内根据您自己的数据构建聊天机器人</title>
+      <link>https://devblogs.microsoft.com/azure-sql/build-a-chatbot-on-your-own-data-in-1-hour-with-azure-sql-langchain-and-chainlit</link>
+      <description>【Chatbots are the hot topic lately, and now you can create them easily by downloading solutions like OpenWebUI, connect it to Ollama or any OpenAI compatible API, choose your favorite language model, and then run it. It just takes a few minutes and it&amp;#8217;s done. But building chatbots is not enough, you most likely want [&amp;hellip;]】聊天机器人是最近的热门话题，现在您可以通过下载 OpenWebUI 等解决方案轻松创建它们，将其连接到 Ollama 或任何 OpenAI 兼容的 API，选择您最喜欢的语言模型，然后运行它。只需几分钟就可以完成。但构建聊天机器人还不够，您很可能想要 [...]</description>
+      <pubDate>Thu, 26 Sep 2024 15:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.23.1-3 and 1.22.7-3 Microsoft builds now available】Go 1.23.1-3 和 1.22.7-3 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-1-3-and-1-22-7-3-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Thu, 26 Sep 2024 18:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Common annotated security keys】常见的带注释的安全密钥</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/common-annotated-security-keys</link>
+      <description>【In April 2021, GitHub announced changes to their security token format that significantly enhanced security. The improvement leveraged two straightforward techniques: a fixed signature in the generated token and a checksum &amp;#8211; both of which are highly effective in eliminating false positives (noise) and false negatives (missed findings). Microsoft also implements these techniques widely in [&amp;hellip;]】2021 年 4 月，GitHub 宣布更改其安全令牌格式，显着增强了安全性。该改进利用了两种简单的技术：生成的令牌中的固定签名和校验和——这两种技术在消除误报（噪声）和漏报（遗漏发现）方面非常有效。微软还在[...]中广泛实施了这些技术</description>
+      <pubDate>Wed, 25 Sep 2024 18:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Tailored Code Completions for C++ Developers: Fine-tuned models are now in limited public beta for GitHub Copilot Enterprise】为 C++ 开发人员量身定制的代码完成：微调模型现已进入 GitHub Copilot Enterprise 的有限公开测试版</title>
+      <link>https://devblogs.microsoft.com/cppblog/tailored-code-completions-for-c-developers-fine-tuned-models-are-now-in-limited-public-beta-for-github-copilot-enterprise</link>
+      <description>【GitHub recently announced that custom models are available for GitHub Copilot Enterprise users in limited public beta. Custom models are fine-tuned on your organization’s proprietary codebases and coding practices to provide more contextually relevant and consistent inline suggestions. How It Works: Security and Privacy in Custom Models The data used to train your organization’s custom [&amp;hellip;]】GitHub 最近宣布，在有限的公开测试版中，自定义模型可供 GitHub Copilot Enterprise 用户使用。自定义模型根据您组织的专有代码库和编码实践进行微调，以提供更上下文相关且一致的内联建议。它是如何工作的：自定义模型中的安全性和隐私用于培训组织的自定义模型的数据[...]</description>
+      <pubDate>Thu, 26 Sep 2024 15:27:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
