@@ -4,27 +4,9 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Reaffirming our commitment to free】重申我们对免费的承诺</title>
-      <link>https://blog.cloudflare.com/cloudflares-commitment-to-free</link>
-      <description>【 Today Cloudflare reaffirms its commitment to offering a robust Free service tier that continues to improve. We share why Free is a cornerstone of our business strategy, and how it contributes to building a better Internet.&#xA; 】今天，Cloudflare 重申其致力于提供持续改进的强大免费服务层的承诺。我们分享为什么免费是我们业务战略的基石，以及它如何为建设更好的互联网做出贡献。</description>
-      <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Expanding Cloudflare&#39;s support for open source projects with Project Alexandria】通过 Project Alexandria 扩展 Cloudflare 对开源项目的支持</title>
-      <link>https://blog.cloudflare.com/expanding-our-support-for-oss-projects-with-project-alexandria</link>
-      <description>【 At Cloudflare, we believe in the power of open source. With Project Alexandria, our expanded open source program, we’re helping open source projects have a sustainable and scalable future, providing them with the tools and protection needed to thrive. 】在 Cloudflare，我们相信开源的力量。通过我们扩展的开源项目 Alexandria 项目，我们正在帮助开源项目拥有可持续和可扩展的未来，为它们提供蓬勃发展所需的工具和保护。</description>
-      <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Advancing cybersecurity: Cloudflare implements a new bug bounty VIP program as part of CISA Pledge commitment】推进网络安全：Cloudflare 实施新的错误赏金 VIP 计划，作为 CISA Pledge 承诺的一部分</title>
-      <link>https://blog.cloudflare.com/cisa-pledge-commitment-bug-bounty-vip</link>
-      <description>【 Cloudflare strengthens its commitment to cybersecurity by joining CISA&#39;s &#34;Secure by Design&#34; pledge. In line with this commitment, we&#39;re enhancing our vulnerability disclosure policy by launching a VIP bug bounty program, giving top researchers early access to our products. Keep an eye out for future updates regarding Cloudflare&#39;s CISA pledge as we work together to shape a safer digital future. 】Cloudflare 通过加入 CISA 的“安全设计”承诺，强化了其对网络安全的承诺。根据这一承诺，我们正在通过启动 VIP 漏洞赏金计划来增强我们的漏洞披露政策，让顶尖研究人员能够尽早访问我们的产品。请密切关注有关 Cloudflare CISA 承诺的未来更新，我们将共同努力塑造更安全的数字未来。</description>
-      <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Network trends and natural language: Cloudflare Radar’s new Data Explorer &amp; AI Assistant】网络趋势和自然语言：Cloudflare Radar 的新数据浏览器和 AI 助手</title>
-      <link>https://blog.cloudflare.com/radar-data-explorer-ai-assistant</link>
-      <description>【 The Cloudflare Radar Data Explorer provides a simple Web-based interface to build more complex API queries, including comparisons and filters, and visualize the results. The accompanying AI Assistant translates a user’s natural language statements or questions into the appropriate Radar API calls. 】Cloudflare Radar Data Explorer 提供了一个简单的基于 Web 的界面来构建更复杂的 API 查询（包括比较和过滤器）以及可视化结果。随附的 AI 助手将用户的自然语言陈述或问题翻译为适当的 Radar API 调用。</description>
+      <title>【AI Everywhere with the WAF Rule Builder Assistant, Cloudflare Radar AI Insights, and updated AI bot protection】借助 WAF 规则生成器助手、Cloudflare Radar AI Insights 和更新的 AI 机器人防护，AI 无处不在</title>
+      <link>https://blog.cloudflare.com/bringing-ai-to-cloudflare</link>
+      <description>【 This year for Cloudflare’s birthday, we’ve extended our AI Assistant capabilities to help you build new WAF rules, added new AI bot &amp; crawler traffic insights to Radar, and given customers new AI bot blocking capabilities 】今年是 Cloudflare 的生日，我们扩展了 AI 助手功能，帮助您构建新的 WAF 规则，为 Radar 添加了新的 AI 机器人和爬虫流量洞察，并为客户提供了新的 AI 机器人拦截功能</description>
       <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -34,16 +16,16 @@
       <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Empowering builders: introducing the Dev Alliance and Workers Launchpad Cohort #4】为构建者赋权：引入开发联盟和 Workers Launchpad Cohort #4</title>
-      <link>https://blog.cloudflare.com/launchpad-cohort4-dev-starter-pack</link>
-      <description>【 Empowering developers with the Dev Starter Pack and Workers Cohort #4: get free or discounted access to essential developer tools and meet the latest set of incredible startups building on Cloudflare. 】通过 Dev Starter Pack 和 Workers Cohort #4 为开发人员提供支持：免费或以折扣价访问基本开发人员工具，并会见在 Cloudflare 上构建的最新一批令人难以置信的初创公司。</description>
+      <title>【Network trends and natural language: Cloudflare Radar’s new Data Explorer &amp; AI Assistant】网络趋势和自然语言：Cloudflare Radar 的新数据浏览器和 AI 助手</title>
+      <link>https://blog.cloudflare.com/radar-data-explorer-ai-assistant</link>
+      <description>【 The Cloudflare Radar Data Explorer provides a simple Web-based interface to build more complex API queries, including comparisons and filters, and visualize the results. The accompanying AI Assistant translates a user’s natural language statements or questions into the appropriate Radar API calls. 】Cloudflare Radar Data Explorer 提供了一个简单的基于 Web 的界面来构建更复杂的 API 查询（包括比较和过滤器）以及可视化结果。随附的 AI 助手将用户的自然语言陈述或问题翻译为适当的 Radar API 调用。</description>
       <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Making Workers AI faster and more efficient: Performance optimization with KV cache compression and speculative decoding】让 Workers AI 更快、更高效：通过 KV 缓存压缩和推测解码进行性能优化</title>
-      <link>https://blog.cloudflare.com/making-workers-ai-faster</link>
-      <description>【 With a new generation of data center accelerator hardware and using optimization techniques such as KV cache compression and speculative decoding, we’ve made large language model (LLM) inference lightning-fast on the Cloudflare Workers AI platform. 】借助新一代数据中心加速器硬件并使用 KV 缓存压缩和推测解码等优化技术，我们在 Cloudflare Workers AI 平台上实现了闪电般的大型语言模型 (LLM) 推理。</description>
-      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Advancing cybersecurity: Cloudflare implements a new bug bounty VIP program as part of CISA Pledge commitment】推进网络安全：Cloudflare 实施新的错误赏金 VIP 计划，作为 CISA Pledge 承诺的一部分</title>
+      <link>https://blog.cloudflare.com/cisa-pledge-commitment-bug-bounty-vip</link>
+      <description>【 Cloudflare strengthens its commitment to cybersecurity by joining CISA&#39;s &#34;Secure by Design&#34; pledge. In line with this commitment, we&#39;re enhancing our vulnerability disclosure policy by launching a VIP bug bounty program, giving top researchers early access to our products. Keep an eye out for future updates regarding Cloudflare&#39;s CISA pledge as we work together to shape a safer digital future. 】Cloudflare 通过加入 CISA 的“安全设计”承诺，强化了其对网络安全的承诺。根据这一承诺，我们正在通过启动 VIP 漏洞赏金计划来增强我们的漏洞披露政策，让顶尖研究人员能够尽早访问我们的产品。请密切关注有关 Cloudflare CISA 承诺的未来更新，我们将共同努力塑造更安全的数字未来。</description>
+      <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Builder Day 2024: 18 big updates to the Workers platform】2024 年建造者日：Workers 平台的 18 项重大更新</title>
@@ -52,16 +34,34 @@
       <pubDate>Thu, 26 Sep 2024 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【AI Everywhere with the WAF Rule Builder Assistant, Cloudflare Radar AI Insights, and updated AI bot protection】借助 WAF 规则生成器助手、Cloudflare Radar AI Insights 和更新的 AI 机器人防护，AI 无处不在</title>
-      <link>https://blog.cloudflare.com/bringing-ai-to-cloudflare</link>
-      <description>【 This year for Cloudflare’s birthday, we’ve extended our AI Assistant capabilities to help you build new WAF rules, added new AI bot &amp; crawler traffic insights to Radar, and given customers new AI bot blocking capabilities 】今年是 Cloudflare 的生日，我们扩展了 AI 助手功能，帮助您构建新的 WAF 规则，为 Radar 添加了新的 AI 机器人和爬虫流量洞察，并为客户提供了新的 AI 机器人拦截功能</description>
+      <title>【Expanding Cloudflare&#39;s support for open source projects with Project Alexandria】通过 Project Alexandria 扩展 Cloudflare 对开源项目的支持</title>
+      <link>https://blog.cloudflare.com/expanding-our-support-for-oss-projects-with-project-alexandria</link>
+      <description>【 At Cloudflare, we believe in the power of open source. With Project Alexandria, our expanded open source program, we’re helping open source projects have a sustainable and scalable future, providing them with the tools and protection needed to thrive. 】在 Cloudflare，我们相信开源的力量。通过我们扩展的开源项目 Alexandria 项目，我们正在帮助开源项目拥有可持续和可扩展的未来，为它们提供蓬勃发展所需的工具和保护。</description>
       <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare’s bigger, better, faster AI platform】Cloudflare 更大、更好、更快的 AI 平台</title>
-      <link>https://blog.cloudflare.com/workers-ai-bigger-better-faster</link>
-      <description>【 Whether you want the fastest inference at the edge, optimized AI workflows, or vector database-powered RAG, we’re excited to help you harness the full potential of AI and get started on building with Cloudflare. 】无论您想要最快的边缘推理、优化的 AI 工作流程还是矢量数据库驱动的 RAG，我们都很高兴能够帮助您充分利用 AI 的潜力并开始使用 Cloudflare 进行构建。</description>
-      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+      <title>【Wrapping up another Birthday Week celebration】结束另一个生日周庆祝活动</title>
+      <link>https://blog.cloudflare.com/birthday-week-2024-wrap-up</link>
+      <description>【 Recapping all the big announcements made during 2024’s Birthday Week. 】回顾 2024 年生日周期间发布的所有重大公告。</description>
+      <pubDate>Mon, 30 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Impact of Verizon’s September 30 outage on Internet traffic】Verizon 9 月 30 日断电对互联网流量的影响</title>
+      <link>https://blog.cloudflare.com/impact-of-verizons-september-30-outage-on-internet-traffic</link>
+      <description>【 On Monday, September 30, customers on Verizon’s mobile network in multiple cities across the United States reported experiencing a loss of connectivity. HTTP request traffic data from Verizon’s mobile ASN (AS6167) showed nominal declines across impacted cities.&#xA; 】9 月 30 日星期一，美国多个城市的 Verizon 移动网络客户报告称遇到了连接中断的情况。来自 Verizon 移动 ASN (AS6167) 的 HTTP 请求流量数据显示受影响城市的名义流量有所下降。</description>
+      <pubDate>Tue, 01 Oct 2024 00:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reaffirming our commitment to free】重申我们对免费的承诺</title>
+      <link>https://blog.cloudflare.com/cloudflares-commitment-to-free</link>
+      <description>【 Today Cloudflare reaffirms its commitment to offering a robust Free service tier that continues to improve. We share why Free is a cornerstone of our business strategy, and how it contributes to building a better Internet.&#xA; 】今天，Cloudflare 重申其致力于提供持续改进的强大免费服务层的承诺。我们分享为什么免费是我们业务战略的基石，以及它如何为建设更好的互联网做出贡献。</description>
+      <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Empowering builders: introducing the Dev Alliance and Workers Launchpad Cohort #4】为构建者赋权：引入开发联盟和 Workers Launchpad Cohort #4</title>
+      <link>https://blog.cloudflare.com/launchpad-cohort4-dev-starter-pack</link>
+      <description>【 Empowering developers with the Dev Starter Pack and Workers Cohort #4: get free or discounted access to essential developer tools and meet the latest set of incredible startups building on Cloudflare. 】通过 Dev Starter Pack 和 Workers Cohort #4 为开发人员提供支持：免费或以折扣价访问基本开发人员工具，并会见在 Cloudflare 上构建的最新一批令人难以置信的初创公司。</description>
+      <pubDate>Fri, 27 Sep 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
