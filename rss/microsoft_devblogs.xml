@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【The case of the crash when destructing a std::map】破坏 std::map 时崩溃的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240927-00/?p=110320</link>
-      <description>【Who is corrupting the map?】谁在破坏地图？</description>
-      <pubDate>Fri, 27 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Announcing the stable release of the Azure OpenAI library for .NET】宣布推出适用于 .NET 的 Azure OpenAI 库的稳定版本</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-the-stable-release-of-the-azure-openai-library-for-net</link>
+      <description>【The stable release of the Azure OpenAI library for .NET is now available and it includes support for the entire OpenAI API, GPT-4o, and o1-preview models.】适用于 .NET 的 Azure OpenAI 库的稳定版本现已推出，它包括对整个 OpenAI API、GPT-4o 和 o1-preview 模型的支持。</description>
+      <pubDate>Tue, 01 Oct 2024 20:20:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Effectively building Linux apps with Microsoft Dev Box and WSL】使用 Microsoft Dev Box 和 WSL 有效构建 Linux 应用程序</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/effectively-building-linux-apps-with-microsoft-dev-box-and-wsl</link>
-      <description>【Developers cherish nothing more than the environments they use every day to build apps. These environments have to be configured just right, with the tools they need for day-to-day tasks, and even the details like the size of the point mouse. One thing is certain, when you don’t have enough flexibility and control over their [&amp;hellip;]】开发人员最珍惜的就是他们每天用来构建应用程序的环境。这些环境必须配置得恰到好处，包括日常任务所需的工具，甚至是鼠标大小等细节。有一点是肯定的，当你没有足够的灵活性和控制他们的[...]</description>
-      <pubDate>Mon, 30 Sep 2024 23:23:21 +0000</pubDate>
+      <title>【Visual Studio 2022 – Recent performance enhancements】Visual Studio 2022 – 最近的性能增强</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-recent-performance-enhancements</link>
+      <description>【Visual Studio 2022 continues to be faster with each version. In this blog post we will highlight a couple of the more significant enhancements you’ll experience in 17.11, such as a more efficient C# language service, faster conditional breakpoints and symbol searches in C++. Reduced CPU usage by C# language service Code Indexing In 17.10 [&amp;hellip;]】Visual Studio 2022 每个版本的速度都变得更快。在这篇博文中，我们将重点介绍您将在 17.11 中体验到的一些更重要的增强功能，例如更高效的 C# 语言服务、更快的条件断点和 C++ 中的符号搜索。 17.10 中的 C# 语言服务代码索引减少了 CPU 使用率 [...]</description>
+      <pubDate>Tue, 01 Oct 2024 14:32:23 +0000</pubDate>
     </item>
     <item>
-      <title>【SK Python Kernel Reaches 1,000,000 downloads】SK Python 内核下载量突破 1,000,000 次</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/sk-python-kernel-reaches-1000000-downloads</link>
-      <description>【We are thrilled to announce that Microsoft Semantic Kernel Python Kernel has reached an incredible milestone of 1,000,000 downloads! This achievement would not have been possible without the unwavering support and enthusiasm of our community. We want to extend our heartfelt thanks to every developer, contributor, and user who has embraced the Python Kernel, providing [&amp;hellip;]】我们很高兴地宣布 Microsoft Semantic Kernel Python Kernel 已达到 1,000,000 次下载的令人难以置信的里程碑！如果没有我们社区坚定不移的支持和热情，这一成就是不可能实现的。我们要向每一位拥抱 Python 内核的开发者、贡献者和用户表示衷心的感谢，他们提供了 [...]</description>
-      <pubDate>Fri, 27 Sep 2024 15:32:13 +0000</pubDate>
+      <title>【Announcing the stable release of the official OpenAI library for .NET】宣布 .NET 官方 OpenAI 库的稳定版本</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet</link>
+      <description>【Discover the stable release of the official OpenAI library for .NET, empowering developers to integrate cutting-edge AI models, including GPT-4o &amp;amp; o1, into their .NET applications.】了解 .NET 官方 OpenAI 库的稳定版本，使开发人员能够将尖端 AI 模型（包括 GPT-4o 和 o1）集成到他们的 .NET 应用程序中。</description>
+      <pubDate>Tue, 01 Oct 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Semantic Kernel for Java 1.3.0】宣布推出 Java 语义内核 1.3.0</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-3-0</link>
-      <description>【Hello again Java AI developers! We are announcing the 1.3.0 release of the Semantic Kernel for Java. You can find our updates on the GitHub repository and the artifacts on Maven Central. This release will mark the final experimental version of our Vector Store functionality. Vector search is now available across all our supported vector stores. We’ve implemented approximate search [&amp;hellip;]】Java AI 开发者们大家好！我们宣布推出 Java 语义内核 1.3.0 版本。您可以在 GitHub 存储库上找到我们的更新，并在 Maven Central 上找到我们的工件。此版本将标志着我们的矢量存储功能的最终实验版本。现在，我们所有支持的矢量商店都提供矢量搜索。我们已经实现了近似搜索[...]</description>
-      <pubDate>Fri, 27 Sep 2024 17:58:44 +0000</pubDate>
+      <title>【Deprecation of the macOS-12 Hosted Pipeline Image】弃用 macOS-12 托管管道映像</title>
+      <link>https://devblogs.microsoft.com/devops/upcoming-deprecation-of-macos-12-hosted-pipeline-image</link>
+      <description>【Azure DevOps is starting the deprecation process for the macOS-12 (Monterey) hosted pilelines image. While the image is being deprecated, you may experience longer queue times during peak usage hours. Deprecation will begin on October 7 and the image will be fully unsupported by December 3. Pipeline jobs using the macOS-12 image label should be [&amp;hellip;]】Azure DevOps 正在启动 macOS-12 (Monterey) 托管的桩线映像的弃用流程。虽然该映像已被弃用，但您可能会在使用高峰时段遇到更长的排队时间。弃用将于 10 月 7 日开始，到 12 月 3 日，该映像将完全不受支持。使用 macOS-12 映像标签的管道作业应该是 [...]</description>
+      <pubDate>Tue, 01 Oct 2024 12:44:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (September 2024)】Azure SDK 版本（2024 年 9 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Fri, 27 Sep 2024 17:31:01 +0000</pubDate>
+      <title>【Using JSON Schema for Structured Output in .NET for OpenAI Models】在 OpenAI 模型的 .NET 中使用 JSON 架构进行结构化输出</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/using-json-schema-for-structured-output-in-net-for-openai-models</link>
+      <description>【In one of the previous posts, we demonstrated how to use JSON Schema to get Structured Output with OpenAI and Python version of Semantic Kernel: Using JSON Schema for Structured Output in Python for OpenAI Models. In this post, we will explore how to implement a JSON Schema-based structured output using .NET version of Semantic [&amp;hellip;]】在之前的一篇文章中，我们演示了如何使用 JSON 模式通过 OpenAI 和 Python 版本的语义内核获取结构化输出：在 OpenAI 模型的 Python 中使用 JSON 模式进行结构化输出。在这篇文章中，我们将探索如何使用 .NET 版本的 Semantic 实现基于 JSON 模式的结构化输出 [...]</description>
+      <pubDate>Tue, 01 Oct 2024 19:12:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Effortless Instrumentation profiling with Persistent Target Selection】通过持续目标选择轻松进行仪器分析</title>
-      <link>https://devblogs.microsoft.com/visualstudio/effortless-instrumentation-profiling-with-persistent-target-selection</link>
-      <description>【Ever wished to assess your code&amp;#8217;s performance without repeatedly choosing the target process or executable for each instrumentation profiling session? If so, you&amp;#8217;re among many developers who find this task cumbersome and prone to errors, especially when profiling the same target repeatedly. We understand your frustration and have a solution: Visual Studio 2022 introduces a [&amp;hellip;]】是否曾经希望评估代码的性能，而无需为每个仪器分析会话重复选择目标进程或可执行文件？如果是这样，您就是许多开发人员中的一员，他们发现此任务很麻烦并且容易出错，尤其是在重复分析同一目标时。我们理解您的挫败感并提供了解决方案：Visual Studio 2022 引入了 [...]</description>
-      <pubDate>Mon, 30 Sep 2024 10:00:37 +0000</pubDate>
+      <title>【Welcome to the OpenAPI Blog】欢迎来到 OpenAPI 博客</title>
+      <link>https://devblogs.microsoft.com/openapi/welcome-post</link>
+      <description>【An introduction to the OpenAPI blog, what it is, and what you can expect to find here.】OpenAPI 博客简介、它是什么以及您可以在这里找到什么。</description>
+      <pubDate>Tue, 01 Oct 2024 18:48:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio at Unreal Fest Seattle 2024】Visual Studio 参加 2024 年西雅图虚幻音乐节</title>
-      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-unreal-fest-seattle-2024</link>
-      <description>【Join us in-person at Unreal Fest Seattle 2024 with an in-depth look at how Visual Studio and GitHub Copilot can help modernize your Unreal Engine game development. Session Title: Modernizing Game Development with Visual Studio and AI Session Info: October 3rd, 2024, 2:00 PM-3:00 PM Pacific Time | Room 445 Abstract: Join Microsoft to learn [&amp;hellip;]】亲自参加 2024 年西雅图 Unreal Fest，深入了解 Visual Studio 和 GitHub Copilot 如何帮助您实现虚幻引擎游戏开发的现代化。会议标题：利用 Visual Studio 和 AI 实现游戏开发现代化会议信息：太平洋时间 2024 年 10 月 3 日下午 2:00 至下午 3:00 445 室摘要：加入 Microsoft 学习 [...]</description>
-      <pubDate>Mon, 30 Sep 2024 17:01:09 +0000</pubDate>
+      <title>【Misunderstanding the “Prevent access to registry editing tools” policy】误解“阻止访问注册表编辑工具”政策</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241001-22/?p=110330</link>
+      <description>【It prevents access to the tools, but not to the registry itself.】它可以阻止对工具的访问，但不会阻止对注册表本身的访问。</description>
+      <pubDate>Tue, 01 Oct 2024 16:10:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing seamless authentication with Power Pages and Microsoft Entra External ID】引入使用 Power Pages 和 Microsoft Entra 外部 ID 的无缝身份验证</title>
-      <link>https://devblogs.microsoft.com/identity/external-id-and-power-pages</link>
-      <description>【Announcing the public preview of Microsoft Entra External ID as an identity provider for Microsoft Power Pages, streamlining authentication for your external-facing apps. With Power Pages, you can launch a website in minutes, and External ID provides robust tools to secure external identities, with extensive customization options available.】宣布推出 Microsoft Entra 外部 ID 的公共预览版，作为 Microsoft Power Pages 的身份提供程序，简化面向外部的应用程序的身份验证。借助 Power Pages，您可以在几分钟内启动网站，而外部 ID 提供强大的工具来保护外部身份，并提供广泛的自定义选项。</description>
-      <pubDate>Mon, 30 Sep 2024 17:13:23 +0000</pubDate>
+      <title>【Dev Proxy v0.21 with simulating authentication and authorization】Dev Proxy v0.21 具有模拟身份验证和授权功能</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-21-with-simulating-authentication-and-authorization</link>
+      <description>【Discover what&#39;s new in the latest version of Dev Proxy to help you build robust apps connected to APIs.】了解最新版本的 Dev Proxy 中的新增功能，帮助您构建连接到 API 的强大应用程序。</description>
+      <pubDate>Tue, 01 Oct 2024 07:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Pulling a single item from a C++ parameter pack by its index, remarks】按索引从 C++ 参数包中提取单个项目，备注</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240930-00/?p=110324</link>
-      <description>【Why such a complicated way to pull the type from the pack?】为什么要采用如此复杂的方式从包中提取类型？</description>
-      <pubDate>Mon, 30 Sep 2024 14:00:00 +0000</pubDate>
+      <title>【Announcing Private Preview: Read and Read/Write Privileges with Secondary Users for vCore-Based Azure Cosmos DB for MongoDB】宣布私有预览版：为基于 vCore 的 Azure Cosmos DB for MongoDB 提供辅助用户的读取和读/写权限</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-private-preview-read-and-read-write-privileges-with-secondary</link>
+      <description>【 We are excited to announce the private preview of a new feature in vCore-based Azure Cosmos DB for MongoDB —Role-Based Access Control (RBAC) Integration for Secondary Users with Read/Read Write Privileges. This enhancement is designed to give organizations more granular control over their database security while maintaining the flexibility and performance that  vCore-based Azure Cosmos [&amp;hellip;]】 我们很高兴地宣布推出基于 vCore 的 Azure Cosmos DB for MongoDB 的一项新功能的私人预览版 - 为具有读/读写权限的二级用户提供基于角色的访问控制 (RBAC) 集成。此增强功能旨在让组织对其数据库安全性进行更精细的控制，同时保持基于 vCore 的 Azure Cosmos 的灵活性和性能[...]</description>
+      <pubDate>Tue, 01 Oct 2024 16:15:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the General Availability (GA) of Native Authentication for Microsoft Entra External ID】宣布 Microsoft Entra 外部 ID 的本机身份验证全面可用 (GA)</title>
-      <link>https://devblogs.microsoft.com/identity/native-auth-for-external-id-ga</link>
-      <description>【Introducing the General Availability (GA) of Native Authentication for Microsoft Entra External ID! A feature that allows you to design and control the sign-in experience within your mobile apps.】Microsoft Entra 外部 ID 的本机身份验证正式发布 (GA)！该功能允许您设计和控制移动应用程序中的登录体验。</description>
-      <pubDate>Mon, 30 Sep 2024 17:25:22 +0000</pubDate>
+      <title>【High-Resolution Timers on Windows】Windows 上的高分辨率计时器</title>
+      <link>https://devblogs.microsoft.com/go/high-resolution-timers-windows</link>
+      <description>【The Go Windows port added support for high-resolution timers in Go 1.23, boosting the resolution of time.Sleep from ~15.6ms to ~0.5ms.】Go Windows 端口在 Go 1.23 中添加了对高分辨率计时器的支持，将 time.Sleep 的分辨率从 ~15.6ms 提高到 ~0.5ms。</description>
+      <pubDate>Tue, 01 Oct 2024 13:10:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
