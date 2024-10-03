@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
+      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
+      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】面向工程领导者的企业就绪会议（赞助）</description>
+      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Infrastructure as Code】基础设施即代码</title>
+      <link>https://blog.bytebytego.com/p/infrastructure-as-code</link>
+      <description>【It is difficult to imagine modern businesses operating without a scalable process to provision and manage the infrastructure.】很难想象现代企业在没有可扩展的流程来配置和管理基础设施的情况下运营。</description>
+      <pubDate>Thu, 12 Sep 2024 15:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Software Architecture Patterns】软件架构模式</title>
+      <link>https://blog.bytebytego.com/p/software-architecture-patterns</link>
+      <description>【Software architects often encounter similar goals and problems repeatedly throughout their careers.】软件架构师在其职业生涯中经常会反复遇到类似的目标和问题。</description>
+      <pubDate>Thu, 26 Sep 2024 15:31:31 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP130: Design a System Like YouTube】EP130：设计一个像 YouTube 这样的系统</title>
       <link>https://blog.bytebytego.com/p/ep130-design-a-system-like-youtube</link>
       <description>【&amp;#9986;&amp;#65039;Cut your QA cycles down to minutes with QA Wolf (Sponsored)】✂️使用 QA Wolf（赞助）将您的 QA 周期缩短至几分钟</description>
@@ -29,34 +47,16 @@
       <pubDate>Tue, 10 Sep 2024 15:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Infrastructure as Code】基础设施即代码</title>
-      <link>https://blog.bytebytego.com/p/infrastructure-as-code</link>
-      <description>【It is difficult to imagine modern businesses operating without a scalable process to provision and manage the infrastructure.】很难想象现代企业在没有可扩展的流程来配置和管理基础设施的情况下运营。</description>
-      <pubDate>Thu, 12 Sep 2024 15:30:10 +0000</pubDate>
+      <title>【EP131: How Uber Served 40 Million Reads with Integrated Redis Cache? 】EP131：Uber 如何通过集成 Redis 缓存提供 4000 万次读取服务？</title>
+      <link>https://blog.bytebytego.com/p/ep131-how-uber-served-40-million</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 28 Sep 2024 15:31:11 +0000</pubDate>
     </item>
     <item>
       <title>【The Saga Pattern】传奇模式</title>
       <link>https://blog.bytebytego.com/p/the-saga-pattern</link>
       <description>【In enterprise applications, nearly every request is executed within a database transaction.】在企业应用程序中，几乎每个请求都在数据库事务中执行。</description>
       <pubDate>Thu, 19 Sep 2024 15:30:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
-      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
-      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】面向工程领导者的企业就绪会议（赞助）</description>
-      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Software Architecture Patterns】软件架构模式</title>
-      <link>https://blog.bytebytego.com/p/software-architecture-patterns</link>
-      <description>【Software architects often encounter similar goals and problems repeatedly throughout their careers.】软件架构师在其职业生涯中经常会反复遇到类似的目标和问题。</description>
-      <pubDate>Thu, 26 Sep 2024 15:31:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP131: How Uber Served 40 Million Reads with Integrated Redis Cache? 】EP131：Uber 如何通过集成 Redis 缓存提供 4000 万次读取服务？</title>
-      <link>https://blog.bytebytego.com/p/ep131-how-uber-served-40-million</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 28 Sep 2024 15:31:11 +0000</pubDate>
     </item>
     <item>
       <title>【How Netflix Warms Petabytes of Cache Data】Netflix 如何加热 PB 级缓存数据</title>
