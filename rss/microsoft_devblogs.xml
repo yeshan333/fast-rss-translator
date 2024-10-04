@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Discover the New Azure Cosmos DB Samples Gallery!】发现新的 Azure Cosmos DB 示例库！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/new-samples-gallery</link>
-      <description>【We are thrilled to introduce the Azure Cosmos DB Samples Gallery —your ultimate destination for top-tier Azure Cosmos DB samples, technical guidance, and content created by both Microsoft and the community, including Azure OpenAI samples. &amp;nbsp; Who is it for? Designed for developers and technical professionals, this gallery is an invaluable resource for both new and [&amp;hellip;]】我们很高兴推出 Azure Cosmos DB 示例库，这是您获取顶级 Azure Cosmos DB 示例、技术指南以及 Microsoft 和社区创建的内容（包括 Azure OpenAI 示例）的最终目的地。   它是给谁用的？该画廊专为开发人员和技术专业人士设计，对于新手和[...]来说都是宝贵的资源。</description>
-      <pubDate>Wed, 02 Oct 2024 18:51:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A function for creating an absolute security descriptor from a self-relative one】一种从自相关描述符创建绝对安全描述符的函数</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241002-00/?p=110333</link>
-      <description>【Just wrap it up.】把它包起来吧。</description>
-      <pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Go 1.23.2-1 and 1.22.8-1 Microsoft builds now available】Go 1.23.2-1 和 1.22.8-1 Microsoft 版本现已推出</title>
       <link>https://devblogs.microsoft.com/go/go-1-23-2-1-and-1-22-8-1-microsoft-builds-now-available</link>
       <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
       <pubDate>Wed, 02 Oct 2024 17:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using JSON Schema for Structured Output in .NET for OpenAI Models】在 OpenAI 模型的 .NET 中使用 JSON 架构进行结构化输出</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/using-json-schema-for-structured-output-in-net-for-openai-models</link>
-      <description>【In one of the previous posts, we demonstrated how to use JSON Schema to get Structured Output with OpenAI and Python version of Semantic Kernel: Using JSON Schema for Structured Output in Python for OpenAI Models. In this post, we will explore how to implement a JSON Schema-based structured output using .NET version of Semantic [&amp;hellip;]】在之前的一篇文章中，我们演示了如何使用 JSON 模式通过 OpenAI 和 Python 版本的语义内核获取结构化输出：在 OpenAI 模型的 Python 中使用 JSON 模式进行结构化输出。在这篇文章中，我们将探索如何使用 .NET 版本的 Semantic 实现基于 JSON 模式的结构化输出 [...]</description>
-      <pubDate>Tue, 01 Oct 2024 19:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlocking the power of app analytics for ISVs in the Developer Portal】在开发者门户中为 ISV 释放应用程序分析的力量</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/unlocking-the-power-of-app-analytics-for-isvs-in-the-developer-portal</link>
-      <description>【Read about the updated app analytics capabilities in the Microsoft 365 Developer Portal.】了解 Microsoft 365 开发人员门户中更新的应用分析功能。</description>
-      <pubDate>Wed, 02 Oct 2024 17:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Latest enhancements to Copilot workflows in Visual Studio: Move seamlessly from Copilot in Quick Info and more…】Visual Studio 中 Copilot 工作流程的最新增强功能：从快速信息中的 Copilot 无缝移动以及更多...</title>
-      <link>https://devblogs.microsoft.com/cppblog/latest-enhancements-to-copilot-workflows-in-visual-studio-move-seamlessly-from-copilot-in-quick-info-and-more</link>
-      <description>【There have been new integrations added to Copilot workflows in Visual Studio to make it even more seamless to navigate between in-editor activities and the Chat window that has context of global workspace, conversational history, and more to get the most out of Copilot, wherever you are. With the latest updates, you can streamline your [&amp;hellip;]】Visual Studio 中的 Copilot 工作流程添加了新的集成，使编辑器内活动和聊天窗口之间的导航更加无缝，该窗口具有全局工作区上下文、对话历史记录等，以便随时随地充分利用 Copilot你是。通过最新的更新，您可以简化您的[...]</description>
-      <pubDate>Wed, 02 Oct 2024 16:24:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the stable release of the official OpenAI library for .NET】宣布 .NET 官方 OpenAI 库的稳定版本</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet</link>
-      <description>【Discover the stable release of the official OpenAI library for .NET, empowering developers to integrate cutting-edge AI models, including GPT-4o &amp;amp; o1, into their .NET applications.】了解 .NET 官方 OpenAI 库的稳定版本，使开发人员能够将尖端 AI 模型（包括 GPT-4o 和 o1）集成到他们的 .NET 应用程序中。</description>
-      <pubDate>Tue, 01 Oct 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Welcome to the OpenAPI Blog】欢迎来到 OpenAPI 博客</title>
-      <link>https://devblogs.microsoft.com/openapi/welcome-post</link>
-      <description>【An introduction to the OpenAPI blog, what it is, and what you can expect to find here.】OpenAPI 博客简介、它是什么以及您可以在这里找到什么。</description>
-      <pubDate>Tue, 01 Oct 2024 18:48:35 +0000</pubDate>
     </item>
     <item>
       <title>【Discover Hidden Insights with Profiler’s External Code Decompilation】通过 Profiler 的外部代码反编译发现隐藏的见解</title>
@@ -58,10 +16,52 @@
       <pubDate>Wed, 02 Oct 2024 10:00:09 +0000</pubDate>
     </item>
     <item>
+      <title>【How can I detect whether the user is running as an elevated administrator (as opposed to a natural administrator)?】如何检测用户是否以高级管理员身份运行（而不是自然管理员）？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241003-00/?p=110336</link>
+      <description>【You can ask for the elevation type.】您可以询问海拔类型。</description>
+      <pubDate>Thu, 03 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A function for creating an absolute security descriptor from a self-relative one】一种从自相关描述符创建绝对安全描述符的函数</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241002-00/?p=110333</link>
+      <description>【Just wrap it up.】把它包起来吧。</description>
+      <pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Discover the New Azure Cosmos DB Samples Gallery!】发现新的 Azure Cosmos DB 示例库！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/new-samples-gallery</link>
+      <description>【We are thrilled to introduce the Azure Cosmos DB Samples Gallery —your ultimate destination for top-tier Azure Cosmos DB samples, technical guidance, and content created by both Microsoft and the community, including Azure OpenAI samples. &amp;nbsp; Who is it for? Designed for developers and technical professionals, this gallery is an invaluable resource for both new and [&amp;hellip;]】我们很高兴推出 Azure Cosmos DB 示例库，这是您获取顶级 Azure Cosmos DB 示例、技术指南以及 Microsoft 和社区创建的内容（包括 Azure OpenAI 示例）的最终目的地。   它是给谁用的？该画廊专为开发人员和技术专业人士设计，对于新手和[...]来说都是宝贵的资源。</description>
+      <pubDate>Wed, 02 Oct 2024 18:51:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Account management】Microsoft 365 认证控制重点：帐户管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-account-management</link>
+      <description>【Learn how Microsoft 365 Certification validates account management controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的帐户管理控制是否到位。</description>
+      <pubDate>Thu, 03 Oct 2024 14:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Hackathon: Project Micronaire using Semantic Kernel】微软黑客马拉松：使用语义内核的马克隆项目</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel</link>
+      <description>【During our internal Microsoft Hackathon, there were a number of projects using Semantic Kernel. Today we&amp;#8217;d like to highlight one of the projects focused on using Semantic Kernel and the new Vector Store abstraction. I&amp;#8217;m going to turn it over to the Hackathon team to share more about their project and work using Semantic Kernel. [&amp;hellip;]】在我们内部的 Microsoft Hackathon 期间，有许多项目使用 Semantic Kernel。今天我们想重点介绍一个专注于使用语义内核和新的矢量存储抽象的项目。我将把它交给 Hackathon 团队，分享更多关于他们使用语义内核的项目和工作的信息。 […]</description>
+      <pubDate>Thu, 03 Oct 2024 21:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unlocking the power of app analytics for ISVs in the Developer Portal】在开发者门户中为 ISV 释放应用程序分析的力量</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/unlocking-the-power-of-app-analytics-for-isvs-in-the-developer-portal</link>
+      <description>【Read about the updated app analytics capabilities in the Microsoft 365 Developer Portal.】了解 Microsoft 365 开发人员门户中更新的应用分析功能。</description>
+      <pubDate>Wed, 02 Oct 2024 17:30:23 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing the stable release of the Azure OpenAI library for .NET】宣布推出适用于 .NET 的 Azure OpenAI 库的稳定版本</title>
       <link>https://devblogs.microsoft.com/azure-sdk/announcing-the-stable-release-of-the-azure-openai-library-for-net</link>
       <description>【The stable release of the Azure OpenAI library for .NET is now available and it includes support for the entire OpenAI API, GPT-4o, and o1-preview models.】适用于 .NET 的 Azure OpenAI 库的稳定版本现已推出，它包括对整个 OpenAI API、GPT-4o 和 o1-preview 模型的支持。</description>
       <pubDate>Tue, 01 Oct 2024 20:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Latest enhancements to Copilot workflows in Visual Studio: Move seamlessly from Copilot in Quick Info and more…】Visual Studio 中 Copilot 工作流程的最新增强功能：从快速信息中的 Copilot 无缝移动以及更多...</title>
+      <link>https://devblogs.microsoft.com/cppblog/latest-enhancements-to-copilot-workflows-in-visual-studio-move-seamlessly-from-copilot-in-quick-info-and-more</link>
+      <description>【There have been new integrations added to Copilot workflows in Visual Studio to make it even more seamless to navigate between in-editor activities and the Chat window that has context of global workspace, conversational history, and more to get the most out of Copilot, wherever you are. With the latest updates, you can streamline your [&amp;hellip;]】Visual Studio 中的 Copilot 工作流程添加了新的集成，使编辑器内活动和聊天窗口之间的导航更加无缝，该窗口具有全局工作区上下文、对话历史记录等，以便随时随地充分利用 Copilot你是。通过最新的更新，您可以简化您的[...]</description>
+      <pubDate>Wed, 02 Oct 2024 16:24:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

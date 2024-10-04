@@ -16,28 +16,28 @@
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to load-balance across multiple availability zones for improved redundancy】如何跨多个可用区进行负载平衡以提高冗余</title>
-      <link>https://www.gremlin.com/blog/how-to-load-balance-across-multiple-availability-zones-for-greater-redundancy</link>
-      <description>【Load balancers are great at distributing traffic across individual hosts, but what about zones? This blog explains cross-zone load balancing, and how it can help you improve throughput and reliability.】负载均衡器非常适合在各个主机之间分配流量，但是区域呢？本博客介绍了跨区域负载平衡，以及它如何帮助您提高吞吐量和可靠性。</description>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
-      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
-      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Testing for expiring ‌TLS and SSL certificates using Gremlin】使用 Gremlin 测试过期的 TLS 和 SSL 证书</title>
       <link>https://www.gremlin.com/blog/testing-for-expiring-tls-and-ssl-certificates-using-gremlin</link>
       <description>【TLS certificates are a critical part of the modern web, but they require rotating. Learn why expiring certificates are such a big problem, and how Gremlin helps you stay ahead of them.】TLS 证书是现代网络的重要组成部分，但它们需要轮换。了解为什么过期证书是一个大问题，以及 Gremlin 如何帮助您保持领先地位。</description>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Intelligent Health Checks: one-click observability for reliability tests】智能健康检查：可靠性测试的一键可观察性</title>
-      <link>https://www.gremlin.com/blog/intelligent-health-checks-one-click-observability-for-reliability-tests</link>
-      <description>【Figuring out what to monitor can be a challenge. That’s why Gremlin does it for you. Learn how Gremlin automatically creates and monitors critical metrics for your AWS services.】弄清楚要监控什么可能是一个挑战。这就是 Gremlin 为您做这件事的原因。了解 Gremlin 如何自动创建和监控 AWS 服务的关键指标。</description>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
+      <link>https://www.gremlin.com/blog/gremlin-for-compliance</link>
+      <description>【Find out how Gremlin can help companies in regulated industries comply with Operational Resilience requirements like DORA, APRA CPS230, FCA PS21/3, and more.】了解 Gremlin 如何帮助受监管行业的公司遵守 DORA、APRA CPS230、FCA PS21/3 等运营弹性要求。</description>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Release Roundup August 2024: Set experiment guardrails with customizable RBAC】2024 年 8 月发布综述：使用可定制的 RBAC 设置实验护栏</title>
+      <link>https://www.gremlin.com/blog/release-roundup-august-2024</link>
+      <description>【Custom role-based access controls (RBAC), improved proxy support, zone tags for Failure Flags, and much more! It’s all here in our August 2024 release roundup.】自定义基于角色的访问控制 (RBAC)、改进的代理支持、故障标志的区域标签等等！这一切都在我们的 2024 年 8 月版本综述中。</description>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to load-balance across multiple availability zones for improved redundancy】如何跨多个可用区进行负载平衡以提高冗余</title>
+      <link>https://www.gremlin.com/blog/how-to-load-balance-across-multiple-availability-zones-for-greater-redundancy</link>
+      <description>【Load balancers are great at distributing traffic across individual hosts, but what about zones? This blog explains cross-zone load balancing, and how it can help you improve throughput and reliability.】负载均衡器非常适合在各个主机之间分配流量，但是区域呢？本博客介绍了跨区域负载平衡，以及它如何帮助您提高吞吐量和可靠性。</description>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What is the Well-Architected Cloud Test Suite?】什么是架构完善的云测试套件？</title>
@@ -52,16 +52,16 @@
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
-      <link>https://www.gremlin.com/blog/gremlin-for-compliance</link>
-      <description>【Find out how Gremlin can help companies in regulated industries comply with Operational Resilience requirements like DORA, APRA CPS230, FCA PS21/3, and more.】了解 Gremlin 如何帮助受监管行业的公司遵守 DORA、APRA CPS230、FCA PS21/3 等运营弹性要求。</description>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
+      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
+      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Release Roundup August 2024: Set experiment guardrails with customizable RBAC】2024 年 8 月发布综述：使用可定制的 RBAC 设置实验护栏</title>
-      <link>https://www.gremlin.com/blog/release-roundup-august-2024</link>
-      <description>【Custom role-based access controls (RBAC), improved proxy support, zone tags for Failure Flags, and much more! It’s all here in our August 2024 release roundup.】基于角色的自定义访问控制 (RBAC)、改进的代理支持、故障标志的区域标签等等！这一切都在我们的 2024 年 8 月版本综述中。</description>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <title>【Intelligent Health Checks: one-click observability for reliability tests】智能健康检查：可靠性测试的一键可观察性</title>
+      <link>https://www.gremlin.com/blog/intelligent-health-checks-one-click-observability-for-reliability-tests</link>
+      <description>【Figuring out what to monitor can be a challenge. That’s why Gremlin does it for you. Learn how Gremlin automatically creates and monitors critical metrics for your AWS services.】弄清楚要监控什么可能是一个挑战。这就是 Gremlin 为您做这件事的原因。了解 Gremlin 如何自动创建和监控 AWS 服务的关键指标。</description>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
