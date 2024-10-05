@@ -4,28 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Go 1.23.2-1 and 1.22.8-1 Microsoft builds now available】Go 1.23.2-1 和 1.22.8-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-2-1-and-1-22-8-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Wed, 02 Oct 2024 17:39:24 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Account management】Microsoft 365 认证控制重点：帐户管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-account-management</link>
+      <description>【Learn how Microsoft 365 Certification validates account management controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的帐户管理控制是否到位。</description>
+      <pubDate>Thu, 03 Oct 2024 14:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Discover Hidden Insights with Profiler’s External Code Decompilation】通过 Profiler 的外部代码反编译发现隐藏的见解</title>
-      <link>https://devblogs.microsoft.com/visualstudio/discover-hidden-insights-with-profilers-external-code-decompilation</link>
-      <description>【Have you ever wondered what&amp;#8217;s happening under the hood of your .NET application? Do you want to quickly and easily identify and fix performance bottlenecks? If so, Visual Studio has the perfect tool for you: the profiler. The profiler allows you to analyze your code&amp;#8217;s performance, pinpoint hot paths, detect memory leaks, address thread contention, [&amp;hellip;]】您是否想知道 .NET 应用程序的底层发生了什么？您想快速轻松地识别并修复性能瓶颈吗？如果是这样，Visual Studio 为您提供了完美的工具：探查器。探查器允许您分析代码的性能，查明热路径，检测内存泄漏，解决线程争用，[...]</description>
-      <pubDate>Wed, 02 Oct 2024 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I detect whether the user is running as an elevated administrator (as opposed to a natural administrator)?】如何检测用户是否以高级管理员身份运行（而不是自然管理员）？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241003-00/?p=110336</link>
-      <description>【You can ask for the elevation type.】您可以询问海拔类型。</description>
-      <pubDate>Thu, 03 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A function for creating an absolute security descriptor from a self-relative one】一种从自相关描述符创建绝对安全描述符的函数</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241002-00/?p=110333</link>
-      <description>【Just wrap it up.】把它包起来吧。</description>
-      <pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Streamlining Error Handling in Power Automate for Better Workflow Performance】简化 Power Automate 中的错误处理以提高工作流程性能</title>
+      <link>https://devblogs.microsoft.com/ise/power-automate-error-handling</link>
+      <description>【This post explores effective error handling strategies in Power Automate to enhance workflow reliability and maintainability through practical techniques and integrations.】本文探讨了 Power Automate 中有效的错误处理策略，以通过实用技术和集成来增强工作流的可靠性和可维护性。</description>
+      <pubDate>Fri, 04 Oct 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Discover the New Azure Cosmos DB Samples Gallery!】发现新的 Azure Cosmos DB 示例库！</title>
@@ -34,34 +22,46 @@
       <pubDate>Wed, 02 Oct 2024 18:51:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Account management】Microsoft 365 认证控制重点：帐户管理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-account-management</link>
-      <description>【Learn how Microsoft 365 Certification validates account management controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的帐户管理控制是否到位。</description>
-      <pubDate>Thu, 03 Oct 2024 14:30:27 +0000</pubDate>
-    </item>
-    <item>
       <title>【Microsoft Hackathon: Project Micronaire using Semantic Kernel】微软黑客马拉松：使用语义内核的马克隆项目</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel</link>
-      <description>【During our internal Microsoft Hackathon, there were a number of projects using Semantic Kernel. Today we&amp;#8217;d like to highlight one of the projects focused on using Semantic Kernel and the new Vector Store abstraction. I&amp;#8217;m going to turn it over to the Hackathon team to share more about their project and work using Semantic Kernel. [&amp;hellip;]】在我们内部的 Microsoft Hackathon 期间，有许多项目使用 Semantic Kernel。今天我们想重点介绍一个专注于使用语义内核和新的矢量存储抽象的项目。我将把它交给 Hackathon 团队，分享更多关于他们使用语义内核的项目和工作的信息。 […]</description>
+      <description>【During our internal Microsoft Hackathon, there were a number of projects using Semantic Kernel. Today we&amp;#8217;d like to highlight one of the projects focused on using Semantic Kernel and the new Vector Store abstraction. I&amp;#8217;m going to turn it over to the Hackathon team to share more about their project and work using Semantic Kernel. [&amp;hellip;]】在我们内部的 Microsoft Hackathon 期间，有许多使用语义内核的项目。今天我们想重点介绍一个专注于使用语义内核和新的向量存储抽象的项目。我将把它交给 Hackathon 团队，分享更多关于他们使用语义内核的项目和工作的信息。 […]</description>
       <pubDate>Thu, 03 Oct 2024 21:19:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlocking the power of app analytics for ISVs in the Developer Portal】在开发者门户中为 ISV 释放应用程序分析的力量</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/unlocking-the-power-of-app-analytics-for-isvs-in-the-developer-portal</link>
-      <description>【Read about the updated app analytics capabilities in the Microsoft 365 Developer Portal.】了解 Microsoft 365 开发人员门户中更新的应用分析功能。</description>
-      <pubDate>Wed, 02 Oct 2024 17:30:23 +0000</pubDate>
+      <title>【Python in Visual Studio Code – October 2024 Release】Visual Studio Code 中的 Python – 2024 年 10 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2024-release</link>
+      <description>【The October 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include Python test coverage support and a default Python problem matcher. Keep reading to learn more!】2024 年 10 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括 Python 测试覆盖率支持和默认的 Python 问题匹配器。继续阅读以了解更多信息！</description>
+      <pubDate>Fri, 04 Oct 2024 14:21:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the stable release of the Azure OpenAI library for .NET】宣布推出适用于 .NET 的 Azure OpenAI 库的稳定版本</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/announcing-the-stable-release-of-the-azure-openai-library-for-net</link>
-      <description>【The stable release of the Azure OpenAI library for .NET is now available and it includes support for the entire OpenAI API, GPT-4o, and o1-preview models.】适用于 .NET 的 Azure OpenAI 库的稳定版本现已推出，它包括对整个 OpenAI API、GPT-4o 和 o1-preview 模型的支持。</description>
-      <pubDate>Tue, 01 Oct 2024 20:20:33 +0000</pubDate>
+      <title>【Go 1.23.2-1 and 1.22.8-1 Microsoft builds now available】Go 1.23.2-1 和 1.22.8-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-2-1-and-1-22-8-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Wed, 02 Oct 2024 17:39:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Latest enhancements to Copilot workflows in Visual Studio: Move seamlessly from Copilot in Quick Info and more…】Visual Studio 中 Copilot 工作流程的最新增强功能：从快速信息中的 Copilot 无缝移动以及更多...</title>
-      <link>https://devblogs.microsoft.com/cppblog/latest-enhancements-to-copilot-workflows-in-visual-studio-move-seamlessly-from-copilot-in-quick-info-and-more</link>
-      <description>【There have been new integrations added to Copilot workflows in Visual Studio to make it even more seamless to navigate between in-editor activities and the Chat window that has context of global workspace, conversational history, and more to get the most out of Copilot, wherever you are. With the latest updates, you can streamline your [&amp;hellip;]】Visual Studio 中的 Copilot 工作流程添加了新的集成，使编辑器内活动和聊天窗口之间的导航更加无缝，该窗口具有全局工作区上下文、对话历史记录等，以便随时随地充分利用 Copilot你是。通过最新的更新，您可以简化您的[...]</description>
-      <pubDate>Wed, 02 Oct 2024 16:24:34 +0000</pubDate>
+      <title>【How can I detect whether the user is running as an elevated administrator (as opposed to a natural administrator)?】如何检测用户是否以高级管理员身份运行（而不是自然管理员）？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241003-00/?p=110336</link>
+      <description>【You can ask for the elevation type.】您可以询问海拔类型。</description>
+      <pubDate>Thu, 03 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Scale Your Database Workloads with Multishard Clusters in vCore-based Azure Cosmos DB for MongoDB】在基于 vCore 的 Azure Cosmos DB for MongoDB 中使用多分片群集扩展数据库工作负载</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/scale-your-database-workloads-with-multishard-clusters-in-vcore-based-azure-cosmos-db-for-mongodb</link>
+      <description>【We’re excited to introduce significant enhancements to vCore-based Azure Cosmos DB for MongoDB with the release of multishard clusters preview, designed to take scalability and performance to the next level. This update brings several new capabilities that address the needs of demanding database workloads, making it easier than ever to manage large datasets and handle high-throughput [&amp;hellip;]】我们很高兴通过发布多分片集群预览版为基于 vCore 的 Azure Cosmos DB for MongoDB 引入重大增强功能，旨在将可扩展性和性能提升到新的水平。此更新带来了多项新功能，可以满足苛刻的数据库工作负载的需求，使管理大型数据集和处理高吞吐量变得比以往更容易[...]</description>
+      <pubDate>Fri, 04 Oct 2024 17:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Azure Cosmos DB Integration with LangChain.js!】宣布 Azure Cosmos DB 与 LangChain.js 集成！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-langchain-js</link>
+      <description>【Announcing Azure Cosmos DB Vector Store Integration with LangChain.js! We&amp;#8217;re simplifying AI app development by integrating Azure Cosmos DB&amp;#8217;s cost-effective and scalable vector search directly with LangChain.js! This powerful combination empowers JavaScript developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB&amp;#8217;s scalability and efficient vector search capabilities. This offers a powerful [&amp;hellip;]】宣布 Azure Cosmos DB 矢量存储与 LangChain.js 集成！我们通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 LangChain.js 集成来简化 AI 应用程序开发！这种强大的组合使 JavaScript 开发人员能够利用 Azure Cosmos DB 的可扩展性和高效的矢量搜索功能来高效管理快速、准确的数据检索。这提供了强大的[...]</description>
+      <pubDate>Fri, 04 Oct 2024 17:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How does the linker decide whether to call WinMain or wWinMain?】链接器如何决定是调用WinMain 还是wWinMain？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241004-00/?p=110338</link>
+      <description>【If you don&#39;t tell it, it will try to figure it out.】如果你不告诉它，它会尝试找出答案。</description>
+      <pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
