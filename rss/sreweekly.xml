@@ -4,16 +4,16 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #442】SRE 周刊第 #442 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-442/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ SLO: Elastic vs Datadog vs Grafana Here&amp;#8217;s a hands-on evaluation of the SLO offerings of three big players in the [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ SLO：Elastic vs Datadog vs Grafana 以下是对 3 个大公司的 SLO 产品的实际评估这 […]</description>
+      <pubDate>Mon, 16 Sep 2024 01:29:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #444】SRE 周刊 #444</title>
       <link>https://sreweekly.com/sre-weekly-issue-444/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ A good day to trie-hard: saving compute 1% at a time When you&amp;#8217;re doing something 60 million times per second, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ 努力尝试的好日子：一次节省计算 1% 当你正在做某事 60 时每秒百万次，[...]</description>
       <pubDate>Mon, 30 Sep 2024 00:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #441】SRE 周刊第 #441 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-441/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ How We Migrated from StatsD to Prometheus in One Month This post aims to shed some light on why we [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ 我们如何在一个月内从 StatsD 迁移到 Prometheus 这篇文章旨在阐明为什么我们 [... ]</description>
-      <pubDate>Mon, 09 Sep 2024 03:08:05 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #443】SRE 周刊第 #443 期</title>
@@ -22,16 +22,16 @@
       <pubDate>Mon, 23 Sep 2024 01:54:03 +0000</pubDate>
     </item>
     <item>
+      <title>【SRE Weekly Issue #441】SRE 周刊第 #441 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-441/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ How We Migrated from StatsD to Prometheus in One Month This post aims to shed some light on why we [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ 我们如何在一个月内从 StatsD 迁移到 Prometheus 这篇文章旨在阐明为什么我们 [... ]</description>
+      <pubDate>Mon, 09 Sep 2024 03:08:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #440】SRE 周刊 #440</title>
       <link>https://sreweekly.com/sre-weekly-issue-440/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Migrate off of PagerDuty, save money, and then have all of your configuration exported as Terraform modules? We did that. We know one of the hardest parts of leaving a legacy tool is the old configuration, that&amp;#8217;s why we dedicated time to build the Signals migrator, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：从 PagerDuty 迁移、省钱，然后将所有配置导出为 Terraform 模块？我们做到了。我们知道离开遗留工具最困难的部分之一是旧配置，这就是为什么我们花时间构建信号迁移器，[...]</description>
       <pubDate>Mon, 02 Sep 2024 00:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #442】SRE 周刊第 #442 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-442/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ SLO: Elastic vs Datadog vs Grafana Here&amp;#8217;s a hands-on evaluation of the SLO offerings of three big players in the [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ SLO：Elastic vs Datadog vs Grafana 以下是对 3 个大公司的 SLO 产品的实际评估这 […]</description>
-      <pubDate>Mon, 16 Sep 2024 01:29:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
