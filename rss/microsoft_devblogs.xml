@@ -4,22 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【How can I detect whether the user is running as an elevated administrator (as opposed to a natural administrator)?】如何检测用户是否以高级管理员身份运行（而不是自然管理员）？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241003-00/?p=110336</link>
-      <description>【You can ask for the elevation type.】您可以询问海拔类型。</description>
-      <pubDate>Thu, 03 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Account management】Microsoft 365 认证控制重点：帐户管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-account-management</link>
+      <description>【Learn how Microsoft 365 Certification validates account management controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的帐户管理控制是否到位。</description>
+      <pubDate>Thu, 03 Oct 2024 14:30:27 +0000</pubDate>
     </item>
     <item>
       <title>【Discover the New Azure Cosmos DB Samples Gallery!】发现新的 Azure Cosmos DB 示例库！</title>
       <link>https://devblogs.microsoft.com/cosmosdb/new-samples-gallery</link>
       <description>【We are thrilled to introduce the Azure Cosmos DB Samples Gallery —your ultimate destination for top-tier Azure Cosmos DB samples, technical guidance, and content created by both Microsoft and the community, including Azure OpenAI samples. &amp;nbsp; Who is it for? Designed for developers and technical professionals, this gallery is an invaluable resource for both new and [&amp;hellip;]】我们很高兴推出 Azure Cosmos DB 示例库，这是您获取顶级 Azure Cosmos DB 示例、技术指南以及 Microsoft 和社区创建的内容（包括 Azure OpenAI 示例）的最终目的地。   它是给谁用的？该画廊专为开发人员和技术专业人士设计，对于新手和[...]来说都是宝贵的资源。</description>
       <pubDate>Wed, 02 Oct 2024 18:51:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Hackathon: Project Micronaire using Semantic Kernel】微软黑客马拉松：使用语义内核的马克隆项目</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel</link>
-      <description>【During our internal Microsoft Hackathon, there were a number of projects using Semantic Kernel. Today we&amp;#8217;d like to highlight one of the projects focused on using Semantic Kernel and the new Vector Store abstraction. I&amp;#8217;m going to turn it over to the Hackathon team to share more about their project and work using Semantic Kernel. [&amp;hellip;]】在我们内部的 Microsoft Hackathon 期间，有许多使用语义内核的项目。今天我们想重点介绍一个专注于使用语义内核和新的向量存储抽象的项目。我将把它交给 Hackathon 团队，分享更多关于他们使用语义内核的项目和工作的信息。 […]</description>
-      <pubDate>Thu, 03 Oct 2024 21:19:12 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.23.2-1 and 1.22.8-1 Microsoft builds now available】Go 1.23.2-1 和 1.22.8-1 Microsoft 版本现已推出</title>
@@ -36,8 +30,14 @@
     <item>
       <title>【Python in Visual Studio Code – October 2024 Release】Visual Studio Code 中的 Python – 2024 年 10 月发布</title>
       <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2024-release</link>
-      <description>【The October 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include Python test coverage support and a default Python problem matcher. Keep reading to learn more!】2024 年 10 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括 Python 测试覆盖率支持和默认的 Python 问题匹配器。继续阅读以了解更多信息！</description>
+      <description>【The October 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include Python test coverage support and a default Python problem matcher. Keep reading to learn more!】适用于 Visual Studio Code 的 Python 和 Jupyter 扩展的 2024 年 10 月版本现已推出。本月的更新包括 Python 测试覆盖率支持和默认的 Python 问题匹配器。继续阅读以了解更多信息！</description>
       <pubDate>Fri, 04 Oct 2024 14:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How does the linker decide whether to call WinMain or wWinMain?】链接器如何决定是调用WinMain 还是wWinMain？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241004-00/?p=110338</link>
+      <description>【If you don&#39;t tell it, it will try to figure it out.】如果你不告诉它，它会尝试找出答案。</description>
+      <pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Streamlining Error Handling in Power Automate for Better Workflow Performance】简化 Power Automate 中的错误处理以提高工作流程性能</title>
@@ -46,16 +46,16 @@
       <pubDate>Fri, 04 Oct 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Account management】Microsoft 365 认证控制重点：帐户管理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-account-management</link>
-      <description>【Learn how Microsoft 365 Certification validates account management controls are in place for your application.】了解 Microsoft 365 认证如何验证您的应用程序的帐户管理控制是否到位。</description>
-      <pubDate>Thu, 03 Oct 2024 14:30:27 +0000</pubDate>
+      <title>【How can I detect whether the user is running as an elevated administrator (as opposed to a natural administrator)?】如何检测用户是否以高级管理员身份运行（而不是自然管理员）？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241003-00/?p=110336</link>
+      <description>【You can ask for the elevation type.】您可以询问海拔类型。</description>
+      <pubDate>Thu, 03 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How does the linker decide whether to call WinMain or wWinMain?】链接器如何决定是调用WinMain 还是wWinMain？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241004-00/?p=110338</link>
-      <description>【If you don&#39;t tell it, it will try to figure it out.】如果你不告诉它，它会尝试找出答案。</description>
-      <pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Microsoft Hackathon: Project Micronaire using Semantic Kernel】微软黑客马拉松：使用语义内核的马克隆项目</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel</link>
+      <description>【During our internal Microsoft Hackathon, there were a number of projects using Semantic Kernel. Today we&amp;#8217;d like to highlight one of the projects focused on using Semantic Kernel and the new Vector Store abstraction. I&amp;#8217;m going to turn it over to the Hackathon team to share more about their project and work using Semantic Kernel. [&amp;hellip;]】在我们内部的 Microsoft Hackathon 期间，有许多项目使用 Semantic Kernel。今天我们想重点介绍一个专注于使用语义内核和新的矢量存储抽象的项目。我将把它交给 Hackathon 团队，分享更多关于他们使用语义内核的项目和工作的信息。 […]</description>
+      <pubDate>Thu, 03 Oct 2024 21:19:12 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Azure Cosmos DB Integration with LangChain.js!】宣布 Azure Cosmos DB 与 LangChain.js 集成！</title>
