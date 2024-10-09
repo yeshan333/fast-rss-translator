@@ -4,40 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Accelerate C++ Debugging with Enhanced Conditional Breakpoints】使用增强的条件断点加速 C++ 调试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/accelerate-c-debugging-with-enhanced-conditional-breakpoints</link>
-      <description>【Are you tired of waiting for your conditional breakpoints to hit in C++? Do you wish there was a way to speed up the debugging process and get to the root of the problem faster? If so, you&amp;#8217;re in luck! We have some exciting news for you: Visual Studio 2022 has significantly improved the performance [&amp;hellip;]】您是否厌倦了在 C++ 中等待条件断点命中？您是否希望有一种方法可以加快调试过程并更快地找到问题的根源？如果是这样，那么您很幸运！我们有一些令人兴奋的消息给您：Visual Studio 2022 显着提高了性能 [...]</description>
-      <pubDate>Mon, 07 Oct 2024 15:10:12 +0000</pubDate>
+      <title>【.NET and .NET Framework October 2024 servicing releases updates】.NET 和 .NET Framework 2024 年 10 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2024-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for October 2024.】2024 年 10 月 .NET 和 .NET Framework 的最新服务更新回顾。</description>
+      <pubDate>Tue, 08 Oct 2024 17:07:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Streamlining Error Handling in Power Automate for Better Workflow Performance】简化 Power Automate 中的错误处理以提高工作流程性能</title>
-      <link>https://devblogs.microsoft.com/ise/power-automate-error-handling</link>
-      <description>【This post explores effective error handling strategies in Power Automate to enhance workflow reliability and maintainability through practical techniques and integrations.】本文探讨了 Power Automate 中有效的错误处理策略，以通过实用技术和集成来增强工作流的可靠性和可维护性。</description>
-      <pubDate>Fri, 04 Oct 2024 07:00:00 +0000</pubDate>
+      <title>【Announcing Private Preview: VS Code Extension of vCore-based Azure Cosmos DB for MongoDB】宣布私人预览版：基于 vCore 的 Azure Cosmos DB for MongoDB 的 VS Code 扩展</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-private-preview-vs-code-extension-of-vcore-based-azure-cosmos-db-for-mongodb</link>
+      <description>【Overview We&amp;#8217;re excited to introduce a new VS Code extension for vCore-based Azure Cosmos DB for MongoDB ! This tool allows users to connect, query, and manage vCore-based Azure Cosmos DB for MongoDB directly within VS Code, streamlining your workflow. Limited Private Preview  We’re currently offering a limited private preview of the VSCode extension for [&amp;hellip;]】概述 我们很高兴为基于 vCore 的 Azure Cosmos DB for MongoDB 推出新的 VS Code 扩展！该工具允许用户直接在 VS Code 中连接、查询和管理基于 vCore 的 Azure Cosmos DB for MongoDB，从而简化工作流程。有限的私人预览我们目前正在为 [...] 提供 VSCode 扩展的有限的私人预览</description>
+      <pubDate>Tue, 08 Oct 2024 18:07:19 +0000</pubDate>
     </item>
     <item>
-      <title>【How does the linker decide whether to call WinMain or wWinMain?】链接器如何决定是调用WinMain 还是wWinMain？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241004-00/?p=110338</link>
-      <description>【If you don&#39;t tell it, it will try to figure it out.】如果你不告诉它，它会尝试找出答案。</description>
-      <pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【.NET 9 Release Candidate 2 is now available!】.NET 9 候选版本 2 现已推出！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2</link>
+      <description>【Try out the latest features in .NET 9 Release Candidate 2 across the .NET SDK, libraries, runtime, ASP.NET Core, SignalR, .NET MAUI, and more!】尝试 .NET 9 Release Candidate 2 中跨 .NET SDK、库、运行时、ASP.NET Core、SignalR、.NET MAUI 等的最新功能！</description>
+      <pubDate>Tue, 08 Oct 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Azure Cosmos DB Integration with LangChain.js!】宣布 Azure Cosmos DB 与 LangChain.js 集成！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-langchain-js</link>
-      <description>【Announcing Azure Cosmos DB Vector Store Integration with LangChain.js! We&amp;#8217;re simplifying AI app development by integrating Azure Cosmos DB&amp;#8217;s cost-effective and scalable vector search directly with LangChain.js! This powerful combination empowers JavaScript developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB&amp;#8217;s scalability and efficient vector search capabilities. This offers a powerful [&amp;hellip;]】宣布 Azure Cosmos DB 矢量存储与 LangChain.js 集成！我们通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 LangChain.js 集成来简化 AI 应用程序开发！这种强大的组合使 JavaScript 开发人员能够利用 Azure Cosmos DB 的可扩展性和高效的矢量搜索功能来高效管理快速、准确的数据检索。这提供了强大的[...]</description>
-      <pubDate>Fri, 04 Oct 2024 17:59:44 +0000</pubDate>
+      <title>【Introducing New Storage Sizes for vCore-Based Azure Cosmos DB for MongoDB: Unlock More Capacity and Performance】为基于 vCore 的 Azure Cosmos DB for MongoDB 引入新的存储大小：释放更多容量和性能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-new-storage-sizes-for-vcore-based-azure-cosmos-db-for-mongodb-unlock-more-capacity-and-performance</link>
+      <description>【We’re thrilled to announce the preview of new storage sizes for vCore-based Azure Cosmos DB for MongoDB, designed to provide more capacity and enhanced performance for your MongoDB workloads. Whether you’re managing large, complex datasets or high-throughput applications, these new storage tiers—8 TiB, 16 TiB, and 32 TiB per physical shard—offer the flexibility to scale [&amp;hellip;]】我们很高兴地宣布推出基于 vCore 的 Azure Cosmos DB for MongoDB 的新存储大小预览，旨在为 MongoDB 工作负载提供更多容量和增强的性能。无论您是管理大型、复杂的数据集还是高吞吐量应用程序，这些新的存储层（每个物理分片 8 TiB、16 TiB 和 32 TiB）都提供了扩展的灵活性 [...]</description>
+      <pubDate>Tue, 08 Oct 2024 14:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Scale Your Database Workloads with Multishard Clusters in vCore-based Azure Cosmos DB for MongoDB】在基于 vCore 的 Azure Cosmos DB for MongoDB 中使用多分片群集扩展数据库工作负载</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/scale-your-database-workloads-with-multishard-clusters-in-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【We’re excited to introduce significant enhancements to vCore-based Azure Cosmos DB for MongoDB with the release of multishard clusters preview, designed to take scalability and performance to the next level. This update brings several new capabilities that address the needs of demanding database workloads, making it easier than ever to manage large datasets and handle high-throughput [&amp;hellip;]】我们很高兴通过发布多分片集群预览版为基于 vCore 的 Azure Cosmos DB for MongoDB 引入重大增强功能，旨在将可扩展性和性能提升到新的水平。此更新带来了多项新功能，可以满足苛刻的数据库工作负载的需求，使管理大型数据集和处理高吞吐量变得比以往更容易[...]</description>
-      <pubDate>Fri, 04 Oct 2024 17:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Hackathon: Project Micronaire using Semantic Kernel】微软黑客马拉松：使用语义内核的马克隆项目</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel</link>
-      <description>【During our internal Microsoft Hackathon, there were a number of projects using Semantic Kernel. Today we&amp;#8217;d like to highlight one of the projects focused on using Semantic Kernel and the new Vector Store abstraction. I&amp;#8217;m going to turn it over to the Hackathon team to share more about their project and work using Semantic Kernel. [&amp;hellip;]】在我们内部的 Microsoft Hackathon 期间，有许多项目使用 Semantic Kernel。今天我们想重点介绍一个专注于使用语义内核和新的矢量存储抽象的项目。我将把它交给 Hackathon 团队，分享更多关于他们使用语义内核的项目和工作的信息。 […]</description>
-      <pubDate>Thu, 03 Oct 2024 21:19:12 +0000</pubDate>
+      <title>【Microsoft.Extensions.AI: Simplifying AI Integration for .NET Partners】Microsoft.Extensions.AI：简化 .NET 合作伙伴的 AI 集成</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-extensions-ai-simplifying-ai-integration-for-net-partners</link>
+      <description>【We are thrilled to announce the launch of Microsoft.Extensions.AI for .NET! Our collaboration with the .NET team since the debut of Semantic Kernel has resulted in a powerful new feature that aligns with the best practices of both current and upcoming .NET releases. With the introduction of Microsoft.Extensions.AI, Independent Software Vendors (ISVs) and AI solution [&amp;hellip;]】我们很高兴地宣布推出 Microsoft.Extensions.AI for .NET！自 Semantic Kernel 首次亮相以来，我们与 .NET 团队的合作带来了一项强大的新功能，该功能与当前和即将发布的 .NET 版本的最佳实践保持一致。随着 Microsoft.Extensions.AI、独立软件供应商 (ISV) 和 AI 解决方案的推出 [...]</description>
+      <pubDate>Tue, 08 Oct 2024 18:19:52 +0000</pubDate>
     </item>
     <item>
       <title>【Configure GitHub Copilot Access via Content Exclusion】通过内容排除配置 GitHub Copilot 访问</title>
@@ -46,22 +40,28 @@
       <pubDate>Mon, 07 Oct 2024 23:51:04 +0000</pubDate>
     </item>
     <item>
-      <title>【A popular but wrong way to convert a string to uppercase or lowercase】将字符串转换为大写或小写的一种流行但错误的方法</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345</link>
-      <description>【Converting character by character isn&#39;t good enough any more.】逐个字符地转换已经不够了。</description>
-      <pubDate>Mon, 07 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Microsoft DiskANN in Azure Cosmos DB Whitepaper】Azure Cosmos DB 中的 Microsoft DiskANN 白皮书</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/microsoft-diskann-in-azure-cosmos-db-whitepaper</link>
+      <description>【We are excited to publish a new whitepaper titled, Microsoft DiskANN in Azure Cosmos DB, where we examine the impressive capabilities of Microsoft DiskANN, a state-of-the-art indexing system designed for accurate and cost-efficient vector search at any scale. We start off with a review of key vector search and database concepts, then follow by describing [&amp;hellip;]】我们很高兴发布题为《Azure Cosmos DB 中的 Microsoft DiskANN》的新白皮书，其中我们研究了 Microsoft DiskANN 的令人印象深刻的功能，这是一种最先进的索引系统，专为任何规模的准确且经济高效的矢量搜索而设计。我们首先回顾关键向量搜索和数据库概念，然后描述[...]</description>
+      <pubDate>Tue, 08 Oct 2024 18:30:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Configuring your Azure Function with External ID as an identity provider】使用外部 ID 作为身份提供者配置 Azure Function</title>
-      <link>https://devblogs.microsoft.com/identity/azure-function-with-external-id</link>
-      <description>【Learn how to configure Microsoft Entra External ID as an identity provider for Azure Functions. This blog post shows you how to integrate External ID seamlessly, allowing you to focus on building app features without worrying about infrastructure or authentication.】了解如何将 Microsoft Entra 外部 ID 配置为 Azure Functions 的身份提供程序。这篇博文向您展示了如何无缝集成外部 ID，使您能够专注于构建应用程序功能，而无需担心基础设施或身份验证。</description>
-      <pubDate>Mon, 07 Oct 2024 15:14:59 +0000</pubDate>
+      <title>【Microspeak: Run to ground】Microspeak：跑到地面</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241008-00/?p=110351</link>
+      <description>【Come to a resolution.】做出决定。</description>
+      <pubDate>Tue, 08 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code – October 2024 Release】Visual Studio Code 中的 Python – 2024 年 10 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2024-release</link>
-      <description>【The October 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include Python test coverage support and a default Python problem matcher. Keep reading to learn more!】2024 年 10 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括 Python 测试覆盖率支持和默认的 Python 问题匹配器。继续阅读以了解更多信息！</description>
-      <pubDate>Fri, 04 Oct 2024 14:21:59 +0000</pubDate>
+      <title>【What’s New in vcpkg (September 2024)】vcpkg 的新增功能（2024 年 9 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.09.23 and 2024.09.30 releases, 2024-09-18 and 2024-09-30 tool releases, as well as changes to vcpkg documentation throughout September. This month’s release includes some minor changes and bug fixes, 18 new ports, and 319 updates to existing ports. When updating vcpkg, we [&amp;hellip;]】本博文总结了 2024.09.23 和 2024.09.30 版本、2024-09-18 和 2024-09-30 工具版本中对 vcpkg 包管理器的更改，以及整个 9 月份对 vcpkg 文档的更改。本月的版本包括一些细微的更改和错误修复、18 个新端口以及对现有端口的 319 个更新。更新 vcpkg 时，我们 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 01:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET】隆重推出 Microsoft.Extensions.AI 预览版 – .NET 的统一 AI 构建块</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview</link>
+      <description>【We are excited to introduce the Microsoft.Extensions.AI package available in preview today. This new package provides a unified abstraction layer that enables you to integrate AI services into your .NET applications.】我们很高兴推出今天提供预览版的 Microsoft.Extensions.AI 包。这个新包提供了统一的抽象层，使您能够将 AI 服务集成到 .NET 应用程序中。</description>
+      <pubDate>Tue, 08 Oct 2024 18:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
