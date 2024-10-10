@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【.NET and .NET Framework October 2024 servicing releases updates】.NET 和 .NET Framework 2024 年 10 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2024-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for October 2024.】2024 年 10 月 .NET 和 .NET Framework 的最新服务更新回顾。</description>
-      <pubDate>Tue, 08 Oct 2024 17:07:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Private Preview: VS Code Extension of vCore-based Azure Cosmos DB for MongoDB】宣布私人预览版：基于 vCore 的 Azure Cosmos DB for MongoDB 的 VS Code 扩展</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-private-preview-vs-code-extension-of-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【Overview We&amp;#8217;re excited to introduce a new VS Code extension for vCore-based Azure Cosmos DB for MongoDB ! This tool allows users to connect, query, and manage vCore-based Azure Cosmos DB for MongoDB directly within VS Code, streamlining your workflow. Limited Private Preview  We’re currently offering a limited private preview of the VSCode extension for [&amp;hellip;]】概述 我们很高兴为基于 vCore 的 Azure Cosmos DB for MongoDB 推出新的 VS Code 扩展！该工具允许用户直接在 VS Code 中连接、查询和管理基于 vCore 的 Azure Cosmos DB for MongoDB，从而简化工作流程。有限的私人预览我们目前正在为 [...] 提供 VSCode 扩展的有限的私人预览</description>
-      <pubDate>Tue, 08 Oct 2024 18:07:19 +0000</pubDate>
-    </item>
-    <item>
       <title>【.NET 9 Release Candidate 2 is now available!】.NET 9 候选版本 2 现已推出！</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2</link>
       <description>【Try out the latest features in .NET 9 Release Candidate 2 across the .NET SDK, libraries, runtime, ASP.NET Core, SignalR, .NET MAUI, and more!】尝试 .NET 9 Release Candidate 2 中跨 .NET SDK、库、运行时、ASP.NET Core、SignalR、.NET MAUI 等的最新功能！</description>
       <pubDate>Tue, 08 Oct 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing New Storage Sizes for vCore-Based Azure Cosmos DB for MongoDB: Unlock More Capacity and Performance】为基于 vCore 的 Azure Cosmos DB for MongoDB 引入新的存储大小：释放更多容量和性能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/introducing-new-storage-sizes-for-vcore-based-azure-cosmos-db-for-mongodb-unlock-more-capacity-and-performance</link>
-      <description>【We’re thrilled to announce the preview of new storage sizes for vCore-based Azure Cosmos DB for MongoDB, designed to provide more capacity and enhanced performance for your MongoDB workloads. Whether you’re managing large, complex datasets or high-throughput applications, these new storage tiers—8 TiB, 16 TiB, and 32 TiB per physical shard—offer the flexibility to scale [&amp;hellip;]】我们很高兴地宣布推出基于 vCore 的 Azure Cosmos DB for MongoDB 的新存储大小预览，旨在为 MongoDB 工作负载提供更多容量和增强的性能。无论您是管理大型、复杂的数据集还是高吞吐量应用程序，这些新的存储层（每个物理分片 8 TiB、16 TiB 和 32 TiB）都提供了扩展的灵活性 [...]</description>
-      <pubDate>Tue, 08 Oct 2024 14:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft.Extensions.AI: Simplifying AI Integration for .NET Partners】Microsoft.Extensions.AI：简化 .NET 合作伙伴的 AI 集成</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-extensions-ai-simplifying-ai-integration-for-net-partners</link>
-      <description>【We are thrilled to announce the launch of Microsoft.Extensions.AI for .NET! Our collaboration with the .NET team since the debut of Semantic Kernel has resulted in a powerful new feature that aligns with the best practices of both current and upcoming .NET releases. With the introduction of Microsoft.Extensions.AI, Independent Software Vendors (ISVs) and AI solution [&amp;hellip;]】我们很高兴地宣布推出 Microsoft.Extensions.AI for .NET！自 Semantic Kernel 首次亮相以来，我们与 .NET 团队的合作带来了一项强大的新功能，该功能与当前和即将发布的 .NET 版本的最佳实践保持一致。随着 Microsoft.Extensions.AI、独立软件供应商 (ISV) 和 AI 解决方案的推出 [...]</description>
-      <pubDate>Tue, 08 Oct 2024 18:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Configure GitHub Copilot Access via Content Exclusion】通过内容排除配置 GitHub Copilot 访问</title>
-      <link>https://devblogs.microsoft.com/cppblog/configure-github-copilot-access-via-content-exclusion</link>
-      <description>【Have you ever wanted greater control over the sensitive content AI-powered tools can access in your repositories? You can now customize Copilot’s access to your files with the newly announced GitHub Copilot Content Exclusion in both Visual Studio and Visual Studio Code. Through this new process you can configure Copilot to ignore certain files in your [&amp;hellip;]】您是否曾经想要更好地控制人工智能支持的工具可以在您的存储库中访问的敏感内容？现在，您可以使用 Visual Studio 和 Visual Studio Code 中新发布的 GitHub Copilot 内容排除功能自定义 Copilot 对文件的访问权限。通过这个新过程，您可以将 Copilot 配置为忽略 [...]</description>
-      <pubDate>Mon, 07 Oct 2024 23:51:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft DiskANN in Azure Cosmos DB Whitepaper】Azure Cosmos DB 中的 Microsoft DiskANN 白皮书</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/microsoft-diskann-in-azure-cosmos-db-whitepaper</link>
-      <description>【We are excited to publish a new whitepaper titled, Microsoft DiskANN in Azure Cosmos DB, where we examine the impressive capabilities of Microsoft DiskANN, a state-of-the-art indexing system designed for accurate and cost-efficient vector search at any scale. We start off with a review of key vector search and database concepts, then follow by describing [&amp;hellip;]】我们很高兴发布题为《Azure Cosmos DB 中的 Microsoft DiskANN》的新白皮书，其中我们研究了 Microsoft DiskANN 的令人印象深刻的功能，这是一种最先进的索引系统，专为任何规模的准确且经济高效的矢量搜索而设计。我们首先回顾关键向量搜索和数据库概念，然后描述[...]</description>
-      <pubDate>Tue, 08 Oct 2024 18:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microspeak: Run to ground】Microspeak：跑到地面</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241008-00/?p=110351</link>
-      <description>【Come to a resolution.】做出决定。</description>
-      <pubDate>Tue, 08 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New in vcpkg (September 2024)】vcpkg 的新增功能（2024 年 9 月）</title>
@@ -58,10 +16,52 @@
       <pubDate>Wed, 09 Oct 2024 01:03:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET】隆重推出 Microsoft.Extensions.AI 预览版 – .NET 的统一 AI 构建块</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview</link>
-      <description>【We are excited to introduce the Microsoft.Extensions.AI package available in preview today. This new package provides a unified abstraction layer that enables you to integrate AI services into your .NET applications.】我们很高兴推出今天提供预览版的 Microsoft.Extensions.AI 包。这个新包提供了统一的抽象层，使您能够将 AI 服务集成到 .NET 应用程序中。</description>
-      <pubDate>Tue, 08 Oct 2024 18:05:00 +0000</pubDate>
+      <title>【Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache】介绍 Azure Cosmos DB 集成缓存的 RBAC 身份验证及更多功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-rbac-authentication-and-more-for-the-azure-cosmos-db-integrated-cache</link>
+      <description>【We’re excited to announce new features for the Azure Cosmos DB integrated cache! The integrated cache is built into the dedicated gateway, and now there’s new ways to authenticate your requests. Security is top of mind for many organizations, and you can now use Role-Based Access Control (RBAC) with Microsoft Entra ID to authenticate to [&amp;hellip;]】我们很高兴地宣布 Azure Cosmos DB 集成缓存的新功能！集成缓存内置于专用网关中，现在有新的方法来验证您的请求。对于许多组织来说，安全性是首要考虑因素，您现在可以使用基于角色的访问控制 (RBAC) 和 Microsoft Entra ID 来进行身份验证 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 14:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhancing Data Explorer: Custom Columns, Filter History, and Query Views Explained】增强数据资源管理器：自定义列、过滤器历史记录和查询视图说明</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/data-explorer-custom-columns-filter-history-and-query-views-explained</link>
+      <description>【Managing large amounts of data is exciting. As a dataset grows in complexity and size, finding efficient ways to sort and analyze this info becomes more important. Azure Cosmos DB Data Explorer is a tool to query, review, and manage your data.  We’ve heard from your feedback in our NPS survey that there’s a need [&amp;hellip;]】管理大量数据是令人兴奋的。随着数据集的复杂性和规模的增加，找到有效的方法来排序和分析这些信息变得更加重要。 Azure Cosmos DB 数据资源管理器是一个用于查询、查看和管理数据的工具。  我们从您在 NPS 调查中的反馈中得知，有必要 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 16:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Meet the Winners | Microsoft Developers Azure AI &amp; Azure Cosmos DB Learning Hackathon】认识获奖者 | Microsoft 开发人员 Azure AI 和 Azure Cosmos DB 学习黑客马拉松</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon</link>
+      <description>【Azure Cosmos DB powers some of the world’s most popular intelligent apps like ChatGPT. In a recent hackathon, Over 9,500 developers engaged with Azure Cosmos DB and Azure AI services, making it one of the most popular on Devpost, ranking in the top 0.2% of all Devpost hackathons.  Participants explored AI fundamentals and built their [&amp;hellip;]】Azure Cosmos DB 为 ChatGPT 等一些世界上最受欢迎的智能应用程序提供支持。在最近的一次黑客马拉松中，超过 9,500 名开发人员参与了 Azure Cosmos DB 和 Azure AI 服务，使其成为 Devpost 上最受欢迎的黑客马拉松之一，在所有 Devpost 黑客马拉松中排名前 0.2%。  参与者探索了人工智能基础知识并构建了他们的[…]</description>
+      <pubDate>Wed, 09 Oct 2024 16:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Debug Queries More Efficiently with the Improved Error Messaging in Azure Cosmos DB Data Explorer】使用 Azure Cosmos DB 数据资源管理器中改进的错误消息传递更有效地调试查询</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/improved-error-messaging-in-azure-cosmos-db-data-explorer</link>
+      <description>【Azure Cosmos DB Data Explorer is a web-based tool available in the Azure Portal that allows you to manage data, as well as track and fix issues with your queries. In this blog post, we will focus on some of the new features in data explorer that improve the error messaging in the query editor, [&amp;hellip;]】Azure Cosmos DB 数据资源管理器是 Azure 门户中提供的基于 Web 的工具，可让你管理数据以及跟踪和修复查询问题。在这篇博文中，我们将重点关注数据浏览器中的一些新功能，这些功能可改进查询编辑器中的错误消息传递，[...]</description>
+      <pubDate>Wed, 09 Oct 2024 18:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Easier localization with the new resource (.resx) manager】使用新资源 (.resx) 管理器更轻松地进行本地化</title>
+      <link>https://devblogs.microsoft.com/visualstudio/easier-localization-with-the-new-resource-resx-manager</link>
+      <description>【If you&amp;#8217;re developing applications that target multiple languages and cultures, you probably know how challenging it can be to manage the resources for each localization. You need to keep track of all the strings, images, icons, and other assets that are specific to each culture, and make sure they are consistent and up to date [&amp;hellip;]】如果您正在开发针对多种语言和文化的应用程序，您可能知道管理每种本地化的资源是多么具有挑战性。您需要跟踪每种文化特有的所有字符串、图像、图标和其他资产，并确保它们一致且是最新的 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 15:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【If threads are created without a message queue, why can I post to them immediately upon creation?】如果创建线程时没有消息队列，为什么我可以在创建后立即向它们发送消息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241009-00/?p=110354</link>
+      <description>【Check who is doing the posting.】检查谁在发帖。</description>
+      <pubDate>Wed, 09 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Utilize Multiple Monitors for Microsoft Dev Box with the Windows App】通过 Windows 应用程序利用 Microsoft Dev Box 的多个显示器</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/utilize-multiple-monitors-for-microsoft-dev-box-with-the-windows-app</link>
+      <description>【Do you use cloud-based developer environments like Microsoft Dev Box? Do you use multiple monitors in your setup? Did you know there a new app in Windows that will give you a great experience with multiple monitors and Microsoft Dev Box? Take a look at this video showing configuring multiple monitor setup with the Windows [&amp;hellip;]】您是否使用基于云的开发人员环境（例如 Microsoft Dev Box）？您的设置中是否使用多个显示器？您是否知道 Windows 中有一款新应用程序可以为您提供多显示器和 Microsoft Dev Box 的出色体验？观看此视频，该视频展示了使用 Windows 配置多显示器设置 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 22:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.7 Beta】宣布推出 TypeScript 5.7 Beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta</link>
+      <description>【Today we are announcing the availability of TypeScript 5.7 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&amp;#8217;s take a look at what&amp;#8217;s new in TypeScript 5.7! Checks for Never-Initialized Variables For a long time, TypeScript has been able to catch issues [&amp;hellip;]】今天，我们宣布推出 TypeScript 5.7 Beta。要开始使用 Beta 版，您可以使用以下命令通过 npm 获取它： npm install -D typescript@beta 让我们来看看 TypeScript 5.7 中的新增功能！检查从未初始化的变量很长一段时间以来，TypeScript 一直能够捕获问题 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 20:59:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
