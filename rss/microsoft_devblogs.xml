@@ -4,52 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【.NET 9 Release Candidate 2 is now available!】.NET 9 候选版本 2 现已推出！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2</link>
-      <description>【Try out the latest features in .NET 9 Release Candidate 2 across the .NET SDK, libraries, runtime, ASP.NET Core, SignalR, .NET MAUI, and more!】尝试 .NET 9 Release Candidate 2 中跨 .NET SDK、库、运行时、ASP.NET Core、SignalR、.NET MAUI 等的最新功能！</description>
-      <pubDate>Tue, 08 Oct 2024 20:00:00 +0000</pubDate>
+      <title>【Java on Visual Studio Code的更新 – 2024年9月】Java on Visual Studio Code的更新 – 2024年9月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-09</link>
+      <description>【大家好，欢迎来到 Visual Studio Code for Java 的九月更新！在本篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新 使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时编写起来比较复杂，但如果你在 Visual Studio Code 环境中使用 GitHub Copilot，Spring 工具现在会在这些表达式上方显示CodeLense，让你快速让 GitHub Copilot 为你解释这些语句。相应的提示会先提供一个简短的摘要，随后是更详细的解释。这里有一个演示。 CRON 表达式的语法高亮和验证 当 CRON 表达式用于 @Scheduler 注解时，现在可以显示语法高亮，并且如果语法不正确，还会出现错误标记。演示如下。 查询参数名称的新嵌入提示 使用序号引用查询特定参数，现在会显示一个嵌入提示，告诉你该序号所引用的已解析方法参数的名称。 更多 Spring 注解获得内容辅助、跳转定义和查找引用支持 在 Java 源代码中使用 Spring 注解的工作每次发布都会变得更加快捷和轻松。最新的 Spring Boot 工具添加了以下注解的高级功能： [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 的九月更新！在本篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新 使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时编写起来比较复杂，但如果你在 Visual Studio Code 环境中使用 GitHub Copilot，Spring 工具现在会在这些表达式上方显示CodeLense，让你快速让 GitHub Copilot 为你解释这些语句。相应的提示会先提供一个简短的摘要，随后是更详细的解释。这里有一个演示。 CRON 表达式的语法高亮和验证 当 CRON 表达式用于 @Scheduler 注解时，现在可以显示语法高亮，并且如果语法不正确，还会出现错误标记。演示如下。 查询参数名称的新嵌入提示 使用序号引用查询特定参数，现在会显示一个嵌入提示，告诉你该序号所引用的已解析方法参数的名称。 更多 Spring 注解获得内容辅助、跳转定义和查找引用支持 在 Java 源代码中使用 Spring 注解的工作每次发布都会变得更加快捷和轻松。最新的 Spring Boot 工具添加了以下注解的高级功能： […]</description>
+      <pubDate>Thu, 10 Oct 2024 15:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (September 2024)】vcpkg 的新增功能（2024 年 9 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.09.23 and 2024.09.30 releases, 2024-09-18 and 2024-09-30 tool releases, as well as changes to vcpkg documentation throughout September. This month’s release includes some minor changes and bug fixes, 18 new ports, and 319 updates to existing ports. When updating vcpkg, we [&amp;hellip;]】本博文总结了 2024.09.23 和 2024.09.30 版本、2024-09-18 和 2024-09-30 工具版本中对 vcpkg 包管理器的更改，以及整个 9 月份对 vcpkg 文档的更改。本月的版本包括一些细微的更改和错误修复、18 个新端口以及对现有端口的 319 个更新。更新 vcpkg 时，我们 [...]</description>
-      <pubDate>Wed, 09 Oct 2024 01:03:49 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Security event logging, reviewing, and alerting】Microsoft 365 认证控制重点：安全事件记录、审查和警报</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-event-logging-reviewing-and-alerting</link>
+      <description>【Discover how Microsoft 365 Certification validates security event logging best practices.】了解 Microsoft 365 认证如何验证安全事件日志记录最佳实践。</description>
+      <pubDate>Thu, 10 Oct 2024 15:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache】介绍 Azure Cosmos DB 集成缓存的 RBAC 身份验证及更多功能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/introducing-rbac-authentication-and-more-for-the-azure-cosmos-db-integrated-cache</link>
-      <description>【We’re excited to announce new features for the Azure Cosmos DB integrated cache! The integrated cache is built into the dedicated gateway, and now there’s new ways to authenticate your requests. Security is top of mind for many organizations, and you can now use Role-Based Access Control (RBAC) with Microsoft Entra ID to authenticate to [&amp;hellip;]】我们很高兴地宣布 Azure Cosmos DB 集成缓存的新功能！集成缓存内置于专用网关中，现在有新的方法来验证您的请求。对于许多组织来说，安全性是首要考虑因素，您现在可以使用基于角色的访问控制 (RBAC) 和 Microsoft Entra ID 来进行身份验证 [...]</description>
-      <pubDate>Wed, 09 Oct 2024 14:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhancing Data Explorer: Custom Columns, Filter History, and Query Views Explained】增强数据资源管理器：自定义列、过滤器历史记录和查询视图说明</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/data-explorer-custom-columns-filter-history-and-query-views-explained</link>
-      <description>【Managing large amounts of data is exciting. As a dataset grows in complexity and size, finding efficient ways to sort and analyze this info becomes more important. Azure Cosmos DB Data Explorer is a tool to query, review, and manage your data.  We’ve heard from your feedback in our NPS survey that there’s a need [&amp;hellip;]】管理大量数据是令人兴奋的。随着数据集的复杂性和规模的增加，找到有效的方法来排序和分析这些信息变得更加重要。 Azure Cosmos DB 数据资源管理器是一个用于查询、查看和管理数据的工具。  我们从您在 NPS 调查中的反馈中得知，有必要 [...]</description>
-      <pubDate>Wed, 09 Oct 2024 16:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Meet the Winners | Microsoft Developers Azure AI &amp; Azure Cosmos DB Learning Hackathon】认识获奖者 | Microsoft 开发人员 Azure AI 和 Azure Cosmos DB 学习黑客马拉松</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon</link>
-      <description>【Azure Cosmos DB powers some of the world’s most popular intelligent apps like ChatGPT. In a recent hackathon, Over 9,500 developers engaged with Azure Cosmos DB and Azure AI services, making it one of the most popular on Devpost, ranking in the top 0.2% of all Devpost hackathons.  Participants explored AI fundamentals and built their [&amp;hellip;]】Azure Cosmos DB 为 ChatGPT 等一些世界上最受欢迎的智能应用程序提供支持。在最近的一次黑客马拉松中，超过 9,500 名开发人员参与了 Azure Cosmos DB 和 Azure AI 服务，使其成为 Devpost 上最受欢迎的黑客马拉松之一，在所有 Devpost 黑客马拉松中排名前 0.2%。  参与者探索了人工智能基础知识并构建了他们的[…]</description>
-      <pubDate>Wed, 09 Oct 2024 16:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Debug Queries More Efficiently with the Improved Error Messaging in Azure Cosmos DB Data Explorer】使用 Azure Cosmos DB 数据资源管理器中改进的错误消息传递更有效地调试查询</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/improved-error-messaging-in-azure-cosmos-db-data-explorer</link>
-      <description>【Azure Cosmos DB Data Explorer is a web-based tool available in the Azure Portal that allows you to manage data, as well as track and fix issues with your queries. In this blog post, we will focus on some of the new features in data explorer that improve the error messaging in the query editor, [&amp;hellip;]】Azure Cosmos DB 数据资源管理器是 Azure 门户中提供的基于 Web 的工具，可让你管理数据以及跟踪和修复查询问题。在这篇博文中，我们将重点关注数据浏览器中的一些新功能，这些功能可改进查询编辑器中的错误消息传递，[...]</description>
-      <pubDate>Wed, 09 Oct 2024 18:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Easier localization with the new resource (.resx) manager】使用新资源 (.resx) 管理器更轻松地进行本地化</title>
-      <link>https://devblogs.microsoft.com/visualstudio/easier-localization-with-the-new-resource-resx-manager</link>
-      <description>【If you&amp;#8217;re developing applications that target multiple languages and cultures, you probably know how challenging it can be to manage the resources for each localization. You need to keep track of all the strings, images, icons, and other assets that are specific to each culture, and make sure they are consistent and up to date [&amp;hellip;]】如果您正在开发针对多种语言和文化的应用程序，您可能知道管理每种本地化的资源是多么具有挑战性。您需要跟踪每种文化特有的所有字符串、图像、图标和其他资产，并确保它们一致且是最新的 [...]</description>
-      <pubDate>Wed, 09 Oct 2024 15:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【If threads are created without a message queue, why can I post to them immediately upon creation?】如果创建线程时没有消息队列，为什么我可以在创建后立即向它们发送消息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241009-00/?p=110354</link>
-      <description>【Check who is doing the posting.】检查谁在发帖。</description>
-      <pubDate>Wed, 09 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Engineering the Scalable Vector Extension in .NET】在 .NET 中设计可扩展矢量扩展</title>
+      <link>https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet</link>
+      <description>【Let&#39;s take an in-depth look at how the team implemented the Scalable Vector Extension (SVE) for .NET.】让我们深入了解一下团队如何为 .NET 实现可扩展矢量扩展 (SVE)。</description>
+      <pubDate>Thu, 10 Oct 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Utilize Multiple Monitors for Microsoft Dev Box with the Windows App】通过 Windows 应用程序利用 Microsoft Dev Box 的多个显示器</title>
@@ -58,10 +28,40 @@
       <pubDate>Wed, 09 Oct 2024 22:41:41 +0000</pubDate>
     </item>
     <item>
+      <title>【Java on Visual Studio Code Update – September 2024】Visual Studio 代码上的 Java 更新 – 2024 年 9 月</title>
+      <link>https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-september-2024</link>
+      <description>【Hi everyone, welcome to the September update for Visual Studio Code for Java! In this blog, we will cover some important Spring feature updates and Gradle enhancements, let&amp;#8217;s get started! Spring Updates Explain SpEL expressions, query statements, and AOP pointcut expressions with GitHub Copilot SpEL expressions, query statements, and AOP pointcut expressions can sometimes be [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 九月更新！在这篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时可以是 [...]</description>
+      <pubDate>Thu, 10 Oct 2024 15:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Meet the Winners | Microsoft Developers Azure AI &amp; Azure Cosmos DB Learning Hackathon】认识获奖者 | Microsoft 开发人员 Azure AI 和 Azure Cosmos DB 学习黑客马拉松</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon</link>
+      <description>【Azure Cosmos DB powers some of the world’s most popular intelligent apps like ChatGPT. In a recent hackathon, Over 9,500 developers engaged with Azure Cosmos DB and Azure AI services, making it one of the most popular on Devpost, ranking in the top 0.2% of all Devpost hackathons.  Participants explored AI fundamentals and built their [&amp;hellip;]】Azure Cosmos DB 为 ChatGPT 等一些世界上最受欢迎的智能应用程序提供支持。在最近的一次黑客马拉松中，超过 9,500 名开发人员参与了 Azure Cosmos DB 和 Azure AI 服务，使其成为 Devpost 上最受欢迎的黑客马拉松之一，在所有 Devpost 黑客马拉松中排名前 0.2%。  参与者探索了人工智能基础知识并构建了他们的[...]</description>
+      <pubDate>Wed, 09 Oct 2024 16:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A correction to the awaitable lock for C++ PPL tasks】对 C++ PPL 任务的等待锁的更正</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241010-00/?p=110357</link>
+      <description>【Over-scoped lock.】超出范围的锁。</description>
+      <pubDate>Thu, 10 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Contextual Tools for GitHub Copilot in Visual Studio】Visual Studio 中 GitHub Copilot 的新上下文工具</title>
+      <link>https://devblogs.microsoft.com/cppblog/new-contextual-tools-for-github-copilot-in-visual-studio</link>
+      <description>【Visual Studio 2022 17.11 now allows you to pass your entire workspace or specific classes and functions as context for GitHub Copilot Chat. By referencing your entire codebase, down to specific classes and functions, Copilot Chat can deliver refined and accurate results tailored to your code. @workspace for project references  You can now use GitHub [&amp;hellip;]】Visual Studio 2022 17.11 现在允许您将整个工作区或特定类和函数作为 GitHub Copilot Chat 的上下文传递。通过引用您的整个代码库，具体到特定的类和函数，Copilot Chat 可以提供针对您的代码量身定制的精致且准确的结果。 @workspace 用于项目参考您现在可以使用 GitHub [...]</description>
+      <pubDate>Thu, 10 Oct 2024 17:31:35 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing TypeScript 5.7 Beta】宣布推出 TypeScript 5.7 Beta</title>
       <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta</link>
       <description>【Today we are announcing the availability of TypeScript 5.7 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&amp;#8217;s take a look at what&amp;#8217;s new in TypeScript 5.7! Checks for Never-Initialized Variables For a long time, TypeScript has been able to catch issues [&amp;hellip;]】今天，我们宣布推出 TypeScript 5.7 Beta。要开始使用 Beta 版，您可以使用以下命令通过 npm 获取它： npm install -D typescript@beta 让我们来看看 TypeScript 5.7 中的新增功能！检查从未初始化的变量很长一段时间以来，TypeScript 一直能够捕获问题 [...]</description>
       <pubDate>Wed, 09 Oct 2024 20:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Debug Queries More Efficiently with the Improved Error Messaging in Azure Cosmos DB Data Explorer】使用 Azure Cosmos DB 数据资源管理器中改进的错误消息传递更有效地调试查询</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/improved-error-messaging-in-azure-cosmos-db-data-explorer</link>
+      <description>【Azure Cosmos DB Data Explorer is a web-based tool available in the Azure Portal that allows you to manage data, as well as track and fix issues with your queries. In this blog post, we will focus on some of the new features in data explorer that improve the error messaging in the query editor, [&amp;hellip;]】Azure Cosmos DB 数据资源管理器是 Azure 门户中提供的基于 Web 的工具，可让你管理数据以及跟踪和修复查询问题。在这篇博文中，我们将重点关注数据浏览器中的一些新功能，这些功能可改进查询编辑器中的错误消息传递，[...]</description>
+      <pubDate>Wed, 09 Oct 2024 18:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
