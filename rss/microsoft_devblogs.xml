@@ -4,40 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Security event logging, reviewing, and alerting】Microsoft 365 认证控制重点：安全事件记录、审查和警报</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-event-logging-reviewing-and-alerting</link>
-      <description>【Discover how Microsoft 365 Certification validates security event logging best practices.】了解 Microsoft 365 认证如何验证安全事件日志记录最佳实践。</description>
-      <pubDate>Thu, 10 Oct 2024 15:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java on Visual Studio Code的更新 – 2024年9月】Java on Visual Studio Code的更新 – 2024年9月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-09</link>
-      <description>【大家好，欢迎来到 Visual Studio Code for Java 的九月更新！在本篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新 使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时编写起来比较复杂，但如果你在 Visual Studio Code 环境中使用 GitHub Copilot，Spring 工具现在会在这些表达式上方显示CodeLense，让你快速让 GitHub Copilot 为你解释这些语句。相应的提示会先提供一个简短的摘要，随后是更详细的解释。这里有一个演示。 CRON 表达式的语法高亮和验证 当 CRON 表达式用于 @Scheduler 注解时，现在可以显示语法高亮，并且如果语法不正确，还会出现错误标记。演示如下。 查询参数名称的新嵌入提示 使用序号引用查询特定参数，现在会显示一个嵌入提示，告诉你该序号所引用的已解析方法参数的名称。 更多 Spring 注解获得内容辅助、跳转定义和查找引用支持 在 Java 源代码中使用 Spring 注解的工作每次发布都会变得更加快捷和轻松。最新的 Spring Boot 工具添加了以下注解的高级功能： [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 的九月更新！在本篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新 使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时编写起来比较复杂，但如果你在 Visual Studio Code 环境中使用 GitHub Copilot，Spring 工具现在会在这些表达式上方显示CodeLense，让你快速让 GitHub Copilot 为你解释这些语句。相应的提示会先提供一个简短的摘要，随后是更详细的解释。这里有一个演示。 CRON 表达式的语法高亮和验证 当 CRON 表达式用于 @Scheduler 注解时，现在可以显示语法高亮，并且如果语法不正确，还会出现错误标记。演示如下。 查询参数名称的新嵌入提示 使用序号引用查询特定参数，现在会显示一个嵌入提示，告诉你该序号所引用的已解析方法参数的名称。 更多 Spring 注解获得内容辅助、跳转定义和查找引用支持 在 Java 源代码中使用 Spring 注解的工作每次发布都会变得更加快捷和轻松。最新的 Spring Boot 工具添加了以下注解的高级功能： […]</description>
-      <pubDate>Thu, 10 Oct 2024 15:00:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【A correction to the awaitable lock for C++ PPL tasks】对 C++ PPL 任务的等待锁的更正</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20241010-00/?p=110357</link>
       <description>【Over-scoped lock.】超出范围的锁。</description>
       <pubDate>Thu, 10 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Utilize Multiple Monitors for Microsoft Dev Box with the Windows App】通过 Windows 应用程序利用 Microsoft Dev Box 的多个显示器</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/utilize-multiple-monitors-for-microsoft-dev-box-with-the-windows-app</link>
-      <description>【Do you use cloud-based developer environments like Microsoft Dev Box? Do you use multiple monitors in your setup? Did you know there a new app in Windows that will give you a great experience with multiple monitors and Microsoft Dev Box? Take a look at this video showing configuring multiple monitor setup with the Windows [&amp;hellip;]】您是否使用基于云的开发人员环境（例如 Microsoft Dev Box）？您的设置中是否使用多个显示器？您是否知道 Windows 中有一款新应用程序可以为您提供多显示器和 Microsoft Dev Box 的出色体验？观看此视频，该视频展示了使用 Windows 配置多显示器设置 [...]</description>
-      <pubDate>Wed, 09 Oct 2024 22:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Engineering the Scalable Vector Extension in .NET】在 .NET 中设计可扩展矢量扩展</title>
-      <link>https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet</link>
-      <description>【Let&#39;s take an in-depth look at how the team implemented the Scalable Vector Extension (SVE) for .NET.】让我们深入了解一下团队如何为 .NET 实现可扩展矢量扩展 (SVE)。</description>
-      <pubDate>Thu, 10 Oct 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Contextual Tools for GitHub Copilot in Visual Studio】Visual Studio 中 GitHub Copilot 的新上下文工具</title>
-      <link>https://devblogs.microsoft.com/cppblog/new-contextual-tools-for-github-copilot-in-visual-studio</link>
-      <description>【Visual Studio 2022 17.11 now allows you to pass your entire workspace or specific classes and functions as context for GitHub Copilot Chat. By referencing your entire codebase, down to specific classes and functions, Copilot Chat can deliver refined and accurate results tailored to your code. @workspace for project references  You can now use GitHub [&amp;hellip;]】Visual Studio 2022 17.11 现在允许您将整个工作区或特定类和函数作为 GitHub Copilot Chat 的上下文传递。通过引用您的整个代码库，具体到特定的类和函数，Copilot Chat 可以提供针对您的代码量身定制的精致且准确的结果。 @workspace 用于项目参考您现在可以使用 GitHub [...]</description>
-      <pubDate>Thu, 10 Oct 2024 17:31:35 +0000</pubDate>
+      <title>【Multimodal RAG with Vision: From Experimentation to Implementation】具有愿景的多模态 RAG：从实验到实施</title>
+      <link>https://devblogs.microsoft.com/ise/multimodal-rag-with-vision</link>
+      <description>【This blog post delves into the experimentation journey of fine-tuning a multimodal RAG pipeline to best answer user queries that require both textual and image context. We ran our experiments by systematically testing various approaches, adjusting one configuration setting at a time and using clearly defined evaluation metrics to validate the performance of each component of the RAG pipeline in isolation, as well as the end-to-end inference flow.】这篇博文深入探讨了微调多模式 RAG 管道的实验过程，以最好地回答需要文本和图像上下文的用户查询。我们通过系统地测试各种方法、一次调整一种配置设置并使用明确定义的评估指标来独立验证 RAG 管道每个组件的性能以及端到端推理流来进行实验。</description>
+      <pubDate>Fri, 11 Oct 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Java on Visual Studio Code Update – September 2024】Visual Studio 代码上的 Java 更新 – 2024 年 9 月</title>
@@ -46,10 +22,10 @@
       <pubDate>Thu, 10 Oct 2024 15:09:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Multimodal RAG with Vision: From Experimentation to Implementation】具有愿景的多模态 RAG：从实验到实施</title>
-      <link>https://devblogs.microsoft.com/ise/multimodal-rag-with-vision</link>
-      <description>【This blog post delves into the experimentation journey of fine-tuning a multimodal RAG pipeline to best answer user queries that require both textual and image context. We ran our experiments by systematically testing various approaches, adjusting one configuration setting at a time and using clearly defined evaluation metrics to validate the performance of each component of the RAG pipeline in isolation, as well as the end-to-end inference flow.】这篇博文深入探讨了微调多模式 RAG 管道的实验过程，以最好地回答需要文本和图像上下文的用户查询。我们通过系统地测试各种方法、一次调整一种配置设置并使用明确定义的评估指标来独立验证 RAG 管道每个组件的性能以及端到端推理流来进行实验。</description>
-      <pubDate>Fri, 11 Oct 2024 07:00:00 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Security event logging, reviewing, and alerting】Microsoft 365 认证控制重点：安全事件记录、审查和警报</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-event-logging-reviewing-and-alerting</link>
+      <description>【Discover how Microsoft 365 Certification validates security event logging best practices.】了解 Microsoft 365 认证如何验证安全事件日志记录最佳实践。</description>
+      <pubDate>Thu, 10 Oct 2024 15:00:13 +0000</pubDate>
     </item>
     <item>
       <title>【Announcement: Agent Framework Documentation Updates】公告：Agent 框架文档更新</title>
@@ -62,6 +38,30 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20241011-00/?p=110365</link>
       <description>【Looking for a C++ tag type for representing another type.】寻找 C++ 标记类型来表示另一种类型。</description>
       <pubDate>Fri, 11 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Contextual Tools for GitHub Copilot in Visual Studio】Visual Studio 中 GitHub Copilot 的新上下文工具</title>
+      <link>https://devblogs.microsoft.com/cppblog/new-contextual-tools-for-github-copilot-in-visual-studio</link>
+      <description>【Visual Studio 2022 17.11 now allows you to pass your entire workspace or specific classes and functions as context for GitHub Copilot Chat. By referencing your entire codebase, down to specific classes and functions, Copilot Chat can deliver refined and accurate results tailored to your code. @workspace for project references  You can now use GitHub [&amp;hellip;]】Visual Studio 2022 17.11 现在允许您将整个工作区或特定类和函数作为 GitHub Copilot Chat 的上下文传递。通过引用您的整个代码库，具体到特定的类和函数，Copilot Chat 可以提供针对您的代码量身定制的精致且准确的结果。 @workspace 用于项目参考您现在可以使用 GitHub [...]</description>
+      <pubDate>Thu, 10 Oct 2024 17:31:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java on Visual Studio Code的更新 – 2024年9月】Java on Visual Studio Code的更新 – 2024年9月</title>
+      <link>https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2024-09</link>
+      <description>【大家好，欢迎来到 Visual Studio Code for Java 的九月更新！在本篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新 使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时编写起来比较复杂，但如果你在 Visual Studio Code 环境中使用 GitHub Copilot，Spring 工具现在会在这些表达式上方显示CodeLense，让你快速让 GitHub Copilot 为你解释这些语句。相应的提示会先提供一个简短的摘要，随后是更详细的解释。这里有一个演示。 CRON 表达式的语法高亮和验证 当 CRON 表达式用于 @Scheduler 注解时，现在可以显示语法高亮，并且如果语法不正确，还会出现错误标记。演示如下。 查询参数名称的新嵌入提示 使用序号引用查询特定参数，现在会显示一个嵌入提示，告诉你该序号所引用的已解析方法参数的名称。 更多 Spring 注解获得内容辅助、跳转定义和查找引用支持 在 Java 源代码中使用 Spring 注解的工作每次发布都会变得更加快捷和轻松。最新的 Spring Boot 工具添加了以下注解的高级功能： [&amp;hellip;]】大家好，欢迎来到 Visual Studio Code for Java 的九月更新！在本篇博客中，我们将介绍一些重要的 Spring 功能更新和 Gradle 增强功能，让我们开始吧！ Spring 更新 使用 GitHub Copilot 解释 SpEL 表达式、查询语句和 AOP 切入点表达式 SpEL 表达式、查询语句和 AOP 切入点表达式有时编写起来比较复杂，但如果你在 Visual Studio Code 环境中使用 GitHub Copilot，Spring 工具现在会在这些表达式上方显示CodeLense，让你快速让 GitHub Copilot 为你解释这些语句。相应的提示会先提供一个简短的摘要，随后是更详细的解释。这里有一个演示。 CRON 表达式的语法高亮和验证 当 CRON 表达式用于 @Scheduler 注解时，现在可以显示语法高亮，并且如果语法不正确，还会出现错误标记。演示如下。 查询参数名称的新嵌入提示 使用序号引用查询特定参数，现在会显示一个嵌入提示，告诉你该序号所引用的已解析方法参数的名称。 更多 Spring 注解获得内容辅助、跳转定义和查找引用支持 在 Java 源代码中使用 Spring 注解的工作每次发布都会变得更加快捷和轻松。最新的 Spring Boot 工具添加了以下注解的高级功能： […]</description>
+      <pubDate>Thu, 10 Oct 2024 15:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Engineering the Scalable Vector Extension in .NET】在 .NET 中设计可扩展矢量扩展</title>
+      <link>https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet</link>
+      <description>【Let&#39;s take an in-depth look at how the team implemented the Scalable Vector Extension (SVE) for .NET.】让我们深入了解一下团队如何为 .NET 实现可扩展矢量扩展 (SVE)。</description>
+      <pubDate>Thu, 10 Oct 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Utilize Multiple Monitors for Microsoft Dev Box with the Windows App】通过 Windows 应用程序利用 Microsoft Dev Box 的多个显示器</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/utilize-multiple-monitors-for-microsoft-dev-box-with-the-windows-app</link>
+      <description>【Do you use cloud-based developer environments like Microsoft Dev Box? Do you use multiple monitors in your setup? Did you know there a new app in Windows that will give you a great experience with multiple monitors and Microsoft Dev Box? Take a look at this video showing configuring multiple monitor setup with the Windows [&amp;hellip;]】您是否使用基于云的开发人员环境（例如 Microsoft Dev Box）？您的设置中是否使用多个显示器？您是否知道 Windows 中有一款新应用程序可以为您提供多显示器和 Microsoft Dev Box 的出色体验？观看此视频，该视频展示了使用 Windows 配置多显示器设置 [...]</description>
+      <pubDate>Wed, 09 Oct 2024 22:41:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
