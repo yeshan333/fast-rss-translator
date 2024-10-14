@@ -4,10 +4,22 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【eBPF Challenge 1: XDP Return Codes】eBPF 挑战 1：XDP 返回代码</title>
-      <link>https://ebpfchirp.substack.com/p/ebpf-challenge-1-xdp-return-codes</link>
-      <description>【An eBPF challenge that showcases the consequence of returning a 0 value from an XDP program】一个 eBPF 挑战，展示从 XDP 程序返回 0 值的结果</description>
-      <pubDate>Mon, 30 Sep 2024 17:00:00 +0000</pubDate>
+      <title>【How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack】Cloudflare 如何自动缓解创纪录的 3.8 Tbps DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/</link>
+      <description>【Learn how Cloudflare were able to deal with a DDoS attack and protect their systems with XDP and eBPF】了解 Cloudflare 如何利用 XDP 和 eBPF 应对 DDoS 攻击并保护其系统</description>
+      <pubDate>Wed, 02 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Tetragon eBPF for Kubernetes: The Verdict Is Out】‍Kubernetes 的 Tetragon eBPF：结论已经出来</title>
+      <link>https://thenewstack.io/tetragon-ebpf-for-kubernetes-the-verdict-is-out/</link>
+      <description>【Dive into Tetragon&#39;s effectiveness in improving security and observability for cloud-native applications running on Kubernetes】深入了解 Tetragon 在提高 Kubernetes 上运行的云原生应用程序的安全性和可观察性方面的有效性</description>
+      <pubDate>Sun, 22 Sep 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍eBPF- One Size Does Not Fit All】‍eBPF - 一种尺寸并不适合所有情况</title>
+      <link>https://www.mantisnet.com/blog/ebpfonesizedoesnotfitall</link>
+      <description>【Explore how eBPF  is not a &#34;one size fits all&#34; solution despite how it is becoming widely adopted for various use cases】探索 eBPF 为什么不是“一刀切”的解决方案，尽管它已被广泛应用于各种用例</description>
+      <pubDate>Thu, 26 Sep 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【Reflecting on the eBPF Summit 2024: A Recap of Innovation and Community】反思 2024 年 eBPF 峰会：创新与社区回顾</title>
@@ -16,10 +28,22 @@
       <pubDate>Wed, 09 Oct 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【‍eBPF- One Size Does Not Fit All】‍eBPF - 一种尺寸并不适合所有情况</title>
-      <link>https://www.mantisnet.com/blog/ebpfonesizedoesnotfitall</link>
-      <description>【Explore how eBPF  is not a &#34;one size fits all&#34; solution despite how it is becoming widely adopted for various use cases】探索 eBPF 为什么不是“一刀切”的解决方案，尽管它已被广泛应用于各种用例</description>
-      <pubDate>Thu, 26 Sep 2024 17:20:05 +0000</pubDate>
+      <title>【‍Loops and Iterators in eBPF】eBPF 中的循环和迭代器</title>
+      <link>https://cloudchirp.substack.com/p/loops-and-iterators-in-ebpf</link>
+      <description>【Learn how to use loops and iterators in eBPF and how to implement them effectively in eBPF applications】了解如何在 eBPF 中使用循环和迭代器以及如何在 eBPF 应用程序中有效地实现它们</description>
+      <pubDate>Sat, 21 Sep 2024 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【First eBPF program】第一个 eBPF 程序</title>
+      <link>https://prateek-singh.hashnode.dev/first-ebpf-program</link>
+      <description>【Learn how to write a Python program that compiles and loads the eBPF program into the kernel and attaches it to the execve system call】了解如何编写 Python 程序来编译 eBPF 程序并将其加载到内核中并将其附加到 execve 系统调用</description>
+      <pubDate>Thu, 03 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【‍Introduction to eBPF】‍eBPF简介</title>
+      <link>https://prateek-singh.hashnode.dev/introduction-to-ebpf</link>
+      <description>【Discover how eBPF allows developers to safely extend Linux kernel capabilities for observability, tracing, and security】了解 eBPF 如何允许开发人员安全地扩展 Linux 内核功能以实现可观察性、跟踪和安全性</description>
+      <pubDate>Mon, 23 Sep 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
       <title>【‍What Insights Can eBPF Provide into Real-Time SSL/TLS Encrypted Traffic and How?】‍eBPF 可以为实时 SSL/TLS 加密流量提供哪些见解以及如何提供？</title>
@@ -34,34 +58,10 @@
       <pubDate>Mon, 23 Sep 2024 17:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>【‍Loops and Iterators in eBPF】eBPF 中的循环和迭代器</title>
-      <link>https://cloudchirp.substack.com/p/loops-and-iterators-in-ebpf</link>
-      <description>【Learn how to use loops and iterators in eBPF and how to implement them effectively in eBPF applications】了解如何在 eBPF 中使用循环和迭代器以及如何在 eBPF 应用程序中有效地实现它们</description>
-      <pubDate>Sat, 21 Sep 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Tetragon eBPF for Kubernetes: The Verdict Is Out】‍Kubernetes 的 Tetragon eBPF：结论已经出来</title>
-      <link>https://thenewstack.io/tetragon-ebpf-for-kubernetes-the-verdict-is-out/</link>
-      <description>【Dive into Tetragon&#39;s effectiveness in improving security and observability for cloud-native applications running on Kubernetes】深入了解 Tetragon 在提高 Kubernetes 上运行的云原生应用程序的安全性和可观察性方面的有效性</description>
-      <pubDate>Sun, 22 Sep 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【‍Introduction to eBPF】‍eBPF简介</title>
-      <link>https://prateek-singh.hashnode.dev/introduction-to-ebpf</link>
-      <description>【Discover how eBPF allows developers to safely extend Linux kernel capabilities for observability, tracing, and security】了解 eBPF 如何允许开发人员安全地扩展 Linux 内核功能以实现可观察性、跟踪和安全性</description>
-      <pubDate>Mon, 23 Sep 2024 17:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【First eBPF program】第一个 eBPF 程序</title>
-      <link>https://prateek-singh.hashnode.dev/first-ebpf-program</link>
-      <description>【Learn how to write a Python program that compiles and loads the eBPF program into the kernel and attaches it to the execve system call】了解如何编写 Python 程序来编译 eBPF 程序并将其加载到内核中并将其附加到 execve 系统调用</description>
-      <pubDate>Thu, 03 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack】Cloudflare 如何自动缓解创纪录的 3.8 Tbps DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/</link>
-      <description>【Learn how Cloudflare were able to deal with a DDoS attack and protect their systems with XDP and eBPF】了解 Cloudflare 如何利用 XDP 和 eBPF 应对 DDoS 攻击并保护其系统</description>
-      <pubDate>Wed, 02 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【eBPF Challenge 1: XDP Return Codes】eBPF 挑战 1：XDP 返回代码</title>
+      <link>https://ebpfchirp.substack.com/p/ebpf-challenge-1-xdp-return-codes</link>
+      <description>【An eBPF challenge that showcases the consequence of returning a 0 value from an XDP program】一个 eBPF 挑战，展示从 XDP 程序返回 0 值的结果</description>
+      <pubDate>Mon, 30 Sep 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Cloudflare acquires Kivera to add simple, preventive cloud security to Cloudflare One 】Cloudflare 收购 Kivera，为 Cloudflare One 添加简单的预防性云安全性</title>
+      <link>https://blog.cloudflare.com/cloudflare-acquires-kivera</link>
+      <description>【 The acquisition and integration of Kivera broadens the scope of Cloudflare’s SASE platform beyond just apps, incorporating increased cloud security through proactive configuration management of cloud services.  】Kivera 的收购和集成扩大了 Cloudflare SASE 平台的范围，而不仅仅是应用程序，通过云服务的主动配置管理增强了云安全性。</description>
+      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【CJ Desai: Why I joined Cloudflare as President of Product and Engineering】CJ Desai：我为何加入 Cloudflare 担任产品和工程总裁</title>
+      <link>https://blog.cloudflare.com/cj-desai-why-i-joined-cloudflare</link>
+      <description>【 I am thrilled to embark on this journey to run Product and Engineering at Cloudflare, driving forward the mission of helping build a better Internet.  】我很高兴踏上这段在 Cloudflare 运行产品和工程的旅程，推动帮助构建更好的互联网的使命。 </description>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Impact of Verizon’s September 30 outage on Internet traffic】Verizon 9 月 30 日断电对互联网流量的影响</title>
+      <link>https://blog.cloudflare.com/impact-of-verizons-september-30-outage-on-internet-traffic</link>
+      <description>【 On Monday, September 30, customers on Verizon’s mobile network in multiple cities across the United States reported experiencing a loss of connectivity. HTTP request traffic data from Verizon’s mobile ASN (AS6167) showed nominal declines across impacted cities.&#xA; 】9 月 30 日星期一，美国多个城市的 Verizon 移动网络客户报告称遇到了连接中断的情况。来自 Verizon 移动 ASN (AS6167) 的 HTTP 请求流量数据显示受影响城市的名义流量有所下降。</description>
+      <pubDate>Tue, 01 Oct 2024 00:32:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Leveraging Kubernetes virtual machines at Cloudflare with KubeVirt】通过 KubeVirt 在 Cloudflare 中利用 Kubernetes 虚拟机</title>
       <link>https://blog.cloudflare.com/leveraging-kubernetes-virtual-machines-with-kubevirt</link>
       <description>【 The Kubernetes team runs several multi-tenant clusters across Cloudflare’s core data centers. When multi-tenant cluster isolation is too limiting for an application, we use KubeVirt. KubeVirt is a cloud-native solution that enables our developers to run virtual machines alongside containers. 】Kubernetes 团队在 Cloudflare 的核心数据中心运行多个多租户集群。当多租户集群隔离对于应用程序来说限制太大时，我们使用 KubeVirt。 KubeVirt 是一种云原生解决方案，使我们的开发人员能够与容器一起运行虚拟机。</description>
@@ -16,34 +34,10 @@
       <pubDate>Wed, 09 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare acquires Kivera to add simple, preventive cloud security to Cloudflare One 】Cloudflare 收购 Kivera，为 Cloudflare One 添加简单的预防性云安全性</title>
-      <link>https://blog.cloudflare.com/cloudflare-acquires-kivera</link>
-      <description>【 The acquisition and integration of Kivera broadens the scope of Cloudflare’s SASE platform beyond just apps, incorporating increased cloud security through proactive configuration management of cloud services.  】Kivera 的收购和集成扩大了 Cloudflare SASE 平台的范围，而不仅仅是应用程序，通过云服务的主动配置管理增强了云安全性。</description>
-      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thermal design supporting Gen 12 hardware: cool, efficient and reliable】支持 Gen 12 硬件的散热设计：酷炫、高效、可靠</title>
-      <link>https://blog.cloudflare.com/thermal-design-supporting-gen-12-hardware-cool-efficient-and-reliable</link>
-      <description>【 Great thermal solutions play a crucial role in hardware reliability and performance. Gen 12 servers have implemented an exhaustive thermal analysis to ensure optimal operations within a wide variety of temperature conditions and use cases. By implementing new design and control features for improved power efficiency on the compute nodes we also enabled the support of powerful accelerators to serve our customers. 】出色的散热解决方案在硬件可靠性和性能方面发挥着至关重要的作用。第 12 代服务器实施了详尽的热分析，以确保在各种温度条件和使用案例中实现最佳运行。通过实施新的设计和控制功能来提高计算节点的能效，我们还支持强大的加速器来为我们的客户提供服务。</description>
-      <pubDate>Mon, 07 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Enhance your website&#39;s security with Cloudflare’s free security.txt generator】使用 Cloudflare 的免费 security.txt 生成器增强网站的安全性</title>
       <link>https://blog.cloudflare.com/security-txt</link>
       <description>【 Introducing Cloudflare’s free security.txt generator, empowering all users to easily create and manage their security.txt files. This feature enhances vulnerability disclosure processes, aligns with industry standards, and is integrated into the dashboard for seamless access. Strengthen your website&#39;s security today! 】隆重推出 Cloudflare 的免费 security.txt 生成器，让所有用户能够轻松创建和管理其 security.txt 文件。此功能增强了漏洞披露流程，符合行业标准，并集成到仪表板中以实现无缝访问。立即加强您网站的安全！</description>
       <pubDate>Sun, 06 Oct 2024 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Impact of Verizon’s September 30 outage on Internet traffic】Verizon 9 月 30 日断电对互联网流量的影响</title>
-      <link>https://blog.cloudflare.com/impact-of-verizons-september-30-outage-on-internet-traffic</link>
-      <description>【 On Monday, September 30, customers on Verizon’s mobile network in multiple cities across the United States reported experiencing a loss of connectivity. HTTP request traffic data from Verizon’s mobile ASN (AS6167) showed nominal declines across impacted cities.&#xA; 】9 月 30 日星期一，美国多个城市的 Verizon 移动网络客户报告称遇到了连接中断的情况。来自 Verizon 移动 ASN (AS6167) 的 HTTP 请求流量数据显示受影响城市的名义流量有所下降。</description>
-      <pubDate>Tue, 01 Oct 2024 00:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Patent troll Sable pays up, dedicates all its patents to the public!】专利流氓 Sable 付清了所有专利，将其所有专利奉献给公众！</title>
-      <link>https://blog.cloudflare.com/patent-troll-sable-pays-up</link>
-      <description>【 We’re pleased to announce that the litigation against Sable has finally concluded on terms that we believe send a strong message to patent trolls everywhere — if you bring meritless patent claims against Cloudflare, we will fight back and we will win.&#xA; 】我们很高兴地宣布，针对 Sable 的诉讼最终结束，我们相信这向各地的专利流氓发出了强烈的信息——如果您对 Cloudflare 提出毫无根据的专利索赔，我们将予以反击，并且我们会获胜。</description>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack】Cloudflare 如何自动缓解创纪录的 3.8 Tbps DDoS 攻击</title>
@@ -58,10 +52,16 @@
       <pubDate>Wed, 09 Oct 2024 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【CJ Desai: Why I joined Cloudflare as President of Product and Engineering】CJ Desai：我为何加入 Cloudflare 担任产品和工程总裁</title>
-      <link>https://blog.cloudflare.com/cj-desai-why-i-joined-cloudflare</link>
-      <description>【 I am thrilled to embark on this journey to run Product and Engineering at Cloudflare, driving forward the mission of helping build a better Internet.  】我很高兴踏上这段在 Cloudflare 运行产品和工程的旅程，推动帮助构建更好的互联网的使命。 </description>
-      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
+      <title>【Patent troll Sable pays up, dedicates all its patents to the public!】专利流氓 Sable 付清了所有专利，将其所有专利奉献给公众！</title>
+      <link>https://blog.cloudflare.com/patent-troll-sable-pays-up</link>
+      <description>【 We’re pleased to announce that the litigation against Sable has finally concluded on terms that we believe send a strong message to patent trolls everywhere — if you bring meritless patent claims against Cloudflare, we will fight back and we will win.&#xA; 】我们很高兴地宣布，针对 Sable 的诉讼最终结束，我们相信这向各地的专利流氓发出了强烈的信息——如果您对 Cloudflare 提出毫无根据的专利索赔，我们将予以反击，并且我们会获胜。</description>
+      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thermal design supporting Gen 12 hardware: cool, efficient and reliable】支持 Gen 12 硬件的散热设计：酷炫、高效、可靠</title>
+      <link>https://blog.cloudflare.com/thermal-design-supporting-gen-12-hardware-cool-efficient-and-reliable</link>
+      <description>【 Great thermal solutions play a crucial role in hardware reliability and performance. Gen 12 servers have implemented an exhaustive thermal analysis to ensure optimal operations within a wide variety of temperature conditions and use cases. By implementing new design and control features for improved power efficiency on the compute nodes we also enabled the support of powerful accelerators to serve our customers. 】出色的散热解决方案在硬件可靠性和性能方面发挥着至关重要的作用。第 12 代服务器实施了详尽的热分析，以确保在各种温度条件和使用案例中实现最佳运行。通过实施新的设计和控制功能来提高计算节点的能效，我们还支持强大的加速器来为我们的客户提供服务。</description>
+      <pubDate>Mon, 07 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
