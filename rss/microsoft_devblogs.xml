@@ -10,34 +10,10 @@
       <pubDate>Mon, 14 Oct 2024 19:39:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Multimodal RAG with Vision: From Experimentation to Implementation】具有愿景的多模态 RAG：从实验到实施</title>
-      <link>https://devblogs.microsoft.com/ise/multimodal-rag-with-vision</link>
-      <description>【This blog post delves into the experimentation journey of fine-tuning a multimodal RAG pipeline to best answer user queries that require both textual and image context. We ran our experiments by systematically testing various approaches, adjusting one configuration setting at a time and using clearly defined evaluation metrics to validate the performance of each component of the RAG pipeline in isolation, as well as the end-to-end inference flow.】这篇博文深入探讨了微调多模式 RAG 管道的实验过程，以最好地回答需要文本和图像上下文的用户查询。我们通过系统地测试各种方法、一次调整一种配置设置并使用明确定义的评估指标来独立验证 RAG 管道每个组件的性能以及端到端推理流来进行实验。</description>
-      <pubDate>Fri, 11 Oct 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The ultimate chatbot?】终极聊天机器人？</title>
-      <link>https://devblogs.microsoft.com/azure-sql/the-ultimate-chatbot</link>
-      <description>【RAG &amp;#8211; Retrieval Augmented Generation &amp;#8211; is by far one of the most common patterns today as it enables the creation of chatbots that can chat on your own data, as I described in my previous &amp;#8220;Retrieval Augmented Generation with Azure SQL&amp;#8221; blog post. As soon as you start to use it excitement grows, as [&amp;hellip;]】RAG（检索增强生成）是迄今为止最常见的模式之一，因为它可以创建可以在您自己的数据上聊天的聊天机器人，正如我在之前的“使用 Azure SQL 进行检索增强生成”博客文章中所述。一旦您开始使用它，兴奋就会增加，因为 [...]</description>
-      <pubDate>Mon, 14 Oct 2024 15:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I explicitly specialize a templated C++ constructor?】如何显式特化模板化 C++ 构造函数？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241011-00/?p=110365</link>
-      <description>【Looking for a C++ tag type for representing another type.】寻找 C++ 标记类型来表示另一种类型。</description>
-      <pubDate>Fri, 11 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in System.Text.Json in .NET 9】.NET 9 中 System.Text.Json 的新增功能</title>
-      <link>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9</link>
-      <description>【An overview of all new .NET 9 features in System.Text.Json for developers.】为开发人员概述了 System.Text.Json 中的所有新 .NET 9 功能。</description>
-      <pubDate>Tue, 15 Oct 2024 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Contextual Tools for GitHub Copilot in Visual Studio】Visual Studio 中 GitHub Copilot 的新上下文工具</title>
-      <link>https://devblogs.microsoft.com/cppblog/new-contextual-tools-for-github-copilot-in-visual-studio</link>
-      <description>【Visual Studio 2022 17.11 now allows you to pass your entire workspace or specific classes and functions as context for GitHub Copilot Chat. By referencing your entire codebase, down to specific classes and functions, Copilot Chat can deliver refined and accurate results tailored to your code. @workspace for project references  You can now use GitHub [&amp;hellip;]】Visual Studio 2022 17.11 现在允许您将整个工作区或特定类和函数作为 GitHub Copilot Chat 的上下文传递。通过引用您的整个代码库，具体到特定的类和函数，Copilot Chat 可以提供针对您的代码量身定制的精致且准确的结果。 @workspace 用于项目参考您现在可以使用 GitHub [...]</description>
-      <pubDate>Thu, 10 Oct 2024 17:31:35 +0000</pubDate>
+      <title>【Catch the highlights from Azure Developers – .NET Aspire Day 2024!】了解 Azure 开发人员的亮点 - 2024 年 .NET Aspire Day！</title>
+      <link>https://devblogs.microsoft.com/dotnet/azure-developers-dotnet-aspire-day-recap</link>
+      <description>【Watch the top sessions on demand for insights and practical guidance on building distributed applications with .NET Aspire!】按需观看顶级会议，了解有关使用 .NET Aspire 构建分布式应用程序的见解和实用指导！</description>
+      <pubDate>Mon, 14 Oct 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【A quick introduction to return address protection technologies】返回地址保护技术快速介绍</title>
@@ -46,22 +22,46 @@
       <pubDate>Tue, 15 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【On naming things: The tension between naming something for what it is, what it does, or how it is used】关于命名事物：根据事物的本质、用途或使用方式来命名事物之间的紧张关系</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241014-00/?p=110368</link>
-      <description>【You are guaranteed to make someone upset.】你肯定会让某人心烦意乱。</description>
-      <pubDate>Mon, 14 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【The ultimate chatbot?】终极聊天机器人？</title>
+      <link>https://devblogs.microsoft.com/azure-sql/the-ultimate-chatbot</link>
+      <description>【RAG &amp;#8211; Retrieval Augmented Generation &amp;#8211; is by far one of the most common patterns today as it enables the creation of chatbots that can chat on your own data, as I described in my previous &amp;#8220;Retrieval Augmented Generation with Azure SQL&amp;#8221; blog post. As soon as you start to use it excitement grows, as [&amp;hellip;]】RAG（检索增强生成）是迄今为止最常见的模式之一，因为它可以创建可以在您自己的数据上聊天的聊天机器人，正如我在之前的“使用 Azure SQL 进行检索增强生成”博客文章中所述。一旦您开始使用它，兴奋就会增加，因为 [...]</description>
+      <pubDate>Mon, 14 Oct 2024 15:15:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Catch the highlights from Azure Developers – .NET Aspire Day 2024!】了解 Azure 开发人员的亮点 - 2024 年 .NET Aspire Day！</title>
-      <link>https://devblogs.microsoft.com/dotnet/azure-developers-dotnet-aspire-day-recap</link>
-      <description>【Watch the top sessions on demand for insights and practical guidance on building distributed applications with .NET Aspire!】按需观看顶级会议，了解有关使用 .NET Aspire 构建分布式应用程序的见解和实用指导！</description>
-      <pubDate>Mon, 14 Oct 2024 17:05:00 +0000</pubDate>
+      <title>【What’s new in System.Text.Json in .NET 9】.NET 9 中 System.Text.Json 的新增功能</title>
+      <link>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9</link>
+      <description>【An overview of all new .NET 9 features in System.Text.Json for developers.】为开发人员概述了 System.Text.Json 中的所有新 .NET 9 功能。</description>
+      <pubDate>Tue, 15 Oct 2024 15:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcement: Agent Framework Documentation Updates】公告：Agent 框架文档更新</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcement-agent-framework-documentation-updates</link>
-      <description>【The Semantic Kernel Agent Framework revolutionizes how developers can interact with Large Language Models (LLMs) by embedding dynamic, multi-step agents into their applications. By combining the power of LLMs with structured programming, the framework allows developers to build intelligent systems that can autonomously carry out tasks, reason based on context, and collaborate across multiple agents. [&amp;hellip;]】语义内核代理框架通过将动态、多步骤代理嵌入到应用程序中，彻底改变了开发人员与大型语言模型 (LLM) 交互的方式。通过将法学硕士的强大功能与结构化编程相结合，该框架允许开发人员构建可以自主执行任务、基于上下文进行推理以及跨多个代理协作的智能系统。 […]</description>
-      <pubDate>Fri, 11 Oct 2024 19:04:27 +0000</pubDate>
+      <title>【Effects of classic return address tricks on hardware-assisted return address protection】经典返回地址技巧对硬件辅助返回地址保护的影响</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241016-00/?p=110378</link>
+      <description>【Return address manipulations that are possibly even more impermissible than they already were.】返回地址操纵可能比以前更加不允许。</description>
+      <pubDate>Wed, 16 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we build GitHub Copilot into Visual Studio】我们如何将 GitHub Copilot 构建到 Visual Studio 中</title>
+      <link>https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio</link>
+      <description>【Find out how Visual Studio integrates GitHub Copilot, architectural detail, .NET implementation, and the importance of the indexing service for providing context-aware AI code suggestions.】了解 Visual Studio 如何集成 GitHub Copilot、架构细节、.NET 实现，以及索引服务对于提供上下文感知 AI 代码建议的重要性。</description>
+      <pubDate>Wed, 16 Oct 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 control spotlight: Information security risk management】Microsoft 365 控制焦点：信息安全风险管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-control-spotlight-information-security-risk-management</link>
+      <description>【Read how Microsoft 365 Certification verifies information security risk management.】了解 Microsoft 365 认证如何验证信息安全风险管理。</description>
+      <pubDate>Wed, 16 Oct 2024 16:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improve your debugger game with editable expressions】使用可编辑表达式改进您的调试器游戏</title>
+      <link>https://devblogs.microsoft.com/visualstudio/improve-your-debugger-game-with-editable-expressions</link>
+      <description>【Do you ever wish you could quickly test different queries on your collections or datasets while debugging? Do you want to save time and avoid writing code just to inspect your data? If you answered yes, then you will love the new editable expression feature in the Visual Studio debugger. This feature allows you to [&amp;hellip;]】您是否希望在调试时可以快速测试集合或数据集上的不同查询？您想节省时间并避免仅为检查数据而编写代码吗？如果您的回答是“是”，那么您一定会喜欢 Visual Studio 调试器中新的可编辑表达式功能。此功能允许您[...]</description>
+      <pubDate>Wed, 16 Oct 2024 18:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps】在 GitHub Advanced Security for Azure DevOps 中引入 CodeQL 的拉取请求注释和依赖项扫描</title>
+      <link>https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops</link>
+      <description>【In the world of software development, security is paramount. As developers, we strive to write clean, efficient, and most importantly, secure code. GitHub Advanced Security for Azure DevOps has always been at the forefront of providing tools that make it easier to build and release high-quality software. Today, we’re excited to announce a new feature [&amp;hellip;]】在软件开发领域，安全性至关重要。作为开发人员，我们努力编写干净、高效、最重要的是安全的代码。 GitHub Advanced Security for Azure DevOps 始终走在提供工具的前沿，让您可以更轻松地构建和发布高质量软件。今天，我们很高兴宣布一项新功能 [...]</description>
+      <pubDate>Thu, 17 Oct 2024 00:18:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
