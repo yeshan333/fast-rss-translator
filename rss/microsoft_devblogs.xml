@@ -4,36 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Azure Developer CLI (azd) – October 2024】Azure 开发人员 CLI (azd) – 2024 年 10 月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2024</link>
-      <description>【This post announces the October release of the Azure Developer CLI (`azd`), including configurable api-version for ACA.】这篇文章宣布了 10 月份发布的 Azure 开发人员 CLI (`azd`)，包括 ACA 的可配置 api 版本。</description>
-      <pubDate>Mon, 14 Oct 2024 19:39:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Catch the highlights from Azure Developers – .NET Aspire Day 2024!】了解 Azure 开发人员的亮点 - 2024 年 .NET Aspire Day！</title>
-      <link>https://devblogs.microsoft.com/dotnet/azure-developers-dotnet-aspire-day-recap</link>
-      <description>【Watch the top sessions on demand for insights and practical guidance on building distributed applications with .NET Aspire!】按需观看顶级会议，了解有关使用 .NET Aspire 构建分布式应用程序的见解和实用指导！</description>
-      <pubDate>Mon, 14 Oct 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A quick introduction to return address protection technologies】返回地址保护技术快速介绍</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241015-00/?p=110374</link>
-      <description>【Detecting attempts to manipulate the return address.】检测操纵返回地址的尝试。</description>
-      <pubDate>Tue, 15 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The ultimate chatbot?】终极聊天机器人？</title>
-      <link>https://devblogs.microsoft.com/azure-sql/the-ultimate-chatbot</link>
-      <description>【RAG &amp;#8211; Retrieval Augmented Generation &amp;#8211; is by far one of the most common patterns today as it enables the creation of chatbots that can chat on your own data, as I described in my previous &amp;#8220;Retrieval Augmented Generation with Azure SQL&amp;#8221; blog post. As soon as you start to use it excitement grows, as [&amp;hellip;]】RAG（检索增强生成）是迄今为止最常见的模式之一，因为它可以创建可以在您自己的数据上聊天的聊天机器人，正如我在之前的“使用 Azure SQL 进行检索增强生成”博客文章中所述。一旦您开始使用它，兴奋就会增加，因为 [...]</description>
-      <pubDate>Mon, 14 Oct 2024 15:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in System.Text.Json in .NET 9】.NET 9 中 System.Text.Json 的新增功能</title>
-      <link>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9</link>
-      <description>【An overview of all new .NET 9 features in System.Text.Json for developers.】为开发人员概述了 System.Text.Json 中的所有新 .NET 9 功能。</description>
-      <pubDate>Tue, 15 Oct 2024 15:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Effects of classic return address tricks on hardware-assisted return address protection】经典返回地址技巧对硬件辅助返回地址保护的影响</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20241016-00/?p=110378</link>
       <description>【Return address manipulations that are possibly even more impermissible than they already were.】返回地址操纵可能比以前更加不允许。</description>
@@ -46,10 +16,10 @@
       <pubDate>Wed, 16 Oct 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 control spotlight: Information security risk management】Microsoft 365 控制焦点：信息安全风险管理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-control-spotlight-information-security-risk-management</link>
-      <description>【Read how Microsoft 365 Certification verifies information security risk management.】了解 Microsoft 365 认证如何验证信息安全风险管理。</description>
-      <pubDate>Wed, 16 Oct 2024 16:30:16 +0000</pubDate>
+      <title>【Enhanced Breakpoint Expressions for C++ Debugging in Visual Studio】Visual Studio 中 C++ 调试的增强断点表达式</title>
+      <link>https://devblogs.microsoft.com/cppblog/enhanced-breakpoint-expressions-for-c-debugging-in-visual-studio</link>
+      <description>【Conditional Breakpoints Performance Improvement Debugging C++ code can be a time-consuming process, especially when dealing with complex scenarios. As a developer, it&amp;#8217;s frustrating to go through extensive setup and wait for a specific conditional breakpoint to trigger so you can analyze your application in a specific state. In Visual Studio 2022 version 17.10, we optimized [&amp;hellip;]】条件断点性能改进 调试 C++ 代码可能是一个耗时的过程，尤其是在处理复杂场景时。作为开发人员，进行大量设置并等待特定条件断点触发以便在特定状态下分析应用程序是令人沮丧的。在 Visual Studio 2022 版本 17.10 中，我们优化了 [...]</description>
+      <pubDate>Thu, 17 Oct 2024 22:02:48 +0000</pubDate>
     </item>
     <item>
       <title>【Improve your debugger game with editable expressions】使用可编辑表达式改进您的调试器游戏</title>
@@ -58,10 +28,40 @@
       <pubDate>Wed, 16 Oct 2024 18:00:28 +0000</pubDate>
     </item>
     <item>
+      <title>【加入 .NET 智能组件生态系统】加入 .NET 智能组件生态系统</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%8a%a0%e5%85%a5-net-%e6%99%ba%e8%83%bd%e7%bb%84%e4%bb%b6%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f</link>
+      <description>【本篇翻译于首席产品经理 Daniel Roth 的Join the .NET Smart Components ecosystem &amp;#8211; .NET Blog (microsoft.com)  .NET 智能组件是一组示例嵌入式 UI 组件，使得在应用中轻松添加 AI 启用的功能变得更加简单，例如从剪贴板数据自动填写表单、智能文本补全以及语义搜索等场景。.NET 智能组件演示了如何将基于 AI 的功能预先打包成可重用的组件，从而更容易将这些功能集成到现有应用程序中。我们将 .NET 智能组件源代码作为参考示例实现提供，以帮助启动一个充满活力的可重用 .NET AI 驱动组件生态系统。  现已开源  .NET 智能组件在 GitHub 上的 dotnet/smartcomponents repo 中有了新家，其中包含实现源代码、文档和示例应用程序。库作者可以使用示例组件来获得灵感，并将其作为如何打包 AI 驱动功能以方便使用的参考实现。如果您对如何改进 .NET 智能组件有想法，或者对希望添加的新 AI 组件有想法，请通过在 GitHub 上提出问题与我们分享。  使用语义内核的局部嵌入  .NET 智能组件包含用于在您的服务器上本地计算嵌入 (LocalEmbeddings)的示例便捷 API。这些API可用于比较文本的语义相似性。这些 API 现已更新，以将基于 ONNX 的嵌入支持包装在语义内核中，然后演示如何在其基础上构建更多功能，例如自动模型获取、简化的语义搜索和替代嵌入表示。如果您发现这些附加功能有用，则可以将它们包含在您自己的应用程序和库中。否则，您可以直接使用语义内核 API。  来自流行组件供应商的智能组件  一些流行的组件供应商已经开始投资构建自己的智能组件，以 .NET 智能组件中的理念为基础，并添加自己独特的创新和功能。让我们来看看他们正在研究的几个例子。  [&amp;hellip;]】本篇翻译于首席产品经理 Daniel Roth 的Join the .NET Smart Components ecosystem – .NET Blog (microsoft.com)  .NET 智能组件是一组示例嵌入式 UI 组件，使得在应用中轻松添加 AI 启用的功能变得更加简单，例如从剪贴板数据自动填写表单、智能文本补全以及语义搜索等场景。.NET 智能组件演示了如何将基于 AI 的功能预先打包成可重用的组件，从而更容易将这些功能集成到现有应用程序中。我们将 .NET 智能组件源代码作为参考示例实现提供，以帮助启动一个充满活力的可重用 .NET AI 驱动组件生态系统。  现已开源  .NET 智能组件在 GitHub 上的 dotnet/smartcomponents repo 中有了新家，其中包含实现源代码、文档和示例应用程序。库作者可以使用示例组件来获得灵感，并将其作为如何打包 AI 驱动功能以方便使用的参考实现。如果您对如何改进 .NET 智能组件有想法，或者对希望添加的新 AI 组件有想法，请通过在 GitHub 上提出问题与我们分享。  使用语义内核的局部嵌入  .NET 智能组件包含用于在您的服务器上本地计算嵌入 (LocalEmbeddings)的示例便捷 API。这些API可用于比较文本的语义相似性。这些 API 现已更新，以将基于 ONNX 的嵌入支持包装在语义内核中，然后演示如何在其基础上构建更多功能，例如自动模型获取、简化的语义搜索和替代嵌入表示。如果您发现这些附加功能有用，则可以将它们包含在您自己的应用程序和库中。否则，您可以直接使用语义内核 API。  来自流行组件供应商的智能组件  一些流行的组件供应商已经开始投资构建自己的智能组件，以 .NET 智能组件中的理念为基础，并添加自己独特的创新和功能。让我们来看看他们正在研究的几个例子。  […]</description>
+      <pubDate>Thu, 17 Oct 2024 08:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 control spotlight: Information security risk management】Microsoft 365 控制焦点：信息安全风险管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-control-spotlight-information-security-risk-management</link>
+      <description>【Read how Microsoft 365 Certification verifies information security risk management.】了解 Microsoft 365 认证如何验证信息安全风险管理。</description>
+      <pubDate>Wed, 16 Oct 2024 16:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【推出适用于 .NET 的官方OpenAI库的稳定版本】推出适用于 .NET 的官方OpenAI库的稳定版本</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e6%8e%a8%e5%87%ba%e9%80%82%e7%94%a8%e4%ba%8e-net-%e7%9a%84%e5%ae%98%e6%96%b9openai%e5%ba%93%e7%9a%84%e7%a8%b3%e5%ae%9a%e7%89%88%e6%9c%ac</link>
+      <description>【本篇翻译于.NET 团队的Announcing the stable release of the official OpenAI library for .NET &amp;#8211; .NET Blog (microsoft.com)  早在 6 月份，我们就推出了适用于 .NET 的OpenAI 库的第一个测试版，使开发人员能够将高级 AI 模型集成到他们的应用程序中。今天，我们很高兴地宣布，适用于.NET 的官方 OpenAI 库的稳定版本现已上线。此版本可确保开发人员在其 .NET 应用程序中使用 OpenAI 和 Azure OpenAI 服务时获得顺畅可靠的集成体验。  主要特点  适用于.NET 的官方 OpenAI 库提供了强大的工具，可简化将 OpenAI 的高级模型集成到 .NET 应用程序中的过程，从而为开发人员提供简洁流畅的体验：  全面支持OpenAI REST API：包括 Assistants v2 和 Chat Completions，可实现灵活和先进的交互。  支持最新模型：OpenAI 的最新旗舰模型，包括 GPT-4o、GPT-4o mini、o1-preview [&amp;hellip;]】本篇翻译于.NET 团队的Announcing the stable release of the official OpenAI library for .NET – .NET Blog (microsoft.com)  早在 6 月份，我们就推出了适用于 .NET 的OpenAI 库的第一个测试版，使开发人员能够将高级 AI 模型集成到他们的应用程序中。今天，我们很高兴地宣布，适用于.NET 的官方 OpenAI 库的稳定版本现已上线。此版本可确保开发人员在其 .NET 应用程序中使用 OpenAI 和 Azure OpenAI 服务时获得顺畅可靠的集成体验。  主要特点  适用于.NET 的官方 OpenAI 库提供了强大的工具，可简化将 OpenAI 的高级模型集成到 .NET 应用程序中的过程，从而为开发人员提供简洁流畅的体验：  全面支持OpenAI REST API：包括 Assistants v2 和 Chat Completions，可实现灵活和先进的交互。  支持最新模型：OpenAI 的最新旗舰模型，包括 GPT-4o、GPT-4o mini、o1-preview […]</description>
+      <pubDate>Thu, 17 Oct 2024 07:57:17 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps】在 GitHub Advanced Security for Azure DevOps 中引入 CodeQL 的拉取请求注释和依赖项扫描</title>
       <link>https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops</link>
       <description>【In the world of software development, security is paramount. As developers, we strive to write clean, efficient, and most importantly, secure code. GitHub Advanced Security for Azure DevOps has always been at the forefront of providing tools that make it easier to build and release high-quality software. Today, we’re excited to announce a new feature [&amp;hellip;]】在软件开发领域，安全性至关重要。作为开发人员，我们努力编写干净、高效、最重要的是安全的代码。 GitHub Advanced Security for Azure DevOps 始终走在提供工具的前沿，让您可以更轻松地构建和发布高质量软件。今天，我们很高兴宣布一项新功能 [...]</description>
       <pubDate>Thu, 17 Oct 2024 00:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Evaluating tail call elimination in the face of return address protection, part 1】在返回地址保护的情况下评估尾部调用消除，第 1 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241017-00/?p=110380</link>
+      <description>【Reusing the activation frame.】重复使用激活框架。</description>
+      <pubDate>Thu, 17 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating an ASP.Net application with External ID using Visual Studio】使用 Visual Studio 创建具有外部 ID 的 ASP.Net 应用程序</title>
+      <link>https://devblogs.microsoft.com/identity/integrating-ext-id-using-vs</link>
+      <description>【Integrate Microsoft Entra External ID into your ASP.NET application using Visual Studio. Learn how External ID simplifies user authentication, improves your security posture, and reduces vulnerabilities. Whether you&#39;re new to identity management, or more experienced, this tutorial equips you with the guidance to enhance security and efficiency in your applications.】使用 Visual Studio 将 Microsoft Entra 外部 ID 集成到 ASP.NET 应用程序中。了解外部 ID 如何简化用户身份验证、改善安全状况并减少漏洞。无论您是身份管理新手还是经验丰富的人，本教程都会为您提供增强应用程序安全性和效率的指导。</description>
+      <pubDate>Thu, 17 Oct 2024 19:51:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

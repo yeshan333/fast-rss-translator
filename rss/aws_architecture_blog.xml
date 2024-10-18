@@ -4,28 +4,10 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>Cyber​​Ark 如何通过编写架构蓝图来简化无服务器治理</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/</link>
+      <title>使用 Amazon Outposts 和 AWS 本地区域的混合云之旅</title>
+      <link>https://aws.amazon.com/blogs/architecture/hybrid-cloud-journey-using-amazon-outposts-and-aws-local-zones/</link>
       <description></description>
-      <pubDate>Fri, 11 Oct 2024 16:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>来当建筑师吧！构建多租户SaaS系统</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-building-multi-tenant-saas-systems/</link>
-      <description></description>
-      <pubDate>Thu, 26 Sep 2024 18:24:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>根据预算构建三层架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/</link>
-      <description></description>
-      <pubDate>Wed, 25 Sep 2024 15:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 AWS 架构完善的框架指南实现节俭架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/</link>
-      <description></description>
-      <pubDate>Wed, 14 Aug 2024 19:55:53 +0000</pubDate>
+      <pubDate>Wed, 18 Sep 2024 16:21:51 +0000</pubDate>
     </item>
     <item>
       <title>Wesfarmers Health 如何使用 Amazon SQS FIFO 实施上游事件缓冲</title>
@@ -34,16 +16,40 @@
       <pubDate>Thu, 22 Aug 2024 17:50:07 +0000</pubDate>
     </item>
     <item>
+      <title>Banfico 如何在 AWS 上构建开放银行和支付服务指令 (PSD2) 合规解决方案</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-banfico-built-an-open-banking-and-payment-services-directive-psd2-compliance-solution-on-aws/</link>
+      <description></description>
+      <pubDate>Fri, 04 Oct 2024 14:03:39 +0000</pubDate>
+    </item>
+    <item>
       <title>租户可移植性：在 SaaS 应用程序中跨层移动租户</title>
       <link>https://aws.amazon.com/blogs/architecture/tenant-portability-move-tenants-across-tiers-in-a-saas-application/</link>
       <description></description>
       <pubDate>Wed, 07 Aug 2024 17:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>引入毛利数据镜头以实现架构良好的框架</title>
-      <link>https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/</link>
+      <title>来当建筑师吧！构建多租户SaaS系统</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-building-multi-tenant-saas-systems/</link>
       <description></description>
-      <pubDate>Thu, 01 Aug 2024 22:56:37 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2024 18:24:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 AWS 架构完善的框架指南实现节俭架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/</link>
+      <description></description>
+      <pubDate>Wed, 14 Aug 2024 19:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>根据预算构建三层架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/</link>
+      <description></description>
+      <pubDate>Wed, 25 Sep 2024 15:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber​​Ark 如何通过编写架构蓝图来简化无服务器治理</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/</link>
+      <description></description>
+      <pubDate>Fri, 11 Oct 2024 16:03:57 +0000</pubDate>
     </item>
     <item>
       <title>使用 DNS 自动化 WebLogic 管理服务器的多可用区高可用性：第 2 部分</title>
@@ -52,16 +58,10 @@
       <pubDate>Wed, 16 Oct 2024 20:19:37 +0000</pubDate>
     </item>
     <item>
-      <title>Banfico 如何在 AWS 上构建开放银行和支付服务指令 (PSD2) 合规解决方案</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-banfico-built-an-open-banking-and-payment-services-directive-psd2-compliance-solution-on-aws/</link>
+      <title>引入毛利数据镜头以实现架构良好的框架</title>
+      <link>https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/</link>
       <description></description>
-      <pubDate>Fri, 04 Oct 2024 14:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 Amazon Outposts 和 AWS 本地区域的混合云之旅</title>
-      <link>https://aws.amazon.com/blogs/architecture/hybrid-cloud-journey-using-amazon-outposts-and-aws-local-zones/</link>
-      <description></description>
-      <pubDate>Wed, 18 Sep 2024 16:21:51 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 22:56:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
