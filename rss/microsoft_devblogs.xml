@@ -4,40 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Effects of classic return address tricks on hardware-assisted return address protection】经典返回地址技巧对硬件辅助返回地址保护的影响</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241016-00/?p=110378</link>
-      <description>【Return address manipulations that are possibly even more impermissible than they already were.】返回地址操纵可能比以前更加不允许。</description>
-      <pubDate>Wed, 16 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How we build GitHub Copilot into Visual Studio】我们如何将 GitHub Copilot 构建到 Visual Studio 中</title>
-      <link>https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio</link>
-      <description>【Find out how Visual Studio integrates GitHub Copilot, architectural detail, .NET implementation, and the importance of the indexing service for providing context-aware AI code suggestions.】了解 Visual Studio 如何集成 GitHub Copilot、架构细节、.NET 实现，以及索引服务对于提供上下文感知 AI 代码建议的重要性。</description>
-      <pubDate>Wed, 16 Oct 2024 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhanced Breakpoint Expressions for C++ Debugging in Visual Studio】Visual Studio 中 C++ 调试的增强断点表达式</title>
-      <link>https://devblogs.microsoft.com/cppblog/enhanced-breakpoint-expressions-for-c-debugging-in-visual-studio</link>
-      <description>【Conditional Breakpoints Performance Improvement Debugging C++ code can be a time-consuming process, especially when dealing with complex scenarios. As a developer, it&amp;#8217;s frustrating to go through extensive setup and wait for a specific conditional breakpoint to trigger so you can analyze your application in a specific state. In Visual Studio 2022 version 17.10, we optimized [&amp;hellip;]】条件断点性能改进 调试 C++ 代码可能是一个耗时的过程，尤其是在处理复杂场景时。作为开发人员，进行大量设置并等待特定条件断点触发以便在特定状态下分析应用程序是令人沮丧的。在 Visual Studio 2022 版本 17.10 中，我们优化了 [...]</description>
-      <pubDate>Thu, 17 Oct 2024 22:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improve your debugger game with editable expressions】使用可编辑表达式改进您的调试器游戏</title>
-      <link>https://devblogs.microsoft.com/visualstudio/improve-your-debugger-game-with-editable-expressions</link>
-      <description>【Do you ever wish you could quickly test different queries on your collections or datasets while debugging? Do you want to save time and avoid writing code just to inspect your data? If you answered yes, then you will love the new editable expression feature in the Visual Studio debugger. This feature allows you to [&amp;hellip;]】您是否希望在调试时可以快速测试集合或数据集上的不同查询？您想节省时间并避免仅为检查数据而编写代码吗？如果您的回答是“是”，那么您一定会喜欢 Visual Studio 调试器中新的可编辑表达式功能。此功能允许您[...]</description>
-      <pubDate>Wed, 16 Oct 2024 18:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【加入 .NET 智能组件生态系统】加入 .NET 智能组件生态系统</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%8a%a0%e5%85%a5-net-%e6%99%ba%e8%83%bd%e7%bb%84%e4%bb%b6%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f</link>
-      <description>【本篇翻译于首席产品经理 Daniel Roth 的Join the .NET Smart Components ecosystem &amp;#8211; .NET Blog (microsoft.com)  .NET 智能组件是一组示例嵌入式 UI 组件，使得在应用中轻松添加 AI 启用的功能变得更加简单，例如从剪贴板数据自动填写表单、智能文本补全以及语义搜索等场景。.NET 智能组件演示了如何将基于 AI 的功能预先打包成可重用的组件，从而更容易将这些功能集成到现有应用程序中。我们将 .NET 智能组件源代码作为参考示例实现提供，以帮助启动一个充满活力的可重用 .NET AI 驱动组件生态系统。  现已开源  .NET 智能组件在 GitHub 上的 dotnet/smartcomponents repo 中有了新家，其中包含实现源代码、文档和示例应用程序。库作者可以使用示例组件来获得灵感，并将其作为如何打包 AI 驱动功能以方便使用的参考实现。如果您对如何改进 .NET 智能组件有想法，或者对希望添加的新 AI 组件有想法，请通过在 GitHub 上提出问题与我们分享。  使用语义内核的局部嵌入  .NET 智能组件包含用于在您的服务器上本地计算嵌入 (LocalEmbeddings)的示例便捷 API。这些API可用于比较文本的语义相似性。这些 API 现已更新，以将基于 ONNX 的嵌入支持包装在语义内核中，然后演示如何在其基础上构建更多功能，例如自动模型获取、简化的语义搜索和替代嵌入表示。如果您发现这些附加功能有用，则可以将它们包含在您自己的应用程序和库中。否则，您可以直接使用语义内核 API。  来自流行组件供应商的智能组件  一些流行的组件供应商已经开始投资构建自己的智能组件，以 .NET 智能组件中的理念为基础，并添加自己独特的创新和功能。让我们来看看他们正在研究的几个例子。  [&amp;hellip;]】本篇翻译于首席产品经理 Daniel Roth 的Join the .NET Smart Components ecosystem – .NET Blog (microsoft.com)  .NET 智能组件是一组示例嵌入式 UI 组件，使得在应用中轻松添加 AI 启用的功能变得更加简单，例如从剪贴板数据自动填写表单、智能文本补全以及语义搜索等场景。.NET 智能组件演示了如何将基于 AI 的功能预先打包成可重用的组件，从而更容易将这些功能集成到现有应用程序中。我们将 .NET 智能组件源代码作为参考示例实现提供，以帮助启动一个充满活力的可重用 .NET AI 驱动组件生态系统。  现已开源  .NET 智能组件在 GitHub 上的 dotnet/smartcomponents repo 中有了新家，其中包含实现源代码、文档和示例应用程序。库作者可以使用示例组件来获得灵感，并将其作为如何打包 AI 驱动功能以方便使用的参考实现。如果您对如何改进 .NET 智能组件有想法，或者对希望添加的新 AI 组件有想法，请通过在 GitHub 上提出问题与我们分享。  使用语义内核的局部嵌入  .NET 智能组件包含用于在您的服务器上本地计算嵌入 (LocalEmbeddings)的示例便捷 API。这些API可用于比较文本的语义相似性。这些 API 现已更新，以将基于 ONNX 的嵌入支持包装在语义内核中，然后演示如何在其基础上构建更多功能，例如自动模型获取、简化的语义搜索和替代嵌入表示。如果您发现这些附加功能有用，则可以将它们包含在您自己的应用程序和库中。否则，您可以直接使用语义内核 API。  来自流行组件供应商的智能组件  一些流行的组件供应商已经开始投资构建自己的智能组件，以 .NET 智能组件中的理念为基础，并添加自己独特的创新和功能。让我们来看看他们正在研究的几个例子。  […]</description>
-      <pubDate>Thu, 17 Oct 2024 08:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 control spotlight: Information security risk management】Microsoft 365 控制焦点：信息安全风险管理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-control-spotlight-information-security-risk-management</link>
-      <description>【Read how Microsoft 365 Certification verifies information security risk management.】了解 Microsoft 365 认证如何验证信息安全风险管理。</description>
-      <pubDate>Wed, 16 Oct 2024 16:30:16 +0000</pubDate>
+      <title>【Evaluating tail call elimination in the face of return address protection, part 1】在返回地址保护的情况下评估尾部调用消除，第 1 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241017-00/?p=110380</link>
+      <description>【Reusing the activation frame.】重复使用激活框架。</description>
+      <pubDate>Thu, 17 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【推出适用于 .NET 的官方OpenAI库的稳定版本】推出适用于 .NET 的官方OpenAI库的稳定版本</title>
@@ -46,22 +16,52 @@
       <pubDate>Thu, 17 Oct 2024 07:57:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps】在 GitHub Advanced Security for Azure DevOps 中引入 CodeQL 的拉取请求注释和依赖项扫描</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops</link>
-      <description>【In the world of software development, security is paramount. As developers, we strive to write clean, efficient, and most importantly, secure code. GitHub Advanced Security for Azure DevOps has always been at the forefront of providing tools that make it easier to build and release high-quality software. Today, we’re excited to announce a new feature [&amp;hellip;]】在软件开发领域，安全性至关重要。作为开发人员，我们努力编写干净、高效、最重要的是安全的代码。 GitHub Advanced Security for Azure DevOps 始终走在提供工具的前沿，让您可以更轻松地构建和发布高质量软件。今天，我们很高兴宣布一项新功能 [...]</description>
-      <pubDate>Thu, 17 Oct 2024 00:18:17 +0000</pubDate>
+      <title>【Enhanced Breakpoint Expressions for C++ Debugging in Visual Studio】Visual Studio 中 C++ 调试的增强断点表达式</title>
+      <link>https://devblogs.microsoft.com/cppblog/enhanced-breakpoint-expressions-for-c-debugging-in-visual-studio</link>
+      <description>【Conditional Breakpoints Performance Improvement Debugging C++ code can be a time-consuming process, especially when dealing with complex scenarios. As a developer, it&amp;#8217;s frustrating to go through extensive setup and wait for a specific conditional breakpoint to trigger so you can analyze your application in a specific state. In Visual Studio 2022 version 17.10, we optimized [&amp;hellip;]】条件断点性能改进 调试 C++ 代码可能是一个耗时的过程，尤其是在处理复杂场景时。作为开发人员，进行大量设置并等待特定条件断点触发以便在特定状态下分析应用程序是令人沮丧的。在 Visual Studio 2022 版本 17.10 中，我们优化了 [...]</description>
+      <pubDate>Thu, 17 Oct 2024 22:02:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Evaluating tail call elimination in the face of return address protection, part 1】在返回地址保护的情况下评估尾部调用消除，第 1 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241017-00/?p=110380</link>
-      <description>【Reusing the activation frame.】重复使用激活框架。</description>
-      <pubDate>Thu, 17 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【.NET Conf 2024 Student Zone】.NET Conf 2024 学生专区</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnetconf-2024-student-zone</link>
+      <description>【The .NET Conf Student Zone is a beginner-friendly, virtual event where experts will teach you how to build amazing projects - all using C# and .NET!】.NET Conf 学生区是一个适合初学者的虚拟活动，专家将教您如何构建令人惊叹的项目 - 全部使用 C# 和 .NET！</description>
+      <pubDate>Fri, 18 Oct 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Creating an ASP.Net application with External ID using Visual Studio】使用 Visual Studio 创建具有外部 ID 的 ASP.Net 应用程序</title>
       <link>https://devblogs.microsoft.com/identity/integrating-ext-id-using-vs</link>
       <description>【Integrate Microsoft Entra External ID into your ASP.NET application using Visual Studio. Learn how External ID simplifies user authentication, improves your security posture, and reduces vulnerabilities. Whether you&#39;re new to identity management, or more experienced, this tutorial equips you with the guidance to enhance security and efficiency in your applications.】使用 Visual Studio 将 Microsoft Entra 外部 ID 集成到 ASP.NET 应用程序中。了解外部 ID 如何简化用户身份验证、改善安全状况并减少漏洞。无论您是身份管理新手还是经验丰富的人，本教程都会为您提供增强应用程序安全性和效率的指导。</description>
       <pubDate>Thu, 17 Oct 2024 19:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improve your debugger game with editable expressions】使用可编辑表达式改进您的调试器游戏</title>
+      <link>https://devblogs.microsoft.com/visualstudio/improve-your-debugger-game-with-editable-expressions</link>
+      <description>【Do you ever wish you could quickly test different queries on your collections or datasets while debugging? Do you want to save time and avoid writing code just to inspect your data? If you answered yes, then you will love the new editable expression feature in the Visual Studio debugger. This feature allows you to [&amp;hellip;]】您是否希望在调试时可以快速测试集合或数据集上的不同查询？您想节省时间并避免仅为检查数据而编写代码吗？如果您的回答是“是”，那么您一定会喜欢 Visual Studio 调试器中新的可编辑表达式功能。此功能允许您[...]</description>
+      <pubDate>Wed, 16 Oct 2024 18:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we build GitHub Copilot into Visual Studio】我们如何将 GitHub Copilot 构建到 Visual Studio 中</title>
+      <link>https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio</link>
+      <description>【Find out how Visual Studio integrates GitHub Copilot, architectural detail, .NET implementation, and the importance of the indexing service for providing context-aware AI code suggestions.】了解 Visual Studio 如何集成 GitHub Copilot、架构细节、.NET 实现，以及索引服务对于提供上下文感知 AI 代码建议的重要性。</description>
+      <pubDate>Wed, 16 Oct 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Evaluating tail call elimination in the face of return address protection, part 2】在返回地址保护的情况下评估尾调用消除，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241018-00/?p=110385</link>
+      <description>【Rewriting the activation frame.】重写激活帧。</description>
+      <pubDate>Fri, 18 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【加入 .NET 智能组件生态系统】加入 .NET 智能组件生态系统</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%8a%a0%e5%85%a5-net-%e6%99%ba%e8%83%bd%e7%bb%84%e4%bb%b6%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f</link>
+      <description>【本篇翻译于首席产品经理 Daniel Roth 的Join the .NET Smart Components ecosystem &amp;#8211; .NET Blog (microsoft.com)  .NET 智能组件是一组示例嵌入式 UI 组件，使得在应用中轻松添加 AI 启用的功能变得更加简单，例如从剪贴板数据自动填写表单、智能文本补全以及语义搜索等场景。.NET 智能组件演示了如何将基于 AI 的功能预先打包成可重用的组件，从而更容易将这些功能集成到现有应用程序中。我们将 .NET 智能组件源代码作为参考示例实现提供，以帮助启动一个充满活力的可重用 .NET AI 驱动组件生态系统。  现已开源  .NET 智能组件在 GitHub 上的 dotnet/smartcomponents repo 中有了新家，其中包含实现源代码、文档和示例应用程序。库作者可以使用示例组件来获得灵感，并将其作为如何打包 AI 驱动功能以方便使用的参考实现。如果您对如何改进 .NET 智能组件有想法，或者对希望添加的新 AI 组件有想法，请通过在 GitHub 上提出问题与我们分享。  使用语义内核的局部嵌入  .NET 智能组件包含用于在您的服务器上本地计算嵌入 (LocalEmbeddings)的示例便捷 API。这些API可用于比较文本的语义相似性。这些 API 现已更新，以将基于 ONNX 的嵌入支持包装在语义内核中，然后演示如何在其基础上构建更多功能，例如自动模型获取、简化的语义搜索和替代嵌入表示。如果您发现这些附加功能有用，则可以将它们包含在您自己的应用程序和库中。否则，您可以直接使用语义内核 API。  来自流行组件供应商的智能组件  一些流行的组件供应商已经开始投资构建自己的智能组件，以 .NET 智能组件中的理念为基础，并添加自己独特的创新和功能。让我们来看看他们正在研究的几个例子。  [&amp;hellip;]】本篇翻译于首席产品经理 Daniel Roth 的Join the .NET Smart Components ecosystem – .NET Blog (microsoft.com)  .NET 智能组件是一组示例嵌入式 UI 组件，使得在应用中轻松添加 AI 启用的功能变得更加简单，例如从剪贴板数据自动填写表单、智能文本补全以及语义搜索等场景。.NET 智能组件演示了如何将基于 AI 的功能预先打包成可重用的组件，从而更容易将这些功能集成到现有应用程序中。我们将 .NET 智能组件源代码作为参考示例实现提供，以帮助启动一个充满活力的可重用 .NET AI 驱动组件生态系统。  现已开源  .NET 智能组件在 GitHub 上的 dotnet/smartcomponents repo 中有了新家，其中包含实现源代码、文档和示例应用程序。库作者可以使用示例组件来获得灵感，并将其作为如何打包 AI 驱动功能以方便使用的参考实现。如果您对如何改进 .NET 智能组件有想法，或者对希望添加的新 AI 组件有想法，请通过在 GitHub 上提出问题与我们分享。  使用语义内核的局部嵌入  .NET 智能组件包含用于在您的服务器上本地计算嵌入 (LocalEmbeddings)的示例便捷 API。这些API可用于比较文本的语义相似性。这些 API 现已更新，以将基于 ONNX 的嵌入支持包装在语义内核中，然后演示如何在其基础上构建更多功能，例如自动模型获取、简化的语义搜索和替代嵌入表示。如果您发现这些附加功能有用，则可以将它们包含在您自己的应用程序和库中。否则，您可以直接使用语义内核 API。  来自流行组件供应商的智能组件  一些流行的组件供应商已经开始投资构建自己的智能组件，以 .NET 智能组件中的理念为基础，并添加自己独特的创新和功能。让我们来看看他们正在研究的几个例子。  […]</description>
+      <pubDate>Thu, 17 Oct 2024 08:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps】在 GitHub Advanced Security for Azure DevOps 中引入 CodeQL 的拉取请求注释和依赖项扫描</title>
+      <link>https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops</link>
+      <description>【In the world of software development, security is paramount. As developers, we strive to write clean, efficient, and most importantly, secure code. GitHub Advanced Security for Azure DevOps has always been at the forefront of providing tools that make it easier to build and release high-quality software. Today, we’re excited to announce a new feature [&amp;hellip;]】在软件开发领域，安全性至关重要。作为开发人员，我们努力编写干净、高效、最重要的是安全的代码。 GitHub Advanced Security for Azure DevOps 始终走在提供工具的前沿，让您可以更轻松地构建和发布高质量软件。今天，我们很高兴宣布一项新功能 [...]</description>
+      <pubDate>Thu, 17 Oct 2024 00:18:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
