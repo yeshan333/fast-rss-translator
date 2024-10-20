@@ -5,40 +5,22 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Data Sharing Between Microservices】微服务之间的数据共享</title>
+      <link>https://blog.bytebytego.com/p/data-sharing-between-microservices</link>
+      <description>【Microservices architecture has become popular for building complex, scalable software systems.】微服务架构在构建复杂、可扩展的软件系统方面已经变得很流行。</description>
+      <pubDate>Thu, 17 Oct 2024 15:31:06 +0000</pubDate>
+    </item>
+    <item>
       <title>【How TikTok Manages A 200K File MonoRepo with Sparo】TikTok 如何使用 Sparo 管理 200K 文件 MonoRepo</title>
       <link>https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo</link>
       <description>【Learn to monitor Azure OpenAI (Sponsored)】学习监控 Azure OpenAI（赞助）</description>
       <pubDate>Tue, 08 Oct 2024 15:31:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Software Architecture Patterns】软件架构模式</title>
-      <link>https://blog.bytebytego.com/p/software-architecture-patterns</link>
-      <description>【Software architects often encounter similar goals and problems repeatedly throughout their careers.】软件架构师在其职业生涯中经常会反复遇到类似的目标和问题。</description>
-      <pubDate>Thu, 26 Sep 2024 15:31:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【CAP, PACELC, ACID, BASE - Essential Concepts for an Architect’s Toolkit】CAP、PACELC、ACID、BASE - 架构师工具包的基本概念</title>
-      <link>https://blog.bytebytego.com/p/cap-pacelc-acid-base-essential-concepts</link>
-      <description>【In today&#39;s world, distributed systems have become ubiquitous, powering everything from social media platforms and e-commerce websites to financial systems and healthcare applications.】在当今世界，分布式系统已经无处不在，为从社交媒体平台和电子商务网站到金融系统和医疗保健应用程序的一切提供动力。</description>
-      <pubDate>Thu, 10 Oct 2024 15:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
-      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
-      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】面向工程领导者的企业就绪会议（赞助）</description>
-      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Gateway】API网关</title>
-      <link>https://blog.bytebytego.com/p/api-gateway</link>
-      <description>【API Gateways are essential components in modern software architectures, particularly microservices-based systems.】API 网关是现代软件架构中的重要组件，特别是基于微服务的系统。</description>
-      <pubDate>Thu, 03 Oct 2024 15:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP131: How Uber Served 40 Million Reads with Integrated Redis Cache? 】EP131：Uber 如何通过集成 Redis 缓存提供 4000 万次读取服务？</title>
-      <link>https://blog.bytebytego.com/p/ep131-how-uber-served-40-million</link>
+      <title>【EP134: What do Amazon, Netflix, and Uber have in common? 】EP134：亚马逊、Netflix 和 Uber 有什么共同点？</title>
+      <link>https://blog.bytebytego.com/p/ep134-what-do-amazon-netflix-and</link>
       <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 28 Sep 2024 15:31:11 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2024 15:30:49 +0000</pubDate>
     </item>
     <item>
       <title>【EP133: API vs SDK】EP133：API 与 SDK</title>
@@ -47,10 +29,16 @@
       <pubDate>Sat, 12 Oct 2024 15:31:15 +0000</pubDate>
     </item>
     <item>
-      <title>【How Uber Manages Petabytes of Real-Time Data】Uber 如何管理 PB 级实时数据</title>
-      <link>https://blog.bytebytego.com/p/how-uber-manages-petabytes-of-real</link>
-      <description>【Stop renting auth.】停止租用授权。</description>
-      <pubDate>Tue, 15 Oct 2024 15:31:29 +0000</pubDate>
+      <title>【EP131: How Uber Served 40 Million Reads with Integrated Redis Cache? 】EP131：Uber 如何通过集成 Redis 缓存提供 4000 万次读取服务？</title>
+      <link>https://blog.bytebytego.com/p/ep131-how-uber-served-40-million</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 28 Sep 2024 15:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【API Gateway】API网关</title>
+      <link>https://blog.bytebytego.com/p/api-gateway</link>
+      <description>【API Gateways are essential components in modern software architectures, particularly microservices-based systems.】API 网关是现代软件架构中的重要组件，特别是基于微服务的系统。</description>
+      <pubDate>Thu, 03 Oct 2024 15:30:42 +0000</pubDate>
     </item>
     <item>
       <title>【EP132: Big O Notation 101: The Secret to Writing Efficient Algorithms 】EP132：大 O 表示法 101：编写高效算法的秘密</title>
@@ -59,10 +47,22 @@
       <pubDate>Sat, 05 Oct 2024 15:30:57 +0000</pubDate>
     </item>
     <item>
-      <title>【Data Sharing Between Microservices】微服务之间的数据共享</title>
-      <link>https://blog.bytebytego.com/p/data-sharing-between-microservices</link>
-      <description>【Microservices architecture has become popular for building complex, scalable software systems.】微服务架构在构建复杂、可扩展的软件系统方面已经变得很流行。</description>
-      <pubDate>Thu, 17 Oct 2024 15:31:06 +0000</pubDate>
+      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
+      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
+      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】工程领导者企业就绪会议（赞助）</description>
+      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Manages Petabytes of Real-Time Data】Uber 如何管理 PB 级实时数据</title>
+      <link>https://blog.bytebytego.com/p/how-uber-manages-petabytes-of-real</link>
+      <description>【Stop renting auth.】停止租用授权。</description>
+      <pubDate>Tue, 15 Oct 2024 15:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【CAP, PACELC, ACID, BASE - Essential Concepts for an Architect’s Toolkit】CAP、PACELC、ACID、BASE - 架构师工具包的基本概念</title>
+      <link>https://blog.bytebytego.com/p/cap-pacelc-acid-base-essential-concepts</link>
+      <description>【In today&#39;s world, distributed systems have become ubiquitous, powering everything from social media platforms and e-commerce websites to financial systems and healthcare applications.】在当今世界，分布式系统已经无处不在，为从社交媒体平台和电子商务网站到金融系统和医疗保健应用程序的一切提供动力。</description>
+      <pubDate>Thu, 10 Oct 2024 15:32:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
