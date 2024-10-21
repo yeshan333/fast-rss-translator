@@ -4,10 +4,16 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Analysis of the EPYC 145% performance gain in Cloudflare Gen 12 servers】Cloudflare Gen 12 服务器中 EPYC 145% 性能提升的分析</title>
-      <link>https://blog.cloudflare.com/analysis-of-the-epyc-145-performance-gain-in-cloudflare-gen-12-servers</link>
-      <description>【 Cloudflare’s Gen 12 server is the most powerful and power efficient server that we have deployed to date. Through sensitivity analysis, we found that Cloudflare workloads continue to scale with higher core count and higher CPU frequency, as well as achieving a significant boost in performance with larger L3 cache per core. 】Cloudflare 的 Gen 12 服务器是我们迄今为止部署的最强大、最节能的服务器。通过敏感性分析，我们发现 Cloudflare 工作负载随着核心数量和 CPU 频率的增加而持续扩展，并且通过每个核心更大的 L3 缓存实现性能的显着提升。</description>
-      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+      <title>【Leveraging Kubernetes virtual machines at Cloudflare with KubeVirt】通过 KubeVirt 在 Cloudflare 中利用 Kubernetes 虚拟机</title>
+      <link>https://blog.cloudflare.com/leveraging-kubernetes-virtual-machines-with-kubevirt</link>
+      <description>【 The Kubernetes team runs several multi-tenant clusters across Cloudflare’s core data centers. When multi-tenant cluster isolation is too limiting for an application, we use KubeVirt. KubeVirt is a cloud-native solution that enables our developers to run virtual machines alongside containers. 】Kubernetes 团队在 Cloudflare 的核心数据中心运行多个多租户集群。当多租户集群隔离对于应用程序来说限制太大时，我们使用 KubeVirt。 KubeVirt 是一种云原生解决方案，使我们的开发人员能够与容器一起运行虚拟机。</description>
+      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【CJ Desai: Why I joined Cloudflare as President of Product and Engineering】CJ Desai：我为何加入 Cloudflare 担任产品和工程总裁</title>
+      <link>https://blog.cloudflare.com/cj-desai-why-i-joined-cloudflare</link>
+      <description>【 I am thrilled to embark on this journey to run Product and Engineering at Cloudflare, driving forward the mission of helping build a better Internet.  】我很高兴踏上这段在 Cloudflare 运行产品和工程的旅程，推动帮助构建更好的互联网的使命。 </description>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Protect against identity-based attacks by sharing Cloudflare user risk scores with Okta】通过与 Okta 共享 Cloudflare 用户风险评分来防范基于身份的攻击</title>
@@ -16,40 +22,16 @@
       <pubDate>Tue, 15 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Thermal design supporting Gen 12 hardware: cool, efficient and reliable】支持 Gen 12 硬件的散热设计：酷炫、高效、可靠</title>
+      <link>https://blog.cloudflare.com/thermal-design-supporting-gen-12-hardware-cool-efficient-and-reliable</link>
+      <description>【 Great thermal solutions play a crucial role in hardware reliability and performance. Gen 12 servers have implemented an exhaustive thermal analysis to ensure optimal operations within a wide variety of temperature conditions and use cases. By implementing new design and control features for improved power efficiency on the compute nodes we also enabled the support of powerful accelerators to serve our customers. 】出色的散热解决方案在硬件可靠性和性能方面发挥着至关重要的作用。第 12 代服务器实施了详尽的热分析，以确保在各种温度条件和使用案例中实现最佳运行。通过实施新的设计和控制功能来提高计算节点的能效，我们还支持强大的加速器来为我们的客户提供服务。</description>
+      <pubDate>Mon, 07 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Improving platform resilience at Cloudflare through automation】通过自动化提高 Cloudflare 平台的弹性</title>
       <link>https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare</link>
       <description>【 We realized that we need a way to automatically heal our platform from an operations perspective, and designed and built a workflow orchestration platform to provide these self-healing capabilities across our global network. We explore how this has helped us to reduce the impact on our customers due to operational issues, and the rich variety of similar problems it has empowered us to solve. 】我们意识到我们需要一种从运营角度自动修复我们平台的方法，并设计和构建了一个工作流程编排平台，以在我们的全球网络中提供这些自我修复功能。我们探讨了这如何帮助我们减少因运营问题而对客户造成的影响，以及它使我们能够解决各种类似的问题。</description>
       <pubDate>Wed, 09 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in Cloudflare One: Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express】Cloudflare One 的新增功能：数字体验 (DEX) 监控通知以及通过 China Express 无缝访问 Cloudflare Gateway</title>
-      <link>https://blog.cloudflare.com/roundup-dex-alerts-cloudflare-gateway-china-express</link>
-      <description>【 This roundup blog post shares the latest new features and capabilities at Cloudflare. Learn more about new Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express.  】这篇综述博客文章分享了 Cloudflare 的最新特性和功能。详细了解新的数字体验 (DEX) 监控通知以及通过 China Express 无缝访问 Cloudflare Gateway。</description>
-      <pubDate>Wed, 09 Oct 2024 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【CJ Desai: Why I joined Cloudflare as President of Product and Engineering】CJ Desai：我为何加入 Cloudflare 担任产品和工程总裁</title>
-      <link>https://blog.cloudflare.com/cj-desai-why-i-joined-cloudflare</link>
-      <description>【 I am thrilled to embark on this journey to run Product and Engineering at Cloudflare, driving forward the mission of helping build a better Internet.  】我很高兴踏上在 Cloudflare 运行产品和工程的旅程，推动帮助构建更好的互联网的使命。 </description>
-      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Leveraging Kubernetes virtual machines at Cloudflare with KubeVirt】通过 KubeVirt 在 Cloudflare 中利用 Kubernetes 虚拟机</title>
-      <link>https://blog.cloudflare.com/leveraging-kubernetes-virtual-machines-with-kubevirt</link>
-      <description>【 The Kubernetes team runs several multi-tenant clusters across Cloudflare’s core data centers. When multi-tenant cluster isolation is too limiting for an application, we use KubeVirt. KubeVirt is a cloud-native solution that enables our developers to run virtual machines alongside containers. 】Kubernetes 团队在 Cloudflare 的核心数据中心运行多个多租户集群。当多租户集群隔离对于应用程序来说限制太大时，我们使用 KubeVirt。 KubeVirt 是一种云原生解决方案，使我们的开发人员能够与容器一起运行虚拟机。</description>
-      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare acquires Kivera to add simple, preventive cloud security to Cloudflare One 】Cloudflare 收购 Kivera，为 Cloudflare One 添加简单的预防性云安全性</title>
-      <link>https://blog.cloudflare.com/cloudflare-acquires-kivera</link>
-      <description>【 The acquisition and integration of Kivera broadens the scope of Cloudflare’s SASE platform beyond just apps, incorporating increased cloud security through proactive configuration management of cloud services.  】Kivera 的收购和集成扩大了 Cloudflare SASE 平台的范围，而不仅仅是应用程序，通过云服务的主动配置管理增强了云安全性。</description>
-      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhance your website&#39;s security with Cloudflare’s free security.txt generator】使用 Cloudflare 的免费 security.txt 生成器增强网站的安全性</title>
-      <link>https://blog.cloudflare.com/security-txt</link>
-      <description>【 Introducing Cloudflare’s free security.txt generator, empowering all users to easily create and manage their security.txt files. This feature enhances vulnerability disclosure processes, aligns with industry standards, and is integrated into the dashboard for seamless access. Strengthen your website&#39;s security today! 】隆重推出 Cloudflare 的免费 security.txt 生成器，让所有用户能够轻松创建和管理其 security.txt 文件。此功能增强了漏洞披露流程，符合行业标准，并集成到仪表板中以实现无缝访问。立即加强您网站的安全！</description>
-      <pubDate>Sun, 06 Oct 2024 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The story of web framework Hono, from the creator of Hono】Web框架Hono的故事，来自Hono的创建者</title>
@@ -58,10 +40,28 @@
       <pubDate>Thu, 17 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Thermal design supporting Gen 12 hardware: cool, efficient and reliable】支持 Gen 12 硬件的散热设计：酷炫、高效、可靠</title>
-      <link>https://blog.cloudflare.com/thermal-design-supporting-gen-12-hardware-cool-efficient-and-reliable</link>
-      <description>【 Great thermal solutions play a crucial role in hardware reliability and performance. Gen 12 servers have implemented an exhaustive thermal analysis to ensure optimal operations within a wide variety of temperature conditions and use cases. By implementing new design and control features for improved power efficiency on the compute nodes we also enabled the support of powerful accelerators to serve our customers. 】出色的散热解决方案在硬件可靠性和性能方面发挥着至关重要的作用。第 12 代服务器实施了详尽的热分析，以确保在各种温度条件和使用案例中实现最佳运行。通过实施新的设计和控制功能来提高计算节点的能效，我们还支持强大的加速器来为我们的客户提供服务。</description>
-      <pubDate>Mon, 07 Oct 2024 13:00:00 +0000</pubDate>
+      <title>【What’s new in Cloudflare One: Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express】Cloudflare One 的新增功能：数字体验 (DEX) 监控通知以及通过 China Express 无缝访问 Cloudflare Gateway</title>
+      <link>https://blog.cloudflare.com/roundup-dex-alerts-cloudflare-gateway-china-express</link>
+      <description>【 This roundup blog post shares the latest new features and capabilities at Cloudflare. Learn more about new Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express.  】这篇综述博客文章分享了 Cloudflare 的最新特性和功能。详细了解新的数字体验 (DEX) 监控通知以及通过 China Express 无缝访问 Cloudflare Gateway。</description>
+      <pubDate>Wed, 09 Oct 2024 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhance your website&#39;s security with Cloudflare’s free security.txt generator】使用 Cloudflare 的免费 security.txt 生成器增强网站的安全性</title>
+      <link>https://blog.cloudflare.com/security-txt</link>
+      <description>【 Introducing Cloudflare’s free security.txt generator, empowering all users to easily create and manage their security.txt files. This feature enhances vulnerability disclosure processes, aligns with industry standards, and is integrated into the dashboard for seamless access. Strengthen your website&#39;s security today! 】隆重推出 Cloudflare 的免费 security.txt 生成器，让所有用户能够轻松创建和管理其 security.txt 文件。此功能增强了漏洞披露流程，符合行业标准，并集成到仪表板中以实现无缝访问。立即加强您网站的安全！</description>
+      <pubDate>Sun, 06 Oct 2024 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare acquires Kivera to add simple, preventive cloud security to Cloudflare One 】Cloudflare 收购 Kivera，为 Cloudflare One 添加简单的预防性云安全性</title>
+      <link>https://blog.cloudflare.com/cloudflare-acquires-kivera</link>
+      <description>【 The acquisition and integration of Kivera broadens the scope of Cloudflare’s SASE platform beyond just apps, incorporating increased cloud security through proactive configuration management of cloud services.  】Kivera 的收购和集成扩大了 Cloudflare SASE 平台的范围，而不仅仅是应用程序，通过云服务的主动配置管理增强了云安全性。</description>
+      <pubDate>Tue, 08 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Analysis of the EPYC 145% performance gain in Cloudflare Gen 12 servers】Cloudflare Gen 12 服务器中 EPYC 145% 性能提升的分析</title>
+      <link>https://blog.cloudflare.com/analysis-of-the-epyc-145-performance-gain-in-cloudflare-gen-12-servers</link>
+      <description>【 Cloudflare’s Gen 12 server is the most powerful and power efficient server that we have deployed to date. Through sensitivity analysis, we found that Cloudflare workloads continue to scale with higher core count and higher CPU frequency, as well as achieving a significant boost in performance with larger L3 cache per core. 】Cloudflare 的 Gen 12 服务器是我们迄今为止部署的最强大、最节能的服务器。通过敏感性分析，我们发现 Cloudflare 工作负载随着核心数量和 CPU 频率的增加而持续扩展，并且通过每个核心更大的 L3 缓存实现性能的显着提升。</description>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
