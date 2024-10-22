@@ -4,52 +4,10 @@
     <link>/blog/index.xml</link>
     <description>Recent content in Grafana Labs blog on Grafana Labs</description>
     <item>
-      <title>【Grafana Cloud updates: k6 browser checks in Synthetic Monitoring, an easier way to share dashboards, and more】Grafana Cloud 更新：k6 浏览器检查综合监控、共享仪表板的更简单方法等</title>
-      <link>https://grafana.com/blog/2024/10/16/grafana-cloud-updates-k6-browser-checks-in-synthetic-monitoring-an-easier-way-to-share-dashboards-and-more/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Monitoring Kubernetes: Why traditional techniques aren&#39;t enough】监控 Kubernetes：为什么传统技术还不够</title>
-      <link>https://grafana.com/blog/2024/10/18/monitoring-kubernetes-why-traditional-techniques-arent-enough/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Key Prometheus concepts every Grafana user should know】每个 Grafana 用户都应该了解的 Prometheus 关键概念</title>
       <link>https://grafana.com/blog/2024/10/11/key-prometheus-concepts-every-grafana-user-should-know/</link>
       <description>【http://grafana.com】http://grafana.com</description>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Grafana for beginners: Quick tips to add a data source, choose a visualization type, and more】Grafana 初学者：添加数据源、选择可视化类型等的快速提示</title>
-      <link>https://grafana.com/blog/2024/10/07/grafana-for-beginners-quick-tips-to-add-a-data-source-choose-a-visualization-type-and-more/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Inside PromQL: A closer look at the mechanics of a Prometheus query】PromQL 内部：深入了解 Prometheus 查询的机制</title>
-      <link>https://grafana.com/blog/2024/10/08/inside-promql-a-closer-look-at-the-mechanics-of-a-prometheus-query/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Grafana&#39;s Prometheus libraries: How we built libraries to create a truly vendor-neutral data source】Grafana 的 Prometheus 库：我们如何构建库来创建真正的供应商中立的数据源</title>
-      <link>https://grafana.com/blog/2024/10/10/grafanas-prometheus-libraries-how-we-built-libraries-to-create-a-truly-vendor-neutral-data-source/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to quickly configure Grafana Cloud Application Observability with Open Telemetry Operator】如何使用 Open Telemetry Operator 快速配置 Grafana Cloud 应用程序可观测性</title>
-      <link>https://grafana.com/blog/2024/10/17/how-to-quickly-configure-grafana-cloud-application-observability-with-open-telemetry-operator/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Addressing metric overload: a deep dive on Adaptive Metrics】解决指标过载：深入探讨自适应指标</title>
-      <link>https://grafana.com/blog/2024/10/04/addressing-metric-overload-a-deep-dive-on-adaptive-metrics/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Grafana security release: Critical severity fix for CVE-2024-9264】Grafana 安全版本：CVE-2024-9264 的严重严重性修复</title>
@@ -58,10 +16,52 @@
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【How to quickly configure Grafana Cloud Application Observability with Open Telemetry Operator】如何使用 Open Telemetry Operator 快速配置 Grafana Cloud 应用程序可观测性</title>
+      <link>https://grafana.com/blog/2024/10/17/how-to-quickly-configure-grafana-cloud-application-observability-with-open-telemetry-operator/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grafana Cloud updates: k6 browser checks in Synthetic Monitoring, an easier way to share dashboards, and more】Grafana Cloud 更新：k6 浏览器检查综合监控、共享仪表板的更简单方法等</title>
+      <link>https://grafana.com/blog/2024/10/16/grafana-cloud-updates-k6-browser-checks-in-synthetic-monitoring-an-easier-way-to-share-dashboards-and-more/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Inside PromQL: A closer look at the mechanics of a Prometheus query】PromQL 内部：深入了解 Prometheus 查询的机制</title>
+      <link>https://grafana.com/blog/2024/10/08/inside-promql-a-closer-look-at-the-mechanics-of-a-prometheus-query/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Visualize Atlassian Statuspage, Cloudflare, and Netlify data: what’s new in Grafana Enterprise data source plugins】可视化 Atlassian Statuspage、Cloudflare 和 Netlify 数据：Grafana Enterprise 数据源插件的新增功能</title>
       <link>https://grafana.com/blog/2024/10/15/visualize-atlassian-statuspage-cloudflare-and-netlify-data-whats-new-in-grafana-enterprise-data-source-plugins/</link>
       <description>【http://grafana.com】http://grafana.com</description>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grafana for beginners: Quick tips to add a data source, choose a visualization type, and more】Grafana 初学者：添加数据源、选择可视化类型等的快速提示</title>
+      <link>https://grafana.com/blog/2024/10/07/grafana-for-beginners-quick-tips-to-add-a-data-source-choose-a-visualization-type-and-more/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monitor your generative AI app with the AI Observability solution in Grafana Cloud】使用 Grafana Cloud 中的 AI Observability 解决方案监控您的生成式 AI 应用程序</title>
+      <link>https://grafana.com/blog/2024/10/21/monitor-your-generative-ai-app-with-the-ai-observability-solution-in-grafana-cloud/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grafana&#39;s Prometheus libraries: How we built libraries to create a truly vendor-neutral data source】Grafana 的 Prometheus 库：我们如何构建库来创建真正的供应商中立的数据源</title>
+      <link>https://grafana.com/blog/2024/10/10/grafanas-prometheus-libraries-how-we-built-libraries-to-create-a-truly-vendor-neutral-data-source/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monitoring Kubernetes: Why traditional techniques aren&#39;t enough】监控 Kubernetes：为什么传统技术还不够</title>
+      <link>https://grafana.com/blog/2024/10/18/monitoring-kubernetes-why-traditional-techniques-arent-enough/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
