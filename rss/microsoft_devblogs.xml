@@ -4,24 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Java OpenJDK October 2024 Patch &amp; Security Updates】Java OpenJDK 2024 年 10 月补丁和安全更新</title>
-      <link>https://devblogs.microsoft.com/java/java-openjdk-oct-2024-patch-security-updates</link>
-      <description>【Hello Java customers! We are happy to announce the latest October 2024 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 21.0.5 OpenJDK 17.0.13 OpenJDK 11.0.25 Check our release notes page for details on fixes and enhancements. The source code of our builds is available now [&amp;hellip;]】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2024 年 10 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 21.0.5 OpenJDK 17.0.13 OpenJDK 11.0.25 请查看我们的发行说明页面，了解有关修复和增强功能的详细信息。我们构建的源代码现已可用 [...]</description>
-      <pubDate>Tue, 22 Oct 2024 00:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET Conf 2024 Student Zone】.NET Conf 2024 学生专区</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnetconf-2024-student-zone</link>
-      <description>【The .NET Conf Student Zone is a beginner-friendly, virtual event where experts will teach you how to build amazing projects - all using C# and .NET!】.NET Conf 学生区是一个适合初学者的虚拟活动，专家将教您如何构建令人惊叹的项目 - 全部使用 C# 和 .NET！</description>
-      <pubDate>Fri, 18 Oct 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhanced Breakpoint Expressions for C++ Debugging in Visual Studio】Visual Studio 中 C++ 调试的增强断点表达式</title>
-      <link>https://devblogs.microsoft.com/cppblog/enhanced-breakpoint-expressions-for-c-debugging-in-visual-studio</link>
-      <description>【Conditional Breakpoints Performance Improvement Debugging C++ code can be a time-consuming process, especially when dealing with complex scenarios. As a developer, it&amp;#8217;s frustrating to go through extensive setup and wait for a specific conditional breakpoint to trigger so you can analyze your application in a specific state. In Visual Studio 2022 version 17.10, we optimized [&amp;hellip;]】条件断点性能改进 调试 C++ 代码可能是一个耗时的过程，尤其是在处理复杂场景时。作为开发人员，进行大量设置并等待特定条件断点触发以便您可以在特定状态下分析应用程序是令人沮丧的。在 Visual Studio 2022 版本 17.10 中，我们优化了 [...]</description>
-      <pubDate>Thu, 17 Oct 2024 22:02:48 +0000</pubDate>
-    </item>
-    <item>
       <title>【Updates to Azure Cosmos DB’s Portal Networking Settings】Azure Cosmos DB 门户网络设置的更新</title>
       <link>https://devblogs.microsoft.com/cosmosdb/updates-to-azure-cosmos-dbs-portal-networking-settings</link>
       <description>【We are happy to share with you an update to the Azure Cosmos DB networking configuration options within the Azure Portal. This update introduces a split in the IP address list, now presented as two distinct categories: user IP addresses and Portal Middleware IPs.  Managing IP access control policies is essential for maintaining a secure [&amp;hellip;]】我们很高兴与你分享 Azure 门户中 Azure Cosmos DB 网络配置选项的更新。此更新引入了 IP 地址列表的拆分，现在显示为两个不同的类别：用户 IP 地址和门户中间件 IP。  管理 IP 访问控制策略对于维护安全至关重要 [...]</description>
@@ -34,16 +16,16 @@
       <pubDate>Mon, 21 Oct 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Evaluating tail call elimination in the face of return address protection, part 2】在返回地址保护的情况下评估尾调用消除，第 2 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241018-00/?p=110385</link>
-      <description>【Rewriting the activation frame.】重写激活帧。</description>
-      <pubDate>Fri, 18 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Did Windows 95 shrink the default font size of windowed MS-DOS apps?】Windows 95 是否缩小了窗口 MS-DOS 应用程序的默认字体大小？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241022-00/?p=110401</link>
+      <description>【The effect was that it shrunk, but only sometimes.】结果是它缩小了，但只是有时而已。</description>
+      <pubDate>Tue, 22 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does adding WS_MINIMIZE­BOX change how my window behaves when the user presses Win+D?】为什么添加 WS_MINIMIZEBOX 会改变用户按下 Win+D 时窗口的行为方式？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241021-00/?p=110393</link>
-      <description>【It minimizes your window if it can.】如果可以的话，它会最小化您的窗口。</description>
-      <pubDate>Mon, 21 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Windows MIDI Services October 2024 Update】Windows MIDI 服务 2024 年 10 月更新</title>
+      <link>https://devblogs.microsoft.com/windows-music-dev/windows-midi-services-oct-2024-update</link>
+      <description>【It&amp;#8217;s been a little while since I last posted an update about Windows MIDI Services outside of our Discord Server, but we&amp;#8217;ve been busy! With all the announcements today at Qualcomm&amp;#8217;s Snapdragon Summit, I thought I&amp;#8217;d dive in a bit on where we are with our new MIDI 1.0 and MIDI 2.0 stack on Windows. [&amp;hellip;]】自从我上次在 Discord 服务器之外发布有关 Windows MIDI 服务的更新以来已经有一段时间了，但我们一直很忙！今天在高通 Snapdragon 峰会上发布了所有公告，我想我应该深入了解 Windows 上新的 MIDI 1.0 和 MIDI 2.0 堆栈的进展情况。 […]</description>
+      <pubDate>Mon, 21 Oct 2024 18:00:06 +0000</pubDate>
     </item>
     <item>
       <title>【Customer Case Study: How Microsoft streamlined regulatory compliance with GenAI】客户案例研究：Microsoft 如何通过 GenAI 简化监管合规性</title>
@@ -52,16 +34,34 @@
       <pubDate>Mon, 21 Oct 2024 23:00:20 +0000</pubDate>
     </item>
     <item>
+      <title>【.NET MAUI Welcomes Syncfusion Open-source Contributions】.NET MAUI 欢迎 Syncfusion 开源贡献</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions</link>
+      <description>【Announcing the release of the Syncfusion Toolkit for .NET MAUI, a set of free, open-source controls for .NET MAUI! Syncfusion has made 14 impressive UI controls freely available for .NET MAUI developers.】宣布发布 Syncfusion Toolkit for .NET MAUI，这是一组适用于 .NET MAUI 的免费开源控件！ Syncfusion 为 .NET MAUI 开发人员免费提供了 14 个令人印象深刻的 UI 控件。</description>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Debug CMake Scripts on Linux with Visual Studio】使用 Visual Studio 在 Linux 上调试 CMake 脚本</title>
+      <link>https://devblogs.microsoft.com/visualstudio/debug-cmake-scripts-on-linux-with-visual-studio</link>
+      <description>【If you are working on a CMake project that targets Linux, you may have encountered some challenges when trying to debug your CMake scripts and CMakeLists.txt files. You may have wondered why your variables are not set correctly, or why your custom commands are not executed as expected. Or you may have simply wanted to [&amp;hellip;]】如果您正在开发面向 Linux 的 CMake 项目，则在尝试调试 CMake 脚本和 CMakeLists.txt 文件时可能会遇到一些挑战。您可能想知道为什么您的变量设置不正确，或者为什么您的自定义命令没有按预期执行。或者您可能只是想 [...]</description>
+      <pubDate>Tue, 22 Oct 2024 12:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java OpenJDK October 2024 Patch &amp; Security Updates】Java OpenJDK 2024 年 10 月补丁和安全更新</title>
+      <link>https://devblogs.microsoft.com/java/java-openjdk-oct-2024-patch-security-updates</link>
+      <description>【Hello Java customers! We are happy to announce the latest October 2024 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 21.0.5 OpenJDK 17.0.13 OpenJDK 11.0.25 Check our release notes page for details on fixes and enhancements. The source code of our builds is available now [&amp;hellip;]】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2024 年 10 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 21.0.5 OpenJDK 17.0.13 OpenJDK 11.0.25 请查看我们的发行说明页面，了解有关修复和增强功能的详细信息。我们构建的源代码现已可用 [...]</description>
+      <pubDate>Tue, 22 Oct 2024 00:07:10 +0000</pubDate>
+    </item>
+    <item>
       <title>【Make Great Music with Windows on Arm】使用 Windows on Arm 创作美妙的音乐</title>
       <link>https://devblogs.microsoft.com/windows-music-dev/making-music-on-windows</link>
       <description>【This week has been amazing, with our musician work really coming together at Qualcomm Snapdragon Summit 2024! There&amp;#8217;s only so much time available in a keynote, so I thought I&amp;#8217;d expand a bit more on the music-related announcements, especially for the new in-box features. Music is all around us. We purposefully listen to music in [&amp;hellip;]】这周真是太棒了，我们的音乐家作品在 2024 年高通 Snapdragon 峰会上真正齐聚一堂！主题演讲的时间有限，所以我想我应该更多地介绍与音乐相关的公告，尤其是新的内置功能。音乐就在我们身边。我们有目的地听音乐[...]</description>
       <pubDate>Mon, 21 Oct 2024 18:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows MIDI Services October 2024 Update】Windows MIDI 服务 2024 年 10 月更新</title>
-      <link>https://devblogs.microsoft.com/windows-music-dev/windows-midi-services-oct-2024-update</link>
-      <description>【It&amp;#8217;s been a little while since I last posted an update about Windows MIDI Services outside of our Discord Server, but we&amp;#8217;ve been busy! With all the announcements today at Qualcomm&amp;#8217;s Snapdragon Summit, I thought I&amp;#8217;d dive in a bit on where we are with our new MIDI 1.0 and MIDI 2.0 stack on Windows. [&amp;hellip;]】自从我上次在 Discord 服务器之外发布有关 Windows MIDI 服务的更新以来已经有一段时间了，但我们一直很忙！今天在高通 Snapdragon 峰会上发布了所有公告，我想我应该深入了解 Windows 上新的 MIDI 1.0 和 MIDI 2.0 堆栈的进展情况。 […]</description>
-      <pubDate>Mon, 21 Oct 2024 18:00:06 +0000</pubDate>
+      <title>【Soccer Analytics Copilot with Azure SQL and OpenAI】使用 Azure SQL 和 OpenAI 的足球分析 Copilot</title>
+      <link>https://devblogs.microsoft.com/azure-sql/soccer-analytics-copilot-with-azure-sql-and-openai</link>
+      <description>【The Football (aka Soccer in US 😀) Analisys Copilot provides an intuitive interface for users to interact with complex football data without needing advanced technical skills. By utilizing natural language processing, users can ask questions and retrieve detailed insights from vast datasets, including competitions, matches, teams, players, and events. This makes data exploration accessible to [&amp;hellip;]】Football（在美国又名 Soccer 😀）Analisys Copilot 为用户提供了直观的界面，无需高级技术技能即可与复杂的足球数据进行交互。通过利用自然语言处理，用户可以提出问题并从庞大的数据集中检索详细的见解，包括比赛、比赛、球队、球员和活动。这使得数据探索变得容易[...]</description>
+      <pubDate>Tue, 22 Oct 2024 18:18:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
