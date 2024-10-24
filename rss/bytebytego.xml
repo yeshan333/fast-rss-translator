@@ -5,6 +5,30 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Uber Reduces Database Lock Time by 94% with Major MySQL Fleet Upgrade】Uber 通过主要 MySQL 队列升级将数据库锁定时间减少了 94%</title>
+      <link>https://blog.bytebytego.com/p/uber-reduces-database-lock-time-by</link>
+      <description>【The Future of AI, LLMs, and Observability on Google Cloud (Sponsored)】人工智能、法学硕士和 Google Cloud 上的可观察性的未来（赞助）</description>
+      <pubDate>Tue, 22 Oct 2024 15:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【API Gateway】API网关</title>
+      <link>https://blog.bytebytego.com/p/api-gateway</link>
+      <description>【API Gateways are essential components in modern software architectures, particularly microservices-based systems.】API 网关是现代软件架构中的重要组件，特别是基于微服务的系统。</description>
+      <pubDate>Thu, 03 Oct 2024 15:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
+      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
+      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】面向工程领导者的企业就绪会议（赞助）</description>
+      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP134: What do Amazon, Netflix, and Uber have in common? 】EP134：亚马逊、Netflix 和 Uber 有什么共同点？</title>
+      <link>https://blog.bytebytego.com/p/ep134-what-do-amazon-netflix-and</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 19 Oct 2024 15:30:49 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP132: Big O Notation 101: The Secret to Writing Efficient Algorithms 】EP132：大 O 表示法 101：编写高效算法的秘密</title>
       <link>https://blog.bytebytego.com/p/ep132-big-o-notation-101-the-secret</link>
       <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
@@ -17,22 +41,16 @@
       <pubDate>Thu, 10 Oct 2024 15:32:49 +0000</pubDate>
     </item>
     <item>
-      <title>【API Gateway】API网关</title>
-      <link>https://blog.bytebytego.com/p/api-gateway</link>
-      <description>【API Gateways are essential components in modern software architectures, particularly microservices-based systems.】API 网关是现代软件架构中的重要组件，特别是基于微服务的系统。</description>
-      <pubDate>Thu, 03 Oct 2024 15:30:42 +0000</pubDate>
-    </item>
-    <item>
       <title>【Data Sharing Between Microservices】微服务之间的数据共享</title>
       <link>https://blog.bytebytego.com/p/data-sharing-between-microservices</link>
       <description>【Microservices architecture has become popular for building complex, scalable software systems.】微服务架构在构建复杂、可扩展的软件系统方面已经变得很流行。</description>
       <pubDate>Thu, 17 Oct 2024 15:31:06 +0000</pubDate>
     </item>
     <item>
-      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
-      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
-      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】面向工程领导者的企业就绪会议（赞助）</description>
-      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
+      <title>【How TikTok Manages A 200K File MonoRepo with Sparo】TikTok 如何使用 Sparo 管理 200K 文件 MonoRepo</title>
+      <link>https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo</link>
+      <description>【Learn to monitor Azure OpenAI (Sponsored)】学习监控 Azure OpenAI（赞助）</description>
+      <pubDate>Tue, 08 Oct 2024 15:31:29 +0000</pubDate>
     </item>
     <item>
       <title>【EP133: API vs SDK】EP133：API 与 SDK</title>
@@ -41,28 +59,10 @@
       <pubDate>Sat, 12 Oct 2024 15:31:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Uber Reduces Database Lock Time by 94% with Major MySQL Fleet Upgrade】Uber 通过主要 MySQL 队列升级将数据库锁定时间减少了 94%</title>
-      <link>https://blog.bytebytego.com/p/uber-reduces-database-lock-time-by</link>
-      <description>【The Future of AI, LLMs, and Observability on Google Cloud (Sponsored)】人工智能、法学硕士和 Google Cloud 上的可观察性的未来（赞助）</description>
-      <pubDate>Tue, 22 Oct 2024 15:31:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Uber Manages Petabytes of Real-Time Data】Uber 如何管理 PB 级实时数据</title>
       <link>https://blog.bytebytego.com/p/how-uber-manages-petabytes-of-real</link>
       <description>【Stop renting auth.】停止租用授权。</description>
       <pubDate>Tue, 15 Oct 2024 15:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP134: What do Amazon, Netflix, and Uber have in common? 】EP134：亚马逊、Netflix 和 Uber 有什么共同点？</title>
-      <link>https://blog.bytebytego.com/p/ep134-what-do-amazon-netflix-and</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 19 Oct 2024 15:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How TikTok Manages A 200K File MonoRepo with Sparo】TikTok 如何使用 Sparo 管理 200K 文件 MonoRepo</title>
-      <link>https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo</link>
-      <description>【Learn to monitor Azure OpenAI (Sponsored)】学习监控 Azure OpenAI（赞助）</description>
-      <pubDate>Tue, 08 Oct 2024 15:31:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
