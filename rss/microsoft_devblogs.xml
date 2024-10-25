@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Soccer Analytics Copilot with Azure SQL and OpenAI】使用 Azure SQL 和 OpenAI 的足球分析 Copilot</title>
-      <link>https://devblogs.microsoft.com/azure-sql/soccer-analytics-copilot-with-azure-sql-and-openai</link>
-      <description>【The Football (aka Soccer in US 😀) Analisys Copilot provides an intuitive interface for users to interact with complex football data without needing advanced technical skills. By utilizing natural language processing, users can ask questions and retrieve detailed insights from vast datasets, including competitions, matches, teams, players, and events. This makes data exploration accessible to [&amp;hellip;]】Football（在美国又名 Soccer 😀）Analisys Copilot 为用户提供了直观的界面，无需高级技术技能即可与复杂的足球数据进行交互。通过利用自然语言处理，用户可以提出问题并从庞大的数据集中检索详细的见解，包括比赛、比赛、球队、球员和活动。这使得数据探索变得容易[...]</description>
-      <pubDate>Tue, 22 Oct 2024 18:18:14 +0000</pubDate>
+      <title>【Upgrade Your Windows Forms .NET Projects to the Latest .NET Version for Enhanced Security】将 Windows 窗体 .NET 项目升级到最新 .NET 版本以增强安全性</title>
+      <link>https://devblogs.microsoft.com/visualstudio/upgrade-your-windows-forms-net-projects-to-the-latest-net-version-for-enhanced-security</link>
+      <description>【Each release of .NET introduces a host of new features and bug fixes that enhance both performance and security. To leverage these benefits both service and desktop application developers must upgrade their applications to the latest .NET versions. Just like other developers wanting to take advantage of the latest .NET enhancements, we are updating our [&amp;hellip;]】.NET 的每个版本都引入了许多新功能和错误修复，可增强性能和安全性。为了利用这些优势，服务和桌面应用程序开发人员必须将其应用程序升级到最新的 .NET 版本。就像其他想要利用最新 .NET 增强功能的开发人员一样，我们正在更新我们的 [...]</description>
+      <pubDate>Thu, 24 Oct 2024 12:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Did Windows 95 shrink the default font size of windowed MS-DOS apps?】Windows 95 是否缩小了窗口 MS-DOS 应用程序的默认字体大小？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241022-00/?p=110401</link>
-      <description>【The effect was that it shrunk, but only sometimes.】结果是它缩小了，但只是有时而已。</description>
-      <pubDate>Tue, 22 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【It rather involved being on the other side of the airtight hatchway: Defeating ASLR after you’ve gained RCE via ROP】它更涉及到在密闭舱口的另一边：通过 ROP 获得 RCE 后击败 ASLR</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241024-00/?p=110417</link>
+      <description>【If you defeat ASLR, then you can defeat ASLR.】如果你打败了ASLR，那么你就能打败ASLR。</description>
+      <pubDate>Thu, 24 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Debug CMake Scripts on Linux with Visual Studio】使用 Visual Studio 在 Linux 上调试 CMake 脚本</title>
-      <link>https://devblogs.microsoft.com/visualstudio/debug-cmake-scripts-on-linux-with-visual-studio</link>
-      <description>【If you are working on a CMake project that targets Linux, you may have encountered some challenges when trying to debug your CMake scripts and CMakeLists.txt files. You may have wondered why your variables are not set correctly, or why your custom commands are not executed as expected. Or you may have simply wanted to [&amp;hellip;]】如果您正在开发面向 Linux 的 CMake 项目，则在尝试调试 CMake 脚本和 CMakeLists.txt 文件时可能会遇到一些挑战。您可能想知道为什么您的变量设置不正确，或者为什么您的自定义命令没有按预期执行。或者您可能只是想 [...]</description>
-      <pubDate>Tue, 22 Oct 2024 12:00:20 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Security incident response】Microsoft 365 认证控制焦点：安全事件响应</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-incident-response</link>
+      <description>【Discover how Microsoft 365 Certification verifies security incident response best practices.】了解 Microsoft 365 认证如何验证安全事件响应最佳实践。</description>
+      <pubDate>Thu, 24 Oct 2024 15:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Specify runtime requirements in app manifest: Your key to success across Microsoft 365】在应用清单中指定运行时要求：在 Microsoft 365 中取得成功的关键</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/specify-runtime-requirements-in-app-manifest-your-key-to-success-across-microsoft-365</link>
-      <description>【Specify Runtime Requirements in App Manifest: Your Key to Success across Microsoft 365 Hosts Through extensive user research, we&amp;#8217;ve identified what M365 users value most for boosting productivity. They want uninterrupted workflows, an all-in-one workspace, and minimal context switching. With this insight, we evolved Microsoft 365 into a unified platform across Teams, Outlook, M365 app [&amp;hellip;]】在应用程序清单中指定运行时要求：跨 Microsoft 365 主机取得成功的关键通过广泛的用户研究，我们确定了 M365 用户最看重提高生产力的内容。他们想要不间断的工作流程、一体化的工作空间和最少的上下文切换。凭借这一洞察力，我们将 Microsoft 365 发展成为跨 Teams、Outlook、M365 应用程序的统一平台 [...]</description>
-      <pubDate>Wed, 23 Oct 2024 22:52:13 +0000</pubDate>
+      <title>【.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement】.NET升级助手现在支持升级到集中包管理</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade</link>
+      <description>【Learn how to use the .NET Upgrade Assistant tool to upgrade your projects to use NuGet Central Package Management (CPM).】了解如何使用 .NET Upgrade Assistant 工具升级项目以使用 NuGet Central Package Management (CPM)。</description>
+      <pubDate>Thu, 24 Oct 2024 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I create a Windows Runtime IRandom­Access­Stream around a bunch of bytes or a classic COM IStream?】如何围绕一堆字节或经典 COM IStream 创建 Windows 运行时 IRandomAccessStream？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241023-00/?p=110411</link>
-      <description>【Another wrapper function.】另一个包装函数。</description>
-      <pubDate>Wed, 23 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【How to correctly use access tokens and ID tokens in your client application】如何在客户端应用程序中正确使用访问令牌和 ID 令牌</title>
+      <link>https://devblogs.microsoft.com/identity/access-tokens-and-id-tokens</link>
+      <description>【Explore the differences between access tokens and ID tokens and how to use them securely in your applications. This blog post explains why access tokens should be treated as opaque by client apps, and offers best practices for secure token handling.】探索访问令牌和 ID 令牌之间的差异以及如何在应用程序中安全地使用它们。这篇博文解释了为什么客户端应用程序应将访问令牌视为不透明，并提供安全令牌处理的最佳实践。</description>
+      <pubDate>Thu, 24 Oct 2024 15:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET MAUI Welcomes Syncfusion Open-source Contributions】.NET MAUI 欢迎 Syncfusion 开源贡献</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions</link>
-      <description>【Announcing the release of the Syncfusion Toolkit for .NET MAUI, a set of free, open-source controls for .NET MAUI! Syncfusion has made 14 impressive UI controls freely available for .NET MAUI developers.】宣布发布 Syncfusion Toolkit for .NET MAUI，这是一组适用于 .NET MAUI 的免费开源控件！ Syncfusion 为 .NET MAUI 开发人员免费提供了 14 个令人印象深刻的 UI 控件。</description>
-      <pubDate>Tue, 22 Oct 2024 15:00:00 +0000</pubDate>
+      <title>【Join the Microsoft 365 Copilot: Developer Camp】加入 Microsoft 365 Copilot：开发者营</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/join-the-microsoft-365-copilot-developer-camp</link>
+      <description>【📅 Date: November 07, 2024 | 🕘 Time: 9:00 AM &amp;#8211; 10:30 AM (PT) |📍 Virtual Live Event: https://aka.ms/copilotdevcamp/live We&amp;#8217;re thrilled to announce Microsoft 365 Copilot: Developer Camp 2024 – an exciting live event designed to inspire and empower developers to build next-generation Microsoft 365 Copilot Agents. We are inviting you in this adventure to [&amp;hellip;]】📅 日期：2024 年 11 月 7 日 | 🕘 时间：上午 9:00 – 上午 10:30（太平洋时间）|📍 虚拟直播活动：https://aka.ms/copilotdevcamp/live 我们很高兴地宣布 Microsoft 365 Copilot：开发者营 2024 – 一场激动人心的现场活动旨在激励和授权开发人员构建下一代 Microsoft 365 Copilot Agent。我们邀请您参加这次冒险[...]</description>
+      <pubDate>Thu, 24 Oct 2024 12:01:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Java OpenJDK October 2024 Patch &amp; Security Updates】Java OpenJDK 2024 年 10 月补丁和安全更新</title>
-      <link>https://devblogs.microsoft.com/java/java-openjdk-oct-2024-patch-security-updates</link>
-      <description>【Hello Java customers! We are happy to announce the latest October 2024 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 21.0.5 OpenJDK 17.0.13 OpenJDK 11.0.25 Check our release notes page for details on fixes and enhancements. The source code of our builds is available now [&amp;hellip;]】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2024 年 10 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 21.0.5 OpenJDK 17.0.13 OpenJDK 11.0.25 请查看我们的发行说明页面，了解有关修复和增强功能的详细信息。我们构建的源代码现已可用 [...]</description>
-      <pubDate>Tue, 22 Oct 2024 00:07:10 +0000</pubDate>
+      <title>【Automate Power Platform Environment Creation &amp; Solution Imports with GitHub Actions】使用 GitHub Actions 自动创建 Power Platform 环境和导入解决方案</title>
+      <link>https://devblogs.microsoft.com/powerplatform/ppac-cli-automation-github-actions</link>
+      <description>【Automate Power Platform Environment Creation &amp;amp; Solution Imports with GitHub Actions Automating your CI/CD pipeline for Power Platform solutions can streamline your development process and reduce manual tasks. By integrating GitHub Actions, you can automatically create environments, import solutions, and even clean up environments when issues arise. This blog post will walk you through a [&amp;hellip;]】使用 GitHub Actions 自动化 Power Platform 环境创建和解决方案导入 自动化 Power Platform 解决方案的 CI/CD 管道可以简化您的开发流程并减少手动任务。通过集成 GitHub Actions，您可以自动创建环境、导入解决方案，甚至在出现问题时清理环境。这篇博文将引导您完成[...]</description>
+      <pubDate>Thu, 24 Oct 2024 23:34:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Get Hands-On with Visual Studio, .NET, AI, and More at Live! 360 next month.】现场实践 Visual Studio、.NET、AI 等！ 360下个月。</title>
-      <link>https://devblogs.microsoft.com/visualstudio/live-360-orlando-2024</link>
-      <description>【Visual Studio LIVE! Orlando 2024 November 17-22 | Loews Royal Pacific Resort, Orlando, FL We’re only four weeks away from the final Visual Studio Live! event of the year, and we’re close to capacity! Live! 360 Orlando offers something for everyone—whether you’re a developer, IT professional, data specialist, or cybersecurity expert. You’ll have the opportunity [&amp;hellip;]】视觉工作室上线！奥兰多 2024 年 11 月 17 日至 22 日 |佛罗里达州奥兰多洛伊斯皇家太平洋度假村距离最终的 Visual Studio Live 只剩四个星期了！年度盛事，我们已接近满员！居住！ 360 Orlando 为每个人提供服务 - 无论您是开发人员、IT 专业人员、数据专家还是网络安全专家。您将有机会[...]</description>
-      <pubDate>Wed, 23 Oct 2024 13:01:37 +0000</pubDate>
+      <title>【eShop infused with AI – a comprehensive intelligent app sample with Semantic Kernel】注入 AI 的 eShop – 具有语义内核的综合智能应用程序示例</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/eshop-infused-with-ai-a-comprehensive-intelligent-app-sample-with-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re featuring a sample application, called eShop. You can read the entire blog post and steps for running the application here: eShop infused with AI &amp;#8211; a comprehensive intelligent app sample &amp;#8211; .NET Blog Below, we have a brief summary of eShop and the integration with Semantic Kernel. Introducing eShop “support with AI” edition [&amp;hellip;]】今天我们将介绍一个名为 eShop 的示例应用程序。您可以在此处阅读完整的博客文章和运行应用程序的步骤：eShop 注入 AI – 全面的智能应用程序示例 – .NET 博客 下面，我们对 eShop 以及与 Semantic Kernel 的集成进行了简要总结。推出 eShop“AI 支持”版本 [...]</description>
+      <pubDate>Thu, 24 Oct 2024 19:42:46 +0000</pubDate>
     </item>
     <item>
-      <title>【eShop infused with AI – a comprehensive intelligent app sample】融入人工智能的 eShop – 全面的智能应用程序示例</title>
-      <link>https://devblogs.microsoft.com/dotnet/e-shop-infused-with-ai-comprehensive-intelligent-dotnet-app-sample</link>
-      <description>【Go beyond a simple demo app that demonstrates a chat bot and explore a real-world scale application that is infused with AI and illustrates the value of intelligent apps with features like semantic search, summarization, classification, sentiment scoring, chatbot, test data generation, evaluation tool, and E2E testing.】超越演示聊天机器人的简单演示应用程序，探索融入人工智能的真实规模应用程序，并说明智能应用程序的价值，其功能包括语义搜索、摘要、分类、情绪评分、聊天机器人、测试数据生成、评估工具和E2E测试。</description>
-      <pubDate>Wed, 23 Oct 2024 17:05:00 +0000</pubDate>
+      <title>【Azure SDK Release (October 2024)】Azure SDK 版本（2024 年 10 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2024</link>
+      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
+      <pubDate>Thu, 24 Oct 2024 20:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>【DirectSR Preview: Now Supporting AMD FidelityFX™ Super Resolution (FSR) 3.1 Upscaler】DirectSR 预览版：现支持 AMD FidelityFX™ 超分辨率 (FSR) 3.1 Upscaler</title>
-      <link>https://devblogs.microsoft.com/directx/directsr-preview-fsr-3-1-upscaler</link>
-      <description>【Following our initial announcement of the DirectSR preview, we are pleased to share an update. DirectSR, our standardized super resolution (SR) API for D3D12 titles, now supports FSR 3.1 (upscaler-only), bringing enhanced upscaling capabilities to further improve your gaming experience. Learn more about FSR 3.1 here. What’s New with FSR 3.1? With this update, developers [&amp;hellip;]】在我们最初宣布 DirectSR 预览版之后，我们很高兴与大家分享一个更新。 DirectSR 是我们用于 D3D12 游戏的标准化超分辨率 (SR) API，现在支持 FSR 3.1（仅限升级器），带来增强的升级功能，进一步改善您的游戏体验。在此处了解有关 FSR 3.1 的更多信息。 FSR 3.1 有什么新功能？通过此更新，开发人员 [...]</description>
-      <pubDate>Wed, 23 Oct 2024 17:00:13 +0000</pubDate>
+      <title>【Using Entra profile information in Azure DevOps】在 Azure DevOps 中使用 Entra 配置文件信息</title>
+      <link>https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops</link>
+      <description>【We’re excited to announce the ability to use Entra profile information in Azure DevOps. This has been a long-standing feature request from the community (ex. profile, picture, email, and name). Beyond the convenience of configuring profile information in one place and ensuring the accuracy of personal information, using Entra profile information in Azure DevOps provides [&amp;hellip;]】我们很高兴地宣布能够在 Azure DevOps 中使用 Entra 配置文件信息。这是社区长期提出的功能请求（例如个人资料、图片、电子邮件和姓名）。除了在一个地方配置配置文件信息并确保个人信息的准确性的便利之外，在 Azure DevOps 中使用 Entra 配置文件信息还提供了 [...]</description>
+      <pubDate>Thu, 24 Oct 2024 20:31:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

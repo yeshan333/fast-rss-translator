@@ -5,6 +5,30 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Event-Driven Architectural Patterns】事件驱动的架构模式</title>
+      <link>https://blog.bytebytego.com/p/event-driven-architectural-patterns</link>
+      <description>【Event-driven architecture (EDA) is a software design approach emphasizing the production, detection, consumption, and reaction to events.】事件驱动架构（EDA）是一种强调事件的产生、检测、消费和反应的软件设计方法。</description>
+      <pubDate>Thu, 24 Oct 2024 15:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How TikTok Manages A 200K File MonoRepo with Sparo】TikTok 如何使用 Sparo 管理 200K 文件 MonoRepo</title>
+      <link>https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo</link>
+      <description>【Learn to monitor Azure OpenAI (Sponsored)】学习监控 Azure OpenAI（赞助）</description>
+      <pubDate>Tue, 08 Oct 2024 15:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【CAP, PACELC, ACID, BASE - Essential Concepts for an Architect’s Toolkit】CAP、PACELC、ACID、BASE - 架构师工具包的基本概念</title>
+      <link>https://blog.bytebytego.com/p/cap-pacelc-acid-base-essential-concepts</link>
+      <description>【In today&#39;s world, distributed systems have become ubiquitous, powering everything from social media platforms and e-commerce websites to financial systems and healthcare applications.】在当今世界，分布式系统已经无处不在，为从社交媒体平台和电子商务网站到金融系统和医疗保健应用程序的一切提供动力。</description>
+      <pubDate>Thu, 10 Oct 2024 15:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP133: API vs SDK】EP133：API 与 SDK</title>
+      <link>https://blog.bytebytego.com/p/ep133-api-vs-sdk</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 12 Oct 2024 15:31:15 +0000</pubDate>
+    </item>
+    <item>
       <title>【Uber Reduces Database Lock Time by 94% with Major MySQL Fleet Upgrade】Uber 通过主要 MySQL 队列升级将数据库锁定时间减少了 94%</title>
       <link>https://blog.bytebytego.com/p/uber-reduces-database-lock-time-by</link>
       <description>【The Future of AI, LLMs, and Observability on Google Cloud (Sponsored)】人工智能、法学硕士和 Google Cloud 上的可观察性的未来（赞助）</description>
@@ -17,10 +41,10 @@
       <pubDate>Thu, 03 Oct 2024 15:30:42 +0000</pubDate>
     </item>
     <item>
-      <title>【The Trillion Message Kafka Setup at Walmart】沃尔玛的万亿条消息 Kafka 设置</title>
-      <link>https://blog.bytebytego.com/p/the-trillion-message-kafka-setup</link>
-      <description>【The Enterprise Ready Conference for engineering leaders (Sponsored)】面向工程领导者的企业就绪会议（赞助）</description>
-      <pubDate>Tue, 01 Oct 2024 15:30:39 +0000</pubDate>
+      <title>【Data Sharing Between Microservices】微服务之间的数据共享</title>
+      <link>https://blog.bytebytego.com/p/data-sharing-between-microservices</link>
+      <description>【Microservices architecture has become popular for building complex, scalable software systems.】微服务架构在构建复杂、可扩展的软件系统方面已经变得很流行。</description>
+      <pubDate>Thu, 17 Oct 2024 15:31:06 +0000</pubDate>
     </item>
     <item>
       <title>【EP134: What do Amazon, Netflix, and Uber have in common? 】EP134：亚马逊、Netflix 和 Uber 有什么共同点？</title>
@@ -33,30 +57,6 @@
       <link>https://blog.bytebytego.com/p/ep132-big-o-notation-101-the-secret</link>
       <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
       <pubDate>Sat, 05 Oct 2024 15:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【CAP, PACELC, ACID, BASE - Essential Concepts for an Architect’s Toolkit】CAP、PACELC、ACID、BASE - 架构师工具包的基本概念</title>
-      <link>https://blog.bytebytego.com/p/cap-pacelc-acid-base-essential-concepts</link>
-      <description>【In today&#39;s world, distributed systems have become ubiquitous, powering everything from social media platforms and e-commerce websites to financial systems and healthcare applications.】在当今世界，分布式系统已经无处不在，为从社交媒体平台和电子商务网站到金融系统和医疗保健应用程序的一切提供动力。</description>
-      <pubDate>Thu, 10 Oct 2024 15:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Data Sharing Between Microservices】微服务之间的数据共享</title>
-      <link>https://blog.bytebytego.com/p/data-sharing-between-microservices</link>
-      <description>【Microservices architecture has become popular for building complex, scalable software systems.】微服务架构在构建复杂、可扩展的软件系统方面已经变得很流行。</description>
-      <pubDate>Thu, 17 Oct 2024 15:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How TikTok Manages A 200K File MonoRepo with Sparo】TikTok 如何使用 Sparo 管理 200K 文件 MonoRepo</title>
-      <link>https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo</link>
-      <description>【Learn to monitor Azure OpenAI (Sponsored)】学习监控 Azure OpenAI（赞助）</description>
-      <pubDate>Tue, 08 Oct 2024 15:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP133: API vs SDK】EP133：API 与 SDK</title>
-      <link>https://blog.bytebytego.com/p/ep133-api-vs-sdk</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 12 Oct 2024 15:31:15 +0000</pubDate>
     </item>
     <item>
       <title>【How Uber Manages Petabytes of Real-Time Data】Uber 如何管理 PB 级实时数据</title>
