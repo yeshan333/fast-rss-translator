@@ -4,40 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Upgrade Your Windows Forms .NET Projects to the Latest .NET Version for Enhanced Security】将 Windows 窗体 .NET 项目升级到最新 .NET 版本以增强安全性</title>
-      <link>https://devblogs.microsoft.com/visualstudio/upgrade-your-windows-forms-net-projects-to-the-latest-net-version-for-enhanced-security</link>
-      <description>【Each release of .NET introduces a host of new features and bug fixes that enhance both performance and security. To leverage these benefits both service and desktop application developers must upgrade their applications to the latest .NET versions. Just like other developers wanting to take advantage of the latest .NET enhancements, we are updating our [&amp;hellip;]】.NET 的每个版本都引入了许多新功能和错误修复，可增强性能和安全性。为了利用这些优势，服务和桌面应用程序开发人员必须将其应用程序升级到最新的 .NET 版本。就像其他想要利用最新 .NET 增强功能的开发人员一样，我们正在更新我们的 [...]</description>
-      <pubDate>Thu, 24 Oct 2024 12:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【It rather involved being on the other side of the airtight hatchway: Defeating ASLR after you’ve gained RCE via ROP】它更涉及到在密闭舱口的另一边：通过 ROP 获得 RCE 后击败 ASLR</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241024-00/?p=110417</link>
-      <description>【If you defeat ASLR, then you can defeat ASLR.】如果你打败了ASLR，那么你就能打败ASLR。</description>
-      <pubDate>Thu, 24 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Microsoft 365 Certification control spotlight: Security incident response】Microsoft 365 认证控制焦点：安全事件响应</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-incident-response</link>
       <description>【Discover how Microsoft 365 Certification verifies security incident response best practices.】了解 Microsoft 365 认证如何验证安全事件响应最佳实践。</description>
       <pubDate>Thu, 24 Oct 2024 15:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement】.NET升级助手现在支持升级到集中包管理</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade</link>
-      <description>【Learn how to use the .NET Upgrade Assistant tool to upgrade your projects to use NuGet Central Package Management (CPM).】了解如何使用 .NET Upgrade Assistant 工具升级项目以使用 NuGet Central Package Management (CPM)。</description>
-      <pubDate>Thu, 24 Oct 2024 17:05:00 +0000</pubDate>
+      <title>【How can I explicitly specialize a templated C++ constructor, follow-up notes】如何显式地专门化模板化 C++ 构造函数，后续注释</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241025-00/?p=110420</link>
+      <description>【You can use a maker function, but that doesn&#39;t let you escape the problem.】您可以使用制造商功能，但这并不能让您逃避问题。</description>
+      <pubDate>Fri, 25 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using Entra profile information in Azure DevOps】在 Azure DevOps 中使用 Entra 配置文件信息</title>
+      <link>https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops</link>
+      <description>【We’re excited to announce the ability to use Entra profile information in Azure DevOps. This has been a long-standing feature request from the community (ex. profile, picture, email, and name). Beyond the convenience of configuring profile information in one place and ensuring the accuracy of personal information, using Entra profile information in Azure DevOps provides [&amp;hellip;]】我们很高兴地宣布能够在 Azure DevOps 中使用 Entra 配置文件信息。这是社区长期提出的功能请求（例如个人资料、图片、电子邮件和姓名）。除了在一个地方配置配置文件信息并确保个人信息的准确性的便利之外，在 Azure DevOps 中使用 Entra 配置文件信息还提供了 [...]</description>
+      <pubDate>Thu, 24 Oct 2024 20:31:46 +0000</pubDate>
     </item>
     <item>
       <title>【How to correctly use access tokens and ID tokens in your client application】如何在客户端应用程序中正确使用访问令牌和 ID 令牌</title>
       <link>https://devblogs.microsoft.com/identity/access-tokens-and-id-tokens</link>
       <description>【Explore the differences between access tokens and ID tokens and how to use them securely in your applications. This blog post explains why access tokens should be treated as opaque by client apps, and offers best practices for secure token handling.】探索访问令牌和 ID 令牌之间的差异以及如何在应用程序中安全地使用它们。这篇博文解释了为什么客户端应用程序应将访问令牌视为不透明，并提供安全令牌处理的最佳实践。</description>
       <pubDate>Thu, 24 Oct 2024 15:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Join the Microsoft 365 Copilot: Developer Camp】加入 Microsoft 365 Copilot：开发者营</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/join-the-microsoft-365-copilot-developer-camp</link>
-      <description>【📅 Date: November 07, 2024 | 🕘 Time: 9:00 AM &amp;#8211; 10:30 AM (PT) |📍 Virtual Live Event: https://aka.ms/copilotdevcamp/live We&amp;#8217;re thrilled to announce Microsoft 365 Copilot: Developer Camp 2024 – an exciting live event designed to inspire and empower developers to build next-generation Microsoft 365 Copilot Agents. We are inviting you in this adventure to [&amp;hellip;]】📅 日期：2024 年 11 月 7 日 | 🕘 时间：上午 9:00 – 上午 10:30（太平洋时间）|📍 虚拟直播活动：https://aka.ms/copilotdevcamp/live 我们很高兴地宣布 Microsoft 365 Copilot：开发者营 2024 – 一场激动人心的现场活动旨在激励和授权开发人员构建下一代 Microsoft 365 Copilot Agent。我们邀请您参加这次冒险[...]</description>
-      <pubDate>Thu, 24 Oct 2024 12:01:15 +0000</pubDate>
     </item>
     <item>
       <title>【Automate Power Platform Environment Creation &amp; Solution Imports with GitHub Actions】使用 GitHub Actions 自动创建 Power Platform 环境和导入解决方案</title>
@@ -52,16 +40,28 @@
       <pubDate>Thu, 24 Oct 2024 19:42:46 +0000</pubDate>
     </item>
     <item>
+      <title>【.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement】.NET升级助手现在支持升级到集中包管理</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade</link>
+      <description>【Learn how to use the .NET Upgrade Assistant tool to upgrade your projects to use NuGet Central Package Management (CPM).】了解如何使用 .NET Upgrade Assistant 工具升级项目以使用 NuGet Central Package Management (CPM)。</description>
+      <pubDate>Thu, 24 Oct 2024 17:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure SDK Release (October 2024)】Azure SDK 版本（2024 年 10 月）</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2024</link>
       <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
       <pubDate>Thu, 24 Oct 2024 20:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Using Entra profile information in Azure DevOps】在 Azure DevOps 中使用 Entra 配置文件信息</title>
-      <link>https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops</link>
-      <description>【We’re excited to announce the ability to use Entra profile information in Azure DevOps. This has been a long-standing feature request from the community (ex. profile, picture, email, and name). Beyond the convenience of configuring profile information in one place and ensuring the accuracy of personal information, using Entra profile information in Azure DevOps provides [&amp;hellip;]】我们很高兴地宣布能够在 Azure DevOps 中使用 Entra 配置文件信息。这是社区长期提出的功能请求（例如个人资料、图片、电子邮件和姓名）。除了在一个地方配置配置文件信息并确保个人信息的准确性的便利之外，在 Azure DevOps 中使用 Entra 配置文件信息还提供了 [...]</description>
-      <pubDate>Thu, 24 Oct 2024 20:31:46 +0000</pubDate>
+      <title>【Process Framework gets Python support and more!】Process Framework 获得 Python 支持等等！</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/process-framework-gets-python-support-and-more</link>
+      <description>【As we continue to empower developers in embedding AI into their workflows, we are thrilled to announce significant updates to the Microsoft Semantic Kernel&amp;#8217;s Process Framework. Building on our introductory blog, we’ve made enhancements that further streamline business process automation and AI integration and help you to be successful with the Semantic Kernel Process Framework [&amp;hellip;]】随着我们继续帮助开发人员将人工智能嵌入到他们的工作流程中，我们很高兴地宣布对 Microsoft 语义内核流程框架进行重大更新。在我们的介绍性博客的基础上，我们进行了增强，进一步简化了业务流程自动化和人工智能集成，并帮助您通过语义内核流程框架取得成功[...]</description>
+      <pubDate>Fri, 25 Oct 2024 21:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI Digital Transformation Discovering Rome’s hidden treasures with an AI virtual assistant and Semantic Kernel】AI 数字化转型 通过 AI 虚拟助手和语义内核发现罗马隐藏的宝藏</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/ai-digital-transformation-discovering-romes-hidden-treasures-with-an-ai-virtual-assistant-and-semantic-kernel</link>
+      <description>【Today we want to highlight a customer story featuring Semantic Kernel here: Discovering Rome’s hidden treasures with an AI virtual assistant &amp;#8211; Source EMEA On a sunny Monday morning in late September, a river of travelers flowed slowly through the Piazza della Rotonda. The focal point of the piazza is the Pantheon, the nearly 2,000- [&amp;hellip;]】今天，我们想在这里重点介绍一个以 Semantic Kernel 为特色的客户故事：通过 AI 虚拟助手发现罗马隐藏的宝藏 – 来源欧洲、中东和非洲 九月下旬一个阳光明媚的星期一早晨，游客如河般缓缓流过德拉罗通达广场 (Piazza della Rotonda)。广场的焦点是万神殿，里面有近 2,000 […]</description>
+      <pubDate>Fri, 25 Oct 2024 18:01:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
