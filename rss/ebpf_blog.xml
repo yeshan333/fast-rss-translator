@@ -4,16 +4,16 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【How to write and run an eBPF program on Linux】如何在 Linux 上编写和运行 eBPF 程序</title>
-      <link>https://www.srodi.com/posts/how-to-write-and-run-an-ebpf-program-on-linux/</link>
+      <title>【Unlock Linux superpowers with eBPF, with Bill Mulligan - HS#28】与 Bill Mulligan 一起使用 eBPF 解锁 Linux 超能力 - HS#28</title>
+      <link>https://www.hockeystick.show/p/unlock-linux-superpowers-with-ebpf</link>
       <description>【A step-by-step guide to creating your first eBPF program and running it on a Linux system】创建第一个 eBPF 程序并在 Linux 系统上运行它的分步指南</description>
-      <pubDate>Sat, 12 Oct 2024 17:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF Is Coming for Windows】eBPF 即将推出 Windows 版</title>
-      <link>https://thenewstack.io/ebpf-is-coming-for-windows/</link>
-      <description>【eBPF will soon offer cross-platform compatibility for in-kernel programs, for both Linux and Windows】eBPF 很快将为 Linux 和 Windows 内核程序提供跨平台兼容性</description>
-      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【Cloud Native Networking as Kubernetes Starts Its Second Decade】Kubernetes 开启第二个十年的云原生网络</title>
+      <link>https://thenewstack.io/cloud-native-networking-as-kubernetes-starts-its-second-decade/</link>
+      <description>【Dive into how Kubernetes networking and security circulatory systems will grow and adapt】深入了解 Kubernetes 网络和安全循环系统将如何发展和适应</description>
+      <pubDate>Wed, 16 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【eBPF Challenge 3: eBPF Ring Buffer Optimizations】eBPF 挑战 3：eBPF 环形缓冲区优化</title>
@@ -22,16 +22,16 @@
       <pubDate>Thu, 17 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlock Linux superpowers with eBPF, with Bill Mulligan - HS#28】与 Bill Mulligan 一起使用 eBPF 解锁 Linux 超能力 - HS#28</title>
-      <link>https://www.hockeystick.show/p/unlock-linux-superpowers-with-ebpf</link>
-      <description>【A step-by-step guide to creating your first eBPF program and running it on a Linux system】创建第一个 eBPF 程序并在 Linux 系统上运行它的分步指南</description>
-      <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【eBPF Is Coming for Windows】eBPF 即将推出 Windows 版</title>
+      <link>https://thenewstack.io/ebpf-is-coming-for-windows/</link>
+      <description>【eBPF will soon offer cross-platform compatibility for in-kernel programs, for both Linux and Windows】eBPF 很快将为 Linux 和 Windows 内核程序提供跨平台兼容性</description>
+      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The Past, Present, and Future of eBPF and Its Path to Revolutionizing Systems】eBPF 的过去、现在和未来及其系统革命之路</title>
-      <link>https://eunomia.dev/en/blogs/ten-years/</link>
-      <description>【Dive into eBPF&#39;s journey, explore where it’s headed in the next ten years, and learn about the challenges and opportunities that lie ahead】深入了解 eBPF 的历程，探索未来十年的发展方向，了解未来的挑战和机遇</description>
-      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【How to write and run an eBPF program on Linux】如何在 Linux 上编写和运行 eBPF 程序</title>
+      <link>https://www.srodi.com/posts/how-to-write-and-run-an-ebpf-program-on-linux/</link>
+      <description>【A step-by-step guide to creating your first eBPF program and running it on a Linux system】创建第一个 eBPF 程序并在 Linux 系统上运行它的分步指南</description>
+      <pubDate>Sat, 12 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to run code in kernel space? eBPF!】如何在内核空间运行代码？电子BPF！</title>
@@ -46,22 +46,22 @@
       <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF Challenge 2: Concurrency Issues with eBPF Maps】eBPF 挑战 2：eBPF 映射的并发问题</title>
-      <link>https://ebpfchirp.substack.com/p/challenge-2-concurrency-issues-with</link>
-      <description>【An eBPF challenge that showcases how to ensure that your eBPF programs update the elements in a race-safe manner, ensuring no instance reads a partially updated structure?】eBPF 挑战展示了如何确保您的 eBPF 程序以竞争安全的方式更新元素，确保没有实例读取部分更新的结构？</description>
-      <pubDate>Sun, 13 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【eBPF Tail Calls with Rust Aya】eBPF 与 Rust Aya 进行尾部调用</title>
       <link>https://yuki-nakamura.com/2024/10/12/ebpf-tail-calls-with-rust-aya/</link>
       <description>【Learn how to implement eBPF Tail Calls using Rust’s Aya】了解如何使用 Rust 的 Aya 实现 eBPF 尾部调用</description>
       <pubDate>Sat, 12 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloud Native Networking as Kubernetes Starts Its Second Decade】Kubernetes 开启第二个十年的云原生网络</title>
-      <link>https://thenewstack.io/cloud-native-networking-as-kubernetes-starts-its-second-decade/</link>
-      <description>【Dive into how Kubernetes networking and security circulatory systems will grow and adapt】深入了解 Kubernetes 网络和安全循环系统将如何发展和适应</description>
-      <pubDate>Wed, 16 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【eBPF Challenge 2: Concurrency Issues with eBPF Maps】eBPF 挑战 2：eBPF 映射的并发问题</title>
+      <link>https://ebpfchirp.substack.com/p/challenge-2-concurrency-issues-with</link>
+      <description>【An eBPF challenge that showcases how to ensure that your eBPF programs update the elements in a race-safe manner, ensuring no instance reads a partially updated structure?】eBPF 挑战展示了如何确保您的 eBPF 程序以竞争安全的方式更新元素，确保没有实例读取部分更新的结构？</description>
+      <pubDate>Sun, 13 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Past, Present, and Future of eBPF and Its Path to Revolutionizing Systems】eBPF 的过去、现在和未来及其系统革命之路</title>
+      <link>https://eunomia.dev/en/blogs/ten-years/</link>
+      <description>【Dive into eBPF&#39;s journey, explore where it’s headed in the next ten years, and learn about the challenges and opportunities that lie ahead】深入了解 eBPF 的历程，探索未来十年的发展方向，了解未来的挑战和机遇</description>
+      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
