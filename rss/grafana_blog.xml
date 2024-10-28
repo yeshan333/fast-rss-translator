@@ -4,34 +4,16 @@
     <link>/blog/index.xml</link>
     <description>Recent content in Grafana Labs blog on Grafana Labs</description>
     <item>
-      <title>【Monitoring Kubernetes: Why traditional techniques aren&#39;t enough】监控 Kubernetes：为什么传统技术还不够</title>
-      <link>https://grafana.com/blog/2024/10/18/monitoring-kubernetes-why-traditional-techniques-arent-enough/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to quickly configure Grafana Cloud Application Observability with Open Telemetry Operator】如何使用 Open Telemetry Operator 快速配置 Grafana Cloud 应用程序可观测性</title>
-      <link>https://grafana.com/blog/2024/10/17/how-to-quickly-configure-grafana-cloud-application-observability-with-open-telemetry-operator/</link>
+      <title>【Grafana security release: Critical severity fix for CVE-2024-9264】Grafana 安全版本：CVE-2024-9264 的严重严重性修复</title>
+      <link>https://grafana.com/blog/2024/10/17/grafana-security-release-critical-severity-fix-for-cve-2024-9264/</link>
       <description>【http://grafana.com】http://grafana.com</description>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Grafana 11.3 release: Scenes-powered dashboards, visualization and panel updates, and more】Grafana 11.3 版本：场景驱动的仪表板、可视化和面板更新等</title>
-      <link>https://grafana.com/blog/2024/10/23/grafana-11.3-release-all-the-new-features/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Visualize Atlassian Statuspage, Cloudflare, and Netlify data: what’s new in Grafana Enterprise data source plugins】可视化 Atlassian Statuspage、Cloudflare 和 Netlify 数据：Grafana Enterprise 数据源插件的新增功能</title>
       <link>https://grafana.com/blog/2024/10/15/visualize-atlassian-statuspage-cloudflare-and-netlify-data-whats-new-in-grafana-enterprise-data-source-plugins/</link>
       <description>【http://grafana.com】http://grafana.com</description>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Grafana security release: Critical severity fix for CVE-2024-9264】Grafana 安全版本：CVE-2024-9264 的严重严重性修复</title>
-      <link>https://grafana.com/blog/2024/10/17/grafana-security-release-critical-severity-fix-for-cve-2024-9264/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Monitor your generative AI app with the AI Observability solution in Grafana Cloud】使用 Grafana Cloud 中的 AI Observability 解决方案监控您的生成式 AI 应用程序</title>
@@ -46,16 +28,34 @@
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Grafana Cloud updates: k6 browser checks in Synthetic Monitoring, an easier way to share dashboards, and more】Grafana Cloud 更新：k6 浏览器检查综合监控、共享仪表板的更简单方法等</title>
-      <link>https://grafana.com/blog/2024/10/16/grafana-cloud-updates-k6-browser-checks-in-synthetic-monitoring-an-easier-way-to-share-dashboards-and-more/</link>
+      <title>【Grafana 11.3 release: Scenes-powered dashboards, visualization and panel updates, and more】Grafana 11.3 版本：场景驱动的仪表板、可视化和面板更新等</title>
+      <link>https://grafana.com/blog/2024/10/23/grafana-11.3-release-all-the-new-features/</link>
       <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【ObservabilityCON 2024: On-demand sessions available now!】ObservabilityCON 2024：点播会议现已开放！</title>
       <link>https://grafana.com/blog/2024/10/25/observabilitycon-2024-on-demand-sessions-available-now/</link>
       <description>【http://grafana.com】http://grafana.com</description>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to quickly configure Grafana Cloud Application Observability with Open Telemetry Operator】如何使用 Open Telemetry Operator 快速配置 Grafana Cloud 应用程序可观测性</title>
+      <link>https://grafana.com/blog/2024/10/17/how-to-quickly-configure-grafana-cloud-application-observability-with-open-telemetry-operator/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grafana Cloud updates: k6 browser checks in Synthetic Monitoring, an easier way to share dashboards, and more】Grafana Cloud 更新：k6 浏览器检查综合监控、共享仪表板的更简单方法等</title>
+      <link>https://grafana.com/blog/2024/10/16/grafana-cloud-updates-k6-browser-checks-in-synthetic-monitoring-an-easier-way-to-share-dashboards-and-more/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monitoring Kubernetes: Why traditional techniques aren&#39;t enough】监控 Kubernetes：为什么传统技术还不够</title>
+      <link>https://grafana.com/blog/2024/10/18/monitoring-kubernetes-why-traditional-techniques-arent-enough/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Browser testing in Grafana Cloud k6: how to optimize frontend web performance】Grafana Cloud k6 中的浏览器测试：如何优化前端 Web 性能</title>
