@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Process Framework gets Python support and more!】Process Framework 获得 Python 支持等等！</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/process-framework-gets-python-support-and-more</link>
-      <description>【As we continue to empower developers in embedding AI into their workflows, we are thrilled to announce significant updates to the Microsoft Semantic Kernel&amp;#8217;s Process Framework. Building on our introductory blog, we’ve made enhancements that further streamline business process automation and AI integration and help you to be successful with the Semantic Kernel Process Framework [&amp;hellip;]】随着我们继续帮助开发人员将人工智能嵌入到他们的工作流程中，我们很高兴地宣布对 Microsoft 语义内核流程框架进行重大更新。在我们的介绍性博客的基础上，我们进行了增强，进一步简化了业务流程自动化和人工智能集成，并帮助您通过语义内核流程框架取得成功[...]</description>
-      <pubDate>Fri, 25 Oct 2024 21:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI Digital Transformation Discovering Rome’s hidden treasures with an AI virtual assistant and Semantic Kernel】AI 数字化转型 通过 AI 虚拟助手和语义内核发现罗马隐藏的宝藏</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/ai-digital-transformation-discovering-romes-hidden-treasures-with-an-ai-virtual-assistant-and-semantic-kernel</link>
-      <description>【Today we want to highlight a customer story featuring Semantic Kernel here: Discovering Rome’s hidden treasures with an AI virtual assistant &amp;#8211; Source EMEA On a sunny Monday morning in late September, a river of travelers flowed slowly through the Piazza della Rotonda. The focal point of the piazza is the Pantheon, the nearly 2,000- [&amp;hellip;]】今天，我们想在这里重点介绍一个以 Semantic Kernel 为特色的客户故事：通过 AI 虚拟助手发现罗马隐藏的宝藏 – 来源欧洲、中东和非洲 九月下旬一个阳光明媚的星期一早晨，游客如河般缓缓流过德拉罗通达广场 (Piazza della Rotonda)。广场的焦点是万神殿，里面有近 2,000 […]</description>
-      <pubDate>Fri, 25 Oct 2024 18:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automate Power Platform Environment Creation &amp; Solution Imports with GitHub Actions】使用 GitHub Actions 自动创建 Power Platform 环境和导入解决方案</title>
-      <link>https://devblogs.microsoft.com/powerplatform/ppac-cli-automation-github-actions</link>
-      <description>【Automate Power Platform Environment Creation &amp;amp; Solution Imports with GitHub Actions Automating your CI/CD pipeline for Power Platform solutions can streamline your development process and reduce manual tasks. By integrating GitHub Actions, you can automatically create environments, import solutions, and even clean up environments when issues arise. This blog post will walk you through a [&amp;hellip;]】使用 GitHub Actions 自动化 Power Platform 环境创建和解决方案导入 自动化 Power Platform 解决方案的 CI/CD 管道可以简化您的开发流程并减少手动任务。通过集成 GitHub Actions，您可以自动创建环境、导入解决方案，甚至在出现问题时清理环境。这篇博文将引导您完成[...]</description>
-      <pubDate>Thu, 24 Oct 2024 23:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Security incident response】Microsoft 365 认证控制焦点：安全事件响应</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-incident-response</link>
-      <description>【Discover how Microsoft 365 Certification verifies security incident response best practices.】了解 Microsoft 365 认证如何验证安全事件响应最佳实践。</description>
-      <pubDate>Thu, 24 Oct 2024 15:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (October 2024)】Azure SDK 版本（2024 年 10 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Thu, 24 Oct 2024 20:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to correctly use access tokens and ID tokens in your client application】如何在客户端应用程序中正确使用访问令牌和 ID 令牌</title>
-      <link>https://devblogs.microsoft.com/identity/access-tokens-and-id-tokens</link>
-      <description>【Explore the differences between access tokens and ID tokens and how to use them securely in your applications. This blog post explains why access tokens should be treated as opaque by client apps, and offers best practices for secure token handling.】探索访问令牌和 ID 令牌之间的差异以及如何在应用程序中安全地使用它们。这篇博文解释了为什么客户端应用程序应将访问令牌视为不透明，并提供安全令牌处理的最佳实践。</description>
-      <pubDate>Thu, 24 Oct 2024 15:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement】.NET升级助手现在支持升级到集中包管理</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade</link>
-      <description>【Learn how to use the .NET Upgrade Assistant tool to upgrade your projects to use NuGet Central Package Management (CPM).】了解如何使用 .NET Upgrade Assistant 工具升级项目以使用 NuGet Central Package Management (CPM)。</description>
-      <pubDate>Thu, 24 Oct 2024 17:05:00 +0000</pubDate>
+      <title>【Easily add Unreal Engine classes to your C++ project】轻松将虚幻引擎类添加到您的 C++ 项目中</title>
+      <link>https://devblogs.microsoft.com/visualstudio/easily-add-unreal-engine-classes-to-your-c-project</link>
+      <description>【Visual Studio 2022 v17.11 introduces a new Add Unreal Engine Class dialog that lets you easily add common Unreal Engine classes to your project. You can also choose to which module to add your class, so you can keep your code organized and modular. To use this feature, you need to have an Unreal Engine [&amp;hellip;]】Visual Studio 2022 v17.11 引入了新的“添加虚幻引擎类”对话框，可让您轻松地将常见虚幻引擎类添加到项目中。您还可以选择将类添加到哪个模块，这样您就可以保持代码的组织性和模块化。要使用此功能，您需要有一个虚幻引擎 [...]</description>
+      <pubDate>Mon, 28 Oct 2024 15:43:57 +0000</pubDate>
     </item>
     <item>
       <title>【How can I explicitly specialize a templated C++ constructor, follow-up notes】如何显式地专门化模板化的 C++ 构造函数，后续注释</title>
@@ -52,16 +16,52 @@
       <pubDate>Fri, 25 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【eShop infused with AI – a comprehensive intelligent app sample with Semantic Kernel】注入 AI 的 eShop – 具有语义内核的综合智能应用程序示例</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/eshop-infused-with-ai-a-comprehensive-intelligent-app-sample-with-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re featuring a sample application, called eShop. You can read the entire blog post and steps for running the application here: eShop infused with AI &amp;#8211; a comprehensive intelligent app sample &amp;#8211; .NET Blog Below, we have a brief summary of eShop and the integration with Semantic Kernel. Introducing eShop “support with AI” edition [&amp;hellip;]】今天我们将介绍一个名为 eShop 的示例应用程序。您可以在此处阅读完整的博客文章和运行应用程序的步骤：eShop 注入 AI – 全面的智能应用程序示例 – .NET 博客 下面，我们对 eShop 以及与 Semantic Kernel 的集成进行了简要总结。推出 eShop“AI 支持”版本 [...]</description>
-      <pubDate>Thu, 24 Oct 2024 19:42:46 +0000</pubDate>
+      <title>【No new Azure DevOps OAuth apps beginning February 2025】从 2025 年 2 月开始不再有新的 Azure DevOps OAuth 应用程序</title>
+      <link>https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025</link>
+      <description>【Starting February 3, 2025, we will no longer accept new registrations of Azure DevOps OAuth apps. This is the first step we’ll be taking towards our longer-term vision of sunsetting the Azure DevOps OAuth platform. Moving forward, we’ll be publicly advocating all developers that are building applications on top of Azure DevOps REST APIs to [&amp;hellip;]】从 2025 年 2 月 3 日开始，我们将不再接受 Azure DevOps OAuth 应用程序的新注册。这是我们朝着淘汰 Azure DevOps OAuth 平台的长期愿景迈出的第一步。展望未来，我们将公开倡导所有在 Azure DevOps REST API 上构建应用程序的开发人员 [...]</description>
+      <pubDate>Mon, 28 Oct 2024 22:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automate Power Platform Environment Creation &amp; Solution Imports with GitHub Actions (Federated Auth Setup)】使用 GitHub Actions 自动创建 Power Platform 环境和解决方案导入（联合身份验证设置）</title>
+      <link>https://devblogs.microsoft.com/powerplatform/automate-power-platform-environment-creation-solution-imports-with-github-actions-federated-auth-setup</link>
+      <description>【Automate Power Platform Environment Creation &amp;amp; Solution Imports with GitHub Actions (Federated Auth Setup) Automating your CI/CD pipeline for Power Platform solutions streamlines development and reduces manual tasks. Integrating GitHub Actions with federated authentication provides secure and scalable access for creating environments, importing solutions, and even cleaning up temporary environments. This post guides you through [&amp;hellip;]】使用 GitHub Actions 自动化 Power Platform 环境创建和解决方案导入（联合身份验证设置） 自动化 Power Platform 解决方案的 CI/CD 管道可简化开发并减少手动任务。将 GitHub Actions 与联合身份验证集成，可以为创建环境、导入解决方案甚至清理临时环境提供安全且可扩展的访问。这篇文章将引导您完成[...]</description>
+      <pubDate>Mon, 28 Oct 2024 21:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How useful is the hint passed to the std::unordered_… collections?】传递给 std::unordered_... 集合的提示有多有用？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241028-00/?p=110428</link>
+      <description>【Only a little, or sometimes not at all.】只有一点点，或者有时根本没有。</description>
+      <pubDate>Mon, 28 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Using Entra profile information in Azure DevOps】在 Azure DevOps 中使用 Entra 配置文件信息</title>
       <link>https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops</link>
       <description>【We’re excited to announce the ability to use Entra profile information in Azure DevOps. This has been a long-standing feature request from the community (ex. profile, picture, email, and name). Beyond the convenience of configuring profile information in one place and ensuring the accuracy of personal information, using Entra profile information in Azure DevOps provides [&amp;hellip;]】我们很高兴地宣布能够在 Azure DevOps 中使用 Entra 配置文件信息。这是社区长期提出的功能请求（例如个人资料、图片、电子邮件和姓名）。除了在一个地方配置配置文件信息并确保个人信息的准确性的便利之外，在 Azure DevOps 中使用 Entra 配置文件信息还提供了 [...]</description>
       <pubDate>Thu, 24 Oct 2024 20:31:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel .NET】深入研究语义内核 .NET 中的函数调用及其 JSON 架构</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-net</link>
+      <description>【Diving into Function Calling and its JSON Schema in Semantic Kernel .NET Function-calling is one of the most exciting features of certain Large Language Models (LLMs), enabling developers to execute code directly in response to user queries. In Semantic Kernel, we streamline the process by allowing you to use built-in plugins or integrate your own code [&amp;hellip;]】深入研究语义内核 .NET 中的函数调用及其 JSON 架构 函数调用是某些大型语言模型 (LLM) 最令人兴奋的功能之一，它使开发人员能够直接执行代码来响应用户查询。在语义内核中，我们通过允许您使用内置插件或集成您自己的代码来简化流程 [...]</description>
+      <pubDate>Mon, 28 Oct 2024 16:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Process Framework gets Python support and more!】Process Framework 获得 Python 支持等等！</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/process-framework-gets-python-support-and-more</link>
+      <description>【As we continue to empower developers in embedding AI into their workflows, we are thrilled to announce significant updates to the Microsoft Semantic Kernel&amp;#8217;s Process Framework. Building on our introductory blog, we’ve made enhancements that further streamline business process automation and AI integration and help you to be successful with the Semantic Kernel Process Framework [&amp;hellip;]】随着我们继续帮助开发人员将人工智能嵌入到他们的工作流程中，我们很高兴地宣布对 Microsoft 语义内核流程框架进行重大更新。在我们的介绍性博客的基础上，我们进行了增强，进一步简化了业务流程自动化和人工智能集成，并帮助您通过语义内核流程框架取得成功[...]</description>
+      <pubDate>Fri, 25 Oct 2024 21:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI Digital Transformation Discovering Rome’s hidden treasures with an AI virtual assistant and Semantic Kernel】AI 数字化转型 通过 AI 虚拟助手和语义内核发现罗马隐藏的宝藏</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/ai-digital-transformation-discovering-romes-hidden-treasures-with-an-ai-virtual-assistant-and-semantic-kernel</link>
+      <description>【Today we want to highlight a customer story featuring Semantic Kernel here: Discovering Rome’s hidden treasures with an AI virtual assistant &amp;#8211; Source EMEA On a sunny Monday morning in late September, a river of travelers flowed slowly through the Piazza della Rotonda. The focal point of the piazza is the Pantheon, the nearly 2,000- [&amp;hellip;]】今天，我们想在这里重点介绍一个以 Semantic Kernel 为特色的客户故事：通过 AI 虚拟助手发现罗马隐藏的宝藏 – 来源欧洲、中东和非洲 九月下旬一个阳光明媚的星期一早晨，游客如河般缓慢地流过德拉罗通达广场 (Piazza della Rotonda)。广场的焦点是万神殿，里面有近 2,000 […]</description>
+      <pubDate>Fri, 25 Oct 2024 18:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (October 2024)】Azure SDK 版本（2024 年 10 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2024</link>
+      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
+      <pubDate>Thu, 24 Oct 2024 20:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
