@@ -4,16 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Easily add Unreal Engine classes to your C++ project】轻松将虚幻引擎类添加到您的 C++ 项目中</title>
-      <link>https://devblogs.microsoft.com/visualstudio/easily-add-unreal-engine-classes-to-your-c-project</link>
-      <description>【Visual Studio 2022 v17.11 introduces a new Add Unreal Engine Class dialog that lets you easily add common Unreal Engine classes to your project. You can also choose to which module to add your class, so you can keep your code organized and modular. To use this feature, you need to have an Unreal Engine [&amp;hellip;]】Visual Studio 2022 v17.11 引入了新的“添加虚幻引擎类”对话框，可让您轻松地将常见虚幻引擎类添加到项目中。您还可以选择将类添加到哪个模块，这样您就可以保持代码的组织性和模块化。要使用此功能，您需要有一个虚幻引擎 [...]</description>
-      <pubDate>Mon, 28 Oct 2024 15:43:57 +0000</pubDate>
+      <title>【Build AI applications with the new AI App Template Gallery】使用新的 AI 应用程序模板库构建 AI 应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/build-ai-applications-with-the-new-ai-app-template-gallery</link>
+      <description>【This post announces the launch of the AI App Template Gallery of templates using `azd`.】这篇文章宣布推出使用“azd”的 AI 应用程序模板库。</description>
+      <pubDate>Tue, 29 Oct 2024 15:58:15 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I explicitly specialize a templated C++ constructor, follow-up notes】如何显式地专门化模板化的 C++ 构造函数，后续注释</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241025-00/?p=110420</link>
-      <description>【You can use a maker function, but that doesn&#39;t let you escape the problem.】您可以使用制造商功能，但这并不能让您逃避问题。</description>
-      <pubDate>Fri, 25 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Microsoft.Extensions.VectorData.Abstractions: Now Available】Microsoft.Extensions.VectorData.Abstractions：现已可用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-extensions-vectordata-abstractions-now-available</link>
+      <description>【We are thrilled to announce the launch of Microsoft.Extensions.VectorData for .NET! Our collaboration with the .NET team since the debut of Semantic Kernel has resulted in a powerful new feature that aligns with the best practices of both current and upcoming .NET releases.  This is the second new package as part of this collaboration.  You can [&amp;hellip;]】我们很高兴地宣布推出适用于 .NET 的 Microsoft.Extensions.VectorData！自 Semantic Kernel 首次亮相以来，我们与 .NET 团队的合作带来了一项强大的新功能，该功能与当前和即将发布的 .NET 版本的最佳实践保持一致。  这是本次合作的第二个新包。  你可以 […]</description>
+      <pubDate>Tue, 29 Oct 2024 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>【No new Azure DevOps OAuth apps beginning February 2025】从 2025 年 2 月开始不再有新的 Azure DevOps OAuth 应用程序</title>
@@ -22,46 +22,46 @@
       <pubDate>Mon, 28 Oct 2024 22:26:01 +0000</pubDate>
     </item>
     <item>
+      <title>【Introducing Microsoft.Extensions.VectorData Preview】介绍 Microsoft.Extensions.VectorData 预览</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data</link>
+      <description>【We are excited to introduce the Microsoft.Extensions.VectorData.Abstractions package available in preview today. This new package provides a unified abstraction layer that enables you to integrate vector stores into your .NET applications.】我们很高兴推出今天提供预览版的 Microsoft.Extensions.VectorData.Abstractions 包。这个新包提供了一个统一的抽象层，使您能够将矢量存储集成到您的 .NET 应用程序中。</description>
+      <pubDate>Tue, 29 Oct 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GitHub Copilot in Windows Terminal】Windows 终端中的 GitHub Copilot</title>
+      <link>https://devblogs.microsoft.com/commandline/github-copilot-in-windows-terminal</link>
+      <description>【GitHub Copilot users can now use the power of GitHub Copilot to get command suggestions and explanations without leaving the terminal with Terminal Chat in Windows Terminal Canary 🚀 This is available for all GitHub Copilot Individual, Business, and Enterprise customers. To get started, sign up for a GitHub Copilot free trial and check out [&amp;hellip;]】GitHub Copilot 用户现在可以使用 GitHub Copilot 的强大功能来获取命令建议和说明，而无需离开终端，即可通过 Windows Terminal Canary 中的终端聊天 🚀 这适用于所有 GitHub Copilot 个人、商业和企业客户。首先，注册 GitHub Copilot 免费试用版并查看 [...]</description>
+      <pubDate>Tue, 29 Oct 2024 18:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Create Unreal Engine modules faster】更快地创建虚幻引擎模块</title>
+      <link>https://devblogs.microsoft.com/visualstudio/create-unreal-engine-modules-faster</link>
+      <description>【Unreal Engine modules help keep your code organized and modular. However, creating modules can be a tedious and error-prone process that involves manually editing configuration files and adding boilerplate code. Visual Studio 2022 version 17.11 comes with a new dialog to help with this process. With the new Add Module dialog, you can quickly add [&amp;hellip;]】虚幻引擎模块有助于保持代码的组织性和模块化。然而，创建模块可能是一个乏味且容易出错的过程，涉及手动编辑配置文件和添加样板代码。 Visual Studio 2022 版本 17.11 附带了一个新对话框来帮助完成此过程。使用新的“添加模块”对话框，您可以快速添加[...]</description>
+      <pubDate>Tue, 29 Oct 2024 16:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reverse-engineering what a “short” section is】对“短”部分进行逆向工程</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241029-00/?p=110436</link>
+      <description>【The long and short of it all.】这一切的长短。</description>
+      <pubDate>Tue, 29 Oct 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Technical Preview of the GitHub Copilot upgrade assistant for Java】宣布推出适用于 Java 的 GitHub Copilot 升级助手的技术预览版</title>
+      <link>https://devblogs.microsoft.com/java/technical-preview-github-copilot-upgrade-assistant-for-java</link>
+      <description>【As AI and LLMs continue to evolve, agentic workflows are rapidly emerging as the next wave of AI-assistance. Agentic workflows allow AI systems to coordinate tasks and make decisions with minimal human input. These systems use autonomous agents in their workflow and can bring enormous benefits as they can create plans, perform individual tasks, employ [&amp;hellip;]】随着人工智能和法学硕士的不断发展，代理工作流程正在迅速崛起，成为下一波人工智能辅助浪潮。代理工作流程允许人工智能系统以最少的人工输入来协调任务并做出决策。这些系统在其工作流程中使用自主代理，可以带来巨大的好处，因为它们可以创建计划、执行单独的任务、使用[...]</description>
+      <pubDate>Tue, 29 Oct 2024 16:26:58 +0000</pubDate>
+    </item>
+    <item>
       <title>【Automate Power Platform Environment Creation &amp; Solution Imports with GitHub Actions (Federated Auth Setup)】使用 GitHub Actions 自动创建 Power Platform 环境和解决方案导入（联合身份验证设置）</title>
       <link>https://devblogs.microsoft.com/powerplatform/automate-power-platform-environment-creation-solution-imports-with-github-actions-federated-auth-setup</link>
       <description>【Automate Power Platform Environment Creation &amp;amp; Solution Imports with GitHub Actions (Federated Auth Setup) Automating your CI/CD pipeline for Power Platform solutions streamlines development and reduces manual tasks. Integrating GitHub Actions with federated authentication provides secure and scalable access for creating environments, importing solutions, and even cleaning up temporary environments. This post guides you through [&amp;hellip;]】使用 GitHub Actions 自动化 Power Platform 环境创建和解决方案导入（联合身份验证设置） 自动化 Power Platform 解决方案的 CI/CD 管道可简化开发并减少手动任务。将 GitHub Actions 与联合身份验证集成，可以为创建环境、导入解决方案甚至清理临时环境提供安全且可扩展的访问。这篇文章将引导您完成[...]</description>
       <pubDate>Mon, 28 Oct 2024 21:08:05 +0000</pubDate>
     </item>
     <item>
-      <title>【How useful is the hint passed to the std::unordered_… collections?】传递给 std::unordered_... 集合的提示有多有用？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241028-00/?p=110428</link>
-      <description>【Only a little, or sometimes not at all.】只有一点点，或者有时根本没有。</description>
-      <pubDate>Mon, 28 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using Entra profile information in Azure DevOps】在 Azure DevOps 中使用 Entra 配置文件信息</title>
-      <link>https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops</link>
-      <description>【We’re excited to announce the ability to use Entra profile information in Azure DevOps. This has been a long-standing feature request from the community (ex. profile, picture, email, and name). Beyond the convenience of configuring profile information in one place and ensuring the accuracy of personal information, using Entra profile information in Azure DevOps provides [&amp;hellip;]】我们很高兴地宣布能够在 Azure DevOps 中使用 Entra 配置文件信息。这是社区长期提出的功能请求（例如个人资料、图片、电子邮件和姓名）。除了在一个地方配置配置文件信息并确保个人信息的准确性的便利之外，在 Azure DevOps 中使用 Entra 配置文件信息还提供了 [...]</description>
-      <pubDate>Thu, 24 Oct 2024 20:31:46 +0000</pubDate>
-    </item>
-    <item>
       <title>【Diving into Function Calling and its JSON Schema in Semantic Kernel .NET】深入研究语义内核 .NET 中的函数调用及其 JSON 架构</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/diving-into-function-calling-and-its-json-schema-in-semantic-kernel-net</link>
       <description>【Diving into Function Calling and its JSON Schema in Semantic Kernel .NET Function-calling is one of the most exciting features of certain Large Language Models (LLMs), enabling developers to execute code directly in response to user queries. In Semantic Kernel, we streamline the process by allowing you to use built-in plugins or integrate your own code [&amp;hellip;]】深入研究语义内核 .NET 中的函数调用及其 JSON 架构 函数调用是某些大型语言模型 (LLM) 最令人兴奋的功能之一，它使开发人员能够直接执行代码来响应用户查询。在语义内核中，我们通过允许您使用内置插件或集成您自己的代码来简化流程 [...]</description>
       <pubDate>Mon, 28 Oct 2024 16:21:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Process Framework gets Python support and more!】Process Framework 获得 Python 支持等等！</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/process-framework-gets-python-support-and-more</link>
-      <description>【As we continue to empower developers in embedding AI into their workflows, we are thrilled to announce significant updates to the Microsoft Semantic Kernel&amp;#8217;s Process Framework. Building on our introductory blog, we’ve made enhancements that further streamline business process automation and AI integration and help you to be successful with the Semantic Kernel Process Framework [&amp;hellip;]】随着我们继续帮助开发人员将人工智能嵌入到他们的工作流程中，我们很高兴地宣布对 Microsoft 语义内核流程框架进行重大更新。在我们的介绍性博客的基础上，我们进行了增强，进一步简化了业务流程自动化和人工智能集成，并帮助您通过语义内核流程框架取得成功[...]</description>
-      <pubDate>Fri, 25 Oct 2024 21:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI Digital Transformation Discovering Rome’s hidden treasures with an AI virtual assistant and Semantic Kernel】AI 数字化转型 通过 AI 虚拟助手和语义内核发现罗马隐藏的宝藏</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/ai-digital-transformation-discovering-romes-hidden-treasures-with-an-ai-virtual-assistant-and-semantic-kernel</link>
-      <description>【Today we want to highlight a customer story featuring Semantic Kernel here: Discovering Rome’s hidden treasures with an AI virtual assistant &amp;#8211; Source EMEA On a sunny Monday morning in late September, a river of travelers flowed slowly through the Piazza della Rotonda. The focal point of the piazza is the Pantheon, the nearly 2,000- [&amp;hellip;]】今天，我们想在这里重点介绍一个以 Semantic Kernel 为特色的客户故事：通过 AI 虚拟助手发现罗马隐藏的宝藏 – 来源欧洲、中东和非洲 九月下旬一个阳光明媚的星期一早晨，游客如河般缓慢地流过德拉罗通达广场 (Piazza della Rotonda)。广场的焦点是万神殿，里面有近 2,000 […]</description>
-      <pubDate>Fri, 25 Oct 2024 18:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (October 2024)】Azure SDK 版本（2024 年 10 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Thu, 24 Oct 2024 20:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

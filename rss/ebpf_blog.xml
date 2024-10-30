@@ -4,28 +4,16 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【eBPF Challenge 2: Concurrency Issues with eBPF Maps】eBPF 挑战 2：eBPF 映射的并发问题</title>
-      <link>https://ebpfchirp.substack.com/p/challenge-2-concurrency-issues-with</link>
-      <description>【An eBPF challenge that showcases how to ensure that your eBPF programs update the elements in a race-safe manner, ensuring no instance reads a partially updated structure?】eBPF 挑战展示了如何确保您的 eBPF 程序以竞争安全的方式更新元素，确保没有实例读取部分更新的结构？</description>
-      <pubDate>Sun, 13 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【Unit Testing eBPF Programs】单元测试 eBPF 程序</title>
+      <link>https://ebpfchirp.substack.com/p/unit-testing-ebpf-programs</link>
+      <description>【Learn how to test eBPF XDP programs】了解如何测试 eBPF XDP 程序</description>
+      <pubDate>Fri, 25 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlock Linux superpowers with eBPF, with Bill Mulligan - HS#28】与 Bill Mulligan 一起使用 eBPF 解锁 Linux 超能力 - HS#28</title>
-      <link>https://www.hockeystick.show/p/unlock-linux-superpowers-with-ebpf</link>
-      <description>【A step-by-step guide to creating your first eBPF program and running it on a Linux system】创建第一个 eBPF 程序并在 Linux 系统上运行它的分步指南</description>
-      <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Runtime Context: Missing Piece in Kubernetes Security】运行时上下文：Kubernetes 安全中缺失的部分</title>
-      <link>https://thenewstack.io/runtime-context-missing-piece-in-kubernetes-security/</link>
-      <description>【Learn about the crucial role of eBPF in enhancing Kubernetes security and how organization can levarge it to gain real-time insights, detect anomalies, and implement more effective security policies】了解 eBPF 在增强 Kubernetes 安全性方面的关键作用，以及组织如何利用它来获得实时洞察、检测异常并实施更有效的安全策略</description>
-      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Past, Present, and Future of eBPF and Its Path to Revolutionizing Systems】eBPF 的过去、现在和未来及其系统革命之路</title>
-      <link>https://eunomia.dev/en/blogs/ten-years/</link>
-      <description>【Dive into eBPF&#39;s journey, explore where it’s headed in the next ten years, and learn about the challenges and opportunities that lie ahead】深入了解 eBPF 的历程，探索未来十年的发展方向，了解未来的挑战和机遇</description>
-      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
+      <title>【P99Conf: How eBPF Could Make Faster Database Systems】P99Conf：eBPF 如何打造更快的数据库系统</title>
+      <link>https://thenewstack.io/p99conf-how-ebpf-could-make-faster-database-systems/</link>
+      <description>【Learn about BPF-DB, an in-memory key-value data store that can be planted within the OS kernel itself via eBPF, thereby routing around the restrictions and limitations of an OS’s user space, or the space in memory where a program is typically run】了解 BPF-DB，这是一种内存中键值数据存储，可以通过 eBPF 植入操作系统内核本身，从而绕过操作系统用户空间或程序通常所在的内存空间的约束和限制跑步</description>
+      <pubDate>Sun, 27 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to run code in kernel space? eBPF!】如何在内核空间运行代码？电子BPF！</title>
@@ -34,34 +22,46 @@
       <pubDate>Tue, 22 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【How to use eBPF for monitoring Linux thread contention?】如何使用eBPF监控Linux线程争用？</title>
+      <link>https://mostlynerdless.de/blog/2024/10/25/a-minimal-scheduler-with-ebpf-sched_ext-and-c/</link>
+      <description>【Learn to create a minimal scheduler written with sched_ext in C】学习创建用 C 语言 sched_ext 编写的最小调度程序</description>
+      <pubDate>Fri, 25 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to use eBPF for monitoring Linux thread contention?】如何使用eBPF监控Linux线程争用？</title>
+      <link>https://www.linkedin.com/pulse/how-use-ebpf-monitoring-linux-thread-contention-shiv-iyer-wpjdc/</link>
+      <description>【Learn how to use eBPF for monitoring Linux thread contention】了解如何使用 eBPF 监控 Linux 线程争用</description>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【eBPF Challenge 3: eBPF Ring Buffer Optimizations】eBPF 挑战 3：eBPF 环形缓冲区优化</title>
       <link>https://ebpfchirp.substack.com/p/challenge-3-ebpf-ring-buffer-optimization</link>
       <description>【Learn how to optimize an eBPF Ring Buffer】了解如何优化 eBPF 环形缓冲区</description>
       <pubDate>Thu, 17 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to write and run an eBPF program on Linux】如何在 Linux 上编写和运行 eBPF 程序</title>
-      <link>https://www.srodi.com/posts/how-to-write-and-run-an-ebpf-program-on-linux/</link>
+      <title>【Transparent Packet Inspection with Netfilter and eBPF】使用 Netfilter 和 eBPF 进行透明数据包检查</title>
+      <link>https://www.threater.com/blog/transparent-packet-inspection-with-netfilter-and-ebpf/</link>
+      <description>【Learn about transparent packet inspection with Netfilter and eBPF】了解使用 Netfilter 和 eBPF 进行透明数据包检查</description>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Debugging Memory Leaks with eBPF】使用 eBPF 调试内存泄漏</title>
+      <link>https://naftalyava.com/debugging-memory-leaks-using-ebpf/</link>
+      <description>【Learn how eBPF and uprobes can be combined to trace memory allocations and detect leaks】了解如何组合 eBPF 和 uprobes 来跟踪内存分配并检测泄漏</description>
+      <pubDate>Sat, 26 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【شروع برنامه نویسی در ebpf با یک مثال ساده】通过一个简单的例子开始在 ebpf 中编程</title>
+      <link>https://virgool.io/@SeyedHosseinTafakh/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AF%D8%B1-ebpf-%D8%A8%D8%A7-%DB%8C%DA%A9-%D9%85%D8%AB%D8%A7%D9%84-%D8%B3%D8%A7%D8%AF%D9%87-puvqu0jqgmpn</link>
+      <description>【درباره eBPF و نحوه نوشتن برنامه eBPF بیاموزید】了解 eBPF 以及如何编写 eBPF 程序</description>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unlock Linux superpowers with eBPF, with Bill Mulligan - HS#28】与 Bill Mulligan 一起使用 eBPF 解锁 Linux 超能力 - HS#28</title>
+      <link>https://www.hockeystick.show/p/unlock-linux-superpowers-with-ebpf</link>
       <description>【A step-by-step guide to creating your first eBPF program and running it on a Linux system】创建第一个 eBPF 程序并在 Linux 系统上运行它的分步指南</description>
-      <pubDate>Sat, 12 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF Tail Calls with Rust Aya】eBPF 与 Rust Aya 进行尾部调用</title>
-      <link>https://yuki-nakamura.com/2024/10/12/ebpf-tail-calls-with-rust-aya/</link>
-      <description>【Learn how to implement eBPF Tail Calls using Rust’s Aya】了解如何使用 Rust 的 Aya 实现 eBPF 尾部调用</description>
-      <pubDate>Sat, 12 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF Is Coming for Windows】eBPF 即将推出 Windows 版</title>
-      <link>https://thenewstack.io/ebpf-is-coming-for-windows/</link>
-      <description>【eBPF will soon offer cross-platform compatibility for in-kernel programs, for both Linux and Windows】eBPF 很快将为 Linux 和 Windows 内核程序提供跨平台兼容性</description>
-      <pubDate>Fri, 11 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloud Native Networking as Kubernetes Starts Its Second Decade】Kubernetes 开启第二个十年的云原生网络</title>
-      <link>https://thenewstack.io/cloud-native-networking-as-kubernetes-starts-its-second-decade/</link>
-      <description>【Dive into how Kubernetes networking and security circulatory systems will grow and adapt】深入了解 Kubernetes 网络和安全循环系统将如何发展和适应</description>
-      <pubDate>Wed, 16 Oct 2024 17:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
