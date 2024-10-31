@@ -4,46 +4,16 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Is this thing on? Using OpenBMC and ACPI power states for reliable server boot】这个东西开了吗？使用 OpenBMC 和 ACPI 电源状态实现可靠的服务器启动</title>
-      <link>https://blog.cloudflare.com/how-we-use-openbmc-and-acpi-power-states-to-monitor-the-state-of-our-servers</link>
-      <description>【 Cloudflare’s global fleet benefits from being managed by open source firmware for the Baseboard Management Controller (BMC), OpenBMC. This has come with various challenges, some of which we discuss here with an explanation of how the open source nature of the firmware for the BMC enabled us to fix the issues and maintain a more stable fleet. 】Cloudflare 的全球机群受益于底板管理控制器 (BMC) OpenBMC 的开源固件的管理。这带来了各种挑战，我们在这里讨论其中一些挑战，并解释 BMC 固件的开源性质如何使我们能够解决问题并维持更稳定的车队。</description>
-      <pubDate>Tue, 22 Oct 2024 13:00:00 +0000</pubDate>
+      <title>【Cloudflare’s perspective of the October 30 OVHcloud outage】Cloudflare 对 10 月 30 日 OVHcloud 中断的看法</title>
+      <link>https://blog.cloudflare.com/cloudflare-perspective-of-the-october-30-2024-ovhcloud-outage</link>
+      <description>【 On October 30, 2024, cloud hosting provider OVHcloud (AS16276) suffered a brief but significant outage. Within this post, we review Cloudflare’s perspective on this outage. 】2024 年 10 月 30 日，云托管提供商 OVHcloud (AS16276) 遭受了短暂但严重的中断。在这篇文章中，我们回顾了 Cloudflare 对此次中断的看法。</description>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【4.2 Tbps of bad packets and a whole lot more: Cloudflare&#39;s Q3 DDoS report】4.2 Tbps 的坏数据包以及更多：Cloudflare 的第三季度 DDoS 报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q3</link>
-      <description>【 The number of DDoS attacks spiked in the third quarter of 2024. Cloudflare mitigated nearly 6 million DDoS attacks, representing a 49% increase QoQ and 55% increase YoY. 】2024 年第三季度 DDoS 攻击数量激增。Cloudflare 缓解了近 600 万次 DDoS 攻击，环比增长 49%，同比增长 55%。</description>
-      <pubDate>Wed, 23 Oct 2024 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Elephants in tunnels: how Hyperdrive connects to databases inside your VPC networks】隧道中的大象：Hyperdrive 如何连接到 VPC 网络内的数据库</title>
-      <link>https://blog.cloudflare.com/elephants-in-tunnels-how-hyperdrive-connects-to-databases-inside-your-vpc-networks</link>
-      <description>【 Hyperdrive (Cloudflare’s globally distributed SQL connection pooler and cache) recently added support for directing database traffic from Workers across Cloudflare Tunnels. We dive deep on what it took to add this feature. 】Hyperdrive（Cloudflare 的全球分布式 SQL 连接池和缓存）最近添加了对跨 Cloudflare 隧道引导来自 Workers 的数据库流量的支持。我们深入研究了添加此功能所需的内容。</description>
-      <pubDate>Fri, 25 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fearless SSH: short-lived certificates bring Zero Trust to infrastructure】无畏的 SSH：短期证书为基础设施带来零信任</title>
-      <link>https://blog.cloudflare.com/intro-access-for-infrastructure-ssh</link>
-      <description>【 Access for Infrastructure, BastionZero’s integration into Cloudflare One, will enable organizations to apply Zero Trust controls to their servers, databases, Kubernetes clusters, and more. Today we’re announcing short-lived SSH access as the first available feature of this integration.&#xA; 】Access for Infrastructure 是 BastionZero 与 Cloudflare One 的集成，将使组织能够将零信任控制应用于其服务器、数据库、Kubernetes 集群等。今天，我们宣布短期 SSH 访问作为此集成的第一个可用功能。</description>
-      <pubDate>Wed, 23 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Forced offline: the Q3 2024 Internet disruption summary】被迫离线：2024 年第三季度互联网中断摘要</title>
-      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
-      <description>【 The third quarter of 2024 was particularly active, with quite a few significant Internet disruptions. Underlying causes included government-directed shutdowns, power outages, hurricane damage, terrestrial and submarine cable cuts, military action, and more. 】2024 年第三季度尤其活跃，出现了不少严重的互联网中断。根本原因包括政府指导的停工、停电、飓风破坏、陆地和海底电缆切断、军事行动等等。</description>
-      <pubDate>Tue, 29 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Durable Objects aren&#39;t just durable, they&#39;re fast: a 10x speedup for Cloudflare Queues】耐用对象不仅耐用，而且速度快：Cloudflare 队列的速度提高了 10 倍</title>
-      <link>https://blog.cloudflare.com/how-we-built-cloudflare-queues</link>
-      <description>【 Learn how we built Cloudflare Queues using our own Developer Platform and how it evolved to a geographically-distributed, horizontally-scalable architecture built on Durable Objects. Our new architecture supports over 10x more throughput and over 3x lower latency compared to the previous version. 】了解我们如何使用自己的开发者平台构建 Cloudflare 队列，以及它如何演变成基于持久对象的地理分布式、水平可扩展的架构。与之前的版本相比，我们的新架构支持的吞吐量提高了 10 倍以上，延迟降低了 3 倍以上。</description>
-      <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build durable applications on Cloudflare Workers: you write the Workflows, we take care of the rest】在 Cloudflare Workers 上构建持久的应用程序：您编写工作流程，我们负责其余的工作</title>
-      <link>https://blog.cloudflare.com/building-workflows-durable-execution-on-workers</link>
-      <description>【 Cloudflare Workflows is now in open beta! Workflows allows you to build reliable, repeatable, long-lived multi-step applications that can automatically retry, persist state, and scale out. Read on to learn how Workflows works, how we built it on top of Durable Objects, and how you can deploy your first Workflows application. 】Cloudflare Workflows 现已开放测试版！工作流允许您构建可靠、可重复、长期存在的多步骤应用程序，这些应用程序可以自动重试、保留状态和横向扩展。请继续阅读以了解工作流的工作原理、我们如何在持久对象之上构建它以及如何部署您的第一个工作流应用程序。</description>
-      <pubDate>Thu, 24 Oct 2024 13:05:00 +0000</pubDate>
+      <title>【Migrating billions of records: moving our active DNS database while it’s in use】迁移数十亿条记录：在使用时移动我们的活动 DNS 数据库</title>
+      <link>https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use</link>
+      <description>【 DNS records have moved to a new database, bringing improved performance and reliability to all customers. 】DNS 记录已移至新数据库，为所有客户带来更高的性能和可靠性。</description>
+      <pubDate>Tue, 29 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Training a million models per day to save customers of all sizes from DDoS attacks】每天训练一百万个模型，以保护各种规模的客户免受 DDoS 攻击</title>
@@ -58,10 +28,40 @@
       <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Migrating billions of records: moving our active DNS database while it’s in use】迁移数十亿条记录：在使用时移动我们的活动 DNS 数据库</title>
-      <link>https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use</link>
-      <description>【 DNS records have moved to a new database, bringing improved performance and reliability to all customers. 】DNS 记录已移至新数据库，为所有客户带来更高的性能和可靠性。</description>
-      <pubDate>Tue, 29 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Fearless SSH: short-lived certificates bring Zero Trust to infrastructure】无畏的 SSH：短期证书为基础设施带来零信任</title>
+      <link>https://blog.cloudflare.com/intro-access-for-infrastructure-ssh</link>
+      <description>【 Access for Infrastructure, BastionZero’s integration into Cloudflare One, will enable organizations to apply Zero Trust controls to their servers, databases, Kubernetes clusters, and more. Today we’re announcing short-lived SSH access as the first available feature of this integration.&#xA; 】Access for Infrastructure 是 BastionZero 与 Cloudflare One 的集成，将使组织能够将零信任控制应用于其服务器、数据库、Kubernetes 集群等。今天，我们宣布短期 SSH 访问作为此集成的第一个可用功能。</description>
+      <pubDate>Wed, 23 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【4.2 Tbps of bad packets and a whole lot more: Cloudflare&#39;s Q3 DDoS report】4.2 Tbps 的坏数据包以及更多：Cloudflare 的第三季度 DDoS 报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q3</link>
+      <description>【 The number of DDoS attacks spiked in the third quarter of 2024. Cloudflare mitigated nearly 6 million DDoS attacks, representing a 49% increase QoQ and 55% increase YoY. 】2024 年第三季度 DDoS 攻击数量激增。Cloudflare 缓解了近 600 万次 DDoS 攻击，环比增长 49%，同比增长 55%。</description>
+      <pubDate>Wed, 23 Oct 2024 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Elephants in tunnels: how Hyperdrive connects to databases inside your VPC networks】隧道中的大象：Hyperdrive 如何连接到 VPC 网络内的数据库</title>
+      <link>https://blog.cloudflare.com/elephants-in-tunnels-how-hyperdrive-connects-to-databases-inside-your-vpc-networks</link>
+      <description>【 Hyperdrive (Cloudflare’s globally distributed SQL connection pooler and cache) recently added support for directing database traffic from Workers across Cloudflare Tunnels. We dive deep on what it took to add this feature. 】Hyperdrive（Cloudflare 的全球分布式 SQL 连接池和缓存）最近添加了对跨 Cloudflare 隧道引导来自 Workers 的数据库流量的支持。我们深入研究了添加此功能所需的内容。</description>
+      <pubDate>Fri, 25 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build durable applications on Cloudflare Workers: you write the Workflows, we take care of the rest】在 Cloudflare Workers 上构建持久的应用程序：您编写工作流程，我们负责其余的工作</title>
+      <link>https://blog.cloudflare.com/building-workflows-durable-execution-on-workers</link>
+      <description>【 Cloudflare Workflows is now in open beta! Workflows allows you to build reliable, repeatable, long-lived multi-step applications that can automatically retry, persist state, and scale out. Read on to learn how Workflows works, how we built it on top of Durable Objects, and how you can deploy your first Workflows application. 】Cloudflare Workflows 现已开放测试版！工作流允许您构建可靠、可重复、长期存在的多步骤应用程序，这些应用程序可以自动重试、保留状态和横向扩展。请继续阅读以了解工作流的工作原理、我们如何在持久对象之上构建它以及如何部署您的第一个工作流应用程序。</description>
+      <pubDate>Thu, 24 Oct 2024 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Durable Objects aren&#39;t just durable, they&#39;re fast: a 10x speedup for Cloudflare Queues】耐用对象不仅耐用，而且速度快：Cloudflare 队列的速度提高了 10 倍</title>
+      <link>https://blog.cloudflare.com/how-we-built-cloudflare-queues</link>
+      <description>【 Learn how we built Cloudflare Queues using our own Developer Platform and how it evolved to a geographically-distributed, horizontally-scalable architecture built on Durable Objects. Our new architecture supports over 10x more throughput and over 3x lower latency compared to the previous version. 】了解我们如何使用自己的开发者平台构建 Cloudflare 队列，以及它如何演变成基于持久对象的地理分布式、水平可扩展的架构。与之前的版本相比，我们的新架构支持的吞吐量提高了 10 倍以上，延迟降低了 3 倍以上。</description>
+      <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Forced offline: the Q3 2024 Internet disruption summary】被迫离线：2024 年第三季度互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
+      <description>【 The third quarter of 2024 was particularly active, with quite a few significant Internet disruptions. Underlying causes included government-directed shutdowns, power outages, hurricane damage, terrestrial and submarine cable cuts, military action, and more. 】2024 年第三季度尤其活跃，出现了不少严重的互联网中断。根本原因包括政府指导的停工、停电、飓风破坏、陆地和海底电缆切断、军事行动等等。</description>
+      <pubDate>Tue, 29 Oct 2024 13:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

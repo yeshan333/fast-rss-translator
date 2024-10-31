@@ -4,12 +4,6 @@
     <link>/blog/index.xml</link>
     <description>Recent content in Grafana Labs blog on Grafana Labs</description>
     <item>
-      <title>【Grafana security release: Critical severity fix for CVE-2024-9264】Grafana 安全版本：CVE-2024-9264 的严重严重性修复</title>
-      <link>https://grafana.com/blog/2024/10/17/grafana-security-release-critical-severity-fix-for-cve-2024-9264/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【ObservabilityCON 2024: On-demand sessions available now!】ObservabilityCON 2024：点播会议现已开放！</title>
       <link>https://grafana.com/blog/2024/10/25/observabilitycon-2024-on-demand-sessions-available-now/</link>
       <description>【http://grafana.com】http://grafana.com</description>
@@ -22,22 +16,16 @@
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Browser testing in Grafana Cloud k6: how to optimize frontend web performance】Grafana Cloud k6 中的浏览器测试：如何优化前端 Web 性能</title>
-      <link>https://grafana.com/blog/2024/10/24/browser-testing-in-grafana-cloud-k6-how-to-optimize-frontend-web-performance/</link>
-      <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【From multi-line queries to no-code investigations: meeting Grafana users where they are】从多行查询到无代码调查：与 Grafana 用户见面</title>
       <link>https://grafana.com/blog/2024/10/22/from-multi-line-queries-to-no-code-investigations-meeting-grafana-users-where-they-are/</link>
       <description>【http://grafana.com】http://grafana.com</description>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to quickly configure Grafana Cloud Application Observability with Open Telemetry Operator】如何使用 Open Telemetry Operator 快速配置 Grafana Cloud 应用程序可观测性</title>
-      <link>https://grafana.com/blog/2024/10/17/how-to-quickly-configure-grafana-cloud-application-observability-with-open-telemetry-operator/</link>
+      <title>【Browser testing in Grafana Cloud k6: how to optimize frontend web performance】Grafana Cloud k6 中的浏览器测试：如何优化前端 Web 性能</title>
+      <link>https://grafana.com/blog/2024/10/24/browser-testing-in-grafana-cloud-k6-how-to-optimize-frontend-web-performance/</link>
       <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Visualize GitHub repos, projects, and more: get started with the GitHub data source for Grafana】可视化 GitHub 存储库、项目等：开始使用 Grafana 的 GitHub 数据源</title>
@@ -46,10 +34,22 @@
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Monitor your generative AI app with the AI Observability solution in Grafana Cloud】使用 Grafana Cloud 中的 AI Observability 解决方案监控您的生成式 AI 应用程序</title>
-      <link>https://grafana.com/blog/2024/10/21/monitor-your-generative-ai-app-with-the-ai-observability-solution-in-grafana-cloud/</link>
+      <title>【Edit your Git-based Grafana dashboards locally】在本地编辑基于 Git 的 Grafana 仪表板</title>
+      <link>https://grafana.com/blog/2024/10/29/edit-your-git-based-grafana-dashboards-locally/</link>
       <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grafana security release: Critical severity fix for CVE-2024-9264】Grafana 安全版本：CVE-2024-9264 的严重严重性修复</title>
+      <link>https://grafana.com/blog/2024/10/17/grafana-security-release-critical-severity-fix-for-cve-2024-9264/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grafana variables: what they are and how they create dynamic dashboards】Grafana 变量：它们是什么以及它们如何创建动态仪表板</title>
+      <link>https://grafana.com/blog/2024/10/30/grafana-variables-what-they-are-and-how-they-create-dynamic-dashboards/</link>
+      <description>【http://grafana.com】http://grafana.com</description>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Monitoring Kubernetes: Why traditional techniques aren&#39;t enough】监控 Kubernetes：为什么传统技术还不够</title>
@@ -58,10 +58,10 @@
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Edit your Git-based Grafana dashboards locally】在本地编辑基于 Git 的 Grafana 仪表板</title>
-      <link>https://grafana.com/blog/2024/10/29/edit-your-git-based-grafana-dashboards-locally/</link>
+      <title>【Monitor your generative AI app with the AI Observability solution in Grafana Cloud】使用 Grafana Cloud 中的 AI Observability 解决方案监控您的生成式 AI 应用程序</title>
+      <link>https://grafana.com/blog/2024/10/21/monitor-your-generative-ai-app-with-the-ai-observability-solution-in-grafana-cloud/</link>
       <description>【http://grafana.com】http://grafana.com</description>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
