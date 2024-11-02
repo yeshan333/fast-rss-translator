@@ -4,6 +4,18 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #448】SRE 周刊 #448</title>
+      <link>https://sreweekly.com/sre-weekly-issue-448/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ What Platform Engineering Meant for Adidas’s SREs They traded their monolith for microservices in a quest for scalability, but they got complexity along with it. &amp;#160;&amp;#160; Jennifer Riggins &amp;#8212; The New [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 平台工程对阿迪达斯的 SRE 意味着什么 他们为了追求可扩展性而将单体架构换成了微服务，但随之而来的是复杂性。    詹妮弗·里金斯——新[…]</description>
+      <pubDate>Mon, 28 Oct 2024 01:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #444】SRE 周刊 #444</title>
+      <link>https://sreweekly.com/sre-weekly-issue-444/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ A good day to trie-hard: saving compute 1% at a time When you&amp;#8217;re doing something 60 million times per second, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ 努力尝试的好日子：一次节省计算 1% 当你正在做某事 60 时每秒百万次，[...]</description>
+      <pubDate>Mon, 30 Sep 2024 00:39:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #447】SRE 周刊 #447</title>
       <link>https://sreweekly.com/sre-weekly-issue-447/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: If the entire team is on a Zoom bridge during an incident – how do you know what really happened and when? We added real-time Zoom/Google Meet transcripts to make sure your incident timeline has every detail. https://firehydrant.com/ai/ SLOs for Mobile Apps: Hard Truths to Consider [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：如果事故发生期间整个团队都在 Zoom 桥上 - 您如何知道到底发生了什么以及何时发生？我们添加了实时 Zoom/Google Meet 文字记录，以确保您的事件时间表包含所有细节。 https://fireHydrant.com/ai/ 移动应用程序的 SLO：需要考虑的硬道理 [...]</description>
@@ -20,18 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-445/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ Hot Take: Don&amp;#8217;t provide incident resolution estimates Providing incident resolution times to customers is an unneeded stress for responders with [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ 热门观点：不提供事件解决估计 向客户提供事件解决时间对响应人员来说是不必要的压力和 […]</description>
       <pubDate>Mon, 07 Oct 2024 01:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #444】SRE 周刊 #444</title>
-      <link>https://sreweekly.com/sre-weekly-issue-444/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant has acquired Blameless! The addition of Blameless&amp;#8217; enterprise capabilities combined with FireHydrant&amp;#8217;s platform creates the most comprehensive enterprise incident management solution in the market. https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ A good day to trie-hard: saving compute 1% at a time When you&amp;#8217;re doing something 60 million times per second, [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 已收购 Blameless！ Blameless 的企业功能与 FireHydrant 的平台相结合，打造出了市场上最全面的企业事件管理解决方案。 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/ 努力尝试的好日子：一次节省计算 1% 当你正在做某事 60 时每秒百万次，[...]</description>
-      <pubDate>Mon, 30 Sep 2024 00:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #448】SRE 周刊 #448</title>
-      <link>https://sreweekly.com/sre-weekly-issue-448/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ What Platform Engineering Meant for Adidas’s SREs They traded their monolith for microservices in a quest for scalability, but they got complexity along with it. &amp;#160;&amp;#160; Jennifer Riggins &amp;#8212; The New [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 平台工程对阿迪达斯的 SRE 意味着什么 他们为了追求可扩展性而将单体架构换成了微服务，但随之而来的是复杂性。    詹妮弗·里金斯——新[…]</description>
-      <pubDate>Mon, 28 Oct 2024 01:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

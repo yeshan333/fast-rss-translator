@@ -4,10 +4,22 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #207: Next.js, use cache, shadcn/ui, Headless UI, RN 0.76, New Architecture, NativeWind, Expo 52, Edge-to-Edge, RNTL, Reassure, Bottom Tabs, Flutter, Node.js...】本周 React #207：Next.js、使用缓存、shadcn/ui、Headless UI、RN 0.76、新架构、NativeWind、Expo 52、Edge-to-Edge、RNTL、Reassure、Bottom Tabs、Flutter、Node.js ...</title>
+      <link>https://thisweekinreact.com/newsletter/207</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #205: Next.js, useActionState, Headless, d&amp;d, Web Components, RSCs, Next-Safe-Action, Remix, Zustand, NumberFlow, Atomic-CSS-DevTools, ESLint, BottomSheet, edge-to-edge, Ignite, Metro, ES2025, Node.js, TypeScript...】本周 React #205：Next.js、useActionState、Headless、d&amp;d、Web Components、RSC、Next-Safe-Action、Remix、Zustand、NumberFlow、Atomic-CSS-DevTools、ESLint、BottomSheet、edge-to-edge、 Ignite、Metro、ES2025、Node.js、TypeScript...</title>
       <link>https://thisweekinreact.com/newsletter/205</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #204: React at Meta, React Compiler, React Router, Next.js, StyleX, Mitosis, One, Hermes, BottomTabs, Zeego, Storybook, Nitro, TC39, Vite, Deno, Bun, Brisa, Lucia...】本周 React #204：React at Meta、React Compiler、React Router、Next.js、StyleX、Mitosis、One、Hermes、BottomTabs、Zeego、Storybook、Nitro、TC39、Vite、Deno、Bun、Brisa、Lucia .. 。</title>
+      <link>https://thisweekinreact.com/newsletter/204</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #203: Server Functions, DevTools, Next.js, React-Query, React Router, React-Aria, Vaul, Remotion, Skia, Native Tabs, Godot, CodePush, void(0), Oxc, Node.js, Tauri...】本周 React #203：服务器功能、DevTools、Next.js、React-Query、React Router、React-Aria、Vaul、Remotion、Skia、Native Tabs、Godot、CodePush、void(0)、Oxc、Node.js 、金牛座...</title>
@@ -20,18 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/206</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #204: React at Meta, React Compiler, React Router, Next.js, StyleX, Mitosis, One, Hermes, BottomTabs, Zeego, Storybook, Nitro, TC39, Vite, Deno, Bun, Brisa, Lucia...】本周 React #204：React at Meta、React Compiler、React Router、Next.js、StyleX、Mitosis、One、Hermes、BottomTabs、Zeego、Storybook、Nitro、TC39、Vite、Deno、Bun、Brisa、Lucia .. 。</title>
-      <link>https://thisweekinreact.com/newsletter/204</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #207: Next.js, use cache, shadcn/ui, Headless UI, RN 0.76, New Architecture, NativeWind, Expo 52, Edge-to-Edge, RNTL, Reassure, Bottom Tabs, Flutter, Node.js...】本周 React #207：Next.js、使用缓存、shadcn/ui、Headless UI、RN 0.76、新架构、NativeWind、Expo 52、Edge-to-Edge、RNTL、Reassure、Bottom Tabs、Flutter、Node.js ...</title>
-      <link>https://thisweekinreact.com/newsletter/207</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
