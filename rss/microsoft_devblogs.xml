@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【Java on Azure Tooling的更新 – 2024年10月】Java on Azure Tooling的更新 – 2024年10月</title>
-      <link>https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-update-october-2024</link>
-      <description>【大家好，欢迎阅读 Java on Azure 开发人员工具的十月份更新。在本次更新中，我们将介绍针对 IntelliJ IDEA 的 Azure 工具包中 Azure Functions 的托管身份支持（Managed Identity）。此外，我们还将推出一个名为Java on Azure 工具指南的新系列，在第一篇文章中，我们将讨论如何利用 Azure 工具包使用 App Service。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure Functions上支持Managed Identity 在 8 月份的更新中，我们推出了对 Azure 应用服务的支持，这将帮助开发人员简化应用程序的凭证管理，降低凭证暴露的风险。 在最新版本中，我们还为工具包中的 Azure 函数添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。将 Java 应用程序部署到工具包中的 Azure Functions 应用程序时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 Azure上的Java [&amp;hellip;]】大家好，欢迎阅读 Java on Azure 开发人员工具的十月份更新。在本次更新中，我们将介绍针对 IntelliJ IDEA 的 Azure 工具包中 Azure Functions 的托管身份支持（Managed Identity）。此外，我们还将推出一个名为Java on Azure 工具指南的新系列，在第一篇文章中，我们将讨论如何利用 Azure 工具包使用 App Service。我们希望您喜欢这些更新，并享受使用 Azure 工具包的流畅体验。请下载并安装 IntelliJ 的 Azure 工具包。让我们开始吧！ Azure Toolkit for IntelliJ 提升 在Azure Functions上支持Managed Identity 在 8 月份的更新中，我们推出了对 Azure 应用服务的支持，这将帮助开发人员简化应用程序的凭证管理，降低凭证暴露的风险。 在最新版本中，我们还为工具包中的 Azure 函数添加了托管身份支持。该功能为开发人员提供了使用托管身份进行身份验证和访问 Azure 存储等 Azure 资源的灵活性，而无需直接管理凭据。将 Java 应用程序部署到工具包中的 Azure Functions 应用程序时，系统会提示您分配角色以访问 Azure 资源。下面是一个简短的演示。 Azure上的Java […]</description>
-      <pubDate>Wed, 30 Oct 2024 08:06:30 +0000</pubDate>
+      <title>【On the limits of time travel in the face of undefined behavior in C】面对 C 中未定义行为时时间旅行的限制</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241104-00/?p=110466</link>
+      <description>【C imposes some constraints, but the principle is mostly still there.】C 施加了一些限制，但原则大部分仍然存在。</description>
+      <pubDate>Mon, 04 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Java on Azure Tooling Update – October 2024】Azure 上的 Java 工具更新 – 2024 年 10 月</title>
-      <link>https://devblogs.microsoft.com/java/java-on-azure-tooling-update-october-2024</link>
-      <description>【Hi everyone, welcome to the October update of Java on Azure developer tools. In this update, we will introduce our Managed Identity Support for Azure Functions in Azure Toolkit for IntelliJ IDEA. Additionally, we are launching a new series called Java on Azure Tooling Guide, and in our first post, we will discuss using App [&amp;hellip;]】大家好，欢迎来到 Azure 开发者工具上的 Java 十月更新。在此更新中，我们将介绍 Azure Toolkit for IntelliJ IDEA 中对 Azure Functions 的托管身份支持。此外，我们正在推出一个名为 Java on Azure 工具指南的新系列，在我们的第一篇文章中，我们将讨论使用应用程序 [...]</description>
-      <pubDate>Wed, 30 Oct 2024 07:53:20 +0000</pubDate>
+      <title>【Python in Visual Studio Code – November 2024 Release】Visual Studio Code 中的 Python – 2024 年 11 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2024-release</link>
+      <description>【The November 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include docstring template generation with Pylance, Fold/Unfold All Docstrings commands, a variable view with the Native REPL and more!】2024 年 11 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括使用 Pylance 生成文档字符串模板、折叠/展开所有文档字符串命令、使用 Native REPL 的变量视图等等！</description>
+      <pubDate>Fri, 01 Nov 2024 17:02:23 +0000</pubDate>
     </item>
     <item>
-      <title>【I have enabled “take ownership” permission, but I still cannot obtain write access】我已启用“取得所有权”权限，但仍然无法获得写入权限</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241030-00/?p=110440</link>
-      <description>【Taking ownership is only one part of gaining write access.】取得所有权只是获得写访问权限的一部分。</description>
-      <pubDate>Wed, 30 Oct 2024 14:00:00 +0000</pubDate>
+      <title>【Announcing GitHub Copilot in Data Wrangler】在 Data Wrangler 中宣布 GitHub Copilot</title>
+      <link>https://devblogs.microsoft.com/python/announcing-github-copilot-in-data-wrangler</link>
+      <description>【AI did not write this blog post, but it will make your exploratory data analysis with Data Wrangler better! Today, we’re excited to introduce our first step of integrating the power of Copilot into Data Wrangler. With this first integration of Copilot with Data Wrangler, you’ll be able to: Use natural language to clean and [&amp;hellip;]】AI 并未撰写这篇博文，但它会让您使用 Data Wrangler 进行探索性数据分析变得更好！今天，我们很高兴向大家介绍将 Copilot 的功能集成到 Data Wrangler 中的第一步。通过 Copilot 与 Data Wrangler 的首次集成，您将能够：使用自然语言来清理和 [...]</description>
+      <pubDate>Mon, 04 Nov 2024 19:02:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Unreal Engine Toolbar in Visual Studio】Visual Studio 中的虚幻引擎工具栏</title>
-      <link>https://devblogs.microsoft.com/visualstudio/unreal-engine-toolbar-in-visual-studio</link>
-      <description>【In Visual Studio 2022 version 17.11, we’ve added a new Unreal Engine toolbar to Visual Studio. The Unreal Engine toolbar is a new feature that provides quick access to common Unreal Engine tasks. You can find the toolbar at the top of your code window when you have an Unreal Engine project loaded. The toolbar [&amp;hellip;]】在 Visual Studio 2022 版本 17.11 中，我们向 Visual Studio 添加了新的虚幻引擎工具栏。虚幻引擎工具栏是一项新功能，可让您快速访问常见的虚幻引擎任务。加载虚幻引擎项目后，您可以在代码窗口顶部找到工具栏。工具栏[...]</description>
-      <pubDate>Wed, 30 Oct 2024 12:00:15 +0000</pubDate>
+      <title>【Managing Chat History for Large Language Models (LLMs)】管理大型语言模型 (LLM) 的聊天历史记录</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/managing-chat-history-for-large-language-models-llms</link>
+      <description>【Large Language Models (LLMs) operate with a defined limit on the number of tokens they can process at once, referred to as the context window. Exceeding this limit can have significant cost and performance implications. Therefore, it is essential to manage the size of the input sent to the LLM, particularly when using chat completion models. [&amp;hellip;]】大型语言模型 (LLM) 在运行时对其一次可以处理的令牌数量有明确的限制（称为上下文窗口）。超过此限制可能会对成本和性能产生重大影响。因此，管理发送到 LLM 的输入大小至关重要，特别是在使用聊天完成模型时。 […]</description>
+      <pubDate>Mon, 04 Nov 2024 16:12:43 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot upgrade assistant for Java技术预览发布】GitHub Copilot upgrade assistant for Java技术预览发布</title>
-      <link>https://devblogs.microsoft.com/java-ch/technical-preview-github-copilot-upgrade-assistant-for-java</link>
-      <description>【随着人工智能和大型语言模型（LLMs）的不断发展，Agent(“智能代理”)和智能代理化工作流程正在迅速成为AI领域的下一个前沿。这些自主系统带来了巨大的好处，它们可以创建计划、执行单个任务、使用外部工具、与用户互动，甚至自行修复错误。 凭借这些功能，代理化工作流程可以解决一些企业客户在开发周期中经常遇到的复杂、关键任务，甚至是一些极其繁琐的任务。对于使用Java的企业客户来说，升级JDK、框架、依赖项等一直是一个挑战。这些挑战覆盖的范围相当地广，开发者可能会需要经常面对重复且繁琐的场景，例如API签名发生变化等等。我们见过一些企业在将代码库从Java 8升级到Java 17时，花费了几天甚至几周的时间，这是一项巨大的资源和人力投入。 今天，我们很高兴宣布GitHub Copilot upgrade assistant Java的技术预览版。这是一个基于AI的解决方案，它使用智能代理化工作流程和多代理框架帮助您更新Java应用程序。通过安装Visual Studio Code插件，您可以从本地Java项目开始，GitHub Copilot将自动处理大部分升级过程。以下是该产品的一些关键功能。 创建一个智能的计划 GitHub Copilot upgrade assistant for Java会分析您当前的项目，并提示用户输入JDK和Maven路径、分支名称等参数。点击“Start(开始)”后，工具将进一步评估该项目的依赖项，例如Spring Boot和JUnit等框架。您还可以选择生成一个GitHub Issue，记录升级过程中的任务。 您可以在执行计划前，审核即将执行的任务。以下是一个演示。 可视化每一步操作 当升级开始后，工具的信息面板(Dashboard)将成为主要信息中心，您可以在此查看每个任务的实时详情，包括运行OpenRewrite工具的命令、查看选择的配方、审查修改的文件和错误详情、每个步骤日志等。您还可以深入探索每个任务及其子任务的详细信息。 在升级过程中，您可以随时选择暂停、停止、继续，甚至重新启动新的升级计划。该工具在整个升级过程中为用户提供了高度的控制权和透明度。以下是一个演示。 自动修复错误与人机协作 如果在升级过程中出现错误，无论是由OpenRewrite代码转换引入的错误，还是其他原因，GitHub Copilot upgrade assistant for Java将通过动态构建/修复/重试AI循环自动处理这些问题。AI将自动尝试自动解决这些，并通过重新构建项目进行验证。如果问题仍然存在，系统将继续尝试不同的方法，只有在达到指定的尝试次数后才会需要“人类”的协助。工具将提供明确的信号，提示何时需要人工干预，并在工具中提供了人机协作体验的交互。以下是一个演示。 从开发者学习 当用户在升级过程中手动修复错误时，GitHub Copilot upgrade assistant for Java会学习这些修复并将这些模式应用于未来的问题。这些修复会被标记为“使用开发者的指导修复”。企业开发人员会发现随着工具对其代码库问题的适应，升级变得更加简单。以下是一个演示。 分支，Commit与PR流程整合 在操作过程中，GitHub Copilot upgrade assistant for Java将针对新的分支执行本地代码提交。这些提交与特定任务相关联，例如由OpenRewrite转换引起的所有代码更改，或者在错误修复循环期间的更改。 无论是OpenRewrite工具引起的更改，还是AI在动态构建/修复/重试循环中的更改，或是人工干预引起的更改，都会被适当标记，方便您专注于特定的更改。 升级过程总览 升级结束时的总结页面将提供所有重要细节的概览，包括文件更改、更新的依赖项、新的分支中的Commit。错误摘要部分还显示错误是如何解决的，无论是通过AI、开发人员还是通过开发者指导。此外，您还可以直接合并Commit并创建Pull Request！以下是一个演示。 申请技术预览的等候名单 准备好节省Java升级的时间了吗？您可以在此申请技术预览的等候名单。早期访问将仅限于选定的用户，但我们鼓励您注册！ AI时代充满了令人兴奋的可能性，我们相信这只是个开始。我们将为复杂的工作流程带来更多支持，帮助客户应对这些任务。人工智能与人类的合作将帮助我们实现创造性解决方案并提高效率，为我们的工作节省数千小时的时间。】随着人工智能和大型语言模型（LLMs）的不断发展，Agent(“智能代理”)和智能代理化工作流程正在迅速成为AI领域的下一个前沿。这些自主系统带来了巨大的好处，它们可以创建计划、执行单个任务、使用外部工具、与用户互动，甚至自行修复错误。 凭借这些功能，代理化工作流程可以解决一些企业客户在开发周期中经常遇到的复杂、关键任务，甚至是一些极其繁琐的任务。对于使用Java的企业客户来说，升级JDK、框架、依赖项等一直是一个挑战。这些挑战覆盖的范围相当地广，开发者可能会需要经常面对重复且繁琐的场景，例如API签名发生变化等等。我们见过一些企业在将代码库从Java 8升级到Java 17时，花费了几天甚至几周的时间，这是一项巨大的资源和人力投入。 今天，我们很高兴宣布GitHub Copilot upgrade assistant Java的技术预览版。这是一个基于AI的解决方案，它使用智能代理化工作流程和多代理框架帮助您更新Java应用程序。通过安装Visual Studio Code插件，您可以从本地Java项目开始，GitHub Copilot将自动处理大部分升级过程。以下是该产品的一些关键功能。 创建一个智能的计划 GitHub Copilot upgrade assistant for Java会分析您当前的项目，并提示用户输入JDK和Maven路径、分支名称等参数。点击“Start(开始)”后，工具将进一步评估该项目的依赖项，例如Spring Boot和JUnit等框架。您还可以选择生成一个GitHub Issue，记录升级过程中的任务。 您可以在执行计划前，审核即将执行的任务。以下是一个演示。 可视化每一步操作 当升级开始后，工具的信息面板(Dashboard)将成为主要信息中心，您可以在此查看每个任务的实时详情，包括运行OpenRewrite工具的命令、查看选择的配方、审查修改的文件和错误详情、每个步骤日志等。您还可以深入探索每个任务及其子任务的详细信息。 在升级过程中，您可以随时选择暂停、停止、继续，甚至重新启动新的升级计划。该工具在整个升级过程中为用户提供了高度的控制权和透明度。以下是一个演示。 自动修复错误与人机协作 如果在升级过程中出现错误，无论是由OpenRewrite代码转换引入的错误，还是其他原因，GitHub Copilot upgrade assistant for Java将通过动态构建/修复/重试AI循环自动处理这些问题。AI将自动尝试自动解决这些，并通过重新构建项目进行验证。如果问题仍然存在，系统将继续尝试不同的方法，只有在达到指定的尝试次数后才会需要“人类”的协助。工具将提供明确的信号，提示何时需要人工干预，并在工具中提供了人机协作体验的交互。以下是一个演示。 从开发者学习 当用户在升级过程中手动修复错误时，GitHub Copilot upgrade assistant for Java会学习这些修复并将这些模式应用于未来的问题。这些修复会被标记为“使用开发者的指导修复”。企业开发人员会发现随着工具对其代码库问题的适应，升级变得更加简单。以下是一个演示。 分支，Commit与PR流程整合 在操作过程中，GitHub Copilot upgrade assistant for Java将针对新的分支执行本地代码提交。这些提交与特定任务相关联，例如由OpenRewrite转换引起的所有代码更改，或者在错误修复循环期间的更改。 无论是OpenRewrite工具引起的更改，还是AI在动态构建/修复/重试循环中的更改，或是人工干预引起的更改，都会被适当标记，方便您专注于特定的更改。 升级过程总览 升级结束时的总结页面将提供所有重要细节的概览，包括文件更改、更新的依赖项、新的分支中的Commit。错误摘要部分还显示错误是如何解决的，无论是通过AI、开发人员还是通过开发者指导。此外，您还可以直接合并Commit并创建Pull Request！以下是一个演示。 申请技术预览的等候名单 准备好节省Java升级的时间了吗？您可以在此申请技术预览的等候名单。早期访问将仅限于选定的用户，但我们鼓励您注册！ AI时代充满了令人兴奋的可能性，我们相信这只是个开始。我们将为复杂的工作流程带来更多支持，帮助客户应对这些任务。人工智能与人类的合作将帮助我们实现创造性解决方案并提高效率，为我们的工作节省数千小时的时间。</description>
-      <pubDate>Wed, 30 Oct 2024 03:36:50 +0000</pubDate>
+      <title>【Microsoft C++ Team at CppCon 2024: Trip Report】Microsoft C++ 团队参加 CppCon 2024：行程报告</title>
+      <link>https://devblogs.microsoft.com/cppblog/microsoft-c-team-at-cppcon-2024-trip-report</link>
+      <description>【The Microsoft C++ team attended CppCon, the largest C++ conference in the world. This year, the conference was held in Aurora, Colorado from September 16-20. Microsoft Booth Our team managed a booth from Monday to Thursday of the week. This gave us an amazing opportunity to interact with the C++ community and discuss many topics [&amp;hellip;]】Microsoft C++ 团队参加了世界上最大的 C++ 会议 CppCon。今年的会议于 9 月 16 日至 20 日在科罗拉多州奥罗拉举行。微软展位 我们的团队从周一到周四管理一个展位。这为我们提供了一个与 C++ 社区互动并讨论许多主题的绝佳机会 [...]</description>
+      <pubDate>Fri, 01 Nov 2024 18:06:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Microsoft.PowerShell.PlatyPS 1.0.0-Preview1】宣布 Microsoft.PowerShell.PlatyPS 1.0.0-Preview1</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-platyps-100-preview1</link>
-      <description>【We are pleased to announce the release of Microsoft.PowerShell.PlatyPS 1.0.0-Preview1, a tool to build PowerShell help files.】我们很高兴地宣布发布 Microsoft.PowerShell.PlatyPS 1.0.0-Preview1，这是一个用于构建 PowerShell 帮助文件的工具。</description>
-      <pubDate>Wed, 30 Oct 2024 19:15:36 +0000</pubDate>
+      <title>【Analyzing the Performance of the “Proxy” Library】分析“代理”库的性能</title>
+      <link>https://devblogs.microsoft.com/cppblog/analyzing-the-performance-of-the-proxy-library</link>
+      <description>【This article analyzes the performance of the &#34;Proxy&#34; library in various scenarios, demonstrating its significant advantages in indirect invocations and lifetime management across different platforms.】本文分析了“Proxy”库在各种场景下的性能，展示了其在跨不同平台的间接调用和生命周期管理方面的显着优势。</description>
+      <pubDate>Fri, 01 Nov 2024 16:06:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Microsoft.Extensions.VectorData Preview】介绍 Microsoft.Extensions.VectorData 预览</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data</link>
-      <description>【We are excited to introduce the Microsoft.Extensions.VectorData.Abstractions package available in preview today. This new package provides a unified abstraction layer that enables you to integrate vector stores into your .NET applications.】我们很高兴推出今天提供预览版的 Microsoft.Extensions.VectorData.Abstractions 包。这个新包提供了一个统一的抽象层，使您能够将矢量存储集成到您的 .NET 应用程序中。</description>
-      <pubDate>Tue, 29 Oct 2024 18:05:00 +0000</pubDate>
+      <title>【The making of Bring Back Plus/Minus】《Bring Back Plus/Minus》的制作过程</title>
+      <link>https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus</link>
+      <description>【A lesson about the software forensics process involved in developing the Bring Back Plus/Minus extension, which brings back the plus/minus symbols to the editor outlining feature in Visual Studio 2022. While I did have the advantage of being able to look at the Visual Studio source code, I could have figured this out just as well without [&amp;hellip;]】关于开发“带回正/负”扩展所涉及的软件取证过程的课程，该扩展将正/负符号带回到 Visual Studio 2022 中的编辑器大纲功能中。虽然我确实具有能够查看视觉效果的优势Studio 源代码，我也可以在没有 [...] 的情况下弄清楚这一点</description>
+      <pubDate>Mon, 04 Nov 2024 15:41:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft.Extensions.VectorData.Abstractions: Now Available】Microsoft.Extensions.VectorData.Abstractions：现已可用</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-extensions-vectordata-abstractions-now-available</link>
-      <description>【We are thrilled to announce the launch of Microsoft.Extensions.VectorData for .NET! Our collaboration with the .NET team since the debut of Semantic Kernel has resulted in a powerful new feature that aligns with the best practices of both current and upcoming .NET releases.  This is the second new package as part of this collaboration.  You can [&amp;hellip;]】我们很高兴地宣布推出适用于 .NET 的 Microsoft.Extensions.VectorData！自 Semantic Kernel 首次亮相以来，我们与 .NET 团队的合作带来了一项强大的新功能，该功能与当前和即将发布的 .NET 版本的最佳实践保持一致。  这是本次合作的第二个新包。  你可以 […]</description>
-      <pubDate>Tue, 29 Oct 2024 18:17:20 +0000</pubDate>
+      <title>【OpenSSF Scorecard for .NET and the NuGet ecosystem】适用于 .NET 和 NuGet 生态系统的 OpenSSF 记分卡</title>
+      <link>https://devblogs.microsoft.com/nuget/openssf-scorecard-for-net-nuget</link>
+      <description>【OpenSSF Scorecard is a tool developed by the Open Source Security Foundation (OpenSSF) that provides automated security assessments for open-source projects. The primary goal of the Scorecard project is to help developers and users determine the security posture of open-source software by generating a score based on a series of security-related checks. Using Scorecard, developers [&amp;hellip;]】OpenSSF Scorecard 是开源安全基金会 (OpenSSF) 开发的一款工具，可为开源项目提供自动化安全评估。记分卡项目的主要目标是通过基于一系列安全相关检查生成分数来帮助开发人员和用户确定开源软件的安全状况。使用记分卡，开发人员 [...]</description>
+      <pubDate>Mon, 04 Nov 2024 17:07:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Integrate data from external sources into Microsoft Entra tokens using the Authentication Events library】使用身份验证事件库将外部源的数据集成到 Microsoft Entra 令牌中</title>
-      <link>https://devblogs.microsoft.com/identity/introducing-the-authentication-events-nuget-library</link>
-      <description>【Streamline the integration of custom claims into authentication tokens with the new Authentication Events NuGet library. This blog post introduces a NuGet library that simplifies the implementation of custom claims providers, reducing the need for extensive code and minimizing validation errors. Learn how to efficiently fetch and add custom data, like entitlements or profile attributes, from external systems, such as CRMs or legacy databases, while ensuring secure, scalable solutions for your applications.】使用新的身份验证事件 NuGet 库简化自定义声明与身份验证令牌的集成。这篇博文介绍了一个 NuGet 库，它简化了自定义声明提供程序的实现，减少了对大量代码的需求并最大限度地减少了验证错误。了解如何从外部系统（例如 CRM 或旧数据库）高效获取和添加自定义数据（例如权利或配置文件属性），同时确保为您的应用程序提供安全、可扩展的解决方案。</description>
-      <pubDate>Wed, 30 Oct 2024 16:55:50 +0000</pubDate>
+      <title>【Dev Proxy v0.22 with improved checking minimal API permissions and logging】Dev Proxy v0.22 改进了最小 API 权限检查和日志记录</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-22-with-improved-checking-minimal-api-permissions-and-logging</link>
+      <description>【We’re excited to share with you a new version of Dev Proxy that helps you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，它可以帮助您构建连接到 API 的强大应用程序。</description>
+      <pubDate>Mon, 04 Nov 2024 07:15:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Retirement of the SharePoint SendEmail API】SharePoint SendEmail API 的停用</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/retirement-of-the-sharepoint-sendemail-api</link>
-      <description>【Retirement of the SharePoint SendEmail API from SharePoint Online - impacting both REST and CSOM API surfaces.】SharePoint Online 中的 SharePoint SendEmail API 停用 - 影响 REST 和 CSOM API 表面。</description>
-      <pubDate>Wed, 30 Oct 2024 12:41:20 +0000</pubDate>
+      <title>【.NET 9 中System.Text.Json 的新增功能】.NET 9 中System.Text.Json 的新增功能</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/net-9-%e4%b8%adsystem-text-json-%e7%9a%84%e6%96%b0%e5%a2%9e%e5%8a%9f%e8%83%bd</link>
+      <description>【本篇翻译于Eirik Tsarpalis的 What&amp;#8217;s new in System.Text.Json in .NET 9 &amp;#8211; .NET Blog  System.Text.Json的9.0 版本包含许多功能，主要侧重于 JSON 架构和智能应用程序支持。它还包括一些备受期待的增强功能，例如可空引用类型支持、自定义枚举成员名称、无序元数据反序列化和自定义序列化缩进。  获取最新信息  您可以通过引用 System.Text.Json NuGet 包的最新版本或 .NET 9 的最新 SDK 来尝试新功能。  JSON 架构导出器  新的 JsonSchemaExporter 类可以使用 JsonSerializerOptions 或 JsonTypeInfo 实例从 .NET 类型中提取 JSON 架构文档：  using System.Text.Json.Schema; JsonSerializerOptions options = JsonSerializerOptions.Default; JsonNode schema = options.GetJsonSchemaAsNode(typeof(Person)); Console.WriteLine(schema.ToString()); //{ // &#34;type&#34;: [&#34;object&#34;, &#34;null&#34;], // [&amp;hellip;]】本篇翻译于Eirik Tsarpalis的 What’s new in System.Text.Json in .NET 9 – .NET Blog  System.Text.Json的9.0 版本包含许多功能，主要侧重于 JSON 架构和智能应用程序支持。它还包括一些备受期待的增强功能，例如可空引用类型支持、自定义枚举成员名称、无序元数据反序列化和自定义序列化缩进。  获取最新信息  您可以通过引用 System.Text.Json NuGet 包的最新版本或 .NET 9 的最新 SDK 来尝试新功能。  JSON 架构导出器  新的 JsonSchemaExporter 类可以使用 JsonSerializerOptions 或 JsonTypeInfo 实例从 .NET 类型中提取 JSON 架构文档：  using System.Text.Json.Schema; JsonSerializerOptions options = JsonSerializerOptions.Default; JsonNode schema = options.GetJsonSchemaAsNode(typeof(Person)); Console.WriteLine(schema.ToString()); //{ // &#34;type&#34;: [&#34;object&#34;, &#34;null&#34;], // […]</description>
+      <pubDate>Mon, 04 Nov 2024 01:57:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
