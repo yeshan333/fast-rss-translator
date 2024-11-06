@@ -10,10 +10,16 @@
       <pubDate>Mon, 04 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code – November 2024 Release】Visual Studio Code 中的 Python – 2024 年 11 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2024-release</link>
-      <description>【The November 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include docstring template generation with Pylance, Fold/Unfold All Docstrings commands, a variable view with the Native REPL and more!】2024 年 11 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括使用 Pylance 生成文档字符串模板、折叠/展开所有文档字符串命令、使用 Native REPL 的变量视图等等！</description>
-      <pubDate>Fri, 01 Nov 2024 17:02:23 +0000</pubDate>
+      <title>【OpenSSF Scorecard for .NET and the NuGet ecosystem】适用于 .NET 和 NuGet 生态系统的 OpenSSF 记分卡</title>
+      <link>https://devblogs.microsoft.com/nuget/openssf-scorecard-for-net-nuget</link>
+      <description>【OpenSSF Scorecard is a tool developed by the Open Source Security Foundation (OpenSSF) that provides automated security assessments for open-source projects. The primary goal of the Scorecard project is to help developers and users determine the security posture of open-source software by generating a score based on a series of security-related checks. Using Scorecard, developers [&amp;hellip;]】OpenSSF Scorecard 是开源安全基金会 (OpenSSF) 开发的一款工具，可为开源项目提供自动化安全评估。记分卡项目的主要目标是通过基于一系列安全相关检查生成分数来帮助开发人员和用户确定开源软件的安全状况。使用记分卡，开发人员 [...]</description>
+      <pubDate>Mon, 04 Nov 2024 17:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s the difference between Display size and Screen size in the Windows 95 display control panel?】Windows 95 显示控制面板中的显示尺寸和屏幕尺寸有什么区别？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241105-00/?p=110472</link>
+      <description>【No meaningful difference, though others have created a difference.】尽管其他人创造了差异，但没有有意义的差异。</description>
+      <pubDate>Tue, 05 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing GitHub Copilot in Data Wrangler】在 Data Wrangler 中宣布 GitHub Copilot</title>
@@ -22,46 +28,40 @@
       <pubDate>Mon, 04 Nov 2024 19:02:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Managing Chat History for Large Language Models (LLMs)】管理大型语言模型 (LLM) 的聊天历史记录</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/managing-chat-history-for-large-language-models-llms</link>
-      <description>【Large Language Models (LLMs) operate with a defined limit on the number of tokens they can process at once, referred to as the context window. Exceeding this limit can have significant cost and performance implications. Therefore, it is essential to manage the size of the input sent to the LLM, particularly when using chat completion models. [&amp;hellip;]】大型语言模型 (LLM) 在运行时对其一次可以处理的令牌数量有明确的限制（称为上下文窗口）。超过此限制可能会对成本和性能产生重大影响。因此，管理发送到 LLM 的输入大小至关重要，特别是在使用聊天完成模型时。 […]</description>
-      <pubDate>Mon, 04 Nov 2024 16:12:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft C++ Team at CppCon 2024: Trip Report】Microsoft C++ 团队参加 CppCon 2024：行程报告</title>
-      <link>https://devblogs.microsoft.com/cppblog/microsoft-c-team-at-cppcon-2024-trip-report</link>
-      <description>【The Microsoft C++ team attended CppCon, the largest C++ conference in the world. This year, the conference was held in Aurora, Colorado from September 16-20. Microsoft Booth Our team managed a booth from Monday to Thursday of the week. This gave us an amazing opportunity to interact with the C++ community and discuss many topics [&amp;hellip;]】Microsoft C++ 团队参加了世界上最大的 C++ 会议 CppCon。今年的会议于 9 月 16 日至 20 日在科罗拉多州奥罗拉举行。微软展位 我们的团队从周一到周四管理一个展位。这为我们提供了一个与 C++ 社区互动并讨论许多主题的绝佳机会 [...]</description>
-      <pubDate>Fri, 01 Nov 2024 18:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Analyzing the Performance of the “Proxy” Library】分析“代理”库的性能</title>
-      <link>https://devblogs.microsoft.com/cppblog/analyzing-the-performance-of-the-proxy-library</link>
-      <description>【This article analyzes the performance of the &#34;Proxy&#34; library in various scenarios, demonstrating its significant advantages in indirect invocations and lifetime management across different platforms.】本文分析了“Proxy”库在各种场景下的性能，展示了其在跨不同平台的间接调用和生命周期管理方面的显着优势。</description>
-      <pubDate>Fri, 01 Nov 2024 16:06:51 +0000</pubDate>
-    </item>
-    <item>
       <title>【The making of Bring Back Plus/Minus】《Bring Back Plus/Minus》的制作过程</title>
       <link>https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus</link>
       <description>【A lesson about the software forensics process involved in developing the Bring Back Plus/Minus extension, which brings back the plus/minus symbols to the editor outlining feature in Visual Studio 2022. While I did have the advantage of being able to look at the Visual Studio source code, I could have figured this out just as well without [&amp;hellip;]】关于开发“带回正/负”扩展所涉及的软件取证过程的课程，该扩展将正/负符号带回到 Visual Studio 2022 中的编辑器大纲功能中。虽然我确实具有能够查看视觉效果的优势Studio 源代码，我也可以在没有 [...] 的情况下弄清楚这一点</description>
       <pubDate>Mon, 04 Nov 2024 15:41:35 +0000</pubDate>
     </item>
     <item>
-      <title>【OpenSSF Scorecard for .NET and the NuGet ecosystem】适用于 .NET 和 NuGet 生态系统的 OpenSSF 记分卡</title>
-      <link>https://devblogs.microsoft.com/nuget/openssf-scorecard-for-net-nuget</link>
-      <description>【OpenSSF Scorecard is a tool developed by the Open Source Security Foundation (OpenSSF) that provides automated security assessments for open-source projects. The primary goal of the Scorecard project is to help developers and users determine the security posture of open-source software by generating a score based on a series of security-related checks. Using Scorecard, developers [&amp;hellip;]】OpenSSF Scorecard 是开源安全基金会 (OpenSSF) 开发的一款工具，可为开源项目提供自动化安全评估。记分卡项目的主要目标是通过基于一系列安全相关检查生成分数来帮助开发人员和用户确定开源软件的安全状况。使用记分卡，开发人员 [...]</description>
-      <pubDate>Mon, 04 Nov 2024 17:07:24 +0000</pubDate>
+      <title>【Managing Chat History for Large Language Models (LLMs)】管理大型语言模型 (LLM) 的聊天历史记录</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/managing-chat-history-for-large-language-models-llms</link>
+      <description>【Large Language Models (LLMs) operate with a defined limit on the number of tokens they can process at once, referred to as the context window. Exceeding this limit can have significant cost and performance implications. Therefore, it is essential to manage the size of the input sent to the LLM, particularly when using chat completion models. [&amp;hellip;]】大型语言模型 (LLM) 在运行时对其一次可以处理的令牌数量有明确的限制（称为上下文窗口）。超过此限制可能会对成本和性能产生重大影响。因此，管理发送到 LLM 的输入大小至关重要，特别是在使用聊天完成模型时。 […]</description>
+      <pubDate>Mon, 04 Nov 2024 16:12:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Dev Proxy v0.22 with improved checking minimal API permissions and logging】Dev Proxy v0.22 改进了最小 API 权限检查和日志记录</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-22-with-improved-checking-minimal-api-permissions-and-logging</link>
-      <description>【We’re excited to share with you a new version of Dev Proxy that helps you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，它可以帮助您构建连接到 API 的强大应用程序。</description>
-      <pubDate>Mon, 04 Nov 2024 07:15:10 +0000</pubDate>
+      <title>【New DevBlogs Layout: Choose your view – Grid or List】新的开发博客布局：选择您的视图 - 网格或列表</title>
+      <link>https://devblogs.microsoft.com/devblogs-news/new-devblogs-layout-choose-your-view-grid-or-list</link>
+      <description>【Hello, Dev Blogs community! We are committed to continuously enhancing your experience on Microsoft Dev Blogs, guided by your invaluable feedback. Since the recent update on our site, we heard a lot of feedback about the masonry layout. We are excited to share how we&amp;#8217;ve adapted to make to improve your experience. What We Heard [&amp;hellip;]】您好，开发博客社区！我们致力于在您宝贵的反馈的指导下不断增强您在 Microsoft 开发博客上的体验。自从我们网站最近更新以来，我们听到了很多关于砌体布局的反馈。我们很高兴与大家分享我们如何进行调整以改善您的体验。我们听到了什么[…]</description>
+      <pubDate>Tue, 05 Nov 2024 19:31:19 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 9 中System.Text.Json 的新增功能】.NET 9 中System.Text.Json 的新增功能</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/net-9-%e4%b8%adsystem-text-json-%e7%9a%84%e6%96%b0%e5%a2%9e%e5%8a%9f%e8%83%bd</link>
-      <description>【本篇翻译于Eirik Tsarpalis的 What&amp;#8217;s new in System.Text.Json in .NET 9 &amp;#8211; .NET Blog  System.Text.Json的9.0 版本包含许多功能，主要侧重于 JSON 架构和智能应用程序支持。它还包括一些备受期待的增强功能，例如可空引用类型支持、自定义枚举成员名称、无序元数据反序列化和自定义序列化缩进。  获取最新信息  您可以通过引用 System.Text.Json NuGet 包的最新版本或 .NET 9 的最新 SDK 来尝试新功能。  JSON 架构导出器  新的 JsonSchemaExporter 类可以使用 JsonSerializerOptions 或 JsonTypeInfo 实例从 .NET 类型中提取 JSON 架构文档：  using System.Text.Json.Schema; JsonSerializerOptions options = JsonSerializerOptions.Default; JsonNode schema = options.GetJsonSchemaAsNode(typeof(Person)); Console.WriteLine(schema.ToString()); //{ // &#34;type&#34;: [&#34;object&#34;, &#34;null&#34;], // [&amp;hellip;]】本篇翻译于Eirik Tsarpalis的 What’s new in System.Text.Json in .NET 9 – .NET Blog  System.Text.Json的9.0 版本包含许多功能，主要侧重于 JSON 架构和智能应用程序支持。它还包括一些备受期待的增强功能，例如可空引用类型支持、自定义枚举成员名称、无序元数据反序列化和自定义序列化缩进。  获取最新信息  您可以通过引用 System.Text.Json NuGet 包的最新版本或 .NET 9 的最新 SDK 来尝试新功能。  JSON 架构导出器  新的 JsonSchemaExporter 类可以使用 JsonSerializerOptions 或 JsonTypeInfo 实例从 .NET 类型中提取 JSON 架构文档：  using System.Text.Json.Schema; JsonSerializerOptions options = JsonSerializerOptions.Default; JsonNode schema = options.GetJsonSchemaAsNode(typeof(Person)); Console.WriteLine(schema.ToString()); //{ // &#34;type&#34;: [&#34;object&#34;, &#34;null&#34;], // […]</description>
-      <pubDate>Mon, 04 Nov 2024 01:57:27 +0000</pubDate>
+      <title>【Streamline Your Setup with the Microsoft Dev Box Pre-Requisites Page】使用 Microsoft Dev Box 先决条件页面简化您的设置</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/streamline-setup-with-microsoft-dev-box-pre-requisites</link>
+      <description>【The Dev Box team has been working hard to streamline the onboarding process for Dev Box administrators when first trying out the service, especially for situations when you&amp;#8217;re unsure of all the necessary steps. In this blog, we are introducing a solution to make this process smoother and more efficient. Introducing the Microsoft Dev Box [&amp;hellip;]】Dev Box 团队一直在努力简化 Dev Box 管理员在首次尝试该服务时的入职流程，特别是在您不确定所有必要步骤的情况下。在这篇博客中，我们将介绍一种解决方案，使这个过程更加顺畅和高效。介绍 Microsoft Dev Box [...]</description>
+      <pubDate>Wed, 06 Nov 2024 00:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learn how to create a Client-Server Application in under 45 Minutes in the new Season of AI】了解如何在新的 AI 季节中在 45 分钟内创建客户端-服务器应用程序</title>
+      <link>https://devblogs.microsoft.com/visualstudio/learn-how-to-create-a-client-server-application-in-under-45-minutes-in-the-new-season-of-ai</link>
+      <description>【What if you could create a robust, versatile client-server application in under 45 minutes? With Visual Studio and GitHub Copilot, this is not only possible but also efficient and enjoyable. This Season of AI, we show you how to use developer tools like GitHub Copilot to create apps from scratch. This season of AI occurs [&amp;hellip;]】如果您可以在 45 分钟内创建一个强大的、多功能的客户端-服务器应用程序，会怎样？借助 Visual Studio 和 GitHub Copilot，这不仅是可能的，而且还高效且令人愉快。本季人工智能，我们向您展示如何使用 GitHub Copilot 等开发人员工具从头开始创建应用程序。这个人工智能的季节发生了[…]</description>
+      <pubDate>Tue, 05 Nov 2024 17:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Semantic Kernel for Java 1.4.0】宣布推出 Java 语义内核 1.4.0</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-4-0</link>
+      <description>【Hello Java AI developers! We are announcing the 1.4.0 release of the Semantic Kernel for Java. Please see the full changelog here. You can find our updates on our GitHub repository and the artifacts on Maven Central. What&amp;#8217;s New in Semantic Kernel for Java 1.4.0? Vector Store Functionality Goes GA The central focus of this release is for [&amp;hellip;]】Java AI 开发者们大家好！我们宣布推出 Java 语义内核 1.4.0 版本。请在此处查看完整的变更日志。您可以在 GitHub 存储库上找到我们的更新，并在 Maven Central 上找到工件。 Java 1.4.0 语义内核有哪些新增功能？ Vector Store 功能正式发布 此版本的中心重点是 [...]</description>
+      <pubDate>Tue, 05 Nov 2024 18:55:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
