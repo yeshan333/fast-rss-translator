@@ -4,48 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, announcements, and news from Microsoft.</description>
     <item>
-      <title>【On the limits of time travel in the face of undefined behavior in C】面对 C 中未定义行为时时间旅行的限制</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241104-00/?p=110466</link>
-      <description>【C imposes some constraints, but the principle is mostly still there.】C 施加了一些限制，但原则大部分仍然存在。</description>
-      <pubDate>Mon, 04 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【OpenSSF Scorecard for .NET and the NuGet ecosystem】适用于 .NET 和 NuGet 生态系统的 OpenSSF 记分卡</title>
-      <link>https://devblogs.microsoft.com/nuget/openssf-scorecard-for-net-nuget</link>
-      <description>【OpenSSF Scorecard is a tool developed by the Open Source Security Foundation (OpenSSF) that provides automated security assessments for open-source projects. The primary goal of the Scorecard project is to help developers and users determine the security posture of open-source software by generating a score based on a series of security-related checks. Using Scorecard, developers [&amp;hellip;]】OpenSSF Scorecard 是开源安全基金会 (OpenSSF) 开发的一款工具，可为开源项目提供自动化安全评估。记分卡项目的主要目标是通过基于一系列安全相关检查生成分数来帮助开发人员和用户确定开源软件的安全状况。使用记分卡，开发人员 [...]</description>
-      <pubDate>Mon, 04 Nov 2024 17:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s the difference between Display size and Screen size in the Windows 95 display control panel?】Windows 95 显示控制面板中的显示尺寸和屏幕尺寸有什么区别？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241105-00/?p=110472</link>
-      <description>【No meaningful difference, though others have created a difference.】尽管其他人创造了差异，但没有有意义的差异。</description>
-      <pubDate>Tue, 05 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing GitHub Copilot in Data Wrangler】在 Data Wrangler 中宣布 GitHub Copilot</title>
-      <link>https://devblogs.microsoft.com/python/announcing-github-copilot-in-data-wrangler</link>
-      <description>【AI did not write this blog post, but it will make your exploratory data analysis with Data Wrangler better! Today, we’re excited to introduce our first step of integrating the power of Copilot into Data Wrangler. With this first integration of Copilot with Data Wrangler, you’ll be able to: Use natural language to clean and [&amp;hellip;]】AI 并未撰写这篇博文，但它会让您使用 Data Wrangler 进行探索性数据分析变得更好！今天，我们很高兴向大家介绍将 Copilot 的功能集成到 Data Wrangler 中的第一步。通过 Copilot 与 Data Wrangler 的首次集成，您将能够：使用自然语言来清理和 [...]</description>
-      <pubDate>Mon, 04 Nov 2024 19:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The making of Bring Back Plus/Minus】《Bring Back Plus/Minus》的制作过程</title>
-      <link>https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus</link>
-      <description>【A lesson about the software forensics process involved in developing the Bring Back Plus/Minus extension, which brings back the plus/minus symbols to the editor outlining feature in Visual Studio 2022. While I did have the advantage of being able to look at the Visual Studio source code, I could have figured this out just as well without [&amp;hellip;]】关于开发“带回正/负”扩展所涉及的软件取证过程的课程，该扩展将正/负符号带回到 Visual Studio 2022 中的编辑器大纲功能中。虽然我确实具有能够查看视觉效果的优势Studio 源代码，我也可以在没有 [...] 的情况下弄清楚这一点</description>
-      <pubDate>Mon, 04 Nov 2024 15:41:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Managing Chat History for Large Language Models (LLMs)】管理大型语言模型 (LLM) 的聊天历史记录</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/managing-chat-history-for-large-language-models-llms</link>
-      <description>【Large Language Models (LLMs) operate with a defined limit on the number of tokens they can process at once, referred to as the context window. Exceeding this limit can have significant cost and performance implications. Therefore, it is essential to manage the size of the input sent to the LLM, particularly when using chat completion models. [&amp;hellip;]】大型语言模型 (LLM) 在运行时对其一次可以处理的令牌数量有明确的限制（称为上下文窗口）。超过此限制可能会对成本和性能产生重大影响。因此，管理发送到 LLM 的输入大小至关重要，特别是在使用聊天完成模型时。 […]</description>
-      <pubDate>Mon, 04 Nov 2024 16:12:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New DevBlogs Layout: Choose your view – Grid or List】新的开发博客布局：选择您的视图 - 网格或列表</title>
-      <link>https://devblogs.microsoft.com/devblogs-news/new-devblogs-layout-choose-your-view-grid-or-list</link>
-      <description>【Hello, Dev Blogs community! We are committed to continuously enhancing your experience on Microsoft Dev Blogs, guided by your invaluable feedback. Since the recent update on our site, we heard a lot of feedback about the masonry layout. We are excited to share how we&amp;#8217;ve adapted to make to improve your experience. What We Heard [&amp;hellip;]】您好，开发博客社区！我们致力于在您宝贵的反馈的指导下不断增强您在 Microsoft 开发博客上的体验。自从我们网站最近更新以来，我们听到了很多关于砌体布局的反馈。我们很高兴与大家分享我们如何进行调整以改善您的体验。我们听到了什么[…]</description>
-      <pubDate>Tue, 05 Nov 2024 19:31:19 +0000</pubDate>
-    </item>
-    <item>
       <title>【Streamline Your Setup with the Microsoft Dev Box Pre-Requisites Page】使用 Microsoft Dev Box 先决条件页面简化您的设置</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/streamline-setup-with-microsoft-dev-box-pre-requisites</link>
       <description>【The Dev Box team has been working hard to streamline the onboarding process for Dev Box administrators when first trying out the service, especially for situations when you&amp;#8217;re unsure of all the necessary steps. In this blog, we are introducing a solution to make this process smoother and more efficient. Introducing the Microsoft Dev Box [&amp;hellip;]】Dev Box 团队一直在努力简化 Dev Box 管理员在首次尝试该服务时的入职流程，特别是在您不确定所有必要步骤的情况下。在这篇博客中，我们将介绍一种解决方案，使这个过程更加顺畅和高效。介绍 Microsoft Dev Box [...]</description>
@@ -58,10 +16,52 @@
       <pubDate>Tue, 05 Nov 2024 17:03:32 +0000</pubDate>
     </item>
     <item>
+      <title>【New DevBlogs Layout: Choose your view – Grid or List】新的开发博客布局：选择您的视图 - 网格或列表</title>
+      <link>https://devblogs.microsoft.com/devblogs-news/new-devblogs-layout-choose-your-view-grid-or-list</link>
+      <description>【Hello, Dev Blogs community! We are committed to continuously enhancing your experience on Microsoft Dev Blogs, guided by your invaluable feedback. Since the recent update on our site, we heard a lot of feedback about the masonry layout. We are excited to share how we&amp;#8217;ve adapted to make to improve your experience. What We Heard [&amp;hellip;]】您好，开发博客社区！我们致力于在您宝贵的反馈的指导下不断增强您在 Microsoft 开发博客上的体验。自从我们网站最近更新以来，我们听到了很多关于砌体布局的反馈。我们很高兴与大家分享我们如何进行调整以改善您的体验。我们听到了什么[…]</description>
+      <pubDate>Tue, 05 Nov 2024 19:31:19 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing Semantic Kernel for Java 1.4.0】宣布推出 Java 语义内核 1.4.0</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/announcing-semantic-kernel-for-java-1-4-0</link>
       <description>【Hello Java AI developers! We are announcing the 1.4.0 release of the Semantic Kernel for Java. Please see the full changelog here. You can find our updates on our GitHub repository and the artifacts on Maven Central. What&amp;#8217;s New in Semantic Kernel for Java 1.4.0? Vector Store Functionality Goes GA The central focus of this release is for [&amp;hellip;]】Java AI 开发者们大家好！我们宣布推出 Java 语义内核 1.4.0 版本。请在此处查看完整的变更日志。您可以在 GitHub 存储库上找到我们的更新，并在 Maven Central 上找到工件。 Java 1.4.0 语义内核有哪些新增功能？ Vector Store 功能正式发布 此版本的中心重点是 [...]</description>
       <pubDate>Tue, 05 Nov 2024 18:55:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s the difference between Display size and Screen size in the Windows 95 display control panel?】Windows 95 显示控制面板中的显示尺寸和屏幕尺寸有什么区别？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241105-00/?p=110472</link>
+      <description>【No meaningful difference, though others have created a difference.】尽管其他人创造了差异，但没有有意义的差异。</description>
+      <pubDate>Tue, 05 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing a new, more conversational way to chat with GitHub Copilot】引入一种新的、更具对话性的方式与 GitHub Copilot 聊天</title>
+      <link>https://devblogs.microsoft.com/visualstudio/conversational-way-to-chat-with-github-copilot</link>
+      <description>【In the fast-evolving world of software development, intuitive AI-driven interactions are becoming essential to unlocking new levels of productivity. Today, we’re excited to share our latest innovation &amp;#8211; a guided chat experience within GitHub Copilot that reshapes how developers interact with AI. This guided chat experience is available in Visual Studio 2022 17.12 Preview 3 [&amp;hellip;]】在快速发展的软件开发世界中，直观的人工智能驱动交互对于解锁新的生产力水平变得至关重要。今天，我们很高兴与大家分享我们的最新创新——GitHub Copilot 中的引导式聊天体验，它重塑了开发人员与 AI 交互的方式。 Visual Studio 2022 17.12 Preview 3 中提供了这种引导式聊天体验 […]</description>
+      <pubDate>Wed, 06 Nov 2024 16:46:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing GitHub Copilot in Data Wrangler】在 Data Wrangler 中宣布 GitHub Copilot</title>
+      <link>https://devblogs.microsoft.com/python/announcing-github-copilot-in-data-wrangler</link>
+      <description>【AI did not write this blog post, but it will make your exploratory data analysis with Data Wrangler better! Today, we’re excited to introduce our first step of integrating the power of Copilot into Data Wrangler. With this first integration of Copilot with Data Wrangler, you’ll be able to: Use natural language to clean and [&amp;hellip;]】AI 并未撰写这篇博文，但它会让您使用 Data Wrangler 进行探索性数据分析变得更好！今天，我们很高兴向大家介绍将 Copilot 的功能集成到 Data Wrangler 中的第一步。通过 Copilot 与 Data Wrangler 的首次集成，您将能够：使用自然语言来清理和 [...]</description>
+      <pubDate>Mon, 04 Nov 2024 19:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exciting Announcement: Public Preview of Native Vector Support in Azure SQL Database!】激动人心的公告：Azure SQL 数据库中原生矢量支持的公开预览版！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/exciting-announcement-public-preview-of-native-vector-support-in-azure-sql-database</link>
+      <description>【Public Preview of Native Vector Support in Azure SQL Database We are excited to share that the dedicated vector data type in Azure SQL Database, which was previously available through the Early Adopter Preview, is now transitioning to Public Preview! As of today, the Vector data type and its associated functions are accessible to everyone, [&amp;hellip;]】Azure SQL 数据库中本机矢量支持的公共预览版 我们很高兴地与大家分享，Azure SQL 数据库中的专用矢量数据类型（之前通过早期采用者预览版提供）现在正在过渡到公共预览版！截至今天，每个人都可以访问 Vector 数据类型及其相关函数，[...]</description>
+      <pubDate>Wed, 06 Nov 2024 17:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How do I declare an operator overload for my Windows Runtime class?】如何为我的 Windows 运行时类声明运算符重载？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241106-00/?p=110478</link>
+      <description>【That&#39;s not something expressible in the Windows Runtime.】这不是 Windows 运行时中可以表达的内容。</description>
+      <pubDate>Wed, 06 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to subscribe for GitHub copilot business without GitHub Enterprise: A Step-by-Step Guide】如何在没有 GitHub Enterprise 的情况下订阅 GitHub copilot 业务：分步指南</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-to-subscribe-for-github-copilot-business-without-github-enterprise</link>
+      <description>【Did you know that now you can subscribe to GitHub Copilot Business without GitHub Enterprise (GHE), which means you can get GitHub Copilot Business as a standalone capability, while having the normal GitHub Enterprise features (repositories, actions, etc.) disabled. This post is a screenshot-based step-by-step guide on how to configure a new GitHub Copilot Business [&amp;hellip;]】您是否知道，现在您可以在没有 GitHub Enterprise (GHE) 的情况下订阅 GitHub Copilot Business，这意味着您可以将 GitHub Copilot Business 作为独立功能获得，同时禁用正常的 GitHub Enterprise 功能（存储库、操作等）。这篇文章是一个基于屏幕截图的分步指南，介绍如何配置新的 GitHub Copilot Business [...]</description>
+      <pubDate>Wed, 06 Nov 2024 16:18:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
