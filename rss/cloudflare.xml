@@ -10,27 +10,21 @@
       <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Billions and billions (of logs): scaling AI Gateway with the Cloudflare Developer Platform】数十亿（日志）：使用 Cloudflare Developer Platform 扩展 AI Gateway</title>
+      <title>【A look at the latest post-quantum signature standardization candidates】看看最新的后量子签名标准化候选者</title>
+      <link>https://blog.cloudflare.com/another-look-at-pq-signatures</link>
+      <description>【 NIST has standardized four post-quantum signature schemes so far, and they’re not done yet: there are fourteen new candidates in the running for standardization. In this blog post we take measure of them and discover why we ended up with so many PQ signatures. 】到目前为止，NIST 已经标准化了四种后量子签名方案，但它们尚未完成：还有 14 个新候选方案正在竞选标准化。在这篇博文中，我们对它们进行了测量，并发现了为什么我们最终得到了如此多的 PQ 签名。</description>
+      <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Billions and billions (of logs): scaling AI Gateway with the Cloudflare Developer Platform】数十亿（日志）：使用 Cloudflare 开发者平台扩展 AI Gateway</title>
       <link>https://blog.cloudflare.com/billions-and-billions-of-logs-scaling-ai-gateway-with-the-cloudflare</link>
       <description>【 How we scaled AI Gateway to handle and store billions of requests, using Cloudflare Workers, D1, Durable Objects, and R2. 】我们如何使用 Cloudflare Workers、D1、Durable Objects 和 R2 扩展 AI Gateway 以处理和存储数十亿个请求。</description>
       <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Migrating billions of records: moving our active DNS database while it’s in use】迁移数十亿条记录：在使用时移动我们的活动 DNS 数据库</title>
-      <link>https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use</link>
-      <description>【 DNS records have moved to a new database, bringing improved performance and reliability to all customers. 】DNS 记录已移至新数据库，为所有客户带来更高的性能和可靠性。</description>
-      <pubDate>Tue, 29 Oct 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Workers Builds: integrated CI/CD built on the Workers platform】Workers Builds：在 Workers 平台上构建的集成 CI/CD</title>
       <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
       <description>【 Workers Builds, an integrated CI/CD pipeline for the Workers platform, recently launched in open beta. We walk through how we built this product on Cloudflare’s Developer Platform. 】Workers Builds 是 Workers 平台的集成 CI/CD 管道，最近推出了公开测试版。我们将介绍如何在 Cloudflare 的开发者平台上构建此产品。</description>
-      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs】将 Baselime 从 AWS 迁移到 Cloudflare：架构更简单、性能更高、云成本降低 80% 以上</title>
-      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
-      <description>【 Post-acquisition, we migrated Baselime from AWS to the Cloudflare Developer Platform and in the process, we improved query times, simplified data ingestion, and now handle far more events, all while cutting costs. Here’s how we built a modern, high-performing observability platform on Cloudflare’s network.  】收购后，我们将 Baselime 从 AWS 迁移到 Cloudflare 开发者平台，在此过程中，我们缩短了查询时间，简化了数据摄取，现在可以处理更多事件，同时还降低了成本。以下是我们如何在 Cloudflare 网络上构建现代化、高性能的可观测平台。</description>
       <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -40,10 +34,10 @@
       <pubDate>Fri, 25 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Forced offline: the Q3 2024 Internet disruption summary】被迫离线：2024 年第三季度互联网中断摘要</title>
-      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
-      <description>【 The third quarter of 2024 was particularly active, with quite a few significant Internet disruptions. Underlying causes included government-directed shutdowns, power outages, hurricane damage, terrestrial and submarine cable cuts, military action, and more. 】2024 年第三季度尤其活跃，出现了不少严重的互联网中断。根本原因包括政府指导的停工、停电、飓风破坏、陆地和海底电缆切断、军事行动等等。</description>
-      <pubDate>Tue, 29 Oct 2024 13:05:00 +0000</pubDate>
+      <title>【Migrating billions of records: moving our active DNS database while it’s in use】迁移数十亿条记录：在使用时移动我们的活动 DNS 数据库</title>
+      <link>https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use</link>
+      <description>【 DNS records have moved to a new database, bringing improved performance and reliability to all customers. 】DNS 记录已移至新数据库，为所有客户带来更高的性能和可靠性。</description>
+      <pubDate>Tue, 29 Oct 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare’s perspective of the October 30 OVHcloud outage】Cloudflare 对 10 月 30 日 OVHcloud 中断的看法</title>
@@ -52,16 +46,22 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Durable Objects aren&#39;t just durable, they&#39;re fast: a 10x speedup for Cloudflare Queues】耐用对象不仅耐用，而且速度快：Cloudflare 队列的速度提高了 10 倍</title>
-      <link>https://blog.cloudflare.com/how-we-built-cloudflare-queues</link>
-      <description>【 Learn how we built Cloudflare Queues using our own Developer Platform and how it evolved to a geographically-distributed, horizontally-scalable architecture built on Durable Objects. Our new architecture supports over 10x more throughput and over 3x lower latency compared to the previous version. 】了解我们如何使用自己的开发者平台构建 Cloudflare 队列，以及它如何演变成基于持久对象的地理分布式、水平可扩展的架构。与之前的版本相比，我们的新架构支持的吞吐量提高了 10 倍以上，延迟降低了 3 倍以上。</description>
-      <pubDate>Thu, 24 Oct 2024 13:00:00 +0000</pubDate>
+      <title>【Forced offline: the Q3 2024 Internet disruption summary】被迫离线：2024 年第三季度互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
+      <description>【 The third quarter of 2024 was particularly active, with quite a few significant Internet disruptions. Underlying causes included government-directed shutdowns, power outages, hurricane damage, terrestrial and submarine cable cuts, military action, and more. 】2024 年第三季度尤其活跃，出现了不少严重的互联网中断。根本原因包括政府指导的停工、停电、飓风破坏、陆地和海底电缆切断、军事行动等等。</description>
+      <pubDate>Tue, 29 Oct 2024 13:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Build durable applications on Cloudflare Workers: you write the Workflows, we take care of the rest】在 Cloudflare Workers 上构建持久的应用程序：您编写工作流程，我们负责其余的工作</title>
       <link>https://blog.cloudflare.com/building-workflows-durable-execution-on-workers</link>
       <description>【 Cloudflare Workflows is now in open beta! Workflows allows you to build reliable, repeatable, long-lived multi-step applications that can automatically retry, persist state, and scale out. Read on to learn how Workflows works, how we built it on top of Durable Objects, and how you can deploy your first Workflows application. 】Cloudflare Workflows 现已开放测试版！工作流允许您构建可靠、可重复、长期存在的多步骤应用程序，这些应用程序可以自动重试、保留状态和横向扩展。请继续阅读以了解工作流的工作原理、我们如何在持久对象之上构建它以及如何部署您的第一个工作流应用程序。</description>
       <pubDate>Thu, 24 Oct 2024 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs】将 Baselime 从 AWS 迁移到 Cloudflare：架构更简单、性能更高、云成本降低 80% 以上</title>
+      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
+      <description>【 Post-acquisition, we migrated Baselime from AWS to the Cloudflare Developer Platform and in the process, we improved query times, simplified data ingestion, and now handle far more events, all while cutting costs. Here’s how we built a modern, high-performing observability platform on Cloudflare’s network.  】收购后，我们将 Baselime 从 AWS 迁移到 Cloudflare 开发者平台，在此过程中，我们缩短了查询时间，简化了数据摄取，现在可以处理更多事件，同时还降低了成本。以下是我们如何在 Cloudflare 网络上构建现代化、高性能的可观测平台。</description>
+      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
