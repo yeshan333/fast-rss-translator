@@ -5,10 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP134: What do Amazon, Netflix, and Uber have in common? 】EP134：亚马逊、Netflix 和 Uber 有什么共同点？</title>
-      <link>https://blog.bytebytego.com/p/ep134-what-do-amazon-netflix-and</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 19 Oct 2024 15:30:49 +0000</pubDate>
+      <title>【EP136: The Ultimate DevOps Developer Roadmap】EP136：终极 DevOps 开发者路线图</title>
+      <link>https://blog.bytebytego.com/p/ep136-the-ultimate-devops-developer</link>
+      <description>【Generate Handwritten SDKs (Sponsored)】生成手写 SDK（赞助）</description>
+      <pubDate>Sat, 02 Nov 2024 15:30:55 +0000</pubDate>
     </item>
     <item>
       <title>【How McDonald Sells Millions of Burgers Per Day With Event-Driven Architecture】麦当劳如何通过事件驱动架构每天销售数百万个汉堡</title>
@@ -17,10 +17,16 @@
       <pubDate>Tue, 05 Nov 2024 16:31:04 +0000</pubDate>
     </item>
     <item>
-      <title>【EP135: Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud】EP135：AWS、Azure 和 Google Cloud 的大数据管道备忘单</title>
-      <link>https://blog.bytebytego.com/p/ep135-big-data-pipeline-cheatsheet</link>
-      <description>【This week&amp;#8217;s system design interview:】本周的系统设计面试：</description>
-      <pubDate>Sat, 26 Oct 2024 15:31:17 +0000</pubDate>
+      <title>【Uber Reduces Database Lock Time by 94% with Major MySQL Fleet Upgrade】Uber 通过主要 MySQL 队列升级将数据库锁定时间减少了 94%</title>
+      <link>https://blog.bytebytego.com/p/uber-reduces-database-lock-time-by</link>
+      <description>【The Future of AI, LLMs, and Observability on Google Cloud (Sponsored)】人工智能、法学硕士和 Google Cloud 上的可观察性的未来（赞助）</description>
+      <pubDate>Tue, 22 Oct 2024 15:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP134: What do Amazon, Netflix, and Uber have in common? 】EP134：亚马逊、Netflix 和 Uber 有什么共同点？</title>
+      <link>https://blog.bytebytego.com/p/ep134-what-do-amazon-netflix-and</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 19 Oct 2024 15:30:49 +0000</pubDate>
     </item>
     <item>
       <title>【Why Executives Seem Out of Touch, and How to Reach Them】为什么高管们似乎脱节以及如何与他们接触</title>
@@ -29,10 +35,10 @@
       <pubDate>Thu, 31 Oct 2024 15:31:21 +0000</pubDate>
     </item>
     <item>
-      <title>【1.8 Trillion Events Per Day with Kafka: How Agoda Handles it】Kafka 每天发生 1.8 万亿个事件：Agoda 如何应对</title>
-      <link>https://blog.bytebytego.com/p/18-trillion-events-per-day-with-kafka</link>
-      <description>【Cut Code Review Time &amp; Bugs into Half with CodeRabbit (Sponsored)】使用 CodeRabbit（赞助）将代码审查时间和错误减少一半</description>
-      <pubDate>Tue, 29 Oct 2024 15:30:48 +0000</pubDate>
+      <title>【A Pattern Every Modern Developer Should Know: CQRS】每个现代开发人员都应该知道的模式：CQRS</title>
+      <link>https://blog.bytebytego.com/p/a-pattern-every-modern-developer</link>
+      <description>【CQRS, which stands for Command Query Responsibility Segregation, is an architectural pattern that separates the concerns of reading and writing data.】CQRS（Command Query Responsibility Segregation）的缩写，是一种分离数据读写关注点的架构模式。</description>
+      <pubDate>Thu, 07 Nov 2024 16:30:27 +0000</pubDate>
     </item>
     <item>
       <title>【Event-Driven Architectural Patterns】事件驱动的架构模式</title>
@@ -41,28 +47,22 @@
       <pubDate>Thu, 24 Oct 2024 15:31:13 +0000</pubDate>
     </item>
     <item>
-      <title>【EP136: The Ultimate DevOps Developer Roadmap】EP136：终极 DevOps 开发者路线图</title>
-      <link>https://blog.bytebytego.com/p/ep136-the-ultimate-devops-developer</link>
-      <description>【Generate Handwritten SDKs (Sponsored)】生成手写 SDK（赞助）</description>
-      <pubDate>Sat, 02 Nov 2024 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Pattern Every Modern Developer Should Know: CQRS】每个现代开发人员都应该知道的模式：CQRS</title>
-      <link>https://blog.bytebytego.com/p/a-pattern-every-modern-developer</link>
-      <description>【CQRS, which stands for Command Query Responsibility Segregation, is an architectural pattern that separates the concerns of reading and writing data.】CQRS（Command Query Responsibility Segregation）的缩写，是一种分离数据读写关注点的架构模式。</description>
-      <pubDate>Thu, 07 Nov 2024 16:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Uber Reduces Database Lock Time by 94% with Major MySQL Fleet Upgrade】Uber 通过主要 MySQL 队列升级将数据库锁定时间减少了 94%</title>
-      <link>https://blog.bytebytego.com/p/uber-reduces-database-lock-time-by</link>
-      <description>【The Future of AI, LLMs, and Observability on Google Cloud (Sponsored)】人工智能、法学硕士和 Google Cloud 上的可观察性的未来（赞助）</description>
-      <pubDate>Tue, 22 Oct 2024 15:31:00 +0000</pubDate>
+      <title>【EP135: Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud】EP135：AWS、Azure 和 Google Cloud 的大数据管道备忘单</title>
+      <link>https://blog.bytebytego.com/p/ep135-big-data-pipeline-cheatsheet</link>
+      <description>【This week&amp;#8217;s system design interview:】本周的系统设计面试：</description>
+      <pubDate>Sat, 26 Oct 2024 15:31:17 +0000</pubDate>
     </item>
     <item>
       <title>【EP137: Proxy vs Reverse Proxy】EP137：代理与反向代理</title>
       <link>https://blog.bytebytego.com/p/ep137-proxy-vs-reverse-proxy</link>
       <description>【A forward proxy is a server that sits between user devices and the internet. A forward proxy is commonly used for:】转发代理是位于用户设备和互联网之间的服务器。转发代理通常用于：</description>
       <pubDate>Sat, 09 Nov 2024 16:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【1.8 Trillion Events Per Day with Kafka: How Agoda Handles it】Kafka 每天发生 1.8 万亿个事件：Agoda 如何应对</title>
+      <link>https://blog.bytebytego.com/p/18-trillion-events-per-day-with-kafka</link>
+      <description>【Cut Code Review Time &amp; Bugs into Half with CodeRabbit (Sponsored)】使用 CodeRabbit（赞助）将代码审查时间和错误减少一半</description>
+      <pubDate>Tue, 29 Oct 2024 15:30:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
