@@ -3,5 +3,65 @@
     <title>Microsoft for Developers</title>
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
+    <item>
+      <title>【November Patches for Azure DevOps Server】Azure DevOps Server 11 月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server</link>
+      <description>【Today we are releasing patches that impact our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can download the latest version of the product, Azure DevOps Server 2022.2 from the Azure DevOps Server download page. The following versions of [&amp;hellip;]】今天，我们发布了影响我们的自托管产品 Azure DevOps Server 的补丁。我们强烈鼓励并建议所有客户使用最新、最安全版本的 Azure DevOps Server。您可以从 Azure DevOps Server 下载页面下载该产品的最新版本 Azure DevOps Server 2022.2。以下版本的 [...]</description>
+      <pubDate>Tue, 12 Nov 2024 23:19:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The puzzle of trying to put an object into a std::optional】尝试将对象放入 std::Optional 的难题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241113-00/?p=110516</link>
+      <description>【The C++ standard library template type std::optional&amp;lt;T&amp;gt; has one of two states. It could be empty (not contain anything), or it could contain a T. Suppose you start with an empty std::optional&amp;lt;T&amp;gt;. How do you put a T into it? One of my colleagues tried to do it in what seemed to be the most [&amp;hellip;]】C++ 标准库模板类型 std::Optional&lt;T&gt; 具有两种状态之一。它可以是空的（不包含任何内容），也可以包含 T。假设您以空的 std::Optional&lt;T&gt; 开始。怎么把T放进去呢？我的一位同事试图以最[…]的方式做到这一点。</description>
+      <pubDate>Wed, 13 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【First preview of Visual Studio 2022 v17.13】Visual Studio 2022 v17.13 首次预览</title>
+      <link>https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-13</link>
+      <description>【We’re excited to announce the availability of Visual Studio 2022 v17.13 Preview 1 – the first preview of our next update to Visual Studio. This update focuses on providing fantastic developer experiences across the board, with a focus on stability &amp;amp; security, and AI &amp;amp; productivity. Download the preview and see the full list of [&amp;hellip;]】我们很高兴地宣布 Visual Studio 2022 v17.13 Preview 1 现已推出——这是 Visual Studio 下一次更新的第一个预览。此更新的重点是全面提供出色的开发人员体验，重点关注稳定性和安全性以及人工智能和生产力。下载预览并查看 [...] 的完整列表</description>
+      <pubDate>Wed, 13 Nov 2024 15:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New for C++ Developers in Visual Studio 2022 17.12】Visual Studio 2022 17.12 中 C++ 开发人员的新增功能</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-12</link>
+      <description>【We are happy to announce that Visual Studio 2022 version 17.12 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the Visual Studio downloads page or upgrade your existing installation by following the Update Visual Studio Learn page. Standard Library and MSVC [&amp;hellip;]】我们很高兴地宣布 Visual Studio 2022 版本 17.12 现已全面发布！这篇文章总结了您可以在这个 C++ 版本中找到的新功能。您可以从 Visual Studio 下载页面下载 Visual Studio 2022，或按照更新 Visual Studio Learn 页面升级现有安装。标准库和 MSVC [...]</description>
+      <pubDate>Tue, 12 Nov 2024 20:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Suntory and Reliability in AI with Semantic Kernel】客户案例研究：三得利与语义内核人工智能可靠性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-suntory-and-reliability-in-ai-with-semantic-kernel</link>
+      <description>【Suntory Global Spirits is the spirits division of Suntory Holdings, a multinational beverage and food company based in Japan. Suntory is renowned for its high-quality alcoholic beverages, including premium Japanese whisky, gin, vodka, and other spirits. We&amp;#8217;ll turn it over to Urko Benito from Suntory to dive into their AI journey with Semantic Kernel.  The [&amp;hellip;]】三得利全球烈酒是三得利控股公司的烈酒部门，三得利控股是一家总部位于日本的跨国饮料和食品公司。三得利以其高品质酒精饮料而闻名，包括优质日本威士忌、杜松子酒、伏特加和其他烈酒。我们将把它交给来自三得利 (Suntory) 的 Urko Benito，深入探讨他们与 Semantic Kernel 的人工智能之旅。  这 […]</description>
+      <pubDate>Wed, 13 Nov 2024 18:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Microsoft Graph callRecords API capabilities in GCCH and DoD】GCCH 和 DoD 中的新 Microsoft Graph callRecords API 功能</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/new-microsoft-graph-callrecords-api-capabilities-in-gcch-and-dod</link>
+      <description>【Read about the new capabilities for the Microsoft Graph callRecords API coming to GCCH and DOD environments in December.】了解 12 月份将在 GCCH 和 DOD 环境中推出的 Microsoft Graph callRecords API 的新功能。</description>
+      <pubDate>Wed, 13 Nov 2024 19:17:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Elevate Your Skills with Azure Cosmos DB: Must-Attend Sessions at Ignite 2024】使用 Azure Cosmos DB 提升技能：必须参加 Ignite 2024 会议</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/elevate-your-skills-with-azure-cosmos-db-must-attend-sessions-at-ignite-2024</link>
+      <description>【Calling all Azure Cosmos DB enthusiasts: Join us at Microsoft Ignite 2024 to learn all about how we’re empowering the next wave of AI innovation! Azure Cosmos DB will be featured in a robust lineup of sessions at Ignite. This premier event is perfect for enterprise architects, developers, and IT professionals eager to learn new [&amp;hellip;]】呼吁所有 Azure Cosmos DB 爱好者：加入 Microsoft Ignite 2024，全面了解我们如何推动下一波 AI 创新！ Azure Cosmos DB 将在 Ignite 的一系列强大会议中亮相。这项盛会非常适合渴望学习新知识的企业架构师、开发人员和 IT 专业人士 [...]</description>
+      <pubDate>Tue, 12 Nov 2024 22:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating an Azure OpenAI app with Python using External ID authentication】使用外部 ID 身份验证通过 Python 创建 Azure OpenAI 应用程序</title>
+      <link>https://devblogs.microsoft.com/identity/azure-openai-app-with-python-and-external-id</link>
+      <description>【Learn how to securely integrate Azure’s OpenAI services with External ID authentication, using Python, Azure CLI, and Bicep templates. This guide walks you through setting up a secure AI-driven application with streamlined access management on Azure.】了解如何使用 Python、Azure CLI 和 Bicep 模板将 Azure 的 OpenAI 服务与外部 ID 身份验证安全集成。本指南将引导你在 Azure 上设置具有简化访问管理的安全 AI 驱动应用程序。</description>
+      <pubDate>Wed, 13 Nov 2024 16:53:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the .NET Aspire Community Toolkit】.NET Aspire 社区工具包简介</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-the-dotnet-aspire-community-toolkit</link>
+      <description>【Learn about the .NET Aspire Community Toolkit, a collection of tools and libraries that help you build with .NET Aspire.】了解 .NET Aspire 社区工具包，它是帮助您使用 .NET Aspire 进行构建的工具和库的集合。</description>
+      <pubDate>Wed, 13 Nov 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Siemens Healthineers manages C++ libraries with vcpkg in an offline build environment】西门子 Healthineers 在离线构建环境中使用 vcpkg 管理 C++ 库</title>
+      <link>https://devblogs.microsoft.com/cppblog/siemens-healthineers-manages-c-libraries-with-vcpkg-in-an-offline-build-environment</link>
+      <description>【vcpkg is a free and open-source C/C++ package manager maintained by Microsoft and the C++ community that runs on Windows, macOS, and Linux. Over the years we have heard from companies using vcpkg to manage dependencies at enterprise-scale. For this blog post, I spoke to Shrey Chauhan, a Senior DevOps Engineer with Siemens Healthineers. Siemens [&amp;hellip;]】vcpkg 是由 Microsoft 和 C++ 社区维护的免费开源 C/C++ 包管理器，可在 Windows、macOS 和 Linux 上运行。多年来，我们听到一些公司使用 vcpkg 来管理企业规模的依赖关系。在这篇博文中，我采访了西门子 Healthineers 的高级 DevOps 工程师 Shrey Chauhan。西门子[…]</description>
+      <pubDate>Tue, 12 Nov 2024 23:10:37 +0000</pubDate>
+    </item>
   </channel>
 </rss>
