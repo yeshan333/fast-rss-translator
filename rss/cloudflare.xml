@@ -4,10 +4,10 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Exploring Internet traffic shifts and cyber attacks during the 2024 US election】探索 2024 年美国大选期间的互联网流量变化和网络攻击</title>
-      <link>https://blog.cloudflare.com/exploring-internet-traffic-shifts-and-cyber-attacks-during-the-2024-us-election</link>
-      <description>【 Election Day 2024 in the US saw a surge in cyber activity. Cloudflare blocked several DDoS attacks on political and election sites, ensuring no impact. In this post, we analyze these attacks, as well Internet traffic increases across the US and other key trends. 】2024 年美国选举日网络活动激增。 Cloudflare 阻止了针对政治和选举网站的多次 DDoS 攻击，确保不会造成任何影响。在这篇文章中，我们分析了这些攻击，以及美国各地互联网流量的增长和其他主要趋势。</description>
-      <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
+      <title>【What’s new in Cloudflare: Account Owned Tokens and Zaraz Automated Actions】Cloudflare 的新增功能：账户拥有的代币和 Zaraz 自动操作</title>
+      <link>https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz</link>
+      <description>【 Cloudflare customers can now create Account Owned Tokens , allowing more flexibility around access control for their Cloudflare services. Additionally, Zaraz Automation Actions streamlines event tracking and third-party tool integration.  】Cloudflare 客户现在可以创建帐户拥有的令牌，从而为 Cloudflare 服务的访问控制提供更大的灵活性。此外，Zaraz Automation Actions 还简化了事件跟踪和第三方工具集成。</description>
+      <pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Elephants in tunnels: how Hyperdrive connects to databases inside your VPC networks】隧道中的大象：Hyperdrive 如何连接到 VPC 网络内的数据库</title>
@@ -16,10 +16,16 @@
       <pubDate>Fri, 25 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Forced offline: the Q3 2024 Internet disruption summary】被迫离线：2024 年第三季度互联网中断摘要</title>
-      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
-      <description>【 The third quarter of 2024 was particularly active, with quite a few significant Internet disruptions. Underlying causes included government-directed shutdowns, power outages, hurricane damage, terrestrial and submarine cable cuts, military action, and more. 】2024 年第三季度尤其活跃，出现了不少严重的互联网中断。根本原因包括政府指导的停工、停电、飓风破坏、陆地和海底电缆切断、军事行动等等。</description>
-      <pubDate>Tue, 29 Oct 2024 13:05:00 +0000</pubDate>
+      <title>【How we prevent conflicts in authoritative DNS configuration using formal verification】我们如何使用形式验证来防止权威 DNS 配置中的冲突</title>
+      <link>https://blog.cloudflare.com/topaz-policy-engine-design</link>
+      <description>【 We describe how Cloudflare uses a custom Lisp-like programming language and formal verifier (written in Racket and Rosette) to prevent logical contradictions in our authoritative DNS nameserver’s behavior. 】我们描述了 Cloudflare 如何使用自定义的类似 Lisp 的编程语言和形式验证器（用 Racket 和 Rosette 编写）来防止我们的权威 DNS 域名服务器行为中的逻辑矛盾。</description>
+      <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs】将 Baselime 从 AWS 迁移到 Cloudflare：架构更简单、性能更高、云成本降低 80% 以上</title>
+      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
+      <description>【 Post-acquisition, we migrated Baselime from AWS to the Cloudflare Developer Platform and in the process, we improved query times, simplified data ingestion, and now handle far more events, all while cutting costs. Here’s how we built a modern, high-performing observability platform on Cloudflare’s network.  】收购后，我们将 Baselime 从 AWS 迁移到 Cloudflare 开发者平台，在此过程中，我们缩短了查询时间，简化了数据摄取，现在可以处理更多事件，同时还降低了成本。以下是我们如何在 Cloudflare 网络上构建现代化、高性能的可观测平台。</description>
+      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【A look at the latest post-quantum signature standardization candidates】看看最新的后量子签名标准化候选者</title>
@@ -28,10 +34,22 @@
       <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs】将 Baselime 从 AWS 迁移到 Cloudflare：架构更简单、性能更高、云成本降低 80% 以上</title>
-      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
-      <description>【 Post-acquisition, we migrated Baselime from AWS to the Cloudflare Developer Platform and in the process, we improved query times, simplified data ingestion, and now handle far more events, all while cutting costs. Here’s how we built a modern, high-performing observability platform on Cloudflare’s network.  】收购后，我们将 Baselime 从 AWS 迁移到 Cloudflare 开发者平台，在此过程中，我们缩短了查询时间，简化了数据摄取，现在可以处理更多事件，同时还降低了成本。以下是我们如何在 Cloudflare 网络上构建现代化、高性能的可观测平台。</description>
+      <title>【Workers Builds: integrated CI/CD built on the Workers platform】Workers Builds：在 Workers 平台上构建的集成 CI/CD</title>
+      <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
+      <description>【 Workers Builds, an integrated CI/CD pipeline for the Workers platform, recently launched in open beta. We walk through how we built this product on Cloudflare’s Developer Platform. 】Workers Builds 是 Workers 平台的集成 CI/CD 管道，最近推出了公开测试版。我们将介绍如何在 Cloudflare 的开发者平台上构建此产品。</description>
       <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring Internet traffic shifts and cyber attacks during the 2024 US election】探索 2024 年美国大选期间的互联网流量变化和网络攻击</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-shifts-and-cyber-attacks-during-the-2024-us-election</link>
+      <description>【 Election Day 2024 in the US saw a surge in cyber activity. Cloudflare blocked several DDoS attacks on political and election sites, ensuring no impact. In this post, we analyze these attacks, as well Internet traffic increases across the US and other key trends. 】2024 年美国选举日网络活动激增。 Cloudflare 阻止了针对政治和选举网站的多次 DDoS 攻击，确保不会造成任何影响。在这篇文章中，我们分析了这些攻击，以及美国各地互联网流量的增长和其他主要趋势。</description>
+      <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Forced offline: the Q3 2024 Internet disruption summary】被迫离线：2024 年第三季度互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
+      <description>【 The third quarter of 2024 was particularly active, with quite a few significant Internet disruptions. Underlying causes included government-directed shutdowns, power outages, hurricane damage, terrestrial and submarine cable cuts, military action, and more. 】2024 年第三季度尤其活跃，出现了不少严重的互联网中断。根本原因包括政府指导的停工、停电、飓风破坏、陆地和海底电缆切断、军事行动等等。</description>
+      <pubDate>Tue, 29 Oct 2024 13:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Migrating billions of records: moving our active DNS database while it’s in use】迁移数十亿条记录：在使用时移动我们的活动 DNS 数据库</title>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/cloudflare-perspective-of-the-october-30-2024-ovhcloud-outage</link>
       <description>【 On October 30, 2024, cloud hosting provider OVHcloud (AS16276) suffered a brief but significant outage. Within this post, we review Cloudflare’s perspective on this outage. 】2024 年 10 月 30 日，云托管提供商 OVHcloud (AS16276) 遭受了短暂但严重的中断。在这篇文章中，我们回顾了 Cloudflare 对此次中断的看法。</description>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build durable applications on Cloudflare Workers: you write the Workflows, we take care of the rest】在 Cloudflare Workers 上构建持久的应用程序：您编写工作流程，我们负责其余的工作</title>
-      <link>https://blog.cloudflare.com/building-workflows-durable-execution-on-workers</link>
-      <description>【 Cloudflare Workflows is now in open beta! Workflows allows you to build reliable, repeatable, long-lived multi-step applications that can automatically retry, persist state, and scale out. Read on to learn how Workflows works, how we built it on top of Durable Objects, and how you can deploy your first Workflows application. 】Cloudflare Workflows 现已开放测试版！工作流允许您构建可靠、可重复、长期存在的多步骤应用程序，这些应用程序可以自动重试、保留状态和横向扩展。请继续阅读以了解工作流的工作原理、我们如何在持久对象之上构建它以及如何部署您的第一个工作流应用程序。</description>
-      <pubDate>Thu, 24 Oct 2024 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How we prevent conflicts in authoritative DNS configuration using formal verification】我们如何使用形式验证来防止权威 DNS 配置中的冲突</title>
-      <link>https://blog.cloudflare.com/topaz-policy-engine-design</link>
-      <description>【 We describe how Cloudflare uses a custom Lisp-like programming language and formal verifier (written in Racket and Rosette) to prevent logical contradictions in our authoritative DNS nameserver’s behavior. 】我们描述了 Cloudflare 如何使用自定义的类似 Lisp 的编程语言和形式验证器（用 Racket 和 Rosette 编写）来防止我们的权威 DNS 域名服务器行为中的逻辑矛盾。</description>
-      <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Workers Builds: integrated CI/CD built on the Workers platform】Workers Builds：在 Workers 平台上构建的集成 CI/CD</title>
-      <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
-      <description>【 Workers Builds, an integrated CI/CD pipeline for the Workers platform, recently launched in open beta. We walk through how we built this product on Cloudflare’s Developer Platform. 】Workers Builds 是 Workers 平台的集成 CI/CD 管道，最近推出了公开测试版。我们将介绍如何在 Cloudflare 的开发者平台上构建此产品。</description>
-      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

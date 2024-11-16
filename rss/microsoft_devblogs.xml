@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Customer Case Study: Suntory and Reliability in AI with Semantic Kernel】客户案例研究：三得利与语义内核人工智能可靠性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-suntory-and-reliability-in-ai-with-semantic-kernel</link>
-      <description>【Suntory Global Spirits is the spirits division of Suntory Holdings, a multinational beverage and food company based in Japan. Suntory is renowned for its high-quality alcoholic beverages, including premium Japanese whisky, gin, vodka, and other spirits. We&amp;#8217;ll turn it over to Urko Benito from Suntory to dive into their AI journey with Semantic Kernel.  The [&amp;hellip;]】三得利全球烈酒是三得利控股公司的烈酒部门，三得利控股是一家总部位于日本的跨国饮料和食品公司。三得利以其高品质酒精饮料而闻名，包括优质日本威士忌、杜松子酒、伏特加和其他烈酒。我们将把它交给来自三得利 (Suntory) 的 Urko Benito，深入探讨他们与 Semantic Kernel 的人工智能之旅。  这 […]</description>
-      <pubDate>Wed, 13 Nov 2024 18:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fix Code with GitHub Copilot】使用 GitHub Copilot 修复代码</title>
-      <link>https://devblogs.microsoft.com/visualstudio/fix-code-with-github-copilot</link>
-      <description>【Looking to resolve code issues quickly? The new GitHub Copilot feature integrated into the lightbulb and error list in Visual Studio 2022 offers a valuable solution for developers. Whether you&amp;#8217;re working in C# or C++, this feature will help you understand and address problems in your codebase more efficiently. The integration of GitHub Copilot into [&amp;hellip;]】希望快速解决代码问题？集成到 Visual Studio 2022 中的灯泡和错误列表中的新 GitHub Copilot 功能为开发人员提供了有价值的解决方案。无论您使用 C# 还是 C++，此功能都将帮助您更有效地理解和解决代码库中的问题。将 GitHub Copilot 集成到 [...]</description>
-      <pubDate>Thu, 14 Nov 2024 11:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Solving the puzzle of trying to put an object into a std::optional】解决尝试将对象放入 std::Optional 的难题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241114-00/?p=110521</link>
-      <description>【How do I set a value? Let me count the ways.】我如何设置一个值？让我数一下方法。</description>
-      <pubDate>Thu, 14 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Filtered change notifications in Microsoft Graph callRecords API are now available】Microsoft Graph callRecords API 中的筛选更改通知现已可用</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/filtered-change-notifications-in-microsoft-graph-callrecords-api-are-now-available</link>
-      <description>【We are pleased to announce that you can now optionally filter change notifications for the callRecord GraphAPI by participant Entra Object IDs.】我们很高兴地宣布，您现在可以选择按参与者 Entra 对象 ID 过滤 callRecord GraphAPI 的更改通知。</description>
-      <pubDate>Thu, 14 Nov 2024 17:10:09 +0000</pubDate>
-    </item>
-    <item>
       <title>【Calling methods is easier and faster with C# 13 params collections】使用 C# 13 参数集合调用方法更加轻松快捷</title>
       <link>https://devblogs.microsoft.com/dotnet/csharp13-calling-methods-is-easier-and-faster</link>
       <description>【Let&#39;s take a look at C# 13&#39;s new params collections that make methods easier to use and allow new optimizations.】让我们看一下 C# 13 的新参数集合，它们使方法更易于使用并允许新的优化。</description>
       <pubDate>Thu, 14 Nov 2024 18:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Microsoft Graph callRecords API capabilities in GCCH and DoD】GCCH 和 DoD 中的新 Microsoft Graph callRecords API 功能</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/new-microsoft-graph-callrecords-api-capabilities-in-gcch-and-dod</link>
-      <description>【Read about the new capabilities for the Microsoft Graph callRecords API coming to GCCH and DOD environments in December.】了解 12 月份将在 GCCH 和 DOD 环境中推出的 Microsoft Graph callRecords API 的新功能。</description>
-      <pubDate>Wed, 13 Nov 2024 19:17:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating an Azure OpenAI app with Python using External ID authentication】使用外部 ID 身份验证通过 Python 创建 Azure OpenAI 应用程序</title>
-      <link>https://devblogs.microsoft.com/identity/azure-openai-app-with-python-and-external-id</link>
-      <description>【Learn how to securely integrate Azure’s OpenAI services with External ID authentication, using Python, Azure CLI, and Bicep templates. This guide walks you through setting up a secure AI-driven application with streamlined access management on Azure.】了解如何使用 Python、Azure CLI 和 Bicep 模板将 Azure 的 OpenAI 服务与外部 ID 身份验证安全集成。本指南将引导你在 Azure 上设置具有简化访问管理的安全 AI 驱动应用程序。</description>
-      <pubDate>Wed, 13 Nov 2024 16:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) – November 2024】Azure 开发人员 CLI (azd) – 2024 年 11 月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-november-2024</link>
-      <description>【This post announces the November release of the Azure Developer CLI (`azd`).】本文宣布 11 月份发布 Azure 开发人员 CLI (`azd`)。</description>
-      <pubDate>Thu, 14 Nov 2024 22:14:23 +0000</pubDate>
     </item>
     <item>
       <title>【Nullable Reference Types in F# 9】F# 9 中的可为空引用类型</title>
@@ -58,10 +16,52 @@
       <pubDate>Thu, 14 Nov 2024 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the .NET Aspire Community Toolkit】.NET Aspire 社区工具包简介</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-the-dotnet-aspire-community-toolkit</link>
-      <description>【Learn about the .NET Aspire Community Toolkit, a collection of tools and libraries that help you build with .NET Aspire.】了解 .NET Aspire 社区工具包，它是帮助您使用 .NET Aspire 进行构建的工具和库的集合。</description>
-      <pubDate>Wed, 13 Nov 2024 18:00:00 +0000</pubDate>
+      <title>【Working with Audio in Semantic Kernel Python】在语义内核 Python 中使用音频</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/working-with-audio-in-semantic-kernel-python</link>
+      <description>【We are pleased to announce the arrival of audio support in Semantic Kernel Python. This new audio functionality will enable you to create more interactive and accessible user experiences. In this blog post, I will detail the new interface, the existing connectors, and provide samples. Please continue reading for more information. Audio-to-Text The first feature [&amp;hellip;]】我们很高兴地宣布语义内核 Python 现已支持音频。这一新的音频功能将使您能够创建更具交互性和更易于访问的用户体验。在这篇博文中，我将详细介绍新接口、现有连接器，并提供示例。请继续阅读以获取更多信息。音频到文本的第一个功能 [...]</description>
+      <pubDate>Fri, 15 Nov 2024 16:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How do I put a non-copyable, non-movable, non-constructible object into a std::optional?】如何将不可复制、不可移动、不可构造的对象放入 std::Optional 中？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241115-00/?p=110527</link>
+      <description>【Taking advantage of the conversion operator.】利用转换运算符。</description>
+      <pubDate>Fri, 15 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft’s Agentic AI Frameworks: AutoGen and Semantic Kernel】微软的 Agentic AI 框架：AutoGen 和语义内核</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsofts-agentic-ai-frameworks-autogen-and-semantic-kernel</link>
+      <description>【Microsoft’s agentic AI frameworks, Semantic Kernel and AutoGen are deeply collaborating to provide the best-in-class agentic developer experience. With Semantic Kernel’s enterprise ready AI capabilities, customers can already use and get support for building agent applications and, moving forward, we’ll align the multi-agent runtime in AutoGen (called autogen-core) with Semantic Kernel, allowing customers to create [&amp;hellip;]】Microsoft 的代理 AI 框架、Semantic Kernel 和 AutoGen 正在深入合作，以提供一流的代理开发人员体验。借助 Semantic Kernel 的企业级 AI 功能，客户已经可以使用并获得构建代理应用程序的支持，并且展望未来，我们将把 AutoGen 中的多代理运行时（称为 autogen-core）与 Semantic Kernel 保持一致，从而允许客户创建 [ ……]</description>
+      <pubDate>Fri, 15 Nov 2024 16:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Allow users to talk and listen to your chatbot using Semantic Kernel Python】允许用户使用语义内核 Python 与您的聊天机器人交谈和聆听</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/allow-users-to-talk-and-listen-to-your-chatbot-using-semantic-kernel-python</link>
+      <description>【Until now, Semantic Kernel Python only allowed for the development of text-based AI applications. However, this is no longer the case, as we have expanded its capabilities to include audio as one of the supported modalities. In this article, I will provide a detailed, step-by-step guide on how to create a chatbot that can both [&amp;hellip;]】到目前为止，语义内核 Python 只允许开发基于文本的人工智能应用程序。然而，情况已不再是这样，因为我们已经扩展了其功能，将音频作为支持的模式之一。在本文中，我将提供详细的分步指南，介绍如何创建一个聊天机器人，该机器人可以 [...]</description>
+      <pubDate>Fri, 15 Nov 2024 16:54:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Accessing Private Resources in Azure】访问 Azure 中的私有资源</title>
+      <link>https://devblogs.microsoft.com/ise/accessing-private-resources-in-azure</link>
+      <description>【A practical guide for developers on connecting to Azure resources with private endpoints through a VPN.】为开发人员提供的有关通过 VPN 使用专用终结点连接到 Azure 资源的实用指南。</description>
+      <pubDate>Fri, 15 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Join Us at Microsoft Ignite: Unlock GitHub Copilot’s New Potential in Visual Studio】加入 Microsoft Ignite：释放 GitHub Copilot 在 Visual Studio 中的新潜力</title>
+      <link>https://devblogs.microsoft.com/visualstudio/join-us-at-microsoft-ignite-unlock-github-copilots-new-potential-in-visual-studio</link>
+      <description>【Get ready for an exciting Microsoft Ignite breakout session where we’re unveiling the latest advancements in GitHub Copilot in Visual Studio! Join Dalia Abo Sheasha, Jessie Houghton, and Scott Hanselman as they dive into how GitHub Copilot is evolving to help developers work smarter, collaborate better, and achieve more. Here’s a little preview of what [&amp;hellip;]】准备好参加激动人心的 Microsoft Ignite 分组会议，我们将在 Visual Studio 中揭晓 GitHub Copilot 的最新进展！与 Dalia Abo Sheasha、Jessie Houghton 和 Scott Hanselman 一起深入了解 GitHub Copilot 如何发展以帮助开发人员更智能地工作、更好地协作并取得更多成就。这是一些内容的预览 [...]</description>
+      <pubDate>Fri, 15 Nov 2024 16:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to use GitHub Copilot for Efficient Unit Test Creation】如何使用 GitHub Copilot 高效创建单元测试</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-to-use-github-copilot-for-efficient-unit-test-creation</link>
+      <description>【As developers, we know that writing comprehensive unit tests is crucial yet often tedious. GitHub Copilot Chat revolutionizes this process by serving as your intelligent testing companion right in your IDE. Let&amp;#8217;s explore how to maximize its potential for efficient and thorough test generation. The Testing Challenge: A Common Developer Pain Point Every developer has [&amp;hellip;]】作为开发人员，我们知道编写全面的单元测试至关重要，但往往很乏味。 GitHub Copilot Chat 在您的 IDE 中充当您的智能测试伴侣，彻底改变了这一过程。让我们探讨如何最大限度地发挥其高效、彻底的测试生成的潜力。测试挑战：常见的开发人员痛点 每个开发人员都有 [...]</description>
+      <pubDate>Fri, 15 Nov 2024 04:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) – November 2024】Azure 开发人员 CLI (azd) – 2024 年 11 月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-november-2024</link>
+      <description>【This post announces the November release of the Azure Developer CLI (`azd`).】本文宣布 11 月发布 Azure 开发人员 CLI (`azd`)。</description>
+      <pubDate>Thu, 14 Nov 2024 22:14:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
