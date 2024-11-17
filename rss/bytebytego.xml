@@ -5,28 +5,40 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How McDonald Sells Millions of Burgers Per Day With Event-Driven Architecture】麦当劳如何通过事件驱动架构每天销售数百万个汉堡</title>
-      <link>https://blog.bytebytego.com/p/how-mcdonald-sells-millions-of-burgers</link>
-      <description>【Cloud-scale monitoring with AWS and Datadog (Sponsored)】使用 AWS 和 Datadog 进行云规模监控（赞助）</description>
-      <pubDate>Tue, 05 Nov 2024 16:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP135: Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud】EP135：AWS、Azure 和 Google Cloud 的大数据管道备忘单</title>
-      <link>https://blog.bytebytego.com/p/ep135-big-data-pipeline-cheatsheet</link>
-      <description>【This week&amp;#8217;s system design interview:】本周的系统设计面试：</description>
-      <pubDate>Sat, 26 Oct 2024 15:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP136: The Ultimate DevOps Developer Roadmap】EP136：终极 DevOps 开发者路线图</title>
-      <link>https://blog.bytebytego.com/p/ep136-the-ultimate-devops-developer</link>
-      <description>【Generate Handwritten SDKs (Sponsored)】生成手写 SDK（赞助）</description>
-      <pubDate>Sat, 02 Nov 2024 15:30:55 +0000</pubDate>
+      <title>【1.8 Trillion Events Per Day with Kafka: How Agoda Handles it】Kafka 每天发生 1.8 万亿个事件：Agoda 如何应对</title>
+      <link>https://blog.bytebytego.com/p/18-trillion-events-per-day-with-kafka</link>
+      <description>【Cut Code Review Time &amp; Bugs into Half with CodeRabbit (Sponsored)】使用 CodeRabbit（赞助）将代码审查时间和错误减少一半</description>
+      <pubDate>Tue, 29 Oct 2024 15:30:48 +0000</pubDate>
     </item>
     <item>
       <title>【Storing 200 Billion Entities: Notion’s Data Lake Project】存储 2000 亿个实体：Notion 的数据湖项目</title>
       <link>https://blog.bytebytego.com/p/storing-200-billion-entities-notions</link>
       <description>【Data Modeling for Performance: Virtual Masterclass (Sponsored)】性能数据建模：虚拟大师班（赞助）</description>
       <pubDate>Tue, 12 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP138: How do AirTags work?】EP138：AirTags 如何工作？</title>
+      <link>https://blog.bytebytego.com/p/ep138-how-do-airtags-work</link>
+      <description>【WorkOS: Your app, Enterprise Ready.】WorkOS：您的应用程序，企业就绪。</description>
+      <pubDate>Sat, 16 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why Executives Seem Out of Touch, and How to Reach Them】为什么高管们似乎脱节以及如何与他们接触</title>
+      <link>https://blog.bytebytego.com/p/why-executives-seem-out-of-touch</link>
+      <description>【For this week&#39;s issue, I am pleased to introduce our guest author, Ethan Evans, an ex-Amazon VP who played a pivotal role in creating some of the groundbreaking services we use today, such as Prime Video, Amazon Video, the Amazon Appstore, Prime Gaming (formerly Twitch Prime), and Twitch Commerce.】对于本周的期刊，我很高兴向大家介绍我们的客座作者 Ethan Evans，他是一位前亚马逊副总裁，在创建我们今天使用的一些突破性服务方面发挥了关键作用，例如 Prime Video、Amazon Video、Amazon Appstore、 Prime Gaming（以前称为 Twitch Prime）和 Twitch Commerce。</description>
+      <pubDate>Thu, 31 Oct 2024 15:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP137: Proxy vs Reverse Proxy】EP137：代理与反向代理</title>
+      <link>https://blog.bytebytego.com/p/ep137-proxy-vs-reverse-proxy</link>
+      <description>【A forward proxy is a server that sits between user devices and the internet. A forward proxy is commonly used for:】转发代理是位于用户设备和互联网之间的服务器。转发代理通常用于：</description>
+      <pubDate>Sat, 09 Nov 2024 16:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP135: Big Data Pipeline Cheatsheet for AWS, Azure, and Google Cloud】EP135：AWS、Azure 和 Google Cloud 的大数据管道备忘单</title>
+      <link>https://blog.bytebytego.com/p/ep135-big-data-pipeline-cheatsheet</link>
+      <description>【This week&amp;#8217;s system design interview:】本周的系统设计面试：</description>
+      <pubDate>Sat, 26 Oct 2024 15:31:17 +0000</pubDate>
     </item>
     <item>
       <title>【Speedrunning Guide: Junior to Staff Engineer in 3 years】速通指南：3年初级工程师</title>
@@ -41,28 +53,16 @@
       <pubDate>Thu, 07 Nov 2024 16:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Why Executives Seem Out of Touch, and How to Reach Them】为什么高管们似乎脱节以及如何与他们接触</title>
-      <link>https://blog.bytebytego.com/p/why-executives-seem-out-of-touch</link>
-      <description>【For this week&#39;s issue, I am pleased to introduce our guest author, Ethan Evans, an ex-Amazon VP who played a pivotal role in creating some of the groundbreaking services we use today, such as Prime Video, Amazon Video, the Amazon Appstore, Prime Gaming (formerly Twitch Prime), and Twitch Commerce.】对于本周的期刊，我很高兴向大家介绍我们的客座作者 Ethan Evans，他是一位前亚马逊副总裁，在创建我们今天使用的一些突破性服务方面发挥了关键作用，例如 Prime Video、Amazon Video、Amazon Appstore、 Prime Gaming（以前称为 Twitch Prime）和 Twitch Commerce。</description>
-      <pubDate>Thu, 31 Oct 2024 15:31:21 +0000</pubDate>
+      <title>【EP136: The Ultimate DevOps Developer Roadmap】EP136：终极 DevOps 开发者路线图</title>
+      <link>https://blog.bytebytego.com/p/ep136-the-ultimate-devops-developer</link>
+      <description>【Generate Handwritten SDKs (Sponsored)】生成手写 SDK（赞助）</description>
+      <pubDate>Sat, 02 Nov 2024 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【1.8 Trillion Events Per Day with Kafka: How Agoda Handles it】Kafka 每天发生 1.8 万亿个事件：Agoda 如何应对</title>
-      <link>https://blog.bytebytego.com/p/18-trillion-events-per-day-with-kafka</link>
-      <description>【Cut Code Review Time &amp; Bugs into Half with CodeRabbit (Sponsored)】使用 CodeRabbit（赞助）将代码审查时间和错误减少一半</description>
-      <pubDate>Tue, 29 Oct 2024 15:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP137: Proxy vs Reverse Proxy】EP137：代理与反向代理</title>
-      <link>https://blog.bytebytego.com/p/ep137-proxy-vs-reverse-proxy</link>
-      <description>【A forward proxy is a server that sits between user devices and the internet. A forward proxy is commonly used for:】转发代理是位于用户设备和互联网之间的服务器。转发代理通常用于：</description>
-      <pubDate>Sat, 09 Nov 2024 16:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Event-Driven Architectural Patterns】事件驱动的架构模式</title>
-      <link>https://blog.bytebytego.com/p/event-driven-architectural-patterns</link>
-      <description>【Event-driven architecture (EDA) is a software design approach emphasizing the production, detection, consumption, and reaction to events.】事件驱动架构（EDA）是一种强调事件的产生、检测、消费和反应的软件设计方法。</description>
-      <pubDate>Thu, 24 Oct 2024 15:31:13 +0000</pubDate>
+      <title>【How McDonald Sells Millions of Burgers Per Day With Event-Driven Architecture】麦当劳如何通过事件驱动架构每天销售数百万个汉堡</title>
+      <link>https://blog.bytebytego.com/p/how-mcdonald-sells-millions-of-burgers</link>
+      <description>【Cloud-scale monitoring with AWS and Datadog (Sponsored)】使用 AWS 和 Datadog 进行云规模监控（赞助）</description>
+      <pubDate>Tue, 05 Nov 2024 16:31:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
