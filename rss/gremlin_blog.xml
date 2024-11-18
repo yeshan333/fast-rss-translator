@@ -12,26 +12,14 @@
     <item>
       <title>【Release Roundup August 2024: Set experiment guardrails with customizable RBAC】2024 年 8 月发布综述：使用可定制的 RBAC 设置实验护栏</title>
       <link>https://www.gremlin.com/blog/release-roundup-august-2024</link>
-      <description>【Custom role-based access controls (RBAC), improved proxy support, zone tags for Failure Flags, and much more! It’s all here in our August 2024 release roundup.】基于角色的自定义访问控制 (RBAC)、改进的代理支持、故障标志的区域标签等等！这一切都在我们的 2024 年 8 月版本综述中。</description>
+      <description>【Custom role-based access controls (RBAC), improved proxy support, zone tags for Failure Flags, and much more! It’s all here in our August 2024 release roundup.】自定义基于角色的访问控制 (RBAC)、改进的代理支持、故障标志的区域标签等等！这一切都在我们的 2024 年 8 月版本综述中。</description>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Reliability recommendations when adopting Kubernetes】采用 Kubernetes 时的可靠性建议</title>
-      <link>https://www.gremlin.com/blog/reliability-recommendations-when-adopting-kubernetes</link>
-      <description>【General reliability best practices when adopting Kubernetes.】采用 Kubernetes 时的一般可靠性最佳实践。</description>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How reliability engineering can verify disaster recovery plans】可靠性工程如何验证灾难恢复计划</title>
-      <link>https://www.gremlin.com/blog/how-reliability-engineering-can-verify-disaster-recovery-plans</link>
-      <description>【Learn how reliability engineering and Gremlin can help test your disaster recovery plans to make sure you’re prepared—and compliant with regulations.】了解可靠性工程和 Gremlin 如何帮助测试您的灾难恢复计划，以确保您做好准备并遵守法规。</description>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Seven tests to measure and improve reliability: what matters and how it works】衡量和提高可靠性的七项测试：重要因素及其工作原理</title>
-      <link>https://www.gremlin.com/blog/four-reliability-tests</link>
-      <description>【Learn how to take reliability from a &#34;nice to have&#34; to a standard operating practice within your organization. We&#39;ll show you seven easy tests you can use to start building resilient systems.】了解如何将可靠性从“可有可无”转变为组织内的标准操作实践。我们将向您展示七个可用于开始构建弹性系统的简单测试。</description>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <title>【Three serverless reliability risks you can solve today using Failure Flags】您现在可以使用故障标志解决三个无服务器可靠性风险</title>
+      <link>https://www.gremlin.com/blog/three-serverless-reliability-risks-you-can-solve-today-using-failure-flags</link>
+      <description>【Just because your app is serverless doesn’t mean you don’t need to think about reliability. Learn three of the top causes of serverless failures—and how to prevent them—in our latest blog.】仅仅因为您的应用程序是无服务器的，并不意味着您不需要考虑可靠性。在我们最新的博客中了解无服务器故障的三个主要原因以及如何预防它们。</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
@@ -40,16 +28,10 @@
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
-      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
-      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Three serverless reliability risks you can solve today using Failure Flags】您现在可以使用故障标志解决三个无服务器可靠性风险</title>
-      <link>https://www.gremlin.com/blog/three-serverless-reliability-risks-you-can-solve-today-using-failure-flags</link>
-      <description>【Just because your app is serverless doesn’t mean you don’t need to think about reliability. Learn three of the top causes of serverless failures—and how to prevent them—in our latest blog.】仅仅因为您的应用程序是无服务器的，并不意味着您不需要考虑可靠性。在我们最新的博客中了解无服务器故障的三个主要原因以及如何预防它们。</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <title>【How reliability engineering can verify disaster recovery plans】可靠性工程如何验证灾难恢复计划</title>
+      <link>https://www.gremlin.com/blog/how-reliability-engineering-can-verify-disaster-recovery-plans</link>
+      <description>【Learn how reliability engineering and Gremlin can help test your disaster recovery plans to make sure you’re prepared—and compliant with regulations.】了解可靠性工程和 Gremlin 如何帮助测试您的灾难恢复计划，以确保您做好准备并遵守法规。</description>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Chaos Engineering and Resilience Testing Tools: Build vs Buy】混沌工程和弹性测试工具：构建与购买</title>
@@ -62,6 +44,24 @@
       <link>https://www.gremlin.com/blog/best-practices-for-testing-zone-redundancy</link>
       <description>【Gremlin Principal Software Engineer Sam Rossoff shares key best practices and strategies for effectively testing zone redundancy.】Gremlin 首席软件工程师 Sam Rossoff 分享了有效测试区域冗余的关键最佳实践和策略。</description>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
+      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
+      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Seven tests to measure and improve reliability: what matters and how it works】衡量和提高可靠性的七项测试：重要因素及其工作原理</title>
+      <link>https://www.gremlin.com/blog/four-reliability-tests</link>
+      <description>【Learn how to take reliability from a &#34;nice to have&#34; to a standard operating practice within your organization. We&#39;ll show you seven easy tests you can use to start building resilient systems.】了解如何将可靠性从“可有可无”转变为组织内的标准操作实践。我们将向您展示七个可用于开始构建弹性系统的简单测试。</description>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reliability recommendations when adopting Kubernetes】采用 Kubernetes 时的可靠性建议</title>
+      <link>https://www.gremlin.com/blog/reliability-recommendations-when-adopting-kubernetes</link>
+      <description>【General reliability best practices when adopting Kubernetes.】采用 Kubernetes 时的一般可靠性最佳实践。</description>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
