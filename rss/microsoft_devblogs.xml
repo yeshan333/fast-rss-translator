@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Git tooling updates in Visual Studio 17.12】Visual Studio 17.12 中的 Git 工具更新</title>
-      <link>https://devblogs.microsoft.com/visualstudio/git-tooling-updates-in-visual-studio-17-12</link>
-      <description>【We are thrilled to announce the latest updates to Git tooling in Visual Studio, designed to enhance your development experience and streamline your workflow. These new features are in direct response to user feedback, ensuring that you have the tools you need to be more productive and efficient. For the full list, check out the [&amp;hellip;]】我们很高兴地宣布 Visual Studio 中的 Git 工具的最新更新，旨在增强您的开发体验并简化您的工作流程。这些新功能直接响应用户反馈，确保您拥有提高生产力和效率所需的工具。有关完整列表，请查看 [...]</description>
-      <pubDate>Mon, 18 Nov 2024 15:37:56 +0000</pubDate>
+      <title>【Leveraging Microsoft 365 Agents SDK with Semantic Kernel for Enhanced Multichannel AI】利用 Microsoft 365 Agents SDK 和语义内核来增强多通道 AI</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/leveraging-microsoft-365-agents-sdk-with-semantic-kernel-for-enhanced-multichannel-ai</link>
+      <description>【As the landscape of AI continues to evolve, meeting users where they are is vital. We want to spotlight the newly released Microsoft 365 Agents SDK and its seamless integration with Semantic Kernel. This powerful combination empowers developers to create robust AI agents that operate across various channels where users are already engaged. Extend the [&amp;hellip;]】随着人工智能领域的不断发展，满足用户的需求至关重要。我们希望重点介绍新发布的 Microsoft 365 Agents SDK 及其与语义内核的无缝集成。这种强大的组合使开发人员能够创建强大的人工智能代理，这些代理可以在用户已经参与的各种渠道上运行。延长 [...]</description>
+      <pubDate>Tue, 19 Nov 2024 15:16:13 +0000</pubDate>
     </item>
     <item>
-      <title>【PowerShell 7.5 RC-1 is now available】PowerShell 7.5 RC-1 现已推出</title>
-      <link>https://devblogs.microsoft.com/powershell/powershell-7-5-rc-1-is-now-available</link>
-      <description>【Availability of PowerShell 7.5 RC1】PowerShell 7.5 RC1 的可用性</description>
-      <pubDate>Mon, 18 Nov 2024 15:57:17 +0000</pubDate>
+      <title>【Announcing the Public Preview of AI Shell】宣布 AI Shell 公开预览版</title>
+      <link>https://devblogs.microsoft.com/powershell/announcing-the-public-preview-of-ai-shell</link>
+      <description>【We are pleased to announce the public preview of AI Shell.】我们很高兴地宣布 AI Shell 公开预览版。</description>
+      <pubDate>Tue, 19 Nov 2024 20:28:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Enhance Your .NET Developer Productivity with GitHub Copilot】使用 GitHub Copilot 提高 .NET 开发人员的工作效率</title>
-      <link>https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot</link>
-      <description>【Learn how to get started with GitHub Copilot for .NET development for AI assisted development in Visual Studio and Visual Studio Code】了解如何开始使用 GitHub Copilot 进行 .NET 开发，以在 Visual Studio 和 Visual Studio Code 中进行 AI 辅助开发</description>
-      <pubDate>Mon, 18 Nov 2024 18:05:00 +0000</pubDate>
+      <title>【Announcing LangChain integration for your SQL-based AI applications】宣布 LangChain 集成您基于 SQL 的 AI 应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore</link>
+      <description>【In today&amp;#8217;s data-driven world, the ability to seamlessly integrate various technologies is crucial for efficient data management and analysis. We’re excited to announce LangChain integration with Azure SQL Database and SQL database in Microsoft Fabric! LangChain, a powerful tool for building solutions with language models, can be effectively combined with these services to build AI-ready [&amp;hellip;]】在当今数据驱动的世界中，无缝集成各种技术的能力对于高效的数据管理和分析至关重要。我们很高兴地宣布 LangChain 与 Azure SQL 数据库和 Microsoft Fabric 中的 SQL 数据库集成！ LangChain 是一个使用语言模型构建解决方案的强大工具，可以有效地与这些服务结合起来，构建人工智能就绪的 […]</description>
+      <pubDate>Tue, 19 Nov 2024 16:00:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Software is a team sport: Building the future of software development together】软件是一项团队运动：共同构建软件开发的未来</title>
-      <link>https://devblogs.microsoft.com//building-the-future-of-software-development-together</link>
-      <description>【At Microsoft, we strive to build the world’s most beloved developer tools and services. Our vision is to empower every developer to transform their concepts into reality, from idea to code to cloud, at lightning speed. The Visual Studio family, Azure, GitHub, and GitHub Copilot empower developers around the world to do just that. Since [&amp;hellip;]】在 Microsoft，我们致力于打造世界上最受欢迎的开发人员工具和服务。我们的愿景是让每个开发人员能够以闪电般的速度将他们的概念转化为现实，从想法到代码到云。 Visual Studio 系列、Azure、GitHub 和 GitHub Copilot 使世界各地的开发人员能够做到这一点。自从 […]</description>
-      <pubDate>Mon, 18 Nov 2024 17:00:08 +0000</pubDate>
+      <title>【LangChain Integration for Vector Support for SQL-based AI applications】LangChain 集成为基于 SQL 的 AI 应用程序提供矢量支持</title>
+      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example</link>
+      <description>【LangChain Integration for Vector Support for Azure SQL and SQL database in Microsoft Fabric Microsoft SQL now supports native vector search capabilities in Azure SQL and SQL database in Microsoft Fabric. We also released the langchain-sqlserver package, enabling the management of SQL Server as a Vectorstore in LangChain. In this step-by-step tutorial, we will show [&amp;hellip;]】LangChain 集成对 Microsoft Fabric 中的 Azure SQL 和 SQL 数据库的矢量支持 Microsoft SQL 现在支持 Azure SQL 中的本机矢量搜索功能和 Microsoft Fabric 中的 SQL 数据库。我们还发布了langchain-sqlserver包，支持将SQL Server作为LangChain中的Vectorstore进行管理。在本分步教程中，我们将展示[...]</description>
+      <pubDate>Tue, 19 Nov 2024 16:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the General Availability of Managed DevOps Pools (MDP) for Azure DevOps】宣布面向 Azure DevOps 的托管 DevOps 池 (MDP) 全面推出</title>
-      <link>https://devblogs.microsoft.com/devops/managed-devops-pools-ga</link>
-      <description>【We are thrilled to announce that Managed DevOps Pools for Azure DevOps is now generally available! This milestone marks a significant advancement in our mission to improve developer productivity in the CI/CD loop, reduce your cloud bill for ES infra and to reduce the toil associated with creating and maintaining custom CI/CD infrastructure for your [&amp;hellip;]】我们很高兴地宣布，Azure DevOps 的托管 DevOps 池现已全面推出！这一里程碑标志着我们的使命取得了重大进展，即提高 CI/CD 循环中的开发人员生产力，减少 ES 基础设施的云费用，并减少与为您的 [...] 创建和维护自定义 CI/CD 基础设施相关的工作量。</description>
-      <pubDate>Mon, 18 Nov 2024 17:39:02 +0000</pubDate>
+      <title>【Introducing a new landing page and welcome tour for Microsoft developer portal!】Microsoft 开发人员门户推出新的登陆页面和欢迎导览！</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/introducing-a-new-landing-page-and-welcome-tour-for-microsoft-dev-box</link>
+      <description>【At Microsoft, we are dedicated to shaping a developer experience that is efficient, user-friendly, and tailored to your needs. With the new landing page and welcome tour, we’re excited to empower you to work more effectively and unlock new levels of productivity. Together, we’re building a platform that evolves with you. At Microsoft, we’re focused [&amp;hellip;]】在 Microsoft，我们致力于塑造高效、用户友好且根据您的需求量身定制的开发人员体验。通过新的登陆页面和欢迎导览，我们很高兴能够帮助您更有效地工作并释放新的生产力水平。我们正在共同构建一个与您一起发展的平台。在微软，我们专注于 [...]</description>
+      <pubDate>Tue, 19 Nov 2024 14:16:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft’s Agentic Frameworks: AutoGen and Semantic Kernel】微软的代理框架：AutoGen 和语义内核</title>
-      <link>https://devblogs.microsoft.com/autogen/microsofts-agentic-frameworks-autogen-and-semantic-kernel</link>
-      <description>【Microsoft’s agentic AI frameworks, Semantic Kernel and AutoGen are deeply collaborating to provide the best-in-class agentic developer experience. With Semantic Kernel’s enterprise ready AI capabilities, customers can already use and get support for building agent applications and, moving forward, we’ll align the multi-agent runtime in AutoGen (called autogen-core) with Semantic Kernel, allowing customers to create [&amp;hellip;]】Microsoft 的代理 AI 框架、Semantic Kernel 和 AutoGen 正在深入合作，以提供一流的代理开发人员体验。借助 Semantic Kernel 的企业级 AI 功能，客户已经可以使用并获得构建代理应用程序的支持，并且，展望未来，我们将把 AutoGen 中的多代理运行时（称为 autogen-core）与 Semantic Kernel 保持一致，从而允许客户创建 [ ……]</description>
-      <pubDate>Mon, 18 Nov 2024 15:50:54 +0000</pubDate>
+      <title>【A wrinkle in how Windows 95 setup bootstrapped its initial GUI step】Windows 95 安装程序如何引导其初始 GUI 步骤中的一个问题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241119-00/?p=110543</link>
+      <description>【Getting access to the common controls that don&#39;t exist until Windows 95.】访问 Windows 95 之前不存在的常用控件。</description>
+      <pubDate>Tue, 19 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Fujitsu Kozuchi AI Agent Powered by Semantic Kernel】客户案例研究：由语义内核提供支持的 Fujitsu Kozuchi AI Agent</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-fujitsu-kozuchi-ai-agent-powered-by-semantic-kernel</link>
-      <description>【Customer Case Study: Fujitsu Kozuchi AI Agent Powered by Semantic Kernel Japanese multinational Fujitsu, a pioneer of information and communications technology, has been transforming industries since 1935. With a workforce of 124,000 dedicated professionals across 50 countries, Fujitsu’s mission is to “make the world more sustainable by building trust in society through innovation.” After introducing [&amp;hellip;]】客户案例研究：由语义内核提供支持的 Fujitsu Kozuchi AI Agent 日本跨国公司富士通是信息和通信技术的先驱，自 1935 年以来一直在改变行业。富士通在 50 个国家/地区拥有 124,000 名敬业的专业人员，其使命是“创造世界”通过创新建立社会信任，从而实现可持续发展。”介绍后[...]</description>
-      <pubDate>Mon, 18 Nov 2024 20:00:30 +0000</pubDate>
+      <title>【Build AI apps faster and easier with SQL database in Fabric – now Public Preview!】使用 Fabric 中的 SQL 数据库更快、更轻松地构建 AI 应用程序 - 现已公开预览！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/build-ai-apps-faster-and-easier-with-sql-database-in-fabric-now-public-preview</link>
+      <description>【The SQL Server and Azure SQL team has embarked on a mission to make building AI apps faster and easier than ever, announcing the Public Preview of SQL database in Microsoft Fabric. This new simple, autonomous and secure, and optimized for AI service will help you in the era of AI, where 1 billion new [&amp;hellip;]】SQL Server 和 Azure SQL 团队的使命是让构建 AI 应用程序比以往更快、更轻松，并宣布在 Microsoft Fabric 中推出 SQL 数据库的公共预览版。这种新的简单、自主、安全且针对人工智能优化的服务将帮助您进入人工智能时代，其中有 10 亿新 […]</description>
+      <pubDate>Tue, 19 Nov 2024 14:15:08 +0000</pubDate>
     </item>
     <item>
-      <title>【Allow users to talk and listen to your chatbot using Semantic Kernel Python】允许用户使用语义内核 Python 与您的聊天机器人交谈和聆听</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/allow-users-to-talk-and-listen-to-your-chatbot-using-semantic-kernel-python</link>
-      <description>【Until now, Semantic Kernel Python only allowed for the development of text-based AI applications. However, this is no longer the case, as we have expanded its capabilities to include audio as one of the supported modalities. In this article, I will provide a detailed, step-by-step guide on how to create a chatbot that can both [&amp;hellip;]】到目前为止，语义内核 Python 只允许开发基于文本的人工智能应用程序。然而，情况已不再是这样，因为我们已经扩展了其功能，将音频作为支持的模式之一。在本文中，我将提供详细的分步指南，介绍如何创建一个聊天机器人，该机器人可以 [...]</description>
-      <pubDate>Fri, 15 Nov 2024 16:54:18 +0000</pubDate>
+      <title>【Azure Cosmos DB Shines at Microsoft Ignite 2024!】Azure Cosmos DB 在 Microsoft Ignite 2024 上大放异彩！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-shines-at-microsoft-ignite-2024</link>
+      <description>【Microsoft Ignite 2024 took over the Windy City this week, bringing with it new technological innovation and exciting product announcements aplenty! If you missed the first day of the show, don&amp;#8217;t worry – we’ve got you covered with all the latest and greatest Azure Cosmos DB news. This year&amp;#8217;s event saw great enthusiasm and attendance [&amp;hellip;]】Microsoft Ignite 2024 本周接管了风城，带来了新的技术创新和令人兴奋的产品发布！如果您错过了展会的第一天，请不要担心 – 我们为您提供了所有最新、最精彩的 Azure Cosmos DB 新闻。今年的活动热情高涨，出席人数众多 […]</description>
+      <pubDate>Tue, 19 Nov 2024 23:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【The operations for reading and writing single elements for C++ standard library maps】C++标准库映射的单个元素读写操作</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241118-00/?p=110535</link>
-      <description>【Breaking down the options.】分解选项。</description>
-      <pubDate>Mon, 18 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【VisualStudio.Extensibility 17.12: CodeLens support is here!】VisualStudio.Extensibility 17.12：CodeLens 支持现已推出！</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here</link>
+      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow users like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance and reliability, and can be installed without the need to restart Visual Studio. Additional [&amp;hellip;]】我们继续投资 VisualStudio.Extensibility SDK，让像您这样的用户能够创建比以往运行得更快、更流畅的扩展！ VisualStudio.Extensibility 可帮助您构建在主 Visual Studio IDE 进程之外运行的扩展，以提高性能和可靠性，并且无需重新启动 Visual Studio 即可安装。额外的 […]</description>
+      <pubDate>Tue, 19 Nov 2024 15:28:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Zipp by Sticos – Powered by Semantic Kernel】客户案例研究：Sticos 的 Zipp – 由 Semantic Kernel 提供支持</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-zipp-by-sticos-powered-by-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re featuring Sticos on our Semantic Kernel blog to highlight their customer journey with AI and Semantic Kernel. Who is Sticos Company focused on helping Norwegian businesses, communes, accountants, and auditors understand regulations since 1983 Sticos covers the market from Rv9 in Trondheim Sticos is a part of Visma company since 2021, with 127 [&amp;hellip;]】今天，我们在 Semantic Kernel 博客上重点介绍 Sticos，以重点介绍他们使用 AI 和 Semantic Kernel 的客户旅程。 Sticos 公司是谁，自 1983 年以来一直致力于帮助挪威企业、公社、会计师和审计师了解法规 Sticos 从特隆赫姆的 Rv9 开始覆盖市场 Sticos 自 2021 年起成为 Visma 公司的一部分，拥有 127 [...]</description>
-      <pubDate>Tue, 19 Nov 2024 01:18:39 +0000</pubDate>
+      <title>【What’s new for Office Add-ins at Ignite 2024】Ignite 2024 上的 Office 加载项新增功能</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-ignite-2024</link>
+      <description>【The Office Platform team has been busy working on improvements to the platform since we last reported. This blog covers the new features from the office-js team announced at Ignite 2024.】自我们上次报道以来，Office 平台团队一直忙于对该平台进行改进。本博客介绍了 Office-js 团队在 Ignite 2024 上宣布的新功能。</description>
+      <pubDate>Tue, 19 Nov 2024 20:00:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
