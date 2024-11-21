@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Leveraging Microsoft 365 Agents SDK with Semantic Kernel for Enhanced Multichannel AI】利用 Microsoft 365 Agents SDK 和语义内核来增强多通道 AI</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/leveraging-microsoft-365-agents-sdk-with-semantic-kernel-for-enhanced-multichannel-ai</link>
-      <description>【As the landscape of AI continues to evolve, meeting users where they are is vital. We want to spotlight the newly released Microsoft 365 Agents SDK and its seamless integration with Semantic Kernel. This powerful combination empowers developers to create robust AI agents that operate across various channels where users are already engaged. Extend the [&amp;hellip;]】随着人工智能领域的不断发展，满足用户的需求至关重要。我们希望重点介绍新发布的 Microsoft 365 Agents SDK 及其与语义内核的无缝集成。这种强大的组合使开发人员能够创建强大的人工智能代理，这些代理可以在用户已经参与的各种渠道上运行。延长 [...]</description>
-      <pubDate>Tue, 19 Nov 2024 15:16:13 +0000</pubDate>
+      <title>【Announcing LangChain integration for your SQL-based AI applications】宣布 LangChain 集成您基于 SQL 的 AI 应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore</link>
+      <description>【In today&amp;#8217;s data-driven world, the ability to seamlessly integrate various technologies is crucial for efficient data management and analysis. We’re excited to announce LangChain integration with Azure SQL Database and SQL database in Microsoft Fabric! LangChain, a powerful tool for building solutions with language models, can be effectively combined with these services to build AI-ready [&amp;hellip;]】在当今数据驱动的世界中，无缝集成各种技术的能力对于高效的数据管理和分析至关重要。我们很高兴地宣布 LangChain 与 Azure SQL 数据库和 Microsoft Fabric 中的 SQL 数据库集成！ LangChain 是一个使用语言模型构建解决方案的强大工具，可以有效地与这些服务结合起来，构建人工智能就绪的 […]</description>
+      <pubDate>Tue, 19 Nov 2024 16:00:33 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing the Public Preview of AI Shell】宣布 AI Shell 公开预览版</title>
@@ -16,34 +16,22 @@
       <pubDate>Tue, 19 Nov 2024 20:28:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing LangChain integration for your SQL-based AI applications】宣布 LangChain 集成您基于 SQL 的 AI 应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore</link>
-      <description>【In today&amp;#8217;s data-driven world, the ability to seamlessly integrate various technologies is crucial for efficient data management and analysis. We’re excited to announce LangChain integration with Azure SQL Database and SQL database in Microsoft Fabric! LangChain, a powerful tool for building solutions with language models, can be effectively combined with these services to build AI-ready [&amp;hellip;]】在当今数据驱动的世界中，无缝集成各种技术的能力对于高效的数据管理和分析至关重要。我们很高兴地宣布 LangChain 与 Azure SQL 数据库和 Microsoft Fabric 中的 SQL 数据库集成！ LangChain 是一个使用语言模型构建解决方案的强大工具，可以有效地与这些服务结合起来，构建人工智能就绪的 […]</description>
-      <pubDate>Tue, 19 Nov 2024 16:00:33 +0000</pubDate>
+      <title>【Introducing the enhanced MSSQL Extension for Visual Studio Code】介绍 Visual Studio Code 的增强型 MSSQL 扩展</title>
+      <link>https://devblogs.microsoft.com/azure-sql/mssql-extension-visual-studio-code</link>
+      <description>【The MSSQL extension for Visual Studio Code is designed to support developers in building applications that use Azure SQL (including Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure VMs), SQL Database in Fabric (Preview) or SQL Server as backend databases. With a comprehensive suite of features for connecting to databases, designing [&amp;hellip;]】Visual Studio Code 的 MSSQL 扩展旨在支持开发人员构建使用 Azure SQL（包括 Azure SQL 数据库、Azure SQL 托管实例和 Azure VM 上的 SQL Server）、Fabric 中的 SQL 数据库（预览版）或 SQL Server 作为后端的应用程序数据库。具有用于连接数据库的全面功能套件，设计[...]</description>
+      <pubDate>Wed, 20 Nov 2024 19:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>【LangChain Integration for Vector Support for SQL-based AI applications】LangChain 集成为基于 SQL 的 AI 应用程序提供矢量支持</title>
-      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example</link>
-      <description>【LangChain Integration for Vector Support for Azure SQL and SQL database in Microsoft Fabric Microsoft SQL now supports native vector search capabilities in Azure SQL and SQL database in Microsoft Fabric. We also released the langchain-sqlserver package, enabling the management of SQL Server as a Vectorstore in LangChain. In this step-by-step tutorial, we will show [&amp;hellip;]】LangChain 集成对 Microsoft Fabric 中的 Azure SQL 和 SQL 数据库的矢量支持 Microsoft SQL 现在支持 Azure SQL 中的本机矢量搜索功能和 Microsoft Fabric 中的 SQL 数据库。我们还发布了langchain-sqlserver包，支持将SQL Server作为LangChain中的Vectorstore进行管理。在本分步教程中，我们将展示[...]</description>
-      <pubDate>Tue, 19 Nov 2024 16:00:09 +0000</pubDate>
+      <title>【dotnet scaffold – Next Generation Project Creation for .NET】dotnet 脚手架 – .NET 的下一代项目创建</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold</link>
+      <description>【Introducing a new command line tool dotnet scaffold, a new interactive way to create projects in .NET.】引入新的命令行工具 dotnetscaffold，这是一种在 .NET 中创建项目的新交互方式。</description>
+      <pubDate>Wed, 20 Nov 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing a new landing page and welcome tour for Microsoft developer portal!】Microsoft 开发人员门户推出新的登陆页面和欢迎导览！</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/introducing-a-new-landing-page-and-welcome-tour-for-microsoft-dev-box</link>
-      <description>【At Microsoft, we are dedicated to shaping a developer experience that is efficient, user-friendly, and tailored to your needs. With the new landing page and welcome tour, we’re excited to empower you to work more effectively and unlock new levels of productivity. Together, we’re building a platform that evolves with you. At Microsoft, we’re focused [&amp;hellip;]】在 Microsoft，我们致力于塑造高效、用户友好且根据您的需求量身定制的开发人员体验。通过新的登陆页面和欢迎导览，我们很高兴能够帮助您更有效地工作并释放新的生产力水平。我们正在共同构建一个与您一起发展的平台。在微软，我们专注于 [...]</description>
-      <pubDate>Tue, 19 Nov 2024 14:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A wrinkle in how Windows 95 setup bootstrapped its initial GUI step】Windows 95 安装程序如何引导其初始 GUI 步骤中的一个问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241119-00/?p=110543</link>
-      <description>【Getting access to the common controls that don&#39;t exist until Windows 95.】访问 Windows 95 之前不存在的常用控件。</description>
-      <pubDate>Tue, 19 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build AI apps faster and easier with SQL database in Fabric – now Public Preview!】使用 Fabric 中的 SQL 数据库更快、更轻松地构建 AI 应用程序 - 现已公开预览！</title>
-      <link>https://devblogs.microsoft.com/azure-sql/build-ai-apps-faster-and-easier-with-sql-database-in-fabric-now-public-preview</link>
-      <description>【The SQL Server and Azure SQL team has embarked on a mission to make building AI apps faster and easier than ever, announcing the Public Preview of SQL database in Microsoft Fabric. This new simple, autonomous and secure, and optimized for AI service will help you in the era of AI, where 1 billion new [&amp;hellip;]】SQL Server 和 Azure SQL 团队的使命是让构建 AI 应用程序比以往更快、更轻松，并宣布在 Microsoft Fabric 中推出 SQL 数据库的公共预览版。这种新的简单、自主、安全且针对人工智能优化的服务将帮助您进入人工智能时代，其中有 10 亿新 […]</description>
-      <pubDate>Tue, 19 Nov 2024 14:15:08 +0000</pubDate>
+      <title>【How do I determine whether Explorer is showing or hiding file extensions?】如何确定资源管理器是显示还是隐藏文件扩展名？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241120-00/?p=110547</link>
+      <description>【You can ask, but maybe you&#39;re asking the wrong question.】你可以问，但也许你问错了问题。</description>
+      <pubDate>Wed, 20 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Cosmos DB Shines at Microsoft Ignite 2024!】Azure Cosmos DB 在 Microsoft Ignite 2024 上大放异彩！</title>
@@ -52,16 +40,28 @@
       <pubDate>Tue, 19 Nov 2024 23:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【VisualStudio.Extensibility 17.12: CodeLens support is here!】VisualStudio.Extensibility 17.12：CodeLens 支持现已推出！</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here</link>
-      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow users like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance and reliability, and can be installed without the need to restart Visual Studio. Additional [&amp;hellip;]】我们继续投资 VisualStudio.Extensibility SDK，让像您这样的用户能够创建比以往运行得更快、更流畅的扩展！ VisualStudio.Extensibility 可帮助您构建在主 Visual Studio IDE 进程之外运行的扩展，以提高性能和可靠性，并且无需重新启动 Visual Studio 即可安装。额外的 […]</description>
-      <pubDate>Tue, 19 Nov 2024 15:28:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【What’s new for Office Add-ins at Ignite 2024】Ignite 2024 上的 Office 加载项新增功能</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-ignite-2024</link>
       <description>【The Office Platform team has been busy working on improvements to the platform since we last reported. This blog covers the new features from the office-js team announced at Ignite 2024.】自我们上次报道以来，Office 平台团队一直忙于对该平台进行改进。本博客介绍了 Office-js 团队在 Ignite 2024 上宣布的新功能。</description>
       <pubDate>Tue, 19 Nov 2024 20:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the new Linux-based Azure Cosmos DB Emulator (Preview)】推出新的基于 Linux 的 Azure Cosmos DB 模拟器（预览版）</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-the-new-linux-based-azure-cosmos-db-emulator-preview</link>
+      <description>【We are excited to announce the preview release of the new Linux-based Azure Cosmos DB Emulator! This latest version is built to provide faster startup times and broader platform compatibility, addressing one of the most requested features in the Azure Cosmos DB User Voice community. The emulator can now seamlessly run on Apple silicon and [&amp;hellip;]】我们很高兴地宣布推出基于 Linux 的新 Azure Cosmos DB 模拟器的预览版！此最新版本旨在提供更快的启动时间和更广泛的平台兼容性，解决 Azure Cosmos DB 用户语音社区中最需要的功能之一。该模拟器现在可以在 Apple 芯片上无缝运行，并且 [...]</description>
+      <pubDate>Wed, 20 Nov 2024 15:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【LangChain Integration for Vector Support for SQL-based AI applications】LangChain 集成为基于 SQL 的 AI 应用程序提供矢量支持</title>
+      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example</link>
+      <description>【LangChain Integration for Vector Support for Azure SQL and SQL database in Microsoft Fabric Microsoft SQL now supports native vector search capabilities in Azure SQL and SQL database in Microsoft Fabric. We also released the langchain-sqlserver package, enabling the management of SQL Server as a Vectorstore in LangChain. In this step-by-step tutorial, we will show [&amp;hellip;]】LangChain 集成对 Microsoft Fabric 中的 Azure SQL 和 SQL 数据库的矢量支持 Microsoft SQL 现在支持 Azure SQL 中的本机矢量搜索功能和 Microsoft Fabric 中的 SQL 数据库。我们还发布了langchain-sqlserver包，支持将SQL Server作为LangChain中的Vectorstore进行管理。在本分步教程中，我们将展示[...]</description>
+      <pubDate>Tue, 19 Nov 2024 16:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Copy files across instances of Visual Studio】跨 Visual Studio 实例复制文件</title>
+      <link>https://devblogs.microsoft.com/visualstudio/copy-files-across-instances-of-visual-studio</link>
+      <description>【Transferring code files between different instances of Visual Studio has often been a tedious task. To simplify this process, Visual Studio 2022 now includes a feature that allows you to easily copy and paste code files and folders between instances using the Solution Explorer. This enhancement aims to streamline workflow and save time. Until now, [&amp;hellip;]】在 Visual Studio 的不同实例之间传输代码文件通常是一项繁琐的任务。为了简化此过程，Visual Studio 2022 现在包含一项功能，允许您使用解决方案资源管理器在实例之间轻松复制和粘贴代码文件和文件夹。此增强功能旨在简化工作流程并节省时间。到目前为止， […]</description>
+      <pubDate>Wed, 20 Nov 2024 13:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
