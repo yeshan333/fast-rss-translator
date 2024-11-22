@@ -4,25 +4,37 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Announcing LangChain integration for your SQL-based AI applications】宣布 LangChain 集成您基于 SQL 的 AI 应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore</link>
-      <description>【In today&amp;#8217;s data-driven world, the ability to seamlessly integrate various technologies is crucial for efficient data management and analysis. We’re excited to announce LangChain integration with Azure SQL Database and SQL database in Microsoft Fabric! LangChain, a powerful tool for building solutions with language models, can be effectively combined with these services to build AI-ready [&amp;hellip;]】在当今数据驱动的世界中，无缝集成各种技术的能力对于高效的数据管理和分析至关重要。我们很高兴地宣布 LangChain 与 Azure SQL 数据库和 Microsoft Fabric 中的 SQL 数据库集成！ LangChain 是一个使用语言模型构建解决方案的强大工具，可以有效地与这些服务结合起来，构建人工智能就绪的 […]</description>
-      <pubDate>Tue, 19 Nov 2024 16:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the Public Preview of AI Shell】宣布 AI Shell 公开预览版</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-the-public-preview-of-ai-shell</link>
-      <description>【We are pleased to announce the public preview of AI Shell.】我们很高兴地宣布 AI Shell 公开预览版。</description>
-      <pubDate>Tue, 19 Nov 2024 20:28:06 +0000</pubDate>
-    </item>
-    <item>
       <title>【Introducing the enhanced MSSQL Extension for Visual Studio Code】介绍 Visual Studio Code 的增强型 MSSQL 扩展</title>
       <link>https://devblogs.microsoft.com/azure-sql/mssql-extension-visual-studio-code</link>
       <description>【The MSSQL extension for Visual Studio Code is designed to support developers in building applications that use Azure SQL (including Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure VMs), SQL Database in Fabric (Preview) or SQL Server as backend databases. With a comprehensive suite of features for connecting to databases, designing [&amp;hellip;]】Visual Studio Code 的 MSSQL 扩展旨在支持开发人员构建使用 Azure SQL（包括 Azure SQL 数据库、Azure SQL 托管实例和 Azure VM 上的 SQL Server）、Fabric 中的 SQL 数据库（预览版）或 SQL Server 作为后端的应用程序数据库。具有用于连接数据库的全面功能套件，设计[...]</description>
       <pubDate>Wed, 20 Nov 2024 19:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>【dotnet scaffold – Next Generation Project Creation for .NET】dotnet 脚手架 – .NET 的下一代项目创建</title>
+      <title>【Introducing the new Linux-based Azure Cosmos DB Emulator (Preview)】推出新的基于 Linux 的 Azure Cosmos DB 模拟器（预览版）</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-the-new-linux-based-azure-cosmos-db-emulator-preview</link>
+      <description>【We are excited to announce the preview release of the new Linux-based Azure Cosmos DB Emulator! This latest version is built to provide faster startup times and broader platform compatibility, addressing one of the most requested features in the Azure Cosmos DB User Voice community. The emulator can now seamlessly run on Apple silicon and [&amp;hellip;]】我们很高兴地宣布推出基于 Linux 的新 Azure Cosmos DB 模拟器的预览版！此最新版本旨在提供更快的启动时间和更广泛的平台兼容性，解决 Azure Cosmos DB 用户语音社区中最需要的功能之一。该模拟器现在可以在 Apple 芯片上无缝运行，并且 [...]</description>
+      <pubDate>Wed, 20 Nov 2024 15:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Elasticsearch Connector】客户案例研究：推出 Microsoft Semantic Kernel Elasticsearch Connector</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-announcing-the-microsoft-semantic-kernel-elasticsearch-connector</link>
+      <description>【Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch connector. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi to dive into it. In collaboration with the Microsoft Semantic Kernel team, we are announcing the availability of Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel (.NET) users. [&amp;hellip;]】今天，我们很高兴邀请 Elastic 团队分享有关其 Semantic Kernel Elasticsearch 连接器的更多信息。请在此处阅读整个公告。我会把它交给 Srikanth Manvi 来深入研究。我们与 Microsoft Semantic Kernel 团队合作，宣布向 Microsoft Semantic Kernel (.NET) 用户推出 Semantic Kernel Elasticsearch Vector Store 连接器。 […]</description>
+      <pubDate>Thu, 21 Nov 2024 19:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I detect which menu my item was invoked from?】如何检测我的项目是从哪个菜单调用的？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241121-00/?p=110554</link>
+      <description>【Just give them all different IDs. But this might itself by an XY problem.】只需给他们不同的 ID 即可。但这本身可能是由 XY 问题造成的。</description>
+      <pubDate>Thu, 21 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Making you more productive with Visual Studio v17.12】使用 Visual Studio v17.12 提高您的工作效率</title>
+      <link>https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12</link>
+      <description>【The 12th update to Visual Studio 2022 is packed with lots of exciting new features that users have been asking for! Here are some of the awesome highlights from this release that are some of my personal favorites. For all the details, be sure to check out our release notes. Copy from the Error List [&amp;hellip;]】Visual Studio 2022 的第 12 次更新包含许多用户一直要求的令人兴奋的新功能！以下是此版本中的一些精彩亮点，也是我个人最喜欢的一些。有关所有详细信息，请务必查看我们的发行说明。从错误列表复制[...]</description>
+      <pubDate>Thu, 21 Nov 2024 13:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【dotnet scaffold – Next Generation Content Creation for .NET】dotnet 脚手架 – .NET 的下一代内容创建</title>
       <link>https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold</link>
       <description>【Introducing a new command line tool dotnet scaffold, a new interactive way to create projects in .NET.】引入新的命令行工具 dotnetscaffold，这是一种在 .NET 中创建项目的新交互方式。</description>
       <pubDate>Wed, 20 Nov 2024 16:00:00 +0000</pubDate>
@@ -34,34 +46,22 @@
       <pubDate>Wed, 20 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Shines at Microsoft Ignite 2024!】Azure Cosmos DB 在 Microsoft Ignite 2024 上大放异彩！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-shines-at-microsoft-ignite-2024</link>
-      <description>【Microsoft Ignite 2024 took over the Windy City this week, bringing with it new technological innovation and exciting product announcements aplenty! If you missed the first day of the show, don&amp;#8217;t worry – we’ve got you covered with all the latest and greatest Azure Cosmos DB news. This year&amp;#8217;s event saw great enthusiasm and attendance [&amp;hellip;]】Microsoft Ignite 2024 本周接管了风城，带来了新的技术创新和令人兴奋的产品发布！如果您错过了展会的第一天，请不要担心 – 我们为您提供了所有最新、最精彩的 Azure Cosmos DB 新闻。今年的活动热情高涨，出席人数众多 […]</description>
-      <pubDate>Tue, 19 Nov 2024 23:00:43 +0000</pubDate>
+      <title>【Java Intelligent Application Templates in the Azure AI Gallery】Azure AI 库中的 Java 智能应用程序模板</title>
+      <link>https://devblogs.microsoft.com/java/java-intelligent-application-templates-in-the-azure-ai-gallery</link>
+      <description>【Artificial Intelligence (AI) is no longer a futuristic concept—it’s transforming how developers build and innovate applications today. To help Java developers harness the full potential of AI, Microsoft’s Azure AI App Templates gallery offers a growing collection of AI-powered application templates. These templates are designed to streamline development, showcase integration patterns, and accelerate your AI [&amp;hellip;]】人工智能 (AI) 不再是一个未来概念，它正在改变当今开发人员构建和创新应用程序的方式。为了帮助 Java 开发人员充分利用 AI 的潜力，Microsoft 的 Azure AI 应用程序模板库提供了越来越多的 AI 支持的应用程序模板。这些模板旨在简化开发、展示集成模式并加速您的 AI [...]</description>
+      <pubDate>Thu, 21 Nov 2024 21:47:15 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s new for Office Add-ins at Ignite 2024】Ignite 2024 上的 Office 加载项新增功能</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-ignite-2024</link>
-      <description>【The Office Platform team has been busy working on improvements to the platform since we last reported. This blog covers the new features from the office-js team announced at Ignite 2024.】自我们上次报道以来，Office 平台团队一直忙于对该平台进行改进。本博客介绍了 Office-js 团队在 Ignite 2024 上宣布的新功能。</description>
-      <pubDate>Tue, 19 Nov 2024 20:00:38 +0000</pubDate>
+      <title>【Announcing the GA Release of the OpenAPI Plugin for .NET and Python in Semantic Kernel】宣布语义内核中适用于 .NET 和 Python 的 OpenAPI 插件正式发布</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-the-openapi-plugin-for-net-and-python-in-semantic-kernel</link>
+      <description>【We are thrilled to announce the General Availability (GA) release of the OpenAPI package for Semantic Kernel, available for both .NET and Python! With this significant milestone, developers can easily integrate existing APIs as plugins, enhancing the capabilities of their AI agents while making them more versatile in real-world applications. Why OpenAPI Plugins Matter In [&amp;hellip;]】我们很高兴地宣布语义内核 OpenAPI 包的通用版 (GA) 版本，可用于 .NET 和 Python！凭借这一重要的里程碑，开发人员可以轻松地将现有 API 作为插件集成，增强人工智能代理的功能，同时使它们在实际应用中更加通用。为什么 OpenAPI 插件在 [...]</description>
+      <pubDate>Thu, 21 Nov 2024 19:04:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the new Linux-based Azure Cosmos DB Emulator (Preview)】推出新的基于 Linux 的 Azure Cosmos DB 模拟器（预览版）</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/introducing-the-new-linux-based-azure-cosmos-db-emulator-preview</link>
-      <description>【We are excited to announce the preview release of the new Linux-based Azure Cosmos DB Emulator! This latest version is built to provide faster startup times and broader platform compatibility, addressing one of the most requested features in the Azure Cosmos DB User Voice community. The emulator can now seamlessly run on Apple silicon and [&amp;hellip;]】我们很高兴地宣布推出基于 Linux 的新 Azure Cosmos DB 模拟器的预览版！此最新版本旨在提供更快的启动时间和更广泛的平台兼容性，解决 Azure Cosmos DB 用户语音社区中最需要的功能之一。该模拟器现在可以在 Apple 芯片上无缝运行，并且 [...]</description>
-      <pubDate>Wed, 20 Nov 2024 15:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LangChain Integration for Vector Support for SQL-based AI applications】LangChain 集成为基于 SQL 的 AI 应用程序提供矢量支持</title>
-      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example</link>
-      <description>【LangChain Integration for Vector Support for Azure SQL and SQL database in Microsoft Fabric Microsoft SQL now supports native vector search capabilities in Azure SQL and SQL database in Microsoft Fabric. We also released the langchain-sqlserver package, enabling the management of SQL Server as a Vectorstore in LangChain. In this step-by-step tutorial, we will show [&amp;hellip;]】LangChain 集成对 Microsoft Fabric 中的 Azure SQL 和 SQL 数据库的矢量支持 Microsoft SQL 现在支持 Azure SQL 中的本机矢量搜索功能和 Microsoft Fabric 中的 SQL 数据库。我们还发布了langchain-sqlserver包，支持将SQL Server作为LangChain中的Vectorstore进行管理。在本分步教程中，我们将展示[...]</description>
-      <pubDate>Tue, 19 Nov 2024 16:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Copy files across instances of Visual Studio】跨 Visual Studio 实例复制文件</title>
-      <link>https://devblogs.microsoft.com/visualstudio/copy-files-across-instances-of-visual-studio</link>
-      <description>【Transferring code files between different instances of Visual Studio has often been a tedious task. To simplify this process, Visual Studio 2022 now includes a feature that allows you to easily copy and paste code files and folders between instances using the Solution Explorer. This enhancement aims to streamline workflow and save time. Until now, [&amp;hellip;]】在 Visual Studio 的不同实例之间传输代码文件通常是一项繁琐的任务。为了简化此过程，Visual Studio 2022 现在包含一项功能，允许您使用解决方案资源管理器在实例之间轻松复制和粘贴代码文件和文件夹。此增强功能旨在简化工作流程并节省时间。到目前为止， […]</description>
-      <pubDate>Wed, 20 Nov 2024 13:00:30 +0000</pubDate>
+      <title>【Announcing the GA Release of Filters for .NET and Python in Semantic Kernel】宣布在语义内核中全面发布 .NET 和 Python 过滤器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-filters-for-net-and-python-in-semantic-kernel</link>
+      <description>【We are excited to announce the General Availability (GA) release of Filters for our .NET and Python Semantic Kernel! This vital enhancement strengthens the control and visibility developers have when running functions, ensuring responsible AI practices are instilled from the ground up. Filters not only improve security but also contribute to building enterprise-ready solutions that [&amp;hellip;]】我们很高兴地宣布我们的 .NET 和 Python 语义内核的过滤器正式发布 (GA)！这一重要的增强增强了开发人员在运行功能时的控制力和可见性，确保从头开始灌输负责任的人工智能实践。过滤器不仅可以提高安全性，还有助于构建企业就绪的解决方案，[...]</description>
+      <pubDate>Thu, 21 Nov 2024 21:18:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
