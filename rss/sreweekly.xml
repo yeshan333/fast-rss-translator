@@ -4,16 +4,22 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #449】SRE 周刊第 #449 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-449/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE &amp;#8211; A Journey to Master Site Reliability Engineering This new series seems promising! I won&amp;#8217;t link to every article in the series here, but if you&amp;#8217;re [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 宣布：52 周的 SRE – 掌握站点可靠性工程的旅程 这个新系列似乎很有前途！我不会在这里链接到该系列中的每篇文章，但如果您 [...]</description>
-      <pubDate>Mon, 04 Nov 2024 02:14:10 +0000</pubDate>
+      <title>【SRE Weekly Issue #451】SRE 周刊第 #451 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-451/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ DEATHTRAP! The Strange story of Air France flight 736 Most fascinating air incident report I&amp;#8217;ve seen in awhile! The pilots deviated from the non-normal checklist, and it immediately made me think [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 死亡陷阱！法航 736 航班的奇怪故事 我一段时间以来见过的最精彩的航空事故报告！飞行员偏离了非正常检查表，这立即让我想到 [...]</description>
+      <pubDate>Mon, 18 Nov 2024 02:11:31 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #448】SRE 周刊 #448</title>
       <link>https://sreweekly.com/sre-weekly-issue-448/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ What Platform Engineering Meant for Adidas’s SREs They traded their monolith for microservices in a quest for scalability, but they got complexity along with it. &amp;#160;&amp;#160; Jennifer Riggins &amp;#8212; The New [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 平台工程对阿迪达斯的 SRE 意味着什么 他们为了追求可扩展性而将单体系统换成了微服务，但随之而来的是复杂性。    詹妮弗·里金斯——新[…]</description>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ What Platform Engineering Meant for Adidas’s SREs They traded their monolith for microservices in a quest for scalability, but they got complexity along with it. &amp;#160;&amp;#160; Jennifer Riggins &amp;#8212; The New [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 平台工程对阿迪达斯的 SRE 意味着什么 他们为了追求可扩展性而将单体架构换成了微服务，但随之而来的是复杂性。    詹妮弗·里金斯——新[…]</description>
       <pubDate>Mon, 28 Oct 2024 01:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #452】SRE 周刊第 #452 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-452/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 天下没有免费的午餐！午餐练习是 Blackrock3 培训中我最喜欢的部分，现在 Slack 已将其改编为他们正在进行的培训。多么松弛[…]</description>
+      <pubDate>Mon, 25 Nov 2024 02:32:06 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #450】SRE 周刊第 #450 期</title>
@@ -22,16 +28,10 @@
       <pubDate>Mon, 11 Nov 2024 02:33:10 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #447】SRE 周刊 #447</title>
-      <link>https://sreweekly.com/sre-weekly-issue-447/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: If the entire team is on a Zoom bridge during an incident – how do you know what really happened and when? We added real-time Zoom/Google Meet transcripts to make sure your incident timeline has every detail. https://firehydrant.com/ai/ SLOs for Mobile Apps: Hard Truths to Consider [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：如果事故发生期间整个团队都在 Zoom 桥上 - 您如何知道到底发生了什么以及何时发生？我们添加了实时 Zoom/Google Meet 文字记录，以确保您的事件时间表包含所有细节。 https://fireHydrant.com/ai/ 移动应用程序的 SLO：需要考虑的硬道理 [...]</description>
-      <pubDate>Mon, 21 Oct 2024 01:04:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #451】SRE 周刊第 #451 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-451/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ DEATHTRAP! The Strange story of Air France flight 736 Most fascinating air incident report I&amp;#8217;ve seen in awhile! The pilots deviated from the non-normal checklist, and it immediately made me think [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 死亡陷阱！法航 736 航班的奇怪故事 我一段时间以来见过的最精彩的航空事故报告！飞行员偏离了非正常检查表，这立即让我想到 […]</description>
-      <pubDate>Mon, 18 Nov 2024 02:11:31 +0000</pubDate>
+      <title>【SRE Weekly Issue #449】SRE 周刊第 #449 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-449/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE &amp;#8211; A Journey to Master Site Reliability Engineering This new series seems promising! I won&amp;#8217;t link to every article in the series here, but if you&amp;#8217;re [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 宣布：52 周的 SRE – 掌握站点可靠性工程的旅程 这个新系列似乎很有前途！我不会在这里链接到该系列中的每篇文章，但如果您 [...]</description>
+      <pubDate>Mon, 04 Nov 2024 02:14:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

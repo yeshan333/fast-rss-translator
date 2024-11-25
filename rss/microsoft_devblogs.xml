@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Announcing TypeScript 5.7】发布 TypeScript 5.7</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7</link>
-      <description>【Today we excited to announce the availability of TypeScript 5.7! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on JavaScript by adding syntax for type declarations and annotations. This syntax can be used by the TypeScript compiler to type-check our code, and it can also be erased to emit clean, idiomatic JavaScript [&amp;hellip;]】今天，我们很高兴地宣布 TypeScript 5.7 推出！如果您不熟悉 TypeScript，它是一种基于 JavaScript 构建的语言，添加了类型声明和注释的语法。 TypeScript 编译器可以使用此语法对我们的代码进行类型检查，也可以删除它以发出干净、惯用的 JavaScript [...]</description>
-      <pubDate>Fri, 22 Nov 2024 18:15:19 +0000</pubDate>
+      <title>【Making you more productive with Visual Studio v17.12】使用 Visual Studio v17.12 提高您的工作效率</title>
+      <link>https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12</link>
+      <description>【The 12th update to Visual Studio 2022 is packed with lots of exciting new features that users have been asking for! Here are some of the awesome highlights from this release that are some of my personal favorites. For all the details, be sure to check out our release notes. Copy from the Error List [&amp;hellip;]】Visual Studio 2022 的第 12 次更新包含许多用户一直要求的令人兴奋的新功能！以下是此版本中的一些精彩亮点，也是我个人最喜欢的一些。有关所有详细信息，请务必查看我们的发行说明。从错误列表复制[...]</description>
+      <pubDate>Thu, 21 Nov 2024 13:00:47 +0000</pubDate>
     </item>
     <item>
       <title>【Java Intelligent Application Templates in the Azure AI Gallery】Azure AI 库中的 Java 智能应用程序模板</title>
@@ -16,22 +16,16 @@
       <pubDate>Thu, 21 Nov 2024 21:47:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Elasticsearch Connector】客户案例研究：推出 Microsoft Semantic Kernel Elasticsearch Connector</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-announcing-the-microsoft-semantic-kernel-elasticsearch-connector</link>
-      <description>【Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch connector. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi to dive into it. In collaboration with the Microsoft Semantic Kernel team, we are announcing the availability of Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel (.NET) users. [&amp;hellip;]】今天，我们很高兴邀请 Elastic 团队分享有关其 Semantic Kernel Elasticsearch 连接器的更多信息。请在此处阅读整个公告。我会把它交给 Srikanth Manvi 来深入研究。我们与 Microsoft Semantic Kernel 团队合作，宣布向 Microsoft Semantic Kernel (.NET) 用户推出 Semantic Kernel Elasticsearch Vector Store 连接器。 […]</description>
-      <pubDate>Thu, 21 Nov 2024 19:29:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the GA Release of Filters for .NET and Python in Semantic Kernel】宣布在语义内核中全面发布 .NET 和 Python 过滤器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-filters-for-net-and-python-in-semantic-kernel</link>
-      <description>【We are excited to announce the General Availability (GA) release of Filters for our .NET and Python Semantic Kernel! This vital enhancement strengthens the control and visibility developers have when running functions, ensuring responsible AI practices are instilled from the ground up. Filters not only improve security but also contribute to building enterprise-ready solutions that [&amp;hellip;]】我们很高兴地宣布我们的 .NET 和 Python 语义内核的过滤器正式发布 (GA)！这一重要的增强增强了开发人员在运行功能时的控制力和可见性，确保从头开始灌输负责任的人工智能实践。过滤器不仅可以提高安全性，还有助于构建企业就绪的解决方案，[...]</description>
-      <pubDate>Thu, 21 Nov 2024 21:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【How can I detect which menu my item was invoked from?】如何检测我的项目是从哪个菜单调用的？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20241121-00/?p=110554</link>
       <description>【Just give them all different IDs. But this might itself by an XY problem.】只需给他们不同的 ID 即可。但这本身可能是由 XY 问题造成的。</description>
       <pubDate>Thu, 21 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Elasticsearch Connector】客户案例研究：推出 Microsoft Semantic Kernel Elasticsearch Connector</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-announcing-the-microsoft-semantic-kernel-elasticsearch-connector</link>
+      <description>【Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch connector. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi to dive into it. In collaboration with the Microsoft Semantic Kernel team, we are announcing the availability of Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel (.NET) users. [&amp;hellip;]】今天，我们很高兴邀请 Elastic 团队分享有关其 Semantic Kernel Elasticsearch 连接器的更多信息。请在此处阅读整个公告。我会把它交给 Srikanth Manvi 来深入研究。我们与 Microsoft Semantic Kernel 团队合作，宣布向 Microsoft Semantic Kernel (.NET) 用户推出 Semantic Kernel Elasticsearch Vector Store 连接器。 […]</description>
+      <pubDate>Thu, 21 Nov 2024 19:29:58 +0000</pubDate>
     </item>
     <item>
       <title>【Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024】Microsoft Ignite 2024 中 Visual Studio 中的 5 大 GitHub Copilot 功能</title>
@@ -40,10 +34,22 @@
       <pubDate>Fri, 22 Nov 2024 13:00:25 +0000</pubDate>
     </item>
     <item>
+      <title>【Announcing TypeScript 5.7】发布 TypeScript 5.7</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7</link>
+      <description>【Today we excited to announce the availability of TypeScript 5.7! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on JavaScript by adding syntax for type declarations and annotations. This syntax can be used by the TypeScript compiler to type-check our code, and it can also be erased to emit clean, idiomatic JavaScript [&amp;hellip;]】今天，我们很高兴地宣布 TypeScript 5.7 推出！如果您不熟悉 TypeScript，它是一种基于 JavaScript 构建的语言，添加了类型声明和注释的语法。 TypeScript 编译器可以使用此语法对我们的代码进行类型检查，也可以删除它以发出干净、惯用的 JavaScript [...]</description>
+      <pubDate>Fri, 22 Nov 2024 18:15:19 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing the GA Release of the OpenAPI Plugin for .NET and Python in Semantic Kernel】宣布语义内核中适用于 .NET 和 Python 的 OpenAPI 插件正式发布</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-the-openapi-plugin-for-net-and-python-in-semantic-kernel</link>
       <description>【We are thrilled to announce the General Availability (GA) release of the OpenAPI package for Semantic Kernel, available for both .NET and Python! With this significant milestone, developers can easily integrate existing APIs as plugins, enhancing the capabilities of their AI agents while making them more versatile in real-world applications. Why OpenAPI Plugins Matter In [&amp;hellip;]】我们很高兴地宣布语义内核 OpenAPI 包的通用版 (GA) 版本，可用于 .NET 和 Python！凭借这一重要的里程碑，开发人员可以轻松地将现有 API 作为插件集成，增强人工智能代理的功能，同时使它们在实际应用中更加通用。为什么 OpenAPI 插件在 [...]</description>
       <pubDate>Thu, 21 Nov 2024 19:04:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the GA Release of Filters for .NET and Python in Semantic Kernel】宣布在语义内核中全面发布 .NET 和 Python 过滤器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-filters-for-net-and-python-in-semantic-kernel</link>
+      <description>【We are excited to announce the General Availability (GA) release of Filters for our .NET and Python Semantic Kernel! This vital enhancement strengthens the control and visibility developers have when running functions, ensuring responsible AI practices are instilled from the ground up. Filters not only improve security but also contribute to building enterprise-ready solutions that [&amp;hellip;]】我们很高兴地宣布我们的 .NET 和 Python 语义内核的过滤器正式发布 (GA)！这一重要的增强增强了开发人员在运行功能时的控制力和可见性，确保从头开始灌输负责任的人工智能实践。过滤器不仅可以提高安全性，还有助于构建企业就绪的解决方案，[...]</description>
+      <pubDate>Thu, 21 Nov 2024 21:18:38 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New in vcpkg (November 2024)】vcpkg 的新增功能（2024 年 11 月）</title>
@@ -56,12 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20241122-00/?p=110560</link>
       <description>【Expanding on the previous pattern.】在之前的模式上进行扩展。</description>
       <pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Making you more productive with Visual Studio v17.12】使用 Visual Studio v17.12 提高您的工作效率</title>
-      <link>https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12</link>
-      <description>【The 12th update to Visual Studio 2022 is packed with lots of exciting new features that users have been asking for! Here are some of the awesome highlights from this release that are some of my personal favorites. For all the details, be sure to check out our release notes. Copy from the Error List [&amp;hellip;]】Visual Studio 2022 的第 12 次更新包含许多用户一直要求的令人兴奋的新功能！以下是此版本中的一些精彩亮点，也是我个人最喜欢的一些。有关所有详细信息，请务必查看我们的发行说明。从错误列表复制[...]</description>
-      <pubDate>Thu, 21 Nov 2024 13:00:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
