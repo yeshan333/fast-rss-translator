@@ -11,18 +11,6 @@
       <pubDate>Mon, 18 Nov 2024 17:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How McDonald Sells Millions of Burgers Per Day With Event-Driven Architecture】麦当劳如何通过事件驱动架构每天销售数百万个汉堡</title>
-      <link>https://blog.bytebytego.com/p/how-mcdonald-sells-millions-of-burgers</link>
-      <description>【Cloud-scale monitoring with AWS and Datadog (Sponsored)】使用 AWS 和 Datadog 进行云规模监控（赞助）</description>
-      <pubDate>Tue, 05 Nov 2024 16:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Storing 200 Billion Entities: Notion’s Data Lake Project】存储 2000 亿个实体：Notion 的数据湖项目</title>
-      <link>https://blog.bytebytego.com/p/storing-200-billion-entities-notions</link>
-      <description>【Data Modeling for Performance: Virtual Masterclass (Sponsored)】性能数据建模：虚拟大师班（赞助）</description>
-      <pubDate>Tue, 12 Nov 2024 16:31:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
       <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
       <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
@@ -41,16 +29,16 @@
       <pubDate>Thu, 07 Nov 2024 16:30:27 +0000</pubDate>
     </item>
     <item>
+      <title>【EP138: How do AirTags work?】EP138：AirTags 如何工作？</title>
+      <link>https://blog.bytebytego.com/p/ep138-how-do-airtags-work</link>
+      <description>【WorkOS: Your app, Enterprise Ready.】WorkOS：您的应用程序，企业就绪。</description>
+      <pubDate>Sat, 16 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Distributed Caching: The Secret to High-Performance Applications】分布式缓存：高性能应用程序的秘密</title>
       <link>https://blog.bytebytego.com/p/distributed-caching-the-secret-to</link>
       <description>【The demand for high-speed, high-performance applications has skyrocketed in recent years.】近年来，对高速、高性能应用的需求猛增。</description>
       <pubDate>Thu, 21 Nov 2024 16:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Speedrunning Guide: Junior to Staff Engineer in 3 years】速通指南：3年初级工程师</title>
-      <link>https://blog.bytebytego.com/p/speedrunning-guide-junior-to-staff</link>
-      <description>【This is a guest newsletter by Ryan Peterman, who was promoted from Junior to Staff Engineer in 3 years at Meta.】这是 Ryan Peterman 的客座新闻通讯，他在 Meta 的三年内从初级工程师晋升为高级工程师。</description>
-      <pubDate>Thu, 14 Nov 2024 16:30:09 +0000</pubDate>
     </item>
     <item>
       <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
@@ -59,10 +47,22 @@
       <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
     </item>
     <item>
-      <title>【EP138: How do AirTags work?】EP138：AirTags 如何工作？</title>
-      <link>https://blog.bytebytego.com/p/ep138-how-do-airtags-work</link>
-      <description>【WorkOS: Your app, Enterprise Ready.】WorkOS：您的应用程序，企业就绪。</description>
-      <pubDate>Sat, 16 Nov 2024 16:31:00 +0000</pubDate>
+      <title>【Storing 200 Billion Entities: Notion’s Data Lake Project】存储 2000 亿个实体：Notion 的数据湖项目</title>
+      <link>https://blog.bytebytego.com/p/storing-200-billion-entities-notions</link>
+      <description>【Data Modeling for Performance: Virtual Masterclass (Sponsored)】性能数据建模：虚拟大师班（赞助）</description>
+      <pubDate>Tue, 12 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How McDonald Sells Millions of Burgers Per Day With Event-Driven Architecture】麦当劳如何通过事件驱动架构每天销售数百万个汉堡</title>
+      <link>https://blog.bytebytego.com/p/how-mcdonald-sells-millions-of-burgers</link>
+      <description>【Cloud-scale monitoring with AWS and Datadog (Sponsored)】使用 AWS 和 Datadog 进行云规模监控（赞助）</description>
+      <pubDate>Tue, 05 Nov 2024 16:31:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Speedrunning Guide: Junior to Staff Engineer in 3 years】速通指南：3年初级工程师</title>
+      <link>https://blog.bytebytego.com/p/speedrunning-guide-junior-to-staff</link>
+      <description>【This is a guest newsletter by Ryan Peterman, who was promoted from Junior to Staff Engineer in 3 years at Meta.】这是 Ryan Peterman 的客座新闻通讯，他在 Meta 的三年内从初级工程师晋升为高级工程师。</description>
+      <pubDate>Thu, 14 Nov 2024 16:30:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

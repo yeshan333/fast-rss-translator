@@ -4,28 +4,40 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Making you more productive with Visual Studio v17.12】使用 Visual Studio v17.12 提高您的工作效率</title>
-      <link>https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12</link>
-      <description>【The 12th update to Visual Studio 2022 is packed with lots of exciting new features that users have been asking for! Here are some of the awesome highlights from this release that are some of my personal favorites. For all the details, be sure to check out our release notes. Copy from the Error List [&amp;hellip;]】Visual Studio 2022 的第 12 次更新包含许多用户一直要求的令人兴奋的新功能！以下是此版本中的一些精彩亮点，也是我个人最喜欢的一些。有关所有详细信息，请务必查看我们的发行说明。从错误列表复制[...]</description>
-      <pubDate>Thu, 21 Nov 2024 13:00:47 +0000</pubDate>
+      <title>【Microsoft Semantic Kernel Office Hours Update】Microsoft 语义内核办公时间更新</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-semantic-kernel-office-hours-update</link>
+      <description>【Microsoft Semantic Kernel Office Hours Update Over the upcoming Holidays period there are several office hours sessions that we&amp;#8217;ll be cancelling. Below is an updated view of our upcoming office hours availability. We will resume with regularly scheduled Office Hours on January 8th for our weekly and monthly sessions. Office Hours Session Date and Time [&amp;hellip;]】Microsoft 语义内核办公时间更新 在即将到来的假期期间，我们将取消多个办公时间会议。以下是我们即将到来的办公时间可用性的更新视图。我们将于 1 月 8 日恢复每周和每月的定期办公时间。办公时间会议日期和时间 [...]</description>
+      <pubDate>Mon, 25 Nov 2024 19:16:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Java Intelligent Application Templates in the Azure AI Gallery】Azure AI 库中的 Java 智能应用程序模板</title>
-      <link>https://devblogs.microsoft.com/java/java-intelligent-application-templates-in-the-azure-ai-gallery</link>
-      <description>【Artificial Intelligence (AI) is no longer a futuristic concept—it’s transforming how developers build and innovate applications today. To help Java developers harness the full potential of AI, Microsoft’s Azure AI App Templates gallery offers a growing collection of AI-powered application templates. These templates are designed to streamline development, showcase integration patterns, and accelerate your AI [&amp;hellip;]】人工智能 (AI) 不再是一个未来概念，它正在改变当今开发人员构建和创新应用程序的方式。为了帮助 Java 开发人员充分利用 AI 的潜力，Microsoft 的 Azure AI 应用程序模板库提供了越来越多的 AI 支持的应用程序模板。这些模板旨在简化开发、展示集成模式并加速您的 AI [...]</description>
-      <pubDate>Thu, 21 Nov 2024 21:47:15 +0000</pubDate>
+      <title>【Copying error messages just got easier】复制错误消息变得更加容易</title>
+      <link>https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier</link>
+      <description>【Have you ever been frustrated by the tedious process of copying error descriptions from the Error List? Previously with Visual Studio, copying an error would include all column headers and row values, which isn’t always what you want. If you were planning to search for the error online, it was a hassle to clean up [&amp;hellip;]】您是否曾经因从错误列表复制错误描述的繁琐过程而感到沮丧？以前使用 Visual Studio 时，复制错误将包括所有列标题和行值，这并不总是您想要的。如果您打算在线搜索错误，那么清理起来很麻烦[...]</description>
+      <pubDate>Mon, 25 Nov 2024 15:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I detect which menu my item was invoked from?】如何检测我的项目是从哪个菜单调用的？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241121-00/?p=110554</link>
-      <description>【Just give them all different IDs. But this might itself by an XY problem.】只需给他们不同的 ID 即可。但这本身可能是由 XY 问题造成的。</description>
-      <pubDate>Thu, 21 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【What’s New in vcpkg (November 2024)】vcpkg 的新增功能（2024 年 11 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-november-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.11.16 registry release, 2024-11-12 tool release, as well as changes to vcpkg documentation throughout November. This release includes a command line option to force vcpkg to use classic mode even if a manifest file is found along with bug fixes. Some [&amp;hellip;]】本博文总结了作为 2024.11.16 注册表版本、2024-11-12 工具版本一部分的 vcpkg 包管理器的更改，以及整个 11 月份对 vcpkg 文档的更改。此版本包含一个命令行选项，用于强制 vcpkg 使用经典模式，即使找到清单文件并修复了错误。一些 […]</description>
+      <pubDate>Sat, 23 Nov 2024 19:40:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Elasticsearch Connector】客户案例研究：推出 Microsoft Semantic Kernel Elasticsearch Connector</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-announcing-the-microsoft-semantic-kernel-elasticsearch-connector</link>
-      <description>【Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch connector. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi to dive into it. In collaboration with the Microsoft Semantic Kernel team, we are announcing the availability of Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel (.NET) users. [&amp;hellip;]】今天，我们很高兴邀请 Elastic 团队分享有关其 Semantic Kernel Elasticsearch 连接器的更多信息。请在此处阅读整个公告。我会把它交给 Srikanth Manvi 来深入研究。我们与 Microsoft Semantic Kernel 团队合作，宣布向 Microsoft Semantic Kernel (.NET) 用户推出 Semantic Kernel Elasticsearch Vector Store 连接器。 […]</description>
-      <pubDate>Thu, 21 Nov 2024 19:29:58 +0000</pubDate>
+      <title>【Announcing TypeScript 5.7】发布 TypeScript 5.7</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7</link>
+      <description>【Today we excited to announce the availability of TypeScript 5.7! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on JavaScript by adding syntax for type declarations and annotations. This syntax can be used by the TypeScript compiler to type-check our code, and it can also be erased to emit clean, idiomatic JavaScript [&amp;hellip;]】今天，我们很高兴地宣布 TypeScript 5.7 现已推出！如果您不熟悉 TypeScript，它是一种基于 JavaScript 构建的语言，添加了类型声明和注释的语法。 TypeScript 编译器可以使用此语法对我们的代码进行类型检查，也可以删除它以发出干净、惯用的 JavaScript [...]</description>
+      <pubDate>Fri, 22 Nov 2024 18:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to build ChatGPT-like enterprise search on your own data】如何根据自己的数据构建类似 ChatGPT 的企业搜索</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-chatgpt-like-enterprise-search-on-your-own-data</link>
+      <description>【Do you find yourself drowning in company documentation, spending hours searching through SharePoint, knowledge bases, and contract repositories for one specific piece of information? You&amp;#8217;re not alone. Organizations now have plenty of information – the challenge lies in finding the right information when you need it. We have built a packaged GitHub template that helps [&amp;hellip;]】您是否发现自己淹没在公司文档中，花费数小时在 SharePoint、知识库和合同存储库中搜索某一特定信息？你并不孤单。组织现在拥有大量信息 - 挑战在于在需要时找到正确的信息。我们构建了一个打包的 GitHub 模板，可以帮助 [...]</description>
+      <pubDate>Mon, 25 Nov 2024 12:57:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【In C++, how can I make a default parameter be the this pointer of the caller?, revisited】在C++中，如何使默认参数成为调用者的this指针？，重温</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241122-00/?p=110560</link>
+      <description>【Expanding on the previous pattern.】在之前的模式上进行扩展。</description>
+      <pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024】Microsoft Ignite 2024 中 Visual Studio 中的 5 大 GitHub Copilot 功能</title>
@@ -34,34 +46,22 @@
       <pubDate>Fri, 22 Nov 2024 13:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 5.7】发布 TypeScript 5.7</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7</link>
-      <description>【Today we excited to announce the availability of TypeScript 5.7! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on JavaScript by adding syntax for type declarations and annotations. This syntax can be used by the TypeScript compiler to type-check our code, and it can also be erased to emit clean, idiomatic JavaScript [&amp;hellip;]】今天，我们很高兴地宣布 TypeScript 5.7 推出！如果您不熟悉 TypeScript，它是一种基于 JavaScript 构建的语言，添加了类型声明和注释的语法。 TypeScript 编译器可以使用此语法对我们的代码进行类型检查，也可以删除它以发出干净、惯用的 JavaScript [...]</description>
-      <pubDate>Fri, 22 Nov 2024 18:15:19 +0000</pubDate>
+      <title>【How can I know when a window has processed a message that I posted to it?】我如何知道窗口何时处理了我向其发布的消息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241125-00/?p=110568</link>
+      <description>【Best would be to have it tell you.】最好是让它告诉你。</description>
+      <pubDate>Mon, 25 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the GA Release of the OpenAPI Plugin for .NET and Python in Semantic Kernel】宣布语义内核中适用于 .NET 和 Python 的 OpenAPI 插件正式发布</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-the-openapi-plugin-for-net-and-python-in-semantic-kernel</link>
-      <description>【We are thrilled to announce the General Availability (GA) release of the OpenAPI package for Semantic Kernel, available for both .NET and Python! With this significant milestone, developers can easily integrate existing APIs as plugins, enhancing the capabilities of their AI agents while making them more versatile in real-world applications. Why OpenAPI Plugins Matter In [&amp;hellip;]】我们很高兴地宣布语义内核 OpenAPI 包的通用版 (GA) 版本，可用于 .NET 和 Python！凭借这一重要的里程碑，开发人员可以轻松地将现有 API 作为插件集成，增强人工智能代理的功能，同时使它们在实际应用中更加通用。为什么 OpenAPI 插件在 [...]</description>
-      <pubDate>Thu, 21 Nov 2024 19:04:54 +0000</pubDate>
+      <title>【Unlocking the Power of Memory: Announcing General Availability of Semantic Kernel’s Memory Packages】释放内存的力量：宣布语义内核内存包全面上市</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/unlocking-the-power-of-memory-announcing-general-availability-of-semantic-kernels-memory-packages</link>
+      <description>【We are thrilled to announce the General Availability (GA) of our Memory packages for .NET, Java, and Python! The Semantic Kernel team and our partners have been working hard to allow you to quickly connect to vector stores and make it easy for you to do embeddings and data retrieval between stores. Transforming Data Management [&amp;hellip;]】我们很高兴地宣布我们的 .NET、Java 和 Python 内存包全面上市 (GA)！ Semantic Kernel 团队和我们的合作伙伴一直在努力让您快速连接到向量存储，并让您轻松地在存储之间进行嵌入和数据检索。转变数据管理 […]</description>
+      <pubDate>Mon, 25 Nov 2024 16:07:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the GA Release of Filters for .NET and Python in Semantic Kernel】宣布在语义内核中全面发布 .NET 和 Python 过滤器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-the-ga-release-of-filters-for-net-and-python-in-semantic-kernel</link>
-      <description>【We are excited to announce the General Availability (GA) release of Filters for our .NET and Python Semantic Kernel! This vital enhancement strengthens the control and visibility developers have when running functions, ensuring responsible AI practices are instilled from the ground up. Filters not only improve security but also contribute to building enterprise-ready solutions that [&amp;hellip;]】我们很高兴地宣布我们的 .NET 和 Python 语义内核的过滤器正式发布 (GA)！这一重要的增强增强了开发人员在运行功能时的控制力和可见性，确保从头开始灌输负责任的人工智能实践。过滤器不仅可以提高安全性，还有助于构建企业就绪的解决方案，[...]</description>
-      <pubDate>Thu, 21 Nov 2024 21:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in vcpkg (November 2024)】vcpkg 的新增功能（2024 年 11 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-november-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.11.16 registry release, 2024-11-12 tool release, as well as changes to vcpkg documentation throughout November. This release includes a command line option to force vcpkg to use classic mode even if a manifest file is found along with bug fixes. Some [&amp;hellip;]】本博文总结了作为 2024.11.16 注册表版本、2024-11-12 工具版本一部分的 vcpkg 包管理器的更改，以及整个 11 月份对 vcpkg 文档的更改。此版本包含一个命令行选项，用于强制 vcpkg 使用经典模式，即使发现了清单文件并修复了错误。一些 […]</description>
-      <pubDate>Sat, 23 Nov 2024 19:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【In C++, how can I make a default parameter be the this pointer of the caller?, revisited】在C++中，如何使默认参数成为调用者的this指针？，重温</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241122-00/?p=110560</link>
-      <description>【Expanding on the previous pattern.】在之前的模式上进行扩展。</description>
-      <pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【OpenAPI document generation in .NET 9】.NET 9 中的 OpenAPI 文档生成</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet9-openapi</link>
+      <description>【Introducing the New OpenAPI Document Generation Feature in .NET 9. Let&#39;s take a look at what it is, how to use it, and how it streamlines API development in .NET.】介绍 .NET 9 中新的 OpenAPI 文档生成功能。让我们了解一下它是什么、如何使用它以及它如何简化 .NET 中的 API 开发。</description>
+      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
