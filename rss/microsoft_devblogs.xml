@@ -4,10 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
+      <title>【Microspeak: Real estate and Airspace】Microspeak：房地产和空域</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241126-00/?p=110575</link>
+      <description>【Space on the screen and negotiating control over it.】屏幕上的空间并协商对其的控制。</description>
+      <pubDate>Tue, 26 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Debugger and Diagnostics updates in Visual Studio 17.12】Visual Studio 17.12 中的调试器和诊断更新</title>
+      <link>https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12</link>
+      <description>【We are thrilled to announce a host of exciting new features in Visual Studio 17.12, designed to enhance your development experience and boost your productivity. Our team has been working diligently to address some of the most popular requests from our developer community, and we are confident that these updates will significantly improve your workflow. [&amp;hellip;]】我们很高兴地宣布 Visual Studio 17.12 中推出了一系列令人兴奋的新功能，旨在增强您的开发体验并提高您的工作效率。我们的团队一直在努力解决开发者社区中一些最受欢迎的请求，我们相信这些更新将显着改善您的工作流程。 […]</description>
+      <pubDate>Tue, 26 Nov 2024 16:41:34 +0000</pubDate>
+    </item>
+    <item>
       <title>【Microsoft Semantic Kernel Office Hours Update】Microsoft 语义内核办公时间更新</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-semantic-kernel-office-hours-update</link>
       <description>【Microsoft Semantic Kernel Office Hours Update Over the upcoming Holidays period there are several office hours sessions that we&amp;#8217;ll be cancelling. Below is an updated view of our upcoming office hours availability. We will resume with regularly scheduled Office Hours on January 8th for our weekly and monthly sessions. Office Hours Session Date and Time [&amp;hellip;]】Microsoft 语义内核办公时间更新 在即将到来的假期期间，我们将取消多个办公时间会议。以下是我们即将到来的办公时间可用性的更新视图。我们将于 1 月 8 日恢复每周和每月的定期办公时间。办公时间会议日期和时间 [...]</description>
       <pubDate>Mon, 25 Nov 2024 19:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Evaluate the quality of your AI applications with ease】轻松评估 AI 应用程序的质量</title>
+      <link>https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease</link>
+      <description>【Get started with the new Microsoft.Extensions.AI.Evaluation library to kickstart your Intelligent Application eveluation journey.】开始使用新的 Microsoft.Extensions.AI.Evaluation 库来启动您的智能应用程序评估之旅。</description>
+      <pubDate>Tue, 26 Nov 2024 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【OpenAPI document generation in .NET 9】.NET 9 中的 OpenAPI 文档生成</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet9-openapi</link>
+      <description>【Introducing the New OpenAPI Document Generation Feature in .NET 9. Let&#39;s take a look at what it is, how to use it, and how it streamlines API development in .NET.】介绍 .NET 9 中新的 OpenAPI 文档生成功能。让我们了解一下它是什么、如何使用它以及它如何简化 .NET 中的 API 开发。</description>
+      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Copying error messages just got easier】复制错误消息变得更加容易</title>
@@ -16,34 +40,10 @@
       <pubDate>Mon, 25 Nov 2024 15:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (November 2024)】vcpkg 的新增功能（2024 年 11 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-november-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.11.16 registry release, 2024-11-12 tool release, as well as changes to vcpkg documentation throughout November. This release includes a command line option to force vcpkg to use classic mode even if a manifest file is found along with bug fixes. Some [&amp;hellip;]】本博文总结了作为 2024.11.16 注册表版本、2024-11-12 工具版本一部分的 vcpkg 包管理器的更改，以及整个 11 月份对 vcpkg 文档的更改。此版本包含一个命令行选项，用于强制 vcpkg 使用经典模式，即使找到清单文件并修复了错误。一些 […]</description>
-      <pubDate>Sat, 23 Nov 2024 19:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.7】发布 TypeScript 5.7</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7</link>
-      <description>【Today we excited to announce the availability of TypeScript 5.7! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on JavaScript by adding syntax for type declarations and annotations. This syntax can be used by the TypeScript compiler to type-check our code, and it can also be erased to emit clean, idiomatic JavaScript [&amp;hellip;]】今天，我们很高兴地宣布 TypeScript 5.7 现已推出！如果您不熟悉 TypeScript，它是一种基于 JavaScript 构建的语言，添加了类型声明和注释的语法。 TypeScript 编译器可以使用此语法对我们的代码进行类型检查，也可以删除它以发出干净、惯用的 JavaScript [...]</description>
-      <pubDate>Fri, 22 Nov 2024 18:15:19 +0000</pubDate>
-    </item>
-    <item>
       <title>【How to build ChatGPT-like enterprise search on your own data】如何根据自己的数据构建类似 ChatGPT 的企业搜索</title>
       <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-chatgpt-like-enterprise-search-on-your-own-data</link>
       <description>【Do you find yourself drowning in company documentation, spending hours searching through SharePoint, knowledge bases, and contract repositories for one specific piece of information? You&amp;#8217;re not alone. Organizations now have plenty of information – the challenge lies in finding the right information when you need it. We have built a packaged GitHub template that helps [&amp;hellip;]】您是否发现自己淹没在公司文档中，花费数小时在 SharePoint、知识库和合同存储库中搜索某一特定信息？你并不孤单。组织现在拥有大量信息 - 挑战在于在需要时找到正确的信息。我们构建了一个打包的 GitHub 模板，可以帮助 [...]</description>
       <pubDate>Mon, 25 Nov 2024 12:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【In C++, how can I make a default parameter be the this pointer of the caller?, revisited】在C++中，如何使默认参数成为调用者的this指针？，重温</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241122-00/?p=110560</link>
-      <description>【Expanding on the previous pattern.】在之前的模式上进行扩展。</description>
-      <pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024】Microsoft Ignite 2024 中 Visual Studio 中的 5 大 GitHub Copilot 功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024</link>
-      <description>【At this year’s Microsoft Ignite, it was truly exciting to see Scott, Dalia, and Jessie demo some of the most innovative features of GitHub Copilot that are transforming the developer experience in Visual Studio. From the breakout session, we highlighted five standout features that are pushing productivity to the next level. Whether you&amp;#8217;re working on [&amp;hellip;]】在今年的 Microsoft Ignite 大会上，看到 Scott、Dalia 和 Jessie 演示了 GitHub Copilot 的一些最具创新性的功能，这些功能正在改变 Visual Studio 中的开发人员体验，这确实令人兴奋。在分组讨论中，我们重点介绍了将生产力提升到新水平的五个突出功能。无论您正在从事[...]</description>
-      <pubDate>Fri, 22 Nov 2024 13:00:25 +0000</pubDate>
     </item>
     <item>
       <title>【How can I know when a window has processed a message that I posted to it?】我如何知道窗口何时处理了我向其发布的消息？</title>
@@ -52,16 +52,16 @@
       <pubDate>Mon, 25 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlocking the Power of Memory: Announcing General Availability of Semantic Kernel’s Memory Packages】释放内存的力量：宣布语义内核内存包全面上市</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/unlocking-the-power-of-memory-announcing-general-availability-of-semantic-kernels-memory-packages</link>
-      <description>【We are thrilled to announce the General Availability (GA) of our Memory packages for .NET, Java, and Python! The Semantic Kernel team and our partners have been working hard to allow you to quickly connect to vector stores and make it easy for you to do embeddings and data retrieval between stores. Transforming Data Management [&amp;hellip;]】我们很高兴地宣布我们的 .NET、Java 和 Python 内存包全面上市 (GA)！ Semantic Kernel 团队和我们的合作伙伴一直在努力让您快速连接到向量存储，并让您轻松地在存储之间进行嵌入和数据检索。转变数据管理 […]</description>
-      <pubDate>Mon, 25 Nov 2024 16:07:48 +0000</pubDate>
+      <title>【What’s new in Azure DevTest Labs】Azure 开发测试实验室的新增功能</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/whats-new-in-azure-devtest-labs</link>
+      <description>【DevTest labs now supports the capability to access Azure DevOps artifact repos through Managed Identities and GitHub artifact repos through GitHub app authentication. Additionally, you can now also access the lab storage account through Managed Identities. Until now users have accessed Artifact repos via personal access tokens (PATs) and storage accounts through Storage Access Shared [&amp;hellip;]】开发测试实验室现在支持通过托管身份访问 Azure DevOps 工件存储库和通过 GitHub 应用程序身份验证访问 GitHub 工件存储库的功能。此外，您现在还可以通过托管身份访问实验室存储帐户。到目前为止，用户通过个人访问令牌（PAT）访问 Artifact 存储库，并通过存储访问共享访问存储帐户 [...]</description>
+      <pubDate>Tue, 26 Nov 2024 18:27:51 +0000</pubDate>
     </item>
     <item>
-      <title>【OpenAPI document generation in .NET 9】.NET 9 中的 OpenAPI 文档生成</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet9-openapi</link>
-      <description>【Introducing the New OpenAPI Document Generation Feature in .NET 9. Let&#39;s take a look at what it is, how to use it, and how it streamlines API development in .NET.】介绍 .NET 9 中新的 OpenAPI 文档生成功能。让我们了解一下它是什么、如何使用它以及它如何简化 .NET 中的 API 开发。</description>
-      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
+      <title>【Unlocking the Power of Memory: Announcing General Availability of Semantic Kernel’s Memory Packages】释放内存的力量：宣布语义内核内存包全面上市</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/unlocking-the-power-of-memory-announcing-general-availability-of-semantic-kernels-memory-packages</link>
+      <description>【We are thrilled to announce the General Availability (GA) of our Memory packages for .NET, Java, and Python! The Semantic Kernel team and our partners have been working hard to allow you to quickly connect to vector stores and make it easy for you to do embeddings and data retrieval between stores. Transforming Data Management [&amp;hellip;]】我们很高兴地宣布我们的 .NET、Java 和 Python 内存包全面上市 (GA)！ Semantic Kernel 团队和我们的合作伙伴一直在努力让您快速连接到向量存储，并让您轻松地在存储之间进行嵌入和数据检索。转变数据管理 [...]</description>
+      <pubDate>Mon, 25 Nov 2024 16:07:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
