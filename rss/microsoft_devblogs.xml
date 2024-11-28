@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Microspeak: Real estate and Airspace】Microspeak：房地产和空域</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241126-00/?p=110575</link>
-      <description>【Space on the screen and negotiating control over it.】屏幕上的空间并协商对其的控制。</description>
-      <pubDate>Tue, 26 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【Properly cycling domain passwords with the JSonADDomain extension】使用 JsonADDomain 扩展正确循环域密码</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/properly-cycling-domain-passwords-with-the-jsonaddomain-extension</link>
+      <description>【For those familiar with the JsonAdDomain extension, it provides an easy way to join VMs to your domain. However, one aspect that customers have been less crazy about is that the domain password must be shared in the protected settings (where it is at least encrypted) and, more importantly, the functionality of the extension doesn&amp;#8217;t [&amp;hellip;]】对于熟悉 JsonAdDomain 扩展的人来说，它提供了一种将虚拟机加入域的简单方法。然而，客户不太关心的一个方面是，域密码必须在受保护的设置中共享（至少是加密的），更重要的是，扩展的功能不 [...]</description>
+      <pubDate>Wed, 27 Nov 2024 22:59:29 +0000</pubDate>
     </item>
     <item>
       <title>【Debugger and Diagnostics updates in Visual Studio 17.12】Visual Studio 17.12 中的调试器和诊断更新</title>
@@ -16,52 +16,52 @@
       <pubDate>Tue, 26 Nov 2024 16:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Semantic Kernel Office Hours Update】Microsoft 语义内核办公时间更新</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/microsoft-semantic-kernel-office-hours-update</link>
-      <description>【Microsoft Semantic Kernel Office Hours Update Over the upcoming Holidays period there are several office hours sessions that we&amp;#8217;ll be cancelling. Below is an updated view of our upcoming office hours availability. We will resume with regularly scheduled Office Hours on January 8th for our weekly and monthly sessions. Office Hours Session Date and Time [&amp;hellip;]】Microsoft 语义内核办公时间更新 在即将到来的假期期间，我们将取消多个办公时间会议。以下是我们即将到来的办公时间可用性的更新视图。我们将于 1 月 8 日恢复每周和每月的定期办公时间。办公时间会议日期和时间 [...]</description>
-      <pubDate>Mon, 25 Nov 2024 19:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Evaluate the quality of your AI applications with ease】轻松评估 AI 应用程序的质量</title>
-      <link>https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease</link>
-      <description>【Get started with the new Microsoft.Extensions.AI.Evaluation library to kickstart your Intelligent Application eveluation journey.】开始使用新的 Microsoft.Extensions.AI.Evaluation 库来启动您的智能应用程序评估之旅。</description>
-      <pubDate>Tue, 26 Nov 2024 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【OpenAPI document generation in .NET 9】.NET 9 中的 OpenAPI 文档生成</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet9-openapi</link>
-      <description>【Introducing the New OpenAPI Document Generation Feature in .NET 9. Let&#39;s take a look at what it is, how to use it, and how it streamlines API development in .NET.】介绍 .NET 9 中新的 OpenAPI 文档生成功能。让我们了解一下它是什么、如何使用它以及它如何简化 .NET 中的 API 开发。</description>
-      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Copying error messages just got easier】复制错误消息变得更加容易</title>
-      <link>https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier</link>
-      <description>【Have you ever been frustrated by the tedious process of copying error descriptions from the Error List? Previously with Visual Studio, copying an error would include all column headers and row values, which isn’t always what you want. If you were planning to search for the error online, it was a hassle to clean up [&amp;hellip;]】您是否曾经因从错误列表复制错误描述的繁琐过程而感到沮丧？以前使用 Visual Studio 时，复制错误将包括所有列标题和行值，这并不总是您想要的。如果您打算在线搜索错误，那么清理起来很麻烦[...]</description>
-      <pubDate>Mon, 25 Nov 2024 15:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to build ChatGPT-like enterprise search on your own data】如何根据自己的数据构建类似 ChatGPT 的企业搜索</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-chatgpt-like-enterprise-search-on-your-own-data</link>
-      <description>【Do you find yourself drowning in company documentation, spending hours searching through SharePoint, knowledge bases, and contract repositories for one specific piece of information? You&amp;#8217;re not alone. Organizations now have plenty of information – the challenge lies in finding the right information when you need it. We have built a packaged GitHub template that helps [&amp;hellip;]】您是否发现自己淹没在公司文档中，花费数小时在 SharePoint、知识库和合同存储库中搜索某一特定信息？你并不孤单。组织现在拥有大量信息 - 挑战在于在需要时找到正确的信息。我们构建了一个打包的 GitHub 模板，可以帮助 [...]</description>
-      <pubDate>Mon, 25 Nov 2024 12:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I know when a window has processed a message that I posted to it?】我如何知道窗口何时处理了我向其发布的消息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241125-00/?p=110568</link>
-      <description>【Best would be to have it tell you.】最好是让它告诉你。</description>
-      <pubDate>Mon, 25 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【What’s new in Azure DevTest Labs】Azure 开发测试实验室的新增功能</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/whats-new-in-azure-devtest-labs</link>
       <description>【DevTest labs now supports the capability to access Azure DevOps artifact repos through Managed Identities and GitHub artifact repos through GitHub app authentication. Additionally, you can now also access the lab storage account through Managed Identities. Until now users have accessed Artifact repos via personal access tokens (PATs) and storage accounts through Storage Access Shared [&amp;hellip;]】开发测试实验室现在支持通过托管身份访问 Azure DevOps 工件存储库和通过 GitHub 应用程序身份验证访问 GitHub 工件存储库的功能。此外，您现在还可以通过托管身份访问实验室存储帐户。到目前为止，用户通过个人访问令牌（PAT）访问 Artifact 存储库，并通过存储访问共享访问存储帐户 [...]</description>
       <pubDate>Tue, 26 Nov 2024 18:27:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlocking the Power of Memory: Announcing General Availability of Semantic Kernel’s Memory Packages】释放内存的力量：宣布语义内核内存包全面上市</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/unlocking-the-power-of-memory-announcing-general-availability-of-semantic-kernels-memory-packages</link>
-      <description>【We are thrilled to announce the General Availability (GA) of our Memory packages for .NET, Java, and Python! The Semantic Kernel team and our partners have been working hard to allow you to quickly connect to vector stores and make it easy for you to do embeddings and data retrieval between stores. Transforming Data Management [&amp;hellip;]】我们很高兴地宣布我们的 .NET、Java 和 Python 内存包全面上市 (GA)！ Semantic Kernel 团队和我们的合作伙伴一直在努力让您快速连接到向量存储，并让您轻松地在存储之间进行嵌入和数据检索。转变数据管理 [...]</description>
-      <pubDate>Mon, 25 Nov 2024 16:07:48 +0000</pubDate>
+      <title>【Teams Toolkit for Visual Studio Code update – November 2024】Teams Toolkit for Visual Studio Code 更新 – 2024 年 11 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-november-2024</link>
+      <description>【We’re excited to announce Teams Toolkit for Visual Studio Code v5.10.1 and the latest prerelease update. This patch brings impactful new features, enhancements, and critical bug fixes to improve your development experience. Let’s dive into what’s new. Teams Toolkit v5.10.1 This patch version updates included several important bug fixes: Terminology Update: The term Copilot Agent has [&amp;hellip;]】我们很高兴地宣布推出 Teams Toolkit for Visual Studio Code v5.10.1 和最新的预发布更新。 此补丁带来了有影响力的新功能、增强功能和关键错误修复，以改善您的开发体验。让我们深入了解一下新内容。 Teams Toolkit v5.10.1 此补丁版本更新包括几个重要的错误修复： 术语更新：术语 Copilot Agent [...]</description>
+      <pubDate>Wed, 27 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Checking whether a URI refers to a Web site root】检查 URI 是否引用网站根目录</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241127-00/?p=110582</link>
+      <description>【Let somebody else do the parsing.】让别人来解析吧。</description>
+      <pubDate>Wed, 27 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (November 2024)】Azure SDK 版本（2024 年 11 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2024</link>
+      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
+      <pubDate>Wed, 27 Nov 2024 21:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【So how many replicas should my VM Application use?】那么我的 VM 应用程序应该使用多少个副本？</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/so-how-many-replicas-should-my-vm-application-use</link>
+      <description>【One great advantage of VM Applications is the ability to specify how many replicas you want for each VM Application version. While documentation exists on how to specify replicas, we don&amp;#8217;t really provide advice on determining how many replicas to use. The goal of this post is to rectify that gap. First, the basics. When [&amp;hellip;]】VM 应用程序的一大优势是能够为每个 VM 应用程序版本指定所需的副本数量。虽然存在有关如何指定副本的文档，但我们并没有真正提供有关确定要使用多少副本的建议。这篇文章的目标是弥补这一差距。首先，基础知识。什么时候 […]</description>
+      <pubDate>Wed, 27 Nov 2024 21:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dramatically faster package restores with .NET 9’s new NuGet resolver】使用 .NET 9 的新 NuGet 解析器显着加快包恢复速度</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver</link>
+      <description>【.NET 9 introduces a new NuGet dependency graph resolver that dramatically improves package restore performance for large repositories. Learn how this reimagined approach reduces restore times from 30 minutes to just 2 minutes by creating a more efficient dependency graph with fewer nodes.】.NET 9 引入了新的 NuGet 依赖关系图解析器，可显着提高大型存储库的包恢复性能。了解这种重新设计的方法如何通过使用更少的节点创建更高效​​的依赖关系图，将恢复时间从 30 分钟缩短到 2 分钟。</description>
+      <pubDate>Wed, 27 Nov 2024 16:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Updates for C++ developers in Visual Studio 2022 17.12】Visual Studio 2022 17.12 中针对 C++ 开发人员的更新</title>
+      <link>https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12</link>
+      <description>【Visual Studio 17.12 is here and comes with a host of new features for C++ developers. We’ve made improvements across our toolchain, C++ Build Insights, Unreal Engine support, and more. This post gives a quick overview of what’s available; for all the details, see What’s New for C++ Developers in Visual Studio 2022 17.12 on [&amp;hellip;]】Visual Studio 17.12 现已推出，为 C++ 开发人员提供了大量新功能。我们对工具链、C++ Build Insights、虚幻引擎支持等进行了改进。这篇文章简要概述了可用的内容；有关所有详细信息，请参阅 Visual Studio 2022 17.12 中 C++ 开发人员的新增功能 [...]</description>
+      <pubDate>Wed, 27 Nov 2024 13:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Evaluate the quality of your AI applications with ease】轻松评估 AI 应用程序的质量</title>
+      <link>https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease</link>
+      <description>【Get started with the new Microsoft.Extensions.AI.Evaluation library to kickstart your Intelligent Application eveluation journey.】开始使用新的 Microsoft.Extensions.AI.Evaluation 库来启动您的智能应用程序评估之旅。</description>
+      <pubDate>Tue, 26 Nov 2024 21:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

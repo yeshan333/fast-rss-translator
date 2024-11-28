@@ -5,6 +5,36 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Storing 200 Billion Entities: Notion’s Data Lake Project】存储 2000 亿个实体：Notion 的数据湖项目</title>
+      <link>https://blog.bytebytego.com/p/storing-200-billion-entities-notions</link>
+      <description>【Data Modeling for Performance: Virtual Masterclass (Sponsored)】性能数据建模：虚拟大师班（赞助）</description>
+      <pubDate>Tue, 12 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
+      <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
+      <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
+      <pubDate>Tue, 19 Nov 2024 16:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP138: How do AirTags work?】EP138：AirTags 如何工作？</title>
+      <link>https://blog.bytebytego.com/p/ep138-how-do-airtags-work</link>
+      <description>【WorkOS: Your app, Enterprise Ready.】WorkOS：您的应用程序，企业就绪。</description>
+      <pubDate>Sat, 16 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Pattern Every Modern Developer Should Know: CQRS】每个现代开发人员都应该知道的模式：CQRS</title>
+      <link>https://blog.bytebytego.com/p/a-pattern-every-modern-developer</link>
+      <description>【CQRS, which stands for Command Query Responsibility Segregation, is an architectural pattern that separates the concerns of reading and writing data.】CQRS（Command Query Responsibility Segregation）的缩写，是一种分离数据读写关注点的架构模式。</description>
+      <pubDate>Thu, 07 Nov 2024 16:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Distributed Caching: The Secret to High-Performance Applications】分布式缓存：高性能应用程序的秘密</title>
+      <link>https://blog.bytebytego.com/p/distributed-caching-the-secret-to</link>
+      <description>【The demand for high-speed, high-performance applications has skyrocketed in recent years.】近年来，对高速、高性能应用的需求猛增。</description>
+      <pubDate>Thu, 21 Nov 2024 16:30:32 +0000</pubDate>
+    </item>
+    <item>
       <title>【Speedrunning Guide: Junior to Staff Engineer in 3 years】速通指南：3年初级工程师</title>
       <link>https://blog.bytebytego.com/p/speedrunning-guide-junior-to-staff</link>
       <description>【This is a guest newsletter by Ryan Peterman, who was promoted from Junior to Staff Engineer in 3 years at Meta.】这是 Ryan Peterman 的客座新闻通讯，他在 Meta 的三年内从初级工程师晋升为高级工程师。</description>
@@ -17,40 +47,10 @@
       <pubDate>Mon, 18 Nov 2024 17:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>【EP138: How do AirTags work?】EP138：AirTags 如何工作？</title>
-      <link>https://blog.bytebytego.com/p/ep138-how-do-airtags-work</link>
-      <description>【WorkOS: Your app, Enterprise Ready.】WorkOS：您的应用程序，企业就绪。</description>
-      <pubDate>Sat, 16 Nov 2024 16:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Distributed Caching: The Secret to High-Performance Applications】分布式缓存：高性能应用程序的秘密</title>
-      <link>https://blog.bytebytego.com/p/distributed-caching-the-secret-to</link>
-      <description>【The demand for high-speed, high-performance applications has skyrocketed in recent years.】近年来，对高速、高性能应用的需求猛增。</description>
-      <pubDate>Thu, 21 Nov 2024 16:30:32 +0000</pubDate>
-    </item>
-    <item>
       <title>【A Crash Course on Using AI to Save Time and Focus on What Matters】使用人工智能节省时间并专注于重要事情的速成课程</title>
       <link>https://blog.bytebytego.com/p/a-crash-course-on-using-ai-to-save</link>
       <description>【7 steps to level up your AI prompts and 8 of my favorite AI use cases for work.】升级 AI 提示的 7 个步骤以及我最喜欢的 8 个 AI 工作用例。</description>
       <pubDate>Tue, 26 Nov 2024 16:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Storing 200 Billion Entities: Notion’s Data Lake Project】存储 2000 亿个实体：Notion 的数据湖项目</title>
-      <link>https://blog.bytebytego.com/p/storing-200-billion-entities-notions</link>
-      <description>【Data Modeling for Performance: Virtual Masterclass (Sponsored)】性能数据建模：虚拟大师班（赞助）</description>
-      <pubDate>Tue, 12 Nov 2024 16:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
-      <link>https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system</link>
-      <description>【Mike Tyson vs. Jake Paul was live-streamed on Netflix last week. Let&amp;#8217;s break down the typical tech stack of a live-streaming system.】迈克·泰森 (Mike Tyson) 对阵杰克·保罗 (Jake Paul) 上周在 Netflix 上进行了直播。让我们来分解一下直播系统的典型技术堆栈。</description>
-      <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
-      <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
-      <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
-      <pubDate>Tue, 19 Nov 2024 16:30:50 +0000</pubDate>
     </item>
     <item>
       <title>【EP137: Proxy vs Reverse Proxy】EP137：代理与反向代理</title>
@@ -59,10 +59,10 @@
       <pubDate>Sat, 09 Nov 2024 16:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【A Pattern Every Modern Developer Should Know: CQRS】每个现代开发人员都应该知道的模式：CQRS</title>
-      <link>https://blog.bytebytego.com/p/a-pattern-every-modern-developer</link>
-      <description>【CQRS, which stands for Command Query Responsibility Segregation, is an architectural pattern that separates the concerns of reading and writing data.】CQRS（Command Query Responsibility Segregation）的缩写，是一种分离数据读写关注点的架构模式。</description>
-      <pubDate>Thu, 07 Nov 2024 16:30:27 +0000</pubDate>
+      <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
+      <link>https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system</link>
+      <description>【Mike Tyson vs. Jake Paul was live-streamed on Netflix last week. Let&amp;#8217;s break down the typical tech stack of a live-streaming system.】迈克·泰森 (Mike Tyson) 对阵杰克·保罗 (Jake Paul) 上周在 Netflix 上进行了直播。让我们来分解一下直播系统的典型技术堆栈。</description>
+      <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
