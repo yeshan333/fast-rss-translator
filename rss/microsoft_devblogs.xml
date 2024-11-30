@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Azure SDK Release (November 2024)】Azure SDK 版本（2024 年 11 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Wed, 27 Nov 2024 21:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dramatically faster package restores with .NET 9’s new NuGet resolver】使用 .NET 9 的新 NuGet 解析器显着加快包恢复速度</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver</link>
-      <description>【.NET 9 introduces a new NuGet dependency graph resolver that dramatically improves package restore performance for large repositories. Learn how this reimagined approach reduces restore times from 30 minutes to just 2 minutes by creating a more efficient dependency graph with fewer nodes.】.NET 9 引入了新的 NuGet 依赖关系图解析器，可显着提高大型存储库的包恢复性能。了解这种重新设计的方法如何通过使用更少的节点创建更高效​​的依赖关系图，将恢复时间从 30 分钟缩短到 2 分钟。</description>
-      <pubDate>Wed, 27 Nov 2024 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Checking whether a URI refers to a Web site root】检查 URI 是否引用网站根目录</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241127-00/?p=110582</link>
-      <description>【Let somebody else do the parsing.】让别人来解析吧。</description>
-      <pubDate>Wed, 27 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v0.23 with inspecting cloud API requests】Dev Proxy v0.23 可检查云 API 请求</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-23-with-inspecting-cloud-api-requests</link>
-      <description>【We’re excited to share a new version of Dev Proxy to help you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，以帮助您构建连接到 API 的强大应用程序。</description>
-      <pubDate>Thu, 28 Nov 2024 08:14:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Teams Toolkit for Visual Studio Code update – November 2024】Teams Toolkit for Visual Studio Code 更新 – 2024 年 11 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-november-2024</link>
-      <description>【We’re excited to announce Teams Toolkit for Visual Studio Code v5.10.1 and the latest prerelease update. This patch brings impactful new features, enhancements, and critical bug fixes to improve your development experience. Let’s dive into what’s new. Teams Toolkit v5.10.1 This patch version updates included several important bug fixes: Terminology Update: The term Copilot Agent has [&amp;hellip;]】我们很高兴地宣布推出 Teams Toolkit for Visual Studio Code v5.10.1 和最新的预发布更新。 此补丁带来了有影响力的新功能、增强功能和关键错误修复，以改善您的开发体验。让我们深入了解一下新内容。 Teams Toolkit v5.10.1 此补丁版本更新包括几个重要的错误修复： 术语更新：术语 Copilot Agent [...]</description>
-      <pubDate>Wed, 27 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【Why does my program successfully take foreground only when running under the debugger?】为什么我的程序只有在调试器下运行时才能成功进入前台？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241128-00/?p=110586</link>
+      <description>【That&#39;s a special exception to the normal foreground rules.】这是正常前台规则的一个特殊例外。</description>
+      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【So how many replicas should my VM Application use?】那么我的 VM 应用程序应该使用多少个副本？</title>
@@ -40,22 +16,46 @@
       <pubDate>Wed, 27 Nov 2024 21:25:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Properly cycling domain passwords with the JSonADDomain extension】使用 JsonADDomain 扩展正确循环域密码</title>
-      <link>https://devblogs.microsoft.com/azure-vm-runtime/properly-cycling-domain-passwords-with-the-jsonaddomain-extension</link>
-      <description>【For those familiar with the JsonAdDomain extension, it provides an easy way to join VMs to your domain. However, one aspect that customers have been less crazy about is that the domain password must be shared in the protected settings (where it is at least encrypted) and, more importantly, the functionality of the extension doesn&amp;#8217;t [&amp;hellip;]】对于熟悉 JsonAdDomain 扩展的人来说，它提供了一种将虚拟机加入域的简单方法。然而，客户不太关心的一个方面是，域密码必须在受保护的设置中共享（至少是加密的），更重要的是，扩展的功能不 [...]</description>
-      <pubDate>Wed, 27 Nov 2024 22:59:29 +0000</pubDate>
-    </item>
-    <item>
       <title>【Transform your debugging experience with GitHub Copilot】使用 GitHub Copilot 改变您的调试体验</title>
       <link>https://devblogs.microsoft.com/visualstudio/transform-your-debugging-experience-with-github-copilot</link>
       <description>【Are your unit tests failing, and do you want to debug them more effectively? The latest feature in Visual Studio 2022, powered by GitHub Copilot, has the perfect solution for you. Introducing the Debug with Copilot button in Test Explorer, this feature takes the hassle out of debugging failed tests and gets you closer to [&amp;hellip;]】您的单元测试失败了吗？您想更有效地调试它们吗？由 GitHub Copilot 提供支持的 Visual Studio 2022 中的最新功能为您提供了完美的解决方案。在测试资源管理器中引入了“使用 Copilot 进行调试”按钮，此功能消除了调试失败测试的麻烦，让您更接近 [...]</description>
       <pubDate>Thu, 28 Nov 2024 13:00:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does my program successfully take foreground only when running under the debugger?】为什么我的程序只有在调试器下运行时才能成功进入前台？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241128-00/?p=110586</link>
-      <description>【That&#39;s a special exception to the normal foreground rules.】这是正常前台规则的一个特殊例外。</description>
-      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【Azure SDK Release (November 2024)】Azure SDK 版本（2024 年 11 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2024</link>
+      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
+      <pubDate>Wed, 27 Nov 2024 21:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the Public Preview of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布公开预览版 OpenID Connect 外部身份提供商对 Microsoft Entra 外部 ID 的支持</title>
+      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-public-preview</link>
+      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now in Public Preview. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】了解 Microsoft Entra 外部 ID 中新的 OpenID Connect 身份提供程序支持（现已推出公共预览版）。通过与 Okta、Amazon、Auth0 和 Azure AD B2C 等外部身份提供商联合，简化用户登录和合作伙伴集成，并提高转化率和用户满意度。</description>
+      <pubDate>Fri, 29 Nov 2024 16:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel Learnings】语义核心学习</title>
+      <link>https://devblogs.microsoft.com/ise/semantic-kernel-learnings</link>
+      <description>【A synopsis of our key learnings and findings from using Semantic Kernel.】我们使用语义内核的主要学习和发现的概要。</description>
+      <pubDate>Fri, 29 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Assessing the attack complexity of a race condition security vulnerability】评估竞争条件安全漏洞的攻击复杂性</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241129-00/?p=110588</link>
+      <description>【It&#39;s not just how small the race window is, but how easy it is to hit the window.】问题不在于比赛窗口有多小，而在于撞到窗口有多容易。</description>
+      <pubDate>Fri, 29 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Properly cycling domain passwords with the JSonADDomain extension】使用 JsonADDomain 扩展正确循环域密码</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/properly-cycling-domain-passwords-with-the-jsonaddomain-extension</link>
+      <description>【For those familiar with the JsonAdDomain extension, it provides an easy way to join VMs to your domain. However, one aspect that customers have been less crazy about is that the domain password must be shared in the protected settings (where it is at least encrypted) and, more importantly, the functionality of the extension doesn&amp;#8217;t [&amp;hellip;]】对于熟悉 JsonAdDomain 扩展的人来说，它提供了一种将虚拟机加入域的简单方法。然而，客户不太关心的一个方面是，域密码必须在受保护的设置中共享（至少是加密的），更重要的是，扩展的功能不 [...]</description>
+      <pubDate>Wed, 27 Nov 2024 22:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.23 with inspecting cloud API requests】Dev Proxy v0.23 可检查云 API 请求</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-23-with-inspecting-cloud-api-requests</link>
+      <description>【We’re excited to share a new version of Dev Proxy to help you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，以帮助您构建连接到 API 的强大应用程序。</description>
+      <pubDate>Thu, 28 Nov 2024 08:14:32 +0000</pubDate>
     </item>
     <item>
       <title>【Jakarta EE on Azure – November 2024】Azure 上的 Jakarta EE – 2024 年 11 月</title>
