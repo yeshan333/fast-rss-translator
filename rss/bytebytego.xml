@@ -5,22 +5,34 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Speedrunning Guide: Junior to Staff Engineer in 3 years】速通指南：3年初级工程师</title>
-      <link>https://blog.bytebytego.com/p/speedrunning-guide-junior-to-staff</link>
-      <description>【This is a guest newsletter by Ryan Peterman, who was promoted from Junior to Staff Engineer in 3 years at Meta.】这是 Ryan Peterman 的客座新闻通讯，他在 Meta 的三年内从初级工程师晋升为高级工程师。</description>
-      <pubDate>Thu, 14 Nov 2024 16:30:09 +0000</pubDate>
+      <title>【EP140: HTTP/1 -&gt; HTTP/2 -&gt; HTTP/3】EP140：HTTP/1 -&gt; HTTP/2 -&gt; HTTP/3</title>
+      <link>https://blog.bytebytego.com/p/ep140-http1-http2-http3</link>
+      <description>【What&#39;s your favorite?】你最喜欢什么？</description>
+      <pubDate>Sat, 30 Nov 2024 16:31:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
-      <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
-      <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
-      <pubDate>Tue, 19 Nov 2024 16:30:50 +0000</pubDate>
+      <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
+      <link>https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system</link>
+      <description>【Mike Tyson vs. Jake Paul was live-streamed on Netflix last week. Let&amp;#8217;s break down the typical tech stack of a live-streaming system.】迈克·泰森 (Mike Tyson) 对阵杰克·保罗 (Jake Paul) 上周在 Netflix 上进行了直播。让我们来分解一下直播系统的典型技术堆栈。</description>
+      <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
     </item>
     <item>
       <title>【EP138: How do AirTags work?】EP138：AirTags 如何工作？</title>
       <link>https://blog.bytebytego.com/p/ep138-how-do-airtags-work</link>
       <description>【WorkOS: Your app, Enterprise Ready.】WorkOS：您的应用程序，企业就绪。</description>
       <pubDate>Sat, 16 Nov 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Stateless Architecture: The Key to Building Scalable and Resilient Systems】无状态架构：构建可扩展和弹性系统的关键</title>
+      <link>https://blog.bytebytego.com/p/stateless-architecture-the-key-to</link>
+      <description>【In today&#39;s rapidly evolving digital landscape, developers face the constant challenge of building applications that are not only robust and secure but also infinitely scalable.】在当今快速发展的数字环境中，开发人员面临着构建不仅强大、安全而且可无限扩展的应用程序的持续挑战。</description>
+      <pubDate>Thu, 28 Nov 2024 16:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Speedrunning Guide: Junior to Staff Engineer in 3 years】速通指南：3年初级工程师</title>
+      <link>https://blog.bytebytego.com/p/speedrunning-guide-junior-to-staff</link>
+      <description>【This is a guest newsletter by Ryan Peterman, who was promoted from Junior to Staff Engineer in 3 years at Meta.】这是 Ryan Peterman 的客座新闻通讯，他在 Meta 的三年内从初级工程师晋升为高级工程师。</description>
+      <pubDate>Thu, 14 Nov 2024 16:30:09 +0000</pubDate>
     </item>
     <item>
       <title>【A Crash Course on Using AI to Save Time and Focus on What Matters】使用人工智能节省时间并专注于重要事情的速成课程</title>
@@ -35,28 +47,16 @@
       <pubDate>Thu, 21 Nov 2024 16:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
-      <link>https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system</link>
-      <description>【Mike Tyson vs. Jake Paul was live-streamed on Netflix last week. Let&amp;#8217;s break down the typical tech stack of a live-streaming system.】迈克·泰森 (Mike Tyson) 对阵杰克·保罗 (Jake Paul) 上周在 Netflix 上进行了直播。让我们来分解一下直播系统的典型技术堆栈。</description>
-      <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Stateless Architecture: The Key to Building Scalable and Resilient Systems】无状态架构：构建可扩展和弹性系统的关键</title>
-      <link>https://blog.bytebytego.com/p/stateless-architecture-the-key-to</link>
-      <description>【In today&#39;s rapidly evolving digital landscape, developers face the constant challenge of building applications that are not only robust and secure but also infinitely scalable.】在当今快速发展的数字环境中，开发人员面临着构建不仅强大、安全而且可无限扩展的应用程序的持续挑战。</description>
-      <pubDate>Thu, 28 Nov 2024 16:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP137: Proxy vs Reverse Proxy】EP137：代理与反向代理</title>
-      <link>https://blog.bytebytego.com/p/ep137-proxy-vs-reverse-proxy</link>
-      <description>【A forward proxy is a server that sits between user devices and the internet. A forward proxy is commonly used for:】转发代理是位于用户设备和互联网之间的服务器。转发代理通常用于：</description>
-      <pubDate>Sat, 09 Nov 2024 16:30:55 +0000</pubDate>
-    </item>
-    <item>
       <title>【Our New Book, Generative AI System Design Interview, Is Now Available】我们的新书《生成式人工智能系统设计访谈》现已推出</title>
       <link>https://blog.bytebytego.com/p/our-new-book-generative-ai-system</link>
       <description>【Our new book Generative AI System Design Interview is available on Amazon!】我们的新书《生成式人工智能系统设计访谈》已在亚马逊上发售！</description>
       <pubDate>Mon, 18 Nov 2024 17:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
+      <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
+      <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
+      <pubDate>Tue, 19 Nov 2024 16:30:50 +0000</pubDate>
     </item>
     <item>
       <title>【Storing 200 Billion Entities: Notion’s Data Lake Project】存储 2000 亿个实体：Notion 的数据湖项目</title>

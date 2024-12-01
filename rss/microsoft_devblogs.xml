@@ -4,16 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Why does my program successfully take foreground only when running under the debugger?】为什么我的程序只有在调试器下运行时才能成功进入前台？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241128-00/?p=110586</link>
-      <description>【That&#39;s a special exception to the normal foreground rules.】这是正常前台规则的一个特殊例外。</description>
-      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
+      <title>【Properly cycling domain passwords with the JSonADDomain extension】使用 JsonADDomain 扩展正确循环域密码</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/properly-cycling-domain-passwords-with-the-jsonaddomain-extension</link>
+      <description>【For those familiar with the JsonAdDomain extension, it provides an easy way to join VMs to your domain. However, one aspect that customers have been less crazy about is that the domain password must be shared in the protected settings (where it is at least encrypted) and, more importantly, the functionality of the extension doesn&amp;#8217;t [&amp;hellip;]】对于熟悉 JsonAdDomain 扩展的人来说，它提供了一种将虚拟机加入域的简单方法。然而，客户不太关心的一个方面是，域密码必须在受保护的设置中共享（至少是加密的），更重要的是，扩展的功能不 [...]</description>
+      <pubDate>Wed, 27 Nov 2024 22:59:29 +0000</pubDate>
     </item>
     <item>
-      <title>【So how many replicas should my VM Application use?】那么我的 VM 应用程序应该使用多少个副本？</title>
-      <link>https://devblogs.microsoft.com/azure-vm-runtime/so-how-many-replicas-should-my-vm-application-use</link>
-      <description>【One great advantage of VM Applications is the ability to specify how many replicas you want for each VM Application version. While documentation exists on how to specify replicas, we don&amp;#8217;t really provide advice on determining how many replicas to use. The goal of this post is to rectify that gap. First, the basics. When [&amp;hellip;]】VM 应用程序的一大优势是能够为每个 VM 应用程序版本指定所需的副本数量。虽然存在有关如何指定副本的文档，但我们并没有真正提供有关确定要使用多少副本的建议。这篇文章的目标是弥补这一差距。首先，基础知识。什么时候 […]</description>
-      <pubDate>Wed, 27 Nov 2024 21:25:18 +0000</pubDate>
+      <title>【Announcing the Public Preview of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布公开预览版 OpenID Connect 外部身份提供商对 Microsoft Entra 外部 ID 的支持</title>
+      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-public-preview</link>
+      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now in Public Preview. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】在 Microsoft Entra 外部 ID 中探索新的 OpenID Connect 身份提供商支持，现已提供公共预览版。通过与 Okta、Amazon、Auth0 和 Azure AD B2C 等外部身份提供商联合，简化用户登录和合作伙伴集成，并提高转化率和用户满意度。</description>
+      <pubDate>Fri, 29 Nov 2024 16:07:15 +0000</pubDate>
     </item>
     <item>
       <title>【Transform your debugging experience with GitHub Copilot】使用 GitHub Copilot 改变您的调试体验</title>
@@ -28,16 +28,16 @@
       <pubDate>Wed, 27 Nov 2024 21:16:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Public Preview of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布公开预览版 OpenID Connect 外部身份提供商对 Microsoft Entra 外部 ID 的支持</title>
-      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-public-preview</link>
-      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now in Public Preview. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】了解 Microsoft Entra 外部 ID 中新的 OpenID Connect 身份提供程序支持（现已推出公共预览版）。通过与 Okta、Amazon、Auth0 和 Azure AD B2C 等外部身份提供商联合，简化用户登录和合作伙伴集成，并提高转化率和用户满意度。</description>
-      <pubDate>Fri, 29 Nov 2024 16:07:15 +0000</pubDate>
-    </item>
-    <item>
       <title>【Semantic Kernel Learnings】语义核心学习</title>
       <link>https://devblogs.microsoft.com/ise/semantic-kernel-learnings</link>
       <description>【A synopsis of our key learnings and findings from using Semantic Kernel.】我们使用语义内核的主要学习和发现的概要。</description>
       <pubDate>Fri, 29 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.23 with inspecting cloud API requests】Dev Proxy v0.23 可检查云 API 请求</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-23-with-inspecting-cloud-api-requests</link>
+      <description>【We’re excited to share a new version of Dev Proxy to help you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，以帮助您构建连接到 API 的强大应用程序。</description>
+      <pubDate>Thu, 28 Nov 2024 08:14:32 +0000</pubDate>
     </item>
     <item>
       <title>【Assessing the attack complexity of a race condition security vulnerability】评估竞争条件安全漏洞的攻击复杂性</title>
@@ -46,16 +46,16 @@
       <pubDate>Fri, 29 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Properly cycling domain passwords with the JSonADDomain extension】使用 JsonADDomain 扩展正确循环域密码</title>
-      <link>https://devblogs.microsoft.com/azure-vm-runtime/properly-cycling-domain-passwords-with-the-jsonaddomain-extension</link>
-      <description>【For those familiar with the JsonAdDomain extension, it provides an easy way to join VMs to your domain. However, one aspect that customers have been less crazy about is that the domain password must be shared in the protected settings (where it is at least encrypted) and, more importantly, the functionality of the extension doesn&amp;#8217;t [&amp;hellip;]】对于熟悉 JsonAdDomain 扩展的人来说，它提供了一种将虚拟机加入域的简单方法。然而，客户不太关心的一个方面是，域密码必须在受保护的设置中共享（至少是加密的），更重要的是，扩展的功能不 [...]</description>
-      <pubDate>Wed, 27 Nov 2024 22:59:29 +0000</pubDate>
+      <title>【Why does my program successfully take foreground only when running under the debugger?】为什么我的程序只有在调试器下运行时才能成功进入前台？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241128-00/?p=110586</link>
+      <description>【That&#39;s a special exception to the normal foreground rules.】这是正常前台规则的一个特殊例外。</description>
+      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Dev Proxy v0.23 with inspecting cloud API requests】Dev Proxy v0.23 可检查云 API 请求</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-23-with-inspecting-cloud-api-requests</link>
-      <description>【We’re excited to share a new version of Dev Proxy to help you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，以帮助您构建连接到 API 的强大应用程序。</description>
-      <pubDate>Thu, 28 Nov 2024 08:14:32 +0000</pubDate>
+      <title>【So how many replicas should my VM Application use?】那么我的 VM 应用程序应该使用多少个副本？</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/so-how-many-replicas-should-my-vm-application-use</link>
+      <description>【One great advantage of VM Applications is the ability to specify how many replicas you want for each VM Application version. While documentation exists on how to specify replicas, we don&amp;#8217;t really provide advice on determining how many replicas to use. The goal of this post is to rectify that gap. First, the basics. When [&amp;hellip;]】VM 应用程序的一大优势是能够为每个 VM 应用程序版本指定所需的副本数量。虽然存在有关如何指定副本的文档，但我们并没有真正提供有关确定要使用多少副本的建议。这篇文章的目标是弥补这一差距。首先，基础知识。什么时候 […]</description>
+      <pubDate>Wed, 27 Nov 2024 21:25:18 +0000</pubDate>
     </item>
     <item>
       <title>【Jakarta EE on Azure – November 2024】Azure 上的 Jakarta EE – 2024 年 11 月</title>
