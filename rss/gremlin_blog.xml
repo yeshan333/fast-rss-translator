@@ -4,22 +4,10 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
-      <title>【Best Practices for Testing Zone Redundancy】测试区冗余的最佳实践</title>
-      <link>https://www.gremlin.com/blog/best-practices-for-testing-zone-redundancy</link>
-      <description>【Gremlin Principal Software Engineer Sam Rossoff shares key best practices and strategies for effectively testing zone redundancy.】Gremlin 首席软件工程师 Sam Rossoff 分享了有效测试区域冗余的关键最佳实践和策略。</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Interpreting your reliability test results】解释您的可靠性测试结果</title>
-      <link>https://www.gremlin.com/blog/interpreting-your-reliability-test-results</link>
-      <description>【You’ve run your reliability tests and got your results…now what? This blog explains how to turn your insights into actions and, ultimately, into more reliable services.】您已经运行了可靠性测试并得到了结果……现在怎么办？该博客解释了如何将您的见解转化为行动，并最终转化为更可靠的服务。</description>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Chaos Engineering and Resilience Testing Tools: Build vs Buy】混沌工程和弹性测试工具：构建与购买</title>
-      <link>https://www.gremlin.com/blog/chaos-engineering-tools-build-vs-buy</link>
-      <description>【Not sure whether you should build or buy a Fault Injection tool for Chaos Engineering and resilience testing? Check out the pros and cons of building vs buying.】不确定是否应该构建或购买用于混沌工程和弹性测试的故障注入工具？查看建造与购买的优缺点。</description>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
+      <link>https://www.gremlin.com/blog/gremlin-for-compliance</link>
+      <description>【Find out how Gremlin can help companies in regulated industries comply with Operational Resilience requirements like DORA, APRA CPS230, FCA PS21/3, and more.】了解 Gremlin 如何帮助受监管行业的公司遵守 DORA、APRA CPS230、FCA PS21/3 等运营弹性要求。</description>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How reliability engineering can verify disaster recovery plans】可靠性工程如何验证灾难恢复计划</title>
@@ -34,16 +22,16 @@
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
-      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
-      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Seven tests to measure and improve reliability: what matters and how it works】衡量和提高可靠性的七项测试：重要因素及其工作原理</title>
       <link>https://www.gremlin.com/blog/four-reliability-tests</link>
       <description>【Learn how to take reliability from a &#34;nice to have&#34; to a standard operating practice within your organization. We&#39;ll show you seven easy tests you can use to start building resilient systems.】了解如何将可靠性从“可有可无”转变为组织内的标准操作实践。我们将向您展示七个可用于开始构建弹性系统的简单测试。</description>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reliability recommendations when adopting Kubernetes】采用 Kubernetes 时的可靠性建议</title>
+      <link>https://www.gremlin.com/blog/reliability-recommendations-when-adopting-kubernetes</link>
+      <description>【General reliability best practices when adopting Kubernetes.】采用 Kubernetes 时的一般可靠性最佳实践。</description>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Release Roundup August 2024: Set experiment guardrails with customizable RBAC】2024 年 8 月发布综述：使用可定制的 RBAC 设置实验护栏</title>
@@ -52,16 +40,28 @@
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to verify, document, &amp; prove compliance with Gremlin】如何验证、记录和证明 Gremlin 的合规性</title>
-      <link>https://www.gremlin.com/blog/gremlin-for-compliance</link>
-      <description>【Find out how Gremlin can help companies in regulated industries comply with Operational Resilience requirements like DORA, APRA CPS230, FCA PS21/3, and more.】了解 Gremlin 如何帮助受监管行业的公司遵守 DORA、APRA CPS230、FCA PS21/3 等运营弹性要求。</description>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <title>【Best Practices for Testing Zone Redundancy】测试区冗余的最佳实践</title>
+      <link>https://www.gremlin.com/blog/best-practices-for-testing-zone-redundancy</link>
+      <description>【Gremlin Principal Software Engineer Sam Rossoff shares key best practices and strategies for effectively testing zone redundancy.】Gremlin 首席软件工程师 Sam Rossoff 分享了有效测试区域冗余的关键最佳实践和策略。</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Reliability recommendations when adopting Kubernetes】采用 Kubernetes 时的可靠性建议</title>
-      <link>https://www.gremlin.com/blog/reliability-recommendations-when-adopting-kubernetes</link>
-      <description>【General reliability best practices when adopting Kubernetes.】采用 Kubernetes 时的一般可靠性最佳实践。</description>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <title>【Chaos Engineering and Resilience Testing Tools: Build vs Buy】混沌工程和弹性测试工具：构建与购买</title>
+      <link>https://www.gremlin.com/blog/chaos-engineering-tools-build-vs-buy</link>
+      <description>【Not sure whether you should build or buy a Fault Injection tool for Chaos Engineering and resilience testing? Check out the pros and cons of building vs buying.】不确定是否应该构建或购买用于混沌工程和弹性测试的故障注入工具？查看建造与购买的优缺点。</description>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Interpreting your reliability test results】解释您的可靠性测试结果</title>
+      <link>https://www.gremlin.com/blog/interpreting-your-reliability-test-results</link>
+      <description>【You’ve run your reliability tests and got your results…now what? This blog explains how to turn your insights into actions and, ultimately, into more reliable services.】您已经运行了可靠性测试并得到了结果……现在怎么办？该博客解释了如何将您的见解转化为行动，并最终转化为更可靠的服务。</description>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to test AWS managed services with Gremlin】如何使用 Gremlin 测试 AWS 托管服务</title>
+      <link>https://www.gremlin.com/blog/how-to-test-aws-managed-services-with-gremlin</link>
+      <description>【How do you run reliability tests on services that you don’t manage? This blog explains how to manage reliability when using cloud services, including AWS, GCP, and Azure.】如何对您不管理的服务运行可靠性测试？本博客介绍了如何在使用云服务（包括 AWS、GCP 和 Azure）时管理可靠性。</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

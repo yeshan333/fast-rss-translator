@@ -10,34 +10,10 @@
       <pubDate>Wed, 27 Nov 2024 22:59:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Public Preview of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布公开预览版 OpenID Connect 外部身份提供商对 Microsoft Entra 外部 ID 的支持</title>
-      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-public-preview</link>
-      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now in Public Preview. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】在 Microsoft Entra 外部 ID 中探索新的 OpenID Connect 身份提供商支持，现已提供公共预览版。通过与 Okta、Amazon、Auth0 和 Azure AD B2C 等外部身份提供商联合，简化用户登录和合作伙伴集成，并提高转化率和用户满意度。</description>
-      <pubDate>Fri, 29 Nov 2024 16:07:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Transform your debugging experience with GitHub Copilot】使用 GitHub Copilot 改变您的调试体验</title>
-      <link>https://devblogs.microsoft.com/visualstudio/transform-your-debugging-experience-with-github-copilot</link>
-      <description>【Are your unit tests failing, and do you want to debug them more effectively? The latest feature in Visual Studio 2022, powered by GitHub Copilot, has the perfect solution for you. Introducing the Debug with Copilot button in Test Explorer, this feature takes the hassle out of debugging failed tests and gets you closer to [&amp;hellip;]】您的单元测试失败了吗？您想更有效地调试它们吗？由 GitHub Copilot 提供支持的 Visual Studio 2022 中的最新功能为您提供了完美的解决方案。在测试资源管理器中引入了“使用 Copilot 进行调试”按钮，此功能消除了调试失败测试的麻烦，让您更接近 [...]</description>
-      <pubDate>Thu, 28 Nov 2024 13:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (November 2024)】Azure SDK 版本（2024 年 11 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2024</link>
-      <description>【The Azure SDKs release every month. This post includes the month&#39;s highlights and release notes.】Azure SDK 每月发布一次。这篇文章包括本月的亮点和发行说明。</description>
-      <pubDate>Wed, 27 Nov 2024 21:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel Learnings】语义核心学习</title>
-      <link>https://devblogs.microsoft.com/ise/semantic-kernel-learnings</link>
-      <description>【A synopsis of our key learnings and findings from using Semantic Kernel.】我们使用语义内核的主要学习和发现的概要。</description>
-      <pubDate>Fri, 29 Nov 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v0.23 with inspecting cloud API requests】Dev Proxy v0.23 可检查云 API 请求</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-23-with-inspecting-cloud-api-requests</link>
-      <description>【We’re excited to share a new version of Dev Proxy to help you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，以帮助您构建连接到 API 的强大应用程序。</description>
-      <pubDate>Thu, 28 Nov 2024 08:14:32 +0000</pubDate>
+      <title>【Jakarta EE on Azure – November 2024】Azure 上的 Jakarta EE – 2024 年 11 月</title>
+      <link>https://devblogs.microsoft.com/java/jakarta-ee-on-azure-november-2024</link>
+      <description>【Hi everyone, welcome to the November 2024 update for Jakarta EE on Azure. It covers topics as new AZD template of Quarkus Apps on Azure Container Apps, Cargo Tracker Deployment with AI integration, AI infused apps with Open Liberty on AKS, Java apps authentication with Microsoft Entra ID, and new features for JBoss EAP on [&amp;hellip;]】大家好，欢迎来到 Azure 上的 Jakarta EE 2024 年 11 月更新。它涵盖的主题包括 Azure 容器应用程序上 Quarkus 应用程序的新 AZD 模板、具有 AI 集成的 Cargo Tracker 部署、AKS 上具有 Open Liberty 的 AI 注入应用程序、具有 Microsoft Entra ID 的 Java 应用程序身份验证以及 [...]</description>
+      <pubDate>Thu, 28 Nov 2024 03:34:35 +0000</pubDate>
     </item>
     <item>
       <title>【Assessing the attack complexity of a race condition security vulnerability】评估竞争条件安全漏洞的攻击复杂性</title>
@@ -46,22 +22,46 @@
       <pubDate>Fri, 29 Nov 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does my program successfully take foreground only when running under the debugger?】为什么我的程序只有在调试器下运行时才能成功进入前台？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241128-00/?p=110586</link>
-      <description>【That&#39;s a special exception to the normal foreground rules.】这是正常前台规则的一个特殊例外。</description>
-      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【So how many replicas should my VM Application use?】那么我的 VM 应用程序应该使用多少个副本？</title>
       <link>https://devblogs.microsoft.com/azure-vm-runtime/so-how-many-replicas-should-my-vm-application-use</link>
       <description>【One great advantage of VM Applications is the ability to specify how many replicas you want for each VM Application version. While documentation exists on how to specify replicas, we don&amp;#8217;t really provide advice on determining how many replicas to use. The goal of this post is to rectify that gap. First, the basics. When [&amp;hellip;]】VM 应用程序的一大优势是能够为每个 VM 应用程序版本指定所需的副本数量。虽然存在有关如何指定副本的文档，但我们并没有真正提供有关确定要使用多少副本的建议。这篇文章的目标是弥补这一差距。首先，基础知识。什么时候 […]</description>
       <pubDate>Wed, 27 Nov 2024 21:25:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Jakarta EE on Azure – November 2024】Azure 上的 Jakarta EE – 2024 年 11 月</title>
-      <link>https://devblogs.microsoft.com/java/jakarta-ee-on-azure-november-2024</link>
-      <description>【Hi everyone, welcome to the November 2024 update for Jakarta EE on Azure. It covers topics as new AZD template of Quarkus Apps on Azure Container Apps, Cargo Tracker Deployment with AI integration, AI infused apps with Open Liberty on AKS, Java apps authentication with Microsoft Entra ID, and new features for JBoss EAP on [&amp;hellip;]】大家好，欢迎来到 Azure 上的 Jakarta EE 2024 年 11 月更新。它涵盖的主题包括 Azure 容器应用程序上 Quarkus 应用程序的新 AZD 模板、具有 AI 集成的 Cargo Tracker 部署、AKS 上具有 Open Liberty 的 AI 注入应用程序、具有 Microsoft Entra ID 的 Java 应用程序身份验证以及 [...]</description>
-      <pubDate>Thu, 28 Nov 2024 03:34:35 +0000</pubDate>
+      <title>【Semantic Kernel Learnings】语义核心学习</title>
+      <link>https://devblogs.microsoft.com/ise/semantic-kernel-learnings</link>
+      <description>【A synopsis of our key learnings and findings from using Semantic Kernel.】我们使用语义内核的主要学习和发现的概要。</description>
+      <pubDate>Fri, 29 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the Public Preview of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布公开预览版 OpenID Connect 外部身份提供商对 Microsoft Entra 外部 ID 的支持</title>
+      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-public-preview</link>
+      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now in Public Preview. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】在 Microsoft Entra 外部 ID 中探索新的 OpenID Connect 身份提供商支持，现已提供公共预览版。通过与 Okta、Amazon、Auth0 和 Azure AD B2C 等外部身份提供商联合，简化用户登录和合作伙伴集成，并提高转化率和用户满意度。</description>
+      <pubDate>Fri, 29 Nov 2024 16:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does my program successfully take foreground only when running under the debugger?】为什么我的程序只有在调试器下运行时才能成功进入前台？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241128-00/?p=110586</link>
+      <description>【That&#39;s a special exception to the normal foreground rules.】这是正常前台规则的一个特殊例外。</description>
+      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Transform your debugging experience with GitHub Copilot】使用 GitHub Copilot 改变您的调试体验</title>
+      <link>https://devblogs.microsoft.com/visualstudio/transform-your-debugging-experience-with-github-copilot</link>
+      <description>【Are your unit tests failing, and do you want to debug them more effectively? The latest feature in Visual Studio 2022, powered by GitHub Copilot, has the perfect solution for you. Introducing the Debug with Copilot button in Test Explorer, this feature takes the hassle out of debugging failed tests and gets you closer to [&amp;hellip;]】您的单元测试失败了吗？您想更有效地调试它们吗？由 GitHub Copilot 提供支持的 Visual Studio 2022 中的最新功能为您提供了完美的解决方案。在测试资源管理器中引入了“使用 Copilot 进行调试”按钮，此功能消除了调试失败测试的麻烦，让您更接近 [...]</description>
+      <pubDate>Thu, 28 Nov 2024 13:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.23 with inspecting cloud API requests】Dev Proxy v0.23 可检查云 API 请求</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-23-with-inspecting-cloud-api-requests</link>
+      <description>【We’re excited to share a new version of Dev Proxy to help you build robust apps connected to APIs.】我们很高兴与您分享新版本的 Dev Proxy，以帮助您构建连接到 API 的强大应用程序。</description>
+      <pubDate>Thu, 28 Nov 2024 08:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to subscribe to GitHub Enterprise with Advanced Security and Copilot Business/Enterprise: A Step-by-Step Guide】如何订阅具有高级安全性的 GitHub Enterprise 和 Copilot Business/Enterprise：分步指南</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-to-subscribe-to-github-enterprise-with-advanced-security-and-copilot</link>
+      <description>【As GitHub announced metered billing, anyone with an active Azure subscription can now self-provision a paid GitHub Enterprise Cloud account, with Advanced Security and GitHub Copilot Business/Enterprise. This post is a screenshot-based step-by-step guide on how you can do so. Pre-requisites Before we get started, ensure that you have the following: An active Microsoft Azure [&amp;hellip;]】随着 GitHub 宣布计量计费，拥有有效 Azure 订阅的任何人现在都可以自行配置付费 GitHub Enterprise Cloud 帐户，并具有高级安全性和 GitHub Copilot Business/Enterprise。这篇文章是一个基于屏幕截图的分步指南，告诉您如何执行此操作。先决条件 在我们开始之前，请确保您具备以下条件： 有效的 Microsoft Azure [...]</description>
+      <pubDate>Sun, 01 Dec 2024 22:12:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
