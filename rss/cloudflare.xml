@@ -4,46 +4,16 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts】欧洲的弹性互联网连接减轻了多次电缆中断的影响</title>
+      <link>https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts</link>
+      <description>【 Two recent cable cuts that occurred in the Baltic Sea resulted in little-to-no observable impact to the affected countries, in large part because of the significant redundancy and resilience of Internet infrastructure in Europe.&#xA; 】最近在波罗的海发生的两次电缆中断对受影响国家几乎没有产生明显的影响，这在很大程度上是因为欧洲互联网基础设施的大量冗余和恢复能力。</description>
+      <pubDate>Wed, 20 Nov 2024 21:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Bigger and badder: how DDoS attack sizes have evolved over the last decade】更大更坏：DDoS 攻击规模在过去十年中如何演变</title>
       <link>https://blog.cloudflare.com/bigger-and-badder-how-ddos-attack-sizes-have-evolved-over-the-last-decade</link>
       <description>【 If we plot the metrics associated with large DDoS attacks observed in the last 10 years, does it show a straight, steady increase in an exponential curve that keeps becoming steeper, or is it closer to a linear growth? Our analysis found the growth is not linear but rather is exponential, with the slope varying depending on the metric (rps, pps or bps).  】如果我们绘制与过去 10 年观察到的大型 DDoS 攻击相关的指标，它是否显示出指数曲线的直线、稳定增长并不断变得陡峭，还是更接近线性增长？我们的分析发现，增长不是线性的，而是呈指数增长，斜率根据指标（rps、pps 或 bps）而变化。</description>
       <pubDate>Wed, 20 Nov 2024 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Workers Builds: integrated CI/CD built on the Workers platform】Workers Builds：在 Workers 平台上构建的集成 CI/CD</title>
-      <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
-      <description>【 Workers Builds, an integrated CI/CD pipeline for the Workers platform, recently launched in open beta. We walk through how we built this product on Cloudflare’s Developer Platform. 】Workers Builds 是 Workers 平台的集成 CI/CD 管道，最近推出了公开测试版。我们将介绍如何在 Cloudflare 的开发者平台上构建此产品。</description>
-      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
-      <link>https://blog.cloudflare.com/do-it-again</link>
-      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single, persistent connection. 】我们使用 Cloudflare 的开发者平台和持久对象来构建身份验证和 WebSockets API，开发者可以使用它来调用 AI 网关，从而通过单个持久连接实现持续通信。</description>
-      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts】欧洲的弹性互联网连接减轻了多次电缆中断的影响</title>
-      <link>https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts</link>
-      <description>【 Two recent cable cuts that occurred in the Baltic Sea resulted in little-to-no observable impact to the affected countries, in large part because of the significant redundancy and resilience of Internet infrastructure in Europe.&#xA; 】最近发生在波罗的海的两次电缆中断对受影响国家几乎没有造成明显影响，这在很大程度上是因为欧洲互联网基础设施的大量冗余和恢复能力。</description>
-      <pubDate>Wed, 20 Nov 2024 21:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs】将 Baselime 从 AWS 迁移到 Cloudflare：架构更简单、性能更高、云成本降低 80% 以上</title>
-      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
-      <description>【 Post-acquisition, we migrated Baselime from AWS to the Cloudflare Developer Platform and in the process, we improved query times, simplified data ingestion, and now handle far more events, all while cutting costs. Here’s how we built a modern, high-performing observability platform on Cloudflare’s network.  】收购后，我们将 Baselime 从 AWS 迁移到 Cloudflare 开发者平台，在此过程中，我们缩短了查询时间，简化了数据摄取，现在可以处理更多事件，同时还降低了成本。以下是我们如何在 Cloudflare 网络上构建现代化、高性能的可观测平台。</description>
-      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A look at the latest post-quantum signature standardization candidates】看看最新的后量子签名标准化候选者</title>
-      <link>https://blog.cloudflare.com/another-look-at-pq-signatures</link>
-      <description>【 NIST has standardized four post-quantum signature schemes so far, and they’re not done yet: there are fourteen new candidates in the running for standardization. In this blog post we take measure of them and discover why we ended up with so many PQ signatures. 】到目前为止，NIST 已经标准化了四种后量子签名方案，但它们尚未完成：还有 14 个新候选方案正在竞选标准化。在这篇博文中，我们对它们进行了测量，并发现了为什么我们最终得到了如此多的 PQ 签名。</description>
-      <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs</link>
-      <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
-      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How we prevent conflicts in authoritative DNS configuration using formal verification】我们如何使用形式验证来防止权威 DNS 配置中的冲突</title>
@@ -52,16 +22,46 @@
       <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring Internet traffic shifts and cyber attacks during the 2024 US election】探索 2024 年美国大选期间的互联网流量变化和网络攻击</title>
-      <link>https://blog.cloudflare.com/exploring-internet-traffic-shifts-and-cyber-attacks-during-the-2024-us-election</link>
-      <description>【 Election Day 2024 in the US saw a surge in cyber activity. Cloudflare blocked several DDoS attacks on political and election sites, ensuring no impact. In this post, we analyze these attacks, as well Internet traffic increases across the US and other key trends. 】2024 年美国选举日网络活动激增。 Cloudflare 阻止了针对政治和选举网站的多次 DDoS 攻击，确保不会造成任何影响。在这篇文章中，我们分析了这些攻击，以及美国各地互联网流量的增长和其他主要趋势。</description>
-      <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
+      <title>【A look at the latest post-quantum signature standardization candidates】看看最新的后量子签名标准化候选者</title>
+      <link>https://blog.cloudflare.com/another-look-at-pq-signatures</link>
+      <description>【 NIST has standardized four post-quantum signature schemes so far, and they’re not done yet: there are fourteen new candidates in the running for standardization. In this blog post we take measure of them and discover why we ended up with so many PQ signatures. 】到目前为止，NIST 已经标准化了四种后量子签名方案，但它们尚未完成：还有 14 个新候选方案正在竞选标准化。在这篇博文中，我们对它们进行了测量，并发现了为什么我们最终得到了如此多的 PQ 签名。</description>
+      <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
+      <link>https://blog.cloudflare.com/do-it-again</link>
+      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single, persistent connection. 】我们使用 Cloudflare 的开发者平台和持久对象来构建身份验证和 WebSockets API，开发者可以使用它来调用 AI 网关，从而通过单个持久连接实现持续通信。</description>
+      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s new in Cloudflare: Account Owned Tokens and Zaraz Automated Actions】Cloudflare 的新增功能：账户拥有的代币和 Zaraz 自动操作</title>
       <link>https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz</link>
       <description>【 Cloudflare customers can now create Account Owned Tokens , allowing more flexibility around access control for their Cloudflare services. Additionally, Zaraz Automation Actions streamlines event tracking and third-party tool integration.  】Cloudflare 客户现在可以创建帐户拥有的令牌，从而为 Cloudflare 服务的访问控制提供更大的灵活性。此外，Zaraz Automation Actions 还简化了事件跟踪和第三方工具集成。</description>
       <pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs】将 Baselime 从 AWS 迁移到 Cloudflare：架构更简单、性能更高、云成本降低 80% 以上</title>
+      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
+      <description>【 Post-acquisition, we migrated Baselime from AWS to the Cloudflare Developer Platform and in the process, we improved query times, simplified data ingestion, and now handle far more events, all while cutting costs. Here’s how we built a modern, high-performing observability platform on Cloudflare’s network.  】收购后，我们将 Baselime 从 AWS 迁移到 Cloudflare 开发者平台，在此过程中，我们缩短了查询时间，简化了数据摄取，现在可以处理更多事件，同时还降低了成本。以下是我们如何在 Cloudflare 网络上构建现代化、高性能的可观测平台。</description>
+      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring Internet traffic shifts and cyber attacks during the 2024 US election】探索 2024 年美国大选期间的互联网流量变化和网络攻击</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-shifts-and-cyber-attacks-during-the-2024-us-election</link>
+      <description>【 Election Day 2024 in the US saw a surge in cyber activity. Cloudflare blocked several DDoS attacks on political and election sites, ensuring no impact. In this post, we analyze these attacks, as well Internet traffic increases across the US and other key trends. 】2024 年美国选举日网络活动激增。 Cloudflare 阻止了针对政治和选举网站的多次 DDoS 攻击，确保不会造成任何影响。在这篇文章中，我们分析了这些攻击，以及美国各地互联网流量的增长和其他主要趋势。</description>
+      <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Workers Builds: integrated CI/CD built on the Workers platform】Workers Builds：在 Workers 平台上构建的集成 CI/CD</title>
+      <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
+      <description>【 Workers Builds, an integrated CI/CD pipeline for the Workers platform, recently launched in open beta. We walk through how we built this product on Cloudflare’s Developer Platform. 】Workers Builds 是 Workers 平台的集成 CI/CD 管道，最近推出了公开测试版。我们将介绍如何在 Cloudflare 的开发者平台上构建此产品。</description>
+      <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs</link>
+      <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
+      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
