@@ -4,16 +4,40 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【An analogy about register preservation rules in calling conventions】调用约定中寄存器保存规则的类比</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241202-00/?p=110595</link>
-      <description>【And tying it back to unwind codes.】并将其绑回展开代码。</description>
-      <pubDate>Mon, 02 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Accessibility improvements in Microsoft 365 PDF export】Microsoft 365 PDF 导出中的辅助功能改进</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/accessibility-improvements-in-microsoft-365-pdf-export</link>
+      <description>【Developers can leverage the accessibility improvements in PDF export in Word, Excel, and PowerPoint to build more inclusive solutions.】开发人员可以利用 Word、Excel 和 PowerPoint 中 PDF 导出的辅助功能改进来构建更具包容性的解决方案。</description>
+      <pubDate>Mon, 02 Dec 2024 16:54:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing: Azure Developers – Python Day】宣布：Azure 开发者 – Python Day</title>
-      <link>https://devblogs.microsoft.com/python/azure-developers-python-day-2024</link>
-      <description>【Experience cloud computing with Python on Azure during Python Day 2024!】在 2024 年 Python Day 期间体验在 Azure 上使用 Python 进行云计算！</description>
-      <pubDate>Mon, 02 Dec 2024 15:41:18 +0000</pubDate>
+      <title>【Introducing the Copy Git Permalink Feature in Visual Studio 17.12】Visual Studio 17.12 中引入复制 Git 永久链接功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-the-copy-git-permalink-feature-in-visual-studio-17-12</link>
+      <description>【We are excited to announce the release of the Copy Git Permalink feature in Visual Studio 17.12. This new functionality streamlines the process of sharing code references, enhancing collaboration and ensuring that critical context is preserved. Effortless Code Sharing If you’ve found yourself needing to share code snippets with colleagues, you know the challenges of [&amp;hellip;]】我们很高兴地宣布 Visual Studio 17.12 中发布了复制 Git 永久链接功能。这一新功能简化了共享代码引用、增强协作并确保保留关键上下文的过程。轻松的代码共享如果您发现自己需要与同事共享代码片段，那么您就会知道[...]的挑战</description>
+      <pubDate>Tue, 03 Dec 2024 14:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.23.3-2 and 1.22.9-2 Microsoft builds now available】Go 1.23.3-2 和 1.22.9-2 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-3-2-and-1-22-9-2-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Tue, 03 Dec 2024 19:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft DevLabs Extensions】微软开发实验室扩展</title>
+      <link>https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions</link>
+      <description>【The Microsoft DevLabs publisher was created as a hub for internal teams at Microsoft to channel their passion for Azure DevOps into experimental extensions. These extensions helped address product gaps and fostered innovation, ultimately benefiting Azure DevOps customers via the public marketplace. The challenge Over time, as the original creators of these extensions moved on [&amp;hellip;]】Microsoft DevLabs 发布者是作为 Microsoft 内部团队的中心而创建的，旨在将他们对 Azure DevOps 的热情转化为实验性扩展。这些扩展有助于解决产品差距并促进创新，最终通过公共市场使 Azure DevOps 客户受益。随着时间的推移，随着这些扩展的原始创建者继续前进，挑战 [...]</description>
+      <pubDate>Tue, 03 Dec 2024 20:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Fabric API for GraphQL™ for Azure Cosmos DB Mirroring】适用于 Azure Cosmos DB 镜像的 GraphQL™ 的 Microsoft Fabric API</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/microsoft-fabric-api-for-graphql-for-azure-cosmos-db-mirroring</link>
+      <description>【The Microsoft Fabric API for GraphQL™ provides a data access layer that enables you to query multiple data sources quickly and efficiently using a widely adopted and familiar API technology. This API abstracts the specifics of backend data sources, allowing you to focus on your application&amp;#8217;s logic and deliver all the data a client needs [&amp;hellip;]】Microsoft Fabric API for GraphQL™ 提供了一个数据访问层，使您能够使用广泛采用且熟悉的 API 技术快速高效地查询多个数据源。该 API 抽象了后端数据源的细节，使您能够专注于应用程序的逻辑并提供客户端需要的所有数据[...]</description>
+      <pubDate>Tue, 03 Dec 2024 17:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【使用Semantic Kernel来开启您的AI旅程】使用Semantic Kernel来开启您的AI旅程</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/%e4%bd%bf%e7%94%a8semantic-kernel%e6%9d%a5%e5%bc%80%e5%90%af%e6%82%a8%e7%9a%84ai%e6%97%85%e7%a8%8b</link>
+      <description>【Semantic Kernel (SK) 是由微软开发的一款开源开发工具包，旨在帮助开发者和企业利用最新的人工智能技术构建更智能和复杂的AI驱动解决方案，例如检索增强生成 (RAG) 和智能体 (Agent)。 核心概念 内核（Kernel） 您可以将SK的内核视为一个容器，该容器包含您所需的所有与AI相关的组件，如提示语模板、AI服务和插件。如果将所有的服务和插件提供给内核，则AI会根据需求自动使用它们。SK还提供多项企业级功能，使您可以保证您的AI符合安全要求且在部署后能够持续监控AI的表现。 提示语（Prompt Engineering） 提示语在使用大型语言模型中至关重要。优质的提示语能够显著提升用户体验。SK通过提示语模板（template）的方式来实现自然语言与AI插件的混合使用，让您的提示语变得更加的灵活。 AI服务（AI Services） SK支持多种AI应用场景，包括对话补全，文本生成，嵌入（embedding）生成，图像与文字转换，以及音频与文字转换。此外，SK兼容多个AI服务提供商，如OpenAI，Azure，Google AI， Amazon Bedrock， 以及提供本地推理服务的Ollama等。 插件（Plugins/Functions） SK通过插件支持扩展大型语言模型的功能。插件可以是代码或自然语言，并可集成外部系统，如数据库、API或其他云服务，以便AI解决方案获取动态信息。 矢量存储（Vector Stores） 矢量存储可以被视为存储嵌入的数据库。许多现代数据库已开始提供矢量存储服务，这在构建RAG方案的检索步骤中扮演着重要角色。SK支持市场上大部分的矢量数据库，比如说Azure AI Search，Azure Cosmos DB，Qdrant，Redis， 和Weaviate等。 企业组件（Enterprise Components） SK自项目启动之初便将企业级AI解决方案作为首要目标。SK提供一系列功能以增强AI的安全性，包括筛选器（Filter）和可观察性（Observability）。筛选器可用于过滤提示语，确保不处理不安全的提示，并在生成式AI的回答到达终端用户前进行适当过滤。可观察性确保您在将AI部署到分布式系统时，仍能了解系统内部的运行状态，包括token的使用情况、函数的运行时间、以及大型语言模型的输入输出等。 框架 除了上述核心功能外，SK还提供以下框架，以帮助您构建更复杂的AI解决方案： 智能体框架：利用了SK生态创建和管理AI智能体。 业务流框架：利用了SK生态使企业能更有效地创建，管理和部署完整的AI业务流程。 关于这两个框架的详细介绍，我将在后续文章中单独阐述，敬请期待！ 开始使用 目前，SK支持三种编程语言：C#，Python，和Java。SK的源代码托管在GitHub上。您可以访问我们的仓库以获取源代码，文档和开发示例： C#源代码：semantic-kernel/dotnet at main · microsoft/semantic-kernel C#示例：semantic-kernel/dotnet/samples at main · microsoft/semantic-kernel Python源代码：semantic-kernel/python at main · microsoft/semantic-kernel [&amp;hellip;]】Semantic Kernel (SK) 是由微软开发的一款开源开发工具包，旨在帮助开发者和企业利用最新的人工智能技术构建更智能和复杂的AI驱动解决方案，例如检索增强生成(RAG) 和智能体(Agent)。 核心概念 内核（Kernel） 您可以将SK的内核视为一个容器，该容器包含您所需的所有与AI相关的组件，如提示语模板、AI服务和插件。如果将所有的服务和插件提供给内核，则AI会根据需求自动使用它们。 SK还提供多项企业级功能，使您可以保证您的AI符合安全要求且在部署后能够持续监控AI的表现。 提示语（Prompt Engineering） 提示语在使用大型语言模型中至关重要。优质的提示语能够显着提升用户体验。 SK通过提示语模板（template）的方式来实现自然语言与AI插件的混合使用，让您的提示语变得更加的灵活。 AI服务（AI Services） SK支持多种AI应用场景，包括对话补全，文本生成，嵌入（embedding）生成，图像与文字转换，以及音频与文字转换。此外，SK兼容多个AI服务提供商，如OpenAI，Azure，Google AI， Amazon Bedrock， 以及提供本地推理服务的Ollama等。 插件（Plugins/Functions） SK通过插件支持扩展大型语言模型的功能。插件可以是代码或自然语言，并可集成外部系统，如数据库、API或其他云服务，以便AI解决方案获取动态信息。 矢量存储（Vector Stores） 矢量存储可以被视为存储嵌入的数据库。许多现代数据库已开始提供矢量存储服务，这在构建RAG方案的检索步骤中扮演着重要角色。 SK支持市场上大部分的矢量数据库，比如说Azure AI Search，Azure Cosmos DB，Qdrant，Redis， 和Weaviate等。 企业组件（Enterprise Components） SK自项目启动之初便将企业级AI解决方案作为首要目标。 SK提供一系列功能以增强AI的安全性，包括筛选器（Filter）和可观察性（Observability）。筛选器可用于过滤提示语，确保不处理不安全的提示，并在生成式AI的回答到达终端用户前进行适当过滤。可观察性确保您在将AI部署到分布式系统时，仍能了解系统内部的运行状态，包括token的使用情况、函数的运行时间、以及大型语言模型的输入输出等。 框架 除了上述核心功能外，SK还提供以下框架，以帮助您构建更复杂的AI解决方案： 智能体框架：利用了SK生态创建和管理AI智能体。 业务流框架：利用了SK生态使企业能更有效地创建，管理和部署完整的AI业务流程。 关于这两个框架的详细介绍，我将在后续文章中单独阐述，敬请期待！ 开始使用 目前，SK支持三种编程语言：C#，Python，和Java。 SK的源代码托管在GitHub上。您可以访问我们的仓库以获取源代码，文档和开发示例： C#源代码：semantic-kernel/dotnet at main · microsoft/semantic-kernelC#示例：semantic-kernel/dotnet/samples at main · microsoft/semantic-kernel Python源代码：semantic-kernel/python at main · microsoft/semantic-kernel […]</description>
+      <pubDate>Mon, 02 Dec 2024 15:53:44 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft Entra External ID Custom URL Domains—now generally available】Microsoft Entra 外部 ID 自定义 URL 域 — 现已全面上市</title>
@@ -22,46 +46,22 @@
       <pubDate>Mon, 02 Dec 2024 15:51:08 +0000</pubDate>
     </item>
     <item>
-      <title>【AI-Powered Insights: Streamlining Variable Analysis with GitHub Copilot in Visual Studio】AI 支持的见解：在 Visual Studio 中使用 GitHub Copilot 简化变量分析</title>
-      <link>https://devblogs.microsoft.com/visualstudio/ai-powered-insights-streamlining-variable-analysis-with-github-copilot-in-visual-studio</link>
-      <description>【Tired of spending countless hours troubleshooting errors and unexpected values in your code? Visual Studio 2022 introduces GitHub Copilot Variable Analysis. This powerful tool makes inspecting and analyzing variables from Locals, Autos, watch windows and DataTips effortless, helping you solve issues faster and cutting down on time and frustration. Enhanced Debugging Experience Debugging can often [&amp;hellip;]】厌倦了花费无数时间排除代码中的错误和意外值？ Visual Studio 2022 引入了 GitHub Copilot 变量分析。这个强大的工具可以轻松检查和分析来自本地、汽车、观察窗口和数据提示的变量，帮助您更快地解决问题并减少时间和挫败感。增强的调试体验调试通常可以[...]</description>
-      <pubDate>Mon, 02 Dec 2024 14:44:07 +0000</pubDate>
-    </item>
-    <item>
       <title>【Update on nested app authentication and deprecation of Exchange Online legacy tokens】有关嵌套应用程序身份验证和弃用 Exchange Online 旧令牌的更新</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/naa-and-deprecation-of-legacy-tokens</link>
       <description>【Earlier this year, the Office Platform Team announced that Exchange Online legacy tokens are deprecated and will be turned off. This is part of Microsoft’s Secure Future Initiative (SFI) to give organizations the tools they need in the current threat landscape. We’ll begin turning off legacy tokens in February 2025. Publishers and developers are actively migrating their Outlook add-ins to use Entra ID tokens through nested app authentication (NAA) and Microsoft Graph instead of legacy tokens. 】今年早些时候，Office 平台团队宣布 Exchange Online 旧令牌已弃用并将关闭。这是 Microsoft 安全未来计划 (SFI) 的一部分，旨在为组织提供应对当前威胁形势所需的工具。我们将于 2025 年 2 月开始关闭旧令牌。发布商和开发人员正在积极迁移其 Outlook 加载项，以通过嵌套应用身份验证 (NAA) 和 Microsoft Graph 使用 Entra ID 令牌，而不是旧令牌。 </description>
       <pubDate>Mon, 02 Dec 2024 19:55:59 +0000</pubDate>
     </item>
     <item>
-      <title>【How to subscribe to GitHub Enterprise with Advanced Security and Copilot Business/Enterprise: A Step-by-Step Guide】如何订阅具有高级安全性的 GitHub Enterprise 和 Copilot Business/Enterprise：分步指南</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-to-subscribe-to-github-enterprise-with-advanced-security-and-copilot</link>
-      <description>【As GitHub announced metered billing, anyone with an active Azure subscription can now self-provision a paid GitHub Enterprise Cloud account, with Advanced Security and GitHub Copilot Business/Enterprise. This post is a screenshot-based step-by-step guide on how you can do so. Pre-requisites Before we get started, ensure that you have the following: An active Microsoft Azure [&amp;hellip;]】随着 GitHub 宣布计量计费，拥有有效 Azure 订阅的任何人现在都可以自行配置付费 GitHub Enterprise Cloud 帐户，并具有高级安全性和 GitHub Copilot Business/Enterprise。这篇文章是一个基于屏幕截图的分步指南，告诉您如何执行此操作。先决条件 在我们开始之前，请确保您具备以下条件： 有效的 Microsoft Azure [...]</description>
-      <pubDate>Sun, 01 Dec 2024 22:12:02 +0000</pubDate>
+      <title>【Tracing your AI apps with Azure AI Foundry】使用 Azure AI Foundry 跟踪您的 AI 应用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/tracing-your-ai-apps-with-azure-ai-foundry</link>
+      <description>【We previously introduced observability within the Semantic Kernel. For further insights, please refer to our previous blog post, and you can also explore our learn site for additional details. To summarize, observability is an essential aspect of your application stack, particularly in today&amp;#8217;s landscape where AI plays a significant role in numerous applications. Given that [&amp;hellip;]】我们之前介绍了语义内核中的可观察性。如需更多见解，请参阅我们之前的博客文章，您还可以浏览我们的学习网站以获取更多详细信息。总而言之，可观察性是应用程序堆栈的一个重要方面，特别是在当今人工智能在众多应用程序中发挥着重要作用的环境中。鉴于 […]</description>
+      <pubDate>Tue, 03 Dec 2024 16:40:53 +0000</pubDate>
     </item>
     <item>
-      <title>【News flash: Desire for loud cars correlates with psychopathy and sadism】新闻快讯：对吵闹汽车的渴望与精神病和虐待狂有关</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241202-01/?p=110598</link>
-      <description>【More research into loud vehicles.】对噪音车辆进行更多研究。</description>
-      <pubDate>Mon, 02 Dec 2024 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Accessibility improvements in Microsoft 365 PDF export】Microsoft 365 PDF 导出中的辅助功能改进</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/accessibility-improvements-in-microsoft-365-pdf-export</link>
-      <description>【Developers can leverage the accessibility improvements in PDF export in Word, Excel, and PowerPoint to build more inclusive solutions.】开发人员可以利用 Word、Excel 和 PowerPoint 中 PDF 导出的辅助功能改进来构建更具包容性的解决方案。</description>
-      <pubDate>Mon, 02 Dec 2024 16:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【使用Semantic Kernel来开启您的AI旅程】使用Semantic Kernel来开启您的AI旅程</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/%e4%bd%bf%e7%94%a8semantic-kernel%e6%9d%a5%e5%bc%80%e5%90%af%e6%82%a8%e7%9a%84ai%e6%97%85%e7%a8%8b</link>
-      <description>【Semantic Kernel (SK) 是由微软开发的一款开源开发工具包，旨在帮助开发者和企业利用最新的人工智能技术构建更智能和复杂的AI驱动解决方案，例如检索增强生成 (RAG) 和智能体 (Agent)。 核心概念 内核（Kernel） 您可以将SK的内核视为一个容器，该容器包含您所需的所有与AI相关的组件，如提示语模板、AI服务和插件。如果将所有的服务和插件提供给内核，则AI会根据需求自动使用它们。SK还提供多项企业级功能，使您可以保证您的AI符合安全要求且在部署后能够持续监控AI的表现。 提示语（Prompt Engineering） 提示语在使用大型语言模型中至关重要。优质的提示语能够显著提升用户体验。SK通过提示语模板（template）的方式来实现自然语言与AI插件的混合使用，让您的提示语变得更加的灵活。 AI服务（AI Services） SK支持多种AI应用场景，包括对话补全，文本生成，嵌入（embedding）生成，图像与文字转换，以及音频与文字转换。此外，SK兼容多个AI服务提供商，如OpenAI，Azure，Google AI， Amazon Bedrock， 以及提供本地推理服务的Ollama等。 插件（Plugins/Functions） SK通过插件支持扩展大型语言模型的功能。插件可以是代码或自然语言，并可集成外部系统，如数据库、API或其他云服务，以便AI解决方案获取动态信息。 矢量存储（Vector Stores） 矢量存储可以被视为存储嵌入的数据库。许多现代数据库已开始提供矢量存储服务，这在构建RAG方案的检索步骤中扮演着重要角色。SK支持市场上大部分的矢量数据库，比如说Azure AI Search，Azure Cosmos DB，Qdrant，Redis， 和Weaviate等。 企业组件（Enterprise Components） SK自项目启动之初便将企业级AI解决方案作为首要目标。SK提供一系列功能以增强AI的安全性，包括筛选器（Filter）和可观察性（Observability）。筛选器可用于过滤提示语，确保不处理不安全的提示，并在生成式AI的回答到达终端用户前进行适当过滤。可观察性确保您在将AI部署到分布式系统时，仍能了解系统内部的运行状态，包括token的使用情况、函数的运行时间、以及大型语言模型的输入输出等。 框架 除了上述核心功能外，SK还提供一下框架，以帮助您构建更复杂的AI解决方案： 智能体框架：利用了SK生态创建和管理AI智能体。 业务流框架：利用了SK生态使企业能更有效地创建，管理和部署完整的AI业务流程。 关于这两个框架的详细介绍，我将在后续文章中单独阐述，敬请期待！ 开始使用 目前，SK支持三种编程语言：C#，Python，和Java。SK的源代码托管在GitHub上。您可以访问我们的仓库以获取源代码，文档和开发示例： C#源代码：semantic-kernel/dotnet at main · microsoft/semantic-kernel C#示例：semantic-kernel/dotnet/samples at main · microsoft/semantic-kernel Python源代码：semantic-kernel/python at main · microsoft/semantic-kernel [&amp;hellip;]】Semantic Kernel (SK) 是由微软开发的一款开源开发工具包，旨在帮助开发者和企业利用最新的人工智能技术构建更智能和复杂的AI驱动解决方案，例如检索增强生成(RAG) 和智能体(Agent)。 核心概念 内核（Kernel） 您可以将SK的内核视为一个容器，该容器包含您所需的所有与AI相关的组件，如提示语模板、AI服务和插件。如果将所有的服务和插件提供给内核，则AI会根据需求自动使用它们。 SK还提供多项企业级功能，使您可以保证您的AI符合安全要求且在部署后能够持续监控AI的表现。 提示语（Prompt Engineering） 提示语在使用大型语言模型中至关重要。优质的提示语能够显着提升用户体验。 SK通过提示语模板（template）的方式来实现自然语言与AI插件的混合使用，让您的提示语变得更加的灵活。 AI服务（AI Services） SK支持多种AI应用场景，包括对话补全，文本生成，嵌入（embedding）生成，图像与文字转换，以及音频与文字转换。此外，SK兼容多个AI服务提供商，如OpenAI，Azure，Google AI， Amazon Bedrock， 以及提供本地推理服务的Ollama等。 插件（Plugins/Functions） SK通过插件支持扩展大型语言模型的功能。插件可以是代码或自然语言，并可集成外部系统，如数据库、API或其他云服务，以便AI解决方案获取动态信息。 矢量存储（Vector Stores） 矢量存储可以被视为存储嵌入的数据库。许多现代数据库已开始提供矢量存储服务，这在构建RAG方案的检索步骤中扮演着重要角色。 SK支持市场上大部分的矢量数据库，比如说Azure AI Search，Azure Cosmos DB，Qdrant，Redis， 和Weaviate等。 企业组件（Enterprise Components） SK自项目启动之初便将企业级AI解决方案作为首要目标。 SK提供一系列功能以增强AI的安全性，包括筛选器（Filter）和可观察性（Observability）。筛选器可用于过滤提示语，确保不处理不安全的提示，并在生成式AI的回答到达终端用户前进行适当过滤。可观察性确保您在将AI部署到分布式系统时，仍能了解系统内部的运行状态，包括token的使用情况、函数的运行时间、以及大型语言模型的输入输出等。 框架 除了上述核心功能外，SK还提供一下框架，以帮助您构建更复杂的AI解决方案： 智能体框架：利用了SK生态创建和管理AI智能体。 业务流框架：利用了SK生态使企业能更有效地创建，管理和部署完整的AI业务流程。 关于这两个框架的详细介绍，我将在后续文章中单独阐述，敬请期待！ 开始使用 目前，SK支持三种编程语言：C#，Python，和Java。 SK的源代码托管在GitHub上。您可以访问我们的仓库以获取源代码，文档和开发示例： C#源代码：semantic-kernel/dotnet at main · microsoft/semantic-kernelC#示例：semantic-kernel/dotnet/samples at main · microsoft/semantic-kernel Python源代码：semantic-kernel/python at main · microsoft/semantic-kernel […]</description>
-      <pubDate>Mon, 02 Dec 2024 15:53:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the Public Preview of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布公开预览版 OpenID Connect 外部身份提供商对 Microsoft Entra 外部 ID 的支持</title>
-      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-public-preview</link>
-      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now in Public Preview. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】了解 Microsoft Entra 外部 ID 中新的 OpenID Connect 身份提供程序支持（现已推出公共预览版）。通过与 Okta、Amazon、Auth0 和 Azure AD B2C 等外部身份提供商联合，简化用户登录和合作伙伴集成，并提高转化率和用户满意度。</description>
-      <pubDate>Fri, 29 Nov 2024 16:07:15 +0000</pubDate>
+      <title>【Tricks from product support: We’re not smart enough to debug the problem, can you help us?】产品支持的技巧：我们不够聪明，无法调试问题，您能帮助我们吗？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241203-00/?p=110601</link>
+      <description>【It&#39;s not you, it&#39;s me.】不是你，是我。</description>
+      <pubDate>Tue, 03 Dec 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
