@@ -4,16 +4,10 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #453】SRE 周刊第 #453 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-453/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end&amp;#8230;to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：为什么要从 PagerDuty 迁移？赋予团队级所有权、降低成本、将警报与事件分离、端到端自动化事件……仅举几例。加入越来越多已做出转变的公司名单。 （附：我们的 Signals 迁移器让这一切变得简单）https://firehydrant.com/migrate/from-pagerduty/ 2024 年 11 月 14 日发生的 Cloudflare 事件，导致 [...]</description>
-      <pubDate>Mon, 02 Dec 2024 02:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #450】SRE 周刊第 #450 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-450/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ The Unofficial SRE Track for KubeCon NA &amp;#8217;24 If you&amp;#8217;re heading to KubeCon this week, here are some talks to consider.   JJ Tang — Rootly Choosing the right Postgres indexes This [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ KubeCon NA ’24 的非官方 SRE 专题 如果您本周打算参加 KubeCon，这里有一些值得考虑的演讲。   JJ Tang — 从根本上选择正确的 Postgres 索引这 [...]</description>
-      <pubDate>Mon, 11 Nov 2024 02:33:10 +0000</pubDate>
+      <title>【SRE Weekly Issue #449】SRE 周刊第 #449 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-449/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE &amp;#8211; A Journey to Master Site Reliability Engineering This new series seems promising! I won&amp;#8217;t link to every article in the series here, but if you&amp;#8217;re [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 宣布：52 周的 SRE – 掌握站点可靠性工程的旅程 这个新系列似乎很有前途！我不会在这里链接到该系列中的每篇文章，但如果您 [...]</description>
+      <pubDate>Mon, 04 Nov 2024 02:14:10 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #451】SRE 周刊第 #451 期</title>
@@ -22,16 +16,22 @@
       <pubDate>Mon, 18 Nov 2024 02:11:31 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #449】SRE 周刊第 #449 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-449/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE &amp;#8211; A Journey to Master Site Reliability Engineering This new series seems promising! I won&amp;#8217;t link to every article in the series here, but if you&amp;#8217;re [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 宣布：52 周的 SRE – 掌握站点可靠性工程的旅程 这个新系列似乎很有前途！我不会在这里链接到该系列中的每篇文章，但如果您 [...]</description>
-      <pubDate>Mon, 04 Nov 2024 02:14:10 +0000</pubDate>
+      <title>【SRE Weekly Issue #450】SRE 周刊第 #450 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-450/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ The Unofficial SRE Track for KubeCon NA &amp;#8217;24 If you&amp;#8217;re heading to KubeCon this week, here are some talks to consider.   JJ Tang — Rootly Choosing the right Postgres indexes This [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ KubeCon NA ’24 的非官方 SRE 专题 如果您本周打算参加 KubeCon，这里有一些值得考虑的演讲。   JJ Tang — 从根本上选择正确的 Postgres 索引这 [...]</description>
+      <pubDate>Mon, 11 Nov 2024 02:33:10 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #452】SRE 周刊第 #452 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-452/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 天下没有免费的午餐！午餐练习是 Blackrock3 培训中我最喜欢的部分，现在 Slack 已将其改编为他们正在进行的培训。多么松弛[…]</description>
       <pubDate>Mon, 25 Nov 2024 02:32:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #453】SRE 周刊第 #453 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-453/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end&amp;#8230;to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：为什么要从 PagerDuty 迁移？赋予团队级所有权、降低成本、将警报与事件分离、端到端自动化事件……仅举几例。加入越来越多已做出转变的公司名单。 （附：我们的 Signals 迁移器让这一切变得简单）https://firehydrant.com/migrate/from-pagerduty/ 2024 年 11 月 14 日发生的 Cloudflare 事件，导致 [...]</description>
+      <pubDate>Mon, 02 Dec 2024 02:09:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
