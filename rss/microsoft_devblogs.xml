@@ -10,46 +10,10 @@
       <pubDate>Wed, 04 Dec 2024 19:17:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft DevLabs Extensions】微软开发实验室扩展</title>
-      <link>https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions</link>
-      <description>【The Microsoft DevLabs publisher was created as a hub for internal teams at Microsoft to channel their passion for Azure DevOps into experimental extensions. These extensions helped address product gaps and fostered innovation, ultimately benefiting Azure DevOps customers via the public marketplace. The challenge Over time, as the original creators of these extensions moved on [&amp;hellip;]】Microsoft DevLabs 发布者是作为 Microsoft 内部团队的中心而创建的，旨在将他们对 Azure DevOps 的热情转化为实验性扩展。这些扩展有助于解决产品差距并促进创新，最终通过公共市场使 Azure DevOps 客户受益。随着时间的推移，随着这些扩展的原始创建者继续前进，挑战 [...]</description>
-      <pubDate>Tue, 03 Dec 2024 20:29:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Fabric API for GraphQL™ for Azure Cosmos DB Mirroring】适用于 Azure Cosmos DB 镜像的 GraphQL™ 的 Microsoft Fabric API</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/microsoft-fabric-api-for-graphql-for-azure-cosmos-db-mirroring</link>
-      <description>【The Microsoft Fabric API for GraphQL™ provides a data access layer that enables you to query multiple data sources quickly and efficiently using a widely adopted and familiar API technology. This API abstracts the specifics of backend data sources, allowing you to focus on your application&amp;#8217;s logic and deliver all the data a client needs [&amp;hellip;]】Microsoft Fabric API for GraphQL™ 提供了一个数据访问层，使您能够使用广泛采用且熟悉的 API 技术快速高效地查询多个数据源。该 API 抽象了后端数据源的细节，使您能够专注于应用程序的逻辑并提供客户端需要的所有数据[...]</description>
-      <pubDate>Tue, 03 Dec 2024 17:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Integrating Microsoft Entra ID for enhanced security in three-tier architecture】集成 Microsoft Entra ID 以增强三层架构中的安全性</title>
-      <link>https://devblogs.microsoft.com/identity/microsoft-entra-id-and-three-tier-arhcitecture</link>
-      <description>【Explore how to secure three-tier architecture with Microsoft Entra ID in this first part of a three-part series. Learn how to implement robust authentication and authorization across client app, API, and data layers, ensuring secure and reliable application design in an Azure cloud environment.】在由三部分组成的系列的第一部分中，探索如何使用 Microsoft Entra ID 保护三层体系结构。了解如何跨客户端应用程序、API 和数据层实现强大的身份验证和授权，确保 Azure 云环境中的应用程序设计安全可靠。</description>
-      <pubDate>Wed, 04 Dec 2024 14:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does my DLL reference count go up by one every time I create and exit a thread?】为什么每次创建和退出线程时，DLL 引用计数都会增加 1？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241204-00/?p=110604</link>
-      <description>【If you use a wrapper, you need to follow the wrapper&#39;s rules.】如果您使用包装器，则需要遵循包装器的规则。</description>
-      <pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.23.3-2 and 1.22.9-2 Microsoft builds now available】Go 1.23.3-2 和 1.22.9-2 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-3-2-and-1-22-9-2-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Tue, 03 Dec 2024 19:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Inline Return Values Simplify Debugging in Visual Studio 2022】内联返回值如何简化 Visual Studio 2022 中的调试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022</link>
-      <description>【Have you ever found yourself creating temporary variables just to inspect return values from functions? It’s a small task that can quickly become tedious, breaking your rhythm and cluttering up your code. Visual Studio 2022 introduces a smarter way to handle this with &amp;#8220;Inline Return Values,&amp;#8221; allowing you to stay focused on coding without the [&amp;hellip;]】您是否曾经发现自己创建临时变量只是为了检查函数的返回值？这是一项小任务，很快就会变得乏味，打乱你的节奏，让你的代码变得混乱。 Visual Studio 2022 引入了一种更智能的方法来通过“内联返回值”来处理此问题，使您能够专注于编码，而无需 [...]</description>
-      <pubDate>Wed, 04 Dec 2024 16:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Latest enhancements in Fluid Framework 2】Fluid Framework 2 的最新增强功能</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/latest-enhancements-in-fluid-framework-2</link>
-      <description>【Catch up on all of the Fluid Framework 2 announcements highlighted at Ignite including the AI Collab library, Fluid presence library, and more.】了解 Ignite 上重点发布的所有 Fluid Framework 2 公告，包括 AI Collab 库、Fluid 状态库等。</description>
-      <pubDate>Wed, 04 Dec 2024 20:00:14 +0000</pubDate>
+      <title>【Using Dependabot to Manage .NET SDK Updates】使用 Dependabot 管理 .NET SDK 更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates</link>
+      <description>【Learn how to use Dependabot to keep your .NET SDK version up to date with the latest security patches and improvements.】了解如何使用 Dependabot 通过最新的安全补丁和改进来使您的 .NET SDK 版本保持最新状态。</description>
+      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.23.4-1 and 1.22.10-1 Microsoft builds now available】Go 1.23.4-1 和 1.22.10-1 Microsoft 版本现已推出</title>
@@ -60,8 +24,44 @@
     <item>
       <title>【How to develop AI Apps and Agents in Azure – A Visual Guide】如何在 Azure 中开发 AI 应用程序和代理 - 视觉指南</title>
       <link>https://devblogs.microsoft.com/all-things-azure/how-to-develop-ai-apps-and-agents-in-azure-a-visual-guide</link>
-      <description>【As organizations explore new AI-powered experiences and automated workflows, there&amp;#8217;s a growing need to move beyond experiments and proofs-of-concept to production-ready applications. This guide walks you through the essential steps and decisions for building robust AI applications in Azure, focusing on reliability, security, and enterprise-grade quality. Why Choose Azure&amp;#8217;s Managed Services? It&amp;#8217;s easy to experiment [&amp;hellip;]】随着组织探索新的人工智能体验和自动化工作流程，越来越需要超越实验和概念验证，转向生产就绪的应用程序。本指南将引导你完成在 Azure 中构建强大的 AI 应用程序的基本步骤和决策，重点关注可靠性、安全性和企业级质量。为什么选择 Azure 的托管服务？实验很容易[…]</description>
+      <description>【As organizations explore new AI-powered experiences and automated workflows, there&amp;#8217;s a growing need to move beyond experiments and proofs-of-concept to production-ready applications. This guide walks you through the essential steps and decisions for building robust AI applications in Azure, focusing on reliability, security, and enterprise-grade quality. Why Choose Azure&amp;#8217;s Managed Services? It&amp;#8217;s easy to experiment [&amp;hellip;]】随着组织探索新的人工智能驱动的体验和自动化工作流程，越来越需要超越实验和概念验证，转向生产就绪的应用程序。本指南将引导你完成在 Azure 中构建强大的 AI 应用程序的基本步骤和决策，重点关注可靠性、安全性和企业级质量。为什么选择 Azure 的托管服务？实验很容易[…]</description>
       <pubDate>Wed, 04 Dec 2024 19:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Latest enhancements in Fluid Framework 2】Fluid Framework 2 的最新增强功能</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/latest-enhancements-in-fluid-framework-2</link>
+      <description>【Catch up on all of the Fluid Framework 2 announcements highlighted at Ignite including the AI Collab library, Fluid presence library, and more.】了解 Ignite 上重点发布的所有 Fluid Framework 2 公告，包括 AI Collab 库、Fluid 状态库等。</description>
+      <pubDate>Wed, 04 Dec 2024 20:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does my DLL reference count go up by one every time I create and exit a thread?】为什么每次创建和退出线程时，DLL 引用计数都会增加 1？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241204-00/?p=110604</link>
+      <description>【If you use a wrapper, you need to follow the wrapper&#39;s rules.】如果您使用包装器，则需要遵循包装器的规则。</description>
+      <pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Azure Cosmos DB Integration with Spring AI and Langchain4J!】宣布 Azure Cosmos DB 与 Spring AI 和 Langchain4J 集成！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-spring-ai-and-langchain4j</link>
+      <description>【We’re continuing to simplify AI app development by integrating Azure Cosmos DB’s cost-effective and scalable vector search directly with Spring AI and LangChain4J! These frameworks empower Java developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB’s scalability and efficient vector indexing and search capabilities, allowing for efficient handling of high-dimensional vectors. [&amp;hellip;]】我们将通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 Spring AI 和 LangChain4J 集成，继续简化 AI 应用程序开发！这些框架使 Java 开发人员能够利用 Azure Cosmos DB 的可扩展性以及高效的向量索引和搜索功能来高效管理快速、准确的数据检索，从而高效处理高维向量。 […]</description>
+      <pubDate>Thu, 05 Dec 2024 15:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Inline Return Values Simplify Debugging in Visual Studio 2022】内联返回值如何简化 Visual Studio 2022 中的调试</title>
+      <link>https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022</link>
+      <description>【Have you ever found yourself creating temporary variables just to inspect return values from functions? It’s a small task that can quickly become tedious, breaking your rhythm and cluttering up your code. Visual Studio 2022 introduces a smarter way to handle this with &amp;#8220;Inline Return Values,&amp;#8221; allowing you to stay focused on coding without the [&amp;hellip;]】您是否曾经发现自己创建临时变量只是为了检查函数的返回值？这是一项小任务，很快就会变得乏味，打乱你的节奏，让你的代码变得混乱。 Visual Studio 2022 引入了一种更智能的方法来通过“内联返回值”来处理此问题，使您能够专注于编码，而无需 [...]</description>
+      <pubDate>Wed, 04 Dec 2024 16:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Code Referencing for GitHub Copilot Chat in Visual Studio】在 Visual Studio 中引入 GitHub Copilot 聊天的代码引用</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio</link>
+      <description>【Are you tired of the uncertainty that comes with using code suggestions from AI tools? We&amp;#8217;ve got exciting news for you! Visual Studio 2022 now includes code referencing in GitHub Copilot, ensuring greater transparency and control for developers. We are thrilled to announce that code referencing is now available in GitHub Copilot Chat within Visual [&amp;hellip;]】您是否厌倦了使用人工智能工具的代码建议带来的不确定性？我们为您带来了令人兴奋的消息！ Visual Studio 2022 现在包含 GitHub Copilot 中的代码引用，确保开发人员获得更大的透明度和控制力。我们很高兴地宣布，代码引用现在可以在 Visual [...] 内的 GitHub Copilot Chat 中使用。</description>
+      <pubDate>Thu, 05 Dec 2024 16:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Won’t waiting for multiple threads one at a time introduce a severe performance issue?】一次等待多个线程不会带来严重的性能问题吗？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241205-00/?p=110609</link>
+      <description>【It depends on how long you plan on waiting.】这取决于您计划等待多长时间。</description>
+      <pubDate>Thu, 05 Dec 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
