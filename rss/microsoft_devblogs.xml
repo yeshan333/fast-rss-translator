@@ -4,52 +4,46 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【How to use Copilot for Code Refactoring】如何使用 Copilot 进行代码重构</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-to-use-copilot-for-code-refactoring</link>
-      <description>【I share GitHub Copilot tips every few days, if you are new to the series, below I have linked some of the previous tips. In this article, I am sharing a tip about using GitHub Copilot for code refactoring. GitHub Copilot Tip: Interactive Debugging with GitHub Copilot Chat How to use GitHub Copilot for Efficient [&amp;hellip;]】我每隔几天就会分享 GitHub Copilot 技巧，如果您是该系列的新手，下面我链接了之前的一些技巧。在本文中，我将分享有关使用 GitHub Copilot 进行代码重构的技巧。 GitHub Copilot 提示：使用 GitHub Copilot 聊天进行交互式调试如何使用 GitHub Copilot 实现高效 [...]</description>
-      <pubDate>Wed, 04 Dec 2024 19:17:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using Dependabot to Manage .NET SDK Updates】使用 Dependabot 管理 .NET SDK 更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates</link>
-      <description>【Learn how to use Dependabot to keep your .NET SDK version up to date with the latest security patches and improvements.】了解如何使用 Dependabot 通过最新的安全补丁和改进来使您的 .NET SDK 版本保持最新状态。</description>
-      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.23.4-1 and 1.22.10-1 Microsoft builds now available】Go 1.23.4-1 和 1.22.10-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-4-1-and-1-22-10-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds is now available for download.】一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Wed, 04 Dec 2024 18:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to develop AI Apps and Agents in Azure – A Visual Guide】如何在 Azure 中开发 AI 应用程序和代理 - 视觉指南</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-to-develop-ai-apps-and-agents-in-azure-a-visual-guide</link>
-      <description>【As organizations explore new AI-powered experiences and automated workflows, there&amp;#8217;s a growing need to move beyond experiments and proofs-of-concept to production-ready applications. This guide walks you through the essential steps and decisions for building robust AI applications in Azure, focusing on reliability, security, and enterprise-grade quality. Why Choose Azure&amp;#8217;s Managed Services? It&amp;#8217;s easy to experiment [&amp;hellip;]】随着组织探索新的人工智能驱动的体验和自动化工作流程，越来越需要超越实验和概念验证，转向生产就绪的应用程序。本指南将引导你完成在 Azure 中构建强大的 AI 应用程序的基本步骤和决策，重点关注可靠性、安全性和企业级质量。为什么选择 Azure 的托管服务？实验很容易[…]</description>
-      <pubDate>Wed, 04 Dec 2024 19:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Latest enhancements in Fluid Framework 2】Fluid Framework 2 的最新增强功能</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/latest-enhancements-in-fluid-framework-2</link>
-      <description>【Catch up on all of the Fluid Framework 2 announcements highlighted at Ignite including the AI Collab library, Fluid presence library, and more.】了解 Ignite 上重点发布的所有 Fluid Framework 2 公告，包括 AI Collab 库、Fluid 状态库等。</description>
-      <pubDate>Wed, 04 Dec 2024 20:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does my DLL reference count go up by one every time I create and exit a thread?】为什么每次创建和退出线程时，DLL 引用计数都会增加 1？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241204-00/?p=110604</link>
-      <description>【If you use a wrapper, you need to follow the wrapper&#39;s rules.】如果您使用包装器，则需要遵循包装器的规则。</description>
-      <pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Announcing Azure Cosmos DB Integration with Spring AI and Langchain4J!】宣布 Azure Cosmos DB 与 Spring AI 和 Langchain4J 集成！</title>
       <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-spring-ai-and-langchain4j</link>
       <description>【We’re continuing to simplify AI app development by integrating Azure Cosmos DB’s cost-effective and scalable vector search directly with Spring AI and LangChain4J! These frameworks empower Java developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB’s scalability and efficient vector indexing and search capabilities, allowing for efficient handling of high-dimensional vectors. [&amp;hellip;]】我们将通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 Spring AI 和 LangChain4J 集成，继续简化 AI 应用程序开发！这些框架使 Java 开发人员能够利用 Azure Cosmos DB 的可扩展性以及高效的向量索引和搜索功能来高效管理快速、准确的数据检索，从而高效处理高维向量。 […]</description>
       <pubDate>Thu, 05 Dec 2024 15:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>【How Inline Return Values Simplify Debugging in Visual Studio 2022】内联返回值如何简化 Visual Studio 2022 中的调试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022</link>
-      <description>【Have you ever found yourself creating temporary variables just to inspect return values from functions? It’s a small task that can quickly become tedious, breaking your rhythm and cluttering up your code. Visual Studio 2022 introduces a smarter way to handle this with &amp;#8220;Inline Return Values,&amp;#8221; allowing you to stay focused on coding without the [&amp;hellip;]】您是否曾经发现自己创建临时变量只是为了检查函数的返回值？这是一项小任务，很快就会变得乏味，打乱你的节奏，让你的代码变得混乱。 Visual Studio 2022 引入了一种更智能的方法来通过“内联返回值”来处理此问题，使您能够专注于编码，而无需 [...]</description>
-      <pubDate>Wed, 04 Dec 2024 16:00:35 +0000</pubDate>
+      <title>【Boost your Microsoft 365 app performance: Introducing tree shaking in TeamsJS】提升 Microsoft 365 应用性能：TeamsJS 中引入 Tree Shaking</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/boost-your-microsoft-365-app-performance-introducing-tree-shaking-in-teamsjs</link>
+      <description>【With Microsoft Teams JavaScript client library (TeamsJS) version 2.31.0, we’re excited to make the TeamsJS library fully tree-shakable.】通过 Microsoft Teams JavaScript 客户端库 (TeamsJS) 版本 2.31.0，我们很高兴使 TeamsJS 库完全可进行树摇动。</description>
+      <pubDate>Fri, 06 Dec 2024 15:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Won’t waiting for multiple threads one at a time introduce a severe performance issue?】一次等待多个线程不会带来严重的性能问题吗？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241205-00/?p=110609</link>
+      <description>【It depends on how long you plan on waiting.】这取决于您计划等待多长时间。</description>
+      <pubDate>Thu, 05 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Deletion of Outdated Azul Zulu for Azure Container Images for Better Security】删除过时的 Azure 容器映像 Azul Zulu 以提高安全性</title>
+      <link>https://devblogs.microsoft.com/java/deletion-of-outdated-azul-zulu-for-azure-container-images-for-better-security</link>
+      <description>【We at Microsoft are committed to providing customers with a secure ecosystem of tools for building and deploying applications. As part of this commitment, we continuously update our Java container image offerings to ensure they meet the highest security standards. Back in January 2022, we announced the End of Updates for the Azul Zulu for Azure build of OpenJDK. As [&amp;hellip;]】Microsoft 致力于为客户提供用于构建和部署应用程序的安全工具生态系统。作为这一承诺的一部分，我们不断更新我们的 Java 容器镜像产品，以确保它们符合最高的安全标准。早在 2022 年 1 月，我们就宣布停止更新 OpenJDK 的 Azul Zulu for Azure 版本。作为 […]</description>
+      <pubDate>Fri, 06 Dec 2024 18:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development】客户案例研究：如何使用 Microsoft Semantic Kernel 的 Elasticsearch Vector Store Connector 进行 AI 代理开发</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-to-use-elasticsearch-vector-store-connector-for-microsoft-semantic-kernel-for-ai-agent-development</link>
+      <description>【How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi and Florian Bernd to dive [&amp;hellip;]】如何使用适用于 Microsoft 语义内核的 Elasticsearch Vector Store 连接器进行 AI 代理开发 今天，我们很高兴能够与 Elastic 团队分享有关适用于 Microsoft 语义内核的语义内核 Elasticsearch Vector Store 连接器的更多信息。请在此处阅读整个公告。我会将其交给 Srikanth Manvi 和 Florian Bernd 进行潜水 [...]</description>
+      <pubDate>Fri, 06 Dec 2024 19:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MSVC Compiler Language Updates in Visual Studio 2022 version 17.12】Visual Studio 2022 版本 17.12 中的 MSVC 编译器语言更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12</link>
+      <description>【Introduction In alignment with the Visual Studio 2022 version 17.12 release, and based upon feedback received from the community, the MSVC compiler team would like to provide greater visibility into the C++ language-level fixes for customer-reported issues that made it into the release. This is similar to how the standard library team publishes regular changelogs [&amp;hellip;]】简介 为了与 Visual Studio 2022 版本 17.12 版本保持一致，并根据从社区收到的反馈，MSVC 编译器团队希望为该版本中客户报告的问题提供更深入的 C++ 语言级修复的可见性。这类似于标准库团队发布定期变更日志的方式 [...]</description>
+      <pubDate>Fri, 06 Dec 2024 17:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learning to read C++ compiler errors: Nonsensical errors from a function declaration】学习读取 C++ 编译器错误：函数声明中的无意义错误</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614</link>
+      <description>【Look closely at what the error message is complaining about.】仔细查看错误消息抱怨的内容。</description>
+      <pubDate>Fri, 06 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing Code Referencing for GitHub Copilot Chat in Visual Studio】在 Visual Studio 中引入 GitHub Copilot 聊天的代码引用</title>
@@ -58,10 +52,16 @@
       <pubDate>Thu, 05 Dec 2024 16:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Won’t waiting for multiple threads one at a time introduce a severe performance issue?】一次等待多个线程不会带来严重的性能问题吗？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241205-00/?p=110609</link>
-      <description>【It depends on how long you plan on waiting.】这取决于您计划等待多长时间。</description>
-      <pubDate>Thu, 05 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Implementing Evaluation platform on Azure Machine Learning】在 Azure 机器学习上实施评估平台</title>
+      <link>https://devblogs.microsoft.com/ise/implement-evaluation-platform-on-aml</link>
+      <description>【Azure Machine Learning is known for training and deploying models, but can also be used for running experiments. This blog post will show us how we have implemented our Evaluation platform on Azure Machine Learning.】Azure 机器学习以训练和部署模型而闻名，但也可用于运行实验。这篇博文将向我们展示如何在 Azure 机器学习上实施我们的评估平台。</description>
+      <pubDate>Fri, 06 Dec 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using Dependabot to Manage .NET SDK Updates】使用 Dependabot 管理 .NET SDK 更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates</link>
+      <description>【Learn how to use Dependabot to keep your .NET SDK version up to date with the latest security patches and improvements.】了解如何使用 Dependabot 通过最新的安全补丁和改进来使您的 .NET SDK 版本保持最新状态。</description>
+      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
