@@ -4,22 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Announcing Azure Cosmos DB Integration with Spring AI and Langchain4J!】宣布 Azure Cosmos DB 与 Spring AI 和 Langchain4J 集成！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-spring-ai-and-langchain4j</link>
-      <description>【We’re continuing to simplify AI app development by integrating Azure Cosmos DB’s cost-effective and scalable vector search directly with Spring AI and LangChain4J! These frameworks empower Java developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB’s scalability and efficient vector indexing and search capabilities, allowing for efficient handling of high-dimensional vectors. [&amp;hellip;]】我们将通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 Spring AI 和 LangChain4J 集成，继续简化 AI 应用程序开发！这些框架使 Java 开发人员能够利用 Azure Cosmos DB 的可扩展性以及高效的向量索引和搜索功能来高效管理快速、准确的数据检索，从而高效处理高维向量。 […]</description>
-      <pubDate>Thu, 05 Dec 2024 15:00:11 +0000</pubDate>
+      <title>【Using Dependabot to Manage .NET SDK Updates】使用 Dependabot 管理 .NET SDK 更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates</link>
+      <description>【Learn how to use Dependabot to keep your .NET SDK version up to date with the latest security patches and improvements.】了解如何使用 Dependabot 通过最新的安全补丁和改进来使您的 .NET SDK 版本保持最新状态。</description>
+      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Boost your Microsoft 365 app performance: Introducing tree shaking in TeamsJS】提升 Microsoft 365 应用性能：TeamsJS 中引入 Tree Shaking</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/boost-your-microsoft-365-app-performance-introducing-tree-shaking-in-teamsjs</link>
-      <description>【With Microsoft Teams JavaScript client library (TeamsJS) version 2.31.0, we’re excited to make the TeamsJS library fully tree-shakable.】通过 Microsoft Teams JavaScript 客户端库 (TeamsJS) 版本 2.31.0，我们很高兴使 TeamsJS 库完全可进行树摇动。</description>
-      <pubDate>Fri, 06 Dec 2024 15:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Won’t waiting for multiple threads one at a time introduce a severe performance issue?】一次等待多个线程不会带来严重的性能问题吗？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241205-00/?p=110609</link>
-      <description>【It depends on how long you plan on waiting.】这取决于您计划等待多长时间。</description>
-      <pubDate>Thu, 05 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Learning to read C++ compiler errors: Nonsensical errors from a function declaration】学习读取 C++ 编译器错误：函数声明中的无意义错误</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614</link>
+      <description>【Look closely at what the error message is complaining about.】仔细查看错误消息抱怨的内容。</description>
+      <pubDate>Fri, 06 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Deletion of Outdated Azul Zulu for Azure Container Images for Better Security】删除过时的 Azure 容器映像 Azul Zulu 以提高安全性</title>
@@ -28,22 +22,16 @@
       <pubDate>Fri, 06 Dec 2024 18:08:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development】客户案例研究：如何使用 Microsoft Semantic Kernel 的 Elasticsearch Vector Store Connector 进行 AI 代理开发</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-to-use-elasticsearch-vector-store-connector-for-microsoft-semantic-kernel-for-ai-agent-development</link>
-      <description>【How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi and Florian Bernd to dive [&amp;hellip;]】如何使用适用于 Microsoft 语义内核的 Elasticsearch Vector Store 连接器进行 AI 代理开发 今天，我们很高兴能够与 Elastic 团队分享有关适用于 Microsoft 语义内核的语义内核 Elasticsearch Vector Store 连接器的更多信息。请在此处阅读整个公告。我会将其交给 Srikanth Manvi 和 Florian Bernd 进行潜水 [...]</description>
-      <pubDate>Fri, 06 Dec 2024 19:32:15 +0000</pubDate>
+      <title>【Announcing Azure Cosmos DB Integration with Spring AI and Langchain4J!】宣布 Azure Cosmos DB 与 Spring AI 和 Langchain4J 集成！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-spring-ai-and-langchain4j</link>
+      <description>【We’re continuing to simplify AI app development by integrating Azure Cosmos DB’s cost-effective and scalable vector search directly with Spring AI and LangChain4J! These frameworks empower Java developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB’s scalability and efficient vector indexing and search capabilities, allowing for efficient handling of high-dimensional vectors. [&amp;hellip;]】我们将通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 Spring AI 和 LangChain4J 集成，继续简化 AI 应用程序开发！这些框架使 Java 开发人员能够利用 Azure Cosmos DB 的可扩展性以及高效的向量索引和搜索功能来高效管理快速、准确的数据检索，从而高效处理高维向量。 […]</description>
+      <pubDate>Thu, 05 Dec 2024 15:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>【MSVC Compiler Language Updates in Visual Studio 2022 version 17.12】Visual Studio 2022 版本 17.12 中的 MSVC 编译器语言更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12</link>
-      <description>【Introduction In alignment with the Visual Studio 2022 version 17.12 release, and based upon feedback received from the community, the MSVC compiler team would like to provide greater visibility into the C++ language-level fixes for customer-reported issues that made it into the release. This is similar to how the standard library team publishes regular changelogs [&amp;hellip;]】简介 为了与 Visual Studio 2022 版本 17.12 版本保持一致，并根据从社区收到的反馈，MSVC 编译器团队希望为该版本中客户报告的问题提供更深入的 C++ 语言级修复的可见性。这类似于标准库团队发布定期变更日志的方式 [...]</description>
-      <pubDate>Fri, 06 Dec 2024 17:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Learning to read C++ compiler errors: Nonsensical errors from a function declaration】学习读取 C++ 编译器错误：函数声明中的无意义错误</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614</link>
-      <description>【Look closely at what the error message is complaining about.】仔细查看错误消息抱怨的内容。</description>
-      <pubDate>Fri, 06 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Won’t waiting for multiple threads one at a time introduce a severe performance issue?】一次等待多个线程不会带来严重的性能问题吗？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241205-00/?p=110609</link>
+      <description>【It depends on how long you plan on waiting.】这取决于您计划等待多长时间。</description>
+      <pubDate>Thu, 05 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing Code Referencing for GitHub Copilot Chat in Visual Studio】在 Visual Studio 中引入 GitHub Copilot 聊天的代码引用</title>
@@ -58,10 +46,22 @@
       <pubDate>Fri, 06 Dec 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Using Dependabot to Manage .NET SDK Updates】使用 Dependabot 管理 .NET SDK 更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates</link>
-      <description>【Learn how to use Dependabot to keep your .NET SDK version up to date with the latest security patches and improvements.】了解如何使用 Dependabot 通过最新的安全补丁和改进来使您的 .NET SDK 版本保持最新状态。</description>
-      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
+      <title>【Boost your Microsoft 365 app performance: Introducing tree shaking in TeamsJS】提升 Microsoft 365 应用性能：TeamsJS 中引入 Tree Shaking</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/boost-your-microsoft-365-app-performance-introducing-tree-shaking-in-teamsjs</link>
+      <description>【With Microsoft Teams JavaScript client library (TeamsJS) version 2.31.0, we’re excited to make the TeamsJS library fully tree-shakable.】通过 Microsoft Teams JavaScript 客户端库 (TeamsJS) 版本 2.31.0，我们很高兴使 TeamsJS 库完全可进行树摇动。</description>
+      <pubDate>Fri, 06 Dec 2024 15:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development】客户案例研究：如何使用 Microsoft Semantic Kernel 的 Elasticsearch Vector Store Connector 进行 AI 代理开发</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-to-use-elasticsearch-vector-store-connector-for-microsoft-semantic-kernel-for-ai-agent-development</link>
+      <description>【How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi and Florian Bernd to dive [&amp;hellip;]】如何使用适用于 Microsoft 语义内核的 Elasticsearch Vector Store 连接器进行 AI 代理开发 今天，我们很高兴能够与 Elastic 团队分享有关适用于 Microsoft 语义内核的语义内核 Elasticsearch Vector Store 连接器的更多信息。请在此处阅读整个公告。我会将其交给 Srikanth Manvi 和 Florian Bernd 进行潜水 [...]</description>
+      <pubDate>Fri, 06 Dec 2024 19:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MSVC Compiler Language Updates in Visual Studio 2022 version 17.12】Visual Studio 2022 版本 17.12 中的 MSVC 编译器语言更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12</link>
+      <description>【Introduction In alignment with the Visual Studio 2022 version 17.12 release, and based upon feedback received from the community, the MSVC compiler team would like to provide greater visibility into the C++ language-level fixes for customer-reported issues that made it into the release. This is similar to how the standard library team publishes regular changelogs [&amp;hellip;]】简介 为了与 Visual Studio 2022 版本 17.12 版本保持一致，并根据从社区收到的反馈，MSVC 编译器团队希望为该版本中客户报告的问题提供更深入的 C++ 语言级修复的可见性。这类似于标准库团队发布定期变更日志的方式 [...]</description>
+      <pubDate>Fri, 06 Dec 2024 17:32:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
