@@ -5,34 +5,16 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
-      <link>https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system</link>
-      <description>【Mike Tyson vs. Jake Paul was live-streamed on Netflix last week. Let&amp;#8217;s break down the typical tech stack of a live-streaming system.】迈克·泰森 (Mike Tyson) 对阵杰克·保罗 (Jake Paul) 上周在 Netflix 上进行了直播。让我们来分解一下直播系统的典型技术堆栈。</description>
-      <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
-      <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
-      <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
-      <pubDate>Tue, 19 Nov 2024 16:30:50 +0000</pubDate>
-    </item>
-    <item>
       <title>【My NEW book, Coding Interview Patterns, is now available on Amazon】我的新书《编码面试模式》现已在亚马逊上发售</title>
       <link>https://blog.bytebytego.com/p/my-new-book-coding-interview-patterns</link>
       <description>【My new book, Coding Interview Patterns, is now available on Amazon!】我的新书《编码面试模式》现已在亚马逊上发售！</description>
       <pubDate>Wed, 04 Dec 2024 16:46:02 +0000</pubDate>
     </item>
     <item>
-      <title>【Mastering Modern Authentication: Cookies, Sessions, JWT, and PASETO】掌握现代身份验证：Cookie、Session、JWT 和 PASETO</title>
-      <link>https://blog.bytebytego.com/p/mastering-modern-authentication-cookies</link>
-      <description>【Authentication serves as the first line of defense in ensuring the security of applications and the sensitive data they handle.】身份验证是确保应用程序及其处理的敏感数据安全的第一道防线。</description>
-      <pubDate>Thu, 05 Dec 2024 16:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Stateless Architecture: The Key to Building Scalable and Resilient Systems】无状态架构：构建可扩展和弹性系统的关键</title>
-      <link>https://blog.bytebytego.com/p/stateless-architecture-the-key-to</link>
-      <description>【In today&#39;s rapidly evolving digital landscape, developers face the constant challenge of building applications that are not only robust and secure but also infinitely scalable.】在当今快速发展的数字环境中，开发人员面临着构建不仅强大、安全而且可无限扩展的应用程序的持续挑战。</description>
-      <pubDate>Thu, 28 Nov 2024 16:31:11 +0000</pubDate>
+      <title>【EP141: How to Ace System Design Interviews Like a Boss?】EP141：如何像老板一样在系统设计面试中取得好成绩？</title>
+      <link>https://blog.bytebytego.com/p/ep141-how-to-ace-system-design-interviews</link>
+      <description>【They are the most critical components to crafting successful software systems.】它们是构建成功的软件系统的最关键组件。</description>
+      <pubDate>Sat, 07 Dec 2024 16:30:49 +0000</pubDate>
     </item>
     <item>
       <title>【How LinkedIn Customizes Its 7 Trillion Message Kafka Ecosystem】LinkedIn 如何定制其 7 万亿消息 Kafka 生态系统</title>
@@ -53,16 +35,34 @@
       <pubDate>Sat, 30 Nov 2024 16:31:26 +0000</pubDate>
     </item>
     <item>
+      <title>【Uber’s Billion Trips Migration Setup with Zero Downtime】Uber 十亿次行程迁移设置零停机</title>
+      <link>https://blog.bytebytego.com/p/ubers-billion-trips-migration-setup</link>
+      <description>【Maintaining uptime during system upgrades or migrations is essential, especially for high-stakes, real-time platforms like Uber&#39;s trip fulfillment system.】在系统升级或迁移期间保持正常运行至关重要，尤其是对于 Uber 的行程履行系统等高风险实时平台。</description>
+      <pubDate>Tue, 19 Nov 2024 16:30:50 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Crash Course on Using AI to Save Time and Focus on What Matters】使用人工智能节省时间并专注于重要事情的速成课程</title>
       <link>https://blog.bytebytego.com/p/a-crash-course-on-using-ai-to-save</link>
       <description>【7 steps to level up your AI prompts and 8 of my favorite AI use cases for work.】升级 AI 提示的 7 个步骤以及我最喜欢的 8 个 AI 工作用例。</description>
       <pubDate>Tue, 26 Nov 2024 16:30:15 +0000</pubDate>
     </item>
     <item>
-      <title>【EP141: How to Ace System Design Interviews Like a Boss?】EP141：如何像老板一样在系统设计面试中取得好成绩？</title>
-      <link>https://blog.bytebytego.com/p/ep141-how-to-ace-system-design-interviews</link>
-      <description>【They are the most critical components to crafting successful software systems.】它们是构建成功的软件系统的最关键组件。</description>
-      <pubDate>Sat, 07 Dec 2024 16:30:49 +0000</pubDate>
+      <title>【Mastering Modern Authentication: Cookies, Sessions, JWT, and PASETO】掌握现代身份验证：Cookie、Session、JWT 和 PASETO</title>
+      <link>https://blog.bytebytego.com/p/mastering-modern-authentication-cookies</link>
+      <description>【Authentication serves as the first line of defense in ensuring the security of applications and the sensitive data they handle.】身份验证是确保应用程序及其处理的敏感数据安全的第一道防线。</description>
+      <pubDate>Thu, 05 Dec 2024 16:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Stateless Architecture: The Key to Building Scalable and Resilient Systems】无状态架构：构建可扩展和弹性系统的关键</title>
+      <link>https://blog.bytebytego.com/p/stateless-architecture-the-key-to</link>
+      <description>【In today&#39;s rapidly evolving digital landscape, developers face the constant challenge of building applications that are not only robust and secure but also infinitely scalable.】在当今快速发展的数字环境中，开发人员面临着构建不仅强大、安全而且可无限扩展的应用程序的持续挑战。</description>
+      <pubDate>Thu, 28 Nov 2024 16:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP139: Design a Live Streaming System】EP139：设计直播系统</title>
+      <link>https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system</link>
+      <description>【Mike Tyson vs. Jake Paul was live-streamed on Netflix last week. Let&amp;#8217;s break down the typical tech stack of a live-streaming system.】迈克·泰森 (Mike Tyson) 对阵杰克·保罗 (Jake Paul) 上周在 Netflix 上进行了直播。让我们来分解一下直播系统的典型技术堆栈。</description>
+      <pubDate>Sat, 23 Nov 2024 16:50:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

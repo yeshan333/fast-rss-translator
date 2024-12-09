@@ -4,16 +4,28 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【How we prevent conflicts in authoritative DNS configuration using formal verification】我们如何使用形式验证来防止权威 DNS 配置中的冲突</title>
-      <link>https://blog.cloudflare.com/topaz-policy-engine-design</link>
-      <description>【 We describe how Cloudflare uses a custom Lisp-like programming language and formal verifier (written in Racket and Rosette) to prevent logical contradictions in our authoritative DNS nameserver’s behavior. 】我们描述了 Cloudflare 如何使用自定义的类似 Lisp 的编程语言和形式验证器（用 Racket 和 Rosette 编写）来防止我们的权威 DNS 域名服务器行为中的逻辑矛盾。</description>
-      <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
+      <title>【What’s new in Cloudflare: Account Owned Tokens and Zaraz Automated Actions】Cloudflare 的新增功能：账户拥有的代币和 Zaraz 自动操作</title>
+      <link>https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz</link>
+      <description>【 Cloudflare customers can now create Account Owned Tokens , allowing more flexibility around access control for their Cloudflare services. Additionally, Zaraz Automation Actions streamlines event tracking and third-party tool integration.  】Cloudflare 客户现在可以创建帐户拥有的令牌，从而为 Cloudflare 服务的访问控制提供更大的灵活性。此外，Zaraz Automation Actions 还简化了事件跟踪和第三方工具集成。</description>
+      <pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
       <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs</link>
       <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
       <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
+      <link>https://blog.cloudflare.com/do-it-again</link>
+      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single, persistent connection. 】我们使用 Cloudflare 的开发者平台和持久对象来构建身份验证和 WebSockets API，开发者可以使用它来调用 AI 网关，从而通过单个持久连接实现持续通信。</description>
+      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we prevent conflicts in authoritative DNS configuration using formal verification】我们如何使用形式验证来防止权威 DNS 配置中的冲突</title>
+      <link>https://blog.cloudflare.com/topaz-policy-engine-design</link>
+      <description>【 We describe how Cloudflare uses a custom Lisp-like programming language and formal verifier (written in Racket and Rosette) to prevent logical contradictions in our authoritative DNS nameserver’s behavior. 】我们描述了 Cloudflare 如何使用自定义的类似 Lisp 的编程语言和形式验证器（用 Racket 和 Rosette 编写）来防止我们的权威 DNS 域名服务器行为中的逻辑矛盾。</description>
+      <pubDate>Fri, 08 Nov 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts】欧洲的弹性互联网连接减轻了多次电缆中断的影响</title>
@@ -28,16 +40,10 @@
       <pubDate>Wed, 20 Nov 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s new in Cloudflare: Account Owned Tokens and Zaraz Automated Actions】Cloudflare 的新增功能：账户拥有的代币和 Zaraz 自动操作</title>
-      <link>https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz</link>
-      <description>【 Cloudflare customers can now create Account Owned Tokens , allowing more flexibility around access control for their Cloudflare services. Additionally, Zaraz Automation Actions streamlines event tracking and third-party tool integration.  】Cloudflare 客户现在可以创建帐户拥有的令牌，从而为 Cloudflare 服务的访问控制提供更大的灵活性。此外，Zaraz Automation Actions 还简化了事件跟踪和第三方工具集成。</description>
-      <pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
-      <link>https://blog.cloudflare.com/do-it-again</link>
-      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single, persistent connection. 】我们使用 Cloudflare 的开发者平台和持久对象来构建身份验证和 WebSockets API，开发者可以使用它来调用 AI 网关，从而通过单个持久连接实现持续通信。</description>
-      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
+      <title>【A look at the latest post-quantum signature standardization candidates】看看最新的后量子签名标准化候选者</title>
+      <link>https://blog.cloudflare.com/another-look-at-pq-signatures</link>
+      <description>【 NIST has standardized four post-quantum signature schemes so far, and they’re not done yet: there are fourteen new candidates in the running for standardization. In this blog post we take measure of them and discover why we ended up with so many PQ signatures. 】到目前为止，NIST 已经标准化了四种后量子签名方案，但它们尚未完成：还有 14 个新候选方案正在竞选标准化。在这篇博文中，我们对它们进行了测量，并发现了为什么我们最终得到了如此多的 PQ 签名。</description>
+      <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Exploring Internet traffic shifts and cyber attacks during the 2024 US election】探索 2024 年美国大选期间的互联网流量变化和网络攻击</title>
@@ -46,22 +52,16 @@
       <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From deals to DDoS: exploring Cyber Week 2024 Internet trends】从交易到 DDoS：探索 2024 年网络周互联网趋势</title>
-      <link>https://blog.cloudflare.com/from-deals-to-ddos-exploring-cyber-week-2024-internet-trends</link>
-      <description>【 How significant are Cyber Week shopping days on the Internet? Is it a global phenomenon? Does E-commerce interest peak on Black Friday or Cyber Monday, and are attacks increasing during this time? We try to answer these questions and more.&#xA; 】网络周网上购物日有多重要？这是一个全球现象吗？电子商务兴趣是否在黑色星期五或网络星期一达到顶峰，并且在此期间攻击是否有所增加？我们试图回答这些问题以及更多问题。</description>
-      <pubDate>Tue, 03 Dec 2024 20:43:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Workers Builds: integrated CI/CD built on the Workers platform】Workers Builds：在 Workers 平台上构建的集成 CI/CD</title>
       <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
       <description>【 Workers Builds, an integrated CI/CD pipeline for the Workers platform, recently launched in open beta. We walk through how we built this product on Cloudflare’s Developer Platform. 】Workers Builds 是 Workers 平台的集成 CI/CD 管道，最近推出了公开测试版。我们将介绍如何在 Cloudflare 的开发者平台上构建此产品。</description>
       <pubDate>Thu, 31 Oct 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A look at the latest post-quantum signature standardization candidates】看看最新的后量子签名标准化候选者</title>
-      <link>https://blog.cloudflare.com/another-look-at-pq-signatures</link>
-      <description>【 NIST has standardized four post-quantum signature schemes so far, and they’re not done yet: there are fourteen new candidates in the running for standardization. In this blog post we take measure of them and discover why we ended up with so many PQ signatures. 】到目前为止，NIST 已经标准化了四种后量子签名方案，但它们尚未完成：还有 14 个新候选方案正在竞选标准化。在这篇博文中，我们对它们进行了测量，并发现了为什么我们最终得到了如此多的 PQ 签名。</description>
-      <pubDate>Thu, 07 Nov 2024 14:00:00 +0000</pubDate>
+      <title>【From deals to DDoS: exploring Cyber Week 2024 Internet trends】从交易到 DDoS：探索 2024 年网络周互联网趋势</title>
+      <link>https://blog.cloudflare.com/from-deals-to-ddos-exploring-cyber-week-2024-internet-trends</link>
+      <description>【 How significant are Cyber Week shopping days on the Internet? Is it a global phenomenon? Does E-commerce interest peak on Black Friday or Cyber Monday, and are attacks increasing during this time? We try to answer these questions and more.&#xA; 】网络周网上购物日有多重要？这是一个全球现象吗？电子商务兴趣是否在黑色星期五或网络星期一达到顶峰，并且在此期间攻击是否有所增加？我们试图回答这些问题以及更多问题。</description>
+      <pubDate>Tue, 03 Dec 2024 20:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
