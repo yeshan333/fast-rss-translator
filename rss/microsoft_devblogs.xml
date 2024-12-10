@@ -4,22 +4,46 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Won’t waiting for multiple threads one at a time introduce a severe performance issue?】一次等待多个线程不会带来严重的性能问题吗？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241205-00/?p=110609</link>
-      <description>【It depends on how long you plan on waiting.】这取决于您计划等待多长时间。</description>
-      <pubDate>Thu, 05 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【MSVC Compiler Language Updates in Visual Studio 2022 version 17.12】Visual Studio 2022 版本 17.12 中的 MSVC 编译器语言更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12</link>
+      <description>【Introduction In alignment with the Visual Studio 2022 version 17.12 release, and based upon feedback received from the community, the MSVC compiler team would like to provide greater visibility into the C++ language-level fixes for customer-reported issues that made it into the release. This is similar to how the standard library team publishes regular changelogs [&amp;hellip;]】简介 为了与 Visual Studio 2022 版本 17.12 版本保持一致，并根据从社区收到的反馈，MSVC 编译器团队希望为该版本中客户报告的问题提供更深入的 C++ 语言级修复的可见性。这类似于标准库团队发布定期变更日志的方式 [...]</description>
+      <pubDate>Fri, 06 Dec 2024 17:32:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Using Dependabot to Manage .NET SDK Updates】使用 Dependabot 管理 .NET SDK 更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates</link>
-      <description>【Learn how to use Dependabot to keep your .NET SDK version up to date with the latest security patches and improvements.】了解如何使用 Dependabot 通过最新的安全补丁和改进来使您的 .NET SDK 版本保持最新状态。</description>
-      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
+      <title>【Deletion of Outdated Azul Zulu for Azure Container Images for Better Security】删除过时的 Azure 容器映像 Azul Zulu 以提高安全性</title>
+      <link>https://devblogs.microsoft.com/java/deletion-of-outdated-azul-zulu-for-azure-container-images-for-better-security</link>
+      <description>【We at Microsoft are committed to providing customers with a secure ecosystem of tools for building and deploying applications. As part of this commitment, we continuously update our Java container image offerings to ensure they meet the highest security standards. Back in January 2022, we announced the End of Updates for the Azul Zulu for Azure build of OpenJDK. As [&amp;hellip;]】Microsoft 致力于为客户提供用于构建和部署应用程序的安全工具生态系统。作为这一承诺的一部分，我们不断更新我们的 Java 容器镜像产品，以确保它们符合最高的安全标准。早在 2022 年 1 月，我们就宣布停止更新 OpenJDK 的 Azul Zulu for Azure 版本。作为 […]</description>
+      <pubDate>Fri, 06 Dec 2024 18:08:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Implementing Evaluation platform on Azure Machine Learning】在 Azure 机器学习上实施评估平台</title>
-      <link>https://devblogs.microsoft.com/ise/implement-evaluation-platform-on-aml</link>
-      <description>【Azure Machine Learning is known for training and deploying models, but can also be used for running experiments. This blog post will show us how we have implemented our Evaluation platform on Azure Machine Learning.】Azure 机器学习以训练和部署模型而闻名，但也可用于运行实验。这篇博文将向我们展示如何在 Azure 机器学习上实施我们的评估平台。</description>
-      <pubDate>Fri, 06 Dec 2024 08:00:00 +0000</pubDate>
+      <title>【Why a Unified Data Model is Critical: Lessons from Building Microsoft’s Semantic Layer】为什么统一数据模型至关重要：构建 Microsoft 语义层的经验教训</title>
+      <link>https://devblogs.microsoft.com/udm/unified-data-models-101</link>
+      <description>【Introduction Some years ago, we were wrestling with a persistent issue in our data stack. Every team had their own way of collecting and structuring data. What was a simple query for one team became a debugging nightmare for another. Discovering the right dataset felt like looking for a needle in a haystack, and standardizing [&amp;hellip;]】简介 几年前，我们一直在努力解决数据堆栈中的一个持续存在的问题。每个团队都有自己的收集和构建数据的方式。对于一个团队来说简单的查询对于另一个团队来说却变成了调试噩梦。发现正确的数据集就像大海捞针一样，并标准化[...]</description>
+      <pubDate>Mon, 09 Dec 2024 16:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using Local AI models with .NET Aspire】将本地 AI 模型与 .NET Aspire 结合使用</title>
+      <link>https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire</link>
+      <description>【Let&#39;s look at how to build and run local AI models with .NET Aspire.】让我们看看如何使用 .NET Aspire 构建和运行本地 AI 模型。</description>
+      <pubDate>Mon, 09 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Keep working with non-blocking Code Cleanup】继续使用非阻塞代码清理</title>
+      <link>https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup</link>
+      <description>【Are you tired of waiting for Code Cleanup to finish every time you save your work? Visual Studio 2022 will no longer lock up and get in the way of your tasks as it’s cleaning up the code under the covers. Every developer knows the importance of maintaining clean code. However, the traditional Code Cleanup [&amp;hellip;]】您是否厌倦了每次保存工作时都等待代码清理完成？ Visual Studio 2022 将不再锁定并妨碍您的任务，因为它正在清理幕后的代码。每个开发人员都知道维护干净代码的重要性。然而，传统的代码清理 [...]</description>
+      <pubDate>Mon, 09 Dec 2024 16:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Global System Integrators can make the most of their GitHub Copilot licenses】全球系统集成商如何充分利用其 GitHub Copilot 许可证</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/dont-let-your-github-copilot-licenses-collect-dust-how-gsis-can-make-their-every-license-count</link>
+      <description>【AI-powered code assistant tools like GitHub Copilot have revolutionized the development landscape. We’ve observed significant Copilot adoption among Global System Integrators (GSIs), who are leading the charge in harnessing its potential. While many developers are already utilizing GitHub Copilot in their internal projects, GSI’s are eager to integrate Copilot into their own application development lifecycles. [&amp;hellip;]】GitHub Copilot 等人工智能驱动的代码助理工具彻底改变了开发环境。我们观察到全球系统集成商 (GSI) 大量采用 Copilot，他们在发挥 Copilot 潜力方面发挥着带头作用。虽然许多开发人员已经在其内部项目中使用 GitHub Copilot，但 GSI 渴望将 Copilot 集成到他们自己的应用程序开发生命周期中。 […]</description>
+      <pubDate>Mon, 09 Dec 2024 16:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learning to read C++ compiler errors: Failing to create a shared_ptr】学习读取 C++ 编译器错误：未能创建共享指针</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241209-00/?p=110619</link>
+      <description>【Understanding what you asked the compiler to do, and why it couldn&#39;t comply.】了解您要求编译器做什么，以及为什么它不能遵守。</description>
+      <pubDate>Mon, 09 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Boost your Microsoft 365 app performance: Introducing tree shaking in TeamsJS】提升 Microsoft 365 应用性能：TeamsJS 中引入 Tree Shaking</title>
@@ -28,40 +52,16 @@
       <pubDate>Fri, 06 Dec 2024 15:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Learning to read C++ compiler errors: Nonsensical errors from a function declaration】学习读取 C++ 编译器错误：函数声明中的无意义错误</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614</link>
-      <description>【Look closely at what the error message is complaining about.】仔细查看错误消息抱怨的内容。</description>
-      <pubDate>Fri, 06 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Azure Cosmos DB Integration with Spring AI and Langchain4J!】宣布 Azure Cosmos DB 与 Spring AI 和 Langchain4J 集成！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-azure-cosmos-db-integration-with-spring-ai-and-langchain4j</link>
-      <description>【We’re continuing to simplify AI app development by integrating Azure Cosmos DB’s cost-effective and scalable vector search directly with Spring AI and LangChain4J! These frameworks empower Java developers to efficiently manage fast and accurate data retrieval with Azure Cosmos DB’s scalability and efficient vector indexing and search capabilities, allowing for efficient handling of high-dimensional vectors. [&amp;hellip;]】我们将通过将 Azure Cosmos DB 经济高效且可扩展的矢量搜索直接与 Spring AI 和 LangChain4J 集成，继续简化 AI 应用程序开发！这些框架使 Java 开发人员能够利用 Azure Cosmos DB 的可扩展性以及高效的向量索引和搜索功能来高效管理快速、准确的数据检索，从而高效处理高维向量。 […]</description>
-      <pubDate>Thu, 05 Dec 2024 15:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MSVC Compiler Language Updates in Visual Studio 2022 version 17.12】Visual Studio 2022 版本 17.12 中的 MSVC 编译器语言更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12</link>
-      <description>【Introduction In alignment with the Visual Studio 2022 version 17.12 release, and based upon feedback received from the community, the MSVC compiler team would like to provide greater visibility into the C++ language-level fixes for customer-reported issues that made it into the release. This is similar to how the standard library team publishes regular changelogs [&amp;hellip;]】简介 为了与 Visual Studio 2022 版本 17.12 版本保持一致，并根据从社区收到的反馈，MSVC 编译器团队希望为该版本中客户报告的问题提供更深入的 C++ 语言级修复的可见性。这类似于标准库团队发布定期变更日志的方式 [...]</description>
-      <pubDate>Fri, 06 Dec 2024 17:32:53 +0000</pubDate>
+      <title>【2024 Python in VS Code Wrapped】2024 VS Code 中的 Python 封装</title>
+      <link>https://devblogs.microsoft.com/python/2024-python-vscode-wrapped</link>
+      <description>【As the year comes to a close, we would like to take the time to reflect and celebrate the incredible progress the Python extension for VS Code has made in the past year. From merging in top requested features to countless lines of code written and deleted, keep reading to get an inside look to all things】在这一年即将结束之际，我们想花时间回顾和庆祝 VS Code 的 Python 扩展在过去一年中取得的令人难以置信的进步。从合并最需要的功能到编写和删除无数行代码，请继续阅读以深入了解所有内容</description>
+      <pubDate>Mon, 09 Dec 2024 17:52:23 +0000</pubDate>
     </item>
     <item>
       <title>【Customer Case Study: How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development】客户案例研究：如何使用适用于 Microsoft Semantic Kernel 的 Elasticsearch Vector Store Connector 进行 AI 代理开发</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-to-use-elasticsearch-vector-store-connector-for-microsoft-semantic-kernel-for-ai-agent-development</link>
       <description>【How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi and Florian Bernd to dive [&amp;hellip;]】如何使用适用于 Microsoft 语义内核的 Elasticsearch Vector Store 连接器进行 AI 代理开发 今天，我们很高兴能够与 Elastic 团队分享有关适用于 Microsoft 语义内核的语义内核 Elasticsearch Vector Store 连接器的更多信息。请在此处阅读整个公告。我会将其交给 Srikanth Manvi 和 Florian Bernd 进行潜水 [...]</description>
       <pubDate>Fri, 06 Dec 2024 19:32:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Code Referencing for GitHub Copilot Chat in Visual Studio】在 Visual Studio 中引入 GitHub Copilot 聊天的代码引用</title>
-      <link>https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio</link>
-      <description>【Are you tired of the uncertainty that comes with using code suggestions from AI tools? We&amp;#8217;ve got exciting news for you! Visual Studio 2022 now includes code referencing in GitHub Copilot, ensuring greater transparency and control for developers. We are thrilled to announce that code referencing is now available in GitHub Copilot Chat within Visual [&amp;hellip;]】您是否厌倦了使用人工智能工具的代码建议带来的不确定性？我们为您带来了令人兴奋的消息！ Visual Studio 2022 现在包含 GitHub Copilot 中的代码引用，确保开发人员获得更大的透明度和控制力。我们很高兴地宣布，代码引用现在可以在 Visual [...] 内的 GitHub Copilot Chat 中使用。</description>
-      <pubDate>Thu, 05 Dec 2024 16:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Deletion of Outdated Azul Zulu for Azure Container Images for Better Security】删除过时的 Azure 容器映像 Azul Zulu 以提高安全性</title>
-      <link>https://devblogs.microsoft.com/java/deletion-of-outdated-azul-zulu-for-azure-container-images-for-better-security</link>
-      <description>【We at Microsoft are committed to providing customers with a secure ecosystem of tools for building and deploying applications. As part of this commitment, we continuously update our Java container image offerings to ensure they meet the highest security standards. Back in January 2022, we announced the End of Updates for the Azul Zulu for Azure build of OpenJDK. As [&amp;hellip;]】Microsoft 致力于为客户提供用于构建和部署应用程序的安全工具生态系统。作为这一承诺的一部分，我们不断更新我们的 Java 容器镜像产品，以确保它们符合最高的安全标准。早在 2022 年 1 月，我们就宣布停止更新 OpenJDK 的 Azul Zulu for Azure 版本。作为 […]</description>
-      <pubDate>Fri, 06 Dec 2024 18:08:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
