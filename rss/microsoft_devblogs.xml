@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【MSVC Compiler Language Updates in Visual Studio 2022 version 17.12】Visual Studio 2022 版本 17.12 中的 MSVC 编译器语言更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12</link>
-      <description>【Introduction In alignment with the Visual Studio 2022 version 17.12 release, and based upon feedback received from the community, the MSVC compiler team would like to provide greater visibility into the C++ language-level fixes for customer-reported issues that made it into the release. This is similar to how the standard library team publishes regular changelogs [&amp;hellip;]】简介 为了与 Visual Studio 2022 版本 17.12 版本保持一致，并根据从社区收到的反馈，MSVC 编译器团队希望为该版本中客户报告的问题提供更深入的 C++ 语言级修复的可见性。这类似于标准库团队发布定期变更日志的方式 [...]</description>
-      <pubDate>Fri, 06 Dec 2024 17:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Deletion of Outdated Azul Zulu for Azure Container Images for Better Security】删除过时的 Azure 容器映像 Azul Zulu 以提高安全性</title>
-      <link>https://devblogs.microsoft.com/java/deletion-of-outdated-azul-zulu-for-azure-container-images-for-better-security</link>
-      <description>【We at Microsoft are committed to providing customers with a secure ecosystem of tools for building and deploying applications. As part of this commitment, we continuously update our Java container image offerings to ensure they meet the highest security standards. Back in January 2022, we announced the End of Updates for the Azul Zulu for Azure build of OpenJDK. As [&amp;hellip;]】Microsoft 致力于为客户提供用于构建和部署应用程序的安全工具生态系统。作为这一承诺的一部分，我们不断更新我们的 Java 容器镜像产品，以确保它们符合最高的安全标准。早在 2022 年 1 月，我们就宣布停止更新 OpenJDK 的 Azul Zulu for Azure 版本。作为 […]</description>
-      <pubDate>Fri, 06 Dec 2024 18:08:25 +0000</pubDate>
+      <title>【How Global System Integrators can make the most of their GitHub Copilot licenses】全球系统集成商如何充分利用其 GitHub Copilot 许可证</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/dont-let-your-github-copilot-licenses-collect-dust-how-gsis-can-make-their-every-license-count</link>
+      <description>【AI-powered code assistant tools like GitHub Copilot have revolutionized the development landscape. We’ve observed significant Copilot adoption among Global System Integrators (GSIs), who are leading the charge in harnessing its potential. While many developers are already utilizing GitHub Copilot in their internal projects, GSI’s are eager to integrate Copilot into their own application development lifecycles. [&amp;hellip;]】GitHub Copilot 等人工智能驱动的代码助理工具彻底改变了开发环境。我们观察到全球系统集成商 (GSI) 大量采用 Copilot，他们在发挥 Copilot 潜力方面发挥着带头作用。虽然许多开发人员已经在其内部项目中使用 GitHub Copilot，但 GSI 渴望将 Copilot 集成到他们自己的应用程序开发生命周期中。 […]</description>
+      <pubDate>Mon, 09 Dec 2024 16:14:16 +0000</pubDate>
     </item>
     <item>
       <title>【Why a Unified Data Model is Critical: Lessons from Building Microsoft’s Semantic Layer】为什么统一数据模型至关重要：构建 Microsoft 语义层的经验教训</title>
@@ -22,34 +16,16 @@
       <pubDate>Mon, 09 Dec 2024 16:33:58 +0000</pubDate>
     </item>
     <item>
+      <title>【Compute scaling in Azure Fluid Relay】Azure Fluid Relay 中的计算缩放</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay</link>
+      <description>【Explore the journey of identifying and fine-tuning the optimal Kubernetes autoscaling configuration for Azure Fluid Relay.】探索为 Azure Fluid Relay 识别和微调最佳 Kubernetes 自动缩放配置的旅程。</description>
+      <pubDate>Tue, 10 Dec 2024 17:00:54 +0000</pubDate>
+    </item>
+    <item>
       <title>【Using Local AI models with .NET Aspire】将本地 AI 模型与 .NET Aspire 结合使用</title>
       <link>https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire</link>
       <description>【Let&#39;s look at how to build and run local AI models with .NET Aspire.】让我们看看如何使用 .NET Aspire 构建和运行本地 AI 模型。</description>
       <pubDate>Mon, 09 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Keep working with non-blocking Code Cleanup】继续使用非阻塞代码清理</title>
-      <link>https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup</link>
-      <description>【Are you tired of waiting for Code Cleanup to finish every time you save your work? Visual Studio 2022 will no longer lock up and get in the way of your tasks as it’s cleaning up the code under the covers. Every developer knows the importance of maintaining clean code. However, the traditional Code Cleanup [&amp;hellip;]】您是否厌倦了每次保存工作时都等待代码清理完成？ Visual Studio 2022 将不再锁定并妨碍您的任务，因为它正在清理幕后的代码。每个开发人员都知道维护干净代码的重要性。然而，传统的代码清理 [...]</description>
-      <pubDate>Mon, 09 Dec 2024 16:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Global System Integrators can make the most of their GitHub Copilot licenses】全球系统集成商如何充分利用其 GitHub Copilot 许可证</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/dont-let-your-github-copilot-licenses-collect-dust-how-gsis-can-make-their-every-license-count</link>
-      <description>【AI-powered code assistant tools like GitHub Copilot have revolutionized the development landscape. We’ve observed significant Copilot adoption among Global System Integrators (GSIs), who are leading the charge in harnessing its potential. While many developers are already utilizing GitHub Copilot in their internal projects, GSI’s are eager to integrate Copilot into their own application development lifecycles. [&amp;hellip;]】GitHub Copilot 等人工智能驱动的代码助理工具彻底改变了开发环境。我们观察到全球系统集成商 (GSI) 大量采用 Copilot，他们在发挥 Copilot 潜力方面发挥着带头作用。虽然许多开发人员已经在其内部项目中使用 GitHub Copilot，但 GSI 渴望将 Copilot 集成到他们自己的应用程序开发生命周期中。 […]</description>
-      <pubDate>Mon, 09 Dec 2024 16:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Learning to read C++ compiler errors: Failing to create a shared_ptr】学习读取 C++ 编译器错误：未能创建共享指针</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241209-00/?p=110619</link>
-      <description>【Understanding what you asked the compiler to do, and why it couldn&#39;t comply.】了解您要求编译器做什么，以及为什么它不能遵守。</description>
-      <pubDate>Mon, 09 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Boost your Microsoft 365 app performance: Introducing tree shaking in TeamsJS】提升 Microsoft 365 应用性能：TeamsJS 中引入 Tree Shaking</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/boost-your-microsoft-365-app-performance-introducing-tree-shaking-in-teamsjs</link>
-      <description>【With Microsoft Teams JavaScript client library (TeamsJS) version 2.31.0, we’re excited to make the TeamsJS library fully tree-shakable.】通过 Microsoft Teams JavaScript 客户端库 (TeamsJS) 版本 2.31.0，我们很高兴使 TeamsJS 库完全可进行树摇动。</description>
-      <pubDate>Fri, 06 Dec 2024 15:00:37 +0000</pubDate>
     </item>
     <item>
       <title>【2024 Python in VS Code Wrapped】2024 VS Code 中的 Python 封装</title>
@@ -58,10 +34,34 @@
       <pubDate>Mon, 09 Dec 2024 17:52:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development】客户案例研究：如何使用适用于 Microsoft Semantic Kernel 的 Elasticsearch Vector Store Connector 进行 AI 代理开发</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-to-use-elasticsearch-vector-store-connector-for-microsoft-semantic-kernel-for-ai-agent-development</link>
-      <description>【How to use Elasticsearch Vector Store Connector for Microsoft Semantic Kernel for AI Agent development Today we&amp;#8217;re excited to feature the Elastic team to share more about their Semantic Kernel Elasticsearch Vector Store connector for Microsoft Semantic Kernel. Read the entire announcement here. I&amp;#8217;ll turn it over to Srikanth Manvi and Florian Bernd to dive [&amp;hellip;]】如何使用适用于 Microsoft 语义内核的 Elasticsearch Vector Store 连接器进行 AI 代理开发 今天，我们很高兴能够与 Elastic 团队分享有关适用于 Microsoft 语义内核的语义内核 Elasticsearch Vector Store 连接器的更多信息。请在此处阅读整个公告。我会将其交给 Srikanth Manvi 和 Florian Bernd 进行潜水 [...]</description>
-      <pubDate>Fri, 06 Dec 2024 19:32:15 +0000</pubDate>
+      <title>【It rather involved being on the other side of this airtight hatchway: Disabling anti-malware scanning】相反，它涉及到在这个密闭舱口的另一边：禁用反恶意软件扫描</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241210-00/?p=110626</link>
+      <description>【If you have already infiltrated the process, then you can disable things from the inside.】如果您已经渗透到该进程，那么您可以从内部禁用某些东西。</description>
+      <pubDate>Tue, 10 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Keep working with non-blocking Code Cleanup】继续使用非阻塞代码清理</title>
+      <link>https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup</link>
+      <description>【Are you tired of waiting for Code Cleanup to finish every time you save your work? Visual Studio 2022 will no longer lock up and get in the way of your tasks as it’s cleaning up the code under the covers. Every developer knows the importance of maintaining clean code. However, the traditional Code Cleanup [&amp;hellip;]】您是否厌倦了每次保存工作时都等待代码清理完成？ Visual Studio 2022 将不再锁定并妨碍您的任务，因为它正在清理幕后的代码。每个开发人员都知道维护干净代码的重要性。然而，传统的代码清理 [...]</description>
+      <pubDate>Mon, 09 Dec 2024 16:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Invoking Async Power: What Awaits WinForms in .NET 9】调用异步功能：.NET 9 中的 WinForms 有何期待</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis</link>
+      <description>【With .NET 9, we’re bringing a suite of new async APIs to WinForms, aimed at making UI updates, dialog interactions, and control management more efficient.】在 .NET 9 中，我们为 WinForms 引入了一套新的异步 API，旨在提高 UI 更新、对话框交互和控件管理的效率。</description>
+      <pubDate>Tue, 10 Dec 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ONNX GenAI Connector for Python (Experimental)】适用于 Python 的 ONNX GenAI 连接器（实验性）</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/onnx-genai-connector-for-python-experimental</link>
+      <description>【ONNX GenAI Connector for Python (Experimental)  With the latest update we added support for running models locally with the onnxruntime-genai. The onnxruntime-genai package is powered by the ONNX Runtime in the background, but first let’s clarify what ONNX, ONNX Runtime and ONNX Runtime-GenAI are.  ONNX ONNX is an open-source format for AI models, both for [&amp;hellip;]】适用于 Python 的 ONNX GenAI 连接器（实验性）在最新更新中，我们添加了对使用 onnxruntime-genai 在本地运行模型的支持。 onnxruntime-genai 软件包由 ONNX Runtime 在后台提供支持，但首先让我们澄清一下 ONNX、ONNX Runtime 和 ONNX Runtime-GenAI 是什么。  ONNX ONNX 是一种人工智能模型的开源格式，既适用于 [...]</description>
+      <pubDate>Tue, 10 Dec 2024 16:32:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Effortless publishing to Azure WebJobs on Linux】轻松发布到 Linux 上的 Azure WebJobs</title>
+      <link>https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux</link>
+      <description>【Are you tired of the cumbersome process involved in publishing your .NET console applications to Azure WebJobs on Linux? For developers yearning for a seamless and efficient method to deploy their applications, Visual Studio 2022 introduces a much-anticipated solution. Visual Studio 2022 now supports right-click publishing to Azure WebJobs on Linux, making the deployment process [&amp;hellip;]】您是否厌倦了将 .NET 控制台应用程序发布到 Linux 上的 Azure WebJobs 的繁琐过程？对于渴望以无缝、高效的方法部署应用程序的开发人员来说，Visual Studio 2022 引入了备受期待的解决方案。 Visual Studio 2022 现在支持右键单击发布到 Linux 上的 Azure WebJobs，从而使部署过程 [...]</description>
+      <pubDate>Tue, 10 Dec 2024 17:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
