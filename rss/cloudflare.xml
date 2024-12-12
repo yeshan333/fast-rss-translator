@@ -4,16 +4,10 @@
     <link>https://blog.cloudflare.com</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
-      <link>https://blog.cloudflare.com/do-it-again</link>
-      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single, persistent connection. 】我们使用 Cloudflare 的开发者平台和持久对象来构建身份验证和 WebSockets API，开发者可以使用它来调用 AI 网关，从而通过单个持久连接实现持续通信。</description>
-      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in Cloudflare: Account Owned Tokens and Zaraz Automated Actions】Cloudflare 的新增功能：账户拥有的代币和 Zaraz 自动操作</title>
-      <link>https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz</link>
-      <description>【 Cloudflare customers can now create Account Owned Tokens , allowing more flexibility around access control for their Cloudflare services. Additionally, Zaraz Automation Actions streamlines event tracking and third-party tool integration.  】Cloudflare 客户现在可以创建帐户拥有的令牌，从而为 Cloudflare 服务的访问控制提供更大的灵活性。此外，Zaraz Automation Actions 还简化了事件跟踪和第三方工具集成。</description>
-      <pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
+      <title>【Cloudflare 2024 Year in Review】Cloudflare 2024 年回顾</title>
+      <link>https://blog.cloudflare.com/radar-2024-year-in-review</link>
+      <description>【 The 2024 Cloudflare Radar Year in Review is our fifth annual review of Internet trends and patterns at both a global and country/region level. For 2024, we added several new metrics, as well as the ability to do year-over-year and geographic comparisons for selected metrics.  】2024 年 Cloudflare Radar 年度回顾是我们对全球和国家/地区层面的互联网趋势和模式的第五次年度回顾。 2024 年，我们添加了几个新指标，以及对选定指标进行同比和地理比较的能力。</description>
+      <pubDate>Mon, 09 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How we prevent conflicts in authoritative DNS configuration using formal verification】我们如何使用形式验证来防止权威 DNS 配置中的冲突</title>
@@ -24,14 +18,14 @@
     <item>
       <title>【From ChatGPT to Temu: ranking top Internet services in 2024】从ChatGPT到Temu：2024年顶级互联网服务排名</title>
       <link>https://blog.cloudflare.com/radar-2024-year-in-review-internet-services</link>
-      <description>【 The 2024 popular Internet services landscape highlights rising generative AI, e-commerce shifts, and the continued dominance of platforms like Google and Facebook, as revealed by Cloudflare’s rankings. 】Cloudflare 的排名显示，2024 年流行的互联网服务格局凸显了生成式人工智能的崛起、电子商务的转变以及 Google 和 Facebook 等平台的持续主导地位。</description>
+      <description>【 The 2024 popular Internet services landscape highlights rising generative AI, e-commerce shifts, and the continued dominance of platforms like Google and Facebook, as revealed by Cloudflare’s rankings 】Cloudflare 的排名显示，2024 年流行的互联网服务格局凸显了生成式人工智能的崛起、电子商务的转变以及 Google 和 Facebook 等平台的持续主导地位</description>
       <pubDate>Mon, 09 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Enforcing your robots.txt policies and stopping bots before they reach your website】执行您的 robots.txt 政策并在机器人到达您的网站之前将其阻止</title>
-      <link>https://blog.cloudflare.com/ai-audit-enforcing-robots-txt</link>
-      <description>【 Today, the AI Audit dashboard gets an upgrade: you can now quickly see which AI services are honoring your robots.txt policies and then automatically enforce the policies against those that aren’t.&#xA; 】今天，AI 审核仪表板进行了升级：您现在可以快速查看哪些 AI 服务遵守您的 robots.txt 策略，然后自动针对那些不遵守的 AI 服务强制执行这些策略。</description>
-      <pubDate>Tue, 10 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts】欧洲的弹性互联网连接减轻了多次电缆中断的影响</title>
+      <link>https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts</link>
+      <description>【 Two recent cable cuts that occurred in the Baltic Sea resulted in little-to-no observable impact to the affected countries, in large part because of the significant redundancy and resilience of Internet infrastructure in Europe.&#xA; 】最近在波罗的海发生的两次电缆中断对受影响国家几乎没有产生明显的影响，这在很大程度上是因为欧洲互联网基础设施的大量冗余和恢复能力。</description>
+      <pubDate>Wed, 20 Nov 2024 21:30:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
@@ -52,16 +46,22 @@
       <pubDate>Wed, 20 Nov 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare 2024 Year in Review】Cloudflare 2024 年回顾</title>
-      <link>https://blog.cloudflare.com/radar-2024-year-in-review</link>
-      <description>【 The 2024 Cloudflare Radar Year in Review is our fifth annual review of Internet trends and patterns at both a global and country/region level. For 2024, we added several new metrics, as well as the ability to do year-over-year and geographic comparisons for selected metrics.  】2024 年 Cloudflare Radar 年度回顾是我们对全球和国家/地区层面的互联网趋势和模式的第五次年度回顾。 2024 年，我们添加了几个新指标，以及对选定指标进行同比和地理比较的能力。</description>
-      <pubDate>Mon, 09 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
+      <link>https://blog.cloudflare.com/do-it-again</link>
+      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single 】我们使用 Cloudflare 的开发者平台和 Durable Objects 来构建身份验证和 WebSockets API，开发者可以使用该 API 来调用 AI 网关，从而实现通过单个</description>
+      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts】欧洲的弹性互联网连接减轻了多次电缆中断的影响</title>
-      <link>https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts</link>
-      <description>【 Two recent cable cuts that occurred in the Baltic Sea resulted in little-to-no observable impact to the affected countries, in large part because of the significant redundancy and resilience of Internet infrastructure in Europe.&#xA; 】最近在波罗的海发生的两次电缆中断对受影响国家几乎没有产生明显的影响，这在很大程度上是因为欧洲互联网基础设施的大量冗余和恢复能力。</description>
-      <pubDate>Wed, 20 Nov 2024 21:30:00 +0000</pubDate>
+      <title>【Robotcop: enforcing your robots.txt policies and stopping bots before they reach your website】Robotcop：执行您的 robots.txt 政策并在机器人到达您的网站之前将其阻止</title>
+      <link>https://blog.cloudflare.com/ai-audit-enforcing-robots-txt</link>
+      <description>【 Today, the AI Audit dashboard gets an upgrade: you can now quickly see which AI services are honoring your robots.txt policies and then automatically enforce the policies against those that aren’t.&#xA; 】今天，AI 审核仪表板进行了升级：您现在可以快速查看哪些 AI 服务遵守您的 robots.txt 策略，然后自动针对那些不遵守的 AI 服务强制执行这些策略。</description>
+      <pubDate>Tue, 10 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s new in Cloudflare: Account Owned Tokens and Zaraz Automated Actions】Cloudflare 的新增功能：账户拥有的代币和 Zaraz 自动操作</title>
+      <link>https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz</link>
+      <description>【 Cloudflare customers can now create Account Owned Tokens , allowing more flexibility around access control for their Cloudflare services. Additionally, Zaraz Automation Actions streamlines event tracking and third-party tool integration.  】Cloudflare 客户现在可以创建帐户拥有的令牌，从而为 Cloudflare 服务的访问控制提供更大的灵活性。此外，Zaraz Automation Actions 还简化了事件跟踪和第三方工具集成。</description>
+      <pubDate>Thu, 14 Nov 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

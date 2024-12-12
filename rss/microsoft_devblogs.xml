@@ -4,46 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【How Global System Integrators can make the most of their GitHub Copilot licenses】全球系统集成商如何充分利用其 GitHub Copilot 许可证</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/dont-let-your-github-copilot-licenses-collect-dust-how-gsis-can-make-their-every-license-count</link>
-      <description>【AI-powered code assistant tools like GitHub Copilot have revolutionized the development landscape. We’ve observed significant Copilot adoption among Global System Integrators (GSIs), who are leading the charge in harnessing its potential. While many developers are already utilizing GitHub Copilot in their internal projects, GSI’s are eager to integrate Copilot into their own application development lifecycles. [&amp;hellip;]】GitHub Copilot 等人工智能驱动的代码助理工具彻底改变了开发环境。我们观察到全球系统集成商 (GSI) 大量采用 Copilot，他们在发挥 Copilot 潜力方面发挥着带头作用。虽然许多开发人员已经在其内部项目中使用 GitHub Copilot，但 GSI 渴望将 Copilot 集成到他们自己的应用程序开发生命周期中。 […]</description>
-      <pubDate>Mon, 09 Dec 2024 16:14:16 +0000</pubDate>
+      <title>【ONNX GenAI Connector for Python (Experimental)】适用于 Python 的 ONNX GenAI 连接器（实验性）</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/onnx-genai-connector-for-python-experimental</link>
+      <description>【ONNX GenAI Connector for Python (Experimental)  With the latest update we added support for running models locally with the onnxruntime-genai. The onnxruntime-genai package is powered by the ONNX Runtime in the background, but first let’s clarify what ONNX, ONNX Runtime and ONNX Runtime-GenAI are.  ONNX ONNX is an open-source format for AI models, both for [&amp;hellip;]】适用于 Python 的 ONNX GenAI 连接器（实验性）在最新更新中，我们添加了对使用 onnxruntime-genai 在本地运行模型的支持。 onnxruntime-genai 软件包由 ONNX Runtime 在后台提供支持，但首先让我们澄清一下 ONNX、ONNX Runtime 和 ONNX Runtime-GenAI 是什么。  ONNX ONNX 是一种人工智能模型的开源格式，既适用于 [...]</description>
+      <pubDate>Tue, 10 Dec 2024 16:32:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Why a Unified Data Model is Critical: Lessons from Building Microsoft’s Semantic Layer】为什么统一数据模型至关重要：构建 Microsoft 语义层的经验教训</title>
-      <link>https://devblogs.microsoft.com/udm/unified-data-models-101</link>
-      <description>【Introduction Some years ago, we were wrestling with a persistent issue in our data stack. Every team had their own way of collecting and structuring data. What was a simple query for one team became a debugging nightmare for another. Discovering the right dataset felt like looking for a needle in a haystack, and standardizing [&amp;hellip;]】简介 几年前，我们一直在努力解决数据堆栈中的一个持续存在的问题。每个团队都有自己的收集和构建数据的方式。对于一个团队来说简单的查询对于另一个团队来说却变成了调试噩梦。发现正确的数据集就像大海捞针一样，并标准化[...]</description>
-      <pubDate>Mon, 09 Dec 2024 16:33:58 +0000</pubDate>
+      <title>【What is the CONTINUE_IF_FAILED equivalent of RETURN_IF_FAILED?】CONTINUE_IF_FAILED 相当于 RETURN_IF_FAILED 是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241211-00/?p=110629</link>
+      <description>【Be careful how you write it, or better: Don&#39;t write it at all.】小心你如何写它，或者更好：根本不写它。</description>
+      <pubDate>Wed, 11 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Compute scaling in Azure Fluid Relay】Azure Fluid Relay 中的计算缩放</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay</link>
-      <description>【Explore the journey of identifying and fine-tuning the optimal Kubernetes autoscaling configuration for Azure Fluid Relay.】探索为 Azure Fluid Relay 识别和微调最佳 Kubernetes 自动缩放配置的旅程。</description>
-      <pubDate>Tue, 10 Dec 2024 17:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using Local AI models with .NET Aspire】将本地 AI 模型与 .NET Aspire 结合使用</title>
-      <link>https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire</link>
-      <description>【Let&#39;s look at how to build and run local AI models with .NET Aspire.】让我们看看如何使用 .NET Aspire 构建和运行本地 AI 模型。</description>
-      <pubDate>Mon, 09 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【2024 Python in VS Code Wrapped】2024 VS Code 中的 Python 封装</title>
-      <link>https://devblogs.microsoft.com/python/2024-python-vscode-wrapped</link>
-      <description>【As the year comes to a close, we would like to take the time to reflect and celebrate the incredible progress the Python extension for VS Code has made in the past year. From merging in top requested features to countless lines of code written and deleted, keep reading to get an inside look to all things】在这一年即将结束之际，我们想花时间回顾和庆祝 VS Code 的 Python 扩展在过去一年中取得的令人难以置信的进步。从合并最需要的功能到编写和删除无数行代码，请继续阅读以深入了解所有内容</description>
-      <pubDate>Mon, 09 Dec 2024 17:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【It rather involved being on the other side of this airtight hatchway: Disabling anti-malware scanning】相反，它涉及到在这个密闭舱口的另一边：禁用反恶意软件扫描</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241210-00/?p=110626</link>
-      <description>【If you have already infiltrated the process, then you can disable things from the inside.】如果您已经渗透到该进程，那么您可以从内部禁用某些东西。</description>
-      <pubDate>Tue, 10 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Keep working with non-blocking Code Cleanup】继续使用非阻塞代码清理</title>
-      <link>https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup</link>
-      <description>【Are you tired of waiting for Code Cleanup to finish every time you save your work? Visual Studio 2022 will no longer lock up and get in the way of your tasks as it’s cleaning up the code under the covers. Every developer knows the importance of maintaining clean code. However, the traditional Code Cleanup [&amp;hellip;]】您是否厌倦了每次保存工作时都等待代码清理完成？ Visual Studio 2022 将不再锁定并妨碍您的任务，因为它正在清理幕后的代码。每个开发人员都知道维护干净代码的重要性。然而，传统的代码清理 [...]</description>
-      <pubDate>Mon, 09 Dec 2024 16:11:34 +0000</pubDate>
+      <title>【Dev Box Ready-To-Code Dev Box images template】Dev Box Ready-To-Code Dev Box 图像模板</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/dev-box-ready-to-code-dev-box-images-template</link>
+      <description>【Microsoft One Engineering System (1ES) team shares a sample for building Ready-To-Code Dev Box environments pre-configured with the necessary tools, repositories, and settings, ensuring consistency and reliability across teams.】Microsoft One Engineering System (1ES) 团队分享了一个示例，用于构建预配置了必要工具、存储库和设置的 Ready-To-Code Dev Box 环境，确保团队之间的一致性和可靠性。</description>
+      <pubDate>Wed, 11 Dec 2024 17:00:17 +0000</pubDate>
     </item>
     <item>
       <title>【Invoking Async Power: What Awaits WinForms in .NET 9】调用异步功能：.NET 9 中的 WinForms 有何期待</title>
@@ -52,16 +28,40 @@
       <pubDate>Tue, 10 Dec 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【ONNX GenAI Connector for Python (Experimental)】适用于 Python 的 ONNX GenAI 连接器（实验性）</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/onnx-genai-connector-for-python-experimental</link>
-      <description>【ONNX GenAI Connector for Python (Experimental)  With the latest update we added support for running models locally with the onnxruntime-genai. The onnxruntime-genai package is powered by the ONNX Runtime in the background, but first let’s clarify what ONNX, ONNX Runtime and ONNX Runtime-GenAI are.  ONNX ONNX is an open-source format for AI models, both for [&amp;hellip;]】适用于 Python 的 ONNX GenAI 连接器（实验性）在最新更新中，我们添加了对使用 onnxruntime-genai 在本地运行模型的支持。 onnxruntime-genai 软件包由 ONNX Runtime 在后台提供支持，但首先让我们澄清一下 ONNX、ONNX Runtime 和 ONNX Runtime-GenAI 是什么。  ONNX ONNX 是一种人工智能模型的开源格式，既适用于 [...]</description>
-      <pubDate>Tue, 10 Dec 2024 16:32:03 +0000</pubDate>
+      <title>【Effortless publishing with Azure Functions Flex Consumption】使用 Azure Functions Flex Consumer 轻松发布</title>
+      <link>https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption</link>
+      <description>【Struggling with complex deployment processes for your serverless applications? Visual Studio 2022 introduces a seamless solution with the new Azure Functions Flex Consumption hosting plan, now generally available. Imagine a world where deploying your serverless applications to a hosting plan that supports fast scaling and VNet is as simple as a right-click. With the Azure [&amp;hellip;]】是否正在为无服务器应用程序的复杂部署流程而苦苦挣扎？ Visual Studio 2022 引入了带有新的 Azure Functions Flex 消耗托管计划的无缝解决方案，现已全面上市。想象一下这样一个世界：将无服务器应用程序部署到支持快速扩展和 VNet 的托管计划就像右键单击一样简单。与蔚蓝[...]</description>
+      <pubDate>Wed, 11 Dec 2024 16:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Boards Hub Rollout Expectations】新板中心推出预期</title>
+      <link>https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations</link>
+      <description>【Although the process may seem slow, we are steadily progressing toward rolling out the New Boards Hub to all customers. Our plan is to deprecate the old Boards experience for all Azure DevOps service users by the end Q1 2025. The rollout is advancing on two fronts. First, we are setting the New Boards Hub [&amp;hellip;]】尽管这个过程可能看起来很缓慢，但我们正在稳步向所有客户推出新板中心。我们的计划是在 2025 年第一季度末之前为所有 Azure DevOps 服务用户弃用旧的 Boards 体验。该部署正在两个方面推进。首先，我们正在设置新板中心 [...]</description>
+      <pubDate>Wed, 11 Dec 2024 18:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – December 2024 Release】Visual Studio Code 中的 Python – 2024 年 12 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2024-release</link>
+      <description>【The December 2024 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include a special review of docstring generation features from Pylance, the new Python Environments extension in preview, Pylance&#39;s &#34;full&#34; language server mode, and much more. Keep reading to learn more!】2024 年 12 月发布的 Visual Studio Code 的 Python 和 Jupyter 扩展现已推出。本月的更新包括对 Pylance 文档字符串生成功能的特别回顾、预览中的新 Python 环境扩展、Pylance 的“完整”语言服务器模式等等。继续阅读以了解更多信息！</description>
+      <pubDate>Wed, 11 Dec 2024 20:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【It rather involved being on the other side of this airtight hatchway: Disabling anti-malware scanning】相反，它涉及到在这个密闭舱口的另一边：禁用反恶意软件扫描</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241210-00/?p=110626</link>
+      <description>【If you have already infiltrated the process, then you can disable things from the inside.】如果您已经渗透了该进程，那么您可以从内部禁用某些东西。</description>
+      <pubDate>Tue, 10 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Effortless publishing to Azure WebJobs on Linux】轻松发布到 Linux 上的 Azure WebJobs</title>
       <link>https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux</link>
       <description>【Are you tired of the cumbersome process involved in publishing your .NET console applications to Azure WebJobs on Linux? For developers yearning for a seamless and efficient method to deploy their applications, Visual Studio 2022 introduces a much-anticipated solution. Visual Studio 2022 now supports right-click publishing to Azure WebJobs on Linux, making the deployment process [&amp;hellip;]】您是否厌倦了将 .NET 控制台应用程序发布到 Linux 上的 Azure WebJobs 的繁琐过程？对于渴望以无缝、高效的方法部署应用程序的开发人员来说，Visual Studio 2022 引入了备受期待的解决方案。 Visual Studio 2022 现在支持右键单击发布到 Linux 上的 Azure WebJobs，从而使部署过程 [...]</description>
       <pubDate>Tue, 10 Dec 2024 17:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Compute scaling in Azure Fluid Relay】Azure Fluid Relay 中的计算缩放</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay</link>
+      <description>【Explore the journey of identifying and fine-tuning the optimal Kubernetes autoscaling configuration for Azure Fluid Relay.】探索为 Azure Fluid Relay 识别和微调最佳 Kubernetes 自动缩放配置的旅程。</description>
+      <pubDate>Tue, 10 Dec 2024 17:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
