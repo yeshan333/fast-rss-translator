@@ -4,40 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【ONNX GenAI Connector for Python (Experimental)】适用于 Python 的 ONNX GenAI 连接器（实验性）</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/onnx-genai-connector-for-python-experimental</link>
-      <description>【ONNX GenAI Connector for Python (Experimental)  With the latest update we added support for running models locally with the onnxruntime-genai. The onnxruntime-genai package is powered by the ONNX Runtime in the background, but first let’s clarify what ONNX, ONNX Runtime and ONNX Runtime-GenAI are.  ONNX ONNX is an open-source format for AI models, both for [&amp;hellip;]】适用于 Python 的 ONNX GenAI 连接器（实验性）在最新更新中，我们添加了对使用 onnxruntime-genai 在本地运行模型的支持。 onnxruntime-genai 软件包由 ONNX Runtime 在后台提供支持，但首先让我们澄清一下 ONNX、ONNX Runtime 和 ONNX Runtime-GenAI 是什么。  ONNX ONNX 是一种人工智能模型的开源格式，既适用于 [...]</description>
-      <pubDate>Tue, 10 Dec 2024 16:32:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What is the CONTINUE_IF_FAILED equivalent of RETURN_IF_FAILED?】CONTINUE_IF_FAILED 相当于 RETURN_IF_FAILED 是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241211-00/?p=110629</link>
-      <description>【Be careful how you write it, or better: Don&#39;t write it at all.】小心你如何写它，或者更好：根本不写它。</description>
-      <pubDate>Wed, 11 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Box Ready-To-Code Dev Box images template】Dev Box Ready-To-Code Dev Box 图像模板</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/dev-box-ready-to-code-dev-box-images-template</link>
-      <description>【Microsoft One Engineering System (1ES) team shares a sample for building Ready-To-Code Dev Box environments pre-configured with the necessary tools, repositories, and settings, ensuring consistency and reliability across teams.】Microsoft One Engineering System (1ES) 团队分享了一个示例，用于构建预配置了必要工具、存储库和设置的 Ready-To-Code Dev Box 环境，确保团队之间的一致性和可靠性。</description>
-      <pubDate>Wed, 11 Dec 2024 17:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Invoking Async Power: What Awaits WinForms in .NET 9】调用异步功能：.NET 9 中的 WinForms 有何期待</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis</link>
-      <description>【With .NET 9, we’re bringing a suite of new async APIs to WinForms, aimed at making UI updates, dialog interactions, and control management more efficient.】在 .NET 9 中，我们为 WinForms 引入了一套新的异步 API，旨在提高 UI 更新、对话框交互和控件管理的效率。</description>
-      <pubDate>Tue, 10 Dec 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Effortless publishing with Azure Functions Flex Consumption】使用 Azure Functions Flex Consumer 轻松发布</title>
       <link>https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption</link>
       <description>【Struggling with complex deployment processes for your serverless applications? Visual Studio 2022 introduces a seamless solution with the new Azure Functions Flex Consumption hosting plan, now generally available. Imagine a world where deploying your serverless applications to a hosting plan that supports fast scaling and VNet is as simple as a right-click. With the Azure [&amp;hellip;]】是否正在为无服务器应用程序的复杂部署流程而苦苦挣扎？ Visual Studio 2022 引入了带有新的 Azure Functions Flex 消耗托管计划的无缝解决方案，现已全面上市。想象一下这样一个世界：将无服务器应用程序部署到支持快速扩展和 VNet 的托管计划就像右键单击一样简单。与蔚蓝[...]</description>
       <pubDate>Wed, 11 Dec 2024 16:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Boards Hub Rollout Expectations】新板中心推出预期</title>
-      <link>https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations</link>
-      <description>【Although the process may seem slow, we are steadily progressing toward rolling out the New Boards Hub to all customers. Our plan is to deprecate the old Boards experience for all Azure DevOps service users by the end Q1 2025. The rollout is advancing on two fronts. First, we are setting the New Boards Hub [&amp;hellip;]】尽管这个过程可能看起来很缓慢，但我们正在稳步向所有客户推出新板中心。我们的计划是在 2025 年第一季度末之前为所有 Azure DevOps 服务用户弃用旧的 Boards 体验。该部署正在两个方面推进。首先，我们正在设置新板中心 [...]</description>
-      <pubDate>Wed, 11 Dec 2024 18:24:35 +0000</pubDate>
     </item>
     <item>
       <title>【Python in Visual Studio Code – December 2024 Release】Visual Studio Code 中的 Python – 2024 年 12 月发布</title>
@@ -46,22 +16,52 @@
       <pubDate>Wed, 11 Dec 2024 20:34:39 +0000</pubDate>
     </item>
     <item>
-      <title>【It rather involved being on the other side of this airtight hatchway: Disabling anti-malware scanning】相反，它涉及到在这个密闭舱口的另一边：禁用反恶意软件扫描</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241210-00/?p=110626</link>
-      <description>【If you have already infiltrated the process, then you can disable things from the inside.】如果您已经渗透了该进程，那么您可以从内部禁用某些东西。</description>
-      <pubDate>Tue, 10 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Boost your Git confidence with the new file rename notification】通过新的文件重命名通知增强您的 Git 信心</title>
+      <link>https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification</link>
+      <description>【Have you ever renamed a file in Solution Explorer and wondered if Git is tracking your changes correctly? You&amp;#8217;re not alone. Many developers have found this process confusing and worry whether their changes are being properly staged in Git. But worry no more &amp;#8211; there&amp;#8217;s a solution! When you rename files in Solution Explorer, Visual [&amp;hellip;]】您是否曾经在解决方案资源管理器中重命名过文件，并想知道 Git 是否正确跟踪您的更改？你并不孤单。许多开发人员发现这个过程令人困惑，并担心他们的更改是否正确地在 Git 中暂存。但不用担心——有一个解决方案！当您在解决方案资源管理器中重命名文件时，Visual [...]</description>
+      <pubDate>Thu, 12 Dec 2024 15:05:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Effortless publishing to Azure WebJobs on Linux】轻松发布到 Linux 上的 Azure WebJobs</title>
-      <link>https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux</link>
-      <description>【Are you tired of the cumbersome process involved in publishing your .NET console applications to Azure WebJobs on Linux? For developers yearning for a seamless and efficient method to deploy their applications, Visual Studio 2022 introduces a much-anticipated solution. Visual Studio 2022 now supports right-click publishing to Azure WebJobs on Linux, making the deployment process [&amp;hellip;]】您是否厌倦了将 .NET 控制台应用程序发布到 Linux 上的 Azure WebJobs 的繁琐过程？对于渴望以无缝、高效的方法部署应用程序的开发人员来说，Visual Studio 2022 引入了备受期待的解决方案。 Visual Studio 2022 现在支持右键单击发布到 Linux 上的 Azure WebJobs，从而使部署过程 [...]</description>
-      <pubDate>Tue, 10 Dec 2024 17:24:00 +0000</pubDate>
+      <title>【Dev Box Ready-To-Code Dev Box images template】Dev Box Ready-To-Code Dev Box 图像模板</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/dev-box-ready-to-code-dev-box-images-template</link>
+      <description>【Microsoft One Engineering System (1ES) team shares a sample for building Ready-To-Code Dev Box environments pre-configured with the necessary tools, repositories, and settings, ensuring consistency and reliability across teams.】Microsoft One Engineering System (1ES) 团队分享了一个示例，用于构建预配置了必要工具、存储库和设置的 Ready-To-Code Dev Box 环境，确保团队之间的一致性和可靠性。</description>
+      <pubDate>Wed, 11 Dec 2024 17:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Compute scaling in Azure Fluid Relay】Azure Fluid Relay 中的计算缩放</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay</link>
-      <description>【Explore the journey of identifying and fine-tuning the optimal Kubernetes autoscaling configuration for Azure Fluid Relay.】探索为 Azure Fluid Relay 识别和微调最佳 Kubernetes 自动缩放配置的旅程。</description>
-      <pubDate>Tue, 10 Dec 2024 17:00:54 +0000</pubDate>
+      <title>【API naming principles for conditional operations: On, When, and If】条件操作的 API 命名原则：On、When 和 If</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241212-00/?p=110632</link>
+      <description>【Describing when a condition is tested.】描述何时测试条件。</description>
+      <pubDate>Thu, 12 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!】发布 .NET 社区工具包 8.4！对 MVVM、新分析器等的部分属性支持！</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840</link>
+      <description>【We&#39;re happy to announce the official launch of the .NET Community Toolkit 8.4 release, featuring support for partial properties for the MVVM Toolkit generators, new analyzers, bug fixes and enhancements, and more!】我们很高兴地宣布正式推出 .NET Community Toolkit 8.4 版本，其中支持 MVVM Toolkit 生成器的部分属性、新分析器、错误修复和增强功能等等！</description>
+      <pubDate>Thu, 12 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【An introduction to Multi-Agent AI apps with Azure Cosmos DB and Azure OpenAI】使用 Azure Cosmos DB 和 Azure OpenAI 的多代理 AI 应用简介</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/an-introduction-to-multi-agent-ai-apps-with-azure-cosmos-db-and-azure-openai</link>
+      <description>【Azure Cosmos DB was named by Bloomberg as the no. 1 Database of choice for Retrieval Augmented Generation (RAG) and Large Language Model (LLM) customization. It is used by OpenAI to scale it’s ChatGPT service, and by many thousands of customers worldwide, serving billions of end-users with globally distributed apps at planet scale. In this [&amp;hellip;]】Azure Cosmos DB 被彭博社评为第一。 1 用于检索增强生成 (RAG) 和大型语言模型 (LLM) 定制的首选数据库。 OpenAI 使用它来扩展其 ChatGPT 服务，并被全球成千上万的客户使用，通过全球范围内分布的应用程序为数十亿最终用户提供服务。在这个[…]</description>
+      <pubDate>Thu, 12 Dec 2024 15:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【dotnet scaffold – .NET的下一代内容创建工具】dotnet scaffold – .NET的下一代内容创建工具</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/dotnet-scaffold-net%e7%9a%84%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%86%85%e5%ae%b9%e5%88%9b%e5%bb%ba%e5%b7%a5%e5%85%b7</link>
+      <description>【本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold &amp;#8211; Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold [&amp;hellip;]】本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold – Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold […]</description>
+      <pubDate>Fri, 13 Dec 2024 01:20:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Javac support in Visual Studio Code Java】宣布 Visual Studio Code Java 支持 Javac</title>
+      <link>https://devblogs.microsoft.com/java/annoucing-javac-support-in-visual-studio-code-java</link>
+      <description>【Hi everyone, we are pleased to announce partial support of Javac as the underlying compiler in Visual Studio Code Java, JDT, and JDT-LS. The effort to provide this support has been a joint collaboration with Red Hat and Microsoft and is nearly a year in the making. This change aims to ensure timely support for [&amp;hellip;]】大家好，我们很高兴地宣布部分支持 Javac 作为 Visual Studio Code Java、JDT 和 JDT-LS 中的底层编译器。提供此支持的工作是与红帽和 Microsoft 的联合合作，历时近一年。这一变化旨在确保及时支持[...]</description>
+      <pubDate>Thu, 12 Dec 2024 08:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Boards Hub Rollout Expectations】新板中心推出预期</title>
+      <link>https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations</link>
+      <description>【Although the process may seem slow, we are steadily progressing toward rolling out the New Boards Hub to all customers. Our plan is to deprecate the old Boards experience for all Azure DevOps service users by the end Q1 2025. The rollout is advancing on two fronts. First, we are setting the New Boards Hub [&amp;hellip;]】尽管这个过程可能看起来很缓慢，但我们正在稳步向所有客户推出新板中心。我们的计划是在 2025 年第一季度末之前为所有 Azure DevOps 服务用户弃用旧的 Boards 体验。该部署正在两个方面推进。首先，我们正在设置新板中心 [...]</description>
+      <pubDate>Wed, 11 Dec 2024 18:24:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
