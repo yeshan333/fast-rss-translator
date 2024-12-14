@@ -10,16 +10,10 @@
       <pubDate>Fri, 13 Dec 2024 01:20:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!】发布 .NET 社区工具包 8.4！对 MVVM、新分析器等的部分属性支持！</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840</link>
-      <description>【We&#39;re happy to announce the official launch of the .NET Community Toolkit 8.4 release, featuring support for partial properties for the MVVM Toolkit generators, new analyzers, bug fixes and enhancements, and more!】我们很高兴地宣布正式推出 .NET Community Toolkit 8.4 版本，其中支持 MVVM Toolkit 生成器的部分属性、新分析器、错误修复和增强功能等等！</description>
-      <pubDate>Thu, 12 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2412.12 – Texture/Buffer/Visualizer improvements, Work Graph Shader Debugging, and many Timing Capture improvements】PIX 2412.12 – 纹理/缓冲区/可视化器改进、工作图着色器调试以及许多时序捕获改进</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2412-12</link>
-      <description>【Today we released PIX on Windows version 2412.12, which can be downloaded here. This release includes several new improvements to GPU Captures and Timing Captures, including: GPU Captures: Custom Buffer/Texture/Mesh Visualizer Improvements Work Graph Shader Debugging (preview) VRS Shading Rate Visualizer Many bug fixes + smaller improvements Timing Captures: New Comparison Layout Range Details “v2” [&amp;hellip;]】今天我们发布了 Windows 版本的 PIX 2412.12，可以在此处下载。此版本包括对 GPU 捕获和时序捕获的多项新改进，包括： GPU 捕获：自定义缓冲区/纹理/网格可视化工具改进 工作图着色器调试（预览） VRS 着色率可视化工具 许多错误修复 + 较小的改进 时序捕获：新的比较布局范围详细信息“v2”[...]</description>
-      <pubDate>Fri, 13 Dec 2024 19:12:19 +0000</pubDate>
+      <title>【Boost your Git confidence with the new file rename notification】通过新的文件重命名通知增强您的 Git 信心</title>
+      <link>https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification</link>
+      <description>【Have you ever renamed a file in Solution Explorer and wondered if Git is tracking your changes correctly? You&amp;#8217;re not alone. Many developers have found this process confusing and worry whether their changes are being properly staged in Git. But worry no more &amp;#8211; there&amp;#8217;s a solution! When you rename files in Solution Explorer, Visual [&amp;hellip;]】您是否曾经在解决方案资源管理器中重命名过文件，并想知道 Git 是否正确跟踪您的更改？你并不孤单。许多开发人员发现这个过程令人困惑，并担心他们的更改是否正确地在 Git 中暂存。但不用担心——有一个解决方案！当您在解决方案资源管理器中重命名文件时，Visual [...]</description>
+      <pubDate>Thu, 12 Dec 2024 15:05:11 +0000</pubDate>
     </item>
     <item>
       <title>【API naming principles for conditional operations: On, When, and If】条件操作的 API 命名原则：On、When 和 If</title>
@@ -40,16 +34,22 @@
       <pubDate>Thu, 12 Dec 2024 08:23:38 +0000</pubDate>
     </item>
     <item>
+      <title>【Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!】发布 .NET 社区工具包 8.4！对 MVVM、新分析器等的部分属性支持！</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840</link>
+      <description>【We&#39;re happy to announce the official launch of the .NET Community Toolkit 8.4 release, featuring support for partial properties for the MVVM Toolkit generators, new analyzers, bug fixes and enhancements, and more!】我们很高兴地宣布正式推出 .NET Community Toolkit 8.4 版本，其中支持 MVVM Toolkit 生成器的部分属性、新分析器、错误修复和增强功能等等！</description>
+      <pubDate>Thu, 12 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Preview the GitHub Copilot extension for Teams Toolkit】预览 Teams Toolkit 的 GitHub Copilot 扩展</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/preview-the-github-copilot-extension-for-teams-toolkit</link>
+      <description>【Introducing the GitHub Copilot for Teams Toolkit—your companion in Visual Studio Code, Visual Studio, and GitHub.】隆重推出 GitHub Copilot for Teams 工具包 - Visual Studio Code、Visual Studio 和 GitHub 中的伴侣。</description>
+      <pubDate>Fri, 13 Dec 2024 12:55:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【GPT-4o: Revolutionizing Real-Time Speech Technology in 2024】GPT-4o：2024 年实时语音技术的革命</title>
       <link>https://devblogs.microsoft.com/all-things-azure/gpt-4o-revolutionizing-real-time-speech-technology-in-2024</link>
       <description>【In an era where communication is more crucial than ever, real-time speech has evolved from a futuristic concept into an essential tool across many industries. With gpt-4o leading the way, organizations and developers are now leveraging AI to create interactive and seamless speech experiences. From customer support to retail, the impact of real-time speech applications [&amp;hellip;]】在沟通比以往任何时候都更加重要的时代，实时语音已经从一个未来概念发展成为许多行业的重要工具。在 gpt-4o 的引领下，组织和开发人员现在正在利用 AI 来创建交互式、无缝的语音体验。从客户支持到零售，实时语音应用程序的影响[...]</description>
       <pubDate>Fri, 13 Dec 2024 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Boost your Git confidence with the new file rename notification】通过新的文件重命名通知增强您的 Git 信心</title>
-      <link>https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification</link>
-      <description>【Have you ever renamed a file in Solution Explorer and wondered if Git is tracking your changes correctly? You&amp;#8217;re not alone. Many developers have found this process confusing and worry whether their changes are being properly staged in Git. But worry no more &amp;#8211; there&amp;#8217;s a solution! When you rename files in Solution Explorer, Visual [&amp;hellip;]】您是否曾经在解决方案资源管理器中重命名过文件，并想知道 Git 是否正确跟踪您的更改？你并不孤单。许多开发人员发现这个过程令人困惑，并担心他们的更改是否正确地在 Git 中暂存。但不用担心——有一个解决方案！当您在解决方案资源管理器中重命名文件时，Visual [...]</description>
-      <pubDate>Thu, 12 Dec 2024 15:05:11 +0000</pubDate>
     </item>
     <item>
       <title>【An introduction to Multi-Agent AI apps with Azure Cosmos DB and Azure OpenAI】使用 Azure Cosmos DB 和 Azure OpenAI 的多代理 AI 应用简介</title>
@@ -58,10 +58,10 @@
       <pubDate>Thu, 12 Dec 2024 15:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Preview the GitHub Copilot extension for Teams Toolkit】预览 Teams Toolkit 的 GitHub Copilot 扩展</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/preview-the-github-copilot-extension-for-teams-toolkit</link>
-      <description>【Introducing the GitHub Copilot for Teams Toolkit—your companion in Visual Studio Code, Visual Studio, and GitHub.】隆重推出 GitHub Copilot for Teams 工具包 - Visual Studio Code、Visual Studio 和 GitHub 中的伴侣。</description>
-      <pubDate>Fri, 13 Dec 2024 12:55:56 +0000</pubDate>
+      <title>【PIX 2412.12 – Texture/Buffer/Visualizer improvements, Work Graph Shader Debugging, and many Timing Capture improvements】PIX 2412.12 – 纹理/缓冲区/可视化器改进、工作图着色器调试以及许多时序捕获改进</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2412-12</link>
+      <description>【Today we released PIX on Windows version 2412.12, which can be downloaded here. This release includes several new improvements to GPU Captures and Timing Captures, including: GPU Captures: Custom Buffer/Texture/Mesh Visualizer Improvements Work Graph Shader Debugging (preview) VRS Shading Rate Visualizer Many bug fixes + smaller improvements Timing Captures: New Comparison Layout Range Details “v2” [&amp;hellip;]】今天我们发布了 Windows 版本的 PIX 2412.12，可以在此处下载。此版本包括对 GPU 捕获和时序捕获的多项新改进，包括： GPU 捕获：自定义缓冲区/纹理/网格可视化工具改进 工作图着色器调试（预览） VRS 着色率可视化工具 许多错误修复 + 较小的改进 时序捕获：新的比较布局范围详细信息“v2”[...]</description>
+      <pubDate>Fri, 13 Dec 2024 19:12:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

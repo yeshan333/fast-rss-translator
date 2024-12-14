@@ -10,16 +10,10 @@
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Release Roundup November 2024: Reliability in the serverless and AI era】2024 年 11 月发布综述：无服务器和人工智能时代的可靠性</title>
-      <link>https://www.gremlin.com/blog/release-roundup-november-2024-reliability-in-the-serverless-and-ai-era</link>
-      <description>【A review of the major product and feature releases from September to November 2024, including Service Mesh via Failure Flags, AWS PrivateLink in Marketplace, RM &amp; FI scheduling improvements, and agent updates.】对 2024 年 9 月至 11 月主要产品和功能版本的回顾，包括通过故障标志的服务网格、Marketplace 中的 AWS PrivateLink、RM 和 FI 调度改进以及代理更新。</description>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Best Practices for Testing Zone Redundancy】测试区冗余的最佳实践</title>
-      <link>https://www.gremlin.com/blog/best-practices-for-testing-zone-redundancy</link>
-      <description>【Gremlin Principal Software Engineer Sam Rossoff shares key best practices and strategies for effectively testing zone redundancy.】Gremlin 首席软件工程师 Sam Rossoff 分享了有效测试区域冗余的关键最佳实践和策略。</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <title>【Reliable AI models, simulations, and more with Gremlin&#39;s GPU experiment】通过 Gremlin 的 GPU 实验实现可靠的 AI 模型、模拟等</title>
+      <link>https://www.gremlin.com/blog/how-gremlins-gpu-experiment-makes-ai-models-simulations-and-video-encoding-more-resilient</link>
+      <description>【Build more resilient machine learning and AI models, video streaming, simulations, and more with Gremlin’s GPU experiment.】利用 Gremlin 的 GPU 实验构建更具弹性的机器学习和 AI 模型、视频流、模拟等。</description>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Seven tests to measure and improve reliability: what matters and how it works】衡量和提高可靠性的七项测试：重要因素及其工作原理</title>
@@ -28,16 +22,10 @@
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Chaos Engineering and Resilience Testing Tools: Build vs Buy】混沌工程和弹性测试工具：构建与购买</title>
-      <link>https://www.gremlin.com/blog/chaos-engineering-tools-build-vs-buy</link>
-      <description>【Not sure whether you should build or buy a Fault Injection tool for Chaos Engineering and resilience testing? Check out the pros and cons of building vs buying.】不确定是否应该构建或购买用于混沌工程和弹性测试的故障注入工具？查看建造与购买的优缺点。</description>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Release Roundup August 2024: Set experiment guardrails with customizable RBAC】2024 年 8 月发布综述：使用可定制的 RBAC 设置实验护栏</title>
-      <link>https://www.gremlin.com/blog/release-roundup-august-2024</link>
-      <description>【Custom role-based access controls (RBAC), improved proxy support, zone tags for Failure Flags, and much more! It’s all here in our August 2024 release roundup.】自定义基于角色的访问控制 (RBAC)、改进的代理支持、故障标志的区域标签等等！这一切都在我们的 2024 年 8 月版本综述中。</description>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <title>【Best Practices for Testing Zone Redundancy】测试区冗余的最佳实践</title>
+      <link>https://www.gremlin.com/blog/best-practices-for-testing-zone-redundancy</link>
+      <description>【Gremlin Principal Software Engineer Sam Rossoff shares key best practices and strategies for effectively testing zone redundancy.】Gremlin 首席软件工程师 Sam Rossoff 分享了有效测试区域冗余的关键最佳实践和策略。</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How reliability engineering can verify disaster recovery plans】可靠性工程如何验证灾难恢复计划</title>
@@ -52,15 +40,27 @@
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Reliable AI models, simulations, and more with Gremlin&#39;s GPU experiment】通过 Gremlin 的 GPU 实验实现可靠的 AI 模型、模拟等</title>
-      <link>https://www.gremlin.com/blog/how-gremlins-gpu-experiment-makes-ai-models-simulations-and-video-encoding-more-resilient</link>
-      <description>【Build more resilient machine learning and AI models, video streaming, simulations, and more with Gremlin’s GPU experiment.】利用 Gremlin 的 GPU 实验构建更具弹性的机器学习和 AI 模型、视频流、模拟等。</description>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <title>【Release Roundup August 2024: Set experiment guardrails with customizable RBAC】2024 年 8 月发布综述：使用可定制的 RBAC 设置实验护栏</title>
+      <link>https://www.gremlin.com/blog/release-roundup-august-2024</link>
+      <description>【Custom role-based access controls (RBAC), improved proxy support, zone tags for Failure Flags, and much more! It’s all here in our August 2024 release roundup.】自定义基于角色的访问控制 (RBAC)、改进的代理支持、故障标志的区域标签等等！这一切都在我们的 2024 年 8 月版本综述中。</description>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Now in private beta: Gremlin Service Mesh Extension】现在处于私人测试版：Gremlin Service Mesh Extension</title>
       <link>https://www.gremlin.com/blog/private-beta-gremlin-service-mesh-extension</link>
       <description>【Find out how to safely test applications and services behind service meshes with the Gremlin Service Mesh Extension.】了解如何使用 Gremlin 服务网格扩展安全地测试服务网格背后的应用程序和服务。</description>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Chaos Engineering and Resilience Testing Tools: Build vs Buy】混沌工程和弹性测试工具：构建与购买</title>
+      <link>https://www.gremlin.com/blog/chaos-engineering-tools-build-vs-buy</link>
+      <description>【Not sure whether you should build or buy a Fault Injection tool for Chaos Engineering and resilience testing? Check out the pros and cons of building vs buying.】不确定是否应该构建或购买用于混沌工程和弹性测试的故障注入工具？查看建造与购买的优缺点。</description>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Release Roundup November 2024: Reliability in the serverless and AI era】2024 年 11 月发布综述：无服务器和人工智能时代的可靠性</title>
+      <link>https://www.gremlin.com/blog/release-roundup-november-2024-reliability-in-the-serverless-and-ai-era</link>
+      <description>【A review of the major product and feature releases from September to November 2024, including Service Mesh via Failure Flags, AWS PrivateLink in Marketplace, RM &amp; FI scheduling improvements, and agent updates.】对 2024 年 9 月至 11 月主要产品和功能版本的回顾，包括通过故障标志的服务网格、Marketplace 中的 AWS PrivateLink、RM 和 FI 调度改进以及代理更新。</description>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
