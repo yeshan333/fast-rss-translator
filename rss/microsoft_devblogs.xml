@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!】发布 .NET 社区工具包 8.4！对 MVVM、新分析器等的部分属性支持！</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840</link>
-      <description>【We&#39;re happy to announce the official launch of the .NET Community Toolkit 8.4 release, featuring support for partial properties for the MVVM Toolkit generators, new analyzers, bug fixes and enhancements, and more!】我们很高兴地宣布正式推出 .NET Community Toolkit 8.4 版本，其中支持 MVVM Toolkit 生成器的部分属性、新分析器、错误修复和增强功能等等！</description>
-      <pubDate>Thu, 12 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Converting to a derived class from the future: How to cast from a base class to an incomplete derived class?】从未来转换为派生类：如何从基类转换为不完整的派生类？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241213-00/?p=110637</link>
-      <description>【Deferring the definition until the class is complete.】推迟定义直到课程完成。</description>
-      <pubDate>Fri, 13 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Javac support in Visual Studio Code Java】宣布 Visual Studio Code Java 支持 Javac</title>
-      <link>https://devblogs.microsoft.com/java/annoucing-javac-support-in-visual-studio-code-java</link>
-      <description>【Hi everyone, we are pleased to announce partial support of Javac as the underlying compiler in Visual Studio Code Java, JDT, and JDT-LS. The effort to provide this support has been a joint collaboration with Red Hat and Microsoft and is nearly a year in the making. This change aims to ensure timely support for [&amp;hellip;]】大家好，我们很高兴地宣布部分支持 Javac 作为 Visual Studio Code Java、JDT 和 JDT-LS 中的底层编译器。提供此支持的工作是与红帽和 Microsoft 的联合合作，历时近一年。这一变化旨在确保及时支持[...]</description>
-      <pubDate>Thu, 12 Dec 2024 08:23:38 +0000</pubDate>
+      <title>【API naming principles for conditional operations: On, When, and If】条件操作的 API 命名原则：On、When 和 If</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241212-00/?p=110632</link>
+      <description>【Describing when a condition is tested.】描述何时测试条件。</description>
+      <pubDate>Thu, 12 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Boost your Git confidence with the new file rename notification】通过新的文件重命名通知增强您的 Git 信心</title>
@@ -34,16 +22,22 @@
       <pubDate>Fri, 13 Dec 2024 05:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2412.12 – Texture/Buffer/Visualizer improvements, Work Graph Shader Debugging, and many Timing Capture improvements】PIX 2412.12 – 纹理/缓冲区/可视化器改进、工作图着色器调试以及许多时序捕获改进</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2412-12</link>
-      <description>【Today we released PIX on Windows version 2412.12, which can be downloaded here. This release includes several new improvements to GPU Captures and Timing Captures, including: GPU Captures: Custom Buffer/Texture/Mesh Visualizer Improvements Work Graph Shader Debugging (preview) VRS Shading Rate Visualizer Many bug fixes + smaller improvements Timing Captures: New Comparison Layout Range Details “v2” [&amp;hellip;]】今天我们发布了 Windows 版本的 PIX 2412.12，可以在此处下载。此版本包括对 GPU 捕获和时序捕获的多项新改进，包括： GPU 捕获：自定义缓冲区/纹理/网格可视化工具改进 工作图着色器调试（预览） VRS 着色率可视化工具 许多错误修复 + 较小的改进 时序捕获：新的比较布局范围详细信息“v2”[...]</description>
-      <pubDate>Fri, 13 Dec 2024 19:12:19 +0000</pubDate>
+      <title>【Announcing Javac support in Visual Studio Code Java】宣布 Visual Studio Code Java 支持 Javac</title>
+      <link>https://devblogs.microsoft.com/java/annoucing-javac-support-in-visual-studio-code-java</link>
+      <description>【Hi everyone, we are pleased to announce partial support of Javac as the underlying compiler in Visual Studio Code Java, JDT, and JDT-LS. The effort to provide this support has been a joint collaboration with Red Hat and Microsoft and is nearly a year in the making. This change aims to ensure timely support for [&amp;hellip;]】大家好，我们很高兴地宣布部分支持 Javac 作为 Visual Studio Code Java、JDT 和 JDT-LS 中的底层编译器。提供此支持的工作是与红帽和 Microsoft 的联合合作，历时近一年。这一变化旨在确保及时支持[...]</description>
+      <pubDate>Thu, 12 Dec 2024 08:23:38 +0000</pubDate>
     </item>
     <item>
-      <title>【dotnet scaffold – .NET的下一代内容创建工具】dotnet scaffold – .NET的下一代内容创建工具</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/dotnet-scaffold-net%e7%9a%84%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%86%85%e5%ae%b9%e5%88%9b%e5%bb%ba%e5%b7%a5%e5%85%b7</link>
-      <description>【本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold &amp;#8211; Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold [&amp;hellip;]】本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold – Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold […]</description>
-      <pubDate>Fri, 13 Dec 2024 01:20:18 +0000</pubDate>
+      <title>【Converting to a derived class from the future: How to cast from a base class to an incomplete derived class?】从未来转换为派生类：如何从基类转换为不完整的派生类？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241213-00/?p=110637</link>
+      <description>【Deferring the definition until the class is complete.】推迟定义直到课程完成。</description>
+      <pubDate>Fri, 13 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!】发布 .NET 社区工具包 8.4！对 MVVM、新分析器等的部分属性支持！</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840</link>
+      <description>【We&#39;re happy to announce the official launch of the .NET Community Toolkit 8.4 release, featuring support for partial properties for the MVVM Toolkit generators, new analyzers, bug fixes and enhancements, and more!】我们很高兴地宣布正式推出 .NET Community Toolkit 8.4 版本，其中支持 MVVM Toolkit 生成器的部分属性、新分析器、错误修复和增强功能等等！</description>
+      <pubDate>Thu, 12 Dec 2024 18:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【An introduction to Multi-Agent AI apps with Azure Cosmos DB and Azure OpenAI】使用 Azure Cosmos DB 和 Azure OpenAI 的多代理 AI 应用简介</title>
@@ -52,10 +46,16 @@
       <pubDate>Thu, 12 Dec 2024 15:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>【API naming principles for conditional operations: On, When, and If】条件操作的 API 命名原则：On、When 和 If</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241212-00/?p=110632</link>
-      <description>【Describing when a condition is tested.】描述何时测试条件。</description>
-      <pubDate>Thu, 12 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【dotnet scaffold – .NET的下一代内容创建工具】dotnet scaffold – .NET的下一代内容创建工具</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/dotnet-scaffold-net%e7%9a%84%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%86%85%e5%ae%b9%e5%88%9b%e5%bb%ba%e5%b7%a5%e5%85%b7</link>
+      <description>【本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold &amp;#8211; Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold [&amp;hellip;]】本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold – Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold […]</description>
+      <pubDate>Fri, 13 Dec 2024 01:20:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2412.12 – Texture/Buffer/Visualizer improvements, Work Graph Shader Debugging, and many Timing Capture improvements】PIX 2412.12 – 纹理/缓冲区/可视化器改进、工作图着色器调试以及许多时序捕获改进</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2412-12</link>
+      <description>【Today we released PIX on Windows version 2412.12, which can be downloaded here. This release includes several new improvements to GPU Captures and Timing Captures, including: GPU Captures: Custom Buffer/Texture/Mesh Visualizer Improvements Work Graph Shader Debugging (preview) VRS Shading Rate Visualizer Many bug fixes + smaller improvements Timing Captures: New Comparison Layout Range Details “v2” [&amp;hellip;]】今天我们发布了 Windows 版本的 PIX 2412.12，可以在此处下载。此版本包括对 GPU 捕获和时序捕获的多项新改进，包括： GPU 捕获：自定义缓冲区/纹理/网格可视化工具改进 工作图着色器调试（预览） VRS 着色率可视化工具 许多错误修复 + 较小的改进 时序捕获：新的比较布局范围详细信息“v2”[...]</description>
+      <pubDate>Fri, 13 Dec 2024 19:12:19 +0000</pubDate>
     </item>
     <item>
       <title>【Preview the GitHub Copilot extension for Teams Toolkit】预览 Teams Toolkit 的 GitHub Copilot 扩展</title>
