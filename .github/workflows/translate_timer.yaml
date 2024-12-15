@@ -20,6 +20,8 @@ jobs:
 
       - name: Do translate
         run: |
+          export http_proxy=http://${{ secrets.ZYTE_HTTP_PROXY }}
+          export https_proxy=https://${{ secrets.ZYTE_HTTP_PROXY }}
           go run main.go --update-file TEST_README.md
 
       - name: Push translated rss
