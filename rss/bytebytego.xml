@@ -5,22 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How LinkedIn Customizes Its 7 Trillion Message Kafka Ecosystem】LinkedIn 如何定制其 7 万亿消息 Kafka 生态系统</title>
-      <link>https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion</link>
-      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：本文中的详细信息来自 LinkedIn 工程博客。</description>
-      <pubDate>Tue, 03 Dec 2024 16:31:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on Using AI to Save Time and Focus on What Matters】使用人工智能节省时间并专注于重要事情的速成课程</title>
-      <link>https://blog.bytebytego.com/p/a-crash-course-on-using-ai-to-save</link>
-      <description>【7 steps to level up your AI prompts and 8 of my favorite AI use cases for work.】升级 AI 提示的 7 个步骤以及我最喜欢的 8 个 AI 工作用例。</description>
-      <pubDate>Tue, 26 Nov 2024 16:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP141: How to Ace System Design Interviews Like a Boss?】EP141：如何像老板一样在系统设计面试中取得好成绩？</title>
-      <link>https://blog.bytebytego.com/p/ep141-how-to-ace-system-design-interviews</link>
-      <description>【They are the most critical components to crafting successful software systems.】它们是构建成功的软件系统的最关键组件。</description>
-      <pubDate>Sat, 07 Dec 2024 16:30:49 +0000</pubDate>
+      <title>【Database Performance Demystified: Essential Tips and Strategies】数据库性能揭秘：基本技巧和策略</title>
+      <link>https://blog.bytebytego.com/p/database-performance-demystified</link>
+      <description>【Databases are the backbone of modern applications.】数据库是现代应用程序的支柱。</description>
+      <pubDate>Thu, 12 Dec 2024 16:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【Mastering Modern Authentication: Cookies, Sessions, JWT, and PASETO】掌握现代身份验证：Cookie、Session、JWT 和 PASETO</title>
@@ -29,10 +17,28 @@
       <pubDate>Thu, 05 Dec 2024 16:31:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Database Performance Demystified: Essential Tips and Strategies】数据库性能揭秘：基本技巧和策略</title>
-      <link>https://blog.bytebytego.com/p/database-performance-demystified</link>
-      <description>【Databases are the backbone of modern applications.】数据库是现代应用程序的支柱。</description>
-      <pubDate>Thu, 12 Dec 2024 16:31:05 +0000</pubDate>
+      <title>【EP141: How to Ace System Design Interviews Like a Boss?】EP141：如何像老板一样在系统设计面试中取得好成绩？</title>
+      <link>https://blog.bytebytego.com/p/ep141-how-to-ace-system-design-interviews</link>
+      <description>【They are the most critical components to crafting successful software systems.】它们是构建成功的软件系统的最关键组件。</description>
+      <pubDate>Sat, 07 Dec 2024 16:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Crash Course on Using AI to Save Time and Focus on What Matters】使用人工智能节省时间并专注于重要事情的速成课程</title>
+      <link>https://blog.bytebytego.com/p/a-crash-course-on-using-ai-to-save</link>
+      <description>【7 steps to level up your AI prompts and 8 of my favorite AI use cases for work.】升级 AI 提示的 7 个步骤以及我最喜欢的 8 个 AI 工作用例。</description>
+      <pubDate>Tue, 26 Nov 2024 16:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【My NEW book, Coding Interview Patterns, is now available on Amazon】我的新书《编码面试模式》现已在亚马逊上发售</title>
+      <link>https://blog.bytebytego.com/p/my-new-book-coding-interview-patterns</link>
+      <description>【My new book, Coding Interview Patterns, is now available on Amazon!】我的新书《编码面试模式》现已在亚马逊上发售！</description>
+      <pubDate>Wed, 04 Dec 2024 16:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LinkedIn Customizes Its 7 Trillion Message Kafka Ecosystem】LinkedIn 如何定制其 7 万亿消息 Kafka 生态系统</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion</link>
+      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：本文中的详细信息来自 LinkedIn 工程博客。</description>
+      <pubDate>Tue, 03 Dec 2024 16:31:38 +0000</pubDate>
     </item>
     <item>
       <title>【EP142: The Fundamental Pillars of Object-Oriented Programming】EP142：面向对象编程的基本支柱</title>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/stateless-architecture-the-key-to</link>
       <description>【In today&#39;s rapidly evolving digital landscape, developers face the constant challenge of building applications that are not only robust and secure but also infinitely scalable.】在当今快速发展的数字环境中，开发人员面临着构建不仅强大、安全而且可无限扩展的应用程序的持续挑战。</description>
       <pubDate>Thu, 28 Nov 2024 16:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【My NEW book, Coding Interview Patterns, is now available on Amazon】我的新书《编码面试模式》现已在亚马逊上发售</title>
-      <link>https://blog.bytebytego.com/p/my-new-book-coding-interview-patterns</link>
-      <description>【My new book, Coding Interview Patterns, is now available on Amazon!】我的新书《编码面试模式》现已在亚马逊上发售！</description>
-      <pubDate>Wed, 04 Dec 2024 16:46:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
