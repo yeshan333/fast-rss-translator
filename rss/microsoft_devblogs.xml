@@ -4,40 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Converting to a derived class from the future: How to cast from a base class to an incomplete derived class?】从未来转换为派生类：如何从基类转换为不完整的派生类？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241213-00/?p=110637</link>
-      <description>【Deferring the definition until the class is complete.】推迟定义直到课程完成。</description>
-      <pubDate>Fri, 13 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search】使用 Qdrant 和 Azure AI 搜索探索 Microsoft.Extensions.VectorData</title>
+      <link>https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet</link>
+      <description>【Discover how to use Microsoft.Extensions.VectorData to implement semantic search using Qdrant and Azure AI Search】了解如何使用 Microsoft.Extensions.VectorData 通过 Qdrant 和 Azure AI 搜索实现语义搜索</description>
+      <pubDate>Mon, 16 Dec 2024 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SQL ❤️ Python!】Azure SQL ❤️ Python！</title>
-      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-loves-python</link>
-      <description>【I recently presented at Python Day 2024 on Langchain integration. I created a slide deck that I believe can be useful beyond just the session, so I wanted to share it here for everyone&amp;#8217;s benefit. The deck covers the most common topics for a Python developer: Is there a free version of SQL Server or [&amp;hellip;]】我最近在 2024 年 Python Day 上发表了有关 Langchain 集成的演讲。我创建了一个幻灯片，我相信它除了会议之外还有用，所以我想在这里分享它，以造福于每个人。该套牌涵盖了 Python 开发人员最常见的主题：是否有 SQL Server 的免费版本或 [...]</description>
-      <pubDate>Mon, 16 Dec 2024 22:07:27 +0000</pubDate>
+      <title>【Refresh your Find results】刷新您的查找结果</title>
+      <link>https://devblogs.microsoft.com/visualstudio/refresh-your-find-results</link>
+      <description>【Are you tired of having to repeatedly launch the Find window in Visual Studio to update your search results? Whether you&amp;#8217;ve just refactored some code or pulled recent changes, having to redo a search to get updated results is no longer necessary. With the new refresh option, you can now update your Find results without [&amp;hellip;]】您是否厌倦了必须在 Visual Studio 中重复启动“查找”窗口来更新搜索结果？无论您刚刚重构了一些代码还是提取了最近的更改，都不再需要重新搜索来获取更新的结果。使用新的刷新选项，您现在可以更新查找结果，而无需 [...]</description>
+      <pubDate>Tue, 17 Dec 2024 13:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Preview the GitHub Copilot extension for Teams Toolkit】预览 Teams Toolkit 的 GitHub Copilot 扩展</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/preview-the-github-copilot-extension-for-teams-toolkit</link>
-      <description>【Introducing the GitHub Copilot for Teams Toolkit—your companion in Visual Studio Code, Visual Studio, and GitHub.】隆重推出 GitHub Copilot for Teams 工具包 - Visual Studio Code、Visual Studio 和 GitHub 中的伴侣。</description>
-      <pubDate>Fri, 13 Dec 2024 12:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why do we have header files &lt;pshpackN.h&gt; and &lt;poppack.h&gt; instead of just issuing the pragma directly?】为什么我们有头文件 &lt;pshpackN.h&gt; 和 &lt;poppack.h&gt; 而不是直接发出 pragma？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241216-00/?p=110645</link>
-      <description>【Because the pragma may not work everywhere.】因为该编译指示可能并非在所有地方都有效。</description>
-      <pubDate>Mon, 16 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【dotnet scaffold – .NET的下一代内容创建工具】dotnet scaffold – .NET的下一代内容创建工具</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/dotnet-scaffold-net%e7%9a%84%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%86%85%e5%ae%b9%e5%88%9b%e5%bb%ba%e5%b7%a5%e5%85%b7</link>
-      <description>【本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold &amp;#8211; Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold [&amp;hellip;]】本文翻译自微软首席产品经理Sayed Ibrahim Hashimi的dotnet scaffold – Next Generation Content Creation for .NET 。  在Visual Studio中，用于ASP.NET Core项目的Scaffolding是一个已经存在很久的功能，它在ASP.NET Core发布之后不久就已经添加。我们多年来也一直支持从命令行里进行Scaffolding。从命令行的使用体验中，我们听到了许多用户的反馈，他们希望我们为Scaffolding提供一个交互式的命令行界面 (CLI)。为此目标，我们一直在开发一个新的交互式CLI工具 dotnet scaffold。这个工具现在已经做为预览版发布。在这边文章中，我们将描述如果获取和使用这个新的命令行工具。此工具是开源的，您可以在scaffolding存储库 中查看代码。该存储库包含了 dotnet scaffold 工具的代码以及其他scaffolding相关的代码。 安装dotnet scaffold 我们将使用 dotnet tool 命令来安装此工具。您可以执行以下的命令来安装最新发布的版本： dotnet tool install --global Microsoft.dotnet-scaffold 如需安装特定的版本，请访问nuget.org上的软件包。有关如果管理dotnet工具的更多信息，请参阅 .NET 工具 – .NET CLI | Microsoft Learn 上的文档。在上面的命令中，我们正在全局安装该工具，但是您也可以将工具安装到本地文件夹中。.NET 工具的文档中包含了有关这两种方法的更多信息 .NET 工具 – .NET CLI | Microsoft Learn。 使用dotnet scaffold […]</description>
-      <pubDate>Fri, 13 Dec 2024 01:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GPT-4o: Revolutionizing Real-Time Speech Technology in 2024】GPT-4o：2024 年实时语音技术的革命</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/gpt-4o-revolutionizing-real-time-speech-technology-in-2024</link>
-      <description>【In an era where communication is more crucial than ever, real-time speech has evolved from a futuristic concept into an essential tool across many industries. With gpt-4o leading the way, organizations and developers are now leveraging AI to create interactive and seamless speech experiences. From customer support to retail, the impact of real-time speech applications [&amp;hellip;]】在沟通比以往任何时候都更加重要的时代，实时语音已经从一个未来概念发展成为许多行业的重要工具。在 gpt-4o 的引领下，组织和开发人员现在正在利用 AI 来创建交互式、无缝的语音体验。从客户支持到零售，实时语音应用程序的影响[...]</description>
-      <pubDate>Fri, 13 Dec 2024 05:30:00 +0000</pubDate>
+      <title>【.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, &amp; More】.NET Conf 2024 回顾 – 庆祝 .NET 9、AI、社区等</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap</link>
+      <description>【.NET Conf 2024 is over, but you can catch up with all the announcement and fun with video recordings, slides, demos, and more.】.NET Conf 2024 已经结束，但您可以通过视频录制、幻灯片、演示等了解所有公告和乐趣。</description>
+      <pubDate>Tue, 17 Dec 2024 18:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Transforming Language into Code: Building and Evaluating a Robotic Code Generation Copilot】将语言转换为代码：构建和评估机器人代码生成副驾驶</title>
@@ -46,22 +28,40 @@
       <pubDate>Mon, 16 Dec 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Create internal GitHub repos for your team】为您的团队创建内部 GitHub 存储库</title>
-      <link>https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team</link>
-      <description>【Visual Studio 2022 now includes support for creating internal repositories for GitHub organizations. This feature allows developers to work within their GitHub organization&amp;#8217;s guidelines within the Visual Studio environment more effectively. Managing repositories involves configuring varying levels of visibility and permissions. Visual Studio 2022’s new feature aims to smooth this process by providing support for [&amp;hellip;]】Visual Studio 2022 现在支持为 GitHub 组织创建内部存储库。此功能允许开发人员在 Visual Studio 环境中更有效地按照 GitHub 组织的指南进行工作。管理存储库涉及配置不同级别的可见性和权限。 Visual Studio 2022 的新功能旨在通过提供对 [...] 的支持来平滑这一过程。</description>
-      <pubDate>Mon, 16 Dec 2024 13:00:09 +0000</pubDate>
+      <title>【Why do we have header files &lt;pshpackN.h&gt; and &lt;poppack.h&gt; instead of just issuing the pragma directly?】为什么我们有头文件 &lt;pshpackN.h&gt; 和 &lt;poppack.h&gt; 而不是直接发出 pragma？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241216-00/?p=110645</link>
+      <description>【Because the pragma may not work everywhere.】因为该编译指示可能并非在所有地方都有效。</description>
+      <pubDate>Mon, 16 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search】使用 Qdrant 和 Azure AI 搜索探索 Microsoft.Extensions.VectorData</title>
-      <link>https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet</link>
-      <description>【Discover how to use Microsoft.Extensions.VectorData to implement semantic search using Qdrant and Azure AI Search】了解如何使用 Microsoft.Extensions.VectorData 通过 Qdrant 和 Azure AI 搜索实现语义搜索</description>
-      <pubDate>Mon, 16 Dec 2024 18:05:00 +0000</pubDate>
+      <title>【Microspeak terms that didn’t take hold: airspace, synthetics, and AOI】未流行的 Microspeak 术语：空域、合成物和 AOI</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241217-00/?p=110647</link>
+      <description>【Sometimes they don&#39;t stick.】有时它们不粘。</description>
+      <pubDate>Tue, 17 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Embedding models and dimensions: optimizing the performance to resource-usage ratio】嵌入模型和维度：优化性能与资源利用率</title>
+      <link>https://devblogs.microsoft.com/azure-sql/embedding-models-and-dimensions-optimizing-the-performance-resource-usage-ratio</link>
+      <description>【Since the release of vector preview, we&amp;#8217;ve been working with many customers that are building AI solution on Azure SQL and SQL Server and one of the most common questions is how to support high-dimensional data, for example more than 2000 dimensions per vector. In fact, at the moment, the vector type supports &amp;#8220;only&amp;#8221; up [&amp;hellip;]】自矢量预览版发布以来，我们一直在与许多在 Azure SQL 和 SQL Server 上构建 AI 解决方案的客户合作，最常见的问题之一是如何支持高维数据，例如每个矢量超过 2000 个维度。事实上，目前，向量类型“仅”支持 [...]</description>
+      <pubDate>Tue, 17 Dec 2024 16:42:29 +0000</pubDate>
     </item>
     <item>
       <title>【PIX 2412.12 – Texture/Buffer/Visualizer improvements, Work Graph Shader Debugging, and many Timing Capture improvements】PIX 2412.12 – 纹理/缓冲区/可视化器改进、工作图着色器调试以及许多时序捕获改进</title>
       <link>https://devblogs.microsoft.com/pix/pix-2412-12</link>
       <description>【Today we released PIX on Windows version 2412.12, which can be downloaded here. This release includes several new improvements to GPU Captures and Timing Captures, including: GPU Captures: Custom Buffer/Texture/Mesh Visualizer Improvements Work Graph Shader Debugging (preview) VRS Shading Rate Visualizer Many bug fixes + smaller improvements Timing Captures: New Comparison Layout Range Details “v2” [&amp;hellip;]】今天我们发布了 Windows 版本的 PIX 2412.12，可以在此处下载。此版本包括对 GPU 捕获和时序捕获的多项新改进，包括： GPU 捕获：自定义缓冲区/纹理/网格可视化工具改进 工作图着色器调试（预览） VRS 着色率可视化工具 许多错误修复 + 较小的改进 时序捕获：新的比较布局范围详细信息“v2”[...]</description>
       <pubDate>Fri, 13 Dec 2024 19:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Create internal GitHub repos for your team】为您的团队创建内部 GitHub 存储库</title>
+      <link>https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team</link>
+      <description>【Visual Studio 2022 now includes support for creating internal repositories for GitHub organizations. This feature allows developers to work within their GitHub organization&amp;#8217;s guidelines within the Visual Studio environment more effectively. Managing repositories involves configuring varying levels of visibility and permissions. Visual Studio 2022’s new feature aims to smooth this process by providing support for [&amp;hellip;]】Visual Studio 2022 现在支持为 GitHub 组织创建内部存储库。此功能允许开发人员在 Visual Studio 环境中更有效地按照 GitHub 组织的指南进行工作。管理存储库涉及配置不同级别的可见性和权限。 Visual Studio 2022 的新功能旨在通过提供对 [...] 的支持来平滑这一过程。</description>
+      <pubDate>Mon, 16 Dec 2024 13:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SQL ❤️ Python!】Azure SQL ❤️ Python！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-loves-python</link>
+      <description>【I recently presented at Python Day 2024 on Langchain integration. I created a slide deck that I believe can be useful beyond just the session, so I wanted to share it here for everyone&amp;#8217;s benefit. The deck covers the most common topics for a Python developer: Is there a free version of SQL Server or [&amp;hellip;]】我最近在 2024 年 Python Day 上发表了有关 Langchain 集成的演讲。我创建了一个幻灯片，我相信它除了会议之外还有用，所以我想在这里分享它，以造福于每个人。该套牌涵盖了 Python 开发人员最常见的主题：是否有 SQL Server 的免费版本或 [...]</description>
+      <pubDate>Mon, 16 Dec 2024 22:07:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
