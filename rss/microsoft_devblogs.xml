@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search】使用 Qdrant 和 Azure AI 搜索探索 Microsoft.Extensions.VectorData</title>
-      <link>https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet</link>
-      <description>【Discover how to use Microsoft.Extensions.VectorData to implement semantic search using Qdrant and Azure AI Search】了解如何使用 Microsoft.Extensions.VectorData 通过 Qdrant 和 Azure AI 搜索实现语义搜索</description>
-      <pubDate>Mon, 16 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Refresh your Find results】刷新您的查找结果</title>
-      <link>https://devblogs.microsoft.com/visualstudio/refresh-your-find-results</link>
-      <description>【Are you tired of having to repeatedly launch the Find window in Visual Studio to update your search results? Whether you&amp;#8217;ve just refactored some code or pulled recent changes, having to redo a search to get updated results is no longer necessary. With the new refresh option, you can now update your Find results without [&amp;hellip;]】您是否厌倦了必须在 Visual Studio 中重复启动“查找”窗口来更新搜索结果？无论您刚刚重构了一些代码还是提取了最近的更改，都不再需要重新搜索来获取更新的结果。使用新的刷新选项，您现在可以更新查找结果，而无需 [...]</description>
-      <pubDate>Tue, 17 Dec 2024 13:00:35 +0000</pubDate>
+      <title>【Why do we have header files &lt;pshpackN.h&gt; and &lt;poppack.h&gt; instead of just issuing the pragma directly?】为什么我们有头文件 &lt;pshpackN.h&gt; 和 &lt;poppack.h&gt; 而不是直接发出 pragma？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241216-00/?p=110645</link>
+      <description>【Because the pragma may not work everywhere.】因为该编译指示可能并非在所有地方都有效。</description>
+      <pubDate>Mon, 16 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, &amp; More】.NET Conf 2024 回顾 – 庆祝 .NET 9、AI、社区等</title>
@@ -22,16 +16,22 @@
       <pubDate>Tue, 17 Dec 2024 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Transforming Language into Code: Building and Evaluating a Robotic Code Generation Copilot】将语言转换为代码：构建和评估机器人代码生成副驾驶</title>
-      <link>https://devblogs.microsoft.com/ise/code-generation-evaluation</link>
-      <description>【This blog post explores the development and evaluation of an AI assistant that converts natural language into robotic code.】这篇博文探讨了将自然语言转换为机器人代码的人工智能助手的开发和评估。</description>
-      <pubDate>Mon, 16 Dec 2024 08:00:00 +0000</pubDate>
+      <title>【Effortlessly access cloud resources across Azure tenants without using secrets】无需使用密钥即可轻松访问 Azure 租户之间的云资源</title>
+      <link>https://devblogs.microsoft.com/identity/access-cloud-resources-across-tenants-without-secrets</link>
+      <description>【Announcing the Public Preview of Managed Identities as Federated Identity Credentials for Microsoft Entra. Enhance security by removing secrets, simplify setup, and enable seamless cross-tenant access to Entra-protected resources like Azure and Microsoft Graph.】宣布推出作为 Microsoft Entra 联合身份凭证的托管身份的公开预览版。通过删除机密、简化设置以及实现对受 Entra 保护的资源（例如 Azure 和 Microsoft Graph）的无缝跨租户访问来增强安全性。</description>
+      <pubDate>Wed, 18 Dec 2024 17:23:52 +0000</pubDate>
     </item>
     <item>
-      <title>【Why do we have header files &lt;pshpackN.h&gt; and &lt;poppack.h&gt; instead of just issuing the pragma directly?】为什么我们有头文件 &lt;pshpackN.h&gt; 和 &lt;poppack.h&gt; 而不是直接发出 pragma？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241216-00/?p=110645</link>
-      <description>【Because the pragma may not work everywhere.】因为该编译指示可能并非在所有地方都有效。</description>
-      <pubDate>Mon, 16 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Refresh your Find results】刷新您的查找结果</title>
+      <link>https://devblogs.microsoft.com/visualstudio/refresh-your-find-results</link>
+      <description>【Are you tired of having to repeatedly launch the Find window in Visual Studio to update your search results? Whether you&amp;#8217;ve just refactored some code or pulled recent changes, having to redo a search to get updated results is no longer necessary. With the new refresh option, you can now update your Find results without [&amp;hellip;]】您是否厌倦了必须在 Visual Studio 中重复启动“查找”窗口来更新搜索结果？无论您刚刚重构了一些代码还是提取了最近的更改，都不再需要重新搜索才能获取更新的结果。使用新的刷新选项，您现在可以更新查找结果，而无需 [...]</description>
+      <pubDate>Tue, 17 Dec 2024 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search】使用 Qdrant 和 Azure AI 搜索探索 Microsoft.Extensions.VectorData</title>
+      <link>https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet</link>
+      <description>【Discover how to use Microsoft.Extensions.VectorData to implement semantic search using Qdrant and Azure AI Search】了解如何使用 Microsoft.Extensions.VectorData 通过 Qdrant 和 Azure AI 搜索实现语义搜索</description>
+      <pubDate>Mon, 16 Dec 2024 18:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Microspeak terms that didn’t take hold: airspace, synthetics, and AOI】未流行的 Microspeak 术语：空域、合成物和 AOI</title>
@@ -40,22 +40,22 @@
       <pubDate>Tue, 17 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【GitHub Copilot Free is here in Visual Studio】GitHub Copilot 免费位于 Visual Studio 中</title>
+      <link>https://devblogs.microsoft.com/visualstudio/github-copilot-free-is-here-in-visual-studio</link>
+      <description>【If you haven’t already heard, GitHub just announced Copilot Free! And great news: you can already start using Copilot Free right now in Visual Studio. It&amp;#8217;s available now, and we&amp;#8217;re putting the finishing touches on a more streamlined experience in January. We’re excited to bring these benefits to the entire Visual Studio family. With Copilot [&amp;hellip;]】如果您还没有听说过，GitHub 刚刚宣布了 Copilot 免费！好消息：您现在就可以在 Visual Studio 中开始使用 Copilot Free。它现已推出，我们将在一月份对更加简化的体验进行收尾工作。我们很高兴能够将这些优势带给整个 Visual Studio 系列。与副驾驶[...]</description>
+      <pubDate>Wed, 18 Dec 2024 18:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Is there a way to split the git history of a file or combine the histories of two files without a merge commit?】有没有办法分割文件的 git 历史记录或合并两个文件的历史记录而无需合并提交？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241218-00/?p=110655</link>
+      <description>【Studying how git recovers history.】研究 git 如何恢复历史记录。</description>
+      <pubDate>Wed, 18 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Embedding models and dimensions: optimizing the performance to resource-usage ratio】嵌入模型和维度：优化性能与资源利用率</title>
       <link>https://devblogs.microsoft.com/azure-sql/embedding-models-and-dimensions-optimizing-the-performance-resource-usage-ratio</link>
       <description>【Since the release of vector preview, we&amp;#8217;ve been working with many customers that are building AI solution on Azure SQL and SQL Server and one of the most common questions is how to support high-dimensional data, for example more than 2000 dimensions per vector. In fact, at the moment, the vector type supports &amp;#8220;only&amp;#8221; up [&amp;hellip;]】自矢量预览版发布以来，我们一直在与许多在 Azure SQL 和 SQL Server 上构建 AI 解决方案的客户合作，最常见的问题之一是如何支持高维数据，例如每个矢量超过 2000 个维度。事实上，目前，向量类型“仅”支持 [...]</description>
       <pubDate>Tue, 17 Dec 2024 16:42:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2412.12 – Texture/Buffer/Visualizer improvements, Work Graph Shader Debugging, and many Timing Capture improvements】PIX 2412.12 – 纹理/缓冲区/可视化器改进、工作图着色器调试以及许多时序捕获改进</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2412-12</link>
-      <description>【Today we released PIX on Windows version 2412.12, which can be downloaded here. This release includes several new improvements to GPU Captures and Timing Captures, including: GPU Captures: Custom Buffer/Texture/Mesh Visualizer Improvements Work Graph Shader Debugging (preview) VRS Shading Rate Visualizer Many bug fixes + smaller improvements Timing Captures: New Comparison Layout Range Details “v2” [&amp;hellip;]】今天我们发布了 Windows 版本的 PIX 2412.12，可以在此处下载。此版本包括对 GPU 捕获和时序捕获的多项新改进，包括： GPU 捕获：自定义缓冲区/纹理/网格可视化工具改进 工作图着色器调试（预览） VRS 着色率可视化工具 许多错误修复 + 较小的改进 时序捕获：新的比较布局范围详细信息“v2”[...]</description>
-      <pubDate>Fri, 13 Dec 2024 19:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Create internal GitHub repos for your team】为您的团队创建内部 GitHub 存储库</title>
-      <link>https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team</link>
-      <description>【Visual Studio 2022 now includes support for creating internal repositories for GitHub organizations. This feature allows developers to work within their GitHub organization&amp;#8217;s guidelines within the Visual Studio environment more effectively. Managing repositories involves configuring varying levels of visibility and permissions. Visual Studio 2022’s new feature aims to smooth this process by providing support for [&amp;hellip;]】Visual Studio 2022 现在支持为 GitHub 组织创建内部存储库。此功能允许开发人员在 Visual Studio 环境中更有效地按照 GitHub 组织的指南进行工作。管理存储库涉及配置不同级别的可见性和权限。 Visual Studio 2022 的新功能旨在通过提供对 [...] 的支持来平滑这一过程。</description>
-      <pubDate>Mon, 16 Dec 2024 13:00:09 +0000</pubDate>
     </item>
     <item>
       <title>【Azure SQL ❤️ Python!】Azure SQL ❤️ Python！</title>
