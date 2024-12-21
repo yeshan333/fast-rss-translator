@@ -4,16 +4,34 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Robotcop: enforcing your robots.txt policies and stopping bots before they reach your website】Robotcop：执行您的 robots.txt 政策并在机器人到达您的网站之前将其阻止</title>
-      <link>https://blog.cloudflare.com/ai-audit-enforcing-robots-txt/</link>
-      <description>【 Today, the AI Audit dashboard gets an upgrade: you can now quickly see which AI services are honoring your robots.txt policies and then automatically enforce the policies against those that aren’t.&#xA; 】今天，AI 审核仪表板进行了升级：您现在可以快速查看哪些 AI 服务遵守您的 robots.txt 策略，然后自动针对那些不遵守的 AI 服务强制执行这些策略。</description>
-      <pubDate>Tue, 10 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【Bring multimodal real-time interaction to your AI applications with Cloudflare Calls】通过 Cloudflare Calls 将多模式实时交互引入您的 AI 应用程序</title>
+      <link>https://blog.cloudflare.com/bring-multimodal-real-time-interaction-to-your-ai-applications-with-cloudflare-calls/</link>
+      <description>【 Bring ChatGPT to your next video meeting with Cloudflare Calls.  】通过 Cloudflare Calls 将 ChatGPT 带到您的下一次视频会议中。 </description>
+      <pubDate>Fri, 20 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway】再做一遍：我们如何使用 Durable Objects 向 AI Gateway 添加 WebSockets 支持和身份验证</title>
-      <link>https://blog.cloudflare.com/do-it-again/</link>
-      <description>【 We used Cloudflare’s Developer Platform and Durable Objects to build authentication and a WebSockets API that developers can use to call AI Gateway, enabling continuous communication over a single 】我们使用 Cloudflare 的开发者平台和 Durable Objects 来构建身份验证和 WebSockets API，开发者可以使用该 API 来调用 AI 网关，从而实现通过单个</description>
-      <pubDate>Tue, 19 Nov 2024 22:00:00 +0000</pubDate>
+      <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs/</link>
+      <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
+      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Hi Claude, build an MCP server on Cloudflare Workers】您好，Claude，在 Cloudflare Workers 上构建 MCP 服务器</title>
+      <link>https://blog.cloudflare.com/model-context-protocol/</link>
+      <description>【 Want Claude to interact with your app directly? Build an MCP server on Cloudflare Workers, enabling you to connect your service directly, allowing Claude to understand and run tasks on your behalf. 】希望 Claude 直接与您的应用程序交互吗？在 Cloudflare Workers 上构建 MCP 服务器，使您能够直接连接您的服务，让 Claude 能够代表您理解和运行任务。</description>
+      <pubDate>Fri, 20 Dec 2024 14:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare 2024 Year in Review】Cloudflare 2024 年回顾</title>
+      <link>https://blog.cloudflare.com/radar-2024-year-in-review/</link>
+      <description>【 The 2024 Cloudflare Radar Year in Review is our fifth annual review of Internet trends and patterns at both a global and country/region level. 】2024 年 Cloudflare Radar 年度回顾是我们对全球和国家/地区层面的互联网趋势和模式的第五次年度回顾。</description>
+      <pubDate>Mon, 09 Dec 2024 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Internationalization and localization: bringing Cloudflare Radar to a global audience】国际化和本地化：将 Cloudflare Radar 带给全球受众</title>
+      <link>https://blog.cloudflare.com/cloudflare-radar-localization-journey/</link>
+      <description>【 Internationalization and localization require more than translation: tone, images, date/time and number formatting, among other items, need to be considered. 】国际化和本地化需要的不仅仅是翻译：还需要考虑语气、图像、日期/时间和数字格式等。</description>
+      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The role of email security in reducing user risk amid rising threats】电子邮件安全在威胁不断增加的情况下降低用户风险的作用</title>
@@ -28,10 +46,10 @@
       <pubDate>Tue, 03 Dec 2024 20:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare 2024 Year in Review】Cloudflare 2024 年回顾</title>
-      <link>https://blog.cloudflare.com/radar-2024-year-in-review/</link>
-      <description>【 The 2024 Cloudflare Radar Year in Review is our fifth annual review of Internet trends and patterns at both a global and country/region level. 】2024 年 Cloudflare Radar 年度回顾是我们对全球和国家/地区层面的互联网趋势和模式的第五次年度回顾。</description>
-      <pubDate>Mon, 09 Dec 2024 14:05:00 +0000</pubDate>
+      <title>【Robotcop: enforcing your robots.txt policies and stopping bots before they reach your website】Robotcop：执行您的 robots.txt 政策并在机器人到达您的网站之前将其阻止</title>
+      <link>https://blog.cloudflare.com/ai-audit-enforcing-robots-txt/</link>
+      <description>【 Today, the AI Audit dashboard gets an upgrade: you can now quickly see which AI services are honoring your robots.txt policies and then automatically enforce the policies against those that aren’t.&#xA; 】今天，AI 审核仪表板进行了升级：您现在可以快速查看哪些 AI 服务遵守您的 robots.txt 策略，然后自动针对那些不遵守的 AI 服务强制执行这些策略。</description>
+      <pubDate>Tue, 10 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【From ChatGPT to Temu: ranking top Internet services in 2024】从ChatGPT到Temu：2024年顶级互联网服务排名</title>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/bigger-and-badder-how-ddos-attack-sizes-have-evolved-over-the-last-decade/</link>
       <description>【 If we plot the metrics associated with large DDoS attacks observed in the last 10 years, does it show a straight, steady increase in an exponential curve that keeps becoming steeper, or is it closer to a linear growth? Our analysis found the growth is not linear but rather is exponential, with the slope varying depending on the metric (rps, pps or bps).  】如果我们绘制与过去 10 年观察到的大型 DDoS 攻击相关的指标，它是否显示出指数曲线的直线、稳定增长并不断变得陡峭，还是更接近线性增长？我们的分析发现，增长不是线性的，而是呈指数增长，斜率根据指标（rps、pps 或 bps）而变化。</description>
       <pubDate>Wed, 20 Nov 2024 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts】欧洲的弹性互联网连接减轻了多次电缆中断的影响</title>
-      <link>https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/</link>
-      <description>【 Two recent cable cuts that occurred in the Baltic Sea resulted in little-to-no observable impact to the affected countries, in large part because of the significant redundancy and resilience of Internet infrastructure in Europe.&#xA; 】最近发生在波罗的海的两次电缆中断对受影响国家几乎没有造成明显影响，这在很大程度上是因为欧洲互联网基础设施的大量冗余和恢复能力。</description>
-      <pubDate>Wed, 20 Nov 2024 21:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs/</link>
-      <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
-      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Internationalization and localization: bringing Cloudflare Radar to a global audience】国际化和本地化：将 Cloudflare Radar 带给全球受众</title>
-      <link>https://blog.cloudflare.com/cloudflare-radar-localization-journey/</link>
-      <description>【 Internationalization and localization require more than translation: tone, images, date/time and number formatting, among other items, need to be considered. 】国际化和本地化需要的不仅仅是翻译：还需要考虑语气、图像、日期/时间和数字格式等。</description>
-      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
