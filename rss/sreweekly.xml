@@ -4,16 +4,10 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #452】SRE 周刊第 #452 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-452/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 天下没有免费的午餐！午餐练习是 Blackrock3 培训中我最喜欢的部分，现在 Slack 已将其改编为他们正在进行的培训。多么松弛[…]</description>
-      <pubDate>Mon, 25 Nov 2024 02:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #455】SRE 周刊第 #455 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-455/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing&amp;#8230; all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or &amp;#8220;Thundering [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 回顾现在比以往任何时候都更加可定制和协作，包括自定义模板、AI 生成的答案、协作编辑……所有这些都可以导出到 Google Docs 和 Confluence。了解我们的回顾如何为您每次事件节省 2 个多小时。 https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customized-collaborative/ 如何处理突发的交通流量或“雷鸣 [...]</description>
-      <pubDate>Mon, 16 Dec 2024 02:15:40 +0000</pubDate>
+      <title>【SRE Weekly Issue #454】SRE 周刊 #454</title>
+      <link>https://sreweekly.com/sre-weekly-issue-454/</link>
+      <description>【View on sreweekly.com Nine entire years ago, I threw together a few &amp;#8220;issues&amp;#8221; with my favorite SRE articles, installed WordPress, and added a subscription form, with no clue what I was doing. It&amp;#8217;s only thanks to you folks, the thousands of subscribers and the many authors of great SRE content, that I&amp;#8217;ve been able to [&amp;#8230;]】在 sreweekly.com 上查看 整整九年前，我将一些“问题”与我最喜欢的 SRE 文章放在一起，安装了 WordPress，并添加了订阅表格，但不知道我在做什么。多亏了你们、数以千计的订阅者以及优秀 SRE 内容的众多作者，我才能够 [...]</description>
+      <pubDate>Mon, 09 Dec 2024 02:30:37 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #453】SRE 周刊第 #453 期</title>
@@ -22,16 +16,22 @@
       <pubDate>Mon, 02 Dec 2024 02:09:32 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #454】SRE 周刊 #454</title>
-      <link>https://sreweekly.com/sre-weekly-issue-454/</link>
-      <description>【View on sreweekly.com Nine entire years ago, I threw together a few &amp;#8220;issues&amp;#8221; with my favorite SRE articles, installed WordPress, and added a subscription form, with no clue what I was doing. It&amp;#8217;s only thanks to you folks, the thousands of subscribers and the many authors of great SRE content, that I&amp;#8217;ve been able to [&amp;#8230;]】在 sreweekly.com 上查看 整整九年前，我将一些“问题”与我最喜欢的 SRE 文章放在一起，安装了 WordPress，并添加了订阅表格，但不知道我在做什么。多亏了你们、数以千计的订阅者以及优秀 SRE 内容的众多作者，我才能够 [...]</description>
-      <pubDate>Mon, 09 Dec 2024 02:30:37 +0000</pubDate>
+      <title>【SRE Weekly Issue #455】SRE 周刊第 #455 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-455/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing&amp;#8230; all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or &amp;#8220;Thundering [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 回顾现在比以往任何时候都更加可定制和协作，包括自定义模板、AI 生成的答案、协作编辑……所有这些都可以导出到 Google Docs 和 Confluence。了解我们的回顾如何为您每次事件节省 2 个多小时。 https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customized-collaborative/ 如何处理突发的交通流量或“雷鸣 [...]</description>
+      <pubDate>Mon, 16 Dec 2024 02:15:40 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #451】SRE 周刊第 #451 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-451/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ DEATHTRAP! The Strange story of Air France flight 736 Most fascinating air incident report I&amp;#8217;ve seen in awhile! The pilots deviated from the non-normal checklist, and it immediately made me think [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 死亡陷阱！法航 736 航班的奇怪故事 我一段时间以来见过的最精彩的航空事故报告！飞行员偏离了非正常检查表，这立即让我想到 […]</description>
       <pubDate>Mon, 18 Nov 2024 02:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #452】SRE 周刊第 #452 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-452/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team&amp;#8217;s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：熟能生巧：为什么每个小系统故障都是您团队的秘密训练场。 https://fireHydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ 天下没有免费的午餐！午餐练习是 Blackrock3 培训中我最喜欢的部分，现在 Slack 已将其改编为他们正在进行的培训。多么松弛[…]</description>
+      <pubDate>Mon, 25 Nov 2024 02:32:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

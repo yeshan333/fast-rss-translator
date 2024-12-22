@@ -4,16 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Bring multimodal real-time interaction to your AI applications with Cloudflare Calls】通过 Cloudflare Calls 将多模式实时交互引入您的 AI 应用程序</title>
-      <link>https://blog.cloudflare.com/bring-multimodal-real-time-interaction-to-your-ai-applications-with-cloudflare-calls/</link>
-      <description>【 Bring ChatGPT to your next video meeting with Cloudflare Calls.  】通过 Cloudflare Calls 将 ChatGPT 带到您的下一次视频会议中。 </description>
-      <pubDate>Fri, 20 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs/</link>
-      <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
-      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+      <title>【From deals to DDoS: exploring Cyber Week 2024 Internet trends】从交易到 DDoS：探索 2024 年网络周互联网趋势</title>
+      <link>https://blog.cloudflare.com/from-deals-to-ddos-exploring-cyber-week-2024-internet-trends/</link>
+      <description>【 How significant are Cyber Week shopping days on the Internet? Is it a global phenomenon? Does E-commerce interest peak on Black Friday or Cyber Monday, and are attacks increasing during this time? We try to answer these questions and more.&#xA; 】网络周网上购物日有多重要？这是一个全球现象吗？电子商务兴趣是否在黑色星期五或网络星期一达到顶峰，并且在此期间攻击是否有所增加？我们试图回答这些问题以及更多问题。</description>
+      <pubDate>Tue, 03 Dec 2024 20:43:00 +0000</pubDate>
     </item>
     <item>
       <title>【Hi Claude, build an MCP server on Cloudflare Workers】您好，Claude，在 Cloudflare Workers 上构建 MCP 服务器</title>
@@ -22,16 +16,28 @@
       <pubDate>Fri, 20 Dec 2024 14:50:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Robotcop: enforcing your robots.txt policies and stopping bots before they reach your website】Robotcop：执行您的 robots.txt 政策并在机器人到达您的网站之前将其阻止</title>
+      <link>https://blog.cloudflare.com/ai-audit-enforcing-robots-txt/</link>
+      <description>【 Today, the AI Audit dashboard gets an upgrade: you can now quickly see which AI services are honoring your robots.txt policies and then automatically enforce the policies against those that aren’t.&#xA; 】今天，AI 审核仪表板进行了升级：您现在可以快速查看哪些 AI 服务遵守您的 robots.txt 策略，然后自动针对那些不遵守的 AI 服务强制执行这些策略。</description>
+      <pubDate>Tue, 10 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare incident on November 14, 2024, resulting in lost logs】2024年11月14日Cloudflare事件，导致日志丢失</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs/</link>
+      <description>【 On November 14, 2024, Cloudflare experienced a Cloudflare Logs outage, impacting the majority of customers using these products. During the ~3.5 hours that these services were impacted, about 55% of the logs we normally send to customers were not sent and were lost. The details of what went wrong and why are interesting both for customers and practitioners. 】2024 年 11 月 14 日，Cloudflare 发生了 Cloudflare Logs 中断，影响了大多数使用这些产品的客户。在这些服务受到影响的约 3.5 小时内，我们通常发送给客户的日志中约有 55% 未发送并丢失。对于客户和从业者来说，问题的细节和原因都很有趣。</description>
+      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bigger and badder: how DDoS attack sizes have evolved over the last decade】更大更坏：DDoS 攻击规模在过去十年中如何演变</title>
+      <link>https://blog.cloudflare.com/bigger-and-badder-how-ddos-attack-sizes-have-evolved-over-the-last-decade/</link>
+      <description>【 If we plot the metrics associated with large DDoS attacks observed in the last 10 years, does it show a straight, steady increase in an exponential curve that keeps becoming steeper, or is it closer to a linear growth? Our analysis found the growth is not linear but rather is exponential, with the slope varying depending on the metric (rps, pps or bps).  】如果我们绘制与过去 10 年观察到的大型 DDoS 攻击相关的指标，它是否显示出指数曲线的直线、稳定增长并不断变得陡峭，还是更接近线性增长？我们的分析发现，增长不是线性的，而是呈指数增长，斜率根据指标（rps、pps 或 bps）而变化。</description>
+      <pubDate>Wed, 20 Nov 2024 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare 2024 Year in Review】Cloudflare 2024 年回顾</title>
       <link>https://blog.cloudflare.com/radar-2024-year-in-review/</link>
       <description>【 The 2024 Cloudflare Radar Year in Review is our fifth annual review of Internet trends and patterns at both a global and country/region level. 】2024 年 Cloudflare Radar 年度回顾是我们对全球和国家/地区层面的互联网趋势和模式的第五次年度回顾。</description>
       <pubDate>Mon, 09 Dec 2024 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Internationalization and localization: bringing Cloudflare Radar to a global audience】国际化和本地化：将 Cloudflare Radar 带给全球受众</title>
-      <link>https://blog.cloudflare.com/cloudflare-radar-localization-journey/</link>
-      <description>【 Internationalization and localization require more than translation: tone, images, date/time and number formatting, among other items, need to be considered. 】国际化和本地化需要的不仅仅是翻译：还需要考虑语气、图像、日期/时间和数字格式等。</description>
-      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The role of email security in reducing user risk amid rising threats】电子邮件安全在威胁不断增加的情况下降低用户风险的作用</title>
@@ -40,16 +46,10 @@
       <pubDate>Thu, 19 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From deals to DDoS: exploring Cyber Week 2024 Internet trends】从交易到 DDoS：探索 2024 年网络周互联网趋势</title>
-      <link>https://blog.cloudflare.com/from-deals-to-ddos-exploring-cyber-week-2024-internet-trends/</link>
-      <description>【 How significant are Cyber Week shopping days on the Internet? Is it a global phenomenon? Does E-commerce interest peak on Black Friday or Cyber Monday, and are attacks increasing during this time? We try to answer these questions and more.&#xA; 】网络周网上购物日有多重要？这是一个全球现象吗？电子商务兴趣是否在黑色星期五或网络星期一达到顶峰，并且在此期间攻击是否有所增加？我们试图回答这些问题以及更多问题。</description>
-      <pubDate>Tue, 03 Dec 2024 20:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Robotcop: enforcing your robots.txt policies and stopping bots before they reach your website】Robotcop：执行您的 robots.txt 政策并在机器人到达您的网站之前将其阻止</title>
-      <link>https://blog.cloudflare.com/ai-audit-enforcing-robots-txt/</link>
-      <description>【 Today, the AI Audit dashboard gets an upgrade: you can now quickly see which AI services are honoring your robots.txt policies and then automatically enforce the policies against those that aren’t.&#xA; 】今天，AI 审核仪表板进行了升级：您现在可以快速查看哪些 AI 服务遵守您的 robots.txt 策略，然后自动针对那些不遵守的 AI 服务强制执行这些策略。</description>
-      <pubDate>Tue, 10 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【Internationalization and localization: bringing Cloudflare Radar to a global audience】国际化和本地化：将 Cloudflare Radar 带给全球受众</title>
+      <link>https://blog.cloudflare.com/cloudflare-radar-localization-journey/</link>
+      <description>【 Internationalization and localization require more than translation: tone, images, date/time and number formatting, among other items, need to be considered. 】国际化和本地化需要的不仅仅是翻译：还需要考虑语气、图像、日期/时间和数字格式等。</description>
+      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【From ChatGPT to Temu: ranking top Internet services in 2024】从ChatGPT到Temu：2024年顶级互联网服务排名</title>
@@ -58,10 +58,10 @@
       <pubDate>Mon, 09 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Bigger and badder: how DDoS attack sizes have evolved over the last decade】更大更坏：DDoS 攻击规模在过去十年中如何演变</title>
-      <link>https://blog.cloudflare.com/bigger-and-badder-how-ddos-attack-sizes-have-evolved-over-the-last-decade/</link>
-      <description>【 If we plot the metrics associated with large DDoS attacks observed in the last 10 years, does it show a straight, steady increase in an exponential curve that keeps becoming steeper, or is it closer to a linear growth? Our analysis found the growth is not linear but rather is exponential, with the slope varying depending on the metric (rps, pps or bps).  】如果我们绘制与过去 10 年观察到的大型 DDoS 攻击相关的指标，它是否显示出指数曲线的直线、稳定增长并不断变得陡峭，还是更接近线性增长？我们的分析发现，增长不是线性的，而是呈指数增长，斜率根据指标（rps、pps 或 bps）而变化。</description>
-      <pubDate>Wed, 20 Nov 2024 22:00:00 +0000</pubDate>
+      <title>【Bring multimodal real-time interaction to your AI applications with Cloudflare Calls】通过 Cloudflare Calls 将多模式实时交互引入您的 AI 应用程序</title>
+      <link>https://blog.cloudflare.com/bring-multimodal-real-time-interaction-to-your-ai-applications-with-cloudflare-calls/</link>
+      <description>【 Bring ChatGPT to your next video meeting with Cloudflare Calls.  】通过 Cloudflare Calls 将 ChatGPT 带到您的下一次视频会议中。 </description>
+      <pubDate>Fri, 20 Dec 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
