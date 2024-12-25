@@ -4,6 +4,54 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>如何在 Amazon EKS 上使用 ComfyUI 构建自定义节点工作流程</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-to-build-custom-nodes-workflow-with-comfyui-on-amazon-eks/</link>
+      <description></description>
+      <pubDate>Mon, 11 Nov 2024 21:27:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>BASF Digital Farming GmbH 使用 AWS Serverless 高效提供卫星图像</title>
+      <link>https://aws.amazon.com/blogs/architecture/efficient-satellite-imagery-supply-with-aws-serverless-at-basf-digital-farming-gmbh/</link>
+      <description></description>
+      <pubDate>Fri, 06 Dec 2024 16:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 Amazon Connect 将渠道从语音转向聊天</title>
+      <link>https://aws.amazon.com/blogs/architecture/channel-deflection-from-voice-to-chat-using-amazon-connect/</link>
+      <description></description>
+      <pubDate>Wed, 06 Nov 2024 15:39:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>宣布更新 AWS 架构完善的框架指南</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-3/</link>
+      <description></description>
+      <pubDate>Wed, 06 Nov 2024 19:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！现代数据架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-modern-data-architectures-2/</link>
+      <description></description>
+      <pubDate>Tue, 05 Nov 2024 22:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>出发前了解 – AWS re:Invent 2024 云弹性</title>
+      <link>https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2024-cloud-resilience/</link>
+      <description></description>
+      <pubDate>Mon, 18 Nov 2024 23:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber​​Ark 如何通过编写架构蓝图来简化无服务器治理</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/</link>
+      <description></description>
+      <pubDate>Fri, 11 Oct 2024 16:03:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>来当建筑师吧！ AWS 无服务器开发人员经验</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-serverless-developer-experience-in-aws/</link>
+      <description></description>
+      <pubDate>Mon, 02 Dec 2024 22:45:34 +0000</pubDate>
+    </item>
+    <item>
       <title>保险公司如何实现三层应用容灾</title>
       <link>https://aws.amazon.com/blogs/architecture/how-an-insurance-company-implements-disaster-recovery-of-3-tier-applications/</link>
       <description></description>
@@ -14,54 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/automating-multi-az-high-availability-for-weblogic-administration-server-with-dns-part-2/</link>
       <description></description>
       <pubDate>Wed, 16 Oct 2024 20:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber​​Ark 如何通过编写架构蓝图来简化无服务器治理</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/</link>
-      <description></description>
-      <pubDate>Fri, 11 Oct 2024 16:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>宣布更新 AWS 架构完善的框架指南</title>
-      <link>https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-3/</link>
-      <description></description>
-      <pubDate>Wed, 06 Nov 2024 19:02:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>出发前了解 – AWS re:Invent 2024 云弹性</title>
-      <link>https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2024-cloud-resilience/</link>
-      <description></description>
-      <pubDate>Mon, 18 Nov 2024 23:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 Amazon Connect 将渠道从语音转向聊天</title>
-      <link>https://aws.amazon.com/blogs/architecture/channel-deflection-from-voice-to-chat-using-amazon-connect/</link>
-      <description></description>
-      <pubDate>Wed, 06 Nov 2024 15:39:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>如何在 Amazon EKS 上使用 ComfyUI 构建自定义节点工作流程</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-to-build-custom-nodes-workflow-with-comfyui-on-amazon-eks/</link>
-      <description></description>
-      <pubDate>Mon, 11 Nov 2024 21:27:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>来当建筑师吧！现代数据架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-modern-data-architectures-2/</link>
-      <description></description>
-      <pubDate>Tue, 05 Nov 2024 22:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>BASF Digital Farming GmbH 使用 AWS Serverless 高效提供卫星图像</title>
-      <link>https://aws.amazon.com/blogs/architecture/efficient-satellite-imagery-supply-with-aws-serverless-at-basf-digital-farming-gmbh/</link>
-      <description></description>
-      <pubDate>Fri, 06 Dec 2024 16:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>来当建筑师吧！ AWS 无服务器开发人员经验</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-serverless-developer-experience-in-aws/</link>
-      <description></description>
-      <pubDate>Mon, 02 Dec 2024 22:45:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
