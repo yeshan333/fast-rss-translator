@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Why do we have header files &lt;pshpackN.h&gt; and &lt;poppack.h&gt; instead of just issuing the pragma directly?】为什么我们有头文件 &lt;pshpackN.h&gt; 和 &lt;poppack.h&gt; 而不是直接发出 pragma？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241216-00/?p=110645</link>
-      <description>【Because the pragma may not work everywhere.】因为该编译指示可能并非在所有地方都有效。</description>
-      <pubDate>Mon, 16 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Connect securely to your Azure resources】安全连接到您的 Azure 资源</title>
+      <link>https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources</link>
+      <description>【Visual Studio 2022&amp;#8217;s Connected Services features are being updated to help you start secure. In the past, for example with Azure Storage, we’d inject the entire connection string into your configuration. With this update, we’ve removed the secrets from the UX – and from what we save to configuration – altogether. This means your code [&amp;hellip;]】Visual Studio 2022 的连接服务功能正在更新，以帮助您安全启动。过去，例如使用 Azure 存储时，我们会将整个连接字符串注入到您的配置中。通过此更新，我们完全消除了用户体验以及我们保存的配置中的秘密。这意味着你的代码[...]</description>
+      <pubDate>Tue, 24 Dec 2024 13:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, &amp; More】.NET Conf 2024 回顾 – 庆祝 .NET 9、AI、社区等</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap</link>
-      <description>【.NET Conf 2024 is over, but you can catch up with all the announcement and fun with video recordings, slides, demos, and more.】.NET Conf 2024 已经结束，但您可以通过视频录制、幻灯片、演示等了解所有公告和乐趣。</description>
-      <pubDate>Tue, 17 Dec 2024 18:05:00 +0000</pubDate>
+      <title>【A common proposed solution to certain categories of IFNDR: Getting the linker to verify identical functions】针对某些类别的 IFNDR 的常见解决方案：让链接器验证相同的功能</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241223-00/?p=110672</link>
+      <description>【You could do it, but it could cramp your style.】你可以做到，但它可能会限制你的风格。</description>
+      <pubDate>Mon, 23 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Effortlessly access cloud resources across Azure tenants without using secrets】无需使用密钥即可轻松访问 Azure 租户之间的云资源</title>
-      <link>https://devblogs.microsoft.com/identity/access-cloud-resources-across-tenants-without-secrets</link>
-      <description>【Announcing the Public Preview of Managed Identities as Federated Identity Credentials for Microsoft Entra. Enhance security by removing secrets, simplify setup, and enable seamless cross-tenant access to Entra-protected resources like Azure and Microsoft Graph.】宣布推出作为 Microsoft Entra 联合身份凭证的托管身份的公开预览版。通过删除机密、简化设置以及实现对受 Entra 保护的资源（例如 Azure 和 Microsoft Graph）的无缝跨租户访问来增强安全性。</description>
-      <pubDate>Wed, 18 Dec 2024 17:23:52 +0000</pubDate>
+      <title>【使用 Dependabot 管理 .NET SDK 更新】使用 Dependabot 管理 .NET SDK 更新</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-dependabot-%e7%ae%a1%e7%90%86-net-sdk-%e6%9b%b4%e6%96%b0</link>
+      <description>【本文翻译自微软高级软件工程师 Jamie Magee 的Using Dependabot to Manage .NET SDK Updates 保持 .NET SDK 处于最新版本对维护安全高效的应用程序至关重要。现在，Dependabot 可以更新 global.json 中的 .NET SDK 版本，这使您可以比以往更轻松地确保自己的应用程序始终运行最新的安全补丁和改进。 定期的更新 SDK非常重要，因为它们包含： 已知漏洞（CVE）的安全补丁 错误修复和性能改进 最新的开发工具和功能 使用 global.json 管理 SDK 版本 要管理您的 .NET SDK 版本，您通常会在项目中使用 global.json 文件。此文件会指定项目应使用哪个版本的 SDK。以下是一个简单的 global.json 文件示例： { &#34;sdk&#34;: { &#34;version&#34;: &#34;9.0.100&#34; } } 如果您正在使用 GitHub Actions以及 dotnet/setup-dotnet ，此文件将确保在您的 CI/CD 管道中使用了正确的 SDK 版本。 [&amp;hellip;]】本文翻译自微软高级软件工程师 Jamie Magee 的Using Dependabot to Manage .NET SDK Updates 保持 .NET SDK 处于最新版本对维护安全高效的应用程序至关重要。现在，Dependabot 可以更新 global.json 中的 .NET SDK 版本，这使您可以比以往更轻松地确保自己的应用程序始终运行最新的安全补丁和改进。 定期的更新 SDK非常重要，因为它们包含： 已知漏洞（CVE）的安全补丁 错误修复和性能改进 最新的开发工具和功能 使用 global.json 管理 SDK 版本 要管理您的 .NET SDK 版本，您通常会在项目中使用 global.json 文件。此文件会指定项目应使用哪个版本的 SDK。以下是一个简单的 global.json 文件示例： { &#34;sdk&#34;: { &#34;version&#34;: &#34;9.0.100&#34; } } 如果您正在使用 GitHub Actions以及 dotnet/setup-dotnet ，此文件将确保在您的 CI/CD 管道中使用了正确的 SDK 版本。 […]</description>
+      <pubDate>Fri, 20 Dec 2024 07:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Refresh your Find results】刷新您的查找结果</title>
-      <link>https://devblogs.microsoft.com/visualstudio/refresh-your-find-results</link>
-      <description>【Are you tired of having to repeatedly launch the Find window in Visual Studio to update your search results? Whether you&amp;#8217;ve just refactored some code or pulled recent changes, having to redo a search to get updated results is no longer necessary. With the new refresh option, you can now update your Find results without [&amp;hellip;]】您是否厌倦了必须在 Visual Studio 中重复启动“查找”窗口来更新搜索结果？无论您刚刚重构了一些代码还是提取了最近的更改，都不再需要重新搜索才能获取更新的结果。使用新的刷新选项，您现在可以更新查找结果，而无需 [...]</description>
-      <pubDate>Tue, 17 Dec 2024 13:00:35 +0000</pubDate>
+      <title>【How do I register a file type for a scripting language so that users get a warning when they run an untrusted script?】如何注册脚本语言的文件类型，以便用户在运行不受信任的脚本时收到警告？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241220-00/?p=110669</link>
+      <description>【Use the FTA_AlwaysUnsafe edit flag.】使用 FTA_AlwaysUnsafe 编辑标志。</description>
+      <pubDate>Fri, 20 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search】使用 Qdrant 和 Azure AI 搜索探索 Microsoft.Extensions.VectorData</title>
-      <link>https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet</link>
-      <description>【Discover how to use Microsoft.Extensions.VectorData to implement semantic search using Qdrant and Azure AI Search】了解如何使用 Microsoft.Extensions.VectorData 通过 Qdrant 和 Azure AI 搜索实现语义搜索</description>
-      <pubDate>Mon, 16 Dec 2024 18:05:00 +0000</pubDate>
+      <title>【A design flaw in the Windows 3D Pipes screen saver pointed out by a customer】客户指出 Windows 3D Pipes 屏幕保护程序中的设计缺陷</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675</link>
+      <description>【Time-wasting.】浪费时间。</description>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microspeak terms that didn’t take hold: airspace, synthetics, and AOI】未流行的 Microspeak 术语：空域、合成物和 AOI</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241217-00/?p=110647</link>
-      <description>【Sometimes they don&#39;t stick.】有时它们不粘。</description>
-      <pubDate>Tue, 17 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Announcing the Office Add-ins Development Kit GA】宣布推出 Office 插件开发套件 GA</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/office-add-ins-development-kit-ga-announcement</link>
+      <description>【The Office Add-ins Development Kit for Visual Studio Code is now generally available! After months of public preview, we&#39;ve gathered invaluable feedback from the community and improved the experience.】适用于 Visual Studio Code 的 Office 插件开发工具包现已全面上市！经过几个月的公开预览，我们从社区收集了宝贵的反馈并改进了体验。</description>
+      <pubDate>Mon, 23 Dec 2024 17:08:02 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot Free is here in Visual Studio】GitHub Copilot 免费位于 Visual Studio 中</title>
-      <link>https://devblogs.microsoft.com/visualstudio/github-copilot-free-is-here-in-visual-studio</link>
-      <description>【If you haven’t already heard, GitHub just announced Copilot Free! And great news: you can already start using Copilot Free right now in Visual Studio. It&amp;#8217;s available now, and we&amp;#8217;re putting the finishing touches on a more streamlined experience in January. We’re excited to bring these benefits to the entire Visual Studio family. With Copilot [&amp;hellip;]】如果您还没有听说过，GitHub 刚刚宣布了 Copilot 免费！好消息：您现在就可以在 Visual Studio 中开始使用 Copilot Free。它现已推出，我们将在一月份对更加简化的体验进行收尾工作。我们很高兴能够将这些优势带给整个 Visual Studio 系列。与副驾驶[...]</description>
-      <pubDate>Wed, 18 Dec 2024 18:14:49 +0000</pubDate>
+      <title>【How can I check if two GUIDs are equal when they are provided as strings?】当两个 GUID 以字符串形式提供时，如何检查它们是否相等？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241225-00/?p=110677</link>
+      <description>【A customer asked if there was a helper function in the system that accepted two strings and reported whether the GUIDs they represent are equal. This is a tricky question, because you first have to decide what &amp;#8220;represent&amp;#8221; means. There are many ways of representing a GUID as a string. It could be just 32 [&amp;hellip;]】一位客户询问系统中是否有一个辅助函数可以接受两个字符串并报告它们代表的 GUID 是否相等。这是一个棘手的问题，因为你首先必须确定“代表”的含义。有多种方法可以将 GUID 表示为字符串。可能只有 32 [...]</description>
+      <pubDate>Wed, 25 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Is there a way to split the git history of a file or combine the histories of two files without a merge commit?】有没有办法分割文件的 git 历史记录或合并两个文件的历史记录而无需合并提交？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241218-00/?p=110655</link>
-      <description>【Studying how git recovers history.】研究 git 如何恢复历史记录。</description>
-      <pubDate>Wed, 18 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Unwrap some Semantic Kernel (Power)Toys this holiday season】在这个假期里打开一些语义内核（力量）玩具</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/unwrap-some-semantic-kernel-powertoys-this-holiday-season</link>
+      <description>【Windows PowerToys has always been one of my favorite productivity hacks, and its latest release adds Paste with Advanced AI, which takes it to a new level. This feature, powered by Semantic Kernel, transforms how you work with text, images, and data from your clipboard by applying AI-driven enhancements. What Does It Do? Advanced Paste uses [&amp;hellip;]】Windows PowerToys 一直是我最喜欢的生产力工具之一，其最新版本添加了带有高级 AI 的粘贴功能，这将其提升到了一个新的水平。此功能由 Semantic Kernel 提供支持，通过应用 AI 驱动的增强功能，改变您处理剪贴板中的文本、图像和数据的方式。它有什么作用？高级粘贴使用[...]</description>
+      <pubDate>Fri, 20 Dec 2024 16:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Embedding models and dimensions: optimizing the performance to resource-usage ratio】嵌入模型和维度：优化性能与资源利用率</title>
-      <link>https://devblogs.microsoft.com/azure-sql/embedding-models-and-dimensions-optimizing-the-performance-resource-usage-ratio</link>
-      <description>【Since the release of vector preview, we&amp;#8217;ve been working with many customers that are building AI solution on Azure SQL and SQL Server and one of the most common questions is how to support high-dimensional data, for example more than 2000 dimensions per vector. In fact, at the moment, the vector type supports &amp;#8220;only&amp;#8221; up [&amp;hellip;]】自矢量预览版发布以来，我们一直在与许多在 Azure SQL 和 SQL Server 上构建 AI 解决方案的客户合作，最常见的问题之一是如何支持高维数据，例如每个矢量超过 2000 个维度。事实上，目前，向量类型“仅”支持 [...]</description>
-      <pubDate>Tue, 17 Dec 2024 16:42:29 +0000</pubDate>
+      <title>【Security updates to Azure publishing from Visual Studio】从 Visual Studio 对 Azure 发布进行安全更新</title>
+      <link>https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio</link>
+      <description>【Visual Studio 2022 introduces a new feature to improve the security of publishing applications to Azure App Service. This feature is designed to disable Basic Authentication and enable integrated security for a more secure publishing process. Basic Authentication has been identified as a less secure method for managing app deployments. Visual Studio 2022 addresses this [&amp;hellip;]】Visual Studio 2022 引入了一项新功能，可提高将应用程序发布到 Azure 应用服务的安全性。此功能旨在禁用基本身份验证并启用集成安全性，以实现更安全的发布过程。基本身份验证已被认为是管理应用程序部署的安全性较低的方法。 Visual Studio 2022 解决了这个问题 [...]</description>
+      <pubDate>Mon, 23 Dec 2024 13:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SQL ❤️ Python!】Azure SQL ❤️ Python！</title>
-      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-loves-python</link>
-      <description>【I recently presented at Python Day 2024 on Langchain integration. I created a slide deck that I believe can be useful beyond just the session, so I wanted to share it here for everyone&amp;#8217;s benefit. The deck covers the most common topics for a Python developer: Is there a free version of SQL Server or [&amp;hellip;]】我最近在 2024 年 Python Day 上发表了有关 Langchain 集成的演讲。我创建了一个幻灯片，我相信它除了会议之外还有用，所以我想在这里分享它，以造福于每个人。该套牌涵盖了 Python 开发人员最常见的主题：是否有 SQL Server 的免费版本或 [...]</description>
-      <pubDate>Mon, 16 Dec 2024 22:07:27 +0000</pubDate>
+      <title>【Top .NET Blogs Posts of 2024】2024 年热门 .NET 博客文章</title>
+      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024</link>
+      <description>【Let&#39;s take a look back at the top .NET blogs from 2024 from exciting announcements, deep dives on new features, and so much more.】让我们回顾一下 2024 年的顶级 .NET 博客，包括令人兴奋的公告、对新功能的深入探讨等等。</description>
+      <pubDate>Mon, 23 Dec 2024 18:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
