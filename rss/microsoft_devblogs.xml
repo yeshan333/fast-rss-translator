@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Connect securely to your Azure resources】安全连接到您的 Azure 资源</title>
-      <link>https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources</link>
-      <description>【Visual Studio 2022&amp;#8217;s Connected Services features are being updated to help you start secure. In the past, for example with Azure Storage, we’d inject the entire connection string into your configuration. With this update, we’ve removed the secrets from the UX – and from what we save to configuration – altogether. This means your code [&amp;hellip;]】Visual Studio 2022 的连接服务功能正在更新，以帮助您安全启动。过去，例如使用 Azure 存储时，我们会将整个连接字符串注入到您的配置中。通过此更新，我们完全消除了用户体验以及我们保存的配置中的秘密。这意味着你的代码[...]</description>
-      <pubDate>Tue, 24 Dec 2024 13:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A common proposed solution to certain categories of IFNDR: Getting the linker to verify identical functions】针对某些类别的 IFNDR 的常见解决方案：让链接器验证相同的功能</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241223-00/?p=110672</link>
-      <description>【You could do it, but it could cramp your style.】你可以做到，但它可能会限制你的风格。</description>
-      <pubDate>Mon, 23 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【使用 Dependabot 管理 .NET SDK 更新】使用 Dependabot 管理 .NET SDK 更新</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8-dependabot-%e7%ae%a1%e7%90%86-net-sdk-%e6%9b%b4%e6%96%b0</link>
-      <description>【本文翻译自微软高级软件工程师 Jamie Magee 的Using Dependabot to Manage .NET SDK Updates 保持 .NET SDK 处于最新版本对维护安全高效的应用程序至关重要。现在，Dependabot 可以更新 global.json 中的 .NET SDK 版本，这使您可以比以往更轻松地确保自己的应用程序始终运行最新的安全补丁和改进。 定期的更新 SDK非常重要，因为它们包含： 已知漏洞（CVE）的安全补丁 错误修复和性能改进 最新的开发工具和功能 使用 global.json 管理 SDK 版本 要管理您的 .NET SDK 版本，您通常会在项目中使用 global.json 文件。此文件会指定项目应使用哪个版本的 SDK。以下是一个简单的 global.json 文件示例： { &#34;sdk&#34;: { &#34;version&#34;: &#34;9.0.100&#34; } } 如果您正在使用 GitHub Actions以及 dotnet/setup-dotnet ，此文件将确保在您的 CI/CD 管道中使用了正确的 SDK 版本。 [&amp;hellip;]】本文翻译自微软高级软件工程师 Jamie Magee 的Using Dependabot to Manage .NET SDK Updates 保持 .NET SDK 处于最新版本对维护安全高效的应用程序至关重要。现在，Dependabot 可以更新 global.json 中的 .NET SDK 版本，这使您可以比以往更轻松地确保自己的应用程序始终运行最新的安全补丁和改进。 定期的更新 SDK非常重要，因为它们包含： 已知漏洞（CVE）的安全补丁 错误修复和性能改进 最新的开发工具和功能 使用 global.json 管理 SDK 版本 要管理您的 .NET SDK 版本，您通常会在项目中使用 global.json 文件。此文件会指定项目应使用哪个版本的 SDK。以下是一个简单的 global.json 文件示例： { &#34;sdk&#34;: { &#34;version&#34;: &#34;9.0.100&#34; } } 如果您正在使用 GitHub Actions以及 dotnet/setup-dotnet ，此文件将确保在您的 CI/CD 管道中使用了正确的 SDK 版本。 […]</description>
-      <pubDate>Fri, 20 Dec 2024 07:23:12 +0000</pubDate>
+      <title>【Announcing the Office Add-ins Development Kit GA】宣布推出 Office 插件开发套件 GA</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/office-add-ins-development-kit-ga-announcement</link>
+      <description>【The Office Add-ins Development Kit for Visual Studio Code is now generally available! After months of public preview, we&#39;ve gathered invaluable feedback from the community and improved the experience.】适用于 Visual Studio Code 的 Office 插件开发工具包现已全面上市！经过几个月的公开预览，我们从社区收集了宝贵的反馈并改进了体验。</description>
+      <pubDate>Mon, 23 Dec 2024 17:08:02 +0000</pubDate>
     </item>
     <item>
       <title>【How do I register a file type for a scripting language so that users get a warning when they run an untrusted script?】如何注册脚本语言的文件类型，以便用户在运行不受信任的脚本时收到警告？</title>
@@ -28,16 +16,16 @@
       <pubDate>Fri, 20 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A design flaw in the Windows 3D Pipes screen saver pointed out by a customer】客户指出 Windows 3D Pipes 屏幕保护程序中的设计缺陷</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675</link>
-      <description>【Time-wasting.】浪费时间。</description>
-      <pubDate>Tue, 24 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【A common proposed solution to certain categories of IFNDR: Getting the linker to verify identical functions】针对某些类别的 IFNDR 的常见解决方案：让链接器验证相同的功能</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241223-00/?p=110672</link>
+      <description>【You could do it, but it could cramp your style.】你可以做到，但它可能会限制你的风格。</description>
+      <pubDate>Mon, 23 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Office Add-ins Development Kit GA】宣布推出 Office 插件开发套件 GA</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/office-add-ins-development-kit-ga-announcement</link>
-      <description>【The Office Add-ins Development Kit for Visual Studio Code is now generally available! After months of public preview, we&#39;ve gathered invaluable feedback from the community and improved the experience.】适用于 Visual Studio Code 的 Office 插件开发工具包现已全面上市！经过几个月的公开预览，我们从社区收集了宝贵的反馈并改进了体验。</description>
-      <pubDate>Mon, 23 Dec 2024 17:08:02 +0000</pubDate>
+      <title>【Why are Win32 resources strings bundled at all? And why bundles of 16?】为什么 Win32 资源字符串要捆绑在一起？为什么是 16 个捆绑包？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241226-00/?p=110679</link>
+      <description>【Balancing multiple performance factors.】平衡多个性能因素。</description>
+      <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How can I check if two GUIDs are equal when they are provided as strings?】当两个 GUID 以字符串形式提供时，如何检查它们是否相等？</title>
@@ -46,22 +34,34 @@
       <pubDate>Wed, 25 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unwrap some Semantic Kernel (Power)Toys this holiday season】在这个假期里打开一些语义内核（力量）玩具</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/unwrap-some-semantic-kernel-powertoys-this-holiday-season</link>
-      <description>【Windows PowerToys has always been one of my favorite productivity hacks, and its latest release adds Paste with Advanced AI, which takes it to a new level. This feature, powered by Semantic Kernel, transforms how you work with text, images, and data from your clipboard by applying AI-driven enhancements. What Does It Do? Advanced Paste uses [&amp;hellip;]】Windows PowerToys 一直是我最喜欢的生产力工具之一，其最新版本添加了带有高级 AI 的粘贴功能，这将其提升到了一个新的水平。此功能由 Semantic Kernel 提供支持，通过应用 AI 驱动的增强功能，改变您处理剪贴板中的文本、图像和数据的方式。它有什么作用？高级粘贴使用[...]</description>
-      <pubDate>Fri, 20 Dec 2024 16:10:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Security updates to Azure publishing from Visual Studio】从 Visual Studio 对 Azure 发布进行安全更新</title>
       <link>https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio</link>
       <description>【Visual Studio 2022 introduces a new feature to improve the security of publishing applications to Azure App Service. This feature is designed to disable Basic Authentication and enable integrated security for a more secure publishing process. Basic Authentication has been identified as a less secure method for managing app deployments. Visual Studio 2022 addresses this [&amp;hellip;]】Visual Studio 2022 引入了一项新功能，可提高将应用程序发布到 Azure 应用服务的安全性。此功能旨在禁用基本身份验证并启用集成安全性，以实现更安全的发布过程。基本身份验证已被认为是管理应用程序部署的安全性较低的方法。 Visual Studio 2022 解决了这个问题 [...]</description>
       <pubDate>Mon, 23 Dec 2024 13:00:24 +0000</pubDate>
     </item>
     <item>
+      <title>【A design flaw in the Windows 3D Pipes screen saver pointed out by a customer】客户指出 Windows 3D Pipes 屏幕保护程序中的设计缺陷</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675</link>
+      <description>【Time-wasting.】浪费时间。</description>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unwrap some Semantic Kernel (Power)Toys this holiday season】在这个假期里打开一些语义内核（力量）玩具</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/unwrap-some-semantic-kernel-powertoys-this-holiday-season</link>
+      <description>【Windows PowerToys has always been one of my favorite productivity hacks, and its latest release adds Paste with Advanced AI, which takes it to a new level. This feature, powered by Semantic Kernel, transforms how you work with text, images, and data from your clipboard by applying AI-driven enhancements. What Does It Do? Advanced Paste uses [&amp;hellip;]】Windows PowerToys 一直是我最喜欢的生产力工具之一，其最新版本添加了带有高级 AI 的粘贴功能，这将其提升到了一个新的水平。此功能由 Semantic Kernel 提供支持，通过应用 AI 驱动的增强功能，改变您处理剪贴板中的文本、图像和数据的方式。它有什么作用？高级粘贴使用[...]</description>
+      <pubDate>Fri, 20 Dec 2024 16:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top .NET Blogs Posts of 2024】2024 年热门 .NET 博客文章</title>
       <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024</link>
       <description>【Let&#39;s take a look back at the top .NET blogs from 2024 from exciting announcements, deep dives on new features, and so much more.】让我们回顾一下 2024 年的顶级 .NET 博客，包括令人兴奋的公告、对新功能的深入探讨等等。</description>
       <pubDate>Mon, 23 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Connect securely to your Azure resources】安全连接到您的 Azure 资源</title>
+      <link>https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources</link>
+      <description>【Visual Studio 2022&amp;#8217;s Connected Services features are being updated to help you start secure. In the past, for example with Azure Storage, we’d inject the entire connection string into your configuration. With this update, we’ve removed the secrets from the UX – and from what we save to configuration – altogether. This means your code [&amp;hellip;]】Visual Studio 2022 的连接服务功能正在更新，以帮助您安全启动。过去，例如使用 Azure 存储时，我们会将整个连接字符串注入到您的配置中。通过此更新，我们完全消除了用户体验以及我们保存的配置中的秘密。这意味着你的代码[...]</description>
+      <pubDate>Tue, 24 Dec 2024 13:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
