@@ -10,10 +10,10 @@
       <pubDate>Mon, 23 Dec 2024 17:08:02 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I register a file type for a scripting language so that users get a warning when they run an untrusted script?】如何注册脚本语言的文件类型，以便用户在运行不受信任的脚本时收到警告？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241220-00/?p=110669</link>
-      <description>【Use the FTA_AlwaysUnsafe edit flag.】使用 FTA_AlwaysUnsafe 编辑标志。</description>
-      <pubDate>Fri, 20 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【How can I check if two GUIDs are equal when they are provided as strings?】当两个 GUID 以字符串形式提供时，如何检查它们是否相等？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241225-00/?p=110677</link>
+      <description>【A customer asked if there was a helper function in the system that accepted two strings and reported whether the GUIDs they represent are equal. This is a tricky question, because you first have to decide what &amp;#8220;represent&amp;#8221; means. There are many ways of representing a GUID as a string. It could be just 32 [&amp;hellip;]】一位客户询问系统中是否有一个辅助函数可以接受两个字符串并报告它们代表的 GUID 是否相等。这是一个棘手的问题，因为你首先必须确定“代表”的含义。有多种方法可以将 GUID 表示为字符串。可能只有 32 [...]</description>
+      <pubDate>Wed, 25 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【A common proposed solution to certain categories of IFNDR: Getting the linker to verify identical functions】针对某些类别的 IFNDR 的常见解决方案：让链接器验证相同的功能</title>
@@ -22,16 +22,16 @@
       <pubDate>Mon, 23 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why are Win32 resources strings bundled at all? And why bundles of 16?】为什么 Win32 资源字符串要捆绑在一起？为什么是 16 个捆绑包？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241226-00/?p=110679</link>
-      <description>【Balancing multiple performance factors.】平衡多个性能因素。</description>
-      <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Critical: .NET Install links are changing】严重：.NET 安装链接正在更改</title>
+      <link>https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing</link>
+      <description>【The .NET installers and archives distribution method is currently changing unexpectedly. This change may impact your development, CI, and production infrastructure. It is crucial to validate if you are affected and monitor for any downtime or disruptions.】.NET 安装程序和存档分发方法当前正在发生意外变化。此更改可能会影响您的开发、CI 和生产基础设施。验证您是否受到影响并监控任何停机或中断至关重要。</description>
+      <pubDate>Fri, 27 Dec 2024 03:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I check if two GUIDs are equal when they are provided as strings?】当两个 GUID 以字符串形式提供时，如何检查它们是否相等？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241225-00/?p=110677</link>
-      <description>【A customer asked if there was a helper function in the system that accepted two strings and reported whether the GUIDs they represent are equal. This is a tricky question, because you first have to decide what &amp;#8220;represent&amp;#8221; means. There are many ways of representing a GUID as a string. It could be just 32 [&amp;hellip;]】一位客户询问系统中是否有一个辅助函数可以接受两个字符串并报告它们代表的 GUID 是否相等。这是一个棘手的问题，因为你首先必须确定“代表”的含义。有多种方法可以将 GUID 表示为字符串。可能只有 32 [...]</description>
-      <pubDate>Wed, 25 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【In C++, failure to meet the requirements does not always mean that you fail if you don’t meet the requirements】在C++中，不满足要求并不总是意味着不满足要求就失败</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241227-00/?p=110681</link>
+      <description>【Combining SFINAE/requires, standard layout, and overload resolution.】结合 SFINAE/requires、标准布局和重载解析。</description>
+      <pubDate>Fri, 27 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Security updates to Azure publishing from Visual Studio】从 Visual Studio 对 Azure 发布进行安全更新</title>
@@ -46,10 +46,10 @@
       <pubDate>Tue, 24 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unwrap some Semantic Kernel (Power)Toys this holiday season】在这个假期里打开一些语义内核（力量）玩具</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/unwrap-some-semantic-kernel-powertoys-this-holiday-season</link>
-      <description>【Windows PowerToys has always been one of my favorite productivity hacks, and its latest release adds Paste with Advanced AI, which takes it to a new level. This feature, powered by Semantic Kernel, transforms how you work with text, images, and data from your clipboard by applying AI-driven enhancements. What Does It Do? Advanced Paste uses [&amp;hellip;]】Windows PowerToys 一直是我最喜欢的生产力工具之一，其最新版本添加了带有高级 AI 的粘贴功能，这将其提升到了一个新的水平。此功能由 Semantic Kernel 提供支持，通过应用 AI 驱动的增强功能，改变您处理剪贴板中的文本、图像和数据的方式。它有什么作用？高级粘贴使用[...]</description>
-      <pubDate>Fri, 20 Dec 2024 16:10:00 +0000</pubDate>
+      <title>【Why are Win32 resources strings bundled at all? And why bundles of 16?】为什么 Win32 资源字符串要捆绑在一起？为什么是 16 个捆绑包？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241226-00/?p=110679</link>
+      <description>【Balancing multiple performance factors.】平衡多个性能因素。</description>
+      <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Top .NET Blogs Posts of 2024】2024 年热门 .NET 博客文章</title>

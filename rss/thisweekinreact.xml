@@ -4,10 +4,22 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【📅 React Summit US 2024 - Conf Recap】📅 React Summit US 2024 - 会议回顾</title>
+      <link>https://thisweekinreact.com/newsletter/conferences/2024/react-summit-us-recap</link>
+      <description>【What&#39;s this fancy e-mail on a Monday? Well, we&#39;re trying something new!】星期一这封奇特的电子邮件是什么？好吧，我们正在尝试新的东西！</description>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #213: React 19, Next.js, React Compiler, React Router, Restyle, Lingui, State of RN, Uniffi, Shared Objects, Fast IO, Sheet Transitions, Radon, TC39, OpenAuth, TypeScript, Dioxus...】本周 React #213：React 19、Next.js、React Compiler、React Router、Restyle、Lingui、State of RN、Uniffi、共享对象、Fast IO、Sheet Transitions、Radon、TC39、OpenAuth、TypeScript、Dioxus.. 。</title>
       <link>https://thisweekinreact.com/newsletter/213</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #214: Base UI, Custom Elements, Next.js, React Router, TanStack, i18n, OG, Apollo, Android XR, iOS targets, Nitro, RNTL, Volume Manager, Drag Select, brownfield, Zod, Node, SourceMaps, Bun, State Of JS...】本周 React #214：基本 UI、自定义元素、Next.js、React Router、TanStack、i18n、OG、Apollo、Android XR、iOS 目标、Nitro、RNTL、Volume Manager、Drag Select、brownfield、Zod、Node、 SourceMaps、Bun、JS 状态...</title>
+      <link>https://thisweekinreact.com/newsletter/214</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #212: Astro, Next.js, Storybook, INP, Virtualization, WebXR, LiveView, Radon, Yoga, Unistyles, gluestack, Expo-Video, Node, Playwright, Prisma, Undici...】本周 React #212：Astro、Next.js、Storybook、INP、虚拟化、WebXR、LiveView、Radon、Yoga、Unistyles、gluestack、Expo-Video、Node、Playwright、Prisma、Undici...</title>
@@ -20,18 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/211</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【📅 React Summit US 2024 - Conf Recap】📅 React Summit US 2024 - 会议回顾</title>
-      <link>https://thisweekinreact.com/newsletter/conferences/2024/react-summit-us-recap</link>
-      <description>【What&#39;s this fancy e-mail on a Monday? Well, we&#39;re trying something new!】星期一这封奇特的电子邮件是什么？好吧，我们正在尝试新的东西！</description>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #214: Base UI, Custom Elements, Next.js, React Router, TanStack, i18n, OG, Apollo, Android XR, iOS targets, Nitro, RNTL, Volume Manager, Drag Select, brownfield, Zod, Node, SourceMaps, Bun, State Of JS...】本周 React #214：基本 UI、自定义元素、Next.js、React Router、TanStack、i18n、OG、Apollo、Android XR、iOS 目标、Nitro、RNTL、Volume Manager、Drag Select、brownfield、Zod、Node、 SourceMaps、Bun、JS 状态...</title>
-      <link>https://thisweekinreact.com/newsletter/214</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
