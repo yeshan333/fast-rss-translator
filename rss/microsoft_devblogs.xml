@@ -4,40 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【A common proposed solution to certain categories of IFNDR: Getting the linker to verify identical functions】针对某些类别的 IFNDR 的常见解决方案：让链接器验证相同的功能</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241223-00/?p=110672</link>
-      <description>【You could do it, but it could cramp your style.】你可以做到，但它可能会限制你的风格。</description>
-      <pubDate>Mon, 23 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why are Win32 resources strings bundled at all? And why bundles of 16?】为什么 Win32 资源字符串要捆绑在一起？为什么是 16 个捆绑包？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241226-00/?p=110679</link>
-      <description>【Balancing multiple performance factors.】平衡多个性能因素。</description>
-      <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top .NET Blogs Posts of 2024】2024 年热门 .NET 博客文章</title>
-      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024</link>
-      <description>【Let&#39;s take a look back at the top .NET blogs from 2024 from exciting announcements, deep dives on new features, and so much more.】让我们回顾一下 2024 年的顶级 .NET 博客，包括令人兴奋的公告、对新功能的深入探讨等等。</description>
-      <pubDate>Mon, 23 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Critical: .NET Install links are changing】严重：.NET 安装链接正在更改</title>
-      <link>https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing</link>
-      <description>【The .NET installers and archives distribution method is currently changing unexpectedly. This change may impact your development, CI, and production infrastructure. It is crucial to validate if you are affected and monitor for any downtime or disruptions.】.NET 安装程序和存档分发方法当前正在发生意外变化。此更改可能会影响您的开发、CI 和生产基础设施。验证您是否受到影响并监控任何停机或中断至关重要。</description>
-      <pubDate>Fri, 27 Dec 2024 03:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Security updates to Azure publishing from Visual Studio】从 Visual Studio 对 Azure 发布进行安全更新</title>
-      <link>https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio</link>
-      <description>【Visual Studio 2022 introduces a new feature to improve the security of publishing applications to Azure App Service. This feature is designed to disable Basic Authentication and enable integrated security for a more secure publishing process. Basic Authentication has been identified as a less secure method for managing app deployments. Visual Studio 2022 addresses this [&amp;hellip;]】Visual Studio 2022 引入了一项新功能，可提高将应用程序发布到 Azure 应用服务的安全性。此功能旨在禁用基本身份验证并启用集成安全性，以实现更安全的发布过程。基本身份验证已被认为是管理应用程序部署的安全性较低的方法。 Visual Studio 2022 解决了这个问题 [...]</description>
-      <pubDate>Mon, 23 Dec 2024 13:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A design flaw in the Windows 3D Pipes screen saver pointed out by a customer】客户指出 Windows 3D Pipes 屏幕保护程序中的设计缺陷</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675</link>
-      <description>【Time-wasting.】浪费时间。</description>
-      <pubDate>Tue, 24 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【In C++, failure to meet the requirements does not always mean that you fail if you don’t meet the requirements】在C++中，不满足要求并不总是意味着不满足要求就失败</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241227-00/?p=110681</link>
+      <description>【Combining SFINAE/requires, standard layout, and overload resolution.】结合 SFINAE/requires、标准布局和重载解析。</description>
+      <pubDate>Fri, 27 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Connect securely to your Azure resources】安全连接到您的 Azure 资源</title>
@@ -46,16 +16,46 @@
       <pubDate>Tue, 24 Dec 2024 13:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>【In C++, failure to meet the requirements does not always mean that you fail if you don’t meet the requirements】在C++中，不满足要求并不总是意味着不满足要求就失败</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241227-00/?p=110681</link>
-      <description>【Combining SFINAE/requires, standard layout, and overload resolution.】结合 SFINAE/requires、标准布局和重载解析。</description>
-      <pubDate>Fri, 27 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Why are Win32 resources strings bundled at all? And why bundles of 16?】为什么 Win32 资源字符串要捆绑在一起？为什么是 16 包？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241226-00/?p=110679</link>
+      <description>【Balancing multiple performance factors.】平衡多个性能因素。</description>
+      <pubDate>Thu, 26 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A common proposed solution to certain categories of IFNDR: Getting the linker to verify identical functions】针对某些类别的 IFNDR 的常见解决方案：让链接器验证相同的功能</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241223-00/?p=110672</link>
+      <description>【You could do it, but it could cramp your style.】你可以做到，但它可能会限制你的风格。</description>
+      <pubDate>Mon, 23 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Top .NET Blogs Posts of 2024】2024 年热门 .NET 博客文章</title>
+      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024</link>
+      <description>【Let&#39;s take a look back at the top .NET blogs from 2024 from exciting announcements, deep dives on new features, and so much more.】让我们回顾一下 2024 年的顶级 .NET 博客，包括令人兴奋的公告、对新功能的深入探讨等等。</description>
+      <pubDate>Mon, 23 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A design flaw in the Windows 3D Pipes screen saver pointed out by a customer】客户指出 Windows 3D Pipes 屏幕保护程序中的设计缺陷</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675</link>
+      <description>【Time-wasting.】浪费时间。</description>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Security updates to Azure publishing from Visual Studio】从 Visual Studio 对 Azure 发布进行安全更新</title>
+      <link>https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio</link>
+      <description>【Visual Studio 2022 introduces a new feature to improve the security of publishing applications to Azure App Service. This feature is designed to disable Basic Authentication and enable integrated security for a more secure publishing process. Basic Authentication has been identified as a less secure method for managing app deployments. Visual Studio 2022 addresses this [&amp;hellip;]】Visual Studio 2022 引入了一项新功能，可提高将应用程序发布到 Azure 应用服务的安全性。此功能旨在禁用基本身份验证并启用集成安全性，以实现更安全的发布过程。基本身份验证已被认为是管理应用程序部署的安全性较低的方法。 Visual Studio 2022 解决了这个问题 [...]</description>
+      <pubDate>Mon, 23 Dec 2024 13:00:24 +0000</pubDate>
     </item>
     <item>
       <title>【How can I check if two GUIDs are equal when they are provided as strings?】当两个 GUID 以字符串形式提供时，如何检查它们是否相等？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20241225-00/?p=110677</link>
       <description>【A customer asked if there was a helper function in the system that accepted two strings and reported whether the GUIDs they represent are equal. This is a tricky question, because you first have to decide what &amp;#8220;represent&amp;#8221; means. There are many ways of representing a GUID as a string. It could be just 32 [&amp;hellip;]】一位客户询问系统中是否有一个辅助函数可以接受两个字符串并报告它们代表的 GUID 是否相等。这是一个棘手的问题，因为你首先必须确定“代表”的含义。有多种方法可以将 GUID 表示为字符串。可能只有 32 [...]</description>
       <pubDate>Wed, 25 Dec 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Critical: .NET Install links are changing】严重：.NET 安装链接正在更改</title>
+      <link>https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing</link>
+      <description>【The .NET installers and archives distribution method is currently changing unexpectedly. This change may impact your development, CI, and production infrastructure. It is crucial to validate if you are affected and monitor for any downtime or disruptions.】.NET 安装程序和存档分发方法当前正在发生意外变化。此更改可能会影响您的开发、CI 和生产基础设施。验证您是否受到影响并监控任何停机或中断至关重要。</description>
+      <pubDate>Fri, 27 Dec 2024 03:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing the Office Add-ins Development Kit GA】宣布推出 Office 插件开发套件 GA</title>
