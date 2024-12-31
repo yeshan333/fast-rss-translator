@@ -10,28 +10,10 @@
       <pubDate>Mon, 23 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Un experimento rápido: translating Cloudflare Stream captions with Workers AI】快速实验：使用 Workers AI 翻译 Cloudflare Stream 字幕</title>
-      <link>https://blog.cloudflare.com/un-experimento-rapido-translating-cloudflare-stream-captions-with-workers-ai/</link>
-      <description>【 How I used Workers AI to translate Cloudflare Stream’s auto-generated captions and what I learned along the way. 】我如何使用 Workers AI 翻译 Cloudflare Stream 自动生成的字幕以及我在此过程中学到的东西。</description>
-      <pubDate>Tue, 24 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Internationalization and localization: bringing Cloudflare Radar to a global audience】国际化和本地化：将 Cloudflare Radar 带给全球受众</title>
-      <link>https://blog.cloudflare.com/cloudflare-radar-localization-journey/</link>
-      <description>【 Internationalization and localization require more than translation: tone, images, date/time and number formatting, among other items, need to be considered. 】国际化和本地化需要的不仅仅是翻译：还需要考虑语气、图像、日期/时间和数字格式等。</description>
-      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The role of email security in reducing user risk amid rising threats】电子邮件安全在威胁不断增加的情况下降低用户风险的作用</title>
-      <link>https://blog.cloudflare.com/the-role-of-email-security-in-reducing-user-risk-amid-rising-threats/</link>
-      <description>【 As threats evolve, SOC teams must adapt their operations. With Cloudflare’s holistic approach to managing user-based risk, SOC teams can operate more efficiently and reduce the likelihood of a breach. 】随着威胁的演变，SOC 团队必须调整其运营。借助 Cloudflare 管理基于用户的风险的整体方法，SOC 团队可以更高效地运营并降低违规的可能性。</description>
-      <pubDate>Thu, 19 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Grinch Bots strike again: defending your holidays from cyber threats】Grinch 机器人再次出击：保护您的假期免受网络威胁</title>
-      <link>https://blog.cloudflare.com/grinch-bot-2024/</link>
-      <description>【 Cloudflare observed a 4x increase in bot-related traffic on Black Friday in 2024. 29% of all traffic on our network on Black Friday was Grinch Bots wreaking holiday havoc. 】Cloudflare 观察到，2024 年黑色星期五与机器人相关的流量增加了 4 倍。黑色星期五我们网络上的所有流量中有 29% 是 Grinch 机器人造成的节日破坏。</description>
-      <pubDate>Mon, 23 Dec 2024 14:01:00 +0000</pubDate>
+      <title>【When the world logs off: Christmas, New Year’s, and the Internet’s holiday rhythm】当世界关闭时：圣诞节、新年和互联网的节日节奏</title>
+      <link>https://blog.cloudflare.com/when-the-world-logs-off-christmas-new-years-and-the-internets-holiday-rhythm/</link>
+      <description>【 From Christmas Eve dinners in Europe to New Year’s Eve countdowns in Asia, Cloudflare data reveals how global festivities have typically shaped Internet usage and cultural rhythms 】从欧洲的圣诞夜晚餐到亚洲的除夕倒计时，Cloudflare 数据揭示了全球庆祝活动通常如何影响互联网使用和文化节奏</description>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Sometimes I cache: implementing lock-free probabilistic caching】有时我缓存：实现无锁概率缓存</title>
@@ -40,28 +22,46 @@
       <pubDate>Thu, 26 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Bring multimodal real-time interaction to your AI applications with Cloudflare Calls】通过 Cloudflare Calls 将多模式实时交互引入您的 AI 应用程序</title>
-      <link>https://blog.cloudflare.com/bring-multimodal-real-time-interaction-to-your-ai-applications-with-cloudflare-calls/</link>
-      <description>【 Bring ChatGPT to your next video meeting with Cloudflare Calls.  】通过 Cloudflare Calls 将 ChatGPT 带到您的下一次视频会议中。 </description>
-      <pubDate>Fri, 20 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Hi Claude, build an MCP server on Cloudflare Workers】您好，Claude，在 Cloudflare Workers 上构建 MCP 服务器</title>
       <link>https://blog.cloudflare.com/model-context-protocol/</link>
       <description>【 Want Claude to interact with your app directly? Build an MCP server on Cloudflare Workers, enabling you to connect your service directly, allowing Claude to understand and run tasks on your behalf. 】希望 Claude 直接与您的应用程序交互吗？在 Cloudflare Workers 上构建 MCP 服务器，使您能够直接连接您的服务，让 Claude 能够代表您理解和运行任务。</description>
       <pubDate>Fri, 20 Dec 2024 14:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>【When the world logs off: Christmas, New Year’s, and the Internet’s holiday rhythm】当世界关闭时：圣诞节、新年和互联网的节日节奏</title>
-      <link>https://blog.cloudflare.com/when-the-world-logs-off-christmas-new-years-and-the-internets-holiday-rhythm/</link>
-      <description>【 From Christmas Eve dinners in Europe to New Year’s Eve countdowns in Asia, Cloudflare data reveals how global festivities have typically shaped Internet usage and cultural rhythms 】从欧洲的圣诞夜晚餐到亚洲的除夕倒计时，Cloudflare 数据揭示了全球庆祝活动通常如何影响互联网使用和文化节奏</description>
-      <pubDate>Tue, 24 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【What’s new in Cloudflare: MASQUE now powers 1.1.1.1 &amp; WARP apps, DEX now generally available with Remote Captures】Cloudflare 的新增功能：MASQUE 现在支持 1.1.1.1 和 WARP 应用程序，DEX 现在普遍可用于远程捕获</title>
       <link>https://blog.cloudflare.com/masque-now-powers-1-1-1-1-and-warp-apps-dex-available-with-remote-captures/</link>
       <description>【 This roundup blog post shares the latest new features and capabilities at Cloudflare. 】这篇综述博客文章分享了 Cloudflare 的最新特性和功能。</description>
       <pubDate>Fri, 27 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The role of email security in reducing user risk amid rising threats】电子邮件安全在威胁不断增加的情况下降低用户风险的作用</title>
+      <link>https://blog.cloudflare.com/the-role-of-email-security-in-reducing-user-risk-amid-rising-threats/</link>
+      <description>【 As threats evolve, SOC teams must adapt their operations. With Cloudflare’s holistic approach to managing user-based risk, SOC teams can operate more efficiently and reduce the likelihood of a breach. 】随着威胁的演变，SOC 团队必须调整其运营。借助 Cloudflare 管理基于用户的风险的整体方法，SOC 团队可以更高效地运营并降低违规的可能性。</description>
+      <pubDate>Thu, 19 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bring multimodal real-time interaction to your AI applications with Cloudflare Calls】通过 Cloudflare Calls 将多模式实时交互引入您的 AI 应用程序</title>
+      <link>https://blog.cloudflare.com/bring-multimodal-real-time-interaction-to-your-ai-applications-with-cloudflare-calls/</link>
+      <description>【 Bring ChatGPT to your next video meeting with Cloudflare Calls.  】通过 Cloudflare Calls 将 ChatGPT 带到您的下一次视频会议中。 </description>
+      <pubDate>Fri, 20 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Grinch Bots strike again: defending your holidays from cyber threats】Grinch 机器人再次出击：保护您的假期免受网络威胁</title>
+      <link>https://blog.cloudflare.com/grinch-bot-2024/</link>
+      <description>【 Cloudflare observed a 4x increase in bot-related traffic on Black Friday in 2024. 29% of all traffic on our network on Black Friday was Grinch Bots wreaking holiday havoc. 】Cloudflare 观察到，2024 年黑色星期五与机器人相关的流量增加了 4 倍。黑色星期五我们网络上的所有流量中有 29% 是 Grinch 机器人造成的节日破坏。</description>
+      <pubDate>Mon, 23 Dec 2024 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Internationalization and localization: bringing Cloudflare Radar to a global audience】国际化和本地化：将 Cloudflare Radar 带给全球受众</title>
+      <link>https://blog.cloudflare.com/cloudflare-radar-localization-journey/</link>
+      <description>【 Internationalization and localization require more than translation: tone, images, date/time and number formatting, among other items, need to be considered. 】国际化和本地化需要的不仅仅是翻译：还需要考虑语气、图像、日期/时间和数字格式等。</description>
+      <pubDate>Mon, 16 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Un experimento rápido: translating Cloudflare Stream captions with Workers AI】快速实验：使用 Workers AI 翻译 Cloudflare Stream 字幕</title>
+      <link>https://blog.cloudflare.com/un-experimento-rapido-translating-cloudflare-stream-captions-with-workers-ai/</link>
+      <description>【 How I used Workers AI to translate Cloudflare Stream’s auto-generated captions and what I learned along the way. 】我如何使用 Workers AI 翻译 Cloudflare Stream 自动生成的字幕以及我在此过程中学到的东西。</description>
+      <pubDate>Tue, 24 Dec 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
