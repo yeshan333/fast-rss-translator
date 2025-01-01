@@ -5,10 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Database Performance Demystified: Essential Tips and Strategies】数据库性能揭秘：基本技巧和策略</title>
-      <link>https://blog.bytebytego.com/p/database-performance-demystified</link>
-      <description>【Databases are the backbone of modern applications.】数据库是现代应用程序的支柱。</description>
-      <pubDate>Thu, 12 Dec 2024 16:31:05 +0000</pubDate>
+      <title>【How Statsig Streams 1 Trillion Events A Day】Statsig 如何每天传输 1 万亿个事件</title>
+      <link>https://blog.bytebytego.com/p/how-statsig-streams-1-trillion-events</link>
+      <description>【The newsletter is a collaboration between ByteByteGo and members of the Statsig engineering team (Pablo Beltran and Brent Echols).】该时事通讯是 ByteByteGo 与 Statsig 工程团队成员（Pablo Beltran 和 Brent Echols）合作编写的。</description>
+      <pubDate>Tue, 17 Dec 2024 16:30:56 +0000</pubDate>
     </item>
     <item>
       <title>【My NEW book, Coding Interview Patterns, is now available on Amazon】我的新书《编码面试模式》现已在亚马逊上发售</title>
@@ -29,10 +29,16 @@
       <pubDate>Tue, 10 Dec 2024 16:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>【The Sidecar Pattern Explained: Decoupling Operational Features】Sidecar 模式解释：解耦操作功能</title>
-      <link>https://blog.bytebytego.com/p/the-sidecar-pattern-explained-decoupling</link>
-      <description>【Design patterns are reusable solutions to common problems in software design.】设计模式是软件设计中常见问题的可重用解决方案。</description>
-      <pubDate>Thu, 19 Dec 2024 16:30:11 +0000</pubDate>
+      <title>【How LinkedIn Customizes Its 7 Trillion Message Kafka Ecosystem】LinkedIn 如何定制其 7 万亿消息 Kafka 生态系统</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion</link>
+      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：本文中的详细信息来自 LinkedIn 工程博客。</description>
+      <pubDate>Tue, 03 Dec 2024 16:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database Performance Demystified: Essential Tips and Strategies】数据库性能揭秘：基本技巧和策略</title>
+      <link>https://blog.bytebytego.com/p/database-performance-demystified</link>
+      <description>【Databases are the backbone of modern applications.】数据库是现代应用程序的支柱。</description>
+      <pubDate>Thu, 12 Dec 2024 16:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【Mastering Modern Authentication: Cookies, Sessions, JWT, and PASETO】掌握现代身份验证：Cookie、Session、JWT 和 PASETO</title>
@@ -41,22 +47,16 @@
       <pubDate>Thu, 05 Dec 2024 16:31:17 +0000</pubDate>
     </item>
     <item>
-      <title>【How Statsig Streams 1 Trillion Events A Day】Statsig 如何每天传输 1 万亿个事件</title>
-      <link>https://blog.bytebytego.com/p/how-statsig-streams-1-trillion-events</link>
-      <description>【The newsletter is a collaboration between ByteByteGo and members of the Statsig engineering team (Pablo Beltran and Brent Echols).】该时事通讯是 ByteByteGo 与 Statsig 工程团队成员（Pablo Beltran 和 Brent Echols）合作编写的。</description>
-      <pubDate>Tue, 17 Dec 2024 16:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LinkedIn Customizes Its 7 Trillion Message Kafka Ecosystem】LinkedIn 如何定制其 7 万亿消息 Kafka 生态系统</title>
-      <link>https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion</link>
-      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：本文中的详细信息来自 LinkedIn 工程博客。</description>
-      <pubDate>Tue, 03 Dec 2024 16:31:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【EP141: How to Ace System Design Interviews Like a Boss?】EP141：如何像老板一样在系统设计面试中取得好成绩？</title>
       <link>https://blog.bytebytego.com/p/ep141-how-to-ace-system-design-interviews</link>
       <description>【They are the most critical components to crafting successful software systems.】它们是构建成功的软件系统的最关键组件。</description>
       <pubDate>Sat, 07 Dec 2024 16:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Sidecar Pattern Explained: Decoupling Operational Features】Sidecar 模式解释：解耦操作功能</title>
+      <link>https://blog.bytebytego.com/p/the-sidecar-pattern-explained-decoupling</link>
+      <description>【Design patterns are reusable solutions to common problems in software design.】设计模式是软件设计中常见问题的可重用解决方案。</description>
+      <pubDate>Thu, 19 Dec 2024 16:30:11 +0000</pubDate>
     </item>
     <item>
       <title>【EP143: DNS Record Types You Should Know】EP143：您应该了解的 DNS 记录类型</title>
