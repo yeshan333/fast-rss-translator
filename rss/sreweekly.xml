@@ -4,24 +4,6 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #455】SRE 周刊第 #455 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-455/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing&amp;#8230; all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or &amp;#8220;Thundering [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 回顾现在比以往任何时候都更加可定制和协作，包括自定义模板、AI 生成的答案、协作编辑……所有这些都可以导出到 Google Docs 和 Confluence。了解我们的回顾如何为您每次事件节省 2 个多小时。 https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customized-collaborative/ 如何处理突发的交通流量或“雷鸣 [...]</description>
-      <pubDate>Mon, 16 Dec 2024 02:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #453】SRE 周刊第 #453 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-453/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end&amp;#8230;to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：为什么要从 PagerDuty 迁移？赋予团队级所有权、降低成本、将警报与事件分离、端到端自动化事件……仅举几例。加入越来越多已做出转变的公司名单。 （附：我们的 Signals 迁移器让这一切变得简单）https://firehydrant.com/migrate/from-pagerduty/ 2024 年 11 月 14 日发生的 Cloudflare 事件，导致 [...]</description>
-      <pubDate>Mon, 02 Dec 2024 02:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #457】SRE 周刊第 #457 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-457/</link>
-      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: This New Year, resolve to make incident management smarter, faster, and way less stressful with FireHydrant. Modern on-call, automated incident response, and AI tools that do the heavy lifting. https://firehydrant.com/ Preventing Out-of-Memory (OOM) Kills in Kubernetes: Tips for Optimizing Container Memory Management In this post, we’ll [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：在新的一年里，我们决心通过 FireHydrant 使事件管理变得更智能、更快速、压力更小。现代随叫随到、自动事件响应和人工智能工具可以完成繁重的工作。 https://fireHydrant.com/ 防止 Kubernetes 中的内存不足 (OOM) 终止：优化容器内存管理的技巧在这篇文章中，我们将 [...]</description>
-      <pubDate>Mon, 30 Dec 2024 02:32:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #454】SRE 周刊 #454</title>
       <link>https://sreweekly.com/sre-weekly-issue-454/</link>
       <description>【View on sreweekly.com Nine entire years ago, I threw together a few &amp;#8220;issues&amp;#8221; with my favorite SRE articles, installed WordPress, and added a subscription form, with no clue what I was doing. It&amp;#8217;s only thanks to you folks, the thousands of subscribers and the many authors of great SRE content, that I&amp;#8217;ve been able to [&amp;#8230;]】在 sreweekly.com 上查看 整整九年前，我将一些“问题”与我最喜欢的 SRE 文章放在一起，安装了 WordPress，并添加了订阅表格，但不知道我在做什么。多亏了你们、数以千计的订阅者以及优秀 SRE 内容的众多作者，我才能够 [...]</description>
@@ -32,6 +14,24 @@
       <link>https://sreweekly.com/sre-weekly-issue-456/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: On-call during the holidays? Spend more time taking in some R&amp;#38;R and less getting paged. Let alerts make their rounds fairly with our new Round Robin feature for Escalation Policies. https://firehydrant.com/blog/introducing-round-robin-for-signals-escalation-policies/ MTTR: When sample means and power laws combine, trouble follows Here&amp;#8217;s another way to use [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：假期期间值班吗？花更多的时间进行休息和休息，减少被寻呼的时间。通过我们新的升级策略循环功能，让警报公平地进行。 https://firehydrant.com/blog/introducing-round-robin-for-signals-escalation-policies/ MTTR：当样本均值和幂律结合时，麻烦随之而来这是另一种使用[...]的方法</description>
       <pubDate>Mon, 23 Dec 2024 02:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #457】SRE 周刊第 #457 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-457/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: This New Year, resolve to make incident management smarter, faster, and way less stressful with FireHydrant. Modern on-call, automated incident response, and AI tools that do the heavy lifting. https://firehydrant.com/ Preventing Out-of-Memory (OOM) Kills in Kubernetes: Tips for Optimizing Container Memory Management In this post, we’ll [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：在新的一年里，我们决心通过 FireHydrant 使事件管理变得更智能、更快速、压力更小。现代随叫随到、自动事件响应和人工智能工具可以完成繁重的工作。 https://fireHydrant.com/ 防止 Kubernetes 中的内存不足 (OOM) 终止：优化容器内存管理的技巧在这篇文章中，我们将 [...]</description>
+      <pubDate>Mon, 30 Dec 2024 02:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #455】SRE 周刊第 #455 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-455/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing&amp;#8230; all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or &amp;#8220;Thundering [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 回顾现在比以往任何时候都更加可定制和协作，包括自定义模板、AI 生成的答案、协作编辑……所有这些都可以导出到 Google Docs 和 Confluence。了解我们的回顾如何为您每次事件节省 2 个多小时。 https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customized-collaborative/ 如何处理突发的交通流量或“雷鸣 [...]</description>
+      <pubDate>Mon, 16 Dec 2024 02:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #453】SRE 周刊第 #453 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-453/</link>
+      <description>【View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end&amp;#8230;to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：为什么要从 PagerDuty 迁移？赋予团队级所有权、降低成本、将警报与事件分离、端到端自动化事件……仅举几例。加入越来越多已做出转变的公司名单。 （附：我们的 Signals 迁移器让这一切变得简单）https://firehydrant.com/migrate/from-pagerduty/ 2024 年 11 月 14 日发生的 Cloudflare 事件，导致 [...]</description>
+      <pubDate>Mon, 02 Dec 2024 02:09:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
