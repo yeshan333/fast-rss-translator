@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Could I be getting ERROR_KEY_DELETED for HKEY_CURRENT_USER\Software when the user logs off?】当用户注销时，我是否会收到 HKEY_CURRENT_USER\Software 的 ERROR_KEY_DELETED 信息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250102-00/?p=110702</link>
-      <description>【Probably not, but there are some edge cases.】可能不会，但也有一些边缘情况。</description>
-      <pubDate>Thu, 02 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Forcing an ERROR_KEY_DELETED error when trying to open HKEY_CURRENT_USER\Software】尝试打开 HKEY_CURRENT_USER\Software 时强制出现 ERROR_KEY_DELETED 错误</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250103-00/?p=110704</link>
+      <description>【Just an exercise to show that it can be done, even though it&#39;s highly unlikely to occur in practice.】只是一个练习，表明它可以完成，尽管它在实践中极不可能发生。</description>
+      <pubDate>Fri, 03 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【探索Microsoft.Extensions.VectorData与Qdrant和Azure AI搜索的使用】探索Microsoft.Extensions.VectorData与Qdrant和Azure AI搜索的使用</title>
@@ -16,16 +16,10 @@
       <pubDate>Fri, 03 Jan 2025 05:55:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Making sure the Microsoft Visual C++ compiler chooses the right source encoding】确保 Microsoft Visual C++ 编译器选择正确的源编码</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241231-00/?p=110696</link>
-      <description>【Making sure the file and settings are set correctly.】确保文件和设置设置正确。</description>
-      <pubDate>Tue, 31 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【2024 year-end link clearance】2024年终链接通关</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241231-01/?p=110698</link>
-      <description>【The cycle completes.】循环完成。</description>
-      <pubDate>Tue, 31 Dec 2024 15:00:01 +0000</pubDate>
+      <title>【Dock the Code Search window in Visual Studio 2022】在 Visual Studio 2022 中停靠代码搜索窗口</title>
+      <link>https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022</link>
+      <description>【Ever felt frustrated with the search window cluttering your workspace? The latest feature in Visual Studio 2022 gives you more control over the behavior of the Code and Feature Search window, making your search experience smoother and more efficient. Some users have shared that the search window feels intrusive, interrupting your work by appearing mid-screen [&amp;hellip;]】您是否曾因搜索窗口让您的工作空间变得混乱而感到沮丧？ Visual Studio 2022 中的最新功能使您可以更好地控制代码和功能搜索窗口的行为，使您的搜索体验更流畅、更高效。一些用户表示，搜索窗口感觉具有侵入性，出现在屏幕中间，从而打断了您的工作 [...]</description>
+      <pubDate>Tue, 31 Dec 2024 13:00:22 +0000</pubDate>
     </item>
     <item>
       <title>【How is it possible to get ERROR_KEY_DELETED when I’m creating a key?】当我创建密钥时，怎么可能会出现ERROR_KEY_DELETED？</title>
@@ -34,10 +28,28 @@
       <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Dock the Code Search window in Visual Studio 2022】在 Visual Studio 2022 中停靠代码搜索窗口</title>
-      <link>https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022</link>
-      <description>【Ever felt frustrated with the search window cluttering your workspace? The latest feature in Visual Studio 2022 gives you more control over the behavior of the Code and Feature Search window, making your search experience smoother and more efficient. Some users have shared that the search window feels intrusive, interrupting your work by appearing mid-screen [&amp;hellip;]】您是否曾因搜索窗口让您的工作空间变得混乱而感到沮丧？ Visual Studio 2022 中的最新功能使您可以更好地控制代码和功能搜索窗口的行为，使您的搜索体验更流畅、更高效。一些用户表示，搜索窗口感觉具有侵入性，出现在屏幕中间，从而打断了您的工作 [...]</description>
-      <pubDate>Tue, 31 Dec 2024 13:00:22 +0000</pubDate>
+      <title>【Top .NET Videos &amp; Live Streams of 2024】2024 年热门 .NET 视频和直播</title>
+      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024</link>
+      <description>【Let&#39;s take a look back at the amazing .NET videos, events, and live streams from 2024!】让我们回顾一下 2024 年令人惊叹的 .NET 视频、活动和直播！</description>
+      <pubDate>Mon, 30 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Could I be getting ERROR_KEY_DELETED for HKEY_CURRENT_USER\Software when the user logs off?】当用户注销时，我是否会收到 HKEY_CURRENT_USER\Software 的 ERROR_KEY_DELETED 信息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250102-00/?p=110702</link>
+      <description>【Probably not, but there are some edge cases.】可能不会，但也有一些边缘情况。</description>
+      <pubDate>Thu, 02 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2024 year-end link clearance】2024年终链接通关</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241231-01/?p=110698</link>
+      <description>【The cycle completes.】循环完成。</description>
+      <pubDate>Tue, 31 Dec 2024 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How various git diff viewers represent file encoding changes in pull requests】各种 git diff 查看器如何表示拉取请求中的文件编码更改</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241230-00/?p=110692</link>
+      <description>【The invisible UTF-8 BOM, and sometimes invisible encoding changes.】不可见的UTF-8 BOM，有时甚至是不可见的编码变化。</description>
+      <pubDate>Mon, 30 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go to line anywhere with Code Search for Visual Studio 2022】使用 Visual Studio 2022 的代码搜索转到任意位置</title>
@@ -46,22 +58,10 @@
       <pubDate>Mon, 30 Dec 2024 13:00:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Forcing an ERROR_KEY_DELETED error when trying to open HKEY_CURRENT_USER\Software】尝试打开 HKEY_CURRENT_USER\Software 时强制出现 ERROR_KEY_DELETED 错误</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250103-00/?p=110704</link>
-      <description>【Just an exercise to show that it can be done, even though it&#39;s highly unlikely to occur in practice.】只是一个练习，表明它可以完成，尽管它在实践中极不可能发生。</description>
-      <pubDate>Fri, 03 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top .NET Videos &amp; Live Streams of 2024】2024 年热门 .NET 视频和直播</title>
-      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024</link>
-      <description>【Let&#39;s take a look back at the amazing .NET videos, events, and live streams from 2024!】让我们回顾一下 2024 年令人惊叹的 .NET 视频、活动和直播！</description>
-      <pubDate>Mon, 30 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How various git diff viewers represent file encoding changes in pull requests】各种 git diff 查看器如何表示拉取请求中的文件编码更改</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241230-00/?p=110692</link>
-      <description>【The invisible UTF-8 BOM, and sometimes invisible encoding changes.】不可见的UTF-8 BOM，有时甚至是不可见的编码变化。</description>
-      <pubDate>Mon, 30 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Making sure the Microsoft Visual C++ compiler chooses the right source encoding】确保 Microsoft Visual C++ 编译器选择正确的源编码</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241231-00/?p=110696</link>
+      <description>【Making sure the file and settings are set correctly.】确保文件和设置设置正确。</description>
+      <pubDate>Tue, 31 Dec 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
