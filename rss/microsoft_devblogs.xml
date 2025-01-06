@@ -4,40 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Forcing an ERROR_KEY_DELETED error when trying to open HKEY_CURRENT_USER\Software】尝试打开 HKEY_CURRENT_USER\Software 时强制出现 ERROR_KEY_DELETED 错误</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250103-00/?p=110704</link>
-      <description>【Just an exercise to show that it can be done, even though it&#39;s highly unlikely to occur in practice.】只是一个练习，表明它可以完成，尽管它在实践中极不可能发生。</description>
-      <pubDate>Fri, 03 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【探索Microsoft.Extensions.VectorData与Qdrant和Azure AI搜索的使用】探索Microsoft.Extensions.VectorData与Qdrant和Azure AI搜索的使用</title>
       <link>https://devblogs.microsoft.com/dotnet-ch/%e6%8e%a2%e7%b4%a2microsoft-extensions-vectordata%e4%b8%8eqdrant%e5%92%8cazure-ai%e6%90%9c%e7%b4%a2%e7%9a%84%e4%bd%bf%e7%94%a8</link>
       <description>【本文翻译自Bruno Capuano的Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search 了解如何使用 Microsoft.Extensions.VectorData并通过 Qdrant 和 Azure AI 搜索实现语义搜索。 使用 Microsoft.Extensions.VectorData 深入了解语义搜索：Qdrant 和 Azure AI 搜索 语义搜索正在改变应用程序查找和解释数据的方式，它专注于含义，而不仅仅是关键字匹配。随着 Microsoft.Extensions.VectorData 的发布，.NET 开发人员拥有了一组新的构建模块，用于将基于向量的搜索功能集成到其应用程序中。在本文中，我们将探讨使用本地Qdrant和Azure AI搜索这两种实现方式来进行语义搜索。 Microsoft.Extensions.VectorData 快速介绍 Microsoft.Extensions.VectorData 是一组 .NET代码库，旨在管理 .NET 应用程序中基于向量的数据。这些库为与向量存储交互提供了一个统一的 C# 抽象层，使开发人员能够有效地处理嵌入并执行向量相似性查询。 要详细了解该库的架构和功能，推荐阅读 Luis 的精彩博客文章。 在这篇博客文章中，我们将展示两个实际用例： 在本地使用 Qdrant 进行语义搜索。 利用 Azure AI 搜索进行企业级向量搜索。 要运行这些演示，您需要使用 Ollama 为生成嵌入提供的模型之一。在本示例中，使用的模型是 all-minilm。 安装 Ollama。 下载 all-minilm 模型。 准备一个符合 OCI 标准的容器运行时，例如： Docker Desktop 或 Podman。 使用 [&amp;hellip;]】本文翻译自Bruno Capuano的Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search 了解如何使用 Microsoft.Extensions.VectorData并通过 Qdrant 和 Azure AI 搜索实现语义搜索。 使用 Microsoft.Extensions.VectorData 深入了解语义搜索：Qdrant 和 Azure AI 搜索 语义搜索正在改变应用程序查找和解释数据的方式，它专注于含义，而不仅仅是关键字匹配。随着 Microsoft.Extensions.VectorData 的发布，.NET 开发人员拥有了一组新的构建模块，用于将基于向量的搜索功能集成到其应用程序中。在本文中，我们将探讨使用本地Qdrant和Azure AI搜索这两种实现方式来进行语义搜索。 Microsoft.Extensions.VectorData 快速介绍 Microsoft.Extensions.VectorData 是一组 .NET代码库，旨在管理 .NET 应用程序中基于向量的数据。这些库为与向量存储交互提供了一个统一的 C# 抽象层，使开发人员能够有效地处理嵌入并执行向量相似性查询。 要详细了解该库的架构和功能，推荐阅读 Luis 的精彩博客文章。 在这篇博客文章中，我们将展示两个实际用例： 在本地使用 Qdrant 进行语义搜索。 利用 Azure AI 搜索进行企业级向量搜索。 要运行这些演示，您需要使用 Ollama 为生成嵌入提供的模型之一。在本示例中，使用的模型是 all-minilm。 安装 Ollama。 下载 all-minilm 模型。 准备一个符合 OCI 标准的容器运行时，例如： Docker Desktop 或 Podman。 使用 […]</description>
       <pubDate>Fri, 03 Jan 2025 05:55:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Dock the Code Search window in Visual Studio 2022】在 Visual Studio 2022 中停靠代码搜索窗口</title>
-      <link>https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022</link>
-      <description>【Ever felt frustrated with the search window cluttering your workspace? The latest feature in Visual Studio 2022 gives you more control over the behavior of the Code and Feature Search window, making your search experience smoother and more efficient. Some users have shared that the search window feels intrusive, interrupting your work by appearing mid-screen [&amp;hellip;]】您是否曾因搜索窗口让您的工作空间变得混乱而感到沮丧？ Visual Studio 2022 中的最新功能使您可以更好地控制代码和功能搜索窗口的行为，使您的搜索体验更流畅、更高效。一些用户表示，搜索窗口感觉具有侵入性，出现在屏幕中间，从而打断了您的工作 [...]</description>
-      <pubDate>Tue, 31 Dec 2024 13:00:22 +0000</pubDate>
+      <title>【Important: Switching CDN providers】重要提示：切换 CDN 提供商</title>
+      <link>https://devblogs.microsoft.com/devops/important-switching-cdn-providers</link>
+      <description>【The current content delivery network (CDN) provider Edgio, used by Azure DevOps is retiring. We&amp;#8217;re urgently transitioning to a solution served by Akamai and Azure Front Door CDNs to maintain the responsiveness of our services. What this means for you For most of you, this transition will be seamless. To ensure that you can continue [&amp;hellip;]】Azure DevOps 使用的当前内容交付网络 (CDN) 提供商 Edgio 即将退役。我们正在紧急过渡到由 Akamai 和 Azure Front Door CDN 提供的解决方案，以保持我们服务的响应能力。这对你们意味着什么 对于你们中的大多数人来说，这种转变将是无缝的。为了确保您可以继续[...]</description>
+      <pubDate>Sun, 05 Jan 2025 09:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【How is it possible to get ERROR_KEY_DELETED when I’m creating a key?】当我创建密钥时，怎么可能会出现ERROR_KEY_DELETED？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250101-00/?p=110700</link>
-      <description>【The key that got deleted is not the one you are trying to create.】被删除的密钥不是您尝试创建的密钥。</description>
-      <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top .NET Videos &amp; Live Streams of 2024】2024 年热门 .NET 视频和直播</title>
-      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024</link>
-      <description>【Let&#39;s take a look back at the amazing .NET videos, events, and live streams from 2024!】让我们回顾一下 2024 年令人惊叹的 .NET 视频、活动和直播！</description>
-      <pubDate>Mon, 30 Dec 2024 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Could I be getting ERROR_KEY_DELETED for HKEY_CURRENT_USER\Software when the user logs off?】当用户注销时，我是否会收到 HKEY_CURRENT_USER\Software 的 ERROR_KEY_DELETED 信息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250102-00/?p=110702</link>
-      <description>【Probably not, but there are some edge cases.】可能不会，但也有一些边缘情况。</description>
-      <pubDate>Thu, 02 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Making sure the Microsoft Visual C++ compiler chooses the right source encoding】确保 Microsoft Visual C++ 编译器选择正确的源编码</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241231-00/?p=110696</link>
+      <description>【Making sure the file and settings are set correctly.】确保文件和设置设置正确。</description>
+      <pubDate>Tue, 31 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【2024 year-end link clearance】2024年终链接通关</title>
@@ -46,22 +28,40 @@
       <pubDate>Tue, 31 Dec 2024 15:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>【Dock the Code Search window in Visual Studio 2022】在 Visual Studio 2022 中停靠代码搜索窗口</title>
+      <link>https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022</link>
+      <description>【Ever felt frustrated with the search window cluttering your workspace? The latest feature in Visual Studio 2022 gives you more control over the behavior of the Code and Feature Search window, making your search experience smoother and more efficient. Some users have shared that the search window feels intrusive, interrupting your work by appearing mid-screen [&amp;hellip;]】您是否曾因搜索窗口让您的工作空间变得混乱而感到沮丧？ Visual Studio 2022 中的最新功能使您可以更好地控制代码和功能搜索窗口的行为，使您的搜索体验更流畅、更高效。一些用户表示，搜索窗口感觉具有侵入性，出现在屏幕中间，从而打断了您的工作 [...]</description>
+      <pubDate>Tue, 31 Dec 2024 13:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Top .NET Videos &amp; Live Streams of 2024】2024 年热门 .NET 视频和直播</title>
+      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024</link>
+      <description>【Let&#39;s take a look back at the amazing .NET videos, events, and live streams from 2024!】让我们回顾一下 2024 年令人惊叹的 .NET 视频、活动和直播！</description>
+      <pubDate>Mon, 30 Dec 2024 18:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How various git diff viewers represent file encoding changes in pull requests】各种 git diff 查看器如何表示拉取请求中的文件编码更改</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20241230-00/?p=110692</link>
       <description>【The invisible UTF-8 BOM, and sometimes invisible encoding changes.】不可见的UTF-8 BOM，有时甚至是不可见的编码变化。</description>
       <pubDate>Mon, 30 Dec 2024 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Go to line anywhere with Code Search for Visual Studio 2022】使用 Visual Studio 2022 的代码搜索转到任意位置</title>
-      <link>https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022</link>
-      <description>【Finding the exact line of code where an issue is occurring can be like searching for a needle in a haystack. Whether you are debugging an error on line 43 of a file or diving into a specific section of code, you can efficiently jump to the right places with this newest addition to Code [&amp;hellip;]】查找发生问题的确切代码行就像大海捞针一样。无论您是在调试文件第 43 行上的错误，还是深入研究代码的特定部分，您都可以通过 Code 的最新添加有效地跳转到正确的位置 [...]</description>
-      <pubDate>Mon, 30 Dec 2024 13:00:42 +0000</pubDate>
+      <title>【Forcing an ERROR_KEY_DELETED error when trying to open HKEY_CURRENT_USER\Software】尝试打开 HKEY_CURRENT_USER\Software 时强制出现 ERROR_KEY_DELETED 错误</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250103-00/?p=110704</link>
+      <description>【Just an exercise to show that it can be done, even though it&#39;s highly unlikely to occur in practice.】只是一个练习，表明它可以完成，尽管它在实践中极不可能发生。</description>
+      <pubDate>Fri, 03 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Making sure the Microsoft Visual C++ compiler chooses the right source encoding】确保 Microsoft Visual C++ 编译器选择正确的源编码</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241231-00/?p=110696</link>
-      <description>【Making sure the file and settings are set correctly.】确保文件和设置设置正确。</description>
-      <pubDate>Tue, 31 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【Could I be getting ERROR_KEY_DELETED for HKEY_CURRENT_USER\Software when the user logs off?】当用户注销时，我是否会收到 HKEY_CURRENT_USER\Software 的 ERROR_KEY_DELETED 信息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250102-00/?p=110702</link>
+      <description>【Probably not, but there are some edge cases.】可能不会，但也有一些边缘情况。</description>
+      <pubDate>Thu, 02 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How is it possible to get ERROR_KEY_DELETED when I’m creating a key?】当我创建密钥时，怎么可能会出现ERROR_KEY_DELETED？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250101-00/?p=110700</link>
+      <description>【The key that got deleted is not the one you are trying to create.】被删除的密钥不是您尝试创建的密钥。</description>
+      <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
