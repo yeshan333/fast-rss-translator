@@ -16,34 +16,22 @@
       <pubDate>Fri, 03 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Grinch Bots strike again: defending your holidays from cyber threats】Grinch 机器人再次出击：保护您的假期免受网络威胁</title>
-      <link>https://blog.cloudflare.com/grinch-bot-2024/</link>
-      <description>【 Cloudflare observed a 4x increase in bot-related traffic on Black Friday in 2024. 29% of all traffic on our network on Black Friday was Grinch Bots wreaking holiday havoc. 】Cloudflare 观察到，2024 年黑色星期五与机器人相关的流量增加了 4 倍。黑色星期五我们网络上的所有流量中有 29% 是 Grinch 机器人造成的节日破坏。</description>
-      <pubDate>Mon, 23 Dec 2024 14:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【What’s new in Cloudflare: MASQUE now powers 1.1.1.1 &amp; WARP apps, DEX now generally available with Remote Captures】Cloudflare 的新增功能：MASQUE 现在支持 1.1.1.1 和 WARP 应用程序，DEX 现在普遍可用于远程捕获</title>
       <link>https://blog.cloudflare.com/masque-now-powers-1-1-1-1-and-warp-apps-dex-available-with-remote-captures/</link>
       <description>【 This roundup blog post shares the latest new features and capabilities at Cloudflare. 】这篇综述博客文章分享了 Cloudflare 的最新特性和功能。</description>
       <pubDate>Fri, 27 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Behind the scenes with Stream Live, Cloudflare’s live streaming service】Cloudflare 的直播流媒体服务 Stream Live 的幕后花絮</title>
-      <link>https://blog.cloudflare.com/behind-the-scenes-with-stream-live-cloudflares-live-streaming-service/</link>
-      <description>【 Let’s talk about Stream Live’s design, and how it leverages the distributed nature of Cloudflare’s network, rather than centralized locations as many other live services do. 】让我们谈谈 Stream Live 的设计，以及它如何利用 Cloudflare 网络的分布式特性，而不是像许多其他直播服务那样利用集中位置。</description>
-      <pubDate>Thu, 02 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Open sourcing h3i: a command line tool and library for low-level HTTP/3 testing and debugging】开源 h3i：用于低级 HTTP/3 测试和调试的命令行工具和库</title>
+      <link>https://blog.cloudflare.com/h3i/</link>
+      <description>【 h3i is a command line tool and Rust library designed for low-level testing and debugging of HTTP/3, which runs over QUIC. 】h3i 是一个命令行工具和 Rust 库，专为 HTTP/3 的低级测试和调试而设计，它在 QUIC 上运行。</description>
+      <pubDate>Mon, 30 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Global elections in 2024: Internet traffic and cyber threat trends】2024 年全球选举：互联网流量和网络威胁趋势</title>
-      <link>https://blog.cloudflare.com/elections-2024-internet/</link>
-      <description>【 In 2024, as elections took place across over 60 countries, the Internet became both a battleground for cyberattacks and a vital platform for democratic engagement. 】2024 年，随着 60 多个国家举行选举，互联网既成为网络攻击的战场，又成为民主参与的重要平台。</description>
-      <pubDate>Mon, 23 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【When the world logs off: Christmas, New Year’s, and the Internet’s holiday rhythm】当世界关闭时：圣诞节、新年和互联网的节日节奏</title>
-      <link>https://blog.cloudflare.com/when-the-world-logs-off-christmas-new-years-and-the-internets-holiday-rhythm/</link>
-      <description>【 From Christmas Eve dinners in Europe to New Year’s Eve countdowns in Asia, Cloudflare data reveals how global festivities have typically shaped Internet usage and cultural rhythms 】从欧洲的圣诞夜晚餐到亚洲的除夕倒计时，Cloudflare 数据揭示了全球庆祝活动通常如何影响互联网使用和文化节奏</description>
-      <pubDate>Tue, 24 Dec 2024 10:00:00 +0000</pubDate>
+      <title>【Grinch Bots strike again: defending your holidays from cyber threats】Grinch 机器人再次出击：保护您的假期免受网络威胁</title>
+      <link>https://blog.cloudflare.com/grinch-bot-2024/</link>
+      <description>【 Cloudflare observed a 4x increase in bot-related traffic on Black Friday in 2024. 29% of all traffic on our network on Black Friday was Grinch Bots wreaking holiday havoc. 】Cloudflare 观察到，2024 年黑色星期五与机器人相关的流量增加了 4 倍。黑色星期五我们网络上的所有流量中有 29% 是 Grinch 机器人造成的节日破坏。</description>
+      <pubDate>Mon, 23 Dec 2024 14:01:00 +0000</pubDate>
     </item>
     <item>
       <title>【Un experimento rápido: translating Cloudflare Stream captions with Workers AI】快速实验：使用 Workers AI 翻译 Cloudflare Stream 字幕</title>
@@ -52,16 +40,28 @@
       <pubDate>Tue, 24 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Behind the scenes with Stream Live, Cloudflare’s live streaming service】Cloudflare 的直播流媒体服务 Stream Live 的幕后花絮</title>
+      <link>https://blog.cloudflare.com/behind-the-scenes-with-stream-live-cloudflares-live-streaming-service/</link>
+      <description>【 Let’s talk about Stream Live’s design, and how it leverages the distributed nature of Cloudflare’s network, rather than centralized locations as many other live services do. 】让我们谈谈 Stream Live 的设计，以及它如何利用 Cloudflare 网络的分布式特性，而不是像许多其他直播服务那样利用集中位置。</description>
+      <pubDate>Thu, 02 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【The forecast is clear: clouds on e-paper, powered by the cloud】预测很明确：电子纸上的云，由云提供支持</title>
       <link>https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/</link>
       <description>【 Follow along as I build a custom weather display using Cloudflare Workers and a popular e-paper display. 】请跟随我使用 Cloudflare Workers 和流行的电子纸显示屏构建自定义天气显示。</description>
       <pubDate>Tue, 31 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Open sourcing h3i: a command line tool and library for low-level HTTP/3 testing and debugging】开源 h3i：用于低级 HTTP/3 测试和调试的命令行工具和库</title>
-      <link>https://blog.cloudflare.com/h3i/</link>
-      <description>【 h3i is a command line tool and Rust library designed for low-level testing and debugging of HTTP/3, which runs over QUIC. 】h3i 是一个命令行工具和 Rust 库，专为 HTTP/3 的低级测试和调试而设计，它在 QUIC 上运行。</description>
-      <pubDate>Mon, 30 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【When the world logs off: Christmas, New Year’s, and the Internet’s holiday rhythm】当世界关闭时：圣诞节、新年和互联网的节日节奏</title>
+      <link>https://blog.cloudflare.com/when-the-world-logs-off-christmas-new-years-and-the-internets-holiday-rhythm/</link>
+      <description>【 From Christmas Eve dinners in Europe to New Year’s Eve countdowns in Asia, Cloudflare data reveals how global festivities have typically shaped Internet usage and cultural rhythms 】从欧洲的圣诞夜晚餐到亚洲的除夕倒计时，Cloudflare 数据揭示了全球庆祝活动通常如何影响互联网使用和文化节奏</description>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Global elections in 2024: Internet traffic and cyber threat trends】2024 年全球选举：互联网流量和网络威胁趋势</title>
+      <link>https://blog.cloudflare.com/elections-2024-internet/</link>
+      <description>【 In 2024, as elections took place across over 60 countries, the Internet became both a battleground for cyberattacks and a vital platform for democratic engagement. 】2024 年，随着 60 多个国家举行选举，互联网既成为网络攻击的战场，又成为民主参与的重要平台。</description>
+      <pubDate>Mon, 23 Dec 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,22 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
+      <title>【Forcing an ERROR_KEY_DELETED error when trying to open HKEY_CURRENT_USER\Software】尝试打开 HKEY_CURRENT_USER\Software 时强制出现 ERROR_KEY_DELETED 错误</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250103-00/?p=110704</link>
+      <description>【Just an exercise to show that it can be done, even though it&#39;s highly unlikely to occur in practice.】只是一个练习，表明它可以完成，尽管它在实践中极不可能发生。</description>
+      <pubDate>Fri, 03 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unlocking insights with Meter Histogram in the profiler】使用分析器中的仪表直方图解锁见解</title>
+      <link>https://devblogs.microsoft.com/visualstudio/unlocking-insights-with-meter-histogram-in-the-profiler</link>
+      <description>【Are you struggling with performance bottlenecks in your applications? Look no further! Visual Studio 2022 introduces the Meter Histogram feature in its performance profiling suite, providing you with the tools to analyze and visualize histogram data like never before. The Meter Histogram is a key enhancement to Visual Studio&amp;#8217;s performance profiling suite. This feature enables [&amp;hellip;]】您是否正在为应用程序的性能瓶颈而苦苦挣扎？别再犹豫了！ Visual Studio 2022 在其性能分析套件中引入了 Meter Histogram 功能，为您提供前所未有的分析和可视化直方图数据的工具。仪表直方图是 Visual Studio 性能分析套件的重要增强功能。此功能使[...]</description>
+      <pubDate>Mon, 06 Jan 2025 13:00:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【探索Microsoft.Extensions.VectorData与Qdrant和Azure AI搜索的使用】探索Microsoft.Extensions.VectorData与Qdrant和Azure AI搜索的使用</title>
       <link>https://devblogs.microsoft.com/dotnet-ch/%e6%8e%a2%e7%b4%a2microsoft-extensions-vectordata%e4%b8%8eqdrant%e5%92%8cazure-ai%e6%90%9c%e7%b4%a2%e7%9a%84%e4%bd%bf%e7%94%a8</link>
       <description>【本文翻译自Bruno Capuano的Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search 了解如何使用 Microsoft.Extensions.VectorData并通过 Qdrant 和 Azure AI 搜索实现语义搜索。 使用 Microsoft.Extensions.VectorData 深入了解语义搜索：Qdrant 和 Azure AI 搜索 语义搜索正在改变应用程序查找和解释数据的方式，它专注于含义，而不仅仅是关键字匹配。随着 Microsoft.Extensions.VectorData 的发布，.NET 开发人员拥有了一组新的构建模块，用于将基于向量的搜索功能集成到其应用程序中。在本文中，我们将探讨使用本地Qdrant和Azure AI搜索这两种实现方式来进行语义搜索。 Microsoft.Extensions.VectorData 快速介绍 Microsoft.Extensions.VectorData 是一组 .NET代码库，旨在管理 .NET 应用程序中基于向量的数据。这些库为与向量存储交互提供了一个统一的 C# 抽象层，使开发人员能够有效地处理嵌入并执行向量相似性查询。 要详细了解该库的架构和功能，推荐阅读 Luis 的精彩博客文章。 在这篇博客文章中，我们将展示两个实际用例： 在本地使用 Qdrant 进行语义搜索。 利用 Azure AI 搜索进行企业级向量搜索。 要运行这些演示，您需要使用 Ollama 为生成嵌入提供的模型之一。在本示例中，使用的模型是 all-minilm。 安装 Ollama。 下载 all-minilm 模型。 准备一个符合 OCI 标准的容器运行时，例如： Docker Desktop 或 Podman。 使用 [&amp;hellip;]】本文翻译自Bruno Capuano的Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search 了解如何使用 Microsoft.Extensions.VectorData并通过 Qdrant 和 Azure AI 搜索实现语义搜索。 使用 Microsoft.Extensions.VectorData 深入了解语义搜索：Qdrant 和 Azure AI 搜索 语义搜索正在改变应用程序查找和解释数据的方式，它专注于含义，而不仅仅是关键字匹配。随着 Microsoft.Extensions.VectorData 的发布，.NET 开发人员拥有了一组新的构建模块，用于将基于向量的搜索功能集成到其应用程序中。在本文中，我们将探讨使用本地Qdrant和Azure AI搜索这两种实现方式来进行语义搜索。 Microsoft.Extensions.VectorData 快速介绍 Microsoft.Extensions.VectorData 是一组 .NET代码库，旨在管理 .NET 应用程序中基于向量的数据。这些库为与向量存储交互提供了一个统一的 C# 抽象层，使开发人员能够有效地处理嵌入并执行向量相似性查询。 要详细了解该库的架构和功能，推荐阅读 Luis 的精彩博客文章。 在这篇博客文章中，我们将展示两个实际用例： 在本地使用 Qdrant 进行语义搜索。 利用 Azure AI 搜索进行企业级向量搜索。 要运行这些演示，您需要使用 Ollama 为生成嵌入提供的模型之一。在本示例中，使用的模型是 all-minilm。 安装 Ollama。 下载 all-minilm 模型。 准备一个符合 OCI 标准的容器运行时，例如： Docker Desktop 或 Podman。 使用 […]</description>
       <pubDate>Fri, 03 Jan 2025 05:55:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Important: Switching CDN providers】重要提示：切换 CDN 提供商</title>
-      <link>https://devblogs.microsoft.com/devops/important-switching-cdn-providers</link>
-      <description>【The current content delivery network (CDN) provider Edgio, used by Azure DevOps is retiring. We&amp;#8217;re urgently transitioning to a solution served by Akamai and Azure Front Door CDNs to maintain the responsiveness of our services. What this means for you For most of you, this transition will be seamless. To ensure that you can continue [&amp;hellip;]】Azure DevOps 使用的当前内容交付网络 (CDN) 提供商 Edgio 即将退役。我们正在紧急过渡到由 Akamai 和 Azure Front Door CDN 提供的解决方案，以保持我们服务的响应能力。这对你们意味着什么 对于你们中的大多数人来说，这种转变将是无缝的。为了确保您可以继续[...]</description>
-      <pubDate>Sun, 05 Jan 2025 09:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Making sure the Microsoft Visual C++ compiler chooses the right source encoding】确保 Microsoft Visual C++ 编译器选择正确的源编码</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241231-00/?p=110696</link>
-      <description>【Making sure the file and settings are set correctly.】确保文件和设置设置正确。</description>
-      <pubDate>Tue, 31 Dec 2024 15:00:00 +0000</pubDate>
+      <title>【What’s New in vcpkg (December 2024)】vcpkg 的新增功能（2024 年 12 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-december-2024</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.12.16 registry release, 2024-12-09 tool release, as well as changes to vcpkg documentation throughout December. This release includes a command line option to force vcpkg to use classic mode even if a manifest file is found along with bug fixes. Some [&amp;hellip;]】本博文总结了作为 2024.12.16 注册表版本、2024-12-09 工具版本一部分的 vcpkg 包管理器的更改，以及整个 12 月份对 vcpkg 文档的更改。此版本包含一个命令行选项，用于强制 vcpkg 使用经典模式，即使发现了清单文件并修复了错误。一些 […]</description>
+      <pubDate>Mon, 06 Jan 2025 18:49:14 +0000</pubDate>
     </item>
     <item>
       <title>【2024 year-end link clearance】2024年终链接通关</title>
@@ -28,28 +34,22 @@
       <pubDate>Tue, 31 Dec 2024 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Dock the Code Search window in Visual Studio 2022】在 Visual Studio 2022 中停靠代码搜索窗口</title>
-      <link>https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022</link>
-      <description>【Ever felt frustrated with the search window cluttering your workspace? The latest feature in Visual Studio 2022 gives you more control over the behavior of the Code and Feature Search window, making your search experience smoother and more efficient. Some users have shared that the search window feels intrusive, interrupting your work by appearing mid-screen [&amp;hellip;]】您是否曾因搜索窗口让您的工作空间变得混乱而感到沮丧？ Visual Studio 2022 中的最新功能使您可以更好地控制代码和功能搜索窗口的行为，使您的搜索体验更流畅、更高效。一些用户表示，搜索窗口感觉具有侵入性，出现在屏幕中间，从而打断了您的工作 [...]</description>
-      <pubDate>Tue, 31 Dec 2024 13:00:22 +0000</pubDate>
+      <title>【How can I tell whether a change to a control was due to the user or due to my program?】我如何判断控件的更改是由于用户还是由于我的程序？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250106-00/?p=110715</link>
+      <description>【You know when it was done by your program because you did it.】你知道你的程序何时完成了它，因为你做到了。</description>
+      <pubDate>Mon, 06 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Top .NET Videos &amp; Live Streams of 2024】2024 年热门 .NET 视频和直播</title>
-      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024</link>
-      <description>【Let&#39;s take a look back at the amazing .NET videos, events, and live streams from 2024!】让我们回顾一下 2024 年令人惊叹的 .NET 视频、活动和直播！</description>
-      <pubDate>Mon, 30 Dec 2024 18:05:00 +0000</pubDate>
+      <title>【Important: Switching CDN providers】重要提示：切换 CDN 提供商</title>
+      <link>https://devblogs.microsoft.com/devops/important-switching-cdn-providers</link>
+      <description>【The current content delivery network (CDN) provider Edgio, used by Azure DevOps is retiring. We&amp;#8217;re urgently transitioning to a solution served by Akamai and Azure Front Door CDNs to maintain the responsiveness of our services. What this means for you For most of you, this transition will be seamless. To ensure that you can continue [&amp;hellip;]】Azure DevOps 使用的当前内容交付网络 (CDN) 提供商 Edgio 即将退役。我们正在紧急过渡到由 Akamai 和 Azure Front Door CDN 提供的解决方案，以保持我们服务的响应能力。这对你们意味着什么 对于你们中的大多数人来说，这种转变将是无缝的。为了确保您可以继续[...]</description>
+      <pubDate>Sun, 05 Jan 2025 09:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【How various git diff viewers represent file encoding changes in pull requests】各种 git diff 查看器如何表示拉取请求中的文件编码更改</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20241230-00/?p=110692</link>
-      <description>【The invisible UTF-8 BOM, and sometimes invisible encoding changes.】不可见的UTF-8 BOM，有时甚至是不可见的编码变化。</description>
-      <pubDate>Mon, 30 Dec 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Forcing an ERROR_KEY_DELETED error when trying to open HKEY_CURRENT_USER\Software】尝试打开 HKEY_CURRENT_USER\Software 时强制出现 ERROR_KEY_DELETED 错误</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250103-00/?p=110704</link>
-      <description>【Just an exercise to show that it can be done, even though it&#39;s highly unlikely to occur in practice.】只是一个练习，表明它可以完成，尽管它在实践中极不可能发生。</description>
-      <pubDate>Fri, 03 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【How is it possible to get ERROR_KEY_DELETED when I’m creating a key?】当我创建密钥时，怎么可能会出现ERROR_KEY_DELETED？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250101-00/?p=110700</link>
+      <description>【The key that got deleted is not the one you are trying to create.】被删除的密钥不是您尝试创建的密钥。</description>
+      <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Could I be getting ERROR_KEY_DELETED for HKEY_CURRENT_USER\Software when the user logs off?】当用户注销时，我是否会收到 HKEY_CURRENT_USER\Software 的 ERROR_KEY_DELETED 信息？</title>
@@ -58,10 +58,10 @@
       <pubDate>Thu, 02 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How is it possible to get ERROR_KEY_DELETED when I’m creating a key?】当我创建密钥时，怎么可能会出现ERROR_KEY_DELETED？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250101-00/?p=110700</link>
-      <description>【The key that got deleted is not the one you are trying to create.】被删除的密钥不是您尝试创建的密钥。</description>
-      <pubDate>Wed, 01 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Reducing personal access token (PAT) usage across Azure DevOps】减少 Azure DevOps 中的个人访问令牌 (PAT) 使用量</title>
+      <link>https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops</link>
+      <description>【In the new year, we’ll be making moves towards strengthening Microsoft and our customers&amp;#8217; security posture in regards to the usage and creation of personal access tokens (PATs). If you’ve been following this blog, you may have noticed we’ve been distancing away from PATs as the recommended authentication method for Azure DevOps APIs by offering [&amp;hellip;]】在新的一年里，我们将采取措施加强 Microsoft 和客户在使用和创建个人访问令牌 (PAT) 方面的安全状况。如果您一直在关注此博客，您可能已经注意到，我们已经通过提供 [...] 来远离将 PAT 作为 Azure DevOps API 的推荐身份验证方法。</description>
+      <pubDate>Mon, 06 Jan 2025 19:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
