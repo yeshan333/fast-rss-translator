@@ -5,18 +5,6 @@
     <description>A weekly newsletter to help you pass system design interview and become good at work</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
-      <title>【How Databases Keep Passwords Securely 🔒】数据库如何安全地保存密码🔒</title>
-      <link>https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database</link>
-      <description>【#61: Break Into Security Fundamentals (3 Minutes)】#61：深入了解安全基础知识（3 分钟）</description>
-      <pubDate>Mon, 18 Nov 2024 13:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Amazon S3 Works ✨】亚马逊 S3 的工作原理 ✨</title>
-      <link>https://newsletter.systemdesign.one/p/s3-architecture</link>
-      <description>【#59: Break Into Amazon Engineering (4 Minutes)】#59：深入了解亚马逊工程（4 分钟）</description>
-      <pubDate>Fri, 25 Oct 2024 12:28:30 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Google Ads Was Able to Support 4.77 Billion Users With a SQL Database 🔥】Google Ads 如何通过 SQL 数据库支持 47.7 亿用户🔥</title>
       <link>https://newsletter.systemdesign.one/p/cloud-spanner-database</link>
       <description>【#60: Break Into Google Spanner Architecture (5 Minutes)】#60：深入了解 Google Spanner 架构（5 分钟）</description>
@@ -29,10 +17,10 @@
       <pubDate>Fri, 11 Oct 2024 12:20:39 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Scale an App to 100 Million Users on GCP 🚀】如何在 GCP 上将应用程序扩展到 1 亿用户 🚀</title>
-      <link>https://newsletter.systemdesign.one/p/google-cloud-scalability</link>
-      <description>【#54: A Simple Guide to Scalability (7 minutes)】#54：可扩展性简单指南（7 分钟）</description>
-      <pubDate>Tue, 20 Aug 2024 12:28:57 +0000</pubDate>
+      <title>【How Amazon Lambda Works 🔥】亚马逊 Lambda 的工作原理 🔥</title>
+      <link>https://newsletter.systemdesign.one/p/how-does-aws-lambda-work</link>
+      <description>【#55: Break Into Amazon Engineering (6 Minutes)】#55：深入了解亚马逊工程（6 分钟）</description>
+      <pubDate>Tue, 03 Sep 2024 12:13:45 +0000</pubDate>
     </item>
     <item>
       <title>【Amazon Frugal Architecture Explained 💰】亚马逊节俭架构解释 💰</title>
@@ -41,16 +29,10 @@
       <pubDate>Sun, 15 Sep 2024 12:23:03 +0000</pubDate>
     </item>
     <item>
-      <title>【How Amazon Lambda Works 🔥】亚马逊 Lambda 的工作原理 🔥</title>
-      <link>https://newsletter.systemdesign.one/p/how-does-aws-lambda-work</link>
-      <description>【#55: Break Into Amazon Engineering (6 Minutes)】#55：深入了解亚马逊工程（6 分钟）</description>
-      <pubDate>Tue, 03 Sep 2024 12:13:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server ✨】Nginx 如何能够在单服务器上支持 100 万个并发连接 ✨</title>
-      <link>https://newsletter.systemdesign.one/p/how-does-nginx-work</link>
-      <description>【#62: Break Into Nginx Architecture (4 Minutes)】#62：深入 Nginx 架构（4 分钟）</description>
-      <pubDate>Wed, 04 Dec 2024 13:08:26 +0000</pubDate>
+      <title>【How Google Search Works 🔥】Google 搜索的工作原理 🔥</title>
+      <link>https://newsletter.systemdesign.one/p/search-engine-architecture</link>
+      <description>【#57: Break Into Google Search Engine Architecture (6 Minutes)】#57：闯入 Google 搜索引擎架构（6 分钟）</description>
+      <pubDate>Mon, 30 Sep 2024 12:27:36 +0000</pubDate>
     </item>
     <item>
       <title>【How Shopify Handled 30TB per Minute With a Modular Monolith Architecture 🔥】Shopify 如何使用模块化整体架构每分钟处理 30TB 🔥</title>
@@ -59,10 +41,28 @@
       <pubDate>Sun, 22 Dec 2024 13:15:24 +0000</pubDate>
     </item>
     <item>
-      <title>【How Google Search Works 🔥】Google 搜索的工作原理 🔥</title>
-      <link>https://newsletter.systemdesign.one/p/search-engine-architecture</link>
-      <description>【#57: Break Into Google Search Engine Architecture (6 Minutes)】#57：闯入 Google 搜索引擎架构（6 分钟）</description>
-      <pubDate>Mon, 30 Sep 2024 12:27:36 +0000</pubDate>
+      <title>【How Databases Keep Passwords Securely 🔒】数据库如何安全地保存密码🔒</title>
+      <link>https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database</link>
+      <description>【#61: Break Into Security Fundamentals (3 Minutes)】#61：深入了解安全基础知识（3 分钟）</description>
+      <pubDate>Mon, 18 Nov 2024 13:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server ✨】Nginx 如何能够在单服务器上支持 100 万个并发连接 ✨</title>
+      <link>https://newsletter.systemdesign.one/p/how-does-nginx-work</link>
+      <description>【#62: Break Into Nginx Architecture (4 Minutes)】#62：深入 Nginx 架构（4 分钟）</description>
+      <pubDate>Wed, 04 Dec 2024 13:08:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Amazon S3 Works ✨】亚马逊 S3 的工作原理 ✨</title>
+      <link>https://newsletter.systemdesign.one/p/s3-architecture</link>
+      <description>【#59: Break Into Amazon Engineering (4 Minutes)】#59：深入了解亚马逊工程（4 分钟）</description>
+      <pubDate>Fri, 25 Oct 2024 12:28:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Do AirTags Work 】AirTags 如何工作 </title>
+      <link>https://newsletter.systemdesign.one/p/how-do-airtags-work</link>
+      <description>【#64: A Simple Introduction to AirTags Architecture (3 Minutes)】#64：AirTags 架构简单介绍（3 分钟）</description>
+      <pubDate>Wed, 08 Jan 2025 13:17:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

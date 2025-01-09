@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Reducing personal access token (PAT) usage across Azure DevOps】减少 Azure DevOps 中的个人访问令牌 (PAT) 使用量</title>
-      <link>https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops</link>
-      <description>【In the new year, we’ll be making moves towards strengthening Microsoft and our customers&amp;#8217; security posture in regards to the usage and creation of personal access tokens (PATs). If you’ve been following this blog, you may have noticed we’ve been distancing away from PATs as the recommended authentication method for Azure DevOps APIs by offering [&amp;hellip;]】在新的一年里，我们将采取措施加强 Microsoft 和客户在使用和创建个人访问令牌 (PAT) 方面的安全状况。如果您一直在关注此博客，您可能已经注意到，我们已经通过提供 [...] 来远离将 PAT 作为 Azure DevOps API 的推荐身份验证方法。</description>
-      <pubDate>Mon, 06 Jan 2025 19:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Emergency power resets on Lenovo, HP, Dell, and Acer laptops】Lenovo、HP、Dell 和 Acer 笔记本电脑的紧急电源重置</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250107-00/?p=110719</link>
-      <description>【Looking for the magic button.】寻找神奇的按钮。</description>
-      <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【azd CDN changing January 2025】azd CDN 将于 2025 年 1 月发生变化</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-cdn-changing-january-2025</link>
-      <description>【This blog post makes customers aware of a critical Content Delivery Network (CDN) change for azd (the Azure Developer CLI) because the CDN provider is changing from Edgio to Azure Front Door.】此博文让客户了解 azd（Azure 开发人员 CLI）的关键内容交付网络 (CDN) 更改，因为 CDN 提供商正在从 Edgio 更改为 Azure Front Door。</description>
-      <pubDate>Tue, 07 Jan 2025 22:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【VS Code Java中的JavaC支持发布！】VS Code Java中的JavaC支持发布！</title>
-      <link>https://devblogs.microsoft.com/java-ch/visual-studio-code-java-javc</link>
-      <description>【大家新年好！我们很高兴宣布，Visual Studio Code Java、JDT 和 JDT-LS 现已部分支持使用 Javac 作为底层编译器。这项支持是红帽和微软经过近一年合作的成果。 此更改旨在确保对最新 Java 特性的及时支持，并使 VS Code 上的 Java 语言支持与常见构建工具（如 Maven、Gradle）更加一致。许多用户希望获得更无缝的开箱即用开发体验，我们相信引入 Javac 是实现这一目标的重要第一步。 用户可以从基于 Javac 的工具中获得以下好处： 更符合 Java 规范的编译器正确性 在 VS Code 和 Eclipse 中更快地支持新 Java 版本 减少 JDT 和 JDT-LS 团队的维护负担 更轻松地测试预览功能和尚未发布的 Java 版本 请注意，基于 Javac 的 JDT 是 ECJ 编译器的另一选项，并非要完全替代 ECJ。目前，VS Code Java 中的基于 Javac 的支持默认处于关闭状态，可以通过以下方式启用： [&amp;hellip;]】大家新年好！我们很高兴宣布，Visual Studio Code Java、JDT 和 JDT-LS 现已部分支持使用 Javac 作为底层编译器。这项支持是红帽和微软经过近一年合作的成果。 此更改旨在确保对最新 Java 特性的及时支持，并使 VS Code 上的 Java 语言支持与常见构建工具（如 Maven、Gradle）更加一致。许多用户希望获得更无缝的开箱即用开发体验，我们相信引入 Javac 是实现这一目标的重要第一步。 用户可以从基于 Javac 的工具中获得以下好处： 更符合 Java 规范的编译器正确性 在 VS Code 和 Eclipse 中更快地支持新 Java 版本 减少 JDT 和 JDT-LS 团队的维护负担 更轻松地测试预览功能和尚未发布的 Java 版本 请注意，基于 Javac 的 JDT 是 ECJ 编译器的另一选项，并非要完全替代 ECJ。目前，VS Code Java 中的基于 Javac 的支持默认处于关闭状态，可以通过以下方式启用： […]</description>
-      <pubDate>Tue, 07 Jan 2025 08:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in vcpkg (December 2024)】vcpkg 的新增功能（2024 年 12 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-december-2024</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2024.12.16 registry release, 2024-12-09 tool release, as well as changes to vcpkg documentation throughout December. This release includes a command line option to force vcpkg to use classic mode even if a manifest file is found along with bug fixes. Some [&amp;hellip;]】本博文总结了作为 2024.12.16 注册表版本、2024-12-09 工具版本一部分的 vcpkg 包管理器的更改，以及整个 12 月份对 vcpkg 文档的更改。此版本包含一个命令行选项，用于强制 vcpkg 使用经典模式，即使发现了清单文件并修复了错误。一些 […]</description>
-      <pubDate>Mon, 06 Jan 2025 18:49:14 +0000</pubDate>
+      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 1】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 1 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250108-00/?p=110732</link>
+      <description>【Waiting on a single pointer, but checking for two.】等待一个指针，但检查两个指针​​。</description>
+      <pubDate>Wed, 08 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Gesellschaft zur Stärkung der Verben: The German Society for the Irregularization of Verbs】动词强化学会：德国动词不规则化学会</title>
@@ -40,16 +16,22 @@
       <pubDate>Tue, 07 Jan 2025 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Benchmarking with Visual Studio Profiler】使用 Visual Studio Profiler 进行基准测试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/benchmarking-with-visual-studio-profiler</link>
-      <description>【In Visual Studio 17.13 Preview we have released our updated BenchmarkDotNet diagnosers, allowing you to use more of the tools in the performance profiler to analyze benchmarks. With this change it is super quick to dig into CPU usage and allocations of benchmarks making the measure, change, measure cycle quick and efficient. Benchmarking a real [&amp;hellip;]】在 Visual Studio 17.13 预览版中，我们发布了更新的 BenchmarkDotNet 诊断程序，允许您使用性能分析器中的更多工具来分析基准。通过此更改，可以非常快速地深入了解 CPU 使用情况和基准分配，从而使测量、更改、测量周期快速高效。基准测试真实的[...]</description>
-      <pubDate>Tue, 07 Jan 2025 13:00:08 +0000</pubDate>
+      <title>【Important Update: blog migration to quantum.microsoft.com】重要更新：博客迁移到Quantum.microsoft.com</title>
+      <link>https://devblogs.microsoft.com/qsharp/important-update-blog-migration-to-quantum-microsoft-com</link>
+      <description>【We are excited to announce that the Q# blog will be migrating to a new home at Azure Quantum in Feb 2025. This move will allow us to provide you with a more integrated and enhanced experience, featuring the latest updates and resources in the world of quantum computing. Stay tuned for more details and [&amp;hellip;]】我们很高兴地宣布，Q# 博客将于 2025 年 2 月迁移到 Azure Quantum 的新家。此举将使我们能够为您提供更加集成和增强的体验，其中包括世界各地的最新更新和资源。量子计算。请继续关注更多详细信息和 [...]</description>
+      <pubDate>Tue, 07 Jan 2025 21:06:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Enabling Neural Rendering in DirectX: Cooperative Vector Support Coming Soon】在 DirectX 中启用神经渲染：协作矢量支持即将推出</title>
-      <link>https://devblogs.microsoft.com/directx/enabling-neural-rendering-in-directx-cooperative-vector-support-coming-soon</link>
-      <description>【Neural Rendering: A New Paradigm in 3D Graphics Programming In the constantly advancing landscape of 3D graphics, neural rendering technology represents a significant evolution. Neural rendering broadly defines the suite of techniques that leverage AI/ML to dramatically transform traditional graphics pipelines. These new methods promise to push the boundaries of what’s possible in real-time graphics. [&amp;hellip;]】神经渲染：3D 图形编程的新范式 在不断发展的 3D 图形领域，神经渲染技术代表了重大发展。神经渲染广泛地定义了一套利用 AI/ML 来显着改变传统图形管道的技术。这些新方法有望突破实时图形的可能性界限。 […]</description>
-      <pubDate>Tue, 07 Jan 2025 04:00:29 +0000</pubDate>
+      <title>【Building a RAG-Based Smart Memory Application with Azure SQL Database】使用 Azure SQL 数据库构建基于 RAG 的智能内存应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sql/building-a-rag-based-smart-memory-application-with-azure-sql-database</link>
+      <description>【Project Mission The way people work and manage information is changing rapidly in our digital age. More and more people are struggling to keep track of all the online resources they use daily. They need a better way to save, organize, and retrieve important information from websites, articles, and other online sources. This is especially [&amp;hellip;]】项目使命 在数字时代，人们工作和管理信息的方式正在迅速变化。越来越多的人正在努力跟踪他们每天使用的所有在线资源。他们需要一种更好的方法来保存、组织和检索网站、文章和其他在线资源中的重要信息。这尤其是[…]</description>
+      <pubDate>Wed, 08 Jan 2025 17:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Free Plan Support for GitHub Copilot Available on JetBrains IDEs】JetBrains IDE 上提供对 GitHub Copilot 的免费计划支持</title>
+      <link>https://devblogs.microsoft.com/java/free-plan-support-for-github-copilot-available-on-jetbrains-ides</link>
+      <description>【Hello, developers! Welcome to our very first blog post dedicated to GitHub Copilot Plugin for JetBrains IDEs in 2025. We are excited to share that the new Free Plan for GitHub Copilot has been available for everyone on JetBrains IDEs! Whether you use IntelliJ IDEA (Ultimate, Community, Educational), PyCharm(Professional, Community, Educational), WebStorm, PhpStorm, Rider, or [&amp;hellip;]】开发者们大家好！欢迎来到我们第一篇专门介绍 2025 年适用于 JetBrains IDE 的 GitHub Copilot 插件的博客文章。我们很高兴与大家分享，JetBrains IDE 上的每个人都可以使用新的 GitHub Copilot 免费计划！无论您使用 IntelliJ IDEA（终极版、社区版、教育版）、PyCharm（专业版、社区版、教育版）、WebStorm、PhpStorm、Rider 还是 [...]</description>
+      <pubDate>Wed, 08 Jan 2025 08:01:30 +0000</pubDate>
     </item>
     <item>
       <title>【.NET Aspire Quick Tip – Managing Container &amp; Data Lifetime】.NET Aspire 快速提示 – 管理容器和数据生命周期</title>
@@ -58,10 +40,28 @@
       <pubDate>Tue, 07 Jan 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Important Update: blog migration to quantum.microsoft.com】重要更新：博客迁移到Quantum.microsoft.com</title>
-      <link>https://devblogs.microsoft.com/qsharp/important-update-blog-migration-to-quantum-microsoft-com</link>
-      <description>【We are excited to announce that the Q# blog will be migrating to a new home at Azure Quantum in Feb 2025. This move will allow us to provide you with a more integrated and enhanced experience, featuring the latest updates and resources in the world of quantum computing. Stay tuned for more details and [&amp;hellip;]】我们很高兴地宣布，Q# 博客将于 2025 年 2 月迁移到 Azure Quantum 的新家。此举将使我们能够为您提供更加集成和增强的体验，其中包括世界各地的最新更新和资源。量子计算。请继续关注更多详细信息和 [...]</description>
-      <pubDate>Tue, 07 Jan 2025 21:06:07 +0000</pubDate>
+      <title>【SQL Server Native Vector Search for .NET Developers】面向 .NET 开发人员的 SQL Server 本机矢量搜索</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-server-native-vector-search-for-net-developers</link>
+      <description>【It seems that the majority of developers naturally believe this field of software development belongs to mathematics and Python developers, who originally started building the first solutions. However, .NET and C# provide a great foundation for building almost any kind of application on any platform in a highly professional way. In this post, we will [&amp;hellip;]】似乎大多数开发人员自然地认为这个软件开发领域属于数学和 Python 开发人员，他们最初开始构建第一个解决方案。然而，.NET 和 C# 为以高度专业的方式在任何平台上构建几乎任何类型的应用程序提供了良好的基础。在这篇文章中，我们将[...]</description>
+      <pubDate>Wed, 08 Jan 2025 17:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Benchmarking with Visual Studio Profiler】使用 Visual Studio Profiler 进行基准测试</title>
+      <link>https://devblogs.microsoft.com/visualstudio/benchmarking-with-visual-studio-profiler</link>
+      <description>【In Visual Studio 17.13 Preview we have released our updated BenchmarkDotNet diagnosers, allowing you to use more of the tools in the performance profiler to analyze benchmarks. With this change it is super quick to dig into CPU usage and allocations of benchmarks making the measure, change, measure cycle quick and efficient. Benchmarking a real [&amp;hellip;]】在 Visual Studio 17.13 预览版中，我们发布了更新的 BenchmarkDotNet 诊断程序，允许您使用性能分析器中的更多工具来分析基准。通过此更改，可以非常快速地深入了解 CPU 使用情况和基准分配，从而使测量、更改、测量周期快速高效。基准测试真实的[...]</description>
+      <pubDate>Tue, 07 Jan 2025 13:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【azd CDN changing January 2025】azd CDN 将于 2025 年 1 月发生变化</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azd-cdn-changing-january-2025</link>
+      <description>【This blog post makes customers aware of a critical Content Delivery Network (CDN) change for azd (the Azure Developer CLI) because the CDN provider is changing from Edgio to Azure Front Door.】此博文让客户了解 azd（Azure 开发人员 CLI）的关键内容交付网络 (CDN) 更改，因为 CDN 提供商正在从 Edgio 更改为 Azure Front Door。</description>
+      <pubDate>Tue, 07 Jan 2025 22:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Emergency power resets on Lenovo, HP, Dell, and Acer laptops】Lenovo、HP、Dell 和 Acer 笔记本电脑的紧急电源重置</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250107-00/?p=110719</link>
+      <description>【Looking for the magic button.】寻找神奇的按钮。</description>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
