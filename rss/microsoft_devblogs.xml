@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 1】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 1 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250108-00/?p=110732</link>
-      <description>【Waiting on a single pointer, but checking for two.】等待一个指针，但检查两个指针​​。</description>
-      <pubDate>Wed, 08 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Gesellschaft zur Stärkung der Verben: The German Society for the Irregularization of Verbs】动词强化学会：德国动词不规则化学会</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250107-01/?p=110724</link>
-      <description>【Stand strong and proud.】坚强而自豪。</description>
-      <pubDate>Tue, 07 Jan 2025 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Important Update: blog migration to quantum.microsoft.com】重要更新：博客迁移到Quantum.microsoft.com</title>
-      <link>https://devblogs.microsoft.com/qsharp/important-update-blog-migration-to-quantum-microsoft-com</link>
-      <description>【We are excited to announce that the Q# blog will be migrating to a new home at Azure Quantum in Feb 2025. This move will allow us to provide you with a more integrated and enhanced experience, featuring the latest updates and resources in the world of quantum computing. Stay tuned for more details and [&amp;hellip;]】我们很高兴地宣布，Q# 博客将于 2025 年 2 月迁移到 Azure Quantum 的新家。此举将使我们能够为您提供更加集成和增强的体验，其中包括世界各地的最新更新和资源。量子计算。请继续关注更多详细信息和 [...]</description>
-      <pubDate>Tue, 07 Jan 2025 21:06:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a RAG-Based Smart Memory Application with Azure SQL Database】使用 Azure SQL 数据库构建基于 RAG 的智能内存应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-sql/building-a-rag-based-smart-memory-application-with-azure-sql-database</link>
-      <description>【Project Mission The way people work and manage information is changing rapidly in our digital age. More and more people are struggling to keep track of all the online resources they use daily. They need a better way to save, organize, and retrieve important information from websites, articles, and other online sources. This is especially [&amp;hellip;]】项目使命 在数字时代，人们工作和管理信息的方式正在迅速变化。越来越多的人正在努力跟踪他们每天使用的所有在线资源。他们需要一种更好的方法来保存、组织和检索网站、文章和其他在线资源中的重要信息。这尤其是[…]</description>
-      <pubDate>Wed, 08 Jan 2025 17:00:27 +0000</pubDate>
+      <title>【azd CDN changing January 2025】azd CDN 将于 2025 年 1 月发生变化</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azd-cdn-changing-january-2025</link>
+      <description>【This blog post makes customers aware of a critical Content Delivery Network (CDN) change for azd (the Azure Developer CLI) because the CDN provider is changing from Edgio to Azure Front Door.】此博文让客户了解 azd（Azure 开发人员 CLI）的关键内容交付网络 (CDN) 更改，因为 CDN 提供商正在从 Edgio 更改为 Azure Front Door。</description>
+      <pubDate>Tue, 07 Jan 2025 22:22:35 +0000</pubDate>
     </item>
     <item>
       <title>【Free Plan Support for GitHub Copilot Available on JetBrains IDEs】JetBrains IDE 上提供对 GitHub Copilot 的免费计划支持</title>
@@ -34,10 +16,28 @@
       <pubDate>Wed, 08 Jan 2025 08:01:30 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET Aspire Quick Tip – Managing Container &amp; Data Lifetime】.NET Aspire 快速提示 – 管理容器和数据生命周期</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime</link>
-      <description>【.NET Aspire 9 adds new control over the lifetime of containers on your local developer environment. Let&#39;s look at how to manage them with the new APIs!】.NET Aspire 9 添加了对本地开发人员环境中容器生命周期的新控制。让我们看看如何使用新的 API 来管理它们！</description>
-      <pubDate>Tue, 07 Jan 2025 18:05:00 +0000</pubDate>
+      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 1】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 1 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250108-00/?p=110732</link>
+      <description>【Waiting on a single pointer, but checking for two.】等待一个指针，但检查两个指针​​。</description>
+      <pubDate>Wed, 08 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 2】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250109-00/?p=110738</link>
+      <description>【Digging into the libstdc++ implementation.】深入研究 libstdc++ 实现。</description>
+      <pubDate>Thu, 09 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a RAG-Based Smart Memory Application with Azure SQL Database】使用 Azure SQL 数据库构建基于 RAG 的智能内存应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sql/building-a-rag-based-smart-memory-application-with-azure-sql-database</link>
+      <description>【Project Mission The way people work and manage information is changing rapidly in our digital age. More and more people are struggling to keep track of all the online resources they use daily. They need a better way to save, organize, and retrieve important information from websites, articles, and other online sources. This is especially [&amp;hellip;]】项目使命 在数字时代，人们工作和管理信息的方式正在迅速变化。越来越多的人正在努力跟踪他们每天使用的所有在线资源。他们需要一种更好的方法来保存、组织和检索网站、文章和其他在线资源中的重要信息。这尤其是[…]</description>
+      <pubDate>Wed, 08 Jan 2025 17:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Empowering AI Agents with Tools via OpenAPI: A Hands-On Guide with Microsoft Semantic Kernel Agents】通过 OpenAPI 使用工具为 AI 代理提供支持：Microsoft 语义内核代理实践指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/empowering-ai-agents-with-tools-via-openapi-a-hands-on-guide-with-microsoft-semantic-kernel-agents</link>
+      <description>【Today the Semantic Kernel team is happy to welcome back our guest author, Akshay Kokane. We will turn it over to him to dive into his recent Medium article on Semantic Kernel. As we advance towards an Agentic Approach in the AI world, I would like to share my insights on how Semantic Kernel can [&amp;hellip;]】今天，语义内核团队很高兴地欢迎我们的客座作者 Akshay Kokane 回来。我们将把它交给他，深入研究他最近在 Medium 上发表的有关语义内核的文章。随着我们在人工智能世界中迈向代理方法，我想分享我对语义内核如何[...]的见解</description>
+      <pubDate>Thu, 09 Jan 2025 22:43:35 +0000</pubDate>
     </item>
     <item>
       <title>【SQL Server Native Vector Search for .NET Developers】面向 .NET 开发人员的 SQL Server 本机矢量搜索</title>
@@ -46,22 +46,22 @@
       <pubDate>Wed, 08 Jan 2025 17:12:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Benchmarking with Visual Studio Profiler】使用 Visual Studio Profiler 进行基准测试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/benchmarking-with-visual-studio-profiler</link>
-      <description>【In Visual Studio 17.13 Preview we have released our updated BenchmarkDotNet diagnosers, allowing you to use more of the tools in the performance profiler to analyze benchmarks. With this change it is super quick to dig into CPU usage and allocations of benchmarks making the measure, change, measure cycle quick and efficient. Benchmarking a real [&amp;hellip;]】在 Visual Studio 17.13 预览版中，我们发布了更新的 BenchmarkDotNet 诊断程序，允许您使用性能分析器中的更多工具来分析基准。通过此更改，可以非常快速地深入了解 CPU 使用情况和基准分配，从而使测量、更改、测量周期快速高效。基准测试真实的[...]</description>
-      <pubDate>Tue, 07 Jan 2025 13:00:08 +0000</pubDate>
+      <title>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio】探索要点：使用 Microsoft Copilot Studio 构建基础知识</title>
+      <link>https://devblogs.microsoft.com/powerplatform/exploring-the-essentials-building-basics-with-microsoft-copilot-studio</link>
+      <description>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio Don’t know how to start with building an agent in Microsoft Copilot Studio? We’ve got you covered! In our AI in Action: Building with Copilot Studio series on the Microsoft Power Platform YouTube channel, we have several episodes that guide you through how to get started [&amp;hellip;]】探索要点：使用 Microsoft Copilot Studio 构建基础知识 不知道如何开始在 Microsoft Copilot Studio 中构建代理？我们已经为您提供了保障！在 Microsoft Power Platform YouTube 频道上的《AI 实际行动：使用 Copilot Studio 进行构建》系列中，我们有几集可指导您如何开始使用 [...]</description>
+      <pubDate>Thu, 09 Jan 2025 22:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>【azd CDN changing January 2025】azd CDN 将于 2025 年 1 月发生变化</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-cdn-changing-january-2025</link>
-      <description>【This blog post makes customers aware of a critical Content Delivery Network (CDN) change for azd (the Azure Developer CLI) because the CDN provider is changing from Edgio to Azure Front Door.】此博文让客户了解 azd（Azure 开发人员 CLI）的关键内容交付网络 (CDN) 更改，因为 CDN 提供商正在从 Edgio 更改为 Azure Front Door。</description>
-      <pubDate>Tue, 07 Jan 2025 22:22:35 +0000</pubDate>
+      <title>【MWA pattern: Strangler Fig】MWA图案：绞杀者无花果</title>
+      <link>https://devblogs.microsoft.com/java/mwa-pattern-strangler-fig</link>
+      <description>【Author’s Note: After announcing the Modern Web App (MWA) pattern (https://devblogs.microsoft.com/java/introducing-the-modern-web-app-mwa-pattern-for-java), we now focus on one of its many pattens &amp;#8211; the Strangler Fig pattern. This pattern incrementally modernizes a legacy Java application by “strangling” targeted areas and replacing them with new microservices or minimal web apps. We’ll explore an example showing how to integrate [&amp;hellip;]】作者注：在宣布现代 Web 应用程序 (MWA) 模式 (https://devblogs.microsoft.com/java/introducing-the-modern-web-app-mwa-pattern-for-java) 后，我们现在关注一个其众多图案中的一个——绞杀者无花果图案。这种模式通过“扼杀”目标区域并用新的微服务或最小的 Web 应用程序替换它们，逐步实现遗留 Java 应用程序的现代化。我们将探索一个示例，展示如何集成[...]</description>
+      <pubDate>Thu, 09 Jan 2025 13:16:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Emergency power resets on Lenovo, HP, Dell, and Acer laptops】Lenovo、HP、Dell 和 Acer 笔记本电脑的紧急电源重置</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250107-00/?p=110719</link>
-      <description>【Looking for the magic button.】寻找神奇的按钮。</description>
-      <pubDate>Tue, 07 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Teams Toolkit for Visual Studio Code update – January 2025】Teams Toolkit for Visual Studio Code 更新 – 2025 年 1 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2025</link>
+      <description>【We’re kicking off the new year with exciting updates to Teams Toolkit for Visual Studio Code including a refreshed user interface for getting started and more!】我们以 Teams Toolkit for Visual Studio Code 的激动人心的更新来拉开新的一年的序幕，其中包括用于入门的全新用户界面等等！</description>
+      <pubDate>Thu, 09 Jan 2025 17:46:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
