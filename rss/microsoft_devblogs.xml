@@ -4,34 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【azd CDN changing January 2025】azd CDN 将于 2025 年 1 月发生变化</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-cdn-changing-january-2025</link>
-      <description>【This blog post makes customers aware of a critical Content Delivery Network (CDN) change for azd (the Azure Developer CLI) because the CDN provider is changing from Edgio to Azure Front Door.】此博文让客户了解 azd（Azure 开发人员 CLI）的关键内容交付网络 (CDN) 更改，因为 CDN 提供商正在从 Edgio 更改为 Azure Front Door。</description>
-      <pubDate>Tue, 07 Jan 2025 22:22:35 +0000</pubDate>
+      <title>【通过 .NET Aspire 使用本地 AI 模型】通过 .NET Aspire 使用本地 AI 模型</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e9%80%9a%e8%bf%87-net-aspire-%e4%bd%bf%e7%94%a8%e6%9c%ac%e5%9c%b0-ai-%e6%a8%a1%e5%9e%8b</link>
+      <description>【本文翻译自Aaron Powell的Using Local AI models with .NET Aspire 使用本地 AI 模型是在您自己的计算机上进行实验的一个很好的方法，它无需将资源部署到云中。在本文中，我们将了解如何使用.NET Aspire 和 Ollama 在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。 在 .NET Aspire 中设置 Ollama 我们需要某种方法来从 .NET Aspire 应用程序中使用 Ollama，最简单的方法就是使用 .NET Aspire 社区工具包中的 Ollama 托管集成。您可以通过 Visual Studio 工具、VS Code 工具或 .NET CLI 从 NuGet 安装 Ollama 托管集成。让我们看一下如何通过命令行将 Ollama 托管集成安装到我们的应用程序主机项目中： dotnet add package CommunityToolkit.Aspire.Hosting.Ollama 安装 Ollama 托管集成后，您可以在 Program.cs [&amp;hellip;]】本文翻译自Aaron Powell的Using Local AI models with .NET Aspire 使用本地 AI 模型是在您自己的计算机上进行实验的一个很好的方法，它无需将资源部署到云中。在本文中，我们将了解如何使用.NET Aspire 和 Ollama 在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。 在 .NET Aspire 中设置 Ollama 我们需要某种方法来从 .NET Aspire 应用程序中使用 Ollama，最简单的方法就是使用 .NET Aspire 社区工具包中的 Ollama 托管集成。您可以通过 Visual Studio 工具、VS Code 工具或 .NET CLI 从 NuGet 安装 Ollama 托管集成。让我们看一下如何通过命令行将 Ollama 托管集成安装到我们的应用程序主机项目中： dotnet add package CommunityToolkit.Aspire.Hosting.Ollama 安装 Ollama 托管集成后，您可以在 Program.cs […]</description>
+      <pubDate>Fri, 10 Jan 2025 06:50:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Free Plan Support for GitHub Copilot Available on JetBrains IDEs】JetBrains IDE 上提供对 GitHub Copilot 的免费计划支持</title>
-      <link>https://devblogs.microsoft.com/java/free-plan-support-for-github-copilot-available-on-jetbrains-ides</link>
-      <description>【Hello, developers! Welcome to our very first blog post dedicated to GitHub Copilot Plugin for JetBrains IDEs in 2025. We are excited to share that the new Free Plan for GitHub Copilot has been available for everyone on JetBrains IDEs! Whether you use IntelliJ IDEA (Ultimate, Community, Educational), PyCharm(Professional, Community, Educational), WebStorm, PhpStorm, Rider, or [&amp;hellip;]】开发者们大家好！欢迎来到我们第一篇专门介绍 2025 年适用于 JetBrains IDE 的 GitHub Copilot 插件的博客文章。我们很高兴与大家分享，JetBrains IDE 上的每个人都可以使用新的 GitHub Copilot 免费计划！无论您使用 IntelliJ IDEA（终极版、社区版、教育版）、PyCharm（专业版、社区版、教育版）、WebStorm、PhpStorm、Rider 还是 [...]</description>
-      <pubDate>Wed, 08 Jan 2025 08:01:30 +0000</pubDate>
+      <title>【Teams Toolkit for Visual Studio Code update – January 2025】Teams Toolkit for Visual Studio Code 更新 – 2025 年 1 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2025</link>
+      <description>【We’re kicking off the new year with exciting updates to Teams Toolkit for Visual Studio Code including a refreshed user interface for getting started and more!】我们以 Teams Toolkit for Visual Studio Code 的激动人心的更新来拉开新的一年的序幕，其中包括用于入门的全新用户界面等等！</description>
+      <pubDate>Thu, 09 Jan 2025 17:46:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 1】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 1 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250108-00/?p=110732</link>
-      <description>【Waiting on a single pointer, but checking for two.】等待一个指针，但检查两个指针​​。</description>
-      <pubDate>Wed, 08 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio】探索要点：使用 Microsoft Copilot Studio 构建基础知识</title>
+      <link>https://devblogs.microsoft.com/powerplatform/exploring-the-essentials-building-basics-with-microsoft-copilot-studio</link>
+      <description>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio Don’t know how to start with building an agent in Microsoft Copilot Studio? We’ve got you covered! In our AI in Action: Building with Copilot Studio series on the Microsoft Power Platform YouTube channel, we have several episodes that guide you through how to get started [&amp;hellip;]】探索要点：使用 Microsoft Copilot Studio 构建基础知识 不知道如何开始在 Microsoft Copilot Studio 中构建代理？我们已经为您提供了保障！在 Microsoft Power Platform YouTube 频道上的“AI 实际行动：使用 Copilot Studio 进行构建”系列中，我们有几集可指导您如何开始使用 [...]</description>
+      <pubDate>Thu, 09 Jan 2025 22:21:37 +0000</pubDate>
     </item>
     <item>
       <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 2】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 2 部分</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250109-00/?p=110738</link>
       <description>【Digging into the libstdc++ implementation.】深入研究 libstdc++ 实现。</description>
       <pubDate>Thu, 09 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a RAG-Based Smart Memory Application with Azure SQL Database】使用 Azure SQL 数据库构建基于 RAG 的智能内存应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-sql/building-a-rag-based-smart-memory-application-with-azure-sql-database</link>
-      <description>【Project Mission The way people work and manage information is changing rapidly in our digital age. More and more people are struggling to keep track of all the online resources they use daily. They need a better way to save, organize, and retrieve important information from websites, articles, and other online sources. This is especially [&amp;hellip;]】项目使命 在数字时代，人们工作和管理信息的方式正在迅速变化。越来越多的人正在努力跟踪他们每天使用的所有在线资源。他们需要一种更好的方法来保存、组织和检索网站、文章和其他在线资源中的重要信息。这尤其是[…]</description>
-      <pubDate>Wed, 08 Jan 2025 17:00:27 +0000</pubDate>
     </item>
     <item>
       <title>【Empowering AI Agents with Tools via OpenAPI: A Hands-On Guide with Microsoft Semantic Kernel Agents】通过 OpenAPI 使用工具为 AI 代理提供支持：Microsoft 语义内核代理实践指南</title>
@@ -46,22 +40,28 @@
       <pubDate>Wed, 08 Jan 2025 17:12:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio】探索要点：使用 Microsoft Copilot Studio 构建基础知识</title>
-      <link>https://devblogs.microsoft.com/powerplatform/exploring-the-essentials-building-basics-with-microsoft-copilot-studio</link>
-      <description>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio Don’t know how to start with building an agent in Microsoft Copilot Studio? We’ve got you covered! In our AI in Action: Building with Copilot Studio series on the Microsoft Power Platform YouTube channel, we have several episodes that guide you through how to get started [&amp;hellip;]】探索要点：使用 Microsoft Copilot Studio 构建基础知识 不知道如何开始在 Microsoft Copilot Studio 中构建代理？我们已经为您提供了保障！在 Microsoft Power Platform YouTube 频道上的《AI 实际行动：使用 Copilot Studio 进行构建》系列中，我们有几集可指导您如何开始使用 [...]</description>
-      <pubDate>Thu, 09 Jan 2025 22:21:37 +0000</pubDate>
+      <title>【Announcing the Public Preview of Apple Identity Provider Support for Microsoft Entra External ID】宣布 Apple 身份提供商支持 Microsoft Entra 外部 ID 公开预览版</title>
+      <link>https://devblogs.microsoft.com/identity/openid-connect-social-identity-provider-apple</link>
+      <description>【Announcing the public preview of &#34;Sign in with Apple&#34; support for Microsoft Entra External ID. This feature allows users to sign up and sign in to applications using their Apple ID. Apple joins Google and Facebook as pre-configured social identity providers, supporting Single Sign-On (SSO) through the OAuth framework.】宣布推出对 Microsoft Entra 外部 ID 的“使用 Apple 登录”支持的公开预览版。此功能允许用户使用其 Apple ID 注册并登录应用程序。 Apple 与 Google 和 Facebook 一起成为预配置的社交身份提供商，通过 OAuth 框架支持单点登录 (SSO)。</description>
+      <pubDate>Fri, 10 Jan 2025 12:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>【MWA pattern: Strangler Fig】MWA图案：绞杀者无花果</title>
+      <title>【MWA pattern: Strangler Fig】MWA图案：扼杀者无花果</title>
       <link>https://devblogs.microsoft.com/java/mwa-pattern-strangler-fig</link>
       <description>【Author’s Note: After announcing the Modern Web App (MWA) pattern (https://devblogs.microsoft.com/java/introducing-the-modern-web-app-mwa-pattern-for-java), we now focus on one of its many pattens &amp;#8211; the Strangler Fig pattern. This pattern incrementally modernizes a legacy Java application by “strangling” targeted areas and replacing them with new microservices or minimal web apps. We’ll explore an example showing how to integrate [&amp;hellip;]】作者注：在宣布现代 Web 应用程序 (MWA) 模式 (https://devblogs.microsoft.com/java/introducing-the-modern-web-app-mwa-pattern-for-java) 后，我们现在关注一个其众多图案中的一个——绞杀者无花果图案。这种模式通过“扼杀”目标区域并用新的微服务或最小的 Web 应用程序替换它们，逐步实现遗留 Java 应用程序的现代化。我们将探索一个示例，展示如何集成[...]</description>
       <pubDate>Thu, 09 Jan 2025 13:16:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Teams Toolkit for Visual Studio Code update – January 2025】Teams Toolkit for Visual Studio Code 更新 – 2025 年 1 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2025</link>
-      <description>【We’re kicking off the new year with exciting updates to Teams Toolkit for Visual Studio Code including a refreshed user interface for getting started and more!】我们以 Teams Toolkit for Visual Studio Code 的激动人心的更新来拉开新的一年的序幕，其中包括用于入门的全新用户界面等等！</description>
-      <pubDate>Thu, 09 Jan 2025 17:46:10 +0000</pubDate>
+      <title>【Why does inadvertently passing a std::string instead of a char const* to a variadic function crash on x86-32 but not x86-64?】为什么无意中将 std::string 而不是 char const* 传递给可变参数函数会在 x86-32 上崩溃，但在 x86-64 上不会崩溃？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250110-00/?p=110744</link>
+      <description>【Looking at the calling convention and the small string optimization.】查看调用约定和小字符串优化。</description>
+      <pubDate>Fri, 10 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【LLMOps in restricted networks and addressing continuous evaluation long run constraints】受限网络中的 LLMOps 和解决持续评估长期约束</title>
+      <link>https://devblogs.microsoft.com/ise/llmops-in-restricted-networks-and-continuous-evaluation-long-run-constraints</link>
+      <description>【In this blog post, we&#39;ll explore the challenges we faced in establishing LLMOps and continuous evaluation within a pipeline using Azure Machine Learning, particularly when dealing with long runs and a restricted Bring-Your-Own (BYO) network.】在这篇博文中，我们将探讨使用 Azure 机器学习在管道内建立 LLMOps 和持续评估时所面临的挑战，特别是在处理长期运行和受限的自带 (BYO) 网络时。</description>
+      <pubDate>Fri, 10 Jan 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
