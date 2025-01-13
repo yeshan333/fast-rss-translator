@@ -4,24 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Empowering AI Agents with Tools via OpenAPI: A Hands-On Guide with Microsoft Semantic Kernel Agents】通过 OpenAPI 使用工具为 AI 代理提供支持：Microsoft 语义内核代理实践指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/empowering-ai-agents-with-tools-via-openapi-a-hands-on-guide-with-microsoft-semantic-kernel-agents</link>
-      <description>【Today the Semantic Kernel team is happy to welcome back our guest author, Akshay Kokane. We will turn it over to him to dive into his recent Medium article on Semantic Kernel. As we advance towards an Agentic Approach in the AI world, I would like to share my insights on how Semantic Kernel can [&amp;hellip;]】今天，语义内核团队很高兴地欢迎我们的客座作者 Akshay Kokane 回来。我们将把它交给他，深入研究他最近在 Medium 上发表的有关语义内核的文章。随着我们在人工智能世界中迈向代理方法，我想分享我对语义内核如何[...]的见解</description>
-      <pubDate>Thu, 09 Jan 2025 22:43:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does inadvertently passing a std::string instead of a char const* to a variadic function crash on x86-32 but not x86-64?】为什么无意中将 std::string 而不是 char const* 传递给可变参数函数会在 x86-32 上崩溃，但在 x86-64 上不会崩溃？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250110-00/?p=110744</link>
-      <description>【Looking at the calling convention and the small string optimization.】查看调用约定和小字符串优化。</description>
-      <pubDate>Fri, 10 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Teams Toolkit for Visual Studio Code update – January 2025】Teams Toolkit for Visual Studio Code 更新 – 2025 年 1 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2025</link>
-      <description>【We’re kicking off the new year with exciting updates to Teams Toolkit for Visual Studio Code including a refreshed user interface for getting started and more!】我们以 Teams Toolkit for Visual Studio Code 的激动人心的更新来拉开新的一年的序幕，其中包括用于入门的全新用户界面等等！</description>
-      <pubDate>Thu, 09 Jan 2025 17:46:10 +0000</pubDate>
-    </item>
-    <item>
       <title>【通过 .NET Aspire 使用本地 AI 模型】通过 .NET Aspire 使用本地 AI 模型</title>
       <link>https://devblogs.microsoft.com/dotnet-ch/%e9%80%9a%e8%bf%87-net-aspire-%e4%bd%bf%e7%94%a8%e6%9c%ac%e5%9c%b0-ai-%e6%a8%a1%e5%9e%8b</link>
       <description>【本文翻译自Aaron Powell的Using Local AI models with .NET Aspire 使用本地 AI 模型是在您自己的计算机上进行实验的一个很好的方法，它无需将资源部署到云中。在本文中，我们将了解如何使用.NET Aspire 和 Ollama 在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。 在 .NET Aspire 中设置 Ollama 我们需要某种方法来从 .NET Aspire 应用程序中使用 Ollama，最简单的方法就是使用 .NET Aspire 社区工具包中的 Ollama 托管集成。您可以通过 Visual Studio 工具、VS Code 工具或 .NET CLI 从 NuGet 安装 Ollama 托管集成。让我们看一下如何通过命令行将 Ollama 托管集成安装到我们的应用程序主机项目中： dotnet add package CommunityToolkit.Aspire.Hosting.Ollama 安装 Ollama 托管集成后，您可以在 Program.cs [&amp;hellip;]】本文翻译自Aaron Powell的Using Local AI models with .NET Aspire 使用本地 AI 模型是在您自己的计算机上进行实验的一个很好的方法，它无需将资源部署到云中。在本文中，我们将了解如何使用.NET Aspire 和 Ollama 在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。 在 .NET Aspire 中设置 Ollama 我们需要某种方法来从 .NET Aspire 应用程序中使用 Ollama，最简单的方法就是使用 .NET Aspire 社区工具包中的 Ollama 托管集成。您可以通过 Visual Studio 工具、VS Code 工具或 .NET CLI 从 NuGet 安装 Ollama 托管集成。让我们看一下如何通过命令行将 Ollama 托管集成安装到我们的应用程序主机项目中： dotnet add package CommunityToolkit.Aspire.Hosting.Ollama 安装 Ollama 托管集成后，您可以在 Program.cs […]</description>
@@ -40,16 +22,34 @@
       <pubDate>Fri, 10 Jan 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 2】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250109-00/?p=110738</link>
+      <description>【Digging into the libstdc++ implementation.】深入研究 libstdc++ 实现。</description>
+      <pubDate>Thu, 09 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing the Public Preview of Apple Identity Provider Support for Microsoft Entra External ID】宣布 Apple 身份提供商支持 Microsoft Entra 外部 ID 公开预览版</title>
       <link>https://devblogs.microsoft.com/identity/openid-connect-social-identity-provider-apple</link>
       <description>【Announcing the public preview of &#34;Sign in with Apple&#34; support for Microsoft Entra External ID. This feature allows users to sign up and sign in to applications using their Apple ID. Apple joins Google and Facebook as pre-configured social identity providers, supporting Single Sign-On (SSO) through the OAuth framework.】宣布推出对 Microsoft Entra 外部 ID 的“使用 Apple 登录”支持的公开预览版。此功能允许用户使用其 Apple ID 注册并登录应用程序。 Apple 与 Google 和 Facebook 一起成为预配置的社交身份提供商，通过 OAuth 框架支持单点登录 (SSO)。</description>
       <pubDate>Fri, 10 Jan 2025 12:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside STL: Waiting for a std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; to change, part 2】STL 内部：等待 std::atomic&lt;std::shared_ptr&lt;T&gt;&gt; 更改，第 2 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250109-00/?p=110738</link>
-      <description>【Digging into the libstdc++ implementation.】深入研究 libstdc++ 实现。</description>
-      <pubDate>Thu, 09 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Empowering AI Agents with Tools via OpenAPI: A Hands-On Guide with Microsoft Semantic Kernel Agents】通过 OpenAPI 使用工具为 AI 代理提供支持：Microsoft 语义内核代理实践指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/empowering-ai-agents-with-tools-via-openapi-a-hands-on-guide-with-microsoft-semantic-kernel-agents</link>
+      <description>【Today the Semantic Kernel team is happy to welcome back our guest author, Akshay Kokane. We will turn it over to him to dive into his recent Medium article on Semantic Kernel. As we advance towards an Agentic Approach in the AI world, I would like to share my insights on how Semantic Kernel can [&amp;hellip;]】今天，语义内核团队很高兴地欢迎我们的客座作者 Akshay Kokane 回来。我们将把它交给他，深入研究他最近在 Medium 上发表的有关语义内核的文章。随着我们在人工智能世界中迈向代理方法，我想分享我对语义内核如何[...]的见解</description>
+      <pubDate>Thu, 09 Jan 2025 22:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Teams Toolkit for Visual Studio Code update – January 2025】Teams Toolkit for Visual Studio Code 更新 – 2025 年 1 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2025</link>
+      <description>【We’re kicking off the new year with exciting updates to Teams Toolkit for Visual Studio Code including a refreshed user interface for getting started and more!】我们以 Teams Toolkit for Visual Studio Code 的激动人心的更新来拉开新的一年的序幕，其中包括用于入门的全新用户界面等等！</description>
+      <pubDate>Thu, 09 Jan 2025 17:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SQL Server Native Vector Search for .NET Developers】面向 .NET 开发人员的 SQL Server 本机矢量搜索</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-server-native-vector-search-for-net-developers</link>
+      <description>【It seems that the majority of developers naturally believe this field of software development belongs to mathematics and Python developers, who originally started building the first solutions. However, .NET and C# provide a great foundation for building almost any kind of application on any platform in a highly professional way. In this post, we will [&amp;hellip;]】似乎大多数开发人员自然地认为这个软件开发领域属于数学和 Python 开发人员，他们最初开始构建第一个解决方案。然而，.NET 和 C# 为以高度专业的方式在任何平台上构建几乎任何类型的应用程序提供了良好的基础。在这篇文章中，我们将[...]</description>
+      <pubDate>Wed, 08 Jan 2025 17:12:10 +0000</pubDate>
     </item>
     <item>
       <title>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio】探索要点：使用 Microsoft Copilot Studio 构建基础知识</title>
@@ -58,10 +58,10 @@
       <pubDate>Thu, 09 Jan 2025 22:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>【SQL Server Native Vector Search for .NET Developers】面向 .NET 开发人员的 SQL Server 本机矢量搜索</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-server-native-vector-search-for-net-developers</link>
-      <description>【It seems that the majority of developers naturally believe this field of software development belongs to mathematics and Python developers, who originally started building the first solutions. However, .NET and C# provide a great foundation for building almost any kind of application on any platform in a highly professional way. In this post, we will [&amp;hellip;]】似乎大多数开发人员自然地认为这个软件开发领域属于数学和 Python 开发人员，他们最初开始构建第一个解决方案。然而，.NET 和 C# 为以高度专业的方式在任何平台上构建几乎任何类型的应用程序提供了良好的基础。在这篇文章中，我们将[...]</description>
-      <pubDate>Wed, 08 Jan 2025 17:12:10 +0000</pubDate>
+      <title>【Why does inadvertently passing a std::string instead of a char const* to a variadic function crash on x86-32 but not x86-64?】为什么无意中将 std::string 而不是 char const* 传递给可变参数函数会在 x86-32 上崩溃，但在 x86-64 上不会崩溃？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250110-00/?p=110744</link>
+      <description>【Looking at the calling convention and the small string optimization.】查看调用约定和小字符串优化。</description>
+      <pubDate>Fri, 10 Jan 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
