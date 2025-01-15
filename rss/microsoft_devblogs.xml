@@ -4,22 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio】探索要点：使用 Microsoft Copilot Studio 构建基础知识</title>
-      <link>https://devblogs.microsoft.com/powerplatform/exploring-the-essentials-building-basics-with-microsoft-copilot-studio</link>
-      <description>【Exploring the Essentials: Building Basics with Microsoft Copilot Studio Don’t know how to start with building an agent in Microsoft Copilot Studio? We’ve got you covered! In our AI in Action: Building with Copilot Studio series on the Microsoft Power Platform YouTube channel, we have several episodes that guide you through how to get started [&amp;hellip;]】探索要点：使用 Microsoft Copilot Studio 构建基础知识 不知道如何开始在 Microsoft Copilot Studio 中构建代理？我们已经为您提供了保障！在 Microsoft Power Platform YouTube 频道上的“AI 实际行动：使用 Copilot Studio 进行构建”系列中，我们有几集可指导您如何开始使用 [...]</description>
-      <pubDate>Thu, 09 Jan 2025 22:21:37 +0000</pubDate>
+      <title>【Cosmos DB Embeddings Generator Sample】Cosmos DB 嵌入生成器示例</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/embeddings-generator-sample</link>
+      <description>【Ever since our first preview announcement for vector indexing and support for DiskANN and then again when we announced the GA for these features, customers have been asking us to make it easier to generate Azure OpenAI embeddings on their data in Azure Cosmos DB. So we did just that and created the Azure Cosmos [&amp;hellip;]】自从我们首次发布矢量索引和对 DiskANN 支持的预览版以来，以及当我们再次宣布这些功能的 GA 时，客户一直要求我们更轻松地在 Azure Cosmos DB 中的数据上生成 Azure OpenAI 嵌入。所以我们就这么做了并创建了 Azure Cosmos [...]</description>
+      <pubDate>Tue, 14 Jan 2025 02:39:38 +0000</pubDate>
     </item>
     <item>
-      <title>【通过 .NET Aspire 使用本地 AI 模型】通过 .NET Aspire 使用本地 AI 模型</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e9%80%9a%e8%bf%87-net-aspire-%e4%bd%bf%e7%94%a8%e6%9c%ac%e5%9c%b0-ai-%e6%a8%a1%e5%9e%8b</link>
-      <description>【本文翻译自Aaron Powell的Using Local AI models with .NET Aspire 使用本地 AI 模型是在您自己的计算机上进行实验的一个很好的方法，它无需将资源部署到云中。在本文中，我们将了解如何使用.NET Aspire 和 Ollama 在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。 在 .NET Aspire 中设置 Ollama 我们需要某种方法来从 .NET Aspire 应用程序中使用 Ollama，最简单的方法就是使用 .NET Aspire 社区工具包中的 Ollama 托管集成。您可以通过 Visual Studio 工具、VS Code 工具或 .NET CLI 从 NuGet 安装 Ollama 托管集成。让我们看一下如何通过命令行将 Ollama 托管集成安装到我们的应用程序主机项目中： dotnet add package CommunityToolkit.Aspire.Hosting.Ollama 安装 Ollama 托管集成后，您可以在 Program.cs [&amp;hellip;]】本文翻译自Aaron Powell的Using Local AI models with .NET Aspire 使用本地 AI 模型是在您自己的计算机上进行实验的一个很好的方法，它无需将资源部署到云中。在本文中，我们将了解如何使用.NET Aspire 和 Ollama 在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。 在 .NET Aspire 中设置 Ollama 我们需要某种方法来从 .NET Aspire 应用程序中使用 Ollama，最简单的方法就是使用 .NET Aspire 社区工具包中的 Ollama 托管集成。您可以通过 Visual Studio 工具、VS Code 工具或 .NET CLI 从 NuGet 安装 Ollama 托管集成。让我们看一下如何通过命令行将 Ollama 托管集成安装到我们的应用程序主机项目中： dotnet add package CommunityToolkit.Aspire.Hosting.Ollama 安装 Ollama 托管集成后，您可以在 Program.cs […]</description>
-      <pubDate>Fri, 10 Jan 2025 06:50:05 +0000</pubDate>
+      <title>【Join the Conversation: Call for Proposals for Azure Cosmos DB Conf 2025!】加入对话：征集 Azure Cosmos DB Conf 2025 提案！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/join-the-conversation-call-for-proposals-for-azure-cosmos-db-conf-2025</link>
+      <description>【Are you passionate about Azure Cosmos DB? Do you have insights, experiences, or innovations that the developer community would love to hear? Now is your chance to shine at the Azure Cosmos DB Conference 2025 – a free, virtual developer event co-organized by Microsoft and the vibrant Azure Cosmos DB community. Mark your calendar for [&amp;hellip;]】您对 Azure Cosmos DB 充满热情吗？您是否有开发者社区希望听到的见解、经验或创新？现在，您有机会在 2025 年 Azure Cosmos DB 大会上大放异彩，这是由 Microsoft 和充满活力的 Azure Cosmos DB 社区共同举办的免费虚拟开发者活动。在您的日历上标记[...]</description>
+      <pubDate>Tue, 14 Jan 2025 15:00:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Empowering AI Agents with Tools via OpenAPI: A Hands-On Guide with Microsoft Semantic Kernel Agents】通过 OpenAPI 使用工具为 AI 代理提供支持：Microsoft 语义内核代理实践指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/empowering-ai-agents-with-tools-via-openapi-a-hands-on-guide-with-microsoft-semantic-kernel-agents</link>
-      <description>【Today the Semantic Kernel team is happy to welcome back our guest author, Akshay Kokane. We will turn it over to him to dive into his recent Medium article on Semantic Kernel. As we advance towards an Agentic Approach in the AI world, I would like to share my insights on how Semantic Kernel can [&amp;hellip;]】今天，语义内核团队很高兴地欢迎我们的客座作者 Akshay Kokane 回来。我们将把它交给他，深入研究他最近在 Medium 上发表的有关语义内核的文章。随着我们在人工智能世界中迈向代理方法，我想分享我对语义内核如何[...]的见解</description>
-      <pubDate>Thu, 09 Jan 2025 22:43:35 +0000</pubDate>
+      <title>【Understanding Semantic Kernel AI Connectors】了解语义内核 AI 连接器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/understanding-semantic-kernel-ai-connectors</link>
+      <description>【AI Connectors in Semantic Kernel are components that facilitate communication between the Kernel&amp;#8217;s core functionalities and various AI services. They abstract the intricate details of service-specific protocols, allowing developers to seamlessly interact with AI services for tasks like text generation, chat interactions, and more. &amp;nbsp; Using AI Connectors in Semantic Kernel Developers utilize AI connectors [&amp;hellip;]】语义内核中的 AI 连接器是促进内核核心功能与各种 AI 服务之间通信的组件。它们抽象了特定于服务的协议的复杂细节，使开发人员能够与 AI 服务无缝交互，以完成文本生成、聊天交互等任务。   在语义内核中使用 AI 连接器开发人员利用 AI 连接器 [...]</description>
+      <pubDate>Wed, 15 Jan 2025 00:26:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A simplified overview of ways to add or update elements in a std::map】在 std::map 中添加或更新元素的方法的简化概述</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250113-00/?p=110757</link>
+      <description>【And using it to find missing opportunities.】并用它来寻找错过的机会。</description>
+      <pubDate>Mon, 13 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Powerful Devs Conference + Hack Together 2025】宣布 Powerful Devs Conference + Hack Together 2025</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-powerful-devs-conference-and-hack-together-2025</link>
+      <description>【We are excited to invite you to participate in this year’s Powerful Devs Conference + Hackathon, commencing on February 12, 2025. The conference will be followed by a two-week Hack Together, ending on February 28, 2025. Join us to unleash your creativity and build innovation solutions!】我们很高兴邀请您参加今年的 Powerful Devs Conference + Hackathon，将于 2025 年 2 月 12 日开始。会议结束后将举办为期两周的 Hack Together，将于 2025 年 2 月 28 日结束。加入我们，释放您的创造力并构建创新解决方案！</description>
+      <pubDate>Tue, 14 Jan 2025 14:59:21 +0000</pubDate>
     </item>
     <item>
       <title>【Why does inadvertently passing a std::string instead of a char const* to a variadic function crash on x86-32 but not x86-64?】为什么无意中将 std::string 而不是 char const* 传递给可变参数函数会在 x86-32 上崩溃，但在 x86-64 上不会崩溃？</title>
@@ -34,34 +46,22 @@
       <pubDate>Mon, 13 Jan 2025 13:00:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Public Preview of Apple Identity Provider Support for Microsoft Entra External ID】宣布 Apple 身份提供商支持 Microsoft Entra 外部 ID 公开预览版</title>
-      <link>https://devblogs.microsoft.com/identity/openid-connect-social-identity-provider-apple</link>
-      <description>【Announcing the public preview of &#34;Sign in with Apple&#34; support for Microsoft Entra External ID. This feature allows users to sign up and sign in to applications using their Apple ID. Apple joins Google and Facebook as pre-configured social identity providers, supporting Single Sign-On (SSO) through the OAuth framework.】宣布推出对 Microsoft Entra 外部 ID 的“使用 Apple 登录”支持的公开预览版。此功能允许用户使用其 Apple ID 注册并登录应用程序。 Apple 与 Google 和 Facebook 一起成为预配置的社交身份提供商，通过 OAuth 框架支持单点登录 (SSO)。</description>
-      <pubDate>Fri, 10 Jan 2025 12:18:04 +0000</pubDate>
+      <title>【Microspeak: The walk-on topic】Microspeak：走心话题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250114-00/?p=110762</link>
+      <description>【Just walk on in with your topic.】继续你的主题。</description>
+      <pubDate>Tue, 14 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A simplified overview of ways to add or update elements in a std::map】在 std::map 中添加或更新元素的方法的简化概述</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250113-00/?p=110757</link>
-      <description>【And using it to find missing opportunities.】并用它来寻找错过的机会。</description>
-      <pubDate>Mon, 13 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【.NET and .NET Framework January 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 1 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for January 2025. Let&amp;#8217;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&amp;#8217;s new in these releases: Security Improvements .NET updates .NET Framework updates Security improvements &amp;nbsp; This month you will find several CVEs that have been fixed this month: [&amp;hellip;]】欢迎使用 2025 年 1 月的合并 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是这些版本中新增功能的快速概述： 安全改进 .NET 更新 .NET Framework 更新 安全改进 这本月您会发现本月已修复的几个 CVE：[...]</description>
+      <pubDate>Tue, 14 Jan 2025 21:30:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Teams Toolkit for Visual Studio Code update – January 2025】Teams Toolkit for Visual Studio Code 更新 – 2025 年 1 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2025</link>
-      <description>【We’re kicking off the new year with exciting updates to Teams Toolkit for Visual Studio Code including a refreshed user interface for getting started and more!】我们以 Teams Toolkit for Visual Studio Code 的激动人心的更新来拉开新的一年的序幕，其中包括用于入门的全新用户界面等等！</description>
-      <pubDate>Thu, 09 Jan 2025 17:46:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LLMOps in restricted networks and addressing continuous evaluation long run constraints】受限网络中的 LLMOps 和解决持续评估长期约束</title>
-      <link>https://devblogs.microsoft.com/ise/llmops-in-restricted-networks-and-continuous-evaluation-long-run-constraints</link>
-      <description>【In this blog post, we&#39;ll explore the challenges we faced in establishing LLMOps and continuous evaluation within a pipeline using Azure Machine Learning, particularly when dealing with long runs and a restricted Bring-Your-Own (BYO) network.】在这篇博文中，我们将探讨使用 Azure 机器学习在管道内建立 LLMOps 和持续评估时所面临的挑战，特别是在处理长期运行和受限的自带 (BYO) 网络时。</description>
-      <pubDate>Fri, 10 Jan 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cosmos DB Embeddings Generator Sample】Cosmos DB 嵌入生成器示例</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/embeddings-generator-sample</link>
-      <description>【Ever since our first preview announcement for vector indexing and support for DiskANN and then again when we announced the GA for these features, customers have been asking us to make it easier to generate Azure OpenAI embeddings on their data in Azure Cosmos DB. So we did just that and created the Azure Cosmos [&amp;hellip;]】自从我们首次发布矢量索引和对 DiskANN 支持的预览版以来，以及当我们再次宣布这些功能的 GA 时，客户一直要求我们更轻松地在 Azure Cosmos DB 中的数据上生成 Azure OpenAI 嵌入。所以我们就这么做了并创建了 Azure Cosmos [...]</description>
-      <pubDate>Tue, 14 Jan 2025 02:39:38 +0000</pubDate>
+      <title>【Join us at VS Live! 2025 Las Vegas】加入我们的 VS Live！ 2025 年拉斯维加斯</title>
+      <link>https://devblogs.microsoft.com/visualstudio/vs-live-2025-las-vegas</link>
+      <description>【Join Your Favorite Speakers at VS Live! Las Vegas With the new year here, many developers are looking for the best ways to stay ahead in a rapidly evolving tech landscape. That’s why Visual Studio Live! Las Vegas, March 10-14, 2025, is a must-attend event! Stay ahead of the curve with the latest enhancements in [&amp;hellip;]】与您最喜欢的演讲者一起参加 VS Live！拉斯维加斯 随着新的一年的到来，许多开发人员正在寻找在快速发展的技术领域保持领先地位的最佳方法。这就是 Visual Studio Live! 的原因！ 2025 年 3 月 10 日至 14 日，拉斯维加斯，不容错过的活动！利用 [...] 的最新增强功能保持领先地位</description>
+      <pubDate>Tue, 14 Jan 2025 16:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
