@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Cosmos DB Embeddings Generator Sample】Cosmos DB 嵌入生成器示例</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/embeddings-generator-sample</link>
-      <description>【Ever since our first preview announcement for vector indexing and support for DiskANN and then again when we announced the GA for these features, customers have been asking us to make it easier to generate Azure OpenAI embeddings on their data in Azure Cosmos DB. So we did just that and created the Azure Cosmos [&amp;hellip;]】自从我们首次发布矢量索引和对 DiskANN 支持的预览版以来，以及当我们再次宣布这些功能的 GA 时，客户一直要求我们更轻松地在 Azure Cosmos DB 中的数据上生成 Azure OpenAI 嵌入。所以我们就这么做了并创建了 Azure Cosmos [...]</description>
-      <pubDate>Tue, 14 Jan 2025 02:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Join the Conversation: Call for Proposals for Azure Cosmos DB Conf 2025!】加入对话：征集 Azure Cosmos DB Conf 2025 提案！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/join-the-conversation-call-for-proposals-for-azure-cosmos-db-conf-2025</link>
-      <description>【Are you passionate about Azure Cosmos DB? Do you have insights, experiences, or innovations that the developer community would love to hear? Now is your chance to shine at the Azure Cosmos DB Conference 2025 – a free, virtual developer event co-organized by Microsoft and the vibrant Azure Cosmos DB community. Mark your calendar for [&amp;hellip;]】您对 Azure Cosmos DB 充满热情吗？您是否有开发者社区希望听到的见解、经验或创新？现在，您有机会在 2025 年 Azure Cosmos DB 大会上大放异彩，这是由 Microsoft 和充满活力的 Azure Cosmos DB 社区共同举办的免费虚拟开发者活动。在您的日历上标记[...]</description>
-      <pubDate>Tue, 14 Jan 2025 15:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Understanding Semantic Kernel AI Connectors】了解语义内核 AI 连接器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/understanding-semantic-kernel-ai-connectors</link>
-      <description>【AI Connectors in Semantic Kernel are components that facilitate communication between the Kernel&amp;#8217;s core functionalities and various AI services. They abstract the intricate details of service-specific protocols, allowing developers to seamlessly interact with AI services for tasks like text generation, chat interactions, and more. &amp;nbsp; Using AI Connectors in Semantic Kernel Developers utilize AI connectors [&amp;hellip;]】语义内核中的 AI 连接器是促进内核核心功能与各种 AI 服务之间通信的组件。它们抽象了特定于服务的协议的复杂细节，使开发人员能够与 AI 服务无缝交互，以完成文本生成、聊天交互等任务。   在语义内核中使用 AI 连接器开发人员利用 AI 连接器 [...]</description>
-      <pubDate>Wed, 15 Jan 2025 00:26:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A simplified overview of ways to add or update elements in a std::map】在 std::map 中添加或更新元素的方法的简化概述</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250113-00/?p=110757</link>
-      <description>【And using it to find missing opportunities.】并用它来寻找错过的机会。</description>
-      <pubDate>Mon, 13 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Powerful Devs Conference + Hack Together 2025】宣布 Powerful Devs Conference + Hack Together 2025</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-powerful-devs-conference-and-hack-together-2025</link>
-      <description>【We are excited to invite you to participate in this year’s Powerful Devs Conference + Hackathon, commencing on February 12, 2025. The conference will be followed by a two-week Hack Together, ending on February 28, 2025. Join us to unleash your creativity and build innovation solutions!】我们很高兴邀请您参加今年的 Powerful Devs Conference + Hackathon，将于 2025 年 2 月 12 日开始。会议结束后将举办为期两周的 Hack Together，将于 2025 年 2 月 28 日结束。加入我们，释放您的创造力并构建创新解决方案！</description>
-      <pubDate>Tue, 14 Jan 2025 14:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does inadvertently passing a std::string instead of a char const* to a variadic function crash on x86-32 but not x86-64?】为什么无意中将 std::string 而不是 char const* 传递给可变参数函数会在 x86-32 上崩溃，但在 x86-64 上不会崩溃？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250110-00/?p=110744</link>
-      <description>【Looking at the calling convention and the small string optimization.】查看调用约定和小字符串优化。</description>
-      <pubDate>Fri, 10 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhanced Change Signature in C++】C++ 中的增强更改签名</title>
-      <link>https://devblogs.microsoft.com/visualstudio/enhanced-change-signature-in-c</link>
-      <description>【Change Signature allows you to modify a function&amp;#8217;s parameters, including reordering, adding, removing, or altering them across various locations. Previously, the Change Signature feature in Visual Studio involved multiple clicks and nested pop-up windows. In Visual Studio 2022 version 17.12, we&amp;#8217;ve reduced the number of clicks and eliminated these nested steps to streamline the process. [&amp;hellip;]】更改签名允许您修改函数的参数，包括在不同位置重新排序、添加、删除或更改它们。以前，Visual Studio 中的更改签名功能涉及多次单击和嵌套弹出窗口。在 Visual Studio 2022 版本 17.12 中，我们减少了点击次数并消除了这些嵌套步骤以简化流程。 […]</description>
-      <pubDate>Mon, 13 Jan 2025 13:00:41 +0000</pubDate>
+      <title>【.NET and .NET Framework January 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 1 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for January 2025. Let&amp;#8217;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&amp;#8217;s new in these releases: Security Improvements .NET updates .NET Framework updates Security improvements &amp;nbsp; This month you will find several CVEs that have been fixed this month: [&amp;hellip;]】欢迎使用 2025 年 1 月的合并 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是这些版本中新增功能的快速概述： 安全改进 .NET 更新 .NET Framework 更新 安全改进 这本月您会发现本月已修复的几个 CVE：[...]</description>
+      <pubDate>Tue, 14 Jan 2025 21:30:22 +0000</pubDate>
     </item>
     <item>
       <title>【Microspeak: The walk-on topic】Microspeak：走心话题</title>
@@ -52,10 +16,46 @@
       <pubDate>Tue, 14 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework January 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 1 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for January 2025. Let&amp;#8217;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&amp;#8217;s new in these releases: Security Improvements .NET updates .NET Framework updates Security improvements &amp;nbsp; This month you will find several CVEs that have been fixed this month: [&amp;hellip;]】欢迎使用 2025 年 1 月的合并 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是这些版本中新增功能的快速概述： 安全改进 .NET 更新 .NET Framework 更新 安全改进 这本月您会发现本月已修复的几个 CVE：[...]</description>
-      <pubDate>Tue, 14 Jan 2025 21:30:22 +0000</pubDate>
+      <title>【Announcing Powerful Devs Conference + Hack Together 2025】宣布 Powerful Devs Conference + Hack Together 2025</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-powerful-devs-conference-and-hack-together-2025</link>
+      <description>【We are excited to invite you to participate in this year’s Powerful Devs Conference + Hackathon, commencing on February 12, 2025. The conference will be followed by a two-week Hack Together, ending on February 28, 2025. Join us to unleash your creativity and build innovation solutions!】我们很高兴邀请您参加今年的 Powerful Devs Conference + Hackathon，将于 2025 年 2 月 12 日开始。会议结束后将举办为期两周的 Hack Together，将于 2025 年 2 月 28 日结束。加入我们，释放您的创造力并构建创新解决方案！</description>
+      <pubDate>Tue, 14 Jan 2025 14:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Agentic AI Explained: A Philosophical Framework for Understanding AI Agents】代理人工智能解释：理解人工智能代理的哲学框架</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/agentic-philosophers</link>
+      <description>【Imagine an AI-powered world where assistance goes beyond tasks &amp;#8212; where intelligent agents debate, learn and collaborate with the wisdom of history&amp;#8217;s greatest minds. What if Socrates, Plato, and Aristotle could step into the digital age, engaging in vibrant discussions and offering their timeless perspectives. In this article, I&amp;#8217;ll delve into how AI agents can [&amp;hellip;]】想象一下一个人工智能驱动的世界，其中的援助超越了任务——智能代理与历史上最伟大思想家的智慧进行辩论、学习和协作。如果苏格拉底、柏拉图和亚里士多德能够进入数字时代，参与充满活力的讨论并提供他们永恒的观点，结果会怎样呢？在本文中，我将深入探讨人工智能代理如何[...]</description>
+      <pubDate>Wed, 15 Jan 2025 07:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Tips and Tricks for Adopting GitHub Copilot at Scale】大规模采用 GitHub Copilot 的提示和技巧</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/adopting-github-copilot-at-scale</link>
+      <description>【Introduction​ Adopting GitHub Copilot at scale can be a game-changer for many development teams (especially large or distributed teams). This blog post provides best practices, actionable tips, and tricks to ensure a successful adoption of GitHub Copilot to ensure successful adoption at scale, foster engagement, and maximize the return on investment (ROI). 1. Raise Awareness [&amp;hellip;]】简介​ 大规模采用 GitHub Copilot 可以改变许多开发团队（尤其是大型或分布式团队）的游戏规则。这篇博文提供了最佳实践、可操作的提示和技巧，以确保 GitHub Copilot 的成功采用，从而确保大规模成功采用、促进参与并最大限度地提高投资回报 (ROI)。 1.提高意识[…]</description>
+      <pubDate>Wed, 15 Jan 2025 18:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Join the Conversation: Call for Proposals for Azure Cosmos DB Conf 2025!】加入对话：征集 Azure Cosmos DB Conf 2025 提案！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/join-the-conversation-call-for-proposals-for-azure-cosmos-db-conf-2025</link>
+      <description>【Are you passionate about Azure Cosmos DB? Do you have insights, experiences, or innovations that the developer community would love to hear? Now is your chance to shine at the Azure Cosmos DB Conference 2025 – a free, virtual developer event co-organized by Microsoft and the vibrant Azure Cosmos DB community. Mark your calendar for [&amp;hellip;]】您对 Azure Cosmos DB 充满热情吗？您是否有开发者社区希望听到的见解、经验或创新？现在，您有机会在 2025 年 Azure Cosmos DB 大会上大放异彩，这是由 Microsoft 和充满活力的 Azure Cosmos DB 社区共同举办的免费虚拟开发者活动。在您的日历上标记[...]</description>
+      <pubDate>Tue, 14 Jan 2025 15:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How does Get­User­Default­Geo­Name choose between ISO 3166-1 and UN M.49 codes?】GetUserDefaultGeoName 如何在 ISO 3166-1 和 UN M.49 代码之间进行选择？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250115-59/?p=110769</link>
+      <description>【Clarifying the behavior.】澄清行为。</description>
+      <pubDate>Wed, 15 Jan 2025 19:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Understanding Semantic Kernel AI Connectors】了解语义内核 AI 连接器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/understanding-semantic-kernel-ai-connectors</link>
+      <description>【AI Connectors in Semantic Kernel are components that facilitate communication between the Kernel&amp;#8217;s core functionalities and various AI services. They abstract the intricate details of service-specific protocols, allowing developers to seamlessly interact with AI services for tasks like text generation, chat interactions, and more. &amp;nbsp; Using AI Connectors in Semantic Kernel Developers utilize AI connectors [&amp;hellip;]】语义内核中的 AI 连接器是促进内核核心功能与各种 AI 服务之间通信的组件。它们抽象了特定于服务的协议的复杂细节，使开发人员能够与 AI 服务无缝交互，以完成文本生成、聊天交互等任务。   在语义内核中使用 AI 连接器开发人员利用 AI 连接器 [...]</description>
+      <pubDate>Wed, 15 Jan 2025 00:26:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Building Multi-Agent Systems with Multi-Models in Semantic Kernel – Part 1】客座博客：在语义内核中构建具有多模型的多代理系统 - 第 1 部分</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-building-multi-agent-systems-with-multi-models-in-semantic-kernel-part-1</link>
+      <description>【Today I want to welcome back Arafat Tehsin, who’s a Microsoft Most Valuable Professional (MVP) for AI. He’s written an article we’re sharing below, focused on Building Multi-Agent Systems with Multi-Models in Semantic Kernel. We’ll turn it over to Arafat to share more! Imagine running a restaurant. Each of your team member, from the chef [&amp;hellip;]】今天，我要欢迎 Arafat Tehsin 回来，他是微软人工智能领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点是在语义内核中使用多模型构建多代理系统。我们将把它交给阿拉法特来分享更多！想象一下经营一家餐馆。您的每个团队成员，从厨师 [...]</description>
+      <pubDate>Thu, 16 Jan 2025 00:32:59 +0000</pubDate>
     </item>
     <item>
       <title>【Join us at VS Live! 2025 Las Vegas】加入我们的 VS Live！ 2025 年拉斯维加斯</title>

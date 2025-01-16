@@ -11,22 +11,16 @@
       <pubDate>Sat, 11 Jan 2025 16:30:50 +0000</pubDate>
     </item>
     <item>
+      <title>【EP143: DNS Record Types You Should Know】EP143：您应该了解的 DNS 记录类型</title>
+      <link>https://blog.bytebytego.com/p/ep143-dns-record-types-you-should</link>
+      <description>【Here are the 8 most commonly used DNS Record Types.】以下是 8 种最常用的 DNS 记录类型。</description>
+      <pubDate>Sat, 21 Dec 2024 17:02:29 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber 如何在数十亿美元的业务范围内统一结账</title>
       <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
       <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：本文中的详细信息来自 Uber 工程博客。</description>
       <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP144: The 9 Algorithms That Dominate Our World】EP144：主宰世界的 9 种算法</title>
-      <link>https://blog.bytebytego.com/p/ep144-the-9-algorithms-that-dominate</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 04 Jan 2025 16:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Kubernetes Made Easy: A Beginner’s Roadmap to Container Orchestration】Kubernetes 让一切变得简单：容器编排初学者路线图</title>
-      <link>https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners</link>
-      <description>【Containers, led by technologies like Docker, offer a lightweight, portable, and consistent way to package applications and their dependencies.】以 Docker 等技术为主导的容器提供了一种轻量级、可移植且一致的方式来打包应用程序及其依赖项。</description>
-      <pubDate>Thu, 02 Jan 2025 16:31:01 +0000</pubDate>
     </item>
     <item>
       <title>【Understanding Message Queues】了解消息队列</title>
@@ -35,16 +29,16 @@
       <pubDate>Thu, 09 Jan 2025 16:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>【How Airbnb Built a Key-Value Store for Petabytes of Data】Airbnb 如何为 PB 级数据构建键值存储</title>
-      <link>https://blog.bytebytego.com/p/how-airbnb-built-a-key-value-store</link>
-      <description>【Disclaimer: The details in this post have been derived from the Airbnb Technical Blog.】免责声明：本文中的详细信息来自 Airbnb 技术博客。</description>
-      <pubDate>Tue, 07 Jan 2025 16:30:57 +0000</pubDate>
+      <title>【Kubernetes Made Easy: A Beginner’s Roadmap to Container Orchestration】Kubernetes 让一切变得简单：容器编排初学者路线图</title>
+      <link>https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners</link>
+      <description>【Containers, led by technologies like Docker, offer a lightweight, portable, and consistent way to package applications and their dependencies.】以 Docker 等技术为主导的容器提供了一种轻量级、可移植且一致的方式来打包应用程序及其依赖项。</description>
+      <pubDate>Thu, 02 Jan 2025 16:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>【The Sidecar Pattern Explained: Decoupling Operational Features】Sidecar 模式解释：解耦操作功能</title>
-      <link>https://blog.bytebytego.com/p/the-sidecar-pattern-explained-decoupling</link>
-      <description>【Design patterns are reusable solutions to common problems in software design.】设计模式是软件设计中常见问题的可重用解决方案。</description>
-      <pubDate>Thu, 19 Dec 2024 16:30:11 +0000</pubDate>
+      <title>【EP144: The 9 Algorithms That Dominate Our World】EP144：主宰世界的 9 种算法</title>
+      <link>https://blog.bytebytego.com/p/ep144-the-9-algorithms-that-dominate</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 04 Jan 2025 16:30:55 +0000</pubDate>
     </item>
     <item>
       <title>【How Statsig Streams 1 Trillion Events A Day】Statsig 如何每天传输 1 万亿个事件</title>
@@ -53,16 +47,22 @@
       <pubDate>Tue, 17 Dec 2024 16:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>【EP143: DNS Record Types You Should Know】EP143：您应该了解的 DNS 记录类型</title>
-      <link>https://blog.bytebytego.com/p/ep143-dns-record-types-you-should</link>
-      <description>【Here are the 8 most commonly used DNS Record Types.】以下是 8 种最常用的 DNS 记录类型。</description>
-      <pubDate>Sat, 21 Dec 2024 17:02:29 +0000</pubDate>
-    </item>
-    <item>
       <title>【EP142: The Fundamental Pillars of Object-Oriented Programming】EP142：面向对象编程的基本支柱</title>
       <link>https://blog.bytebytego.com/p/ep142-the-fundamental-pillars-of</link>
       <description>【Abstraction, Encapsulation, Inheritance, and Polymorphism are the four pillars of object-oriented programming.】抽象、封装、继承和多态是面向对象编程的四大支柱。</description>
       <pubDate>Sat, 14 Dec 2024 16:40:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Sidecar Pattern Explained: Decoupling Operational Features】Sidecar 模式解释：解耦操作功能</title>
+      <link>https://blog.bytebytego.com/p/the-sidecar-pattern-explained-decoupling</link>
+      <description>【Design patterns are reusable solutions to common problems in software design.】设计模式是软件设计中常见问题的可重用解决方案。</description>
+      <pubDate>Thu, 19 Dec 2024 16:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Airbnb Built a Key-Value Store for Petabytes of Data】Airbnb 如何为 PB 级数据构建键值存储</title>
+      <link>https://blog.bytebytego.com/p/how-airbnb-built-a-key-value-store</link>
+      <description>【Disclaimer: The details in this post have been derived from the Airbnb Technical Blog.】免责声明：本文中的详细信息来自 Airbnb 技术博客。</description>
+      <pubDate>Tue, 07 Jan 2025 16:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
