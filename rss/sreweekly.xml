@@ -4,18 +4,6 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #458】SRE 周刊 #458</title>
-      <link>https://sreweekly.com/sre-weekly-issue-458/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: Ever wonder how Netflix handles incidents at their scale? With incident.io, they’ve built a process that’s smooth, scalable, and keeps everyone on the same page. Tools like Catalog and Workflows make it intuitive for teams to tackle incidents consistently—no matter how big the challenge. https://incident.io/customers/netflix Your [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Incident.io 的消息：有没有想过 Netflix 如何处理如此大规模的事件？通过 event.io，他们构建了一个流畅、可扩展的流程，并使每个人都保持在同一页面上。目录和工作流程等工具使团队能够直观地一致地处理事件——无论挑战有多大。 https://incident.io/customers/netflix 您的 [...]</description>
-      <pubDate>Mon, 06 Jan 2025 02:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #459】SRE 周刊第 #459 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-459/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 Incident.io 的消息：有效的事件管理需要协调和协作，以最大程度地减少干扰。 event.io 的本指南涵盖了整个事件生命周期（从准备到改进），强调工程之外的团队合作。由工程师设计，为工程师设计。 https://incident.io/guide 如何跨有界上下文端到端测试微服务？在微服务环境中，测试用户旅程 [...]</description>
-      <pubDate>Mon, 13 Jan 2025 02:10:45 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #457】SRE 周刊第 #457 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-457/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: This New Year, resolve to make incident management smarter, faster, and way less stressful with FireHydrant. Modern on-call, automated incident response, and AI tools that do the heavy lifting. https://firehydrant.com/ Preventing Out-of-Memory (OOM) Kills in Kubernetes: Tips for Optimizing Container Memory Management In this post, we’ll [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 FireHydrant 的消息：在新的一年里，我们决心通过 FireHydrant 使事件管理变得更智能、更快速、压力更小。现代随叫随到、自动事件响应和人工智能工具可以完成繁重的工作。 https://fireHydrant.com/ 防止 Kubernetes 中的内存不足 (OOM) 终止：优化容器内存管理的技巧在这篇文章中，我们将 [...]</description>
@@ -32,6 +20,18 @@
       <link>https://sreweekly.com/sre-weekly-issue-455/</link>
       <description>【View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing&amp;#8230; all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or &amp;#8220;Thundering [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 FireHydrant 的消息：FireHydrant 回顾现在比以往任何时候都更加可定制和协作，包括自定义模板、AI 生成的答案、协作编辑……所有这些都可以导出到 Google Docs 和 Confluence。了解我们的回顾如何为您每次事件节省 2 个多小时。 https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customized-collaborative/ 如何处理突发的交通流量或“雷鸣 [...]</description>
       <pubDate>Mon, 16 Dec 2024 02:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #459】SRE 周刊第 #459 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-459/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 Incident.io 的消息：有效的事件管理需要协调和协作，以最大程度地减少干扰。 event.io 的本指南涵盖了整个事件生命周期（从准备到改进），强调工程之外的团队合作。由工程师设计，为工程师设计。 https://incident.io/guide 如何跨有界上下文端到端测试微服务？在微服务环境中，测试用户旅程 [...]</description>
+      <pubDate>Mon, 13 Jan 2025 02:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #458】SRE 周刊 #458</title>
+      <link>https://sreweekly.com/sre-weekly-issue-458/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: Ever wonder how Netflix handles incidents at their scale? With incident.io, they’ve built a process that’s smooth, scalable, and keeps everyone on the same page. Tools like Catalog and Workflows make it intuitive for teams to tackle incidents consistently—no matter how big the challenge. https://incident.io/customers/netflix Your [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Incident.io 的消息：有没有想过 Netflix 如何处理如此大规模的事件？通过 event.io，他们构建了一个流畅、可扩展的流程，并使每个人都保持在同一页面上。目录和工作流程等工具使团队能够直观地一致地处理事件——无论挑战有多大。 https://incident.io/customers/netflix 您的 [...]</description>
+      <pubDate>Mon, 06 Jan 2025 02:18:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
