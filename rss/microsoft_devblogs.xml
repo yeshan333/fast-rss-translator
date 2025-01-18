@@ -4,22 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Unlocking new possibilities: Microsoft AI, database, and identity products receive authorization for Top Secret workloads】释放新的可能性：Microsoft AI、数据库和身份产品获得绝密工作负载的授权</title>
-      <link>https://devblogs.microsoft.com/azuregov/unlocking-new-possibilities</link>
-      <description>【Microsoft’s leading AI capabilities are being used across industries to enhance data analysis, bolster security, and support key business priorities. Our U.S. Government customers and authorized partners consistently share that they are ready and eager to apply these same tools to serve their critical missions, and Microsoft is committed to delivering the breadth of our [&amp;hellip;]】微软领先的人工智能功能正在跨行业使用，以增强数据分析、增强安全性并支持关键业务优先事项。我们的美国政府客户和授权合作伙伴始终表示，他们已准备好并渴望应用这些相同的工具来完成其关键任务，而 Microsoft 致力于提供我们广泛的 [...]</description>
-      <pubDate>Thu, 16 Jan 2025 14:00:36 +0000</pubDate>
+      <title>【.NET Aspire小贴示 – 管理容器和数据生命周期】.NET Aspire小贴示 – 管理容器和数据生命周期</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/net-aspire%e5%b0%8f%e8%b4%b4%e7%a4%ba-%e7%ae%a1%e7%90%86%e5%ae%b9%e5%99%a8%e5%92%8c%e6%95%b0%e6%8d%ae%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f</link>
+      <description>【本文翻译自 James Montemagno 的 .NET Aspire Quick Tip – Managing Container &amp;amp; Data Lifetime .NET Aspire 凭借其强大的应用程序组合编排功能增强了本地开发流程。在 .NET Aspire 应用程序主机中，您可以在一个集中位置为应用程序指定所有项目、可执行文件、云资源和容器。当您运行应用程序主机项目时，.NET Aspire 将自动运行您的项目和可执行文件，根据需要配置云资源，并下载和运行应用程序依赖的容器。.NET Aspire 9 添加了新功能，让您可以更好地控制在本地计算机上管理容器生命周期的方式，从而在使用容器时加快开发速度。 .NET Aspire 容器 让我们看一个简单的 .NET Aspire 应用程序主机示例，该示例创建一个本地 Redis 容器资源，等待其可用后，为 Web 项目配置连接字符串： // Create a distributed application builder given the command line arguments. var builder = DistributedApplication.CreateBuilder(args); // Add a Redis server to [&amp;hellip;]】本文翻译自 James Montemagno 的 .NET Aspire Quick Tip – Managing Container &amp; Data Lifetime .NET Aspire 凭借其强大的应用程序组合编排功能增强了本地开发流程。在 .NET Aspire 应用程序主机中，您可以在一个集中位置为应用程序指定所有项目、可执行文件、云资源和容器。当您运行应用程序主机项目时，.NET Aspire 将自动运行您的项目和可执行文件，根据需要配置云资源，并下载和运行应用程序依赖的容器。.NET Aspire 9 添加了新功能，让您可以更好地控制在本地计算机上管理容器生命周期的方式，从而在使用容器时加快开发速度。 .NET Aspire 容器 让我们看一个简单的 .NET Aspire 应用程序主机示例，该示例创建一个本地 Redis 容器资源，等待其可用后，为 Web 项目配置连接字符串： // Create a distributed application builder given the command line arguments. var builder = DistributedApplication.CreateBuilder(args); // Add a Redis server to […]</description>
+      <pubDate>Fri, 17 Jan 2025 11:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Building Multi-Agent Systems with Multi-Models in Semantic Kernel – Part 1】客座博客：在语义内核中构建具有多模型的多代理系统 - 第 1 部分</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-building-multi-agent-systems-with-multi-models-in-semantic-kernel-part-1</link>
-      <description>【Today I want to welcome back Arafat Tehsin, who’s a Microsoft Most Valuable Professional (MVP) for AI. He’s written an article we’re sharing below, focused on Building Multi-Agent Systems with Multi-Models in Semantic Kernel. We’ll turn it over to Arafat to share more! Imagine running a restaurant. Each of your team member, from the chef [&amp;hellip;]】今天，我要欢迎 Arafat Tehsin 回来，他是微软人工智能领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点是在语义内核中使用多模型构建多代理系统。我们将把它交给阿拉法特来分享更多！想象一下经营一家餐馆。您的每个团队成员，从厨师 [...]</description>
-      <pubDate>Thu, 16 Jan 2025 00:32:59 +0000</pubDate>
+      <title>【Meet the .NET Team at NDC London 2025】在 2025 年伦敦 NDC 上与 .NET 团队见面</title>
+      <link>https://devblogs.microsoft.com/dotnet/meet-the-dotnet-team-at-ndc-london-2025</link>
+      <description>【Meet the .NET team at NDC London 2025 to explore the latest in .NET 9, Azure, and AI-powered development through keynotes, sessions, and 1:1 meetups.】在 NDC London 2025 上与 .NET 团队见面，通过主题演讲、会议和 1:1 聚会来探索 .NET 9、Azure 和 AI 驱动的开发的最新动态。</description>
+      <pubDate>Thu, 16 Jan 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Automate app compliance with ACAT】自动执行应用程序符合 ACAT 的要求</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/automate-app-compliance-with-acat</link>
-      <description>【Learn how you can define the compliance boundary for your Microsoft 365 application on Azure and AWS with the App Compliance Automation Tool (ACAT) for Microsoft 365.】了解如何使用适用于 Microsoft 365 的应用程序合规性自动化工具 (ACAT) 定义 Azure 和 AWS 上的 Microsoft 365 应用程序的合规性边界。</description>
-      <pubDate>Thu, 16 Jan 2025 16:23:51 +0000</pubDate>
+      <title>【AutoGen reimagined: Launching AutoGen 0.4】AutoGen 重新构想：推出 AutoGen 0.4</title>
+      <link>https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4</link>
+      <description>【We are thrilled to announce the release of AutoGen v0.4! This new version represents a complete redesign of the AutoGen library, focusing on improved code quality, robustness, usability, and scalability of agentic workflows. This release sets the stage for a robust ecosystem to drive advances in agentic AI. Key Features: Asynchronous Messaging: Agents now communicate [&amp;hellip;]】我们很高兴地宣布 AutoGen v0.4 发布！这个新版本代表了 AutoGen 库的彻底重新设计，重点是提高代理工作流程的代码质量、稳健性、可用性和可扩展性。此版本为强大的生态系统奠定了基础，以推动代理人工智能的进步。主要功能：异步消息传递：代理现在可以进行通信[...]</description>
+      <pubDate>Fri, 17 Jan 2025 23:39:51 +0000</pubDate>
     </item>
     <item>
       <title>【In a C++ class template specialization, how can I call the unspecialized version of a method?】在 C++ 类模板特化中，如何调用方法的非特化版本？</title>
@@ -28,28 +28,10 @@
       <pubDate>Thu, 16 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Tips and Tricks for Adopting GitHub Copilot at Scale】大规模采用 GitHub Copilot 的提示和技巧</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/adopting-github-copilot-at-scale</link>
-      <description>【Introduction​ Adopting GitHub Copilot at scale can be a game-changer for many development teams (especially large or distributed teams). This blog post provides best practices, actionable tips, and tricks to ensure a successful adoption of GitHub Copilot to ensure successful adoption at scale, foster engagement, and maximize the return on investment (ROI). 1. Raise Awareness [&amp;hellip;]】简介​ 大规模采用 GitHub Copilot 可以改变许多开发团队（尤其是大型或分布式团队）的游戏规则。这篇博文提供了最佳实践、可操作的提示和技巧，以确保 GitHub Copilot 的成功采用，从而确保大规模成功采用、促进参与并最大限度地提高投资回报 (ROI)。 1.提高意识[…]</description>
-      <pubDate>Wed, 15 Jan 2025 18:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How does Get­User­Default­Geo­Name choose between ISO 3166-1 and UN M.49 codes?】GetUserDefaultGeoName 如何在 ISO 3166-1 和 UN M.49 代码之间进行选择？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250115-59/?p=110769</link>
-      <description>【Clarifying the behavior.】澄清行为。</description>
-      <pubDate>Wed, 15 Jan 2025 19:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agentic AI Explained: A Philosophical Framework for Understanding AI Agents】代理人工智能解释：理解人工智能代理的哲学框架</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/agentic-philosophers</link>
-      <description>【Imagine an AI-powered world where assistance goes beyond tasks &amp;#8212; where intelligent agents debate, learn and collaborate with the wisdom of history&amp;#8217;s greatest minds. What if Socrates, Plato, and Aristotle could step into the digital age, engaging in vibrant discussions and offering their timeless perspectives. In this article, I&amp;#8217;ll delve into how AI agents can [&amp;hellip;]】想象一下一个人工智能驱动的世界，其中的援助超越了任务——智能代理与历史上最伟大思想家的智慧进行辩论、学习和协作。如果苏格拉底、柏拉图和亚里士多德能够进入数字时代，参与充满活力的讨论并提供他们永恒的观点，结果会怎样呢？在本文中，我将深入探讨人工智能代理如何[...]</description>
-      <pubDate>Wed, 15 Jan 2025 07:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Our Favorite NEW Visual Studio Features of 2024】我们最喜欢的 2024 年 Visual Studio 新功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/our-favorite-new-visual-studio-features-of-2024</link>
-      <description>【Last year, the Visual Studio team delivered many new developer-focused improvements and AI integrations, many of which came directly from your feedback on Developer Community. In this post, we highlight the team’s favorite features from 2024 that boost productivity, streamline workflows, and enhance your coding experience. Let’s dive in! Image Hover Preview: See your images [&amp;hellip;]】去年，Visual Studio 团队提供了许多以开发人员为中心的新改进和 AI 集成，其中许多直接来自您对开发人员社区的反馈。在这篇文章中，我们重点介绍了 2024 年团队最喜欢的功能，这些功能可提高生产力、简化工作流程并增强您的编码体验。让我们深入了解一下！图像悬停预览：查看您的图像[...]</description>
-      <pubDate>Thu, 16 Jan 2025 17:01:56 +0000</pubDate>
+      <title>【Guest Blog: Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel】来宾博客：使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-leap-forward-with-modern-ai-using-microsoft-365-agents-sdk-and-semantic-kernel</link>
+      <description>【Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel Today we’re featuring a guest author, Arafat Tehsin, who’s a Microsoft Most Valuable Professional (MVP) for AI. He’s written an article we’re sharing below, focused on how to Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel. We’ll [&amp;hellip;]】使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃 今天，我们邀请到一位客座作者 Arafat Tehsin，他是 Microsoft AI 领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点介绍了如何使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃。出色地 […]</description>
+      <pubDate>Fri, 17 Jan 2025 17:20:52 +0000</pubDate>
     </item>
     <item>
       <title>【Customer Case Study: Pushing the Boundaries of Multi-Agent AI Collaboration with ServiceNow and Microsoft Semantic Kernel】客户案例研究：利用 ServiceNow 和 Microsoft 语义内核突破多代理 AI 协作的界限</title>
@@ -58,10 +40,28 @@
       <pubDate>Thu, 16 Jan 2025 19:21:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Meet the .NET Team at NDC London 2025】在 2025 年伦敦 NDC 上与 .NET 团队见面</title>
-      <link>https://devblogs.microsoft.com/dotnet/meet-the-dotnet-team-at-ndc-london-2025</link>
-      <description>【Meet the .NET team at NDC London 2025 to explore the latest in .NET 9, Azure, and AI-powered development through keynotes, sessions, and 1:1 meetups.】在 NDC London 2025 上与 .NET 团队见面，通过主题演讲、会议和 1:1 聚会来探索 .NET 9、Azure 和 AI 驱动的开发的最新动态。</description>
-      <pubDate>Thu, 16 Jan 2025 18:05:00 +0000</pubDate>
+      <title>【Go 1.23.5-1 and 1.22.11-1 Microsoft builds now available】Go 1.23.5-1 和 1.22.11-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-5-1-and-1-22-11-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Fri, 17 Jan 2025 17:39:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automate app compliance with ACAT】自动执行应用程序符合 ACAT 的要求</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/automate-app-compliance-with-acat</link>
+      <description>【Learn how you can define the compliance boundary for your Microsoft 365 application on Azure and AWS with the App Compliance Automation Tool (ACAT) for Microsoft 365.】了解如何使用适用于 Microsoft 365 的应用程序合规性自动化工具 (ACAT) 定义 Azure 和 AWS 上的 Microsoft 365 应用程序的合规性边界。</description>
+      <pubDate>Thu, 16 Jan 2025 16:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the crash when trying to erase an element from a std::set】尝试从 std::set 中删除元素时发生崩溃的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250117-00/?p=110777</link>
+      <description>【Another kind of fiasco.】另一种惨败。</description>
+      <pubDate>Fri, 17 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Our Favorite NEW Visual Studio Features of 2024】我们最喜欢的 2024 年 Visual Studio 新功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/our-favorite-new-visual-studio-features-of-2024</link>
+      <description>【Last year, the Visual Studio team delivered many new developer-focused improvements and AI integrations, many of which came directly from your feedback on Developer Community. In this post, we highlight the team’s favorite features from 2024 that boost productivity, streamline workflows, and enhance your coding experience. Let’s dive in! Image Hover Preview: See your images [&amp;hellip;]】去年，Visual Studio 团队提供了许多以开发人员为中心的新改进和 AI 集成，其中许多直接来自您对开发人员社区的反馈。在这篇文章中，我们重点介绍了 2024 年团队最喜欢的功能，这些功能可提高生产力、简化工作流程并增强您的编码体验。让我们深入了解一下！图像悬停预览：查看您的图像[...]</description>
+      <pubDate>Thu, 16 Jan 2025 17:01:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
