@@ -4,12 +4,6 @@
     <link>https://feeds.dzone.com/home</link>
     <description>Recent posts on DZone.com</description>
     <item>
-      <title>【Build Your First Chrome Extension With Rust and WebAssembly】使用 Rust 和 WebAssembly 构建您的第一个 Chrome 扩展</title>
-      <link>https://dzone.com/articles/build-chrome-extension-rust-webassembly</link>
-      <description>【&lt;p&gt;Chrome extensions have traditionally been built using JavaScript, HTML, and CSS. However, with the rise of WebAssembly (Wasm), we can now leverage Rust&#39;s performance, safety, and modern development features in browser extensions.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;In this tutorial, we will create a simple Chrome extension that uses &lt;a href=&#34;https://dzone.com/articles/rust-programming-language-a-beginners-guide&#34;&gt;Rust&lt;/a&gt; compiled to &lt;a href=&#34;https://dzone.com/articles/what-is-webassembly&#34;&gt;WebAssembly&lt;/a&gt;.&lt;/p&gt;】&lt;p&gt;Chrome 扩展程序传统上是使用 JavaScript、HTML 和 CSS 构建的。然而，随着 WebAssembly (Wasm) 的兴起，我们现在可以在浏览器扩展中利用 Rust 的性能、安全性和现代开发功能。 &lt;/p&gt;&#xA;&lt;p&gt;在本教程中，我们将创建一个简单的 Chrome 扩展程序，该扩展程序使用 &lt;a href=&#34;https://dzone.com/articles/rust-programming-language-a-beginners-guide&#34;&gt;Rust&lt;/a&gt; 编译到 &lt;a href=&#34;https://dzone.com/articles/what-is-web assembly&#34;&gt;WebAssembly&lt;/a&gt;。&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Jan 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Best Gantt Chart Libraries for React】React 的最佳甘特图库</title>
       <link>https://dzone.com/articles/best-gantt-chart-libraries-for-react</link>
       <description>【&lt;p dir=&#34;ltr&#34;&gt;Gantt chart is an advanced visualization solution for project management that considerably facilitates planning, scheduling, and controlling the progress of short-, mid-, and long-term projects.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://dzone.com/articles/what-is-a-gantt-chart-how-and-when-to-use-a-gantt&#34;&gt;Gantt charts&lt;/a&gt; were invented more than a hundred years ago by Henry Gantt, who made a major contribution to the development of scientific management. Decades ago, the entire procedure of implementing Gantt charts in infrastructure projects was really time-consuming. Today, we are lucky to have modern tools that greatly speed up the process.&amp;nbsp;&lt;/p&gt;】&lt;p dir=&#34;ltr&#34;&gt;甘特图是一种先进的项目管理可视化解决方案，可极大地方便规划、安排和控制短期、中期和长期项目的进度。 &lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://dzone.com/articles/what-is-a-gantt-chart-how-and-when-to-use-a-gantt&#34;&gt;甘特图&lt;/a&gt; 是一百多年前由亨利·甘特发明的，他为科学管理的发展做出了重大贡献。几十年前，在基础设施项目中实施甘特图的整个过程非常耗时。今天，我们很幸运拥有可以大大加快这一过程的现代工具。 &lt;/p&gt;</description>
@@ -28,10 +22,22 @@
       <pubDate>Fri, 17 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【ArangoDB: Achieving Success With a Multivalue Database】ArangoDB：利用多值数据库取得成功</title>
-      <link>https://dzone.com/articles/arangodb-success-through-multivalue-database</link>
-      <description>【&lt;p data-pm-slice=&#34;1 1 []&#34;&gt;Handling diverse database structures often introduces significant complexity to system architecture, especially when multiple database instances are required. This fragmentation can complicate operations, increase costs, and reduce efficiency. Multimodel databases like ArangoDB provide a unified solution to address these challenges. They simplify architecture and streamline data management by supporting multiple data models — key-value, document, and graph — within a single database instance.&lt;/p&gt;&#xA;&lt;p&gt;Unlike relational databases, &lt;a href=&#34;https://dzone.com/articles/introduction-to-nosql-database-1&#34;&gt;NoSQL databases&lt;/a&gt; do not adhere to a universal standard like SQL. Instead, they are categorized based on their storage structure. Among the popular types are:&lt;/p&gt;】&lt;p data-pm-slice=&#34;1 1 []&#34;&gt;处理不同的数据库结构通常会给系统架构带来极大的复杂性，特别是在需要多个数据库实例时。这种碎片化会使操作变得复杂、增加成本并降低效率。 ArangoDB 等多模型数据库提供了统一的解决方案来应对这些挑战。它们通过在单个数据库实例中支持多种数据模型（键值、文档和图形）来简化架构并简化数据管理。&lt;/p&gt;&#xA;&lt;p&gt;与关系数据库不同，&lt;a href=&#34;https://dzone.com/articles/introduction-to-nosql-database-1&#34;&gt;NoSQL 数据库&lt;/a&gt;不遵守 SQL 等通用标准。相反，它们根据存储结构进行分类。流行的类型包括：&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Jan 2025 23:00:00 +0000</pubDate>
+      <title>【Dark Data: Recovering the Lost Opportunities】暗数据：找回失去的机会</title>
+      <link>https://dzone.com/articles/dark-data-recovering-lost-opportunities</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;Dark data may contain secret information that is valuable for corporate operations. Companies can lead the competition by gaining insights from dark data using the relevant tools and practices.&lt;/p&gt;&#xA;&lt;p&gt;Let&#39;s check what dark data is all about and how to use it to make smarter decisions.&lt;/p&gt;】&lt;p dir=&#34;ltr&#34;&gt;暗数据可能包含对企业运营有价值的秘密信息。公司可以使用相关工具和实践从暗数据中获取洞察，从而在竞争中处于领先地位。&lt;/p&gt;&#xA;&lt;p&gt;让我们来看看暗数据是什么以及如何使用它来做出更明智的决策。&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jan 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build Your First Chrome Extension With Rust and WebAssembly】使用 Rust 和 WebAssembly 构建您的第一个 Chrome 扩展</title>
+      <link>https://dzone.com/articles/build-chrome-extension-rust-webassembly</link>
+      <description>【&lt;p&gt;Chrome extensions have traditionally been built using JavaScript, HTML, and CSS. However, with the rise of WebAssembly (Wasm), we can now leverage Rust&#39;s performance, safety, and modern development features in browser extensions.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;In this tutorial, we will create a simple Chrome extension that uses &lt;a href=&#34;https://dzone.com/articles/rust-programming-language-a-beginners-guide&#34;&gt;Rust&lt;/a&gt; compiled to &lt;a href=&#34;https://dzone.com/articles/what-is-webassembly&#34;&gt;WebAssembly&lt;/a&gt;.&lt;/p&gt;】&lt;p&gt;Chrome 扩展程序传统上是使用 JavaScript、HTML 和 CSS 构建的。然而，随着 WebAssembly (Wasm) 的兴起，我们现在可以在浏览器扩展中利用 Rust 的性能、安全性和现代开发功能。 &lt;/p&gt;&#xA;&lt;p&gt;在本教程中，我们将创建一个简单的 Chrome 扩展程序，该扩展程序使用 &lt;a href=&#34;https://dzone.com/articles/rust-programming-language-a-beginners-guide&#34;&gt;Rust&lt;/a&gt; 编译到 &lt;a href=&#34;https://dzone.com/articles/what-is-webassemble&#34;&gt;WebAssembly&lt;/a&gt;。&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Jan 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Creating Artificial Doubt Significantly Improves AI Math Accuracy】制造人工疑问可显着提高人工智能数学准确性</title>
+      <link>https://dzone.com/articles/creating-artificial-doubt-improves-ai-math-accuracy</link>
+      <description>【&lt;p name=&#34;b82c&#34;&gt;What makes an AI system good at math? Not raw computational power, but something that seems almost contradictory: being neurotically careful about being right.&lt;/p&gt;&#xA;&lt;p name=&#34;0e04&#34;&gt;When AI researchers talk about mathematical reasoning, they typically focus on scaling up  —  bigger models, more parameters, and larger datasets. But in practice, mathematical ability isn’t about how much compute you have for your model. It’s actually about whether machines can learn to verify their own work, because at least 90% of reasoning errors come from models confidently stating wrong intermediate steps.&lt;/p&gt;】&lt;p name=&#34;b82c&#34;&gt;是什么让人工智能系统擅长数学？不是原始的计算能力，而是看起来几乎矛盾的东西：神经质地小心翼翼地追求正确。&lt;/p&gt;&#xA;&lt;p name=&#34;0e04&#34;&gt;当人工智能研究人员谈论数学推理时，他们通常关注扩大规模  —  更大的模型、更多的参数和更大的数据集。但在实践中，数学能力并不在于你的模型有多少计算能力。这实际上是关于机器能否学会验证自己的工作，因为至少 90% 的推理错误来自于模型自信地陈述错误的中间步骤。&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jan 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Understanding Leaderless Replication for Distributed Data】了解分布式数据的无领导复制</title>
@@ -52,16 +58,10 @@
       <pubDate>Fri, 17 Jan 2025 16:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Creating Artificial Doubt Significantly Improves AI Math Accuracy】制造人工疑问可显着提高人工智能数学准确性</title>
-      <link>https://dzone.com/articles/creating-artificial-doubt-improves-ai-math-accuracy</link>
-      <description>【&lt;p name=&#34;b82c&#34;&gt;What makes an AI system good at math? Not raw computational power, but something that seems almost contradictory: being neurotically careful about being right.&lt;/p&gt;&#xA;&lt;p name=&#34;0e04&#34;&gt;When AI researchers talk about mathematical reasoning, they typically focus on scaling up  —  bigger models, more parameters, and larger datasets. But in practice, mathematical ability isn’t about how much compute you have for your model. It’s actually about whether machines can learn to verify their own work, because at least 90% of reasoning errors come from models confidently stating wrong intermediate steps.&lt;/p&gt;】&lt;p name=&#34;b82c&#34;&gt;是什么让人工智能系统擅长数学？不是原始的计算能力，而是看起来几乎矛盾的东西：神经质地小心翼翼地追求正确。&lt;/p&gt;&#xA;&lt;p name=&#34;0e04&#34;&gt;当人工智能研究人员谈论数学推理时，他们通常关注扩大规模  —  更大的模型、更多的参数和更大的数据集。但在实践中，数学能力并不在于你的模型有多少计算能力。这实际上是关于机器能否学会验证自己的工作，因为至少 90% 的推理错误来自于模型自信地陈述错误的中间步骤。&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jan 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dark Data: Recovering the Lost Opportunities】暗数据：找回失去的机会</title>
-      <link>https://dzone.com/articles/dark-data-recovering-lost-opportunities</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;Dark data may contain secret information that is valuable for corporate operations. Companies can lead the competition by gaining insights from dark data using the relevant tools and practices.&lt;/p&gt;&#xA;&lt;p&gt;Let&#39;s check what dark data is all about and how to use it to make smarter decisions.&lt;/p&gt;】&lt;p dir=&#34;ltr&#34;&gt;暗数据可能包含对企业运营有价值的秘密信息。公司可以使用相关工具和实践从暗数据中获取洞察，从而在竞争中处于领先地位。&lt;/p&gt;&#xA;&lt;p&gt;让我们来看看暗数据是什么以及如何使用它来做出更明智的决策。&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jan 2025 18:00:00 +0000</pubDate>
+      <title>【ArangoDB: Achieving Success With a Multivalue Database】ArangoDB：利用多值数据库取得成功</title>
+      <link>https://dzone.com/articles/arangodb-success-through-multivalue-database</link>
+      <description>【&lt;p data-pm-slice=&#34;1 1 []&#34;&gt;Handling diverse database structures often introduces significant complexity to system architecture, especially when multiple database instances are required. This fragmentation can complicate operations, increase costs, and reduce efficiency. Multimodel databases like ArangoDB provide a unified solution to address these challenges. They simplify architecture and streamline data management by supporting multiple data models — key-value, document, and graph — within a single database instance.&lt;/p&gt;&#xA;&lt;p&gt;Unlike relational databases, &lt;a href=&#34;https://dzone.com/articles/introduction-to-nosql-database-1&#34;&gt;NoSQL databases&lt;/a&gt; do not adhere to a universal standard like SQL. Instead, they are categorized based on their storage structure. Among the popular types are:&lt;/p&gt;】&lt;p data-pm-slice=&#34;1 1 []&#34;&gt;处理不同的数据库结构通常会给系统架构带来极大的复杂性，特别是在需要多个数据库实例时。这种碎片化会使操作变得复杂、增加成本并降低效率。 ArangoDB 等多模型数据库提供了统一的解决方案来应对这些挑战。它们通过在单个数据库实例中支持多种数据模型（键值、文档和图形）来简化架构并简化数据管理。&lt;/p&gt;&#xA;&lt;p&gt;与关系数据库不同，&lt;a href=&#34;https://dzone.com/articles/introduction-to-nosql-database-1&#34;&gt;NoSQL 数据库&lt;/a&gt;不遵守 SQL 等通用标准。相反，它们根据存储结构进行分类。流行的类型包括：&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Jan 2025 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
