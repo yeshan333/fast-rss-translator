@@ -4,28 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【The case of the crash when trying to erase an element from a std::set】尝试从 std::set 中删除元素时发生崩溃的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250117-00/?p=110777</link>
-      <description>【Another kind of fiasco.】另一种惨败。</description>
-      <pubDate>Fri, 17 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【In a C++ class template specialization, how can I call the unspecialized version of a method?】在 C++ 类模板特化中，如何调用方法的非特化版本？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250116-00/?p=110773</link>
-      <description>【You can&#39;t talk about things that might exist, so instead talk about things that do.】你不能谈论可能存在的事情，所以要谈论确实存在的事情。</description>
-      <pubDate>Thu, 16 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Go 1.23.5-1 and 1.22.11-1 Microsoft builds now available】Go 1.23.5-1 和 1.22.11-1 Microsoft 版本现已推出</title>
       <link>https://devblogs.microsoft.com/go/go-1-23-5-1-and-1-22-11-1-microsoft-builds-now-available</link>
       <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
       <pubDate>Fri, 17 Jan 2025 17:39:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Automate app compliance with ACAT】自动执行应用程序符合 ACAT 的要求</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/automate-app-compliance-with-acat</link>
-      <description>【Learn how you can define the compliance boundary for your Microsoft 365 application on Azure and AWS with the App Compliance Automation Tool (ACAT) for Microsoft 365.】了解如何使用适用于 Microsoft 365 的应用程序合规性自动化工具 (ACAT) 定义 Azure 和 AWS 上的 Microsoft 365 应用程序的合规性边界。</description>
-      <pubDate>Thu, 16 Jan 2025 16:23:51 +0000</pubDate>
+      <title>【Meet the .NET Team at NDC London 2025】在 2025 年伦敦 NDC 上与 .NET 团队见面</title>
+      <link>https://devblogs.microsoft.com/dotnet/meet-the-dotnet-team-at-ndc-london-2025</link>
+      <description>【Meet the .NET team at NDC London 2025 to explore the latest in .NET 9, Azure, and AI-powered development through keynotes, sessions, and 1:1 meetups.】在 NDC London 2025 上与 .NET 团队见面，通过主题演讲、会议和 1:1 聚会来探索 .NET 9、Azure 和 AI 驱动的开发的最新动态。</description>
+      <pubDate>Thu, 16 Jan 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reminder: When a C++ object fails to construct, the destructor does not run】提醒：当C++对象构造失败时，析构函数不会运行</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250120-00/?p=110783</link>
+      <description>【If you need to run after a failed construction, you have to put it in a base class or member variable.】如果需要在构造失败后运行，则必须将其放入基类或成员变量中。</description>
+      <pubDate>Mon, 20 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【.NET Aspire小贴示 – 管理容器和数据生命周期】.NET Aspire小贴示 – 管理容器和数据生命周期</title>
@@ -34,10 +28,22 @@
       <pubDate>Fri, 17 Jan 2025 11:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: Pushing the Boundaries of Multi-Agent AI Collaboration with ServiceNow and Microsoft Semantic Kernel】客户案例研究：利用 ServiceNow 和 Microsoft 语义内核突破多代理 AI 协作的界限</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-pushing-the-boundaries-of-multi-agent-ai-collaboration-with-servicenow-and-microsoft-semantic-kernel</link>
-      <description>【The Journey to Multi-Agent Innovation At ServiceNow, we embarked on an ambitious journey to redefine how AI systems collaborate in enterprise environments. Through our partnership with Microsoft, we set out to create something beyond traditional integration – a true multi-agent system across platform that could work effectively alongside human teams. While NowAssist and Microsoft Copilot [&amp;hellip;]】多代理创新之旅 在 ServiceNow，我们踏上了雄心勃勃的旅程，重新定义人工智能系统在企业环境中的协作方式。通过与微软的合作，我们着手创建超越传统集成的东西——一个真正的跨平台多代理系统，可以与人类团队一起有效地工作。而 NowAssist 和 Microsoft Copilot [...]</description>
-      <pubDate>Thu, 16 Jan 2025 19:21:33 +0000</pubDate>
+      <title>【Our Favorite NEW Visual Studio Features of 2024】我们最喜欢的 2024 年 Visual Studio 新功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/our-favorite-new-visual-studio-features-of-2024</link>
+      <description>【Last year, the Visual Studio team delivered many new developer-focused improvements and AI integrations, many of which came directly from your feedback on Developer Community. In this post, we highlight the team’s favorite features from 2024 that boost productivity, streamline workflows, and enhance your coding experience. Let’s dive in! Image Hover Preview: See your images [&amp;hellip;]】去年，Visual Studio 团队提供了许多以开发人员为中心的新改进和 AI 集成，其中许多直接来自您对开发人员社区的反馈。在这篇文章中，我们重点介绍了 2024 年团队最喜欢的功能，这些功能可提高生产力、简化工作流程并增强您的编码体验。让我们深入了解一下！图像悬停预览：查看您的图像[...]</description>
+      <pubDate>Thu, 16 Jan 2025 17:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the crash when trying to erase an element from a std::set】尝试从 std::set 中删除元素时发生崩溃的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250117-00/?p=110777</link>
+      <description>【Another kind of fiasco.】另一种惨败。</description>
+      <pubDate>Fri, 17 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Extending Regular Expressions (Regex) Support on Azure SQL Managed Instance (MI)】扩展 Azure SQL 托管实例 (MI) 上的正则表达式 (Regex) 支持</title>
+      <link>https://devblogs.microsoft.com/azure-sql/extending-regular-expressions-regex-support-on-azure-sql-managed-instance-mi</link>
+      <description>【We are happy to announce the Private Preview of Regular Expressions (Regex) support on Azure SQL Managed Instance (MI). This new feature brings powerful text processing capabilities to your SQL queries, enabling you to perform complex pattern matching and data manipulation with ease.  Regex support in Azure SQL The Regex feature in Azure SQL follows [&amp;hellip;]】我们很高兴地宣布 Azure SQL 托管实例 (MI) 提供正则表达式 (Regex) 支持的私人预览版。这一新功能为您的 SQL 查询带来了强大的文本处理功能，使您能够轻松执行复杂的模式匹配和数据操作。  Azure SQL 中的正则表达式支持 Azure SQL 中的正则表达式功能遵循 [...]</description>
+      <pubDate>Mon, 20 Jan 2025 13:20:12 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel】来宾博客：使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃</title>
@@ -52,16 +58,10 @@
       <pubDate>Fri, 17 Jan 2025 23:39:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Our Favorite NEW Visual Studio Features of 2024】我们最喜欢的 2024 年 Visual Studio 新功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/our-favorite-new-visual-studio-features-of-2024</link>
-      <description>【Last year, the Visual Studio team delivered many new developer-focused improvements and AI integrations, many of which came directly from your feedback on Developer Community. In this post, we highlight the team’s favorite features from 2024 that boost productivity, streamline workflows, and enhance your coding experience. Let’s dive in! Image Hover Preview: See your images [&amp;hellip;]】去年，Visual Studio 团队提供了许多以开发人员为中心的新改进和 AI 集成，其中许多直接来自您对开发人员社区的反馈。在这篇文章中，我们重点介绍了 2024 年团队最喜欢的功能，这些功能可提高生产力、简化工作流程并增强您的编码体验。让我们深入了解一下！图像悬停预览：查看您的图像[...]</description>
-      <pubDate>Thu, 16 Jan 2025 17:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Meet the .NET Team at NDC London 2025】在 2025 年伦敦 NDC 上与 .NET 团队见面</title>
-      <link>https://devblogs.microsoft.com/dotnet/meet-the-dotnet-team-at-ndc-london-2025</link>
-      <description>【Meet the .NET team at NDC London 2025 to explore the latest in .NET 9, Azure, and AI-powered development through keynotes, sessions, and 1:1 meetups.】在 NDC London 2025 上与 .NET 团队见面，通过主题演讲、会议和 1:1 聚会来探索 .NET 9、Azure 和 AI 驱动的开发的最新动态。</description>
-      <pubDate>Thu, 16 Jan 2025 18:05:00 +0000</pubDate>
+      <title>【Customer Case Study: Pushing the Boundaries of Multi-Agent AI Collaboration with ServiceNow and Microsoft Semantic Kernel】客户案例研究：利用 ServiceNow 和 Microsoft 语义内核突破多代理 AI 协作的界限</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-pushing-the-boundaries-of-multi-agent-ai-collaboration-with-servicenow-and-microsoft-semantic-kernel</link>
+      <description>【The Journey to Multi-Agent Innovation At ServiceNow, we embarked on an ambitious journey to redefine how AI systems collaborate in enterprise environments. Through our partnership with Microsoft, we set out to create something beyond traditional integration – a true multi-agent system across platform that could work effectively alongside human teams. While NowAssist and Microsoft Copilot [&amp;hellip;]】多代理创新之旅 在 ServiceNow，我们踏上了雄心勃勃的旅程，重新定义人工智能系统在企业环境中的协作方式。通过与微软的合作，我们着手创建超越传统集成的东西——一个真正的跨平台多代理系统，可以与人类团队一起有效地工作。而 NowAssist 和 Microsoft Copilot [...]</description>
+      <pubDate>Thu, 16 Jan 2025 19:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
