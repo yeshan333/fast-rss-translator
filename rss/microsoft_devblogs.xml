@@ -4,22 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Go 1.23.5-1 and 1.22.11-1 Microsoft builds now available】Go 1.23.5-1 和 1.22.11-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-5-1-and-1-22-11-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Fri, 17 Jan 2025 17:39:31 +0000</pubDate>
+      <title>【Why is there a bulge on my bicycle tire when I inflate it?】为什么我的自行车轮胎充气时会出现凸起？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250121-01/?p=110790</link>
+      <description>【Get the order of operations right.】正确掌握操作顺序。</description>
+      <pubDate>Tue, 21 Jan 2025 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Meet the .NET Team at NDC London 2025】在 2025 年伦敦 NDC 上与 .NET 团队见面</title>
-      <link>https://devblogs.microsoft.com/dotnet/meet-the-dotnet-team-at-ndc-london-2025</link>
-      <description>【Meet the .NET team at NDC London 2025 to explore the latest in .NET 9, Azure, and AI-powered development through keynotes, sessions, and 1:1 meetups.】在 NDC London 2025 上与 .NET 团队见面，通过主题演讲、会议和 1:1 聚会来探索 .NET 9、Azure 和 AI 驱动的开发的最新动态。</description>
-      <pubDate>Thu, 16 Jan 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reminder: When a C++ object fails to construct, the destructor does not run】提醒：当C++对象构造失败时，析构函数不会运行</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250120-00/?p=110783</link>
-      <description>【If you need to run after a failed construction, you have to put it in a base class or member variable.】如果需要在构造失败后运行，则必须将其放入基类或成员变量中。</description>
-      <pubDate>Mon, 20 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Why doesn’t the Windows blue screen of death prominently identify the company that created the driver that crashed?】为什么 Windows 蓝屏死机没有显着标识创建崩溃驱动程序的公司？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250121-00/?p=110788</link>
+      <description>【Because the driver that crashed may not be the one at fault.】因为撞车的司机可能不是有过错的人。</description>
+      <pubDate>Tue, 21 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【.NET Aspire小贴示 – 管理容器和数据生命周期】.NET Aspire小贴示 – 管理容器和数据生命周期</title>
@@ -28,10 +22,22 @@
       <pubDate>Fri, 17 Jan 2025 11:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Our Favorite NEW Visual Studio Features of 2024】我们最喜欢的 2024 年 Visual Studio 新功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/our-favorite-new-visual-studio-features-of-2024</link>
-      <description>【Last year, the Visual Studio team delivered many new developer-focused improvements and AI integrations, many of which came directly from your feedback on Developer Community. In this post, we highlight the team’s favorite features from 2024 that boost productivity, streamline workflows, and enhance your coding experience. Let’s dive in! Image Hover Preview: See your images [&amp;hellip;]】去年，Visual Studio 团队提供了许多以开发人员为中心的新改进和 AI 集成，其中许多直接来自您对开发人员社区的反馈。在这篇文章中，我们重点介绍了 2024 年团队最喜欢的功能，这些功能可提高生产力、简化工作流程并增强您的编码体验。让我们深入了解一下！图像悬停预览：查看您的图像[...]</description>
-      <pubDate>Thu, 16 Jan 2025 17:01:56 +0000</pubDate>
+      <title>【Reminder: When a C++ object fails to construct, the destructor does not run】提醒：当C++对象构造失败时，析构函数不会运行</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250120-00/?p=110783</link>
+      <description>【If you need to run after a failed construction, you have to put it in a base class or member variable.】如果需要在构造失败后运行，则必须将其放入基类或成员变量中。</description>
+      <pubDate>Mon, 20 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【WinForms: Analyze This (Me in Visual Basic)】WinForms：分析这个（Visual Basic 中的 Me）</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-winforms-analyzers</link>
+      <description>【Your WinForms code might have issues—maybe an Async call picked the wrong overload, or it’s leaking data into resource files. Time to call in a code-shrink! So, WinForms, Analyze This!】您的 WinForms 代码可能存在问题 - 也许异步调用选择了错误的重载，或者将数据泄漏到资源文件中。是时候调用代码收缩了！那么，WinForms，分析一下！</description>
+      <pubDate>Tue, 21 Jan 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AutoGen reimagined: Launching AutoGen 0.4】AutoGen 重新构想：推出 AutoGen 0.4</title>
+      <link>https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4</link>
+      <description>【We are thrilled to announce the release of AutoGen v0.4! This new version represents a complete redesign of the AutoGen library, focusing on improved code quality, robustness, usability, and scalability of agentic workflows. This release sets the stage for a robust ecosystem to drive advances in agentic AI. Key Features: Asynchronous Messaging: Agents now communicate [&amp;hellip;]】我们很高兴地宣布 AutoGen v0.4 发布！这个新版本代表了 AutoGen 库的彻底重新设计，重点是提高代理工作流程的代码质量、稳健性、可用性和可扩展性。此版本为强大的生态系统奠定了基础，以推动代理人工智能的进步。主要功能：异步消息传递：代理现在可以进行通信[...]</description>
+      <pubDate>Fri, 17 Jan 2025 23:39:51 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the crash when trying to erase an element from a std::set】尝试从 std::set 中删除元素时发生崩溃的情况</title>
@@ -52,16 +58,10 @@
       <pubDate>Fri, 17 Jan 2025 17:20:52 +0000</pubDate>
     </item>
     <item>
-      <title>【AutoGen reimagined: Launching AutoGen 0.4】AutoGen 重新构想：推出 AutoGen 0.4</title>
-      <link>https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4</link>
-      <description>【We are thrilled to announce the release of AutoGen v0.4! This new version represents a complete redesign of the AutoGen library, focusing on improved code quality, robustness, usability, and scalability of agentic workflows. This release sets the stage for a robust ecosystem to drive advances in agentic AI. Key Features: Asynchronous Messaging: Agents now communicate [&amp;hellip;]】我们很高兴地宣布 AutoGen v0.4 发布！这个新版本代表了 AutoGen 库的彻底重新设计，重点是提高代理工作流程的代码质量、稳健性、可用性和可扩展性。此版本为强大的生态系统奠定了基础，以推动代理人工智能的进步。主要功能：异步消息传递：代理现在可以进行通信[...]</description>
-      <pubDate>Fri, 17 Jan 2025 23:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: Pushing the Boundaries of Multi-Agent AI Collaboration with ServiceNow and Microsoft Semantic Kernel】客户案例研究：利用 ServiceNow 和 Microsoft 语义内核突破多代理 AI 协作的界限</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-pushing-the-boundaries-of-multi-agent-ai-collaboration-with-servicenow-and-microsoft-semantic-kernel</link>
-      <description>【The Journey to Multi-Agent Innovation At ServiceNow, we embarked on an ambitious journey to redefine how AI systems collaborate in enterprise environments. Through our partnership with Microsoft, we set out to create something beyond traditional integration – a true multi-agent system across platform that could work effectively alongside human teams. While NowAssist and Microsoft Copilot [&amp;hellip;]】多代理创新之旅 在 ServiceNow，我们踏上了雄心勃勃的旅程，重新定义人工智能系统在企业环境中的协作方式。通过与微软的合作，我们着手创建超越传统集成的东西——一个真正的跨平台多代理系统，可以与人类团队一起有效地工作。而 NowAssist 和 Microsoft Copilot [...]</description>
-      <pubDate>Thu, 16 Jan 2025 19:21:33 +0000</pubDate>
+      <title>【Go 1.23.5-1 and 1.22.11-1 Microsoft builds now available】Go 1.23.5-1 和 1.22.11-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-5-1-and-1-22-11-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
+      <pubDate>Fri, 17 Jan 2025 17:39:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
