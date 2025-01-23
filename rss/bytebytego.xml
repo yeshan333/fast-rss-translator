@@ -5,34 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP146: The Open Source AI Stack】EP146：开源人工智能堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep146-the-open-source-ai-stack</link>
-      <description>【You don&amp;#8217;t need to spend a fortune to build an AI application.】你不需要花一大笔钱来构建人工智能应用程序。</description>
-      <pubDate>Sat, 18 Jan 2025 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Understanding Message Queues】了解消息队列</title>
-      <link>https://blog.bytebytego.com/p/understanding-message-queues</link>
-      <description>【Asynchronous communication has become an important strategy for modern software systems, particularly in distributed and large-scale applications.】异步通信已成为现代软件系统的重要策略，特别是在分布式和大规模应用程序中。</description>
-      <pubDate>Thu, 09 Jan 2025 16:30:54 +0000</pubDate>
-    </item>
-    <item>
       <title>【How LinkedIn Scaled User Restriction System to 5 Million Queries Per Second】LinkedIn 如何将用户限制系统扩展到每秒 500 万次查询</title>
       <link>https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction</link>
       <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：本文中的详细信息来自 LinkedIn 工程博客。</description>
       <pubDate>Tue, 21 Jan 2025 16:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Kubernetes Made Easy: A Beginner’s Roadmap to Container Orchestration】Kubernetes 让一切变得简单：容器编排初学者路线图</title>
-      <link>https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners</link>
-      <description>【Containers, led by technologies like Docker, offer a lightweight, portable, and consistent way to package applications and their dependencies.】以 Docker 等技术为主导的容器提供了一种轻量级、可移植且一致的方式来打包应用程序及其依赖项。</description>
-      <pubDate>Thu, 02 Jan 2025 16:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber 如何在数十亿美元的业务范围内统一结账</title>
-      <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
-      <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：本文中的详细信息来自 Uber 工程博客。</description>
-      <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
     </item>
     <item>
       <title>【Our New Coding Patterns YouTube channel】我们的新编码模式 YouTube 频道</title>
@@ -41,10 +17,10 @@
       <pubDate>Mon, 20 Jan 2025 16:30:59 +0000</pubDate>
     </item>
     <item>
-      <title>【EP145: Infrastructure as Code Landscape】EP145：基础设施即代码景观</title>
-      <link>https://blog.bytebytego.com/p/ep145-infrastructure-as-code-landscape</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
-      <pubDate>Sat, 11 Jan 2025 16:30:50 +0000</pubDate>
+      <title>【EP146: The Open Source AI Stack】EP146：开源人工智能堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep146-the-open-source-ai-stack</link>
+      <description>【You don&amp;#8217;t need to spend a fortune to build an AI application.】你不需要花一大笔钱来构建人工智能应用程序。</description>
+      <pubDate>Sat, 18 Jan 2025 16:30:58 +0000</pubDate>
     </item>
     <item>
       <title>【EP144: The 9 Algorithms That Dominate Our World】EP144：主宰世界的 9 种算法</title>
@@ -57,6 +33,30 @@
       <link>https://blog.bytebytego.com/p/from-monolith-to-microservices-key</link>
       <description>【Monolithic architecture is a software development approach in which the entire application is built as a single, unified codebase.】整体架构是一种软件开发方法，其中整个应用程序构建为单个统一的代码库。</description>
       <pubDate>Thu, 16 Jan 2025 16:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber 如何在数十亿美元的业务范围内统一结账</title>
+      <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
+      <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：本文中的详细信息来自 Uber 工程博客。</description>
+      <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Kubernetes Made Easy: A Beginner’s Roadmap to Container Orchestration】Kubernetes 让一切变得简单：容器编排初学者路线图</title>
+      <link>https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners</link>
+      <description>【Containers, led by technologies like Docker, offer a lightweight, portable, and consistent way to package applications and their dependencies.】以 Docker 等技术为主导的容器提供了一种轻量级、可移植且一致的方式来打包应用程序及其依赖项。</description>
+      <pubDate>Thu, 02 Jan 2025 16:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Understanding Message Queues】了解消息队列</title>
+      <link>https://blog.bytebytego.com/p/understanding-message-queues</link>
+      <description>【Asynchronous communication has become an important strategy for modern software systems, particularly in distributed and large-scale applications.】异步通信已成为现代软件系统的重要策略，特别是在分布式和大规模应用程序中。</description>
+      <pubDate>Thu, 09 Jan 2025 16:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP145: Infrastructure as Code Landscape】EP145：基础设施即代码景观</title>
+      <link>https://blog.bytebytego.com/p/ep145-infrastructure-as-code-landscape</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 11 Jan 2025 16:30:50 +0000</pubDate>
     </item>
     <item>
       <title>【How Airbnb Built a Key-Value Store for Petabytes of Data】Airbnb 如何为 PB 级数据构建键值存储</title>
