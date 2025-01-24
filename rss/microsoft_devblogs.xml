@@ -4,22 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
+      <title>【Why doesn’t the Windows blue screen of death prominently identify the company that created the driver that crashed?】为什么 Windows 蓝屏死机没有显着标识创建崩溃驱动程序的公司？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250121-00/?p=110788</link>
+      <description>【Because the driver that crashed may not be the one at fault.】因为撞车的司机可能不是有过错的人。</description>
+      <pubDate>Tue, 21 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Memory corruption from outside the process looks like space aliens】进程外部的内存损坏看起来就像外星人</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250123-00/?p=110800</link>
+      <description>【The write isn&#39;t visible to your process, just the effect of the write.】写入对您的进程不可见，只能看到写入的效果。</description>
+      <pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Be mindful of temporal terms in documents: What is the reference point in time?】请注意文档中的时间术语：参考时间点是什么？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250122-00/?p=110797</link>
       <description>【What is your implied point in time for the reference?】您的参考暗示时间点是什么？</description>
       <pubDate>Wed, 22 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Extending Regular Expressions (Regex) Support on Azure SQL Managed Instance (MI)】扩展 Azure SQL 托管实例 (MI) 上的正则表达式 (Regex) 支持</title>
-      <link>https://devblogs.microsoft.com/azure-sql/extending-regular-expressions-regex-support-on-azure-sql-managed-instance-mi</link>
-      <description>【We are happy to announce the Private Preview of Regular Expressions (Regex) support on Azure SQL Managed Instance (MI). This new feature brings powerful text processing capabilities to your SQL queries, enabling you to perform complex pattern matching and data manipulation with ease.  Regex support in Azure SQL The Regex feature in Azure SQL follows [&amp;hellip;]】我们很高兴地宣布 Azure SQL 托管实例 (MI) 提供正则表达式 (Regex) 支持的私人预览版。这一新功能为您的 SQL 查询带来了强大的文本处理功能，使您能够轻松执行复杂的模式匹配和数据操作。  Azure SQL 中的正则表达式支持 Azure SQL 中的正则表达式功能遵循 [...]</description>
-      <pubDate>Mon, 20 Jan 2025 13:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.23.5-1 and 1.22.11-1 Microsoft builds now available】Go 1.23.5-1 和 1.22.11-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-5-1-and-1-22-11-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】包含安全修复程序的一组新的 Microsoft Go 版本现已可供下载。</description>
-      <pubDate>Fri, 17 Jan 2025 17:39:31 +0000</pubDate>
     </item>
     <item>
       <title>【Why is there a bulge on my bicycle tire when I inflate it?】为什么我的自行车轮胎充气时会出现凸起？</title>
@@ -28,40 +28,40 @@
       <pubDate>Tue, 21 Jan 2025 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel】来宾博客：使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-leap-forward-with-modern-ai-using-microsoft-365-agents-sdk-and-semantic-kernel</link>
-      <description>【Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel Today we’re featuring a guest author, Arafat Tehsin, who’s a Microsoft Most Valuable Professional (MVP) for AI. He’s written an article we’re sharing below, focused on how to Leap Forward with Modern AI using Microsoft 365 Agents SDK and Semantic Kernel. We’ll [&amp;hellip;]】使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃 今天，我们邀请到一位客座作者 Arafat Tehsin，他是 Microsoft AI 领域最有价值专家 (MVP)。他写了一篇我们在下面分享的文章，重点介绍了如何使用 Microsoft 365 Agents SDK 和语义内核实现现代 AI 的飞跃。出色地 […]</description>
-      <pubDate>Fri, 17 Jan 2025 17:20:52 +0000</pubDate>
+      <title>【Improve the “R” in RAG and embrace Agentic RAG in Azure SQL】改善抹布中的“ r”，并拥抱Azure SQL中的代理抹布</title>
+      <link>https://devblogs.microsoft.com/azure-sql/improve-the-r-in-rag-and-embrace-agentic-rag-in-azure-sql</link>
+      <description>【The RAG (Retrieval Augmented Generation) pattern, which is commonly discussed today, is based on the foundational idea that the retrieval part is done using vector search. This ensures that all the most relevant information available to answer the given question is returned and then fed to an LLM to generate the final answer. While vector [&amp;hellip;]】今天普遍讨论的 RAG（检索增强生成）模式基于检索部分是使用向量搜索完成的基本思想。这可确保返回可用于回答给定问题的所有最相关的信息，然后将其提供给法学硕士以生成最终答案。而矢量[...]</description>
+      <pubDate>Thu, 23 Jan 2025 16:56:11 +0000</pubDate>
     </item>
     <item>
       <title>【WinForms: Analyze This (Me in Visual Basic)】WinForms：分析这个（Visual Basic 中的 Me）</title>
       <link>https://devblogs.microsoft.com/dotnet/introducing-winforms-analyzers</link>
-      <description>【Your WinForms code might have issues—maybe an Async call picked the wrong overload, or it’s leaking data into resource files. Time to call in a code-shrink! So, WinForms, Analyze This!】您的 WinForms 代码可能存在问题 - 也许异步调用选择了错误的重载，或者将数据泄漏到资源文件中。是时候调用代码收缩了！那么，WinForms，分析一下！</description>
+      <description>【Your WinForms code might have issues—maybe an Async call picked the wrong overload, or it’s leaking data into resource files. Time to call in a code-shrink! So, WinForms, Analyze This!】您的Winforms代码可能会遇到问题 - 也许异步调用选择了错误的过载，或者将数据泄漏到资源文件中。是时候打电话给代码障碍了！因此，winforms，分析这个！</description>
       <pubDate>Tue, 21 Jan 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why doesn’t the Windows blue screen of death prominently identify the company that created the driver that crashed?】为什么 Windows 蓝屏死机没有显着标识创建崩溃驱动程序的公司？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250121-00/?p=110788</link>
-      <description>【Because the driver that crashed may not be the one at fault.】因为撞车的司机可能不是有过错的人。</description>
-      <pubDate>Tue, 21 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Announcing a free GitHub Copilot for Visual Studio】宣布免费的github副驾驶用于视觉工作室</title>
+      <link>https://devblogs.microsoft.com/visualstudio/announcing-a-free-github-copilot-for-visual-studio</link>
+      <description>【We&amp;#8217;re excited to announce an all new free plan for GitHub Copilot, available for everyone today in Visual Studio. All you need is a GitHub account. No trial. No subscription. No credit card. With GitHub Copilot Free, you’ll receive: 2,000 code completions per month 50 chat messages per month Access to the latest AI models with [&amp;hellip;]】我们很高兴地宣布 GitHub Copilot 的全新免费计划，今天可供 Visual Studio 中的所有人使用。 您只需要一个 GitHub 帐户即可。没有审判。没有订阅。没有信用卡。使用 GitHub Copilot Free，您将收到： 每月 2,000 次代码完成 每月 50 条聊天消息 通过 [...] 访问最新的 AI 模型</description>
+      <pubDate>Thu, 23 Jan 2025 17:37:46 +0000</pubDate>
     </item>
     <item>
-      <title>【AutoGen reimagined: Launching AutoGen 0.4】AutoGen 重新构想：推出 AutoGen 0.4</title>
-      <link>https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4</link>
-      <description>【We are thrilled to announce the release of AutoGen v0.4! This new version represents a complete redesign of the AutoGen library, focusing on improved code quality, robustness, usability, and scalability of agentic workflows. This release sets the stage for a robust ecosystem to drive advances in agentic AI. Key Features: Asynchronous Messaging: Agents now communicate [&amp;hellip;]】我们很高兴地宣布 AutoGen v0.4 发布！这个新版本代表了 AutoGen 库的彻底重新设计，重点是提高代理工作流程的代码质量、稳健性、可用性和可扩展性。此版本为强大的生态系统奠定了基础，以推动代理人工智能的进步。主要功能：异步消息传递：代理现在可以进行通信[...]</description>
-      <pubDate>Fri, 17 Jan 2025 23:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Creative Writing Assistant – a multi-agent app sample with Semantic Kernel &amp; .NET Aspire】来宾博客：创意写作助手 - 具有语义内核和 .NET Aspire 的多代理应用程序示例</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-creative-writing-assistant-a-multi-agent-app-sample-with-semantic-kernel-net-aspire</link>
-      <description>【Today we’re featuring a guest author, Ricardo Niepel, who’s a Senior Technical Specialist at Microsoft. He’s written an article we’re sharing below; we’ll turn it over to Ricardo to share more! If “Creative Writing Assistant” sounds familiar, it might be because we&amp;#8217;ve previously released a similar multi-agent application built in Python during our Ignite conference [&amp;hellip;]】今天我们邀请到一位客座作者 Ricardo Niepel，他是 Microsoft 的高级技术专家。他写了一篇我们在下面分享的文章；我们将把它交给里卡多分享更多！如果“创意写作助手”听起来很熟悉，那可能是因为我们之前在 Ignite 会议期间发布了一个用 Python 构建的类似多代理应用程序 [...]</description>
-      <pubDate>Wed, 22 Jan 2025 22:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reminder: When a C++ object fails to construct, the destructor does not run】提醒：当C++对象构造失败时，析构函数不会运行</title>
+      <title>【Reminder: When a C++ object fails to construct, the destructor does not run】提醒：当C ++对象无法构造时，驱动器不运行</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250120-00/?p=110783</link>
       <description>【If you need to run after a failed construction, you have to put it in a base class or member variable.】如果需要在构造失败后运行，则必须将其放入基类或成员变量中。</description>
       <pubDate>Mon, 20 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (January 2025)】vcpkg 的新增功能（2025 年 1 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-january-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.01.13 registry release, 2025-01-11 tool release, as well as changes to vcpkg documentation throughout January. This release includes minor improvements and bug fixes. Some stats for this period: There are now 2,524 total ports available in the vcpkg curated registry. A [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.01.13注册表版本，2025-01-11工具发布的一部分，以及整个1月份对VCPKG文档的更改。此版本包括较小的改进和错误修复。此期间的一些统计数据：VCPKG策划注册表中现在有2,524个端口可用。一个[…]</description>
+      <pubDate>Thu, 23 Jan 2025 18:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Creative Writing Assistant – a multi-agent app sample with Semantic Kernel &amp; .NET Aspire】来宾博客：创意写作助理 - 具有语义内核和.net Aspire的多代理应用程序样本</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-creative-writing-assistant-a-multi-agent-app-sample-with-semantic-kernel-net-aspire</link>
+      <description>【Today we’re featuring a guest author, Ricardo Niepel, who’s a Senior Technical Specialist at Microsoft. He’s written an article we’re sharing below; we’ll turn it over to Ricardo to share more! If “Creative Writing Assistant” sounds familiar, it might be because we&amp;#8217;ve previously released a similar multi-agent application built in Python during our Ignite conference [&amp;hellip;]】今天，我们介绍了一位客座作家Ricardo Niepel，他是Microsoft的高级技术专家。他写了一篇我们在下面分享的文章；我们将其移交给Ricardo，以分享更多！如果“创意写作助理”听起来很熟悉，那可能是因为我们以前发布了在IGNITE会议期间在Python上发布的类似的多代理应用程序[…]</description>
+      <pubDate>Wed, 22 Jan 2025 22:42:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
