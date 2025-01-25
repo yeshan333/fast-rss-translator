@@ -4,40 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Multi-Path TCP: revolutionizing connectivity, one path at a time】多路径TCP：革新连接性，一次一条路径</title>
-      <link>https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/</link>
-      <description>【 Multi-Path TCP (MPTCP) leverages multiple network interfaces, like Wi-Fi and cellular, to provide seamless mobility for more reliable connectivity. While promising, MPTCP is still in its early stages, 】多路径 TCP (MPTCP) 利用 Wi-Fi 和蜂窝网络等多个网络接口来提供无缝移动性，从而实现更可靠的连接。尽管前景光明，MPTCP 仍处于早期阶段，</description>
-      <pubDate>Fri, 03 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The forecast is clear: clouds on e-paper, powered by the cloud】预测很明确：电子纸上的云，由云提供支持</title>
-      <link>https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/</link>
-      <description>【 Follow along as I build a custom weather display using Cloudflare Workers and a popular e-paper display. 】请跟随我使用 Cloudflare Workers 和流行的电子纸显示屏构建自定义天气显示。</description>
-      <pubDate>Tue, 31 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【What’s new in Cloudflare: MASQUE now powers 1.1.1.1 &amp; WARP apps, DEX now generally available with Remote Captures】Cloudflare中的新功能：Masque现在为1.1.1.1和Warp应用程序，DEX现在通常可用于远程捕获</title>
+      <link>https://blog.cloudflare.com/masque-now-powers-1-1-1-1-and-warp-apps-dex-available-with-remote-captures/</link>
+      <description>【 This roundup blog post shares the latest new features and capabilities at Cloudflare. 】这篇综述博客文章分享了 Cloudflare 的最新特性和功能。</description>
+      <pubDate>Fri, 27 Dec 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The fall and rise of TikTok (traffic)】TikTok 的兴衰（流量）</title>
       <link>https://blog.cloudflare.com/the-fall-and-rise-of-tiktok-traffic/</link>
-      <description>【 On January 19, 2025, ByteDance suspended TikTok and related apps for US users. We examine the 14-hour traffic plunge, recovery near Donald Trump’s inauguration. 】2025年1月19日，Bontedance暂停了Tiktok和相关应用程序的应用程序。我们检查了14小时的交通量，唐纳德·特朗普就职典礼附近的恢复。</description>
+      <description>【 On January 19, 2025, ByteDance suspended TikTok and related apps for US users. We examine the 14-hour traffic plunge, recovery near Donald Trump’s inauguration. 】2025 年 1 月 19 日，字节跳动暂停对美国用户使用 TikTok 及相关应用。我们研究了唐纳德·特朗普就职典礼前 14 小时的交通暴跌和恢复情况。</description>
       <pubDate>Tue, 21 Jan 2025 13:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Open sourcing h3i: a command line tool and library for low-level HTTP/3 testing and debugging】开源H3I：低级HTTP/3测试和调试的命令行工具和库</title>
-      <link>https://blog.cloudflare.com/h3i/</link>
-      <description>【 h3i is a command line tool and Rust library designed for low-level testing and debugging of HTTP/3, which runs over QUIC. 】H3i是一种命令行工具和Rust库，旨在用于低级测试和调试HTTP/3的调试，该测试在QUIC上运行。</description>
-      <pubDate>Mon, 30 Dec 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/</link>
-      <description>【 2024 ended with a bang. Cloudflare mitigated another record-breaking DDoS attack peaking at 5.6 Tbps. 】2024年轰然结束。 Cloudflare 缓解了另一项破纪录的 DDoS 攻击，峰值速度高达 5.6 Tbps。</description>
-      <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in Cloudflare: MASQUE now powers 1.1.1.1 &amp; WARP apps, DEX now generally available with Remote Captures】Cloudflare 的新增功能：MASQUE 现在支持 1.1.1.1 和 WARP 应用程序，DEX 现在普遍可用于远程捕获</title>
-      <link>https://blog.cloudflare.com/masque-now-powers-1-1-1-1-and-warp-apps-dex-available-with-remote-captures/</link>
-      <description>【 This roundup blog post shares the latest new features and capabilities at Cloudflare. 】这篇综述博客文章分享了 Cloudflare 的最新特性和功能。</description>
-      <pubDate>Fri, 27 Dec 2024 14:00:00 +0000</pubDate>
+      <title>【Multi-Path TCP: revolutionizing connectivity, one path at a time】多路径 TCP：彻底改变连接性，一次一条路径</title>
+      <link>https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/</link>
+      <description>【 Multi-Path TCP (MPTCP) leverages multiple network interfaces, like Wi-Fi and cellular, to provide seamless mobility for more reliable connectivity. While promising, MPTCP is still in its early stages, 】多路径TCP（MPTCP）利用多个网络接口（例如Wi-Fi和Cellular）提供无缝的移动性，以提供更可靠的连接性。虽然有前途，但MPTCP仍处于早期阶段，但</description>
+      <pubDate>Fri, 03 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Demonstrating reduction of vulnerability classes: a key step in CISA’s “Secure by Design” pledge】展示漏洞类别的减少：CISA“设计安全”承诺的关键一步</title>
@@ -46,10 +28,22 @@
       <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Open source all the way down: Upgrading our developer documentation】一路开源：升级开发人员文档</title>
-      <link>https://blog.cloudflare.com/open-source-all-the-way-down-upgrading-our-developer-documentation/</link>
-      <description>【 At Cloudflare, we treat developer content like an open source product. This collaborative approach enables global contributions to enhance quality and relevance for a wide range of users. This year, 】在CloudFlare，我们将开发人员的内容视为开源产品。这种协作方法可实现全球贡献，以提高各种用户的质量和相关性。今年，</description>
-      <pubDate>Wed, 08 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Behind the scenes with Stream Live, Cloudflare’s live streaming service】Cloudflare 的直播流媒体服务 Stream Live 的幕后花絮</title>
+      <link>https://blog.cloudflare.com/behind-the-scenes-with-stream-live-cloudflares-live-streaming-service/</link>
+      <description>【 Let’s talk about Stream Live’s design, and how it leverages the distributed nature of Cloudflare’s network, rather than centralized locations as many other live services do. 】让我们谈谈 Stream Live 的设计，以及它如何利用 Cloudflare 网络的分布式特性，而不是像许多其他直播服务那样利用集中位置。</description>
+      <pubDate>Thu, 02 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The forecast is clear: clouds on e-paper, powered by the cloud】预测很明确：电子纸上的云，由云提供支持</title>
+      <link>https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/</link>
+      <description>【 Follow along as I build a custom weather display using Cloudflare Workers and a popular e-paper display. 】请跟随我使用 Cloudflare Workers 和流行的电子纸显示屏构建自定义天气显示。</description>
+      <pubDate>Tue, 31 Dec 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/</link>
+      <description>【 2024 ended with a bang. Cloudflare mitigated another record-breaking DDoS attack peaking at 5.6 Tbps. 】2024年以轰动结束。 Cloudflare减轻了另一种破纪录的DDOS攻击，达到5.6 TBP。</description>
+      <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【TikTok ban takes hold: data reveals sharp traffic decline and rapid shift to alternatives】TikTok禁令生效：数据显示流量急剧下降并迅速转向替代品</title>
@@ -58,10 +52,16 @@
       <pubDate>Sun, 19 Jan 2025 16:19:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Behind the scenes with Stream Live, Cloudflare’s live streaming service】Cloudflare的现场流媒体服务的Stream Live幕后</title>
-      <link>https://blog.cloudflare.com/behind-the-scenes-with-stream-live-cloudflares-live-streaming-service/</link>
-      <description>【 Let’s talk about Stream Live’s design, and how it leverages the distributed nature of Cloudflare’s network, rather than centralized locations as many other live services do. 】让我们来谈谈流Live的设计以及它如何利用Cloudflare网络的分布性质，而不是像许多其他实时服务一样集中位置。</description>
-      <pubDate>Thu, 02 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Open source all the way down: Upgrading our developer documentation】一路开源：升级开发人员文档</title>
+      <link>https://blog.cloudflare.com/open-source-all-the-way-down-upgrading-our-developer-documentation/</link>
+      <description>【 At Cloudflare, we treat developer content like an open source product. This collaborative approach enables global contributions to enhance quality and relevance for a wide range of users. This year, 】在 Cloudflare，我们将开发者内容视为开源产品。这种协作方法使全球贡献能够提高广大用户的质量和相关性。今年，</description>
+      <pubDate>Wed, 08 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Open sourcing h3i: a command line tool and library for low-level HTTP/3 testing and debugging】开源 h3i：用于低级 HTTP/3 测试和调试的命令行工具和库</title>
+      <link>https://blog.cloudflare.com/h3i/</link>
+      <description>【 h3i is a command line tool and Rust library designed for low-level testing and debugging of HTTP/3, which runs over QUIC. 】h3i 是一个命令行工具和 Rust 库，专为 HTTP/3 的低级测试和调试而设计，它在 QUIC 上运行。</description>
+      <pubDate>Mon, 30 Dec 2024 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

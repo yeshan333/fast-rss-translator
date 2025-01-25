@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How LinkedIn Scaled User Restriction System to 5 Million Queries Per Second】LinkedIn如何将用户限制系统缩放到每秒500万查询</title>
-      <link>https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction</link>
-      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：本文中的详细信息来自 LinkedIn 工程博客。</description>
-      <pubDate>Tue, 21 Jan 2025 16:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Understanding Message Queues】了解消息队列</title>
-      <link>https://blog.bytebytego.com/p/understanding-message-queues</link>
-      <description>【Asynchronous communication has become an important strategy for modern software systems, particularly in distributed and large-scale applications.】异步通信已成为现代软件系统的重要策略，特别是在分布式和大规模应用程序中。</description>
-      <pubDate>Thu, 09 Jan 2025 16:30:54 +0000</pubDate>
+      <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber 如何在数十亿美元的业务范围内统一结账</title>
+      <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
+      <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：本文中的详细信息来自 Uber 工程博客。</description>
+      <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
     </item>
     <item>
       <title>【Top Strategies to Reduce Latency】减少延迟的最佳策略</title>
@@ -23,16 +17,34 @@
       <pubDate>Thu, 23 Jan 2025 16:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【EP145: Infrastructure as Code Landscape】EP145：基础设施作为代码景观</title>
+      <title>【Our New Coding Patterns YouTube channel】我们的新编码模式 YouTube 频道</title>
+      <link>https://blog.bytebytego.com/p/our-new-coding-patterns-youtube-channel</link>
+      <description>【Our New Coding Patterns YouTube channel】我们的新编码模式 YouTube 频道</description>
+      <pubDate>Mon, 20 Jan 2025 16:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP144: The 9 Algorithms That Dominate Our World】EP144：主宰世界的 9 种算法</title>
+      <link>https://blog.bytebytego.com/p/ep144-the-9-algorithms-that-dominate</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
+      <pubDate>Sat, 04 Jan 2025 16:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LinkedIn Scaled User Restriction System to 5 Million Queries Per Second】LinkedIn如何将用户限制系统缩放到每秒500万查询</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction</link>
+      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：这篇文章中的详细信息是从LinkedIn工程博客得出的。</description>
+      <pubDate>Tue, 21 Jan 2025 16:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Airbnb Built a Key-Value Store for Petabytes of Data】Airbnb 如何为 PB 级数据构建键值存储</title>
+      <link>https://blog.bytebytego.com/p/how-airbnb-built-a-key-value-store</link>
+      <description>【Disclaimer: The details in this post have been derived from the Airbnb Technical Blog.】免责声明：本文中的详细信息来自 Airbnb 技术博客。</description>
+      <pubDate>Tue, 07 Jan 2025 16:30:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP145: Infrastructure as Code Landscape】EP145：基础设施即代码景观</title>
       <link>https://blog.bytebytego.com/p/ep145-infrastructure-as-code-landscape</link>
       <description>【This week&amp;#8217;s system design refresher:】本周的系统设计复习：</description>
       <pubDate>Sat, 11 Jan 2025 16:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber 如何在数十亿美元的业务范围内统一结账</title>
-      <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
-      <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：这篇文章中的详细信息源自Uber工程博客。</description>
-      <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
     </item>
     <item>
       <title>【From Monolith to Microservices: Key Transition Patterns】从整体到微服务：关键过渡模式</title>
@@ -41,28 +53,16 @@
       <pubDate>Thu, 16 Jan 2025 16:30:19 +0000</pubDate>
     </item>
     <item>
-      <title>【EP146: The Open Source AI Stack】EP146：开源AI堆栈</title>
+      <title>【Understanding Message Queues】了解消息队列</title>
+      <link>https://blog.bytebytego.com/p/understanding-message-queues</link>
+      <description>【Asynchronous communication has become an important strategy for modern software systems, particularly in distributed and large-scale applications.】异步通信已成为现代软件系统的重要策略，特别是在分布式和大规模应用程序中。</description>
+      <pubDate>Thu, 09 Jan 2025 16:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP146: The Open Source AI Stack】EP146：开源人工智能堆栈</title>
       <link>https://blog.bytebytego.com/p/ep146-the-open-source-ai-stack</link>
       <description>【You don&amp;#8217;t need to spend a fortune to build an AI application.】您无需花钱就可以构建AI应用程序。</description>
       <pubDate>Sat, 18 Jan 2025 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Airbnb Built a Key-Value Store for Petabytes of Data】Airbnb 如何为 PB 级数据构建键值存储</title>
-      <link>https://blog.bytebytego.com/p/how-airbnb-built-a-key-value-store</link>
-      <description>【Disclaimer: The details in this post have been derived from the Airbnb Technical Blog.】免责声明：这篇文章中的详细信息源自Airbnb技术博客。</description>
-      <pubDate>Tue, 07 Jan 2025 16:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Our New Coding Patterns YouTube channel】我们的新编码模式YouTube频道</title>
-      <link>https://blog.bytebytego.com/p/our-new-coding-patterns-youtube-channel</link>
-      <description>【Our New Coding Patterns YouTube channel】我们的新编码模式 YouTube 频道</description>
-      <pubDate>Mon, 20 Jan 2025 16:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP144: The 9 Algorithms That Dominate Our World】EP144：统治我们世界的9种算法</title>
-      <link>https://blog.bytebytego.com/p/ep144-the-9-algorithms-that-dominate</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计更新：</description>
-      <pubDate>Sat, 04 Jan 2025 16:30:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
