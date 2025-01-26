@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Memory corruption from outside the process looks like space aliens】进程外部的内存损坏看起来就像外星人</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250123-00/?p=110800</link>
-      <description>【The write isn&#39;t visible to your process, just the effect of the write.】写作对您的过程不可见，只是写作的效果。</description>
-      <pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Improve the “R” in RAG and embrace Agentic RAG in Azure SQL】改进 RAG 中的“R”并在 Azure SQL 中采用 Agentic RAG</title>
+      <link>https://devblogs.microsoft.com/azure-sql/improve-the-r-in-rag-and-embrace-agentic-rag-in-azure-sql</link>
+      <description>【The RAG (Retrieval Augmented Generation) pattern, which is commonly discussed today, is based on the foundational idea that the retrieval part is done using vector search. This ensures that all the most relevant information available to answer the given question is returned and then fed to an LLM to generate the final answer. While vector [&amp;hellip;]】今天普遍讨论的 RAG（检索增强生成）模式基于检索部分是使用向量搜索完成的基本思想。这可确保返回可用于回答给定问题的所有最相关的信息，然后将其提供给法学硕士以生成最终答案。而矢量[...]</description>
+      <pubDate>Thu, 23 Jan 2025 16:56:11 +0000</pubDate>
     </item>
     <item>
       <title>【.NET 9 中的 OpenAPI 文档生成】.NET 9 中的 OpenAPI 文档生成</title>
@@ -16,28 +16,40 @@
       <pubDate>Fri, 24 Jan 2025 05:33:54 +0000</pubDate>
     </item>
     <item>
+      <title>【Guest Blog: Creative Writing Assistant – a multi-agent app sample with Semantic Kernel &amp; .NET Aspire】来宾博客：创意写作助手 - 具有语义内核和 .NET Aspire 的多代理应用程序示例</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-creative-writing-assistant-a-multi-agent-app-sample-with-semantic-kernel-net-aspire</link>
+      <description>【Today we’re featuring a guest author, Ricardo Niepel, who’s a Senior Technical Specialist at Microsoft. He’s written an article we’re sharing below; we’ll turn it over to Ricardo to share more! If “Creative Writing Assistant” sounds familiar, it might be because we&amp;#8217;ve previously released a similar multi-agent application built in Python during our Ignite conference [&amp;hellip;]】今天我们邀请到一位客座作者 Ricardo Niepel，他是 Microsoft 的高级技术专家。他写了一篇我们在下面分享的文章；我们将把它交给里卡多分享更多！如果“创意写作助手”听起来很熟悉，那可能是因为我们之前在 Ignite 会议期间发布了一个用 Python 构建的类似多代理应用程序 [...]</description>
+      <pubDate>Wed, 22 Jan 2025 22:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing a free GitHub Copilot for Visual Studio】宣布免费的github副驾驶用于视觉工作室</title>
+      <link>https://devblogs.microsoft.com/visualstudio/announcing-a-free-github-copilot-for-visual-studio</link>
+      <description>【We&amp;#8217;re excited to announce an all new free plan for GitHub Copilot, available for everyone today in Visual Studio. All you need is a GitHub account. No trial. No subscription. No credit card. With GitHub Copilot Free, you’ll receive: 2,000 code completions per month 50 chat messages per month Access to the latest AI models with [&amp;hellip;]】我们很高兴地宣布 GitHub Copilot 的全新免费计划，今天可供 Visual Studio 中的所有人使用。 您只需要一个 GitHub 帐户即可。没有审判。没有订阅。没有信用卡。使用 GitHub Copilot Free，您将收到： 每月 2,000 次代码完成 每月 50 条聊天消息 通过 [...] 访问最新的 AI 模型</description>
+      <pubDate>Thu, 23 Jan 2025 17:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Be mindful of temporal terms in documents: What is the reference point in time?】请注意文档中的时间术语：参考时间点是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250122-00/?p=110797</link>
+      <description>【What is your implied point in time for the reference?】您的参考暗示时间点是什么？</description>
+      <pubDate>Wed, 22 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Memory corruption from outside the process looks like space aliens】进程外部的内存损坏看起来就像外星人</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250123-00/?p=110800</link>
+      <description>【The write isn&#39;t visible to your process, just the effect of the write.】写作对您的过程不可见，只是写作的效果。</description>
+      <pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Revolutionising Customer Feedback: Harnessing Large Language Models for Retail Insights and Intelligence】革命性的客户反馈：利用大型语言模型用于零售见解和情报</title>
+      <link>https://devblogs.microsoft.com/ise/insights_generation_from_customer_feedback_using_llms</link>
+      <description>【In this article, we delve into techniques for extracting valuable insights from customer feedback using Large Language Models (LLMs). By identifying themes, sentiment, and competitor comparisons from feedback, businesses can gain a competitive edge.】在本文中，我们深入研究了使用大语言模型（LLM）从客户反馈中提取有价值的见解的技术。通过确定反馈的主题，情感和竞争者比较，企业可以获得竞争优势。</description>
+      <pubDate>Fri, 24 Jan 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Revolutionizing Large-Scale AI with Janusgraph and Azure Managed Instance for Apache Cassandra】用Janusgraph和Azure管理实例为Apache Cassandra革新大规模AI</title>
       <link>https://devblogs.microsoft.com/cosmosdb/revolutionizing-large-scale-ai-with-janusgraph-and-azure-managed-instance-for-apache-cassandra</link>
       <description>【JanusGraph is a high-performance graph database that offers flexibility in choosing storage backends. Apache Cassandra is a distributed NoSQL database known for its scalability and fault tolerance. Combining these two technologies can create a robust and efficient graph database solution. You can use the Azure Managed Instance for Apache Cassandra which is a fully-managed offering [&amp;hellip;]】JanusGraph 是一个高性能图形数据库，可以灵活选择存储后端。 Apache Cassandra 是一种分布式 NoSQL 数据库，以其可扩展性和容错能力而闻名。结合这两种技术可以创建强大且高效的图数据库解决方案。您可以使用 Apache Cassandra 的 Azure 托管实例，这是一个完全托管的产品 [...]</description>
       <pubDate>Fri, 24 Jan 2025 13:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in vcpkg (January 2025)】vcpkg 的新增功能（2025 年 1 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-january-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.01.13 registry release, 2025-01-11 tool release, as well as changes to vcpkg documentation throughout January. This release includes minor improvements and bug fixes. Some stats for this period: There are now 2,524 total ports available in the vcpkg curated registry. A [&amp;hellip;]】这篇博文总结了作为 2025.01.13 注册表版本、2025-01-11 工具版本一部分的 vcpkg 包管理器的更改，以及整个 1 月份对 vcpkg 文档的更改。此版本包括一些小的改进和错误修复。此期间的一些统计数据： vcpkg 管理的注册表中现在共有 2,524 个可用端口。一个[…]</description>
-      <pubDate>Thu, 23 Jan 2025 18:44:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improve the “R” in RAG and embrace Agentic RAG in Azure SQL】改善抹布中的“ r”，并拥抱Azure SQL中的代理抹布</title>
-      <link>https://devblogs.microsoft.com/azure-sql/improve-the-r-in-rag-and-embrace-agentic-rag-in-azure-sql</link>
-      <description>【The RAG (Retrieval Augmented Generation) pattern, which is commonly discussed today, is based on the foundational idea that the retrieval part is done using vector search. This ensures that all the most relevant information available to answer the given question is returned and then fed to an LLM to generate the final answer. While vector [&amp;hellip;]】今天普遍讨论的 RAG（检索增强生成）模式基于检索部分是使用向量搜索完成的基本思想。这可确保返回可用于回答给定问题的所有最相关的信息，然后将其提供给法学硕士以生成最终答案。而矢量[...]</description>
-      <pubDate>Thu, 23 Jan 2025 16:56:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Creative Writing Assistant – a multi-agent app sample with Semantic Kernel &amp; .NET Aspire】来宾博客：创意写作助手 - 具有语义内核和 .NET Aspire 的多代理应用程序示例</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-creative-writing-assistant-a-multi-agent-app-sample-with-semantic-kernel-net-aspire</link>
-      <description>【Today we’re featuring a guest author, Ricardo Niepel, who’s a Senior Technical Specialist at Microsoft. He’s written an article we’re sharing below; we’ll turn it over to Ricardo to share more! If “Creative Writing Assistant” sounds familiar, it might be because we&amp;#8217;ve previously released a similar multi-agent application built in Python during our Ignite conference [&amp;hellip;]】今天，我们介绍了一位客座作家Ricardo Niepel，他是Microsoft的高级技术专家。他写了一篇我们在下面分享的文章；我们将其移交给Ricardo，以分享更多！如果“创意写作助理”听起来很熟悉，那可能是因为我们以前发布了在IGNITE会议期间在Python上发布的类似的多代理应用程序[…]</description>
-      <pubDate>Wed, 22 Jan 2025 22:42:07 +0000</pubDate>
     </item>
     <item>
       <title>【A brief and incomplete comparison of memory corruption detection tools】记忆损坏检测工具的简短和不完整的比较</title>
@@ -46,22 +58,10 @@
       <pubDate>Fri, 24 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Revolutionising Customer Feedback: Harnessing Large Language Models for Retail Insights and Intelligence】革命性的客户反馈：利用大型语言模型用于零售见解和情报</title>
-      <link>https://devblogs.microsoft.com/ise/insights_generation_from_customer_feedback_using_llms</link>
-      <description>【In this article, we delve into techniques for extracting valuable insights from customer feedback using Large Language Models (LLMs). By identifying themes, sentiment, and competitor comparisons from feedback, businesses can gain a competitive edge.】在本文中，我们深入研究了使用大型语言模型 (LLM) 从客户反馈中提取有价值见解的技术。通过从反馈中识别主题、情绪和竞争对手比较，企业可以获得竞争优势。</description>
-      <pubDate>Fri, 24 Jan 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing a free GitHub Copilot for Visual Studio】宣布免费的github副驾驶用于视觉工作室</title>
-      <link>https://devblogs.microsoft.com/visualstudio/announcing-a-free-github-copilot-for-visual-studio</link>
-      <description>【We&amp;#8217;re excited to announce an all new free plan for GitHub Copilot, available for everyone today in Visual Studio. All you need is a GitHub account. No trial. No subscription. No credit card. With GitHub Copilot Free, you’ll receive: 2,000 code completions per month 50 chat messages per month Access to the latest AI models with [&amp;hellip;]】我们很高兴宣布Github Copilot的全新免费计划，该计划今天可在Visual Studio中为每个人提供。 您只需要一个GitHub帐户。没有试用。没有订阅。没有信用卡。借助GitHub Copilot免费，您将收到：每月250个代码完成，每月50个聊天消息，访问[…]的最新AI型号。</description>
-      <pubDate>Thu, 23 Jan 2025 17:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Be mindful of temporal terms in documents: What is the reference point in time?】请注意文档中的时间术语：参考时间点是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250122-00/?p=110797</link>
-      <description>【What is your implied point in time for the reference?】您的参考暗示时间点是什么？</description>
-      <pubDate>Wed, 22 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【What’s New in vcpkg (January 2025)】VCPKG的新功能（2025年1月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-january-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.01.13 registry release, 2025-01-11 tool release, as well as changes to vcpkg documentation throughout January. This release includes minor improvements and bug fixes. Some stats for this period: There are now 2,524 total ports available in the vcpkg curated registry. A [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.01.13注册表版本，2025-01-11工具发布的一部分，以及整个1月份对VCPKG文档的更改。此版本包括较小的改进和错误修复。此期间的一些统计数据：VCPKG策划注册表中现在有2,524个端口可用。一个[…]</description>
+      <pubDate>Thu, 23 Jan 2025 18:44:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
