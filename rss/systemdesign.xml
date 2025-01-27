@@ -5,16 +5,16 @@
     <description>Weekly newsletter to help you become better at work</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
-      <title>【How Databases Keep Passwords Securely 🔒】数据库如何安全地保存密码🔒</title>
-      <link>https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database</link>
-      <description>【#61: Break Into Security Fundamentals (3 Minutes)】#61：深入了解安全基础知识（3 分钟）</description>
-      <pubDate>Mon, 18 Nov 2024 13:19:05 +0000</pubDate>
+      <title>【How Do AirTags Work 】AirTags 如何工作 </title>
+      <link>https://newsletter.systemdesign.one/p/how-do-airtags-work</link>
+      <description>【#64: A Simple Introduction to AirTags Architecture (3 Minutes)】＃64：简单的Airtags Architecture（3分钟）</description>
+      <pubDate>Wed, 08 Jan 2025 13:17:38 +0000</pubDate>
     </item>
     <item>
-      <title>【How Google Search Works 🔥】Google搜索的工作原理🔥</title>
-      <link>https://newsletter.systemdesign.one/p/search-engine-architecture</link>
-      <description>【#57: Break Into Google Search Engine Architecture (6 Minutes)】#57：闯入 Google 搜索引擎架构（6 分钟）</description>
-      <pubDate>Mon, 30 Sep 2024 12:27:36 +0000</pubDate>
+      <title>【How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server ✨】Nginx 如何能够在单服务器上支持 100 万个并发连接 ✨</title>
+      <link>https://newsletter.systemdesign.one/p/how-does-nginx-work</link>
+      <description>【#62: Break Into Nginx Architecture (4 Minutes)】#62：深入 Nginx 架构（4 分钟）</description>
+      <pubDate>Wed, 04 Dec 2024 13:08:26 +0000</pubDate>
     </item>
     <item>
       <title>【How Google Ads Was Able to Support 4.77 Billion Users With a SQL Database 🔥】Google Ads 如何通过 SQL 数据库支持 47.7 亿用户🔥</title>
@@ -23,46 +23,46 @@
       <pubDate>Sat, 09 Nov 2024 13:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>【How Shopify Handled 30TB per Minute With a Modular Monolith Architecture 🔥】Shopify 如何使用模块化整体架构每分钟处理 30TB 🔥</title>
+      <title>【How Databases Keep Passwords Securely 🔒】数据库如何安全地保存密码🔒</title>
+      <link>https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database</link>
+      <description>【#61: Break Into Security Fundamentals (3 Minutes)】#61：深入了解安全基础知识（3 分钟）</description>
+      <pubDate>Mon, 18 Nov 2024 13:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Facebook Was Able to Support a Billion Users via Software Load Balancer ⚡】Facebook 如何通过软件负载均衡器支持 10 亿用户 ⚡</title>
+      <link>https://newsletter.systemdesign.one/p/facebook-load-balancer</link>
+      <description>【#58: Break into Meta Engineering (5 minutes)】＃58：闯入元工程（5分钟）</description>
+      <pubDate>Fri, 11 Oct 2024 12:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Shopify Handled 30TB per Minute With a Modular Monolith Architecture 🔥】Shopify如何使用模块化整体建筑每分钟处理30TB</title>
       <link>https://newsletter.systemdesign.one/p/modular-monolith</link>
-      <description>【#63: Break Into Modular Monolith Architecture (3 Minutes)】＃63：闯入模块化整体建筑（3分钟）</description>
+      <description>【#63: Break Into Modular Monolith Architecture (3 Minutes)】#63：闯入模块化整体架构（3 分钟）</description>
       <pubDate>Sun, 22 Dec 2024 13:15:24 +0000</pubDate>
     </item>
     <item>
-      <title>【How Amazon S3 Works ✨】亚马逊 S3 的工作原理 ✨</title>
+      <title>【How Google Search Works 🔥】Google 搜索的工作原理 🔥</title>
+      <link>https://newsletter.systemdesign.one/p/search-engine-architecture</link>
+      <description>【#57: Break Into Google Search Engine Architecture (6 Minutes)】#57：闯入 Google 搜索引擎架构（6 分钟）</description>
+      <pubDate>Mon, 30 Sep 2024 12:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Get Better With System Design in 2025 🔥】2025 年系统设计变得更好 🔥</title>
+      <link>https://newsletter.systemdesign.one/p/system-design-in-2025</link>
+      <description>【Take Survey and Get Rewards (4 Minutes)】参加调查并获得奖励（4 分钟）</description>
+      <pubDate>Mon, 13 Jan 2025 12:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Amazon S3 Works ✨】亚马逊S3的工作原理✨</title>
       <link>https://newsletter.systemdesign.one/p/s3-architecture</link>
       <description>【#59: Break Into Amazon Engineering (4 Minutes)】＃59：闯入亚马逊工程（4分钟）</description>
       <pubDate>Fri, 25 Oct 2024 12:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Do AirTags Work 】airtags如何工作</title>
-      <link>https://newsletter.systemdesign.one/p/how-do-airtags-work</link>
-      <description>【#64: A Simple Introduction to AirTags Architecture (3 Minutes)】#64：AirTags 架构简单介绍（3 分钟）</description>
-      <pubDate>Wed, 08 Jan 2025 13:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server ✨】Nginx 如何能够在单服务器上支持 100 万个并发连接 ✨</title>
-      <link>https://newsletter.systemdesign.one/p/how-does-nginx-work</link>
-      <description>【#62: Break Into Nginx Architecture (4 Minutes)】＃62：闯入NGINX体系结构（4分钟）</description>
-      <pubDate>Wed, 04 Dec 2024 13:08:26 +0000</pubDate>
     </item>
     <item>
       <title>【How Bluesky Works 🦋】布鲁斯基如何运作🦋</title>
       <link>https://newsletter.systemdesign.one/p/how-does-bluesky-work</link>
       <description>【#65: Break Into Bluesky Architecture (17 Minutes)】＃65：闯入蓝调建筑（17分钟）</description>
       <pubDate>Wed, 22 Jan 2025 13:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Get Better With System Design in 2025 🔥】2025年的系统设计变得更好</title>
-      <link>https://newsletter.systemdesign.one/p/system-design-in-2025</link>
-      <description>【Take Survey and Get Rewards (4 Minutes)】参加调查并获得奖励（4 分钟）</description>
-      <pubDate>Mon, 13 Jan 2025 12:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Facebook Was Able to Support a Billion Users via Software Load Balancer ⚡】Facebook如何通过软件负载均衡器支持十亿用户⚡</title>
-      <link>https://newsletter.systemdesign.one/p/facebook-load-balancer</link>
-      <description>【#58: Break into Meta Engineering (5 minutes)】＃58：闯入元工程（5分钟）</description>
-      <pubDate>Fri, 11 Oct 2024 12:20:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
