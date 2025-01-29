@@ -5,46 +5,22 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP146: The Open Source AI Stack】EP146：开源AI堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep146-the-open-source-ai-stack</link>
-      <description>【You don&amp;#8217;t need to spend a fortune to build an AI application.】您无需花钱就可以构建AI应用程序。</description>
-      <pubDate>Sat, 18 Jan 2025 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Airbnb Built a Key-Value Store for Petabytes of Data】Airbnb如何建立一个用于数据的钥匙值商店</title>
-      <link>https://blog.bytebytego.com/p/how-airbnb-built-a-key-value-store</link>
-      <description>【Disclaimer: The details in this post have been derived from the Airbnb Technical Blog.】免责声明：这篇文章中的详细信息源自Airbnb技术博客。</description>
-      <pubDate>Tue, 07 Jan 2025 16:30:57 +0000</pubDate>
-    </item>
-    <item>
       <title>【Our New Coding Patterns YouTube channel】我们的新编码模式YouTube频道</title>
       <link>https://blog.bytebytego.com/p/our-new-coding-patterns-youtube-channel</link>
       <description>【Our New Coding Patterns YouTube channel】我们的新编码模式YouTube频道</description>
       <pubDate>Mon, 20 Jan 2025 16:30:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Top Strategies to Reduce Latency】减少潜伏期的最佳策略</title>
-      <link>https://blog.bytebytego.com/p/top-strategies-to-reduce-latency</link>
-      <description>【Latency is a fundamental concept to consider when designing any application.】延迟是设计任何应用程序时要考虑的基本概念。</description>
-      <pubDate>Thu, 23 Jan 2025 16:31:08 +0000</pubDate>
+      <title>【EP145: Infrastructure as Code Landscape】EP145：基础设施作为代码景观</title>
+      <link>https://blog.bytebytego.com/p/ep145-infrastructure-as-code-landscape</link>
+      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计更新：</description>
+      <pubDate>Sat, 11 Jan 2025 16:30:50 +0000</pubDate>
     </item>
     <item>
-      <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber Unified如何在十亿美元的业务范围内结帐</title>
-      <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
-      <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：这篇文章中的详细信息源自Uber工程博客。</description>
-      <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【From Monolith to Microservices: Key Transition Patterns】从整体到微服务：关键过渡模式</title>
-      <link>https://blog.bytebytego.com/p/from-monolith-to-microservices-key</link>
-      <description>【Monolithic architecture is a software development approach in which the entire application is built as a single, unified codebase.】Monolithic Architecture是一种软件开发方法，其中整个应用程序都是单个统一的代码库。</description>
-      <pubDate>Thu, 16 Jan 2025 16:30:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LinkedIn Scaled User Restriction System to 5 Million Queries Per Second】LinkedIn如何将用户限制系统缩放到每秒500万查询</title>
-      <link>https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction</link>
-      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：这篇文章中的详细信息是从LinkedIn工程博客得出的。</description>
-      <pubDate>Tue, 21 Jan 2025 16:30:06 +0000</pubDate>
+      <title>【EP146: The Open Source AI Stack】EP146：开源AI堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep146-the-open-source-ai-stack</link>
+      <description>【You don&amp;#8217;t need to spend a fortune to build an AI application.】您无需花钱就可以构建AI应用程序。</description>
+      <pubDate>Sat, 18 Jan 2025 16:30:58 +0000</pubDate>
     </item>
     <item>
       <title>【EP147: The Ultimate API Learning Roadmap】EP147：终极API学习路线图</title>
@@ -53,10 +29,34 @@
       <pubDate>Sat, 25 Jan 2025 16:30:59 +0000</pubDate>
     </item>
     <item>
-      <title>【EP145: Infrastructure as Code Landscape】EP145：基础设施作为代码景观</title>
-      <link>https://blog.bytebytego.com/p/ep145-infrastructure-as-code-landscape</link>
-      <description>【This week&amp;#8217;s system design refresher:】本周的系统设计更新：</description>
-      <pubDate>Sat, 11 Jan 2025 16:30:50 +0000</pubDate>
+      <title>【How LinkedIn Scaled User Restriction System to 5 Million Queries Per Second】LinkedIn如何将用户限制系统缩放到每秒500万查询</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction</link>
+      <description>【Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.】免责声明：这篇文章中的详细信息是从LinkedIn工程博客得出的。</description>
+      <pubDate>Tue, 21 Jan 2025 16:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【From Monolith to Microservices: Key Transition Patterns】从整体到微服务：关键过渡模式</title>
+      <link>https://blog.bytebytego.com/p/from-monolith-to-microservices-key</link>
+      <description>【Monolithic architecture is a software development approach in which the entire application is built as a single, unified codebase.】Monolithic Architecture是一种软件开发方法，其中整个应用程序都是单个统一的代码库。</description>
+      <pubDate>Thu, 16 Jan 2025 16:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Top Strategies to Reduce Latency】减少潜伏期的最佳策略</title>
+      <link>https://blog.bytebytego.com/p/top-strategies-to-reduce-latency</link>
+      <description>【Latency is a fundamental concept to consider when designing any application.】延迟是设计任何应用程序时要考虑的基本概念。</description>
+      <pubDate>Thu, 23 Jan 2025 16:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS Lambda Turns 10】AWS Lambda 10</title>
+      <link>https://blog.bytebytego.com/p/aws-lambda-turns-10</link>
+      <description>【Disclaimer: The details in this post have been derived from multiple AWS reInvent talks and articles by the Amazon engineering team.】免责声明：这篇文章中的详细信息来自亚马逊工程团队的多个AWS重塑和文章。</description>
+      <pubDate>Tue, 28 Jan 2025 16:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Unified Checkouts Across Billion-Dollar Business Lines】Uber Unified如何在十亿美元的业务范围内结帐</title>
+      <link>https://blog.bytebytego.com/p/how-uber-unified-checkouts-across</link>
+      <description>【Disclaimer: The details in this post have been derived from the Uber Engineering Blog.】免责声明：这篇文章中的详细信息源自Uber工程博客。</description>
+      <pubDate>Tue, 14 Jan 2025 16:31:28 +0000</pubDate>
     </item>
     <item>
       <title>【Understanding Message Queues】了解消息队列</title>
