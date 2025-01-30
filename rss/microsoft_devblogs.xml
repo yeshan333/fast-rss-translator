@@ -10,28 +10,16 @@
       <pubDate>Mon, 27 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【My electric toothbrush was acting up, so I tried to reboot it】我的电动牙刷正在行动，所以我试图重新启动它</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250128-00/?p=110815</link>
-      <description>【It didn&#39;t help.】这无济于事。</description>
-      <pubDate>Tue, 28 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【How do I create an inserter iterator that does unhinted insertion into an associative container like std::map?】我如何创建一个插入器迭代器，该迭代器将插入插入到std :: map之类的关联容器中？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250129-00/?p=110817</link>
+      <description>【Curiously missing from the standard library.】奇怪的是在标准库中缺少。</description>
+      <pubDate>Wed, 29 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A brief and incomplete comparison of memory corruption detection tools】记忆损坏检测工具的简短和不完整的比较</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250124-00/?p=110805</link>
-      <description>【A short overview, definitely incomplete.】简短的概述，绝对不完整。</description>
-      <pubDate>Fri, 24 Jan 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reduce costs with Hibernation in Azure DevTest Labs】Azure DevTest Labs中的冬眠来降低成本</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/reduce-costs-with-hibernation-in-azure-devtest-labs</link>
-      <description>【In the ever-evolving landscape of cloud computing, cost efficiency remains a top priority for platform engineers and lab users. To help organizations optimize cloud costs and management, we’re excited to introduce the Hibernation feature for virtual machines (VMs) in Azure DevTest Labs, now in public preview. The new Hibernation feature in Azure DevTest Labs helps [&amp;hellip;]】在不断发展的云计算环境中，成本效率仍然是平台工程师和实验室用户的重中之重。为了帮助组织优化云成本和管理，我们很高兴能在现已在公共预览中的Azure DevTest Labs中介绍虚拟机（VM）的Hibernation功能。 Azure DevTest Labs中的新冬眠功能有助于[…]</description>
-      <pubDate>Mon, 27 Jan 2025 16:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Revolutionizing Large-Scale AI with Janusgraph and Azure Managed Instance for Apache Cassandra】用Janusgraph和Azure管理实例为Apache Cassandra革新大规模AI</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/revolutionizing-large-scale-ai-with-janusgraph-and-azure-managed-instance-for-apache-cassandra</link>
-      <description>【JanusGraph is a high-performance graph database that offers flexibility in choosing storage backends. Apache Cassandra is a distributed NoSQL database known for its scalability and fault tolerance. Combining these two technologies can create a robust and efficient graph database solution. You can use the Azure Managed Instance for Apache Cassandra which is a fully-managed offering [&amp;hellip;]】Janusgraph是一个高性能的图形数据库，可在选择存储后端的灵活性。 Apache Cassandra是一个分布式NOSQL数据库，以其可扩展性和容错性而闻名。结合这两种技术可以创建强大而有效的图形数据库解决方案。您可以为Apache Cassandra使用Azure托管实例，该实例是完整的产品[…]</description>
-      <pubDate>Fri, 24 Jan 2025 13:00:13 +0000</pubDate>
+      <title>【Upcoming support lifecycle milestones for older on-premises products】即将为较旧的本地产品提供支持的生命周期里程碑</title>
+      <link>https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products</link>
+      <description>【Multiple versions of our on-premises product will reach the end of support on October 14, 2025. Customers are encouraged to start planning and deploying upgrades now to ensure that installed products remain supported and secure, and to take advantage of new capabilities offered in successor products. The latest version of our on-premises product is Azure [&amp;hellip;]】我们的本地产品的多个版本将于2025年10月14日获得支持。鼓励客户现在开始计划和部署升级，以确保安装产品保持支持和安全，并利用继任者提供的新功能产品。我们本地产品的最新版本是Azure […]</description>
+      <pubDate>Tue, 28 Jan 2025 23:06:56 +0000</pubDate>
     </item>
     <item>
       <title>【Unlock key capabilities via Generation 2 VMs in Azure DevTest Labs】通过Azure DevTest实验室中的2代VM解锁关键功能</title>
@@ -40,16 +28,16 @@
       <pubDate>Tue, 28 Jan 2025 13:03:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator】更改使用Azure DevOps演示生成器来配置Azure DevOps项目</title>
-      <link>https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator</link>
-      <description>【The Azure DevOps Demo Generator is a tool that allows you to create projects in your Azure DevOps organization, complete with pre-filled sample content. This includes source code, work items, iterations, service connections, and build and release pipelines, all based on a template you select. Starting February 28, 2025, we are eliminating the need for [&amp;hellip;]】Azure DevOps演示生成器是一种工具，可让您在Azure DevOps组织中创建项目，并配有预先填充的示例内容。这包括源代码，工作项，迭代，服务连接以及构建和释放管道，所有这些都是基于您选择的模板。从2025年2月28日开始，我们消除了[…]的需求</description>
-      <pubDate>Tue, 28 Jan 2025 21:57:13 +0000</pubDate>
+      <title>【My electric toothbrush was acting up, so I tried to reboot it】我的电动牙刷正在行动，所以我试图重新启动它</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250128-00/?p=110815</link>
+      <description>【It didn&#39;t help.】这无济于事。</description>
+      <pubDate>Tue, 28 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Change Event Streaming: Join the Azure SQL Database Private Preview for Change Data Streaming】引入更改事件流：加入Azure SQL数据库私人预览以进行更改数据流</title>
-      <link>https://devblogs.microsoft.com/azure-sql/introducing-change-event-streaming-join-the-azure-sql-database-private-preview-for-change-data-streaming</link>
-      <description>【In a world where digital transformation is accelerating, the ability to integrate and process real-time data from diverse sources is crucial for success. Organizations today depend on timely insights to enhance decision-making, improve operations, and foster innovation. To meet this need, we’re thrilled to announce the private preview of Change Event Streaming (CES), a new [&amp;hellip;]】在数字转换正在加速的世界中，从不同来源集成和处理实时数据的能力对于成功至关重要。今天的组织依靠及时的见解来增强决策，改善运营和促进创新。为了满足这一需求，我们很高兴宣布变更事件流的私人预览（CES），这是一个新的[…]</description>
-      <pubDate>Mon, 27 Jan 2025 14:47:19 +0000</pubDate>
+      <title>【Reduce costs with Hibernation in Azure DevTest Labs】Azure DevTest Labs中的冬眠来降低成本</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/reduce-costs-with-hibernation-in-azure-devtest-labs</link>
+      <description>【In the ever-evolving landscape of cloud computing, cost efficiency remains a top priority for platform engineers and lab users. To help organizations optimize cloud costs and management, we’re excited to introduce the Hibernation feature for virtual machines (VMs) in Azure DevTest Labs, now in public preview. The new Hibernation feature in Azure DevTest Labs helps [&amp;hellip;]】在不断发展的云计算环境中，成本效率仍然是平台工程师和实验室用户的重中之重。为了帮助组织优化云成本和管理，我们很高兴能在现已在公共预览中的Azure DevTest Labs中介绍虚拟机（VM）的Hibernation功能。 Azure DevTest Labs中的新冬眠功能有助于[…]</description>
+      <pubDate>Mon, 27 Jan 2025 16:05:43 +0000</pubDate>
     </item>
     <item>
       <title>【Iterate across multiple files more efficiently with GitHub Copilot Edits (Preview)】使用GitHub Copilot编辑（预览）更有效地跨多个文件迭代</title>
@@ -58,10 +46,22 @@
       <pubDate>Tue, 28 Jan 2025 13:00:58 +0000</pubDate>
     </item>
     <item>
-      <title>【Upcoming support lifecycle milestones for older on-premises products】即将为较旧的本地产品提供支持的生命周期里程碑</title>
-      <link>https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products</link>
-      <description>【Multiple versions of our on-premises product will reach the end of support on October 14, 2025. Customers are encouraged to start planning and deploying upgrades now to ensure that installed products remain supported and secure, and to take advantage of new capabilities offered in successor products. The latest version of our on-premises product is Azure [&amp;hellip;]】我们的本地产品的多个版本将于2025年10月14日获得支持。鼓励客户现在开始计划和部署升级，以确保安装产品保持支持和安全，并利用继任者提供的新功能产品。我们本地产品的最新版本是Azure […]</description>
-      <pubDate>Tue, 28 Jan 2025 23:06:56 +0000</pubDate>
+      <title>【Automating Developer Environments with Microsoft Dev Box and Teams Customizations】使用Microsoft Dev Box和团队自定义自动化开发人员环境</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/automating-developer-environments-with-microsoft-dev-box-and-teams-customizations</link>
+      <description>【The following blog walks through the experience of defining and automating the creation of developer environments with the newly announced Teams Customizations feature in Microsoft Dev Box. This allows developer team leads or managers to define the software installed by default every time a developer creates a new environment, ensuring that every team member has [&amp;hellip;]】以下博客介绍了通过Microsoft Dev Box中新公布的Teams自定义功能来定义和自动化开发人员环境创建的经验。这使开发人员团队领导或经理可以默认每次开发人员创建新环境时定义安装的软件，以确保每个团队成员都有[…]</description>
+      <pubDate>Thu, 30 Jan 2025 01:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator】更改使用Azure DevOps演示生成器来配置Azure DevOps项目</title>
+      <link>https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator</link>
+      <description>【The Azure DevOps Demo Generator is a tool that allows you to create projects in your Azure DevOps organization, complete with pre-filled sample content. This includes source code, work items, iterations, service connections, and build and release pipelines, all based on a template you select. Starting February 28, 2025, we are eliminating the need for [&amp;hellip;]】Azure DevOps演示生成器是一种工具，可让您在Azure DevOps组织中创建项目，并配有预先填充的示例内容。这包括源代码，工作项，迭代，服务连接以及构建和释放管道，所有这些都是基于您选择的模板。从2025年2月28日开始，我们消除了[…]的需求</description>
+      <pubDate>Tue, 28 Jan 2025 21:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.8 Beta】宣布打字稿5.8 beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta</link>
+      <description>【Today we are excited to announce the availability of TypeScript 5.8 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&amp;#8217;s take a look at what&amp;#8217;s new in TypeScript 5.8! Checked Returns for Conditional and Indexed Access Types Consider an API that presents [&amp;hellip;]】今天，我们很高兴宣布Typescript 5.8 Beta的可用性。要开始使用Beta，您可以通过以下命令通过NPM获得：NPM install -D Typescript@beta让我们看看Typescript 5.8中的新功能！检查条件和索引访问类型的检查申报表考虑提示的API […]</description>
+      <pubDate>Wed, 29 Jan 2025 18:51:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
