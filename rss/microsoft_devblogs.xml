@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【A pattern for obtaining a single value while holding a lock】握住锁时获得单个值的模式</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250127-00/?p=110809</link>
-      <description>【The immediately-invoked lambda that returns a value.】立即返回的Lambda返回值。</description>
-      <pubDate>Mon, 27 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Agility SDK 1.716.0-preview: New D3D12 Video Encode Features】敏捷性SDK 1.716.0-preview：新的D3D12视频编码功能</title>
+      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-716-0-new-d3d12-video-encode-features</link>
+      <description>【Today DirectX 12 provides APIs to support GPU video encode acceleration for several applications, as detailed in D3D12 Video Encoding &amp;#8211; Windows drivers | Microsoft Learn previous blog posts such as Announcing new DirectX 12 feature &amp;#8211; Video Encoding! &amp;#8211; DirectX Developer Blog. In this blog post we’re happy to announce a series of new features [&amp;hellip;]】今天，DirectX 12提供了支持GPU视频编码加速度的API，如D3D12视频编码 -  Windows驱动程序| Microsoft学习以前的博客文章，例如宣布New DirectX 12功能 - 视频编码！ -  DirectX开发人员博客。在这篇博客文章中，我们很高兴宣布一系列新功能[…]</description>
+      <pubDate>Thu, 30 Jan 2025 18:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I create an inserter iterator that does unhinted insertion into an associative container like std::map?】我如何创建一个插入器迭代器，该迭代器将插入插入到std :: map之类的关联容器中？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250129-00/?p=110817</link>
-      <description>【Curiously missing from the standard library.】奇怪的是在标准库中缺少。</description>
-      <pubDate>Wed, 29 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【AgilitySDK 1.716.0-preview and 1.615-retail】Agilitysdk 1.716.0-preview和1.615零售</title>
+      <link>https://devblogs.microsoft.com/directx/agilitysdk-1-716-0-preview-and-1-615-retail</link>
+      <description>【We are pleased to announce both a retail release of Shader hash bypass and a preview AgilitySDK release with several new features, available on Agility SDK Downloads today! You can find detailed information about all the features on the individual blog pages: 1.615 Shader hash bypass officially supports applications opting to bypass shader hash validation. It is [&amp;hellip;]】我们很高兴地宣布，着色器哈希旁路的零售版本和Preview agilitysdk版本，并具有多个新功能，可在Agility SDK下载可用！您可以在单个博客页面上找到有关所有功能的详细信息：1.615 Shader Hash Bypass正式支持选择绕过着色器哈希验证的应用程序。这是 […]</description>
+      <pubDate>Thu, 30 Jan 2025 17:27:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Upcoming support lifecycle milestones for older on-premises products】即将为较旧的本地产品提供支持的生命周期里程碑</title>
-      <link>https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products</link>
-      <description>【Multiple versions of our on-premises product will reach the end of support on October 14, 2025. Customers are encouraged to start planning and deploying upgrades now to ensure that installed products remain supported and secure, and to take advantage of new capabilities offered in successor products. The latest version of our on-premises product is Azure [&amp;hellip;]】我们的本地产品的多个版本将于2025年10月14日获得支持。鼓励客户现在开始计划和部署升级，以确保安装产品保持支持和安全，并利用继任者提供的新功能产品。我们本地产品的最新版本是Azure […]</description>
-      <pubDate>Tue, 28 Jan 2025 23:06:56 +0000</pubDate>
+      <title>【PIX 2501.30 – Support for Shader Hash Bypass, bug fixes, and everything in 2412.12】PIX 2501.30  - 支持着色器哈希旁路，错误修复和2412.12中的所有内容</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2501-30</link>
+      <description>【Today we released PIX version 2501.30, which can be downloaded here. This release includes support for everything that was in the 2412.12 version of PIX, plus the following improvements: Support for Shader Hash Bypass PIX has full support for this new D3D12 feature that allows apps to bypass shader hash validation in D3D12 runtime by [&amp;hellip;]】今天，我们发布了PIX版本2501.30，可以在此处下载。此版本包括对2412.12版本的Pix中所有内容的支持，以及以下改进：对Shader Hash旁路pix的支持具有对这款新的D3D12功能的全面支持，该功能允许应用程序绕过D3D12 Runtime by […]的D3D12 Runtime by d3dd12 Runtime by Passs Shader Hash验证。</description>
+      <pubDate>Thu, 30 Jan 2025 18:01:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlock key capabilities via Generation 2 VMs in Azure DevTest Labs】通过Azure DevTest实验室中的2代VM解锁关键功能</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/unlock-key-capabilities-via-generation-2-vms-in-azure-devtest-labs</link>
-      <description>【We are excited to announce enhanced support for Generation 2 VMs on Azure DevTest Labs, now in public preview. We listened to your feedback and have improved the support for using Generation 2 VMs in Azure DevTest Labs. Generation 2 Virtual Machines (VMs) support key capabilities that are not supported in Generation 1 VMs such [&amp;hellip;]】我们很高兴地宣布，在公共预览中，在Azure DevTest实验室上对2代VM的支持得到了增强。我们听取了您的反馈意见，并改善了在Azure DevTest Labs中使用2代VM的支持。第2代虚拟机（VMS）支持第1代VM中不支持的关键功能[…]</description>
-      <pubDate>Tue, 28 Jan 2025 13:03:42 +0000</pubDate>
+      <title>【PIX 2501.30-preview: Application Specific Driver State, Recreate At GPUVA and Tight Alignment】PIX 2501.30访问：应用程序特定驱动程序状态，在GPUVA重新创建和紧密对齐</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2501-30-preview</link>
+      <description>【Today we released PIX version 2501.30-preview, available for download here. This release has initial support for the exciting new D3D12 features that were released in a preview DirectX Agility SDK today. Please visit this blog post for more information about the Agility SDK release. 2501.30-preview is a preview version of PIX. It is identical to 2501.30 [&amp;hellip;]】今天，我们发布了PIX版本2501.30-preview，可在此处下载。该版本对令人兴奋的新D3D12功能有初步的支持，这些功能今天发布了Preview DirectX Agility SDK中。请访问此博客文章以获取有关敏捷性SDK版本的更多信息。 2501.30-preview是Pix的预览版。它与2501.30相同[…]</description>
+      <pubDate>Thu, 30 Jan 2025 18:01:27 +0000</pubDate>
     </item>
     <item>
-      <title>【My electric toothbrush was acting up, so I tried to reboot it】我的电动牙刷正在行动，所以我试图重新启动它</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250128-00/?p=110815</link>
-      <description>【It didn&#39;t help.】这无济于事。</description>
-      <pubDate>Tue, 28 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【Agility SDK 1.716.0-preview &amp; 1.615-retail: Shader hash bypass】敏捷性SDK 1.716.0-preview＆1.615-Retail：着色器哈希旁路</title>
+      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-716-0-preview-1-615-retail-shader-hash-bypass</link>
+      <description>【The D3D runtime as of 1.615 officially supports applications opting to bypass shader hash validation. The historical purpose of the hash that the DX shader compiler embeds in every shader binary was to give the D3D runtime to confidence that shaders being given to it are well formed.  The assumption was that a hashed shader [&amp;hellip;]】截至1.615的D3D运行时正式支持绕过着色器哈希验证的应用程序。 DX着色器编译器嵌入每个着色器二进制文件的哈希的历史目的是使D3D运行时充满信心，使着色器赋予其良好形成。  假设是一个哈希的着色器[…]</description>
+      <pubDate>Thu, 30 Jan 2025 17:28:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Reduce costs with Hibernation in Azure DevTest Labs】Azure DevTest Labs中的冬眠来降低成本</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/reduce-costs-with-hibernation-in-azure-devtest-labs</link>
-      <description>【In the ever-evolving landscape of cloud computing, cost efficiency remains a top priority for platform engineers and lab users. To help organizations optimize cloud costs and management, we’re excited to introduce the Hibernation feature for virtual machines (VMs) in Azure DevTest Labs, now in public preview. The new Hibernation feature in Azure DevTest Labs helps [&amp;hellip;]】在不断发展的云计算环境中，成本效率仍然是平台工程师和实验室用户的重中之重。为了帮助组织优化云成本和管理，我们很高兴能在现已在公共预览中的Azure DevTest Labs中介绍虚拟机（VM）的Hibernation功能。 Azure DevTest Labs中的新冬眠功能有助于[…]</description>
-      <pubDate>Mon, 27 Jan 2025 16:05:43 +0000</pubDate>
+      <title>【Hot Reload in Data API builder Now Available】热门重新加载数据API构建器现已可用</title>
+      <link>https://devblogs.microsoft.com/azure-sql/hot-reload-in-data-api-builder-now-available</link>
+      <description>【Data API builder (DAB) creates secure REST and GraphQL endpoints over your database (SQL, Postgres, Cosmos, MySQL) in Azure, on-prem, or anywhere you can run a container. It supports every programming language, requires no additional framework, is rich with features, and – because it is open source – is completely free. There is no code [&amp;hellip;]】数据API构建器（DAB）在您的数据库（SQL，Postgres，Cosmos，MySQL，MySQL）中创建安全的REST和GraphQl端点，以在Azure，本地或任何地方可以运行容器。它支持每种编程语言，不需要其他框架，具有丰富的功能，并且（因为它是开源的）是完全免费的。没有代码[…]</description>
+      <pubDate>Thu, 30 Jan 2025 23:38:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Iterate across multiple files more efficiently with GitHub Copilot Edits (Preview)】使用GitHub Copilot编辑（预览）更有效地跨多个文件迭代</title>
-      <link>https://devblogs.microsoft.com/visualstudio/iterate-across-multiple-files-more-efficiently-with-github-copilot-edits-preview</link>
-      <description>【GitHub Copilot Edits (Preview) in Visual Studio 2022 combines the conversational flow of chat and an inline review experience to help you iterate across your codebase with more control and efficiency. 💡 Here’s how Copilot Edits helps with iterating across multiple files: Preview with clarity: Review a clear summary that highlights affected files and proposed [&amp;hellip;]】Visual Studio 2022中的GitHub Copilot编辑（预览）结合了聊天的对话流和内联评论体验，以帮助您以更高的控制和效率在代码库中迭代。 💡这是Copilot编辑如何帮助跨多个文件迭代的方式：清晰的预览：查看明确的摘要，该摘要突出显示了受影响的文件并提出了[…]</description>
-      <pubDate>Tue, 28 Jan 2025 13:00:58 +0000</pubDate>
+      <title>【Introducing the Microsoft Graph Export-Import APIs for Exchange in public preview】在公共预览中介绍Microsoft Graph Export-Import API</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-export-import-apis-for-exchange-in-public-preview</link>
+      <description>【We are happy to announce the launch of Export-Import APIs in limited Public Preview (Beta), a set of Microsoft Graph APIs that empower applications to discover, export and import contents from Exchange Online mailboxes in full fidelity.】我们很高兴地宣布在有限的公共预览（Beta）中启动出口Import API，这是一组Microsoft Graph API，授权应用程序从完全保真的交换在线邮箱中发现，导出和导入内容。</description>
+      <pubDate>Thu, 30 Jan 2025 22:00:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Automating Developer Environments with Microsoft Dev Box and Teams Customizations】使用Microsoft Dev Box和团队自定义自动化开发人员环境</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/automating-developer-environments-with-microsoft-dev-box-and-teams-customizations</link>
-      <description>【The following blog walks through the experience of defining and automating the creation of developer environments with the newly announced Teams Customizations feature in Microsoft Dev Box. This allows developer team leads or managers to define the software installed by default every time a developer creates a new environment, ensuring that every team member has [&amp;hellip;]】以下博客介绍了通过Microsoft Dev Box中新公布的Teams自定义功能来定义和自动化开发人员环境创建的经验。这使开发人员团队领导或经理可以默认每次开发人员创建新环境时定义安装的软件，以确保每个团队成员都有[…]</description>
-      <pubDate>Thu, 30 Jan 2025 01:00:08 +0000</pubDate>
+      <title>【Customizing collapsed text Indicators】自定义崩溃的文本指示器</title>
+      <link>https://devblogs.microsoft.com/visualstudio/customizing-collapsed-text-indicators</link>
+      <description>【Visual Studio 2022 introduces new options for customizing the collapsed text indicator, which helps in distinguishing between different sections of collapsed text in the editor. This aims to make the coding environment more intuitive and easier to use by providing additional customization for visual cues. Customizing your coding environment You can now personalize the color [&amp;hellip;]】Visual Studio 2022引入了新的选项，以自定义折叠的文本指示器，这有助于区分编辑器中崩溃的文本的不同部分。这旨在通过为视觉提示提供其他自定义，使编码环境更加直观，更易于使用。自定义您的编码环境您现在可以个性化颜色[…]</description>
+      <pubDate>Thu, 30 Jan 2025 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator】更改使用Azure DevOps演示生成器来配置Azure DevOps项目</title>
-      <link>https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator</link>
-      <description>【The Azure DevOps Demo Generator is a tool that allows you to create projects in your Azure DevOps organization, complete with pre-filled sample content. This includes source code, work items, iterations, service connections, and build and release pipelines, all based on a template you select. Starting February 28, 2025, we are eliminating the need for [&amp;hellip;]】Azure DevOps演示生成器是一种工具，可让您在Azure DevOps组织中创建项目，并配有预先填充的示例内容。这包括源代码，工作项，迭代，服务连接以及构建和释放管道，所有这些都是基于您选择的模板。从2025年2月28日开始，我们消除了[…]的需求</description>
-      <pubDate>Tue, 28 Jan 2025 21:57:13 +0000</pubDate>
+      <title>【Announcing AMQP v2 stack engine support in the Azure Messaging Event Hubs library for Java】在Azure消息传递活动中心库中宣布AMQP V2堆栈引擎支持Java</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-amqp-v2-stack-engine-support-in-the-azure-messaging-event-hubs-library-for-java</link>
+      <description>【This blog post announces a new stable release of the Azure Event Hubs library for Java, with enhanced reliability and performance.】这篇博客文章宣布了Java的Azure Event Hubs库的新稳定版本，具有增强的可靠性和性能。</description>
+      <pubDate>Thu, 30 Jan 2025 20:21:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 5.8 Beta】宣布打字稿5.8 beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta</link>
-      <description>【Today we are excited to announce the availability of TypeScript 5.8 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&amp;#8217;s take a look at what&amp;#8217;s new in TypeScript 5.8! Checked Returns for Conditional and Indexed Access Types Consider an API that presents [&amp;hellip;]】今天，我们很高兴宣布Typescript 5.8 Beta的可用性。要开始使用Beta，您可以通过以下命令通过NPM获得：NPM install -D Typescript@beta让我们看看Typescript 5.8中的新功能！检查条件和索引访问类型的检查申报表考虑提示的API […]</description>
-      <pubDate>Wed, 29 Jan 2025 18:51:38 +0000</pubDate>
+      <title>【Blog Migration on February 5th】博客迁移于2月5日</title>
+      <link>https://devblogs.microsoft.com/qsharp/blog-migration-on-february-5th</link>
+      <description>【We are thrilled to announce that the Q# blog will be moving to a new home at Azure Quantum Technical Blog on February 5, 2025. This will enable us to offer you a more seamless and enhanced experience through a single integrated platform, featuring the latest information and resources in quantum computing. &amp;nbsp; Best regards, The [&amp;hellip;]】我们很高兴地宣布，Q＃博客将于2025年2月5日搬到Azure Quantum技术博客的新家。这将使我们通过单个集成平台为您提供更加无缝和增强的体验量子计算中的信息和资源。   最好的问候，[…]</description>
+      <pubDate>Thu, 30 Jan 2025 18:18:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

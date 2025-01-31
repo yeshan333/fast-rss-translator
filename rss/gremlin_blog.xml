@@ -4,12 +4,6 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
-      <title>【How to fix the root cause of a failed reliability test】如何修复失败可靠性测试的根本原因</title>
-      <link>https://www.gremlin.com/blog/how-to-fix-the-root-cause-of-a-failed-reliability-test</link>
-      <description>【You’ve run your reliability tests, and unfortunately, some of them failed. No need to panic: we’ll tell you how to turn that F into an A.】您已经进行了可靠性测试，不幸的是，其中一些失败了。无需惊慌：我们会告诉您如何将F变成A。</description>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Reliable AI models, simulations, and more with Gremlin&#39;s GPU experiment】Gremlin的GPU实验可靠的AI模型，模拟等等</title>
       <link>https://www.gremlin.com/blog/how-gremlins-gpu-experiment-makes-ai-models-simulations-and-video-encoding-more-resilient</link>
       <description>【Build more resilient machine learning and AI models, video streaming, simulations, and more with Gremlin’s GPU experiment.】通过Gremlin的GPU实验来构建更多有弹性的机器学习和AI模型，视频流，模拟等。</description>
@@ -22,16 +16,10 @@
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Gremlin&#39;s 2024 year-end Release Roundup】Gremlin的2024年末发布综述</title>
-      <link>https://www.gremlin.com/blog/release-roundup-2024</link>
-      <description>【This is a mega-roundup of everything Gremlin&#39;s released in 2024. From AWS to serverless to all-new experiments, it&#39;s all here!】这是Gremlin于2024年发布的所有内容。从AWS到无服务器再到全新的实验，都在这里！</description>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Maximizing your reliability on AWS】最大化您对AWS的可靠性</title>
-      <link>https://www.gremlin.com/blog/maximizing-your-reliability-when-using-aws-services</link>
-      <description>【Learn how to maximize reliability when running workloads on Amazon EC2, EKS, ECS, and other services.】在亚马逊EC2，EKS，EC和其他服务上运行工作负载时，了解如何最大化可靠性。</description>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <title>【Release Roundup November 2024: Reliability in the serverless and AI era】发布综述2024年11月：无服务器和AI时代的可靠性</title>
+      <link>https://www.gremlin.com/blog/release-roundup-november-2024-reliability-in-the-serverless-and-ai-era</link>
+      <description>【A review of the major product and feature releases from September to November 2024, including Service Mesh via Failure Flags, AWS PrivateLink in Marketplace, RM &amp; FI scheduling improvements, and agent updates.】从2024年9月至11月对主要产品的审查和功能发行，包括通过故障标志，Marketplace的AWS PrivateLink，RM＆FI计划改进以及代理更新。</description>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s the ROI of reliability?】可靠性的投资回报率是多少？</title>
@@ -40,10 +28,16 @@
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Release Roundup November 2024: Reliability in the serverless and AI era】发布综述2024年11月：无服务器和AI时代的可靠性</title>
-      <link>https://www.gremlin.com/blog/release-roundup-november-2024-reliability-in-the-serverless-and-ai-era</link>
-      <description>【A review of the major product and feature releases from September to November 2024, including Service Mesh via Failure Flags, AWS PrivateLink in Marketplace, RM &amp; FI scheduling improvements, and agent updates.】从2024年9月至11月对主要产品的审查和功能发行，包括通过故障标志，Marketplace的AWS PrivateLink，RM＆FI计划改进以及代理更新。</description>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <title>【Manage your reliability work more easily with Gremlin’s newest features】使用Gremlin的最新功能更轻松地管理您的可靠性</title>
+      <link>https://www.gremlin.com/blog/manage-your-reliability-work-more-easily-with-gremlins-newest-features</link>
+      <description>【Gremlin has three new ways to help you monitor and manage your reliability efforts. See how to track current, future, and past activity in Gremlin.】Gremlin有三种新方法来帮助您监视和管理可靠性工作。查看如何跟踪Gremlin中的当前，未来和过去的活动。</description>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Maximizing your reliability on AWS】最大化您对AWS的可靠性</title>
+      <link>https://www.gremlin.com/blog/maximizing-your-reliability-when-using-aws-services</link>
+      <description>【Learn how to maximize reliability when running workloads on Amazon EC2, EKS, ECS, and other services.】在亚马逊EC2，EKS，EC和其他服务上运行工作负载时，了解如何最大化可靠性。</description>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How reliability engineering can verify disaster recovery plans】可靠性工程如何验证灾难恢复计划</title>
@@ -52,16 +46,22 @@
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Manage your reliability work more easily with Gremlin’s newest features】使用Gremlin的最新功能更轻松地管理您的可靠性</title>
-      <link>https://www.gremlin.com/blog/manage-your-reliability-work-more-easily-with-gremlins-newest-features</link>
-      <description>【Gremlin has three new ways to help you monitor and manage your reliability efforts. See how to track current, future, and past activity in Gremlin.】Gremlin有三种新方法来帮助您监视和管理可靠性工作。查看如何跟踪Gremlin中的当前，未来和过去的活动。</description>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <title>【How to fix the root cause of a failed reliability test】如何修复失败可靠性测试的根本原因</title>
+      <link>https://www.gremlin.com/blog/how-to-fix-the-root-cause-of-a-failed-reliability-test</link>
+      <description>【You’ve run your reliability tests, and unfortunately, some of them failed. No need to panic: we’ll tell you how to turn that F into an A.】您已经进行了可靠性测试，不幸的是，其中一些失败了。无需惊慌：我们会告诉您如何将F变成A。</description>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Seven tests to measure and improve reliability: what matters and how it works】七个测试和提高可靠性的测试：重要的是什么以及如何工作</title>
       <link>https://www.gremlin.com/blog/four-reliability-tests</link>
       <description>【Learn how to take reliability from a &#34;nice to have&#34; to a standard operating practice within your organization. We&#39;ll show you seven easy tests you can use to start building resilient systems.】了解如何将可靠性从组织内的标准操作实践中获取可靠性。我们将向您展示七个简单的测试，您可以用来开始构建弹性系统。</description>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Gremlin&#39;s 2024 year-end Release Roundup】Gremlin的2024年末发布综述</title>
+      <link>https://www.gremlin.com/blog/release-roundup-2024</link>
+      <description>【This is a mega-roundup of everything Gremlin&#39;s released in 2024. From AWS to serverless to all-new experiments, it&#39;s all here!】这是Gremlin于2024年发布的所有内容。从AWS到无服务器再到全新的实验，都在这里！</description>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
