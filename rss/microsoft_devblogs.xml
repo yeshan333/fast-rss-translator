@@ -4,42 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Agility SDK 1.716.0-preview: New D3D12 Video Encode Features】敏捷性SDK 1.716.0-preview：新的D3D12视频编码功能</title>
-      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-716-0-new-d3d12-video-encode-features</link>
-      <description>【Today DirectX 12 provides APIs to support GPU video encode acceleration for several applications, as detailed in D3D12 Video Encoding &amp;#8211; Windows drivers | Microsoft Learn previous blog posts such as Announcing new DirectX 12 feature &amp;#8211; Video Encoding! &amp;#8211; DirectX Developer Blog. In this blog post we’re happy to announce a series of new features [&amp;hellip;]】今天，DirectX 12提供了支持GPU视频编码加速度的API，如D3D12视频编码 -  Windows驱动程序| Microsoft学习以前的博客文章，例如宣布New DirectX 12功能 - 视频编码！ -  DirectX开发人员博客。在这篇博客文章中，我们很高兴宣布一系列新功能[…]</description>
-      <pubDate>Thu, 30 Jan 2025 18:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AgilitySDK 1.716.0-preview and 1.615-retail】Agilitysdk 1.716.0-preview和1.615零售</title>
-      <link>https://devblogs.microsoft.com/directx/agilitysdk-1-716-0-preview-and-1-615-retail</link>
-      <description>【We are pleased to announce both a retail release of Shader hash bypass and a preview AgilitySDK release with several new features, available on Agility SDK Downloads today! You can find detailed information about all the features on the individual blog pages: 1.615 Shader hash bypass officially supports applications opting to bypass shader hash validation. It is [&amp;hellip;]】我们很高兴地宣布，着色器哈希旁路的零售版本和Preview agilitysdk版本，并具有多个新功能，可在Agility SDK下载可用！您可以在单个博客页面上找到有关所有功能的详细信息：1.615 Shader Hash Bypass正式支持选择绕过着色器哈希验证的应用程序。这是 […]</description>
-      <pubDate>Thu, 30 Jan 2025 17:27:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2501.30 – Support for Shader Hash Bypass, bug fixes, and everything in 2412.12】PIX 2501.30  - 支持着色器哈希旁路，错误修复和2412.12中的所有内容</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2501-30</link>
-      <description>【Today we released PIX version 2501.30, which can be downloaded here. This release includes support for everything that was in the 2412.12 version of PIX, plus the following improvements: Support for Shader Hash Bypass PIX has full support for this new D3D12 feature that allows apps to bypass shader hash validation in D3D12 runtime by [&amp;hellip;]】今天，我们发布了PIX版本2501.30，可以在此处下载。此版本包括对2412.12版本的Pix中所有内容的支持，以及以下改进：对Shader Hash旁路pix的支持具有对这款新的D3D12功能的全面支持，该功能允许应用程序绕过D3D12 Runtime by […]的D3D12 Runtime by d3dd12 Runtime by Passs Shader Hash验证。</description>
-      <pubDate>Thu, 30 Jan 2025 18:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2501.30-preview: Application Specific Driver State, Recreate At GPUVA and Tight Alignment】PIX 2501.30访问：应用程序特定驱动程序状态，在GPUVA重新创建和紧密对齐</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2501-30-preview</link>
-      <description>【Today we released PIX version 2501.30-preview, available for download here. This release has initial support for the exciting new D3D12 features that were released in a preview DirectX Agility SDK today. Please visit this blog post for more information about the Agility SDK release. 2501.30-preview is a preview version of PIX. It is identical to 2501.30 [&amp;hellip;]】今天，我们发布了PIX版本2501.30-preview，可在此处下载。该版本对令人兴奋的新D3D12功能有初步的支持，这些功能今天发布了Preview DirectX Agility SDK中。请访问此博客文章以获取有关敏捷性SDK版本的更多信息。 2501.30-preview是Pix的预览版。它与2501.30相同[…]</description>
-      <pubDate>Thu, 30 Jan 2025 18:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agility SDK 1.716.0-preview &amp; 1.615-retail: Shader hash bypass】敏捷性SDK 1.716.0-preview＆1.615-Retail：着色器哈希旁路</title>
-      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-716-0-preview-1-615-retail-shader-hash-bypass</link>
-      <description>【The D3D runtime as of 1.615 officially supports applications opting to bypass shader hash validation. The historical purpose of the hash that the DX shader compiler embeds in every shader binary was to give the D3D runtime to confidence that shaders being given to it are well formed.  The assumption was that a hashed shader [&amp;hellip;]】截至1.615的D3D运行时正式支持绕过着色器哈希验证的应用程序。 DX着色器编译器嵌入每个着色器二进制文件的哈希的历史目的是使D3D运行时充满信心，使着色器赋予其良好形成。  假设是一个哈希的着色器[…]</description>
-      <pubDate>Thu, 30 Jan 2025 17:28:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Hot Reload in Data API builder Now Available】热门重新加载数据API构建器现已可用</title>
-      <link>https://devblogs.microsoft.com/azure-sql/hot-reload-in-data-api-builder-now-available</link>
-      <description>【Data API builder (DAB) creates secure REST and GraphQL endpoints over your database (SQL, Postgres, Cosmos, MySQL) in Azure, on-prem, or anywhere you can run a container. It supports every programming language, requires no additional framework, is rich with features, and – because it is open source – is completely free. There is no code [&amp;hellip;]】数据API构建器（DAB）在您的数据库（SQL，Postgres，Cosmos，MySQL，MySQL）中创建安全的REST和GraphQl端点，以在Azure，本地或任何地方可以运行容器。它支持每种编程语言，不需要其他框架，具有丰富的功能，并且（因为它是开源的）是完全免费的。没有代码[…]</description>
-      <pubDate>Thu, 30 Jan 2025 23:38:30 +0000</pubDate>
-    </item>
-    <item>
       <title>【Introducing the Microsoft Graph Export-Import APIs for Exchange in public preview】在公共预览中介绍Microsoft Graph Export-Import API</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-export-import-apis-for-exchange-in-public-preview</link>
       <description>【We are happy to announce the launch of Export-Import APIs in limited Public Preview (Beta), a set of Microsoft Graph APIs that empower applications to discover, export and import contents from Exchange Online mailboxes in full fidelity.】我们很高兴地宣布在有限的公共预览（Beta）中启动出口Import API，这是一组Microsoft Graph API，授权应用程序从完全保真的交换在线邮箱中发现，导出和导入内容。</description>
@@ -52,16 +16,52 @@
       <pubDate>Thu, 30 Jan 2025 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing AMQP v2 stack engine support in the Azure Messaging Event Hubs library for Java】在Azure消息传递活动中心库中宣布AMQP V2堆栈引擎支持Java</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/announcing-amqp-v2-stack-engine-support-in-the-azure-messaging-event-hubs-library-for-java</link>
-      <description>【This blog post announces a new stable release of the Azure Event Hubs library for Java, with enhanced reliability and performance.】这篇博客文章宣布了Java的Azure Event Hubs库的新稳定版本，具有增强的可靠性和性能。</description>
-      <pubDate>Thu, 30 Jan 2025 20:21:17 +0000</pubDate>
+      <title>【Build Intelligent Apps with .NET and DeepSeek R1 Today!】立即使用.NET和DeepSeek R1构建智能应用程序！</title>
+      <link>https://devblogs.microsoft.com/dotnet/start-building-an-intelligent-app-with-dotnet-and-deep-seek</link>
+      <description>【Learn how to easily integrate DeepSeek R1 with .NET applications using the Microsoft.Extensions.AI library.】了解如何使用Microsoft.extensions.ai库轻松地将DeepSeek R1与.NET应用程序集成在一起。</description>
+      <pubDate>Fri, 31 Jan 2025 20:51:45 +0000</pubDate>
     </item>
     <item>
       <title>【Blog Migration on February 5th】博客迁移于2月5日</title>
       <link>https://devblogs.microsoft.com/qsharp/blog-migration-on-february-5th</link>
       <description>【We are thrilled to announce that the Q# blog will be moving to a new home at Azure Quantum Technical Blog on February 5, 2025. This will enable us to offer you a more seamless and enhanced experience through a single integrated platform, featuring the latest information and resources in quantum computing. &amp;nbsp; Best regards, The [&amp;hellip;]】我们很高兴地宣布，Q＃博客将于2025年2月5日搬到Azure Quantum技术博客的新家。这将使我们通过单个集成平台为您提供更加无缝和增强的体验量子计算中的信息和资源。   最好的问候，[…]</description>
       <pubDate>Thu, 30 Jan 2025 18:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2501.30 – Support for Shader Hash Bypass, bug fixes, and everything in 2412.12】PIX 2501.30  - 支持着色器哈希旁路，错误修复和2412.12中的所有内容</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2501-30</link>
+      <description>【Today we released PIX version 2501.30, which can be downloaded here. This release includes support for everything that was in the 2412.12 version of PIX, plus the following improvements: Support for Shader Hash Bypass PIX has full support for this new D3D12 feature that allows apps to bypass shader hash validation in D3D12 runtime by [&amp;hellip;]】今天，我们发布了PIX版本2501.30，可以在此处下载。此版本包括对2412.12版本的Pix中所有内容的支持，以及以下改进：对Shader Hash旁路pix的支持具有对这款新的D3D12功能的全面支持，该功能允许应用程序绕过D3D12 Runtime by […]的D3D12 Runtime by d3dd12 Runtime by Passs Shader Hash验证。</description>
+      <pubDate>Thu, 30 Jan 2025 18:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Hot Reload in Data API builder Now Available】热门重新加载数据API构建器现已可用</title>
+      <link>https://devblogs.microsoft.com/azure-sql/hot-reload-in-data-api-builder-now-available</link>
+      <description>【Announcing Hot Reload In a recent release, Data API builder (DAB) announced support for Hot Reload. This allows developers to modify the configuration file, save it and see the impact of those changes without restarting the engine. This tightens the loop, allowing developers to tune their implementation without waiting for needless tear down/set up operations. [&amp;hellip;]】Data API Builder（DAB）在最近的版本中宣布Hot Relooad宣布了对热重新加载的支持。这使开发人员可以修改配置文件，保存并查看这些更改的影响而无需重新启动引擎。这可以收紧循环，使开发人员可以在不等待不必要的拆除/设置操作的情况下调整实施。 […]</description>
+      <pubDate>Thu, 30 Jan 2025 23:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A look into the new architecture on RNW 0.76 and 0.77!】查看RNW 0.76和0.77上的新体系结构！</title>
+      <link>https://devblogs.microsoft.com/react-native/2025-01-29-new-architecture-on-0-76-0-77</link>
+      <description>【We&#39;ve recently released React Native Windows 0.76 and 0.77- marking the first time we invite developers to create RNW experiences on the new architecture.】我们最近发布了React Native Windows 0.76和0.77-标志着我们首次邀请开发人员在新体系结构上创建RNW体验。</description>
+      <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing AMQP v2 stack engine support in the Azure Messaging Event Hubs library for Java】在Azure消息传递活动中心库中宣布AMQP V2堆栈引擎支持Java</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-amqp-v2-stack-engine-support-in-the-azure-messaging-event-hubs-library-for-java</link>
+      <description>【This blog post announces a new stable release of the Azure Event Hubs library for Java, with enhanced reliability and performance.】这篇博客文章宣布了Java的Azure Event Hubs库的新稳定版本，具有增强的可靠性和性能。</description>
+      <pubDate>Thu, 30 Jan 2025 20:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (January 2025)】Azure SDK发布（2025年1月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-january-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Fri, 31 Jan 2025 17:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2501.30-preview: Application Specific Driver State, Recreate At GPUVA and Tight Alignment】PIX 2501.30访问：应用程序特定驱动程序状态，在GPUVA重新创建和紧密对齐</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2501-30-preview</link>
+      <description>【Today we released PIX version 2501.30-preview, available for download here. This release has initial support for the exciting new D3D12 features that were released in a preview DirectX Agility SDK today. Please visit this blog post for more information about the Agility SDK release. 2501.30-preview is a preview version of PIX. It is identical to 2501.30 [&amp;hellip;]】今天，我们发布了PIX版本2501.30-preview，可在此处下载。该版本对令人兴奋的新D3D12功能有初步的支持，这些功能今天发布了Preview DirectX Agility SDK中。请访问此博客文章以获取有关敏捷性SDK版本的更多信息。 2501.30-preview是Pix的预览版。它与2501.30相同[…]</description>
+      <pubDate>Thu, 30 Jan 2025 18:01:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
