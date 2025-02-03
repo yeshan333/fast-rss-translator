@@ -4,10 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Demonstrating reduction of vulnerability classes: a key step in CISA’s “Secure by Design” pledge】展示减少脆弱性课程的减少：CISA“ Secure by Design”承诺的关键步骤</title>
-      <link>https://blog.cloudflare.com/cisa-pledge-commitment-reducing-vulnerability/</link>
-      <description>【 Cloudflare strengthens its commitment to cybersecurity by joining CISA&#39;s &#34;Secure by Design&#34; pledge. In line with this, we&#39;re reducing the prevalence of vulnerability classes across our products. 】CloudFlare通过加入CISA的“ Secure By Design”承诺来增强其对网络安全的承诺。与此一致，我们正在降低产品中脆弱性类别的流行率。</description>
-      <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
+      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
+      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
+      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/</link>
+      <description>【 2024 ended with a bang. Cloudflare mitigated another record-breaking DDoS attack peaking at 5.6 Tbps. 】2024年以轰动结束。 Cloudflare减轻了另一种破纪录的DDOS攻击，达到5.6 TBP。</description>
+      <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The fall and rise of TikTok (traffic)】Tiktok（交通）的跌倒</title>
+      <link>https://blog.cloudflare.com/the-fall-and-rise-of-tiktok-traffic/</link>
+      <description>【 On January 19, 2025, ByteDance suspended TikTok and related apps for US users. We examine the 14-hour traffic plunge, recovery near Donald Trump’s inauguration. 】2025年1月19日，Bontedance暂停了Tiktok和相关应用程序的应用程序。我们检查了14小时的交通量，唐纳德·特朗普就职典礼附近的恢复。</description>
+      <pubDate>Tue, 21 Jan 2025 13:50:00 +0000</pubDate>
     </item>
     <item>
       <title>【A diversity of downtime: the Q4 2024 Internet disruption summary】停机时间的多样性：Q4 2024互联网中断摘要</title>
@@ -16,10 +28,10 @@
       <pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
-      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
-      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
-      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Demonstrating reduction of vulnerability classes: a key step in CISA’s “Secure by Design” pledge】展示减少脆弱性课程的减少：CISA“ Secure by Design”承诺的关键步骤</title>
+      <link>https://blog.cloudflare.com/cisa-pledge-commitment-reducing-vulnerability/</link>
+      <description>【 Cloudflare strengthens its commitment to cybersecurity by joining CISA&#39;s &#34;Secure by Design&#34; pledge. In line with this, we&#39;re reducing the prevalence of vulnerability classes across our products. 】CloudFlare通过加入CISA的“ Secure By Design”承诺来增强其对网络安全的承诺。与此一致，我们正在降低产品中脆弱性类别的流行率。</description>
+      <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Open source all the way down: Upgrading our developer documentation】一路开源：升级开发人员文档</title>
@@ -34,18 +46,6 @@
       <pubDate>Fri, 03 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The fall and rise of TikTok (traffic)】Tiktok（交通）的跌倒</title>
-      <link>https://blog.cloudflare.com/the-fall-and-rise-of-tiktok-traffic/</link>
-      <description>【 On January 19, 2025, ByteDance suspended TikTok and related apps for US users. We examine the 14-hour traffic plunge, recovery near Donald Trump’s inauguration. 】2025年1月19日，Bontedance暂停了Tiktok和相关应用程序的应用程序。我们检查了14小时的交通量，唐纳德·特朗普就职典礼附近的恢复。</description>
-      <pubDate>Tue, 21 Jan 2025 13:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare meets new Global Cross-Border Privacy (CBPR) standards】CloudFlare符合新的全球跨境隐私（CBPR）标准</title>
-      <link>https://blog.cloudflare.com/cloudflare-cbpr-a-global-privacy-first/</link>
-      <description>【 Cloudflare is the first organization globally to announce having been successfully audited against the ‘Global Cross-Border Privacy Rules’ system and ‘Global Privacy Recognition for Processors’. 】Cloudflare是全球第一个宣布已成功审核“全球跨境隐私规则”系统和“处理器的全球隐私识别”的组织。</description>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【TikTok ban takes hold: data reveals sharp traffic decline and rapid shift to alternatives】Tiktok Ban持有：数据揭示了交通急剧下降，并迅速转移到替代方案</title>
       <link>https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/</link>
       <description>【 On January 19, 2025, ByteDance shut down access to TikTok and other owned/operated apps for US users, causing an 85% traffic plunge and a rapid shift to alternatives like RedNote. 】2025年1月19日，Bytedance关闭了对Tiktok和其他拥有/操作的应用程序的访问，为美国用户造成85％的交通量，并迅速转移到Rednote等替代方案。</description>
@@ -58,10 +58,10 @@
       <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/</link>
-      <description>【 2024 ended with a bang. Cloudflare mitigated another record-breaking DDoS attack peaking at 5.6 Tbps. 】2024年以轰动结束。 Cloudflare减轻了另一种破纪录的DDOS攻击，达到5.6 TBP。</description>
-      <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare meets new Global Cross-Border Privacy (CBPR) standards】CloudFlare符合新的全球跨境隐私（CBPR）标准</title>
+      <link>https://blog.cloudflare.com/cloudflare-cbpr-a-global-privacy-first/</link>
+      <description>【 Cloudflare is the first organization globally to announce having been successfully audited against the ‘Global Cross-Border Privacy Rules’ system and ‘Global Privacy Recognition for Processors’. 】Cloudflare是全球第一个宣布已成功审核“全球跨境隐私规则”系统和“处理器的全球隐私识别”的组织。</description>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
