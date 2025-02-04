@@ -4,10 +4,34 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
-      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
-      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
-      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Open source all the way down: Upgrading our developer documentation】一路开源：升级开发人员文档</title>
+      <link>https://blog.cloudflare.com/open-source-all-the-way-down-upgrading-our-developer-documentation/</link>
+      <description>【 At Cloudflare, we treat developer content like an open source product. This collaborative approach enables global contributions to enhance quality and relevance for a wide range of users. This year, 】在CloudFlare，我们将开发人员的内容视为开源产品。这种协作方法可实现全球贡献，以提高各种用户的质量和相关性。今年，</description>
+      <pubDate>Wed, 08 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare thwarts over 47 million cyberthreats against Jewish and Holocaust educational websites】Cloudflare挫败了超过4,700万个网络威胁，针对犹太和大屠杀教育网站</title>
+      <link>https://blog.cloudflare.com/cloudflare-thwarts-over-47-million-cyberthreats-against-jewish-and-holocaust/</link>
+      <description>【 January 27 marks the International Holocaust Remembrance Day — a solemn occasion to honor the memory of the six million Jews who perished in the Holocaust, along with countless others who fell victim 】1月27日是国际大屠杀纪念日 - 一个庄严的场合，以纪念在大屠杀中丧生的600万犹太人，以及无数其他受害者</description>
+      <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Demonstrating reduction of vulnerability classes: a key step in CISA’s “Secure by Design” pledge】展示减少脆弱性课程的减少：CISA“ Secure by Design”承诺的关键步骤</title>
+      <link>https://blog.cloudflare.com/cisa-pledge-commitment-reducing-vulnerability/</link>
+      <description>【 Cloudflare strengthens its commitment to cybersecurity by joining CISA&#39;s &#34;Secure by Design&#34; pledge. In line with this, we&#39;re reducing the prevalence of vulnerability classes across our products. 】CloudFlare通过加入CISA的“ Secure By Design”承诺来增强其对网络安全的承诺。与此一致，我们正在降低产品中脆弱性类别的流行率。</description>
+      <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multi-Path TCP: revolutionizing connectivity, one path at a time】多路径TCP：革新连接性，一次一条路径</title>
+      <link>https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/</link>
+      <description>【 Multi-Path TCP (MPTCP) leverages multiple network interfaces, like Wi-Fi and cellular, to provide seamless mobility for more reliable connectivity. While promising, MPTCP is still in its early stages, 】多路径TCP（MPTCP）利用多个网络接口（例如Wi-Fi和Cellular）提供无缝的移动性，以提供更可靠的连接性。虽然有前途，但MPTCP仍处于早期阶段，但</description>
+      <pubDate>Fri, 03 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A diversity of downtime: the Q4 2024 Internet disruption summary】停机时间的多样性：Q4 2024互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q4-2024-internet-disruption-summary/</link>
+      <description>【 After a rather busy third quarter, the fourth quarter of 2024 saw significantly fewer Internet disruptions. 】经过一个相当繁忙的第三季度，2024年第四季度的互联网中断大大减少了。</description>
+      <pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
@@ -22,46 +46,22 @@
       <pubDate>Tue, 21 Jan 2025 13:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A diversity of downtime: the Q4 2024 Internet disruption summary】停机时间的多样性：Q4 2024互联网中断摘要</title>
-      <link>https://blog.cloudflare.com/q4-2024-internet-disruption-summary/</link>
-      <description>【 After a rather busy third quarter, the fourth quarter of 2024 saw significantly fewer Internet disruptions. 】经过一个相当繁忙的第三季度，2024年第四季度的互联网中断大大减少了。</description>
-      <pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Demonstrating reduction of vulnerability classes: a key step in CISA’s “Secure by Design” pledge】展示减少脆弱性课程的减少：CISA“ Secure by Design”承诺的关键步骤</title>
-      <link>https://blog.cloudflare.com/cisa-pledge-commitment-reducing-vulnerability/</link>
-      <description>【 Cloudflare strengthens its commitment to cybersecurity by joining CISA&#39;s &#34;Secure by Design&#34; pledge. In line with this, we&#39;re reducing the prevalence of vulnerability classes across our products. 】CloudFlare通过加入CISA的“ Secure By Design”承诺来增强其对网络安全的承诺。与此一致，我们正在降低产品中脆弱性类别的流行率。</description>
-      <pubDate>Tue, 14 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Open source all the way down: Upgrading our developer documentation】一路开源：升级开发人员文档</title>
-      <link>https://blog.cloudflare.com/open-source-all-the-way-down-upgrading-our-developer-documentation/</link>
-      <description>【 At Cloudflare, we treat developer content like an open source product. This collaborative approach enables global contributions to enhance quality and relevance for a wide range of users. This year, 】在CloudFlare，我们将开发人员的内容视为开源产品。这种协作方法可实现全球贡献，以提高各种用户的质量和相关性。今年，</description>
-      <pubDate>Wed, 08 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Multi-Path TCP: revolutionizing connectivity, one path at a time】多路径TCP：革新连接性，一次一条路径</title>
-      <link>https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/</link>
-      <description>【 Multi-Path TCP (MPTCP) leverages multiple network interfaces, like Wi-Fi and cellular, to provide seamless mobility for more reliable connectivity. While promising, MPTCP is still in its early stages, 】多路径TCP（MPTCP）利用多个网络接口（例如Wi-Fi和Cellular）提供无缝的移动性，以提供更可靠的连接性。虽然有前途，但MPTCP仍处于早期阶段，但</description>
-      <pubDate>Fri, 03 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【TikTok ban takes hold: data reveals sharp traffic decline and rapid shift to alternatives】Tiktok Ban持有：数据揭示了交通急剧下降，并迅速转移到替代方案</title>
       <link>https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/</link>
       <description>【 On January 19, 2025, ByteDance shut down access to TikTok and other owned/operated apps for US users, causing an 85% traffic plunge and a rapid shift to alternatives like RedNote. 】2025年1月19日，Bytedance关闭了对Tiktok和其他拥有/操作的应用程序的访问，为美国用户造成85％的交通量，并迅速转移到Rednote等替代方案。</description>
       <pubDate>Sun, 19 Jan 2025 16:19:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare thwarts over 47 million cyberthreats against Jewish and Holocaust educational websites】Cloudflare挫败了超过4,700万个网络威胁，针对犹太和大屠杀教育网站</title>
-      <link>https://blog.cloudflare.com/cloudflare-thwarts-over-47-million-cyberthreats-against-jewish-and-holocaust/</link>
-      <description>【 January 27 marks the International Holocaust Remembrance Day — a solemn occasion to honor the memory of the six million Jews who perished in the Holocaust, along with countless others who fell victim 】1月27日是国际大屠杀纪念日 - 一个庄严的场合，以纪念在大屠杀中丧生的600万犹太人，以及无数其他受害者</description>
-      <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare meets new Global Cross-Border Privacy (CBPR) standards】CloudFlare符合新的全球跨境隐私（CBPR）标准</title>
       <link>https://blog.cloudflare.com/cloudflare-cbpr-a-global-privacy-first/</link>
       <description>【 Cloudflare is the first organization globally to announce having been successfully audited against the ‘Global Cross-Border Privacy Rules’ system and ‘Global Privacy Recognition for Processors’. 】Cloudflare是全球第一个宣布已成功审核“全球跨境隐私规则”系统和“处理器的全球隐私识别”的组织。</description>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
+      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
+      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
+      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

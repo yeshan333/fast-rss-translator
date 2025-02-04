@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Customizing collapsed text Indicators】自定义崩溃的文本指示器</title>
-      <link>https://devblogs.microsoft.com/visualstudio/customizing-collapsed-text-indicators</link>
-      <description>【Visual Studio 2022 introduces new options for customizing the collapsed text indicator, which helps in distinguishing between different sections of collapsed text in the editor. This aims to make the coding environment more intuitive and easier to use by providing additional customization for visual cues. Customizing your coding environment You can now personalize the color [&amp;hellip;]】Visual Studio 2022介绍了用于自定义折叠文本指示器的新选项，该选项有助于区分编辑器中崩溃的文本的不同部分。这旨在通过为视觉提示提供其他自定义，使编码环境更加直观，更易于使用。自定义您的编码环境您现在可以个性化颜色[…]</description>
-      <pubDate>Thu, 30 Jan 2025 19:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build Intelligent Apps with .NET and DeepSeek R1 Today!】立即使用.NET和DeepSeek R1构建智能应用程序！</title>
-      <link>https://devblogs.microsoft.com/dotnet/start-building-an-intelligent-app-with-dotnet-and-deep-seek</link>
-      <description>【Learn how to easily integrate DeepSeek R1 with .NET applications using the Microsoft.Extensions.AI library.】了解如何使用Microsoft.extensions.ai库轻松地将DeepSeek R1与.NET应用程序集成在一起。</description>
-      <pubDate>Fri, 31 Jan 2025 20:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Creating a generic insertion iterator, part 2】创建通用插入迭代器，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250131-00/?p=110823</link>
-      <description>【Satisfying the iterator requirements, perhaps with a little cheating.】满足迭代器的要求，也许有点作弊。</description>
-      <pubDate>Fri, 31 Jan 2025 15:00:00 +0000</pubDate>
+      <title>【A look into the new architecture on RNW 0.76 and 0.77!】查看RNW 0.76和0.77上的新体系结构！</title>
+      <link>https://devblogs.microsoft.com/react-native/2025-01-29-new-architecture-on-0-76-0-77</link>
+      <description>【We&#39;ve recently released React Native Windows 0.76 and 0.77- marking the first time we invite developers to create RNW experiences on the new architecture.】我们最近发布了React Native Windows 0.76和0.77-标志着我们首次邀请开发人员在新体系结构上创建RNW体验。</description>
+      <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure SDK Release (January 2025)】Azure SDK发布（2025年1月）</title>
@@ -28,40 +16,52 @@
       <pubDate>Fri, 31 Jan 2025 17:35:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Blog Migration on February 5th】博客迁移于2月5日</title>
-      <link>https://devblogs.microsoft.com/qsharp/blog-migration-on-february-5th</link>
-      <description>【We are thrilled to announce that the Q# blog will be moving to a new home at Azure Quantum Technical Blog on February 5, 2025. This will enable us to offer you a more seamless and enhanced experience through a single integrated platform, featuring the latest information and resources in quantum computing. &amp;nbsp; Best regards, The [&amp;hellip;]】我们很高兴地宣布，Q＃博客将于2025年2月5日搬到Azure Quantum技术博客的新家。这将使我们通过单个集成平台为您提供更加无缝和增强的体验量子计算中的信息和资源。   最好的问候，[…]</description>
-      <pubDate>Thu, 30 Jan 2025 18:18:52 +0000</pubDate>
+      <title>【Build Intelligent Apps with .NET and DeepSeek R1 Today!】立即使用.NET和DeepSeek R1构建智能应用程序！</title>
+      <link>https://devblogs.microsoft.com/dotnet/start-building-an-intelligent-app-with-dotnet-and-deep-seek</link>
+      <description>【Learn how to easily integrate DeepSeek R1 with .NET applications using the Microsoft.Extensions.AI library.】了解如何使用Microsoft.extensions.ai库轻松地将DeepSeek R1与.NET应用程序集成在一起。</description>
+      <pubDate>Fri, 31 Jan 2025 20:51:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Microsoft Graph Export-Import APIs for Exchange in public preview】在公共预览中介绍Microsoft Graph Export-Import API</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-export-import-apis-for-exchange-in-public-preview</link>
-      <description>【We are happy to announce the launch of Export-Import APIs in limited Public Preview (Beta), a set of Microsoft Graph APIs that empower applications to discover, export and import contents from Exchange Online mailboxes in full fidelity.】我们很高兴地宣布在有限的公共预览（Beta）中启动出口Import API，这是一组Microsoft Graph API，授权应用程序从完全保真的交换在线邮箱中发现，导出和导入内容。</description>
-      <pubDate>Thu, 30 Jan 2025 22:00:29 +0000</pubDate>
+      <title>【On trying to log an exception as it leaves your scope】试图记录一个例外，因为它离开了您的范围</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250203-00/?p=110830</link>
+      <description>【You can&#39;t watch it from an object on the outside.】您无法从外面的对象看它。</description>
+      <pubDate>Mon, 03 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A look into the new architecture on RNW 0.76 and 0.77!】查看RNW 0.76和0.77上的新体系结构！</title>
-      <link>https://devblogs.microsoft.com/react-native/2025-01-29-new-architecture-on-0-76-0-77</link>
-      <description>【We&#39;ve recently released React Native Windows 0.76 and 0.77- marking the first time we invite developers to create RNW experiences on the new architecture.】我们最近发布了React Native Windows 0.76和0.77-标志着我们首次邀请开发人员在新体系结构上创建RNW体验。</description>
-      <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
+      <title>【Customize your AI-generated git commit messages】自定义您的AI生成的Git提交消息</title>
+      <link>https://devblogs.microsoft.com/visualstudio/customize-your-ai-generated-git-commit-messages</link>
+      <description>【When it comes to collaborative software development, clear and effective communication is key. One area that often gets overlooked is the Git commit message. Poorly crafted commit messages can lead to confusion and inefficiencies within a team. That’s why we’ve built on the suggestions and feedback for the AI-generated commit messages, and now you can [&amp;hellip;]】在协作软件开发方面，清晰有效的沟通是关键。 git提交消息是经常被忽视的一个领域。精心制作的提交信息可能会导致团队内部的困惑和效率低下。这就是为什么我们基于AI生成的提交消息的建议和反馈，现在您可以[…]</description>
+      <pubDate>Mon, 03 Feb 2025 16:00:58 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing AMQP v2 stack engine support in the Azure Messaging Event Hubs library for Java】在Azure消息传递活动中心库中宣布AMQP V2堆栈引擎支持Java</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/announcing-amqp-v2-stack-engine-support-in-the-azure-messaging-event-hubs-library-for-java</link>
-      <description>【This blog post announces a new stable release of the Azure Event Hubs library for Java, with enhanced reliability and performance.】这篇博客文章宣布了Java的Azure Event Hubs库的新稳定版本，具有增强的可靠性和性能。</description>
-      <pubDate>Thu, 30 Jan 2025 20:21:17 +0000</pubDate>
+      <title>【Announcing the ‘Simplify Microsoft Power Platform Deployments by Using Pipelines’ Learning Path】宣布“通过使用Pipelines”学习路径来简化Microsoft Power Platform的部署</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-simplify-microsoft-power-platform-deployments-by-using-pipelines-learning-path</link>
+      <description>【Microsoft Learn offers many Power Platform learn modules. Now, we are expanding the collection with a new release! Pipelines in Power Platform is a managed environments feature that has been released a while back now! Over time, it has improved significantly with updates like SPN support, deployment pages, extensibility, and personal pipelines. Many people requested [&amp;hellip;]】Microsoft Learn提供许多电源平台学习模块。现在，我们正在通过新版本扩展该系列！ Power Platform中的管道是一项托管环境功能，现在已经发布了一段时间！随着时间的流逝，随着SPN支持，部署页面，可扩展性和个人管道的更新，它已大大改善。许多人要求[…]</description>
+      <pubDate>Mon, 03 Feb 2025 17:32:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Hot Reload in Data API builder Now Available】热门重新加载数据API构建器现已可用</title>
-      <link>https://devblogs.microsoft.com/azure-sql/hot-reload-in-data-api-builder-now-available</link>
-      <description>【Announcing Hot Reload In a recent release, Data API builder (DAB) announced support for Hot Reload. This allows developers to modify the configuration file, save it and see the impact of those changes without restarting the engine. This tightens the loop, allowing developers to tune their implementation without waiting for needless tear down/set up operations. [&amp;hellip;]】Data API Builder（DAB）在最近的版本中宣布Hot Relooad宣布了对热重新加载的支持。这使开发人员可以修改配置文件，保存并查看这些更改的影响而无需重新启动引擎。这可以收紧循环，使开发人员可以在不等待不必要的拆除/设置操作的情况下调整实施。 […]</description>
-      <pubDate>Thu, 30 Jan 2025 23:38:30 +0000</pubDate>
+      <title>【Doctors generate faster, more accurate medical charts with Sayvant and Azure Cosmos DB】医生使用Sayvant和Azure Cosmos DB生成更快，更准确的医疗图表</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/doctors-generate-faster-more-accurate-medical-charts-with-sayvant-and-azure-cosmos-db</link>
+      <description>【This article is guest authored by Justin Mardjuki, CEO, Sayvant. Emergency rooms and urgent care facilities handle an estimated 350 million visits each year. Acute care environments are fast-paced, unpredictable, and high stakes. In these settings, providing care quickly is paramount. That’s why we created Sayvant, the leading clinical documentation AI solution for acute care. [&amp;hellip;]】本文是由Sayvant首席执行官Justin Mardjuki撰写的来宾。急诊室和紧急护理设施估计每年进行3.5亿次访问。急性护理环境是快节奏，不可预测的和高赌注。在这些设置中，快速提供护理至关重要。这就是为什么我们创建了Sayvant，这是领先的临床文档AI解决方案的急性护理解决方案。 […]</description>
+      <pubDate>Mon, 03 Feb 2025 20:34:42 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2501.30-preview: Application Specific Driver State, Recreate At GPUVA and Tight Alignment】PIX 2501.30访问：应用程序特定驱动程序状态，在GPUVA重新创建和紧密对齐</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2501-30-preview</link>
-      <description>【Today we released PIX version 2501.30-preview, available for download here. This release has initial support for the exciting new D3D12 features that were released in a preview DirectX Agility SDK today. Please visit this blog post for more information about the Agility SDK release. 2501.30-preview is a preview version of PIX. It is identical to 2501.30 [&amp;hellip;]】今天，我们发布了PIX版本2501.30-preview，可在此处下载。该版本对令人兴奋的新D3D12功能有初步的支持，这些功能今天发布了Preview DirectX Agility SDK中。请访问此博客文章以获取有关敏捷性SDK版本的更多信息。 2501.30-preview是Pix的预览版。它与2501.30相同[…]</description>
-      <pubDate>Thu, 30 Jan 2025 18:01:27 +0000</pubDate>
+      <title>【Stored Procedure Caching in Data API builder Now Supported】现在支持数据API构建器中的存储过程缓存</title>
+      <link>https://devblogs.microsoft.com/azure-sql/procedure-caching-in-data-api-builder-now-supported</link>
+      <description>【Announcing Procedure Cache Data API builder (DAB) has long supported Level 1 cache for tables and views. Level 1 is an in-memory cache that automatically stores frequent queries or slow-changing data in the API layer, bypassing several database queries. Today, Data API builder (DAB) also supports Level 1 cache for stored procedures. This is important. [&amp;hellip;]】宣布程序缓存数据API构建器（DAB）长期以来一直支持表和视图的1级缓存。级别1是一个内存缓存，自动在API层中自动存储频繁的查询或慢变化数据，绕过几个数据库查询。如今，数据API构建器（DAB）还支持存储过程的1级缓存。这很重要。 […]</description>
+      <pubDate>Mon, 03 Feb 2025 16:28:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Update to Azure DevOps Allowed IP addresses】更新到Azure DevOps允许IP地址</title>
+      <link>https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses</link>
+      <description>【We are excited to announce some important upgrades to our networking infrastructure that will enhance the performance and reliability of our service. As part of these infrastructure upgrades, we are introducing new IP addresses that you will need to allow list in your firewall configurations. What’s Changing And Why? We are transitioning from the current [&amp;hellip;]】我们很高兴宣布对我们的网络基础架构进行一些重要的升级，以提高我们服务的性能和可靠性。作为这些基础架构升级的一部分，我们介绍了新的IP地址，您需要在防火墙配置中允许列表。什么在变化，为什么？我们正在从当前[…]过渡</description>
+      <pubDate>Mon, 03 Feb 2025 16:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Step-by-Step Guide: User Provisioning with SAML Authentication in GitHub Enterprise】分步指南：用saml身份验证的用户在GitHub Enterprise中提供</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/step-by-step-guide-user-provisioning-with-saml</link>
+      <description>【This guide demonstrates how to seamlessly set up user access in GitHub Enterprise using Security Assertion Markup Language (SAML) authentication. The process connects a user&amp;#8217;s GitHub account with your organization&amp;#8217;s identity provider (such as Microsoft Entra ID or Okta), enabling secure and streamlined access management.     &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [&amp;hellip;]】本指南演示了如何使用安全断言标记语言（SAML）身份验证在GitHub Enterprise中无缝设置用户访问。该过程将用户的GitHub帐户与组织的身份提供商（例如Microsoft Entra ID或OKTA）连接起来，从而实现了安全和简化的访问管理。                       […]</description>
+      <pubDate>Tue, 04 Feb 2025 02:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
