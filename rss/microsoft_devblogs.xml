@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【A look into the new architecture on RNW 0.76 and 0.77!】查看RNW 0.76和0.77上的新体系结构！</title>
-      <link>https://devblogs.microsoft.com/react-native/2025-01-29-new-architecture-on-0-76-0-77</link>
-      <description>【We&#39;ve recently released React Native Windows 0.76 and 0.77- marking the first time we invite developers to create RNW experiences on the new architecture.】我们最近发布了React Native Windows 0.76和0.77-标志着我们首次邀请开发人员在新体系结构上创建RNW体验。</description>
-      <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (January 2025)】Azure SDK发布（2025年1月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-january-2025</link>
-      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
-      <pubDate>Fri, 31 Jan 2025 17:35:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build Intelligent Apps with .NET and DeepSeek R1 Today!】立即使用.NET和DeepSeek R1构建智能应用程序！</title>
-      <link>https://devblogs.microsoft.com/dotnet/start-building-an-intelligent-app-with-dotnet-and-deep-seek</link>
-      <description>【Learn how to easily integrate DeepSeek R1 with .NET applications using the Microsoft.Extensions.AI library.】了解如何使用Microsoft.extensions.ai库轻松地将DeepSeek R1与.NET应用程序集成在一起。</description>
-      <pubDate>Fri, 31 Jan 2025 20:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【On trying to log an exception as it leaves your scope】试图记录一个例外，因为它离开了您的范围</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250203-00/?p=110830</link>
-      <description>【You can&#39;t watch it from an object on the outside.】您无法从外面的对象看它。</description>
-      <pubDate>Mon, 03 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customize your AI-generated git commit messages】自定义您的AI生成的Git提交消息</title>
-      <link>https://devblogs.microsoft.com/visualstudio/customize-your-ai-generated-git-commit-messages</link>
-      <description>【When it comes to collaborative software development, clear and effective communication is key. One area that often gets overlooked is the Git commit message. Poorly crafted commit messages can lead to confusion and inefficiencies within a team. That’s why we’ve built on the suggestions and feedback for the AI-generated commit messages, and now you can [&amp;hellip;]】在协作软件开发方面，清晰有效的沟通是关键。 git提交消息是经常被忽视的一个领域。精心制作的提交信息可能会导致团队内部的困惑和效率低下。这就是为什么我们基于AI生成的提交消息的建议和反馈，现在您可以[…]</description>
-      <pubDate>Mon, 03 Feb 2025 16:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the ‘Simplify Microsoft Power Platform Deployments by Using Pipelines’ Learning Path】宣布“通过使用Pipelines”学习路径来简化Microsoft Power Platform的部署</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-simplify-microsoft-power-platform-deployments-by-using-pipelines-learning-path</link>
-      <description>【Microsoft Learn offers many Power Platform learn modules. Now, we are expanding the collection with a new release! Pipelines in Power Platform is a managed environments feature that has been released a while back now! Over time, it has improved significantly with updates like SPN support, deployment pages, extensibility, and personal pipelines. Many people requested [&amp;hellip;]】Microsoft Learn提供许多电源平台学习模块。现在，我们正在通过新版本扩展该系列！ Power Platform中的管道是一项托管环境功能，现在已经发布了一段时间！随着时间的流逝，随着SPN支持，部署页面，可扩展性和个人管道的更新，它已大大改善。许多人要求[…]</description>
-      <pubDate>Mon, 03 Feb 2025 17:32:36 +0000</pubDate>
-    </item>
-    <item>
       <title>【Doctors generate faster, more accurate medical charts with Sayvant and Azure Cosmos DB】医生使用Sayvant和Azure Cosmos DB生成更快，更准确的医疗图表</title>
       <link>https://devblogs.microsoft.com/cosmosdb/doctors-generate-faster-more-accurate-medical-charts-with-sayvant-and-azure-cosmos-db</link>
       <description>【This article is guest authored by Justin Mardjuki, CEO, Sayvant. Emergency rooms and urgent care facilities handle an estimated 350 million visits each year. Acute care environments are fast-paced, unpredictable, and high stakes. In these settings, providing care quickly is paramount. That’s why we created Sayvant, the leading clinical documentation AI solution for acute care. [&amp;hellip;]】本文是由Sayvant首席执行官Justin Mardjuki撰写的来宾。急诊室和紧急护理设施估计每年进行3.5亿次访问。急性护理环境是快节奏，不可预测的和高赌注。在这些设置中，快速提供护理至关重要。这就是为什么我们创建了Sayvant，这是领先的临床文档AI解决方案的急性护理解决方案。 […]</description>
       <pubDate>Mon, 03 Feb 2025 20:34:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Stored Procedure Caching in Data API builder Now Supported】现在支持数据API构建器中的存储过程缓存</title>
-      <link>https://devblogs.microsoft.com/azure-sql/procedure-caching-in-data-api-builder-now-supported</link>
-      <description>【Announcing Procedure Cache Data API builder (DAB) has long supported Level 1 cache for tables and views. Level 1 is an in-memory cache that automatically stores frequent queries or slow-changing data in the API layer, bypassing several database queries. Today, Data API builder (DAB) also supports Level 1 cache for stored procedures. This is important. [&amp;hellip;]】宣布程序缓存数据API构建器（DAB）长期以来一直支持表和视图的1级缓存。级别1是一个内存缓存，自动在API层中自动存储频繁的查询或慢变化数据，绕过几个数据库查询。如今，数据API构建器（DAB）还支持存储过程的1级缓存。这很重要。 […]</description>
-      <pubDate>Mon, 03 Feb 2025 16:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Update to Azure DevOps Allowed IP addresses】更新到Azure DevOps允许IP地址</title>
-      <link>https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses</link>
-      <description>【We are excited to announce some important upgrades to our networking infrastructure that will enhance the performance and reliability of our service. As part of these infrastructure upgrades, we are introducing new IP addresses that you will need to allow list in your firewall configurations. What’s Changing And Why? We are transitioning from the current [&amp;hellip;]】我们很高兴宣布对我们的网络基础架构进行一些重要的升级，以提高我们服务的性能和可靠性。作为这些基础架构升级的一部分，我们介绍了新的IP地址，您需要在防火墙配置中允许列表。什么在变化，为什么？我们正在从当前[…]过渡</description>
-      <pubDate>Mon, 03 Feb 2025 16:27:04 +0000</pubDate>
-    </item>
-    <item>
       <title>【Step-by-Step Guide: User Provisioning with SAML Authentication in GitHub Enterprise】分步指南：用saml身份验证的用户在GitHub Enterprise中提供</title>
       <link>https://devblogs.microsoft.com/all-things-azure/step-by-step-guide-user-provisioning-with-saml</link>
-      <description>【This guide demonstrates how to seamlessly set up user access in GitHub Enterprise using Security Assertion Markup Language (SAML) authentication. The process connects a user&amp;#8217;s GitHub account with your organization&amp;#8217;s identity provider (such as Microsoft Entra ID or Okta), enabling secure and streamlined access management.     &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [&amp;hellip;]】本指南演示了如何使用安全断言标记语言（SAML）身份验证在GitHub Enterprise中无缝设置用户访问。该过程将用户的GitHub帐户与组织的身份提供商（例如Microsoft Entra ID或OKTA）连接起来，从而实现了安全和简化的访问管理。                       […]</description>
+      <description>【This guide demonstrates how to seamlessly set up user access in GitHub Enterprise using Security Assertion Markup Language (SAML) authentication. The process connects a user&amp;#8217;s GitHub account with your organization&amp;#8217;s identity provider (such as Microsoft Entra ID or Okta), enabling secure and streamlined access management.     The diagram above describes the process when a user [&amp;hellip;]】本指南演示了如何使用安全断言标记语言（SAML）身份验证在GitHub Enterprise中无缝设置用户访问。该过程将用户的GitHub帐户与组织的身份提供商（例如Microsoft Entra ID或OKTA）连接起来，从而实现了安全和简化的访问管理。     上图描述了用户[…]的过程</description>
       <pubDate>Tue, 04 Feb 2025 02:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ASP.NET Core on .NET Framework servicing release advisory: ASP.NET Core 2.3】ASP.NET核心在.NET框架服务释放咨询：ASP.NET Core 2.3</title>
+      <link>https://devblogs.microsoft.com/dotnet/servicing-release-advisory-aspnetcore-23</link>
+      <description>【ASP.NET Core 2.1 has been reshipped as ASP.NET Core 2.3 to help users on the unsupported ASP.NET Core 2.2 move to a supported version.】ASP.NET Core 2.1已作为ASP.NET Core 2.3重新研究，以帮助用户在未支持的ASP.NET Core 2.2上移动到受支持的版本。</description>
+      <pubDate>Tue, 04 Feb 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The original name for Flexible Single Master Operations in Active Directory】Active Directory中灵活的单主操作的原始名称</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250204-00/?p=110834</link>
+      <description>【Not that kind of F-word.】不是那种f字。</description>
+      <pubDate>Tue, 04 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Full web support for conditional access policies across Azure DevOps and partner web properties】对Azure DevOps和合作伙伴Web Properties的有条件访问策略的全面网络支持</title>
+      <link>https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties</link>
+      <description>【We’re happy to announce that we’ve made significant progress in updating our web authentication stack on Azure DevOps services and partner web properties to utilize Microsoft Entra tokens to handle web sessions. By replacing our previous cookies with Entra tokens, we’ve deepened the integration we have with Microsoft Entra ID on our web experience. This [&amp;hellip;]】我们很高兴地宣布，我们在更新有关Azure DevOps服务和合作伙伴Web Properties的Web身份验证堆栈方面取得了重大进展，以利用Microsoft Entra代币来处理Web Sessions。通过更换以前的cookie使用Entra代币，我们将与Microsoft Entra ID的集成加深了网络体验。这 […]</description>
+      <pubDate>Tue, 04 Feb 2025 17:04:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using Azure OpenAI Chat Completion with data source and Function Calling】使用数据源和功能调用的Azure OpenAI聊天完成</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/using-azure-openai-chat-completion-with-data-source-and-function-calling</link>
+      <description>【Azure OpenAI Chat Completion with data source provides powerful capabilities for integrating conversational AI into applications. However, using a data source and function calling in a single request is not supported yet. When both features are enabled, function calling is ignored, and only the data source is used. This presents a challenge when retrieving information, [&amp;hellip;]】Azure OpenAI聊天完成数据源为将对话AI集成到应用程序中提供了强大的功能。但是，在单个请求中使用数据源和调用函数尚不支持。启用两个功能后，忽略了函数调用，并且仅使用数据源。这在检索信息时提出了一个挑战，[…]</description>
+      <pubDate>Wed, 05 Feb 2025 01:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel Roadmap H1 2025: Accelerating Agents, Processes, and Integration】语义内核路线图H1 2025：加速剂，过程和集成</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-roadmap-h1-2025-accelerating-agents-processes-and-integration</link>
+      <description>【As we move into the first half of 2025, I&amp;#8217;m excited to share our ambitious roadmap that we hope will enable you to build even more sophisticated AI applications with Semantic Kernel. Agent Framework 1.0 By the end of Q1 2025, the SK Agent Framework will transition from preview to general availability (GA). This milestone [&amp;hellip;]】当我们进入2025年上半年时，我很高兴分享我们雄心勃勃的路线图，希望您能够通过语义内核构建更复杂的AI应用程序。 Agent Framework 1.0到Q1 2025末尾，SK代理框架将从预览过渡到一般可用性（GA）。这个里程碑[…]</description>
+      <pubDate>Tue, 04 Feb 2025 05:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Your fonts are now preserved when changing theme】更改主题时，您的字体现在可以保存</title>
+      <link>https://devblogs.microsoft.com/visualstudio/your-fonts-are-now-preserved-when-changing-theme</link>
+      <description>【Do you find yourself adjusting your font settings every time you change themes in Visual Studio, We&amp;#8217;ve made some changes that we think will help. The latest update in Visual Studio 2022 allows theme switching without affecting font settings. This feature maintains the selected font face and size regardless of the chosen theme, while font [&amp;hellip;]】您是否发现每次更改Visual Studio主题时都会调整字体设置，我们进行了一些更改，认为会有所帮助。 Visual Studio 2022中的最新更新允许主题切换而不会影响字体设置。无论选择的主题如何</description>
+      <pubDate>Tue, 04 Feb 2025 13:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the Kiota support for Dart, now in public preview】宣布Kiota对Dart的支持，现在在公共预览中</title>
+      <link>https://devblogs.microsoft.com/openapi/kiota-dart-support</link>
+      <description>【What is Kiota, why and how to use it to create API clients for any OpenAPI described APIs and the new language support, Dart.】什么是Kiota，为什么以及如何使用它来为任何描述的API和新语言支持DART创建API客户端。</description>
+      <pubDate>Tue, 04 Feb 2025 16:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Storing, querying and keeping embeddings updated: options and best practices】存储，查询和保持嵌入式的更新：选项和最佳实践</title>
+      <link>https://devblogs.microsoft.com/azure-sql/storing-querying-and-keeping-embeddings-updated-options-and-best-practices</link>
+      <description>【Embeddings and vectors are becoming common terms not only for engineers involved in AI-related activities but also for those using databases. Some common points of discussion that frequently arise among users familiar with vectors and embeddings include: How can I quickly &amp;#8220;vectorize&amp;#8221; the content already present in my database? How can I keep the vectors [&amp;hellip;]】嵌入和向量不仅成为参与AI相关活动的工程师，而且对于使用数据库的工程师而成为常见术语。熟悉向量和嵌入的用户之间经常出现的一些共同讨论点包括：如何快速“矢量化”数据库中已经存在的内容？我如何保持向量[…]</description>
+      <pubDate>Tue, 04 Feb 2025 16:00:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
