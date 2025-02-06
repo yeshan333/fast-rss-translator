@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Doctors generate faster, more accurate medical charts with Sayvant and Azure Cosmos DB】医生使用Sayvant和Azure Cosmos DB生成更快，更准确的医疗图表</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/doctors-generate-faster-more-accurate-medical-charts-with-sayvant-and-azure-cosmos-db</link>
-      <description>【This article is guest authored by Justin Mardjuki, CEO, Sayvant. Emergency rooms and urgent care facilities handle an estimated 350 million visits each year. Acute care environments are fast-paced, unpredictable, and high stakes. In these settings, providing care quickly is paramount. That’s why we created Sayvant, the leading clinical documentation AI solution for acute care. [&amp;hellip;]】本文是由Sayvant首席执行官Justin Mardjuki撰写的来宾。急诊室和紧急护理设施估计每年进行3.5亿次访问。急性护理环境是快节奏，不可预测的和高赌注。在这些设置中，快速提供护理至关重要。这就是为什么我们创建了Sayvant，这是领先的临床文档AI解决方案的急性护理解决方案。 […]</description>
-      <pubDate>Mon, 03 Feb 2025 20:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Step-by-Step Guide: User Provisioning with SAML Authentication in GitHub Enterprise】分步指南：用saml身份验证的用户在GitHub Enterprise中提供</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/step-by-step-guide-user-provisioning-with-saml</link>
-      <description>【This guide demonstrates how to seamlessly set up user access in GitHub Enterprise using Security Assertion Markup Language (SAML) authentication. The process connects a user&amp;#8217;s GitHub account with your organization&amp;#8217;s identity provider (such as Microsoft Entra ID or Okta), enabling secure and streamlined access management.     The diagram above describes the process when a user [&amp;hellip;]】本指南演示了如何使用安全断言标记语言（SAML）身份验证在GitHub Enterprise中无缝设置用户访问。该过程将用户的GitHub帐户与组织的身份提供商（例如Microsoft Entra ID或OKTA）连接起来，从而实现了安全和简化的访问管理。     上图描述了用户[…]的过程</description>
-      <pubDate>Tue, 04 Feb 2025 02:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【ASP.NET Core on .NET Framework servicing release advisory: ASP.NET Core 2.3】ASP.NET核心在.NET框架服务释放咨询：ASP.NET Core 2.3</title>
       <link>https://devblogs.microsoft.com/dotnet/servicing-release-advisory-aspnetcore-23</link>
       <description>【ASP.NET Core 2.1 has been reshipped as ASP.NET Core 2.3 to help users on the unsupported ASP.NET Core 2.2 move to a supported version.】ASP.NET Core 2.1已作为ASP.NET Core 2.3重新研究，以帮助用户在未支持的ASP.NET Core 2.2上移动到受支持的版本。</description>
       <pubDate>Tue, 04 Feb 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The original name for Flexible Single Master Operations in Active Directory】Active Directory中灵活的单主操作的原始名称</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250204-00/?p=110834</link>
-      <description>【Not that kind of F-word.】不是那种f字。</description>
-      <pubDate>Tue, 04 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Full web support for conditional access policies across Azure DevOps and partner web properties】对Azure DevOps和合作伙伴Web Properties的有条件访问策略的全面网络支持</title>
-      <link>https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties</link>
-      <description>【We’re happy to announce that we’ve made significant progress in updating our web authentication stack on Azure DevOps services and partner web properties to utilize Microsoft Entra tokens to handle web sessions. By replacing our previous cookies with Entra tokens, we’ve deepened the integration we have with Microsoft Entra ID on our web experience. This [&amp;hellip;]】我们很高兴地宣布，我们在更新有关Azure DevOps服务和合作伙伴Web Properties的Web身份验证堆栈方面取得了重大进展，以利用Microsoft Entra代币来处理Web Sessions。通过更换以前的cookie使用Entra代币，我们将与Microsoft Entra ID的集成加深了网络体验。这 […]</description>
-      <pubDate>Tue, 04 Feb 2025 17:04:29 +0000</pubDate>
     </item>
     <item>
       <title>【Using Azure OpenAI Chat Completion with data source and Function Calling】使用数据源和功能调用的Azure OpenAI聊天完成</title>
@@ -40,28 +16,52 @@
       <pubDate>Wed, 05 Feb 2025 01:00:16 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel Roadmap H1 2025: Accelerating Agents, Processes, and Integration】语义内核路线图H1 2025：加速剂，过程和集成</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-roadmap-h1-2025-accelerating-agents-processes-and-integration</link>
-      <description>【As we move into the first half of 2025, I&amp;#8217;m excited to share our ambitious roadmap that we hope will enable you to build even more sophisticated AI applications with Semantic Kernel. Agent Framework 1.0 By the end of Q1 2025, the SK Agent Framework will transition from preview to general availability (GA). This milestone [&amp;hellip;]】当我们进入2025年上半年时，我很高兴分享我们雄心勃勃的路线图，希望您能够通过语义内核构建更复杂的AI应用程序。 Agent Framework 1.0到Q1 2025末尾，SK代理框架将从预览过渡到一般可用性（GA）。这个里程碑[…]</description>
-      <pubDate>Tue, 04 Feb 2025 05:24:42 +0000</pubDate>
+      <title>【On exactly when XAML bindings are evaluated if an element is not yet loaded】如果尚未加载元素，则准确评估XAML绑定</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250205-00/?p=110840</link>
+      <description>【It depends on which abstraction you prefer.】这取决于您喜欢哪种抽象。</description>
+      <pubDate>Wed, 05 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Your fonts are now preserved when changing theme】更改主题时，您的字体现在可以保存</title>
-      <link>https://devblogs.microsoft.com/visualstudio/your-fonts-are-now-preserved-when-changing-theme</link>
-      <description>【Do you find yourself adjusting your font settings every time you change themes in Visual Studio, We&amp;#8217;ve made some changes that we think will help. The latest update in Visual Studio 2022 allows theme switching without affecting font settings. This feature maintains the selected font face and size regardless of the chosen theme, while font [&amp;hellip;]】您是否发现每次更改Visual Studio主题时都会调整字体设置，我们进行了一些更改，认为会有所帮助。 Visual Studio 2022中的最新更新允许主题切换而不会影响字体设置。无论选择的主题如何</description>
-      <pubDate>Tue, 04 Feb 2025 13:00:18 +0000</pubDate>
+      <title>【Introducing Azure OpenAI Realtime API Support in JavaScript】在JavaScript中引入Azure Openai实时API支持</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-azure-openai-realtime-api-support-in-javascript</link>
+      <description>【Introducing the new Realtime API support in the OpenAI JavaScript library, enabling developers to create highly interactive and responsive applications by instantly sending and receiving messages from Azure OpenAI models.】在OpenAI JavaScript库中引入新的实时API支持，使开发人员能够通过立即从Azure OpenAI模型发送和接收消息来创建高度交互式和响应式应用程序。</description>
+      <pubDate>Wed, 05 Feb 2025 05:35:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Kiota support for Dart, now in public preview】宣布Kiota对Dart的支持，现在在公共预览中</title>
-      <link>https://devblogs.microsoft.com/openapi/kiota-dart-support</link>
-      <description>【What is Kiota, why and how to use it to create API clients for any OpenAPI described APIs and the new language support, Dart.】什么是Kiota，为什么以及如何使用它来为任何描述的API和新语言支持DART创建API客户端。</description>
-      <pubDate>Tue, 04 Feb 2025 16:12:50 +0000</pubDate>
+      <title>【Go 1.23.6-1 and 1.22.12-1 Microsoft builds now available】GO 1.23.6-1和1.22.12-1 Microsoft现在可用</title>
+      <link>https://devblogs.microsoft.com/go/go-1-23-6-1-and-1-22-12-1-microsoft-builds-now-available</link>
+      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】现在可以下载一组新的Microsoft GO构建，包括安全修复程序。</description>
+      <pubDate>Thu, 06 Feb 2025 00:25:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Storing, querying and keeping embeddings updated: options and best practices】存储，查询和保持嵌入式的更新：选项和最佳实践</title>
-      <link>https://devblogs.microsoft.com/azure-sql/storing-querying-and-keeping-embeddings-updated-options-and-best-practices</link>
-      <description>【Embeddings and vectors are becoming common terms not only for engineers involved in AI-related activities but also for those using databases. Some common points of discussion that frequently arise among users familiar with vectors and embeddings include: How can I quickly &amp;#8220;vectorize&amp;#8221; the content already present in my database? How can I keep the vectors [&amp;hellip;]】嵌入和向量不仅成为参与AI相关活动的工程师，而且对于使用数据库的工程师而成为常见术语。熟悉向量和嵌入的用户之间经常出现的一些共同讨论点包括：如何快速“矢量化”数据库中已经存在的内容？我如何保持向量[…]</description>
-      <pubDate>Tue, 04 Feb 2025 16:00:33 +0000</pubDate>
+      <title>【Turning AI Prompts into Playing Cards: A Platform Engineering Experiment】将AI提示变成扑克牌：平台工程实验</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/turning-ai-prompts-into-playing-cards-a-platform-engineering-experiment</link>
+      <description>【The inspiration for this project came from my desire to leverage AI to create a tangible product that you can hold, touch, and share.  Cardmaker showcases the capabilities of modern AI as a tool to help its user craft a custom card deck.  But that&amp;#8217;s not all.  It also provides a unique and tangible product [&amp;hellip;]】这个项目的灵感来自于我希望利用AI创建您可以持有，触摸和分享的有形产品。  卡机制造商展示了现代AI作为帮助其用户制作自定义卡甲板的工具。  但这不是全部。  它还提供了独特而有形的产品[…]</description>
+      <pubDate>Wed, 05 Feb 2025 03:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Windows Terminal Preview 1.23 Release】Windows Terminal预览1.23版本</title>
+      <link>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-23-release</link>
+      <description>【Happy New Year everyone! Here is our first Windows Terminal Preview release of the year! In this release, we focused on porting many of our beloved settings to the Settings UI. We also have several bug fixes and accessibility updates as well. We are also updating Windows Terminal stable to version 1.22 which will include [&amp;hellip;]】大家新年快乐！这是我们本年度的第一个Windows Terminal预览发布！在此版本中，我们专注于将许多心爱的设置移植到设置UI上。我们也有几个错误修复和可访问性更新。我们还将更新Windows Terminal稳定为1.22版，其中包括[…]</description>
+      <pubDate>Thu, 06 Feb 2025 00:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing: Windows MIDI Services Customer Preview 1!】宣布：Windows Midi服务客户预览1！</title>
+      <link>https://devblogs.microsoft.com/windows-music-dev/announcing-windows-midi-services-customer-preview-1</link>
+      <description>【Today, we&amp;#8217;re releasing the latest version of Windows MIDI Services to the Windows Insider Canary Channel, fully enabled for anyone to evaluate. We recommend this for technical users (as with any Canary release) and not for production use because we will have bugs. You can learn more about the Insider release here. The Windows Insider [&amp;hellip;]】今天，我们将向Windows Insider Canary Channel发布最新版本的Windows Midi服务，以供任何人进行评估。我们建议技术用户（与任何加那利释放一样），而不是用于生产使用的情况，因为我们会有错误。您可以在此处了解有关内部版本的更多信息。 Windows Insider […]</description>
+      <pubDate>Wed, 05 Feb 2025 18:08:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Let your Copilot Declarative Agent think deep with DeepSeek-R1】来宾博客：让您的副copilot代理人用DeepSeek-R1思考</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-let-your-copilot-declarative-agent-think-deep-with-deepseek-r1</link>
+      <description>【Today we&amp;#8217;d like to feature a guest author on our Semantic Kernel blog, Mahmoud Hassan, a Microsoft Valuable Professional (MVP) focused on AI. We&amp;#8217;ll turn it over to him to dive into his work below. &amp;nbsp; In recent days, there has been significant attention in the AI community regarding DeepSeek-R1 and its capabilities. Many people [&amp;hellip;]】今天，我们想在我们的语义内核博客Mahmoud Hassan上介绍一位客座作者，Mahmoud Hassan是一位专注于AI的Microsoft Prodial Professional（MVP）。我们将其交给他以深入研究他的工作。   最近几天，AI社区在DeepSeek-R1及其功能方面受到了极大的关注。许多人[…]</description>
+      <pubDate>Wed, 05 Feb 2025 20:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Use Azure Cosmos DB as a Docker container in CI/CD pipelines】在CI/CD管道中使用Azure Cosmos DB作为Docker容器</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/use-azure-cosmos-db-as-a-docker-container-in-ci-cd-pipelines</link>
+      <description>【There are lot of benefits to using Docker containers in CI/CD pipelines, especially for stateful systems like databases. For example, when you run integration tests, each CI job can start the database in an isolated container with a clean state, preventing conflicts between tests. This results in a testing environment that is reliable, consistent, and [&amp;hellip;]】在CI/CD管道中使用Docker容器有很多好处，尤其是对于数据库等状态系统。例如，当您运行集成测试时，每个CI作业都可以在具有干净状态的孤立容器中启动数据库，从而防止测试之间的冲突。这导致了可靠，一致且[…]的测试环境</description>
+      <pubDate>Wed, 05 Feb 2025 18:31:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
