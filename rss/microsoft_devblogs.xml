@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【ASP.NET Core on .NET Framework servicing release advisory: ASP.NET Core 2.3】ASP.NET核心在.NET框架服务释放咨询：ASP.NET Core 2.3</title>
-      <link>https://devblogs.microsoft.com/dotnet/servicing-release-advisory-aspnetcore-23</link>
-      <description>【ASP.NET Core 2.1 has been reshipped as ASP.NET Core 2.3 to help users on the unsupported ASP.NET Core 2.2 move to a supported version.】ASP.NET Core 2.1已作为ASP.NET Core 2.3重新研究，以帮助用户在未支持的ASP.NET Core 2.2上移动到受支持的版本。</description>
-      <pubDate>Tue, 04 Feb 2025 18:00:00 +0000</pubDate>
+      <title>【Microsoft Go 1.24 FIPS changes】Microsoft GO 1.24 FIPS更改</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-fips-update</link>
+      <description>【Microsoft Go 1.24 ships with many new FIPS-140 related features. Here&#39;s a closer look at the upcoming changes.】Microsoft GO 1.24艘具有许多新的FIPS-140相关功能。这是对即将发生的变化的仔细研究。</description>
+      <pubDate>Thu, 06 Feb 2025 17:50:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Using Azure OpenAI Chat Completion with data source and Function Calling】使用数据源和功能调用的Azure OpenAI聊天完成</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/using-azure-openai-chat-completion-with-data-source-and-function-calling</link>
-      <description>【Azure OpenAI Chat Completion with data source provides powerful capabilities for integrating conversational AI into applications. However, using a data source and function calling in a single request is not supported yet. When both features are enabled, function calling is ignored, and only the data source is used. This presents a challenge when retrieving information, [&amp;hellip;]】Azure OpenAI聊天完成数据源为将对话AI集成到应用程序中提供了强大的功能。但是，在单个请求中使用数据源和调用函数尚不支持。启用两个功能后，忽略了函数调用，并且仅使用数据源。这在检索信息时提出了一个挑战，[…]</description>
-      <pubDate>Wed, 05 Feb 2025 01:00:16 +0000</pubDate>
+      <title>【.NET 9 Networking Improvements】.NET 9网络改进</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-networking-improvements</link>
+      <description>【Introducing new networking features in .NET 9 including HTTP space, HttpClientFactory, security and more!】在.NET 9中引入新的网络功能，包括HTTP空间，HTTPCLIENTFACTORY，SECURICE等！</description>
+      <pubDate>Thu, 06 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【On exactly when XAML bindings are evaluated if an element is not yet loaded】如果尚未加载元素，则准确评估XAML绑定</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250205-00/?p=110840</link>
-      <description>【It depends on which abstraction you prefer.】这取决于您喜欢哪种抽象。</description>
-      <pubDate>Wed, 05 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【The default C locale is not a very interesting one】默认的C语言环境不是一个非常有趣的地方</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250206-00/?p=110846</link>
+      <description>【It barely understands anything.】它几乎不了解任何东西。</description>
+      <pubDate>Thu, 06 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Azure OpenAI Realtime API Support in JavaScript】在JavaScript中引入Azure Openai实时API支持</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-azure-openai-realtime-api-support-in-javascript</link>
-      <description>【Introducing the new Realtime API support in the OpenAI JavaScript library, enabling developers to create highly interactive and responsive applications by instantly sending and receiving messages from Azure OpenAI models.】在OpenAI JavaScript库中引入新的实时API支持，使开发人员能够通过立即从Azure OpenAI模型发送和接收消息来创建高度交互式和响应式应用程序。</description>
-      <pubDate>Wed, 05 Feb 2025 05:35:07 +0000</pubDate>
+      <title>【Azure Data Studio Retirement】Azure Data Studio退休</title>
+      <link>https://devblogs.microsoft.com/azure-sql/azure-data-studio-retirement</link>
+      <description>【We’re announcing the upcoming retirement of Azure Data Studio (ADS) on February 6, 2025, as we focus on delivering a modern, streamlined SQL development experience. ADS will remain supported until February 28, 2026, giving developers ample time to transition. This decision aligns with our commitment to simplifying SQL development by consolidating efforts on Visual Studio Code (VS Code) with the MSSQL extension, [&amp;hellip;]】我们将于2025年2月6日宣布即将退休的Azure Data Studio（ADS）退休，因为我们专注于提供现代化的SQL SQL开发经验。广告将一直支持到2026年2月28日，为开发人员提供了充足的过渡时间。该决定与我们致力于通过将Visual Studio代码（VS代码）与MSSQL扩展合并的工作来简化SQL开发的承诺相吻合，[…]</description>
+      <pubDate>Thu, 06 Feb 2025 19:00:57 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.23.6-1 and 1.22.12-1 Microsoft builds now available】GO 1.23.6-1和1.22.12-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-6-1-and-1-22-12-1-microsoft-builds-now-available</link>
-      <description>【A new set of Microsoft Go builds including security fixes is now available for download.】现在可以下载一组新的Microsoft GO构建，包括安全修复程序。</description>
-      <pubDate>Thu, 06 Feb 2025 00:25:42 +0000</pubDate>
+      <title>【Azure Functions vs. Indexers: AI Data Ingestion】Azure功能与索引器：AI数据摄入</title>
+      <link>https://devblogs.microsoft.com/ise/unlock-ai-search-potential-the-case-for-azure-functions-in-data-ingestion</link>
+      <description>【This article compares Azure Functions with pre-built indexers for data ingestion in Azure AI Search, with a focus on using Azure Functions for a flexible, scalable approach. It explores key steps like data migration, index creation, and deployment automation.】本文将Azure功能与预先构建的索引器进行了比较，以在Azure AI搜索中进行数据摄入，重点是将Azure函数用于灵活，可扩展的方法。它探讨了诸如数据迁移，索引创建和部署自动化之类的关键步骤。</description>
+      <pubDate>Thu, 06 Feb 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Turning AI Prompts into Playing Cards: A Platform Engineering Experiment】将AI提示变成扑克牌：平台工程实验</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/turning-ai-prompts-into-playing-cards-a-platform-engineering-experiment</link>
-      <description>【The inspiration for this project came from my desire to leverage AI to create a tangible product that you can hold, touch, and share.  Cardmaker showcases the capabilities of modern AI as a tool to help its user craft a custom card deck.  But that&amp;#8217;s not all.  It also provides a unique and tangible product [&amp;hellip;]】这个项目的灵感来自于我希望利用AI创建您可以持有，触摸和分享的有形产品。  卡机制造商展示了现代AI作为帮助其用户制作自定义卡甲板的工具。  但这不是全部。  它还提供了独特而有形的产品[…]</description>
-      <pubDate>Wed, 05 Feb 2025 03:56:51 +0000</pubDate>
+      <title>【Customer Case Study: How preezie’s AI shopping assistant is reshaping Blue Bungalow’s online store】客户案例研究：Preezie的AI购物助理如何重塑Blue Bungalow的在线商店</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-preezies-ai-shopping-assistant-is-reshaping-blue-bungalows-online-store</link>
+      <description>【Introduction Blue Bungalow, one of Australia’s leading fashion retailers, faced a common challenge in eCommerce—how to create a more engaging, seamless, and personalised shopping experience for customers online. They wanted to implement AI-powered assistance to provide personalised product recommendations, accurate sizing guidance, product comparisons, and instant answers to customer questions—replicating the ease and support of [&amp;hellip;]】简介Blue Bungalow是澳大利亚领先的时装零售商之一，在电子商务中面临着一个普遍的挑战 - 如何为在线客户创造更具吸引力，无缝和个性化的购物体验。他们想实施AI驱动的帮助，以提供个性化的产品建议，准确的尺寸指导，产品比较以及对客户问题的即时答案，从而获得[…]的便捷性和支持</description>
+      <pubDate>Thu, 06 Feb 2025 16:03:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows Terminal Preview 1.23 Release】Windows Terminal预览1.23版本</title>
-      <link>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-23-release</link>
-      <description>【Happy New Year everyone! Here is our first Windows Terminal Preview release of the year! In this release, we focused on porting many of our beloved settings to the Settings UI. We also have several bug fixes and accessibility updates as well. We are also updating Windows Terminal stable to version 1.22 which will include [&amp;hellip;]】大家新年快乐！这是我们本年度的第一个Windows Terminal预览发布！在此版本中，我们专注于将许多心爱的设置移植到设置UI上。我们也有几个错误修复和可访问性更新。我们还将更新Windows Terminal稳定为1.22版，其中包括[…]</description>
-      <pubDate>Thu, 06 Feb 2025 00:50:37 +0000</pubDate>
+      <title>【Python in Visual Studio Code – February 2025 Release】Visual Studio代码中的Python  -  2025年2月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2025-release</link>
+      <description>【The February 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include .】2025年2月的Python和Jupyter扩展名的版本现已可用。本月的更新包括。</description>
+      <pubDate>Thu, 06 Feb 2025 21:29:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing: Windows MIDI Services Customer Preview 1!】宣布：Windows Midi服务客户预览1！</title>
-      <link>https://devblogs.microsoft.com/windows-music-dev/announcing-windows-midi-services-customer-preview-1</link>
-      <description>【Today, we&amp;#8217;re releasing the latest version of Windows MIDI Services to the Windows Insider Canary Channel, fully enabled for anyone to evaluate. We recommend this for technical users (as with any Canary release) and not for production use because we will have bugs. You can learn more about the Insider release here. The Windows Insider [&amp;hellip;]】今天，我们将向Windows Insider Canary Channel发布最新版本的Windows Midi服务，以供任何人进行评估。我们建议技术用户（与任何加那利释放一样），而不是用于生产使用的情况，因为我们会有错误。您可以在此处了解有关内部版本的更多信息。 Windows Insider […]</description>
-      <pubDate>Wed, 05 Feb 2025 18:08:26 +0000</pubDate>
+      <title>【Mastering automated testing in Power Platform: Evergreen concepts for robust solutions】在电力平台中掌握自动测试：强大解决方案的常绿概念</title>
+      <link>https://devblogs.microsoft.com/powerplatform/mastering-automated-testing-in-power-platform</link>
+      <description>【Get a deep dive into the concepts of automated testing within the Power Platform, along with insights and best practices to help you build robust and reliable solutions.】深入了解电源平台内自动测试的概念，以及洞察力和最佳实践，以帮助您构建强大而可靠的解决方案。</description>
+      <pubDate>Thu, 06 Feb 2025 19:20:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Let your Copilot Declarative Agent think deep with DeepSeek-R1】来宾博客：让您的副copilot代理人用DeepSeek-R1思考</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-let-your-copilot-declarative-agent-think-deep-with-deepseek-r1</link>
-      <description>【Today we&amp;#8217;d like to feature a guest author on our Semantic Kernel blog, Mahmoud Hassan, a Microsoft Valuable Professional (MVP) focused on AI. We&amp;#8217;ll turn it over to him to dive into his work below. &amp;nbsp; In recent days, there has been significant attention in the AI community regarding DeepSeek-R1 and its capabilities. Many people [&amp;hellip;]】今天，我们想在我们的语义内核博客Mahmoud Hassan上介绍一位客座作者，Mahmoud Hassan是一位专注于AI的Microsoft Prodial Professional（MVP）。我们将其交给他以深入研究他的工作。   最近几天，AI社区在DeepSeek-R1及其功能方面受到了极大的关注。许多人[…]</description>
-      <pubDate>Wed, 05 Feb 2025 20:00:53 +0000</pubDate>
+      <title>【HTTP File updates for Request Variables and more】请求变量的HTTP文件更新以及更多</title>
+      <link>https://devblogs.microsoft.com/visualstudio/http-file-updates-for-request-variables-and-more</link>
+      <description>【Many users have requested adding support for Request Variables in HTTP files in Visual Studio. With Request Variables, you can send an HTTP request and then use data from the response, or request, in any subsequent request that is sent from the HTTP file. We have also added support for a shared environment, $shared, which [&amp;hellip;]】许多用户要求在Visual Studio中的HTTP文件中添加对请求变量的支持。使用请求变量，您可以发送HTTP请求，然后在从HTTP文件发送的任何后续请求中使用来自响应或请求的数据。我们还增加了对共享环境的支持，$共享，[…]</description>
+      <pubDate>Thu, 06 Feb 2025 15:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Use Azure Cosmos DB as a Docker container in CI/CD pipelines】在CI/CD管道中使用Azure Cosmos DB作为Docker容器</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/use-azure-cosmos-db-as-a-docker-container-in-ci-cd-pipelines</link>
-      <description>【There are lot of benefits to using Docker containers in CI/CD pipelines, especially for stateful systems like databases. For example, when you run integration tests, each CI job can start the database in an isolated container with a clean state, preventing conflicts between tests. This results in a testing environment that is reliable, consistent, and [&amp;hellip;]】在CI/CD管道中使用Docker容器有很多好处，尤其是对于数据库等状态系统。例如，当您运行集成测试时，每个CI作业都可以在具有干净状态的孤立容器中启动数据库，从而防止测试之间的冲突。这导致了可靠，一致且[…]的测试环境</description>
-      <pubDate>Wed, 05 Feb 2025 18:31:53 +0000</pubDate>
+      <title>【February 2025: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2025年2月：查看最新的Microsoft Entra密钥功能发布，公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-feb-25</link>
+      <description>【This is the February 2025 edition of our monthly developer update, summarizing the latest news and developments in Microsoft Entra. This month, we bring you feature updates, public previews, announcements, and other important updates. Read on to learn more and make the most of Microsoft Entra. What went Generally Available (GA) since January 2025? Microsoft [&amp;hellip;]】这是2025年2月的我们每月开发人员更新的版本，总结了Microsoft Entra的最新新闻和开发。本月，我们为您带来更新，公共预览，公告和其他重要更新。继续阅读以了解更多信息并充分利用Microsoft Entra。自2025年1月以来，通常可以使用什么（GA）？微软[…]</description>
+      <pubDate>Thu, 06 Feb 2025 12:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
