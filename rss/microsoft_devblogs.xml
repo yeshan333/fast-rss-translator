@@ -4,34 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【The default C locale is not a very interesting one】默认的C语言环境不是一个非常有趣的地方</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250206-00/?p=110846</link>
-      <description>【It barely understands anything.】它几乎不了解任何东西。</description>
-      <pubDate>Thu, 06 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Go 1.24 FIPS changes】Microsoft GO 1.24 FIPS更改</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-fips-update</link>
-      <description>【Microsoft Go 1.24 ships with many new FIPS-140 related features. Here&#39;s a closer look at the upcoming changes.】Microsoft GO 1.24艘具有许多新的FIPS-140相关功能。这是对即将发生的变化的仔细研究。</description>
-      <pubDate>Thu, 06 Feb 2025 17:50:47 +0000</pubDate>
-    </item>
-    <item>
       <title>【Python in Visual Studio Code – February 2025 Release】Visual Studio代码中的Python  -  2025年2月发布</title>
       <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2025-release</link>
       <description>【The February 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include .】2025年2月的Python和Jupyter扩展名的版本现已可用。本月的更新包括。</description>
       <pubDate>Thu, 06 Feb 2025 21:29:43 +0000</pubDate>
     </item>
     <item>
-      <title>【HTTP File updates for Request Variables and more】请求变量的HTTP文件更新以及更多</title>
-      <link>https://devblogs.microsoft.com/visualstudio/http-file-updates-for-request-variables-and-more</link>
-      <description>【Many users have requested adding support for Request Variables in HTTP files in Visual Studio. With Request Variables, you can send an HTTP request and then use data from the response, or request, in any subsequent request that is sent from the HTTP file. We have also added support for a shared environment, $shared, which [&amp;hellip;]】许多用户要求在Visual Studio中的HTTP文件中添加对请求变量的支持。使用请求变量，您可以发送HTTP请求，然后在从HTTP文件发送的任何后续请求中使用来自响应或请求的数据。我们还增加了对共享环境的支持，$共享，[…]</description>
-      <pubDate>Thu, 06 Feb 2025 15:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using alternate locales to get more interesting case mapping than the C】使用替代区域比C获得更多有趣的案例映射</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250207-00/?p=110848</link>
-      <description>【Looking for something better.】寻找更好的东西。</description>
-      <pubDate>Fri, 07 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【The default C locale is not a very interesting one】默认的C语言环境不是一个非常有趣的地方</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250206-00/?p=110846</link>
+      <description>【It barely understands anything.】它几乎不了解任何东西。</description>
+      <pubDate>Thu, 06 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【.NET 9 Networking Improvements】.NET 9网络改进</title>
@@ -40,16 +22,22 @@
       <pubDate>Thu, 06 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd) – February 2025】Azure开发人员CLI（AZD） -  2025年2月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2025</link>
-      <description>【This post announces the February release of the Azure Developer CLI (`azd`).】这篇文章宣布了2月的Azure开发人员CLI（AZD&#39;）的发布。</description>
-      <pubDate>Fri, 07 Feb 2025 20:43:29 +0000</pubDate>
-    </item>
-    <item>
       <title>【Mastering automated testing in Power Platform: Evergreen concepts for robust solutions】在电力平台中掌握自动测试：强大解决方案的常绿概念</title>
       <link>https://devblogs.microsoft.com/powerplatform/mastering-automated-testing-in-power-platform</link>
       <description>【Get a deep dive into the concepts of automated testing within the Power Platform, along with insights and best practices to help you build robust and reliable solutions.】深入了解电源平台内自动测试的概念，以及洞察力和最佳实践，以帮助您构建强大而可靠的解决方案。</description>
       <pubDate>Thu, 06 Feb 2025 19:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Go 1.24 FIPS changes】Microsoft GO 1.24 FIPS更改</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-fips-update</link>
+      <description>【Microsoft Go 1.24 ships with many new FIPS-140 related features. Here&#39;s a closer look at the upcoming changes.】Microsoft GO 1.24艘具有许多新的FIPS-140相关功能。这是对即将发生的变化的仔细研究。</description>
+      <pubDate>Thu, 06 Feb 2025 17:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) – February 2025】Azure开发人员CLI（AZD） -  2025年2月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2025</link>
+      <description>【This post announces the February release of the Azure Developer CLI (`azd`).】这篇文章宣布了2月的Azure开发人员CLI（AZD&#39;）的发布。</description>
+      <pubDate>Fri, 07 Feb 2025 20:43:29 +0000</pubDate>
     </item>
     <item>
       <title>【Customer Case Study: How preezie’s AI shopping assistant is reshaping Blue Bungalow’s online store】客户案例研究：Preezie的AI购物助理如何重塑Blue Bungalow的在线商店</title>
@@ -58,10 +46,22 @@
       <pubDate>Thu, 06 Feb 2025 16:03:45 +0000</pubDate>
     </item>
     <item>
+      <title>【HTTP File updates for Request Variables and more】请求变量的HTTP文件更新以及更多</title>
+      <link>https://devblogs.microsoft.com/visualstudio/http-file-updates-for-request-variables-and-more</link>
+      <description>【Many users have requested adding support for Request Variables in HTTP files in Visual Studio. With Request Variables, you can send an HTTP request and then use data from the response, or request, in any subsequent request that is sent from the HTTP file. We have also added support for a shared environment, $shared, which [&amp;hellip;]】许多用户要求在Visual Studio中的HTTP文件中添加对请求变量的支持。使用请求变量，您可以发送HTTP请求，然后在从HTTP文件发送的任何后续请求中使用来自响应或请求的数据。我们还增加了对共享环境的支持，$共享，[…]</description>
+      <pubDate>Thu, 06 Feb 2025 15:00:26 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure Data Studio Retirement】Azure Data Studio退休</title>
       <link>https://devblogs.microsoft.com/azure-sql/azure-data-studio-retirement</link>
       <description>【We’re announcing the upcoming retirement of Azure Data Studio (ADS) on February 6, 2025, as we focus on delivering a modern, streamlined SQL development experience. ADS will remain supported until February 28, 2026, giving developers ample time to transition. This decision aligns with our commitment to simplifying SQL development by consolidating efforts on Visual Studio Code (VS Code) with the MSSQL extension, [&amp;hellip;]】我们将于2025年2月6日宣布即将退休的Azure Data Studio（ADS）退休，因为我们专注于提供现代化的SQL SQL开发经验。广告将一直支持到2026年2月28日，为开发人员提供了充足的过渡时间。该决定与我们致力于通过将Visual Studio代码（VS代码）与MSSQL扩展合并的工作来简化SQL开发的承诺相吻合，[…]</description>
       <pubDate>Thu, 06 Feb 2025 19:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using alternate locales to get more interesting case mapping than the C】使用替代区域比C获得更多有趣的案例映射</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250207-00/?p=110848</link>
+      <description>【Looking for something better.】寻找更好的东西。</description>
+      <pubDate>Fri, 07 Feb 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

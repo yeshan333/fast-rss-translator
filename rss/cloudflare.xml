@@ -4,16 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Cloudflare’s commitment to advancing Public Sector security worldwide by pursuing FedRAMP High, IRAP, and ENS】Cloudflare致力于通过追求FedRamp High，IRAP和ENS来推动全球公共部门安全的承诺</title>
+      <link>https://blog.cloudflare.com/cloudflares-commitment-to-advancing-public-sector-security-worldwide/</link>
+      <description>【 Cloudflare achieves ENS certification, and intends to pursue FedRAMP High and IRAP.  】CloudFlare获得了ENS认证，并打算追求FedRamp High and Irap。</description>
+      <pubDate>Wed, 05 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare incident on February 6, 2025】CloudFlare事件于2025年2月6日</title>
       <link>https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/</link>
       <description>【 On Thursday, February 6, 2025, we experienced an outage with our object storage service (R2) and products that rely on it. Here&#39;s what happened and what we&#39;re doing to fix this going forward. 】在2025年2月6日，星期四，我们使用对象存储服务（R2）和依靠它的产品经历了中断。这是发生的事情以及我们正在做的事情来解决此问题。</description>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Preserving content provenance by integrating Content Credentials into Cloudflare Images】通过将内容凭据集成到CloudFlare图像中来保存内容出处</title>
-      <link>https://blog.cloudflare.com/preserve-content-credentials-with-cloudflare-images/</link>
-      <description>【 Media and journalism companies can now build end-to-end workflows that support Content Credentials by using Cloudflare Images.  】媒体和新闻公司现在可以通过使用CloudFlare图像来构建端到端的工作流，以支持内容凭据。</description>
-      <pubDate>Mon, 03 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
+      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
+      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
+      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【A diversity of downtime: the Q4 2024 Internet disruption summary】停机时间的多样性：Q4 2024互联网中断摘要</title>
@@ -22,16 +28,16 @@
       <pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare’s commitment to advancing Public Sector security worldwide by pursuing FedRAMP High, IRAP, and ENS】Cloudflare致力于通过追求FedRamp High，IRAP和ENS来推动全球公共部门安全的承诺</title>
-      <link>https://blog.cloudflare.com/cloudflares-commitment-to-advancing-public-sector-security-worldwide/</link>
-      <description>【 Cloudflare achieves ENS certification, and intends to pursue FedRAMP High and IRAP.  】CloudFlare获得了ENS认证，并打算追求FedRamp High and Irap。</description>
-      <pubDate>Wed, 05 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Resolving a Mutual TLS session resumption vulnerability】解决共同的TLS会话恢复漏洞</title>
       <link>https://blog.cloudflare.com/resolving-a-mutual-tls-session-resumption-vulnerability/</link>
       <description>【 Cloudflare patched a Mutual TLS (mTLS) vulnerability (CVE-2025-23419) reported via its Bug Bounty Program. The flaw in session resumption allowed client certificates to authenticate across different 】CloudFlare通过其Bug Bounty程序报告了相互TLS（MTLS）漏洞（CVE-2025-23419）。会话恢复中的缺陷允许客户端证书在不同的地方进行身份验证</description>
       <pubDate>Fri, 07 Feb 2025 20:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Preserving content provenance by integrating Content Credentials into Cloudflare Images】通过将内容凭据集成到CloudFlare图像中来保存内容出处</title>
+      <link>https://blog.cloudflare.com/preserve-content-credentials-with-cloudflare-images/</link>
+      <description>【 Media and journalism companies can now build end-to-end workflows that support Content Credentials by using Cloudflare Images.  】媒体和新闻公司现在可以通过使用CloudFlare图像来构建端到端的工作流，以支持内容凭据。</description>
+      <pubDate>Mon, 03 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
@@ -46,22 +52,16 @@
       <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare thwarts over 47 million cyberthreats against Jewish and Holocaust educational websites】Cloudflare挫败了超过4,700万个网络威胁，针对犹太和大屠杀教育网站</title>
-      <link>https://blog.cloudflare.com/cloudflare-thwarts-over-47-million-cyberthreats-against-jewish-and-holocaust/</link>
-      <description>【 January 27 marks the International Holocaust Remembrance Day — a solemn occasion to honor the memory of the six million Jews who perished in the Holocaust, along with countless others who fell victim 】1月27日是国际大屠杀纪念日 - 一个庄严的场合，以纪念在大屠杀中丧生的600万犹太人，以及无数其他受害者</description>
-      <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare meets new Global Cross-Border Privacy (CBPR) standards】CloudFlare符合新的全球跨境隐私（CBPR）标准</title>
       <link>https://blog.cloudflare.com/cloudflare-cbpr-a-global-privacy-first/</link>
       <description>【 Cloudflare is the first organization globally to announce having been successfully audited against the ‘Global Cross-Border Privacy Rules’ system and ‘Global Privacy Recognition for Processors’. 】Cloudflare是全球第一个宣布已成功审核“全球跨境隐私规则”系统和“处理器的全球隐私识别”的组织。</description>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
-      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
-      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
-      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare thwarts over 47 million cyberthreats against Jewish and Holocaust educational websites】Cloudflare挫败了超过4,700万个网络威胁，针对犹太和大屠杀教育网站</title>
+      <link>https://blog.cloudflare.com/cloudflare-thwarts-over-47-million-cyberthreats-against-jewish-and-holocaust/</link>
+      <description>【 January 27 marks the International Holocaust Remembrance Day — a solemn occasion to honor the memory of the six million Jews who perished in the Holocaust, along with countless others who fell victim 】1月27日是国际大屠杀纪念日 - 一个庄严的场合，以纪念在大屠杀中丧生的600万犹太人，以及无数其他受害者</description>
+      <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
