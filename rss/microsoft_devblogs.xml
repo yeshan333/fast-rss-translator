@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Python in Visual Studio Code – February 2025 Release】Visual Studio代码中的Python  -  2025年2月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2025-release</link>
-      <description>【The February 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include .】2025年2月的Python和Jupyter扩展名的版本现已可用。本月的更新包括。</description>
-      <pubDate>Thu, 06 Feb 2025 21:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The default C locale is not a very interesting one】默认的C语言环境不是一个非常有趣的地方</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250206-00/?p=110846</link>
-      <description>【It barely understands anything.】它几乎不了解任何东西。</description>
-      <pubDate>Thu, 06 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 9 Networking Improvements】.NET 9网络改进</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-networking-improvements</link>
-      <description>【Introducing new networking features in .NET 9 including HTTP space, HttpClientFactory, security and more!】在.NET 9中引入新的网络功能，包括HTTP空间，HTTPCLIENTFACTORY，SECURICE等！</description>
-      <pubDate>Thu, 06 Feb 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Mastering automated testing in Power Platform: Evergreen concepts for robust solutions】在电力平台中掌握自动测试：强大解决方案的常绿概念</title>
-      <link>https://devblogs.microsoft.com/powerplatform/mastering-automated-testing-in-power-platform</link>
-      <description>【Get a deep dive into the concepts of automated testing within the Power Platform, along with insights and best practices to help you build robust and reliable solutions.】深入了解电源平台内自动测试的概念，以及洞察力和最佳实践，以帮助您构建强大而可靠的解决方案。</description>
-      <pubDate>Thu, 06 Feb 2025 19:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Go 1.24 FIPS changes】Microsoft GO 1.24 FIPS更改</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-fips-update</link>
-      <description>【Microsoft Go 1.24 ships with many new FIPS-140 related features. Here&#39;s a closer look at the upcoming changes.】Microsoft GO 1.24艘具有许多新的FIPS-140相关功能。这是对即将发生的变化的仔细研究。</description>
-      <pubDate>Thu, 06 Feb 2025 17:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) – February 2025】Azure开发人员CLI（AZD） -  2025年2月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2025</link>
-      <description>【This post announces the February release of the Azure Developer CLI (`azd`).】这篇文章宣布了2月的Azure开发人员CLI（AZD&#39;）的发布。</description>
-      <pubDate>Fri, 07 Feb 2025 20:43:29 +0000</pubDate>
-    </item>
-    <item>
       <title>【Customer Case Study: How preezie’s AI shopping assistant is reshaping Blue Bungalow’s online store】客户案例研究：Preezie的AI购物助理如何重塑Blue Bungalow的在线商店</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-how-preezies-ai-shopping-assistant-is-reshaping-blue-bungalows-online-store</link>
       <description>【Introduction Blue Bungalow, one of Australia’s leading fashion retailers, faced a common challenge in eCommerce—how to create a more engaging, seamless, and personalised shopping experience for customers online. They wanted to implement AI-powered assistance to provide personalised product recommendations, accurate sizing guidance, product comparisons, and instant answers to customer questions—replicating the ease and support of [&amp;hellip;]】简介Blue Bungalow是澳大利亚领先的时装零售商之一，在电子商务中面临着一个普遍的挑战 - 如何为在线客户创造更具吸引力，无缝和个性化的购物体验。他们想实施AI驱动的帮助，以提供个性化的产品建议，准确的尺寸指导，产品比较以及对客户问题的即时答案，从而获得[…]的便捷性和支持</description>
       <pubDate>Thu, 06 Feb 2025 16:03:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【HTTP File updates for Request Variables and more】请求变量的HTTP文件更新以及更多</title>
-      <link>https://devblogs.microsoft.com/visualstudio/http-file-updates-for-request-variables-and-more</link>
-      <description>【Many users have requested adding support for Request Variables in HTTP files in Visual Studio. With Request Variables, you can send an HTTP request and then use data from the response, or request, in any subsequent request that is sent from the HTTP file. We have also added support for a shared environment, $shared, which [&amp;hellip;]】许多用户要求在Visual Studio中的HTTP文件中添加对请求变量的支持。使用请求变量，您可以发送HTTP请求，然后在从HTTP文件发送的任何后续请求中使用来自响应或请求的数据。我们还增加了对共享环境的支持，$共享，[…]</description>
-      <pubDate>Thu, 06 Feb 2025 15:00:26 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Data Studio Retirement】Azure Data Studio退休</title>
@@ -58,10 +16,52 @@
       <pubDate>Thu, 06 Feb 2025 19:00:57 +0000</pubDate>
     </item>
     <item>
+      <title>【立即使用 .NET 和 DeepSeek R1 构建智能应用程序！】立即使用 .NET 和 DeepSeek R1 构建智能应用程序！</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e7%ab%8b%e5%8d%b3%e4%bd%bf%e7%94%a8-net-%e5%92%8c-deepseek-r1-%e6%9e%84%e5%bb%ba%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f%ef%bc%81</link>
+      <description>【本文翻译自Matt Soucoup的Build Intelligent Apps with .NET and DeepSeek R1 Today! 最近，DeepSeek R1 模型引起了广泛关注。我们被频繁问到的一个问题是：“我能在 .NET 应用程序中使用 DeepSeek 吗？”答案是：当然可以！接下来，我将带您了解如何通过 GitHub Models 上的 Microsoft.Extensions.AI（MEAI）库与 DeepSeek R1 结合使用，让您能够立即开始体验 R1 模型的功能。  MEAI 让使用 AI 服务变得简单 MEAI 库提供了一套统一的抽象和中间件，以简化 AI 服务在 .NET 应用程序中的集成。  换句话说，如果您使用 MEAI 开发应用程序，无论底层使用的是哪种模型，您的代码都将使用相同的 API。这降低了构建 .NET AI 应用程序的难度，因为无论使用哪个 AI 服务，您只需记住一个库（即 MEAI）的操作方式。  对于 MEAI，您将主要使用的接口是 IChatClient。  与 DeepSeek R1 聊天 GitHub Models [&amp;hellip;]】本文翻译自Matt Soucoup的Build Intelligent Apps with .NET and DeepSeek R1 Today! 最近，DeepSeek R1 模型引起了广泛关注。我们被频繁问到的一个问题是：“我能在 .NET 应用程序中使用 DeepSeek 吗？”答案是：当然可以！接下来，我将带您了解如何通过 GitHub Models 上的 Microsoft.Extensions.AI（MEAI）库与 DeepSeek R1 结合使用，让您能够立即开始体验 R1 模型的功能。  MEAI 让使用 AI 服务变得简单 MEAI 库提供了一套统一的抽象和中间件，以简化 AI 服务在 .NET 应用程序中的集成。  换句话说，如果您使用 MEAI 开发应用程序，无论底层使用的是哪种模型，您的代码都将使用相同的 API。这降低了构建 .NET AI 应用程序的难度，因为无论使用哪个 AI 服务，您只需记住一个库（即 MEAI）的操作方式。  对于 MEAI，您将主要使用的接口是 IChatClient。  与 DeepSeek R1 聊天 GitHub Models […]</description>
+      <pubDate>Mon, 10 Feb 2025 02:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – February 2025 Release】Visual Studio代码中的Python  -  2025年2月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2025-release</link>
+      <description>【The February 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include .】2025年2月的Python和Jupyter扩展名的版本现已可用。本月的更新包括。</description>
+      <pubDate>Thu, 06 Feb 2025 21:29:43 +0000</pubDate>
+    </item>
+    <item>
       <title>【Using alternate locales to get more interesting case mapping than the C】使用替代区域比C获得更多有趣的案例映射</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250207-00/?p=110848</link>
       <description>【Looking for something better.】寻找更好的东西。</description>
       <pubDate>Fri, 07 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) – February 2025】Azure开发人员CLI（AZD） -  2025年2月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2025</link>
+      <description>【This post announces the February release of the Azure Developer CLI (`azd`).】这篇文章宣布了2月的Azure开发人员CLI（AZD&#39;）的发布。</description>
+      <pubDate>Fri, 07 Feb 2025 20:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Mastering automated testing in Power Platform: Evergreen concepts for robust solutions】在电力平台中掌握自动测试：强大解决方案的常绿概念</title>
+      <link>https://devblogs.microsoft.com/powerplatform/mastering-automated-testing-in-power-platform</link>
+      <description>【Get a deep dive into the concepts of automated testing within the Power Platform, along with insights and best practices to help you build robust and reliable solutions.】深入了解电源平台内自动测试的概念，以及洞察力和最佳实践，以帮助您构建强大而可靠的解决方案。</description>
+      <pubDate>Thu, 06 Feb 2025 19:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 9 Networking Improvements】.NET 9网络改进</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-networking-improvements</link>
+      <description>【Introducing new networking features in .NET 9 including HTTP space, HttpClientFactory, security and more!】在.NET 9中引入新的网络功能，包括HTTP空间，HTTPCLIENTFACTORY，SECURICE等！</description>
+      <pubDate>Thu, 06 Feb 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft build of Go 1.24 FIPS changes】Microsoft构建GO 1.24 FIPS更改</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-fips-update</link>
+      <description>【Microsoft build of Go 1.24 ships with many new FIPS-140 related features. Here&#39;s a closer look at the upcoming changes.】Microsoft建造了1.24艘船，具有许多新的FIPS-140相关功能。这是对即将发生的变化的仔细研究。</description>
+      <pubDate>Thu, 06 Feb 2025 17:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【HTTP File updates for Request Variables and more】请求变量的HTTP文件更新以及更多</title>
+      <link>https://devblogs.microsoft.com/visualstudio/http-file-updates-for-request-variables-and-more</link>
+      <description>【Many users have requested adding support for Request Variables in HTTP files in Visual Studio. With Request Variables, you can send an HTTP request and then use data from the response, or request, in any subsequent request that is sent from the HTTP file. We have also added support for a shared environment, $shared, which [&amp;hellip;]】许多用户要求在Visual Studio中的HTTP文件中添加对请求变量的支持。使用请求变量，您可以发送HTTP请求，然后在从HTTP文件发送的任何后续请求中使用来自响应或请求的数据。我们还增加了对共享环境的支持，$共享，[…]</description>
+      <pubDate>Thu, 06 Feb 2025 15:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
