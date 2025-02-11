@@ -4,40 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【A diversity of downtime: the Q4 2024 Internet disruption summary】停机时间的多样性：Q4 2024互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q4-2024-internet-disruption-summary/</link>
+      <description>【 After a rather busy third quarter, the fourth quarter of 2024 saw significantly fewer Internet disruptions. 】经过一个相当繁忙的第三季度，2024年第四季度的互联网中断大大减少了。</description>
+      <pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare meets new Global Cross-Border Privacy (CBPR) standards】CloudFlare符合新的全球跨境隐私（CBPR）标准</title>
       <link>https://blog.cloudflare.com/cloudflare-cbpr-a-global-privacy-first/</link>
       <description>【 Cloudflare is the first organization globally to announce having been successfully audited against the ‘Global Cross-Border Privacy Rules’ system and ‘Global Privacy Recognition for Processors’. 】Cloudflare是全球第一个宣布已成功审核“全球跨境隐私规则”系统和“处理器的全球隐私识别”的组织。</description>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Preserving content provenance by integrating Content Credentials into Cloudflare Images】通过将内容凭据集成到CloudFlare图像中来保存内容出处</title>
-      <link>https://blog.cloudflare.com/preserve-content-credentials-with-cloudflare-images/</link>
-      <description>【 Media and journalism companies can now build end-to-end workflows that support Content Credentials by using Cloudflare Images.  】媒体和新闻公司现在可以通过使用CloudFlare图像来构建端到端的工作流，以支持内容凭据。</description>
-      <pubDate>Mon, 03 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
-      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
-      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
-      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare’s commitment to advancing Public Sector security worldwide by pursuing FedRAMP High, IRAP, and ENS】Cloudflare致力于通过追求FedRamp High，IRAP和ENS来推动全球公共部门安全的承诺</title>
       <link>https://blog.cloudflare.com/cloudflares-commitment-to-advancing-public-sector-security-worldwide/</link>
       <description>【 Cloudflare achieves ENS certification, and intends to pursue FedRAMP High and IRAP.  】CloudFlare获得了ENS认证，并打算追求FedRamp High and Irap。</description>
       <pubDate>Wed, 05 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4】创纪录的5.6 TBPS DDOS攻击和2024年第四季度全球DDOS趋势</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/</link>
-      <description>【 2024 ended with a bang. Cloudflare mitigated another record-breaking DDoS attack peaking at 5.6 Tbps. 】2024年以轰动结束。 Cloudflare减轻了另一种破纪录的DDOS攻击，达到5.6 TBP。</description>
-      <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【No hallucinations here: track the latest AI trends with expanded insights on Cloudflare Radar】这里没有幻觉：在Cloudflare Radar上跟踪最新的AI趋势</title>
-      <link>https://blog.cloudflare.com/expanded-ai-insights-on-cloudflare-radar/</link>
-      <description>【 Today, we are launching a new dedicated “AI Insights” page on Cloudflare Radar that incorporates this graph and builds on it with additional metrics. 】今天，我们正在CloudFlare Radar上启动一个新的专用“ AI Insights”页面，该页面结合了此图，并与其他指标一起构建。</description>
-      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Resolving a Mutual TLS session resumption vulnerability】解决共同的TLS会话恢复漏洞</title>
@@ -52,16 +34,34 @@
       <pubDate>Mon, 27 Jan 2025 22:07:41 +0000</pubDate>
     </item>
     <item>
-      <title>【A diversity of downtime: the Q4 2024 Internet disruption summary】停机时间的多样性：Q4 2024互联网中断摘要</title>
-      <link>https://blog.cloudflare.com/q4-2024-internet-disruption-summary/</link>
-      <description>【 After a rather busy third quarter, the fourth quarter of 2024 saw significantly fewer Internet disruptions. 】经过一个相当繁忙的第三季度，2024年第四季度的互联网中断大大减少了。</description>
-      <pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
+      <title>【Preserving content provenance by integrating Content Credentials into Cloudflare Images】通过将内容凭据集成到CloudFlare图像中来保存内容出处</title>
+      <link>https://blog.cloudflare.com/preserve-content-credentials-with-cloudflare-images/</link>
+      <description>【 Media and journalism companies can now build end-to-end workflows that support Content Credentials by using Cloudflare Images.  】媒体和新闻公司现在可以通过使用CloudFlare图像来构建端到端的工作流，以支持内容凭据。</description>
+      <pubDate>Mon, 03 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【No hallucinations here: track the latest AI trends with expanded insights on Cloudflare Radar】这里没有幻觉：在Cloudflare Radar上跟踪最新的AI趋势</title>
+      <link>https://blog.cloudflare.com/expanded-ai-insights-on-cloudflare-radar/</link>
+      <description>【 Today, we are launching a new dedicated “AI Insights” page on Cloudflare Radar that incorporates this graph and builds on it with additional metrics. 】今天，我们正在CloudFlare Radar上启动一个新的专用“ AI Insights”页面，该页面结合了此图，并与其他指标一起构建。</description>
+      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Over 700 million events/second: How we make sense of too much data】超过7亿个事件/秒：我们如何理解过多的数据</title>
+      <link>https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</link>
+      <description>【 Here we explain how we made our data pipeline scale to 700 million events per second while becoming more resilient than ever before. We share some math behind our approach and some of the designs of  】在这里，我们解释了如何使数据管道规模每秒达到7亿个事件，同时变得比以往任何时候都更具弹性。我们在方法背后分享一些数学和一些设计</description>
+      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare incident on February 6, 2025】CloudFlare事件于2025年2月6日</title>
       <link>https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/</link>
       <description>【 On Thursday, February 6, 2025, we experienced an outage with our object storage service (R2) and products that rely on it. Here&#39;s what happened and what we&#39;re doing to fix this going forward. 】在2025年2月6日，星期四，我们使用对象存储服务（R2）和依靠它的产品经历了中断。这是发生的事情以及我们正在做的事情来解决此问题。</description>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【QUIC action: patching a broadcast address amplification vulnerability】QUIC操作：修补广播地址放大漏洞</title>
+      <link>https://blog.cloudflare.com/mitigating-broadcast-address-attack/</link>
+      <description>【 Cloudflare was recently contacted by researchers who discovered a broadcast amplification vulnerability through their QUIC Internet measurement research. We&#39;ve implemented a mitigation. 】最近，研究人员联系了Cloudflare，他们通过其Quic Internet测量研究发现了广播放大漏洞。我们已经实施了缓解措施。</description>
+      <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
