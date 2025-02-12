@@ -4,46 +4,52 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Using alternate locales to get more interesting case mapping than the C】使用替代区域比C获得更多有趣的案例映射</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250207-00/?p=110848</link>
-      <description>【Looking for something better.】寻找更好的东西。</description>
-      <pubDate>Fri, 07 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Visual Studio 2022 v17.13 is Now Available!】Visual Studio 2022 V17.13现在可用！</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-13-is-now-available</link>
+      <description>【We&amp;#8217;re excited to announce the availability of Visual Studio 2022 v17.13. This update focuses on stability and security, along with continuous improvements for all developers using Visual Studio. Based on your feature requests, several new tools and enhancements have been added to this release. This update includes improvements for developers, such as advanced debugging capabilities, [&amp;hellip;]】我们很高兴宣布Visual Studio 2022 V17.13的可用性。此更新着重于稳定性和安全性，以及使用Visual Studio的所有开发人员的持续改进。根据您的功能请求，此版本已添加了几种新工具和增强功能。此更新包括开发人员的改进，例如高级调试功能，[…]</description>
+      <pubDate>Tue, 11 Feb 2025 18:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code – February 2025 Release】Visual Studio代码中的Python  -  2025年2月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2025-release</link>
-      <description>【The February 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include .】2025年2月的Python和Jupyter扩展名的版本现已可用。本月的更新包括。</description>
-      <pubDate>Thu, 06 Feb 2025 21:29:43 +0000</pubDate>
+      <title>【February Patches for Azure DevOps Server】Azure DevOps服务器的2月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-4</link>
+      <description>【Today we are releasing patches that impact our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can download the latest version of the product, Azure DevOps Server 2022.2 from the Azure DevOps Server download page. The following version of [&amp;hellip;]】今天，我们正在发布影响我们自托管产品Azure DevOps服务器的补丁。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。您可以从Azure Devops Server下载页面下载最新版本的产品Azure Devops Server 2022.2。以下版本的[…]</description>
+      <pubDate>Tue, 11 Feb 2025 19:13:06 +0000</pubDate>
     </item>
     <item>
-      <title>【立即使用 .NET 和 DeepSeek R1 构建智能应用程序！】立即使用 .NET 和 DeepSeek R1 构建智能应用程序！</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e7%ab%8b%e5%8d%b3%e4%bd%bf%e7%94%a8-net-%e5%92%8c-deepseek-r1-%e6%9e%84%e5%bb%ba%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f%ef%bc%81</link>
-      <description>【本文翻译自Matt Soucoup的Build Intelligent Apps with .NET and DeepSeek R1 Today! 最近，DeepSeek R1 模型引起了广泛关注。我们被频繁问到的一个问题是：“我能在 .NET 应用程序中使用 DeepSeek 吗？”答案是：当然可以！接下来，我将带您了解如何通过 GitHub Models 上的 Microsoft.Extensions.AI（MEAI）库与 DeepSeek R1 结合使用，让您能够立即开始体验 R1 模型的功能。  MEAI 让使用 AI 服务变得简单 MEAI 库提供了一套统一的抽象和中间件，以简化 AI 服务在 .NET 应用程序中的集成。  换句话说，如果您使用 MEAI 开发应用程序，无论底层使用的是哪种模型，您的代码都将使用相同的 API。这降低了构建 .NET AI 应用程序的难度，因为无论使用哪个 AI 服务，您只需记住一个库（即 MEAI）的操作方式。  对于 MEAI，您将主要使用的接口是 IChatClient。  与 DeepSeek R1 聊天 GitHub Models [&amp;hellip;]】本文翻译自Matt Soucoup的Build Intelligent Apps with .NET and DeepSeek R1 Today! 最近，DeepSeek R1 模型引起了广泛关注。我们被频繁问到的一个问题是：“我能在 .NET 应用程序中使用 DeepSeek 吗？”答案是：当然可以！接下来，我将带您了解如何通过 GitHub Models 上的 Microsoft.Extensions.AI（MEAI）库与 DeepSeek R1 结合使用，让您能够立即开始体验 R1 模型的功能。  MEAI 让使用 AI 服务变得简单 MEAI 库提供了一套统一的抽象和中间件，以简化 AI 服务在 .NET 应用程序中的集成。  换句话说，如果您使用 MEAI 开发应用程序，无论底层使用的是哪种模型，您的代码都将使用相同的 API。这降低了构建 .NET AI 应用程序的难度，因为无论使用哪个 AI 服务，您只需记住一个库（即 MEAI）的操作方式。  对于 MEAI，您将主要使用的接口是 IChatClient。  与 DeepSeek R1 聊天 GitHub Models […]</description>
-      <pubDate>Mon, 10 Feb 2025 02:48:08 +0000</pubDate>
+      <title>【.NET and .NET Framework February 2025 servicing releases updates】.NET和.NET框架2025年2月Servicing Releases更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2025-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for February 2025.】2025年2月的.NET和.NET框架的最新服务更新的回顾。</description>
+      <pubDate>Tue, 11 Feb 2025 20:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd) – February 2025】Azure开发人员CLI（AZD） -  2025年2月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2025</link>
-      <description>【This post announces the February release of the Azure Developer CLI (`azd`).】这篇文章宣布了2月的Azure开发人员CLI（AZD&#39;）的发布。</description>
-      <pubDate>Fri, 07 Feb 2025 20:43:29 +0000</pubDate>
+      <title>【C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!】C＃开发套件更新：.net Aspire，热重载等等！</title>
+      <link>https://devblogs.microsoft.com/dotnet/csharp-on-visual-studio-code-just-got-better-with-enhancements-to-csharp-dev-kit</link>
+      <description>【Exploring the latest features and enhancements in the C# Dev Kit for VS Code including .NET Aspire orchestration support, new hot reload features, enhanced debugging capabilities, and more!】探索C＃DEV套件中的最新功能和增强功能，包括.NET ASPIRE编排支持，新的热重加载功能，增强的调试功能等等！</description>
+      <pubDate>Tue, 11 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How does Explorer find the “first” icon in a file】Explorer如何在文件中找到“第一个”图标</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250210-00/?p=110854</link>
-      <description>【It enumerates them and takes the first one, so this is really a question about enumeration.】它列举了他们并采用第一个，因此这确实是关于枚举的问题。</description>
-      <pubDate>Mon, 10 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Announcing the end of support for Node.js 18.x in the Azure SDK for JavaScript】宣布javaScript的Azure SDK中对Node.js 18.x的支持结束</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-the-end-of-support-for-node-js-18-x-in-the-azure-sdk-for-javascript</link>
+      <description>【After July 10, 2025, the Azure SDK for JavaScript will no longer support Node.js 18.x. Upgrade to an Active Node.js Long Term Support (LTS) version to stay secure and up-to-date.】2025年7月10日之后，JavaScript的Azure SDK将不再支持Node.js 18.x.升级到Active Node.js长期支持（LTS）版本，以保持安全和最新。</description>
+      <pubDate>Tue, 11 Feb 2025 22:10:32 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot Chat Explained: The Life of a Prompt】GitHub Copilot聊天解释了：提示的生活</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/github-copilot-chat-explained-the-life-of-a-prompt</link>
-      <description>【Ever wondered what happens behind the scenes when you chat with GitHub Copilot in VS Code? Let&amp;#8217;s pull back the curtain and explore how this AI coding assistant processes your prompts, from local workspace scanning to interacting with OpenAI&amp;#8217;s language models.  This article explains how GitHub Copilot extension processes user prompts—including the steps from local [&amp;hellip;]】有没有想过当您在VS代码中与GitHub Copilot聊天时，幕后会发生什么？让我们拉回窗帘，探索此AI编码助手如何处理您的提示，从本地工作区扫描到与OpenAI语言模型进行互动。  本文解释了GitHub Copilot扩展过程如何提示用户提示 - 包括本地[…]的步骤</description>
-      <pubDate>Mon, 10 Feb 2025 17:43:26 +0000</pubDate>
+      <title>【Bells and whistles: Building with Microsoft Copilot Studio】钟声和口哨：与Microsoft Copilot Studio建造</title>
+      <link>https://devblogs.microsoft.com/powerplatform/bells-whistles-building-with-microsoft-copilot-studio</link>
+      <description>【In this series, we showcase the different capabilities of building agents with Copilot Studio, which includes building, testing, deploying, analyzing, security and data loss prevention policy.】在本系列中，我们通过Copilot Studio展示了建筑代理的不同功能，其中包括建筑，测试，部署，分析，安全性和数据损失预防政策。</description>
+      <pubDate>Tue, 11 Feb 2025 18:06:52 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft.Testing.Platform: Now Supported by All Major .NET Test Frameworks】Microsoft.testing.platform：现在由所有主要.NET测试框架支持</title>
-      <link>https://devblogs.microsoft.com/dotnet/mtp-adoption-frameworks</link>
-      <description>【All major .NET testing frameworks are now supporting Microsoft.Testing.Platform. Whether you are using Expecto, MSTest, NUnit, TUnit, or xUnit.net, you can now leverage the new testing platform to run your tests.】所有主要.NET测试框架现在都支持Microsoft.testing.platform。无论您是使用Expecto，Mstest，Nunit，Tunit还是Xunit.net，现在都可以利用新的测试平台进行测试。</description>
-      <pubDate>Mon, 10 Feb 2025 18:05:00 +0000</pubDate>
+      <title>【A Powerful, Open-Source MongoDB GUI for Everyone】每个人都有强大的开源MongoDB GUI</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/a-powerful-open-source-mongodb-gui-for-everyone</link>
+      <description>【Introduction Azure Cosmos DB for MongoDB provides robust support through its Request Units (RU) model and vCore-based architecture, enabling flexible and scalable options for various workloads. We are now on a mission to deliver the ultimate developer experience. To achieve this, we have integrated Azure Cosmos DB for MongoDB support into the Azure Databases VS [&amp;hellip;]】简介MongoDB的Azure Cosmos DB通过其请求单元（RU）模型和基于VCORE的架构提供了强大的支持，从而为各种工作负载提供了灵活且可扩展的选项。现在，我们的使命是提供最终的开发人员体验。为了实现这一目标，我们将Azure Cosmos DB集成了以MongoDB支持到Azure数据库与[…]</description>
+      <pubDate>Tue, 11 Feb 2025 16:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MSVC Compiler Updates in Visual Studio 2022 version 17.13】Visual Studio 2022版本17.13中的MSVC编译器更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-compiler-updates-in-visual-studio-2022-version-17-13</link>
+      <description>【Introduction For this update, we have changed things up a little bit. We now have more distinct buckets of fixes/implemented features. This is to help guide readers who care about specific features to more easily see how the compiler front-end team is making progress on the things you care about. 17.12 notes for reference. C++23 [&amp;hellip;]】简介此更新，我们对事情进行了一些更改。现在，我们拥有更多不同的修复/实现功能。这是为了帮助指导读者关心特定功能，以更轻松地了解编译器前端团队如何在您关心的事情上取得进展。 17.12注释供参考。 C ++ 23 […]</description>
+      <pubDate>Tue, 11 Feb 2025 19:00:52 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: Step-by-Step Guide to Building a Portfolio Manager: A Multi-Agent System with Microsoft Semantic Kernel and Azure OpenAI】来宾博客：建立投资组合经理的分步指南：具有Microsoft语义内核和Azure OpenAI的多代理系统</title>
@@ -52,16 +58,10 @@
       <pubDate>Mon, 10 Feb 2025 23:08:14 +0000</pubDate>
     </item>
     <item>
-      <title>【VisualStudio.Extensibility: Managing .NET runtime versions】VisualStudio.textensible：管理.NET运行时版本</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-managing-net-runtime-versions</link>
-      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow developers like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance and reliability, and that can be installed without the need to restart Visual Studio. [&amp;hellip;]】我们继续投资于VisualStudio.stensensensible SDK，使像您这样的开发人员可以创建比以往任何时候都更快，更光滑的扩展！ Extensensible。可帮助您构建在主要Visual Studio IDE过程之外运行的扩展，以提高性能和可靠性，并且可以安装无需重新启动Visual Studio。 […]</description>
-      <pubDate>Mon, 10 Feb 2025 16:17:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET Aspire and Data API builder with the Community Toolkit】.NET ASPIRE和数据API构建器与社区工具包</title>
-      <link>https://devblogs.microsoft.com/azure-sql/net-aspire-and-data-api-builder-with-the-community-toolkit</link>
-      <description>【Announcing .NET Aspire Integration with Data API builder (DAB) &amp;nbsp; As engineers add components to their solution architecture, their development environments can become complex and difficult to replicate across teams and environments. Placing each service in a dedicated container simplifies the setup—but only if you&amp;#8217;re familiar with Docker. Enter .NET Aspire, a simple orchestration tool [&amp;hellip;]】宣布.NET ASPIRE与数据API构建器（DAB）集成，因为工程师会在其解决方案体系结构中添加组件，其开发环境可能会变得复杂且难以在团队和环境中复制。将每个服务放入专用容器中，可以简化设置，但只有在您熟悉Docker的情况下。输入.net Aspire，这是一种简单的编排工具[…]</description>
-      <pubDate>Mon, 10 Feb 2025 18:00:07 +0000</pubDate>
+      <title>【What’s New for C++ Developers in Visual Studio 2022 17.13】Visual Studio中的C ++开发人员的新功能2022 17.13</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-13</link>
+      <description>【We are happy to announce that Visual Studio 2022 version 17.13 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the Visual Studio downloads page or upgrade your existing installation by following the Update Visual Studio Learn page. Standard Library and Compiler [&amp;hellip;]】我们很高兴地宣布，Visual Studio 2022版本17.13现在通常可用！这篇文章总结了您可以在此版本中找到C ++的新功能。您可以从“ Visual Studio下载页面”页面下载Visual Studio 2022，也可以按照“更新Visual Studio Learn Learn”页面升级现有安装。标准图书馆和编译器[…]</description>
+      <pubDate>Tue, 11 Feb 2025 18:58:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

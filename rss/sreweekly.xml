@@ -4,10 +4,22 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #462】SRE周刊＃462</title>
+      <link>https://sreweekly.com/sre-weekly-issue-462/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: On-call shouldn’t feel like a nightmare. With incident.io, you get clear ownership, seamless escalations, and insights that actually help—so you can fix issues fast and get back to what matters. No chaos, just smooth operations. https://go.incident.io/on-call-as-it-should-be The non-existence of ACID consistency &amp;#8211; Part 1 This article [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：呼叫不应该像一场噩梦。有了Invist.io，您将获得清晰的所有权，无缝升级和实际帮助的见解 - 因此，您可以快速解决问题并回到重要的问题上。没有混乱，只有平稳的操作。 https://go.incident.io/on-call-as-it-shound-不存在酸一致性 - 第1部分本文[…]</description>
+      <pubDate>Mon, 03 Feb 2025 02:43:35 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #463】SRE周刊＃463</title>
       <link>https://sreweekly.com/sre-weekly-issue-463/</link>
       <description>【View on sreweekly.com A message from our sponsor, incident.io: Incidents move fast—so should your response. That&amp;#8217;s why we&amp;#8217;re building an AI responder that thinks like your team, not a machine. See how we&amp;#8217;re doing it, the challenges faced, and what else is on the AI roadmap. https://www.youtube.com/watch?v=rNpwZPOUhuE Probabilistic Increment Sometimes, we can harness randomness to [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.IO的消息：事件快速移动 - 因此您的响应应该。这就是为什么我们正在建立一个像您的团队一样思考的AI响应者，而不是机器。看看我们如何做到这一点，面临的挑战以及AI路线图上还有什么。 https://www.youtube.com/watch?v=rnpwzpouhue概率增量有时，我们可以将随机性放在[…]</description>
       <pubDate>Mon, 10 Feb 2025 02:17:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #459】SRE周刊＃459</title>
+      <link>https://sreweekly.com/sre-weekly-issue-459/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：有效的事件管理要求协调和协作以最大程度地减少干扰。该指南逐个指南。IO涵盖了整个事件生命周期（从准备到改进），强调了工程以外的团队合作。工程师，工程师。 https://incident.io/guide如何在有限的上下文中端对端测试微服务？在微服务环境中，测试用户旅行[…]</description>
+      <pubDate>Mon, 13 Jan 2025 02:10:45 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #460】SRE周刊＃460</title>
@@ -16,22 +28,10 @@
       <pubDate>Mon, 20 Jan 2025 02:58:11 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #462】SRE周刊＃462</title>
-      <link>https://sreweekly.com/sre-weekly-issue-462/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: On-call shouldn’t feel like a nightmare. With incident.io, you get clear ownership, seamless escalations, and insights that actually help—so you can fix issues fast and get back to what matters. No chaos, just smooth operations. https://go.incident.io/on-call-as-it-should-be The non-existence of ACID consistency &amp;#8211; Part 1 This article [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：呼叫不应该像一场噩梦。有了Invist.io，您将获得清晰的所有权，无缝升级和实际帮助的见解 - 因此，您可以快速解决问题并回到重要的问题上。没有混乱，只有平稳的操作。 https://go.incident.io/on-call-as-it-shound-不存在酸一致性 - 第1部分本文[…]</description>
-      <pubDate>Mon, 03 Feb 2025 02:43:35 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #461】SRE周刊＃461</title>
       <link>https://sreweekly.com/sre-weekly-issue-461/</link>
       <description>【View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide The importance of resilience engineering Written in 2020 after an AWS outage, this article analyzes dependence [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：有效的事件管理要求协调和协作以最大程度地减少干扰。该指南逐个指南。IO涵盖了整个事件生命周期（从准备到改进），强调了工程以外的团队合作。工程师，工程师。 https://incident.io/guide在AWS中断后在2020年撰写的弹性工程的重要性，本文分析了依赖[…]</description>
       <pubDate>Mon, 27 Jan 2025 04:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #459】SRE周刊＃459</title>
-      <link>https://sreweekly.com/sre-weekly-issue-459/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：有效的事件管理要求协调和协作以最大程度地减少干扰。该指南逐个指南。IO涵盖了整个事件生命周期（从准备到改进），强调了工程以外的团队合作。工程师，工程师。 https://incident.io/guide如何在有限的上下文中端对端测试微服务？在微服务环境中，测试用户旅行[…]</description>
-      <pubDate>Mon, 13 Jan 2025 02:10:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
