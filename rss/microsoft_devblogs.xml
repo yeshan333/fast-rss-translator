@@ -4,22 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Async-Async revisited: What about cancellation?】重新审视异步-Async：取消呢？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250212-00/?p=110857</link>
-      <description>【Even the cancellation is async.】即使取消也是异步。</description>
-      <pubDate>Wed, 12 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【GitHub Copilot for Eclipse: Code Completion Now in Public Preview】Eclipse的GitHub Copilot：CODE CODENT，现在在Public Preview中</title>
+      <link>https://devblogs.microsoft.com/java/github-copilot-for-eclipse-code-completion-now-in-public-preview</link>
+      <description>【We are excited to announce the Public Preview of GitHub Copilot for Eclipse. As part of the broader GitHub Copilot family, which enhances productivity in various IDEs, this latest integration ensures that developers using Eclipse can benefit from AI-assisted coding like never before. GitHub Copilot is an AI-powered code assistant designed to streamline software development [&amp;hellip;]】我们很高兴宣布Github Copilot的Eclipse公开预览。作为更广泛的Github Copilot家族的一部分，它提高了各种IDE的生产力，这一最新集成确保了使用Eclipse的开发人员可以从前所未有的AI辅助编码中受益。 GitHub Copilot是AI驱动的代码助理，旨在简化软件开发[…]</description>
+      <pubDate>Thu, 13 Feb 2025 02:46:39 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.23.6-2 and 1.22.12-2 Microsoft builds now available】GO 1.23.6-2和1.22.12-2 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-23-6-2-and-1-22-12-2-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download.】现在可以下载Microsoft Go Build的新版本。</description>
-      <pubDate>Wed, 12 Feb 2025 10:02:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【First preview of Visual Studio 2022 v17.14】Visual Studio 2022 V17.14的首次预览</title>
-      <link>https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-14</link>
-      <description>【We are pleased to announce the release of Visual Studio 2022 v17.14 Preview 1, marking the initial preview of our next update to Visual Studio. This update prioritizes delivering exceptional developer experiences, with an emphasis on stability and security, as well as AI enhancements. Download the preview and see the full list of enhancements in [&amp;hellip;]】我们很高兴地宣布，Visual Studio 2022 V17.14 Preview 1的发布，标志着我们对Visual Studio的下一个更新的初步预览。此更新优先考虑提供卓越的开发人员体验，重点是稳定性和安全性以及AI增强功能。下载预览，并查看[…]中的完整增强功能列表</description>
-      <pubDate>Wed, 12 Feb 2025 14:45:47 +0000</pubDate>
+      <title>【PowerShell 7.5 GA is now available】Powershell 7.5 GA现在可用</title>
+      <link>https://devblogs.microsoft.com/powershell/announcing-powershell-7-5-ga</link>
+      <description>【We&amp;#8217;re pleased to announce the release of PowerShell 7.5.0! For this release the focus has been on quality, security and stability of the platform. We greatly appreciate the enormous amount of community contributions in this release along with new cmdlets, experimental features and other quality of life additions. PowerShell 7.5 is built on top of [&amp;hellip;]】我们很高兴宣布发布PowerShell 7.5.0！对于此版本，重点放在平台的质量，安全性和稳定性上。我们非常感谢新版本中的大量社区贡献以及新的CMDLET，实验特征和其他生活质量。 Powershell 7.5建立在[…]之上</description>
+      <pubDate>Wed, 12 Feb 2025 21:34:13 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Generative AI for Beginners – .NET】宣布初学者的生成AI  -  .NET</title>
@@ -28,40 +22,46 @@
       <pubDate>Wed, 12 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unified manifest support for Word, Excel, and PowerPoint is available for preview】统一的对单词，Excel和PowerPoint的清单支持可用于预览</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/unified-manifest-support-is-available-for-all-office-apps</link>
-      <description>【The unified manifest is a key component of the Microsoft 365 ecosystem providing a single model for distributing and managing Teams apps, Outlook add-ins, as well as Copilot agents which work across Microsoft 365 apps.  We&#39;ve released it for Outlook, and now it is available for Word, PowerPoint, and Excel.】统一的清单是Microsoft 365生态系统的关键调节器，可提供用于分发和管理团队应用程序，Outlook附加组件以及跨Microsoft 365应用程序的Copilot代理。  我们已将其发布给Outlook，现在可以适用于Word，PowerPoint和Excel。</description>
-      <pubDate>Wed, 12 Feb 2025 03:48:30 +0000</pubDate>
+      <title>【Go 1.24.0-1 Microsoft build now available】现在可用1.24.0-1 Microsoft构建</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-0-1-microsoft-build-now-available</link>
+      <description>【A new release of the Microsoft build of Go is now available for download.】现在可以下载Microsoft构建的新版本。</description>
+      <pubDate>Thu, 13 Feb 2025 09:59:05 +0000</pubDate>
     </item>
     <item>
-      <title>【External REST Endpoint Invocation in Azure SQL Managed Instance is now in Public Preview】Azure SQL托管实例中的外部休息端点调用现已在公共预览中</title>
-      <link>https://devblogs.microsoft.com/azure-sql/external-rest-endpoint-invocation-in-mi-in-public-preview</link>
-      <description>【External REST Endpoint Invocation is available in Azure SQL Managed Instance with the Always-up-to-date update policy configured. Call Azure Services such as functions, Azure OpenAI, event hubs, content safety and more! To enable this feature in Azure SQL Managed Instance, run the following code: sp_configure &#39;external rest endpoint enabled&#39;, 1; RECONFIGURE WITH OVERRIDE; To execute [&amp;hellip;]】外部休息端点调用可在Azure SQL托管实例中获得，并配置了始终上升到日期的更新策略。致电Azure Services，例如功能，Azure OpenAI，Event Hubs，内容安全性等等！要在Azure SQL托管实例中启用此功能，请运行以下代码：sp_configure“启用外部休息端点”，1;重新配置覆盖；执行[…]</description>
-      <pubDate>Wed, 12 Feb 2025 15:00:08 +0000</pubDate>
+      <title>【New Features for Enhanced Razor Productivity!】提高剃须刀生产力的新功能！</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features</link>
+      <description>【The Extract to Component refactoring and the Roslyn tokenizer are two new features designed to help improve your productivity in Razor files.】摘录到组件重构和罗斯林令牌是两个新功能，旨在帮助提高剃须刀文件中的生产率。</description>
+      <pubDate>Thu, 13 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot for Eclipse: Code Completion Now in Public Preview】Eclipse的GitHub Copilot：CODE CODENT，现在在Public Preview中</title>
-      <link>https://devblogs.microsoft.com/java/github-copilot-for-eclipse-code-completion-now-in-public-preview</link>
-      <description>【We are excited to announce the Public Preview of GitHub Copilot for Eclipse. As part of the broader GitHub Copilot family, which enhances productivity in various IDEs, this latest integration ensures that developers using Eclipse can benefit from AI-assisted coding like never before. GitHub Copilot is an AI-powered code assistant designed to streamline software development [&amp;hellip;]】我们很高兴宣布Github Copilot的Eclipse公开预览。作为更广泛的Github Copilot家族的一部分，它提高了各种IDE的生产力，这一最新集成确保了使用Eclipse的开发人员可以从前所未有的AI辅助编码中受益。 GitHub Copilot是AI驱动的代码助理，旨在简化软件开发[…]</description>
-      <pubDate>Thu, 13 Feb 2025 02:46:39 +0000</pubDate>
+      <title>【A sample implementation of the weak reference pattern for COM callbacks】COM回调的弱参考模式的示例实现</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250213-00/?p=110865</link>
+      <description>【A forwarder through a weak reference.】通过薄弱的参考来转货。</description>
+      <pubDate>Thu, 13 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【DocumentDB is Gaining Momentum in the Open-Source Database World】DocumentDB正在开源数据库世界中获得动力</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/documentdb-is-gaining-momentum-in-the-open-source-database-world</link>
-      <description>【In the short amount of time since we unveiled DocumentDB, our open-source document database platform powering the vCore based Azure Cosmos DB for MongoDB, and the feedback has been nothing short of phenomenal. In this short time, we&amp;#8217;ve received a lot of attention from tech media and community members alike. Rapid Community Adoption Developers and [&amp;hellip;]】自从我们揭幕DocumentDB以来，我们的开源文档数据库平台为MongoDB提供了为Vcore的Azure Cosmos DB提供动力的时间，并且反馈简直是惊人的。在短时间内，我们引起了科技媒体和社区成员的广泛关注。快速的社区收养开发商和[…]</description>
-      <pubDate>Wed, 12 Feb 2025 15:55:48 +0000</pubDate>
+      <title>【Database and AI: solutions for keeping embeddings updated】数据库和AI：用于保持嵌入式更新的解决方案</title>
+      <link>https://devblogs.microsoft.com/azure-sql/database-and-ai-solutions-for-keeping-embeddings-updated</link>
+      <description>【In the previous article of this series, it was discussed how embeddings can be quickly created from data already in Azure SQL. This is a useful starting point, but since data in a database changes frequently, a common question arises: “How can the vectors be kept updated whenever there is a change to the content [&amp;hellip;]】在本系列的上一篇文章中，讨论了如何从Azure SQL中的数据快速创建嵌入。这是一个有用的起点，但是由于数据库中的数据经常更改，因此出现一个常见的问题：“只要内容更改，如何将向量保持更新[…]</description>
+      <pubDate>Thu, 13 Feb 2025 17:34:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Simplify your .NET data transfers with the new Azure Storage Data Movement library】用新的Azure存储数据移动库简化您的.NET数据传输</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/simplify-your-net-data-transfers-with-the-new-azure-storage-data-movement-library</link>
-      <description>【This post announces the new and improved Azure Storage Data Movement library for .NET.】这篇文章宣布了.NET的新的和改进的Azure存储数据运动库。</description>
-      <pubDate>Wed, 12 Feb 2025 17:34:48 +0000</pubDate>
+      <title>【Unlock Generative AI for Enterprise Scalability】解锁企业可伸缩性的生成AI</title>
+      <link>https://devblogs.microsoft.com/ise/scaling-genai-projects</link>
+      <description>【Reusable templates, pipelines, and tools to streamline the setup of GenAI projects, saving time and effort, and ensuring consistency and reliability across projects.】可重复使用的模板，管道和工具，用于简化Genai项目的设置，节省时间和精力，并确保整个项目的一致性和可靠性。</description>
+      <pubDate>Thu, 13 Feb 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PowerShell 7.5 GA is now available】Powershell 7.5 GA现在可用</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-powershell-7-5-ga</link>
-      <description>【We&amp;#8217;re pleased to announce the release of PowerShell 7.5.0! For this release the focus has been on quality, security and stability of the platform. We greatly appreciate the enormous amount of community contributions in this release along with new cmdlets, experimental features and other quality of life additions. PowerShell 7.5 is built on top of [&amp;hellip;]】我们很高兴宣布发布PowerShell 7.5.0！对于此版本，重点放在平台的质量，安全性和稳定性上。我们非常感谢新版本中的大量社区贡献以及新的CMDLET，实验特征和其他生活质量。 Powershell 7.5建立在[…]之上</description>
-      <pubDate>Wed, 12 Feb 2025 21:34:13 +0000</pubDate>
+      <title>【New restrictions on package loading】包装加载的新限制</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading</link>
+      <description>【As Visual Studio transitions its core packages and services to an async loading/retrieval model, we&amp;#8217;ve identified bugs in both the initial async implementation and the existing synchronous package loading mechanism. While most of these bug fixes have been transparent to extenders, one requires attention due to changed constraints. This post highlights that change. Note that [&amp;hellip;]】当Visual Studio将其核心软件包和服务转换为异步加载/检索模型时，我们在初始异步实现和现有同步软件包加载机制中都确定了错误。尽管这些错误修复中的大多数对扩展器都是透明的，但由于限制的变化而需要注意。这篇文章突出显示了这种变化。注意 […]</description>
+      <pubDate>Thu, 13 Feb 2025 22:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.8 RC】宣布打字稿5.8 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc</link>
+      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 5.8! To get started using the Release Candidate, you can get it through npm with the following command: npm install -D typescript@rc Let&amp;#8217;s take a look at what&amp;#8217;s new in TypeScript 5.8! What&amp;#8217;s New Since the Beta? Since our beta release, we have [&amp;hellip;]】今天，我们很高兴宣布打字稿5.8的发行候选人（RC）！要开始使用Release Cantix，您可以通过以下命令通过NPM获取它：NPM Install -D Typescript@RC让我们看看Typescript 5.8中的新功能！自Beta以来，有什么新功能？自Beta版本以来，我们有[…]</description>
+      <pubDate>Thu, 13 Feb 2025 22:27:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
