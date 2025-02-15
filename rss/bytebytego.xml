@@ -5,10 +5,22 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How Google Spanner Powers Trillions of Rows with 5 Nines Availability】Google Spanner如何用5个九的可用性为数万亿行动</title>
-      <link>https://blog.bytebytego.com/p/how-google-spanner-powers-trillions</link>
-      <description>【How to monitor AWS container environments at scale (Sponsored)】如何大规模监视AWS容器环境（赞助）</description>
-      <pubDate>Tue, 04 Feb 2025 16:31:21 +0000</pubDate>
+      <title>【EP147: The Ultimate API Learning Roadmap】EP147：终极API学习路线图</title>
+      <link>https://blog.bytebytego.com/p/ep147-the-ultimate-api-learning-roadmap</link>
+      <description>【APIs are the backbone of communication over the Internet.】API是通过互联网通信的骨干。</description>
+      <pubDate>Sat, 25 Jan 2025 16:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Non-Functional Requirements: The Backbone of Great Software - Part 1】非功能要求：出色软件的骨干 - 第1部分</title>
+      <link>https://blog.bytebytego.com/p/non-functional-requirements-the-backbone</link>
+      <description>【Non-functional requirements (NFRs) are as critical as functional requirements because they define a system&#39;s qualities and operational parameters.】非功能要求（NFRS）与功能要求一样至关重要，因为它们定义了系统的质量和操作参数。</description>
+      <pubDate>Thu, 13 Feb 2025 16:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP149: JWT 101: Key to Stateless Authentication】EP149：JWT 101：无状态身份验证的关键</title>
+      <link>https://blog.bytebytego.com/p/ep149-jwt-101-key-to-stateless-authentication</link>
+      <description>【JWT or JSON Web Tokens is an open standard for securely transmitting information between two parties. They are widely used for authentication and authorization.】JWT或JSON Web令牌是在两方之间安全传输信息的开放标准。它们被广泛用于身份验证和授权。</description>
+      <pubDate>Sat, 08 Feb 2025 16:30:52 +0000</pubDate>
     </item>
     <item>
       <title>【EP148: DeepSeek 1-Pager】EP148：DeepSeek 1-Pager</title>
@@ -23,34 +35,16 @@
       <pubDate>Thu, 23 Jan 2025 16:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【AWS Lambda Turns 10】AWS Lambda 10</title>
-      <link>https://blog.bytebytego.com/p/aws-lambda-turns-10</link>
-      <description>【Disclaimer: The details in this post have been derived from multiple AWS reInvent talks and articles by the Amazon engineering team.】免责声明：这篇文章中的详细信息来自亚马逊工程团队的多个AWS重塑和文章。</description>
-      <pubDate>Tue, 28 Jan 2025 16:30:56 +0000</pubDate>
-    </item>
-    <item>
       <title>【Mastering Idempotency: Building Reliable APIs】掌握能力：构建可靠的API</title>
       <link>https://blog.bytebytego.com/p/mastering-idempotency-building-reliable</link>
       <description>【Idempotency is the property of an operation that ensures performing the same action multiple times produces the same outcome as doing it once.】IDEMETINCY是操作的属性，该操作确保多次执行相同的动作与一次相同的结果。</description>
       <pubDate>Thu, 06 Feb 2025 16:30:17 +0000</pubDate>
     </item>
     <item>
-      <title>【EP147: The Ultimate API Learning Roadmap】EP147：终极API学习路线图</title>
-      <link>https://blog.bytebytego.com/p/ep147-the-ultimate-api-learning-roadmap</link>
-      <description>【APIs are the backbone of communication over the Internet.】API是通过互联网通信的骨干。</description>
-      <pubDate>Sat, 25 Jan 2025 16:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP149: JWT 101: Key to Stateless Authentication】EP149：JWT 101：无状态身份验证的关键</title>
-      <link>https://blog.bytebytego.com/p/ep149-jwt-101-key-to-stateless-authentication</link>
-      <description>【JWT or JSON Web Tokens is an open standard for securely transmitting information between two parties. They are widely used for authentication and authorization.】JWT或JSON Web令牌是在两方之间安全传输信息的开放标准。它们被广泛用于身份验证和授权。</description>
-      <pubDate>Sat, 08 Feb 2025 16:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Built a Distributed Counter for Billions of User Interactions】Netflix如何为数十亿用户交互建立了分布式计数器</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-counter</link>
-      <description>【Imagine trying to count millions of events happening worldwide simultaneously while ensuring the results are fast, accurate, and cost-effective.】想象一下，试图同时考虑数百万事件，同时确保结果快速，准确且具有成本效益。</description>
-      <pubDate>Tue, 11 Feb 2025 16:31:09 +0000</pubDate>
+      <title>【AWS Lambda Turns 10】AWS Lambda 10</title>
+      <link>https://blog.bytebytego.com/p/aws-lambda-turns-10</link>
+      <description>【Disclaimer: The details in this post have been derived from multiple AWS reInvent talks and articles by the Amazon engineering team.】免责声明：这篇文章中的详细信息来自亚马逊工程团队的多个AWS重塑和文章。</description>
+      <pubDate>Tue, 28 Jan 2025 16:30:56 +0000</pubDate>
     </item>
     <item>
       <title>【Clean Architecture 101: Building Software That Lasts】干净的体系结构101：持续的构建软件</title>
@@ -59,10 +53,16 @@
       <pubDate>Thu, 30 Jan 2025 16:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Non-Functional Requirements: The Backbone of Great Software - Part 1】非功能要求：出色软件的骨干 - 第1部分</title>
-      <link>https://blog.bytebytego.com/p/non-functional-requirements-the-backbone</link>
-      <description>【Non-functional requirements (NFRs) are as critical as functional requirements because they define a system&#39;s qualities and operational parameters.】非功能要求（NFRS）与功能要求一样至关重要，因为它们定义了系统的质量和操作参数。</description>
-      <pubDate>Thu, 13 Feb 2025 16:30:45 +0000</pubDate>
+      <title>【How Google Spanner Powers Trillions of Rows with 5 Nines Availability】Google Spanner如何用5个九的可用性为数万亿行动</title>
+      <link>https://blog.bytebytego.com/p/how-google-spanner-powers-trillions</link>
+      <description>【How to monitor AWS container environments at scale (Sponsored)】如何大规模监视AWS容器环境（赞助）</description>
+      <pubDate>Tue, 04 Feb 2025 16:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Built a Distributed Counter for Billions of User Interactions】Netflix如何为数十亿用户交互建立了分布式计数器</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-counter</link>
+      <description>【Imagine trying to count millions of events happening worldwide simultaneously while ensuring the results are fast, accurate, and cost-effective.】想象一下，试图同时考虑数百万事件，同时确保结果快速，准确且具有成本效益。</description>
+      <pubDate>Tue, 11 Feb 2025 16:31:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
