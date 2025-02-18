@@ -10,16 +10,28 @@
       <pubDate>Fri, 14 Feb 2025 10:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>【A sample implementation of the weak reference pattern for COM callbacks】COM回调的弱参考模式的示例实现</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250213-00/?p=110865</link>
-      <description>【A forwarder through a weak reference.】通过薄弱的参考来转货。</description>
-      <pubDate>Thu, 13 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Investigating an argument-dependent lookup issue and working around it】调查依赖争论的查找问题并解决该问题</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868</link>
       <description>【Picking apart the language specification.】分开语言规范。</description>
       <pubDate>Fri, 14 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Features for Enhanced Razor Productivity!】提高剃须刀生产力的新功能！</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features</link>
+      <description>【The Extract to Component refactoring and the Roslyn tokenizer are two new features designed to help improve your productivity in Razor files.】摘录到组件重构和罗斯林令牌是两个新功能，旨在帮助提高剃须刀文件中的生产率。</description>
+      <pubDate>Thu, 13 Feb 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New restrictions on package loading】包装加载的新限制</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading</link>
+      <description>【As Visual Studio transitions its core packages and services to an async loading/retrieval model, we&amp;#8217;ve identified bugs in both the initial async implementation and the existing synchronous package loading mechanism. While most of these bug fixes have been transparent to extenders, one requires attention due to changed constraints. This post highlights that change. Note that [&amp;hellip;]】当Visual Studio将其核心软件包和服务转换为异步加载/检索模型时，我们在初始异步实现和现有同步软件包加载机制中都确定了错误。尽管这些错误修复中的大多数对扩展器都是透明的，但由于限制的变化而需要注意。这篇文章突出显示了这种变化。注意 […]</description>
+      <pubDate>Thu, 13 Feb 2025 22:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database and AI: solutions for keeping embeddings updated】数据库和AI：用于保持嵌入式更新的解决方案</title>
+      <link>https://devblogs.microsoft.com/azure-sql/database-and-ai-solutions-for-keeping-embeddings-updated</link>
+      <description>【In the previous article of this series, it was discussed how embeddings can be quickly created from data already in Azure SQL. This is a useful starting point, but since data in a database changes frequently, a common question arises: “How can the vectors be kept updated whenever there is a change to the content [&amp;hellip;]】在本系列的上一篇文章中，讨论了如何从Azure SQL中的数据快速创建嵌入。这是一个有用的起点，但是由于数据库中的数据经常更改，因此出现一个常见的问题：“只要内容更改，如何将向量保持更新[…]</description>
+      <pubDate>Thu, 13 Feb 2025 17:34:15 +0000</pubDate>
     </item>
     <item>
       <title>【GitHub Copilot for Xcode Chat – Public Preview Now Available】用于Xcode Chat的GitHub Copilot  - 现在可用的公共预览</title>
@@ -34,34 +46,22 @@
       <pubDate>Thu, 13 Feb 2025 22:27:05 +0000</pubDate>
     </item>
     <item>
-      <title>【New Features for Enhanced Razor Productivity!】提高剃须刀生产力的新功能！</title>
-      <link>https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features</link>
-      <description>【The Extract to Component refactoring and the Roslyn tokenizer are two new features designed to help improve your productivity in Razor files.】摘录到组件重构和罗斯林令牌是两个新功能，旨在帮助提高剃须刀文件中的生产率。</description>
-      <pubDate>Thu, 13 Feb 2025 18:05:00 +0000</pubDate>
+      <title>【API design note: Beware of adding an “Other” enum value】API设计注意：当心添加“其他”枚举值</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873</link>
+      <description>【What are you going to do when you add a new kind?】当您添加新型时，您该怎么办？</description>
+      <pubDate>Mon, 17 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Database and AI: solutions for keeping embeddings updated】数据库和AI：用于保持嵌入式更新的解决方案</title>
-      <link>https://devblogs.microsoft.com/azure-sql/database-and-ai-solutions-for-keeping-embeddings-updated</link>
-      <description>【In the previous article of this series, it was discussed how embeddings can be quickly created from data already in Azure SQL. This is a useful starting point, but since data in a database changes frequently, a common question arises: “How can the vectors be kept updated whenever there is a change to the content [&amp;hellip;]】在本系列的上一篇文章中，讨论了如何从Azure SQL中的数据快速创建嵌入。这是一个有用的起点，但是由于数据库中的数据经常更改，因此出现一个常见的问题：“只要内容更改，如何将向量保持更新[…]</description>
-      <pubDate>Thu, 13 Feb 2025 17:34:15 +0000</pubDate>
+      <title>【Leveraging the Unified Data Model: A Practical Example of Data Modeling】利用统一数据模型：数据建模的一个实际示例</title>
+      <link>https://devblogs.microsoft.com/udm/leveraging-the-unified-data-model-a-practical-example-of-data-modeling</link>
+      <description>【Introduction In today’s data-driven world, businesses need a structured approach to managing foundational data assets. The Unified Data Model (UDM) provides a scalable and governed framework for modeling key entities while keeping data assets maintainable and extensible. In this post, we will use a hypothetical business entity as an example to demonstrate how UDM effectively [&amp;hellip;]】引言在当今的数据驱动世界中，企业需要一种结构化方法来管理基础数据资产。统一数据模型（UDM）为建模关键实体提供了一个可扩展和约束的框架，同时保持数据资产可维护和可扩展。在这篇文章中，我们将以假设的业务实体为例来证明UDM如何有效[…]</description>
+      <pubDate>Sat, 15 Feb 2025 00:23:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.24.0-1 Microsoft build now available】现在可用1.24.0-1 Microsoft构建</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-0-1-microsoft-build-now-available</link>
-      <description>【A new release of the Microsoft build of Go is now available for download.】现在可以下载Microsoft构建的新版本。</description>
-      <pubDate>Thu, 13 Feb 2025 09:59:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New restrictions on package loading】包装加载的新限制</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading</link>
-      <description>【As Visual Studio transitions its core packages and services to an async loading/retrieval model, we&amp;#8217;ve identified bugs in both the initial async implementation and the existing synchronous package loading mechanism. While most of these bug fixes have been transparent to extenders, one requires attention due to changed constraints. This post highlights that change. Note that [&amp;hellip;]】当Visual Studio将其核心软件包和服务转换为异步加载/检索模型时，我们在初始异步实现和现有同步软件包加载机制中都确定了错误。尽管这些错误修复中的大多数对扩展器都是透明的，但由于限制的变化而需要注意。这篇文章突出显示了这种变化。注意 […]</description>
-      <pubDate>Thu, 13 Feb 2025 22:45:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlock Generative AI for Enterprise Scalability】解锁企业可伸缩性的生成AI</title>
-      <link>https://devblogs.microsoft.com/ise/scaling-genai-projects</link>
-      <description>【Reusable templates, pipelines, and tools to streamline the setup of GenAI projects, saving time and effort, and ensuring consistency and reliability across projects.】可重复使用的模板，管道和工具，用于简化Genai项目的设置，节省时间和精力，并确保整个项目的一致性和可靠性。</description>
-      <pubDate>Thu, 13 Feb 2025 08:00:00 +0000</pubDate>
+      <title>【Spring Cloud Azure updates and troubleshooting tips for Java on AKS】AKS上Java的Spring Cloud Azure更新和故障排除提示</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/spring-cloud-azure-updates-and-troubleshooting-tips-for-java-on-aks</link>
+      <description>【This post shows the latest Spring Cloud Azure updates.】这篇文章显示了最新的Spring Cloud Azure更新。</description>
+      <pubDate>Mon, 17 Feb 2025 17:05:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
