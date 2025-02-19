@@ -4,52 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【.NET 9 网络优化】.NET 9 网络优化</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/net-9-%e7%bd%91%e7%bb%9c%e4%bc%98%e5%8c%96</link>
-      <description>【本文翻译自 Máňa, Natalia 和 Anton 创作的 .NET 9 Networking Improvements 秉承我们的传统，我们很高兴与您分享这篇博客文章，以介绍新的 .NET 版本中网络领域相关的最新动态和最有趣的变化。今年，我们带来了 HTTP 领域的改变、新的 HttpClientFactory API、.NET Framework 兼容性优化等更多内容。  HTTP 在接下来的部分中，我们将介绍 HTTP 领域最具影响力的变化。其中包括连接池的性能优化、对多个HTTP/3连接的支持、Windows代理的自动更新，以及重要的社区贡献。  连接池 在此版本中，我们对HTTP连接池进行了两项显著的性能优化。  我们增加了对多个HTTP/3连接的可选支持。根据RFC 9114标准文档，由于连接可以多路复用并行请求，因此不鼓励使用多个HTTP/3连接到对等端。然而，在某些场景下，例如服务器到服务器的通信，即使请求多路复用，单一连接也可能成为瓶颈。我们在 HTTP/2 中看到了这样的限制（dotnet/runtime#35088），它同样具有在单一连接上多路复用的概念。出于同样的原因（dotnet/runtime#51775），我们决定为HTTP/3实现多连接支持（dotnet/runtime#101535）。  该实现本身尽可能贴近 HTTP/2 多连接机制的行为。当前，它的策略是优先填充已有连接，直到达到对端允许的请求上限后，才会创建新的连接。不过，需要注意的是，这是一个具体的实现细节，该行为在未来可能会有所变化。  结果是，我们的基准测试显示每秒请求数（RPS）有显著提升，以下是10,000个并行请求的对比结果：  客户端  单 HTTP/3 连接  多 HTTP/3 连接  最大CPU使用率(%)  35  92  最大核心使用率(%)  971  2572  最大工作集(MB)  3810  6491  最大私有内存(MB)  4415  7228  处理器数量  28  28  [&amp;hellip;]】本文翻译自Máňa, Natalia 和Anton 创作的.NET 9 Networking Improvements 秉承我们的传统，我们很高兴与您分享这篇博客文章，以介绍新的.NET 版本中网络领域相关的最新动态和最有趣的变化。今年，我们带来了 HTTP 领域的改变、新的 HttpClientFactory API、.NET Framework 兼容性优化等更多内容。  HTTP 在接下来的部分中，我们将介绍 HTTP 领域最具影响力的变化。其中包括连接池的性能优化、对多个HTTP/3连接的支持、Windows代理的自动更新，以及重要的社区贡献。  连接池 在此版本中，我们对HTTP连接池进行了两项显着的性能优化。  我们增加了对多个HTTP/3连接的可选支持。根据RFC 9114标准文档，由于连接可以多路复用并行请求，因此不鼓励使用多个HTTP/3连接到对等端。然而，在某些场景下，例如服务器到服务器的通信，即使请求多路复用，单一连接也可能成为瓶颈。我们在 HTTP/2 中看到了这样的限制（dotnet/runtime#35088），它同样具有在单一连接上多路复用的概念。出于同样的原因（dotnet/runtime#51775），我们决定为HTTP/3实现多连接支持（dotnet/runtime#101535）。  该实现本身尽可能贴近 HTTP/2 多连接机制的行为。当前，它的策略是优先填充已有连接，直到达到对端允许的请求上限后，才会创建新的连接。不过，需要注意的是，这是一个具体的实现细节，该行为在未来可能会有所变化。结果是，我们的基准测试显示每秒请求数（RPS）有显着提升，以下是10,000个并行请求的对比结果：  客户端  单HTTP/3 连接  多HTTP/3 连接  最大CPU使用率(%)  35  92最大核心使用率(%)  971  2572  最大工作集(MB)  3810  6491  最大私有内存(MB)  4415  7228  处理器数量  28  28  […]</description>
-      <pubDate>Fri, 14 Feb 2025 10:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Investigating an argument-dependent lookup issue and working around it】调查依赖争论的查找问题并解决该问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868</link>
-      <description>【Picking apart the language specification.】分开语言规范。</description>
-      <pubDate>Fri, 14 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Features for Enhanced Razor Productivity!】提高剃须刀生产力的新功能！</title>
-      <link>https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features</link>
-      <description>【The Extract to Component refactoring and the Roslyn tokenizer are two new features designed to help improve your productivity in Razor files.】摘录到组件重构和罗斯林令牌是两个新功能，旨在帮助提高剃须刀文件中的生产率。</description>
-      <pubDate>Thu, 13 Feb 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New restrictions on package loading】包装加载的新限制</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading</link>
-      <description>【As Visual Studio transitions its core packages and services to an async loading/retrieval model, we&amp;#8217;ve identified bugs in both the initial async implementation and the existing synchronous package loading mechanism. While most of these bug fixes have been transparent to extenders, one requires attention due to changed constraints. This post highlights that change. Note that [&amp;hellip;]】当Visual Studio将其核心软件包和服务转换为异步加载/检索模型时，我们在初始异步实现和现有同步软件包加载机制中都确定了错误。尽管这些错误修复中的大多数对扩展器都是透明的，但由于限制的变化而需要注意。这篇文章突出显示了这种变化。注意 […]</description>
-      <pubDate>Thu, 13 Feb 2025 22:45:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Database and AI: solutions for keeping embeddings updated】数据库和AI：用于保持嵌入式更新的解决方案</title>
-      <link>https://devblogs.microsoft.com/azure-sql/database-and-ai-solutions-for-keeping-embeddings-updated</link>
-      <description>【In the previous article of this series, it was discussed how embeddings can be quickly created from data already in Azure SQL. This is a useful starting point, but since data in a database changes frequently, a common question arises: “How can the vectors be kept updated whenever there is a change to the content [&amp;hellip;]】在本系列的上一篇文章中，讨论了如何从Azure SQL中的数据快速创建嵌入。这是一个有用的起点，但是由于数据库中的数据经常更改，因此出现一个常见的问题：“只要内容更改，如何将向量保持更新[…]</description>
-      <pubDate>Thu, 13 Feb 2025 17:34:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GitHub Copilot for Xcode Chat – Public Preview Now Available】用于Xcode Chat的GitHub Copilot  - 现在可用的公共预览</title>
-      <link>https://devblogs.microsoft.com/xcode/github-copilot-for-xcode-chat-public-preview-now-available</link>
-      <description>【We’re excited to announce that GitHub Copilot for Xcode Chat is now in public preview, bringing the power of AI to help developers code more efficiently. With just a GitHub account, you can enable Copilot in Xcode and start leveraging AI-driven suggestions and interactive chat features today. GitHub Copilot is an AI-powered assistant that helps [&amp;hellip;]】我们很高兴地宣布，Xcode Chat的GitHub Copilot现在正在公开预览中，这使AI的力量更有效地帮助开发人员进行编码。只需使用一个GitHub帐户，您就可以在Xcode中启用Copilot，并开始利用AI驱动的建议和交互式聊天功能。 GitHub Copilot是一位AI驱动的助手，可以帮助[…]</description>
-      <pubDate>Fri, 14 Feb 2025 06:24:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.8 RC】宣布打字稿5.8 RC</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc</link>
-      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 5.8! To get started using the Release Candidate, you can get it through npm with the following command: npm install -D typescript@rc Let&amp;#8217;s take a look at what&amp;#8217;s new in TypeScript 5.8! What&amp;#8217;s New Since the Beta? Since our beta release, we have [&amp;hellip;]】今天，我们很高兴宣布打字稿5.8的发行候选人（RC）！要开始使用Release Cantix，您可以通过以下命令通过NPM获取它：NPM Install -D Typescript@RC让我们看看Typescript 5.8中的新功能！自Beta以来，有什么新功能？自Beta版本以来，我们有[…]</description>
-      <pubDate>Thu, 13 Feb 2025 22:27:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【API design note: Beware of adding an “Other” enum value】API设计注意：当心添加“其他”枚举值</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873</link>
       <description>【What are you going to do when you add a new kind?】当您添加新型时，您该怎么办？</description>
       <pubDate>Mon, 17 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Spring Cloud Azure updates and troubleshooting tips for Java on AKS】AKS上Java的Spring Cloud Azure更新和故障排除提示</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/spring-cloud-azure-updates-and-troubleshooting-tips-for-java-on-aks</link>
+      <description>【This post shows the latest Spring Cloud Azure updates.】这篇文章显示了最新的Spring Cloud Azure更新。</description>
+      <pubDate>Mon, 17 Feb 2025 17:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 9 网络优化】.NET 9 网络优化</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/net-9-%e7%bd%91%e7%bb%9c%e4%bc%98%e5%8c%96</link>
+      <description>【本文翻译自 Máňa, Natalia 和 Anton 创作的 .NET 9 Networking Improvements 秉承我们的传统，我们很高兴与您分享这篇博客文章，以介绍新的 .NET 版本中网络领域相关的最新动态和最有趣的变化。今年，我们带来了 HTTP 领域的改变、新的 HttpClientFactory API、.NET Framework 兼容性优化等更多内容。  HTTP 在接下来的部分中，我们将介绍 HTTP 领域最具影响力的变化。其中包括连接池的性能优化、对多个HTTP/3连接的支持、Windows代理的自动更新，以及重要的社区贡献。  连接池 在此版本中，我们对HTTP连接池进行了两项显著的性能优化。  我们增加了对多个HTTP/3连接的可选支持。根据RFC 9114标准文档，由于连接可以多路复用并行请求，因此不鼓励使用多个HTTP/3连接到对等端。然而，在某些场景下，例如服务器到服务器的通信，即使请求多路复用，单一连接也可能成为瓶颈。我们在 HTTP/2 中看到了这样的限制（dotnet/runtime#35088），它同样具有在单一连接上多路复用的概念。出于同样的原因（dotnet/runtime#51775），我们决定为HTTP/3实现多连接支持（dotnet/runtime#101535）。  该实现本身尽可能贴近 HTTP/2 多连接机制的行为。当前，它的策略是优先填充已有连接，直到达到对端允许的请求上限后，才会创建新的连接。不过，需要注意的是，这是一个具体的实现细节，该行为在未来可能会有所变化。  结果是，我们的基准测试显示每秒请求数（RPS）有显著提升，以下是10,000个并行请求的对比结果：  客户端  单 HTTP/3 连接  多 HTTP/3 连接  最大CPU使用率(%)  35  92  最大核心使用率(%)  971  2572  最大工作集(MB)  3810  6491  最大私有内存(MB)  4415  7228  处理器数量  28  28  [&amp;hellip;]】本文翻译自Máňa, Natalia 和Anton 创作的.NET 9 Networking Improvements 秉承我们的传统，我们很高兴与您分享这篇博客文章，以介绍新的.NET 版本中网络领域相关的最新动态和最有趣的变化。今年，我们带来了 HTTP 领域的改变、新的 HttpClientFactory API、.NET Framework 兼容性优化等更多内容。  HTTP 在接下来的部分中，我们将介绍 HTTP 领域最具影响力的变化。其中包括连接池的性能优化、对多个HTTP/3连接的支持、Windows代理的自动更新，以及重要的社区贡献。  连接池 在此版本中，我们对HTTP连接池进行了两项显着的性能优化。  我们增加了对多个HTTP/3连接的可选支持。根据RFC 9114标准文档，由于连接可以多路复用并行请求，因此不鼓励使用多个HTTP/3连接到对等端。然而，在某些场景下，例如服务器到服务器的通信，即使请求多路复用，单一连接也可能成为瓶颈。我们在 HTTP/2 中看到了这样的限制（dotnet/runtime#35088），它同样具有在单一连接上多路复用的概念。出于同样的原因（dotnet/runtime#51775），我们决定为HTTP/3实现多连接支持（dotnet/runtime#101535）。  该实现本身尽可能贴近 HTTP/2 多连接机制的行为。当前，它的策略是优先填充已有连接，直到达到对端允许的请求上限后，才会创建新的连接。不过，需要注意的是，这是一个具体的实现细节，该行为在未来可能会有所变化。结果是，我们的基准测试显示每秒请求数（RPS）有显着提升，以下是10,000个并行请求的对比结果：  客户端  单HTTP/3 连接  多HTTP/3 连接  最大CPU使用率(%)  35  92最大核心使用率(%)  971  2572  最大工作集(MB)  3810  6491  最大私有内存(MB)  4415  7228  处理器数量  28  28  […]</description>
+      <pubDate>Fri, 14 Feb 2025 10:59:19 +0000</pubDate>
     </item>
     <item>
       <title>【Leveraging the Unified Data Model: A Practical Example of Data Modeling】利用统一数据模型：数据建模的一个实际示例</title>
@@ -58,10 +28,40 @@
       <pubDate>Sat, 15 Feb 2025 00:23:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Spring Cloud Azure updates and troubleshooting tips for Java on AKS】AKS上Java的Spring Cloud Azure更新和故障排除提示</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/spring-cloud-azure-updates-and-troubleshooting-tips-for-java-on-aks</link>
-      <description>【This post shows the latest Spring Cloud Azure updates.】这篇文章显示了最新的Spring Cloud Azure更新。</description>
-      <pubDate>Mon, 17 Feb 2025 17:05:08 +0000</pubDate>
+      <title>【Using OpenAI’s o3-mini Reasoning Model in Semantic Kernel】在语义内核中使用OpenAI的O3-Mini推理模型</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/using-openais-o3-mini-reasoning-model-in-semantic-kernel</link>
+      <description>【OpenAI’s o3-mini is a newly released small reasoning model (launched January 2025) that delivers advanced problem-solving capabilities at a fraction of the cost of previous models. It excels in STEM domains (science, math, coding) while maintaining low latency and cost similar to the earlier o1-mini model. This model is also available as Azure OpenAI Service, emphasizing its efficiency gains and new features like [&amp;hellip;]】Openai的O3-Mini是一种新发布的小推理模型（启动于2025年1月），以先前型号的成本的一小部分提供了高级解决问题的能力。它在STEM域（科学，数学，编码）中表现出色，同时保持低潜伏期和与早期O1 Mini模型相似的成本。该模型也可以作为Azure OpenAi服务提供，强调了其效率的提高和新功能，例如[…]</description>
+      <pubDate>Tue, 18 Feb 2025 23:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Your statement is now available, just two hidden flyouts and five clicks away】您的陈述现已可用，只有两个隐藏的散乱和五次单击</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250218-00/?p=110881</link>
+      <description>【Beware of the leopard.】当心豹子。</description>
+      <pubDate>Tue, 18 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go passwordless when calling Azure OpenAI from Azure SQL using Managed Identities】使用托管身份从Azure SQL调用Azure OpenAi时无密码</title>
+      <link>https://devblogs.microsoft.com/azure-sql/go-passwordless-when-calling-azure-openai-from-azure-sql-using-managed-identities</link>
+      <description>【Security is a significant topic today, and the ability to access a service requiring authentication without using an API key, password, or secret is a common request from those concerned about the security of a solution, which includes all of us. In today&amp;#8217;s digital landscape, cybersecurity threats are increasingly sophisticated and frequent, making it imperative [&amp;hellip;]】安全是当今的重要主题，并且能够在不使用API​​密钥，密码或秘密的情况下访问需要身份验证的服务的能力，这是有关解决方案安全性的人的共同请求，其中包括我们所有人。在当今的数字景观中，网络安全威胁越来越复杂且频繁，因此必须进行[…]</description>
+      <pubDate>Tue, 18 Feb 2025 19:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Investigating an argument-dependent lookup issue and working around it】调查依赖争论的查找问题并解决该问题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868</link>
+      <description>【Picking apart the language specification.】分开语言规范。</description>
+      <pubDate>Fri, 14 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building an AI App GraphQL Endpoint with SQL DB in Fabric】用织物中的SQL DB构建AI App GraphQl端点</title>
+      <link>https://devblogs.microsoft.com/azure-sql/building-an-ai-app-graphql-endpoint-with-sql-db-in-fabric</link>
+      <description>【Welcome to an exciting, new workshop where we blend the power of AI with the versatility of GraphQL and SQL databases in Microsoft Fabric. This guide will walk you through creating a set of GraphQL RAG (Retrieval-Augmented Generation) application APIs, leveraging relational data and Azure OpenAI. What You’ll Learn You’ll dive into querying and managing [&amp;hellip;]】欢迎来到一个令人兴奋的新研讨会，我们将AI的功能与Microsoft Fabric中GraphQL和SQL数据库的多功能性融为一体。本指南将引导您浏览一组GraphQl RAG（检索增强的生成）应用程序API，利用关系数据和Azure OpenAI。您将学到什么，您将潜入查询和管理[…]</description>
+      <pubDate>Tue, 18 Feb 2025 16:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【VisualStudio.Extensibility: Tagger support and updates to settings】VisualStudio.textensible：标记器支持和设置的更新</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings</link>
+      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow users like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance, reliability, and installation without restarting Visual Studio. Additional benefits include a sleek and intuitive [&amp;hellip;]】我们继续投资于VisualStudio.stensensibility SDK，以允许像您这样的用户创建比以往更快，更光滑的扩展！ Extensensible。可帮助您构建在主要Visual Studio IDE过程之外运行的扩展，以提高性能，可靠性和安装，而无需重新启动Visual Studio。其他好处包括时尚直觉[…]</description>
+      <pubDate>Tue, 18 Feb 2025 17:12:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
