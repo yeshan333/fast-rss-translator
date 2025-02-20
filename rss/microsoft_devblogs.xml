@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【API design note: Beware of adding an “Other” enum value】API设计注意：当心添加“其他”枚举值</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873</link>
-      <description>【What are you going to do when you add a new kind?】当您添加新型时，您该怎么办？</description>
-      <pubDate>Mon, 17 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Spring Cloud Azure updates and troubleshooting tips for Java on AKS】AKS上Java的Spring Cloud Azure更新和故障排除提示</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/spring-cloud-azure-updates-and-troubleshooting-tips-for-java-on-aks</link>
-      <description>【This post shows the latest Spring Cloud Azure updates.】这篇文章显示了最新的Spring Cloud Azure更新。</description>
-      <pubDate>Mon, 17 Feb 2025 17:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 9 网络优化】.NET 9 网络优化</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/net-9-%e7%bd%91%e7%bb%9c%e4%bc%98%e5%8c%96</link>
-      <description>【本文翻译自 Máňa, Natalia 和 Anton 创作的 .NET 9 Networking Improvements 秉承我们的传统，我们很高兴与您分享这篇博客文章，以介绍新的 .NET 版本中网络领域相关的最新动态和最有趣的变化。今年，我们带来了 HTTP 领域的改变、新的 HttpClientFactory API、.NET Framework 兼容性优化等更多内容。  HTTP 在接下来的部分中，我们将介绍 HTTP 领域最具影响力的变化。其中包括连接池的性能优化、对多个HTTP/3连接的支持、Windows代理的自动更新，以及重要的社区贡献。  连接池 在此版本中，我们对HTTP连接池进行了两项显著的性能优化。  我们增加了对多个HTTP/3连接的可选支持。根据RFC 9114标准文档，由于连接可以多路复用并行请求，因此不鼓励使用多个HTTP/3连接到对等端。然而，在某些场景下，例如服务器到服务器的通信，即使请求多路复用，单一连接也可能成为瓶颈。我们在 HTTP/2 中看到了这样的限制（dotnet/runtime#35088），它同样具有在单一连接上多路复用的概念。出于同样的原因（dotnet/runtime#51775），我们决定为HTTP/3实现多连接支持（dotnet/runtime#101535）。  该实现本身尽可能贴近 HTTP/2 多连接机制的行为。当前，它的策略是优先填充已有连接，直到达到对端允许的请求上限后，才会创建新的连接。不过，需要注意的是，这是一个具体的实现细节，该行为在未来可能会有所变化。  结果是，我们的基准测试显示每秒请求数（RPS）有显著提升，以下是10,000个并行请求的对比结果：  客户端  单 HTTP/3 连接  多 HTTP/3 连接  最大CPU使用率(%)  35  92  最大核心使用率(%)  971  2572  最大工作集(MB)  3810  6491  最大私有内存(MB)  4415  7228  处理器数量  28  28  [&amp;hellip;]】本文翻译自Máňa, Natalia 和Anton 创作的.NET 9 Networking Improvements 秉承我们的传统，我们很高兴与您分享这篇博客文章，以介绍新的.NET 版本中网络领域相关的最新动态和最有趣的变化。今年，我们带来了 HTTP 领域的改变、新的 HttpClientFactory API、.NET Framework 兼容性优化等更多内容。  HTTP 在接下来的部分中，我们将介绍 HTTP 领域最具影响力的变化。其中包括连接池的性能优化、对多个HTTP/3连接的支持、Windows代理的自动更新，以及重要的社区贡献。  连接池 在此版本中，我们对HTTP连接池进行了两项显着的性能优化。  我们增加了对多个HTTP/3连接的可选支持。根据RFC 9114标准文档，由于连接可以多路复用并行请求，因此不鼓励使用多个HTTP/3连接到对等端。然而，在某些场景下，例如服务器到服务器的通信，即使请求多路复用，单一连接也可能成为瓶颈。我们在 HTTP/2 中看到了这样的限制（dotnet/runtime#35088），它同样具有在单一连接上多路复用的概念。出于同样的原因（dotnet/runtime#51775），我们决定为HTTP/3实现多连接支持（dotnet/runtime#101535）。  该实现本身尽可能贴近 HTTP/2 多连接机制的行为。当前，它的策略是优先填充已有连接，直到达到对端允许的请求上限后，才会创建新的连接。不过，需要注意的是，这是一个具体的实现细节，该行为在未来可能会有所变化。结果是，我们的基准测试显示每秒请求数（RPS）有显着提升，以下是10,000个并行请求的对比结果：  客户端  单HTTP/3 连接  多HTTP/3 连接  最大CPU使用率(%)  35  92最大核心使用率(%)  971  2572  最大工作集(MB)  3810  6491  最大私有内存(MB)  4415  7228  处理器数量  28  28  […]</description>
-      <pubDate>Fri, 14 Feb 2025 10:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Leveraging the Unified Data Model: A Practical Example of Data Modeling】利用统一数据模型：数据建模的一个实际示例</title>
-      <link>https://devblogs.microsoft.com/udm/leveraging-the-unified-data-model-a-practical-example-of-data-modeling</link>
-      <description>【Introduction In today’s data-driven world, businesses need a structured approach to managing foundational data assets. The Unified Data Model (UDM) provides a scalable and governed framework for modeling key entities while keeping data assets maintainable and extensible. In this post, we will use a hypothetical business entity as an example to demonstrate how UDM effectively [&amp;hellip;]】引言在当今的数据驱动世界中，企业需要一种结构化方法来管理基础数据资产。统一数据模型（UDM）为建模关键实体提供了一个可扩展和约束的框架，同时保持数据资产可维护和可扩展。在这篇文章中，我们将以假设的业务实体为例来证明UDM如何有效[…]</description>
-      <pubDate>Sat, 15 Feb 2025 00:23:50 +0000</pubDate>
+      <title>【Go passwordless when calling Azure OpenAI from Azure SQL using Managed Identities】使用托管身份从Azure SQL调用Azure OpenAi时无密码</title>
+      <link>https://devblogs.microsoft.com/azure-sql/go-passwordless-when-calling-azure-openai-from-azure-sql-using-managed-identities</link>
+      <description>【Security is a significant topic today, and the ability to access a service requiring authentication without using an API key, password, or secret is a common request from those concerned about the security of a solution, which includes all of us. In today&amp;#8217;s digital landscape, cybersecurity threats are increasingly sophisticated and frequent, making it imperative [&amp;hellip;]】安全是当今的重要主题，并且能够在不使用API​​密钥，密码或秘密的情况下访问需要身份验证的服务的能力，这是有关解决方案安全性的人的共同请求，其中包括我们所有人。在当今的数字景观中，网络安全威胁越来越复杂且频繁，因此必须进行[…]</description>
+      <pubDate>Tue, 18 Feb 2025 19:07:29 +0000</pubDate>
     </item>
     <item>
       <title>【Using OpenAI’s o3-mini Reasoning Model in Semantic Kernel】在语义内核中使用OpenAI的O3-Mini推理模型</title>
@@ -34,34 +16,52 @@
       <pubDate>Tue, 18 Feb 2025 23:56:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Your statement is now available, just two hidden flyouts and five clicks away】您的陈述现已可用，只有两个隐藏的散乱和五次单击</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250218-00/?p=110881</link>
-      <description>【Beware of the leopard.】当心豹子。</description>
-      <pubDate>Tue, 18 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Announcing Chroma DB C# SDK】宣布色度DB C＃SDK</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk</link>
+      <description>【Get started building AI applications using Chroma DB using the C# client SDK】使用C＃客户端SDK使用Chroma DB构建AI应用程序</description>
+      <pubDate>Wed, 19 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Go passwordless when calling Azure OpenAI from Azure SQL using Managed Identities】使用托管身份从Azure SQL调用Azure OpenAi时无密码</title>
-      <link>https://devblogs.microsoft.com/azure-sql/go-passwordless-when-calling-azure-openai-from-azure-sql-using-managed-identities</link>
-      <description>【Security is a significant topic today, and the ability to access a service requiring authentication without using an API key, password, or secret is a common request from those concerned about the security of a solution, which includes all of us. In today&amp;#8217;s digital landscape, cybersecurity threats are increasingly sophisticated and frequent, making it imperative [&amp;hellip;]】安全是当今的重要主题，并且能够在不使用API​​密钥，密码或秘密的情况下访问需要身份验证的服务的能力，这是有关解决方案安全性的人的共同请求，其中包括我们所有人。在当今的数字景观中，网络安全威胁越来越复杂且频繁，因此必须进行[…]</description>
-      <pubDate>Tue, 18 Feb 2025 19:07:29 +0000</pubDate>
+      <title>【Introducing the Adaptive Cards documentation hub and new Adaptive Cards updates】介绍自适应卡文档中心和新的自适应卡更新</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-adaptive-cards-documentation-hub-and-new-adaptive-cards-updates</link>
+      <description>【Discover how Adaptive Cards can transform your app with rich, interactive experiences that boost productivity and streamline workflows, in our new Adaptive Cards documentation hub.】在我们的新自适应卡文档中心中，如何通过丰富的互动体验来发现自适应卡如何通过丰富的互动体验来改造您的应用程序。</description>
+      <pubDate>Wed, 19 Feb 2025 16:11:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Investigating an argument-dependent lookup issue and working around it】调查依赖争论的查找问题并解决该问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868</link>
-      <description>【Picking apart the language specification.】分开语言规范。</description>
-      <pubDate>Fri, 14 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【MSVC C++ Code Analysis: Updates in Visual Studio 2022 version 17.13】MSVC C ++代码分析：Visual Studio 2022版本17.13中的更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-c-code-analysis-updates-in-visual-studio-2022-version-17-13</link>
+      <description>【This post details the latest updates in Visual Studio 2022 version 17.13 for MSVC C++ Code Analysis. Driven by internal team insights and developer community feedback, these improvements significantly reduce false positives and strengthen production code security.】本文详细介绍了Visual Studio 2022版本17.13中的最新更新，用于MSVC C ++代码分析。在内部团队洞察力和开发人员社区反馈的推动下，这些改进大大降低了误报并增强了生产法规安全性。</description>
+      <pubDate>Wed, 19 Feb 2025 15:14:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Building an AI App GraphQL Endpoint with SQL DB in Fabric】用织物中的SQL DB构建AI App GraphQl端点</title>
-      <link>https://devblogs.microsoft.com/azure-sql/building-an-ai-app-graphql-endpoint-with-sql-db-in-fabric</link>
-      <description>【Welcome to an exciting, new workshop where we blend the power of AI with the versatility of GraphQL and SQL databases in Microsoft Fabric. This guide will walk you through creating a set of GraphQL RAG (Retrieval-Augmented Generation) application APIs, leveraging relational data and Azure OpenAI. What You’ll Learn You’ll dive into querying and managing [&amp;hellip;]】欢迎来到一个令人兴奋的新研讨会，我们将AI的功能与Microsoft Fabric中GraphQL和SQL数据库的多功能性融为一体。本指南将引导您浏览一组GraphQl RAG（检索增强的生成）应用程序API，利用关系数据和Azure OpenAI。您将学到什么，您将潜入查询和管理[…]</description>
-      <pubDate>Tue, 18 Feb 2025 16:29:09 +0000</pubDate>
+      <title>【Rust in time! Announcing the Azure SDK for Rust Beta. 🎉】及时生锈！宣布Rust Beta的Azure SDK。 🎉</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/rust-in-time-announcing-the-azure-sdk-for-rust-beta</link>
+      <description>【Announcing the first beta release of the Azure SDK for Rust. This release includes libraries for Identity, Key Vault secrets &amp;amp; keys, Event Hubs, and Cosmos DB.】宣布Azure SDK的第一个Beta版本for Rust。该版本包括用于身份，密钥保险箱秘密和钥匙，事件中心和Cosmos DB的库。</description>
+      <pubDate>Wed, 19 Feb 2025 18:19:05 +0000</pubDate>
     </item>
     <item>
-      <title>【VisualStudio.Extensibility: Tagger support and updates to settings】VisualStudio.textensible：标记器支持和设置的更新</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings</link>
-      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow users like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance, reliability, and installation without restarting Visual Studio. Additional benefits include a sleek and intuitive [&amp;hellip;]】我们继续投资于VisualStudio.stensensibility SDK，以允许像您这样的用户创建比以往更快，更光滑的扩展！ Extensensible。可帮助您构建在主要Visual Studio IDE过程之外运行的扩展，以提高性能，可靠性和安装，而无需重新启动Visual Studio。其他好处包括时尚直觉[…]</description>
-      <pubDate>Tue, 18 Feb 2025 17:12:06 +0000</pubDate>
+      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 1】C ++/WINRT实现继承：Winrt ::的注释，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250219-00/?p=110889</link>
+      <description>【A closer look at the parameters to the implements template.】仔细查看实施模板的参数。</description>
+      <pubDate>Wed, 19 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Code Referencing for GitHub Copilot Completions in Visual Studio】引入Visual Studio中GitHub Copilot完成的代码参考</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-completions-in-visual-studio</link>
+      <description>【When GitHub Copilot completions (or “gray text”) pop up on your screen, have you ever wondered where does the completions come from and worried about if it matches with public code leading to license issues? If you have, we are introducing code referencing to support you and provide more transparency! We are excited to announce [&amp;hellip;]】当Github Copilot完成（或“灰色文本”）在屏幕上弹出时，您是否曾经想知道完成的位置并担心它是否与公共代码相匹配，导致了许可问题？如果您有的话，我们正在引入代码引用以支持您并提供更多透明度！我们很高兴宣布[…]</description>
+      <pubDate>Wed, 19 Feb 2025 16:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GitHub Copilot for Azure DevOps users】Azure Devops用户的GitHub副驾驶</title>
+      <link>https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users</link>
+      <description>【Azure DevOps customers frequently ask us when GitHub Copilot will be available to them. What many don’t realize is that GitHub Copilot for Business is already accessible to all customers, including those using Azure DevOps. Even better, much of its powerful functionality is integrated into tools you already use, like Visual Studio and VS Code. [&amp;hellip;]】Azure Devops的客户经常问我们何时可以使用Github Copilot。许多人没有意识到的是，所有客户（包括使用Azure Devops的客户）已经可以访问企业的Github Copilot。更好的是，它的许多功能功能都集成到您已经使用的工具中，例如Visual Studio和VS代码。 […]</description>
+      <pubDate>Wed, 19 Feb 2025 19:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI Agents for Beginners Course: 10 Lessons teaching you how to start building AI Agents】初学者课程的AI代理：10课，教您如何开始建立AI代理商</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/ai-agents-for-beginners-course-10-lessons-teaching-you-how-to-start-building-ai-agents</link>
+      <description>【10 Lessons teaching everything you need to know to start building AI Agents Today we want to highlight the AI Agents For Beginners course that was released. 🔗https://github.com/microsoft/ai-agents-for-beginners/tree/main 🗃️There are 10 Lessons available today teaching you the basics of building AI Agents, as shown below Lesson Link Intro to AI Agents and Use Cases Link [&amp;hellip;]】10课，讲授您今天开始建立AI代理所需的一切，我们希望强调发布的初学者课程的AI代理。 🔗https：//github.com/microsoft/ai-ai-agent-for-beginners/tree/main/main🗃️There今天可以教您10课，教您构建AI代理的基础，如下所示，如下所示关联 […]</description>
+      <pubDate>Wed, 19 Feb 2025 22:36:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
