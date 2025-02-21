@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Go passwordless when calling Azure OpenAI from Azure SQL using Managed Identities】使用托管身份从Azure SQL调用Azure OpenAi时无密码</title>
-      <link>https://devblogs.microsoft.com/azure-sql/go-passwordless-when-calling-azure-openai-from-azure-sql-using-managed-identities</link>
-      <description>【Security is a significant topic today, and the ability to access a service requiring authentication without using an API key, password, or secret is a common request from those concerned about the security of a solution, which includes all of us. In today&amp;#8217;s digital landscape, cybersecurity threats are increasingly sophisticated and frequent, making it imperative [&amp;hellip;]】安全是当今的重要主题，并且能够在不使用API​​密钥，密码或秘密的情况下访问需要身份验证的服务的能力，这是有关解决方案安全性的人的共同请求，其中包括我们所有人。在当今的数字景观中，网络安全威胁越来越复杂且频繁，因此必须进行[…]</description>
-      <pubDate>Tue, 18 Feb 2025 19:07:29 +0000</pubDate>
+      <title>【Moving to TLS 1.2 for Azure Cosmos DB: Ensuring Secure Connections】搬到Azure Cosmos DB的TLS 1.2：确保安全连接</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/moving-to-tls-1-2-for-azure-cosmos-db-ensuring-secure-connections</link>
+      <description>【Security and reliability are at the core of modern cloud applications. To strengthen data protection and align with industry best practices, we encourage all Azure Cosmos DB customers to transition to TLS 1.2. This post explains why this change is important, how to make the transition, and the benefits it brings to your applications. Why [&amp;hellip;]】安全性和可靠性是现代云应用程序的核心。为了加强数据保护并与行业最佳实践保持一致，我们鼓励所有Azure Cosmos DB客户过渡到TLS 1.2。这篇文章解释了为什么这种变化很重要，如何进行过渡以及它给您的应用程序带来的好处。为什么 […]</description>
+      <pubDate>Thu, 20 Feb 2025 17:20:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Using OpenAI’s o3-mini Reasoning Model in Semantic Kernel】在语义内核中使用OpenAI的O3-Mini推理模型</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/using-openais-o3-mini-reasoning-model-in-semantic-kernel</link>
-      <description>【OpenAI’s o3-mini is a newly released small reasoning model (launched January 2025) that delivers advanced problem-solving capabilities at a fraction of the cost of previous models. It excels in STEM domains (science, math, coding) while maintaining low latency and cost similar to the earlier o1-mini model. This model is also available as Azure OpenAI Service, emphasizing its efficiency gains and new features like [&amp;hellip;]】Openai的O3-Mini是一种新发布的小推理模型（启动于2025年1月），以先前型号的成本的一小部分提供了高级解决问题的能力。它在STEM域（科学，数学，编码）中表现出色，同时保持低潜伏期和与早期O1 Mini模型相似的成本。该模型也可以作为Azure OpenAi服务提供，强调了其效率的提高和新功能，例如[…]</description>
-      <pubDate>Tue, 18 Feb 2025 23:56:48 +0000</pubDate>
+      <title>【Visual Studio Code CMake Tools Extension 1.20 Release: Introducing Built-In CMake Language Services】Visual Studio代码CMAKE工具扩展1.20版本：引入内置CMAKE语言服务</title>
+      <link>https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-1-20-release-introducing-built-in-cmake-language-services</link>
+      <description>【The February release of CMake Tools in VS Code is now available. With this release, we have some new updates to the extension to improve CMake integrations with the extension’s support. Some updates include the built-in support for CMake Language services, addressing our most highly-upvoted issues in the CMake Tools extension, and CMake presets v9 [&amp;hellip;]】VS代码中CMAKE工具的2月发布现已可用。通过此版本，我们对扩展程序有一些新的更新，以通过扩展的支持来改善CMAKE集成。一些更新包括对CMAKE语言服务的内置支持，解决了我们在CMAKE工具扩展中最高度投资的问题，以及CMAKE PRESETS PRESETS V9 […]</description>
+      <pubDate>Thu, 20 Feb 2025 15:52:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Chroma DB C# SDK】宣布色度DB C＃SDK</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk</link>
-      <description>【Get started building AI applications using Chroma DB using the C# client SDK】使用C＃客户端SDK使用Chroma DB构建AI应用程序</description>
-      <pubDate>Wed, 19 Feb 2025 18:05:00 +0000</pubDate>
+      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 2】C ++/WINRT实现继承：Winrt :: insterments上的注释，第2部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250220-00/?p=110893</link>
+      <description>【Untangling unwrap_implements_t.】解开unwrap_implements_t。</description>
+      <pubDate>Thu, 20 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Adaptive Cards documentation hub and new Adaptive Cards updates】介绍自适应卡文档中心和新的自适应卡更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-adaptive-cards-documentation-hub-and-new-adaptive-cards-updates</link>
-      <description>【Discover how Adaptive Cards can transform your app with rich, interactive experiences that boost productivity and streamline workflows, in our new Adaptive Cards documentation hub.】在我们的新自适应卡文档中心中，如何通过丰富的互动体验来发现自适应卡如何通过丰富的互动体验来改造您的应用程序。</description>
-      <pubDate>Wed, 19 Feb 2025 16:11:42 +0000</pubDate>
+      <title>【Instrumenting Apache Spark Structured Streaming jobs using OpenTelemetry】仪器使用OpenTelemetry的Apache火花结构化流媒体作业</title>
+      <link>https://devblogs.microsoft.com/ise/spark_job_otel</link>
+      <description>【Apache spark monitoring using OpenTelemetry】使用OpenTelemetry的Apache Spark监视</description>
+      <pubDate>Thu, 20 Feb 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【MSVC C++ Code Analysis: Updates in Visual Studio 2022 version 17.13】MSVC C ++代码分析：Visual Studio 2022版本17.13中的更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-c-code-analysis-updates-in-visual-studio-2022-version-17-13</link>
-      <description>【This post details the latest updates in Visual Studio 2022 version 17.13 for MSVC C++ Code Analysis. Driven by internal team insights and developer community feedback, these improvements significantly reduce false positives and strengthen production code security.】本文详细介绍了Visual Studio 2022版本17.13中的最新更新，用于MSVC C ++代码分析。在内部团队洞察力和开发人员社区反馈的推动下，这些改进大大降低了误报并增强了生产法规安全性。</description>
-      <pubDate>Wed, 19 Feb 2025 15:14:30 +0000</pubDate>
+      <title>【Guest Blog: Revolutionizing AI Workflows: Multi-Agent Group Chat with Copilot Agent Plugins in Microsoft Semantic Kernel】来宾博客：革新AI工作流程：Microsoft语义内核中与Copilot Agent插件的多代理小组聊天</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-revolutionizing-ai-workflows-multi-agent-group-chat-with-copilot-agent-plugins-in-microsoft-semantic-kernel</link>
+      <description>【Revolutionizing AI Workflows: Multi-Agent Group Chat with Copilot Agent Plugins in Microsoft Semantic Kernel  Copilot Agent Plugins (CAPs) are revolutionizing how developers interact with Microsoft 365 data. By transforming natural language into seamless CRUD actions using Microsoft Graph and Semantic Kernel, CAPs enable the creation of intelligent, AI-driven solutions. This sample demonstrates a multi-agent group [&amp;hellip;]】革命性的AI工作流程：Microsoft语义内核副代理插件（CAPS）中与Copilot代理插件的多代理组聊天正在彻底改变开发人员与Microsoft 365数据的交互方式。通过使用Microsoft Graph和语义内核将自然语言转换为无缝的CRUD动作，Caps可以创建智能，AI驱动的解决方案。该样本展示了一个多代理组[…]</description>
+      <pubDate>Thu, 20 Feb 2025 19:50:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Rust in time! Announcing the Azure SDK for Rust Beta. 🎉】及时生锈！宣布Rust Beta的Azure SDK。 🎉</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/rust-in-time-announcing-the-azure-sdk-for-rust-beta</link>
-      <description>【Announcing the first beta release of the Azure SDK for Rust. This release includes libraries for Identity, Key Vault secrets &amp;amp; keys, Event Hubs, and Cosmos DB.】宣布Azure SDK的第一个Beta版本for Rust。该版本包括用于身份，密钥保险箱秘密和钥匙，事件中心和Cosmos DB的库。</description>
-      <pubDate>Wed, 19 Feb 2025 18:19:05 +0000</pubDate>
+      <title>【Visualize ROI of your GitHub Copilot Usage, Deploy it!】可视化您的github副用法的ROI，部署它！</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/visualize-roi-of-your-github-copilot-usage-deploy-it</link>
+      <description>【Deployment: Let&amp;#8217;s do it! All operations are performed in the VM Prerequisites everything is on-premises and free (except VM) The only thing you need is: a VM Memory: 16G is recommended Operating system: Ubuntu 22.04 (recommended, other operating systems have no difference except Docker installation) Port: 3000 port needs to be released for Grafana to use, and 22 port [&amp;hellip;]】部署：让我们做！所有操作均在VM先决条件中执行所有操作，所有操作都是本地的，并且免费（VM除外）您需要的是：VM内存：建议使用16G的操作系统：Ubuntu 22.04（推荐其他操作系统没有差异，除Docker安装外， ）端口：需要释放3000个端口才能使用Grafana，还有22个端口[…]</description>
+      <pubDate>Fri, 21 Feb 2025 02:44:16 +0000</pubDate>
     </item>
     <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 1】C ++/WINRT实现继承：Winrt ::的注释，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250219-00/?p=110889</link>
-      <description>【A closer look at the parameters to the implements template.】仔细查看实施模板的参数。</description>
-      <pubDate>Wed, 19 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Unlocking More Power: Tool Calling in GitHub Copilot for Visual Studio】解锁更多功能：在GitHub Copilot中为Visual Studio打电话的工具</title>
+      <link>https://devblogs.microsoft.com/visualstudio/function-calling-is-now-enabled-in-github-copilot</link>
+      <description>【Have you ever been frustrated when Copilot doesn’t understand you? While it can’t read your mind, we’ve been working hard to make your coding experience smoother. Previously, Copilot in Visual Studio could look at files in your repository, but you needed to specify the context of your code manually. We understand this wasn’t the most [&amp;hellip;]】当副驾驶不了解您时，您是否曾经感到沮丧？虽然无法读懂您的想法，但我们一直在努力使您的编码体验更加顺畅。以前，Visual Studio中的Copilot可以查看存储库中的文件，但是您需要手动指定代码的上下文。我们知道这不是最[…]</description>
+      <pubDate>Thu, 20 Feb 2025 18:00:52 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Code Referencing for GitHub Copilot Completions in Visual Studio】引入Visual Studio中GitHub Copilot完成的代码参考</title>
-      <link>https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-completions-in-visual-studio</link>
-      <description>【When GitHub Copilot completions (or “gray text”) pop up on your screen, have you ever wondered where does the completions come from and worried about if it matches with public code leading to license issues? If you have, we are introducing code referencing to support you and provide more transparency! We are excited to announce [&amp;hellip;]】当Github Copilot完成（或“灰色文本”）在屏幕上弹出时，您是否曾经想知道完成的位置并担心它是否与公共代码相匹配，导致了许可问题？如果您有的话，我们正在引入代码引用以支持您并提供更多透明度！我们很高兴宣布[…]</description>
-      <pubDate>Wed, 19 Feb 2025 16:40:08 +0000</pubDate>
+      <title>【.NET MAUI Performance Features in .NET 9】.NET MAUI性能功能.NET 9</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui</link>
+      <description>【Optimize .NET MAUI application size and startup times with trimming and NativeAOT. Learn about `dotnet-trace` and `dotnet-gcdump` for measuring performance.】使用修剪和纳塔维亚特优化.NET MAUI应用程序大小和启动时间。了解“ dotnet-trace”和`dotnet-gcdump“以测量性能。</description>
+      <pubDate>Thu, 20 Feb 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot for Azure DevOps users】Azure Devops用户的GitHub副驾驶</title>
-      <link>https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users</link>
-      <description>【Azure DevOps customers frequently ask us when GitHub Copilot will be available to them. What many don’t realize is that GitHub Copilot for Business is already accessible to all customers, including those using Azure DevOps. Even better, much of its powerful functionality is integrated into tools you already use, like Visual Studio and VS Code. [&amp;hellip;]】Azure Devops的客户经常问我们何时可以使用Github Copilot。许多人没有意识到的是，所有客户（包括使用Azure Devops的客户）已经可以访问企业的Github Copilot。更好的是，它的许多功能功能都集成到您已经使用的工具中，例如Visual Studio和VS代码。 […]</description>
-      <pubDate>Wed, 19 Feb 2025 19:56:04 +0000</pubDate>
+      <title>【Automating Developer Environments with Microsoft Dev Box and Teams Customizations Part 2】使用Microsoft Dev Box和团队自定义第2部分自动化开发人员环境</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/automating-developer-environments-with-microsoft-dev-box-and-teams-customizations-part-2</link>
+      <description>【Developers today typically work on multiple projects simultaneously, with each project requiring different tools and configuration requirements. Being able to have a dedicated environment explicitly configured to that project unlocks enhanced developer productivity and reduces outside noise, allowing developers to focus just on the work they are doing. This also extends to developers who may [&amp;hellip;]】今天，开发人员通常同时从事多个项目，每个项目都需要不同的工具和配置要求。能够明确配置为该项目的专用环境可以解锁增强的开发人员生产力并降低外部噪音，从而使开发人员只专注于他们正在做的工作。这也扩展到可能[…]的开发人员</description>
+      <pubDate>Fri, 21 Feb 2025 00:39:01 +0000</pubDate>
     </item>
     <item>
-      <title>【AI Agents for Beginners Course: 10 Lessons teaching you how to start building AI Agents】初学者课程的AI代理：10课，教您如何开始建立AI代理商</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/ai-agents-for-beginners-course-10-lessons-teaching-you-how-to-start-building-ai-agents</link>
-      <description>【10 Lessons teaching everything you need to know to start building AI Agents Today we want to highlight the AI Agents For Beginners course that was released. 🔗https://github.com/microsoft/ai-agents-for-beginners/tree/main 🗃️There are 10 Lessons available today teaching you the basics of building AI Agents, as shown below Lesson Link Intro to AI Agents and Use Cases Link [&amp;hellip;]】10课，讲授您今天开始建立AI代理所需的一切，我们希望强调发布的初学者课程的AI代理。 🔗https：//github.com/microsoft/ai-ai-agent-for-beginners/tree/main/main🗃️There今天可以教您10课，教您构建AI代理的基础，如下所示，如下所示关联 […]</description>
-      <pubDate>Wed, 19 Feb 2025 22:36:28 +0000</pubDate>
+      <title>【Visualize ROI of your GitHub Copilot Usage, How it works!】可视化您的github副用法的ROI，其工作原理！</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/visualize-roi-of-your-github-copilot-usage-how-it-works</link>
+      <description>【Architecture: How it works! The Copilot Usage Advanced Dashboard offers a comprehensive suite of features designed to revolutionize how organizations track and analyze their Copilot usage. At its core, the solution leverages Elasticsearch for persistent data storage, breaking free from the traditional 28-day limitation and enabling analysis across extended time periods, from months to years. [&amp;hellip;]】建筑：它的工作方式！ Copilot使用Advanced Dashboard提供了一套全面的功能，旨在彻底改变组织如何跟踪和分析其Copilot使用情况。该解决方案以此为核心，利用Elasticsearch进行持续的数据存储，摆脱了从传统的28天限制，并从几个月到几年之间跨越长时间的分析实现了分析。 […]</description>
+      <pubDate>Fri, 21 Feb 2025 02:41:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

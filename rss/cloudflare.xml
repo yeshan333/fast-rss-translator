@@ -4,40 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Automatic Audit Logs: new updates deliver increased transparency and accountability】自动审核日志：新更新提供了提高的透明度和问责制</title>
-      <link>https://blog.cloudflare.com/introducing-automatic-audit-logs/</link>
-      <description>【 We’re excited to announce the beta release of Automatic Audit Logs, offering greater transparency and control. 】我们很高兴宣布Beta版本的自动审核日志发布，提供更大的透明度和控制。</description>
-      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【No hallucinations here: track the latest AI trends with expanded insights on Cloudflare Radar】这里没有幻觉：在Cloudflare Radar上跟踪最新的AI趋势</title>
-      <link>https://blog.cloudflare.com/expanded-ai-insights-on-cloudflare-radar/</link>
-      <description>【 Today, we are launching a new dedicated “AI Insights” page on Cloudflare Radar that incorporates this graph and builds on it with additional metrics. 】今天，我们正在CloudFlare Radar上启动一个新的专用“ AI Insights”页面，该页面结合了此图，并与其他指标一起构建。</description>
-      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【QUIC action: patching a broadcast address amplification vulnerability】QUIC操作：修补广播地址放大漏洞</title>
-      <link>https://blog.cloudflare.com/mitigating-broadcast-address-attack/</link>
-      <description>【 Cloudflare was recently contacted by researchers who discovered a broadcast amplification vulnerability through their QUIC Internet measurement research. We&#39;ve implemented a mitigation. 】最近，研究人员联系了Cloudflare，他们通过其Quic Internet测量研究发现了广播放大漏洞。我们已经实施了缓解措施。</description>
-      <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Preserving content provenance by integrating Content Credentials into Cloudflare Images】通过将内容凭据集成到CloudFlare图像中来保存内容出处</title>
-      <link>https://blog.cloudflare.com/preserve-content-credentials-with-cloudflare-images/</link>
-      <description>【 Media and journalism companies can now build end-to-end workflows that support Content Credentials by using Cloudflare Images.  】媒体和新闻公司现在可以通过使用CloudFlare图像来构建端到端的工作流，以支持内容凭据。</description>
-      <pubDate>Mon, 03 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare incident on February 6, 2025】CloudFlare事件于2025年2月6日</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/</link>
-      <description>【 On Thursday, February 6, 2025, we experienced an outage with our object storage service (R2) and products that rely on it. Here&#39;s what happened and what we&#39;re doing to fix this going forward. 】在2025年2月6日，星期四，我们使用对象存储服务（R2）和依靠它的产品经历了中断。这是发生的事情以及我们正在做的事情来解决此问题。</description>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
-      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
-      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
-      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Offline celebrations: how Christmas, NYE, and Lunar New Year festivities shape online behavior】离线庆祝活动：圣诞节，NYE和LUNAR新年庆祝活动如何塑造在线行为</title>
+      <link>https://blog.cloudflare.com/offline-celebrations-how-christmas-nye-and-lunar-new-year-festivities-shape-online-behavior/</link>
+      <description>【 This blog examines how diverse cultural celebrations — from Western Christmas to Orthodox and Lunar New Year festivities — shape global Internet traffic. 】该博客探讨了各种文化庆典（从西部圣诞节到东正教和农历新年庆祝活动）如何塑造全球互联网流量。</description>
+      <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare’s commitment to advancing Public Sector security worldwide by pursuing FedRAMP High, IRAP, and ENS】Cloudflare致力于通过追求FedRamp High，IRAP和ENS来推动全球公共部门安全的承诺</title>
@@ -46,22 +16,52 @@
       <pubDate>Wed, 05 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【No hallucinations here: track the latest AI trends with expanded insights on Cloudflare Radar】这里没有幻觉：在Cloudflare Radar上跟踪最新的AI趋势</title>
+      <link>https://blog.cloudflare.com/expanded-ai-insights-on-cloudflare-radar/</link>
+      <description>【 Today, we are launching a new dedicated “AI Insights” page on Cloudflare Radar that incorporates this graph and builds on it with additional metrics. 】今天，我们正在CloudFlare Radar上启动一个新的专用“ AI Insights”页面，该页面结合了此图，并与其他指标一起构建。</description>
+      <pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Resolving a Mutual TLS session resumption vulnerability】解决共同的TLS会话恢复漏洞</title>
       <link>https://blog.cloudflare.com/resolving-a-mutual-tls-session-resumption-vulnerability/</link>
       <description>【 Cloudflare patched a Mutual TLS (mTLS) vulnerability (CVE-2025-23419) reported via its Bug Bounty Program. The flaw in session resumption allowed client certificates to authenticate across different 】CloudFlare通过其Bug Bounty程序报告了相互TLS（MTLS）漏洞（CVE-2025-23419）。会话恢复中的缺陷允许客户端证书在不同的地方进行身份验证</description>
       <pubDate>Fri, 07 Feb 2025 20:13:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Helping civil society monitor attacks with the CyberPeaceTracer and Cloudflare Email Security 】帮助民间社会通过Cyber​​Peacetracer和CloudFlare电子邮件安全性监测攻击</title>
+      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
+      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
+      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
+      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare incident on February 6, 2025】CloudFlare事件于2025年2月6日</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/</link>
+      <description>【 On Thursday, February 6, 2025, we experienced an outage with our object storage service (R2) and products that rely on it. Here&#39;s what happened and what we&#39;re doing to fix this going forward. 】在2025年2月6日，星期四，我们使用对象存储服务（R2）和依靠它的产品经历了中断。这是发生的事情以及我们正在做的事情来解决此问题。</description>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Preserving content provenance by integrating Content Credentials into Cloudflare Images】通过将内容凭据集成到CloudFlare图像中来保存内容出处</title>
+      <link>https://blog.cloudflare.com/preserve-content-credentials-with-cloudflare-images/</link>
+      <description>【 Media and journalism companies can now build end-to-end workflows that support Content Credentials by using Cloudflare Images.  】媒体和新闻公司现在可以通过使用CloudFlare图像来构建端到端的工作流，以支持内容凭据。</description>
+      <pubDate>Mon, 03 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Helping civil society monitor cyber attacks with the CyberPeaceTracer and Cloudflare Email Security 】帮助民间社会通过网络配置器和CloudFlare电子邮件安全性监测网络攻击</title>
       <link>https://blog.cloudflare.com/helping-civil-society-monitor-attacks-with-the-cyberpeacetracer-and-cloudflare-email-security/</link>
       <description>【 We’re proud to collaborate with CyberPeace Institute by powering its latest initiative, the CyberPeace Tracer, a platform that enables civil society organizations to proactively report cyber threats. 】我们很荣幸通过为网络和平研究所合作，通过为Cyber​​peace Tracer提供动力，该计划使民间社会组织能够主动报告网络威胁。</description>
       <pubDate>Mon, 17 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Offline celebrations: how Christmas, NYE, and Lunar New Year festivities shape online behavior】离线庆祝活动：圣诞节，NYE和LUNAR新年庆祝活动如何塑造在线行为</title>
-      <link>https://blog.cloudflare.com/offline-celebrations-how-christmas-nye-and-lunar-new-year-festivities-shape-online-behavior/</link>
-      <description>【 This blog examines how diverse cultural celebrations — from Western Christmas to Orthodox and Lunar New Year festivities — shape global Internet traffic. 】该博客探讨了各种文化庆典（从西部圣诞节到东正教和农历新年庆祝活动）如何塑造全球互联网流量。</description>
-      <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【QUIC action: patching a broadcast address amplification vulnerability】QUIC操作：修补广播地址放大漏洞</title>
+      <link>https://blog.cloudflare.com/mitigating-broadcast-address-attack/</link>
+      <description>【 Cloudflare was recently contacted by researchers who discovered a broadcast amplification vulnerability through their QUIC Internet measurement research. We&#39;ve implemented a mitigation. 】最近，研究人员联系了Cloudflare，他们通过其Quic Internet测量研究发现了广播放大漏洞。我们已经实施了缓解措施。</description>
+      <pubDate>Mon, 10 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automatic Audit Logs: new updates deliver increased transparency and accountability】自动审核日志：新更新提供了提高的透明度和问责制</title>
+      <link>https://blog.cloudflare.com/introducing-automatic-audit-logs/</link>
+      <description>【 We’re excited to announce the beta release of Automatic Audit Logs, offering greater transparency and control. 】我们很高兴宣布Beta版本的自动审核日志发布，提供更大的透明度和控制。</description>
+      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
