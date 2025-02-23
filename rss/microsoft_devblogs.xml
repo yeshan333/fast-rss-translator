@@ -4,12 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Visualize ROI of your GitHub Copilot Usage, How it works!】可视化您的github副用法的ROI，其工作原理！</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/visualize-roi-of-your-github-copilot-usage-how-it-works</link>
-      <description>【Architecture: How it works! The Copilot Usage Advanced Dashboard offers a comprehensive suite of features designed to revolutionize how organizations track and analyze their Copilot usage. At its core, the solution leverages Elasticsearch for persistent data storage, breaking free from the traditional 28-day limitation and enabling analysis across extended time periods, from months to years. [&amp;hellip;]】建筑：它的工作方式！ Copilot使用Advanced Dashboard提供了一套全面的功能，旨在彻底改变组织如何跟踪和分析其Copilot使用情况。该解决方案以此为核心，利用Elasticsearch进行持续的数据存储，摆脱了从传统的28天限制，并从几个月到几年之间跨越长时间的分析实现了分析。 […]</description>
-      <pubDate>Fri, 21 Feb 2025 02:41:36 +0000</pubDate>
-    </item>
-    <item>
       <title>【增强 Razor 生产力的新功能】增强 Razor 生产力的新功能</title>
       <link>https://devblogs.microsoft.com/dotnet-ch/%e5%a2%9e%e5%bc%ba-razor-%e7%94%9f%e4%ba%a7%e5%8a%9b%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd</link>
       <description>【本文翻译自Leslie Richardson的New Features for Enhanced Razor Productivity! 如果您现在正在使用 Razor 构建 Web 应用，我们为您带来了一些令人兴奋的新功能，无论您使用的是 Visual Studio 还是 Visual Studio Code，您都会爱上这些新功能！现在，您可以使用名为“将元素提取到新组件”的重构功能，以及全新的基于 Roslyn 的 C# 分词器，这些功能旨在提升您在 Razor 文件中的开发效率。让我们一起来看看吧！  将元素提取到新组件  将元素提取到新组件是 Visual Studio 17.12 中提供的一项全新的重构功能，它可以自动化创建新 Razor/Blazor 组件的过程。您无需手动创建新文件并复制/粘贴代码，只需选中想要提取的代码（或标签），然后点击灯泡图标并选择将元素提取到新组件即可完成提取操作。该功能让创建可复用组件变得更加简单，有助于保持代码整洁，提高可维护性。  在该功能的首个版本中，提取为组件功能主要支持基础的、以 HTML 为主的代码提取场景。不过，我们计划在未来添加更多改进和支持更高级的场景（例如更一致地处理涉及变量依赖、C# 代码、参数等的提取）。  Roslyn C# 分词器  C# 分词器/词法分析器的更新显著提升了 Razor 对 C# 代码的处理能力。许多用户曾对无法在 Razor 文件中使用原始字符串文本和逐字插值字符串表示失望，而新的 Roslyn C# 词法分析器解决了这一问题！除了对这些字符串格式的支持外，词法分析器还增加了对二进制文本的支持，并改进了对 C# 预处理器指令的处理，确保它们遵循 C# 的规则。最后，新的词法分析器还将更容易支持未来的 C# [&amp;hellip;]】本文翻译自Leslie Richardson的New Features for Enhanced Razor Productivity! 如果您现在正在使用 Razor 构建 Web 应用，我们为您带来了一些令人兴奋的新功能，无论您使用的是 Visual Studio 还是 Visual Studio Code，您都会爱上这些新功能！现在，您可以使用名为“将元素提取到新组件”的重构功能，以及全新的基于 Roslyn 的 C# 分词器，这些功能旨在提升您在 Razor 文件中的开发效率。让我们一起来看看吧！  将元素提取到新组件  将元素提取到新组件是 Visual Studio 17.12 中提供的一项全新的重构功能，它可以自动化创建新 Razor/Blazor 组件的过程。您无需手动创建新文件并复制/粘贴代码，只需选中想要提取的代码（或标签），然后点击灯泡图标并选择将元素提取到新组件即可完成提取操作。该功能让创建可复用组件变得更加简单，有助于保持代码整洁，提高可维护性。  在该功能的首个版本中，提取为组件功能主要支持基础的、以 HTML 为主的代码提取场景。不过，我们计划在未来添加更多改进和支持更高级的场景（例如更一致地处理涉及变量依赖、C# 代码、参数等的提取）。  Roslyn C# 分词器  C# 分词器/词法分析器的更新显著提升了 Razor 对 C# 代码的处理能力。许多用户曾对无法在 Razor 文件中使用原始字符串文本和逐字插值字符串表示失望，而新的 Roslyn C# 词法分析器解决了这一问题！除了对这些字符串格式的支持外，词法分析器还增加了对二进制文本的支持，并改进了对 C# 预处理器指令的处理，确保它们遵循 C# 的规则。最后，新的词法分析器还将更容易支持未来的 C# […]</description>
@@ -28,28 +22,22 @@
       <pubDate>Fri, 21 Feb 2025 07:19:41 +0000</pubDate>
     </item>
     <item>
+      <title>【Successfully leveraging stakeholder feedback with Comment Analytics】通过评论分析成功利用利益相关者的反馈</title>
+      <link>https://devblogs.microsoft.com/azuregov/successfully-leveraging-stakeholder-feedback-with-comment-analytics</link>
+      <description>【&amp;nbsp; Agencies in the U.S. federal government publish an average of 3,700 proposed rules yearly, according to the U.S. Government Accountability Office.  With each proposed rule, agencies generally provide an opportunity for stakeholders and members of the public to submit comments before the rules are finalized.  In some instances, thousands of comments are submitted, with [&amp;hellip;]】  根据美国政府问责局的数据，美国联邦政府的机构平均每年公布3,700条拟议的规则。  对于每个提议的规则，机构通常为利益相关者和公众成员提供机会在规则完成之前提交评论。  在某些情况下，提交了数千条评论，[…]</description>
+      <pubDate>Fri, 21 Feb 2025 14:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visualize ROI of your GitHub Copilot Usage, How it works!】可视化您的github副用法的ROI，其工作原理！</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/visualize-roi-of-your-github-copilot-usage-how-it-works</link>
+      <description>【Architecture: How it works! The Copilot Usage Advanced Dashboard offers a comprehensive suite of features designed to revolutionize how organizations track and analyze their Copilot usage. At its core, the solution leverages Elasticsearch for persistent data storage, breaking free from the traditional 28-day limitation and enabling analysis across extended time periods, from months to years. [&amp;hellip;]】建筑：它的工作方式！ Copilot使用Advanced Dashboard提供了一套全面的功能，旨在彻底改变组织如何跟踪和分析其Copilot使用情况。该解决方案以此为核心，利用Elasticsearch进行持续的数据存储，摆脱了从传统的28天限制，并从几个月到几年之间跨越长时间的分析实现了分析。 […]</description>
+      <pubDate>Fri, 21 Feb 2025 02:41:36 +0000</pubDate>
+    </item>
+    <item>
       <title>【MSVC Address Sanitizer updates in Visual Studio 2022 version 17.13】Visual Studio 2022版本17.13中的MSVC地址消毒剂更新</title>
       <link>https://devblogs.microsoft.com/cppblog/msvc-address-sanitizer-updates-in-visual-studio-2022-version-17-13</link>
       <description>【We have been investing in the quality of MSVC Address Sanitizer (ASan) in several key areas over the past year, including working with LLVM upstream to stay coordinated with their changes, adding coverage for internal tools and libraries, and hardening APIs and runtime modes.  Upstreaming to LLVM  MSVC ASan is derived from a fork of [&amp;hellip;]】在过去的一年中，我们一直在几个关键领域投资MSVC地址消毒剂（ASAN）的质量，包括与上游的LLVM合作以保持其更改，为内部工具和图书馆增加了覆盖范围，以及加强API和运行时模式。  上游到LLVM MSVC ASAN是从[…]的叉子派生的</description>
       <pubDate>Fri, 21 Feb 2025 16:19:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Revolutionizing AI Workflows: Multi-Agent Group Chat with Copilot Agent Plugins in Microsoft Semantic Kernel】来宾博客：革新AI工作流程：Microsoft语义内核中与Copilot Agent插件的多代理小组聊天</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-revolutionizing-ai-workflows-multi-agent-group-chat-with-copilot-agent-plugins-in-microsoft-semantic-kernel</link>
-      <description>【Revolutionizing AI Workflows: Multi-Agent Group Chat with Copilot Agent Plugins in Microsoft Semantic Kernel  Copilot Agent Plugins (CAPs) are revolutionizing how developers interact with Microsoft 365 data. By transforming natural language into seamless CRUD actions using Microsoft Graph and Semantic Kernel, CAPs enable the creation of intelligent, AI-driven solutions. This sample demonstrates a multi-agent group [&amp;hellip;]】革命性的AI工作流程：Microsoft语义内核副代理插件（CAPS）中与Copilot代理插件的多代理组聊天正在彻底改变开发人员与Microsoft 365数据的交互方式。通过使用Microsoft Graph和语义内核将自然语言转换为无缝的CRUD动作，Caps可以创建智能，AI驱动的解决方案。该样本展示了一个多代理组[…]</description>
-      <pubDate>Thu, 20 Feb 2025 19:50:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visualize ROI of your GitHub Copilot Usage, Deploy it!】可视化您的github副用法的ROI，部署它！</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/visualize-roi-of-your-github-copilot-usage-deploy-it</link>
-      <description>【Deployment: Let&amp;#8217;s do it! All operations are performed in the VM Prerequisites everything is on-premises and free (except VM) The only thing you need is: a VM Memory: 16G is recommended Operating system: Ubuntu 22.04 (recommended, other operating systems have no difference except Docker installation) Port: 3000 port needs to be released for Grafana to use, and 22 port [&amp;hellip;]】部署：让我们做！所有操作均在VM先决条件中执行所有操作，所有操作都是本地的，并且免费（VM除外）您需要的是：VM内存：建议使用16G的操作系统：Ubuntu 22.04（推荐其他操作系统没有差异，除Docker安装外， ）端口：需要释放3000个端口才能使用Grafana，还有22个端口[…]</description>
-      <pubDate>Fri, 21 Feb 2025 02:44:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automating Developer Environments with Microsoft Dev Box and Teams Customizations Part 2】使用Microsoft Dev Box和团队自定义第2部分自动化开发人员环境</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/automating-developer-environments-with-microsoft-dev-box-and-teams-customizations-part-2</link>
-      <description>【Developers today typically work on multiple projects simultaneously, with each project requiring different tools and configuration requirements. Being able to have a dedicated environment explicitly configured to that project unlocks enhanced developer productivity and reduces outside noise, allowing developers to focus just on the work they are doing. This also extends to developers who may [&amp;hellip;]】今天，开发人员通常同时从事多个项目，每个项目都需要不同的工具和配置要求。能够明确配置为该项目的专用环境可以解锁增强的开发人员生产力并降低外部噪音，从而使开发人员只专注于他们正在做的工作。这也扩展到可能[…]的开发人员</description>
-      <pubDate>Fri, 21 Feb 2025 00:39:01 +0000</pubDate>
     </item>
     <item>
       <title>【Supercharge Developer Workflows with GitHub Copilot Workspace Extensions】使用GitHub Copilot Workspace扩展程序增压开发人员工作流程</title>
@@ -58,10 +46,22 @@
       <pubDate>Fri, 21 Feb 2025 07:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【Successfully leveraging stakeholder feedback with Comment Analytics】通过评论分析成功利用利益相关者的反馈</title>
-      <link>https://devblogs.microsoft.com/azuregov/successfully-leveraging-stakeholder-feedback-with-comment-analytics</link>
-      <description>【&amp;nbsp; Agencies in the U.S. federal government publish an average of 3,700 proposed rules yearly, according to the U.S. Government Accountability Office.  With each proposed rule, agencies generally provide an opportunity for stakeholders and members of the public to submit comments before the rules are finalized.  In some instances, thousands of comments are submitted, with [&amp;hellip;]】  根据美国政府问责局的数据，美国联邦政府的机构平均每年公布3,700条拟议的规则。  对于每个提议的规则，机构通常为利益相关者和公众成员提供机会在规则完成之前提交评论。  在某些情况下，提交了数千条评论，[…]</description>
-      <pubDate>Fri, 21 Feb 2025 14:00:51 +0000</pubDate>
+      <title>【Automating Developer Environments with Microsoft Dev Box and Teams Customizations Part 2】使用Microsoft Dev Box和团队自定义第2部分自动化开发人员环境</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/automating-developer-environments-with-microsoft-dev-box-and-teams-customizations-part-2</link>
+      <description>【Developers today typically work on multiple projects simultaneously, with each project requiring different tools and configuration requirements. Being able to have a dedicated environment explicitly configured to that project unlocks enhanced developer productivity and reduces outside noise, allowing developers to focus just on the work they are doing. This also extends to developers who may [&amp;hellip;]】今天，开发人员通常同时从事多个项目，每个项目都需要不同的工具和配置要求。能够明确配置为该项目的专用环境可以解锁增强的开发人员生产力并降低外部噪音，从而使开发人员只专注于他们正在做的工作。这也扩展到可能[…]的开发人员</description>
+      <pubDate>Fri, 21 Feb 2025 00:39:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visualize ROI of your GitHub Copilot Usage, Deploy it!】可视化您的github副用法的ROI，部署它！</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/visualize-roi-of-your-github-copilot-usage-deploy-it</link>
+      <description>【Deployment: Let&amp;#8217;s do it! All operations are performed in the VM Prerequisites everything is on-premises and free (except VM) The only thing you need is: a VM Memory: 16G is recommended Operating system: Ubuntu 22.04 (recommended, other operating systems have no difference except Docker installation) Port: 3000 port needs to be released for Grafana to use, and 22 port [&amp;hellip;]】部署：让我们做！所有操作均在VM先决条件中执行所有操作，所有操作都是本地的，并且免费（VM除外）您需要的是：VM内存：建议使用16G的操作系统：Ubuntu 22.04（推荐其他操作系统没有差异，除Docker安装外， ）端口：需要释放3000个端口才能使用Grafana，还有22个端口[…]</description>
+      <pubDate>Fri, 21 Feb 2025 02:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Revolutionizing AI Workflows: Multi-Agent Group Chat with Copilot Agent Plugins in Microsoft Semantic Kernel】来宾博客：革新AI工作流程：Microsoft语义内核中与Copilot Agent插件的多代理小组聊天</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-revolutionizing-ai-workflows-multi-agent-group-chat-with-copilot-agent-plugins-in-microsoft-semantic-kernel</link>
+      <description>【Revolutionizing AI Workflows: Multi-Agent Group Chat with Copilot Agent Plugins in Microsoft Semantic Kernel  Copilot Agent Plugins (CAPs) are revolutionizing how developers interact with Microsoft 365 data. By transforming natural language into seamless CRUD actions using Microsoft Graph and Semantic Kernel, CAPs enable the creation of intelligent, AI-driven solutions. This sample demonstrates a multi-agent group [&amp;hellip;]】革命性的AI工作流程：Microsoft语义内核副代理插件（CAPS）中与Copilot代理插件的多代理组聊天正在彻底改变开发人员与Microsoft 365数据的交互方式。通过使用Microsoft Graph和语义内核将自然语言转换为无缝的CRUD动作，Caps可以创建智能，AI驱动的解决方案。该样本展示了一个多代理组[…]</description>
+      <pubDate>Thu, 20 Feb 2025 19:50:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

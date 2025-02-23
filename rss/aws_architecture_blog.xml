@@ -4,16 +4,10 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>转换租赁协议与亚马逊基岩的工作流程</title>
-      <link>https://aws.amazon.com/blogs/architecture/transform-lease-agreement-workflows-with-amazon-bedrock/</link>
+      <title>使用AWS良好的框架实现十二个因子</title>
+      <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
       <description></description>
-      <pubDate>Tue, 31 Dec 2024 15:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>在AWS上使用生成AI进行有效的临床文档分析</title>
-      <link>https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/</link>
-      <description></description>
-      <pubDate>Wed, 05 Feb 2025 19:04:42 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
     </item>
     <item>
       <title>TVS供应链解决方案使用AS2的AWS传输家族构建了一个文件传输平台，用于B2B协作</title>
@@ -22,28 +16,22 @@
       <pubDate>Mon, 13 Jan 2025 21:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>为无状态队列消费者创建无服务器的自定义重试机制</title>
-      <link>https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/</link>
-      <description></description>
-      <pubDate>Tue, 11 Feb 2025 17:44:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用AWS良好的框架实现十二个因子</title>
-      <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
-      <description></description>
-      <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
-    </item>
-    <item>
       <title>2024年顶级建筑博客文章</title>
       <link>https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2024/</link>
       <description></description>
       <pubDate>Thu, 23 Jan 2025 16:59:36 +0000</pubDate>
     </item>
     <item>
-      <title>在巴斯夫数字农业GmbH的AWS无服务器的高效卫星图像供应</title>
-      <link>https://aws.amazon.com/blogs/architecture/efficient-satellite-imagery-supply-with-aws-serverless-at-basf-digital-farming-gmbh/</link>
+      <title>为无状态队列消费者创建无服务器的自定义重试机制</title>
+      <link>https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/</link>
       <description></description>
-      <pubDate>Fri, 06 Dec 2024 16:31:05 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2025 17:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>让我们的建筑师！ AWS中的无服务器开发人员体验</title>
+      <link>https://aws.amazon.com/blogs/architecture/lets-architect-serverless-developer-experience-in-aws/</link>
+      <description></description>
+      <pubDate>Mon, 02 Dec 2024 22:45:34 +0000</pubDate>
     </item>
     <item>
       <title>通过与多个AWS区域进行架构来增强关键工作负载的弹性</title>
@@ -52,10 +40,22 @@
       <pubDate>Wed, 22 Jan 2025 16:11:25 +0000</pubDate>
     </item>
     <item>
-      <title>让我们的建筑师！ AWS中的无服务器开发人员体验</title>
-      <link>https://aws.amazon.com/blogs/architecture/lets-architect-serverless-developer-experience-in-aws/</link>
+      <title>在AWS上使用生成AI进行有效的临床文档分析</title>
+      <link>https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/</link>
       <description></description>
-      <pubDate>Mon, 02 Dec 2024 22:45:34 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 19:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>转换租赁协议与亚马逊基岩的工作流程</title>
+      <link>https://aws.amazon.com/blogs/architecture/transform-lease-agreement-workflows-with-amazon-bedrock/</link>
+      <description></description>
+      <pubDate>Tue, 31 Dec 2024 15:06:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>在巴斯夫数字农业GmbH的AWS无服务器的高效卫星图像供应</title>
+      <link>https://aws.amazon.com/blogs/architecture/efficient-satellite-imagery-supply-with-aws-serverless-at-basf-digital-farming-gmbh/</link>
+      <description></description>
+      <pubDate>Fri, 06 Dec 2024 16:31:05 +0000</pubDate>
     </item>
     <item>
       <title>Nielsen如何使用Spark Workloads在Amazon EKS上使用无服务器概念进行大数据处理</title>
