@@ -4,16 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
+      <title>【Claude 3.7 Now Available in GitHub Copilot for Visual Studio】Claude 3.7现在在Github Copilot上可用于视觉工作室</title>
+      <link>https://devblogs.microsoft.com/visualstudio/claude-3-7-now-available-in-github-copilot-for-visual-studio</link>
+      <description>【The world of AI is evolving at a breathtaking pace, and today brings an exciting milestone for developers and tech enthusiasts alike. Anthropic’s newest release, Claude 3.7, is now available directly within GitHub Copilot for Visual Studio 2022 17.13, heralding a new era of seamlessly integrated, advanced AI coding assistance. This new Sonnet model supports [&amp;hellip;]】AI的世界正在以令人叹为观止的速度发展，如今，为开发人员和技术爱好者都带来了令人兴奋的里程碑。 Anthropic的最新发行版Claude 3.7现在直接在Github Copilot for Visual Studio 2022 17.13中提供，预示着一个无缝集成，高级AI编码辅助的新时代。这个新的十四行诗模型支持[…]</description>
+      <pubDate>Tue, 25 Feb 2025 01:45:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Let’s Learn .NET: GitHub Copilot Event】让我们学习.NET：Github Copilot活动</title>
+      <link>https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-github-copilot-event</link>
+      <description>【Join us for an exciting Let&#39;s Learn .NET live stream event where we will explore GitHub Copilot and its capabilities.】加入我们，参加一个令人兴奋的让我们学习.NET直播活动，我们将在其中探索Github Copilot及其功能。</description>
+      <pubDate>Mon, 24 Feb 2025 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 5】C ++/WINRT实现继承：Winrt :: insterments上的注释，第5部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250225-00/?p=110905</link>
+      <description>【When the base class isn&#39;t self-contained.】当基类没有独立时。</description>
+      <pubDate>Tue, 25 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 1 is now available!】.NET 10预览1现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1</link>
+      <description>【Find out about the new features in .NET 10 Preview 1 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览1中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Tue, 25 Feb 2025 20:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【std::generator: Standard Library Coroutine Support】STD ::生成器：标准库Coroutine支持</title>
       <link>https://devblogs.microsoft.com/cppblog/std-generator-standard-library-coroutine-support</link>
       <description>【std::generator is a C++23 feature that enables you to write concise, straightforward functions that generate sequences of values on-demand without manually managing state. It builds upon C++20’s coroutines, providing some standard library support for this powerful, but complex, language feature. As of Visual Studio 2022 version 17.13, we ship an implementation of std::generator in our [&amp;hellip;]】STD :: Generator是一个C ++ 23功能，它使您能够编写简洁，直接的功能，该功能生成值的值序列，而无需手动管理状态。它建立在C ++ 20的Coroutines上，为这一功能强大但复杂的语言功能提供了一些标准的库支持。从Visual Studio 2022版本17.13开始，我们在我们的[…]中运送了STD :: Generator的实现。</description>
       <pubDate>Mon, 24 Feb 2025 17:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MSVC Address Sanitizer updates in Visual Studio 2022 version 17.13】Visual Studio 2022版本17.13中的MSVC地址消毒剂更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-address-sanitizer-updates-in-visual-studio-2022-version-17-13</link>
-      <description>【We have been investing in the quality of MSVC Address Sanitizer (ASan) in several key areas over the past year, including working with LLVM upstream to stay coordinated with their changes, adding coverage for internal tools and libraries, and hardening APIs and runtime modes.  Upstreaming to LLVM  MSVC ASan is derived from a fork of [&amp;hellip;]】在过去的一年中，我们一直在几个关键领域投资MSVC地址消毒剂（ASAN）的质量，包括与上游的LLVM合作以保持其更改，为内部工具和图书馆增加了覆盖范围，以及加强API和运行时模式。  上游到LLVM MSVC ASAN是从[…]的叉子派生的</description>
-      <pubDate>Fri, 21 Feb 2025 16:19:01 +0000</pubDate>
     </item>
     <item>
       <title>【Leverage vision in Copilot Chat】利用副本聊天中的视觉</title>
@@ -22,16 +40,10 @@
       <pubDate>Mon, 24 Feb 2025 17:33:16 +0000</pubDate>
     </item>
     <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 4】C ++/WINRT实现继承：Winrt ::的注释，第4部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250224-00/?p=110901</link>
-      <description>【Simple inheritance of a self-contained implements.】独立工具的简单继承。</description>
-      <pubDate>Mon, 24 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 3】C ++/WINRT实现继承：Winrt :: insterments上的注释，第3部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250221-00/?p=110895</link>
-      <description>【Discovering the legal inheritance structures for winrt::implements.】发现Winrt ::的法律继承结构。</description>
-      <pubDate>Fri, 21 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Compatibility of PostgreSQL Connector with AWS and GCP】PostgreSQL连接器与AWS和GCP的兼容性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/compatibility-of-postgresql-connector-with-aws-and-gcp</link>
+      <description>【As AI-driven applications continue to evolve, the need for efficient vector-based search capabilities is greater than ever. Microsoft Semantic Kernel makes it easy to integrate these capabilities with PostgreSQL databases using the Postgres connector. Whether you&amp;#8217;re leveraging cloud-hosted PostgreSQL instances on Amazon Web Services or Google Cloud, this connector enables seamless interaction, allowing you to [&amp;hellip;]】随着AI驱动的应用程序的不断发展，对基于高效向量的搜索功能的需求比以往任何时候都更大。 Microsoft语义内核使使用Postgres连接器将这些功能与PostgreSQL数据库集成起来变得容易。无论您是利用Amazon Web服务或Google Cloud上的Cloud托管的PostgreSQL实例，此连接器都可以实现无缝互动，使您可以[…]</description>
+      <pubDate>Mon, 24 Feb 2025 22:04:53 +0000</pubDate>
     </item>
     <item>
       <title>【New Azure Cosmos DB Design Patterns Video Series – Learn, Implement, and Contribute!】新的Azure Cosmos DB设计模式视频系列 - 学习，实施和贡献！</title>
@@ -40,28 +52,16 @@
       <pubDate>Mon, 24 Feb 2025 19:13:52 +0000</pubDate>
     </item>
     <item>
-      <title>【Compatibility of PostgreSQL Connector with AWS and GCP】PostgreSQL连接器与AWS和GCP的兼容性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/compatibility-of-postgresql-connector-with-aws-and-gcp</link>
-      <description>【As AI-driven applications continue to evolve, the need for efficient vector-based search capabilities is greater than ever. Microsoft Semantic Kernel makes it easy to integrate these capabilities with PostgreSQL databases using the Postgres connector. Whether you&amp;#8217;re leveraging cloud-hosted PostgreSQL instances on Amazon Web Services or Google Cloud, this connector enables seamless interaction, allowing you to [&amp;hellip;]】随着AI驱动的应用程序的不断发展，对基于高效向量的搜索功能的需求比以往任何时候都更大。 Microsoft语义内核使使用Postgres连接器将这些功能与PostgreSQL数据库集成起来变得容易。无论您是利用Amazon Web服务或Google Cloud上的Cloud托管的PostgreSQL实例，此连接器都可以实现无缝互动，使您可以[…]</description>
-      <pubDate>Mon, 24 Feb 2025 22:04:53 +0000</pubDate>
+      <title>【.NET Aspire 9.1 is here with six great new dashboard features, and more!】.NET ASPIRE 9.1在这里具有六个出色的新仪表板功能，等等！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1</link>
+      <description>【.NET Aspire 9.1 is here! From enhanced dashboard capabilities like Resource Relationships and Localization Overrides to improved Docker integration and flexible console logs, this release is packed with tools to streamline your development process.】.NET ASPIRE 9.1在这里！从增强的仪表板功能（例如资源关系和本地化替代）到改进的Docker集成和灵活的控制台日志，此版本包含用于简化开发过程的工具。</description>
+      <pubDate>Tue, 25 Feb 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude 3.7 Now Available in GitHub Copilot for Visual Studio】Claude 3.7现在在Github Copilot上可用于视觉工作室</title>
-      <link>https://devblogs.microsoft.com/visualstudio/claude-3-7-now-available-in-github-copilot-for-visual-studio</link>
-      <description>【The world of AI is evolving at a breathtaking pace, and today brings an exciting milestone for developers and tech enthusiasts alike. Anthropic’s newest release, Claude 3.7, is now available directly within GitHub Copilot for Visual Studio 2022 17.13, heralding a new era of seamlessly integrated, advanced AI coding assistance. This new Sonnet model supports [&amp;hellip;]】AI的世界正在以令人叹为观止的速度发展，如今，为开发人员和技术爱好者都带来了令人兴奋的里程碑。 Anthropic的最新发行版Claude 3.7现在直接在Github Copilot for Visual Studio 2022 17.13中提供，预示着一个无缝集成，高级AI编码辅助的新时代。这个新的十四行诗模型支持[…]</description>
-      <pubDate>Tue, 25 Feb 2025 01:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Hybrid Model Orchestration】混合模型编排</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/hybrid-model-orchestration</link>
-      <description>【Hybrid model orchestration is a powerful technique that AI applications can use to intelligently select and switch between multiple models based on various criteria, all while being transparent to the calling code. This technique not only allows for model selection based on factors such as the prompt&amp;#8217;s input token size and each model&amp;#8217;s min/max token [&amp;hellip;]】混合模型编排是一种强大的技术，AI应用程序可以根据各种标准智能地选择和切换多个模型，同时均与调用代码透明。该技术不仅允许根据提示输入令牌大小和每个型号的最小值/最大令牌等因素进行模型选择[…]</description>
-      <pubDate>Mon, 24 Feb 2025 17:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Let’s Learn .NET: GitHub Copilot Event】让我们学习.NET：Github Copilot活动</title>
-      <link>https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-github-copilot-event</link>
-      <description>【Join us for an exciting Let&#39;s Learn .NET live stream event where we will explore GitHub Copilot and its capabilities.】加入我们，参加一个令人兴奋的让我们学习.NET直播活动，我们将在其中探索Github Copilot及其功能。</description>
-      <pubDate>Mon, 24 Feb 2025 19:30:00 +0000</pubDate>
+      <title>【Migrating data from DynamoDB to Azure Cosmos DB】将数据从DynamoDB迁移到Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/migrating-data-from-dynamodb-to-azure-cosmos-db</link>
+      <description>【Co-authors: RK Iyer, Mangal Dutta Migrating stateful systems, such as databases, is a complex process. A frequent requirement for customers is to transfer data from DynamoDB to Azure Cosmos DB for NoSQL. This process involves several stages, including exporting data from DynamoDB, performing necessary transformations, and importing the data into Azure Cosmos DB. Common migration [&amp;hellip;]】合着者：RK Iyer，Mangal Dutta迁移的状态系统（例如数据库）是一个复杂的过程。对于客户来说，经常要求的是，对于NOSQL，将数据从DynamoDB转移到Azure Cosmos DB。此过程涉及多个阶段，包括从DynamoDB中导出数据，执行必要的转换以及将数据导入Azure Cosmos DB。普通迁移[…]</description>
+      <pubDate>Tue, 25 Feb 2025 15:25:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
