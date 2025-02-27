@@ -4,16 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Claude 3.7 Now Available in GitHub Copilot for Visual Studio】Claude 3.7现在在Github Copilot上可用于视觉工作室</title>
-      <link>https://devblogs.microsoft.com/visualstudio/claude-3-7-now-available-in-github-copilot-for-visual-studio</link>
-      <description>【The world of AI is evolving at a breathtaking pace, and today brings an exciting milestone for developers and tech enthusiasts alike. Anthropic’s newest release, Claude 3.7, is now available directly within GitHub Copilot for Visual Studio 2022 17.13, heralding a new era of seamlessly integrated, advanced AI coding assistance. This new Sonnet model supports [&amp;hellip;]】AI的世界正在以令人叹为观止的速度发展，如今，为开发人员和技术爱好者都带来了令人兴奋的里程碑。 Anthropic的最新发行版Claude 3.7现在直接在Github Copilot for Visual Studio 2022 17.13中提供，预示着一个无缝集成，高级AI编码辅助的新时代。这个新的十四行诗模型支持[…]</description>
-      <pubDate>Tue, 25 Feb 2025 01:45:58 +0000</pubDate>
+      <title>【.NET 10 Preview 1 is now available!】.NET 10预览1现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1</link>
+      <description>【Find out about the new features in .NET 10 Preview 1 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览1中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Tue, 25 Feb 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Let’s Learn .NET: GitHub Copilot Event】让我们学习.NET：Github Copilot活动</title>
-      <link>https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-github-copilot-event</link>
-      <description>【Join us for an exciting Let&#39;s Learn .NET live stream event where we will explore GitHub Copilot and its capabilities.】加入我们，参加一个令人兴奋的让我们学习.NET直播活动，我们将在其中探索Github Copilot及其功能。</description>
-      <pubDate>Mon, 24 Feb 2025 19:30:00 +0000</pubDate>
+      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 6】C ++/WINRT实现继承：Winrt :: insterments上的注释，第6部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250226-00/?p=110908</link>
+      <description>【Using CRTP to delegate the method.】使用CRTP委派该方法。</description>
+      <pubDate>Wed, 26 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 5】C ++/WINRT实现继承：Winrt :: insterments上的注释，第5部分</title>
@@ -22,40 +22,40 @@
       <pubDate>Tue, 25 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 10 Preview 1 is now available!】.NET 10预览1现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1</link>
-      <description>【Find out about the new features in .NET 10 Preview 1 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览1中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
-      <pubDate>Tue, 25 Feb 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【std::generator: Standard Library Coroutine Support】STD ::生成器：标准库Coroutine支持</title>
-      <link>https://devblogs.microsoft.com/cppblog/std-generator-standard-library-coroutine-support</link>
-      <description>【std::generator is a C++23 feature that enables you to write concise, straightforward functions that generate sequences of values on-demand without manually managing state. It builds upon C++20’s coroutines, providing some standard library support for this powerful, but complex, language feature. As of Visual Studio 2022 version 17.13, we ship an implementation of std::generator in our [&amp;hellip;]】STD :: Generator是一个C ++ 23功能，它使您能够编写简洁，直接的功能，该功能生成值的值序列，而无需手动管理状态。它建立在C ++ 20的Coroutines上，为这一功能强大但复杂的语言功能提供了一些标准的库支持。从Visual Studio 2022版本17.13开始，我们在我们的[…]中运送了STD :: Generator的实现。</description>
-      <pubDate>Mon, 24 Feb 2025 17:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Leverage vision in Copilot Chat】利用副本聊天中的视觉</title>
-      <link>https://devblogs.microsoft.com/visualstudio/attach-images-in-github-copilot-chat</link>
-      <description>【Now, in the preview channel, you can attach images in GitHub Copilot chat to help you illustrate your ideas effectively and get the best responses.  Imagine working on a UI development task where describing a design or layout through text just doesn&amp;#8217;t cut it. Or perhaps you&amp;#8217;re debugging an issue and need to share a [&amp;hellip;]】现在，在预览频道中，您可以在Github Copilot聊天中附加图像，以帮助您有效地说明自己的想法并获得最佳响应。  想象一下，从事UI开发任务，通过文本描述设计或布局并不能削减它。或者，也许您正在调试问题，需要分享[…]</description>
-      <pubDate>Mon, 24 Feb 2025 17:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Compatibility of PostgreSQL Connector with AWS and GCP】PostgreSQL连接器与AWS和GCP的兼容性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/compatibility-of-postgresql-connector-with-aws-and-gcp</link>
-      <description>【As AI-driven applications continue to evolve, the need for efficient vector-based search capabilities is greater than ever. Microsoft Semantic Kernel makes it easy to integrate these capabilities with PostgreSQL databases using the Postgres connector. Whether you&amp;#8217;re leveraging cloud-hosted PostgreSQL instances on Amazon Web Services or Google Cloud, this connector enables seamless interaction, allowing you to [&amp;hellip;]】随着AI驱动的应用程序的不断发展，对基于高效向量的搜索功能的需求比以往任何时候都更大。 Microsoft语义内核使使用Postgres连接器将这些功能与PostgreSQL数据库集成起来变得容易。无论您是利用Amazon Web服务或Google Cloud上的Cloud托管的PostgreSQL实例，此连接器都可以实现无缝互动，使您可以[…]</description>
-      <pubDate>Mon, 24 Feb 2025 22:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Azure Cosmos DB Design Patterns Video Series – Learn, Implement, and Contribute!】新的Azure Cosmos DB设计模式视频系列 - 学习，实施和贡献！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/new-azure-cosmos-db-design-patterns-video-series-learn-implement-and-contribute</link>
-      <description>【We’re excited to introduce the Azure Cosmos DB Design Patterns video series—your go-to resource for learning how to design scalable, efficient, and cost-effective applications with Azure Cosmos DB. Built on real-world use cases, each episode explores a proven design pattern, walking through how it works, when to use it, and how to implement it using [&amp;hellip;]】我们很高兴介绍Azure Cosmos DB设计模式视频系列 - 您的首选资源用于学习如何使用Azure Cosmos DB设计可扩展，高效和具有成本效益的应用程序。每个情节都建立在现实世界中的用例上，探索了一种经过验证的设计模式，浏览其工作方式，何时使用它以及如何使用[…]实施它</description>
-      <pubDate>Mon, 24 Feb 2025 19:13:52 +0000</pubDate>
-    </item>
-    <item>
       <title>【.NET Aspire 9.1 is here with six great new dashboard features, and more!】.NET ASPIRE 9.1在这里具有六个出色的新仪表板功能，等等！</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1</link>
       <description>【.NET Aspire 9.1 is here! From enhanced dashboard capabilities like Resource Relationships and Localization Overrides to improved Docker integration and flexible console logs, this release is packed with tools to streamline your development process.】.NET ASPIRE 9.1在这里！从增强的仪表板功能（例如资源关系和本地化替代）到改进的Docker集成和灵活的控制台日志，此版本包含用于简化开发过程的工具。</description>
       <pubDate>Tue, 25 Feb 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (February 2025)】Azure SDK发布（2025年2月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-february-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Wed, 26 Feb 2025 19:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Terminal Chat now included in GitHub Copilot Free】github copilot中现在包含的终端聊天免费</title>
+      <link>https://devblogs.microsoft.com/commandline/terminal-chat-now-included-in-github-copilot-free</link>
+      <description>【Windows Terminal Canary users can now use Terminal Chat with the GitHub Copilot Free plan! 🚀 GitHub Copilot Free is limited to 50 chat messages per month. This includes the usage of Copilot in the CLI, VS Code, and Visual Studio. If you reach your quota, you can upgrade on the web. You can sign [&amp;hellip;]】Windows Terminal Canary用户现在可以使用GitHub Copilot免费计划使用终端聊天！ 🚀GitHub Copilot Free每月限制为50个聊天消息。这包括在CLI，VS代码和Visual Studio中使用Copilot。如果您达到配额，则可以在网络上升级。您可以签署[…]</description>
+      <pubDate>Wed, 26 Feb 2025 17:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the Public Preview of the Azure Cosmos DB SDK for Rust!】宣布Rust的Azure Cosmos DB SDK的公开预览！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-the-public-preview-of-the-azure-cosmos-db-sdk-for-rust</link>
+      <description>【We’re excited to announce the public preview of the Azure Cosmos DB SDK for Rust, a native Rust SDK that enables developers to interact with Azure Cosmos DB for NoSQL accounts from their Rust applications. Following the release of Azure SDK for Rust Beta, the Azure Cosmos DB Rust SDK provides an idiomatic API for [&amp;hellip;]】我们很高兴宣布Rust的Azure Cosmos DB SDK的公开预览，Rust是一种本地Rust SDK，使开发人员能够与Azure Cosmos DB互动，从其Rust应用程序中为NOSQL帐户进行互动。在发布Azure SDK的Rust Beta之后，Azure Cosmos DB Rust SDK为[…]提供了惯用的API</description>
+      <pubDate>Wed, 26 Feb 2025 13:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exciting new T-SQL features: Regex support, Fuzzy string-matching, and bigint support in DATEADD – preview】令人兴奋的新T-SQL功能：DateAdd中的正则支持，模糊字符串匹配和BigInt支持 - 预览</title>
+      <link>https://devblogs.microsoft.com/azure-sql/exciting-new-t-sql-features-regex-support-fuzzy-string-matching-and-bigint-support-in-dateadd-preview</link>
+      <description>【We are thrilled to announce the public preview of three powerful T-SQL features that will elevate your SQL queries: Regular Expressions (Regex) support, Fuzzy string-matching, and bigint support in DATEADD. These enhancements are now available in Azure SQL Database and SQL Database in Microsoft Fabric, offering developers more flexibility, efficiency, and precision in their data [&amp;hellip;]】我们很高兴地宣布，公开预览了三个强大的T-SQL功能，这些功能将提升您的SQL查询：正则表达式（REGEX）支持，模糊字符串匹配和DATEADD中的BigInt支持。这些增强功能现在可以在Microsoft Fabric的Azure SQL数据库和SQL数据库中获得，从而为开发人员提供了更大的灵活性，效率和精度[…]</description>
+      <pubDate>Wed, 26 Feb 2025 16:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using Powershell7 with Managed Runcommand】将PowerShell7与托管runco​​mmand一起使用</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/using-powershell7-with-managed-runcommand</link>
+      <description>【Today, all scripts run through Managed RunCommand will by default use Powershell 5. What if you have a script that requires Powershell7? This is supported via a new feature, but you will need to specify the different script shell. Here&amp;#8217;s what you need to do. Ensure your VM has Powershell7 Powershell7 is not installed by [&amp;hellip;]】如今，所有脚本都通过托管RunCommand运行的所有脚本将默认使用PowerShell 5。如果您有一个需要PowerShell7的脚本，该怎么办？这是通过新功能支持的，但是您需要指定不同的脚本外壳。这是您需要做的。确保您的VM具有powerShell7 PowerShell7未安装[…]</description>
+      <pubDate>Wed, 26 Feb 2025 21:24:52 +0000</pubDate>
     </item>
     <item>
       <title>【Migrating data from DynamoDB to Azure Cosmos DB】将数据从DynamoDB迁移到Azure Cosmos DB</title>
