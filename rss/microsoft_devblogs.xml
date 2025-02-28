@@ -4,28 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【.NET 10 Preview 1 is now available!】.NET 10预览1现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1</link>
-      <description>【Find out about the new features in .NET 10 Preview 1 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览1中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
-      <pubDate>Tue, 25 Feb 2025 20:00:00 +0000</pubDate>
+      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 7】C ++/WINRT实施继承：Winrt ::的注释，第7部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250227-00/?p=110913</link>
+      <description>【Inheritance without involving winrt::implements at all.】继承根本不涉及winrt ::实施。</description>
+      <pubDate>Thu, 27 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 6】C ++/WINRT实现继承：Winrt :: insterments上的注释，第6部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250226-00/?p=110908</link>
-      <description>【Using CRTP to delegate the method.】使用CRTP委派该方法。</description>
-      <pubDate>Wed, 26 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Powerful Devs Hack Together 2025 Wrap Up】功能强大的开发人员将2025总结在一起</title>
+      <link>https://devblogs.microsoft.com/powerplatform/powerful-devs-hack-together-2025-wrap-up</link>
+      <description>【We&#39;re almost at the finish line! Our Powerful Devs Hack Together is coming to a close and we encourage you to continue with your AI journey.】我们几乎处于终点线！我们强大的开发人员骇客即将结束，我们鼓励您继续进行AI之旅。</description>
+      <pubDate>Thu, 27 Feb 2025 19:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 5】C ++/WINRT实现继承：Winrt :: insterments上的注释，第5部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250225-00/?p=110905</link>
-      <description>【When the base class isn&#39;t self-contained.】当基类没有独立时。</description>
-      <pubDate>Tue, 25 Feb 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET Aspire 9.1 is here with six great new dashboard features, and more!】.NET ASPIRE 9.1在这里具有六个出色的新仪表板功能，等等！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1</link>
-      <description>【.NET Aspire 9.1 is here! From enhanced dashboard capabilities like Resource Relationships and Localization Overrides to improved Docker integration and flexible console logs, this release is packed with tools to streamline your development process.】.NET ASPIRE 9.1在这里！从增强的仪表板功能（例如资源关系和本地化替代）到改进的Docker集成和灵活的控制台日志，此版本包含用于简化开发过程的工具。</description>
-      <pubDate>Tue, 25 Feb 2025 18:00:00 +0000</pubDate>
+      <title>【Microsoft Update changes for PowerShell 7】Microsoft更新PowerShell 7</title>
+      <link>https://devblogs.microsoft.com/powershell/microsoft-update-changes-for-powershell-7</link>
+      <description>【This blog outlines the expected behavior of MU releases for PowerShell 7.】该博客概述了PowerShell 7的MU发布的预期行为。</description>
+      <pubDate>Thu, 27 Feb 2025 22:28:17 +0000</pubDate>
     </item>
     <item>
       <title>【Azure SDK Release (February 2025)】Azure SDK发布（2025年2月）</title>
@@ -34,22 +28,16 @@
       <pubDate>Wed, 26 Feb 2025 19:09:17 +0000</pubDate>
     </item>
     <item>
+      <title>【Multi-Provider Strategy for App Configuration in Python】python中应用程序配置的多程序策略</title>
+      <link>https://devblogs.microsoft.com/ise/multi-provider-strategy-configuration-python</link>
+      <description>【This post discusses a strategy for creating a custom extensible configuration module in python projects.】这篇文章讨论了在Python项目中创建自定义可扩展配置模块的策略。</description>
+      <pubDate>Thu, 27 Feb 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Terminal Chat now included in GitHub Copilot Free】github copilot中现在包含的终端聊天免费</title>
       <link>https://devblogs.microsoft.com/commandline/terminal-chat-now-included-in-github-copilot-free</link>
       <description>【Windows Terminal Canary users can now use Terminal Chat with the GitHub Copilot Free plan! 🚀 GitHub Copilot Free is limited to 50 chat messages per month. This includes the usage of Copilot in the CLI, VS Code, and Visual Studio. If you reach your quota, you can upgrade on the web. You can sign [&amp;hellip;]】Windows Terminal Canary用户现在可以使用GitHub Copilot免费计划使用终端聊天！ 🚀GitHub Copilot Free每月限制为50个聊天消息。这包括在CLI，VS代码和Visual Studio中使用Copilot。如果您达到配额，则可以在网络上升级。您可以签署[…]</description>
       <pubDate>Wed, 26 Feb 2025 17:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the Public Preview of the Azure Cosmos DB SDK for Rust!】宣布Rust的Azure Cosmos DB SDK的公开预览！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-the-public-preview-of-the-azure-cosmos-db-sdk-for-rust</link>
-      <description>【We’re excited to announce the public preview of the Azure Cosmos DB SDK for Rust, a native Rust SDK that enables developers to interact with Azure Cosmos DB for NoSQL accounts from their Rust applications. Following the release of Azure SDK for Rust Beta, the Azure Cosmos DB Rust SDK provides an idiomatic API for [&amp;hellip;]】我们很高兴宣布Rust的Azure Cosmos DB SDK的公开预览，Rust是一种本地Rust SDK，使开发人员能够与Azure Cosmos DB互动，从其Rust应用程序中为NOSQL帐户进行互动。在发布Azure SDK的Rust Beta之后，Azure Cosmos DB Rust SDK为[…]提供了惯用的API</description>
-      <pubDate>Wed, 26 Feb 2025 13:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exciting new T-SQL features: Regex support, Fuzzy string-matching, and bigint support in DATEADD – preview】令人兴奋的新T-SQL功能：DateAdd中的正则支持，模糊字符串匹配和BigInt支持 - 预览</title>
-      <link>https://devblogs.microsoft.com/azure-sql/exciting-new-t-sql-features-regex-support-fuzzy-string-matching-and-bigint-support-in-dateadd-preview</link>
-      <description>【We are thrilled to announce the public preview of three powerful T-SQL features that will elevate your SQL queries: Regular Expressions (Regex) support, Fuzzy string-matching, and bigint support in DATEADD. These enhancements are now available in Azure SQL Database and SQL Database in Microsoft Fabric, offering developers more flexibility, efficiency, and precision in their data [&amp;hellip;]】我们很高兴地宣布，公开预览了三个强大的T-SQL功能，这些功能将提升您的SQL查询：正则表达式（REGEX）支持，模糊字符串匹配和DATEADD中的BigInt支持。这些增强功能现在可以在Microsoft Fabric的Azure SQL数据库和SQL数据库中获得，从而为开发人员提供了更大的灵活性，效率和精度[…]</description>
-      <pubDate>Wed, 26 Feb 2025 16:39:44 +0000</pubDate>
     </item>
     <item>
       <title>【Using Powershell7 with Managed Runcommand】将PowerShell7与托管runco​​mmand一起使用</title>
@@ -58,10 +46,22 @@
       <pubDate>Wed, 26 Feb 2025 21:24:52 +0000</pubDate>
     </item>
     <item>
-      <title>【Migrating data from DynamoDB to Azure Cosmos DB】将数据从DynamoDB迁移到Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/migrating-data-from-dynamodb-to-azure-cosmos-db</link>
-      <description>【Co-authors: RK Iyer, Mangal Dutta Migrating stateful systems, such as databases, is a complex process. A frequent requirement for customers is to transfer data from DynamoDB to Azure Cosmos DB for NoSQL. This process involves several stages, including exporting data from DynamoDB, performing necessary transformations, and importing the data into Azure Cosmos DB. Common migration [&amp;hellip;]】合着者：RK Iyer，Mangal Dutta迁移的状态系统（例如数据库）是一个复杂的过程。对于客户来说，经常要求的是，对于NOSQL，将数据从DynamoDB转移到Azure Cosmos DB。此过程涉及多个阶段，包括从DynamoDB中导出数据，执行必要的转换以及将数据导入Azure Cosmos DB。普通迁移[…]</description>
-      <pubDate>Tue, 25 Feb 2025 15:25:11 +0000</pubDate>
+      <title>【Catch issues before you commit to Git】在您承诺git之前捕获问题</title>
+      <link>https://devblogs.microsoft.com/visualstudio/catch-issues-before-you-commit-to-git</link>
+      <description>【Discovering issues with code changes after committing changes can be frustrating. Fortunately, Visual Studio offers a new feature that helps you catch potential problems early, improving your code quality. Visual Studio now includes a feature powered by GitHub Copilot that lets you review your local code changes before committing them, before they are part of [&amp;hellip;]】在进行更改后发现代码更改的问题可能会令人沮丧。幸运的是，Visual Studio提供了一项新功能，可帮助您尽早发现潜在问题，从而提高代码质量。 Visual Studio现在包括一个由GitHub Copilot提供动力的功能，可让您在提交之前查看本地代码更改，然后才是[…]的一部分。</description>
+      <pubDate>Thu, 27 Feb 2025 17:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (February 2025): Package installation performance, new tested triplet, and more】VCPKG的新功能（2025年2月）：包装安装性能，新测试的三胞胎等等</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-february-2025-package-installation-performance-new-tested-triplet-and-more</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.02.14 registry release, 2025-02-11, 2025-01-29, 2025-01-24, and 2025-01-20 tool releases, as well as changes to vcpkg documentation throughout February. This release includes significant performance improvements when installing packages, a new tested triplet (x64-windows-release), an overhaul of how vcpkg handles some downloads [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.02.14注册表版本的一部分，即2025-02-11，2025-01-29，2025-01-24和2025-01-20工具释放，以及在整个2月2月的VCPKG文档中更改。该版本包括安装软件包，新测试的三重态（X64-Windows-Release）时的性能改进，对VCPKG如何处理某些下载[…]的大修进行了大修。</description>
+      <pubDate>Thu, 27 Feb 2025 23:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.25, now available, with automatic shut down and simplified configuration management】开发代理V0.25，现在可用，自动关闭并简化配置管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-25-now-available-with-automatic-shut-down-and-simplified-configuration-management</link>
+      <description>【Read more about the latest Dev Proxy release featuring significant improvements to configuration management, plugin support, and usability.】阅读有关最新开发代理版本的更多信息，该版本具有对配置管理，插件支持和可用性的重大改进。</description>
+      <pubDate>Thu, 27 Feb 2025 09:29:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
