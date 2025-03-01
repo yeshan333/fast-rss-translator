@@ -5,46 +5,16 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How Instagram Scaled Its Infrastructure To Support a Billion Users】Instagram如何扩展其基础架构以支持十亿用户</title>
-      <link>https://blog.bytebytego.com/p/how-instagram-scaled-its-infrastructure</link>
-      <description>【Caching for Performance: Virtual Masterclass (Sponsored)】表演的缓存：虚拟大师班（赞助）</description>
-      <pubDate>Tue, 18 Feb 2025 16:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Mastering Data Consistency Across Microservices】掌握微服务的数据一致性</title>
-      <link>https://blog.bytebytego.com/p/mastering-data-consistency-across</link>
-      <description>【Microservices architecture is a software design pattern where an application is built as a collection of small, independent services, each responsible for a specific function.】Microservices Architecture是一种软件设计模式，其中应用程序是作为小型独立服务集合构建的，每个服务都负责特定功能。</description>
-      <pubDate>Thu, 27 Feb 2025 16:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Mastering Idempotency: Building Reliable APIs】掌握能力：构建可靠的API</title>
-      <link>https://blog.bytebytego.com/p/mastering-idempotency-building-reliable</link>
-      <description>【Idempotency is the property of an operation that ensures performing the same action multiple times produces the same outcome as doing it once.】IDEMETINCY是操作的属性，该操作确保多次执行相同的动作与一次相同的结果。</description>
-      <pubDate>Thu, 06 Feb 2025 16:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Built a Distributed Counter for Billions of User Interactions】Netflix如何为数十亿用户交互建立了分布式计数器</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-counter</link>
-      <description>【Imagine trying to count millions of events happening worldwide simultaneously while ensuring the results are fast, accurate, and cost-effective.】想象一下，试图同时考虑数百万事件，同时确保结果快速，准确且具有成本效益。</description>
-      <pubDate>Tue, 11 Feb 2025 16:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Amazon S3 Stores 350 Trillion Objects with 11 Nines of Durability】Amazon S3如何存储350万亿个物体和11尼的耐用性</title>
-      <link>https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion</link>
-      <description>【Amazon Simple Storage Service (S3) is a highly scalable and durable object storage service designed for developers, businesses, and enterprises.】Amazon Simple Storage Service（S3）是一种高度可扩展且耐用的对象存储服务，为开发人员，企业和企业设计。</description>
-      <pubDate>Tue, 25 Feb 2025 16:31:03 +0000</pubDate>
+      <title>【EP151: 24 Good Resources to Learn Software Architecture in 2025】EP151：24个学习软件体系结构的良好资源在2025年</title>
+      <link>https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn</link>
+      <description>【The resources can be divided into different types】资源可以分为不同类型</description>
+      <pubDate>Sat, 22 Feb 2025 16:30:54 +0000</pubDate>
     </item>
     <item>
       <title>【EP150: 12 Algorithms for System Design Interviews】EP150：12算法系统设计访谈</title>
       <link>https://blog.bytebytego.com/p/ep150-12-algorithms-for-system-design</link>
       <description>【Bloom Filter: Check if a requested item is in the cache before performing disk operations.】Bloom过滤器：在执行磁盘操作之前，请检查请求的项目是否在缓存中。</description>
       <pubDate>Sat, 15 Feb 2025 16:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP151: 24 Good Resources to Learn Software Architecture in 2025】EP151：24个学习软件体系结构的良好资源在2025年</title>
-      <link>https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn</link>
-      <description>【The resources can be divided into different types】资源可以分为不同类型</description>
-      <pubDate>Sat, 22 Feb 2025 16:30:54 +0000</pubDate>
     </item>
     <item>
       <title>【EP149: JWT 101: Key to Stateless Authentication】EP149：JWT 101：无状态身份验证的关键</title>
@@ -59,10 +29,40 @@
       <pubDate>Thu, 20 Feb 2025 16:30:10 +0000</pubDate>
     </item>
     <item>
+      <title>【Mastering Idempotency: Building Reliable APIs】掌握能力：构建可靠的API</title>
+      <link>https://blog.bytebytego.com/p/mastering-idempotency-building-reliable</link>
+      <description>【Idempotency is the property of an operation that ensures performing the same action multiple times produces the same outcome as doing it once.】IDEMETINCY是操作的属性，该操作确保多次执行相同的动作与一次相同的结果。</description>
+      <pubDate>Thu, 06 Feb 2025 16:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Instagram Scaled Its Infrastructure To Support a Billion Users】Instagram如何扩展其基础架构以支持十亿用户</title>
+      <link>https://blog.bytebytego.com/p/how-instagram-scaled-its-infrastructure</link>
+      <description>【Caching for Performance: Virtual Masterclass (Sponsored)】表演的缓存：虚拟大师班（赞助）</description>
+      <pubDate>Tue, 18 Feb 2025 16:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Built a Distributed Counter for Billions of User Interactions】Netflix如何为数十亿用户交互建立了分布式计数器</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-counter</link>
+      <description>【Imagine trying to count millions of events happening worldwide simultaneously while ensuring the results are fast, accurate, and cost-effective.】想象一下，试图同时考虑数百万事件，同时确保结果快速，准确且具有成本效益。</description>
+      <pubDate>Tue, 11 Feb 2025 16:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Mastering Data Consistency Across Microservices】掌握微服务的数据一致性</title>
+      <link>https://blog.bytebytego.com/p/mastering-data-consistency-across</link>
+      <description>【Microservices architecture is a software design pattern where an application is built as a collection of small, independent services, each responsible for a specific function.】Microservices Architecture是一种软件设计模式，其中应用程序是作为小型独立服务集合构建的，每个服务都负责特定功能。</description>
+      <pubDate>Thu, 27 Feb 2025 16:31:06 +0000</pubDate>
+    </item>
+    <item>
       <title>【Non-Functional Requirements: The Backbone of Great Software - Part 1】非功能要求：出色软件的骨干 - 第1部分</title>
       <link>https://blog.bytebytego.com/p/non-functional-requirements-the-backbone</link>
       <description>【Non-functional requirements (NFRs) are as critical as functional requirements because they define a system&#39;s qualities and operational parameters.】非功能要求（NFRS）与功能要求一样至关重要，因为它们定义了系统的质量和操作参数。</description>
       <pubDate>Thu, 13 Feb 2025 16:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Amazon S3 Stores 350 Trillion Objects with 11 Nines of Durability】Amazon S3如何存储350万亿个物体和11尼的耐用性</title>
+      <link>https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion</link>
+      <description>【Amazon Simple Storage Service (S3) is a highly scalable and durable object storage service designed for developers, businesses, and enterprises.】Amazon Simple Storage Service（S3）是一种高度可扩展且耐用的对象存储服务，为开发人员，企业和企业设计。</description>
+      <pubDate>Tue, 25 Feb 2025 16:31:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
