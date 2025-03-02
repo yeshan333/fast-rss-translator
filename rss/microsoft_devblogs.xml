@@ -10,28 +10,10 @@
       <pubDate>Fri, 28 Feb 2025 05:48:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Update changes for PowerShell 7】Microsoft更新PowerShell 7</title>
-      <link>https://devblogs.microsoft.com/powershell/microsoft-update-changes-for-powershell-7</link>
-      <description>【This blog outlines the expected behavior of MU releases for PowerShell 7.】该博客概述了PowerShell 7的MU发布的预期行为。</description>
-      <pubDate>Thu, 27 Feb 2025 22:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.8】宣布打字稿5.8</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8</link>
-      <description>【Today we&amp;#8217;re excited to announce the release of TypeScript 5.8! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on top of JavaScript by adding syntax for types. Writing types in our code allows us to explain intent and have other tools check our code to catch mistakes like typos, issues with null [&amp;hellip;]】今天，我们很高兴宣布发行TypeScript 5.8！如果您不熟悉打字稿，则是一种通过添加类型的语法在JavaScript上构建的语言。代码中的编写类型使我们能够解释意图，并让其他工具检查我们的代码以捕获诸如错字，NULL问题等错误[…]</description>
-      <pubDate>Fri, 28 Feb 2025 19:35:56 +0000</pubDate>
-    </item>
-    <item>
       <title>【Announcing AI Shell Preview 2】宣布AI Shell预览2</title>
       <link>https://devblogs.microsoft.com/powershell/ai-shell-preview-2</link>
       <description>【We are pleased to share a new preview release of AI Shell!】我们很高兴分享AI Shell的新预览发布！</description>
       <pubDate>Fri, 28 Feb 2025 20:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 8】C ++/WINRT实现继承：Winrt :: insterments上的注释，第8部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250228-00/?p=110916</link>
-      <description>【Comparing the options.】比较选项。</description>
-      <pubDate>Fri, 28 Feb 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Release the Agents! SK Agents Framework RC1】释放代理商！ SK代理框架RC1</title>
@@ -46,6 +28,30 @@
       <pubDate>Fri, 28 Feb 2025 17:44:41 +0000</pubDate>
     </item>
     <item>
+      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 8】C ++/WINRT实现继承：Winrt :: insterments上的注释，第8部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250228-00/?p=110916</link>
+      <description>【Comparing the options.】比较选项。</description>
+      <pubDate>Fri, 28 Feb 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Update changes for PowerShell 7】Microsoft更新PowerShell 7</title>
+      <link>https://devblogs.microsoft.com/powershell/microsoft-update-changes-for-powershell-7</link>
+      <description>【This blog outlines the expected behavior of MU releases for PowerShell 7.】该博客概述了PowerShell 7的MU发布的预期行为。</description>
+      <pubDate>Thu, 27 Feb 2025 22:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.8】宣布打字稿5.8</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8</link>
+      <description>【Today we&amp;#8217;re excited to announce the release of TypeScript 5.8! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on top of JavaScript by adding syntax for types. Writing types in our code allows us to explain intent and have other tools check our code to catch mistakes like typos, issues with null [&amp;hellip;]】今天，我们很高兴宣布发行TypeScript 5.8！如果您不熟悉打字稿，则是一种通过添加类型的语法在JavaScript上构建的语言。代码中的编写类型使我们能够解释意图，并让其他工具检查我们的代码以捕获诸如错字，NULL问题等错误[…]</description>
+      <pubDate>Fri, 28 Feb 2025 19:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
+      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
+      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
+      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【Jakarta EE and MicroProfile on Azure – February 2025】雅加达EE和Azure上的微框 -  2025年2月</title>
       <link>https://devblogs.microsoft.com/java/jakarta-ee-on-azure-february-2025</link>
       <description>【Hi everyone, welcome to the February 2025 update for Jakarta EE and MicroProfile on Azure. It covers topics such as the latest updates to Azure extensions for Quarkus, and the recent refresh to Jakarta EE Solutions for supporting multiple deployments within the same resource group. If you&amp;#8217;re interested in providing feedback or collaborating on migrating [&amp;hellip;]】大家好，欢迎来到2025年2月的雅加达EE和Azure微框的更新。它涵盖了诸如Quarkus Azure扩展程序的最新更新，以及最近刷新到Jakarta EE解决方案，用于支持同一资源组中的多个部署。如果您有兴趣提供反馈或合作迁移[…]</description>
@@ -56,12 +62,6 @@
       <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-february-2025-package-installation-performance-new-tested-triplet-and-more</link>
       <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.02.14 registry release, 2025-02-11, 2025-01-29, 2025-01-24, and 2025-01-20 tool releases, as well as changes to vcpkg documentation throughout February. This release includes significant performance improvements when installing packages, a new tested triplet (x64-windows-release), an overhaul of how vcpkg handles some downloads [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.02.14注册表版本的一部分，即2025-02-11，2025-01-29，2025-01-24和2025-01-20工具释放，以及在整个2月2月的VCPKG文档中更改。该版本包括安装软件包，新测试的三重态（X64-Windows-Release）时的性能改进，对VCPKG如何处理某些下载[…]的大修进行了大修。</description>
       <pubDate>Thu, 27 Feb 2025 23:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
-      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
-      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
