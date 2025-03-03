@@ -4,16 +4,34 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Resolving a Mutual TLS session resumption vulnerability】解决共同的TLS会话恢复漏洞</title>
+      <link>https://blog.cloudflare.com/resolving-a-mutual-tls-session-resumption-vulnerability/</link>
+      <description>【 Cloudflare patched a Mutual TLS (mTLS) vulnerability (CVE-2025-23419) reported via its Bug Bounty Program. The flaw in session resumption allowed client certificates to authenticate across different 】CloudFlare通过其Bug Bounty程序报告了相互TLS（MTLS）漏洞（CVE-2025-23419）。会话恢复中的缺陷允许客户端证书在不同的地方进行身份验证</description>
+      <pubDate>Fri, 07 Feb 2025 20:13:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【Automatic Audit Logs: new updates deliver increased transparency and accountability】自动审核日志：新更新提供了提高的透明度和问责制</title>
       <link>https://blog.cloudflare.com/introducing-automatic-audit-logs/</link>
       <description>【 We’re excited to announce the beta release of Automatic Audit Logs, offering greater transparency and control. 】我们很高兴宣布Beta版本的自动审核日志发布，提供更大的透明度和控制。</description>
       <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Resolving a Mutual TLS session resumption vulnerability】解决共同的TLS会话恢复漏洞</title>
-      <link>https://blog.cloudflare.com/resolving-a-mutual-tls-session-resumption-vulnerability/</link>
-      <description>【 Cloudflare patched a Mutual TLS (mTLS) vulnerability (CVE-2025-23419) reported via its Bug Bounty Program. The flaw in session resumption allowed client certificates to authenticate across different 】CloudFlare通过其Bug Bounty程序报告了相互TLS（MTLS）漏洞（CVE-2025-23419）。会话恢复中的缺陷允许客户端证书在不同的地方进行身份验证</description>
-      <pubDate>Fri, 07 Feb 2025 20:13:14 +0000</pubDate>
+      <title>【Keep AI interactions secure and risk-free with Guardrails in AI Gateway】通过AI网关中的护栏保持AI相互作用安全且无风险</title>
+      <link>https://blog.cloudflare.com/guardrails-in-ai-gateway/</link>
+      <description>【 Deploy AI safely with built-in Guardrails in AI Gateway. Flag and block harmful or inappropriate content, protect personal data, and ensure compliance in real-time 】在AI网关中使用内置的护栏安全部署AI。标记并阻止有害或不适当的内容，保护个人数据，并确保实时合规</description>
+      <pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
+      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
+      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
+      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Making Cloudflare the best platform for building AI Agents】使CloudFlare成为建立AI代理的最佳平台</title>
+      <link>https://blog.cloudflare.com/build-ai-agents-on-cloudflare/</link>
+      <description>【 Today we’re excited to share a few announcements on how we’re making it even easier to build AI agents on Cloudflare. 】今天，我们很高兴分享一些关于我们如何使在Cloudflare上构建AI代理商变得更加容易的公告。</description>
+      <pubDate>Tue, 25 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Some TXT about, and A PTR to, new DNS insights on Cloudflare Radar】关于Cloudflare Radar的新DNS见解，还有一些txt和PTR</title>
@@ -34,34 +52,16 @@
       <pubDate>Mon, 17 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Offline celebrations: how Christmas, NYE, and Lunar New Year festivities shape online behavior】离线庆祝活动：圣诞节，NYE和LUNAR新年庆祝活动如何塑造在线行为</title>
-      <link>https://blog.cloudflare.com/offline-celebrations-how-christmas-nye-and-lunar-new-year-festivities-shape-online-behavior/</link>
-      <description>【 This blog examines how diverse cultural celebrations — from Western Christmas to Orthodox and Lunar New Year festivities — shape global Internet traffic. 】该博客探讨了各种文化庆典（从西部圣诞节到东正教和农历新年庆祝活动）如何塑造全球互联网流量。</description>
-      <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare’s 2024 Transparency Reports - now live with new data and a new format】Cloudflare的2024年透明度报告 - 现在使用新数据和新格式</title>
       <link>https://blog.cloudflare.com/cloudflare-2024-transparency-reports-now-live-with-new-data-and-a-new-format/</link>
       <description>【 Cloudflare’s 2024 Transparency Reports are now live — with new topics, new data points, and a new format, consistent with the EU’s Digital Services Act 】CloudFlare的2024年透明度报告现已发挥作用 - 具有新的主题，新的数据点和新格式，与《欧盟的数字服务法》一致</description>
       <pubDate>Fri, 28 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
-      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
-      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
-      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Keep AI interactions secure and risk-free with Guardrails in AI Gateway】通过AI网关中的护栏保持AI相互作用安全且无风险</title>
-      <link>https://blog.cloudflare.com/guardrails-in-ai-gateway/</link>
-      <description>【 Deploy AI safely with built-in Guardrails in AI Gateway. Flag and block harmful or inappropriate content, protect personal data, and ensure compliance in real-time 】在AI网关中使用内置的护栏安全部署AI。标记并阻止有害或不适当的内容，保护个人数据，并确保实时合规</description>
-      <pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Making Cloudflare the best platform for building AI Agents】使CloudFlare成为建立AI代理的最佳平台</title>
-      <link>https://blog.cloudflare.com/build-ai-agents-on-cloudflare/</link>
-      <description>【 Today we’re excited to share a few announcements on how we’re making it even easier to build AI agents on Cloudflare. 】今天，我们很高兴分享一些关于我们如何使在Cloudflare上构建AI代理商变得更加容易的公告。</description>
-      <pubDate>Tue, 25 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Offline celebrations: how Christmas, NYE, and Lunar New Year festivities shape online behavior】离线庆祝活动：圣诞节，NYE和LUNAR新年庆祝活动如何塑造在线行为</title>
+      <link>https://blog.cloudflare.com/offline-celebrations-how-christmas-nye-and-lunar-new-year-festivities-shape-online-behavior/</link>
+      <description>【 This blog examines how diverse cultural celebrations — from Western Christmas to Orthodox and Lunar New Year festivities — shape global Internet traffic. 】该博客探讨了各种文化庆典（从西部圣诞节到东正教和农历新年庆祝活动）如何塑造全球互联网流量。</description>
+      <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
