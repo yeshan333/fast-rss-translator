@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【使用Chroma构建.NET AI应用】使用Chroma构建.NET AI应用</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%bd%bf%e7%94%a8chroma%e6%9e%84%e5%bb%ba-net-ai%e5%ba%94%e7%94%a8</link>
-      <description>【本文翻译自 Luis 和 Jiri 的 Building .NET AI apps with Chroma 无论您是构建 AI 解决方案还是想使用高级搜索功能增强现有项目，您现在都可以使用 Chroma 作为 .NET 应用程序中的数据库提供程序。 什么是Chroma？ Chroma 是一款适用于人工智能应用程序的开源数据库。 借助对存储嵌入、元数据过滤、向量搜索、全文搜索、文档存储和多模式检索的支持，您可以使用 Chroma 在应用程序中支持语义搜索和检索增强生成（RAG）功能。 有关更多详情，请访问 Chroma 网站。 在 C# 应用程序中使用Chroma 在本示例中，我们将使用 ChromaDB.Client 来连接到 Chroma 数据库并使用向量搜索来搜索电影。 最简单的开始方式是在本地使用 Chroma Docker 映像。您也可以在 Azure 中部署实例。 连接数据库 创建 C# 控制台应用程序 安装 ChromaDB.Client Nuget 包 创建带有配置选项的 ChromaClient using ChromaDB.Client; var configOptions = new ChromaConfigurationOptions(uri: [&amp;hellip;]】本文翻译自 Luis 和 Jiri 的 Building .NET AI apps with Chroma 无论您是构建 AI 解决方案还是想使用高级搜索功能增强现有项目，您现在都可以使用 Chroma 作为 .NET 应用程序中的数据库提供程序。 什么是Chroma？ Chroma 是一款适用于人工智能应用程序的开源数据库。 借助对存储嵌入、元数据过滤、向量搜索、全文搜索、文档存储和多模式检索的支持，您可以使用 Chroma 在应用程序中支持语义搜索和检索增强生成（RAG）功能。 有关更多详情，请访问 Chroma 网站。 在 C# 应用程序中使用Chroma 在本示例中，我们将使用 ChromaDB.Client 来连接到 Chroma 数据库并使用向量搜索来搜索电影。 最简单的开始方式是在本地使用 Chroma Docker 映像。您也可以在 Azure 中部署实例。 连接数据库 创建 C# 控制台应用程序 安装 ChromaDB.Client Nuget 包 创建带有配置选项的 ChromaClient using ChromaDB.Client; var configOptions = new ChromaConfigurationOptions(uri: […]</description>
-      <pubDate>Fri, 28 Feb 2025 05:48:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Update changes for PowerShell 7】Microsoft更新PowerShell 7</title>
-      <link>https://devblogs.microsoft.com/powershell/microsoft-update-changes-for-powershell-7</link>
-      <description>【This blog outlines the expected behavior of MU releases for PowerShell 7.】该博客概述了PowerShell 7的MU发布的预期行为。</description>
-      <pubDate>Thu, 27 Feb 2025 22:28:17 +0000</pubDate>
+      <title>【Lexically scoped functions accessing parent locals: The display】词汇范围的功能访问父当地人：显示</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250303-00/?p=110925</link>
+      <description>【Using a well-known location instead of copying frame pointers.】使用众所周知的位置而不是复制框架指针。</description>
+      <pubDate>Mon, 03 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing AI Shell Preview 2】宣布AI Shell预览2</title>
@@ -22,10 +16,16 @@
       <pubDate>Fri, 28 Feb 2025 20:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
-      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
-      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
+      <title>【AI in Action — How to build scalable RAG-enabled AI apps】AI在行动中 - 如何构建可扩展的RAG启用AI应用程序</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps</link>
+      <description>【For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&amp;hellip;]】对于开发人员而言，重点是将情报构建到应用程序中从未更清楚。在接下来的三年中，有92％的公司计划投资AI，以实现业务成果，例如提高生产率并提供更好的客户服务。在微软，开发人员和工程师正在大规模推动AI的界限，制作应用程序[…]</description>
+      <pubDate>Mon, 03 Mar 2025 17:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Queue-Based Load Leveling Pattern (Starring Phi4 and Azure Service Bus)】基于队列的负载水平模式（由PHI4和Azure服务总线主演）</title>
+      <link>https://devblogs.microsoft.com/java/queue-based-load-leveling-pattern-starring-phi4-and-azure-service-bus</link>
+      <description>【In this blog, we’re exploring the Queue-Based Load Leveling pattern—a powerful method for smoothing out workload spikes Why Choose Queue-Based Load Leveling? In today&amp;#8217;s fast-paced software environment, dynamic workloads are common. The Queue-Based Load Leveling pattern decouples the production and consumption of tasks by introducing a queue between them. This allows producers and consumers to work independently, [&amp;hellip;]】在此博客中，我们正在探索基于队列的负载级别平台模式 - 一种可以平化工作负载尖峰的强大方法，为什么选择基于队列的加载级别？在当今快节奏的软件环境中，动态工作负载很常见。基于队列的负载级别模式通过引入他们之间的队列来消除任务的生产和消耗。这使生产者和消费者可以独立工作，[…]</description>
+      <pubDate>Mon, 03 Mar 2025 08:27:07 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing TypeScript 5.8】宣布打字稿5.8</title>
@@ -34,34 +34,34 @@
       <pubDate>Fri, 28 Feb 2025 19:35:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Jakarta EE and MicroProfile on Azure – February 2025】雅加达EE和Azure上的微框 -  2025年2月</title>
-      <link>https://devblogs.microsoft.com/java/jakarta-ee-on-azure-february-2025</link>
-      <description>【Hi everyone, welcome to the February 2025 update for Jakarta EE and MicroProfile on Azure. It covers topics such as the latest updates to Azure extensions for Quarkus, and the recent refresh to Jakarta EE Solutions for supporting multiple deployments within the same resource group. If you&amp;#8217;re interested in providing feedback or collaborating on migrating [&amp;hellip;]】大家好，欢迎来到2025年2月的雅加达EE和Azure微框的更新。它涵盖了诸如Quarkus Azure扩展程序的最新更新，以及最近刷新到Jakarta EE解决方案，用于支持同一资源组中的多个部署。如果您有兴趣提供反馈或合作迁移[…]</description>
-      <pubDate>Fri, 28 Feb 2025 03:23:47 +0000</pubDate>
+      <title>【Unlock new possibilities for AI Evaluations for .NET】解锁.NET的AI评估的新可能性</title>
+      <link>https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today</link>
+      <description>【Microsoft.Extensions.AI.Evaluations library is now open source, and a new Azure DevOps plug-in is available to make reporting in your CI pipelines easier than ever.】Microsoft.extensions.ai.AI.Evaluations库现在是开源的，并且可以使用新的Azure DevOps插件来使您的CI管道中的报告比以往任何时候都更加容易。</description>
+      <pubDate>Mon, 03 Mar 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【C++/WinRT implementation inheritance: Notes on winrt::implements, part 8】C ++/WINRT实现继承：Winrt :: insterments上的注释，第8部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250228-00/?p=110916</link>
-      <description>【Comparing the options.】比较选项。</description>
-      <pubDate>Fri, 28 Feb 2025 15:00:00 +0000</pubDate>
+      <title>【Great new productivity features in Visual Studio】Visual Studio中出色的新生产力功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio</link>
+      <description>【Sometimes it’s the little things in life that matter the most. In the latest version of Visual Studio, we’ve added some features and tweaks that aim to put a smile on your face and make you more productive. Here is a list of some of these, and if you want the full list, make sure [&amp;hellip;]】有时候，生活中最重要的是生活中的小事。在最新版本的Visual Studio中，我们添加了一些功能和调整，旨在使您的脸上露出微笑并使您更有生产力。这是其中一些列表，如果您想要完整的列表，请确保[…]</description>
+      <pubDate>Mon, 03 Mar 2025 16:28:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Integrate Copilot Studio agents with Microsoft Entra External ID to give your customers access】将Copilot Studio代理与Microsoft Entra外部ID集成，以使您的客户访问</title>
-      <link>https://devblogs.microsoft.com/powerplatform/integrate-copilot-studio-agents-with-microsoft-entra-external-id-to-give-your-customers-access</link>
-      <description>【Learn how to integrate Copilot Studio agents with Microsoft Entra External ID using the Generic OAUTH 2.0 service provider option, ensuring your customers can securely log in to your agents.】了解如何使用通用OAUTH 2.0服务提供商选项将Copilot Studio代理与Microsoft Entra外部ID集成，以确保您的客户可以安全地登录给您的代理商。</description>
-      <pubDate>Fri, 28 Feb 2025 17:44:41 +0000</pubDate>
+      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
+      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
+      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
+      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Release the Agents! SK Agents Framework RC1】释放代理商！ SK代理框架RC1</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/release-the-agents-sk-agents-framework-rc1</link>
-      <description>【Semantic Kernel Agent Framework Reaches Release Candidate 1 We&amp;#8217;re excited to announce that with the release of Semantic Kernel 1.40 (.NET) and 1.22.0 (Python), we&amp;#8217;re elevating the Semantic Kernel Agent Framework to Release Candidate 1. This marks a significant milestone in our journey toward providing a robust, versatile framework for building AI agents for enterprise [&amp;hellip;]】语义内核代理框架达到发布候选1，我们很高兴地宣布，随着语义内核1.40（.net）和1.22.0（Python）的发布，我们正在提升语义内核代理框架以发布候选者1。这标志着我们为建筑构建Aii Agenters提供了一个重要的里程碑，这是我们为建筑构建Aii Agenters提供的重要里程碑。</description>
-      <pubDate>Fri, 28 Feb 2025 18:37:08 +0000</pubDate>
+      <title>【Public preview of SharePoint Framework 1.21 – First release of upcoming features】SharePoint Framework 1.21的公共预览 - 即将推出的功能的首次版本</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-21-first-release-of-upcoming-features</link>
+      <description>【We are excited to announce the first preview of the upcoming SharePoint Framework 1.21. This release will have updates for SharePoint, Viva Connections and Microsoft Teams experiences.】我们很高兴宣布即将推出的SharePoint Framework 1.21的首次预览。此版本将对SharePoint，Viva Connections和Microsoft团队体验进行更新。</description>
+      <pubDate>Mon, 03 Mar 2025 11:26:29 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (February 2025): Package installation performance, new tested triplet, and more】VCPKG的新功能（2025年2月）：包装安装性能，新测试的三胞胎等等</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-february-2025-package-installation-performance-new-tested-triplet-and-more</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.02.14 registry release, 2025-02-11, 2025-01-29, 2025-01-24, and 2025-01-20 tool releases, as well as changes to vcpkg documentation throughout February. This release includes significant performance improvements when installing packages, a new tested triplet (x64-windows-release), an overhaul of how vcpkg handles some downloads [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.02.14注册表版本的一部分，即2025-02-11，2025-01-29，2025-01-24和2025-01-20工具释放，以及在整个2月2月的VCPKG文档中更改。该版本包括安装软件包，新测试的三重态（X64-Windows-Release）时的性能改进，对VCPKG如何处理某些下载[…]的大修进行了大修。</description>
-      <pubDate>Thu, 27 Feb 2025 23:20:38 +0000</pubDate>
+      <title>【Guest Blog: LLMAgentOps Toolkit for Semantic Kernel】来宾博客：语义内核的llmagentops工具包</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-llmagentops-toolkit-for-semantic-kernel</link>
+      <description>【Today the Semantic Kernel team is excited to welcome a guest author, Prabal Deb to share his work. LLMAgentOps Toolkit is repository that contains basic structure of LLM Agent based application built on top of the Semantic Kernel Python version. The toolkit is designed to be a starting point for data scientists and developers for experimentation [&amp;hellip;]】今天，语义内核团队很高兴欢迎一位客座作家Prabal Deb分享他的作品。 LLMAGENTOPSTOOLKIT是存储库，它包含基于LLM代理的基于语义内核Python版本的基本结构。该工具包被设计为数据科学家和开发人员进行实验的起点[…]</description>
+      <pubDate>Mon, 03 Mar 2025 20:02:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
