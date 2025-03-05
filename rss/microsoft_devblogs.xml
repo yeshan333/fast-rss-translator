@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Lexically scoped functions accessing parent locals: The display】词汇范围的功能访问父当地人：显示</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250303-00/?p=110925</link>
-      <description>【Using a well-known location instead of copying frame pointers.】使用众所周知的位置而不是复制框架指针。</description>
-      <pubDate>Mon, 03 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Announcing AI Shell Preview 2】宣布AI Shell预览2</title>
       <link>https://devblogs.microsoft.com/powershell/ai-shell-preview-2</link>
       <description>【We are pleased to share a new preview release of AI Shell!】我们很高兴分享AI Shell的新预览发布！</description>
       <pubDate>Fri, 28 Feb 2025 20:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI in Action — How to build scalable RAG-enabled AI apps】AI在行动中 - 如何构建可扩展的RAG启用AI应用程序</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps</link>
-      <description>【For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&amp;hellip;]】对于开发人员而言，重点是将情报构建到应用程序中从未更清楚。在接下来的三年中，有92％的公司计划投资AI，以实现业务成果，例如提高生产率并提供更好的客户服务。在微软，开发人员和工程师正在大规模推动AI的界限，制作应用程序[…]</description>
-      <pubDate>Mon, 03 Mar 2025 17:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Queue-Based Load Leveling Pattern (Starring Phi4 and Azure Service Bus)】基于队列的负载水平模式（由PHI4和Azure服务总线主演）</title>
-      <link>https://devblogs.microsoft.com/java/queue-based-load-leveling-pattern-starring-phi4-and-azure-service-bus</link>
-      <description>【In this blog, we’re exploring the Queue-Based Load Leveling pattern—a powerful method for smoothing out workload spikes Why Choose Queue-Based Load Leveling? In today&amp;#8217;s fast-paced software environment, dynamic workloads are common. The Queue-Based Load Leveling pattern decouples the production and consumption of tasks by introducing a queue between them. This allows producers and consumers to work independently, [&amp;hellip;]】在此博客中，我们正在探索基于队列的负载级别平台模式 - 一种可以平化工作负载尖峰的强大方法，为什么选择基于队列的加载级别？在当今快节奏的软件环境中，动态工作负载很常见。基于队列的负载级别模式通过引入他们之间的队列来消除任务的生产和消耗。这使生产者和消费者可以独立工作，[…]</description>
-      <pubDate>Mon, 03 Mar 2025 08:27:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.8】宣布打字稿5.8</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8</link>
-      <description>【Today we&amp;#8217;re excited to announce the release of TypeScript 5.8! If you&amp;#8217;re not familiar with TypeScript, it&amp;#8217;s a language that builds on top of JavaScript by adding syntax for types. Writing types in our code allows us to explain intent and have other tools check our code to catch mistakes like typos, issues with null [&amp;hellip;]】今天，我们很高兴宣布发行TypeScript 5.8！如果您不熟悉打字稿，则是一种通过添加类型的语法在JavaScript上构建的语言。代码中的编写类型使我们能够解释意图，并让其他工具检查我们的代码以捕获诸如错字，NULL问题等错误[…]</description>
-      <pubDate>Fri, 28 Feb 2025 19:35:56 +0000</pubDate>
     </item>
     <item>
       <title>【Unlock new possibilities for AI Evaluations for .NET】解锁.NET的AI评估的新可能性</title>
@@ -46,16 +22,40 @@
       <pubDate>Mon, 03 Mar 2025 16:28:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
-      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
-      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
+      <title>【AI in Action — How to build scalable RAG-enabled AI apps】AI在行动中 - 如何构建可扩展的RAG启用AI应用程序</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps</link>
+      <description>【For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&amp;hellip;]】对于开发人员而言，重点是将情报构建到应用程序中从未更清楚。在接下来的三年中，有92％的公司计划投资AI，以实现业务成果，例如提高生产率并提供更好的客户服务。在微软，开发人员和工程师正在大规模推动AI的界限，制作应用程序[…]</description>
+      <pubDate>Mon, 03 Mar 2025 17:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Queue-Based Load Leveling Pattern (Starring Phi4, LangChain4j and Azure Service Bus)】基于队列的负载升级模式（由PHI4，Langchain4J和Azure Service Bus主演）</title>
+      <link>https://devblogs.microsoft.com/java/queue-based-load-leveling-pattern-starring-phi4-and-azure-service-bus</link>
+      <description>【In this blog, we’re exploring the Queue-Based Load Leveling pattern—a powerful method for smoothing out workload spikes Why Choose Queue-Based Load Leveling? In today&amp;#8217;s fast-paced software environment, dynamic workloads are common. The Queue-Based Load Leveling pattern decouples the production and consumption of tasks by introducing a queue between them. This allows producers and consumers to work independently, [&amp;hellip;]】在此博客中，我们正在探索基于队列的负载级别平台模式 - 一种可以平化工作负载尖峰的强大方法，为什么选择基于队列的加载级别？在当今快节奏的软件环境中，动态工作负载很常见。基于队列的负载级别模式通过引入他们之间的队列来消除任务的生产和消耗。这使生产者和消费者可以独立工作，[…]</description>
+      <pubDate>Mon, 03 Mar 2025 08:27:07 +0000</pubDate>
     </item>
     <item>
       <title>【Public preview of SharePoint Framework 1.21 – First release of upcoming features】SharePoint Framework 1.21的公共预览 - 即将推出的功能的首次版本</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-21-first-release-of-upcoming-features</link>
       <description>【We are excited to announce the first preview of the upcoming SharePoint Framework 1.21. This release will have updates for SharePoint, Viva Connections and Microsoft Teams experiences.】我们很高兴宣布即将推出的SharePoint Framework 1.21的首次预览。此版本将对SharePoint，Viva Connections和Microsoft团队体验进行更新。</description>
       <pubDate>Mon, 03 Mar 2025 11:26:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
+      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
+      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
+      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Lexically scoped functions accessing parent locals: The display】词汇范围的功能访问父当地人：显示</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250303-00/?p=110925</link>
+      <description>【Using a well-known location instead of copying frame pointers.】使用众所周知的位置而不是复制框架指针。</description>
+      <pubDate>Mon, 03 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microspeak: Respin】Microspeak：Respin</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250304-00/?p=110929</link>
+      <description>【Spin it up again, baby.】宝贝，再次旋转。</description>
+      <pubDate>Tue, 04 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: LLMAgentOps Toolkit for Semantic Kernel】来宾博客：语义内核的llmagentops工具包</title>
