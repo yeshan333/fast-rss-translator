@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Announcing AI Shell Preview 2】宣布AI Shell预览2</title>
-      <link>https://devblogs.microsoft.com/powershell/ai-shell-preview-2</link>
-      <description>【We are pleased to share a new preview release of AI Shell!】我们很高兴分享AI Shell的新预览发布！</description>
-      <pubDate>Fri, 28 Feb 2025 20:49:30 +0000</pubDate>
-    </item>
-    <item>
       <title>【Unlock new possibilities for AI Evaluations for .NET】解锁.NET的AI评估的新可能性</title>
       <link>https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today</link>
       <description>【Microsoft.Extensions.AI.Evaluations library is now open source, and a new Azure DevOps plug-in is available to make reporting in your CI pipelines easier than ever.】Microsoft.extensions.ai.AI.Evaluations库现在是开源的，并且可以使用新的Azure DevOps插件来使您的CI管道中的报告比以往任何时候都更加容易。</description>
       <pubDate>Mon, 03 Mar 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Great new productivity features in Visual Studio】Visual Studio中出色的新生产力功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio</link>
-      <description>【Sometimes it’s the little things in life that matter the most. In the latest version of Visual Studio, we’ve added some features and tweaks that aim to put a smile on your face and make you more productive. Here is a list of some of these, and if you want the full list, make sure [&amp;hellip;]】有时候，生活中最重要的是生活中的小事。在最新版本的Visual Studio中，我们添加了一些功能和调整，旨在使您的脸上露出微笑并使您更有生产力。这是其中一些列表，如果您想要完整的列表，请确保[…]</description>
-      <pubDate>Mon, 03 Mar 2025 16:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI in Action — How to build scalable RAG-enabled AI apps】AI在行动中 - 如何构建可扩展的RAG启用AI应用程序</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps</link>
-      <description>【For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&amp;hellip;]】对于开发人员而言，重点是将情报构建到应用程序中从未更清楚。在接下来的三年中，有92％的公司计划投资AI，以实现业务成果，例如提高生产率并提供更好的客户服务。在微软，开发人员和工程师正在大规模推动AI的界限，制作应用程序[…]</description>
-      <pubDate>Mon, 03 Mar 2025 17:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Queue-Based Load Leveling Pattern (Starring Phi4, LangChain4j and Azure Service Bus)】基于队列的负载升级模式（由PHI4，Langchain4J和Azure Service Bus主演）</title>
-      <link>https://devblogs.microsoft.com/java/queue-based-load-leveling-pattern-starring-phi4-and-azure-service-bus</link>
-      <description>【In this blog, we’re exploring the Queue-Based Load Leveling pattern—a powerful method for smoothing out workload spikes Why Choose Queue-Based Load Leveling? In today&amp;#8217;s fast-paced software environment, dynamic workloads are common. The Queue-Based Load Leveling pattern decouples the production and consumption of tasks by introducing a queue between them. This allows producers and consumers to work independently, [&amp;hellip;]】在此博客中，我们正在探索基于队列的负载级别平台模式 - 一种可以平化工作负载尖峰的强大方法，为什么选择基于队列的加载级别？在当今快节奏的软件环境中，动态工作负载很常见。基于队列的负载级别模式通过引入他们之间的队列来消除任务的生产和消耗。这使生产者和消费者可以独立工作，[…]</description>
-      <pubDate>Mon, 03 Mar 2025 08:27:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Public preview of SharePoint Framework 1.21 – First release of upcoming features】SharePoint Framework 1.21的公共预览 - 即将推出的功能的首次版本</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-21-first-release-of-upcoming-features</link>
-      <description>【We are excited to announce the first preview of the upcoming SharePoint Framework 1.21. This release will have updates for SharePoint, Viva Connections and Microsoft Teams experiences.】我们很高兴宣布即将推出的SharePoint Framework 1.21的首次预览。此版本将对SharePoint，Viva Connections和Microsoft团队体验进行更新。</description>
-      <pubDate>Mon, 03 Mar 2025 11:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure DevOps Basic usage included with GitHub Enterprise】GitHub Enterprise包含的Azure DevOps基本用法</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise</link>
-      <description>【Many customers want to use both GitHub and Azure DevOps together. Until now, unless you purchased Visual Studio subscriptions with GitHub Enterprise, you had to pay separately for both products. With the Sprint 252 release, Azure DevOps Basic usage rights are included with GitHub Enterprise Cloud. Your users access this benefit automatically when they login [&amp;hellip;]】许多客户希望将GitHub和Azure Devops一起使用。到目前为止，除非您使用GitHub Enterprise购买了Visual Studio订阅，否则您必须单独支付两种产品。随着Sprint 252版本，GitHub Enterprise Cloud包括Azure DevOps基本用法权利。您的用户登录时会自动访问此好处[…]</description>
-      <pubDate>Fri, 28 Feb 2025 23:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Lexically scoped functions accessing parent locals: The display】词汇范围的功能访问父当地人：显示</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250303-00/?p=110925</link>
-      <description>【Using a well-known location instead of copying frame pointers.】使用众所周知的位置而不是复制框架指针。</description>
-      <pubDate>Mon, 03 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Microspeak: Respin】Microspeak：Respin</title>
@@ -58,10 +16,52 @@
       <pubDate>Tue, 04 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【I tried to subscribe to a C++/WinRT event, but my callback was never called】我试图订阅C ++/Winrt活动，但我的回调从未被打电话给</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250305-00/?p=110934</link>
+      <description>【Check how you registered your event handler.】检查您如何注册活动处理程序。</description>
+      <pubDate>Wed, 05 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – March 2025 Release】Visual Studio代码中的Python  -  2025年3月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2025-release</link>
+      <description>【The March 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improvements to shell integration, a new setting to change auto test discovery file patterns, inline values shown on hover, and more!】2025年3月的Python和Jupyter扩展名的版本现已提供。本月的更新包括改进Shell集成，一种新的设置，以更改自动测试发现文件模式，悬停在悬停的内联值等等！</description>
+      <pubDate>Wed, 05 Mar 2025 19:11:01 +0000</pubDate>
+    </item>
+    <item>
       <title>【Guest Blog: LLMAgentOps Toolkit for Semantic Kernel】来宾博客：语义内核的llmagentops工具包</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-llmagentops-toolkit-for-semantic-kernel</link>
       <description>【Today the Semantic Kernel team is excited to welcome a guest author, Prabal Deb to share his work. LLMAgentOps Toolkit is repository that contains basic structure of LLM Agent based application built on top of the Semantic Kernel Python version. The toolkit is designed to be a starting point for data scientists and developers for experimentation [&amp;hellip;]】今天，语义内核团队很高兴欢迎一位客座作家Prabal Deb分享他的作品。 LLMAGENTOPSTOOLKIT是存储库，它包含基于LLM代理的基于语义内核Python版本的基本结构。该工具包被设计为数据科学家和开发人员进行实验的起点[…]</description>
       <pubDate>Mon, 03 Mar 2025 20:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide】将模型上下文协议工具与语义内核集成：逐步指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide</link>
+      <description>【This post describes how to use Model Context Protocol tools with Semantic Kernel. Model Context Protocol (MCP) is an open protocol that standardizes how applications provide context to LLMs. MCP standardizes the connection between AI models and various data sources and tools. The Model Context Protocol is significant because it enhances the way AI models [&amp;hellip;]】这篇文章描述了如何使用语义内核使用模型上下文协议工具。模型上下文协议（MCP）是一个开放协议，标准化应用程序如何为LLM提供上下文。 MCP标准化AI模型与各种数据源和工具之间的连接。模型上下文协议很重要，因为它增强了AI模型的方式[…]</description>
+      <pubDate>Wed, 05 Mar 2025 15:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI in Action — How to build scalable RAG-enabled AI apps】AI在行动中 - 如何构建可扩展的RAG启用AI应用程序</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps</link>
+      <description>【For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&amp;hellip;]】对于开发人员而言，重点是将情报构建到应用程序中从未更清楚。在接下来的三年中，有92％的公司计划投资AI，以实现业务成果，例如提高生产率并提供更好的客户服务。在微软，开发人员和工程师正在大规模推动AI的界限，制作应用程序[…]</description>
+      <pubDate>Mon, 03 Mar 2025 17:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Publishing, Managing and Securing: Building with Microsoft Copilot Studio】出版，管理和确保：与Microsoft Copilot Studio建造</title>
+      <link>https://devblogs.microsoft.com/powerplatform/publishing-managing-and-securing-building-with-microsoft-copilot-studio</link>
+      <description>【If you would like to start building an agent in Microsoft Copilot Studio, don&amp;#8217;t worry we’ve got you covered! In our AI in Action: Building with Copilot Studio series on the Microsoft Power Platform YouTube channel, we have several episodes that guide you through how to get started in building an agent. This blog post [&amp;hellip;]】如果您想开始在Microsoft Copilot Studio中建立代理商，请不要担心我们会为您提供服务！在我们的AI In Action：通过Microsoft Power Platform YouTube频道上的Copilot Studio系列构建中，我们有几集可以指导您完成如何开始建立代理商的过程。这篇博客文章[…]</description>
+      <pubDate>Wed, 05 Mar 2025 16:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New Debugging and Profiling Features in Visual Studio (v17.13)】Visual Studio中的新调试和分析功能（V17.13）</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13</link>
+      <description>【The latest Visual Studio update (v17.13) brings a strong set of debugging and profiling features designed to speed up troubleshooting, making it more efficient. With AI-driven features in this release, variable analysis and data inspection are smarter and more intuitive, and problems are easier to identify and debug. Profiling tool improvements also deliver better support [&amp;hellip;]】最新的Visual Studio Update（V17.13）带来了一系列强大的调试和分析功能，旨在加快故障排除，使其更有效。在此版本中，具有AI-AI-DEMICT，可变分析和数据检查更加智能，更直观，并且问题更容易识别和调试。分析工具改进还提供更好的支持[…]</description>
+      <pubDate>Wed, 05 Mar 2025 15:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AutoGen and Semantic Kernel, Part 2】Autogen和语义内核，第2部分</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-autogen-part-2</link>
+      <description>【Following on from our blog post a couple months ago: Microsoft’s Agentic AI Frameworks: AutoGen and Semantic Kernel, Microsoft’s agentic AI story is evolving at a steady pace. Both Azure AI Foundry’s Semantic Kernel and AI Frontier’s AutoGen are designed to empower developers to build advanced multi-agent systems. The AI Frontier’s team is charging ahead [&amp;hellip;]】在几个月前我们的博客文章之后：Microsoft的代理AI框架：Autogen和Sminantic内核，Microsoft的代理AI故事正在以稳定的速度发展。 Azure AI Foundry的语义内核和AI Frontier的Autogen都旨在增强开发人员的能力，以构建先进的多代理系统。 AI Frontier的团队正在向前冲锋[…]</description>
+      <pubDate>Wed, 05 Mar 2025 17:55:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
