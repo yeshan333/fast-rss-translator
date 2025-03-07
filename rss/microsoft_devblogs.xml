@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Unlock new possibilities for AI Evaluations for .NET】解锁.NET的AI评估的新可能性</title>
-      <link>https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today</link>
-      <description>【Microsoft.Extensions.AI.Evaluations library is now open source, and a new Azure DevOps plug-in is available to make reporting in your CI pipelines easier than ever.】Microsoft.extensions.ai.AI.Evaluations库现在是开源的，并且可以使用新的Azure DevOps插件来使您的CI管道中的报告比以往任何时候都更加容易。</description>
-      <pubDate>Mon, 03 Mar 2025 18:05:00 +0000</pubDate>
+      <title>【How can I choose a different C++ constructor at runtime?】如何在运行时选择其他C ++构造函数？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250306-00/?p=110942</link>
+      <description>【Make somebody else do it, and then use copy elision.】让别人这样做，然后使用复制elision。</description>
+      <pubDate>Thu, 06 Mar 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microspeak: Respin】Microspeak：Respin</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250304-00/?p=110929</link>
-      <description>【Spin it up again, baby.】宝贝，再次旋转。</description>
-      <pubDate>Tue, 04 Mar 2025 15:00:00 +0000</pubDate>
+      <title>【Multi Root Workspaces in Visual Studio Code】Visual Studio代码中的多根工作区</title>
+      <link>https://devblogs.microsoft.com/ise/multi_root_workspaces_in_visual_studio_code</link>
+      <description>【How to manage multiple independent python projects, with different dependencies, inside Visual Studio Code.】如何在Visual Studio代码内部管理具有不同依赖关系的多个独立的Python项目。</description>
+      <pubDate>Thu, 06 Mar 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【I tried to subscribe to a C++/WinRT event, but my callback was never called】我试图订阅C ++/Winrt活动，但我的回调从未被打电话给</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250305-00/?p=110934</link>
-      <description>【Check how you registered your event handler.】检查您如何注册活动处理程序。</description>
-      <pubDate>Wed, 05 Mar 2025 15:00:00 +0000</pubDate>
+      <title>【.NET AI Template Now Available in Preview】.NET AI模板现已在预览中可用</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1</link>
+      <description>【Announcing the first preview of the .NET AI Template, for Visual Studio, Visual Studio Code, and the .NET CLI. Get started building amazing AI apps with .NET.】宣布为Visual Studio，Visual Studio Code和.NET CLI宣布.NET AI模板的第一个预览。开始使用.NET构建惊人的AI应用程序。</description>
+      <pubDate>Thu, 06 Mar 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code – March 2025 Release】Visual Studio代码中的Python  -  2025年3月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2025-release</link>
-      <description>【The March 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improvements to shell integration, a new setting to change auto test discovery file patterns, inline values shown on hover, and more!】2025年3月的Python和Jupyter扩展名的版本现已提供。本月的更新包括改进Shell集成，一种新的设置，以更改自动测试发现文件模式，悬停在悬停的内联值等等！</description>
-      <pubDate>Wed, 05 Mar 2025 19:11:01 +0000</pubDate>
+      <title>【How Microsoft Copilot scales to millions of users with Azure Cosmos DB】Microsoft Copilot如何使用Azure Cosmos DB缩放数百万用户</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/how-microsoft-copilot-scales-to-millions-of-users-with-azure-cosmos-db</link>
+      <description>【This article is guest authored by Youssef Moussaoui, member of the technical staff, Microsoft Copilot. As part of the team developing Microsoft Copilot, we’re constantly looking for ways to improve the application and keep our millions of users engaged. With this in mind, we recently evaluated the structure of our backend and began looking for [&amp;hellip;]】本文是由Microsoft Copilot的技术人员成员Youssef Moussaoui撰写的来宾。作为开发Microsoft Copilot的团队的一部分，我们一直在寻找改善应用程序并保持数百万用户参与的方法。考虑到这一点，我们最近评估了后端的结构，并开始寻找[…]</description>
+      <pubDate>Thu, 06 Mar 2025 17:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: LLMAgentOps Toolkit for Semantic Kernel】来宾博客：语义内核的llmagentops工具包</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-llmagentops-toolkit-for-semantic-kernel</link>
-      <description>【Today the Semantic Kernel team is excited to welcome a guest author, Prabal Deb to share his work. LLMAgentOps Toolkit is repository that contains basic structure of LLM Agent based application built on top of the Semantic Kernel Python version. The toolkit is designed to be a starting point for data scientists and developers for experimentation [&amp;hellip;]】今天，语义内核团队很高兴欢迎一位客座作家Prabal Deb分享他的作品。 LLMAGENTOPSTOOLKIT是存储库，它包含基于LLM代理的基于语义内核Python版本的基本结构。该工具包被设计为数据科学家和开发人员进行实验的起点[…]</description>
-      <pubDate>Mon, 03 Mar 2025 20:02:05 +0000</pubDate>
+      <title>【Effortlessly Integrate xAI’s Grok with Semantic Kernel】轻松地将Xai的grok与语义内核整合在一起</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integrate-sk-with-xai-grok-easily</link>
+      <description>【For Semantic Kernel users, integrating xAI&amp;#8217;s Grok API using the OpenAI connector is a breeze thanks to its compatibility with OpenAI&amp;#8217;s API format. This tutorial focuses on setting up Grok in your Semantic Kernel projects with minimal fuss, using C# and Python examples. Why Grok? Grok, built by xAI, is a powerful AI model, offers [&amp;hellip;]】对于语义内核用户，由于其与OpenAI的API格式的兼容性，使用OpenAI连接器集成XAI的Grok API变得轻而易举。本教程的重点是使用C＃和Python示例在您的语义内核项目中设置Grok。为什么要格罗克？由XAI建造的Grok是一种强大的AI模型，提供[…]</description>
+      <pubDate>Thu, 06 Mar 2025 15:31:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide】将模型上下文协议工具与语义内核集成：逐步指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide</link>
-      <description>【This post describes how to use Model Context Protocol tools with Semantic Kernel. Model Context Protocol (MCP) is an open protocol that standardizes how applications provide context to LLMs. MCP standardizes the connection between AI models and various data sources and tools. The Model Context Protocol is significant because it enhances the way AI models [&amp;hellip;]】这篇文章描述了如何使用语义内核使用模型上下文协议工具。模型上下文协议（MCP）是一个开放协议，标准化应用程序如何为LLM提供上下文。 MCP标准化AI模型与各种数据源和工具之间的连接。模型上下文协议很重要，因为它增强了AI模型的方式[…]</description>
-      <pubDate>Wed, 05 Mar 2025 15:29:56 +0000</pubDate>
+      <title>【Announcing Guidelines Support Library v4.2.0】宣布指南支持库v4.2.0</title>
+      <link>https://devblogs.microsoft.com/cppblog/announcing-guidelines-support-library-v4-2-0</link>
+      <description>【Version 4.2.0 of Microsoft&#39;s Guidelines Support Library brings performance improvements, safety features, modern compiler support.】微软指南支持库的4.2.0版带来了性能改进，安全功能，现代编译器支持。</description>
+      <pubDate>Thu, 06 Mar 2025 09:36:54 +0000</pubDate>
     </item>
     <item>
-      <title>【AI in Action — How to build scalable RAG-enabled AI apps】AI在行动中 - 如何构建可扩展的RAG启用AI应用程序</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps</link>
-      <description>【For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&amp;hellip;]】对于开发人员而言，重点是将情报构建到应用程序中从未更清楚。在接下来的三年中，有92％的公司计划投资AI，以实现业务成果，例如提高生产率并提供更好的客户服务。在微软，开发人员和工程师正在大规模推动AI的界限，制作应用程序[…]</description>
-      <pubDate>Mon, 03 Mar 2025 17:00:44 +0000</pubDate>
+      <title>【MSSQL Extension for VS Code: What’s new and what’s next】VS代码的MSSQL扩展：什么是新事物和下一步</title>
+      <link>https://devblogs.microsoft.com/azure-sql/mssql-vs-code-whats-new-next</link>
+      <description>【The MSSQL Extension for VS Code continues to evolve, bringing powerful new features and enhancements that make SQL development more seamless and efficient. In this update, we’re excited to share the latest improvements in v1.29.0 and give you a sneak peek at what’s coming next in our open roadmap. This extension is designed for developers [&amp;hellip;]】VS代码的MSSQL扩展不断发展，带来了强大的新功能和增强功能，使SQL开发更加无缝和高效。在此更新中，我们很高兴分享v1.29.0中的最新改进，并为您提供开放路线图中的下一步情况。此扩展是为开发人员设计的[…]</description>
+      <pubDate>Thu, 06 Mar 2025 16:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Publishing, Managing and Securing: Building with Microsoft Copilot Studio】出版，管理和确保：与Microsoft Copilot Studio建造</title>
-      <link>https://devblogs.microsoft.com/powerplatform/publishing-managing-and-securing-building-with-microsoft-copilot-studio</link>
-      <description>【If you would like to start building an agent in Microsoft Copilot Studio, don&amp;#8217;t worry we’ve got you covered! In our AI in Action: Building with Copilot Studio series on the Microsoft Power Platform YouTube channel, we have several episodes that guide you through how to get started in building an agent. This blog post [&amp;hellip;]】如果您想开始在Microsoft Copilot Studio中建立代理商，请不要担心我们会为您提供服务！在我们的AI In Action：通过Microsoft Power Platform YouTube频道上的Copilot Studio系列构建中，我们有几集可以指导您完成如何开始建立代理商的过程。这篇博客文章[…]</description>
-      <pubDate>Wed, 05 Mar 2025 16:42:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Debugging and Profiling Features in Visual Studio (v17.13)】Visual Studio中的新调试和分析功能（V17.13）</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13</link>
-      <description>【The latest Visual Studio update (v17.13) brings a strong set of debugging and profiling features designed to speed up troubleshooting, making it more efficient. With AI-driven features in this release, variable analysis and data inspection are smarter and more intuitive, and problems are easier to identify and debug. Profiling tool improvements also deliver better support [&amp;hellip;]】最新的Visual Studio Update（V17.13）带来了一系列强大的调试和分析功能，旨在加快故障排除，使其更有效。在此版本中，具有AI-AI-DEMICT，可变分析和数据检查更加智能，更直观，并且问题更容易识别和调试。分析工具改进还提供更好的支持[…]</description>
-      <pubDate>Wed, 05 Mar 2025 15:39:27 +0000</pubDate>
+      <title>【Talk to your agents! Introducing the Realtime API’s in Semantic Kernel!】与您的代理商交谈！在语义内核中介绍实时API！</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/talk-to-your-agents-introducing-the-realtime-apis-in-semantic-kernel</link>
+      <description>【Introducing Realtime Agents in Semantic Kernel for Python! With release 1.23.0 of the Python version of Semantic Kernel we are introducing a new set of clients for interacting with the realtime multi-modal API&amp;#8217;s of OpenAI and Azure OpenAI. They provide a abstracted approach to connecting to those services, adding your tools and running apps that [&amp;hellip;]】在python的语义内核中介绍实时代理！随着Python版本的语义内核版本1.23.0，我们正在介绍一组新的客户端，以与OpenAI和Azure Openai的实时多模式API进行交互。他们提供了一种抽象的方法来连接到这些服务，添加您的工具和运行应用程序[…]</description>
+      <pubDate>Thu, 06 Mar 2025 21:17:32 +0000</pubDate>
     </item>
     <item>
       <title>【AutoGen and Semantic Kernel, Part 2】Autogen和语义内核，第2部分</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-autogen-part-2</link>
       <description>【Following on from our blog post a couple months ago: Microsoft’s Agentic AI Frameworks: AutoGen and Semantic Kernel, Microsoft’s agentic AI story is evolving at a steady pace. Both Azure AI Foundry’s Semantic Kernel and AI Frontier’s AutoGen are designed to empower developers to build advanced multi-agent systems. The AI Frontier’s team is charging ahead [&amp;hellip;]】在几个月前我们的博客文章之后：Microsoft的代理AI框架：Autogen和Sminantic内核，Microsoft的代理AI故事正在以稳定的速度发展。 Azure AI Foundry的语义内核和AI Frontier的Autogen都旨在增强开发人员的能力，以构建先进的多代理系统。 AI Frontier的团队正在向前冲锋[…]</description>
       <pubDate>Wed, 05 Mar 2025 17:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – March 2025 Release】Visual Studio代码中的Python  -  2025年3月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2025-release</link>
+      <description>【The March 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improvements to shell integration, a new setting to change auto test discovery file patterns, inline values shown on hover, and more!】2025年3月的Python和Jupyter扩展名的版本现已提供。本月的更新包括改进Shell集成，一种新的设置，以更改自动测试发现文件模式，悬停在悬停的内联值等等！</description>
+      <pubDate>Wed, 05 Mar 2025 19:11:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
