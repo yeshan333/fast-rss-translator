@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【How can I choose a different C++ constructor at runtime?】如何在运行时选择其他C ++构造函数？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250306-00/?p=110942</link>
-      <description>【Make somebody else do it, and then use copy elision.】让别人这样做，然后使用复制elision。</description>
-      <pubDate>Thu, 06 Mar 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Multi Root Workspaces in Visual Studio Code】Visual Studio代码中的多根工作区</title>
-      <link>https://devblogs.microsoft.com/ise/multi_root_workspaces_in_visual_studio_code</link>
-      <description>【How to manage multiple independent python projects, with different dependencies, inside Visual Studio Code.】如何在Visual Studio代码内部管理具有不同依赖关系的多个独立的Python项目。</description>
-      <pubDate>Thu, 06 Mar 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET AI Template Now Available in Preview】.NET AI模板现已在预览中可用</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1</link>
-      <description>【Announcing the first preview of the .NET AI Template, for Visual Studio, Visual Studio Code, and the .NET CLI. Get started building amazing AI apps with .NET.】宣布为Visual Studio，Visual Studio Code和.NET CLI宣布.NET AI模板的第一个预览。开始使用.NET构建惊人的AI应用程序。</description>
-      <pubDate>Thu, 06 Mar 2025 18:05:00 +0000</pubDate>
+      <title>【Effortlessly Integrate xAI’s Grok with Semantic Kernel】轻松地将Xai的grok与语义内核整合在一起</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integrate-sk-with-xai-grok-easily</link>
+      <description>【For Semantic Kernel users, integrating xAI&amp;#8217;s Grok API using the OpenAI connector is a breeze thanks to its compatibility with OpenAI&amp;#8217;s API format. This tutorial focuses on setting up Grok in your Semantic Kernel projects with minimal fuss, using C# and Python examples. Why Grok? Grok, built by xAI, is a powerful AI model, offers [&amp;hellip;]】对于语义内核用户，由于其与OpenAI的API格式的兼容性，使用OpenAI连接器集成XAI的Grok API变得轻而易举。本教程的重点是使用C＃和Python示例在您的语义内核项目中设置Grok。为什么要格罗克？由XAI建造的Grok是一种强大的AI模型，提供[…]</description>
+      <pubDate>Thu, 06 Mar 2025 15:31:25 +0000</pubDate>
     </item>
     <item>
       <title>【How Microsoft Copilot scales to millions of users with Azure Cosmos DB】Microsoft Copilot如何使用Azure Cosmos DB缩放数百万用户</title>
@@ -28,16 +16,16 @@
       <pubDate>Thu, 06 Mar 2025 17:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Effortlessly Integrate xAI’s Grok with Semantic Kernel】轻松地将Xai的grok与语义内核整合在一起</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integrate-sk-with-xai-grok-easily</link>
-      <description>【For Semantic Kernel users, integrating xAI&amp;#8217;s Grok API using the OpenAI connector is a breeze thanks to its compatibility with OpenAI&amp;#8217;s API format. This tutorial focuses on setting up Grok in your Semantic Kernel projects with minimal fuss, using C# and Python examples. Why Grok? Grok, built by xAI, is a powerful AI model, offers [&amp;hellip;]】对于语义内核用户，由于其与OpenAI的API格式的兼容性，使用OpenAI连接器集成XAI的Grok API变得轻而易举。本教程的重点是使用C＃和Python示例在您的语义内核项目中设置Grok。为什么要格罗克？由XAI建造的Grok是一种强大的AI模型，提供[…]</description>
-      <pubDate>Thu, 06 Mar 2025 15:31:25 +0000</pubDate>
+      <title>【.NET AI Template Now Available in Preview】.NET AI模板现已在预览中可用</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1</link>
+      <description>【Announcing the first preview of the .NET AI Template, for Visual Studio, Visual Studio Code, and the .NET CLI. Get started building amazing AI apps with .NET.】宣布为Visual Studio，Visual Studio Code和.NET CLI宣布.NET AI模板的第一个预览。开始使用.NET构建惊人的AI应用程序。</description>
+      <pubDate>Thu, 06 Mar 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Guidelines Support Library v4.2.0】宣布指南支持库v4.2.0</title>
-      <link>https://devblogs.microsoft.com/cppblog/announcing-guidelines-support-library-v4-2-0</link>
-      <description>【Version 4.2.0 of Microsoft&#39;s Guidelines Support Library brings performance improvements, safety features, modern compiler support.】微软指南支持库的4.2.0版带来了性能改进，安全功能，现代编译器支持。</description>
-      <pubDate>Thu, 06 Mar 2025 09:36:54 +0000</pubDate>
+      <title>【.NET MAUI在 .NET 9 中的性能功能】.NET MAUI在 .NET 9 中的性能功能</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/net-maui%e5%9c%a8-net-9-%e4%b8%ad%e7%9a%84%e6%80%a7%e8%83%bd%e5%8a%9f%e8%83%bd</link>
+      <description>【本文翻译自 Jonathan 和 Simon 的 .NET MAUI Performance Features in .NET 9 .NET 多平台应用 UI (.NET MAUI) 随着各个版本的发布而不断发展，与此同时，.NET 9 重点引入了裁剪功能和一个新的受支持运行时：NativeAOT。这些功能可以帮助您减少应用程序大小、提高启动速度，并确保应用程序在各个平台上流畅运行。无论是希望优化 .NET MAUI 应用的开发者，还是 NuGet 包的作者，都可以在 .NET 9 中使用这些功能。 我们还将向开发人员介绍可用于测量 .NET MAUI 应用程序性能的选项。CPU 采样和内存快照可分别通过 dotnet-trace 和 dotnet-gcdump 获得。这些工具可以帮助您深入了解应用程序、NuGet 包的性能问题，甚至是我们需要关注的 .NET MAUI 问题。  背景 默认情况下， iOS 和 Android 上的 .NET MAUI 应用程序使用以下设置：  “自包含”: 意味着应用程序中包含 BCL 和运行时的副本。  部分裁剪（TrimMode=partial），意味着默认情况下不修剪应用程序或 NuGet [&amp;hellip;]】本文翻译自 Jonathan 和 Simon 的 .NET MAUI Performance Features in .NET 9 .NET 多平台应用 UI (.NET MAUI) 随着各个版本的发布而不断发展，与此同时，.NET 9 重点引入了裁剪功能和一个新的受支持运行时：NativeAOT。这些功能可以帮助您减少应用程序大小、提高启动速度，并确保应用程序在各个平台上流畅运行。无论是希望优化 .NET MAUI 应用的开发者，还是 NuGet 包的作者，都可以在 .NET 9 中使用这些功能。 我们还将向开发人员介绍可用于测量 .NET MAUI 应用程序性能的选项。CPU 采样和内存快照可分别通过 dotnet-trace 和 dotnet-gcdump 获得。这些工具可以帮助您深入了解应用程序、NuGet 包的性能问题，甚至是我们需要关注的 .NET MAUI 问题。  背景 默认情况下， iOS 和 Android 上的 .NET MAUI 应用程序使用以下设置：  “自包含”: 意味着应用程序中包含 BCL 和运行时的副本。  部分裁剪（TrimMode=partial），意味着默认情况下不修剪应用程序或 NuGet […]</description>
+      <pubDate>Fri, 07 Mar 2025 06:47:15 +0000</pubDate>
     </item>
     <item>
       <title>【MSSQL Extension for VS Code: What’s new and what’s next】VS代码的MSSQL扩展：什么是新事物和下一步</title>
@@ -46,22 +34,34 @@
       <pubDate>Thu, 06 Mar 2025 16:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Talk to your agents! Introducing the Realtime API’s in Semantic Kernel!】与您的代理商交谈！在语义内核中介绍实时API！</title>
+      <title>【To some people, time zones are just a fancy way of sounding important, episode 2】对于某些人来说，时区只是听起来很重要的一种奇特的方式，第2集</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250307-00/?p=110946</link>
+      <description>【Words have meaning.】单词有意义。</description>
+      <pubDate>Fri, 07 Mar 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) – March 2025】Azure开发人员CLI（AZD） -  2025年3月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-march-2025</link>
+      <description>【This post announces the March release of the Azure Developer CLI (`azd`).】这篇文章宣布了Azure开发人员CLI（``AZD&#39;）的三月发布。</description>
+      <pubDate>Fri, 07 Mar 2025 19:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.24.1-1 and 1.23.7-1 Microsoft builds now available】GO 1.24.1-1和1.23.7-1 Microsoft现在可用</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-1-1-and-1-23-7-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download.】现在可以下载Microsoft Go Build的新版本。</description>
+      <pubDate>Fri, 07 Mar 2025 09:07:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Talk to your agents! Introducing the Realtime API’s in Semantic Kernel】与您的代理商交谈！在语义内核中介绍实时API</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/talk-to-your-agents-introducing-the-realtime-apis-in-semantic-kernel</link>
-      <description>【Introducing Realtime Agents in Semantic Kernel for Python! With release 1.23.0 of the Python version of Semantic Kernel we are introducing a new set of clients for interacting with the realtime multi-modal API&amp;#8217;s of OpenAI and Azure OpenAI. They provide a abstracted approach to connecting to those services, adding your tools and running apps that [&amp;hellip;]】在python的语义内核中介绍实时代理！随着Python版本的语义内核版本1.23.0，我们正在介绍一组新的客户端，以与OpenAI和Azure Openai的实时多模式API进行交互。他们提供了一种抽象的方法来连接到这些服务，添加您的工具和运行应用程序[…]</description>
+      <description>【Introducing Realtime Agents in Semantic Kernel for Python With release 1.23.0 of the Python version of Semantic Kernel we are introducing a new set of clients for interacting with the realtime multi-modal API&amp;#8217;s of OpenAI and Azure OpenAI. They provide a abstracted approach to connecting to those services, adding your tools and running apps that [&amp;hellip;]】在Python的语义内核中介绍实时代理，并在语义核的Python版本中发行1.23.0，我们正在介绍一组新客户端，以与实时多模式API互动OpenAI和Azure Openai进行交互。他们提供了一种抽象的方法来连接到这些服务，添加您的工具和运行应用程序[…]</description>
       <pubDate>Thu, 06 Mar 2025 21:17:32 +0000</pubDate>
     </item>
     <item>
-      <title>【AutoGen and Semantic Kernel, Part 2】Autogen和语义内核，第2部分</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-autogen-part-2</link>
-      <description>【Following on from our blog post a couple months ago: Microsoft’s Agentic AI Frameworks: AutoGen and Semantic Kernel, Microsoft’s agentic AI story is evolving at a steady pace. Both Azure AI Foundry’s Semantic Kernel and AI Frontier’s AutoGen are designed to empower developers to build advanced multi-agent systems. The AI Frontier’s team is charging ahead [&amp;hellip;]】在几个月前我们的博客文章之后：Microsoft的代理AI框架：Autogen和Sminantic内核，Microsoft的代理AI故事正在以稳定的速度发展。 Azure AI Foundry的语义内核和AI Frontier的Autogen都旨在增强开发人员的能力，以构建先进的多代理系统。 AI Frontier的团队正在向前冲锋[…]</description>
-      <pubDate>Wed, 05 Mar 2025 17:55:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code – March 2025 Release】Visual Studio代码中的Python  -  2025年3月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2025-release</link>
-      <description>【The March 2025 release of the Python and Jupyter extensions for Visual Studio Code are now available. This month&#39;s updates include improvements to shell integration, a new setting to change auto test discovery file patterns, inline values shown on hover, and more!】2025年3月的Python和Jupyter扩展名的版本现已提供。本月的更新包括改进Shell集成，一种新的设置，以更改自动测试发现文件模式，悬停在悬停的内联值等等！</description>
-      <pubDate>Wed, 05 Mar 2025 19:11:01 +0000</pubDate>
+      <title>【Integration of AWS Bedrock Agents in Semantic Kernel】在语义内核中的AWS基岩代理的整合</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integration-of-aws-bedrock-agents-in-semantic-kernel</link>
+      <description>【Overview of AWS Bedrock Agents AWS Bedrock Agents provide a managed service that facilitates the experimentation and rapid deployment of AI agents. Users can leverage proprietary AWS models as well as a diverse selection of models from various providers available on AWS Bedrock. Semantic Kernel&amp;#8217;s Integration with AWS Bedrock Semantic Kernel now integrates with AWS [&amp;hellip;]】AWS基岩代理AWS基岩代理商的概述提供了托管服务，以促进AI代理的实验和快速部署。用户可以利用专有的AWS模型以及来自AWS Bedrock上各种提供商的各种模型选择。语义内核与AWS BedRock语义内核的集成现在与AWS […]集成</description>
+      <pubDate>Fri, 07 Mar 2025 21:45:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
