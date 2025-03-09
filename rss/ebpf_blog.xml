@@ -4,28 +4,16 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【Transparent Packet Inspection with Netfilter and eBPF】NETFILTER和EBPF的透明数据包检查</title>
-      <link>https://www.threater.com/blog/transparent-packet-inspection-with-netfilter-and-ebpf/</link>
-      <description>【Learn about transparent packet inspection with Netfilter and eBPF】了解NetFilter和EBPF的透明数据包检查</description>
-      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to use eBPF for monitoring Linux thread contention?】如何使用EBPF监视Linux线程争议？</title>
-      <link>https://www.linkedin.com/pulse/how-use-ebpf-monitoring-linux-thread-contention-shiv-iyer-wpjdc/</link>
-      <description>【Learn how to use eBPF for monitoring Linux thread contention】了解如何使用EBPF监视Linux线程争议</description>
-      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Debugging Memory Leaks with eBPF】通过EBPF调试内存泄漏</title>
       <link>https://naftalyava.com/debugging-memory-leaks-using-ebpf/</link>
       <description>【Learn how eBPF and uprobes can be combined to trace memory allocations and detect leaks】了解如何将EBPF和UPROBE组合在一起以追踪内存分配并检测泄漏</description>
       <pubDate>Sat, 26 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Case Study: Polar Signals Uses eBPF to Monitor Internal Cross-Zone Network Traffic on Kubernetes, Reducing These Operating Costs by 50%】案例研究：极地信号使用EBPF监视Kubernetes上的内部跨区域网络流量，将这些运营成本降低了50％</title>
-      <link>https://ebpf.foundation/case-study-polar-signals-uses-ebpf-to-monitor-internal-cross-zone-network-traffic-on-kubernetes-reducing-these-operating-costs-by-50/</link>
-      <description>【Polar Signals developed kubezonnet, an open source project designed to monitor and measure cross-zone network traffic in Kubernetes clusters. The solution leverages eBPF to trace network packets and aggregate traffic data.】Polar Signals开发了Kubezonnet，这是一个开源项目，旨在监视和测量Kubernetes簇中的跨区域网络流量。该解决方案利用EBPF追踪网络数据包和汇总流量数据。</description>
-      <pubDate>Thu, 16 Jan 2025 09:55:00 +0000</pubDate>
+      <title>【Transparent Packet Inspection with Netfilter and eBPF】NETFILTER和EBPF的透明数据包检查</title>
+      <link>https://www.threater.com/blog/transparent-packet-inspection-with-netfilter-and-ebpf/</link>
+      <description>【Learn about transparent packet inspection with Netfilter and eBPF】了解NetFilter和EBPF的透明数据包检查</description>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Unit Testing eBPF Programs】单位测试EBPF程序</title>
@@ -34,16 +22,10 @@
       <pubDate>Fri, 25 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【شروع برنامه نویسی در ebpf با یک مثال ساده】以一个简单的示例在EBPF中开始编程</title>
-      <link>https://virgool.io/@SeyedHosseinTafakh/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AF%D8%B1-ebpf-%D8%A8%D8%A7-%DB%8C%DA%A9-%D9%85%D8%AB%D8%A7%D9%84-%D8%B3%D8%A7%D8%AF%D9%87-puvqu0jqgmpn</link>
-      <description>【درباره eBPF و نحوه نوشتن برنامه eBPF بیاموزید】了解EBPF以及如何编写EBPF应用程序</description>
-      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF in 2025 - Bigger Than the CrowdStrike Outage】2025年的EBPF  - 比众率的停机大</title>
-      <link>https://thenewstack.io/ebpf-in-2025-bigger-than-the-crowdstrike-outage/</link>
-      <description>【 In 2025 eBPF adoption will expand rapidly and other predictions】在2025年，EBPF采用将迅速扩展和其他预测</description>
-      <pubDate>Wed, 01 Jan 2025 12:33:00 +0000</pubDate>
+      <title>【Case Study: Polar Signals Uses eBPF to Monitor Internal Cross-Zone Network Traffic on Kubernetes, Reducing These Operating Costs by 50%】案例研究：极地信号使用EBPF监视Kubernetes上的内部跨区域网络流量，将这些运营成本降低了50％</title>
+      <link>https://ebpf.foundation/case-study-polar-signals-uses-ebpf-to-monitor-internal-cross-zone-network-traffic-on-kubernetes-reducing-these-operating-costs-by-50/</link>
+      <description>【Polar Signals developed kubezonnet, an open source project designed to monitor and measure cross-zone network traffic in Kubernetes clusters. The solution leverages eBPF to trace network packets and aggregate traffic data.】Polar Signals开发了Kubezonnet，这是一个开源项目，旨在监视和测量Kubernetes簇中的跨区域网络流量。该解决方案利用EBPF追踪网络数据包和汇总流量数据。</description>
+      <pubDate>Thu, 16 Jan 2025 09:55:00 +0000</pubDate>
     </item>
     <item>
       <title>【Tracepoints, Kprobes, or Fprobes: Which One Should You Choose?】跟踪点，kprobes或fprobes：您应该选择哪一个？</title>
@@ -62,6 +44,24 @@
       <link>https://mostlynerdless.de/blog/2024/10/25/a-minimal-scheduler-with-ebpf-sched_ext-and-c/</link>
       <description>【Learn to create a minimal scheduler written with sched_ext in C】学会创建一个用sched_ext编写的最小调度程序</description>
       <pubDate>Fri, 25 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【eBPF in 2025 - Bigger Than the CrowdStrike Outage】2025年的EBPF  - 比众率的停机大</title>
+      <link>https://thenewstack.io/ebpf-in-2025-bigger-than-the-crowdstrike-outage/</link>
+      <description>【 In 2025 eBPF adoption will expand rapidly and other predictions】在2025年，EBPF采用将迅速扩展和其他预测</description>
+      <pubDate>Wed, 01 Jan 2025 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to use eBPF for monitoring Linux thread contention?】如何使用EBPF监视Linux线程争议？</title>
+      <link>https://www.linkedin.com/pulse/how-use-ebpf-monitoring-linux-thread-contention-shiv-iyer-wpjdc/</link>
+      <description>【Learn how to use eBPF for monitoring Linux thread contention】了解如何使用EBPF监视Linux线程争议</description>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【شروع برنامه نویسی در ebpf با یک مثال ساده】以一个简单的示例在EBPF中开始编程</title>
+      <link>https://virgool.io/@SeyedHosseinTafakh/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AF%D8%B1-ebpf-%D8%A8%D8%A7-%DB%8C%DA%A9-%D9%85%D8%AB%D8%A7%D9%84-%D8%B3%D8%A7%D8%AF%D9%87-puvqu0jqgmpn</link>
+      <description>【درباره eBPF و نحوه نوشتن برنامه eBPF بیاموزید】了解EBPF以及如何编写EBPF应用程序</description>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
