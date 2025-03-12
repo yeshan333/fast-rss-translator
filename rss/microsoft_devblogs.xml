@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【G3J Learn Semantic Kernel Show – A Deep Dive in Korean! | 세계로 뻗어갑니다: “G3J Learn Semantic Kernel” 쇼 – 한국어로 배우는 Semantic Kernel!】G3J学习语义内核节目 - 深入韩文！ |它扩展到世界：“ G3J学习语义内核”节目 - 韩语语义内核学习！</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/g3j-learn-semantic-kernel-show-a-deep-dive-in-korean-%ec%84%b8%ea%b3%84%eb%a1%9c-%eb%bb%97%ec%96%b4%ea%b0%91%eb%8b%88%eb%8b%a4-g3j-learn-semantic-kernel-%ec%87%bc</link>
-      <description>【Global Expansion – &amp;#8220;G3J Learn Semantic Kernel&amp;#8221; Show – A Deep Dive in Korean! Localization Increases Demand Following the success of this multi-language delivery, we quickly noticed a surge in demand for localized content. Developers from different parts of the world have expressed interest in diving deeper into Semantic Kernel, and we couldn’t be more [&amp;hellip;]】全球扩展 - “ G3J学习语义内核”节目 - 朝鲜语中的深入潜水！在这种多语言交付的成功之后，本地化增加了需求，我们很快注意到对本地内容的需求激增。来自世界各地的开发人员表示有兴趣深入到语义内核，我们再也不会[…]</description>
-      <pubDate>Mon, 10 Mar 2025 15:29:18 +0000</pubDate>
+      <title>【A 10x Faster TypeScript】更快的打字稿10倍</title>
+      <link>https://devblogs.microsoft.com/typescript/typescript-native-port</link>
+      <description>【Today I&amp;#8217;m excited to announce the next steps we&amp;#8217;re taking to radically improve TypeScript performance. The core value proposition of TypeScript is an excellent developer experience. As your codebase grows, so does the value of TypeScript itself, but in many cases TypeScript has not been able to scale up to the very largest codebases. Developers [&amp;hellip;]】今天，我很高兴宣布我们正在采取的下一步，以从根本上提高打字稿的性能。打字稿的核心价值主张是出色的开发人员体验。随着代码库的增长，打字稿本身的价值也随之增长，但是在许多情况下，Typescript无法扩展到最大的代码库。开发人员[…]</description>
+      <pubDate>Tue, 11 Mar 2025 14:31:27 +0000</pubDate>
     </item>
     <item>
-      <title>【To some people, time zones are just a fancy way of sounding important, episode 2】对于某些人来说，时区只是听起来很重要的一种奇特的方式，第2集</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250307-00/?p=110946</link>
-      <description>【Words have meaning.】单词有意义。</description>
-      <pubDate>Fri, 07 Mar 2025 15:00:00 +0000</pubDate>
+      <title>【Customer Case Study: INCM transforms legal accessibility with an AI Search Assistant】客户案例研究：INCM通过AI搜索助手改变法律可访问性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-incm-transforms-legal-accessibility-with-an-ai-search-assistant</link>
+      <description>【Customer Case Study: INCM transforms legal accessibility with an AI Search Assistant The Imprensa Nacional-Casa da Moeda (INCM) is responsible for managing and publishing Portugal’s Diário da República (Official Gazette of the Republic of Portugal), which includes essential information for understanding laws, regulations, and legal processes. The quantity of information and the complex language used [&amp;hellip;]】客户案例研究：INCM通过AI搜索助理来改变法律访问性。Incrensanacional-casa da Moeda（INCM）负责管理和出版葡萄牙的DiárioDapropública（葡萄牙共和国的官方宪报），其中包括了解法律，法规和法律程序的必要信息。信息数量和所使用的复杂语言[…]</description>
+      <pubDate>Tue, 11 Mar 2025 19:29:25 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I destroy an ABI pointer that I extracted from a C++/WinRT object?】如何破坏从C ++/WinRT对象中提取的ABI指针？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250310-00/?p=110952</link>
-      <description>【You can clean it up the ABI way, whatever that is.】无论是什么，您都可以以ABI的方式清理它。</description>
-      <pubDate>Mon, 10 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【GitHub Copilot Chat now available in public preview for Eclipse】GitHub Copilot聊天现已在Eclipse的公共预览中可用</title>
+      <link>https://devblogs.microsoft.com/java/github-copilot-chat-now-available-in-public-preview-for-eclipse</link>
+      <description>【Today, GitHub Copilot Chat is available in public preview for Eclipse!  This release follows the initial public preview of GitHub Copilot in Eclipse, which only supported code completions, and is available for all Eclipse users with access to GitHub Copilot.   After installing or updating GitHub Copilot for Eclipse, click on  in the bottom right corner [&amp;hellip;]】今天，Github Copilot聊天可以在Eclipse的公共预览中获得！  该版本遵循Eclipse中GitHub Copilot的首次公开预览，该预览仅支持代码完成，并且可用于所有Eclipse用户，均可访问GitHub Copilot。   安装或更新github副铜进行日食后，单击右下角[…]</description>
+      <pubDate>Wed, 12 Mar 2025 00:11:55 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd) – March 2025】Azure开发人员CLI（AZD） -  2025年3月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-march-2025</link>
-      <description>【This post announces the March release of the Azure Developer CLI (`azd`).】这篇文章宣布了Azure开发人员CLI（``AZD&#39;）的三月发布。</description>
-      <pubDate>Fri, 07 Mar 2025 19:14:23 +0000</pubDate>
+      <title>【New Boards Hub Update】新董事会中心更新</title>
+      <link>https://devblogs.microsoft.com/devops/new-boards-hub-update-spring-2025</link>
+      <description>【We&amp;#8217;ve reached a major milestone in the rollout of New Boards Hub this week by making it the default experience for all organizations and users. While many users can still temporarily switch back if they encounter a blocking issue, our telemetry shows that 97% of users are staying on New Boards without reverting. This is [&amp;hellip;]】本周，我们通过为所有组织和用户提供了默认体验，在推出新董事会中心方面达到了一个重要的里程碑。尽管许多用户遇到阻止问题，但仍可以暂时切换，但我们的遥测表明，有97％的用户在不恢复的情况下留在新板上。这是 […]</description>
+      <pubDate>Tue, 11 Mar 2025 18:20:34 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET MAUI在 .NET 9 中的性能功能】.NET MAUI在 .NET 9 中的性能功能</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/net-maui%e5%9c%a8-net-9-%e4%b8%ad%e7%9a%84%e6%80%a7%e8%83%bd%e5%8a%9f%e8%83%bd</link>
-      <description>【本文翻译自 Jonathan 和 Simon 的 .NET MAUI Performance Features in .NET 9 .NET 多平台应用 UI (.NET MAUI) 随着各个版本的发布而不断发展，与此同时，.NET 9 重点引入了裁剪功能和一个新的受支持运行时：NativeAOT。这些功能可以帮助您减少应用程序大小、提高启动速度，并确保应用程序在各个平台上流畅运行。无论是希望优化 .NET MAUI 应用的开发者，还是 NuGet 包的作者，都可以在 .NET 9 中使用这些功能。 我们还将向开发人员介绍可用于测量 .NET MAUI 应用程序性能的选项。CPU 采样和内存快照可分别通过 dotnet-trace 和 dotnet-gcdump 获得。这些工具可以帮助您深入了解应用程序、NuGet 包的性能问题，甚至是我们需要关注的 .NET MAUI 问题。  背景 默认情况下， iOS 和 Android 上的 .NET MAUI 应用程序使用以下设置：  “自包含”: 意味着应用程序中包含 BCL 和运行时的副本。  部分裁剪（TrimMode=partial），意味着默认情况下不修剪应用程序或 NuGet [&amp;hellip;]】本文翻译自 Jonathan 和 Simon 的 .NET MAUI Performance Features in .NET 9 .NET 多平台应用 UI (.NET MAUI) 随着各个版本的发布而不断发展，与此同时，.NET 9 重点引入了裁剪功能和一个新的受支持运行时：NativeAOT。这些功能可以帮助您减少应用程序大小、提高启动速度，并确保应用程序在各个平台上流畅运行。无论是希望优化 .NET MAUI 应用的开发者，还是 NuGet 包的作者，都可以在 .NET 9 中使用这些功能。 我们还将向开发人员介绍可用于测量 .NET MAUI 应用程序性能的选项。CPU 采样和内存快照可分别通过 dotnet-trace 和 dotnet-gcdump 获得。这些工具可以帮助您深入了解应用程序、NuGet 包的性能问题，甚至是我们需要关注的 .NET MAUI 问题。  背景 默认情况下， iOS 和 Android 上的 .NET MAUI 应用程序使用以下设置：  “自包含”: 意味着应用程序中包含 BCL 和运行时的副本。  部分裁剪（TrimMode=partial），意味着默认情况下不修剪应用程序或 NuGet […]</description>
-      <pubDate>Fri, 07 Mar 2025 06:47:15 +0000</pubDate>
+      <title>【GPT-4o Copilot code completion model available now in Visual Studio public preview】GPT-4O Copilot代码完成模型现已在Visual Studio Public Preview中提供</title>
+      <link>https://devblogs.microsoft.com/visualstudio/gpt-4o-copilot-code-completion-model-available-now-in-visual-studio-public-preview</link>
+      <description>【We are excited to announce that the new GPT-4o Copilot code completion model is now available for GitHub Copilot users in Visual Studio starting in 17.14 Preview 2! This new model, based on GPT-4o mini, has undergone additional training on over 275,000 high-quality public repositories across more than 30 popular programming languages. As a result, [&amp;hellip;]】我们很高兴地宣布，现在可以在17.14 Preview 2开始的Visual Studio中的Github Copilot用户使用新的GPT-4O Copilot代码完成模型！这种基于GPT-4O Mini的新模型已经接受了针对30多种流行编程语言的275,000多个高质量公共存储库的额外培训。因此， […]</description>
+      <pubDate>Tue, 11 Mar 2025 15:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Changes on SharePoint Framework (SPFx) permission grants in Microsoft Entra ID】Microsoft Entra ID中的SharePoint Framework（SPFX）许可赠款的更改</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/changes-on-sharepoint-framework-spfx-permission-grants-in-microsoft-entra-id</link>
-      <description>【Changes on the SPFx permission management model in the Microsoft Entra ID.】Microsoft Entra ID中的SPFX权限管理模型的更改。</description>
-      <pubDate>Mon, 10 Mar 2025 13:32:50 +0000</pubDate>
+      <title>【Implementing Chat History for AI Applications Using Azure Cosmos DB Go SDK】使用Azure Cosmos DB GO SDK实施AI应用程序的聊天历史记录</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/implementing-chat-history-for-ai-applications-using-azure-cosmos-db-go-sdk</link>
+      <description>【This blog post covers how to build a chat history implementation using Azure Cosmos DB for NoSQL Go SDK and langchaingo. If you are new to the Go SDK, the sample chatbot application presented in the blog serves as a practical introduction, covering basic operations like read, upsert, etc. It also demonstrates using the Azure [&amp;hellip;]】这篇博客文章涵盖了如何使用NoSQL GO SDK和Langchaingo的Azure Cosmos DB构建聊天历史记录实现。如果您是GO SDK的新手，那么博客中介绍的示例聊天机器人应用程序将用作实用介绍，涵盖了Read，Upsert等基本操作。它还使用Azure […]演示了</description>
+      <pubDate>Tue, 11 Mar 2025 15:38:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.24.1-1 and 1.23.7-1 Microsoft builds now available】GO 1.24.1-1和1.23.7-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-1-1-and-1-23-7-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download.】现在可以下载Microsoft Go Build的新版本。</description>
-      <pubDate>Fri, 07 Mar 2025 09:07:07 +0000</pubDate>
+      <title>【Replacing jackson-databind with azure-json and azure-xml】用Azure-Json和Azure-XML代替Jackson-Databind</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/replacing-jackson-databind-with-azure-json-and-azure-xml</link>
+      <description>【This blog post explains how azure-json and azure-xml replaced jackson-databind in the Azure SDK for Java.】这篇博客文章解释了Azure-Json和Azure-XML如何在Java的Azure SDK中取代Jackson-Databind。</description>
+      <pubDate>Tue, 11 Mar 2025 20:38:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Integration of AWS Bedrock Agents in Semantic Kernel】在语义内核中的AWS基岩代理的整合</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integration-of-aws-bedrock-agents-in-semantic-kernel</link>
-      <description>【Overview of AWS Bedrock Agents AWS Bedrock Agents provide a managed service that facilitates the experimentation and rapid deployment of AI agents. Users can leverage proprietary AWS models as well as a diverse selection of models from various providers available on AWS Bedrock. Semantic Kernel&amp;#8217;s Integration with AWS Bedrock Semantic Kernel now integrates with AWS [&amp;hellip;]】AWS基岩代理AWS基岩代理商的概述提供了托管服务，以促进AI代理的实验和快速部署。用户可以利用专有的AWS模型以及来自AWS Bedrock上各种提供商的各种模型选择。语义内核与AWS BedRock语义内核的集成现在与AWS […]集成</description>
-      <pubDate>Fri, 07 Mar 2025 21:45:30 +0000</pubDate>
+      <title>【.NET and .NET Framework March 2025 servicing releases updates】.NET和.NET框架2025年3月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for March 2025.】2025年3月的.NET和.NET框架的最新服务更新的回顾。</description>
+      <pubDate>Tue, 11 Mar 2025 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlock Free Access to Cloud Academy: A New Benefit for Visual Studio Subscribers】解锁免费访问云学院：视觉工作室订户的新收益</title>
-      <link>https://devblogs.microsoft.com/visualstudio/cloud-academy-visual-studio-subscription-benefit</link>
-      <description>【I’m very excited to share some great news with you! Starting today, if you’re a Visual Studio Professional or Enterprise subscriber, you can get free access to Cloud Academy from QA—no trial, and no credit card required. This exclusive benefit is included with your Visual Studio subscription and provides 12 months of free access to [&amp;hellip;]】我很高兴与您分享一些好消息！从今天开始，如果您是视觉工作室专业人士或企业订阅者，则可以从QA获得免费访问Cloud Academy，而无需信用卡。您的视觉工作室订阅中包含了这种独家好处，并提供12个月的免费访问[…]</description>
-      <pubDate>Mon, 10 Mar 2025 12:00:55 +0000</pubDate>
+      <title>【March Patches for Azure DevOps Server】Azure DevOps服务器的三月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-3</link>
+      <description>【Today we are releasing patches that impact our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can download the latest version of the product, Azure DevOps Server 2022.2 from the Azure DevOps Server download page. The following versions of [&amp;hellip;]】今天，我们正在发布影响我们自托管产品Azure DevOps服务器的补丁。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。您可以从Azure Devops Server下载页面下载最新版本的产品Azure Devops Server 2022.2。以下版本的[…]</description>
+      <pubDate>Tue, 11 Mar 2025 19:12:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Talk to your agents! Introducing the Realtime API’s in Semantic Kernel】与您的代理商交谈！在语义内核中介绍实时API</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/talk-to-your-agents-introducing-the-realtime-apis-in-semantic-kernel</link>
-      <description>【Introducing Realtime Agents in Semantic Kernel for Python With release 1.23.0 of the Python version of Semantic Kernel we are introducing a new set of clients for interacting with the realtime multi-modal API&amp;#8217;s of OpenAI and Azure OpenAI. They provide a abstracted approach to connecting to those services, adding your tools and running apps that [&amp;hellip;]】在Python的语义内核中介绍实时代理，并在语义核的Python版本中发行1.23.0，我们正在介绍一组新客户端，以与实时多模式API互动OpenAI和Azure Openai进行交互。他们提供了一种抽象的方法来连接到这些服务，添加您的工具和运行应用程序[…]</description>
-      <pubDate>Thu, 06 Mar 2025 21:17:32 +0000</pubDate>
+      <title>【What an insightful observation, you get to wear “the hat”】多么有见地的观察，你可以戴上“帽子”</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250311-00/?p=110958</link>
+      <description>【Maybe not so insightful.】也许不是那么有见地。</description>
+      <pubDate>Tue, 11 Mar 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
