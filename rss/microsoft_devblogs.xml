@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【A 10x Faster TypeScript】更快的打字稿10倍</title>
-      <link>https://devblogs.microsoft.com/typescript/typescript-native-port</link>
-      <description>【Today I&amp;#8217;m excited to announce the next steps we&amp;#8217;re taking to radically improve TypeScript performance. The core value proposition of TypeScript is an excellent developer experience. As your codebase grows, so does the value of TypeScript itself, but in many cases TypeScript has not been able to scale up to the very largest codebases. Developers [&amp;hellip;]】今天，我很高兴宣布我们正在采取的下一步，以从根本上提高打字稿的性能。打字稿的核心价值主张是出色的开发人员体验。随着代码库的增长，打字稿本身的价值也随之增长，但是在许多情况下，Typescript无法扩展到最大的代码库。开发人员[…]</description>
-      <pubDate>Tue, 11 Mar 2025 14:31:27 +0000</pubDate>
+      <title>【Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications】您好Hybridcache！简化用于ASP.NET核心应用程序的高速缓存管理</title>
+      <link>https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga</link>
+      <description>【HybridCache is now GA, use today】Hybridcache现在是GA，今天使用</description>
+      <pubDate>Wed, 12 Mar 2025 16:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customer Case Study: INCM transforms legal accessibility with an AI Search Assistant】客户案例研究：INCM通过AI搜索助手改变法律可访问性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-incm-transforms-legal-accessibility-with-an-ai-search-assistant</link>
-      <description>【Customer Case Study: INCM transforms legal accessibility with an AI Search Assistant The Imprensa Nacional-Casa da Moeda (INCM) is responsible for managing and publishing Portugal’s Diário da República (Official Gazette of the Republic of Portugal), which includes essential information for understanding laws, regulations, and legal processes. The quantity of information and the complex language used [&amp;hellip;]】客户案例研究：INCM通过AI搜索助理来改变法律访问性。Incrensanacional-casa da Moeda（INCM）负责管理和出版葡萄牙的DiárioDapropública（葡萄牙共和国的官方宪报），其中包括了解法律，法规和法律程序的必要信息。信息数量和所使用的复杂语言[…]</description>
-      <pubDate>Tue, 11 Mar 2025 19:29:25 +0000</pubDate>
+      <title>【Make more sense of multithreaded debugging】更有意义地多线程调试</title>
+      <link>https://devblogs.microsoft.com/visualstudio/make-more-sense-of-multithreaded-debugging</link>
+      <description>【Debugging complex programs often feels like navigating a labyrinth of threads and stack traces. The challenge of understanding thread behaviors and tracing issues can be daunting, leading to longer development times and increased frustration. But now, there&amp;#8217;s a solution that simplifies this process—introducing AI-powered thread summaries in Parallel Stacks Window with Visual Studio. To address [&amp;hellip;]】调试复杂程序通常感觉就像导航迷宫的线程和堆栈痕迹。理解线程行为和追踪问题的挑战可能是令人生畏的，导致了更长的发展时间并增加了挫败感。但是现在，有一个解决方案简化了此过程 - 使用Visual Studio在并行堆栈窗口中引入了AI驱动的线程摘要。解决[…]</description>
+      <pubDate>Wed, 12 Mar 2025 15:23:36 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot Chat now available in public preview for Eclipse】GitHub Copilot聊天现已在Eclipse的公共预览中可用</title>
-      <link>https://devblogs.microsoft.com/java/github-copilot-chat-now-available-in-public-preview-for-eclipse</link>
-      <description>【Today, GitHub Copilot Chat is available in public preview for Eclipse!  This release follows the initial public preview of GitHub Copilot in Eclipse, which only supported code completions, and is available for all Eclipse users with access to GitHub Copilot.   After installing or updating GitHub Copilot for Eclipse, click on  in the bottom right corner [&amp;hellip;]】今天，Github Copilot聊天可以在Eclipse的公共预览中获得！  该版本遵循Eclipse中GitHub Copilot的首次公开预览，该预览仅支持代码完成，并且可用于所有Eclipse用户，均可访问GitHub Copilot。   安装或更新github副铜进行日食后，单击右下角[…]</description>
-      <pubDate>Wed, 12 Mar 2025 00:11:55 +0000</pubDate>
+      <title>【Customer Case Story: Creating a Semantic Kernel Agent for Automated GitHub Code Reviews】客户案例故事：为自动化GitHub代码评论创建语义内核代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-story-creating-a-semantic-kernel-agent-for-automated-github-code-reviews</link>
+      <description>【Today I want to welcome a guest author to our Semantic Kernel blog, Rasmus Wulff Jensen, to cover how he&amp;#8217;s created a Semantic Kernel agent for automated GitHub code review. We&amp;#8217;ll turn it over to Rasmus to dive in. Introduction If you work in software development, you know that Code reviews are an essential part [&amp;hellip;]】今天，我想欢迎一位来宾作者进入我们的语义内核博客Rasmus Wulff Jensen，以介绍他如何为自动化GitHub代码评论创建语义内核代理。我们将其移交给Rasmus进行潜水。简介您在软件开发中工作，您知道代码评论是必不可少的部分[…]</description>
+      <pubDate>Wed, 12 Mar 2025 22:27:35 +0000</pubDate>
     </item>
     <item>
-      <title>【New Boards Hub Update】新董事会中心更新</title>
-      <link>https://devblogs.microsoft.com/devops/new-boards-hub-update-spring-2025</link>
-      <description>【We&amp;#8217;ve reached a major milestone in the rollout of New Boards Hub this week by making it the default experience for all organizations and users. While many users can still temporarily switch back if they encounter a blocking issue, our telemetry shows that 97% of users are staying on New Boards without reverting. This is [&amp;hellip;]】本周，我们通过为所有组织和用户提供了默认体验，在推出新董事会中心方面达到了一个重要的里程碑。尽管许多用户遇到阻止问题，但仍可以暂时切换，但我们的遥测表明，有97％的用户在不恢复的情况下留在新板上。这是 […]</description>
-      <pubDate>Tue, 11 Mar 2025 18:20:34 +0000</pubDate>
+      <title>【Announcing Microsoft Desired State Configuration v3.0.0】宣布Microsoft所需状态配置v3.0.0</title>
+      <link>https://devblogs.microsoft.com/powershell/announcing-dsc-v3</link>
+      <description>【This post announces the release of Microsoft Desired State Configuration v3.0.0. We discuss the features and benefits of DSC and how it differs from PowerShell DSC.】这篇文章宣布了Microsoft所需状态配置v3.0.0的发布。我们讨论了DSC的特征和好处，以及它与PowerShell DSC的不同之处。</description>
+      <pubDate>Wed, 12 Mar 2025 17:58:25 +0000</pubDate>
     </item>
     <item>
-      <title>【GPT-4o Copilot code completion model available now in Visual Studio public preview】GPT-4O Copilot代码完成模型现已在Visual Studio Public Preview中提供</title>
-      <link>https://devblogs.microsoft.com/visualstudio/gpt-4o-copilot-code-completion-model-available-now-in-visual-studio-public-preview</link>
-      <description>【We are excited to announce that the new GPT-4o Copilot code completion model is now available for GitHub Copilot users in Visual Studio starting in 17.14 Preview 2! This new model, based on GPT-4o mini, has undergone additional training on over 275,000 high-quality public repositories across more than 30 popular programming languages. As a result, [&amp;hellip;]】我们很高兴地宣布，现在可以在17.14 Preview 2开始的Visual Studio中的Github Copilot用户使用新的GPT-4O Copilot代码完成模型！这种基于GPT-4O Mini的新模型已经接受了针对30多种流行编程语言的275,000多个高质量公共存储库的额外培训。因此， […]</description>
-      <pubDate>Tue, 11 Mar 2025 15:00:21 +0000</pubDate>
+      <title>【What are the thread safety requirements of HSTRING and BSTR?】HSTRING和BSTR的线程安全要求是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250312-00/?p=110960</link>
+      <description>【They do not have thread affinity.】他们没有线程亲和力。</description>
+      <pubDate>Wed, 12 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Implementing Chat History for AI Applications Using Azure Cosmos DB Go SDK】使用Azure Cosmos DB GO SDK实施AI应用程序的聊天历史记录</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/implementing-chat-history-for-ai-applications-using-azure-cosmos-db-go-sdk</link>
-      <description>【This blog post covers how to build a chat history implementation using Azure Cosmos DB for NoSQL Go SDK and langchaingo. If you are new to the Go SDK, the sample chatbot application presented in the blog serves as a practical introduction, covering basic operations like read, upsert, etc. It also demonstrates using the Azure [&amp;hellip;]】这篇博客文章涵盖了如何使用NoSQL GO SDK和Langchaingo的Azure Cosmos DB构建聊天历史记录实现。如果您是GO SDK的新手，那么博客中介绍的示例聊天机器人应用程序将用作实用介绍，涵盖了Read，Upsert等基本操作。它还使用Azure […]演示了</description>
-      <pubDate>Tue, 11 Mar 2025 15:38:12 +0000</pubDate>
+      <title>【Effortless Scaling: Autoscale goes GA on vCore-based Azure Cosmos DB for MongoDB】轻松缩放：AutoScale在基于Vcore的Azure Cosmos DB上进行GA</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/effortless-scaling-autoscale-goes-ga-on-vcore-based-azure-cosmos-db-for-mongodb</link>
+      <description>【We’re thrilled to announce that Autoscale is now generally available (GA) for vCore-based Azure Cosmos DB for MongoDB! Say goodbye to manual scaling and overprovisioning—Autoscale dynamically adjusts your database capacity in real time, ensuring peak performance exactly when you need it. Instant scaling? Check. Cost savings? Absolutely. Predictable pricing? You got it. Unlike traditional managed [&amp;hellip;]】我们很高兴地宣布，AutoScale现在通常可用于MongoDB的基于Vcore的Azure Cosmos DB（GA）！告别手动缩放和过度配置 -  Autoscale会实时动态调整您的数据库容量，从而确保在需要时准确确定峰值性能。即时缩放？查看。节省成本？绝对地。可预测的定价？你明白了。与传统管理不同[…]</description>
+      <pubDate>Wed, 12 Mar 2025 15:28:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Replacing jackson-databind with azure-json and azure-xml】用Azure-Json和Azure-XML代替Jackson-Databind</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/replacing-jackson-databind-with-azure-json-and-azure-xml</link>
-      <description>【This blog post explains how azure-json and azure-xml replaced jackson-databind in the Azure SDK for Java.】这篇博客文章解释了Azure-Json和Azure-XML如何在Java的Azure SDK中取代Jackson-Databind。</description>
-      <pubDate>Tue, 11 Mar 2025 20:38:45 +0000</pubDate>
+      <title>【New Python Driver for SQL Server and Azure SQL!】SQL Server和Azure SQL的新python驱动程序！</title>
+      <link>https://devblogs.microsoft.com/python/mssql-python-for-sqlserver-alpha-release</link>
+      <description>【We’re thrilled to announce the alpha release of our new open-source Python driver for Microsoft SQL Server and the Azure SQL family, now available on GitHub at mssql-python.】我们很高兴宣布Alpha发布我们的新开源Python driver for Microsoft SQL Server和Azure SQL家族，该驱动程序现已在MSSQL-Python的GitHub上找到。</description>
+      <pubDate>Wed, 12 Mar 2025 16:23:38 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework March 2025 servicing releases updates】.NET和.NET框架2025年3月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for March 2025.】2025年3月的.NET和.NET框架的最新服务更新的回顾。</description>
-      <pubDate>Tue, 11 Mar 2025 21:00:00 +0000</pubDate>
+      <title>【Get started with Microsoft Desired State Configuration v3.0.0】开始使用Microsoft所需状态配置v3.0.0</title>
+      <link>https://devblogs.microsoft.com/powershell/get-started-with-dsc-v3</link>
+      <description>【This post show you how to install DSC v3.0.0 and get started using the **dsc** command.】这篇文章向您展示了如何安装DSC v3.0.0并开始使用** dsc **命令开始。</description>
+      <pubDate>Wed, 12 Mar 2025 17:59:51 +0000</pubDate>
     </item>
     <item>
-      <title>【March Patches for Azure DevOps Server】Azure DevOps服务器的三月补丁</title>
-      <link>https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-3</link>
-      <description>【Today we are releasing patches that impact our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can download the latest version of the product, Azure DevOps Server 2022.2 from the Azure DevOps Server download page. The following versions of [&amp;hellip;]】今天，我们正在发布影响我们自托管产品Azure DevOps服务器的补丁。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。您可以从Azure Devops Server下载页面下载最新版本的产品Azure Devops Server 2022.2。以下版本的[…]</description>
-      <pubDate>Tue, 11 Mar 2025 19:12:50 +0000</pubDate>
+      <title>【Authoring Enhancements in Microsoft Desired State Configuration v3.0.0】Microsoft所需状态配置v3.0.0中的创作增强功能</title>
+      <link>https://devblogs.microsoft.com/powershell/enhanced-authoring-with-dsc-v3</link>
+      <description>【This is the third post in a multi-part series about the new release of DSC. Microsoft Desired State Configuration (DSC) v3.0.0 provides powerful feature that enhance the authoring experience. Shell completion Schema-based validation Support for modern DSLs like Azure Bicep DSC command completer The completer command returns a shell script that, when executed, registers completions [&amp;hellip;]】这是有关DSC新版本的多部分系列中的第三篇文章。 Microsoft所需的状态配置（DSC）v3.0.0提供了增强创作体验的功能强大的功能。基于shell架构模式的验证支持对现代DSL（例如Azure BICEP DSC命令完成器）命令命令返回一个shell脚本，执行后，该脚本登记完成[…]</description>
+      <pubDate>Wed, 12 Mar 2025 18:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【What an insightful observation, you get to wear “the hat”】多么有见地的观察，你可以戴上“帽子”</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250311-00/?p=110958</link>
-      <description>【Maybe not so insightful.】也许不是那么有见地。</description>
-      <pubDate>Tue, 11 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【What’s new in Microsoft Dev Box】Microsoft Dev Box中的新功能</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/whats-new-in-microsoft-dev-box</link>
+      <description>【This post covers the latest features and enhancements in Microsoft Dev Box. These updates introduce advanced customization capabilities, improved security, performance optimizations, and better developer experience to make Dev Box even more efficient. Last update: 03/12/2025 In this post: Config-as-workflow improvements Enhanced user provided customizations Developer onboarding &amp;amp; experience Streamlined and flexible onboarding for enterprises [&amp;hellip;]】这篇文章涵盖了Microsoft Dev Box中的最新功能和增强功能。这些更新介绍了高级自定义功能，提高安全性，性能优化以及更好的开发人员体验，以使开发框更加有效。上次更新：本文中的03/12/2025：config-as-workflow改进增强用户为企业提供了自定义开发人员入职和体验的精简和灵活的企业登机工作[…]</description>
+      <pubDate>Wed, 12 Mar 2025 19:44:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

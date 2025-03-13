@@ -4,22 +4,16 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #464】SRE周刊＃464</title>
-      <link>https://sreweekly.com/sre-weekly-issue-464/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: For years, on-call has felt more like a burden than a solution. But modern teams are making a change. On Feb 26 at 1 PM EST, hear why—and how—they’re moving from PagerDuty to incident.io On-call. Register now. https://go.incident.io/events/migrating-from-pagerduty So You Want to Build Your Own Data [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.io的信息：多年来，待命更像是负担，而不是解决方案。但是现代团队正在做出改变。在美国东部时间下午1点2月26日，听取为什么（以及如何）从Pagerduty转移到Issed.io。立即注册。 https://go.incident.io/events/migrating-from-pagerduty，因此您想构建自己的数据[…]</description>
-      <pubDate>Mon, 17 Feb 2025 02:30:11 +0000</pubDate>
+      <title>【SRE Weekly Issue #465】SRE周刊＃465</title>
+      <link>https://sreweekly.com/sre-weekly-issue-465/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: On-call shouldn’t be a constant source of stress. On Feb 26 at 1 PM EST, join us to hear from teams who’ve moved from PagerDuty to incident.io On-call—reducing noise, improving alerting, and making on-call less painful. Insights from engineers who’ve been there. https://go.incident.io/events/migrating-from-pagerduty Incident Report: Dec [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：呼叫不应该是不断的压力来源。美国东部时间2月26日下午1点，加入我们，听取从Pagerduty转移到事件的团队的来信。IOOIO待命 - 降低噪音，提高警报，并使电话痛苦减轻。去过那里的工程师的见解。 https://go.incident.io/events/migrating-from-pagerduty事件报告：DEC […]</description>
+      <pubDate>Mon, 24 Feb 2025 01:52:46 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #463】SRE周刊＃463</title>
       <link>https://sreweekly.com/sre-weekly-issue-463/</link>
       <description>【View on sreweekly.com A message from our sponsor, incident.io: Incidents move fast—so should your response. That&amp;#8217;s why we&amp;#8217;re building an AI responder that thinks like your team, not a machine. See how we&amp;#8217;re doing it, the challenges faced, and what else is on the AI roadmap. https://www.youtube.com/watch?v=rNpwZPOUhuE Probabilistic Increment Sometimes, we can harness randomness to [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.IO的消息：事件快速移动 - 因此您的响应应该。这就是为什么我们正在建立一个像您的团队一样思考的AI响应者，而不是机器。看看我们如何做到这一点，面临的挑战以及AI路线图上还有什么。 https://www.youtube.com/watch?v=rnpwzpouhue概率增量有时，我们可以将随机性放在[…]</description>
       <pubDate>Mon, 10 Feb 2025 02:17:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #465】SRE周刊＃465</title>
-      <link>https://sreweekly.com/sre-weekly-issue-465/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: On-call shouldn’t be a constant source of stress. On Feb 26 at 1 PM EST, join us to hear from teams who’ve moved from PagerDuty to incident.io On-call—reducing noise, improving alerting, and making on-call less painful. Insights from engineers who’ve been there. https://go.incident.io/events/migrating-from-pagerduty Incident Report: Dec [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Insped.io的消息：呼叫不应该是不断的压力来源。美国东部时间2月26日下午1点，加入我们，听取从Pagerduty转移到事件的团队的来信。IOOIO待命 - 降低噪音，提高警报，并使电话痛苦减轻。去过那里的工程师的见解。 https://go.incident.io/events/migrating-from-pagerduty事件报告：DEC […]</description>
-      <pubDate>Mon, 24 Feb 2025 01:52:46 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #467】SRE周刊＃467</title>
@@ -32,6 +26,12 @@
       <link>https://sreweekly.com/sre-weekly-issue-466/</link>
       <description>【View on sreweekly.com A bit of a short issue this week, as I spent most of my weekend at my child&amp;#8217;s first First Robotics Competition of the season. FRC truly is a microcosm of reliability engineering, balancing limited time and resources while trying to produce the most reliable bot possible. A message from our sponsor, [&amp;#8230;]】本周在Sreweekly.com上查看一些简短的问题，因为我大部分周末都在孩子本赛季的首个机器人比赛中度过。 FRC确实是可靠性工程的缩影，平衡有限的时间和资源，同时试图生产最可靠的机器人。我们的赞助商的消息，[…]</description>
       <pubDate>Mon, 03 Mar 2025 02:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #464】SRE周刊＃464</title>
+      <link>https://sreweekly.com/sre-weekly-issue-464/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: For years, on-call has felt more like a burden than a solution. But modern teams are making a change. On Feb 26 at 1 PM EST, hear why—and how—they’re moving from PagerDuty to incident.io On-call. Register now. https://go.incident.io/events/migrating-from-pagerduty So You Want to Build Your Own Data [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.io的信息：多年来，待命更像是负担，而不是解决方案。但是现代团队正在做出改变。在美国东部时间下午1点2月26日，听取为什么（以及如何）从Pagerduty转移到Issed.io。立即注册。 https://go.incident.io/events/migrating-from-pagerduty，因此您想构建自己的数据[…]</description>
+      <pubDate>Mon, 17 Feb 2025 02:30:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
