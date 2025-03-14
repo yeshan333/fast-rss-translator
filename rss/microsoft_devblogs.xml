@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications】您好Hybridcache！简化用于ASP.NET核心应用程序的高速缓存管理</title>
-      <link>https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga</link>
-      <description>【HybridCache is now GA, use today】Hybridcache现在是GA，今天使用</description>
-      <pubDate>Wed, 12 Mar 2025 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Make more sense of multithreaded debugging】更有意义地多线程调试</title>
-      <link>https://devblogs.microsoft.com/visualstudio/make-more-sense-of-multithreaded-debugging</link>
-      <description>【Debugging complex programs often feels like navigating a labyrinth of threads and stack traces. The challenge of understanding thread behaviors and tracing issues can be daunting, leading to longer development times and increased frustration. But now, there&amp;#8217;s a solution that simplifies this process—introducing AI-powered thread summaries in Parallel Stacks Window with Visual Studio. To address [&amp;hellip;]】调试复杂程序通常感觉就像导航迷宫的线程和堆栈痕迹。理解线程行为和追踪问题的挑战可能是令人生畏的，导致了更长的发展时间并增加了挫败感。但是现在，有一个解决方案简化了此过程 - 使用Visual Studio在并行堆栈窗口中引入了AI驱动的线程摘要。解决[…]</description>
-      <pubDate>Wed, 12 Mar 2025 15:23:36 +0000</pubDate>
-    </item>
-    <item>
       <title>【Customer Case Story: Creating a Semantic Kernel Agent for Automated GitHub Code Reviews】客户案例故事：为自动化GitHub代码评论创建语义内核代理</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-story-creating-a-semantic-kernel-agent-for-automated-github-code-reviews</link>
       <description>【Today I want to welcome a guest author to our Semantic Kernel blog, Rasmus Wulff Jensen, to cover how he&amp;#8217;s created a Semantic Kernel agent for automated GitHub code review. We&amp;#8217;ll turn it over to Rasmus to dive in. Introduction If you work in software development, you know that Code reviews are an essential part [&amp;hellip;]】今天，我想欢迎一位来宾作者进入我们的语义内核博客Rasmus Wulff Jensen，以介绍他如何为自动化GitHub代码评论创建语义内核代理。我们将其移交给Rasmus进行潜水。简介您在软件开发中工作，您知道代码评论是必不可少的部分[…]</description>
       <pubDate>Wed, 12 Mar 2025 22:27:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Microsoft Desired State Configuration v3.0.0】宣布Microsoft所需状态配置v3.0.0</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-dsc-v3</link>
-      <description>【This post announces the release of Microsoft Desired State Configuration v3.0.0. We discuss the features and benefits of DSC and how it differs from PowerShell DSC.】这篇文章宣布了Microsoft所需状态配置v3.0.0的发布。我们讨论了DSC的特征和好处，以及它与PowerShell DSC的不同之处。</description>
-      <pubDate>Wed, 12 Mar 2025 17:58:25 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Data in transit】Microsoft 365认证控制聚光灯：运输中的数据</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-in-transit</link>
+      <description>【Ensure your Microsoft Teams app, Microsoft 365 add-in, or agent meets the latest compliance standards with Microsoft 365 Certification.】确保您的Microsoft Teams应用程序，Microsoft 365加载项或代理商符合Microsoft 365认证的最新合规性标准。</description>
+      <pubDate>Thu, 13 Mar 2025 18:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What are the thread safety requirements of HSTRING and BSTR?】HSTRING和BSTR的线程安全要求是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250312-00/?p=110960</link>
-      <description>【They do not have thread affinity.】他们没有线程亲和力。</description>
-      <pubDate>Wed, 12 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Markdown for large text fields (private preview)】大型文本字段的宣传（私人预览）</title>
+      <link>https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview</link>
+      <description>【Adding Markdown capabilities to the work item is a long-standing request. We introduced Markdown for comments in early 2024, but due to the rollout of the New Boards Hub, we put the feature on hold. Today, we’re excited to announce a private preview for Markdown support in large text fields! 🎉 🦄 How it works [&amp;hellip;]】在工作项目中添加降价功能是一个长期的请求。我们在2024年初介绍了评论的Markdown，但是由于新董事会集线器的推出，我们暂停了该功能。今天，我们很高兴宣布在大型文本字段中进行销售支持的私人预览！ 🎉🦄如何工作[…]</description>
+      <pubDate>Thu, 13 Mar 2025 20:10:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Effortless Scaling: Autoscale goes GA on vCore-based Azure Cosmos DB for MongoDB】轻松缩放：AutoScale在基于Vcore的Azure Cosmos DB上进行GA</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/effortless-scaling-autoscale-goes-ga-on-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【We’re thrilled to announce that Autoscale is now generally available (GA) for vCore-based Azure Cosmos DB for MongoDB! Say goodbye to manual scaling and overprovisioning—Autoscale dynamically adjusts your database capacity in real time, ensuring peak performance exactly when you need it. Instant scaling? Check. Cost savings? Absolutely. Predictable pricing? You got it. Unlike traditional managed [&amp;hellip;]】我们很高兴地宣布，AutoScale现在通常可用于MongoDB的基于Vcore的Azure Cosmos DB（GA）！告别手动缩放和过度配置 -  Autoscale会实时动态调整您的数据库容量，从而确保在需要时准确确定峰值性能。即时缩放？查看。节省成本？绝对地。可预测的定价？你明白了。与传统管理不同[…]</description>
-      <pubDate>Wed, 12 Mar 2025 15:28:31 +0000</pubDate>
+      <title>【Flexible Tool Selection for ML Model Production】ML模型生产的灵活工具选择</title>
+      <link>https://devblogs.microsoft.com/ise/ml-model-prod-tooling</link>
+      <description>【data science and software engineering teams can choose the best tools for their respective roles in delivering machine learning models to production.】数据科学和软件工程团队可以为其在将机器学习模型传递到生产中的各自角色中选择最佳工具。</description>
+      <pubDate>Thu, 13 Mar 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New Python Driver for SQL Server and Azure SQL!】SQL Server和Azure SQL的新python驱动程序！</title>
-      <link>https://devblogs.microsoft.com/python/mssql-python-for-sqlserver-alpha-release</link>
-      <description>【We’re thrilled to announce the alpha release of our new open-source Python driver for Microsoft SQL Server and the Azure SQL family, now available on GitHub at mssql-python.】我们很高兴宣布Alpha发布我们的新开源Python driver for Microsoft SQL Server和Azure SQL家族，该驱动程序现已在MSSQL-Python的GitHub上找到。</description>
-      <pubDate>Wed, 12 Mar 2025 16:23:38 +0000</pubDate>
+      <title>【Making sure that a DLL loads only from your application directory】确保DLL仅从您的应用程序目录加载</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250313-00/?p=110963</link>
+      <description>【You can ask for it as an option, but think about what you&#39;re actually protecting against.】您可以将其作为一种选择，但请考虑一下您实际保护的东西。</description>
+      <pubDate>Thu, 13 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Get started with Microsoft Desired State Configuration v3.0.0】开始使用Microsoft所需状态配置v3.0.0</title>
-      <link>https://devblogs.microsoft.com/powershell/get-started-with-dsc-v3</link>
-      <description>【This post show you how to install DSC v3.0.0 and get started using the **dsc** command.】这篇文章向您展示了如何安装DSC v3.0.0并开始使用** dsc **命令开始。</description>
-      <pubDate>Wed, 12 Mar 2025 17:59:51 +0000</pubDate>
+      <title>【Using Azure AI Agents with Semantic Kernel in .NET and Python】在.NET和Python中使用具有语义内核的Azure AI代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/using-azure-ai-agents-with-semantic-kernel-in-net-and-python</link>
+      <description>【Today we’re excited to dive into Semantic Kernel and Azure AI Agents. There are additional details about using an AzureAIAgent within Semantic Kernel covered in our documentation here. Azure AI Agents are powerful tools for developers seeking to integrate AI capabilities into their applications. In this blog post, we&amp;#8217;ll explore how to utilize Azure AI [&amp;hellip;]】今天，我们很高兴潜入语义内核和Azure AI代理。还有有关在我们的文档中介绍的语义内核中使用AzureAiagent的其他详细信息。 Azure AI代理是寻求将AI功能集成到其应用程序的开发人员的强大工具。在此博客文章中，我们将探讨如何利用Azure AI […]</description>
+      <pubDate>Thu, 13 Mar 2025 14:33:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Authoring Enhancements in Microsoft Desired State Configuration v3.0.0】Microsoft所需状态配置v3.0.0中的创作增强功能</title>
-      <link>https://devblogs.microsoft.com/powershell/enhanced-authoring-with-dsc-v3</link>
-      <description>【This is the third post in a multi-part series about the new release of DSC. Microsoft Desired State Configuration (DSC) v3.0.0 provides powerful feature that enhance the authoring experience. Shell completion Schema-based validation Support for modern DSLs like Azure Bicep DSC command completer The completer command returns a shell script that, when executed, registers completions [&amp;hellip;]】这是有关DSC新版本的多部分系列中的第三篇文章。 Microsoft所需的状态配置（DSC）v3.0.0提供了增强创作体验的功能强大的功能。基于shell架构模式的验证支持对现代DSL（例如Azure BICEP DSC命令完成器）命令命令返回一个shell脚本，执行后，该脚本登记完成[…]</description>
-      <pubDate>Wed, 12 Mar 2025 18:00:43 +0000</pubDate>
+      <title>【DirectX at GDC 2025】DirectX在GDC 2025</title>
+      <link>https://devblogs.microsoft.com/directx/directx-at-gdc-2025</link>
+      <description>【We’re counting down the days until the Microsoft DirectX team will be at the Game Developers Conference 2025 with a lineup of exciting sessions and announcements to push the boundaries of game development. Whether you’re a seasoned graphics developer or just diving into the world of DirectX, our sessions will offer valuable insights into the [&amp;hellip;]】我们正在倒数日子，直到Microsoft DirectX团队将参加2025年游戏开发人员会议，并进行了一系列令人兴奋的会议和公告，以突破游戏开发的界限。无论您是经验丰富的图形开发人员还是只是潜入DirectX世界，我们的会议都会为[…]提供宝贵的见解。</description>
+      <pubDate>Thu, 13 Mar 2025 13:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s new in Microsoft Dev Box】Microsoft Dev Box中的新功能</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/whats-new-in-microsoft-dev-box</link>
-      <description>【This post covers the latest features and enhancements in Microsoft Dev Box. These updates introduce advanced customization capabilities, improved security, performance optimizations, and better developer experience to make Dev Box even more efficient. Last update: 03/12/2025 In this post: Config-as-workflow improvements Enhanced user provided customizations Developer onboarding &amp;amp; experience Streamlined and flexible onboarding for enterprises [&amp;hellip;]】这篇文章涵盖了Microsoft Dev Box中的最新功能和增强功能。这些更新介绍了高级自定义功能，提高安全性，性能优化以及更好的开发人员体验，以使开发框更加有效。上次更新：本文中的03/12/2025：config-as-workflow改进增强用户为企业提供了自定义开发人员入职和体验的精简和灵活的企业登机工作[…]</description>
-      <pubDate>Wed, 12 Mar 2025 19:44:14 +0000</pubDate>
+      <title>【The Future of AI: Customizing AI Agents with the Semantic Kernel Agent Framework】AI的未来：使用语义内核代理框架自定义AI代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/the-future-of-ai-customizing-ai-agents-with-the-semantic-kernel-agent-framework</link>
+      <description>【Today we&amp;#8217;re excited to promote a recent blog from AI Platform focused on customizing AI agents with the Semantic Kernel agent framework. Read the entire blog post: here The Future of AI blog series is an evolving collection of posts from the AI Futures team in collaboration with subject matter experts across Microsoft. In this [&amp;hellip;]】今天，我们很高兴推广来自AI平台的最新博客，该博客致力于使用语义内核代理框架自定义AI代理。阅读整个博客文章：在这里，AI博客系列的未来是与Microsoft的主题专家合作的AI期货团队不断发展的帖子集合。在这个[…]</description>
+      <pubDate>Thu, 13 Mar 2025 21:39:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing support for SLNX, a new, simpler solution file format in the .NET CLI】引入对SLNX的支持，SLNX是.NET CLI中的一种新的，简单的解决方案文件格式</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli</link>
+      <description>【Learn about the .NET CLI&#39;s ability to interact with the new XML-based solution file format.】了解.NET CLI与新的基于XML的解决方案文件格式进行交互的能力。</description>
+      <pubDate>Thu, 13 Mar 2025 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New, Simpler Solution File Format】新的，更简单的解决方案文件格式</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format</link>
+      <description>【For years, you’ve worked with Visual Studio’s solution file (*.SLN) format, and while it’s a core part of your project organization, we know the experience hasn’t always been smooth. Whether you’ve been modifying, maintaining, or trying to resolve merge conflicts, it’s often felt more like a hassle than it should be. We understand your frustrations, [&amp;hellip;]】多年来，您一直使用Visual Studio的解决方案文件（*.SLN）格式，尽管它是项目组织的核心部分，但我们知道体验并不总是很顺利。无论您是在修改，维护还是试图解决合并冲突，通常都会比这更像是麻烦。我们了解您的挫败感，[…]</description>
+      <pubDate>Thu, 13 Mar 2025 17:30:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
