@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Customer Case Story: Creating a Semantic Kernel Agent for Automated GitHub Code Reviews】客户案例故事：为自动化GitHub代码评论创建语义内核代理</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-story-creating-a-semantic-kernel-agent-for-automated-github-code-reviews</link>
-      <description>【Today I want to welcome a guest author to our Semantic Kernel blog, Rasmus Wulff Jensen, to cover how he&amp;#8217;s created a Semantic Kernel agent for automated GitHub code review. We&amp;#8217;ll turn it over to Rasmus to dive in. Introduction If you work in software development, you know that Code reviews are an essential part [&amp;hellip;]】今天，我想欢迎一位来宾作者进入我们的语义内核博客Rasmus Wulff Jensen，以介绍他如何为自动化GitHub代码评论创建语义内核代理。我们将其移交给Rasmus进行潜水。简介您在软件开发中工作，您知道代码评论是必不可少的部分[…]</description>
-      <pubDate>Wed, 12 Mar 2025 22:27:35 +0000</pubDate>
+      <title>【The Future of AI: Customizing AI Agents with the Semantic Kernel Agent Framework】AI的未来：使用语义内核代理框架自定义AI代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/the-future-of-ai-customizing-ai-agents-with-the-semantic-kernel-agent-framework</link>
+      <description>【Today we&amp;#8217;re excited to promote a recent blog from AI Platform focused on customizing AI agents with the Semantic Kernel agent framework. Read the entire blog post: here The Future of AI blog series is an evolving collection of posts from the AI Futures team in collaboration with subject matter experts across Microsoft. In this [&amp;hellip;]】今天，我们很高兴推广来自AI平台的最新博客，该博客致力于使用语义内核代理框架自定义AI代理。阅读整个博客文章：在这里，AI博客系列的未来是与Microsoft的主题专家合作的AI期货团队不断发展的帖子集合。在这个[…]</description>
+      <pubDate>Thu, 13 Mar 2025 21:39:54 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft 365 Certification control spotlight: Data in transit】Microsoft 365认证控制聚光灯：运输中的数据</title>
@@ -16,40 +16,22 @@
       <pubDate>Thu, 13 Mar 2025 18:24:00 +0000</pubDate>
     </item>
     <item>
+      <title>【New, Simpler Solution File Format】新的，更简单的解决方案文件格式</title>
+      <link>https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format</link>
+      <description>【For years, you’ve worked with Visual Studio’s solution file (*.SLN) format, and while it’s a core part of your project organization, we know the experience hasn’t always been smooth. Whether you’ve been modifying, maintaining, or trying to resolve merge conflicts, it’s often felt more like a hassle than it should be. We understand your frustrations, [&amp;hellip;]】多年来，您一直使用Visual Studio的解决方案文件（*.SLN）格式，尽管它是项目组织的核心部分，但我们知道体验并不总是很顺利。无论您是在修改，维护还是试图解决合并冲突，通常都会比这更像是麻烦。我们了解您的挫败感，[…]</description>
+      <pubDate>Thu, 13 Mar 2025 17:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET AI 模板现已提供预览版】.NET AI 模板现已提供预览版</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/net-ai-%e6%a8%a1%e6%9d%bf%e7%8e%b0%e5%b7%b2%e6%8f%90%e4%be%9b%e9%a2%84%e8%a7%88%e7%89%88</link>
+      <description>【本文翻译自Jordan Matthiesen的.NET AI Template Now Available in Preview 想要开始 AI 开发，却不确定从哪里入手？我给您带来了一个好消息——我们全新的 AI 聊天 Web 应用模板现已提供预览版！这个模板是我们不断努力的一部分，旨在通过在Visual Studio，Visual Studio Code 和 .NET CLI 中提供脚手架和指导，让使用 .NET 进行 AI 开发变得更容易上手。  请注意，该模板目前为预览版，未来版本可能会根据您的反馈和 AI 的快速发展进行调整。  立即安装模板  如果想要开始使用该模板的首个预览版，您需要在终端中安装 Microsoft.Extensions.AI.Templates。只需运行：  dotnet new install Microsoft.Extensions.AI.Templates 安装完成后，该模板即可在 Visual Studio，Visual Studio Code（需安装 C# Dev Kit）中使用，或者您也可以在工作目录中运行命令 dotnet new aichatweb 来创建它。  入门指南：.NET AI 聊天模板  .NET AI 聊天模板旨在帮助您快速构建一个基于 AI [&amp;hellip;]】本文翻译自Jordan Matthiesen的.NET AI Template Now Available in Preview 想要开始 AI 开发，却不确定从哪里入手？我给您带来了一个好消息——我们全新的 AI 聊天 Web 应用模板现已提供预览版！这个模板是我们不断努力的一部分，旨在通过在Visual Studio，Visual Studio Code 和 .NET CLI 中提供脚手架和指导，让使用 .NET 进行 AI 开发变得更容易上手。  请注意，该模板目前为预览版，未来版本可能会根据您的反馈和 AI 的快速发展进行调整。  立即安装模板  如果想要开始使用该模板的首个预览版，您需要在终端中安装 Microsoft.Extensions.AI.Templates。只需运行：  dotnet new install Microsoft.Extensions.AI.Templates 安装完成后，该模板即可在 Visual Studio，Visual Studio Code（需安装 C# Dev Kit）中使用，或者您也可以在工作目录中运行命令 dotnet new aichatweb 来创建它。  入门指南：.NET AI 聊天模板  .NET AI 聊天模板旨在帮助您快速构建一个基于 AI […]</description>
+      <pubDate>Fri, 14 Mar 2025 06:56:04 +0000</pubDate>
+    </item>
+    <item>
       <title>【Markdown for large text fields (private preview)】大型文本字段的宣传（私人预览）</title>
       <link>https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview</link>
       <description>【Adding Markdown capabilities to the work item is a long-standing request. We introduced Markdown for comments in early 2024, but due to the rollout of the New Boards Hub, we put the feature on hold. Today, we’re excited to announce a private preview for Markdown support in large text fields! 🎉 🦄 How it works [&amp;hellip;]】在工作项目中添加降价功能是一个长期的请求。我们在2024年初介绍了评论的Markdown，但是由于新董事会集线器的推出，我们暂停了该功能。今天，我们很高兴宣布在大型文本字段中进行销售支持的私人预览！ 🎉🦄如何工作[…]</description>
       <pubDate>Thu, 13 Mar 2025 20:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Flexible Tool Selection for ML Model Production】ML模型生产的灵活工具选择</title>
-      <link>https://devblogs.microsoft.com/ise/ml-model-prod-tooling</link>
-      <description>【data science and software engineering teams can choose the best tools for their respective roles in delivering machine learning models to production.】数据科学和软件工程团队可以为其在将机器学习模型传递到生产中的各自角色中选择最佳工具。</description>
-      <pubDate>Thu, 13 Mar 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Making sure that a DLL loads only from your application directory】确保DLL仅从您的应用程序目录加载</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250313-00/?p=110963</link>
-      <description>【You can ask for it as an option, but think about what you&#39;re actually protecting against.】您可以将其作为一种选择，但请考虑一下您实际保护的东西。</description>
-      <pubDate>Thu, 13 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using Azure AI Agents with Semantic Kernel in .NET and Python】在.NET和Python中使用具有语义内核的Azure AI代理</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/using-azure-ai-agents-with-semantic-kernel-in-net-and-python</link>
-      <description>【Today we’re excited to dive into Semantic Kernel and Azure AI Agents. There are additional details about using an AzureAIAgent within Semantic Kernel covered in our documentation here. Azure AI Agents are powerful tools for developers seeking to integrate AI capabilities into their applications. In this blog post, we&amp;#8217;ll explore how to utilize Azure AI [&amp;hellip;]】今天，我们很高兴潜入语义内核和Azure AI代理。还有有关在我们的文档中介绍的语义内核中使用AzureAiagent的其他详细信息。 Azure AI代理是寻求将AI功能集成到其应用程序的开发人员的强大工具。在此博客文章中，我们将探讨如何利用Azure AI […]</description>
-      <pubDate>Thu, 13 Mar 2025 14:33:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DirectX at GDC 2025】DirectX在GDC 2025</title>
-      <link>https://devblogs.microsoft.com/directx/directx-at-gdc-2025</link>
-      <description>【We’re counting down the days until the Microsoft DirectX team will be at the Game Developers Conference 2025 with a lineup of exciting sessions and announcements to push the boundaries of game development. Whether you’re a seasoned graphics developer or just diving into the world of DirectX, our sessions will offer valuable insights into the [&amp;hellip;]】我们正在倒数日子，直到Microsoft DirectX团队将参加2025年游戏开发人员会议，并进行了一系列令人兴奋的会议和公告，以突破游戏开发的界限。无论您是经验丰富的图形开发人员还是只是潜入DirectX世界，我们的会议都会为[…]提供宝贵的见解。</description>
-      <pubDate>Thu, 13 Mar 2025 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Future of AI: Customizing AI Agents with the Semantic Kernel Agent Framework】AI的未来：使用语义内核代理框架自定义AI代理</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/the-future-of-ai-customizing-ai-agents-with-the-semantic-kernel-agent-framework</link>
-      <description>【Today we&amp;#8217;re excited to promote a recent blog from AI Platform focused on customizing AI agents with the Semantic Kernel agent framework. Read the entire blog post: here The Future of AI blog series is an evolving collection of posts from the AI Futures team in collaboration with subject matter experts across Microsoft. In this [&amp;hellip;]】今天，我们很高兴推广来自AI平台的最新博客，该博客致力于使用语义内核代理框架自定义AI代理。阅读整个博客文章：在这里，AI博客系列的未来是与Microsoft的主题专家合作的AI期货团队不断发展的帖子集合。在这个[…]</description>
-      <pubDate>Thu, 13 Mar 2025 21:39:54 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing support for SLNX, a new, simpler solution file format in the .NET CLI】引入对SLNX的支持，SLNX是.NET CLI中的一种新的，简单的解决方案文件格式</title>
@@ -58,10 +40,28 @@
       <pubDate>Thu, 13 Mar 2025 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New, Simpler Solution File Format】新的，更简单的解决方案文件格式</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format</link>
-      <description>【For years, you’ve worked with Visual Studio’s solution file (*.SLN) format, and while it’s a core part of your project organization, we know the experience hasn’t always been smooth. Whether you’ve been modifying, maintaining, or trying to resolve merge conflicts, it’s often felt more like a hassle than it should be. We understand your frustrations, [&amp;hellip;]】多年来，您一直使用Visual Studio的解决方案文件（*.SLN）格式，尽管它是项目组织的核心部分，但我们知道体验并不总是很顺利。无论您是在修改，维护还是试图解决合并冲突，通常都会比这更像是麻烦。我们了解您的挫败感，[…]</description>
-      <pubDate>Thu, 13 Mar 2025 17:30:38 +0000</pubDate>
+      <title>【Exploring SQL Server Integration with .NET Aspire: A Collection of Hands-On Samples】与.NET Aspire探索SQL Server集成：动手样本的集合</title>
+      <link>https://devblogs.microsoft.com/azure-sql/exploring-sql-server-integration-with-net-aspire-a-collection-of-hands-on-samples</link>
+      <description>【I&amp;#8217;m happy to share a new GitHub repository with developers: azure-sql-db-aspire. This collection of eight hands-on examples demonstrates how to integrate SQL Server and Azure SQL with .NET Aspire, making it easier to build modern, cloud-native applications. Why .NET Aspire for SQL Server? .NET Aspire is a new opinionated, cloud-ready stack for .NET applications that [&amp;hellip;]】我很高兴与开发人员分享一个新的GitHub存储库：Azure-SQL-DB-Aspire。这个八个动手示例的集合演示了如何将SQL Server和Azure SQL与.NET Aspire集成，从而更容易构建现代的云本地应用程序。为什么为SQL Server的.NET ASPIRE？ 。</description>
+      <pubDate>Fri, 14 Mar 2025 15:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of COM failing to pump messages in a single-threaded COM apartment】com未能在单线程公寓中泵送消息的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250314-00/?p=110965</link>
+      <description>【A customer encountered a hang caused by COM not pumping messages while waiting for a cross-thread operation to complete. They were using the task_sequencer class for serializing asynchronous operations on a UI thread they created to handle accessibility callbacks. The hang stack looked like this: ntdll!ZwWaitForMultipleObjects+0x4 KERNELBASE!WaitForMultipleObjectsEx+0xe0 combase!MTAThreadDispatchCrossApartmentCall+0x3a0 combase!CSyncClientCall::SendReceive2+0x65c combase!DefaultSendReceive+0x88 combase!CSyncClientCall::SendReceive+0x390 combase!CClientChannel::SendReceive+0xc0 combase!NdrExtpProxySendReceive+0x68 rpcrt4!NdrpClientCall3+0x764 combase!ObjectStublessClient+0x180 [&amp;hellip;]】客户在等待跨线程操作完成时遇到的悬挂式悬挂。他们正在使用Task_Sequencer类在其创建的UI线程上序列化异步操作，以处理可访问性回调。悬挂堆栈看起来像这样：ntdll！zwwaitformultipleObjects+0x4 kernelbase！waitgurformultipleObjectsxsex+0xe0 bome！mtathreaddispatchcrossapartmentCallcall+0x3a0 compase！csyncclientCall :: sendReceive2 combase！csyncclientCall :: sendreceive+0x390 combase！cclientChannel :: sendReceive+0xc0 combase！ndrextpproxysendreceive+0x68 rpcrt4！ndrpclientCall3+0x764 combase！</description>
+      <pubDate>Fri, 14 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio at GDC 2025】GDC 2025的Visual Studio</title>
+      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-gdc-2025</link>
+      <description>【Join us in-person at Game Developers Conference 2025 with an in-depth look at how Visual Studio and GitHub Copilot can streamline your iteration workflow. Don’t miss the unveiling of our biggest C++ debugger update yet. Session Title: Accelerating Your Inner Loop with Visual Studio and GitHub Copilot Session Info: March 19th, 2025, 12:30 PM-1:30 PM Pacific Time | [&amp;hellip;]】加入我们在2025年的Game Developers Conference Conferition Charters Inter-In-Menth，深入了解Visual Studio和Github Copilot如何简化您的迭代工作流程。不要错过我们最大的C ++调试器更新的揭幕。会议标题：通过Visual Studio和Github Copilot会话加速您的内部循环信息：2025年3月19日，12：30 PM-1：30 PM太平洋时间| […]</description>
+      <pubDate>Fri, 14 Mar 2025 17:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Couchbase Connector】客户案例研究：宣布Microsoft语义内核Couchbase连接器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-announcing-the-microsoft-semantic-kernel-couchbase-connector</link>
+      <description>【We&amp;#8217;re thrilled to announce the launch of the Semantic Kernel Couchbase Vector Store Connector for .NET developers, created through our strategic partnership with Microsoft&amp;#8217;s Semantic Kernel team. This powerful out-of-the-box connector transforms how developers integrate vector search capabilities into their AI applications. What sets this connector apart is how it harnesses Couchbase&amp;#8217;s distributed NoSQL platform [&amp;hellip;]】我们很高兴地宣布，为.NET开发人员推出了通过与Microsoft的Sminantic内核团队建立的。这种功能强大的开箱即用连接器将开发人员如何将矢量搜索功能集成到其AI应用程序中。设置该连接器与众不同的是它如何利用Couchbase的分布式NOSQL平台[…]</description>
+      <pubDate>Fri, 14 Mar 2025 17:32:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
