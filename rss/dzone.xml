@@ -4,12 +4,6 @@
     <link>https://feeds.dzone.com/home</link>
     <description>Recent posts on DZone.com</description>
     <item>
-      <title>【Event Sourcing 101: When to Use and How to Avoid Pitfalls】事件采购101：何时使用以及如何避免陷阱</title>
-      <link>https://dzone.com/articles/event-sourcing-guide-when-to-use-avoid-pitfalls</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;Recently, I delivered a lecture to my colleagues on event sourcing, and I realized that this introductory information could be valuable to a broader audience.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;This article is useful for those interested in the concept of event sourcing and who want to decide if it&#39;s a good fit for their projects while avoiding common pitfalls. So, let&#39;s dive in.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;最近，我向同事提供了有关活动采购的演讲，我意识到这种介绍性信息对更广泛的受众来说可能很有价值。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;本文对那些对事件采购概念感兴趣的人很有用，并且想要决定在避免常见的陷阱的同时确定它是否适合他们的项目。因此，让我们潜入。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Build a Scalable E-commerce Platform: System Design Overview】构建可扩展的电子商务平台：系统设计概述</title>
       <link>https://dzone.com/articles/scalable-ecommerce-platform-system-design</link>
       <description>【&lt;p dir=&#34;ltr&#34;&gt;&lt;span style=&#34;margin: 0px; padding: 0px;&#34;&gt;&lt;strong&gt;Topic&lt;/strong&gt;: High-level design of an e-commerce platform like Amazon, Walmart, etc.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Big picture, challenges, options to overcome those&lt;/p&gt;】&lt;p dir =“ ltr”&gt; &lt;span style =“ margin：0px; padding：0px;”&gt; &lt;strong&gt;主题&lt;/strong&gt;：高级设计的电子商务平台，例如亚马逊，沃尔玛，沃尔玛等&#xA;&lt;p dir =“ ltr”&gt; &lt;strong&gt;目标&lt;/strong&gt;：大局，挑战，克服这些选择&lt;/p&gt;</description>
@@ -22,28 +16,10 @@
       <pubDate>Fri, 14 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Queries for Optimizing and Debugging PostgreSQL Replication】优化和调试PostgreSQL复制的查询</title>
-      <link>https://dzone.com/articles/optimizing-debugging-postgresql-replication-queries</link>
-      <description>【&lt;p&gt;PostgreSQL logical replication provides the power and organization behind a pgEdge replication cluster, allowing you to replicate tables selectively and, on a more granular level, the changes in those tables. Whether you&#39;re using pgEdge Distributed PostgreSQL replication for real-time analytics, low latency, or high availability, optimizing replication configuration and query use allows you to optimize for performance, consistency, and reliability.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/a-brief-history-of-logical-replication-in-postgres&#34;&gt;Postgres replication&lt;/a&gt; is a powerful tool for replicating data between databases; unlike physical replication, logical replication gives you more control and flexibility over what data is replicated and how it&#39;s used.&lt;/p&gt;】&lt;p&gt; PostgreSQL逻辑复制提供了Pgedge复制群集背后的力量和组织，使您可以选择性地复制表，并且在更详细的级别上，这些表中的表中的更改。无论您是使用Pgedge分布式PostgreSQL复制用于实时分析，低延迟还是高可用性，优化复制配置和查询使用都可以优化性能，一致性和可靠性。&lt;/p&gt;&#xA;&lt;p&gt; &lt;a href =“ https://dzone.com/articles/a-brief-history-of-logical-replication-inpostgres”&gt; Postgres Replication &lt;/a&gt;是复制数据库之间数据的强大工具；与物理复制不同，逻辑复制可为您提供更大的控制和灵活性，以复制哪些数据以及如何使用。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【DeepSeek on Kubernetes: AI-Powered Reasoning at Scale】关于Kubernetes的DeepSeek：AI驱动的推理</title>
       <link>https://dzone.com/articles/deepseek-on-kubernetes-ai-powered-reasoning-at-sca</link>
       <description>【&lt;p&gt;As artificial intelligence continues to evolve, deploying AI-powered applications efficiently and at scale has become critical. Kubernetes, the de facto orchestration platform, plays a crucial role in managing containerized AI workloads, ensuring scalability, resilience, and ease of management.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;In this article, we explore DeepSeek on Kubernetes, a deployment that integrates DeepSeek-R1, a powerful reasoning AI model, with Open WebUI for seamless interaction.&amp;nbsp;&lt;/p&gt;】&lt;p&gt;随着人工智能的不断发展，有效和大规模部署AI驱动的应用程序变得至关重要。事实上的编排平台Kubernetes在管理容器的AI工作负载，确保可扩展性，弹性和易于管理方面发挥了至关重要的作用。 &lt;/p&gt;&#xA;&lt;p&gt;在本文中，我们探索了关于Kubernetes的DeepSeek，该部署将DeepSeek-R1（一种强大的推理AI模型集成在一起）与开放的WebUI进行了无缝交互。 &lt;/p&gt;</description>
       <pubDate>Fri, 14 Mar 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a Real-Time AI-Powered Workplace Safety System】建立实时AI驱动的工作场所安全系统</title>
-      <link>https://dzone.com/articles/building-ergovision-real-time-ai-powered-workplace</link>
-      <description>【&lt;p&gt;Workplace injuries from poor posture cost industries billions annually. While traditional ergonomic assessments are manual and periodic, we developed an AI-powered solution that provides real-time monitoring and feedback.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;Here&#39;s how we built it using &lt;a href=&#34;https://dzone.com/articles/python-tutorial-for-beginners-a-comprehensive-guid&#34;&gt;Python&lt;/a&gt;, MediaPipe, and OpenCV.&lt;/p&gt;】&lt;p&gt;每年受到数十亿美元行业的工作场所伤害。尽管传统的人体工程学评估是手动和周期性的，但我们开发了一种AI驱动的解决方案，可提供实时监控和反馈。 &lt;/p&gt;&#xA;&lt;p&gt;这是我们使用&lt;a href =“ https://dzone.com/articles/python-tutorial-for-beginners-a-comprehmiss-guid”&gt; python &lt;/a&gt;，MediaPipe和Opencv。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automate and Standardize IBM ACE Installation With PowerShell】使用PowerShell自动化和标准化IBM ACE安装</title>
-      <link>https://dzone.com/articles/automating-and-standardizing-ibm-ace-installation</link>
-      <description>【&lt;h2&gt;Tackling the Repetition&lt;/h2&gt;&#xA;&lt;p&gt;If you&#39;ve worked with IBM App Connect Enterprise (ACE) for any length of time, you’re probably familiar with the repetitive nature of installations. Each setup involves the same predictable steps: unpacking the release files, configuring directories, updating scripts, adjusting ODBC entries, setting up the runtime environment, and verifying that everything runs smoothly.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;While these steps might seem routine, the manual process is inherently prone to human error. A missed step, such as skipping a configuration file or mistyping a path, can cause inconsistencies that lead to operational issues — problems that sometimes take a long time to diagnose and resolve.&lt;/p&gt;】&lt;h2&gt;解决重复&lt;/h2&gt;&#xA;&lt;p&gt;如果您使用IBM App Connect Enterprise（ACE）在任何时间长度上使用，则您可能熟悉安装的重复性。每个设置都涉及相同的可预测步骤：解开发行文件，配置目录，更新脚本，调整ODBC条目，设置运行时环境，并验证一切顺利运行。 &lt;/p&gt;&#xA;&lt;p&gt;尽管这些步骤似乎是常规的，但手动过程本质上容易出现人为错误。错过的步骤，例如跳过配置文件或错误的路径，可能会导致不一致导致操作问题 - 有时需要很长时间才能诊断和解决的问题。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Accelerating Deep Learning on AWS EC2】加速对AWS EC2的深度学习</title>
@@ -52,10 +28,34 @@
       <pubDate>Fri, 14 Mar 2025 21:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Event Sourcing 101: When to Use and How to Avoid Pitfalls】事件采购101：何时使用以及如何避免陷阱</title>
+      <link>https://dzone.com/articles/event-sourcing-guide-when-to-use-avoid-pitfalls</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;Recently, I delivered a lecture to my colleagues on event sourcing, and I realized that this introductory information could be valuable to a broader audience.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;This article is useful for those interested in the concept of event sourcing and who want to decide if it&#39;s a good fit for their projects while avoiding common pitfalls. So, let&#39;s dive in.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;最近，我向同事提供了有关活动采购的演讲，我意识到这种介绍性信息对更广泛的受众来说可能很有价值。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;本文对那些对事件采购概念感兴趣的人很有用，并且想要决定在避免常见的陷阱的同时确定它是否适合他们的项目。因此，让我们潜入。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a Real-Time AI-Powered Workplace Safety System】建立实时AI驱动的工作场所安全系统</title>
+      <link>https://dzone.com/articles/building-ergovision-real-time-ai-powered-workplace</link>
+      <description>【&lt;p&gt;Workplace injuries from poor posture cost industries billions annually. While traditional ergonomic assessments are manual and periodic, we developed an AI-powered solution that provides real-time monitoring and feedback.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;Here&#39;s how we built it using &lt;a href=&#34;https://dzone.com/articles/python-tutorial-for-beginners-a-comprehensive-guid&#34;&gt;Python&lt;/a&gt;, MediaPipe, and OpenCV.&lt;/p&gt;】&lt;p&gt;每年受到数十亿美元行业的工作场所伤害。尽管传统的人体工程学评估是手动和周期性的，但我们开发了一种AI驱动的解决方案，可提供实时监控和反馈。 &lt;/p&gt;&#xA;&lt;p&gt;这是我们使用&lt;a href =“ https://dzone.com/articles/python-tutorial-for-beginners-a-comprehmiss-guid”&gt; python &lt;/a&gt;，MediaPipe和Opencv。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Smart Cities With Multi-Modal Retrieval-Augmented Generation】具有多模式检索的智能城市</title>
       <link>https://dzone.com/articles/smart-cities-with-mmrag</link>
       <description>【&lt;h2&gt;&lt;strong&gt;Why Smart Cities Need Advanced AI&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Managing cities today is an increasingly complex task. Urban centers face challenges like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;Traffic congestion, which affects daily commutes and the economy.&lt;/li&gt;&#xA; &lt;li&gt;Infrastructure maintenance, where damaged roads or broken utilities need quick attention.&lt;/li&gt;&#xA; &lt;li&gt;Air quality and environmental monitoring, critical for public health and safety.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;City planners, traffic managers, and environmental regulators rely on data to make decisions, but often, this data is siloed or outdated. For example, when a city planner asks, “Which roads need repairs and how should traffic be rerouted?” the answer requires:&lt;/p&gt;】&lt;H2&gt; &lt;strong&gt;为什么智能城市需要高级AI &lt;/strong&gt; &lt;/h2&gt;&#xA;&lt;p&gt;今天管理城市是一项越来越复杂的任务。城市中心面临以下挑战：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;交通拥堵，会影响日常通勤和经济。&lt;/li&gt;&#xA; &lt;li&gt;基础设施维护，道路或破损的公用事业需要快速关注。&lt;/li&gt;&#xA; &lt;li&gt;空气质量和环境监测，对公共卫生和安全至关重要。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;城市规划师，交通经理和环境监管机构依靠数据来做出决策，但通常，这些数据被孤立或过时。例如，当城市规划师问：“哪种道路需要维修，应如何重新布线？”答案需要：&lt;/p&gt;</description>
       <pubDate>Fri, 14 Mar 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automate and Standardize IBM ACE Installation With PowerShell】使用PowerShell自动化和标准化IBM ACE安装</title>
+      <link>https://dzone.com/articles/automating-and-standardizing-ibm-ace-installation</link>
+      <description>【&lt;h2&gt;Tackling the Repetition&lt;/h2&gt;&#xA;&lt;p&gt;If you&#39;ve worked with IBM App Connect Enterprise (ACE) for any length of time, you’re probably familiar with the repetitive nature of installations. Each setup involves the same predictable steps: unpacking the release files, configuring directories, updating scripts, adjusting ODBC entries, setting up the runtime environment, and verifying that everything runs smoothly.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;While these steps might seem routine, the manual process is inherently prone to human error. A missed step, such as skipping a configuration file or mistyping a path, can cause inconsistencies that lead to operational issues — problems that sometimes take a long time to diagnose and resolve.&lt;/p&gt;】&lt;h2&gt;解决重复&lt;/h2&gt;&#xA;&lt;p&gt;如果您使用IBM App Connect Enterprise（ACE）在任何时间长度上使用，则您可能熟悉安装的重复性。每个设置都涉及相同的可预测步骤：解开发行文件，配置目录，更新脚本，调整ODBC条目，设置运行时环境，并验证一切顺利运行。 &lt;/p&gt;&#xA;&lt;p&gt;尽管这些步骤似乎是常规的，但手动过程本质上容易出现人为错误。错过的步骤，例如跳过配置文件或错误的路径，可能会导致不一致导致操作问题 - 有时需要很长时间才能诊断和解决的问题。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Queries for Optimizing and Debugging PostgreSQL Replication】优化和调试PostgreSQL复制的查询</title>
+      <link>https://dzone.com/articles/optimizing-debugging-postgresql-replication-queries</link>
+      <description>【&lt;p&gt;PostgreSQL logical replication provides the power and organization behind a pgEdge replication cluster, allowing you to replicate tables selectively and, on a more granular level, the changes in those tables. Whether you&#39;re using pgEdge Distributed PostgreSQL replication for real-time analytics, low latency, or high availability, optimizing replication configuration and query use allows you to optimize for performance, consistency, and reliability.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/a-brief-history-of-logical-replication-in-postgres&#34;&gt;Postgres replication&lt;/a&gt; is a powerful tool for replicating data between databases; unlike physical replication, logical replication gives you more control and flexibility over what data is replicated and how it&#39;s used.&lt;/p&gt;】&lt;p&gt; PostgreSQL逻辑复制提供了Pgedge复制群集背后的力量和组织，使您可以选择性地复制表，并且在更详细的级别上，这些表中的表中的更改。无论您是使用Pgedge分布式PostgreSQL复制用于实时分析，低延迟还是高可用性，优化复制配置和查询使用都可以优化性能，一致性和可靠性。&lt;/p&gt;&#xA;&lt;p&gt; &lt;a href =“ https://dzone.com/articles/a-brief-history-of-logical-replication-inpostgres”&gt; Postgres Replication &lt;/a&gt;是复制数据库之间数据的强大工具；与物理复制不同，逻辑复制可为您提供更大的控制和灵活性，以复制哪些数据以及如何使用。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【AWS Step Functions Local: Mocking Services, HTTP Endpoints Limitations】AWS步骤函数本地：模拟服务，HTTP端点限制</title>

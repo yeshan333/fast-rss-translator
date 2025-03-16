@@ -10,10 +10,10 @@
       <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Dynamically optimize, clip, and resize video from any origin with Media Transformations】通过媒体转换动态优化，剪辑和调整视频大小</title>
-      <link>https://blog.cloudflare.com/media-transformations-for-video-open-beta/</link>
-      <description>【 With Cloudflare Stream’s new Media Transformations, content owners can resize, crop, clip, and optimize short-form video, all without migrating storage.  】借助CloudFlare Stream的新媒体转换，内容所有者可以在不迁移存储的情况下调整，裁剪，剪辑和优化短形式视频。 </description>
-      <pubDate>Fri, 07 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
+      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
+      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
+      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Some TXT about, and A PTR to, new DNS insights on Cloudflare Radar】关于Cloudflare Radar的新DNS见解，还有一些txt和PTR</title>
@@ -22,10 +22,10 @@
       <pubDate>Thu, 27 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
-      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
-      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
-      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Keep AI interactions secure and risk-free with Guardrails in AI Gateway】通过AI网关中的护栏保持AI相互作用安全且无风险</title>
+      <link>https://blog.cloudflare.com/guardrails-in-ai-gateway/</link>
+      <description>【 Deploy AI safely with built-in Guardrails in AI Gateway. Flag and block harmful or inappropriate content, protect personal data, and ensure compliance in real-time 】在AI网关中使用内置的护栏安全部署AI。标记并阻止有害或不适当的内容，保护个人数据，并确保实时合规</description>
+      <pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare’s 2024 Transparency Reports - now live with new data and a new format】Cloudflare的2024年透明度报告 - 现在使用新数据和新格式</title>
@@ -34,10 +34,10 @@
       <pubDate>Fri, 28 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Keep AI interactions secure and risk-free with Guardrails in AI Gateway】通过AI网关中的护栏保持AI相互作用安全且无风险</title>
-      <link>https://blog.cloudflare.com/guardrails-in-ai-gateway/</link>
-      <description>【 Deploy AI safely with built-in Guardrails in AI Gateway. Flag and block harmful or inappropriate content, protect personal data, and ensure compliance in real-time 】在AI网关中使用内置的护栏安全部署AI。标记并阻止有害或不适当的内容，保护个人数据，并确保实时合规</description>
-      <pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Automatic Audit Logs: new updates deliver increased transparency and accountability】自动审核日志：新更新提供了提高的透明度和问责制</title>
+      <link>https://blog.cloudflare.com/introducing-automatic-audit-logs/</link>
+      <description>【 We’re excited to announce the beta release of Automatic Audit Logs, offering greater transparency and control. 】我们很高兴宣布Beta版本的自动审核日志发布，提供更大的透明度和控制。</description>
+      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Helping civil society monitor cyber attacks with the CyberPeaceTracer and Cloudflare Email Security 】帮助民间社会通过网络配置器和CloudFlare电子邮件安全性监测网络攻击</title>
@@ -46,22 +46,22 @@
       <pubDate>Mon, 17 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Global expansion in Generative AI: a year of growth, newcomers, and attacks】生成AI的全球扩张：增长的一年，新移民和攻击</title>
-      <link>https://blog.cloudflare.com/global-expansion-in-generative-ai-a-year-of-growth-newcomers-and-attacks/</link>
-      <description>【 Looking at which Generative AI services are more popular, new entrants into the space, how these services have grown in traffic, where that traffic originates, and others. 】从哪种生成性AI服务更受欢迎的是，新进入该空间的新进入者，这些服务在流量中如何增长，流量来源以及其他服务。</description>
-      <pubDate>Mon, 10 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Making Cloudflare the best platform for building AI Agents】使CloudFlare成为建立AI代理的最佳平台</title>
       <link>https://blog.cloudflare.com/build-ai-agents-on-cloudflare/</link>
       <description>【 Today we’re excited to share a few announcements on how we’re making it even easier to build AI agents on Cloudflare. 】今天，我们很高兴分享一些关于我们如何使在Cloudflare上构建AI代理商变得更加容易的公告。</description>
       <pubDate>Tue, 25 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Automatic Audit Logs: new updates deliver increased transparency and accountability】自动审核日志：新更新提供了提高的透明度和问责制</title>
-      <link>https://blog.cloudflare.com/introducing-automatic-audit-logs/</link>
-      <description>【 We’re excited to announce the beta release of Automatic Audit Logs, offering greater transparency and control. 】我们很高兴宣布Beta版本的自动审核日志发布，提供更大的透明度和控制。</description>
-      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Global expansion in Generative AI: a year of growth, newcomers, and attacks】生成AI的全球扩张：增长的一年，新移民和攻击</title>
+      <link>https://blog.cloudflare.com/global-expansion-in-generative-ai-a-year-of-growth-newcomers-and-attacks/</link>
+      <description>【 Looking at which Generative AI services are more popular, new entrants into the space, how these services have grown in traffic, where that traffic originates, and others. 】从哪种生成性AI服务更受欢迎的是，新进入该空间的新进入者，这些服务在流量中如何增长，流量来源以及其他服务。</description>
+      <pubDate>Mon, 10 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dynamically optimize, clip, and resize video from any origin with Media Transformations】通过媒体转换动态优化，剪辑和调整视频大小</title>
+      <link>https://blog.cloudflare.com/media-transformations-for-video-open-beta/</link>
+      <description>【 With Cloudflare Stream’s new Media Transformations, content owners can resize, crop, clip, and optimize short-form video, all without migrating storage.  】借助CloudFlare Stream的新媒体转换，内容所有者可以在不迁移存储的情况下调整，裁剪，剪辑和优化短形式视频。 </description>
+      <pubDate>Fri, 07 Mar 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
