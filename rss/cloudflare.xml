@@ -4,18 +4,6 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Banish bots from your Waiting Room and improve wait times for real users】从候车室驱逐机器人，改善了真正用户的等待时间</title>
-      <link>https://blog.cloudflare.com/banish-bots-from-your-waiting-room-and-improve-wait-times-for-real-users/</link>
-      <description>【 Cloudflare Waiting Room is improving the user experience through the addition of Turnstile and Session Revocation, keeping wait times low and protecting against bot traffic. 】CloudFlare等候室通过添加旋转门和会话撤销来改善用户体验，使等待时间较低并防止机器人流量。</description>
-      <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
-      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
-      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
-      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Some TXT about, and A PTR to, new DNS insights on Cloudflare Radar】关于Cloudflare Radar的新DNS见解，还有一些txt和PTR</title>
       <link>https://blog.cloudflare.com/new-dns-section-on-cloudflare-radar/</link>
       <description>【 The new Cloudflare Radar DNS page provides increased visibility into aggregate traffic and usage trends seen by our 1.1.1.1 resolver 】新的CloudFlare Radar DNS页面提供了对总流量和使用趋势的可见性，我们的1.1.1.1解析器可见</description>
@@ -28,22 +16,16 @@
       <pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare’s 2024 Transparency Reports - now live with new data and a new format】Cloudflare的2024年透明度报告 - 现在使用新数据和新格式</title>
-      <link>https://blog.cloudflare.com/cloudflare-2024-transparency-reports-now-live-with-new-data-and-a-new-format/</link>
-      <description>【 Cloudflare’s 2024 Transparency Reports are now live — with new topics, new data points, and a new format, consistent with the EU’s Digital Services Act 】CloudFlare的2024年透明度报告现已发挥作用 - 具有新的主题，新的数据点和新格式，与《欧盟的数字服务法》一致</description>
-      <pubDate>Fri, 28 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Searching for the cause of hung tasks in the Linux kernel】在Linux内核中搜索悬挂任务的原因</title>
+      <link>https://blog.cloudflare.com/searching-for-the-cause-of-hung-tasks-in-the-linux-kernel/</link>
+      <description>【 The Linux kernel can produce a hung task warning. Searching the Internet and the kernel docs, you can find a brief explanation that the process is stuck in the uninterruptible state. 】Linux内核可以发出悬挂的任务警告。在搜索Internet和内核文档时，您可以简要说明该过程陷入了不间断的状态。</description>
+      <pubDate>Fri, 14 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Automatic Audit Logs: new updates deliver increased transparency and accountability】自动审核日志：新更新提供了提高的透明度和问责制</title>
-      <link>https://blog.cloudflare.com/introducing-automatic-audit-logs/</link>
-      <description>【 We’re excited to announce the beta release of Automatic Audit Logs, offering greater transparency and control. 】我们很高兴宣布Beta版本的自动审核日志发布，提供更大的透明度和控制。</description>
-      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Helping civil society monitor cyber attacks with the CyberPeaceTracer and Cloudflare Email Security 】帮助民间社会通过网络配置器和CloudFlare电子邮件安全性监测网络攻击</title>
-      <link>https://blog.cloudflare.com/helping-civil-society-monitor-attacks-with-the-cyberpeacetracer-and-cloudflare-email-security/</link>
-      <description>【 We’re proud to collaborate with CyberPeace Institute by powering its latest initiative, the CyberPeace Tracer, a platform that enables civil society organizations to proactively report cyber threats. 】我们很荣幸通过为网络和平研究所合作，通过为Cyber​​peace Tracer提供动力，该计划使民间社会组织能够主动报告网络威胁。</description>
-      <pubDate>Mon, 17 Feb 2025 14:00:00 +0000</pubDate>
+      <title>【Banish bots from your Waiting Room and improve wait times for real users】从候车室驱逐机器人，改善了真正用户的等待时间</title>
+      <link>https://blog.cloudflare.com/banish-bots-from-your-waiting-room-and-improve-wait-times-for-real-users/</link>
+      <description>【 Cloudflare Waiting Room is improving the user experience through the addition of Turnstile and Session Revocation, keeping wait times low and protecting against bot traffic. 】CloudFlare等候室通过添加旋转门和会话撤销来改善用户体验，使等待时间较低并防止机器人流量。</description>
+      <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Making Cloudflare the best platform for building AI Agents】使CloudFlare成为建立AI代理的最佳平台</title>
@@ -52,16 +34,34 @@
       <pubDate>Tue, 25 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Dynamically optimize, clip, and resize video from any origin with Media Transformations】通过媒体转换动态优化，剪辑和调整视频大小</title>
+      <link>https://blog.cloudflare.com/media-transformations-for-video-open-beta/</link>
+      <description>【 With Cloudflare Stream’s new Media Transformations, content owners can resize, crop, clip, and optimize short-form video, all without migrating storage.  】借助CloudFlare Stream的新媒体转换，内容所有者可以在不迁移存储的情况下调整，裁剪，剪辑和优化短形式视频。 </description>
+      <pubDate>Fri, 07 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Global expansion in Generative AI: a year of growth, newcomers, and attacks】生成AI的全球扩张：增长的一年，新移民和攻击</title>
       <link>https://blog.cloudflare.com/global-expansion-in-generative-ai-a-year-of-growth-newcomers-and-attacks/</link>
       <description>【 Looking at which Generative AI services are more popular, new entrants into the space, how these services have grown in traffic, where that traffic originates, and others. 】从哪种生成性AI服务更受欢迎的是，新进入该空间的新进入者，这些服务在流量中如何增长，流量来源以及其他服务。</description>
       <pubDate>Mon, 10 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Dynamically optimize, clip, and resize video from any origin with Media Transformations】通过媒体转换动态优化，剪辑和调整视频大小</title>
-      <link>https://blog.cloudflare.com/media-transformations-for-video-open-beta/</link>
-      <description>【 With Cloudflare Stream’s new Media Transformations, content owners can resize, crop, clip, and optimize short-form video, all without migrating storage.  】借助CloudFlare Stream的新媒体转换，内容所有者可以在不迁移存储的情况下调整，裁剪，剪辑和优化短形式视频。 </description>
-      <pubDate>Fri, 07 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare’s 2024 Transparency Reports - now live with new data and a new format】Cloudflare的2024年透明度报告 - 现在使用新数据和新格式</title>
+      <link>https://blog.cloudflare.com/cloudflare-2024-transparency-reports-now-live-with-new-data-and-a-new-format/</link>
+      <description>【 Cloudflare’s 2024 Transparency Reports are now live — with new topics, new data points, and a new format, consistent with the EU’s Digital Services Act 】CloudFlare的2024年透明度报告现已发挥作用 - 具有新的主题，新的数据点和新格式，与《欧盟的数字服务法》一致</description>
+      <pubDate>Fri, 28 Feb 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Welcome to Security Week 2025】欢迎来到安全周2025</title>
+      <link>https://blog.cloudflare.com/welcome-to-security-week-2025/</link>
+      <description>【 Over the next week, we will discuss the latest trends in cyber security, announce new products and partnerships, and showcase the latest in Cloudflare technology. Welcome to Security Week 2025! 】在下周，我们将讨论网络安全的最新趋势，宣布新产品和合作伙伴关系，并展示最新的Cloudflare技术。欢迎来到2025年安全周！</description>
+      <pubDate>Sun, 16 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Helping civil society monitor cyber attacks with the CyberPeaceTracer and Cloudflare Email Security 】帮助民间社会通过网络配置器和CloudFlare电子邮件安全性监测网络攻击</title>
+      <link>https://blog.cloudflare.com/helping-civil-society-monitor-attacks-with-the-cyberpeacetracer-and-cloudflare-email-security/</link>
+      <description>【 We’re proud to collaborate with CyberPeace Institute by powering its latest initiative, the CyberPeace Tracer, a platform that enables civil society organizations to proactively report cyber threats. 】我们很荣幸通过为网络和平研究所合作，通过为Cyber​​peace Tracer提供动力，该计划使民间社会组织能够主动报告网络威胁。</description>
+      <pubDate>Mon, 17 Feb 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

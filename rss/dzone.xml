@@ -4,34 +4,10 @@
     <link>https://feeds.dzone.com/home</link>
     <description>Recent posts on DZone.com</description>
     <item>
-      <title>【Build a Scalable E-commerce Platform: System Design Overview】构建可扩展的电子商务平台：系统设计概述</title>
-      <link>https://dzone.com/articles/scalable-ecommerce-platform-system-design</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;&lt;span style=&#34;margin: 0px; padding: 0px;&#34;&gt;&lt;strong&gt;Topic&lt;/strong&gt;: High-level design of an e-commerce platform like Amazon, Walmart, etc.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Big picture, challenges, options to overcome those&lt;/p&gt;】&lt;p dir =“ ltr”&gt; &lt;span style =“ margin：0px; padding：0px;”&gt; &lt;strong&gt;主题&lt;/strong&gt;：高级设计的电子商务平台，例如亚马逊，沃尔玛，沃尔玛等&#xA;&lt;p dir =“ ltr”&gt; &lt;strong&gt;目标&lt;/strong&gt;：大局，挑战，克服这些选择&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Stop Wasting Time Writing Code for APIs】停止浪费时间为API编写代码</title>
       <link>https://dzone.com/articles/stop-wasting-time-writing-code-for-apis</link>
       <description>【&lt;p dir=&#34;ltr&#34;&gt;API development should be about solving business problems, not repeating the same tedious tasks over and over again. Yet, for many developers, API creation is still bogged down by inefficiencies — from writing boilerplate code to manually managing integrations, security, and documentation.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;The traditional approach forces developers to spend too much time on&amp;nbsp;infrastructure and maintenance, instead of focusing on what actually matters: delivering&amp;nbsp;scalable, reliable APIs&amp;nbsp;that support business needs.&lt;/p&gt;】&lt;p dir =“ ltr”&gt; API开发应与解决业务问题有关，而不是一遍又一遍地重复相同的繁琐任务。但是，对于许多开发人员而言，API创建仍然因效率低下而陷入困境 - 从编写样板代码到手动管理集成，安全性和文档。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;传统方法迫使开发人员花费太多时间在基础架构和维护上，而不是专注于实际重要的事情：提供满足业务需求的可扩展，可靠的API。&lt;/p&gt;</description>
       <pubDate>Fri, 14 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DeepSeek on Kubernetes: AI-Powered Reasoning at Scale】关于Kubernetes的DeepSeek：AI驱动的推理</title>
-      <link>https://dzone.com/articles/deepseek-on-kubernetes-ai-powered-reasoning-at-sca</link>
-      <description>【&lt;p&gt;As artificial intelligence continues to evolve, deploying AI-powered applications efficiently and at scale has become critical. Kubernetes, the de facto orchestration platform, plays a crucial role in managing containerized AI workloads, ensuring scalability, resilience, and ease of management.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;In this article, we explore DeepSeek on Kubernetes, a deployment that integrates DeepSeek-R1, a powerful reasoning AI model, with Open WebUI for seamless interaction.&amp;nbsp;&lt;/p&gt;】&lt;p&gt;随着人工智能的不断发展，有效和大规模部署AI驱动的应用程序变得至关重要。事实上的编排平台Kubernetes在管理容器的AI工作负载，确保可扩展性，弹性和易于管理方面发挥了至关重要的作用。 &lt;/p&gt;&#xA;&lt;p&gt;在本文中，我们探索了关于Kubernetes的DeepSeek，该部署将DeepSeek-R1（一种强大的推理AI模型集成在一起）与开放的WebUI进行了无缝交互。 &lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Accelerating Deep Learning on AWS EC2】加速对AWS EC2的深度学习</title>
-      <link>https://dzone.com/articles/accelerating-deep-learning-on-aws-ec2</link>
-      <description>【&lt;p&gt;One common approach to significantly speed up training times and efficiently scale model inference workloads is to deploy GPU-accelerated deep learning microservices to the cloud, enabling flexible, on-demand compute for training and inference tasks.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;This article provides a comprehensive guide covering the setup and optimization of such a microservice architecture. We’ll explore installing CUDA, choosing the right Amazon EC2 instances, and architecting a scalable, GPU-enabled deep learning platform on AWS.&lt;/p&gt;】&lt;p&gt;可以显着加快训练时间和有效扩展模型推理工作负载的一种常见方法是将GPU加速的深度学习微服务部署到云中，从而实现灵活的，按需计算培训和推理任务。 &lt;/p&gt;&#xA;&lt;p&gt;本文提供了一份全面的指南，涵盖了这种微服务体系结构的设置和优化。我们将探索安装CUDA，选择右Amazon EC2实例，并在AWS上构建一个可扩展的GPU深度学习平台。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Event Sourcing 101: When to Use and How to Avoid Pitfalls】事件采购101：何时使用以及如何避免陷阱</title>
-      <link>https://dzone.com/articles/event-sourcing-guide-when-to-use-avoid-pitfalls</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;Recently, I delivered a lecture to my colleagues on event sourcing, and I realized that this introductory information could be valuable to a broader audience.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;This article is useful for those interested in the concept of event sourcing and who want to decide if it&#39;s a good fit for their projects while avoiding common pitfalls. So, let&#39;s dive in.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;最近，我向同事提供了有关活动采购的演讲，我意识到这种介绍性信息对更广泛的受众来说可能很有价值。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;本文对那些对事件采购概念感兴趣的人很有用，并且想要决定在避免常见的陷阱的同时确定它是否适合他们的项目。因此，让我们潜入。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Building a Real-Time AI-Powered Workplace Safety System】建立实时AI驱动的工作场所安全系统</title>
@@ -40,10 +16,34 @@
       <pubDate>Fri, 14 Mar 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Smart Cities With Multi-Modal Retrieval-Augmented Generation】具有多模式检索的智能城市</title>
-      <link>https://dzone.com/articles/smart-cities-with-mmrag</link>
-      <description>【&lt;h2&gt;&lt;strong&gt;Why Smart Cities Need Advanced AI&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Managing cities today is an increasingly complex task. Urban centers face challenges like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;Traffic congestion, which affects daily commutes and the economy.&lt;/li&gt;&#xA; &lt;li&gt;Infrastructure maintenance, where damaged roads or broken utilities need quick attention.&lt;/li&gt;&#xA; &lt;li&gt;Air quality and environmental monitoring, critical for public health and safety.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;City planners, traffic managers, and environmental regulators rely on data to make decisions, but often, this data is siloed or outdated. For example, when a city planner asks, “Which roads need repairs and how should traffic be rerouted?” the answer requires:&lt;/p&gt;】&lt;H2&gt; &lt;strong&gt;为什么智能城市需要高级AI &lt;/strong&gt; &lt;/h2&gt;&#xA;&lt;p&gt;今天管理城市是一项越来越复杂的任务。城市中心面临以下挑战：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;交通拥堵，会影响日常通勤和经济。&lt;/li&gt;&#xA; &lt;li&gt;基础设施维护，道路或破损的公用事业需要快速关注。&lt;/li&gt;&#xA; &lt;li&gt;空气质量和环境监测，对公共卫生和安全至关重要。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;城市规划师，交通经理和环境监管机构依靠数据来做出决策，但通常，这些数据被孤立或过时。例如，当城市规划师问：“哪种道路需要维修，应如何重新布线？”答案需要：&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 16:30:00 +0000</pubDate>
+      <title>【DeepSeek on Kubernetes: AI-Powered Reasoning at Scale】关于Kubernetes的DeepSeek：AI驱动的推理</title>
+      <link>https://dzone.com/articles/deepseek-on-kubernetes-ai-powered-reasoning-at-sca</link>
+      <description>【&lt;p&gt;As artificial intelligence continues to evolve, deploying AI-powered applications efficiently and at scale has become critical. Kubernetes, the de facto orchestration platform, plays a crucial role in managing containerized AI workloads, ensuring scalability, resilience, and ease of management.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;In this article, we explore DeepSeek on Kubernetes, a deployment that integrates DeepSeek-R1, a powerful reasoning AI model, with Open WebUI for seamless interaction.&amp;nbsp;&lt;/p&gt;】&lt;p&gt;随着人工智能的不断发展，有效和大规模部署AI驱动的应用程序变得至关重要。事实上的编排平台Kubernetes在管理容器的AI工作负载，确保可扩展性，弹性和易于管理方面发挥了至关重要的作用。 &lt;/p&gt;&#xA;&lt;p&gt;在本文中，我们探索了关于Kubernetes的DeepSeek，该部署将DeepSeek-R1（一种强大的推理AI模型集成在一起）与开放的WebUI进行了无缝交互。 &lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Event Sourcing 101: When to Use and How to Avoid Pitfalls】事件采购101：何时使用以及如何避免陷阱</title>
+      <link>https://dzone.com/articles/event-sourcing-guide-when-to-use-avoid-pitfalls</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;Recently, I delivered a lecture to my colleagues on event sourcing, and I realized that this introductory information could be valuable to a broader audience.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;This article is useful for those interested in the concept of event sourcing and who want to decide if it&#39;s a good fit for their projects while avoiding common pitfalls. So, let&#39;s dive in.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;最近，我向同事提供了有关活动采购的演讲，我意识到这种介绍性信息对更广泛的受众来说可能很有价值。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;本文对那些对事件采购概念感兴趣的人很有用，并且想要决定在避免常见的陷阱的同时确定它是否适合他们的项目。因此，让我们潜入。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Accelerating Deep Learning on AWS EC2】加速对AWS EC2的深度学习</title>
+      <link>https://dzone.com/articles/accelerating-deep-learning-on-aws-ec2</link>
+      <description>【&lt;p&gt;One common approach to significantly speed up training times and efficiently scale model inference workloads is to deploy GPU-accelerated deep learning microservices to the cloud, enabling flexible, on-demand compute for training and inference tasks.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;This article provides a comprehensive guide covering the setup and optimization of such a microservice architecture. We’ll explore installing CUDA, choosing the right Amazon EC2 instances, and architecting a scalable, GPU-enabled deep learning platform on AWS.&lt;/p&gt;】&lt;p&gt;可以显着加快训练时间和有效扩展模型推理工作负载的一种常见方法是将GPU加速的深度学习微服务部署到云中，从而实现灵活的，按需计算培训和推理任务。 &lt;/p&gt;&#xA;&lt;p&gt;本文提供了一份全面的指南，涵盖了这种微服务体系结构的设置和优化。我们将探索安装CUDA，选择右Amazon EC2实例，并在AWS上构建一个可扩展的GPU深度学习平台。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build a Scalable E-commerce Platform: System Design Overview】构建可扩展的电子商务平台：系统设计概述</title>
+      <link>https://dzone.com/articles/scalable-ecommerce-platform-system-design</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;&lt;span style=&#34;margin: 0px; padding: 0px;&#34;&gt;&lt;strong&gt;Topic&lt;/strong&gt;: High-level design of an e-commerce platform like Amazon, Walmart, etc.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Big picture, challenges, options to overcome those&lt;/p&gt;】&lt;p dir =“ ltr”&gt; &lt;span style =“ margin：0px; padding：0px;”&gt; &lt;strong&gt;主题&lt;/strong&gt;：高级设计的电子商务平台，例如亚马逊，沃尔玛，沃尔玛等&#xA;&lt;p dir =“ ltr”&gt; &lt;strong&gt;目标&lt;/strong&gt;：大局，挑战，克服这些选择&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS Step Functions Local: Mocking Services, HTTP Endpoints Limitations】AWS步骤函数本地：模拟服务，HTTP端点限制</title>
+      <link>https://dzone.com/articles/aws-step-functions-local-mocking-services-http-endpoints</link>
+      <description>【&lt;p&gt;AWS Step Functions Local is a useful tool for testing workflows without deploying them to the cloud. It allows developers to run state machines locally using Docker, enabling faster iteration and debugging.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;However, while testing our Step Function locally, we encountered significant limitations, particularly when trying to mock an &lt;code&gt;http:endpoint&lt;/code&gt; task.&lt;/p&gt;】&lt;p&gt; aws步骤函数本地是用于测试工作流的有用工具，而无需将它们部署到云中。它允许开发人员使用Docker在本地运行状态机，从而更快地迭代和调试。 &lt;/p&gt;&#xA;&lt;p&gt;但是，在本地测试我们的步骤函数时，我们遇到了重大局限性，尤其是在试图模拟&lt;code&gt; http：endpoint &lt;/code&gt;任务时。&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 15:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【Automate and Standardize IBM ACE Installation With PowerShell】使用PowerShell自动化和标准化IBM ACE安装</title>
@@ -58,10 +58,10 @@
       <pubDate>Fri, 14 Mar 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【AWS Step Functions Local: Mocking Services, HTTP Endpoints Limitations】AWS步骤函数本地：模拟服务，HTTP端点限制</title>
-      <link>https://dzone.com/articles/aws-step-functions-local-mocking-services-http-endpoints</link>
-      <description>【&lt;p&gt;AWS Step Functions Local is a useful tool for testing workflows without deploying them to the cloud. It allows developers to run state machines locally using Docker, enabling faster iteration and debugging.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;However, while testing our Step Function locally, we encountered significant limitations, particularly when trying to mock an &lt;code&gt;http:endpoint&lt;/code&gt; task.&lt;/p&gt;】&lt;p&gt; aws步骤函数本地是用于测试工作流的有用工具，而无需将它们部署到云中。它允许开发人员使用Docker在本地运行状态机，从而更快地迭代和调试。 &lt;/p&gt;&#xA;&lt;p&gt;但是，在本地测试我们的步骤函数时，我们遇到了重大局限性，尤其是在试图模拟&lt;code&gt; http：endpoint &lt;/code&gt;任务时。&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Mar 2025 15:15:00 +0000</pubDate>
+      <title>【Smart Cities With Multi-Modal Retrieval-Augmented Generation】具有多模式检索的智能城市</title>
+      <link>https://dzone.com/articles/smart-cities-with-mmrag</link>
+      <description>【&lt;h2&gt;&lt;strong&gt;Why Smart Cities Need Advanced AI&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Managing cities today is an increasingly complex task. Urban centers face challenges like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;Traffic congestion, which affects daily commutes and the economy.&lt;/li&gt;&#xA; &lt;li&gt;Infrastructure maintenance, where damaged roads or broken utilities need quick attention.&lt;/li&gt;&#xA; &lt;li&gt;Air quality and environmental monitoring, critical for public health and safety.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;City planners, traffic managers, and environmental regulators rely on data to make decisions, but often, this data is siloed or outdated. For example, when a city planner asks, “Which roads need repairs and how should traffic be rerouted?” the answer requires:&lt;/p&gt;】&lt;H2&gt; &lt;strong&gt;为什么智能城市需要高级AI &lt;/strong&gt; &lt;/h2&gt;&#xA;&lt;p&gt;今天管理城市是一项越来越复杂的任务。城市中心面临以下挑战：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;交通拥堵，会影响日常通勤和经济。&lt;/li&gt;&#xA; &lt;li&gt;基础设施维护，道路或破损的公用事业需要快速关注。&lt;/li&gt;&#xA; &lt;li&gt;空气质量和环境监测，对公共卫生和安全至关重要。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;城市规划师，交通经理和环境监管机构依靠数据来做出决策，但通常，这些数据被孤立或过时。例如，当城市规划师问：“哪种道路需要维修，应如何重新布线？”答案需要：&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Mar 2025 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
