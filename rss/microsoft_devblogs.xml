@@ -4,40 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【New, Simpler Solution File Format】新的，更简单的解决方案文件格式</title>
-      <link>https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format</link>
-      <description>【For years, you’ve worked with Visual Studio’s solution file (*.SLN) format, and while it’s a core part of your project organization, we know the experience hasn’t always been smooth. Whether you’ve been modifying, maintaining, or trying to resolve merge conflicts, it’s often felt more like a hassle than it should be. We understand your frustrations, [&amp;hellip;]】多年来，您一直使用Visual Studio的解决方案文件（*.SLN）格式，尽管它是项目组织的核心部分，但我们知道体验并不总是很顺利。无论您是在修改，维护还是试图解决合并冲突，通常都会比这更像是麻烦。我们了解您的挫败感，[…]</description>
-      <pubDate>Thu, 13 Mar 2025 17:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio at GDC 2025】GDC 2025的Visual Studio</title>
-      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-gdc-2025</link>
-      <description>【Join us in-person at Game Developers Conference 2025 with an in-depth look at how Visual Studio and GitHub Copilot can streamline your iteration workflow. Don’t miss the unveiling of our biggest C++ debugger update yet. Session Title: Accelerating Your Inner Loop with Visual Studio and GitHub Copilot Session Info: March 19th, 2025, 12:30 PM-1:30 PM Pacific Time | [&amp;hellip;]】加入我们在2025年的Game Developers Conference Conferition Charters Inter-In-Menth，深入了解Visual Studio和Github Copilot如何简化您的迭代工作流程。不要错过我们最大的C ++调试器更新的揭幕。会议标题：通过Visual Studio和Github Copilot会话加速您的内部循环信息：2025年3月19日，12：30 PM-1：30 PM太平洋时间| […]</description>
-      <pubDate>Fri, 14 Mar 2025 17:07:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Markdown for large text fields (private preview)】大型文本字段的宣传（私人预览）</title>
-      <link>https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview</link>
-      <description>【Adding Markdown capabilities to the work item is a long-standing request. We introduced Markdown for comments in early 2024, but due to the rollout of the New Boards Hub, we put the feature on hold. Today, we’re excited to announce a private preview for Markdown support in large text fields! 🎉 🦄 How it works [&amp;hellip;]】在工作项目中添加降价功能是一个长期的请求。我们在2024年初介绍了评论的Markdown，但是由于新董事会集线器的推出，我们暂停了该功能。今天，我们很高兴宣布在大型文本字段中进行销售支持的私人预览！ 🎉🦄如何工作[…]</description>
-      <pubDate>Thu, 13 Mar 2025 20:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing support for SLNX, a new, simpler solution file format in the .NET CLI】引入对SLNX的支持，SLNX是.NET CLI中的一种新的，简单的解决方案文件格式</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli</link>
-      <description>【Learn about the .NET CLI&#39;s ability to interact with the new XML-based solution file format.】了解.NET CLI与新的基于XML的解决方案文件格式进行交互的能力。</description>
-      <pubDate>Thu, 13 Mar 2025 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of COM failing to pump messages in a single-threaded COM apartment】com未能在单线程公寓中泵送消息的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250314-00/?p=110965</link>
-      <description>【A customer encountered a hang caused by COM not pumping messages while waiting for a cross-thread operation to complete. They were using the task_sequencer class for serializing asynchronous operations on a UI thread they created to handle accessibility callbacks. The hang stack looked like this: ntdll!ZwWaitForMultipleObjects+0x4 KERNELBASE!WaitForMultipleObjectsEx+0xe0 combase!MTAThreadDispatchCrossApartmentCall+0x3a0 combase!CSyncClientCall::SendReceive2+0x65c combase!DefaultSendReceive+0x88 combase!CSyncClientCall::SendReceive+0x390 combase!CClientChannel::SendReceive+0xc0 combase!NdrExtpProxySendReceive+0x68 rpcrt4!NdrpClientCall3+0x764 combase!ObjectStublessClient+0x180 [&amp;hellip;]】客户在等待跨线程操作完成时遇到的悬挂式悬挂。他们正在使用Task_Sequencer类在其创建的UI线程上序列化异步操作，以处理可访问性回调。悬挂堆栈看起来像这样：ntdll！zwwaitformultipleObjects+0x4 kernelbase！waitgurformultipleObjectsxsex+0xe0 bome！mtathreaddispatchcrossapartmentCallcall+0x3a0 compase！csyncclientCall :: sendReceive2 combase！csyncclientCall :: sendreceive+0x390 combase！cclientChannel :: sendReceive+0xc0 combase！ndrextpproxysendreceive+0x68 rpcrt4！ndrpclientCall3+0x764 combase！</description>
-      <pubDate>Fri, 14 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exploring SQL Server Integration with .NET Aspire: A Collection of Hands-On Samples】与.NET Aspire探索SQL Server集成：动手样本的集合</title>
-      <link>https://devblogs.microsoft.com/azure-sql/exploring-sql-server-integration-with-net-aspire-a-collection-of-hands-on-samples</link>
-      <description>【I&amp;#8217;m happy to share a new GitHub repository with developers: azure-sql-db-aspire. This collection of eight hands-on examples demonstrates how to integrate SQL Server and Azure SQL with .NET Aspire, making it easier to build modern, cloud-native applications. Why .NET Aspire for SQL Server? .NET Aspire is a new opinionated, cloud-ready stack for .NET applications that [&amp;hellip;]】我很高兴与开发人员分享一个新的GitHub存储库：Azure-SQL-DB-Aspire。这个八个动手示例的集合演示了如何将SQL Server和Azure SQL与.NET Aspire集成，从而更容易构建现代的云本地应用程序。为什么为SQL Server的.NET ASPIRE？ 。</description>
-      <pubDate>Fri, 14 Mar 2025 15:06:47 +0000</pubDate>
+      <title>【Introducing automatic documentation comment generation in Visual Studio】在Visual Studio中介绍自动文档评论生成</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-automatic-documentation-comment-generation-in-visual-studio</link>
+      <description>【We are excited to announce that Copilot is now automatically integrated into Visual Studio’s editor to help you generate doc comments for functions. This new feature aims to streamline your documentation process and enhance your coding experience. To access these updates, you will need a GitHub Copilot subscription. If you don’t already have GitHub Copilot, [&amp;hellip;]】我们很高兴地宣布，Copilot现在已自动集成到Visual Studio的编辑器中，以帮助您为功能生成DOC评论。这项新功能旨在简化您的文档过程并增强您的编码体验。要访问这些更新，您将需要GitHub Copilot订阅。如果您还没有Github Copilot，[…]</description>
+      <pubDate>Mon, 17 Mar 2025 15:00:10 +0000</pubDate>
     </item>
     <item>
       <title>【.NET AI 模板现已提供预览版】.NET AI 模板现已提供预览版</title>
@@ -46,10 +16,34 @@
       <pubDate>Fri, 14 Mar 2025 06:56:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Data in transit】Microsoft 365认证控制聚光灯：运输中的数据</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-in-transit</link>
-      <description>【Ensure your Microsoft Teams app, Microsoft 365 add-in, or agent meets the latest compliance standards with Microsoft 365 Certification.】确保您的Microsoft Teams应用程序，Microsoft 365加载项或代理商符合Microsoft 365认证的最新合规性标准。</description>
-      <pubDate>Thu, 13 Mar 2025 18:24:00 +0000</pubDate>
+      <title>【Introducing ABAP Support in GitHub Copilot for Eclipse】在Eclipse的Github Copilot中引入ABAP支持</title>
+      <link>https://devblogs.microsoft.com/java/introducing-abap-support-in-github-copilot-for-eclipse</link>
+      <description>【The latest release of GitHub Copilot for Eclipse now includes support for ABAP! This update builds on the recent release of code completion and chat integration, offering a robust toolset for developers working within the SAP environment. ABAP remains a critical language in the enterprise space, powering a wide range of business applications, and its [&amp;hellip;]】Eclipse的Github Copilot的最新版本现在包括对ABAP的支持！此更新基于最近发布的代码完成和聊天集成，为在SAP环境中工作的开发人员提供了强大的工具集。 ABAP在企业领域仍然是一种关键语言，为广泛的业务应用程序提供动力，及其[…]</description>
+      <pubDate>Tue, 18 Mar 2025 03:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of COM failing to pump messages in a single-threaded COM apartment】com未能在单线程公寓中泵送消息的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250314-00/?p=110965</link>
+      <description>【A customer encountered a hang caused by COM not pumping messages while waiting for a cross-thread operation to complete. They were using the task_sequencer class for serializing asynchronous operations on a UI thread they created to handle accessibility callbacks. The hang stack looked like this: ntdll!ZwWaitForMultipleObjects+0x4 KERNELBASE!WaitForMultipleObjectsEx+0xe0 combase!MTAThreadDispatchCrossApartmentCall+0x3a0 combase!CSyncClientCall::SendReceive2+0x65c combase!DefaultSendReceive+0x88 combase!CSyncClientCall::SendReceive+0x390 combase!CClientChannel::SendReceive+0xc0 combase!NdrExtpProxySendReceive+0x68 rpcrt4!NdrpClientCall3+0x764 combase!ObjectStublessClient+0x180 [&amp;hellip;]】客户在等待跨线程操作完成时遇到的悬挂式悬挂。他们正在使用Task_Sequencer类在其创建的UI线程上序列化异步操作，以处理可访问性回调。悬挂堆栈看起来像这样：ntdll！zwwaitformultipleObjects+0x4 kernelbase！waitgurformultipleObjectsxsex+0xe0 bome！mtathreaddispatchcrossapartmentCallcall+0x3a0 compase！csyncclientCall :: sendReceive2 combase！csyncclientCall :: sendreceive+0x390 combase！cclientChannel :: sendReceive+0xc0 combase！ndrextpproxysendreceive+0x68 rpcrt4！ndrpclientCall3+0x764 combase！</description>
+      <pubDate>Fri, 14 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: A program does not run correctly if you run it the wrong way】可疑安全漏洞：如果以错误的方式运行程序，程序将无法正确运行</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250317-00/?p=110970</link>
+      <description>【So what did you expect?】那你期望什么？</description>
+      <pubDate>Mon, 17 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio at GDC 2025】GDC 2025的Visual Studio</title>
+      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-gdc-2025</link>
+      <description>【Join us in-person at Game Developers Conference 2025 with an in-depth look at how Visual Studio and GitHub Copilot can streamline your iteration workflow. Don’t miss the unveiling of our biggest C++ debugger update yet. Session Title: Accelerating Your Inner Loop with Visual Studio and GitHub Copilot Session Info: March 19th, 2025, 12:30 PM-1:30 PM Pacific Time | [&amp;hellip;]】加入我们在2025年的Game Developers Conference Conferition Charters Inter-In-Menth，深入了解Visual Studio和Github Copilot如何简化您的迭代工作流程。不要错过我们最大的C ++调试器更新的揭幕。会议标题：通过Visual Studio和Github Copilot会话加速您的内部循环信息：2025年3月19日，12：30 PM-1：30 PM太平洋时间| […]</description>
+      <pubDate>Fri, 14 Mar 2025 17:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring SQL Server Integration with .NET Aspire: A Collection of Hands-On Samples】与.NET Aspire探索SQL Server集成：动手样本的集合</title>
+      <link>https://devblogs.microsoft.com/azure-sql/exploring-sql-server-integration-with-net-aspire-a-collection-of-hands-on-samples</link>
+      <description>【I&amp;#8217;m happy to share a new GitHub repository with developers: azure-sql-db-aspire. This collection of eight hands-on examples demonstrates how to integrate SQL Server and Azure SQL with .NET Aspire, making it easier to build modern, cloud-native applications. Why .NET Aspire for SQL Server? .NET Aspire is a new opinionated, cloud-ready stack for .NET applications that [&amp;hellip;]】我很高兴与开发人员分享一个新的GitHub存储库：Azure-SQL-DB-Aspire。这个八个动手示例的集合演示了如何将SQL Server和Azure SQL与.NET Aspire集成，从而更容易构建现代的云本地应用程序。为什么为SQL Server的.NET ASPIRE？ 。</description>
+      <pubDate>Fri, 14 Mar 2025 15:06:47 +0000</pubDate>
     </item>
     <item>
       <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Couchbase Connector】客户案例研究：宣布Microsoft语义内核Couchbase连接器</title>
@@ -58,10 +52,16 @@
       <pubDate>Fri, 14 Mar 2025 17:32:20 +0000</pubDate>
     </item>
     <item>
-      <title>【The Future of AI: Customizing AI Agents with the Semantic Kernel Agent Framework】AI的未来：使用语义内核代理框架自定义AI代理</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/the-future-of-ai-customizing-ai-agents-with-the-semantic-kernel-agent-framework</link>
-      <description>【Today we&amp;#8217;re excited to promote a recent blog from AI Platform focused on customizing AI agents with the Semantic Kernel agent framework. Read the entire blog post: here The Future of AI blog series is an evolving collection of posts from the AI Futures team in collaboration with subject matter experts across Microsoft. In this [&amp;hellip;]】今天，我们很高兴推广来自AI平台的最新博客，该博客致力于使用语义内核代理框架自定义AI代理。阅读整个博客文章：在这里，AI博客系列的未来是与Microsoft的主题专家合作的AI期货团队不断发展的帖子集合。在这个[…]</description>
-      <pubDate>Thu, 13 Mar 2025 21:39:54 +0000</pubDate>
+      <title>【TLS 1.3 support in Azure Cosmos DB】TLS 1.3在Azure Cosmos DB中的支持</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/tls-1-3-support-in-azure-cosmos-db</link>
+      <description>【This article follows announcement on a previous article that mentioned the end of support for Transport Security Layer (TLS) 1.0/1.1. TLS 1.3 is the latest version of the internet’s most deployed security protocol, which encrypts data to provide a secure communication channel between two endpoints. Microsoft has implemented updates to enable TLS 1.3 for Azure [&amp;hellip;]】本文遵循上一篇文章的公告，该文章提到了对运输安全层（TLS）1.0/1.1的支持结束。 TLS 1.3是Internet部署最多的安全协议的最新版本，该协议可加密数据以在两个端点之间提供安全的通信频道。微软已经实施了更新，以启用Azure的TLS 1.3 […]</description>
+      <pubDate>Mon, 17 Mar 2025 17:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps!】来宾博客：使用Microsoft Azure AI代理服务和语义内核建立一个多代理系统，分为3个简单的步骤！</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps</link>
+      <description>【Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps! Today we&amp;#8217;re thrilled to welcome back guest author, Akshay Kokane to share his recent Medium article on Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps. We’ll turn it over to [&amp;hellip;]】使用Microsoft Azure AI代理服务和语义内核构建一个多代理系统，以3个简单的步骤！今天，我们很高兴欢迎来宾作家Akshay Kokane分享了他最近使用Microsoft Azure AI Agent Service和Sminantic内核的媒体文章，分为3个简单的步骤。我们将其移交给[…]</description>
+      <pubDate>Tue, 18 Mar 2025 01:22:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
