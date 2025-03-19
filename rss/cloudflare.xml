@@ -4,22 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Chaos in Cloudflare’s Lisbon office: securing the Internet with wave motion】Cloudflare的里斯本办公室中的混乱：通过波动保护互联网</title>
-      <link>https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/</link>
-      <description>【 Cloudflare is now using a wall of waves in our Lisbon, Portugal office to create entropy and strengthen Internet security, turning liquid chaos into secure, unpredictable encryption. 】Cloudflare现在正在我们的里斯本，葡萄牙办公室中使用波浪墙来创建熵并加强互联网安全性，从而将液体混乱变成安全，不可预测的加密。</description>
-      <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Email Security now available for free for political parties and campaigns through Cloudflare for Campaigns】现在，通过Cloudflare进行竞选活动，可以免费提供政党和竞选活动的电子邮件安全</title>
-      <link>https://blog.cloudflare.com/email-security-now-available-for-free-for-political-parties-and-campaigns/</link>
-      <description>【 We’re excited to announce that Cloudflare for Campaigns now includes Email Security, adding an extra layer of protection to email systems that power political campaigns. 】我们很高兴地宣布，广告系列的CloudFlare现在包括电子邮件安全性，为政治活动提供电动的电子邮件系统增加了额外的保护层。</description>
+      <title>【Password reuse is rampant: nearly half of observed user logins are compromised】密码重复使用猖ramp：将近一半的用户登录被妥协</title>
+      <link>https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/</link>
+      <description>【 Nearly half of observed login attempts across websites protected by Cloudflare involved leaked credentials. The pervasive issue of password reuse is enabling automated bot attacks on a massive scale. 】在受Cloudflare保护的网站上，几乎一半的观察到的登录尝试涉及泄漏的凭据。密码重复使用的普遍问题是可以大规模地进行自动机器人攻击。</description>
       <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dynamically optimize, clip, and resize video from any origin with Media Transformations】通过媒体转换动态优化，剪辑和调整视频大小</title>
-      <link>https://blog.cloudflare.com/media-transformations-for-video-open-beta/</link>
-      <description>【 With Cloudflare Stream’s new Media Transformations, content owners can resize, crop, clip, and optimize short-form video, all without migrating storage.  】借助CloudFlare Stream的新媒体转换，内容所有者可以在不迁移存储的情况下调整，裁剪，剪辑和优化短形式视频。 </description>
-      <pubDate>Fri, 07 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Advancing account security as part of Cloudflare’s commitment to CISA’s Secure by Design pledge】作为Cloudflare对CISA安全的承诺，推进帐户安全性，设计保证</title>
@@ -28,22 +16,28 @@
       <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Password reuse is rampant: nearly half of observed user logins are compromised】密码重复使用猖ramp：将近一半的用户登录被妥协</title>
-      <link>https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/</link>
-      <description>【 Nearly half of observed login attempts across websites protected by Cloudflare involved leaked credentials. The pervasive issue of password reuse is enabling automated bot attacks on a massive scale. 】在受Cloudflare保护的网站上，几乎一半的观察到的登录尝试涉及泄漏的凭据。密码重复使用的普遍问题是可以大规模地进行自动机器人攻击。</description>
-      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cloudflare is using automation to tackle phishing head on】Cloudflare如何使用自动化来应对网络钓鱼头</title>
-      <link>https://blog.cloudflare.com/how-cloudflare-is-using-automation-to-tackle-phishing/</link>
-      <description>【 How Cloudflare is using threat intelligence and our Developer Platform products to automate phishing abuse reports. 】CloudFlare如何使用威胁情报和我们的开发人员平台产品来自动化网络钓鱼滥用报告。</description>
-      <pubDate>Mon, 17 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Conventional cryptography is under threat. Upgrade to post-quantum cryptography with Cloudflare Zero Trust】传统的密码学受到威胁。用CloudFlare零信任升级到量子后加密</title>
       <link>https://blog.cloudflare.com/post-quantum-zero-trust/</link>
       <description>【 We’re thrilled to announce that organizations can now protect their sensitive corporate network traffic against quantum threats by tunneling it through Cloudflare’s Zero Trust platform. 】我们很高兴地宣布，组织现在可以通过Cloudflare的零信任平台对其敏感的公司网络流量来保护其敏感的公司网络流量免受量子威胁。</description>
       <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【One platform to manage your company’s predictive security posture with Cloudflare】通过CloudFlare管理公司的预测安全姿势的一个平台</title>
+      <link>https://blog.cloudflare.com/cloudflare-security-posture-management/</link>
+      <description>【 Cloudflare introduces a single platform for unified security posture management, helping protect SaaS and web applications deployed across various environments.  】CloudFlare引入了一个用于统一安全姿势管理的平台，有助于保护在各种环境中部署的SaaS和Web应用程序。</description>
+      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Extending Cloudflare Radar’s security insights with new DDoS, leaked credentials, and bots datasets】使用新的DDO，泄漏的凭据和机器人数据集扩展CloudFlare Radar的安全见解</title>
+      <link>https://blog.cloudflare.com/cloudflare-radar-ddos-leaked-credentials-bots/</link>
+      <description>【 For Security Week 2025, we are adding several new DDoS-focused graphs, new insights into leaked credential trends, and a new Bots page to Cloudflare Radar.  】在2025年安全周中，我们正在添加几个新的以DDOS为中心的图形，对泄漏凭证趋势的新见解以及新的机器人页面为CloudFlare Radar。</description>
+      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unleashing improved context for threat actor activity with our Cloudforce One threat events platform】使用我们的Cloudforce一个威胁事件平台释放提高的威胁参与者活动的上下文</title>
+      <link>https://blog.cloudflare.com/threat-events-platform/</link>
+      <description>【 Gain real-time insights with our new threat events platform. This tool empowers your cybersecurity defense with actionable intelligence to stay ahead of attacks and protect your critical assets. 】通过我们的新威胁事件平台获得实时见解。该工具通过可行的情报使您的网络安全防御能力保持领先地位并保护您的关键资产。</description>
+      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Enhanced security and simplified controls with automated botnet protection, cipher suite selection, and URL Scanner updates】具有自动僵尸网络保护，密码套件和URL扫描仪更新的增强安全性和简化控件</title>
@@ -52,16 +46,22 @@
       <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Global expansion in Generative AI: a year of growth, newcomers, and attacks】生成AI的全球扩张：增长的一年，新移民和攻击</title>
-      <link>https://blog.cloudflare.com/global-expansion-in-generative-ai-a-year-of-growth-newcomers-and-attacks/</link>
-      <description>【 Looking at which Generative AI services are more popular, new entrants into the space, how these services have grown in traffic, where that traffic originates, and others. 】从哪种生成性AI服务更受欢迎的是，新进入该空间的新进入者，这些服务在流量中如何增长，流量来源以及其他服务。</description>
-      <pubDate>Mon, 10 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare enables native monitoring and forensics with Log Explorer and custom dashboards】CloudFlare可以使用Log Explorer和自定义仪表板启用本机监视和取证</title>
+      <link>https://blog.cloudflare.com/monitoring-and-forensics/</link>
+      <description>【 Today we are excited to announce support for Zero Trust datasets, and custom dashboards where customers can monitor critical metrics for suspicious or unusual activity.  】今天，我们很高兴宣布对零信任数据集的支持，以及客户可以监视关键指标的可疑或异常活动的自定义仪表板。</description>
+      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Welcome to Security Week 2025】欢迎来到安全周2025</title>
-      <link>https://blog.cloudflare.com/welcome-to-security-week-2025/</link>
-      <description>【 Over the next week, we will discuss the latest trends in cyber security, announce new products and partnerships, and showcase the latest in Cloudflare technology. Welcome to Security Week 2025! 】在下周，我们将讨论网络安全的最新趋势，宣布新产品和合作伙伴关系，并展示最新的Cloudflare技术。欢迎来到2025年安全周！</description>
-      <pubDate>Sun, 16 Mar 2025 18:00:00 +0000</pubDate>
+      <title>【Email Security now available for free for political parties and campaigns through Cloudflare for Campaigns】现在，通过Cloudflare进行竞选活动，可以免费提供政党和竞选活动的电子邮件安全</title>
+      <link>https://blog.cloudflare.com/email-security-now-available-for-free-for-political-parties-and-campaigns/</link>
+      <description>【 We’re excited to announce that Cloudflare for Campaigns now includes Email Security, adding an extra layer of protection to email systems that power political campaigns. 】我们很高兴地宣布，广告系列的CloudFlare现在包括电子邮件安全性，为政治活动提供电动的电子邮件系统增加了额外的保护层。</description>
+      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Upgraded Turnstile Analytics enable deeper insights, faster investigations, and improved security】升级的旋转门分析可实现更深入的见解，更快的调查和改进的安全性</title>
+      <link>https://blog.cloudflare.com/upgraded-turnstile-analytics-enable-deeper-insights-faster-investigations/</link>
+      <description>【 Introducing new Turnstile Analytics: Gain insight into your visitor traffic, bot behavior patterns, traffic anomalies, and attack attributes. 】引入新的旋转门分析：洞悉访客流量，机器人行为模式，流量异常和攻击属性。</description>
+      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,16 +4,46 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Introducing automatic documentation comment generation in Visual Studio】在Visual Studio中介绍自动文档评论生成</title>
-      <link>https://devblogs.microsoft.com/visualstudio/introducing-automatic-documentation-comment-generation-in-visual-studio</link>
-      <description>【We are excited to announce that Copilot is now automatically integrated into Visual Studio’s editor to help you generate doc comments for functions. This new feature aims to streamline your documentation process and enhance your coding experience. To access these updates, you will need a GitHub Copilot subscription. If you don’t already have GitHub Copilot, [&amp;hellip;]】我们很高兴地宣布，Copilot现在已自动集成到Visual Studio的编辑器中，以帮助您为功能生成DOC评论。这项新功能旨在简化您的文档过程并增强您的编码体验。要访问这些更新，您将需要GitHub Copilot订阅。如果您还没有Github Copilot，[…]</description>
-      <pubDate>Mon, 17 Mar 2025 15:00:10 +0000</pubDate>
+      <title>【Build a Streamlit application with Fabric SQL Database】使用Fabric SQL数据库构建简化应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sql/build-a-streamlit-application-with-fabric-sql-database</link>
+      <description>【Building an application allows you to operationalize the data you have in Microsoft Fabric, such that it can be consumed by stakeholders in your organization to generate business insights.  Streamlit is easy to use to build simple applications without needing to know front-end application frameworks like Flask, Django etc. It makes it easier to prototype [&amp;hellip;]】构建应用程序可以使您可以在Microsoft Fabric中运行您的数据，从而可以由组织中的利益相关者消费以生成业务见解。  简化很容易用于构建简单的应用程序，而无需了解烧瓶，django等前端应用程序框架。它使原型更容易[…]</description>
+      <pubDate>Tue, 18 Mar 2025 19:19:41 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET AI 模板现已提供预览版】.NET AI 模板现已提供预览版</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/net-ai-%e6%a8%a1%e6%9d%bf%e7%8e%b0%e5%b7%b2%e6%8f%90%e4%be%9b%e9%a2%84%e8%a7%88%e7%89%88</link>
-      <description>【本文翻译自Jordan Matthiesen的.NET AI Template Now Available in Preview 想要开始 AI 开发，却不确定从哪里入手？我给您带来了一个好消息——我们全新的 AI 聊天 Web 应用模板现已提供预览版！这个模板是我们不断努力的一部分，旨在通过在Visual Studio，Visual Studio Code 和 .NET CLI 中提供脚手架和指导，让使用 .NET 进行 AI 开发变得更容易上手。  请注意，该模板目前为预览版，未来版本可能会根据您的反馈和 AI 的快速发展进行调整。  立即安装模板  如果想要开始使用该模板的首个预览版，您需要在终端中安装 Microsoft.Extensions.AI.Templates。只需运行：  dotnet new install Microsoft.Extensions.AI.Templates 安装完成后，该模板即可在 Visual Studio，Visual Studio Code（需安装 C# Dev Kit）中使用，或者您也可以在工作目录中运行命令 dotnet new aichatweb 来创建它。  入门指南：.NET AI 聊天模板  .NET AI 聊天模板旨在帮助您快速构建一个基于 AI [&amp;hellip;]】本文翻译自Jordan Matthiesen的.NET AI Template Now Available in Preview 想要开始 AI 开发，却不确定从哪里入手？我给您带来了一个好消息——我们全新的 AI 聊天 Web 应用模板现已提供预览版！这个模板是我们不断努力的一部分，旨在通过在Visual Studio，Visual Studio Code 和 .NET CLI 中提供脚手架和指导，让使用 .NET 进行 AI 开发变得更容易上手。  请注意，该模板目前为预览版，未来版本可能会根据您的反馈和 AI 的快速发展进行调整。  立即安装模板  如果想要开始使用该模板的首个预览版，您需要在终端中安装 Microsoft.Extensions.AI.Templates。只需运行：  dotnet new install Microsoft.Extensions.AI.Templates 安装完成后，该模板即可在 Visual Studio，Visual Studio Code（需安装 C# Dev Kit）中使用，或者您也可以在工作目录中运行命令 dotnet new aichatweb 来创建它。  入门指南：.NET AI 聊天模板  .NET AI 聊天模板旨在帮助您快速构建一个基于 AI […]</description>
-      <pubDate>Fri, 14 Mar 2025 06:56:04 +0000</pubDate>
+      <title>【Embracing Zero Trust: Never Trust, Always Verify】拥抱零信任：永远不要信任，始终验证</title>
+      <link>https://devblogs.microsoft.com/azuregov/embracing-zero-trust-never-trust-always-verify</link>
+      <description>【Microsoft&amp;#8217;s 2024 Digital Defense Report found that between July 2023 and July 2024, Microsoft customers faced an astounding 600 million attacks daily from both cybercriminals and nation-state actors. space In this high-risk and rapidly evolving environment, individuals and organizations must not only strengthen digital defenses at every level but also foster a deep and enduring [&amp;hellip;]】微软的2024年数字防御报告发现，在2023年7月至2024年7月之间，微软客户每天都面临着6亿次攻击，网络犯罪分子和民族国家参与者都面临着6亿次攻击。在这个高风险和迅速发展的环境中，个人和组织不仅必须在各个层面上加强数字防御，还必须促进深刻而持久的境地[…]</description>
+      <pubDate>Tue, 18 Mar 2025 13:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Boost your GitHub productivity with our new multi-account support!】通过我们的新多学院支持提高您的GitHub生产率！</title>
+      <link>https://devblogs.microsoft.com/visualstudio/boost-your-github-productivity-with-our-new-multi-account-support</link>
+      <description>【Managing your GitHub identity in Visual Studio 2022 just got easier! Our latest update overhauls the GitHub account management experience and improves how you work with multiple accounts, especially for GitHub Copilot and version control scenarios. In this post, we&amp;#8217;ll detail how these changes will make your GitHub workflow smoother, from the moment you start [&amp;hellip;]】在Visual Studio 2022中管理您的GitHub身份只是变得更加容易了！我们的最新更新大修了GitHub帐户管理经验，并改善了您与多个帐户的合作方式，尤其是对于Github Copilot和版本控制方案。在这篇文章中，我们将详细说明这些更改将如何使您的github工作流程更加顺畅，从您开始[…]</description>
+      <pubDate>Tue, 18 Mar 2025 14:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the General Availability of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布OpenID Connect的一般可用性外部身份提供商对Microsoft Entra外部ID的支持</title>
+      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-ga</link>
+      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now generally available. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】在Microsoft Entra外部ID中发现新的OpenID Connect Identity提供商支持，现在通常可用。简化用户登录和合作伙伴集成，并通过与Okta，Amazon，Auth0和Azure AD B2C等外部身份提供商联合来提高转换率和用户满意度。</description>
+      <pubDate>Tue, 18 Mar 2025 13:49:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Upcoming Updates for Azure Pipelines Agents Images】Azure Pipelines代理图像的即将到来的更新</title>
+      <link>https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images</link>
+      <description>【To ensure our hosted agents in Azure Pipelines are operating in the most secure and up-to-date environments, we continuously update the supported images and phase out older ones. In October 2024, we announced support for Ubuntu-24.04. Soon, we plan to update the ubuntu-latest image to map to Ubuntu-24.04. Additionally, MacOS 15 Sequoia and Windows 2025 [&amp;hellip;]】为了确保我们在最安全和最新的环境中运行的Azure管道中的托管代理，我们不断更新受支持的图像并逐步逐步淘汰较旧的图像。 2024年10月，我们宣布支持Ubuntu-24.04。很快，我们计划更新Ubuntu-latt的图像以将其映射到Ubuntu-24.04。此外，MacOS 15红杉和Windows 2025 […]</description>
+      <pubDate>Tue, 18 Mar 2025 18:40:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Self-Serve Restoration in Microsoft Dev Box】Microsoft Dev Box中的自助恢复</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/self-serve-restoration-in-microsoft-dev-box</link>
+      <description>【Developers grapple with the anxiety of potential data loss due to unforeseen issues, such as accidental deletions, system failures, or even corrupt files. The Dev Box team is addressing this concern with the self-service restoration feature for the Dev Box, designed to put you back in control. This functionality streamlines recovery by allowing direct restorations [&amp;hellip;]】开发人员努力应对因无法预料的问题而引起的潜在数据丢失的焦虑，例如意外删除，系统故障甚至损坏的文件。开发框团队正在使用开发框的自助恢复功能来解决这个问题，该功能旨在使您重新控制。该功能通过允许直接修复来简化恢复[…]</description>
+      <pubDate>Tue, 18 Mar 2025 04:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 2 is now available!】.NET 10预览2现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2</link>
+      <description>【Find out about the new features in .NET 10 Preview 2 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10 Preview 2中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等等中的新功能！</description>
+      <pubDate>Tue, 18 Mar 2025 18:25:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing ABAP Support in GitHub Copilot for Eclipse】在Eclipse的Github Copilot中引入ABAP支持</title>
@@ -22,46 +52,16 @@
       <pubDate>Tue, 18 Mar 2025 03:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of COM failing to pump messages in a single-threaded COM apartment】com未能在单线程公寓中泵送消息的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250314-00/?p=110965</link>
-      <description>【A customer encountered a hang caused by COM not pumping messages while waiting for a cross-thread operation to complete. They were using the task_sequencer class for serializing asynchronous operations on a UI thread they created to handle accessibility callbacks. The hang stack looked like this: ntdll!ZwWaitForMultipleObjects+0x4 KERNELBASE!WaitForMultipleObjectsEx+0xe0 combase!MTAThreadDispatchCrossApartmentCall+0x3a0 combase!CSyncClientCall::SendReceive2+0x65c combase!DefaultSendReceive+0x88 combase!CSyncClientCall::SendReceive+0x390 combase!CClientChannel::SendReceive+0xc0 combase!NdrExtpProxySendReceive+0x68 rpcrt4!NdrpClientCall3+0x764 combase!ObjectStublessClient+0x180 [&amp;hellip;]】客户在等待跨线程操作完成时遇到的悬挂式悬挂。他们正在使用Task_Sequencer类在其创建的UI线程上序列化异步操作，以处理可访问性回调。悬挂堆栈看起来像这样：ntdll！zwwaitformultipleObjects+0x4 kernelbase！waitgurformultipleObjectsxsex+0xe0 bome！mtathreaddispatchcrossapartmentCallcall+0x3a0 compase！csyncclientCall :: sendReceive2 combase！csyncclientCall :: sendreceive+0x390 combase！cclientChannel :: sendReceive+0xc0 combase！ndrextpproxysendreceive+0x68 rpcrt4！ndrpclientCall3+0x764 combase！</description>
-      <pubDate>Fri, 14 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Why didn’t Windows 95 setup use a miniature version of Windows 95 as its fallback GUI?】为什么Windows 95设置不使用Windows 95的微型版本作为后备GUI？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250318-00/?p=110975</link>
+      <description>【Avoiding an interim GUI environment.】避免临时GUI环境。</description>
+      <pubDate>Tue, 18 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Dubious security vulnerability: A program does not run correctly if you run it the wrong way】可疑安全漏洞：如果以错误的方式运行程序，程序将无法正确运行</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250317-00/?p=110970</link>
-      <description>【So what did you expect?】那你期望什么？</description>
-      <pubDate>Mon, 17 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio at GDC 2025】GDC 2025的Visual Studio</title>
-      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-gdc-2025</link>
-      <description>【Join us in-person at Game Developers Conference 2025 with an in-depth look at how Visual Studio and GitHub Copilot can streamline your iteration workflow. Don’t miss the unveiling of our biggest C++ debugger update yet. Session Title: Accelerating Your Inner Loop with Visual Studio and GitHub Copilot Session Info: March 19th, 2025, 12:30 PM-1:30 PM Pacific Time | [&amp;hellip;]】加入我们在2025年的Game Developers Conference Conferition Charters Inter-In-Menth，深入了解Visual Studio和Github Copilot如何简化您的迭代工作流程。不要错过我们最大的C ++调试器更新的揭幕。会议标题：通过Visual Studio和Github Copilot会话加速您的内部循环信息：2025年3月19日，12：30 PM-1：30 PM太平洋时间| […]</description>
-      <pubDate>Fri, 14 Mar 2025 17:07:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exploring SQL Server Integration with .NET Aspire: A Collection of Hands-On Samples】与.NET Aspire探索SQL Server集成：动手样本的集合</title>
-      <link>https://devblogs.microsoft.com/azure-sql/exploring-sql-server-integration-with-net-aspire-a-collection-of-hands-on-samples</link>
-      <description>【I&amp;#8217;m happy to share a new GitHub repository with developers: azure-sql-db-aspire. This collection of eight hands-on examples demonstrates how to integrate SQL Server and Azure SQL with .NET Aspire, making it easier to build modern, cloud-native applications. Why .NET Aspire for SQL Server? .NET Aspire is a new opinionated, cloud-ready stack for .NET applications that [&amp;hellip;]】我很高兴与开发人员分享一个新的GitHub存储库：Azure-SQL-DB-Aspire。这个八个动手示例的集合演示了如何将SQL Server和Azure SQL与.NET Aspire集成，从而更容易构建现代的云本地应用程序。为什么为SQL Server的.NET ASPIRE？ 。</description>
-      <pubDate>Fri, 14 Mar 2025 15:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: Announcing the Microsoft Semantic Kernel Couchbase Connector】客户案例研究：宣布Microsoft语义内核Couchbase连接器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-announcing-the-microsoft-semantic-kernel-couchbase-connector</link>
-      <description>【We&amp;#8217;re thrilled to announce the launch of the Semantic Kernel Couchbase Vector Store Connector for .NET developers, created through our strategic partnership with Microsoft&amp;#8217;s Semantic Kernel team. This powerful out-of-the-box connector transforms how developers integrate vector search capabilities into their AI applications. What sets this connector apart is how it harnesses Couchbase&amp;#8217;s distributed NoSQL platform [&amp;hellip;]】我们很高兴地宣布，为.NET开发人员推出了通过与Microsoft的Sminantic内核团队建立的。这种功能强大的开箱即用连接器将开发人员如何将矢量搜索功能集成到其AI应用程序中。设置该连接器与众不同的是它如何利用Couchbase的分布式NOSQL平台[…]</description>
-      <pubDate>Fri, 14 Mar 2025 17:32:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【TLS 1.3 support in Azure Cosmos DB】TLS 1.3在Azure Cosmos DB中的支持</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/tls-1-3-support-in-azure-cosmos-db</link>
-      <description>【This article follows announcement on a previous article that mentioned the end of support for Transport Security Layer (TLS) 1.0/1.1. TLS 1.3 is the latest version of the internet’s most deployed security protocol, which encrypts data to provide a secure communication channel between two endpoints. Microsoft has implemented updates to enable TLS 1.3 for Azure [&amp;hellip;]】本文遵循上一篇文章的公告，该文章提到了对运输安全层（TLS）1.0/1.1的支持结束。 TLS 1.3是Internet部署最多的安全协议的最新版本，该协议可加密数据以在两个端点之间提供安全的通信频道。微软已经实施了更新，以启用Azure的TLS 1.3 […]</description>
-      <pubDate>Mon, 17 Mar 2025 17:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps!】来宾博客：使用Microsoft Azure AI代理服务和语义内核建立一个多代理系统，分为3个简单的步骤！</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps</link>
-      <description>【Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps! Today we&amp;#8217;re thrilled to welcome back guest author, Akshay Kokane to share his recent Medium article on Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps. We’ll turn it over to [&amp;hellip;]】使用Microsoft Azure AI代理服务和语义内核构建一个多代理系统，以3个简单的步骤！今天，我们很高兴欢迎来宾作家Akshay Kokane分享了他最近使用Microsoft Azure AI Agent Service和Sminantic内核的媒体文章，分为3个简单的步骤。我们将其移交给[…]</description>
-      <pubDate>Tue, 18 Mar 2025 01:22:32 +0000</pubDate>
+      <title>【Optimizing Build Times with Build Insights: How Activision Cut Call of Duty’s Build Time by 50%】通过构建见解优化构建时间：Activision如何将《使命召唤》的构建时间缩短50％</title>
+      <link>https://devblogs.microsoft.com/cppblog/optimizing-build-times-with-build-insights-how-activision-cut-call-of-dutys-build-time-by-50</link>
+      <description>【Slow build times are a major headache for developers, especially in large, complex C++ codebases like game engines. Every minute spent waiting on a build is time that could be used to refine features, resolve issues, or push development forward. Activision faced this challenge with Call of Duty: Modern Warfare II, where prolonged build times [&amp;hellip;]】缓慢的构建时间是开发人员的主要头痛，尤其是在大型，复杂的C ++代码库中，例如游戏引擎。等待构建的每一分钟都是可以用来完善功能，解决问题或推动发展向前发展的时间。 Activision通过《使命召唤：现代战争II》面临着这一挑战，在那里长时间的构建时间[…]</description>
+      <pubDate>Tue, 18 Mar 2025 13:51:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
