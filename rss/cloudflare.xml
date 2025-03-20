@@ -4,28 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Password reuse is rampant: nearly half of observed user logins are compromised】密码重复使用猖ramp：将近一半的用户登录被妥协</title>
-      <link>https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/</link>
-      <description>【 Nearly half of observed login attempts across websites protected by Cloudflare involved leaked credentials. The pervasive issue of password reuse is enabling automated bot attacks on a massive scale. 】在受Cloudflare保护的网站上，几乎一半的观察到的登录尝试涉及泄漏的凭据。密码重复使用的普遍问题是可以大规模地进行自动机器人攻击。</description>
-      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Trapping misbehaving bots in an AI Labyrinth】在AI迷宫中捕获不良的机器人</title>
+      <link>https://blog.cloudflare.com/ai-labyrinth/</link>
+      <description>【 How Cloudflare uses generative AI to slow down, confuse, and waste the resources of AI Crawlers and other bots that don’t respect “no crawl” directives. 】CloudFlare如何使用生成的AI减慢，混淆和浪费不尊重“无爬行”指令的AI爬网机的资源和其他机器人的资源。</description>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Advancing account security as part of Cloudflare’s commitment to CISA’s Secure by Design pledge】作为Cloudflare对CISA安全的承诺，推进帐户安全性，设计保证</title>
-      <link>https://blog.cloudflare.com/advancing-account-security-as-part-of-cloudflare-commitment-to-cisa-secure-by-design-pledge/</link>
-      <description>【 Cloudflare has made significant progress in boosting multi-factor authentication (MFA) adoption. With the addition of Apple and Google social logins, we’ve made secure access easier for our users. 】Cloudflare在提高多因素身份验证（MFA）采用方面取得了重大进展。随着Apple和Google社交登录的增加，我们使用户更容易获得安全访问。</description>
-      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Improved Bot Management flexibility and visibility with new high-precision heuristics】通过新的高精度启发式方法提高了机器人管理的灵活性和可见度</title>
+      <link>https://blog.cloudflare.com/bots-heuristics/</link>
+      <description>【 By building and integrating a new heuristics framework into the Cloudflare Ruleset Engine, we now have a more flexible system to write rules and deploy new releases rapidly. 】通过将新的启发式框架构建和集成到Cloudflare Ruleset引擎中，我们现在有一个更灵活的系统来编写规则并迅速部署新版本。</description>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Conventional cryptography is under threat. Upgrade to post-quantum cryptography with Cloudflare Zero Trust】传统的密码学受到威胁。用CloudFlare零信任升级到量子后加密</title>
-      <link>https://blog.cloudflare.com/post-quantum-zero-trust/</link>
-      <description>【 We’re thrilled to announce that organizations can now protect their sensitive corporate network traffic against quantum threats by tunneling it through Cloudflare’s Zero Trust platform. 】我们很高兴地宣布，组织现在可以通过Cloudflare的零信任平台对其敏感的公司网络流量来保护其敏感的公司网络流量免受量子威胁。</description>
-      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【One platform to manage your company’s predictive security posture with Cloudflare】通过CloudFlare管理公司的预测安全姿势的一个平台</title>
-      <link>https://blog.cloudflare.com/cloudflare-security-posture-management/</link>
-      <description>【 Cloudflare introduces a single platform for unified security posture management, helping protect SaaS and web applications deployed across various environments.  】CloudFlare引入了一个用于统一安全姿势管理的平台，有助于保护在各种环境中部署的SaaS和Web应用程序。</description>
-      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【How we train AI to uncover malicious JavaScript intent and make web surfing safer】我们如何训练AI发现恶意的JavaScript意图并使网络冲浪更安全</title>
+      <link>https://blog.cloudflare.com/how-we-train-ai-to-uncover-malicious-javascript-intent-and-make-web-surfing-safer/</link>
+      <description>【 Learn more about how Cloudflare developed an AI model to uncover malicious JavaScript intent using a Graph Neural Network, from pre-processing data to inferencing at scale.  】了解有关CloudFlare如何开发AI模型的更多信息，以使用图形神经网络（从预处理数据到大规模推论）发现恶意JavaScript意图。</description>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Extending Cloudflare Radar’s security insights with new DDoS, leaked credentials, and bots datasets】使用新的DDO，泄漏的凭据和机器人数据集扩展CloudFlare Radar的安全见解</title>
@@ -34,34 +28,40 @@
       <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unleashing improved context for threat actor activity with our Cloudforce One threat events platform】使用我们的Cloudforce一个威胁事件平台释放提高的威胁参与者活动的上下文</title>
-      <link>https://blog.cloudflare.com/threat-events-platform/</link>
-      <description>【 Gain real-time insights with our new threat events platform. This tool empowers your cybersecurity defense with actionable intelligence to stay ahead of attacks and protect your critical assets. 】通过我们的新威胁事件平台获得实时见解。该工具通过可行的情报使您的网络安全防御能力保持领先地位并保护您的关键资产。</description>
-      <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhanced security and simplified controls with automated botnet protection, cipher suite selection, and URL Scanner updates】具有自动僵尸网络保护，密码套件和URL扫描仪更新的增强安全性和简化控件</title>
-      <link>https://blog.cloudflare.com/enhanced-security-and-simplified-controls-with-automated-botnet-protection/</link>
-      <description>【 Enhanced security, simplified control! This Security Week, Cloudflare unveils automated botnet protection, flexible cipher suites, and an upgraded URL Scanner. 】增强的安全性，简化控制！在安全周，CloudFlare揭示了自动化的僵尸网络保护，灵活的密码套件和升级的URL扫描仪。</description>
-      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare enables native monitoring and forensics with Log Explorer and custom dashboards】CloudFlare可以使用Log Explorer和自定义仪表板启用本机监视和取证</title>
       <link>https://blog.cloudflare.com/monitoring-and-forensics/</link>
       <description>【 Today we are excited to announce support for Zero Trust datasets, and custom dashboards where customers can monitor critical metrics for suspicious or unusual activity.  】今天，我们很高兴宣布对零信任数据集的支持，以及客户可以监视关键指标的可疑或异常活动的自定义仪表板。</description>
       <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Email Security now available for free for political parties and campaigns through Cloudflare for Campaigns】现在，通过Cloudflare进行竞选活动，可以免费提供政党和竞选活动的电子邮件安全</title>
-      <link>https://blog.cloudflare.com/email-security-now-available-for-free-for-political-parties-and-campaigns/</link>
-      <description>【 We’re excited to announce that Cloudflare for Campaigns now includes Email Security, adding an extra layer of protection to email systems that power political campaigns. 】我们很高兴地宣布，广告系列的CloudFlare现在包括电子邮件安全性，为政治活动提供电动的电子邮件系统增加了额外的保护层。</description>
-      <pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Cloudflare for AI: supporting AI adoption at scale with a security-first approach】AI的CloudFlare：以安全优先的方法进行大规模支持AI采用</title>
+      <link>https://blog.cloudflare.com/cloudflare-for-ai-supporting-ai-adoption-at-scale-with-a-security-first-approach/</link>
+      <description>【 With Cloudflare for AI, developers, security teams and content creators can leverage Cloudflare’s network and portfolio of tools to secure, observe and make AI applications resilient and safe to use. 】借助AI的CloudFlare，开发人员，安全团队和内容创建者可以利用Cloudflare的网络和工具组合来保护，观察和使AI应用程序具有弹性且安全使用。</description>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unleashing improved context for threat actor activity with our Cloudforce One threat events platform】使用我们的Cloudforce一个威胁事件平台释放提高的威胁参与者活动的上下文</title>
+      <link>https://blog.cloudflare.com/threat-events-platform/</link>
+      <description>【 Gain real-time insights with our new threat events platform. This tool empowers your cybersecurity defense with actionable intelligence to stay ahead of attacks and protect your critical assets. 】通过我们的新威胁事件平台获得实时见解。该工具通过可行的情报使您的网络安全防御能力保持领先地位并保护您的关键资产。</description>
+      <pubDate>Tue, 18 Mar 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【An early look at cryptographic watermarks for AI-generated content】早期查看AI生成内容的加密水印</title>
+      <link>https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/</link>
+      <description>【 It&#39;s hard to tell the difference between web content produced by humans and web content produced by AI. We&#39;re taking new approach to making AI content distinguishable without impacting performance.  】很难说出人类生成的Web内容与AI生产的Web内容之间的区别。我们正在采用新的方法来使AI内容可区分不影响性能。</description>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Upgraded Turnstile Analytics enable deeper insights, faster investigations, and improved security】升级的旋转门分析可实现更深入的见解，更快的调查和改进的安全性</title>
       <link>https://blog.cloudflare.com/upgraded-turnstile-analytics-enable-deeper-insights-faster-investigations/</link>
       <description>【 Introducing new Turnstile Analytics: Gain insight into your visitor traffic, bot behavior patterns, traffic anomalies, and attack attributes. 】引入新的旋转门分析：洞悉访客流量，机器人行为模式，流量异常和攻击属性。</description>
       <pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Take control of public AI application security with Cloudflare&#39;s Firewall for AI】使用Cloudflare的防火墙来控制公共AI应用程序安全</title>
+      <link>https://blog.cloudflare.com/take-control-of-public-ai-application-security-with-cloudflare-firewall-for-ai/</link>
+      <description>【 Firewall for AI discovers and protects your public LLM-powered applications, and is seamlessly integrated with Cloudflare WAF. Join the beta now and take control of your generative AI security. 】AI的防火墙发现并保护您的公共LLM驱动应用程序，并与Cloudflare WAF无缝集成。立即加入Beta，并控制您的生成AI安全性。</description>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

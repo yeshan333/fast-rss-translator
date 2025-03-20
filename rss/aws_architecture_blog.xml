@@ -4,46 +4,22 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>为无状态队列消费者创建无服务器的自定义重试机制</title>
-      <link>https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/</link>
-      <description></description>
-      <pubDate>Tue, 11 Feb 2025 17:44:03 +0000</pubDate>
-    </item>
-    <item>
       <title>使用Amazon Sagemaker Canvas培训呼叫中心欺诈检测模型</title>
       <link>https://aws.amazon.com/blogs/architecture/training-a-call-center-fraud-detection-model-for-ivr-calls-with-amazon-sagemaker-canvas/</link>
       <description></description>
       <pubDate>Fri, 07 Mar 2025 17:09:39 +0000</pubDate>
     </item>
     <item>
-      <title>使用Amazon API网关构建企业API管理解决方案</title>
-      <link>https://aws.amazon.com/blogs/architecture/build-an-enterprise-api-management-solution-using-amazon-api-gateway/</link>
+      <title>在AWS上使用生成AI进行有效的临床文档分析</title>
+      <link>https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/</link>
       <description></description>
-      <pubDate>Tue, 11 Mar 2025 18:46:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wellight现代化了以事件为导向的架构，以管理爆发和不可预测的交通</title>
-      <link>https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/</link>
-      <description></description>
-      <pubDate>Mon, 24 Feb 2025 16:19:34 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 19:04:42 +0000</pubDate>
     </item>
     <item>
       <title>2024年顶级建筑博客文章</title>
       <link>https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2024/</link>
       <description></description>
       <pubDate>Thu, 23 Jan 2025 16:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>通过与多个AWS区域进行架构来增强关键工作负载的弹性</title>
-      <link>https://aws.amazon.com/blogs/architecture/enhance-the-resilience-of-critical-workloads-by-architecting-with-multiple-aws-regions/</link>
-      <description></description>
-      <pubDate>Wed, 22 Jan 2025 16:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用AWS良好的框架实现十二个因子</title>
-      <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
-      <description></description>
-      <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
     </item>
     <item>
       <title>Nielsen如何使用Spark Workloads在Amazon EKS上使用无服务器概念进行大数据处理</title>
@@ -58,10 +34,34 @@
       <pubDate>Mon, 13 Jan 2025 21:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>在AWS上使用生成AI进行有效的临床文档分析</title>
-      <link>https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/</link>
+      <title>为无状态队列消费者创建无服务器的自定义重试机制</title>
+      <link>https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/</link>
       <description></description>
-      <pubDate>Wed, 05 Feb 2025 19:04:42 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2025 17:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wellight现代化了以事件为导向的架构，以管理爆发和不可预测的交通</title>
+      <link>https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/</link>
+      <description></description>
+      <pubDate>Mon, 24 Feb 2025 16:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用Amazon API网关构建企业API管理解决方案</title>
+      <link>https://aws.amazon.com/blogs/architecture/build-an-enterprise-api-management-solution-using-amazon-api-gateway/</link>
+      <description></description>
+      <pubDate>Tue, 11 Mar 2025 18:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>通过与多个AWS区域进行架构来增强关键工作负载的弹性</title>
+      <link>https://aws.amazon.com/blogs/architecture/enhance-the-resilience-of-critical-workloads-by-architecting-with-multiple-aws-regions/</link>
+      <description></description>
+      <pubDate>Wed, 22 Jan 2025 16:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用AWS良好的框架实现十二个因子</title>
+      <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
+      <description></description>
+      <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

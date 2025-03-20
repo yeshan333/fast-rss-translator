@@ -10,22 +10,10 @@
       <pubDate>Tue, 18 Mar 2025 19:19:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Embracing Zero Trust: Never Trust, Always Verify】拥抱零信任：永远不要信任，始终验证</title>
-      <link>https://devblogs.microsoft.com/azuregov/embracing-zero-trust-never-trust-always-verify</link>
-      <description>【Microsoft&amp;#8217;s 2024 Digital Defense Report found that between July 2023 and July 2024, Microsoft customers faced an astounding 600 million attacks daily from both cybercriminals and nation-state actors. space In this high-risk and rapidly evolving environment, individuals and organizations must not only strengthen digital defenses at every level but also foster a deep and enduring [&amp;hellip;]】微软的2024年数字防御报告发现，在2023年7月至2024年7月之间，微软客户每天都面临着6亿次攻击，网络犯罪分子和民族国家参与者都面临着6亿次攻击。在这个高风险和迅速发展的环境中，个人和组织不仅必须在各个层面上加强数字防御，还必须促进深刻而持久的境地[…]</description>
-      <pubDate>Tue, 18 Mar 2025 13:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Boost your GitHub productivity with our new multi-account support!】通过我们的新多学院支持提高您的GitHub生产率！</title>
-      <link>https://devblogs.microsoft.com/visualstudio/boost-your-github-productivity-with-our-new-multi-account-support</link>
-      <description>【Managing your GitHub identity in Visual Studio 2022 just got easier! Our latest update overhauls the GitHub account management experience and improves how you work with multiple accounts, especially for GitHub Copilot and version control scenarios. In this post, we&amp;#8217;ll detail how these changes will make your GitHub workflow smoother, from the moment you start [&amp;hellip;]】在Visual Studio 2022中管理您的GitHub身份只是变得更加容易了！我们的最新更新大修了GitHub帐户管理经验，并改善了您与多个帐户的合作方式，尤其是对于Github Copilot和版本控制方案。在这篇文章中，我们将详细说明这些更改将如何使您的github工作流程更加顺畅，从您开始[…]</description>
-      <pubDate>Tue, 18 Mar 2025 14:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the General Availability of OpenID Connect external identity provider support for Microsoft Entra External ID】宣布OpenID Connect的一般可用性外部身份提供商对Microsoft Entra外部ID的支持</title>
-      <link>https://devblogs.microsoft.com/identity/openid-connect-external-identity-provider-support-ga</link>
-      <description>【Discover the new OpenID Connect identity provider support in Microsoft Entra External ID, now generally available. Simplify user sign-in and partner integrations, and improve conversion rates and user satisfaction by federating with external identity providers like Okta, Amazon, Auth0, and Azure AD B2C.】在Microsoft Entra外部ID中发现新的OpenID Connect Identity提供商支持，现在通常可用。简化用户登录和合作伙伴集成，并通过与Okta，Amazon，Auth0和Azure AD B2C等外部身份提供商联合来提高转换率和用户满意度。</description>
-      <pubDate>Tue, 18 Mar 2025 13:49:03 +0000</pubDate>
+      <title>【Find the IDE features you need with GitHub Copilot and Search】查找GitHub Copilot和搜索所需的IDE功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/find-the-ide-features-you-need-with-github-copilot-and-search</link>
+      <description>【Ever find yourself needing to locate a specific menu item, command, or option in Visual Studio, but you don&amp;#8217;t know its name or location? Do you often struggle to find detailed instructions on using certain features effectively? Now, there’s a solution to get you the information you need right in the IDE. Visual Studio now [&amp;hellip;]】有没有发现自己需要在Visual Studio中找到特定的菜单项，命令或选项，但是您不知道其名称或位置？您是否经常难以找到有效使用某些功能的详细说明？现在，有一个解决方案可以为您提供IDE中所需的信息。 Visual Studio现在[…]</description>
+      <pubDate>Wed, 19 Mar 2025 15:00:29 +0000</pubDate>
     </item>
     <item>
       <title>【Upcoming Updates for Azure Pipelines Agents Images】Azure Pipelines代理图像的即将到来的更新</title>
@@ -34,34 +22,46 @@
       <pubDate>Tue, 18 Mar 2025 18:40:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Self-Serve Restoration in Microsoft Dev Box】Microsoft Dev Box中的自助恢复</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/self-serve-restoration-in-microsoft-dev-box</link>
-      <description>【Developers grapple with the anxiety of potential data loss due to unforeseen issues, such as accidental deletions, system failures, or even corrupt files. The Dev Box team is addressing this concern with the self-service restoration feature for the Dev Box, designed to put you back in control. This functionality streamlines recovery by allowing direct restorations [&amp;hellip;]】开发人员努力应对因无法预料的问题而引起的潜在数据丢失的焦虑，例如意外删除，系统故障甚至损坏的文件。开发框团队正在使用开发框的自助恢复功能来解决这个问题，该功能旨在使您重新控制。该功能通过允许直接修复来简化恢复[…]</description>
-      <pubDate>Tue, 18 Mar 2025 04:12:35 +0000</pubDate>
-    </item>
-    <item>
       <title>【.NET 10 Preview 2 is now available!】.NET 10预览2现在可用！</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2</link>
       <description>【Find out about the new features in .NET 10 Preview 2 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10 Preview 2中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等等中的新功能！</description>
       <pubDate>Tue, 18 Mar 2025 18:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing ABAP Support in GitHub Copilot for Eclipse】在Eclipse的Github Copilot中引入ABAP支持</title>
-      <link>https://devblogs.microsoft.com/java/introducing-abap-support-in-github-copilot-for-eclipse</link>
-      <description>【The latest release of GitHub Copilot for Eclipse now includes support for ABAP! This update builds on the recent release of code completion and chat integration, offering a robust toolset for developers working within the SAP environment. ABAP remains a critical language in the enterprise space, powering a wide range of business applications, and its [&amp;hellip;]】Eclipse的Github Copilot的最新版本现在包括对ABAP的支持！此更新基于最近发布的代码完成和聊天集成，为在SAP环境中工作的开发人员提供了强大的工具集。 ABAP在企业领域仍然是一种关键语言，为广泛的业务应用程序提供动力，及其[…]</description>
-      <pubDate>Tue, 18 Mar 2025 03:13:05 +0000</pubDate>
+      <title>【Vector Search with Azure SQL, Semantic Kernel and Entity Framework Core】使用Azure SQL，语义内核和实体框架核心搜索矢量搜索</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vector-search-with-azure-sql-semantic-kernel-and-entity-framework-core</link>
+      <description>【Vector databases like Qdrant and Milvus are specifically designed to efficiently store, manage, and retrieve embeddings. However, many applications already use relational databases like SQL Server or SQL Azure. In such cases, installing and managing another database can be challenging, especially since these vector databases may not offer all the features of a modern relational [&amp;hellip;]】QDRANT和MILVUS等矢量数据库的专门设计用于有效地存储，管理和检索嵌入。但是，许多应用程序已经使用了关系数据库，例如SQL Server或SQL Azure。在这种情况下，安装和管理另一个数据库可能具有挑战性，尤其是因为这些向量数据库可能无法提供现代关系的所有功能[…]</description>
+      <pubDate>Wed, 19 Mar 2025 14:53:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Why didn’t Windows 95 setup use a miniature version of Windows 95 as its fallback GUI?】为什么Windows 95设置不使用Windows 95的微型版本作为后备GUI？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250318-00/?p=110975</link>
-      <description>【Avoiding an interim GUI environment.】避免临时GUI环境。</description>
-      <pubDate>Tue, 18 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Accelerating Agentic Workflows with NVIDIA AgentIQ, Azure AI Foundry and Semantic Kernel】使用NVIDIA Ageniq，Azure AI Foundry和语义内核加速代理工作流程</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/accelerating-agentic-workflows-with-nvidia-agentiq-azure-ai-foundry-and-semantic-kernel</link>
+      <description>【Today, we&amp;#8217;re excited to announce our collaboration with NVIDIA. In Azure AI Foundry, we&amp;#8217;ve integrated NVIDIA NIM microservices and the NVIDIA AgentIQ toolkit into Azure AI Foundry—unlocking unprecedented efficiency, performance, and cost optimization for your AI projects. Read more on the announcement here. Optimizing performance with NVIDIA AgentIQ and Semantic Kernel Once your NVIDIA NIM [&amp;hellip;]】今天，我们很高兴宣布我们与Nvidia的合作。在Azure AI铸造厂中，我们将NVIDIA NIM微服务和NVIDIA Ageniq Toolkit集成了Azure AI铸造厂 - 将前所未有的效率，性能和成本优化释放为您的AI项目。在此处阅读有关公告的更多信息。一旦您的nvidia nim […]，用NVIDIA Ageniq和语义内核优化性能</description>
+      <pubDate>Wed, 19 Mar 2025 03:29:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Optimizing Build Times with Build Insights: How Activision Cut Call of Duty’s Build Time by 50%】通过构建见解优化构建时间：Activision如何将《使命召唤》的构建时间缩短50％</title>
-      <link>https://devblogs.microsoft.com/cppblog/optimizing-build-times-with-build-insights-how-activision-cut-call-of-dutys-build-time-by-50</link>
-      <description>【Slow build times are a major headache for developers, especially in large, complex C++ codebases like game engines. Every minute spent waiting on a build is time that could be used to refine features, resolve issues, or push development forward. Activision faced this challenge with Call of Duty: Modern Warfare II, where prolonged build times [&amp;hellip;]】缓慢的构建时间是开发人员的主要头痛，尤其是在大型，复杂的C ++代码库中，例如游戏引擎。等待构建的每一分钟都是可以用来完善功能，解决问题或推动发展向前发展的时间。 Activision通过《使命召唤：现代战争II》面临着这一挑战，在那里长时间的构建时间[…]</description>
-      <pubDate>Tue, 18 Mar 2025 13:51:17 +0000</pubDate>
+      <title>【C++ Dynamic Debugging: Full Debuggability for Optimized Builds】C ++动态调试：优化构建的完整调试性</title>
+      <link>https://devblogs.microsoft.com/cppblog/cpp-dynamic-debugging-full-debuggability-for-optimized-builds</link>
+      <description>【Over the past 5 years, we’ve had many incredible opportunities to engage with game developers. From AAA studios to indie developers, the passion for slashing iteration times is significant. Amidst all the fantastic feedback we&amp;#8217;ve received for Visual Studio, one sentiment has rung loud and clear: a desire to debug optimized C++ code without sacrificing [&amp;hellip;]】在过去的5年中，我们有许多与游戏开发人员互动的机会。从AAA工作室到独立开发人员，对削减迭代时代的热情非常重要。在我们为Visual Studio收到的所有奇妙反馈中，一个情绪大声而清晰：渴望调试优化的C ++代码而无需牺牲[…]</description>
+      <pubDate>Wed, 19 Mar 2025 18:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【You can’t simulate keyboard input with PostMessage, revisited】您无法使用邮政事间模拟键盘输入，重新审视</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250319-00/?p=110979</link>
+      <description>【If it didn&#39;t go through the input system, it only looks like input as much as the app allows itself to be fooled.】如果它没有通过输入系统，它看起来只像输入一样多，就像该应用程序允许自身被愚弄一样。</description>
+      <pubDate>Wed, 19 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MSTest 3.8: Top 10 features to supercharge your .NET tests!】MSTST 3.8：增强.NET测试的前10个功能！</title>
+      <link>https://devblogs.microsoft.com/dotnet/mstest-3-8-highlights</link>
+      <description>【MSTest 3.8 is here! It&#39;s built on your feedback and packed with powerful new features to simplify and smooth your testing experience.】Mstest 3.8在这里！它建立在您的反馈基础上，并包含强大的新功能，以简化和平滑您的测试体验。</description>
+      <pubDate>Wed, 19 Mar 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Securing Developer Tools with Authentication Brokers】使用身份验证经纪人确保开发人员工具</title>
+      <link>https://devblogs.microsoft.com//securing-developer-tools-with-authentication-brokers</link>
+      <description>【If you’ve used any applications that required connecting your personal Microsoft or Entra ID account, you’re probably familiar with the typical “authentication dance” – you see a browser window pop up, you enter your credentials, then you can close the browser, and the application is magically authenticated. The next application you launch does the same [&amp;hellip;]】如果您使用了任何需要连接个人Microsoft或Entra ID帐户的应用程序，那么您可能熟悉典型的“身份验证舞蹈”  - 您会看到浏览器窗口弹出，输入凭据，然后您可以关闭浏览器，并且该应用程序具有神奇的认证。您启动的下一个应用程序执行相同的[…]</description>
+      <pubDate>Wed, 19 Mar 2025 18:30:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
