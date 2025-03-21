@@ -4,16 +4,16 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #225: React Router, React Aria, Ark, moveBefore(), Ark | JSC, Lynx, Metro, Reanimated, AI, Radon, Galeria, Zeego, Legal | TypeScript, Deno, Web Almanac】本周在React＃225：React路由器，React Aria，ARK，MoveBefore（），ARK | JSC，Lynx，Metro，复活，AI，Ra，Galeria，Zeego，Legal |打字稿，DENO，Web年鉴</title>
+      <link>https://thisweekinreact.com/newsletter/225</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #223: TanStack, React Router, React-Scan, Bun, Next.js, INP, Storybook | State of RN, Nitro Views, Reanimated, Gesture Handler, Screens, AWS-LC, QuickPush, Metro | TC39, CSS, TypeScript, Observables...】本周在React＃223中：Tanstack，React Router，React-Scan，Bun，Next.js，INP，Storybook | RN状态，硝基景观，复兴，手势处理程序，屏幕，AWS-LC，QuickPush，Metro | TC39，CSS，打字稿，可观察...</title>
       <link>https://thisweekinreact.com/newsletter/223</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #226: Parcel, TanStack, Astro, React-Scan, React-Router | Worklets, Enterprise Framework, Perf, Expo UI, FlatList, BackgroundTask | Node.js, Oxc Minifier, Oxlint, Valibot】本周在React＃226中：包裹，Tanstack，Astro，React-Scan，React-Router |工作点，企业框架，perf，expo UI，flatlist，backingtask | Node.js，OXC Minifier，Oxlint，Valibot</title>
-      <link>https://thisweekinreact.com/newsletter/226</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #224: Next.js, TanStack Form, Astro, RTK, State Machine, Remix, StyleX | Lynx, Entreprise, SwiftUI, VisionOS, Windows, Hermes, Expo | Node.js, TypeScript, ArkType, Nitro, BetterAuth】本周在React＃224：Next.js，Tanstack表单，Astro，RTK，State Machine，Remix，Stylex | Lynx，Entreprise，Swiftui，Visionos，Windows，Hermes，Expo | node.js，打字稿，arktype，nitro，betterauth</title>
@@ -28,10 +28,10 @@
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【This Week In React #225: React Router, React Aria, Ark, moveBefore(), Ark | JSC, Lynx, Metro, Reanimated, AI, Radon, Galeria, Zeego, Legal | TypeScript, Deno, Web Almanac】本周在React＃225：React路由器，React Aria，ARK，MoveBefore（），ARK | JSC，Lynx，Metro，复活，AI，Ra，Galeria，Zeego，Legal |打字稿，DENO，Web年鉴</title>
-      <link>https://thisweekinreact.com/newsletter/225</link>
+      <title>【This Week In React #226: Parcel, TanStack, Astro, React-Scan, React-Router | Worklets, Enterprise Framework, Perf, Expo UI, FlatList, BackgroundTask | Node.js, Oxc Minifier, Oxlint, Valibot】本周在React＃226中：包裹，Tanstack，Astro，React-Scan，React-Router |工作点，企业框架，perf，expo UI，flatlist，backingtask | Node.js，OXC Minifier，Oxlint，Valibot</title>
+      <link>https://thisweekinreact.com/newsletter/226</link>
       <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

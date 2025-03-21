@@ -4,40 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Build a Streamlit application with Fabric SQL Database】使用Fabric SQL数据库构建简化应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-sql/build-a-streamlit-application-with-fabric-sql-database</link>
-      <description>【Building an application allows you to operationalize the data you have in Microsoft Fabric, such that it can be consumed by stakeholders in your organization to generate business insights.  Streamlit is easy to use to build simple applications without needing to know front-end application frameworks like Flask, Django etc. It makes it easier to prototype [&amp;hellip;]】构建应用程序可以使您可以在Microsoft Fabric中运行您的数据，从而可以由组织中的利益相关者消费以生成业务见解。  简化很容易用于构建简单的应用程序，而无需了解烧瓶，django等前端应用程序框架。它使原型更容易[…]</description>
-      <pubDate>Tue, 18 Mar 2025 19:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Find the IDE features you need with GitHub Copilot and Search】查找GitHub Copilot和搜索所需的IDE功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/find-the-ide-features-you-need-with-github-copilot-and-search</link>
-      <description>【Ever find yourself needing to locate a specific menu item, command, or option in Visual Studio, but you don&amp;#8217;t know its name or location? Do you often struggle to find detailed instructions on using certain features effectively? Now, there’s a solution to get you the information you need right in the IDE. Visual Studio now [&amp;hellip;]】有没有发现自己需要在Visual Studio中找到特定的菜单项，命令或选项，但是您不知道其名称或位置？您是否经常难以找到有效使用某些功能的详细说明？现在，有一个解决方案可以为您提供IDE中所需的信息。 Visual Studio现在[…]</description>
-      <pubDate>Wed, 19 Mar 2025 15:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Upcoming Updates for Azure Pipelines Agents Images】Azure Pipelines代理图像的即将到来的更新</title>
-      <link>https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images</link>
-      <description>【To ensure our hosted agents in Azure Pipelines are operating in the most secure and up-to-date environments, we continuously update the supported images and phase out older ones. In October 2024, we announced support for Ubuntu-24.04. Soon, we plan to update the ubuntu-latest image to map to Ubuntu-24.04. Additionally, MacOS 15 Sequoia and Windows 2025 [&amp;hellip;]】为了确保我们在最安全和最新的环境中运行的Azure管道中的托管代理，我们不断更新受支持的图像并逐步逐步淘汰较旧的图像。 2024年10月，我们宣布支持Ubuntu-24.04。很快，我们计划更新Ubuntu-latt的图像以将其映射到Ubuntu-24.04。此外，MacOS 15红杉和Windows 2025 […]</description>
-      <pubDate>Tue, 18 Mar 2025 18:40:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10 Preview 2 is now available!】.NET 10预览2现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2</link>
-      <description>【Find out about the new features in .NET 10 Preview 2 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10 Preview 2中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等等中的新功能！</description>
-      <pubDate>Tue, 18 Mar 2025 18:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Vector Search with Azure SQL, Semantic Kernel and Entity Framework Core】使用Azure SQL，语义内核和实体框架核心搜索矢量搜索</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vector-search-with-azure-sql-semantic-kernel-and-entity-framework-core</link>
-      <description>【Vector databases like Qdrant and Milvus are specifically designed to efficiently store, manage, and retrieve embeddings. However, many applications already use relational databases like SQL Server or SQL Azure. In such cases, installing and managing another database can be challenging, especially since these vector databases may not offer all the features of a modern relational [&amp;hellip;]】QDRANT和MILVUS等矢量数据库的专门设计用于有效地存储，管理和检索嵌入。但是，许多应用程序已经使用了关系数据库，例如SQL Server或SQL Azure。在这种情况下，安装和管理另一个数据库可能具有挑战性，尤其是因为这些向量数据库可能无法提供现代关系的所有功能[…]</description>
-      <pubDate>Wed, 19 Mar 2025 14:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Accelerating Agentic Workflows with NVIDIA AgentIQ, Azure AI Foundry and Semantic Kernel】使用NVIDIA Ageniq，Azure AI Foundry和语义内核加速代理工作流程</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/accelerating-agentic-workflows-with-nvidia-agentiq-azure-ai-foundry-and-semantic-kernel</link>
-      <description>【Today, we&amp;#8217;re excited to announce our collaboration with NVIDIA. In Azure AI Foundry, we&amp;#8217;ve integrated NVIDIA NIM microservices and the NVIDIA AgentIQ toolkit into Azure AI Foundry—unlocking unprecedented efficiency, performance, and cost optimization for your AI projects. Read more on the announcement here. Optimizing performance with NVIDIA AgentIQ and Semantic Kernel Once your NVIDIA NIM [&amp;hellip;]】今天，我们很高兴宣布我们与Nvidia的合作。在Azure AI铸造厂中，我们将NVIDIA NIM微服务和NVIDIA Ageniq Toolkit集成了Azure AI铸造厂 - 将前所未有的效率，性能和成本优化释放为您的AI项目。在此处阅读有关公告的更多信息。一旦您的nvidia nim […]，用NVIDIA Ageniq和语义内核优化性能</description>
-      <pubDate>Wed, 19 Mar 2025 03:29:43 +0000</pubDate>
+      <title>【Enhance Pull Request Reviews with In-Depth Feedback】通过深入的反馈来增强拉的请求评论</title>
+      <link>https://devblogs.microsoft.com/visualstudio/enhance-pull-request-reviews-with-in-depth-feedback</link>
+      <description>【Visual Studio 2022 has taken the pull request experience to the next level by making reviews interactive. We previously enabled viewing your pull request comments inline in your working files. Now, the latest update empowers you to add comments directly within the IDE, streamlining the review process. Now, pull request reviewers can conduct deep reviews [&amp;hellip;]】Visual Studio 2022通过使评论互动将拉力请求体验提升到了一个新的水平。我们先前启用了您的工作文件中的“拉动请求”注释。现在，最新的更新使您可以直接在IDE中添加注释，从而简化审核过程。现在，拉请请求审稿人可以进行深入的评论[…]</description>
+      <pubDate>Thu, 20 Mar 2025 15:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【C++ Dynamic Debugging: Full Debuggability for Optimized Builds】C ++动态调试：优化构建的完整调试性</title>
@@ -46,10 +16,40 @@
       <pubDate>Wed, 19 Mar 2025 18:33:52 +0000</pubDate>
     </item>
     <item>
-      <title>【You can’t simulate keyboard input with PostMessage, revisited】您无法使用邮政事间模拟键盘输入，重新审视</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250319-00/?p=110979</link>
-      <description>【If it didn&#39;t go through the input system, it only looks like input as much as the app allows itself to be fooled.】如果它没有通过输入系统，它看起来只像输入一样多，就像该应用程序允许自身被愚弄一样。</description>
-      <pubDate>Wed, 19 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【The Hidden Risks of Docker Build Time Arguments and How to Secure Your Secrets】Docker的隐藏风险建立时间论点以及如何确保您的秘密</title>
+      <link>https://devblogs.microsoft.com/ise/hidden-risks-of-docker-build-time-arguments-and-how-to-secure-your-secrets</link>
+      <description>【This post discusses the security risks of using Docker build-time arguments to pass secrets, and suggests alternative methods for handling secrets securely.】这篇文章讨论了使用Docker Build Time参数通过秘密的安全风险，并建议使用安全处理秘密的替代方法。</description>
+      <pubDate>Thu, 20 Mar 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enforcement of license checks for PSTN Bot calls】执行PSTN机器人通话的许可证检查</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/enforcement-of-license-checks-for-pstn-bot-calls</link>
+      <description>【As part of Microsoft’s feature parity with Teams Phone extensibility, we’re announcing the enforcement of Phone System license checks for Bot-initiated transfers to Teams users. This current gap in our systems will be addressed in June 2025.  Microsoft Teams requires that Teams users behind applications such as queue applications require a phone system license and [&amp;hellip;]】作为Microsoft与Teams Phone Extresibility的功能均等的一部分，我们宣布执行电话系统许可证检查机器人发射的转移到团队用户。我们系统中当前的差距将于2025年6月解决。微软团队要求将用户在诸如队列应用程序等应用程序之后的用户需要电话系统许可和[…]</description>
+      <pubDate>Thu, 20 Mar 2025 15:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Data at rest】Microsoft 365认证控制聚光灯：静止数据</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-at-rest</link>
+      <description>【Read how Microsoft 365 Certification ensures compliance for data at rest.】阅读Microsoft 365认证如何确保静止数据的合规性。</description>
+      <pubDate>Thu, 20 Mar 2025 15:18:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Securing Developer Tools with Authentication Brokers】使用身份验证经纪人确保开发人员工具</title>
+      <link>https://devblogs.microsoft.com//securing-developer-tools-with-authentication-brokers</link>
+      <description>【If you’ve used any applications that required connecting your personal Microsoft or Entra ID account, you’re probably familiar with the typical “authentication dance” – you see a browser window pop up, you enter your credentials, then you can close the browser, and the application is magically authenticated. The next application you launch does the same [&amp;hellip;]】如果您使用了任何需要连接个人Microsoft或Entra ID帐户的应用程序，那么您可能熟悉典型的“身份验证舞蹈”  - 您会看到浏览器窗口弹出，输入凭据，然后您可以关闭浏览器，并且该应用程序具有神奇的认证。您启动的下一个应用程序执行相同的[…]</description>
+      <pubDate>Wed, 19 Mar 2025 18:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What could cause a memory corruption bug to disappear in safe mode?】是什么可能导致内存腐败错误在安全模式下消失？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250320-00/?p=110981</link>
+      <description>【A simplified execution environment means fewer things that you can stumble over.】简化的执行环境意味着您可以偶然发现的事情更少。</description>
+      <pubDate>Thu, 20 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing DirectX Raytracing 1.2, PIX, Neural Rendering and more at GDC 2025!】在GDC 2025宣布DirectX RayTracing 1.2，Pix，Neural渲染等等！</title>
+      <link>https://devblogs.microsoft.com/directx/announcing-directx-raytracing-1-2-pix-neural-rendering-and-more-at-gdc-2025</link>
+      <description>【Today in the DirectX State of the Union at GDC 2025, we proudly showcased the next evolution in graphics with the announcement of DirectX Raytracing (DXR) 1.2. This update promises groundbreaking performance improvements and breathtaking visual fidelity, marking another milestone in our mission to deliver immersive, realistic experiences to gamers everywhere. We also brought developers [&amp;hellip;]】今天，在GDC 2025年的DirectX州，我们自豪地展示了DirectX RayTracing（DXR）1.2的下一个图形发展。此更新有望提高开创性的性能和令人叹为观止的视觉保真度，这标志着我们的任务中的另一个里程碑，向各地的游戏玩家提供了沉浸式，现实的体验。我们还带来了开发人员[…]</description>
+      <pubDate>Thu, 20 Mar 2025 21:24:53 +0000</pubDate>
     </item>
     <item>
       <title>【MSTest 3.8: Top 10 features to supercharge your .NET tests!】MSTST 3.8：增强.NET测试的前10个功能！</title>
@@ -58,10 +58,10 @@
       <pubDate>Wed, 19 Mar 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing Developer Tools with Authentication Brokers】使用身份验证经纪人确保开发人员工具</title>
-      <link>https://devblogs.microsoft.com//securing-developer-tools-with-authentication-brokers</link>
-      <description>【If you’ve used any applications that required connecting your personal Microsoft or Entra ID account, you’re probably familiar with the typical “authentication dance” – you see a browser window pop up, you enter your credentials, then you can close the browser, and the application is magically authenticated. The next application you launch does the same [&amp;hellip;]】如果您使用了任何需要连接个人Microsoft或Entra ID帐户的应用程序，那么您可能熟悉典型的“身份验证舞蹈”  - 您会看到浏览器窗口弹出，输入凭据，然后您可以关闭浏览器，并且该应用程序具有神奇的认证。您启动的下一个应用程序执行相同的[…]</description>
-      <pubDate>Wed, 19 Mar 2025 18:30:30 +0000</pubDate>
+      <title>【Microsoft Dev Box roadmap update】Microsoft Dev Box路线图更新</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-roadmap-updates</link>
+      <description>【What features and enhancements are planned for Microsoft Dev Box Microsoft Dev Box continues to evolve, providing a secure, scalable, and ready-to-code cloud-based development environment. Over the next few months, significant improvements will focus on three key areas: Ready-to-code environments: Faster setup, enhanced debugging, and GitHub Copilot integration to streamline developer workflows. Developers will benefit [&amp;hellip;]】Microsoft Dev Box Microsoft Dev Box计划的功能和增强功能将继续发展，提供了一个安全，可扩展且基于代码的基于云的开发环境。在接下来的几个月中，重大改进将集中在三个关键领域：即编码环境：更快的设置，增强的调试以及Github Copilot集成以简化开发人员工作流程。开发人员将受益[…]</description>
+      <pubDate>Thu, 20 Mar 2025 16:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
