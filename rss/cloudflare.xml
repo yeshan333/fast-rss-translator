@@ -4,10 +4,34 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Making Application Security simple with a new unified dashboard experience】通过新的统一仪表板体验使应用程序安全简单</title>
-      <link>https://blog.cloudflare.com/new-application-security-experience/</link>
-      <description>【 We’re introducing a new Application Security experience in the Cloudflare dashboard, with a reworked UI organized by use cases, making it easier for customers to navigate and secure their accounts. 】我们正在CloudFlare仪表板中引入新的应用程序安全体验，并通过用例组织了重新设计的UI，使客户更容易导航和保护其帐户。</description>
-      <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Prepping for post-quantum: a beginner’s guide to lattice cryptography】准备后量子：晶格密码学的初学者指南</title>
+      <link>https://blog.cloudflare.com/lattice-crypto-primer/</link>
+      <description>【 This post is a beginner&#39;s guide to lattices, the math at the heart of the transition to post-quantum (PQ) cryptography. It explains how to do lattice-based encryption and authentication from scratch. 】这篇文章是晶格的初学者指南，是过渡到后量化后（PQ）加密术的核心的数学指南。它解释了如何从头开始进行基于晶格的加密和身份验证。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improving Data Loss Prevention accuracy with AI-powered context analysis】通过AI驱动的上下文分析提高数据丢失的预防准确性</title>
+      <link>https://blog.cloudflare.com/improving-data-loss-prevention-accuracy-with-ai-context-analysis/</link>
+      <description>【 Cloudflare’s Data Loss Prevention is reducing false positives by using a self-improving AI-powered algorithm, built on Cloudflare’s Developer Platform. 】CloudFlare的数据丢失预防是通过使用基于Cloudflare开发人员平台建造的自我提出的AI驱动算法来降低误报。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
+      <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
+      <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【RDP without the risk: Cloudflare&#39;s browser-based solution for secure third-party access】没有风险的RDP：CloudFlare的基于浏览器的解决方案，用于安全的第三方访问</title>
+      <link>https://blog.cloudflare.com/browser-based-rdp/</link>
+      <description>【 Cloudflare now provides clientless, browser-based support for the Remote Desktop Protocol (RDP). It enables secure, remote Windows server access without VPNs or RDP clients. 】CloudFlare现在为远程桌面协议（RDP）提供了无客户端，基于浏览器的支持。它可以在没有VPN或RDP客户端的情况下启用安全的远程Windows Server访问。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhance data protection in Microsoft Outlook with Cloudflare One’s new DLP Assist】使用CloudFlare的新DLP辅助，在Microsoft Outlook中增强数据保护</title>
+      <link>https://blog.cloudflare.com/enhance-data-protection-in-microsoft-outlook-with-cloudflare-ones-new-dlp/</link>
+      <description>【 Customers can now easily safeguard sensitive data in Microsoft Outlook with our new DLP Assist feature. 】现在，客户可以使用我们的新DLP辅助功能轻松地在Microsoft Outlook中保护敏感数据。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Simplify allowlist management and lock down origin access with Cloudflare Aegis】用Cloudflare Aegis简化允许列表管理和锁定Origin访问</title>
@@ -16,16 +40,16 @@
       <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Cloudflare is now IRAP assessed at the PROTECTED level, furthering our commitment to the global public sector】CloudFlare现在在受保护的层面上评估了IRAP，进一步提高了我们对全球公共部门的承诺</title>
+      <link>https://blog.cloudflare.com/irap-protected-assessment/</link>
+      <description>【 Cloudflare is now assessed at the IRAP PROTECTED level, bringing our products and services to the Australian Public Sector. 】现在，CloudFlare在IRAP受保护的水平上进行了评估，将我们的产品和服务带给澳大利亚公共部门。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【HTTPS-only for Cloudflare APIs: shutting the door on cleartext traffic】仅https for Cloudflare API：在ClearText流量上关闭门</title>
       <link>https://blog.cloudflare.com/https-only-for-cloudflare-apis-shutting-the-door-on-cleartext-traffic/</link>
       <description>【 We are closing the cleartext HTTP ports entirely for Cloudflare API traffic. This prevents the risk of clients unintentionally leaking their secret API keys in cleartext during the initial request.  】我们将完全关闭ClearText HTTP端口，用于CloudFlare API流量。这可以防止客户在初始请求期间无意间在ClearText中泄露其秘密API键的风险。</description>
       <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improved Bot Management flexibility and visibility with new high-precision heuristics】通过新的高精度启发式方法提高了机器人管理的灵活性和可见度</title>
-      <link>https://blog.cloudflare.com/bots-heuristics/</link>
-      <description>【 By building and integrating a new heuristics framework into the Cloudflare Ruleset Engine, we now have a more flexible system to write rules and deploy new releases rapidly. 】通过将新的启发式框架构建和集成到Cloudflare Ruleset引擎中，我们现在有一个更灵活的系统来编写规则并迅速部署新版本。</description>
-      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare named a leader in Web Application Firewall Solutions in 2025 Forrester report】CloudFlare在2025年Forrester报告中将Web应用程序解决方案的领导</title>
@@ -34,34 +58,10 @@
       <pubDate>Thu, 20 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Improved support for private applications and reusable access policies with Cloudflare Access】改善了对私人应用程序的支持，并通过CloudFlare访问可重复使用的访问策略</title>
-      <link>https://blog.cloudflare.com/improved-support-for-private-applications-and-reusable-access-policies-with-cloudflare-access/</link>
-      <description>【 We are excited to introduce support for private hostname and IP address-defined applications as well as reusable access policies.&#xA; 】我们很高兴为私人主机名和IP地址定义的应用程序以及可重复使用的访问策略提供支持。</description>
-      <pubDate>Thu, 20 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Take control of public AI application security with Cloudflare&#39;s Firewall for AI】使用Cloudflare的防火墙来控制公共AI应用程序安全</title>
-      <link>https://blog.cloudflare.com/take-control-of-public-ai-application-security-with-cloudflare-firewall-for-ai/</link>
-      <description>【 Firewall for AI discovers and protects your public LLM-powered applications, and is seamlessly integrated with Cloudflare WAF. Join the beta now and take control of your generative AI security. 】AI的防火墙发现并保护您的公共LLM驱动应用程序，并与Cloudflare WAF无缝集成。立即加入Beta，并控制您的生成AI安全性。</description>
-      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare for AI: supporting AI adoption at scale with a security-first approach】AI的CloudFlare：以安全优先的方法进行大规模支持AI采用</title>
-      <link>https://blog.cloudflare.com/cloudflare-for-ai-supporting-ai-adoption-at-scale-with-a-security-first-approach/</link>
-      <description>【 With Cloudflare for AI, developers, security teams and content creators can leverage Cloudflare’s network and portfolio of tools to secure, observe and make AI applications resilient and safe to use. 】借助AI的CloudFlare，开发人员，安全团队和内容创建者可以利用Cloudflare的网络和工具组合来保护，观察和使AI应用程序具有弹性且安全使用。</description>
-      <pubDate>Wed, 19 Mar 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Trapping misbehaving bots in an AI Labyrinth】在AI迷宫中捕获不良的机器人</title>
-      <link>https://blog.cloudflare.com/ai-labyrinth/</link>
-      <description>【 How Cloudflare uses generative AI to slow down, confuse, and waste the resources of AI Crawlers and other bots that don’t respect “no crawl” directives. 】CloudFlare如何使用生成的AI减慢，混淆和浪费不尊重“无爬行”指令的AI爬网机的资源和其他机器人的资源。</description>
-      <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Introducing Cloudy, Cloudflare’s AI agent for simplifying complex configurations】介绍Cloudflare的Cloudflare的AI代理，用于简化复杂配置</title>
       <link>https://blog.cloudflare.com/introducing-ai-agent/</link>
       <description>【 Cloudflare’s first AI agent, Cloudy, helps make complicated configurations easy to understand for Cloudflare administrators. 】Cloudflare的第一个AI代理Cloudy有助于使CloudFlare管理员易于理解复杂的配置。</description>
-      <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Mar 2025 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

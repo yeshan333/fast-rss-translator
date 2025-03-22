@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Enhance Pull Request Reviews with In-Depth Feedback】通过深入的反馈来增强拉的请求评论</title>
-      <link>https://devblogs.microsoft.com/visualstudio/enhance-pull-request-reviews-with-in-depth-feedback</link>
-      <description>【Visual Studio 2022 has taken the pull request experience to the next level by making reviews interactive. We previously enabled viewing your pull request comments inline in your working files. Now, the latest update empowers you to add comments directly within the IDE, streamlining the review process. Now, pull request reviewers can conduct deep reviews [&amp;hellip;]】Visual Studio 2022通过使评论互动将拉力请求体验提升到了一个新的水平。我们先前启用了您的工作文件中的“拉动请求”注释。现在，最新的更新使您可以直接在IDE中添加注释，从而简化审核过程。现在，拉请请求审稿人可以进行深入的评论[…]</description>
-      <pubDate>Thu, 20 Mar 2025 15:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C++ Dynamic Debugging: Full Debuggability for Optimized Builds】C ++动态调试：优化构建的完整调试性</title>
-      <link>https://devblogs.microsoft.com/cppblog/cpp-dynamic-debugging-full-debuggability-for-optimized-builds</link>
-      <description>【Over the past 5 years, we’ve had many incredible opportunities to engage with game developers. From AAA studios to indie developers, the passion for slashing iteration times is significant. Amidst all the fantastic feedback we&amp;#8217;ve received for Visual Studio, one sentiment has rung loud and clear: a desire to debug optimized C++ code without sacrificing [&amp;hellip;]】在过去的5年中，我们有许多与游戏开发人员互动的机会。从AAA工作室到独立开发人员，对削减迭代时代的热情非常重要。在我们为Visual Studio收到的所有奇妙反馈中，一个情绪大声而清晰：渴望调试优化的C ++代码而无需牺牲[…]</description>
-      <pubDate>Wed, 19 Mar 2025 18:33:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Hidden Risks of Docker Build Time Arguments and How to Secure Your Secrets】Docker的隐藏风险建立时间论点以及如何确保您的秘密</title>
-      <link>https://devblogs.microsoft.com/ise/hidden-risks-of-docker-build-time-arguments-and-how-to-secure-your-secrets</link>
-      <description>【This post discusses the security risks of using Docker build-time arguments to pass secrets, and suggests alternative methods for handling secrets securely.】这篇文章讨论了使用Docker Build Time参数通过秘密的安全风险，并建议使用安全处理秘密的替代方法。</description>
-      <pubDate>Thu, 20 Mar 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enforcement of license checks for PSTN Bot calls】执行PSTN机器人通话的许可证检查</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/enforcement-of-license-checks-for-pstn-bot-calls</link>
-      <description>【As part of Microsoft’s feature parity with Teams Phone extensibility, we’re announcing the enforcement of Phone System license checks for Bot-initiated transfers to Teams users. This current gap in our systems will be addressed in June 2025.  Microsoft Teams requires that Teams users behind applications such as queue applications require a phone system license and [&amp;hellip;]】作为Microsoft与Teams Phone Extresibility的功能均等的一部分，我们宣布执行电话系统许可证检查机器人发射的转移到团队用户。我们系统中当前的差距将于2025年6月解决。微软团队要求将用户在诸如队列应用程序等应用程序之后的用户需要电话系统许可和[…]</description>
-      <pubDate>Thu, 20 Mar 2025 15:03:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Data at rest】Microsoft 365认证控制聚光灯：静止数据</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-at-rest</link>
-      <description>【Read how Microsoft 365 Certification ensures compliance for data at rest.】阅读Microsoft 365认证如何确保静止数据的合规性。</description>
-      <pubDate>Thu, 20 Mar 2025 15:18:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Securing Developer Tools with Authentication Brokers】使用身份验证经纪人确保开发人员工具</title>
-      <link>https://devblogs.microsoft.com//securing-developer-tools-with-authentication-brokers</link>
-      <description>【If you’ve used any applications that required connecting your personal Microsoft or Entra ID account, you’re probably familiar with the typical “authentication dance” – you see a browser window pop up, you enter your credentials, then you can close the browser, and the application is magically authenticated. The next application you launch does the same [&amp;hellip;]】如果您使用了任何需要连接个人Microsoft或Entra ID帐户的应用程序，那么您可能熟悉典型的“身份验证舞蹈”  - 您会看到浏览器窗口弹出，输入凭据，然后您可以关闭浏览器，并且该应用程序具有神奇的认证。您启动的下一个应用程序执行相同的[…]</description>
-      <pubDate>Wed, 19 Mar 2025 18:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What could cause a memory corruption bug to disappear in safe mode?】是什么可能导致内存腐败错误在安全模式下消失？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250320-00/?p=110981</link>
-      <description>【A simplified execution environment means fewer things that you can stumble over.】简化的执行环境意味着您可以偶然发现的事情更少。</description>
-      <pubDate>Thu, 20 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式】引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%bc%95%e5%85%a5%e5%af%b9slnx%e7%9a%84%e6%94%af%e6%8c%81%ef%bc%8c-net-cli-%e4%b8%ad%e6%9b%b4%e7%ae%80%e6%b4%81%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%e6%96%87%e4%bb%b6%e6%a0%bc%e5%bc%8f</link>
+      <description>【本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &amp;gt; 预览功能 &amp;gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  [&amp;hellip;]】本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &gt; 预览功能 &gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  […]</description>
+      <pubDate>Fri, 21 Mar 2025 06:45:38 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing DirectX Raytracing 1.2, PIX, Neural Rendering and more at GDC 2025!】在GDC 2025宣布DirectX RayTracing 1.2，Pix，Neural渲染等等！</title>
@@ -52,16 +16,52 @@
       <pubDate>Thu, 20 Mar 2025 21:24:53 +0000</pubDate>
     </item>
     <item>
-      <title>【MSTest 3.8: Top 10 features to supercharge your .NET tests!】MSTST 3.8：增强.NET测试的前10个功能！</title>
-      <link>https://devblogs.microsoft.com/dotnet/mstest-3-8-highlights</link>
-      <description>【MSTest 3.8 is here! It&#39;s built on your feedback and packed with powerful new features to simplify and smooth your testing experience.】Mstest 3.8在这里！它建立在您的反馈基础上，并包含强大的新功能，以简化和平滑您的测试体验。</description>
-      <pubDate>Wed, 19 Mar 2025 17:05:00 +0000</pubDate>
+      <title>【Removal of Deprecated SharePoint &amp; OneDrive Permission Resource Properties】删除弃用的SharePoint和OneDrive许可资源属性</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-sharepoint-onedrive-permission-resource-properties</link>
+      <description>【We are announcing the phased rollout of an update to remove the grantedTo and grantedToIdentities properties from the Permission resource type in Microsoft Graph.】我们正在宣布将更新的分阶段推出，以从Microsoft Graph中的许可资源类型中删除授权和授予的属性属性。</description>
+      <pubDate>Fri, 21 Mar 2025 15:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Welcome to the Azure AI Foundry Blog!】欢迎来到Azure AI Foundry博客！</title>
+      <link>https://devblogs.microsoft.com/foundry/welcome-to-azure-ai-foundry-blog</link>
+      <description>【Introducing the Azure AI Foundry Blog—your essential guide to building, customizing, and scaling AI solutions with Microsoft’s open and modular AI platform.】介绍Azure AI Foundry博客 - 您使用Microsoft的开放和模块化AI平台来构建，自定义和扩展AI解决方案的基本指南。</description>
+      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: Data at rest】Microsoft 365认证控制聚光灯：静止数据</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-at-rest</link>
+      <description>【Read how Microsoft 365 Certification ensures compliance for data at rest.】阅读Microsoft 365认证如何确保静止数据的合规性。</description>
+      <pubDate>Thu, 20 Mar 2025 15:18:47 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft Dev Box roadmap update】Microsoft Dev Box路线图更新</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-roadmap-updates</link>
       <description>【What features and enhancements are planned for Microsoft Dev Box Microsoft Dev Box continues to evolve, providing a secure, scalable, and ready-to-code cloud-based development environment. Over the next few months, significant improvements will focus on three key areas: Ready-to-code environments: Faster setup, enhanced debugging, and GitHub Copilot integration to streamline developer workflows. Developers will benefit [&amp;hellip;]】Microsoft Dev Box Microsoft Dev Box计划的功能和增强功能将继续发展，提供了一个安全，可扩展且基于代码的基于云的开发环境。在接下来的几个月中，重大改进将集中在三个关键领域：即编码环境：更快的设置，增强的调试以及Github Copilot集成以简化开发人员工作流程。开发人员将受益[…]</description>
       <pubDate>Thu, 20 Mar 2025 16:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the critical section that let multiple threads enter a block of code】让多个线程输入代码块的关键部分的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984</link>
+      <description>【It had one job.】它有一份工作。</description>
+      <pubDate>Fri, 21 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Java, JS and Python support in Test Plans】在测试计划中介绍Java，JS和Python支持</title>
+      <link>https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans</link>
+      <description>【We are excited to announce new capabilities in Azure Test Plans that will enhance your testing workflows. This feature is currently available in Public Preview. You can find instructions at the end of the article on how to request it for your Azure DevOps project. With this latest release, we are introducing the ability to [&amp;hellip;]】我们很高兴在Azure测试计划中宣布新功能，以增强您的测试工作流程。此功能当前可在公共预览中找到。您可以在文章结尾处找到有关如何为Azure DevOps项目请求的说明。通过此最新版本，我们介绍了[…]的能力</description>
+      <pubDate>Fri, 21 Mar 2025 06:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Sign Up for the free Pure Virtual C++ 2025 Conference】注册免费的纯虚拟C ++ 2025会议</title>
+      <link>https://devblogs.microsoft.com/cppblog/sign-up-for-the-free-pure-virtual-c-2025-conference</link>
+      <description>【Every year we run Pure Virtual C++: a free one-day virtual conference for the whole C++ community. Next month we’re doing it again! Sign-up for free to get access to our five live sessions and a host of pre-conference content. The live event will start at April 30th 14:00 UTC. Videos will be available to [&amp;hellip;]】每年我们都会为整个C ++社区提供纯虚拟C ++：免费的一日虚拟会议。下个月，我们再次这样做！免费注册以访问我们的五个现场会议和大量会议。现场活动将于4月30日14:00 UTC开始。视频将用于[…]</description>
+      <pubDate>Fri, 21 Mar 2025 11:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service】在Azure AI Foundry中介绍模型上下文协议（MCP）：使用Azure AI代理服务创建MCP服务器</title>
+      <link>https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp</link>
+      <description>【Learn how to integrate Azure AI Foundry&#39;s Agent Service with Claude Desktop using the Model Context Protocol (MCP) for powerful integration for MCP clients.】了解如何使用模型上下文协议（MCP）将Azure AI Foundry的代理服务与Claude Desktop集成，以便为MCP客户端集成强大的集成。</description>
+      <pubDate>Fri, 21 Mar 2025 22:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

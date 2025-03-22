@@ -5,24 +5,6 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Monolith vs Microservices vs Modular Monoliths: What&#39;s the Right Choice】Monolith vs微服务与模块化整体：正确的选择是什么</title>
-      <link>https://blog.bytebytego.com/p/monolith-vs-microservices-vs-modular</link>
-      <description>【In the ever-evolving landscape of software development, the choice of architecture can make or break a project.】在不断发展的软件开发环境中，体系结构的选择可以制定或破坏项目。</description>
-      <pubDate>Thu, 20 Mar 2025 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dark Side of Distributed Systems: Latency and Partition Tolerance】分布式系统的阴暗面：延迟和分区耐受性</title>
-      <link>https://blog.bytebytego.com/p/dark-side-of-distributed-systems</link>
-      <description>【Distributed systems are collections of independent computing resources that work together to present a unified, cohesive service or application to the user.】分布式系统是独立计算资源的集合，它们共同起作用，向用户提供统一的，凝聚力的服务或应用程序。</description>
-      <pubDate>Thu, 06 Mar 2025 16:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Mastering Data Consistency Across Microservices】掌握微服务的数据一致性</title>
-      <link>https://blog.bytebytego.com/p/mastering-data-consistency-across</link>
-      <description>【Microservices architecture is a software design pattern where an application is built as a collection of small, independent services, each responsible for a specific function.】Microservices Architecture是一种软件设计模式，其中应用程序是作为小型独立服务集合构建的，每个服务都负责特定功能。</description>
-      <pubDate>Thu, 27 Feb 2025 16:31:06 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Netflix Stores 140 Million Hours of Viewing Data Per Day】Netflix如何每天存储1.4亿小时的查看数据</title>
       <link>https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours</link>
       <description>【In this article, we&amp;#8217;ll learn how Netflix tackled these problems and improved their storage system to handle millions of hours of viewing data every day.】在本文中，我们将了解Netflix如何解决这些问题并改善其存储系统，以每天处理数百万个小时的查看数据。</description>
@@ -35,10 +17,40 @@
       <pubDate>Sat, 08 Mar 2025 16:31:03 +0000</pubDate>
     </item>
     <item>
+      <title>【API Protocols 101: A Guide to Choose the Right One 】API协议101：选择合适的指南</title>
+      <link>https://blog.bytebytego.com/p/api-protocols-101-a-guide-to-choose</link>
+      <description>【An API protocol is a set of rules and standards that define how different software applications communicate over a network.】API协议是一组规则和标准，它定义了不同的软件应用程序如何通过网络通信。</description>
+      <pubDate>Thu, 13 Mar 2025 15:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Mastering Data Consistency Across Microservices】掌握微服务的数据一致性</title>
+      <link>https://blog.bytebytego.com/p/mastering-data-consistency-across</link>
+      <description>【Microservices architecture is a software design pattern where an application is built as a collection of small, independent services, each responsible for a specific function.】Microservices Architecture是一种软件设计模式，其中应用程序是作为小型独立服务集合构建的，每个服务都负责特定功能。</description>
+      <pubDate>Thu, 27 Feb 2025 16:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dark Side of Distributed Systems: Latency and Partition Tolerance】分布式系统的阴暗面：延迟和分区耐受性</title>
+      <link>https://blog.bytebytego.com/p/dark-side-of-distributed-systems</link>
+      <description>【Distributed systems are collections of independent computing resources that work together to present a unified, cohesive service or application to the user.】分布式系统是独立计算资源的集合，它们共同起作用，向用户提供统一的，凝聚力的服务或应用程序。</description>
+      <pubDate>Thu, 06 Mar 2025 16:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP154: What is MCP?】EP154：什么是MCP？</title>
+      <link>https://blog.bytebytego.com/p/ep154-what-is-mcp</link>
+      <description>【Why is everyone talking about it? Let&amp;#8217;s take a closer look.】为什么每个人都在谈论它？让我们仔细看一下。</description>
+      <pubDate>Sat, 15 Mar 2025 15:30:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【Facebook’s Database Handling Billions of Messages (Apache Cassandra® Deep Dive)】Facebook的数据库处理数十亿条消息（ApacheCassandra®深水潜水）</title>
       <link>https://blog.bytebytego.com/p/facebooks-database-handling-billions</link>
       <description>【Cassandra is a powerful database system designed to store and manage massive amounts of data across many computers.】Cassandra是一个强大的数据库系统，旨在存储和管理许多计算机的大量数据。</description>
       <pubDate>Tue, 11 Mar 2025 15:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monolith vs Microservices vs Modular Monoliths: What&#39;s the Right Choice】Monolith vs微服务与模块化整体：正确的选择是什么</title>
+      <link>https://blog.bytebytego.com/p/monolith-vs-microservices-vs-modular</link>
+      <description>【In the ever-evolving landscape of software development, the choice of architecture can make or break a project.】在不断发展的软件开发环境中，体系结构的选择可以制定或破坏项目。</description>
+      <pubDate>Thu, 20 Mar 2025 15:30:55 +0000</pubDate>
     </item>
     <item>
       <title>【EP152: 30 Free APIs for Developers】EP152：开发人员的30个免费API</title>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-uber-built-odin-to-handle-38</link>
       <description>【The details in this post have been derived from Uber Engineering Blog and other sources.】这篇文章中的详细信息来自Uber工程博客和其他来源。</description>
       <pubDate>Tue, 04 Mar 2025 16:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Protocols 101: A Guide to Choose the Right One 】API协议101：选择合适的指南</title>
-      <link>https://blog.bytebytego.com/p/api-protocols-101-a-guide-to-choose</link>
-      <description>【An API protocol is a set of rules and standards that define how different software applications communicate over a network.】API协议是一组规则和标准，它定义了不同的软件应用程序如何通过网络通信。</description>
-      <pubDate>Thu, 13 Mar 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP154: What is MCP?】EP154：什么是MCP？</title>
-      <link>https://blog.bytebytego.com/p/ep154-what-is-mcp</link>
-      <description>【Why is everyone talking about it? Let&amp;#8217;s take a closer look.】为什么每个人都在谈论它？让我们仔细看一下。</description>
-      <pubDate>Sat, 15 Mar 2025 15:30:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
