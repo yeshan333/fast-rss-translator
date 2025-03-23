@@ -4,28 +4,10 @@
     <link>https://feeds.dzone.com/home</link>
     <description>Recent posts on DZone.com</description>
     <item>
-      <title>【Multi-Tenant .NET Applications With Keycloak Realms】使用KeyCloak领域的多租户.NET应用</title>
-      <link>https://dzone.com/articles/multi-tenant-net-applications-with-keycloak-realms</link>
-      <description>【&lt;h2&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: You can download the source from &lt;a href=&#34;https://github.com/mikhailpetrusheuski/multi-tenant-keycloak&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p data-end=&#34;109&#34; data-start=&#34;86&#34;&gt;I’ve been working on multi-tenant applications in the .NET ecosystem for quite a while, and one of the toughest challenges I consistently run into is secure tenant isolation — especially when different customers expect separate user bases, roles, and management capabilities.&amp;nbsp;&lt;/p&gt;】&lt;h2&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt; &lt;strong&gt;注意&lt;/strong&gt;：您可以从&lt;a href =“ https://github.com/mikhailpetrusheuski/multi-tenant-keycloak”下载源&#xA;&lt;p data-end =“ 109” data-start =“ 86”&gt;我一直在研究.NET生态系统中的多租户应用程序已经有一段时间了，而我始终遇到的最艰巨的挑战之一就是安全的租户隔离，尤其是当不同的客户期望单独的用户群，角色和管理功能。 &lt;/p&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 22:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Writing DTOs With Java8, Lombok, and Java14+】使用Java8，Lombok和Java14+编写DTO</title>
-      <link>https://dzone.com/articles/writing-dtos-with-java8-lombok-and-java14</link>
-      <description>【&lt;p&gt;In this article, I will try to help you understand how updated versions of Java and using the right set of libraries can reduce the development efforts and boilerplate code. In organizations, we tend to use one version for a longer period of time as upgrading versions of software is not quick and requires extensive testing.&lt;/p&gt;&#xA;&lt;p&gt;However, because of this thought, we generally miss using new features available with new versions as software providers continuously update their features. &amp;nbsp;&lt;/p&gt;】&lt;p&gt;在本文中，我将尝试帮助您了解Java的更新版本以及使用正确的库集可以减少开发工作和样板代码。在组织中，我们倾向于在更长的时间内使用一个版本，因为升级的软件版本并不快，需要进行大量测试。&lt;/p&gt;&#xA;&lt;p&gt;但是，由于这个想法，我们通常会错过使用新版本的新功能，因为软件提供商不断更新其功能。  &lt;/p&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 20:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Doris SQL Cache Saved My Daily Morning Meetings】多丽丝SQL缓存如何挽救了我的每日早晨会议</title>
-      <link>https://dzone.com/articles/doris-sql-cache-saved-my-daily-meetings</link>
-      <description>【&lt;blockquote&gt;&#xA; &lt;p&gt;&lt;em&gt;&#34;Xiao Zhang, why hasn&#39;t this SQL query finished after 5 minutes?&#34;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&#34;I checked this data yesterday; why does it take so long today?&#34;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&#34;The morning meeting is about to start, and the report is still loading...&#34;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Do these complaints sound familiar? As a DBA or data engineer, you&#39;ve likely experienced the awkward moments of being &#34;swarmed&#34; by users. Faced with repetitive query demands, the system acts like a &#34;forgetful patient,&#34; recalculating every time, which is truly frustrating.&lt;/p&gt;】&lt;BlockQuote&gt;&#xA; &lt;p&gt; &lt;em&gt;“张张，为什么这个SQL查询在5分钟后没有完成？” &lt;/em&gt; &lt;br&gt; &lt;em&gt;“我昨天检查了这些数据；为什么今天需要这么长时间？&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这些抱怨听起来很熟悉吗？作为DBA或数据工程师，您可能会体验到用户“蜂拥”的尴尬时刻。面对重复的查询要求，该系统的作用就像是“健忘的患者”，每次都重新计算，这确实令人沮丧。&lt;/p&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【[Part-2] Text to Action: Words to Calendar Events】[第2部分]文字到动作：日历事件的单词</title>
-      <link>https://dzone.com/articles/words-to-calendar-events</link>
-      <description>【&lt;p data-selectable-paragraph=&#34;&#34;&gt;Welcome back to the “Text to Action” series, where we build intelligent systems that transform natural language into real-world actionable outcomes using AI.&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph=&#34;&#34;&gt;In &lt;a href=&#34;https://dzone.com/articles/build-a-google-calendar-api-with-expressjs&#34; rel=&#34;noopener&#34;&gt;Part 1&lt;/a&gt;, we established our foundation by creating an Express.js backend that connects to Google Calendar’s API. This gave us the ability to programmatically &lt;strong&gt;create calendar events&lt;/strong&gt; through an exposed API endpoint.&lt;/p&gt;】&lt;p数​​据可选 -  paragraph =“”&gt;欢迎回到“文本到动作”系列，我们在其中构建智能系统，将自然语言转换为现实世界中可行的结果。&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph =“”&gt; in &lt;a href =“ https://dzone.com/articles/articles/build-a-google-calendar-api-with-api-with-expressjs” rel =“ noopener”&gt;第1部分&gt; 1 &lt;/a&gt;，我们通过建立express.js backends backends backends to Googles api的api建立了我们的基础。这使我们能够通过裸露的API端点来编程&lt;strong&gt;创建日历事件&lt;/strong&gt; &lt;/p&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 16:00:00 +0000</pubDate>
+      <title>【More Efficient Software Development Means More Need for Devs】更有效的软件开发意味着对开发人员的需求更多</title>
+      <link>https://dzone.com/articles/efficient-software-development-more-developers-needed</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;I think we need to be realistic when we talk about AI&#39;s role in software development. It&#39;s not &#34;hit a button and generate code.&#34; For me, it&#39;s best positioned to maximize efficiency. It&#39;s not just a tool for getting rid of developers.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Whenever I start a new project, I often get stuck on &#34;blank page syndrome.&#34; Half of the battle in software development is getting 90% of the knowledge I need in order to start writing code — which is a big part of engineering solutions.&amp;nbsp;&lt;/p&gt;】&lt;p dir =“ ltr”&gt;我认为当我们谈论AI在软件开发中的作用时，我们需要现实。它不是“点击按钮并生成代码”。对我来说，最好的位置是最大化效率。这不仅是摆脱开发人员的工具。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;每当我启动一个新项目时，我经常被卡在“空白页综合症”上。为了开始编写代码，软件开发中的一半是获得我需要的90％的知识 - 这是工程解决方案的重要组成部分。 &lt;/p&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Running and Debugging Tests With Playwright UI Mode】剧作家UI模式运行和调试测试</title>
@@ -34,10 +16,22 @@
       <pubDate>Fri, 21 Mar 2025 15:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Concurrency and Parallelism in Node.js for Scalable Apps】可扩展应用的Node.js中的并发和并行性</title>
-      <link>https://dzone.com/articles/concurrency-parallelism-nodejs-scalable-apps</link>
-      <description>【&lt;p&gt;Businesses face a demanding environment. This is not news, of course. Customers now demand seamless experience and consistent service, regardless of the size of the business. Applications have now become the foundation of modern commerce, managing data and enabling critical business processes.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;The long and short of it is that the pressure to deliver high-performance apps has never been higher. Modern apps must be able to handle multiple requests at once. They must also efficiently manage shared resources and remain responsive even during peak loads. This means the ability to effectively manage concurrency, and parallelism is no longer a desirable feature.&amp;nbsp;&lt;/p&gt;】&lt;p&gt;企业面临苛刻的环境。当然，这不是新闻。客户现在需要无缝的经验和一致的服务，无论业务规模如何。现在，应用程序已成为现代商业的基础，管理数据并启用关键业务流程。 &lt;/p&gt;&#xA;&lt;p&gt;漫长而短的是，提供高性能应用程序的压力从未如此高。现代应用必须能够一次处理多个请求。他们还必须有效地管理共享资源，即使在峰值负载期间也保持响应能力。这意味着有效管理并发的能力，并行性不再是理想的特征。 &lt;/p&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 17:30:00 +0000</pubDate>
+      <title>【[Part-2] Text to Action: Words to Calendar Events】[第2部分]文字到动作：日历事件的单词</title>
+      <link>https://dzone.com/articles/words-to-calendar-events</link>
+      <description>【&lt;p data-selectable-paragraph=&#34;&#34;&gt;Welcome back to the “Text to Action” series, where we build intelligent systems that transform natural language into real-world actionable outcomes using AI.&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph=&#34;&#34;&gt;In &lt;a href=&#34;https://dzone.com/articles/build-a-google-calendar-api-with-expressjs&#34; rel=&#34;noopener&#34;&gt;Part 1&lt;/a&gt;, we established our foundation by creating an Express.js backend that connects to Google Calendar’s API. This gave us the ability to programmatically &lt;strong&gt;create calendar events&lt;/strong&gt; through an exposed API endpoint.&lt;/p&gt;】&lt;p数​​据可选 -  paragraph =“”&gt;欢迎回到“文本到动作”系列，我们在其中构建智能系统，将自然语言转换为现实世界中可行的结果。&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph =“”&gt; in &lt;a href =“ https://dzone.com/articles/articles/build-a-google-calendar-api-with-api-with-expressjs” rel =“ noopener”&gt;第1部分&gt; 1 &lt;/a&gt;，我们通过建立express.js backends backends backends to Googles api的api建立了我们的基础。这使我们能够通过裸露的API端点来编程&lt;strong&gt;创建日历事件&lt;/strong&gt; &lt;/p&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Doris SQL Cache Saved My Daily Morning Meetings】多丽丝SQL缓存如何挽救了我的每日早晨会议</title>
+      <link>https://dzone.com/articles/doris-sql-cache-saved-my-daily-meetings</link>
+      <description>【&lt;blockquote&gt;&#xA; &lt;p&gt;&lt;em&gt;&#34;Xiao Zhang, why hasn&#39;t this SQL query finished after 5 minutes?&#34;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&#34;I checked this data yesterday; why does it take so long today?&#34;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&#34;The morning meeting is about to start, and the report is still loading...&#34;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Do these complaints sound familiar? As a DBA or data engineer, you&#39;ve likely experienced the awkward moments of being &#34;swarmed&#34; by users. Faced with repetitive query demands, the system acts like a &#34;forgetful patient,&#34; recalculating every time, which is truly frustrating.&lt;/p&gt;】&lt;BlockQuote&gt;&#xA; &lt;p&gt; &lt;em&gt;“张张，为什么这个SQL查询在5分钟后没有完成？” &lt;/em&gt; &lt;br&gt; &lt;em&gt;“我昨天检查了这些数据；为什么今天需要这么长时间？&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这些抱怨听起来很熟悉吗？作为DBA或数据工程师，您可能会体验到用户“蜂拥”的尴尬时刻。面对重复的查询要求，该系统的作用就像是“健忘的患者”，每次都重新计算，这确实令人沮丧。&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Writing DTOs With Java8, Lombok, and Java14+】使用Java8，Lombok和Java14+编写DTO</title>
+      <link>https://dzone.com/articles/writing-dtos-with-java8-lombok-and-java14</link>
+      <description>【&lt;p&gt;In this article, I will try to help you understand how updated versions of Java and using the right set of libraries can reduce the development efforts and boilerplate code. In organizations, we tend to use one version for a longer period of time as upgrading versions of software is not quick and requires extensive testing.&lt;/p&gt;&#xA;&lt;p&gt;However, because of this thought, we generally miss using new features available with new versions as software providers continuously update their features. &amp;nbsp;&lt;/p&gt;】&lt;p&gt;在本文中，我将尝试帮助您了解Java的更新版本以及使用正确的库集可以减少开发工作和样板代码。在组织中，我们倾向于在更长的时间内使用一个版本，因为升级的软件版本并不快，需要进行大量测试。&lt;/p&gt;&#xA;&lt;p&gt;但是，由于这个想法，我们通常会错过使用新版本的新功能，因为软件提供商不断更新其功能。  &lt;/p&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 20:30:01 +0000</pubDate>
     </item>
     <item>
       <title>【Spring Boot Gateway With Spring Cloud and WebFlux】带有弹簧云和WebFlux的春季启动网关</title>
@@ -46,22 +40,28 @@
       <pubDate>Fri, 21 Mar 2025 16:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Concurrency and Parallelism in Node.js for Scalable Apps】可扩展应用的Node.js中的并发和并行性</title>
+      <link>https://dzone.com/articles/concurrency-parallelism-nodejs-scalable-apps</link>
+      <description>【&lt;p&gt;Businesses face a demanding environment. This is not news, of course. Customers now demand seamless experience and consistent service, regardless of the size of the business. Applications have now become the foundation of modern commerce, managing data and enabling critical business processes.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;The long and short of it is that the pressure to deliver high-performance apps has never been higher. Modern apps must be able to handle multiple requests at once. They must also efficiently manage shared resources and remain responsive even during peak loads. This means the ability to effectively manage concurrency, and parallelism is no longer a desirable feature.&amp;nbsp;&lt;/p&gt;】&lt;p&gt;企业面临苛刻的环境。当然，这不是新闻。客户现在需要无缝的经验和一致的服务，无论业务规模如何。现在，应用程序已成为现代商业的基础，管理数据并启用关键业务流程。 &lt;/p&gt;&#xA;&lt;p&gt;漫长而短的是，提供高性能应用程序的压力从未如此高。现代应用必须能够一次处理多个请求。他们还必须有效地管理共享资源，即使在峰值负载期间也保持响应能力。这意味着有效管理并发的能力，并行性不再是理想的特征。 &lt;/p&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 17:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Graph API for Entra ID (Azure AD) Object Management】ENTRA ID（Azure AD）对象管理的图形API</title>
       <link>https://dzone.com/articles/graph-api-entra-id-azure-ad-object-management</link>
       <description>【&lt;p&gt;Azure Active Directory (Azure AD) plays a crucial role in identity and access management; however, manually handling the lifecycles of these objects, such as adding new users, updating responsibilities, and deleting old accounts, can be challenging.&lt;/p&gt;&#xA;&lt;p&gt;This is where Graph API comes in. By streamlining and automating the entire lifecycle management of Azure AD objects, Graph API ensures consistency, security, and scalability and reduces administrative oversight. In this article, we&#39;ll walk you through how to use Graph API to do just that.&amp;nbsp;&lt;/p&gt;】&lt;p&gt; Azure Active Directory（Azure AD）在身份和访问管理中起着至关重要的作用；但是，手动处理这些对象的生命周期，例如添加新用户，更新责任和删除旧帐户可能具有挑战性。&lt;/p&gt;&#xA;&lt;p&gt;这是图形API的位置。通过简化和自动化Azure AD对象的整个生命周期管理，图形API确保一致性，安全性和可伸缩性并降低管理监督。在本文中，我们将引导您浏览如何使用Graph API来做到这一点。 &lt;/p&gt;</description>
       <pubDate>Fri, 21 Mar 2025 19:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【More Efficient Software Development Means More Need for Devs】更有效的软件开发意味着对开发人员的需求更多</title>
-      <link>https://dzone.com/articles/efficient-software-development-more-developers-needed</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;I think we need to be realistic when we talk about AI&#39;s role in software development. It&#39;s not &#34;hit a button and generate code.&#34; For me, it&#39;s best positioned to maximize efficiency. It&#39;s not just a tool for getting rid of developers.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Whenever I start a new project, I often get stuck on &#34;blank page syndrome.&#34; Half of the battle in software development is getting 90% of the knowledge I need in order to start writing code — which is a big part of engineering solutions.&amp;nbsp;&lt;/p&gt;】&lt;p dir =“ ltr”&gt;我认为当我们谈论AI在软件开发中的作用时，我们需要现实。它不是“点击按钮并生成代码”。对我来说，最好的位置是最大化效率。这不仅是摆脱开发人员的工具。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;每当我启动一个新项目时，我经常被卡在“空白页综合症”上。为了开始编写代码，软件开发中的一半是获得我需要的90％的知识 - 这是工程解决方案的重要组成部分。 &lt;/p&gt;</description>
-      <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【When Doris Meets Iceberg: A Data Engineer&#39;s Redemption】当多丽丝遇到冰山时：数据工程师的救赎</title>
       <link>https://dzone.com/articles/when-doris-meets-iceberg</link>
       <description>【&lt;p&gt;Waking up in the middle of the night due to a data bug again, have you ever dreamed of an ideal data world where queries return in seconds, data is never lost, and costs are so low that your boss is smiling? Sounds like a dream? No! This is becoming a reality.&lt;/p&gt;&#xA;&lt;p&gt;Remember that night you were crushed by data partitioning issues, with the product manager frantically pushing for progress while you struggled with scattered data? Cross-source queries were as slow as a snail climbing a mountain, and schema changes required coordination across seven departments.&lt;/p&gt;】&lt;p&gt;再次由于数据错误再次在深夜醒来，您是否曾经梦想过一个理想的数据世界，在该世界中查询返回，几秒钟，数据永远不会丢失，成本很低，您的老板微笑着？听起来像是梦？不！这正在成为现实。&lt;/p&gt;&#xA;&lt;p&gt;还记得那天晚上，您被数据划分问题所压倒了，产品经理在您挣扎着分散的数据时疯狂地推动进步？跨源查询就像蜗牛爬山一样慢，模式的变化需要在七个部门进行协调。&lt;/p&gt;</description>
       <pubDate>Fri, 21 Mar 2025 21:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multi-Tenant .NET Applications With Keycloak Realms】使用KeyCloak领域的多租户.NET应用</title>
+      <link>https://dzone.com/articles/multi-tenant-net-applications-with-keycloak-realms</link>
+      <description>【&lt;h2&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: You can download the source from &lt;a href=&#34;https://github.com/mikhailpetrusheuski/multi-tenant-keycloak&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p data-end=&#34;109&#34; data-start=&#34;86&#34;&gt;I’ve been working on multi-tenant applications in the .NET ecosystem for quite a while, and one of the toughest challenges I consistently run into is secure tenant isolation — especially when different customers expect separate user bases, roles, and management capabilities.&amp;nbsp;&lt;/p&gt;】&lt;h2&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt; &lt;strong&gt;注意&lt;/strong&gt;：您可以从&lt;a href =“ https://github.com/mikhailpetrusheuski/multi-tenant-keycloak”下载源&#xA;&lt;p data-end =“ 109” data-start =“ 86”&gt;我一直在研究.NET生态系统中的多租户应用程序已经有一段时间了，而我始终遇到的最艰巨的挑战之一就是安全的租户隔离，尤其是当不同的客户期望单独的用户群，角色和管理功能。 &lt;/p&gt;</description>
+      <pubDate>Fri, 21 Mar 2025 22:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
