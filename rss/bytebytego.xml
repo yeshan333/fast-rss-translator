@@ -5,10 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How Netflix Stores 140 Million Hours of Viewing Data Per Day】Netflix如何每天存储1.4亿小时的查看数据</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours</link>
-      <description>【In this article, we&amp;#8217;ll learn how Netflix tackled these problems and improved their storage system to handle millions of hours of viewing data every day.】在本文中，我们将了解Netflix如何解决这些问题并改善其存储系统，以每天处理数百万个小时的查看数据。</description>
-      <pubDate>Tue, 18 Mar 2025 15:31:15 +0000</pubDate>
+      <title>【EP155: The Shopify Tech Stack】EP155：Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep155-the-shopify-tech-stack</link>
+      <description>【Basically, Single Sign-On (SSO) is an authentication scheme.】基本上，单个登录（SSO）是一种身份验证方案。</description>
+      <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
     </item>
     <item>
       <title>【EP153: A Cheatsheet on Comparing Key-Value Stores】EP153：比较钥匙值商店的备忘单</title>
@@ -17,16 +17,16 @@
       <pubDate>Sat, 08 Mar 2025 16:31:03 +0000</pubDate>
     </item>
     <item>
-      <title>【EP152: 30 Free APIs for Developers】EP152：开发人员的30个免费API</title>
-      <link>https://blog.bytebytego.com/p/ep152-30-free-apis-for-developers</link>
-      <description>【APIs are the backbone of modern software development.】API是现代软件开发的骨干。</description>
-      <pubDate>Sat, 01 Mar 2025 16:30:38 +0000</pubDate>
-    </item>
-    <item>
       <title>【Dark Side of Distributed Systems: Latency and Partition Tolerance】分布式系统的阴暗面：延迟和分区耐受性</title>
       <link>https://blog.bytebytego.com/p/dark-side-of-distributed-systems</link>
       <description>【Distributed systems are collections of independent computing resources that work together to present a unified, cohesive service or application to the user.】分布式系统是独立计算资源的集合，它们共同起作用，向用户提供统一的，凝聚力的服务或应用程序。</description>
       <pubDate>Thu, 06 Mar 2025 16:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Stores 140 Million Hours of Viewing Data Per Day】Netflix如何每天存储1.4亿小时的查看数据</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours</link>
+      <description>【In this article, we&amp;#8217;ll learn how Netflix tackled these problems and improved their storage system to handle millions of hours of viewing data every day.】在本文中，我们将了解Netflix如何解决这些问题并改善其存储系统，以每天处理数百万个小时的查看数据。</description>
+      <pubDate>Tue, 18 Mar 2025 15:31:15 +0000</pubDate>
     </item>
     <item>
       <title>【Monolith vs Microservices vs Modular Monoliths: What&#39;s the Right Choice】Monolith vs微服务与模块化整体：正确的选择是什么</title>
@@ -35,22 +35,16 @@
       <pubDate>Thu, 20 Mar 2025 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【Facebook’s Database Handling Billions of Messages (Apache Cassandra® Deep Dive)】Facebook的数据库处理数十亿条消息（ApacheCassandra®深水潜水）</title>
-      <link>https://blog.bytebytego.com/p/facebooks-database-handling-billions</link>
-      <description>【Cassandra is a powerful database system designed to store and manage massive amounts of data across many computers.】Cassandra是一个强大的数据库系统，旨在存储和管理许多计算机的大量数据。</description>
-      <pubDate>Tue, 11 Mar 2025 15:31:13 +0000</pubDate>
-    </item>
-    <item>
       <title>【API Protocols 101: A Guide to Choose the Right One 】API协议101：选择合适的指南</title>
       <link>https://blog.bytebytego.com/p/api-protocols-101-a-guide-to-choose</link>
       <description>【An API protocol is a set of rules and standards that define how different software applications communicate over a network.】API协议是一组规则和标准，它定义了不同的软件应用程序如何通过网络通信。</description>
       <pubDate>Thu, 13 Mar 2025 15:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>【How Uber Built Odin to Handle 3.8 Million Containers】Uber如何建造Odin处理380万个容器</title>
-      <link>https://blog.bytebytego.com/p/how-uber-built-odin-to-handle-38</link>
-      <description>【The details in this post have been derived from Uber Engineering Blog and other sources.】这篇文章中的详细信息来自Uber工程博客和其他来源。</description>
-      <pubDate>Tue, 04 Mar 2025 16:30:59 +0000</pubDate>
+      <title>【EP152: 30 Free APIs for Developers】EP152：开发人员的30个免费API</title>
+      <link>https://blog.bytebytego.com/p/ep152-30-free-apis-for-developers</link>
+      <description>【APIs are the backbone of modern software development.】API是现代软件开发的骨干。</description>
+      <pubDate>Sat, 01 Mar 2025 16:30:38 +0000</pubDate>
     </item>
     <item>
       <title>【EP154: What is MCP?】EP154：什么是MCP？</title>
@@ -59,10 +53,16 @@
       <pubDate>Sat, 15 Mar 2025 15:30:51 +0000</pubDate>
     </item>
     <item>
-      <title>【EP155: The Shopify Tech Stack】EP155：Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep155-the-shopify-tech-stack</link>
-      <description>【Basically, Single Sign-On (SSO) is an authentication scheme.】基本上，单个登录（SSO）是一种身份验证方案。</description>
-      <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
+      <title>【Facebook’s Database Handling Billions of Messages (Apache Cassandra® Deep Dive)】Facebook的数据库处理数十亿条消息（ApacheCassandra®深水潜水）</title>
+      <link>https://blog.bytebytego.com/p/facebooks-database-handling-billions</link>
+      <description>【Cassandra is a powerful database system designed to store and manage massive amounts of data across many computers.】Cassandra是一个强大的数据库系统，旨在存储和管理许多计算机的大量数据。</description>
+      <pubDate>Tue, 11 Mar 2025 15:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Built Odin to Handle 3.8 Million Containers】Uber如何建造Odin处理380万个容器</title>
+      <link>https://blog.bytebytego.com/p/how-uber-built-odin-to-handle-38</link>
+      <description>【The details in this post have been derived from Uber Engineering Blog and other sources.】这篇文章中的详细信息来自Uber工程博客和其他来源。</description>
+      <pubDate>Tue, 04 Mar 2025 16:30:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

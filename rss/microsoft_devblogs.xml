@@ -16,16 +16,10 @@
       <pubDate>Fri, 21 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式】引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%bc%95%e5%85%a5%e5%af%b9slnx%e7%9a%84%e6%94%af%e6%8c%81%ef%bc%8c-net-cli-%e4%b8%ad%e6%9b%b4%e7%ae%80%e6%b4%81%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%e6%96%87%e4%bb%b6%e6%a0%bc%e5%bc%8f</link>
-      <description>【本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &amp;gt; 预览功能 &amp;gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  [&amp;hellip;]】本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &gt; 预览功能 &gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  […]</description>
-      <pubDate>Fri, 21 Mar 2025 06:45:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service】在Azure AI Foundry中介绍模型上下文协议（MCP）：使用Azure AI代理服务创建MCP服务器</title>
-      <link>https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp</link>
-      <description>【Learn how to integrate Azure AI Foundry&#39;s Agent Service with Claude Desktop using the Model Context Protocol (MCP) for powerful integration for MCP clients.】了解如何使用模型上下文协议（MCP）将Azure AI Foundry的代理服务与Claude Desktop集成，以便为MCP客户端集成强大的集成。</description>
-      <pubDate>Fri, 21 Mar 2025 22:30:05 +0000</pubDate>
+      <title>【Announcing DirectX Raytracing 1.2, PIX, Neural Rendering and more at GDC 2025!】在GDC 2025宣布DirectX RayTracing 1.2，Pix，Neural渲染等等！</title>
+      <link>https://devblogs.microsoft.com/directx/announcing-directx-raytracing-1-2-pix-neural-rendering-and-more-at-gdc-2025</link>
+      <description>【Today in the DirectX State of the Union at GDC 2025, we proudly showcased the next evolution in graphics with the announcement of DirectX Raytracing (DXR) 1.2. This update promises groundbreaking performance improvements and breathtaking visual fidelity, marking another milestone in our mission to deliver immersive, realistic experiences to gamers everywhere. We also brought developers [&amp;hellip;]】今天，在GDC 2025年的DirectX州，我们自豪地展示了DirectX RayTracing（DXR）1.2的下一个图形发展。此更新有望提高开创性的性能和令人叹为观止的视觉保真度，这标志着我们的任务中的另一个里程碑，向各地的游戏玩家提供了沉浸式，现实的体验。我们还带来了开发人员[…]</description>
+      <pubDate>Thu, 20 Mar 2025 21:24:53 +0000</pubDate>
     </item>
     <item>
       <title>【Sign Up for the free Pure Virtual C++ 2025 Conference】注册免费的纯虚拟C ++ 2025会议</title>
@@ -34,22 +28,10 @@
       <pubDate>Fri, 21 Mar 2025 11:34:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Java, JS and Python support in Test Plans】在测试计划中介绍Java，JS和Python支持</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans</link>
-      <description>【We are excited to announce new capabilities in Azure Test Plans that will enhance your testing workflows. This feature is currently available in Public Preview. You can find instructions at the end of the article on how to request it for your Azure DevOps project. With this latest release, we are introducing the ability to [&amp;hellip;]】我们很高兴在Azure测试计划中宣布新功能，以增强您的测试工作流程。此功能当前可在公共预览中找到。您可以在文章结尾处找到有关如何为Azure DevOps项目请求的说明。通过此最新版本，我们介绍了[…]的能力</description>
-      <pubDate>Fri, 21 Mar 2025 06:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Welcome to the Azure AI Foundry Blog!】欢迎来到Azure AI Foundry博客！</title>
-      <link>https://devblogs.microsoft.com/foundry/welcome-to-azure-ai-foundry-blog</link>
-      <description>【Introducing the Azure AI Foundry Blog—your essential guide to building, customizing, and scaling AI solutions with Microsoft’s open and modular AI platform.】介绍Azure AI Foundry博客 - 您使用Microsoft的开放和模块化AI平台来构建，自定义和扩展AI解决方案的基本指南。</description>
-      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Dev Box roadmap update】Microsoft Dev Box路线图更新</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-roadmap-updates</link>
-      <description>【What features and enhancements are planned for Microsoft Dev Box Microsoft Dev Box continues to evolve, providing a secure, scalable, and ready-to-code cloud-based development environment. Over the next few months, significant improvements will focus on three key areas: Ready-to-code environments: Faster setup, enhanced debugging, and GitHub Copilot integration to streamline developer workflows. Developers will benefit [&amp;hellip;]】Microsoft Dev Box Microsoft Dev Box计划的功能和增强功能将继续发展，提供了一个安全，可扩展且基于代码的基于云的开发环境。在接下来的几个月中，重大改进将集中在三个关键领域：即编码环境：更快的设置，增强的调试以及Github Copilot集成以简化开发人员工作流程。开发人员将受益[…]</description>
-      <pubDate>Thu, 20 Mar 2025 16:08:36 +0000</pubDate>
+      <title>【引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式】引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式</title>
+      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%bc%95%e5%85%a5%e5%af%b9slnx%e7%9a%84%e6%94%af%e6%8c%81%ef%bc%8c-net-cli-%e4%b8%ad%e6%9b%b4%e7%ae%80%e6%b4%81%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%e6%96%87%e4%bb%b6%e6%a0%bc%e5%bc%8f</link>
+      <description>【本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &amp;gt; 预览功能 &amp;gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  [&amp;hellip;]】本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &gt; 预览功能 &gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  […]</description>
+      <pubDate>Fri, 21 Mar 2025 06:45:38 +0000</pubDate>
     </item>
     <item>
       <title>【Removal of Deprecated SharePoint &amp; OneDrive Permission Resource Properties】删除弃用的SharePoint和OneDrive许可资源属性</title>
@@ -58,10 +40,28 @@
       <pubDate>Fri, 21 Mar 2025 15:51:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing DirectX Raytracing 1.2, PIX, Neural Rendering and more at GDC 2025!】在GDC 2025宣布DirectX RayTracing 1.2，Pix，Neural渲染等等！</title>
-      <link>https://devblogs.microsoft.com/directx/announcing-directx-raytracing-1-2-pix-neural-rendering-and-more-at-gdc-2025</link>
-      <description>【Today in the DirectX State of the Union at GDC 2025, we proudly showcased the next evolution in graphics with the announcement of DirectX Raytracing (DXR) 1.2. This update promises groundbreaking performance improvements and breathtaking visual fidelity, marking another milestone in our mission to deliver immersive, realistic experiences to gamers everywhere. We also brought developers [&amp;hellip;]】今天，在GDC 2025年的DirectX州，我们自豪地展示了DirectX RayTracing（DXR）1.2的下一个图形发展。此更新有望提高开创性的性能和令人叹为观止的视觉保真度，这标志着我们的任务中的另一个里程碑，向各地的游戏玩家提供了沉浸式，现实的体验。我们还带来了开发人员[…]</description>
-      <pubDate>Thu, 20 Mar 2025 21:24:53 +0000</pubDate>
+      <title>【Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service】在Azure AI Foundry中介绍模型上下文协议（MCP）：使用Azure AI代理服务创建MCP服务器</title>
+      <link>https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp</link>
+      <description>【Learn how to integrate Azure AI Foundry&#39;s Agent Service with Claude Desktop using the Model Context Protocol (MCP) for powerful integration for MCP clients.】了解如何使用模型上下文协议（MCP）将Azure AI Foundry的代理服务与Claude Desktop集成，以便为MCP客户端集成强大的集成。</description>
+      <pubDate>Fri, 21 Mar 2025 22:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Java, JS and Python support in Test Plans】在测试计划中介绍Java，JS和Python支持</title>
+      <link>https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans</link>
+      <description>【We are excited to announce new capabilities in Azure Test Plans that will enhance your testing workflows. This feature is currently available in Public Preview. You can find instructions at the end of the article on how to request it for your Azure DevOps project. With this latest release, we are introducing the ability to [&amp;hellip;]】我们很高兴在Azure测试计划中宣布新功能，以增强您的测试工作流程。此功能当前可在公共预览中找到。您可以在文章结尾处找到有关如何为Azure DevOps项目请求的说明。通过此最新版本，我们介绍了[…]的能力</description>
+      <pubDate>Fri, 21 Mar 2025 06:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Dev Box roadmap update】Microsoft Dev Box路线图更新</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-roadmap-updates</link>
+      <description>【What features and enhancements are planned for Microsoft Dev Box Microsoft Dev Box continues to evolve, providing a secure, scalable, and ready-to-code cloud-based development environment. Over the next few months, significant improvements will focus on three key areas: Ready-to-code environments: Faster setup, enhanced debugging, and GitHub Copilot integration to streamline developer workflows. Developers will benefit [&amp;hellip;]】Microsoft Dev Box Microsoft Dev Box计划的功能和增强功能将继续发展，提供了一个安全，可扩展且基于代码的基于云的开发环境。在接下来的几个月中，重大改进将集中在三个关键领域：即编码环境：更快的设置，增强的调试以及Github Copilot集成以简化开发人员工作流程。开发人员将受益[…]</description>
+      <pubDate>Thu, 20 Mar 2025 16:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Welcome to the Azure AI Foundry Blog!】欢迎来到Azure AI Foundry博客！</title>
+      <link>https://devblogs.microsoft.com/foundry/welcome-to-azure-ai-foundry-blog</link>
+      <description>【Introducing the Azure AI Foundry Blog—your essential guide to building, customizing, and scaling AI solutions with Microsoft’s open and modular AI platform.】介绍Azure AI Foundry博客 - 您使用Microsoft的开放和模块化AI平台来构建，自定义和扩展AI解决方案的基本指南。</description>
+      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

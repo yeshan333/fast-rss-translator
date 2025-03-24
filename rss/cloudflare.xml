@@ -4,33 +4,21 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【HTTPS-only for Cloudflare APIs: shutting the door on cleartext traffic】仅https for Cloudflare API：在ClearText流量上关闭门</title>
+      <link>https://blog.cloudflare.com/https-only-for-cloudflare-apis-shutting-the-door-on-cleartext-traffic/</link>
+      <description>【 We are closing the cleartext HTTP ports entirely for Cloudflare API traffic. This prevents the risk of clients unintentionally leaking their secret API keys in cleartext during the initial request.  】我们将完全关闭ClearText HTTP端口，用于CloudFlare API流量。这可以防止客户在初始请求期间无意间在ClearText中泄露其秘密API键的风险。</description>
+      <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Improving Data Loss Prevention accuracy with AI-powered context analysis】通过AI驱动的上下文分析提高数据丢失的预防准确性</title>
       <link>https://blog.cloudflare.com/improving-data-loss-prevention-accuracy-with-ai-context-analysis/</link>
       <description>【 Cloudflare’s Data Loss Prevention is reducing false positives by using a self-improving AI-powered algorithm, built on Cloudflare’s Developer Platform. 】CloudFlare的数据丢失预防是通过使用基于Cloudflare开发人员平台建造的自我提出的AI驱动算法来降低误报。</description>
       <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare named a leader in Web Application Firewall Solutions in 2025 Forrester report】CloudFlare在2025年Forrester报告中将Web应用程序解决方案的领导</title>
-      <link>https://blog.cloudflare.com/cloudflare-named-leader-waf-forrester-2025/</link>
-      <description>【 Forrester Research has recognized Cloudflare as a Leader in its The Forrester Wave™: Web Application Firewall Solutions, Q1 2025 report. 】Forrester Research已将CloudFlare认识到其Forrester Wave™中的领导者：Web应用程序防火墙解决方案，第1季度2025年报告。</description>
-      <pubDate>Thu, 20 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Prepping for post-quantum: a beginner’s guide to lattice cryptography】准备后量子：晶格密码学的初学者指南</title>
       <link>https://blog.cloudflare.com/lattice-crypto-primer/</link>
       <description>【 This post is a beginner&#39;s guide to lattices, the math at the heart of the transition to post-quantum (PQ) cryptography. It explains how to do lattice-based encryption and authentication from scratch. 】这篇文章是晶格的初学者指南，是过渡到后量化后（PQ）加密术的核心的数学指南。它解释了如何从头开始进行基于晶格的加密和身份验证。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare is now IRAP assessed at the PROTECTED level, furthering our commitment to the global public sector】CloudFlare现在在受保护的层面上评估了IRAP，进一步提高了我们对全球公共部门的承诺</title>
-      <link>https://blog.cloudflare.com/irap-protected-assessment/</link>
-      <description>【 Cloudflare is now assessed at the IRAP PROTECTED level, bringing our products and services to the Australian Public Sector. 】现在，CloudFlare在IRAP受保护的水平上进行了评估，将我们的产品和服务带给澳大利亚公共部门。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
-      <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
-      <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
       <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,10 +34,10 @@
       <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Simplify allowlist management and lock down origin access with Cloudflare Aegis】用Cloudflare Aegis简化允许列表管理和锁定Origin访问</title>
-      <link>https://blog.cloudflare.com/aegis-deep-dive/</link>
-      <description>【 Cloudflare Aegis provides dedicated egress IPs for Zero Trust origin access strategies, now supporting BYOIP and customer-facing configurability, with observability of Aegis IP utilization soon. 】Cloudflare Aegis为零信任的来源访问策略提供专用的出口IP，现在支持BYOIP和面向客户的可配置性，并且很快就可以观察到AEGIS IP利用率。</description>
-      <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
+      <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
+      <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing Cloudy, Cloudflare’s AI agent for simplifying complex configurations】介绍Cloudflare的Cloudflare的AI代理，用于简化复杂配置</title>
@@ -58,10 +46,22 @@
       <pubDate>Thu, 20 Mar 2025 13:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>【HTTPS-only for Cloudflare APIs: shutting the door on cleartext traffic】仅https for Cloudflare API：在ClearText流量上关闭门</title>
-      <link>https://blog.cloudflare.com/https-only-for-cloudflare-apis-shutting-the-door-on-cleartext-traffic/</link>
-      <description>【 We are closing the cleartext HTTP ports entirely for Cloudflare API traffic. This prevents the risk of clients unintentionally leaking their secret API keys in cleartext during the initial request.  】我们将完全关闭ClearText HTTP端口，用于CloudFlare API流量。这可以防止客户在初始请求期间无意间在ClearText中泄露其秘密API键的风险。</description>
+      <title>【Cloudflare is now IRAP assessed at the PROTECTED level, furthering our commitment to the global public sector】CloudFlare现在在受保护的层面上评估了IRAP，进一步提高了我们对全球公共部门的承诺</title>
+      <link>https://blog.cloudflare.com/irap-protected-assessment/</link>
+      <description>【 Cloudflare is now assessed at the IRAP PROTECTED level, bringing our products and services to the Australian Public Sector. 】现在，CloudFlare在IRAP受保护的水平上进行了评估，将我们的产品和服务带给澳大利亚公共部门。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Simplify allowlist management and lock down origin access with Cloudflare Aegis】用Cloudflare Aegis简化允许列表管理和锁定Origin访问</title>
+      <link>https://blog.cloudflare.com/aegis-deep-dive/</link>
+      <description>【 Cloudflare Aegis provides dedicated egress IPs for Zero Trust origin access strategies, now supporting BYOIP and customer-facing configurability, with observability of Aegis IP utilization soon. 】Cloudflare Aegis为零信任的来源访问策略提供专用的出口IP，现在支持BYOIP和面向客户的可配置性，并且很快就可以观察到AEGIS IP利用率。</description>
       <pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare named a leader in Web Application Firewall Solutions in 2025 Forrester report】CloudFlare在2025年Forrester报告中将Web应用程序解决方案的领导</title>
+      <link>https://blog.cloudflare.com/cloudflare-named-leader-waf-forrester-2025/</link>
+      <description>【 Forrester Research has recognized Cloudflare as a Leader in its The Forrester Wave™: Web Application Firewall Solutions, Q1 2025 report. 】Forrester Research已将CloudFlare认识到其Forrester Wave™中的领导者：Web应用程序防火墙解决方案，第1季度2025年报告。</description>
+      <pubDate>Thu, 20 Mar 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
