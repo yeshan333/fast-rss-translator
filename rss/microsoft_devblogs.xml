@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Data at rest】Microsoft 365认证控制聚光灯：静止数据</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-at-rest</link>
-      <description>【Read how Microsoft 365 Certification ensures compliance for data at rest.】阅读Microsoft 365认证如何确保静止数据的合规性。</description>
-      <pubDate>Thu, 20 Mar 2025 15:18:47 +0000</pubDate>
+      <title>【PIX 2503.24: misc bug fixes】PIX 2503.24：MISC错误修复</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2503-24</link>
+      <description>【Today we released PIX version 2503.24, which can be downloaded here. This release includes everything in the previous 2501.30 release, plus the following bug fixes: Fix capture-time crash introduced in 2501.30 in CPU write tracking code Fix capture-time issue with reserved resources, that could cause replay-time corruption for some UE5 captures Fix PIXBeginCapture() deadlocking for Timing [&amp;hellip;]】今天，我们发布了PIX版本2503.24，可以在此处下载。此版本包括上一版本中的所有内容，以及以下错误修复：修复捕获时间崩溃在2501.30中引入的CPU写入跟踪代码修复了使用保留资源的捕获时间问题，这可能会导致某些UE5捕获的重播时间损坏fix fix fix pixbegincapture（pixbebegincapture（</description>
+      <pubDate>Mon, 24 Mar 2025 22:03:19 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the critical section that let multiple threads enter a block of code】让多个线程输入代码块的关键部分的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984</link>
-      <description>【It had one job.】它有一份工作。</description>
-      <pubDate>Fri, 21 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Semantic Kernel Agent Framework RC2】语义内核代理框架RC2</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agent-framework-rc2</link>
+      <description>【Three weeks ago we released the Release the Agents! SK Agents Framework RC1 | Semantic Kernel and we’ve been thrilled to see the momentum grow. Thank you to everyone who has shared feedback, filed issues, and started building with agents in Semantic Kernel—we’re seeing more developers try agents than ever before. Today, we’re declaring build [&amp;hellip;]】三个星期前，我们发布了发行版《代理商》！ SK代理框架RC1 |语义内核，我们很高兴看到动量增长。感谢所有共享反馈，提出问题并开始与代理商在语义内核中建立的人 - 我们看到开发人员比以往任何时候都多尝试代理。今天，我们宣布建造[…]</description>
+      <pubDate>Mon, 24 Mar 2025 23:53:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing DirectX Raytracing 1.2, PIX, Neural Rendering and more at GDC 2025!】在GDC 2025宣布DirectX RayTracing 1.2，Pix，Neural渲染等等！</title>
-      <link>https://devblogs.microsoft.com/directx/announcing-directx-raytracing-1-2-pix-neural-rendering-and-more-at-gdc-2025</link>
-      <description>【Today in the DirectX State of the Union at GDC 2025, we proudly showcased the next evolution in graphics with the announcement of DirectX Raytracing (DXR) 1.2. This update promises groundbreaking performance improvements and breathtaking visual fidelity, marking another milestone in our mission to deliver immersive, realistic experiences to gamers everywhere. We also brought developers [&amp;hellip;]】今天，在GDC 2025年的DirectX州，我们自豪地展示了DirectX RayTracing（DXR）1.2的下一个图形发展。此更新有望提高开创性的性能和令人叹为观止的视觉保真度，这标志着我们的任务中的另一个里程碑，向各地的游戏玩家提供了沉浸式，现实的体验。我们还带来了开发人员[…]</description>
-      <pubDate>Thu, 20 Mar 2025 21:24:53 +0000</pubDate>
+      <title>【On how different Windows ABIs choose how to pass 32-bit values in 64-bit registers】关于不同的Windows Abis如何选择如何通过64位寄存器中的32位值</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250324-00/?p=110988</link>
+      <description>【Surveying the options and looking for commonalities.】调查选项并寻找共同点。</description>
+      <pubDate>Mon, 24 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Sign Up for the free Pure Virtual C++ 2025 Conference】注册免费的纯虚拟C ++ 2025会议</title>
-      <link>https://devblogs.microsoft.com/cppblog/sign-up-for-the-free-pure-virtual-c-2025-conference</link>
-      <description>【Every year we run Pure Virtual C++: a free one-day virtual conference for the whole C++ community. Next month we’re doing it again! Sign-up for free to get access to our five live sessions and a host of pre-conference content. The live event will start at April 30th 14:00 UTC. Videos will be available to [&amp;hellip;]】每年我们都会为整个C ++社区提供纯虚拟C ++：免费的一日虚拟会议。下个月，我们再次这样做！免费注册以访问我们的五个现场会议和大量会议。现场活动将于4月30日14:00 UTC开始。视频将用于[…]</description>
-      <pubDate>Fri, 21 Mar 2025 11:34:23 +0000</pubDate>
+      <title>【Xbox + .NET Aspire: Transforming Local Development Practices】Xbox + .Net Aspire：改变本地发展实践</title>
+      <link>https://devblogs.microsoft.com/dotnet/xboxs-usage-of-aspire-transforming-development-practices</link>
+      <description>【Learn how the Xbox services team leveraged .NET Aspire to boost their team&#39;s productivity.】了解Xbox服务团队如何利用.NET渴望提高团队的生产力。</description>
+      <pubDate>Mon, 24 Mar 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式】引入对SLNX的支持，.NET CLI 中更简洁的解决方案文件格式</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e5%bc%95%e5%85%a5%e5%af%b9slnx%e7%9a%84%e6%94%af%e6%8c%81%ef%bc%8c-net-cli-%e4%b8%ad%e6%9b%b4%e7%ae%80%e6%b4%81%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%e6%96%87%e4%bb%b6%e6%a0%bc%e5%bc%8f</link>
-      <description>【本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &amp;gt; 预览功能 &amp;gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  [&amp;hellip;]】本文翻译自Chet Husk的Introducing support for SLNX, a new, simpler solution file format in the .NET CLI 多年来，解决方案文件已成为 .NET 和 Visual Studio 体验中的一部分，并且它们一直拥有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 格式的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnet CLI 支持生成这些文件并与之交互，其方式与使用现有解决方案文件的方式相同。在本文的其余部分，我们将展示如何迁移到新格式，探索 dotnet CLI 对该格式的新支持，并讨论该格式走向正式发布的后续计划。 快速开始 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 &gt; 预览功能 &gt; 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。  […]</description>
-      <pubDate>Fri, 21 Mar 2025 06:45:38 +0000</pubDate>
+      <title>【Enable continuous backup for multi-region write account】启用多区域写入帐户的连续备份</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/enable-continuous-backup-for-multi-region-write-account</link>
+      <description>【Azure Cosmos DB already delivers 99.999% availability with multi-region write capability and continuous backup for point-in-time restores within a 7 or 30 day retention period. Now, we’re making it even better! Going forward &amp;#8211; You can migrate existing single region write region with point in time restore capability to support multi-region write. You can enable [&amp;hellip;]】Azure Cosmos DB已经提供了99.999％的可用性，具有多区域写入能力，并在7或30天的保留期内进行了恢复时间恢复的连续备份。现在，我们使它变得更好！展望未来 - 您可以迁移现有的单个区域写入区域，具有时间恢复功能以支持多区域写作。您可以启用[…]</description>
+      <pubDate>Mon, 24 Mar 2025 12:58:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Removal of Deprecated SharePoint &amp; OneDrive Permission Resource Properties】删除弃用的SharePoint和OneDrive许可资源属性</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-sharepoint-onedrive-permission-resource-properties</link>
-      <description>【We are announcing the phased rollout of an update to remove the grantedTo and grantedToIdentities properties from the Permission resource type in Microsoft Graph.】我们正在宣布将更新的分阶段推出，以从Microsoft Graph中的许可资源类型中删除授权和授予的属性属性。</description>
-      <pubDate>Fri, 21 Mar 2025 15:51:28 +0000</pubDate>
+      <title>【Azure Cosmos DB Conf 2025: Learn, Build, and Connect with the Community】Azure Cosmos DB Conf 2025：学习，建立和与社区建立和联系</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2025-learn-build-and-connect-with-the-community</link>
+      <description>【Join us for the 5th annual Azure Cosmos DB Conf, a free virtual developer event co-hosted by Microsoft and the Azure Cosmos DB community. This is your opportunity to learn from Microsoft product managers, industry experts, and real-world customers who are building applications with Azure Cosmos DB. This year, we received over 100 session proposals [&amp;hellip;]】加入我们，参加第五届年度Azure Cosmos DB Conf，这是由Microsoft和Azure Cosmos DB社区共同主持的免费虚拟开发人员活动。这是您向Microsoft产品经理，行业专家和正在使用Azure Cosmos DB构建应用程序的现实世界客户学习的机会。今年，我们收到了100多个会议建议[…]</description>
+      <pubDate>Mon, 24 Mar 2025 21:04:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service】在Azure AI Foundry中介绍模型上下文协议（MCP）：使用Azure AI代理服务创建MCP服务器</title>
-      <link>https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp</link>
-      <description>【Learn how to integrate Azure AI Foundry&#39;s Agent Service with Claude Desktop using the Model Context Protocol (MCP) for powerful integration for MCP clients.】了解如何使用模型上下文协议（MCP）将Azure AI Foundry的代理服务与Claude Desktop集成，以便为MCP客户端集成强大的集成。</description>
-      <pubDate>Fri, 21 Mar 2025 22:30:05 +0000</pubDate>
+      <title>【Introducing Visual Studio Hub】引入视觉工作室中心</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-hub</link>
+      <description>【The Visual Studio Hub is here! Keeping up with the latest Visual Studio updates, features, and resources can feel like a full-time job. We’ve heard it time and time again—you want a simpler way to stay informed without digging through scattered blog posts, release notes, and social media updates. That’s why we created Visual Studio [&amp;hellip;]】Visual Studio Hub在这里！跟上最新的Visual Studio更新，功能和资源，感觉就像是一项全职工作。我们一次又一次地听到了它 - 您想要一种更简单的方法来保持知情，而无需挖掘分散的博客文章，发行说明和社交媒体更新。这就是为什么我们创建Visual Studio […]</description>
+      <pubDate>Mon, 24 Mar 2025 14:44:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Java, JS and Python support in Test Plans】在测试计划中介绍Java，JS和Python支持</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans</link>
-      <description>【We are excited to announce new capabilities in Azure Test Plans that will enhance your testing workflows. This feature is currently available in Public Preview. You can find instructions at the end of the article on how to request it for your Azure DevOps project. With this latest release, we are introducing the ability to [&amp;hellip;]】我们很高兴在Azure测试计划中宣布新功能，以增强您的测试工作流程。此功能当前可在公共预览中找到。您可以在文章结尾处找到有关如何为Azure DevOps项目请求的说明。通过此最新版本，我们介绍了[…]的能力</description>
-      <pubDate>Fri, 21 Mar 2025 06:50:20 +0000</pubDate>
+      <title>【Teams Toolkit for Visual Studio Code update – March 2025】Visual Studio代码更新的团队工具包 -  2025年3月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-march-2025</link>
+      <description>【We’re excited to announce the latest updates for Teams Toolkit for Visual Studio Code featuring tenant switching, new capabilities for declarative agents, and more.】我们很高兴地宣布，用于Visual Studio代码的Teams Toolkit的最新更新，其中包含租户交换，宣言代理的新功能等等。</description>
+      <pubDate>Mon, 24 Mar 2025 14:12:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Dev Box roadmap update】Microsoft Dev Box路线图更新</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-roadmap-updates</link>
-      <description>【What features and enhancements are planned for Microsoft Dev Box Microsoft Dev Box continues to evolve, providing a secure, scalable, and ready-to-code cloud-based development environment. Over the next few months, significant improvements will focus on three key areas: Ready-to-code environments: Faster setup, enhanced debugging, and GitHub Copilot integration to streamline developer workflows. Developers will benefit [&amp;hellip;]】Microsoft Dev Box Microsoft Dev Box计划的功能和增强功能将继续发展，提供了一个安全，可扩展且基于代码的基于云的开发环境。在接下来的几个月中，重大改进将集中在三个关键领域：即编码环境：更快的设置，增强的调试以及Github Copilot集成以简化开发人员工作流程。开发人员将受益[…]</description>
-      <pubDate>Thu, 20 Mar 2025 16:08:36 +0000</pubDate>
+      <title>【Secure APIs with Data API Builder, Keycloak, and SQL Server】使用数据API构建器，KeyCloak和SQL Server固定API</title>
+      <link>https://devblogs.microsoft.com/azure-sql/secure-apis-with-data-api-builder-keycloak-and-sql-server</link>
+      <description>【In this article, we&amp;#8217;ll explore how to create a secure, on-premises API using Data API Builder (DAB), Keycloak, and SQL Server. You&amp;#8217;ll learn to set up JSON Web Token (JWT) authentication with Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC), and Row-Level Security (RLS), ideal for secure business scenarios. Want to replicate this setup?All the [&amp;hellip;]】在本文中，我们将探讨如何使用数据API构建器（DAB），KeyCloak和SQL Server创建安全的本地API。您将学习设置具有基于角色的访问控制（RBAC），基于属性的访问控制（ABAC）和行级安全性（RLS）（RLS）的JSON Web令牌（JWT）身份验证，非常适合安全业务方案。想要复制此设置？所有[…]</description>
+      <pubDate>Mon, 24 Mar 2025 14:59:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Welcome to the Azure AI Foundry Blog!】欢迎来到Azure AI Foundry博客！</title>
-      <link>https://devblogs.microsoft.com/foundry/welcome-to-azure-ai-foundry-blog</link>
-      <description>【Introducing the Azure AI Foundry Blog—your essential guide to building, customizing, and scaling AI solutions with Microsoft’s open and modular AI platform.】介绍Azure AI Foundry博客 - 您使用Microsoft的开放和模块化AI平台来构建，自定义和扩展AI解决方案的基本指南。</description>
-      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
+      <title>【Comment l’IA générative impacte-t-elle l’expérience développeur?】生成性如何影响开发人员的体验？</title>
+      <link>https://devblogs.microsoft.com/premier-developer/comment-lia-generative-impacte-t-elle-lexperience-developpeur</link>
+      <description>【Adlene Sifi explore l&amp;#8217;impact de l&amp;#8217;IA générative sur l&amp;#8217;expérience des développeurs. Dans cet article, nous allons tenter de déterminer s’il existe un lien entre l’utilisation de l’IA générative (ex. : GitHub Copilot) et l’expérience développeur (DevEx). Nous souhaitons vérifier plus précisément si l’utilisation de l’IA générative a un impact positif sur l’expérience développeur. Nous tenterons même [&amp;hellip;]】Adlene Sifi探索了生成AI对开发人员体验的影响。在本文中，我们将尝试确定使用生成AI（例如Github Copilot）和开发人员体验（DEVEX）之间是否存在联系。我们要更准确地验证使用生成AI是否对开发人员体验产生积极影响。我们甚至会尝试[…]</description>
+      <pubDate>Mon, 24 Mar 2025 07:34:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
