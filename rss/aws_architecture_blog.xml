@@ -4,10 +4,28 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>为无状态队列消费者创建无服务器的自定义重试机制</title>
+      <link>https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/</link>
+      <description></description>
+      <pubDate>Tue, 11 Feb 2025 17:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>在AWS上使用生成AI进行有效的临床文档分析</title>
+      <link>https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/</link>
+      <description></description>
+      <pubDate>Wed, 05 Feb 2025 19:04:42 +0000</pubDate>
+    </item>
+    <item>
       <title>使用AWS良好的框架实现十二个因子</title>
       <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
       <description></description>
       <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nielsen如何使用Spark Workloads在Amazon EKS上使用无服务器概念进行大数据处理</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-nielsen-uses-serverless-concepts-on-amazon-eks-for-big-data-processing-with-spark-workloads/</link>
+      <description></description>
+      <pubDate>Tue, 28 Jan 2025 16:37:22 +0000</pubDate>
     </item>
     <item>
       <title>使用Amazon Sagemaker Canvas培训呼叫中心欺诈检测模型</title>
@@ -22,12 +40,6 @@
       <pubDate>Tue, 11 Mar 2025 18:46:54 +0000</pubDate>
     </item>
     <item>
-      <title>Wellight现代化了以事件为导向的架构，以管理爆发和不可预测的交通</title>
-      <link>https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/</link>
-      <description></description>
-      <pubDate>Mon, 24 Feb 2025 16:19:34 +0000</pubDate>
-    </item>
-    <item>
       <title>主架构决策记录（ADR）：有效决策的最佳实践</title>
       <link>https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/</link>
       <description></description>
@@ -40,28 +52,16 @@
       <pubDate>Thu, 23 Jan 2025 16:59:36 +0000</pubDate>
     </item>
     <item>
-      <title>在AWS上使用生成AI进行有效的临床文档分析</title>
-      <link>https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/</link>
+      <title>Wellight现代化了以事件为导向的架构，以管理爆发和不可预测的交通</title>
+      <link>https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/</link>
       <description></description>
-      <pubDate>Wed, 05 Feb 2025 19:04:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>为无状态队列消费者创建无服务器的自定义重试机制</title>
-      <link>https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/</link>
-      <description></description>
-      <pubDate>Tue, 11 Feb 2025 17:44:03 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2025 16:19:34 +0000</pubDate>
     </item>
     <item>
       <title>保留容量的飞行员灯：如何使用按需容量预订来优化DR成本</title>
       <link>https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/</link>
       <description></description>
       <pubDate>Thu, 20 Mar 2025 13:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nielsen如何使用Spark Workloads在Amazon EKS上使用无服务器概念进行大数据处理</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-nielsen-uses-serverless-concepts-on-amazon-eks-for-big-data-processing-with-spark-workloads/</link>
-      <description></description>
-      <pubDate>Tue, 28 Jan 2025 16:37:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
