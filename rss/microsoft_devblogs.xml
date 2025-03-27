@@ -4,10 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices】Microsoft鼠标设备随附的USB到PS/2鼠标适配器的注释</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993</link>
-      <description>【It&#39;s a purely mechanical adapter that relies on smarts in the mouse itself.】这是一个纯粹的机械适配器，它依赖于鼠标本身中的智能。</description>
-      <pubDate>Tue, 25 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【We’ll fly you to Atlanta, Texas, and getting to your hotel in Atlanta, Georgia is your problem】我们将带您去德克萨斯州亚特兰大，到达佐治亚州亚特兰大的酒店是您的问题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250325-01/?p=110995</link>
+      <description>【Reading the fine print.】阅读精美的印刷品。</description>
+      <pubDate>Tue, 25 Mar 2025 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the winners of the 2025 Powerful Devs Hack Together】宣布2025年强大的开发人员的获奖者一起攻击</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-winners-of-the-2025-powerful-devs-hack-together</link>
+      <description>【The 2025 Powerful Devs Hack Together brought developers together to build secure and scalable AI-powered solutions using Power Platform, Azure, AI Builder, and more. If you missed the event, you can still catch up on all the sessions covering AI, automation, security, extensibility, and more! 🎥 Watch here: aka.ms/powerfuldevs/ondemand Technologies Used in the Hackathon  We [&amp;hellip;]】2025年功能强大的开发人员将开发人员聚集在一起，使用电源平台，Azure，AI Builder等建造安全可扩展的AI驱动解决方案。如果您错过了活动，您仍然可以赶上所有涵盖AI，自动化，安全性，可扩展性等的会话！ 🎥在这里观看：aka.ms/poperfuldevs/ondemand Technologies We […]</description>
+      <pubDate>Tue, 25 Mar 2025 15:50:54 +0000</pubDate>
     </item>
     <item>
       <title>【VS Code C++ Extension Updates: 4x Faster Colorization &amp; 3.5x Faster Project Startup】VS代码C ++扩展更新：4倍更快的着色速度和3.5倍更快的项目启动</title>
@@ -16,10 +22,10 @@
       <pubDate>Tue, 25 Mar 2025 22:23:36 +0000</pubDate>
     </item>
     <item>
-      <title>【We’ll fly you to Atlanta, Texas, and getting to your hotel in Atlanta, Georgia is your problem】我们将带您去德克萨斯州亚特兰大，到达佐治亚州亚特兰大的酒店是您的问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250325-01/?p=110995</link>
-      <description>【Reading the fine print.】阅读精美的印刷品。</description>
-      <pubDate>Tue, 25 Mar 2025 14:00:01 +0000</pubDate>
+      <title>【Boost Your CMake Development with Copilot Custom Instructions】使用Copilot自定义说明增强您的CMAKE开发</title>
+      <link>https://devblogs.microsoft.com/cppblog/boost-your-cmake-development-with-copilot-custom-instructions</link>
+      <description>【Introduction Creating a new CMake project that uses unfamiliar libraries can be daunting and time-consuming. This blog post takes you along on my journey using Copilot to make this easier, and leveraging Custom Instructions to tailor Copilot responses. For a sneak peek, see the outcome of this journey in this repository. Background As C++ developers [&amp;hellip;]】引言创建一个新的CMAKE项目，该项目使用不熟悉的库可能令人生畏和耗时。这篇博客文章将带您使用Copilot的旅程，以使这一更轻松，并利用自定义说明来定制Copilot响应。要偷看，请参阅此存储库中的这一旅程的结果。背景为C ++开发人员[…]</description>
+      <pubDate>Tue, 25 Mar 2025 17:19:55 +0000</pubDate>
     </item>
     <item>
       <title>【Exploring new .NET releases with Dev Containers】使用开发容器探索新的.NET版本</title>
@@ -28,40 +34,34 @@
       <pubDate>Tue, 25 Mar 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Xbox + .NET Aspire: Transforming Local Development Practices】Xbox + .Net Aspire：改变本地发展实践</title>
-      <link>https://devblogs.microsoft.com/dotnet/xboxs-usage-of-aspire-transforming-development-practices</link>
-      <description>【Learn how the Xbox services team leveraged .NET Aspire to boost their team&#39;s productivity.】了解Xbox服务团队如何利用.NET渴望提高团队的生产力。</description>
-      <pubDate>Mon, 24 Mar 2025 17:05:00 +0000</pubDate>
+      <title>【Why does INVALID_HANDLE_VALUE cast through a LONG_PTR first?】为什么Invalid_handle_value首先通过long_ptr施放？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250326-00/?p=111002</link>
+      <description>【To ensure that the proper sign extension happens.】确保发生适当的符号扩展。</description>
+      <pubDate>Wed, 26 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel Agent Framework RC2】语义内核代理框架RC2</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agent-framework-rc2</link>
-      <description>【Three weeks ago we released the Release the Agents! SK Agents Framework RC1 | Semantic Kernel and we’ve been thrilled to see the momentum grow. Thank you to everyone who has shared feedback, filed issues, and started building with agents in Semantic Kernel—we’re seeing more developers try agents than ever before. Today, we’re declaring build [&amp;hellip;]】三个星期前，我们发布了发行版《代理商》！ SK代理框架RC1 |语义内核，我们很高兴看到动量增长。感谢所有共享反馈，提出问题并开始与代理商在语义内核中建立的人 - 我们看到开发人员比以往任何时候都多尝试代理。今天，我们宣布建造[…]</description>
-      <pubDate>Mon, 24 Mar 2025 23:53:47 +0000</pubDate>
+      <title>【New Overlapping Secrets on Azure DevOps OAuth】Azure Devops Oauth上的新重叠秘密</title>
+      <link>https://devblogs.microsoft.com/devops/new-overlapping-secrets-on-azure-devops-oauth</link>
+      <description>【As you may have read, Azure DevOps OAuth apps are due for deprecation in 2026. All developers are encouraged to migrate their applications to use Microsoft Entra ID OAuth, which can access all Azure DevOps APIs and has the added benefit of enhanced security features and long-term investment. Although we are nearing Azure DevOps OAuth’s [&amp;hellip;]】您可能已经阅读了，Azure Devops Oauth应用程序应在2026年进行弃用。鼓励所有开发人员迁移其应用程序使用Microsoft Entra ID Oauth，该应用程序可以访问所有Azure DevOps API，并具有增强的安全功能和长期投资的额外好处。尽管我们正在接近Azure Devops Oauth的[…]</description>
+      <pubDate>Wed, 26 Mar 2025 16:19:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Conf 2025: Learn, Build, and Connect with the Community】Azure Cosmos DB Conf 2025：学习，建立和与社区建立和联系</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2025-learn-build-and-connect-with-the-community</link>
-      <description>【Join us for the 5th annual Azure Cosmos DB Conf, a free virtual developer event co-hosted by Microsoft and the Azure Cosmos DB community. This is your opportunity to learn from Microsoft product managers, industry experts, and real-world customers who are building applications with Azure Cosmos DB. This year, we received over 100 session proposals [&amp;hellip;]】加入我们，参加第五届年度Azure Cosmos DB Conf，这是由Microsoft和Azure Cosmos DB社区共同主持的免费虚拟开发人员活动。这是您向Microsoft产品经理，行业专家和正在使用Azure Cosmos DB构建应用程序的现实世界客户学习的机会。今年，我们收到了100多个会议建议[…]</description>
-      <pubDate>Mon, 24 Mar 2025 21:04:21 +0000</pubDate>
+      <title>【Debugging with the AI-powered IEnumerable visualizer】与AI驱动的Ienumerable可视化器调试</title>
+      <link>https://devblogs.microsoft.com/visualstudio/debugging-with-the-ai-powered-ienumerable-visualizer</link>
+      <description>【Are you tired of wrestling with complex LINQ queries during debugging? Visual Studio 2022 has introduced powerful new improvement, powered by AI, to simplify your workflow with its editable expression feature in the IEnumerable Visualizer. These added functionalities aim to make debugging more intuitive and efficient, helping you write and refine LINQ queries with ease. [&amp;hellip;]】您是否厌倦了在调试期间与复杂的Linq查询搏斗？ Visual Studio 2022引入了由AI提供支持的强大的新改进，以简化您的工作流程，并在Ienumerable Visualize中使用其可编辑的表达功能。这些附加功能旨在使调试更加直观和高效，从而帮助您轻松编写和完善Linq查询。 […]</description>
+      <pubDate>Wed, 26 Mar 2025 15:00:31 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2503.24: misc bug fixes】PIX 2503.24：MISC错误修复</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2503-24</link>
-      <description>【Today we released PIX version 2503.24, which can be downloaded here. This release includes everything in the previous 2501.30 release, plus the following bug fixes: Fix capture-time crash introduced in 2501.30 in CPU write tracking code Fix capture-time issue with reserved resources, that could cause replay-time corruption for some UE5 captures Fix PIXBeginCapture() deadlocking for Timing [&amp;hellip;]】今天，我们发布了PIX版本2503.24，可以在此处下载。此版本包括上一版本中的所有内容，以及以下错误修复：修复捕获时间崩溃在2501.30中引入的CPU写入跟踪代码修复了使用保留资源的捕获时间问题，这可能会导致某些UE5捕获的重播时间损坏fix fix fix pixbegincapture（pixbebegincapture（</description>
-      <pubDate>Mon, 24 Mar 2025 22:03:19 +0000</pubDate>
+      <title>【Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps】使用.NET MAUI应用程序的Appium UI测试使用Browserstack应用程序自动化</title>
+      <link>https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui</link>
+      <description>【In this post, learn how to run your Appium UI Tests for .NET MAUI Apps on real devices on the cloud using BrowserStack App Automate.】在这篇文章中，了解如何使用Browserstack App Automate在云上的真实设备上对.NET MAUI应用程序运行Appium UI测试。</description>
+      <pubDate>Wed, 26 Mar 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Boost Your CMake Development with Copilot Custom Instructions】使用Copilot自定义说明增强您的CMAKE开发</title>
-      <link>https://devblogs.microsoft.com/cppblog/boost-your-cmake-development-with-copilot-custom-instructions</link>
-      <description>【Introduction Creating a new CMake project that uses unfamiliar libraries can be daunting and time-consuming. This blog post takes you along on my journey using Copilot to make this easier, and leveraging Custom Instructions to tailor Copilot responses. For a sneak peek, see the outcome of this journey in this repository. Background As C++ developers [&amp;hellip;]】引言创建一个新的CMAKE项目，该项目使用不熟悉的库可能令人生畏和耗时。这篇博客文章将带您使用Copilot的旅程，以使这一更轻松，并利用自定义说明来定制Copilot响应。要偷看，请参阅此存储库中的这一旅程的结果。背景为C ++开发人员[…]</description>
-      <pubDate>Tue, 25 Mar 2025 17:19:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the winners of the 2025 Powerful Devs Hack Together】宣布2025年强大的开发人员的获奖者一起攻击</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-winners-of-the-2025-powerful-devs-hack-together</link>
-      <description>【The 2025 Powerful Devs Hack Together brought developers together to build secure and scalable AI-powered solutions using Power Platform, Azure, AI Builder, and more. If you missed the event, you can still catch up on all the sessions covering AI, automation, security, extensibility, and more! 🎥 Watch here: aka.ms/powerfuldevs/ondemand Technologies Used in the Hackathon  We [&amp;hellip;]】2025年功能强大的开发人员将开发人员聚集在一起，使用电源平台，Azure，AI Builder等建造安全可扩展的AI驱动解决方案。如果您错过了活动，您仍然可以赶上所有涵盖AI，自动化，安全性，可扩展性等的会话！ 🎥在这里观看：aka.ms/poperfuldevs/ondemand Technologies We […]</description>
-      <pubDate>Tue, 25 Mar 2025 15:50:54 +0000</pubDate>
+      <title>【Improve performance and security using Standard Load Balancer and Standard SKU public IP addresses in Azure DevTest Labs】使用标准负载平衡器和Azure DevTest实验室中的标准负载平衡器和标准SKU公共IP地址提高性能和安全性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/improve-performance-and-security-using-standard-load-balancer-and-standard-sku-public-ip-addresses-in-azure-devtest-labs</link>
+      <description>【We are excited to announce preview of enhancements in Azure DevTest Labs designed to accommodate two upcoming retirements in Azure: Retirement Date Details Azure Basic Load Balancer September 30, 2025 The Azure Basic Load Balancer will be retired. You can continue using your existing Basic Load Balancers until this date, but you will not be [&amp;hellip;]】我们很高兴地宣布预览Azure DevTest Labs中的增强功能，旨在容纳Azure的两个即将到来的退休：退休日期详细介绍了Azure Basic Load Balancer，2025年9月30日，Azure Basical Load Balancer将退休。您可以在此日期之前继续使用现有的基本负载平衡器，但是您不会[…]</description>
+      <pubDate>Wed, 26 Mar 2025 14:23:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

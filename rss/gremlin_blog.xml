@@ -10,40 +10,10 @@
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s the ROI of reliability?】可靠性的投资回报率是多少？</title>
-      <link>https://www.gremlin.com/blog/whats-the-roi-of-reliability</link>
-      <description>【Learn how to compute the ROI of a reliability or Chaos Engineering program, including how to quantify the positive impact your efforts created for the company.】了解如何计算可靠性或混乱工程计划的投资回报率，包括如何量化对公司创造的积极影响。</description>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Test serverless and application-level reliability with Failure Flags】使用故障标志测试无服务器和应用程序级可靠性</title>
       <link>https://www.gremlin.com/blog/test-serverless-and-application-level-reliability-with-failure-flags</link>
       <description>【Run resilience tests at the application level in serverless, container, Kubernetes, and service mesh environments with Gremlin Failure Flags.】使用Gremlin故障标志的无服务器，容器，Kubernetes和服务网格环境中的应用程序级别运行弹性测试。</description>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How a major retailer tested critical serverless systems with Failure Flags】主要零售商如何用故障标志测试关键服务器系统</title>
-      <link>https://www.gremlin.com/blog/how-a-major-retailer-tested-critical-serverless-systems-with-failure-flags</link>
-      <description>【Find out how Gremlin helped a major retailer test region failover for a critical service built on AWS Lambda using Failure Flags.】找出Gremlin如何帮助使用故障标志在AWS Lambda建立的关键服务的主要零售商测试区域故障转移。</description>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How the Gremlin agent fails safely】Gremlin代理如何安全失败</title>
-      <link>https://www.gremlin.com/blog/how-the-gremlin-agent-fails-safely</link>
-      <description>【Reliability testing shouldn’t feel risky. Learn how Gremlin makes testing safer with fail-safe agents and automatic rollbacks.】可靠性测试不应该感到冒险。了解Gremlin如何通过故障安全代理和自动回滚使测试更安全。</description>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to fix the root cause of a failed reliability test】如何修复失败可靠性测试的根本原因</title>
-      <link>https://www.gremlin.com/blog/how-to-fix-the-root-cause-of-a-failed-reliability-test</link>
-      <description>【You’ve run your reliability tests, and unfortunately, some of them failed. No need to panic: we’ll tell you how to turn that F into an A.】您已经进行了可靠性测试，不幸的是，其中一些失败了。无需惊慌：我们会告诉您如何将F变成A。</description>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Gremlin Private Edition】宣布Gremlin私人版</title>
-      <link>https://www.gremlin.com/blog/announcing-gremlin-private-edition</link>
-      <description>【Gremlin Private Edition is a private, secure, self-hosted Gremlin instance that runs entirely within your network. Learn more in our announcement blog.】Gremlin Private Edition是一个私人，安全，自主的Gremlin实例，完全在您的网络中运行。在我们的公告博客中了解更多信息。</description>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Simulating artificial intelligence (AI) service outages with Gremlin】与Gremlin模拟人工智能（AI）服务中断</title>
@@ -52,16 +22,46 @@
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Three reliability best practices when using AI agents for coding】使用AI代理进行编码时，三种可靠性最佳实践</title>
-      <link>https://www.gremlin.com/blog/three-reliability-best-practices-when-using-ai-agents-for-coding</link>
-      <description>【AI agents can help developers move faster, but they can also introduce potential failures into your system. Find out best practices for reliability to keep human and AI errors from causing outages.】AI代理可以帮助开发人员更快地移动，但他们也可以将潜在的故障引入您的系统。找出可靠性的最佳实践，以防止人类和AI错误引起中断。</description>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <title>【Announcing Gremlin Private Edition】宣布Gremlin私人版</title>
+      <link>https://www.gremlin.com/blog/announcing-gremlin-private-edition</link>
+      <description>【Gremlin Private Edition is a private, secure, self-hosted Gremlin instance that runs entirely within your network. Learn more in our announcement blog.】Gremlin Private Edition是一个私人，安全，自主的Gremlin实例，完全在您的网络中运行。在我们的公告博客中了解更多信息。</description>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to make your AI-as-a-Service more resilient】如何使您的AI-AS-A-Service更具弹性</title>
       <link>https://www.gremlin.com/blog/how-to-make-your-ai-as-a-service-more-resilient</link>
       <description>【Getting an AI-powered service up and running is hard; keeping it running is even harder. Read how AI-as-a-service systems can fail and how Gremlin makes them reliable.】启动和运行AI驱动的服务很难；保持它的运行更加困难。阅读AI-AS-AS-Service系统如何失败以及Gremlin如何使其可靠。</description>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to fix the root cause of a failed reliability test】如何修复失败可靠性测试的根本原因</title>
+      <link>https://www.gremlin.com/blog/how-to-fix-the-root-cause-of-a-failed-reliability-test</link>
+      <description>【You’ve run your reliability tests, and unfortunately, some of them failed. No need to panic: we’ll tell you how to turn that F into an A.】您已经进行了可靠性测试，不幸的是，其中一些失败了。无需惊慌：我们会告诉您如何将F变成A。</description>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How a major retailer tested critical serverless systems with Failure Flags】主要零售商如何用故障标志测试关键服务器系统</title>
+      <link>https://www.gremlin.com/blog/how-a-major-retailer-tested-critical-serverless-systems-with-failure-flags</link>
+      <description>【Find out how Gremlin helped a major retailer test region failover for a critical service built on AWS Lambda using Failure Flags.】找出Gremlin如何帮助使用故障标志在AWS Lambda建立的关键服务的主要零售商测试区域故障转移。</description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s the ROI of reliability?】可靠性的投资回报率是多少？</title>
+      <link>https://www.gremlin.com/blog/whats-the-roi-of-reliability</link>
+      <description>【Learn how to compute the ROI of a reliability or Chaos Engineering program, including how to quantify the positive impact your efforts created for the company.】了解如何计算可靠性或混乱工程计划的投资回报率，包括如何量化对公司创造的积极影响。</description>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Three reliability best practices when using AI agents for coding】使用AI代理进行编码时，三种可靠性最佳实践</title>
+      <link>https://www.gremlin.com/blog/three-reliability-best-practices-when-using-ai-agents-for-coding</link>
+      <description>【AI agents can help developers move faster, but they can also introduce potential failures into your system. Find out best practices for reliability to keep human and AI errors from causing outages.】AI代理可以帮助开发人员更快地移动，但他们也可以将潜在的故障引入您的系统。找出可靠性的最佳实践，以防止人类和AI错误引起中断。</description>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How the Gremlin agent fails safely】Gremlin代理如何安全失败</title>
+      <link>https://www.gremlin.com/blog/how-the-gremlin-agent-fails-safely</link>
+      <description>【Reliability testing shouldn’t feel risky. Learn how Gremlin makes testing safer with fail-safe agents and automatic rollbacks.】可靠性测试不应该感到冒险。了解Gremlin如何通过故障安全代理和自动回滚使测试更安全。</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

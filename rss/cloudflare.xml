@@ -4,42 +4,6 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Prepping for post-quantum: a beginner’s guide to lattice cryptography】准备后量子：晶格密码学的初学者指南</title>
-      <link>https://blog.cloudflare.com/lattice-crypto-primer/</link>
-      <description>【 This post is a beginner&#39;s guide to lattices, the math at the heart of the transition to post-quantum (PQ) cryptography. It explains how to do lattice-based encryption and authentication from scratch. 】这篇文章是晶格的初学者指南，是过渡到后量化后（PQ）加密术的核心的数学指南。它解释了如何从头开始进行基于晶格的加密和身份验证。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
-      <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
-      <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
-      <pubDate>Fri, 21 Mar 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers】新的urlpattern API为Node.js和Cloudflare工人带来了改进的图案匹配</title>
-      <link>https://blog.cloudflare.com/improving-web-standards-urlpattern/</link>
-      <description>【 Today we&#39;re announcing our latest contribution to Node.js, now available in v23.8.0: URLPattern.  】今天，我们宣布对Node.js的最新贡献，现在在v23.8.0中提供：urlpattern。</description>
-      <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improving Data Loss Prevention accuracy with AI-powered context analysis】通过AI驱动的上下文分析提高数据丢失的预防准确性</title>
-      <link>https://blog.cloudflare.com/improving-data-loss-prevention-accuracy-with-ai-context-analysis/</link>
-      <description>【 Cloudflare’s Data Loss Prevention is reducing false positives by using a self-improving AI-powered algorithm, built on Cloudflare’s Developer Platform. 】CloudFlare的数据丢失预防是通过使用基于Cloudflare开发人员平台建造的自我提出的AI驱动算法来降低误报。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Security Week 2025: in review】安全周2025：审查</title>
-      <link>https://blog.cloudflare.com/security-week-2025-wrap-up/</link>
-      <description>【 Security Week 2025 has officially come to a close. Our updates for the week included a deep dive on our AI offering, a unified navigation experience, and an introduction to our AI Agent Cloudy. 】安全周2025已正式结束。我们本周的更新包括深入研究我们的AI产品，统一的导航体验以及对AI Agent Cloudy的介绍。</description>
-      <pubDate>Mon, 24 Mar 2025 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【RDP without the risk: Cloudflare&#39;s browser-based solution for secure third-party access】没有风险的RDP：CloudFlare的基于浏览器的解决方案，用于安全的第三方访问</title>
-      <link>https://blog.cloudflare.com/browser-based-rdp/</link>
-      <description>【 Cloudflare now provides clientless, browser-based support for the Remote Desktop Protocol (RDP). It enables secure, remote Windows server access without VPNs or RDP clients. 】CloudFlare现在为远程桌面协议（RDP）提供了无客户端，基于浏览器的支持。它可以在没有VPN或RDP客户端的情况下启用安全的远程Windows Server访问。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Enhance data protection in Microsoft Outlook with Cloudflare One’s new DLP Assist】使用CloudFlare的新DLP辅助，在Microsoft Outlook中增强数据保护</title>
       <link>https://blog.cloudflare.com/enhance-data-protection-in-microsoft-outlook-with-cloudflare-ones-new-dlp/</link>
       <description>【 Customers can now easily safeguard sensitive data in Microsoft Outlook with our new DLP Assist feature. 】现在，客户可以使用我们的新DLP辅助功能轻松地在Microsoft Outlook中保护敏感数据。</description>
@@ -52,16 +16,52 @@
       <pubDate>Tue, 25 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Prepping for post-quantum: a beginner’s guide to lattice cryptography】准备后量子：晶格密码学的初学者指南</title>
+      <link>https://blog.cloudflare.com/lattice-crypto-primer/</link>
+      <description>【 This post is a beginner&#39;s guide to lattices, the math at the heart of the transition to post-quantum (PQ) cryptography. It explains how to do lattice-based encryption and authentication from scratch. 】这篇文章是晶格的初学者指南，是过渡到后量化后（PQ）加密术的核心的数学指南。它解释了如何从头开始进行基于晶格的加密和身份验证。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【RDP without the risk: Cloudflare&#39;s browser-based solution for secure third-party access】没有风险的RDP：CloudFlare的基于浏览器的解决方案，用于安全的第三方访问</title>
+      <link>https://blog.cloudflare.com/browser-based-rdp/</link>
+      <description>【 Cloudflare now provides clientless, browser-based support for the Remote Desktop Protocol (RDP). It enables secure, remote Windows server access without VPNs or RDP clients. 】CloudFlare现在为远程桌面协议（RDP）提供了无客户端，基于浏览器的支持。它可以在没有VPN或RDP客户端的情况下启用安全的远程Windows Server访问。</description>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare】构建和部署远程模型上下文协议（MCP）服务器到CloudFlare</title>
       <link>https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/</link>
       <description>【 You can now build and deploy remote MCP servers to Cloudflare, and we handle the hard parts of building remote MCP servers for you. 】现在，您可以构建和部署远程MCP服务器来cloudflare，并且我们处理为您构建远程MCP服务器的困难部分。</description>
       <pubDate>Tue, 25 Mar 2025 13:59:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
+      <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
+      <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
+      <pubDate>Fri, 21 Mar 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Security Week 2025: in review】安全周2025：审查</title>
+      <link>https://blog.cloudflare.com/security-week-2025-wrap-up/</link>
+      <description>【 Security Week 2025 has officially come to a close. Our updates for the week included a deep dive on our AI offering, a unified navigation experience, and an introduction to our AI Agent Cloudy. 】安全周2025已正式结束。我们本周的更新包括深入研究我们的AI产品，统一的导航体验以及对AI Agent Cloudy的介绍。</description>
+      <pubDate>Mon, 24 Mar 2025 13:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare incident on March 21, 2025】2025年3月21日的CloudFlare事件</title>
       <link>https://blog.cloudflare.com/cloudflare-incident-march-21-2025/</link>
       <description>【 On March 21, 2025, multiple Cloudflare services, including R2 object storage experienced an elevated rate of error responses. Here’s what caused the incident, the impact, and how we are making sure it 】2025年3月21日，包括R2对象存储在内的多个CloudFlare服务的错误响应速度升高。这是导致事件，影响以及我们如何确保事件的原因</description>
       <pubDate>Tue, 25 Mar 2025 01:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers】新的urlpattern API为Node.js和Cloudflare工人带来了改进的图案匹配</title>
+      <link>https://blog.cloudflare.com/improving-web-standards-urlpattern/</link>
+      <description>【 Today we&#39;re announcing our latest contribution to Node.js, now available in v23.8.0: URLPattern.  】今天，我们宣布对Node.js的最新贡献，现在在v23.8.0中提供：urlpattern。</description>
+      <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Project Jengo for Sable — final winners!】Sable项目Jengo  - 最终获胜者！</title>
+      <link>https://blog.cloudflare.com/project-jengo-for-sable-final-winners/</link>
+      <description>【 With Cloudflare’s victory against patent trolls Sable IP and Sable Networks in the books, it’s time to close out the case’s Project Jengo competition. 】随着Cloudflare在书籍中击败专利巨魔IP和黑貂网络的胜利，是时候结束案件的Jengo竞赛了。</description>
+      <pubDate>Wed, 26 Mar 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
