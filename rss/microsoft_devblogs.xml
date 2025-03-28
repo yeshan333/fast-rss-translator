@@ -4,40 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【We’ll fly you to Atlanta, Texas, and getting to your hotel in Atlanta, Georgia is your problem】我们将带您去德克萨斯州亚特兰大，到达佐治亚州亚特兰大的酒店是您的问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250325-01/?p=110995</link>
-      <description>【Reading the fine print.】阅读精美的印刷品。</description>
-      <pubDate>Tue, 25 Mar 2025 14:00:01 +0000</pubDate>
+      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the winners of the 2025 Powerful Devs Hack Together】宣布2025年强大的开发人员的获奖者一起攻击</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-winners-of-the-2025-powerful-devs-hack-together</link>
-      <description>【The 2025 Powerful Devs Hack Together brought developers together to build secure and scalable AI-powered solutions using Power Platform, Azure, AI Builder, and more. If you missed the event, you can still catch up on all the sessions covering AI, automation, security, extensibility, and more! 🎥 Watch here: aka.ms/powerfuldevs/ondemand Technologies Used in the Hackathon  We [&amp;hellip;]】2025年功能强大的开发人员将开发人员聚集在一起，使用电源平台，Azure，AI Builder等建造安全可扩展的AI驱动解决方案。如果您错过了活动，您仍然可以赶上所有涵盖AI，自动化，安全性，可扩展性等的会话！ 🎥在这里观看：aka.ms/poperfuldevs/ondemand Technologies We […]</description>
-      <pubDate>Tue, 25 Mar 2025 15:50:54 +0000</pubDate>
+      <title>【Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps】使用.NET MAUI应用程序的Appium UI测试使用Browserstack应用程序自动化</title>
+      <link>https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui</link>
+      <description>【In this post, learn how to run your Appium UI Tests for .NET MAUI Apps on real devices on the cloud using BrowserStack App Automate.】在这篇文章中，了解如何使用Browserstack App Automate在云上的真实设备上对.NET MAUI应用程序运行Appium UI测试。</description>
+      <pubDate>Wed, 26 Mar 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【VS Code C++ Extension Updates: 4x Faster Colorization &amp; 3.5x Faster Project Startup】VS代码C ++扩展更新：4倍更快的着色速度和3.5倍更快的项目启动</title>
-      <link>https://devblogs.microsoft.com/cppblog/vs-code-c-extension-updates-4x-faster-colorization-3-5x-faster-project-startup</link>
-      <description>【In the latest releases of the C++ Extension in Visual Studio Code, we have focused on performance improvements and stability. A fast, responsive, and reliable development environment is essential for maintaining productivity, especially in large and complex C++ projects. These updates include many incremental optimizations that collectively speed up the time from opening a C++ [&amp;hellip;]】在Visual Studio代码中C ++扩展的最新版本中，我们专注于绩效改进和稳定性。快速，响应迅速且可靠的开发环境对于维持生产力至关重要，尤其是在大型和复杂的C ++项目中。这些更新包括许多增量优化，这些优化共同加快了打开C ++的时间[…]</description>
-      <pubDate>Tue, 25 Mar 2025 22:23:36 +0000</pubDate>
+      <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-conf-2025-recap</link>
+      <description>【For decades, SQL Server has been a cornerstone of data management, evolving to meet the needs of modern developers. What began as a traditional relational engine is now a cloud-enabled, AI-integrated platform designed for building real-world applications. SQL Server continues to meet developers where they are—offering tools, services, and capabilities that simplify complexity and support [&amp;hellip;]】几十年来，SQL Server一直是数据管理的基石，以满足现代开发人员的需求。最初的传统关系引擎现在是一个支持云的AI集成平台，旨在构建现实世界应用。 SQL Server继续与开发人员遇到所在的开发人员 - 提供简化复杂性和支持[…]的工具，服务和功能。</description>
+      <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Boost Your CMake Development with Copilot Custom Instructions】使用Copilot自定义说明增强您的CMAKE开发</title>
-      <link>https://devblogs.microsoft.com/cppblog/boost-your-cmake-development-with-copilot-custom-instructions</link>
-      <description>【Introduction Creating a new CMake project that uses unfamiliar libraries can be daunting and time-consuming. This blog post takes you along on my journey using Copilot to make this easier, and leveraging Custom Instructions to tailor Copilot responses. For a sneak peek, see the outcome of this journey in this repository. Background As C++ developers [&amp;hellip;]】引言创建一个新的CMAKE项目，该项目使用不熟悉的库可能令人生畏和耗时。这篇博客文章将带您使用Copilot的旅程，以使这一更轻松，并利用自定义说明来定制Copilot响应。要偷看，请参阅此存储库中的这一旅程的结果。背景为C ++开发人员[…]</description>
-      <pubDate>Tue, 25 Mar 2025 17:19:55 +0000</pubDate>
+      <title>【On launching a dialog when a specific combo box item is selected】选择特定组合框项目时启动对话框</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250327-00/?p=111009</link>
+      <description>【Changing selections is not a good time to launch a dialog box.】更改选择不是启动对话框的好时机。</description>
+      <pubDate>Thu, 27 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring new .NET releases with Dev Containers】使用开发容器探索新的.NET版本</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-in-dev-container</link>
-      <description>【Learn how to set up and use dev containers for experimenting with new .NET releases.】了解如何设置和使用开发容器来尝试新的.NET版本。</description>
-      <pubDate>Tue, 25 Mar 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does INVALID_HANDLE_VALUE cast through a LONG_PTR first?】为什么Invalid_handle_value首先通过long_ptr施放？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250326-00/?p=111002</link>
-      <description>【To ensure that the proper sign extension happens.】确保发生适当的符号扩展。</description>
-      <pubDate>Wed, 26 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Data retention, back-up, and disposal】Microsoft 365认证控制聚光灯：数据保留，备份和处置</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-retention-back-up-and-disposal</link>
+      <description>【Learn how Microsoft 365 Certification validates data retention, back-up, and disposal controls for Microsoft 365 apps.】了解Microsoft 365认证如何验证Microsoft 365应用程序的数据保留，备份和处置控件。</description>
+      <pubDate>Thu, 27 Mar 2025 14:30:23 +0000</pubDate>
     </item>
     <item>
       <title>【New Overlapping Secrets on Azure DevOps OAuth】Azure Devops Oauth上的新重叠秘密</title>
@@ -52,16 +46,22 @@
       <pubDate>Wed, 26 Mar 2025 15:00:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps】使用.NET MAUI应用程序的Appium UI测试使用Browserstack应用程序自动化</title>
-      <link>https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui</link>
-      <description>【In this post, learn how to run your Appium UI Tests for .NET MAUI Apps on real devices on the cloud using BrowserStack App Automate.】在这篇文章中，了解如何使用Browserstack App Automate在云上的真实设备上对.NET MAUI应用程序运行Appium UI测试。</description>
-      <pubDate>Wed, 26 Mar 2025 17:05:00 +0000</pubDate>
+      <title>【Azure DevTest Labs’ feedback forum has a new home!】Azure DevTest Labs的反馈论坛有一个新家！</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/azure-devtest-labs-feedback-forum-has-a-new-home</link>
+      <description>【We&amp;#8217;re thrilled to announce that Azure DevTest Labs has joined the Visual Studio Developer Community to collect valuable feedback and suggestions from our customers. 🌟 This fantastic feedback portal is here to make your experience smoother and more engaging. It&amp;#8217;s your go-to place to connect with the Azure DevTest Labs product and engineering teams to [&amp;hellip;]】我们很高兴地宣布，Azure DevTest Labs已加入Visual Studio开发人员社区，以收集客户的有价值的反馈和建议。 🌟这个出色的反馈门户在这里使您的体验更加顺畅，更具吸引力。这是您与Azure DevTest Labs产品和工程团队连接到[…]的最佳选择。</description>
+      <pubDate>Thu, 27 Mar 2025 15:00:52 +0000</pubDate>
     </item>
     <item>
       <title>【Improve performance and security using Standard Load Balancer and Standard SKU public IP addresses in Azure DevTest Labs】使用标准负载平衡器和Azure DevTest实验室中的标准负载平衡器和标准SKU公共IP地址提高性能和安全性</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/improve-performance-and-security-using-standard-load-balancer-and-standard-sku-public-ip-addresses-in-azure-devtest-labs</link>
       <description>【We are excited to announce preview of enhancements in Azure DevTest Labs designed to accommodate two upcoming retirements in Azure: Retirement Date Details Azure Basic Load Balancer September 30, 2025 The Azure Basic Load Balancer will be retired. You can continue using your existing Basic Load Balancers until this date, but you will not be [&amp;hellip;]】我们很高兴地宣布预览Azure DevTest Labs中的增强功能，旨在容纳Azure的两个即将到来的退休：退休日期详细介绍了Azure Basic Load Balancer，2025年9月30日，Azure Basical Load Balancer将退休。您可以在此日期之前继续使用现有的基本负载平衡器，但是您不会[…]</description>
       <pubDate>Wed, 26 Mar 2025 14:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using OpenTelemetry for flexible observability】使用opentelementry进行灵活的可观察性</title>
+      <link>https://devblogs.microsoft.com/ise/using-opentelemetry-for-flexible-observability</link>
+      <description>【OpenTelemetry offers flexible observability in distributed systems, this post looks at how to integrate multiple data sources when connected and disconnected from the internet.】OpenTelemetry在分布式系统中提供了灵活的可观察性，本文介绍了如何在与Internet连接和断开连接时如何集成多个数据源。</description>
+      <pubDate>Thu, 27 Mar 2025 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
