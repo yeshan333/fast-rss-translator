@@ -10,6 +10,30 @@
       <pubDate>Fri, 28 Mar 2025 06:23:46 +0000</pubDate>
     </item>
     <item>
+      <title>【Building a Model Context Protocol Server with Semantic Kernel】使用语义内核构建模型上下文协议服务器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel</link>
+      <description>【This is second MCP related blog post that is part of a series of blog posts that will cover how to use Semantic Kernel (SK) with the Model Context Protocol (MCP). This blog post demonstrates how to build an MCP server using MCP C# SDK and SK, expose SK plugins as MCP tools and call [&amp;hellip;]】这是第二个与MCP相关的博客文章，它是一系列博客文章的一部分，该文章将涵盖如何使用模型上下文协议（MCP）使用语义内核（SK）。这篇博客文章演示了如何使用MCP C＃SDK构建MCP服务器，并将SK插件作为MCP工具公开并致电[…]</description>
+      <pubDate>Fri, 28 Mar 2025 13:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
+      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
+      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-conf-2025-recap</link>
+      <description>【For decades, SQL Server has been a cornerstone of data management, evolving to meet the needs of modern developers. What began as a traditional relational engine is now a cloud-enabled, AI-integrated platform designed for building real-world applications. SQL Server continues to meet developers where they are—offering tools, services, and capabilities that simplify complexity and support [&amp;hellip;]】几十年来，SQL Server一直是数据管理的基石，以满足现代开发人员的需求。最初的传统关系引擎现在是一个支持云的AI集成平台，旨在构建现实世界应用。 SQL Server继续与开发人员遇到所在的开发人员 - 提供简化复杂性和支持[…]的工具，服务和功能。</description>
+      <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【On launching a dialog when a specific combo box item is selected】选择特定组合框项目时启动对话框</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250327-00/?p=111009</link>
+      <description>【Changing selections is not a good time to launch a dialog box.】更改选择不是启动对话框的好时机。</description>
+      <pubDate>Thu, 27 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Using OpenTelemetry for flexible observability】使用opentelementry进行灵活的可观察性</title>
       <link>https://devblogs.microsoft.com/ise/using-opentelemetry-for-flexible-observability</link>
       <description>【OpenTelemetry offers flexible observability in distributed systems, this post looks at how to integrate multiple data sources when connected and disconnected from the internet.】OpenTelemetry在分布式系统中提供了灵活的可观察性，本文介绍了如何在与Internet连接和断开连接时如何集成多个数据源。</description>
@@ -28,40 +52,16 @@
       <pubDate>Fri, 28 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
-      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
-      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【On launching a dialog when a specific combo box item is selected】选择特定组合框项目时启动对话框</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250327-00/?p=111009</link>
-      <description>【Changing selections is not a good time to launch a dialog box.】更改选择不是启动对话框的好时机。</description>
-      <pubDate>Thu, 27 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a Model Context Protocol Server with Semantic Kernel】使用语义内核构建模型上下文协议服务器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel</link>
-      <description>【This is second MCP related blog post that is part of a series of blog posts that will cover how to use Semantic Kernel (SK) with the Model Context Protocol (MCP). This blog post demonstrates how to build an MCP server using MCP C# SDK and SK, expose SK plugins as MCP tools and call [&amp;hellip;]】这是第二个与MCP相关的博客文章，它是一系列博客文章的一部分，该文章将涵盖如何使用模型上下文协议（MCP）使用语义内核（SK）。这篇博客文章演示了如何使用MCP C＃SDK构建MCP服务器，并将SK插件作为MCP工具公开并致电[…]</description>
-      <pubDate>Fri, 28 Mar 2025 13:32:16 +0000</pubDate>
-    </item>
-    <item>
       <title>【Microsoft 365 Certification control spotlight: Data retention, back-up, and disposal】Microsoft 365认证控制聚光灯：数据保留，备份和处置</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-retention-back-up-and-disposal</link>
       <description>【Learn how Microsoft 365 Certification validates data retention, back-up, and disposal controls for Microsoft 365 apps.】了解Microsoft 365认证如何验证Microsoft 365应用程序的数据保留，备份和处置控件。</description>
       <pubDate>Thu, 27 Mar 2025 14:30:23 +0000</pubDate>
     </item>
     <item>
-      <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-conf-2025-recap</link>
-      <description>【For decades, SQL Server has been a cornerstone of data management, evolving to meet the needs of modern developers. What began as a traditional relational engine is now a cloud-enabled, AI-integrated platform designed for building real-world applications. SQL Server continues to meet developers where they are—offering tools, services, and capabilities that simplify complexity and support [&amp;hellip;]】几十年来，SQL Server一直是数据管理的基石，以满足现代开发人员的需求。最初的传统关系引擎现在是一个支持云的AI集成平台，旨在构建现实世界应用。 SQL Server继续与开发人员遇到所在的开发人员 - 提供简化复杂性和支持[…]的工具，服务和功能。</description>
-      <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
-      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
-      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
+      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
