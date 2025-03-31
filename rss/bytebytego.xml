@@ -11,34 +11,10 @@
       <pubDate>Thu, 20 Mar 2025 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【EP155: The Shopify Tech Stack】EP155：Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep155-the-shopify-tech-stack</link>
-      <description>【Basically, Single Sign-On (SSO) is an authentication scheme.】基本上，单个登录（SSO）是一种身份验证方案。</description>
-      <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Protocols 101: A Guide to Choose the Right One 】API协议101：选择合适的指南</title>
-      <link>https://blog.bytebytego.com/p/api-protocols-101-a-guide-to-choose</link>
-      <description>【An API protocol is a set of rules and standards that define how different software applications communicate over a network.】API协议是一组规则和标准，它定义了不同的软件应用程序如何通过网络通信。</description>
-      <pubDate>Thu, 13 Mar 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP154: What is MCP?】EP154：什么是MCP？</title>
-      <link>https://blog.bytebytego.com/p/ep154-what-is-mcp</link>
-      <description>【Why is everyone talking about it? Let&amp;#8217;s take a closer look.】为什么每个人都在谈论它？让我们仔细看一下。</description>
-      <pubDate>Sat, 15 Mar 2025 15:30:51 +0000</pubDate>
-    </item>
-    <item>
       <title>【Bluesky: The Decentralized Social Media App with 30 Million Users】蓝军：分散的社交媒体应用程序，有3000万用户</title>
       <link>https://blog.bytebytego.com/p/bluesky-the-decentralized-social</link>
       <description>【In this article, we will look at Bluesky&amp;#8217;s architecture and its use of the AT protocol to make things possible.】在本文中，我们将研究布鲁斯基的架构及其对AT协议的使用以使事情成为可能。</description>
       <pubDate>Tue, 25 Mar 2025 15:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP153: A Cheatsheet on Comparing Key-Value Stores】EP153：比较钥匙值商店的备忘单</title>
-      <link>https://blog.bytebytego.com/p/ep153-a-cheatsheet-on-comparing-key</link>
-      <description>【We compare 15 key-value stores across different parameters like replication style, consistency protocol, node discovery approach, and partitioning approach.】我们比较了不同参数的15个键值存储，例如复制样式，一致性协议，节点发现方法和分区方法。</description>
-      <pubDate>Sat, 08 Mar 2025 16:31:03 +0000</pubDate>
     </item>
     <item>
       <title>【Facebook’s Database Handling Billions of Messages (Apache Cassandra® Deep Dive)】Facebook的数据库处理数十亿条消息（ApacheCassandra®深水潜水）</title>
@@ -47,22 +23,46 @@
       <pubDate>Tue, 11 Mar 2025 15:31:13 +0000</pubDate>
     </item>
     <item>
-      <title>【How Netflix Stores 140 Million Hours of Viewing Data Per Day】Netflix如何每天存储1.4亿小时的查看数据</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours</link>
-      <description>【In this article, we&amp;#8217;ll learn how Netflix tackled these problems and improved their storage system to handle millions of hours of viewing data every day.】在本文中，我们将了解Netflix如何解决这些问题并改善其存储系统，以每天处理数百万个小时的查看数据。</description>
-      <pubDate>Tue, 18 Mar 2025 15:31:15 +0000</pubDate>
-    </item>
-    <item>
       <title>【EP156: Software Architect Knowledge Map 】EP156：软件架构师知识图</title>
       <link>https://blog.bytebytego.com/p/ep156-software-architect-knowledge</link>
       <description>【Becoming a Software Architect is a journey where you are always learning. But there are some things you must definitely strive to know.】成为软件架构师是您一直在学习的旅程。但是有些事情您一定要努力知道。</description>
       <pubDate>Sat, 29 Mar 2025 15:30:53 +0000</pubDate>
     </item>
     <item>
+      <title>【EP153: A Cheatsheet on Comparing Key-Value Stores】EP153：比较钥匙值商店的备忘单</title>
+      <link>https://blog.bytebytego.com/p/ep153-a-cheatsheet-on-comparing-key</link>
+      <description>【We compare 15 key-value stores across different parameters like replication style, consistency protocol, node discovery approach, and partitioning approach.】我们比较了不同参数的15个键值存储，例如复制样式，一致性协议，节点发现方法和分区方法。</description>
+      <pubDate>Sat, 08 Mar 2025 16:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Stores 140 Million Hours of Viewing Data Per Day】Netflix如何每天存储1.4亿小时的查看数据</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours</link>
+      <description>【In this article, we&amp;#8217;ll learn how Netflix tackled these problems and improved their storage system to handle millions of hours of viewing data every day.】在本文中，我们将了解Netflix如何解决这些问题并改善其存储系统，以每天处理数百万个小时的查看数据。</description>
+      <pubDate>Tue, 18 Mar 2025 15:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP155: The Shopify Tech Stack】EP155：Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep155-the-shopify-tech-stack</link>
+      <description>【Basically, Single Sign-On (SSO) is an authentication scheme.】基本上，单个登录（SSO）是一种身份验证方案。</description>
+      <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP154: What is MCP?】EP154：什么是MCP？</title>
+      <link>https://blog.bytebytego.com/p/ep154-what-is-mcp</link>
+      <description>【Why is everyone talking about it? Let&amp;#8217;s take a closer look.】为什么每个人都在谈论它？让我们仔细看一下。</description>
+      <pubDate>Sat, 15 Mar 2025 15:30:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【Mastering OOP Fundamentals with SOLID Principles】用坚实的原则掌握OOP基础知识</title>
       <link>https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid</link>
       <description>【In this article, we will take a deep dive into the core fundamentals of OOP followed by an introduction to the SOLID principles.】在本文中，我们将深入了解OOP的核心基础，然后介绍扎实的原则。</description>
       <pubDate>Thu, 27 Mar 2025 15:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【API Protocols 101: A Guide to Choose the Right One 】API协议101：选择合适的指南</title>
+      <link>https://blog.bytebytego.com/p/api-protocols-101-a-guide-to-choose</link>
+      <description>【An API protocol is a set of rules and standards that define how different software applications communicate over a network.】API协议是一组规则和标准，它定义了不同的软件应用程序如何通过网络通信。</description>
+      <pubDate>Thu, 13 Mar 2025 15:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

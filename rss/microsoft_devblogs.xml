@@ -16,16 +16,10 @@
       <pubDate>Fri, 28 Mar 2025 13:32:16 +0000</pubDate>
     </item>
     <item>
-      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
-      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
-      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-conf-2025-recap</link>
-      <description>【For decades, SQL Server has been a cornerstone of data management, evolving to meet the needs of modern developers. What began as a traditional relational engine is now a cloud-enabled, AI-integrated platform designed for building real-world applications. SQL Server continues to meet developers where they are—offering tools, services, and capabilities that simplify complexity and support [&amp;hellip;]】几十年来，SQL Server一直是数据管理的基石，以满足现代开发人员的需求。最初的传统关系引擎现在是一个支持云的AI集成平台，旨在构建现实世界应用。 SQL Server继续与开发人员遇到所在的开发人员 - 提供简化复杂性和支持[…]的工具，服务和功能。</description>
-      <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
+      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
     </item>
     <item>
       <title>【On launching a dialog when a specific combo box item is selected】选择特定组合框项目时启动对话框</title>
@@ -34,22 +28,22 @@
       <pubDate>Thu, 27 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-conf-2025-recap</link>
+      <description>【For decades, SQL Server has been a cornerstone of data management, evolving to meet the needs of modern developers. What began as a traditional relational engine is now a cloud-enabled, AI-integrated platform designed for building real-world applications. SQL Server continues to meet developers where they are—offering tools, services, and capabilities that simplify complexity and support [&amp;hellip;]】几十年来，SQL Server一直是数据管理的基石，以满足现代开发人员的需求。最初的传统关系引擎现在是一个支持云的AI集成平台，旨在构建现实世界应用。 SQL Server继续与开发人员遇到所在的开发人员 - 提供简化复杂性和支持[…]的工具，服务和功能。</description>
+      <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【Using OpenTelemetry for flexible observability】使用opentelementry进行灵活的可观察性</title>
       <link>https://devblogs.microsoft.com/ise/using-opentelemetry-for-flexible-observability</link>
       <description>【OpenTelemetry offers flexible observability in distributed systems, this post looks at how to integrate multiple data sources when connected and disconnected from the internet.】OpenTelemetry在分布式系统中提供了灵活的可观察性，本文介绍了如何在与Internet连接和断开连接时如何集成多个数据源。</description>
       <pubDate>Thu, 27 Mar 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevTest Labs’ feedback forum has a new home!】Azure DevTest Labs的反馈论坛有一个新家！</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/azure-devtest-labs-feedback-forum-has-a-new-home</link>
-      <description>【We&amp;#8217;re thrilled to announce that Azure DevTest Labs has joined the Visual Studio Developer Community to collect valuable feedback and suggestions from our customers. 🌟 This fantastic feedback portal is here to make your experience smoother and more engaging. It&amp;#8217;s your go-to place to connect with the Azure DevTest Labs product and engineering teams to [&amp;hellip;]】我们很高兴地宣布，Azure DevTest Labs已加入Visual Studio开发人员社区，以收集客户的有价值的反馈和建议。 🌟这个出色的反馈门户在这里使您的体验更加顺畅，更具吸引力。这是您与Azure DevTest Labs产品和工程团队连接到[…]的最佳选择。</description>
-      <pubDate>Thu, 27 Mar 2025 15:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fixing exception safety in our task_sequencer】修复我们的任务_序列中的异常安全</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250328-00/?p=111016</link>
-      <description>【Exception safety, the forgotten requirement.】例外安全，被遗忘的要求。</description>
-      <pubDate>Fri, 28 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
+      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
+      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft 365 Certification control spotlight: Data retention, back-up, and disposal】Microsoft 365认证控制聚光灯：数据保留，备份和处置</title>
@@ -58,10 +52,16 @@
       <pubDate>Thu, 27 Mar 2025 14:30:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
-      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
-      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
+      <title>【Fixing exception safety in our task_sequencer】修复我们的任务_序列中的异常安全</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250328-00/?p=111016</link>
+      <description>【Exception safety, the forgotten requirement.】例外安全，被遗忘的要求。</description>
+      <pubDate>Fri, 28 Mar 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure DevTest Labs’ feedback forum has a new home!】Azure DevTest Labs的反馈论坛有一个新家！</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/azure-devtest-labs-feedback-forum-has-a-new-home</link>
+      <description>【We&amp;#8217;re thrilled to announce that Azure DevTest Labs has joined the Visual Studio Developer Community to collect valuable feedback and suggestions from our customers. 🌟 This fantastic feedback portal is here to make your experience smoother and more engaging. It&amp;#8217;s your go-to place to connect with the Azure DevTest Labs product and engineering teams to [&amp;hellip;]】我们很高兴地宣布，Azure DevTest Labs已加入Visual Studio开发人员社区，以收集客户的有价值的反馈和建议。 🌟这个出色的反馈门户在这里使您的体验更加顺畅，更具吸引力。这是您与Azure DevTest Labs产品和工程团队连接到[…]的最佳选择。</description>
+      <pubDate>Thu, 27 Mar 2025 15:00:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
