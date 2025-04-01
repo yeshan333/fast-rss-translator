@@ -10,22 +10,10 @@
       <pubDate>Fri, 28 Mar 2025 06:23:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Building a Model Context Protocol Server with Semantic Kernel】使用语义内核构建模型上下文协议服务器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel</link>
-      <description>【This is second MCP related blog post that is part of a series of blog posts that will cover how to use Semantic Kernel (SK) with the Model Context Protocol (MCP). This blog post demonstrates how to build an MCP server using MCP C# SDK and SK, expose SK plugins as MCP tools and call [&amp;hellip;]】这是第二个与MCP相关的博客文章，它是一系列博客文章的一部分，该文章将涵盖如何使用模型上下文协议（MCP）使用语义内核（SK）。这篇博客文章演示了如何使用MCP C＃SDK构建MCP服务器，并将SK插件作为MCP工具公开并致电[…]</description>
-      <pubDate>Fri, 28 Mar 2025 13:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
-      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
-      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【On launching a dialog when a specific combo box item is selected】选择特定组合框项目时启动对话框</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250327-00/?p=111009</link>
-      <description>【Changing selections is not a good time to launch a dialog box.】更改选择不是启动对话框的好时机。</description>
-      <pubDate>Thu, 27 Mar 2025 14:00:00 +0000</pubDate>
+      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
+      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
+      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
     </item>
     <item>
       <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
@@ -34,22 +22,22 @@
       <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Using OpenTelemetry for flexible observability】使用opentelementry进行灵活的可观察性</title>
-      <link>https://devblogs.microsoft.com/ise/using-opentelemetry-for-flexible-observability</link>
-      <description>【OpenTelemetry offers flexible observability in distributed systems, this post looks at how to integrate multiple data sources when connected and disconnected from the internet.】OpenTelemetry在分布式系统中提供了灵活的可观察性，本文介绍了如何在与Internet连接和断开连接时如何集成多个数据源。</description>
-      <pubDate>Thu, 27 Mar 2025 07:00:00 +0000</pubDate>
+      <title>【If one program blocks shutdown, then all programs block shutdown, revisited】如果一个程序阻止关闭，则所有程序都会被重新访问</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250331-00/?p=111026</link>
+      <description>【No take-backs.】没有回扣。</description>
+      <pubDate>Mon, 31 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
-      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
-      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
+      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: Data retention, back-up, and disposal】Microsoft 365认证控制聚光灯：数据保留，备份和处置</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-retention-back-up-and-disposal</link>
-      <description>【Learn how Microsoft 365 Certification validates data retention, back-up, and disposal controls for Microsoft 365 apps.】了解Microsoft 365认证如何验证Microsoft 365应用程序的数据保留，备份和处置控件。</description>
-      <pubDate>Thu, 27 Mar 2025 14:30:23 +0000</pubDate>
+      <title>【Improve the security of Generation 2 VMs via Trusted Launch in Azure DevTest Labs】通过Azure DevTest Labs中的可信赖发布来提高2代VMS的安全性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/improve-the-security-of-generation-2-vms-via-trusted-launch-in-azure-devtest-labs</link>
+      <description>【We&amp;#8217;re thrilled to announce the public preview of the Trusted Launch feature for Generation 2 (Gen2) Virtual machines (VMs) in Azure DevTest Labs! 🌟 This game-changing feature is designed to enhance security of virtual machines (VMs), protecting against advanced and persistent attack techniques. Here are the key benefits: Securely deploy VMs with verified boot loaders, OS kernels, [&amp;hellip;]】我们很高兴宣布Azure DevTest Labs中的2（Gen2）虚拟机（VMS）的可信赖发射功能的公开预览！ 🌟这种改变游戏的功能旨在增强虚拟机（VM）的安全性，以防止先进和持久的攻击技术。这是关键好处：使用经过验证的引导加载器，OS内核安全地部署VM，[…]</description>
+      <pubDate>Mon, 31 Mar 2025 15:00:56 +0000</pubDate>
     </item>
     <item>
       <title>【Fixing exception safety in our task_sequencer】修复我们的任务_序列中的异常安全</title>
@@ -58,10 +46,22 @@
       <pubDate>Fri, 28 Mar 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevTest Labs’ feedback forum has a new home!】Azure DevTest Labs的反馈论坛有一个新家！</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/azure-devtest-labs-feedback-forum-has-a-new-home</link>
-      <description>【We&amp;#8217;re thrilled to announce that Azure DevTest Labs has joined the Visual Studio Developer Community to collect valuable feedback and suggestions from our customers. 🌟 This fantastic feedback portal is here to make your experience smoother and more engaging. It&amp;#8217;s your go-to place to connect with the Azure DevTest Labs product and engineering teams to [&amp;hellip;]】我们很高兴地宣布，Azure DevTest Labs已加入Visual Studio开发人员社区，以收集客户的有价值的反馈和建议。 🌟这个出色的反馈门户在这里使您的体验更加顺畅，更具吸引力。这是您与Azure DevTest Labs产品和工程团队连接到[…]的最佳选择。</description>
-      <pubDate>Thu, 27 Mar 2025 15:00:52 +0000</pubDate>
+      <title>【Getting Started with Claude 3.7 Sonnet on Azure Databricks】在Azure Databricks上使用Claude 3.7十四行诗开始</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/getting-started-with-claude-3-7-sonnet-on-azure-databricks</link>
+      <description>【Introduction Following up on the exciting announcement about Anthropic&amp;#8217;s state-of-the-art models becoming available to Azure Databricks customers, this post provides a detailed, step-by-step guide on how you can start using Claude 3.7 Sonnet model directly within your Azure Databricks environment using Model Serving. We&amp;#8217;ll walk through deploying the necessary Azure Databricks workspace, finding the Claude [&amp;hellip;]】介绍，介绍了关于Anthropic的最先进模型的令人兴奋的公告，该帖子提供了有关如何在Azure Databricks环境中直接使用Claude 3.7 SONNET模型开始使用模型服务的详细的，分步的指南。我们将逐步部署必要的Azure Databricks工作区，找到Claude […]</description>
+      <pubDate>Tue, 01 Apr 2025 02:33:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a Model Context Protocol Server with Semantic Kernel】使用语义内核构建模型上下文协议服务器</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel</link>
+      <description>【This is second MCP related blog post that is part of a series of blog posts that will cover how to use Semantic Kernel (SK) with the Model Context Protocol (MCP). This blog post demonstrates how to build an MCP server using MCP C# SDK and SK, expose SK plugins as MCP tools and call [&amp;hellip;]】这是第二个与MCP相关的博客文章，它是一系列博客文章的一部分，该文章将涵盖如何使用模型上下文协议（MCP）使用语义内核（SK）。这篇博客文章演示了如何使用MCP C＃SDK构建MCP服务器，并将SK插件作为MCP工具公开并致电[…]</description>
+      <pubDate>Fri, 28 Mar 2025 13:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【View and manage git tags】查看和管理git标签</title>
+      <link>https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags</link>
+      <description>【Are you tired of switching between your IDE and command-line tools to manage Git tags? We’ve got the perfect solution for you! With the latest update, Visual Studio empowers you to seamlessly view and manage Git tags directly within the Git Repository window. This streamlined workflow ensures you remain within the familiar environment of the [&amp;hellip;]】您是否厌倦了在IDE和命令行工具之间切换以管理GIT标签？我们为您提供了完美的解决方案！通过最新更新，Visual Studio使您能够直接在GIT存储库窗口中无缝查看和管理GIT标签。这个简化的工作流程确保您保持在[…]的熟悉环境中</description>
+      <pubDate>Mon, 31 Mar 2025 15:10:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
