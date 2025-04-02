@@ -4,16 +4,28 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers】新的urlpattern API为Node.js和Cloudflare工人带来了改进的图案匹配</title>
-      <link>https://blog.cloudflare.com/improving-web-standards-urlpattern/</link>
-      <description>【 Today we&#39;re announcing our latest contribution to Node.js, now available in v23.8.0: URLPattern.  】今天，我们宣布对Node.js的最新贡献，现在在v23.8.0中提供：urlpattern。</description>
-      <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
       <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
       <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
       <pubDate>Fri, 21 Mar 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare】构建和部署远程模型上下文协议（MCP）服务器到CloudFlare</title>
+      <link>https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/</link>
+      <description>【 You can now build and deploy remote MCP servers to Cloudflare, and we handle the hard parts of building remote MCP servers for you. 】现在，您可以构建和部署远程MCP服务器来cloudflare，并且我们处理为您构建远程MCP服务器的困难部分。</description>
+      <pubDate>Tue, 25 Mar 2025 13:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Project Jengo for Sable — final winners!】Sable项目Jengo  - 最终获胜者！</title>
+      <link>https://blog.cloudflare.com/project-jengo-for-sable-final-winners/</link>
+      <description>【 With Cloudflare’s victory against patent trolls Sable IP and Sable Networks in the books, it’s time to close out the case’s Project Jengo competition. 】随着Cloudflare在书籍中击败专利巨魔IP和黑貂网络的胜利，是时候结束案件的Jengo竞赛了。</description>
+      <pubDate>Wed, 26 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Three chapters at Cloudflare: Programmer to CTO to Board of Directors】CloudFlare的三章：编程人员到CTO董事会</title>
+      <link>https://blog.cloudflare.com/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/</link>
+      <description>【 Today, after more than 13 years at the company, I am joining Cloudflare’s board of directors and retiring from my full-time position as CTO.  】今天，在公司工作了13多年之后，我加入了Cloudflare的董事会，并从我作为CTO的全职职位退休。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Security Week 2025: in review】安全周2025：审查</title>
@@ -22,16 +34,22 @@
       <pubDate>Mon, 24 Mar 2025 13:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>【“You get Instant Purge, and you get Instant Purge!” — all purge methods now available to all customers】“您会立即清除，然后即时清除！” - 所有客户现在都可以使用所有清除方法</title>
+      <link>https://blog.cloudflare.com/instant-purge-for-all/</link>
+      <description>【 Following up on having the fastest purge in the industry, we have now increased Instant Purge quotas across all Cloudflare plans.  】跟进行业中最快的清除，我们现在已经增加了所有Cloudflare计划的即时清除配额。 </description>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH】开源OpenPubkey SSH（OPKSSH）：将单个登录与SSH集成</title>
       <link>https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/</link>
       <description>【 OPKSSH (OpenPubkey SSH) is now open-sourced as part of the OpenPubkey project. 】Opkssh（OpenPubkey SSH）现在是开源的，作为OpenPubkey项目的一部分。</description>
       <pubDate>Tue, 25 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Enhance data protection in Microsoft Outlook with Cloudflare One’s new DLP Assist】使用CloudFlare的新DLP辅助，在Microsoft Outlook中增强数据保护</title>
-      <link>https://blog.cloudflare.com/enhance-data-protection-in-microsoft-outlook-with-cloudflare-ones-new-dlp/</link>
-      <description>【 Customers can now easily safeguard sensitive data in Microsoft Outlook with our new DLP Assist feature. 】现在，客户可以使用我们的新DLP辅助功能轻松地在Microsoft Outlook中保护敏感数据。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers】新的urlpattern API为Node.js和Cloudflare工人带来了改进的图案匹配</title>
+      <link>https://blog.cloudflare.com/improving-web-standards-urlpattern/</link>
+      <description>【 Today we&#39;re announcing our latest contribution to Node.js, now available in v23.8.0: URLPattern.  】今天，我们宣布对Node.js的最新贡献，现在在v23.8.0中提供：urlpattern。</description>
+      <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare incident on March 21, 2025】2025年3月21日的CloudFlare事件</title>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/browser-based-rdp/</link>
       <description>【 Cloudflare now provides clientless, browser-based support for the Remote Desktop Protocol (RDP). It enables secure, remote Windows server access without VPNs or RDP clients. 】CloudFlare现在为远程桌面协议（RDP）提供了无客户端，基于浏览器的支持。它可以在没有VPN或RDP客户端的情况下启用安全的远程Windows Server访问。</description>
       <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare】构建和部署远程模型上下文协议（MCP）服务器到CloudFlare</title>
-      <link>https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/</link>
-      <description>【 You can now build and deploy remote MCP servers to Cloudflare, and we handle the hard parts of building remote MCP servers for you. 】现在，您可以构建和部署远程MCP服务器来cloudflare，并且我们处理为您构建远程MCP服务器的困难部分。</description>
-      <pubDate>Tue, 25 Mar 2025 13:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Three chapters at Cloudflare: Programmer to CTO to Board of Directors】CloudFlare的三章：编程人员到CTO董事会</title>
-      <link>https://blog.cloudflare.com/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/</link>
-      <description>【 Today, after more than 13 years at the company, I am joining Cloudflare’s board of directors and retiring from my full-time position as CTO.  】今天，在公司工作了13多年之后，我加入了Cloudflare的董事会，并从我作为CTO的全职职位退休。</description>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Project Jengo for Sable — final winners!】Sable项目Jengo  - 最终获胜者！</title>
-      <link>https://blog.cloudflare.com/project-jengo-for-sable-final-winners/</link>
-      <description>【 With Cloudflare’s victory against patent trolls Sable IP and Sable Networks in the books, it’s time to close out the case’s Project Jengo competition. 】随着Cloudflare在书籍中击败专利巨魔IP和黑貂网络的胜利，是时候结束案件的Jengo竞赛了。</description>
-      <pubDate>Wed, 26 Mar 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

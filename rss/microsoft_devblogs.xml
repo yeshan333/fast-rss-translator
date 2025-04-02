@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【为 .NET 的 AI 评估解锁新的可能性】为 .NET 的 AI 评估解锁新的可能性</title>
-      <link>https://devblogs.microsoft.com/dotnet-ch/%e4%b8%ba-net-%e7%9a%84-ai-%e8%af%84%e4%bc%b0%e8%a7%a3%e9%94%81%e6%96%b0%e7%9a%84%e5%8f%af%e8%83%bd%e6%80%a7</link>
-      <description>【本文翻译自Wendy Breiding的Unlock new possibilities for AI Evaluations for .NET Microsoft.Extensions.AI.Evaluations 库旨在简化AI评估流程与应用程序的集成。它提供了一个强大的框架，用于评估您的 AI 应用程序并自动评估其性能。  去年11月，我们发布了该库的公开预览版。今天，我们很高兴地宣布，它现已在 dotnet/Extensions 存储库中开源。该代码仓库中包含了一套提供开发生产就绪应用所需的常用功能的库。通过向所有人开放该资源，我们希望帮助开发者更高效地在项目中利用 AI 的强大能力。 新的示例代码  为了帮助您快速上手 Microsoft.Extensions.AI.Evaluations 库，我们发布了一系列新示例代码。这些示例展示了多种应用场景，并演示如何高效利用该库的功能。无论您是经验丰富的开发者，还是刚刚踏上 AI 之旅的新手，这些示例都能为您提供宝贵的见解和实践指导。您可以在我们的 GitHub 代码仓库中查看这些示例。我们鼓励您深入探索、动手实践，并与我们分享您的反馈。您的贡献和意见对我们持续优化和扩展库的功能至关重要。  Azure DevOps 插件简介  希望将 AI 评估集成到您的 Azure DevOps 管道中？我们很高兴地宣布在Marketplace中推出了插件。该插件可帮助您将 AI 评估无缝集成到 CI/CD 工作流中，实现对 AI 模型的持续评估。  借助 Azure DevOps 插件，您可以自动化评估流程，确保应用程序在部署前符合预期标准。该集成提升了 AI 解决方案的可靠性和效率，帮助您自信地交付高质量的应用程序。  立即开始体验  我们邀请您体验开源的 Microsoft.Extensions.AI.Evaluations 预览版库，尝试新的示例代码，并将 Azure DevOps 插件集成到您的流水线中。我们期待看到您如何利用这些工具进行创新，打造具有影响力的 AI [&amp;hellip;]】本文翻译自Wendy Breiding的Unlock new possibilities for AI Evaluations for .NET Microsoft.Extensions.AI.Evaluations 库旨在简化AI评估流程与应用程序的集成。它提供了一个强大的框架，用于评估您的 AI 应用程序并自动评估其性能。  去年11月，我们发布了该库的公开预览版。今天，我们很高兴地宣布，它现已在 dotnet/Extensions 存储库中开源。该代码仓库中包含了一套提供开发生产就绪应用所需的常用功能的库。通过向所有人开放该资源，我们希望帮助开发者更高效地在项目中利用 AI 的强大能力。 新的示例代码  为了帮助您快速上手 Microsoft.Extensions.AI.Evaluations 库，我们发布了一系列新示例代码。这些示例展示了多种应用场景，并演示如何高效利用该库的功能。无论您是经验丰富的开发者，还是刚刚踏上 AI 之旅的新手，这些示例都能为您提供宝贵的见解和实践指导。您可以在我们的 GitHub 代码仓库中查看这些示例。我们鼓励您深入探索、动手实践，并与我们分享您的反馈。您的贡献和意见对我们持续优化和扩展库的功能至关重要。  Azure DevOps 插件简介  希望将 AI 评估集成到您的 Azure DevOps 管道中？我们很高兴地宣布在Marketplace中推出了插件。该插件可帮助您将 AI 评估无缝集成到 CI/CD 工作流中，实现对 AI 模型的持续评估。  借助 Azure DevOps 插件，您可以自动化评估流程，确保应用程序在部署前符合预期标准。该集成提升了 AI 解决方案的可靠性和效率，帮助您自信地交付高质量的应用程序。  立即开始体验  我们邀请您体验开源的 Microsoft.Extensions.AI.Evaluations 预览版库，尝试新的示例代码，并将 Azure DevOps 插件集成到您的流水线中。我们期待看到您如何利用这些工具进行创新，打造具有影响力的 AI […]</description>
-      <pubDate>Fri, 28 Mar 2025 06:23:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The 2025/2026 Seattle Symphony subscription season at a glance】2025/2026西雅图交响乐的订阅季节</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250328-01/?p=111020</link>
-      <description>【The pocket reference guide for 2025/2026.】2025/2026的袖珍参考指南。</description>
-      <pubDate>Fri, 28 Mar 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SQL Conf() 2025 Highlights: So Much Developer Innovation!】SQL Conf（）2025亮点：如此多的开发人员创新！</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-conf-2025-recap</link>
-      <description>【For decades, SQL Server has been a cornerstone of data management, evolving to meet the needs of modern developers. What began as a traditional relational engine is now a cloud-enabled, AI-integrated platform designed for building real-world applications. SQL Server continues to meet developers where they are—offering tools, services, and capabilities that simplify complexity and support [&amp;hellip;]】几十年来，SQL Server一直是数据管理的基石，以满足现代开发人员的需求。最初的传统关系引擎现在是一个支持云的AI集成平台，旨在构建现实世界应用。 SQL Server继续与开发人员遇到所在的开发人员 - 提供简化复杂性和支持[…]的工具，服务和功能。</description>
-      <pubDate>Thu, 27 Mar 2025 19:42:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【If one program blocks shutdown, then all programs block shutdown, revisited】如果一个程序阻止关闭，则所有程序都会被重新访问</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250331-00/?p=111026</link>
-      <description>【No take-backs.】没有回扣。</description>
-      <pubDate>Mon, 31 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (March 2025)】Azure SDK发布（2025年3月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2025</link>
-      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
-      <pubDate>Thu, 27 Mar 2025 17:00:03 +0000</pubDate>
+      <title>【View and manage git tags】查看和管理git标签</title>
+      <link>https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags</link>
+      <description>【Are you tired of switching between your IDE and command-line tools to manage Git tags? We’ve got the perfect solution for you! With the latest update, Visual Studio empowers you to seamlessly view and manage Git tags directly within the Git Repository window. This streamlined workflow ensures you remain within the familiar environment of the [&amp;hellip;]】您是否厌倦了在IDE和命令行工具之间切换以管理GIT标签？我们为您提供了完美的解决方案！通过最新更新，Visual Studio使您能够直接在GIT存储库窗口中无缝查看和管理GIT标签。这个简化的工作流程确保您保持在[…]的熟悉环境中</description>
+      <pubDate>Mon, 31 Mar 2025 15:10:25 +0000</pubDate>
     </item>
     <item>
       <title>【Improve the security of Generation 2 VMs via Trusted Launch in Azure DevTest Labs】通过Azure DevTest Labs中的可信赖发布来提高2代VMS的安全性</title>
@@ -40,28 +16,52 @@
       <pubDate>Mon, 31 Mar 2025 15:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Fixing exception safety in our task_sequencer】修复我们的任务_序列中的异常安全</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250328-00/?p=111016</link>
-      <description>【Exception safety, the forgotten requirement.】例外安全，被遗忘的要求。</description>
-      <pubDate>Fri, 28 Mar 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Getting Started with Claude 3.7 Sonnet on Azure Databricks】在Azure Databricks上使用Claude 3.7十四行诗开始</title>
+      <title>【Getting Started with Claude models on Azure Databricks】Azure Databricks上的Claude模型入门</title>
       <link>https://devblogs.microsoft.com/all-things-azure/getting-started-with-claude-3-7-sonnet-on-azure-databricks</link>
       <description>【Introduction Following up on the exciting announcement about Anthropic&amp;#8217;s state-of-the-art models becoming available to Azure Databricks customers, this post provides a detailed, step-by-step guide on how you can start using Claude 3.7 Sonnet model directly within your Azure Databricks environment using Model Serving. We&amp;#8217;ll walk through deploying the necessary Azure Databricks workspace, finding the Claude [&amp;hellip;]】介绍，介绍了关于Anthropic的最先进模型的令人兴奋的公告，该帖子提供了有关如何在Azure Databricks环境中直接使用Claude 3.7 SONNET模型开始使用模型服务的详细的，分步的指南。我们将逐步部署必要的Azure Databricks工作区，找到Claude […]</description>
       <pubDate>Tue, 01 Apr 2025 02:33:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Building a Model Context Protocol Server with Semantic Kernel】使用语义内核构建模型上下文协议服务器</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel</link>
-      <description>【This is second MCP related blog post that is part of a series of blog posts that will cover how to use Semantic Kernel (SK) with the Model Context Protocol (MCP). This blog post demonstrates how to build an MCP server using MCP C# SDK and SK, expose SK plugins as MCP tools and call [&amp;hellip;]】这是第二个与MCP相关的博客文章，它是一系列博客文章的一部分，该文章将涵盖如何使用模型上下文协议（MCP）使用语义内核（SK）。这篇博客文章演示了如何使用MCP C＃SDK构建MCP服务器，并将SK插件作为MCP工具公开并致电[…]</description>
-      <pubDate>Fri, 28 Mar 2025 13:32:16 +0000</pubDate>
+      <title>【Modernizing push notification API for Teams】为团队现代化推送通知API</title>
+      <link>https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams</link>
+      <description>【Push Notification Hub is an essential internal service that plays a crucial role in the messaging and calling flows within Teams and other platforms. This article describes its recent overhaul, which has significantly enhanced its performance and reduced latencies in delivering push notifications to user devices】Push Notification Hub是必不可少的内部服务，在团队和其他平台内的消息传递中起着至关重要的作用。本文描述了其最近的大修，该大修大大提高了其性能，并减少了向用户设备发出推送通知的潜伏期</description>
+      <pubDate>Tue, 01 Apr 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【View and manage git tags】查看和管理git标签</title>
-      <link>https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags</link>
-      <description>【Are you tired of switching between your IDE and command-line tools to manage Git tags? We’ve got the perfect solution for you! With the latest update, Visual Studio empowers you to seamlessly view and manage Git tags directly within the Git Repository window. This streamlined workflow ensures you remain within the familiar environment of the [&amp;hellip;]】您是否厌倦了在IDE和命令行工具之间切换以管理GIT标签？我们为您提供了完美的解决方案！通过最新更新，Visual Studio使您能够直接在GIT存储库窗口中无缝查看和管理GIT标签。这个简化的工作流程确保您保持在[…]的熟悉环境中</description>
-      <pubDate>Mon, 31 Mar 2025 15:10:25 +0000</pubDate>
+      <title>【Microsoft Graph APIs for permanent deletion of mailbox items now available】Microsoft Graph API，用于永久删除邮箱项目现已可用</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-permanent-deletion-of-mailbox-items-now-available</link>
+      <description>【We’re happy to announce the general availability (GA) of the permanent delete APIs for contacts, messages, and events as well as for contact folders, mail folders, and calendars.】我们很高兴宣布永久删除API的一般可用性（GA），用于联系人，消息和事件以及联系文件夹，邮件文件夹和日历。</description>
+      <pubDate>Tue, 01 Apr 2025 16:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.24.2-1 and 1.23.8-1 Microsoft builds now available】GO 1.24.2-1和1.23.8-1 Microsoft现在可用</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-2-1-and-1-23-8-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download.】现在可以下载Microsoft Go Build的新版本。</description>
+      <pubDate>Tue, 01 Apr 2025 23:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Important Update: Server Name Indication (SNI) Now Mandatory for Azure DevOps Services】重要更新：Azure DevOps服务的服务器名称指示（SNI）</title>
+      <link>https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services</link>
+      <description>【Earlier this year, we announced an upgrade to our network infrastructure and the new IP addresses you need to allow list in your firewall &amp;#8211; Update to Azure DevOps Allowed IP addresses &amp;#8211; Azure DevOps Blog. This is our second blog post to inform you that starting from April 23rd, 2025, we will be requiring [&amp;hellip;]】今年早些时候，我们宣布了对网络基础架构的升级以及您需要在防火墙中允许列表的新IP地址 - 更新到Azure DevOps允许的IP地址 -  Azure DevOps Blog。这是我们的第二篇博客文章，通知您，从2025年4月23日开始，我们将需要[…]</description>
+      <pubDate>Tue, 01 Apr 2025 19:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exact Nearest Neighbor (ENN) Vector Search for Precise Retrieval】确切的最近邻居（ENN）矢量搜索精确检索</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/exact-nearest-neighbor-enn-vector-search</link>
+      <description>【In applications such as personalized recommendations and scientific research, accurately identifying the closest data points to a given query is crucial. Traditional methods like Approximate Nearest Neighbor (ANN) search offer faster retrieval times by approximating results but may sacrifice accuracy, leading to potential errors in scenarios where precision is essential. This trade-off between speed and [&amp;hellip;]】在诸如个性化建议和科学研究之类的应用中，准确地确定最接近给定查询的数据点至关重要。传统方法（例如近似最近的邻居（ANN）搜索）通过近似结果可提供更快的检索时间，但可能会牺牲准确性，从而在精度至关重要的情况下导致潜在的错误。速度和[…]之间的这种权衡</description>
+      <pubDate>Tue, 01 Apr 2025 12:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The return of Building 7】建筑物7的回归</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250401-00/?p=111033</link>
+      <description>【Pranksters lose one of their longtime inside jokes.】恶作剧者失去了他们的长期笑话。</description>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building AI Applications with Memory: Mem0 and Azure AI Integration】使用内存构建AI应用：MEM0和Azure AI集成</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-ai-mem0-integration</link>
+      <description>【Learn how to integrate Mem0 with Azure AI Search and Azure OpenAI to create AI applications with persistent memory capabilities across conversations.】了解如何将MEM0与Azure AI搜索和Azure OpenAI集成，以创建具有持续的内存功能的AI应用程序。</description>
+      <pubDate>Tue, 01 Apr 2025 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
