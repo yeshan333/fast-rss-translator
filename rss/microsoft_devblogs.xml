@@ -4,28 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【View and manage git tags】查看和管理git标签</title>
-      <link>https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags</link>
-      <description>【Are you tired of switching between your IDE and command-line tools to manage Git tags? We’ve got the perfect solution for you! With the latest update, Visual Studio empowers you to seamlessly view and manage Git tags directly within the Git Repository window. This streamlined workflow ensures you remain within the familiar environment of the [&amp;hellip;]】您是否厌倦了在IDE和命令行工具之间切换以管理GIT标签？我们为您提供了完美的解决方案！通过最新更新，Visual Studio使您能够直接在GIT存储库窗口中无缝查看和管理GIT标签。这个简化的工作流程确保您保持在[…]的熟悉环境中</description>
-      <pubDate>Mon, 31 Mar 2025 15:10:25 +0000</pubDate>
+      <title>【TFVC Policies Storage Updates】TFVC策略存储更新</title>
+      <link>https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates</link>
+      <description>【TFVC Check-In Policies TFVC projects can have check-in policies such as Build (Require last build was successful), Work Item (Require associated work item), Changeset comments policy (Require users to add comment to their check-in), etc. We are changing the way we store these policies on the server. This change will slightly affect TFVC users since [&amp;hellip;]】TFVC签到策略TFVC项目可以具有登机手续策略，例如构建（需要最后的构建成功），工作项目（需要关联的工作项目），更改列表策略（要求用户在其签到中添加注释）等。我们正在更改将这些策略存储在服务器上的方式。由于[…]，此更改将略微影响TFVC用户</description>
+      <pubDate>Wed, 02 Apr 2025 21:02:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Improve the security of Generation 2 VMs via Trusted Launch in Azure DevTest Labs】通过Azure DevTest Labs中的可信赖发布来提高2代VMS的安全性</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/improve-the-security-of-generation-2-vms-via-trusted-launch-in-azure-devtest-labs</link>
-      <description>【We&amp;#8217;re thrilled to announce the public preview of the Trusted Launch feature for Generation 2 (Gen2) Virtual machines (VMs) in Azure DevTest Labs! 🌟 This game-changing feature is designed to enhance security of virtual machines (VMs), protecting against advanced and persistent attack techniques. Here are the key benefits: Securely deploy VMs with verified boot loaders, OS kernels, [&amp;hellip;]】我们很高兴宣布Azure DevTest Labs中的2（Gen2）虚拟机（VMS）的可信赖发射功能的公开预览！ 🌟这种改变游戏的功能旨在增强虚拟机（VM）的安全性，以防止先进和持久的攻击技术。这是关键好处：使用经过验证的引导加载器，OS内核安全地部署VM，[…]</description>
-      <pubDate>Mon, 31 Mar 2025 15:00:56 +0000</pubDate>
+      <title>【The return of Building 7】建筑物7的回归</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250401-00/?p=111033</link>
+      <description>【Pranksters lose one of their longtime inside jokes.】恶作剧者失去了他们的长期笑话。</description>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Getting Started with Claude models on Azure Databricks】Azure Databricks上的Claude模型入门</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/getting-started-with-claude-3-7-sonnet-on-azure-databricks</link>
-      <description>【Introduction Following up on the exciting announcement about Anthropic&amp;#8217;s state-of-the-art models becoming available to Azure Databricks customers, this post provides a detailed, step-by-step guide on how you can start using Claude 3.7 Sonnet model directly within your Azure Databricks environment using Model Serving. We&amp;#8217;ll walk through deploying the necessary Azure Databricks workspace, finding the Claude [&amp;hellip;]】介绍，介绍了关于Anthropic的最先进模型的令人兴奋的公告，该帖子提供了有关如何在Azure Databricks环境中直接使用Claude 3.7 SONNET模型开始使用模型服务的详细的，分步的指南。我们将逐步部署必要的Azure Databricks工作区，找到Claude […]</description>
-      <pubDate>Tue, 01 Apr 2025 02:33:19 +0000</pubDate>
+      <title>【Adding delays to our task sequencer, part 1】将延迟添加到我们的任务序列器，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250402-00/?p=111040</link>
+      <description>【Not so fast there.】那里不是那么快。</description>
+      <pubDate>Wed, 02 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Modernizing push notification API for Teams】为团队现代化推送通知API</title>
-      <link>https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams</link>
-      <description>【Push Notification Hub is an essential internal service that plays a crucial role in the messaging and calling flows within Teams and other platforms. This article describes its recent overhaul, which has significantly enhanced its performance and reduced latencies in delivering push notifications to user devices】Push Notification Hub是必不可少的内部服务，在团队和其他平台内的消息传递中起着至关重要的作用。本文描述了其最近的大修，该大修大大提高了其性能，并减少了向用户设备发出推送通知的潜伏期</description>
-      <pubDate>Tue, 01 Apr 2025 17:00:00 +0000</pubDate>
+      <title>【Exact Nearest Neighbor (ENN) Vector Search for Precise Retrieval】确切的最近邻居（ENN）矢量搜索精确检索</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/exact-nearest-neighbor-enn-vector-search</link>
+      <description>【In applications such as personalized recommendations and scientific research, accurately identifying the closest data points to a given query is crucial. Traditional methods like Approximate Nearest Neighbor (ANN) search offer faster retrieval times by approximating results but may sacrifice accuracy, leading to potential errors in scenarios where precision is essential. This trade-off between speed and [&amp;hellip;]】在诸如个性化建议和科学研究之类的应用中，准确地确定最接近给定查询的数据点至关重要。传统方法（例如近似最近的邻居（ANN）搜索）通过近似结果可提供更快的检索时间，但可能会牺牲准确性，从而在精度至关重要的情况下导致潜在的错误。速度和[…]之间的这种权衡</description>
+      <pubDate>Tue, 01 Apr 2025 12:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft partners with Anthropic to create official C# SDK for Model Context Protocol】Microsoft与人类合作伙伴，为模型上下文协议创建官方C＃SDK</title>
+      <link>https://devblogs.microsoft.com//microsoft-partners-with-anthropic-to-create-official-c-sdk-for-model-context-protocol</link>
+      <description>【Microsoft is collaborating with Anthropic to create an official C# SDK for the Model Context Protocol (MCP). MCP has seen rapid adoption in the AI community, and this partnership aims to enhance the integration of AI models into C# applications. The SDK is being developed as an open-source project in the modelcontextprotocol GitHub organization, making [&amp;hellip;]】Microsoft正在与Anthropic合作，为模型上下文协议（MCP）创建官方的C＃SDK。 MCP已在AI社区中迅速采用，该合作伙伴关系旨在将AI模型集成到C＃应用程序中。 SDK正在作为ModelContextProtocol Github组织中的开源项目开发，使[…]</description>
+      <pubDate>Wed, 02 Apr 2025 17:00:09 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft Graph APIs for permanent deletion of mailbox items now available】Microsoft Graph API，用于永久删除邮箱项目现已可用</title>
@@ -46,22 +52,16 @@
       <pubDate>Tue, 01 Apr 2025 19:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Exact Nearest Neighbor (ENN) Vector Search for Precise Retrieval】确切的最近邻居（ENN）矢量搜索精确检索</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/exact-nearest-neighbor-enn-vector-search</link>
-      <description>【In applications such as personalized recommendations and scientific research, accurately identifying the closest data points to a given query is crucial. Traditional methods like Approximate Nearest Neighbor (ANN) search offer faster retrieval times by approximating results but may sacrifice accuracy, leading to potential errors in scenarios where precision is essential. This trade-off between speed and [&amp;hellip;]】在诸如个性化建议和科学研究之类的应用中，准确地确定最接近给定查询的数据点至关重要。传统方法（例如近似最近的邻居（ANN）搜索）通过近似结果可提供更快的检索时间，但可能会牺牲准确性，从而在精度至关重要的情况下导致潜在的错误。速度和[…]之间的这种权衡</description>
-      <pubDate>Tue, 01 Apr 2025 12:00:09 +0000</pubDate>
+      <title>【Announcing Windows Community Toolkit v8.2】宣布Windows社区工具包V8.2</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-windows-community-toolkit-v8-2</link>
+      <description>【Announcing Windows Community Toolkit v8.2 We&amp;#8217;re happy to announce that version 8.2 is available today! It&amp;#8217;s an incremental update which contains a variety of improvements, made possible again with the support and contributions of our developer community. 🎉 If you&amp;#8217;re not familiar with the Windows Community Toolkit, see below here! Or download our Sample Gallery [&amp;hellip;]】宣布Windows Community Toolkit v8.2我们很高兴地宣布，今天可以使用8.2版！这是一个增量更新，其中包含各种改进，在我们的开发人员社区的支持和贡献中再次成为可能。 🎉如果您不熟悉Windows社区工具包，请参见下面！或下载我们的样本库[…]</description>
+      <pubDate>Wed, 02 Apr 2025 21:45:07 +0000</pubDate>
     </item>
     <item>
-      <title>【The return of Building 7】建筑物7的回归</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250401-00/?p=111033</link>
-      <description>【Pranksters lose one of their longtime inside jokes.】恶作剧者失去了他们的长期笑话。</description>
-      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building AI Applications with Memory: Mem0 and Azure AI Integration】使用内存构建AI应用：MEM0和Azure AI集成</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-ai-mem0-integration</link>
-      <description>【Learn how to integrate Mem0 with Azure AI Search and Azure OpenAI to create AI applications with persistent memory capabilities across conversations.】了解如何将MEM0与Azure AI搜索和Azure OpenAI集成，以创建具有持续的内存功能的AI应用程序。</description>
-      <pubDate>Tue, 01 Apr 2025 08:30:00 +0000</pubDate>
+      <title>【Modernizing push notification API for Teams】为团队现代化推送通知API</title>
+      <link>https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams</link>
+      <description>【Push Notification Hub is an essential internal service that plays a crucial role in the messaging and calling flows within Teams and other platforms. This article describes its recent overhaul, which has significantly enhanced its performance and reduced latencies in delivering push notifications to user devices】Push Notification Hub是必不可少的内部服务，在团队和其他平台内的消息传递中起着至关重要的作用。本文描述了其最近的大修，该大修大大提高了其性能，并减少了向用户设备发出推送通知的潜伏期</description>
+      <pubDate>Tue, 01 Apr 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
