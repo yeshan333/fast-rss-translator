@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【TFVC Policies Storage Updates】TFVC策略存储更新</title>
-      <link>https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates</link>
-      <description>【TFVC Check-In Policies TFVC projects can have check-in policies such as Build (Require last build was successful), Work Item (Require associated work item), Changeset comments policy (Require users to add comment to their check-in), etc. We are changing the way we store these policies on the server. This change will slightly affect TFVC users since [&amp;hellip;]】TFVC签到策略TFVC项目可以具有登机手续策略，例如构建（需要最后的构建成功），工作项目（需要关联的工作项目），更改列表策略（要求用户在其签到中添加注释）等。我们正在更改将这些策略存储在服务器上的方式。由于[…]，此更改将略微影响TFVC用户</description>
-      <pubDate>Wed, 02 Apr 2025 21:02:11 +0000</pubDate>
+      <title>【Using OpenAI’s Audio-Preview Model with Semantic Kernel】使用OpenAI的音频浏览模型与语义内核</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/using-openais-audio-preview-model-with-semantic-kernel</link>
+      <description>【OpenAI&amp;#8217;s gpt-4o-audio-preview is a powerful multimodal model that enables audio input and output capabilities, allowing developers to create more natural and accessible AI interactions. This model supports both speech-to-text and text-to-speech functionalities in a single API call through the Chat Completions API, making it suitable for building voice-enabled applications where turn-based interactions are appropriate. In this [&amp;hellip;]】OpenAI的GPT-4O-Audio-Preview是一个强大的多模式模型，可实现音频输入和输出功能，使开发人员能够创建更自然且易于访问的AI交互。该模型通过聊天完成API支持单个API呼叫中的语音到文本和文本到语音功能，使其适用于构建基于转弯的交互的语音应用程序。在这个[…]</description>
+      <pubDate>Thu, 03 Apr 2025 16:31:56 +0000</pubDate>
     </item>
     <item>
-      <title>【The return of Building 7】建筑物7的回归</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250401-00/?p=111033</link>
-      <description>【Pranksters lose one of their longtime inside jokes.】恶作剧者失去了他们的长期笑话。</description>
-      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Your Pluralsight Benefit Just Got Better】您的多元化福利变得更好</title>
+      <link>https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025</link>
+      <description>【&amp;nbsp; As I talk with Visual Studio developers about the learning and skilling benefits included in their subscription, one thing I hear often is: “I wish I had more time to actually use Pluralsight.” Starting today, I’m pleased to share that we’re doing something about that. We’ve extended access to Pluralsight for all Visual Studio [&amp;hellip;]】  当我与Visual Studio开发人员谈论他们订阅中所包含的学习和技能好处时，我经常听到的一件事是：“我希望我有更多的时间实际使用PluralSight。”从今天开始，我很高兴分享我们正在为此做些事情。我们扩展了所有Visual Studio的PluralSight访问权限[…]</description>
+      <pubDate>Thu, 03 Apr 2025 13:45:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Adding delays to our task sequencer, part 1】将延迟添加到我们的任务序列器，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250402-00/?p=111040</link>
-      <description>【Not so fast there.】那里不是那么快。</description>
-      <pubDate>Wed, 02 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Dev Proxy v0.26 with improved mocking, plugin validation, and Docker support】开发代理v0.26具有改进的模拟，插件验证和Docker支持</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-26-with-improved-mocking-plugin-validation-and-docker-support</link>
+      <description>【The latest version of Dev Proxy brings improved validation, plugin reliability, a brand-new Docker image and more.】Dev Proxy的最新版本带来了改进的验证，插件可靠性，全新的Docker图像等。</description>
+      <pubDate>Thu, 03 Apr 2025 07:07:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Exact Nearest Neighbor (ENN) Vector Search for Precise Retrieval】确切的最近邻居（ENN）矢量搜索精确检索</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/exact-nearest-neighbor-enn-vector-search</link>
-      <description>【In applications such as personalized recommendations and scientific research, accurately identifying the closest data points to a given query is crucial. Traditional methods like Approximate Nearest Neighbor (ANN) search offer faster retrieval times by approximating results but may sacrifice accuracy, leading to potential errors in scenarios where precision is essential. This trade-off between speed and [&amp;hellip;]】在诸如个性化建议和科学研究之类的应用中，准确地确定最接近给定查询的数据点至关重要。传统方法（例如近似最近的邻居（ANN）搜索）通过近似结果可提供更快的检索时间，但可能会牺牲准确性，从而在精度至关重要的情况下导致潜在的错误。速度和[…]之间的这种权衡</description>
-      <pubDate>Tue, 01 Apr 2025 12:00:09 +0000</pubDate>
+      <title>【Automatically generate any doc comment for C++ functions in Visual Studio】自动在Visual Studio中为C ++功能生成任何DOC评论</title>
+      <link>https://devblogs.microsoft.com/cppblog/automatically-generate-any-doc-comment-for-c-functions-in-visual-studio</link>
+      <description>【Have a difficult time documenting your C++ code? Spending too much time thinking of what a function and its parameters accomplish when generating documentation? Copilot is now integrated into C++ doc comments to automatically provide documentation suggestions based on the function’s contents in Visual Studio 2022 17.14 Preview 2. To learn more about this feature, [&amp;hellip;]】很难记录您的C ++代码吗？花费太多时间来思考生成文档时的功能及其参数完成的工作？现在将Copilot集成到C ++文档注释中，以根据Visual Studio 2022 17.14 Preview 2中的功能内容自动提供文档建议。要了解有关此功能的更多信息，[…]</description>
+      <pubDate>Thu, 03 Apr 2025 15:55:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft partners with Anthropic to create official C# SDK for Model Context Protocol】Microsoft与人类合作伙伴，为模型上下文协议创建官方C＃SDK</title>
-      <link>https://devblogs.microsoft.com//microsoft-partners-with-anthropic-to-create-official-c-sdk-for-model-context-protocol</link>
-      <description>【Microsoft is collaborating with Anthropic to create an official C# SDK for the Model Context Protocol (MCP). MCP has seen rapid adoption in the AI community, and this partnership aims to enhance the integration of AI models into C# applications. The SDK is being developed as an open-source project in the modelcontextprotocol GitHub organization, making [&amp;hellip;]】Microsoft正在与Anthropic合作，为模型上下文协议（MCP）创建官方的C＃SDK。 MCP已在AI社区中迅速采用，该合作伙伴关系旨在将AI模型集成到C＃应用程序中。 SDK正在作为ModelContextProtocol Github组织中的开源项目开发，使[…]</description>
-      <pubDate>Wed, 02 Apr 2025 17:00:09 +0000</pubDate>
+      <title>【Adding delays to our task sequencer, part 2】将延迟添加到我们的任务序列器，第2部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250403-00/?p=111043</link>
+      <description>【Waiting the right amount of time.】等待适当的时间。</description>
+      <pubDate>Thu, 03 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Graph APIs for permanent deletion of mailbox items now available】Microsoft Graph API，用于永久删除邮箱项目现已可用</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-permanent-deletion-of-mailbox-items-now-available</link>
-      <description>【We’re happy to announce the general availability (GA) of the permanent delete APIs for contacts, messages, and events as well as for contact folders, mail folders, and calendars.】我们很高兴宣布永久删除API的一般可用性（GA），用于联系人，消息和事件以及联系文件夹，邮件文件夹和日历。</description>
-      <pubDate>Tue, 01 Apr 2025 16:04:02 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Data access management】Microsoft 365认证控制聚光灯：数据访问管理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-access-management</link>
+      <description>【Read how Microsoft 365 Certification ensures data access management best practices for Microsoft 365 apps, add-ins, and Copilot agents.】阅读Microsoft 365认证如何确保数据访问管理Microsoft 365应用程序，加载项和副代理的最佳实践。</description>
+      <pubDate>Thu, 03 Apr 2025 14:45:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.24.2-1 and 1.23.8-1 Microsoft builds now available】GO 1.24.2-1和1.23.8-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-2-1-and-1-23-8-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download.】现在可以下载Microsoft Go Build的新版本。</description>
-      <pubDate>Tue, 01 Apr 2025 23:19:56 +0000</pubDate>
+      <title>【CDN Domain URL change for Agents in Pipelines】CDN域URL在管道中的代理变化</title>
+      <link>https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines</link>
+      <description>【Introduction We have announced the retirement of Edgio CDN for Azure DevOps and are transitioning to a solution served by Akamai and Azure Front Door CDNs. This change affects Azure DevOps Pipelines customers. This article provides guidance for the Azure DevOps Pipelines customers to check if they are impacted by this change in CDN and [&amp;hellip;]】简介我们已经宣布将Edgio CDN退休，用于Azure Devops，并已过渡到Akamai和Azure前门CDN提供的解决方案。这种变化会影响Azure Devops管道客户。本文为Azure Devops Pipelines客户提供了指导，以检查他们是否受到CDN和[…]的变化影响。</description>
+      <pubDate>Thu, 03 Apr 2025 11:05:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Important Update: Server Name Indication (SNI) Now Mandatory for Azure DevOps Services】重要更新：Azure DevOps服务的服务器名称指示（SNI）</title>
-      <link>https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services</link>
-      <description>【Earlier this year, we announced an upgrade to our network infrastructure and the new IP addresses you need to allow list in your firewall &amp;#8211; Update to Azure DevOps Allowed IP addresses &amp;#8211; Azure DevOps Blog. This is our second blog post to inform you that starting from April 23rd, 2025, we will be requiring [&amp;hellip;]】今年早些时候，我们宣布了对网络基础架构的升级以及您需要在防火墙中允许列表的新IP地址 - 更新到Azure DevOps允许的IP地址 -  Azure DevOps Blog。这是我们的第二篇博客文章，通知您，从2025年4月23日开始，我们将需要[…]</description>
-      <pubDate>Tue, 01 Apr 2025 19:04:32 +0000</pubDate>
+      <title>【Code the Future with Java and AI – Join Me at JDConf 2025】用Java和AI代码 - 加入我的JDConf 2025</title>
+      <link>https://devblogs.microsoft.com//code-the-future-with-java-and-ai-join-me-at-jdconf-2025</link>
+      <description>【Wednesday, April 9, 2025 – 8:30 AM PDT 👉 RSVP now: jdconf.com  JDConf 2025 is just around the corner, and whether you’re a Java developer, architect, team leader, or decision maker I hope you’ll join me as we explore how Java is evolving with the power of AI and how you can start building the [&amp;hellip;]】2025年4月9日，星期三，pdt pdt👉rsvp现在：jdconf.com JDCONF 2025即将临近，无论您是Java开发人员，建筑师，团队负责人还是决策者，我希望您能在我们探索Java如何随着AI的能力以及您如何构建AI构建的能力时​​加入我的行列，</description>
+      <pubDate>Thu, 03 Apr 2025 20:13:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Windows Community Toolkit v8.2】宣布Windows社区工具包V8.2</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-windows-community-toolkit-v8-2</link>
-      <description>【Announcing Windows Community Toolkit v8.2 We&amp;#8217;re happy to announce that version 8.2 is available today! It&amp;#8217;s an incremental update which contains a variety of improvements, made possible again with the support and contributions of our developer community. 🎉 If you&amp;#8217;re not familiar with the Windows Community Toolkit, see below here! Or download our Sample Gallery [&amp;hellip;]】宣布Windows Community Toolkit v8.2我们很高兴地宣布，今天可以使用8.2版！这是一个增量更新，其中包含各种改进，在我们的开发人员社区的支持和贡献中再次成为可能。 🎉如果您不熟悉Windows社区工具包，请参见下面！或下载我们的样本库[…]</description>
-      <pubDate>Wed, 02 Apr 2025 21:45:07 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) – April 2025】Azure开发人员CLI（AZD） -  2025年4月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2025</link>
+      <description>【This post announces the April release of the Azure Developer CLI (`azd`).】这篇文章宣布了Azure开发商CLI（AZD&#39;）的四月发布。</description>
+      <pubDate>Thu, 03 Apr 2025 18:38:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Modernizing push notification API for Teams】为团队现代化推送通知API</title>
-      <link>https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams</link>
-      <description>【Push Notification Hub is an essential internal service that plays a crucial role in the messaging and calling flows within Teams and other platforms. This article describes its recent overhaul, which has significantly enhanced its performance and reduced latencies in delivering push notifications to user devices】Push Notification Hub是必不可少的内部服务，在团队和其他平台内的消息传递中起着至关重要的作用。本文描述了其最近的大修，该大修大大提高了其性能，并减少了向用户设备发出推送通知的潜伏期</description>
-      <pubDate>Tue, 01 Apr 2025 17:00:00 +0000</pubDate>
+      <title>【Hola, Spain Central! Microsoft Dev Box Expands in Europe】霍拉，西班牙中央！ Microsoft Dev Box在欧洲扩展</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/hola-spain-central-microsoft-dev-box-expands-in-europe</link>
+      <description>【You asked, we built it. We’re thrilled to announce that Spain Central is now a supported region for Microsoft Dev Box! 🎉 That’s right — starting today, you can spin up Dev Boxes in Spain Central and get all the benefits of fast, secure, ready-to-code workstations, now closer to your European teams and data. To [&amp;hellip;]】您问，我们建造了它。我们很高兴地宣布，西班牙中央现在是Microsoft Dev Box的支持区域！ 🎉没错 - 从今天开始，您可以在西班牙中心旋转开发箱，并获得快速，安全，即时准备的工作站的所有好处，现在更靠近您的欧洲团队和数据。到 […]</description>
+      <pubDate>Thu, 03 Apr 2025 17:45:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

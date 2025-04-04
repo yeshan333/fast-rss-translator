@@ -4,40 +4,16 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Project Jengo for Sable — final winners!】Sable项目Jengo  - 最终获胜者！</title>
-      <link>https://blog.cloudflare.com/project-jengo-for-sable-final-winners/</link>
-      <description>【 With Cloudflare’s victory against patent trolls Sable IP and Sable Networks in the books, it’s time to close out the case’s Project Jengo competition. 】随着Cloudflare在书籍中击败专利巨魔IP和黑貂网络的胜利，是时候结束案件的Jengo竞赛了。</description>
-      <pubDate>Wed, 26 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH】开源OpenPubkey SSH（OPKSSH）：将单个登录与SSH集成</title>
       <link>https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/</link>
       <description>【 OPKSSH (OpenPubkey SSH) is now open-sourced as part of the OpenPubkey project. 】Opkssh（OpenPubkey SSH）现在是开源的，作为OpenPubkey项目的一部分。</description>
       <pubDate>Tue, 25 Mar 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare incident on March 21, 2025】2025年3月21日的CloudFlare事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-incident-march-21-2025/</link>
-      <description>【 On March 21, 2025, multiple Cloudflare services, including R2 object storage experienced an elevated rate of error responses. Here’s what caused the incident, the impact, and how we are making sure it 】2025年3月21日，包括R2对象存储在内的多个CloudFlare服务的错误响应速度升高。这是导致事件，影响以及我们如何确保事件的原因</description>
-      <pubDate>Tue, 25 Mar 2025 01:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Security Week 2025: in review】安全周2025：审查</title>
-      <link>https://blog.cloudflare.com/security-week-2025-wrap-up/</link>
-      <description>【 Security Week 2025 has officially come to a close. Our updates for the week included a deep dive on our AI offering, a unified navigation experience, and an introduction to our AI Agent Cloudy. 】安全周2025已正式结束。我们本周的更新包括深入研究我们的AI产品，统一的导航体验以及对AI Agent Cloudy的介绍。</description>
-      <pubDate>Mon, 24 Mar 2025 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Detecting sensitive data and misconfigurations in AWS and GCP with Cloudflare One】检测AWS和GCP中的敏感数据和错误配置</title>
-      <link>https://blog.cloudflare.com/scan-cloud-dlp-with-casb/</link>
-      <description>【 Using Cloudflare’s CASB, integrate, scan, and detect sensitive data and misconfigurations in your cloud storage accounts. 】使用Cloudflare的CASB，在您的云存储帐户中集成，扫描和检测敏感数据和错误配置。</description>
-      <pubDate>Fri, 21 Mar 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【“You get Instant Purge, and you get Instant Purge!” — all purge methods now available to all customers】“您会立即清除，然后即时清除！” - 所有客户现在都可以使用所有清除方法</title>
-      <link>https://blog.cloudflare.com/instant-purge-for-all/</link>
-      <description>【 Following up on having the fastest purge in the industry, we have now increased Instant Purge quotas across all Cloudflare plans.  】跟进行业中最快的清除，我们现在已经增加了所有Cloudflare计划的即时清除配额。 </description>
-      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Project Jengo for Sable — final winners!】Sable项目Jengo  - 最终获胜者！</title>
+      <link>https://blog.cloudflare.com/project-jengo-for-sable-final-winners/</link>
+      <description>【 With Cloudflare’s victory against patent trolls Sable IP and Sable Networks in the books, it’s time to close out the case’s Project Jengo competition. 】随着Cloudflare在书籍中击败专利巨魔IP和黑貂网络的胜利，是时候结束案件的Jengo竞赛了。</description>
+      <pubDate>Wed, 26 Mar 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare】构建和部署远程模型上下文协议（MCP）服务器到CloudFlare</title>
@@ -46,22 +22,46 @@
       <pubDate>Tue, 25 Mar 2025 13:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>【RDP without the risk: Cloudflare&#39;s browser-based solution for secure third-party access】没有风险的RDP：CloudFlare的基于浏览器的解决方案，用于安全的第三方访问</title>
-      <link>https://blog.cloudflare.com/browser-based-rdp/</link>
-      <description>【 Cloudflare now provides clientless, browser-based support for the Remote Desktop Protocol (RDP). It enables secure, remote Windows server access without VPNs or RDP clients. 】CloudFlare现在为远程桌面协议（RDP）提供了无客户端，基于浏览器的支持。它可以在没有VPN或RDP客户端的情况下启用安全的远程Windows Server访问。</description>
-      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Improve your media pipelines with the Images binding for Cloudflare Workers】通过对Cloudflare工人的绑定来改善媒体管道</title>
+      <link>https://blog.cloudflare.com/improve-your-media-pipelines-with-the-images-binding-for-cloudflare-workers/</link>
+      <description>【 Media-rich applications require image and video pipelines that integrate seamlessly with the rest of your technology stack. Here’s how the Images binding enables you to build more flexible workflows. 】媒体丰富的应用程序需要图像和视频管道，以与您的其余技术堆栈无缝集成。这是图像绑定的方式使您能够构建更灵活的工作流程。</description>
+      <pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Three chapters at Cloudflare: Programmer to CTO to Board of Directors】CloudFlare的三章：编程人员到CTO董事会</title>
-      <link>https://blog.cloudflare.com/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/</link>
-      <description>【 Today, after more than 13 years at the company, I am joining Cloudflare’s board of directors and retiring from my full-time position as CTO.  】今天，在公司工作了13多年之后，我加入了Cloudflare的董事会，并从我作为CTO的全职职位退休。</description>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <title>【Security Week 2025: in review】安全周2025：审查</title>
+      <link>https://blog.cloudflare.com/security-week-2025-wrap-up/</link>
+      <description>【 Security Week 2025 has officially come to a close. Our updates for the week included a deep dive on our AI offering, a unified navigation experience, and an introduction to our AI Agent Cloudy. 】安全周2025已正式结束。我们本周的更新包括深入研究我们的AI产品，统一的导航体验以及对AI Agent Cloudy的介绍。</description>
+      <pubDate>Mon, 24 Mar 2025 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare incident on March 21, 2025】2025年3月21日的CloudFlare事件</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-march-21-2025/</link>
+      <description>【 On March 21, 2025, multiple Cloudflare services, including R2 object storage experienced an elevated rate of error responses. Here’s what caused the incident, the impact, and how we are making sure it 】2025年3月21日，包括R2对象存储在内的多个CloudFlare服务的错误响应速度升高。这是导致事件，影响以及我们如何确保事件的原因</description>
+      <pubDate>Tue, 25 Mar 2025 01:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A steam locomotive from 1993 broke my yarn test】1993年以来的蒸汽机车打破了我的纱线测试</title>
+      <link>https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/</link>
+      <description>【 Yarn tests fail consistently at the 27-second mark. The usual suspects are swiftly eliminated. A deep dive is taken to comb through traces, only to be derailed into an unexpected crash investigation. 】纱线测试以27秒的成绩持续失败。通常的嫌疑人被迅速消除。深入潜水是为了梳理痕迹，只是脱轨到意外的崩溃调查中。</description>
+      <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers】新的urlpattern API为Node.js和Cloudflare工人带来了改进的图案匹配</title>
       <link>https://blog.cloudflare.com/improving-web-standards-urlpattern/</link>
       <description>【 Today we&#39;re announcing our latest contribution to Node.js, now available in v23.8.0: URLPattern.  】今天，我们宣布对Node.js的最新贡献，现在在v23.8.0中提供：urlpattern。</description>
       <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【“You get Instant Purge, and you get Instant Purge!” — all purge methods now available to all customers】“您会立即清除，然后即时清除！” - 所有客户现在都可以使用所有清除方法</title>
+      <link>https://blog.cloudflare.com/instant-purge-for-all/</link>
+      <description>【 Following up on having the fastest purge in the industry, we have now increased Instant Purge quotas across all Cloudflare plans.  】跟进行业中最快的清除，我们现在已经增加了所有Cloudflare计划的即时清除配额。 </description>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Three chapters at Cloudflare: Programmer to CTO to Board of Directors】CloudFlare的三章：编程人员到CTO董事会</title>
+      <link>https://blog.cloudflare.com/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/</link>
+      <description>【 Today, after more than 13 years at the company, I am joining Cloudflare’s board of directors and retiring from my full-time position as CTO.  】今天，在公司工作了13多年之后，我加入了Cloudflare的董事会，并从我作为CTO的全职职位退休。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
