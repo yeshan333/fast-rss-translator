@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Using OpenAI’s Audio-Preview Model with Semantic Kernel】使用OpenAI的音频浏览模型与语义内核</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/using-openais-audio-preview-model-with-semantic-kernel</link>
-      <description>【OpenAI&amp;#8217;s gpt-4o-audio-preview is a powerful multimodal model that enables audio input and output capabilities, allowing developers to create more natural and accessible AI interactions. This model supports both speech-to-text and text-to-speech functionalities in a single API call through the Chat Completions API, making it suitable for building voice-enabled applications where turn-based interactions are appropriate. In this [&amp;hellip;]】OpenAI的GPT-4O-Audio-Preview是一个强大的多模式模型，可实现音频输入和输出功能，使开发人员能够创建更自然且易于访问的AI交互。该模型通过聊天完成API支持单个API呼叫中的语音到文本和文本到语音功能，使其适用于构建基于转弯的交互的语音应用程序。在这个[…]</description>
-      <pubDate>Thu, 03 Apr 2025 16:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Your Pluralsight Benefit Just Got Better】您的多元化福利变得更好</title>
-      <link>https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025</link>
-      <description>【&amp;nbsp; As I talk with Visual Studio developers about the learning and skilling benefits included in their subscription, one thing I hear often is: “I wish I had more time to actually use Pluralsight.” Starting today, I’m pleased to share that we’re doing something about that. We’ve extended access to Pluralsight for all Visual Studio [&amp;hellip;]】  当我与Visual Studio开发人员谈论他们订阅中所包含的学习和技能好处时，我经常听到的一件事是：“我希望我有更多的时间实际使用PluralSight。”从今天开始，我很高兴分享我们正在为此做些事情。我们扩展了所有Visual Studio的PluralSight访问权限[…]</description>
-      <pubDate>Thu, 03 Apr 2025 13:45:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v0.26 with improved mocking, plugin validation, and Docker support】开发代理v0.26具有改进的模拟，插件验证和Docker支持</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-26-with-improved-mocking-plugin-validation-and-docker-support</link>
-      <description>【The latest version of Dev Proxy brings improved validation, plugin reliability, a brand-new Docker image and more.】Dev Proxy的最新版本带来了改进的验证，插件可靠性，全新的Docker图像等。</description>
-      <pubDate>Thu, 03 Apr 2025 07:07:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automatically generate any doc comment for C++ functions in Visual Studio】自动在Visual Studio中为C ++功能生成任何DOC评论</title>
-      <link>https://devblogs.microsoft.com/cppblog/automatically-generate-any-doc-comment-for-c-functions-in-visual-studio</link>
-      <description>【Have a difficult time documenting your C++ code? Spending too much time thinking of what a function and its parameters accomplish when generating documentation? Copilot is now integrated into C++ doc comments to automatically provide documentation suggestions based on the function’s contents in Visual Studio 2022 17.14 Preview 2. To learn more about this feature, [&amp;hellip;]】很难记录您的C ++代码吗？花费太多时间来思考生成文档时的功能及其参数完成的工作？现在将Copilot集成到C ++文档注释中，以根据Visual Studio 2022 17.14 Preview 2中的功能内容自动提供文档建议。要了解有关此功能的更多信息，[…]</description>
-      <pubDate>Thu, 03 Apr 2025 15:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Adding delays to our task sequencer, part 2】将延迟添加到我们的任务序列器，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250403-00/?p=111043</link>
-      <description>【Waiting the right amount of time.】等待适当的时间。</description>
-      <pubDate>Thu, 03 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Data access management】Microsoft 365认证控制聚光灯：数据访问管理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-access-management</link>
-      <description>【Read how Microsoft 365 Certification ensures data access management best practices for Microsoft 365 apps, add-ins, and Copilot agents.】阅读Microsoft 365认证如何确保数据访问管理Microsoft 365应用程序，加载项和副代理的最佳实践。</description>
-      <pubDate>Thu, 03 Apr 2025 14:45:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【CDN Domain URL change for Agents in Pipelines】CDN域URL在管道中的代理变化</title>
-      <link>https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines</link>
-      <description>【Introduction We have announced the retirement of Edgio CDN for Azure DevOps and are transitioning to a solution served by Akamai and Azure Front Door CDNs. This change affects Azure DevOps Pipelines customers. This article provides guidance for the Azure DevOps Pipelines customers to check if they are impacted by this change in CDN and [&amp;hellip;]】简介我们已经宣布将Edgio CDN退休，用于Azure Devops，并已过渡到Akamai和Azure前门CDN提供的解决方案。这种变化会影响Azure Devops管道客户。本文为Azure Devops Pipelines客户提供了指导，以检查他们是否受到CDN和[…]的变化影响。</description>
-      <pubDate>Thu, 03 Apr 2025 11:05:07 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) – April 2025】Azure开发人员CLI（AZD） -  2025年4月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2025</link>
+      <description>【This post announces the April release of the Azure Developer CLI (`azd`).】这篇文章宣布了Azure开发商CLI（AZD&#39;）的四月发布。</description>
+      <pubDate>Thu, 03 Apr 2025 18:38:43 +0000</pubDate>
     </item>
     <item>
       <title>【Code the Future with Java and AI – Join Me at JDConf 2025】用Java和AI代码 - 加入我的JDConf 2025</title>
@@ -52,16 +16,52 @@
       <pubDate>Thu, 03 Apr 2025 20:13:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd) – April 2025】Azure开发人员CLI（AZD） -  2025年4月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2025</link>
-      <description>【This post announces the April release of the Azure Developer CLI (`azd`).】这篇文章宣布了Azure开发商CLI（AZD&#39;）的四月发布。</description>
-      <pubDate>Thu, 03 Apr 2025 18:38:43 +0000</pubDate>
+      <title>【Unlocking the Power of Agentic Applications: New Evaluation Metrics for Quality and Safety】解锁代理应用的力量：质量和安全的新评估指标</title>
+      <link>https://devblogs.microsoft.com/foundry/evaluation-metrics-azure-ai-foundry</link>
+      <description>【New evaluation metrics in Azure AI Foundry help developers assess the quality and safety of agentic applications. These metrics enhance AI red teaming capabilities, enabling automated risk and safety evaluations through streamlined campaigns and regular assessments.】Azure AI铸造中的新评估指标可帮助开发人员评估代理应用的质量和安全性。这些指标增强了AI红色团队功能，通过简化的活动和定期评估来实现自动化的风险和安全评估。</description>
+      <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Hola, Spain Central! Microsoft Dev Box Expands in Europe】霍拉，西班牙中央！ Microsoft Dev Box在欧洲扩展</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/hola-spain-central-microsoft-dev-box-expands-in-europe</link>
-      <description>【You asked, we built it. We’re thrilled to announce that Spain Central is now a supported region for Microsoft Dev Box! 🎉 That’s right — starting today, you can spin up Dev Boxes in Spain Central and get all the benefits of fast, secure, ready-to-code workstations, now closer to your European teams and data. To [&amp;hellip;]】您问，我们建造了它。我们很高兴地宣布，西班牙中央现在是Microsoft Dev Box的支持区域！ 🎉没错 - 从今天开始，您可以在西班牙中心旋转开发箱，并获得快速，安全，即时准备的工作站的所有好处，现在更靠近您的欧洲团队和数据。到 […]</description>
-      <pubDate>Thu, 03 Apr 2025 17:45:34 +0000</pubDate>
+      <title>【Introducing AI Red Teaming Agent: Accelerate Your Trustworthy AI Journey with Azure AI Foundry】介绍AI红色小组代理：与Azure AI Foundry一起加速您值得信赖的AI旅程</title>
+      <link>https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview</link>
+      <description>【AI Red Teaming Agent, integrated into Azure AI Foundry, enhances the safety and security of generative AI systems by providing automated scans, evaluating probing success, and generating detailed scorecards to guide risk management strategies.】AI Red Teaming Agent集成到Azure AI铸造厂，通过提供自动扫描，评估探测成功并产生详细的记分卡来指导风险管理策略，从而增强了生成AI系统的安全性。</description>
+      <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Adding delays to our task sequencer, part 3】将延迟添加到我们的任务序列程序，第3部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250404-00/?p=111046</link>
+      <description>【Waiting more cheaply.】更便宜地等待。</description>
+      <pubDate>Fri, 04 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure AI Foundry Extension for Visual Studio Code is Available in Preview】Visual Studio代码的Azure AI铸造扩展</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-vscode-extension-preview</link>
+      <description>【Learn how to use Azure AI Foundry capabilities directly in VS Code with the Azure AI Foundry extension for Visual Studio Code, now available in public preview. Deploy Large Language Models, develop AI applications, and configure agents seamlessly within your favorite VS Code setup.】了解如何使用Azure AI Foundry功能在VS代码中使用Azure AI Foundry扩展名，用于Visual Studio Code，现在可以在公共预览中获得。部署大型语言模型，开发AI应用程序，并在您喜欢的VS代码设置中无缝配置代理。</description>
+      <pubDate>Fri, 04 Apr 2025 09:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build AI agents with Python in #AgentsHack】在#AgentShack中使用Python构建AI代理</title>
+      <link>https://devblogs.microsoft.com/python/agentshack-python</link>
+      <description>【Microsoft is holding an AI Agents Hackathon, and we want to see what you can build with Python! We&#39;ll have 20+ live streams showing you how to build AI agents with Python using popular agent frameworks and Microsoft technologies. Then, you can submit your project for a chance to win prizes, including a Best in Python prize!】微软正在举办AI代理黑客马拉松，我们想看看您可以使用Python构建什么！我们将拥有20多个直播流，向您展示如何使用流行的代理框架和Microsoft Technologies使用Python构建AI代理。然后，您可以提交项目以获取奖品的机会，包括最好的Python奖！</description>
+      <pubDate>Sat, 05 Apr 2025 00:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code – April 2025 Release】Visual Studio代码中的Python  -  2025年4月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2025-release</link>
+      <description>【The April 2025 release of the Python and Jupyter extensions for Visual Studio Code is now available. This update introduces enhancements to the Copilot experience in Notebooks, improved support for editable installs, faster and more reliable diagnostics, and the addition of custom Node.js arguments with Pylance, and more!】2025年4月的Python和Jupyter Extensions发布了Visual Studio代码的扩展。此更新介绍了笔记本中的Copilot体验的增强功能，改进了对可编辑的安装的支持，更快，更可靠的诊断，以及添加具有Pylance的自定义Node.js参数，等等！</description>
+      <pubDate>Fri, 04 Apr 2025 17:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel Agents are now Generally Available】语义内核代理现在通常可用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agents-are-now-generally-available</link>
+      <description>【The time is finally here, Semantic Kernel’s Agent framework is now Generally Available! Available today as part of Semantic Kernel 1.45 (.NET) and 1.27 (Python), the Semantic Kernel Agent framework makes it easier for agents to coordinate and dramatically reduces the code developers need to write to build amazing AI applications. What does Generally Available [&amp;hellip;]】时间终于在这里，语义内核的代理框架现在通常可用！今天作为语义内核1.45（.net）和1.27（Python）的一部分可用，语义内核代理框架使代理更容易协调和大幅度减少代码开发人员所需写入的代码以构建惊人的AI应用程序。通常可用的是什么[…]</description>
+      <pubDate>Fri, 04 Apr 2025 16:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Boards Integration with GitHub Enterprise Cloud and Data Residency (Public Preview)】董事会与GitHub Enterprise Cloud和Data Residency集成（公共预览）</title>
+      <link>https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview</link>
+      <description>【Back in January, we launched a private preview of our Boards integration with GitHub Enterprise Cloud with data residency. If you&amp;#8217;re unfamiliar with GitHub&amp;#8217;s data residency option and what it means for your organization, you can learn more in the original announcement. Since the private preview launch, we’ve gathered valuable feedback from early adopters, and [&amp;hellip;]】早在一月份，我们与GitHub Enterprise Cloud一起启动了董事会的私人预览，并启动了数据驻留。如果您不熟悉GitHub的数据居留权选项以及对组织的意义，则可以在原始公告中了解更多信息。自私人预览发布以来，我们收集了早期采用者的宝贵反馈，[…]</description>
+      <pubDate>Fri, 04 Apr 2025 17:24:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
