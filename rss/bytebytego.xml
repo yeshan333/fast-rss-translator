@@ -5,22 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Monolith vs Microservices vs Modular Monoliths: What&#39;s the Right Choice】Monolith vs微服务与模块化整体：正确的选择是什么</title>
-      <link>https://blog.bytebytego.com/p/monolith-vs-microservices-vs-modular</link>
-      <description>【In the ever-evolving landscape of software development, the choice of architecture can make or break a project.】在不断发展的软件开发环境中，体系结构的选择可以制定或破坏项目。</description>
-      <pubDate>Thu, 20 Mar 2025 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Bluesky: The Decentralized Social Media App with 30 Million Users】蓝军：分散的社交媒体应用程序，有3000万用户</title>
-      <link>https://blog.bytebytego.com/p/bluesky-the-decentralized-social</link>
-      <description>【In this article, we will look at Bluesky&amp;#8217;s architecture and its use of the AT protocol to make things possible.】在本文中，我们将研究布鲁斯基的架构及其对AT协议的使用以使事情成为可能。</description>
-      <pubDate>Tue, 25 Mar 2025 15:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Protocols 101: A Guide to Choose the Right One 】API协议101：选择合适的指南</title>
-      <link>https://blog.bytebytego.com/p/api-protocols-101-a-guide-to-choose</link>
-      <description>【An API protocol is a set of rules and standards that define how different software applications communicate over a network.】API协议是一组规则和标准，它定义了不同的软件应用程序如何通过网络通信。</description>
-      <pubDate>Thu, 13 Mar 2025 15:30:44 +0000</pubDate>
+      <title>【EP157: How to Learn Backend Development?】EP157：如何学习后端发展？</title>
+      <link>https://blog.bytebytego.com/p/ep157-how-to-learn-backend-development</link>
+      <description>【Backend Development requires knowledge of multiple aspects. Here&amp;#8217;s a mind map of what all things a developer should learn:】后端发展需要多个方面的知识。这是开发人员应该学到的所有知识的思维图：</description>
+      <pubDate>Sat, 05 Apr 2025 15:30:30 +0000</pubDate>
     </item>
     <item>
       <title>【EP154: What is MCP?】EP154：什么是MCP？</title>
@@ -29,22 +17,34 @@
       <pubDate>Sat, 15 Mar 2025 15:30:51 +0000</pubDate>
     </item>
     <item>
-      <title>【EP155: The Shopify Tech Stack】EP155：Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep155-the-shopify-tech-stack</link>
-      <description>【Basically, Single Sign-On (SSO) is an authentication scheme.】基本上，单个登录（SSO）是一种身份验证方案。</description>
-      <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
+      <title>【Monolith vs Microservices vs Modular Monoliths: What&#39;s the Right Choice】Monolith vs微服务与模块化整体：正确的选择是什么</title>
+      <link>https://blog.bytebytego.com/p/monolith-vs-microservices-vs-modular</link>
+      <description>【In the ever-evolving landscape of software development, the choice of architecture can make or break a project.】在不断发展的软件开发环境中，体系结构的选择可以制定或破坏项目。</description>
+      <pubDate>Thu, 20 Mar 2025 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【Mastering OOP Fundamentals with SOLID Principles】用坚实的原则掌握OOP基础知识</title>
-      <link>https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid</link>
-      <description>【In this article, we will take a deep dive into the core fundamentals of OOP followed by an introduction to the SOLID principles.】在本文中，我们将深入了解OOP的核心基础，然后介绍扎实的原则。</description>
-      <pubDate>Thu, 27 Mar 2025 15:31:19 +0000</pubDate>
+      <title>【How AMEX Processes Millions of Daily Transactions With Millisecond Latency】AMEX如何通过毫秒延迟处理数百万美元的每日交易</title>
+      <link>https://blog.bytebytego.com/p/how-amex-processes-millions-of-daily</link>
+      <description>【Optimize Kubernetes performance with these essential metrics (Sponsored)】通过这些基本指标（赞助）优化Kubernetes性能</description>
+      <pubDate>Tue, 01 Apr 2025 15:31:25 +0000</pubDate>
     </item>
     <item>
       <title>【How Netflix Stores 140 Million Hours of Viewing Data Per Day】Netflix如何每天存储1.4亿小时的查看数据</title>
       <link>https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours</link>
       <description>【In this article, we&amp;#8217;ll learn how Netflix tackled these problems and improved their storage system to handle millions of hours of viewing data every day.】在本文中，我们将了解Netflix如何解决这些问题并改善其存储系统，以每天处理数百万个小时的查看数据。</description>
       <pubDate>Tue, 18 Mar 2025 15:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bluesky: The Decentralized Social Media App with 30 Million Users】蓝军：分散的社交媒体应用程序，有3000万用户</title>
+      <link>https://blog.bytebytego.com/p/bluesky-the-decentralized-social</link>
+      <description>【In this article, we will look at Bluesky&amp;#8217;s architecture and its use of the AT protocol to make things possible.】在本文中，我们将研究布鲁斯基的架构及其对AT协议的使用以使事情成为可能。</description>
+      <pubDate>Tue, 25 Mar 2025 15:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Mastering OOP Fundamentals with SOLID Principles】用坚实的原则掌握OOP基础知识</title>
+      <link>https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid</link>
+      <description>【In this article, we will take a deep dive into the core fundamentals of OOP followed by an introduction to the SOLID principles.】在本文中，我们将深入了解OOP的核心基础，然后介绍扎实的原则。</description>
+      <pubDate>Thu, 27 Mar 2025 15:31:19 +0000</pubDate>
     </item>
     <item>
       <title>【EP156: Software Architect Knowledge Map 】EP156：软件架构师知识图</title>
@@ -59,10 +59,10 @@
       <pubDate>Thu, 03 Apr 2025 15:31:10 +0000</pubDate>
     </item>
     <item>
-      <title>【How AMEX Processes Millions of Daily Transactions With Millisecond Latency】AMEX如何通过毫秒延迟处理数百万美元的每日交易</title>
-      <link>https://blog.bytebytego.com/p/how-amex-processes-millions-of-daily</link>
-      <description>【Optimize Kubernetes performance with these essential metrics (Sponsored)】通过这些基本指标（赞助）优化Kubernetes性能</description>
-      <pubDate>Tue, 01 Apr 2025 15:31:25 +0000</pubDate>
+      <title>【EP155: The Shopify Tech Stack】EP155：Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep155-the-shopify-tech-stack</link>
+      <description>【Basically, Single Sign-On (SSO) is an authentication scheme.】基本上，单个登录（SSO）是一种身份验证方案。</description>
+      <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
