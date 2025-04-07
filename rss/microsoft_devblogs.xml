@@ -4,6 +4,24 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
+      <title>【Code the Future with Java and AI – Join Me at JDConf 2025】用Java和AI代码 - 加入我的JDConf 2025</title>
+      <link>https://devblogs.microsoft.com//code-the-future-with-java-and-ai-join-me-at-jdconf-2025</link>
+      <description>【Wednesday, April 9, 2025 – 8:30 AM PDT 👉 RSVP now: jdconf.com  JDConf 2025 is just around the corner, and whether you’re a Java developer, architect, team leader, or decision maker I hope you’ll join me as we explore how Java is evolving with the power of AI and how you can start building the [&amp;hellip;]】2025年4月9日，星期三，pdt pdt👉rsvp现在：jdconf.com JDCONF 2025即将临近，无论您是Java开发人员，建筑师，团队负责人还是决策者，我希望您能在我们探索Java如何随着AI的能力以及您如何构建AI构建的能力时​​加入我的行列，</description>
+      <pubDate>Thu, 03 Apr 2025 20:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Removal of deprecated DISCO &amp; WSDL aspx pages from SharePoint Online】从SharePoint在线删除不推荐的迪斯科和WSDL ASPX页面</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-disco-wsdl-aspx-pages-from-sharepoint-online</link>
+      <description>【We are removing DSICO and WSDL pages from the SharePoint Online by mid September 2025.】我们将于2025年9月中旬从SharePoint在线删除DSICO和WSDL页面。</description>
+      <pubDate>Sat, 05 Apr 2025 11:04:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing AI Red Teaming Agent: Accelerate Your Trustworthy AI Journey with Azure AI Foundry】介绍AI红色小组代理：与Azure AI Foundry一起加速您值得信赖的AI旅程</title>
+      <link>https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview</link>
+      <description>【AI Red Teaming Agent, integrated into Azure AI Foundry, enhances the safety and security of generative AI systems by providing automated scans, evaluating probing success, and generating detailed scorecards to guide risk management strategies.】AI Red Teaming Agent集成到Azure AI铸造厂，通过提供自动扫描，评估探测成功并产生详细的记分卡来指导风险管理策略，从而增强了生成AI系统的安全性。</description>
+      <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Semantic Kernel Agents are now Generally Available】语义内核代理现在通常可用</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agents-are-now-generally-available</link>
       <description>【The time is finally here, Semantic Kernel’s Agent framework is now Generally Available! Available today as part of Semantic Kernel 1.45 (.NET) and 1.27 (Python), the Semantic Kernel Agent framework makes it easier for agents to coordinate and dramatically reduces the code developers need to write to build amazing AI applications. What does Generally Available [&amp;hellip;]】时间终于在这里，语义内核的代理框架现在通常可用！今天作为语义内核1.45（.net）和1.27（Python）的一部分可用，语义内核代理框架使代理更容易协调和大幅度减少代码开发人员所需写入的代码以构建惊人的AI应用程序。通常可用的是什么[…]</description>
@@ -16,28 +34,10 @@
       <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Boards Integration with GitHub Enterprise Cloud and Data Residency (Public Preview)】董事会与GitHub Enterprise Cloud和Data Residency集成（公共预览）</title>
-      <link>https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview</link>
-      <description>【Back in January, we launched a private preview of our Boards integration with GitHub Enterprise Cloud with data residency. If you&amp;#8217;re unfamiliar with GitHub&amp;#8217;s data residency option and what it means for your organization, you can learn more in the original announcement. Since the private preview launch, we’ve gathered valuable feedback from early adopters, and [&amp;hellip;]】早在一月份，我们与GitHub Enterprise Cloud一起启动了董事会的私人预览，并启动了数据驻留。如果您不熟悉GitHub的数据居留权选项以及对组织的意义，则可以在原始公告中了解更多信息。自私人预览发布以来，我们收集了早期采用者的宝贵反馈，[…]</description>
-      <pubDate>Fri, 04 Apr 2025 17:24:29 +0000</pubDate>
-    </item>
-    <item>
       <title>【Adding delays to our task sequencer, part 3】将延迟添加到我们的任务序列程序，第3部分</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250404-00/?p=111046</link>
       <description>【Waiting more cheaply.】更便宜地等待。</description>
       <pubDate>Fri, 04 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure AI Foundry Extension for Visual Studio Code is Available in Preview】Visual Studio代码的Azure AI铸造扩展</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-vscode-extension-preview</link>
-      <description>【Learn how to use Azure AI Foundry capabilities directly in VS Code with the Azure AI Foundry extension for Visual Studio Code, now available in public preview. Deploy Large Language Models, develop AI applications, and configure agents seamlessly within your favorite VS Code setup.】了解如何使用Azure AI Foundry功能在VS代码中使用Azure AI Foundry扩展名，用于Visual Studio Code，现在可以在公共预览中获得。部署大型语言模型，开发AI应用程序，并在您喜欢的VS代码设置中无缝配置代理。</description>
-      <pubDate>Fri, 04 Apr 2025 09:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing AI Red Teaming Agent: Accelerate Your Trustworthy AI Journey with Azure AI Foundry】介绍AI红色小组代理：与Azure AI Foundry一起加速您值得信赖的AI旅程</title>
-      <link>https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview</link>
-      <description>【AI Red Teaming Agent, integrated into Azure AI Foundry, enhances the safety and security of generative AI systems by providing automated scans, evaluating probing success, and generating detailed scorecards to guide risk management strategies.】AI Red Teaming Agent集成到Azure AI铸造厂，通过提供自动扫描，评估探测成功并产生详细的记分卡来指导风险管理策略，从而增强了生成AI系统的安全性。</description>
-      <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
     </item>
     <item>
       <title>【Build AI agents with Python in #AgentsHack】在#AgentShack中使用Python构建AI代理</title>
@@ -52,16 +52,16 @@
       <pubDate>Fri, 04 Apr 2025 17:41:16 +0000</pubDate>
     </item>
     <item>
-      <title>【Code the Future with Java and AI – Join Me at JDConf 2025】用Java和AI代码 - 加入我的JDConf 2025</title>
-      <link>https://devblogs.microsoft.com//code-the-future-with-java-and-ai-join-me-at-jdconf-2025</link>
-      <description>【Wednesday, April 9, 2025 – 8:30 AM PDT 👉 RSVP now: jdconf.com  JDConf 2025 is just around the corner, and whether you’re a Java developer, architect, team leader, or decision maker I hope you’ll join me as we explore how Java is evolving with the power of AI and how you can start building the [&amp;hellip;]】2025年4月9日，星期三，pdt pdt👉rsvp现在：jdconf.com JDCONF 2025即将临近，无论您是Java开发人员，建筑师，团队负责人还是决策者，我希望您能在我们探索Java如何随着AI的能力以及您如何构建AI构建的能力时​​加入我的行列，</description>
-      <pubDate>Thu, 03 Apr 2025 20:13:37 +0000</pubDate>
+      <title>【Boards Integration with GitHub Enterprise Cloud and Data Residency (Public Preview)】董事会与GitHub Enterprise Cloud和Data Residency集成（公共预览）</title>
+      <link>https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview</link>
+      <description>【Back in January, we launched a private preview of our Boards integration with GitHub Enterprise Cloud with data residency. If you&amp;#8217;re unfamiliar with GitHub&amp;#8217;s data residency option and what it means for your organization, you can learn more in the original announcement. Since the private preview launch, we’ve gathered valuable feedback from early adopters, and [&amp;hellip;]】早在一月份，我们与GitHub Enterprise Cloud一起启动了董事会的私人预览，并启动了数据驻留。如果您不熟悉GitHub的数据居留权选项以及对组织的意义，则可以在原始公告中了解更多信息。自私人预览发布以来，我们收集了早期采用者的宝贵反馈，[…]</description>
+      <pubDate>Fri, 04 Apr 2025 17:24:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Removal of deprecated DISCO &amp; WSDL aspx pages from SharePoint Online】从SharePoint在线删除不推荐的迪斯科和WSDL ASPX页面</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-disco-wsdl-aspx-pages-from-sharepoint-online</link>
-      <description>【We are removing DSICO and WSDL pages from the SharePoint Online by mid September 2025.】我们将于2025年9月中旬从SharePoint在线删除DSICO和WSDL页面。</description>
-      <pubDate>Sat, 05 Apr 2025 11:04:49 +0000</pubDate>
+      <title>【Azure AI Foundry Extension for Visual Studio Code is Available in Preview】Visual Studio代码的Azure AI铸造扩展</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-vscode-extension-preview</link>
+      <description>【Learn how to use Azure AI Foundry capabilities directly in VS Code with the Azure AI Foundry extension for Visual Studio Code, now available in public preview. Deploy Large Language Models, develop AI applications, and configure agents seamlessly within your favorite VS Code setup.】了解如何使用Azure AI Foundry功能在VS代码中使用Azure AI Foundry扩展名，用于Visual Studio Code，现在可以在公共预览中获得。部署大型语言模型，开发AI应用程序，并在您喜欢的VS代码设置中无缝配置代理。</description>
+      <pubDate>Fri, 04 Apr 2025 09:29:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
