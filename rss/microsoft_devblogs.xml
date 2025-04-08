@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Code the Future with Java and AI – Join Me at JDConf 2025】用Java和AI代码 - 加入我的JDConf 2025</title>
-      <link>https://devblogs.microsoft.com//code-the-future-with-java-and-ai-join-me-at-jdconf-2025</link>
-      <description>【Wednesday, April 9, 2025 – 8:30 AM PDT 👉 RSVP now: jdconf.com  JDConf 2025 is just around the corner, and whether you’re a Java developer, architect, team leader, or decision maker I hope you’ll join me as we explore how Java is evolving with the power of AI and how you can start building the [&amp;hellip;]】2025年4月9日，星期三，pdt pdt👉rsvp现在：jdconf.com JDCONF 2025即将临近，无论您是Java开发人员，建筑师，团队负责人还是决策者，我希望您能在我们探索Java如何随着AI的能力以及您如何构建AI构建的能力时​​加入我的行列，</description>
-      <pubDate>Thu, 03 Apr 2025 20:13:37 +0000</pubDate>
-    </item>
-    <item>
       <title>【Removal of deprecated DISCO &amp; WSDL aspx pages from SharePoint Online】从SharePoint在线删除不推荐的迪斯科和WSDL ASPX页面</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-disco-wsdl-aspx-pages-from-sharepoint-online</link>
       <description>【We are removing DSICO and WSDL pages from the SharePoint Online by mid September 2025.】我们将于2025年9月中旬从SharePoint在线删除DSICO和WSDL页面。</description>
       <pubDate>Sat, 05 Apr 2025 11:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing AI Red Teaming Agent: Accelerate Your Trustworthy AI Journey with Azure AI Foundry】介绍AI红色小组代理：与Azure AI Foundry一起加速您值得信赖的AI旅程</title>
-      <link>https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview</link>
-      <description>【AI Red Teaming Agent, integrated into Azure AI Foundry, enhances the safety and security of generative AI systems by providing automated scans, evaluating probing success, and generating detailed scorecards to guide risk management strategies.】AI Red Teaming Agent集成到Azure AI铸造厂，通过提供自动扫描，评估探测成功并产生详细的记分卡来指导风险管理策略，从而增强了生成AI系统的安全性。</description>
-      <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel Agents are now Generally Available】语义内核代理现在通常可用</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agents-are-now-generally-available</link>
-      <description>【The time is finally here, Semantic Kernel’s Agent framework is now Generally Available! Available today as part of Semantic Kernel 1.45 (.NET) and 1.27 (Python), the Semantic Kernel Agent framework makes it easier for agents to coordinate and dramatically reduces the code developers need to write to build amazing AI applications. What does Generally Available [&amp;hellip;]】时间终于在这里，语义内核的代理框架现在通常可用！今天作为语义内核1.45（.net）和1.27（Python）的一部分可用，语义内核代理框架使代理更容易协调和大幅度减少代码开发人员所需写入的代码以构建惊人的AI应用程序。通常可用的是什么[…]</description>
-      <pubDate>Fri, 04 Apr 2025 16:33:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlocking the Power of Agentic Applications: New Evaluation Metrics for Quality and Safety】解锁代理应用的力量：质量和安全的新评估指标</title>
-      <link>https://devblogs.microsoft.com/foundry/evaluation-metrics-azure-ai-foundry</link>
-      <description>【New evaluation metrics in Azure AI Foundry help developers assess the quality and safety of agentic applications. These metrics enhance AI red teaming capabilities, enabling automated risk and safety evaluations through streamlined campaigns and regular assessments.】Azure AI铸造中的新评估指标可帮助开发人员评估代理应用的质量和安全性。这些指标增强了AI红色团队功能，通过简化的活动和定期评估来实现自动化的风险和安全评估。</description>
-      <pubDate>Fri, 04 Apr 2025 09:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Adding delays to our task sequencer, part 3】将延迟添加到我们的任务序列程序，第3部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250404-00/?p=111046</link>
-      <description>【Waiting more cheaply.】更便宜地等待。</description>
-      <pubDate>Fri, 04 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build AI agents with Python in #AgentsHack】在#AgentShack中使用Python构建AI代理</title>
-      <link>https://devblogs.microsoft.com/python/agentshack-python</link>
-      <description>【Microsoft is holding an AI Agents Hackathon, and we want to see what you can build with Python! We&#39;ll have 20+ live streams showing you how to build AI agents with Python using popular agent frameworks and Microsoft technologies. Then, you can submit your project for a chance to win prizes, including a Best in Python prize!】微软正在举办AI代理黑客马拉松，我们想看看您可以使用Python构建什么！我们将拥有20多个直播流，向您展示如何使用流行的代理框架和Microsoft Technologies使用Python构建AI代理。然后，您可以提交项目以获取奖品的机会，包括最好的Python奖！</description>
-      <pubDate>Sat, 05 Apr 2025 00:11:51 +0000</pubDate>
     </item>
     <item>
       <title>【Python in Visual Studio Code – April 2025 Release】Visual Studio代码中的Python  -  2025年4月发布</title>
@@ -52,16 +16,52 @@
       <pubDate>Fri, 04 Apr 2025 17:41:16 +0000</pubDate>
     </item>
     <item>
+      <title>【Build AI agents with Python in #AgentsHack】在#AgentShack中使用Python构建AI代理</title>
+      <link>https://devblogs.microsoft.com/python/agentshack-python</link>
+      <description>【Microsoft is holding an AI Agents Hackathon, and we want to see what you can build with Python! We&#39;ll have 20+ live streams showing you how to build AI agents with Python using popular agent frameworks and Microsoft technologies. Then, you can submit your project for a chance to win prizes, including a Best in Python prize!】微软正在举办AI代理黑客马拉松，我们想看看您可以使用Python构建什么！我们将拥有20多个直播流，向您展示如何使用流行的代理框架和Microsoft Technologies使用Python构建AI代理。然后，您可以提交项目以获取奖品的机会，包括最好的Python奖！</description>
+      <pubDate>Sat, 05 Apr 2025 00:11:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【Boards Integration with GitHub Enterprise Cloud and Data Residency (Public Preview)】董事会与GitHub Enterprise Cloud和Data Residency集成（公共预览）</title>
       <link>https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview</link>
       <description>【Back in January, we launched a private preview of our Boards integration with GitHub Enterprise Cloud with data residency. If you&amp;#8217;re unfamiliar with GitHub&amp;#8217;s data residency option and what it means for your organization, you can learn more in the original announcement. Since the private preview launch, we’ve gathered valuable feedback from early adopters, and [&amp;hellip;]】早在一月份，我们与GitHub Enterprise Cloud一起启动了董事会的私人预览，并启动了数据驻留。如果您不熟悉GitHub的数据居留权选项以及对组织的意义，则可以在原始公告中了解更多信息。自私人预览发布以来，我们收集了早期采用者的宝贵反馈，[…]</description>
       <pubDate>Fri, 04 Apr 2025 17:24:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure AI Foundry Extension for Visual Studio Code is Available in Preview】Visual Studio代码的Azure AI铸造扩展</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-vscode-extension-preview</link>
-      <description>【Learn how to use Azure AI Foundry capabilities directly in VS Code with the Azure AI Foundry extension for Visual Studio Code, now available in public preview. Deploy Large Language Models, develop AI applications, and configure agents seamlessly within your favorite VS Code setup.】了解如何使用Azure AI Foundry功能在VS代码中使用Azure AI Foundry扩展名，用于Visual Studio Code，现在可以在公共预览中获得。部署大型语言模型，开发AI应用程序，并在您喜欢的VS代码设置中无缝配置代理。</description>
-      <pubDate>Fri, 04 Apr 2025 09:29:13 +0000</pubDate>
+      <title>【Semantic Kernel Agents are now Generally Available】语义内核代理现在通常可用</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agents-are-now-generally-available</link>
+      <description>【The time is finally here, Semantic Kernel’s Agent framework is now Generally Available! Available today as part of Semantic Kernel 1.45 (.NET) and 1.27 (Python), the Semantic Kernel Agent framework makes it easier for agents to coordinate and dramatically reduces the code developers need to write to build amazing AI applications. What does Generally Available [&amp;hellip;]】时间终于在这里，语义内核的代理框架现在通常可用！今天作为语义内核1.45（.net）和1.27（Python）的一部分可用，语义内核代理框架使代理更容易协调和大幅度减少代码开发人员所需写入的代码以构建惊人的AI应用程序。通常可用的是什么[…]</description>
+      <pubDate>Fri, 04 Apr 2025 16:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build a Model Context Protocol (MCP) server in C#】在C＃中构建模型上下文协议（MCP）服务器</title>
+      <link>https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp</link>
+      <description>【Learn how to build a Model Context Protocol (MCP) server using the C# SDK to enable seamless communication between AI models and applications.】了解如何使用C＃SDK构建模型上下文协议（MCP）服务器，以启用AI模型和应用程序之间的无缝通信。</description>
+      <pubDate>Mon, 07 Apr 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Pure Virtual C++ 2025 Talks Announced】宣布的纯虚拟C ++ 2025演讲</title>
+      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-talks-announced</link>
+      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. This year, it is running on the 30th April. We&amp;#8217;re pleased to announce four of our five live sessions for the day: Welcome to v1.0 of the meta::[[verse]]! with Inbal Levi Proxy: Next Generation Polymorphism with Mingxin Wang Making unfamiliar C++ [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。今年，它在4月30日运行。我们很高兴宣布当天的五个现场会议中的四次：欢迎来到元v1.0 :: [[verse]]！与Inbal Levi代理：Mingxin Wang的下一代多态性使陌生的C ++ […]</description>
+      <pubDate>Mon, 07 Apr 2025 13:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Semantic Kernel and Copilot Studio Usage Series – Part 1】嘉宾博客：语义内核和副副研究室用法系列 - 第1部分</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semantic-kernel-and-copilot-studio-usage-series-part-1</link>
+      <description>【Today on the Semantic Kernel blog we&amp;#8217;re excited to welcome a group of guest authors from Microsoft. We&amp;#8217;ll turn it over to Riccardo Chiodaroli, Samar El Housseini, Daniel Lavve and Fabrizio Ruocco to dive into their use cases with Semantic Kernel and Copilot Studio. In today&amp;#8217;s fast-paced digital economy, intelligent automation is no longer optional—it&amp;#8217;s [&amp;hellip;]】今天，在语义内核博客上，我们很高兴欢迎来自Microsoft的一群客座作家。我们将其移交给Riccardo Chiodaroli，Samar El Housseini，Daniel Lavve和Fabrizio Ruocco，以使用语义内核和Copilot Studio潜入他们的用例。在当今快节奏的数字经济中，智能自动化不再是可选的，它是[…]</description>
+      <pubDate>Mon, 07 Apr 2025 18:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhancing Search Capabilities in SQL Server and Azure SQL with Hybrid Search and RRF Re-Ranking】通过混合搜索和RRF重新排名，在SQL Server和Azure SQL中增强搜索功能</title>
+      <link>https://devblogs.microsoft.com/azure-sql/enhancing-search-capabilities-in-sql-server-and-azure-sql-with-hybrid-search-and-rrf-re-ranking</link>
+      <description>【In today&amp;#8217;s data-driven world, delivering precise and contextually relevant search results is critical. SQL Server and Azure SQL Database now enable this through Hybrid Search—a technique that combines traditional full-text search with modern vector similarity search. This allows developers to build intelligent, AI-powered search experiences directly inside the database engine. Funny enough one of the [&amp;hellip;]】在当今数据驱动的世界中，提供精确和上下文相关的搜索结果至关重要。 SQL Server和Azure SQL数据库现在通过混合搜索启用此功能，该技术将传统的全文搜索与现代矢量相似性搜索相结合。这使开发人员可以直接在数据库引擎内部构建智能的AI驱动搜索体验。有趣的[…]之一</description>
+      <pubDate>Mon, 07 Apr 2025 15:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【On priority inversion in the use of a spinlock to ensure atomic access to a shared_ptr】关于使用Spinlock的优先倒置，以确保原子访问共享_ptr</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250407-00/?p=111054</link>
+      <description>【Priority inversion may be rare, but correctness doesn&#39;t care about rarity.】优先倒置可能很少，但是正确性并不关心稀有性。</description>
+      <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

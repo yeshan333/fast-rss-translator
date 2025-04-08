@@ -4,10 +4,34 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Three chapters at Cloudflare: Programmer to CTO to Board of Directors】CloudFlare的三章：编程人员到CTO董事会</title>
-      <link>https://blog.cloudflare.com/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/</link>
-      <description>【 Today, after more than 13 years at the company, I am joining Cloudflare’s board of directors and retiring from my full-time position as CTO.  】今天，在公司工作了13多年之后，我加入了Cloudflare的董事会，并从我作为CTO的全职职位退休。</description>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <title>【Improve your media pipelines with the Images binding for Cloudflare Workers】通过对Cloudflare工人的绑定来改善媒体管道</title>
+      <link>https://blog.cloudflare.com/improve-your-media-pipelines-with-the-images-binding-for-cloudflare-workers/</link>
+      <description>【 Media-rich applications require image and video pipelines that integrate seamlessly with the rest of your technology stack. Here’s how the Images binding enables you to build more flexible workflows. 】媒体丰富的应用程序需要图像和视频管道，以与您的其余技术堆栈无缝集成。这是图像绑定的方式使您能够构建更灵活的工作流程。</description>
+      <pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Meta’s Llama 4 is now available on Workers AI】Meta的Llama 4现在可以在工人AI上使用</title>
+      <link>https://blog.cloudflare.com/meta-llama-4-is-now-available-on-workers-ai/</link>
+      <description>【 Llama 4 Scout 17B Instruct is now available on Workers AI: use this multimodal, Mixture of Experts AI model on Cloudflare&#39;s serverless AI platform to build next-gen AI applications. 】Llama 4 Scout 17B指令现在可以在工人AI上使用：在Cloudflare的无服务器AI平台上使用这种多模式AI模型的混合物来构建下一代AI应用程序。</description>
+      <pubDate>Sun, 06 Apr 2025 03:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Piecing together the Agent puzzle: MCP, authentication &amp; authorization, and Durable Objects free tier】将代理难题拼凑在一起：MCP，身份验证和授权和耐用对象免费层</title>
+      <link>https://blog.cloudflare.com/building-ai-agents-with-mcp-authn-authz-and-durable-objects/</link>
+      <description>【 Cloudflare delivers toolkit for AI agents with new Agents SDK support for MCP (Model Context Protocol) clients, authentication/authorization/hibernation for MCP servers and Durable Objects free tier.  】CloudFlare为AI代理提供了具有新代理SDK支持MCP（模型上下文协议）客户端的工具包，MCP服务器的身份验证/授权/Hibernation和耐用对象免费层。</description>
+      <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Welcome to Developer Week 2025】欢迎来到开发人员2025周</title>
+      <link>https://blog.cloudflare.com/welcome-to-developer-week-2025/</link>
+      <description>【 We’re kicking off Cloudflare’s 2025 Developer Week — our innovation week dedicated to announcements for developers. 】我们将启动Cloudflare的2025年开发者周 - 我们的创新周致力于开发人员的公告。</description>
+      <pubDate>Sun, 06 Apr 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing AutoRAG: fully managed Retrieval-Augmented Generation on Cloudflare】引入Autorag：在Cloudflare上完全管理的检索演出一代</title>
+      <link>https://blog.cloudflare.com/introducing-autorag-on-cloudflare/</link>
+      <description>【 AutoRAG is here: fully managed Retrieval-Augmented Generation (RAG) pipelines powered by Cloudflare&#39;s global network and powerful developer ecosystem.  】Autorag在这里：由CloudFlare的全球网络和强大的开发人员生态系统提供支持的完全管理的检索型生成（RAG）管道。</description>
+      <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【“You get Instant Purge, and you get Instant Purge!” — all purge methods now available to all customers】“您会立即清除，然后即时清除！” - 所有客户现在都可以使用所有清除方法</title>
@@ -22,46 +46,22 @@
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Improve your media pipelines with the Images binding for Cloudflare Workers】通过对Cloudflare工人的绑定来改善媒体管道</title>
-      <link>https://blog.cloudflare.com/improve-your-media-pipelines-with-the-images-binding-for-cloudflare-workers/</link>
-      <description>【 Media-rich applications require image and video pipelines that integrate seamlessly with the rest of your technology stack. Here’s how the Images binding enables you to build more flexible workflows. 】媒体丰富的应用程序需要图像和视频管道，以与您的其余技术堆栈无缝集成。这是图像绑定的方式使您能够构建更灵活的工作流程。</description>
-      <pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Project Jengo for Sable — final winners!】Sable项目Jengo  - 最终获胜者！</title>
-      <link>https://blog.cloudflare.com/project-jengo-for-sable-final-winners/</link>
-      <description>【 With Cloudflare’s victory against patent trolls Sable IP and Sable Networks in the books, it’s time to close out the case’s Project Jengo competition. 】随着Cloudflare在书籍中击败专利巨魔IP和黑貂网络的胜利，是时候结束案件的Jengo竞赛了。</description>
-      <pubDate>Wed, 26 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare】构建和部署远程模型上下文协议（MCP）服务器到CloudFlare</title>
-      <link>https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/</link>
-      <description>【 You can now build and deploy remote MCP servers to Cloudflare, and we handle the hard parts of building remote MCP servers for you. 】现在，您可以构建和部署远程MCP服务器来cloudflare，并且我们处理为您构建远程MCP服务器的困难部分。</description>
-      <pubDate>Tue, 25 Mar 2025 13:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Meta’s Llama 4 is now available on Workers AI】Meta的Llama 4现在可以在工人AI上使用</title>
-      <link>https://blog.cloudflare.com/meta-llama-4-is-now-available-on-workers-ai/</link>
-      <description>【 Llama 4 Scout 17B Instruct is now available on Workers AI: use this multimodal, Mixture of Experts AI model on Cloudflare&#39;s serverless AI platform to build next-gen AI applications. 】Llama 4 Scout 17B指令现在可以在工人AI上使用：在Cloudflare的无服务器AI平台上使用这种多模式AI模型的混合物来构建下一代AI应用程序。</description>
-      <pubDate>Sun, 06 Apr 2025 03:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Welcome to Developer Week 2025】欢迎来到开发人员2025周</title>
-      <link>https://blog.cloudflare.com/welcome-to-developer-week-2025/</link>
-      <description>【 We’re kicking off Cloudflare’s 2025 Developer Week — our innovation week dedicated to announcements for developers. 】我们将启动Cloudflare的2025年开发者周 - 我们的创新周致力于开发人员的公告。</description>
-      <pubDate>Sun, 06 Apr 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare’s commitment to CISA Secure-By-Design pledge: delivering new kernels, faster】Cloudflare对CISA安全性的承诺的承诺：提供新内核，更快</title>
       <link>https://blog.cloudflare.com/cloudflare-delivers-on-commitment-to-cisa/</link>
       <description>【 Cloudflare’s commitment to the CISA pledge reflects our dedication to transparency and accountability to our customers. This blog post outlines how we deliver newly patched kernels across our  】Cloudflare对CISA承诺的承诺反映了我们对客户对透明度和问责制的奉献精神。这篇博客文章概述了我们如何在我们的</description>
       <pubDate>Fri, 04 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH】开源OpenPubkey SSH（OPKSSH）：将单个登录与SSH集成</title>
-      <link>https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/</link>
-      <description>【 OPKSSH (OpenPubkey SSH) is now open-sourced as part of the OpenPubkey project. 】Opkssh（OpenPubkey SSH）现在是开源的，作为OpenPubkey项目的一部分。</description>
-      <pubDate>Tue, 25 Mar 2025 13:00:00 +0000</pubDate>
+      <title>【Cloudflare acquires Outerbase to expand database and agent developer experience capabilities】CloudFlare获取外基础以扩展数据库和代理开发人员体验能力</title>
+      <link>https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/</link>
+      <description>【 Cloudflare has acquired Outerbase, expanding our database and agent developer experience capabilities. 】CloudFlare已收购了OuterBase，扩展了我们的数据库和代理开发人员体验功能。</description>
+      <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare Workflows is now GA: production-ready durable execution】CloudFlare工作流程现在是GA：可生产的耐用执行</title>
+      <link>https://blog.cloudflare.com/workflows-ga-production-ready-durable-execution/</link>
+      <description>【 Workflows — a durable execution engine built directly on top of Workers — is now Generally Available. We’ve landed new human-in-the-loop capabilities, more scale, and more metrics. 】工作流 - 直接在工人顶部建立的耐用执行引擎 - 现在通常可以使用。我们已经降落了新的人类功能，更多的规模和更多的指标。</description>
+      <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
