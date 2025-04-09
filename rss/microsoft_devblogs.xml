@@ -4,52 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Removal of deprecated DISCO &amp; WSDL aspx pages from SharePoint Online】从SharePoint在线删除不推荐的迪斯科和WSDL ASPX页面</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-disco-wsdl-aspx-pages-from-sharepoint-online</link>
-      <description>【We are removing DSICO and WSDL pages from the SharePoint Online by mid September 2025.】我们将于2025年9月中旬从SharePoint在线删除DSICO和WSDL页面。</description>
-      <pubDate>Sat, 05 Apr 2025 11:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code – April 2025 Release】Visual Studio代码中的Python  -  2025年4月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2025-release</link>
-      <description>【The April 2025 release of the Python and Jupyter extensions for Visual Studio Code is now available. This update introduces enhancements to the Copilot experience in Notebooks, improved support for editable installs, faster and more reliable diagnostics, and the addition of custom Node.js arguments with Pylance, and more!】2025年4月的Python和Jupyter Extensions发布了Visual Studio代码的扩展。此更新介绍了笔记本中的Copilot体验的增强功能，改进了对可编辑的安装的支持，更快，更可靠的诊断，以及添加具有Pylance的自定义Node.js参数，等等！</description>
-      <pubDate>Fri, 04 Apr 2025 17:41:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build AI agents with Python in #AgentsHack】在#AgentShack中使用Python构建AI代理</title>
-      <link>https://devblogs.microsoft.com/python/agentshack-python</link>
-      <description>【Microsoft is holding an AI Agents Hackathon, and we want to see what you can build with Python! We&#39;ll have 20+ live streams showing you how to build AI agents with Python using popular agent frameworks and Microsoft technologies. Then, you can submit your project for a chance to win prizes, including a Best in Python prize!】微软正在举办AI代理黑客马拉松，我们想看看您可以使用Python构建什么！我们将拥有20多个直播流，向您展示如何使用流行的代理框架和Microsoft Technologies使用Python构建AI代理。然后，您可以提交项目以获取奖品的机会，包括最好的Python奖！</description>
-      <pubDate>Sat, 05 Apr 2025 00:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Boards Integration with GitHub Enterprise Cloud and Data Residency (Public Preview)】董事会与GitHub Enterprise Cloud和Data Residency集成（公共预览）</title>
-      <link>https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview</link>
-      <description>【Back in January, we launched a private preview of our Boards integration with GitHub Enterprise Cloud with data residency. If you&amp;#8217;re unfamiliar with GitHub&amp;#8217;s data residency option and what it means for your organization, you can learn more in the original announcement. Since the private preview launch, we’ve gathered valuable feedback from early adopters, and [&amp;hellip;]】早在一月份，我们与GitHub Enterprise Cloud一起启动了董事会的私人预览，并启动了数据驻留。如果您不熟悉GitHub的数据居留权选项以及对组织的意义，则可以在原始公告中了解更多信息。自私人预览发布以来，我们收集了早期采用者的宝贵反馈，[…]</description>
-      <pubDate>Fri, 04 Apr 2025 17:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel Agents are now Generally Available】语义内核代理现在通常可用</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agents-are-now-generally-available</link>
-      <description>【The time is finally here, Semantic Kernel’s Agent framework is now Generally Available! Available today as part of Semantic Kernel 1.45 (.NET) and 1.27 (Python), the Semantic Kernel Agent framework makes it easier for agents to coordinate and dramatically reduces the code developers need to write to build amazing AI applications. What does Generally Available [&amp;hellip;]】时间终于在这里，语义内核的代理框架现在通常可用！今天作为语义内核1.45（.net）和1.27（Python）的一部分可用，语义内核代理框架使代理更容易协调和大幅度减少代码开发人员所需写入的代码以构建惊人的AI应用程序。通常可用的是什么[…]</description>
-      <pubDate>Fri, 04 Apr 2025 16:33:25 +0000</pubDate>
+      <title>【Guest Blog: Semantic Kernel and Copilot Studio Usage Series – Part 1】嘉宾博客：语义内核和副副研究室用法系列 - 第1部分</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semantic-kernel-and-copilot-studio-usage-series-part-1</link>
+      <description>【Today on the Semantic Kernel blog we&amp;#8217;re excited to welcome a group of guest authors from Microsoft. We&amp;#8217;ll turn it over to Riccardo Chiodaroli, Samar El Housseini, Daniel Lavve and Fabrizio Ruocco to dive into their use cases with Semantic Kernel and Copilot Studio. In today&amp;#8217;s fast-paced digital economy, intelligent automation is no longer optional—it&amp;#8217;s [&amp;hellip;]】今天，在语义内核博客上，我们很高兴欢迎来自Microsoft的一群客座作家。我们将其移交给Riccardo Chiodaroli，Samar El Housseini，Daniel Lavve和Fabrizio Ruocco，以使用语义内核和Copilot Studio潜入他们的用例。在当今快节奏的数字经济中，智能自动化不再是可选的，它是[…]</description>
+      <pubDate>Mon, 07 Apr 2025 18:27:05 +0000</pubDate>
     </item>
     <item>
       <title>【Build a Model Context Protocol (MCP) server in C#】在C＃中构建模型上下文协议（MCP）服务器</title>
       <link>https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp</link>
       <description>【Learn how to build a Model Context Protocol (MCP) server using the C# SDK to enable seamless communication between AI models and applications.】了解如何使用C＃SDK构建模型上下文协议（MCP）服务器，以启用AI模型和应用程序之间的无缝通信。</description>
       <pubDate>Mon, 07 Apr 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pure Virtual C++ 2025 Talks Announced】宣布的纯虚拟C ++ 2025演讲</title>
-      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-talks-announced</link>
-      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. This year, it is running on the 30th April. We&amp;#8217;re pleased to announce four of our five live sessions for the day: Welcome to v1.0 of the meta::[[verse]]! with Inbal Levi Proxy: Next Generation Polymorphism with Mingxin Wang Making unfamiliar C++ [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。今年，它在4月30日运行。我们很高兴宣布当天的五个现场会议中的四次：欢迎来到元v1.0 :: [[verse]]！与Inbal Levi代理：Mingxin Wang的下一代多态性使陌生的C ++ […]</description>
-      <pubDate>Mon, 07 Apr 2025 13:51:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Semantic Kernel and Copilot Studio Usage Series – Part 1】嘉宾博客：语义内核和副副研究室用法系列 - 第1部分</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semantic-kernel-and-copilot-studio-usage-series-part-1</link>
-      <description>【Today on the Semantic Kernel blog we&amp;#8217;re excited to welcome a group of guest authors from Microsoft. We&amp;#8217;ll turn it over to Riccardo Chiodaroli, Samar El Housseini, Daniel Lavve and Fabrizio Ruocco to dive into their use cases with Semantic Kernel and Copilot Studio. In today&amp;#8217;s fast-paced digital economy, intelligent automation is no longer optional—it&amp;#8217;s [&amp;hellip;]】今天，在语义内核博客上，我们很高兴欢迎来自Microsoft的一群客座作家。我们将其移交给Riccardo Chiodaroli，Samar El Housseini，Daniel Lavve和Fabrizio Ruocco，以使用语义内核和Copilot Studio潜入他们的用例。在当今快节奏的数字经济中，智能自动化不再是可选的，它是[…]</description>
-      <pubDate>Mon, 07 Apr 2025 18:27:05 +0000</pubDate>
     </item>
     <item>
       <title>【Enhancing Search Capabilities in SQL Server and Azure SQL with Hybrid Search and RRF Re-Ranking】通过混合搜索和RRF重新排名，在SQL Server和Azure SQL中增强搜索功能</title>
@@ -62,6 +26,42 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20250407-00/?p=111054</link>
       <description>【Priority inversion may be rare, but correctness doesn&#39;t care about rarity.】优先倒置可能很少，但是正确性并不关心稀有性。</description>
       <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (March 2025)】VCPKG的新功能（2025年3月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-march-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.03.19 registry release, 2025-03-13 tool release, as well as changes to vcpkg documentation throughout March. This release includes two new commands for our continuous integration system PR reviews, minor bugfixes, a new documentation article on authenticating to NuGet feeds, and a [&amp;hellip;]】该博客文章总结了VCPKG软件包管理器的更改，作为2025.03.19注册表版本，2025-03-13工具版本的一部分，以及整个3月的VCPKG文档的更改。该版本包括两个新命令，用于我们的连续集成系统PR评论，次要错误相框，有关Nuget feed验证的新文档文档以及[…]</description>
+      <pubDate>Tue, 08 Apr 2025 18:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Goldilocks zone of software stability】软件稳定性的Goldilocks区域</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250408-00/?p=111057</link>
+      <description>【Not too new, not too old.】不太新，不太老。</description>
+      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python Vector Store Connectors update: Faiss, Azure SQL Server and Pinecone】Python Vector Store连接器更新：Faiss，Azure SQL Server和Pinecone</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/python-vector-store-connectors-update-faiss-azure-sql-server-and-pinecone</link>
+      <description>【Announcing New Vector Stores: Faiss, SQL Server, and Pinecone We are thrilled to announce the availability of three new Vector Stores and Vector Store Record Collections: Faiss, SQL Server, and Pinecone. These new connectors will enable you to store and retrieve vector data efficiently, making it easier to work with your own data and data [&amp;hellip;]】宣布新的向量商店：Faiss，SQL Server和Pinecone，我们很高兴宣布三家新矢量商店和矢量商店记录集合的可用性：Faiss，SQL Server和Pinecone。这些新连接器将使您能够有效地存储和检索向量数据，从而更容易使用自己的数据和数据[…]</description>
+      <pubDate>Tue, 08 Apr 2025 14:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Dev Box subscriptions and licensing requirements demystified: What You Need and Why】Microsoft Dev Box订阅和许可要求宣传：您需要什么以及为什么</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-subscriptions-and-licensing-requirements-demystified</link>
+      <description>【Thinking of deploying Microsoft Dev Box service but want to understand the licensing and subscription requirements first? Then, you have come to the right place. This blog post breaks it all down—clearly and simply—so you know exactly what you need and why, whether you’re an IT admin, platform engineer, developer, or a decision-maker. Microsoft Dev [&amp;hellip;]】考虑部署Microsoft Dev Box服务，但想首先了解许可和订阅要求？然后，您来了正确的位置。这篇博客文章明显地将其全部弄清楚了，因此您确切地知道您需要什么以及为什么您是IT管理员，平台工程师，开发人员，还是决策者。 Microsoft Dev […]</description>
+      <pubDate>Tue, 08 Apr 2025 22:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multi-Process CPU Usage Analysis in Visual Studio】视觉工作室中的多进程CPU使用分析</title>
+      <link>https://devblogs.microsoft.com/visualstudio/multi-process-cpu-usage-analysis-in-visual-studio</link>
+      <description>【Streamlined Performance Insights Across Processes The Visual Studio Profiler&amp;#8217;s CPU Usage tool and Instrumentation tool now supports multi-process analysis, providing a unified view of CPU activity across multiple processes. With performance graphs featuring distinct, color-coded stacked swim lanes for each process, diagnosing and optimizing CPU usage is now more efficient than ever. Tackling Multi-Process Complexity [&amp;hellip;]】简化了跨流程的性能见解，Visual Studio Profiler的CPU使用工具和仪器工具现在支持多过程分析，从而在多个过程中提供了CPU活动的统一视图。通过为每个过程提供独特的颜色编码堆叠游泳车道的性能图，诊断和优化CPU使用情况现在比以往任何时候都更有效。解决多过程复杂性[…]</description>
+      <pubDate>Tue, 08 Apr 2025 16:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【April Patches for Azure DevOps Server and Team Foundation Server】Azure DevOps服务器和团队基础服务器的四月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3</link>
+      <description>【Today we are releasing patches that impact our self-hosted product, Azure DevOps Server, as well as Team Foundation Server 2018.3.2. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can download the latest version of the product, Azure DevOps Server 2022.2 from the Azure DevOps [&amp;hellip;]】今天，我们发布了影响我们自托管产品Azure DevOps服务器以及Team Foundation Server 2018.3.2的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。您可以从Azure Devops […]下载最新版本的产品Azure Devops Server 2022.2</description>
+      <pubDate>Tue, 08 Apr 2025 19:26:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
