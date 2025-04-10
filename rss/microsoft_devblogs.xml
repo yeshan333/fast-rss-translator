@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【Guest Blog: Semantic Kernel and Copilot Studio Usage Series – Part 1】嘉宾博客：语义内核和副副研究室用法系列 - 第1部分</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semantic-kernel-and-copilot-studio-usage-series-part-1</link>
-      <description>【Today on the Semantic Kernel blog we&amp;#8217;re excited to welcome a group of guest authors from Microsoft. We&amp;#8217;ll turn it over to Riccardo Chiodaroli, Samar El Housseini, Daniel Lavve and Fabrizio Ruocco to dive into their use cases with Semantic Kernel and Copilot Studio. In today&amp;#8217;s fast-paced digital economy, intelligent automation is no longer optional—it&amp;#8217;s [&amp;hellip;]】今天，在语义内核博客上，我们很高兴欢迎来自Microsoft的一群客座作家。我们将其移交给Riccardo Chiodaroli，Samar El Housseini，Daniel Lavve和Fabrizio Ruocco，以使用语义内核和Copilot Studio潜入他们的用例。在当今快节奏的数字经济中，智能自动化不再是可选的，它是[…]</description>
-      <pubDate>Mon, 07 Apr 2025 18:27:05 +0000</pubDate>
+      <title>【How to build Multi-agent AI Apps using Microsoft Azure】如何使用Microsoft Azure构建多代理AI应用程序</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-multi-agent-ai-apps-using-microsoft-azure</link>
+      <description>【Understanding Multi-Agent Workflow Automation  At its core, a multi-agent architecture is like a team of specialized experts working together on complex tasks. Instead of having a single AI agent trying to handle everything, multiple AI agents—each with specific roles and capabilities—collaborate to achieve common goals. Think of it as the difference between having one person [&amp;hellip;]】了解多代理工作流程自动化的核心，一个多代理体系结构就像一个专家团队，共同从事复杂的任务。与其让单个AI代理商试图处理所有事物，不如说是具有特定角色和能力的多个AI代理，以实现共同的目标。将其视为一个人[…]之间的区别</description>
+      <pubDate>Wed, 09 Apr 2025 23:14:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Build a Model Context Protocol (MCP) server in C#】在C＃中构建模型上下文协议（MCP）服务器</title>
-      <link>https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp</link>
-      <description>【Learn how to build a Model Context Protocol (MCP) server using the C# SDK to enable seamless communication between AI models and applications.】了解如何使用C＃SDK构建模型上下文协议（MCP）服务器，以启用AI模型和应用程序之间的无缝通信。</description>
-      <pubDate>Mon, 07 Apr 2025 17:05:00 +0000</pubDate>
+      <title>【Why can’t I use SEC_LARGE_PAGES with a file-based file mapping?】为什么我不能将sec_l​​arge_pages与基于文件的文件映射使用？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250409-00/?p=111061</link>
+      <description>【No paging, no crying.】没有分页，没有哭泣。</description>
+      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Enhancing Search Capabilities in SQL Server and Azure SQL with Hybrid Search and RRF Re-Ranking】通过混合搜索和RRF重新排名，在SQL Server和Azure SQL中增强搜索功能</title>
-      <link>https://devblogs.microsoft.com/azure-sql/enhancing-search-capabilities-in-sql-server-and-azure-sql-with-hybrid-search-and-rrf-re-ranking</link>
-      <description>【In today&amp;#8217;s data-driven world, delivering precise and contextually relevant search results is critical. SQL Server and Azure SQL Database now enable this through Hybrid Search—a technique that combines traditional full-text search with modern vector similarity search. This allows developers to build intelligent, AI-powered search experiences directly inside the database engine. Funny enough one of the [&amp;hellip;]】在当今数据驱动的世界中，提供精确和上下文相关的搜索结果至关重要。 SQL Server和Azure SQL数据库现在通过混合搜索启用此功能，该技术将传统的全文搜索与现代矢量相似性搜索相结合。这使开发人员可以直接在数据库引擎内部构建智能的AI驱动搜索体验。有趣的[…]之一</description>
-      <pubDate>Mon, 07 Apr 2025 15:00:08 +0000</pubDate>
+      <title>【How we ended up rewriting NuGet Restore in .NET 9】我们如何最终在.NET 9中重写Nuget还原</title>
+      <link>https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9</link>
+      <description>【Learn about the journey that led to a full rewrite of the NuGet Restore algorithm in .NET 9, achieving break-through scale and performance.】了解导致Nuget Restore算法在.NET 9中的全面改写的旅程，从而实现了突破性的规模和性能。</description>
+      <pubDate>Wed, 09 Apr 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【On priority inversion in the use of a spinlock to ensure atomic access to a shared_ptr】关于使用Spinlock的优先倒置，以确保原子访问共享_ptr</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250407-00/?p=111054</link>
-      <description>【Priority inversion may be rare, but correctness doesn&#39;t care about rarity.】优先倒置可能很少，但是正确性并不关心稀有性。</description>
-      <pubDate>Mon, 07 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Better Together: .NET Aspire, Azure Functions, and Visual Studio】更好地在一起：.net Aspire，Azure功能和视觉工作室</title>
+      <link>https://devblogs.microsoft.com//net-aspire-and-azure-functions-integration-preview</link>
+      <description>【Have you ever struggled with integrating serverless technology into your existing .NET projects? The new update in Visual Studio has got you covered. Say hello to the powerful integration of .NET Aspire with Azure Functions, making your development process smoother than ever before. With this release of Visual Studio, Azure Functions developers can enlist in [&amp;hellip;]】您是否曾经在将无服务器技术集成到现有的.NET项目中？ Visual Studio中的新更新使您覆盖了您。向.NET ASPIRE与Azure功能的强大整合打个招呼，这使您的开发过程比以往任何时候都更加光滑。随着Visual Studio的发布，Azure功能开发人员可以参与[…]</description>
+      <pubDate>Wed, 09 Apr 2025 15:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (March 2025)】VCPKG的新功能（2025年3月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-march-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.03.19 registry release, 2025-03-13 tool release, as well as changes to vcpkg documentation throughout March. This release includes two new commands for our continuous integration system PR reviews, minor bugfixes, a new documentation article on authenticating to NuGet feeds, and a [&amp;hellip;]】该博客文章总结了VCPKG软件包管理器的更改，作为2025.03.19注册表版本，2025-03-13工具版本的一部分，以及整个3月的VCPKG文档的更改。该版本包括两个新命令，用于我们的连续集成系统PR评论，次要错误相框，有关Nuget feed验证的新文档文档以及[…]</description>
-      <pubDate>Tue, 08 Apr 2025 18:05:06 +0000</pubDate>
+      <title>【Introducing the agent debugging experience in Microsoft 365 Copilot】在Microsoft 365 Copilot中引入代理调试体验</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-debugging-experience-in-microsoft-365-copilot</link>
+      <description>【Learn how to debug your agents within Microsoft 365 Copilot to streamline your workflow using the agent debugging experience, now generally available.】了解如何在Microsoft 365 Copilot中调试您的代理商，以使用代理调试体验简化工作流程，现在通常可用。</description>
+      <pubDate>Wed, 09 Apr 2025 13:58:31 +0000</pubDate>
     </item>
     <item>
-      <title>【The Goldilocks zone of software stability】软件稳定性的Goldilocks区域</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250408-00/?p=111057</link>
-      <description>【Not too new, not too old.】不太新，不太老。</description>
-      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Announcing Hybrid Search with Semantic Kernel for .NET】使用.NET的语义内核宣布混合搜索</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-hybrid-search-with-semantic-kernel-for-net</link>
+      <description>【Today we’re thrilled to announce support for Hybrid search with Semantic Kernel Vector Stores for .NET. What is Hybrid Search? Hybrid search performs two parallel searches on a vector database.  The union of the results of these two searches are then returned to callers with a combined rank, based on the rankings from each of [&amp;hellip;]】今天，我们很高兴宣布与.NET的语义内核矢量商店对混合搜索的支持。什么是混合搜索？混合搜索在矢量数据库上执行两个并行搜索。  然后，这两个搜索结果的结合基于[…]的每个排名，并将其汇总给呼叫者。</description>
+      <pubDate>Wed, 09 Apr 2025 19:48:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Python Vector Store Connectors update: Faiss, Azure SQL Server and Pinecone】Python Vector Store连接器更新：Faiss，Azure SQL Server和Pinecone</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/python-vector-store-connectors-update-faiss-azure-sql-server-and-pinecone</link>
-      <description>【Announcing New Vector Stores: Faiss, SQL Server, and Pinecone We are thrilled to announce the availability of three new Vector Stores and Vector Store Record Collections: Faiss, SQL Server, and Pinecone. These new connectors will enable you to store and retrieve vector data efficiently, making it easier to work with your own data and data [&amp;hellip;]】宣布新的向量商店：Faiss，SQL Server和Pinecone，我们很高兴宣布三家新矢量商店和矢量商店记录集合的可用性：Faiss，SQL Server和Pinecone。这些新连接器将使您能够有效地存储和检索向量数据，从而更容易使用自己的数据和数据[…]</description>
-      <pubDate>Tue, 08 Apr 2025 14:47:05 +0000</pubDate>
+      <title>【Unlock Real-Time Insights: Power BI Integration with vCore-based Azure Cosmos DB for MongoDB Now in Public Preview!】解锁实时洞察力：与基于VCORE的Azure Cosmos DB的Power BI集成现在是公开预览的MongoDB！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/unlock-real-time-insights-power-bi-integration-with-azure-cosmos-db-for-mongodb-vcore-now-in-public-preview</link>
+      <description>【We are excited to introduce Power BI integration for vCore-based Azure Cosmos DB for MongoDB. This certified solution brings your operational data to life through real-time dashboards, directly in the Power BI interface that your analytics teams already love.  You can now connect Power BI Desktop directly to your vCore-based Azure Cosmos DB for MongoDB [&amp;hellip;]】我们很高兴为基于Vcore的Azure Cosmos DB引入Power BI集成。该认证的解决方案将您的操作数据通过实时仪表板将您的运营数据带入了寿命，直接在您的分析团队已经喜欢的Power BI界面中。  现在，您可以将Power BI桌面直接连接到基于Vcore的Azure Cosmos DB […]</description>
+      <pubDate>Wed, 09 Apr 2025 14:54:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Dev Box subscriptions and licensing requirements demystified: What You Need and Why】Microsoft Dev Box订阅和许可要求宣传：您需要什么以及为什么</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/microsoft-dev-box-subscriptions-and-licensing-requirements-demystified</link>
-      <description>【Thinking of deploying Microsoft Dev Box service but want to understand the licensing and subscription requirements first? Then, you have come to the right place. This blog post breaks it all down—clearly and simply—so you know exactly what you need and why, whether you’re an IT admin, platform engineer, developer, or a decision-maker. Microsoft Dev [&amp;hellip;]】考虑部署Microsoft Dev Box服务，但想首先了解许可和订阅要求？然后，您来了正确的位置。这篇博客文章明显地将其全部弄清楚了，因此您确切地知道您需要什么以及为什么您是IT管理员，平台工程师，开发人员，还是决策者。 Microsoft Dev […]</description>
-      <pubDate>Tue, 08 Apr 2025 22:22:44 +0000</pubDate>
+      <title>【April 2025: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2025年4月：查看最新的Microsoft Entra密钥功能发布，公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-apr-2025</link>
+      <description>【This is the April 2025 edition of our monthly developer update, summarizing the latest news and developments in Microsoft Entra. This month, we bring you feature updates, public previews, announcements, and other important updates. Read on to learn more and make the most of Microsoft Entra.】这是2025年4月的我们每月开发人员更新的版本，总结了Microsoft Entra的最新新闻和开发。本月，我们为您带来更新，公共预览，公告和其他重要更新。继续阅读以了解更多信息并充分利用Microsoft Entra。</description>
+      <pubDate>Wed, 09 Apr 2025 12:53:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Multi-Process CPU Usage Analysis in Visual Studio】视觉工作室中的多进程CPU使用分析</title>
-      <link>https://devblogs.microsoft.com/visualstudio/multi-process-cpu-usage-analysis-in-visual-studio</link>
-      <description>【Streamlined Performance Insights Across Processes The Visual Studio Profiler&amp;#8217;s CPU Usage tool and Instrumentation tool now supports multi-process analysis, providing a unified view of CPU activity across multiple processes. With performance graphs featuring distinct, color-coded stacked swim lanes for each process, diagnosing and optimizing CPU usage is now more efficient than ever. Tackling Multi-Process Complexity [&amp;hellip;]】简化了跨流程的性能见解，Visual Studio Profiler的CPU使用工具和仪器工具现在支持多过程分析，从而在多个过程中提供了CPU活动的统一视图。通过为每个过程提供独特的颜色编码堆叠游泳车道的性能图，诊断和优化CPU使用情况现在比以往任何时候都更有效。解决多过程复杂性[…]</description>
-      <pubDate>Tue, 08 Apr 2025 16:17:16 +0000</pubDate>
+      <title>【Guest Blog: A Comprehensive Guide to Agentic AI with Semantic Kernel】来宾博客：具有语义内核的代理AI综合指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-a-comprehensive-guide-to-agentic-ai-with-semantic-kernel</link>
+      <description>【Today we&amp;#8217;re excited to welcome Arafat Tehsin, who’s a Microsoft Most Valuable Professional (MVP) for AI. back as a guest author on the Semantic Kernel blog today to cover his work on a Comprehensive Guide to Agentic AI with Semantic Kernel. We&amp;#8217;ll turn it over to Arafat to dive in further. The world of AI is evolving [&amp;hellip;]】今天，我们很高兴欢迎Arafat Tehsin，他是Microsoft最有价值的专业人士（MVP）。回到今天的语义内核博客上的来宾作者，以介绍他在用语义内核的代理AI综合指南上的工作。 我们将其移交给Arafat进一步潜水。 AI的世界正在发展[…]</description>
+      <pubDate>Wed, 09 Apr 2025 13:58:59 +0000</pubDate>
     </item>
     <item>
-      <title>【April Patches for Azure DevOps Server and Team Foundation Server】Azure DevOps服务器和团队基础服务器的四月补丁</title>
-      <link>https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3</link>
-      <description>【Today we are releasing patches that impact our self-hosted product, Azure DevOps Server, as well as Team Foundation Server 2018.3.2. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can download the latest version of the product, Azure DevOps Server 2022.2 from the Azure DevOps [&amp;hellip;]】今天，我们发布了影响我们自托管产品Azure DevOps服务器以及Team Foundation Server 2018.3.2的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。您可以从Azure Devops […]下载最新版本的产品Azure Devops Server 2022.2</description>
-      <pubDate>Tue, 08 Apr 2025 19:26:16 +0000</pubDate>
+      <title>【.NET and .NET Framework April 2025 servicing releases updates】.NET和.NET框架2025年4月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2025-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for April 2025.】2025年4月的.NET和.NET框架的最新服务更新的回顾。</description>
+      <pubDate>Wed, 09 Apr 2025 19:06:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
