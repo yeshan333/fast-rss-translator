@@ -4,34 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Empowering every developer with trusted Microsoft insights</description>
     <item>
-      <title>【How to build Multi-agent AI Apps using Microsoft Azure】如何使用Microsoft Azure构建多代理AI应用程序</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-multi-agent-ai-apps-using-microsoft-azure</link>
-      <description>【Understanding Multi-Agent Workflow Automation  At its core, a multi-agent architecture is like a team of specialized experts working together on complex tasks. Instead of having a single AI agent trying to handle everything, multiple AI agents—each with specific roles and capabilities—collaborate to achieve common goals. Think of it as the difference between having one person [&amp;hellip;]】了解多代理工作流程自动化的核心，一个多代理体系结构就像一个专家团队，共同从事复杂的任务。与其让单个AI代理商试图处理所有事物，不如说是具有特定角色和能力的多个AI代理，以实现共同的目标。将其视为一个人[…]之间的区别</description>
-      <pubDate>Wed, 09 Apr 2025 23:14:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why can’t I use SEC_LARGE_PAGES with a file-based file mapping?】为什么我不能将sec_l​​arge_pages与基于文件的文件映射使用？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250409-00/?p=111061</link>
-      <description>【No paging, no crying.】没有分页，没有哭泣。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【How we ended up rewriting NuGet Restore in .NET 9】我们如何最终在.NET 9中重写Nuget还原</title>
       <link>https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9</link>
       <description>【Learn about the journey that led to a full rewrite of the NuGet Restore algorithm in .NET 9, achieving break-through scale and performance.】了解导致Nuget Restore算法在.NET 9中的全面改写的旅程，从而实现了突破性的规模和性能。</description>
       <pubDate>Wed, 09 Apr 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Better Together: .NET Aspire, Azure Functions, and Visual Studio】更好地在一起：.net Aspire，Azure功能和视觉工作室</title>
-      <link>https://devblogs.microsoft.com//net-aspire-and-azure-functions-integration-preview</link>
-      <description>【Have you ever struggled with integrating serverless technology into your existing .NET projects? The new update in Visual Studio has got you covered. Say hello to the powerful integration of .NET Aspire with Azure Functions, making your development process smoother than ever before. With this release of Visual Studio, Azure Functions developers can enlist in [&amp;hellip;]】您是否曾经在将无服务器技术集成到现有的.NET项目中？ Visual Studio中的新更新使您覆盖了您。向.NET ASPIRE与Azure功能的强大整合打个招呼，这使您的开发过程比以往任何时候都更加光滑。随着Visual Studio的发布，Azure功能开发人员可以参与[…]</description>
-      <pubDate>Wed, 09 Apr 2025 15:00:49 +0000</pubDate>
+      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
+      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the agent debugging experience in Microsoft 365 Copilot】在Microsoft 365 Copilot中引入代理调试体验</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-debugging-experience-in-microsoft-365-copilot</link>
-      <description>【Learn how to debug your agents within Microsoft 365 Copilot to streamline your workflow using the agent debugging experience, now generally available.】了解如何在Microsoft 365 Copilot中调试您的代理商，以使用代理调试体验简化工作流程，现在通常可用。</description>
-      <pubDate>Wed, 09 Apr 2025 13:58:31 +0000</pubDate>
+      <title>【.NET and .NET Framework April 2025 servicing releases updates】.NET和.NET框架2025年4月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2025-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for April 2025.】2025年4月的.NET和.NET框架的最新服务更新的回顾。</description>
+      <pubDate>Wed, 09 Apr 2025 19:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Function overloading is more flexible (and more convenient) than template function specialization】与模板功能专业化相比，功能超载更灵活（更方便）</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250410-00/?p=111063</link>
+      <description>【You can change more things in an overload.】您可以在超负荷中更改更多内容。</description>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Hybrid Search with Semantic Kernel for .NET】使用.NET的语义内核宣布混合搜索</title>
@@ -40,28 +34,34 @@
       <pubDate>Wed, 09 Apr 2025 19:48:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlock Real-Time Insights: Power BI Integration with vCore-based Azure Cosmos DB for MongoDB Now in Public Preview!】解锁实时洞察力：与基于VCORE的Azure Cosmos DB的Power BI集成现在是公开预览的MongoDB！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/unlock-real-time-insights-power-bi-integration-with-azure-cosmos-db-for-mongodb-vcore-now-in-public-preview</link>
-      <description>【We are excited to introduce Power BI integration for vCore-based Azure Cosmos DB for MongoDB. This certified solution brings your operational data to life through real-time dashboards, directly in the Power BI interface that your analytics teams already love.  You can now connect Power BI Desktop directly to your vCore-based Azure Cosmos DB for MongoDB [&amp;hellip;]】我们很高兴为基于Vcore的Azure Cosmos DB引入Power BI集成。该认证的解决方案将您的操作数据通过实时仪表板将您的运营数据带入了寿命，直接在您的分析团队已经喜欢的Power BI界面中。  现在，您可以将Power BI桌面直接连接到基于Vcore的Azure Cosmos DB […]</description>
-      <pubDate>Wed, 09 Apr 2025 14:54:31 +0000</pubDate>
+      <title>【.NET Aspire 9.2 is Now Available with New Ways to Deploy】.NET ASPIRE 9.2现在可以提供新的部署方式</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy</link>
+      <description>【.NET Aspire 9.2 is now available with cool new dashboard features and introducing the publishers feature】.NET ASPIRE 9.2现在可以提供凉爽的新仪表板功能并介绍发布者功能</description>
+      <pubDate>Thu, 10 Apr 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【April 2025: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2025年4月：查看最新的Microsoft Entra密钥功能发布，公告和更新</title>
-      <link>https://devblogs.microsoft.com/identity/eng-connect-apr-2025</link>
-      <description>【This is the April 2025 edition of our monthly developer update, summarizing the latest news and developments in Microsoft Entra. This month, we bring you feature updates, public previews, announcements, and other important updates. Read on to learn more and make the most of Microsoft Entra.】这是2025年4月的我们每月开发人员更新的版本，总结了Microsoft Entra的最新新闻和开发。本月，我们为您带来更新，公共预览，公告和其他重要更新。继续阅读以了解更多信息并充分利用Microsoft Entra。</description>
-      <pubDate>Wed, 09 Apr 2025 12:53:04 +0000</pubDate>
+      <title>【Microsoft 365 Certification control spotlight: Privacy】Microsoft 365认证控制聚光灯：隐私</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-privacy</link>
+      <description>【Discover how Microsoft 365 Certification ensures ISVs use the latest privacy and personally identifiable information (PII) management controls to protect customer data.】查找Microsoft 365认证如何确保ISV使用最新的隐私和个人身份信息（PII）管理控件来保护客户数据。</description>
+      <pubDate>Thu, 10 Apr 2025 14:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: A Comprehensive Guide to Agentic AI with Semantic Kernel】来宾博客：具有语义内核的代理AI综合指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-a-comprehensive-guide-to-agentic-ai-with-semantic-kernel</link>
-      <description>【Today we&amp;#8217;re excited to welcome Arafat Tehsin, who’s a Microsoft Most Valuable Professional (MVP) for AI. back as a guest author on the Semantic Kernel blog today to cover his work on a Comprehensive Guide to Agentic AI with Semantic Kernel. We&amp;#8217;ll turn it over to Arafat to dive in further. The world of AI is evolving [&amp;hellip;]】今天，我们很高兴欢迎Arafat Tehsin，他是Microsoft最有价值的专业人士（MVP）。回到今天的语义内核博客上的来宾作者，以介绍他在用语义内核的代理AI综合指南上的工作。 我们将其移交给Arafat进一步潜水。 AI的世界正在发展[…]</description>
-      <pubDate>Wed, 09 Apr 2025 13:58:59 +0000</pubDate>
+      <title>【Getting insights from changes to items in Azure Cosmos DB just got easier!】从变更到Azure Cosmos DB中的项目中获得见解变得更加容易！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/getting-insights-from-changes-to-items-in-azure-cosmos-db-just-got-easier</link>
+      <description>【Azure Cosmos DB’s change feed provides a view of changes to data in your container. This enables patterns like event sourcing, auditing and synchronizing downstream systems. Change feed can be read in real time or on demand, giving you the most flexibility for processing and reprocessing changes. Change feed is available in two modes, latest [&amp;hellip;]】Azure Cosmos DB的更改fef提供了对容器中数据的更改的视图。这可以实现诸如事件采购，审核和同步下游系统之类的模式。更改供稿可以实时或按需阅读，从而为您提供处理和再处理更改的最灵活性。更改供稿有两种模式可用，最新的[…]</description>
+      <pubDate>Fri, 11 Apr 2025 00:49:33 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework April 2025 servicing releases updates】.NET和.NET框架2025年4月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2025-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for April 2025.】2025年4月的.NET和.NET框架的最新服务更新的回顾。</description>
-      <pubDate>Wed, 09 Apr 2025 19:06:24 +0000</pubDate>
+      <title>【Microsoft at PyTexas 2025: Join Us for a Celebration of Python and Innovation】Microsoft在Pytexas 2025：加入我们，庆祝Python和创新</title>
+      <link>https://devblogs.microsoft.com/python/pytexas-2025</link>
+      <description>【Microsoft is thrilled to announce our participation in PyTexas 2025, taking place this year in the vibrant city of Austin, Texas! At this year’s event, Microsoft is proud to contribute to the community’s growth and excitement by hosting a booth and delivering an engaging talk.】微软很高兴宣布我们参加今年在充满活力的德克萨斯州奥斯汀市举行的Pytexas 2025！在今年的活动中，微软很自豪地通过举办展位并发表引人入胜的演讲来为社区的成长和兴奋做出贡献。</description>
+      <pubDate>Thu, 10 Apr 2025 17:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to build Multi-agent AI Apps using Microsoft Azure】如何使用Microsoft Azure构建多代理AI应用程序</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-multi-agent-ai-apps-using-microsoft-azure</link>
+      <description>【Understanding Multi-Agent Workflow Automation  At its core, a multi-agent architecture is like a team of specialized experts working together on complex tasks. Instead of having a single AI agent trying to handle everything, multiple AI agents—each with specific roles and capabilities—collaborate to achieve common goals. Think of it as the difference between having one person [&amp;hellip;]】了解多代理工作流程自动化的核心，一个多代理体系结构就像一个专家团队，共同从事复杂的任务。与其让单个AI代理商试图处理所有事物，不如说是具有特定角色和能力的多个AI代理，以实现共同的目标。将其视为一个人[…]之间的区别</description>
+      <pubDate>Wed, 09 Apr 2025 23:14:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,33 +10,9 @@
       <pubDate>Tue, 08 Apr 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Make your apps truly interactive with Cloudflare Realtime and RealtimeKit 】使您的应用与CloudFlare实时和Realtimekit真正互动</title>
-      <link>https://blog.cloudflare.com/introducing-cloudflare-realtime-and-realtimekit/</link>
-      <description>【 Announcing Cloudflare Realtime and RealtimeKit, a complete toolkit for shipping real-time audio and video apps in days with SDKs for Kotlin, React Native, Swift, JavaScript, and Flutter. 】宣布CloudFlare实时和RealtimeKit，这是一个完整的工具包，用于与Kotlin，React Native，Swift，JavaScript和Flutter的SDK一起运送实时音频和视频应用程序。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build global MySQL apps using Cloudflare Workers and Hyperdrive】使用CloudFlare工人和HyperDrive构建全局MySQL应用程序</title>
-      <link>https://blog.cloudflare.com/building-global-mysql-apps-with-cloudflare-workers-and-hyperdrive/</link>
-      <description>【 MySQL comes to Cloudflare Workers and Hyperdrive: MySQL drivers and ORMs are now compatible with Workers runtime, and Hyperdrive allow you to connect to your regional database from Workers. 】MySQL来到Cloudflare工人和HyperDrive：MySQL驱动程序和ORMS现在与工人的运行时兼容，并且超级驱动器可让您从工人连接到您的区域数据库。</description>
-      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Network performance update: Developer Week 2025】网络性能更新：开发人员周2025周</title>
       <link>https://blog.cloudflare.com/network-performance-update-developer-week-2025/</link>
       <description>【 Cloudflare has been tracking and comparing our speed with other top networks since 2021. Let’s take a look at how things have changed since our last update. 】自2021年以来，CloudFlare一直在跟踪和比较我们的速度与其他顶级网络。让我们来看看自上次更新以来的情况如何变化。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【&#34;Just use Vite”… with the Workers runtime】“只需使用Vite”…与工人运行时</title>
-      <link>https://blog.cloudflare.com/introducing-the-cloudflare-vite-plugin/</link>
-      <description>【 The Cloudflare Vite plugin integrates Vite, one of the most popular build tools for web development, with Workers runtime. Today, we announce the 1.0 release and official support for React Router v7. 】CloudFlare Vite插件与工人的运行时集成了Vite，这是Web开发最受欢迎的构建工具之一。今天，我们宣布对React Router V7的1.0发布和官方支持。</description>
-      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Cloudflare Secrets Store (Beta): secure your secrets, simplify your workflow】介绍Cloudflare Secrets商店（Beta）：保护您的秘密，简化工作流程</title>
-      <link>https://blog.cloudflare.com/secrets-store-beta/</link>
-      <description>【 Securely store, manage and deploy account level secrets to Cloudflare Workers through Cloudflare Secrets Store, available in beta – with role-based access control, audit logging and Wrangler support. 】通过CloudFlare Secrets Store（可在Beta中使用）安全地存储，管理和部署帐户级别的秘密，并具有基于角色的访问控制，审计记录和牧马人的支持。</description>
       <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,22 +22,46 @@
       <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Deploy your Next.js app to Cloudflare Workers with the Cloudflare adapter for OpenNext】使用OpenNext的CloudFlare适配器将您的下一个应用程序应用于CloudFlare工人</title>
-      <link>https://blog.cloudflare.com/deploying-nextjs-apps-to-cloudflare-workers-with-the-opennext-adapter/</link>
-      <description>【 With the 1.0-beta release of the Cloudflare adapter for OpenNext, you can host your Next.js 14 and 15 applications on Cloudflare Workers. 】借助OpenNext的CloudFlare适配器的1.0-beta版本，您可以在Cloudflare工人上托管下一个和15个应用程序。</description>
-      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pools across the sea: how Hyperdrive speeds up access to databases and why we’re making it free】跨海的池：高速驱动器如何加快访问数据库的访问以及我们为何免费</title>
-      <link>https://blog.cloudflare.com/how-hyperdrive-speeds-up-database-access/</link>
-      <description>【 Hyperdrive, Cloudflare&#39;s global connection pooler, relies on some key innovations to make your database connections work. Let&#39;s dive deeper, in celebration of its availability for Free Plan customers. 】CloudFlare的全局连接池HyperDrive依靠一些关键的创新来使您的数据库连接起作用。让我们更深入地探讨其对免费计划客户的可用性。</description>
-      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Sequential consistency without borders: how D1 implements global read replication】顺序一致性无边界：D1如何实现全局读取复制</title>
+      <link>https://blog.cloudflare.com/d1-read-replication-beta/</link>
+      <description>【 D1, Cloudflare’s managed SQL database, announces read replication beta. Here&#39;s a deep dive of the read replication implementation and how your queries can remain consistent across all regions. 】D1，CloudFlare的托管SQL数据库，宣布阅读复制Beta。这是对读取复制实现的深入研究，以及您的查询如何在所有地区保持一致。</description>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare Snippets are now Generally Available】Cloudflare片段现在通常可用</title>
       <link>https://blog.cloudflare.com/snippets/</link>
       <description>【 Cloudflare Snippets are now generally available, enabling fast, cost-free JavaScript-based HTTP traffic modifications across all paid plans.  】现在通常可以使用CloudFlare片段，可以在所有付费计划中进行基于JavaScript的快速，基于成本的JavaScript HTTP流量修改。</description>
       <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Make your apps truly interactive with Cloudflare Realtime and RealtimeKit 】使您的应用与CloudFlare实时和Realtimekit真正互动</title>
+      <link>https://blog.cloudflare.com/introducing-cloudflare-realtime-and-realtimekit/</link>
+      <description>【 Announcing Cloudflare Realtime and RealtimeKit, a complete toolkit for shipping real-time audio and video apps in days with SDKs for Kotlin, React Native, Swift, JavaScript, and Flutter. 】宣布CloudFlare实时和RealtimeKit，这是一个完整的工具包，用于与Kotlin，React Native，Swift，JavaScript和Flutter的SDK一起运送实时音频和视频应用程序。</description>
+      <pubDate>Wed, 09 Apr 2025 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Making Super Slurper 5x faster with Workers, Durable Objects, and Queues】用工人，耐用的物体和队列使超级slul 5倍更快地使超级5倍</title>
+      <link>https://blog.cloudflare.com/making-super-slurper-five-times-faster/</link>
+      <description>【 We re-architected Super Slurper from the ground up using our Developer Platform — leveraging Cloudflare Workers, Durable Objects, and Queues — and improved transfer speeds by up to 5x. 】我们使用开发人员平台（利用Cloudflare工人，耐用的对象和队列）从头开始重新建立了超级sul骨，并提高了高达5倍的传输速度。</description>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Just landed: streaming ingestion on Cloudflare with Arroyo and Pipelines】刚刚降落：与Arroyo和Pipelines在Cloudflare上插入</title>
+      <link>https://blog.cloudflare.com/cloudflare-acquires-arroyo-pipelines-streaming-ingestion-beta/</link>
+      <description>【 We’ve just shipped our new streaming ingestion service, Pipelines — and we’ve acquired Arroyo, enabling us to bring new SQL-based, stateful transformations to Pipelines and R2. 】我们刚刚运送了新的流摄取服务Pipelines  - 我们已经收购了Arroyo，使我们能够将新的基于SQL的状态转换带到管道和R2。</description>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Cloudflare Secrets Store (Beta): secure your secrets, simplify your workflow】介绍Cloudflare Secrets商店（Beta）：保护您的秘密，简化工作流程</title>
+      <link>https://blog.cloudflare.com/secrets-store-beta/</link>
+      <description>【 Securely store, manage and deploy account level secrets to Cloudflare Workers through Cloudflare Secrets Store, available in beta – with role-based access control, audit logging and Wrangler support. 】通过CloudFlare Secrets Store（可在Beta中使用）安全地存储，管理和部署帐户级别的秘密，并具有基于角色的访问控制，审计记录和牧马人的支持。</description>
+      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees】R2数据目录：托管Apache冰山桌零出口费</title>
+      <link>https://blog.cloudflare.com/r2-data-catalog-public-beta/</link>
+      <description>【 R2 Data Catalog is now in public beta: a managed Apache Iceberg data catalog built directly into your R2 bucket. 】R2数据目录现在在公共Beta中：直接构建在R2存储桶中的托管Apache Iceberg数据目录。</description>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

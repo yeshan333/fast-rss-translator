@@ -4,46 +4,22 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>使用Amazon Sagemaker Canvas培训呼叫中心欺诈检测模型</title>
-      <link>https://aws.amazon.com/blogs/architecture/training-a-call-center-fraud-detection-model-for-ivr-calls-with-amazon-sagemaker-canvas/</link>
-      <description></description>
-      <pubDate>Fri, 07 Mar 2025 17:09:39 +0000</pubDate>
-    </item>
-    <item>
       <title>宣布具有混合云服务镜头良好的数据居住权</title>
       <link>https://aws.amazon.com/blogs/architecture/announcing-the-well-architected-data-residency-with-hybrid-cloud-services-lens/</link>
       <description></description>
       <pubDate>Thu, 03 Apr 2025 19:02:48 +0000</pubDate>
     </item>
     <item>
-      <title>使用AWS良好的框架实现十二个因子</title>
-      <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
+      <title>使用Amazon Sagemaker Canvas培训呼叫中心欺诈检测模型</title>
+      <link>https://aws.amazon.com/blogs/architecture/training-a-call-center-fraud-detection-model-for-ivr-calls-with-amazon-sagemaker-canvas/</link>
       <description></description>
-      <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
+      <pubDate>Fri, 07 Mar 2025 17:09:39 +0000</pubDate>
     </item>
     <item>
       <title>使用Amazon API网关构建企业API管理解决方案</title>
       <link>https://aws.amazon.com/blogs/architecture/build-an-enterprise-api-management-solution-using-amazon-api-gateway/</link>
       <description></description>
       <pubDate>Tue, 11 Mar 2025 18:46:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>保留容量的飞行员灯：如何使用按需容量预订来优化DR成本</title>
-      <link>https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/</link>
-      <description></description>
-      <pubDate>Thu, 20 Mar 2025 13:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>3周内的UNIDAYS如何在AWS地区扩张</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-unidays-achieved-aws-region-expansion-in-3-weeks/</link>
-      <description></description>
-      <pubDate>Tue, 08 Apr 2025 16:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wellight现代化了以事件为导向的架构，以管理爆发和不可预测的交通</title>
-      <link>https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/</link>
-      <description></description>
-      <pubDate>Mon, 24 Feb 2025 16:19:34 +0000</pubDate>
     </item>
     <item>
       <title>从虚拟机到Kubernetes再到无服务器：Dacadoo如何节省78％的云成本和自动化操作</title>
@@ -62,6 +38,30 @@
       <link>https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/</link>
       <description></description>
       <pubDate>Thu, 20 Mar 2025 13:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>保留容量的飞行员灯：如何使用按需容量预订来优化DR成本</title>
+      <link>https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/</link>
+      <description></description>
+      <pubDate>Thu, 20 Mar 2025 13:53:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用AWS良好的框架实现十二个因子</title>
+      <link>https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/</link>
+      <description></description>
+      <pubDate>Mon, 17 Feb 2025 16:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>3周内的UNIDAYS如何在AWS地区扩张</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-unidays-achieved-aws-region-expansion-in-3-weeks/</link>
+      <description></description>
+      <pubDate>Tue, 08 Apr 2025 16:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wellight现代化了以事件为导向的架构，以管理爆发和不可预测的交通</title>
+      <link>https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/</link>
+      <description></description>
+      <pubDate>Mon, 24 Feb 2025 16:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
