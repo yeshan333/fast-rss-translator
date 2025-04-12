@@ -4,22 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Your frontend, backend, and database — now in one Cloudflare Worker】您的前端，后端和数据库 - 现在在一个Cloudflare工人中</title>
-      <link>https://blog.cloudflare.com/full-stack-development-on-cloudflare-workers/</link>
-      <description>【 You can now deploy static sites and full-stack applications on Cloudflare Workers. Framework support for React Router v7, Astro, Vue and more are generally available today and Cloudflare Vite plugin.  】现在，您可以在CloudFlare工人上部署静态站点和全堆栈应用程序。今天通常可以使用React Router V7，Astro，Vue等框架支持React路由器V7，以及CloudFlare Vite插件。</description>
-      <pubDate>Tue, 08 Apr 2025 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Network performance update: Developer Week 2025】网络性能更新：开发人员周2025周</title>
-      <link>https://blog.cloudflare.com/network-performance-update-developer-week-2025/</link>
-      <description>【 Cloudflare has been tracking and comparing our speed with other top networks since 2021. Let’s take a look at how things have changed since our last update. 】自2021年以来，CloudFlare一直在跟踪和比较我们的速度与其他顶级网络。让我们来看看自上次更新以来的情况如何变化。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Workers Observability: logs, metrics, and queries – all in one place】介绍工人的可观察性：日志，指标和查询 - 全部在一个地方</title>
-      <link>https://blog.cloudflare.com/introducing-workers-observability-logs-metrics-and-queries-all-in-one-place/</link>
-      <description>【 We’ve improved Observability for Workers by announcing the General Availability of Workers Logs and the introduction of the Query Builder to help you investigate log events across all of your Workers. 】我们通过宣布工人日志的一般可用性和引入查询构建器来帮助您调查所有工人的日志事件，从而提高了工人的可观察性。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Workers AI gets a speed boost, batch workload support, more LoRAs, new models, and a refreshed dashboard】工人AI获得了速度提升，批处理工作负载支持，更多的Loras，新型号和刷新的仪表板</title>
+      <link>https://blog.cloudflare.com/workers-ai-improvements/</link>
+      <description>【 We just made Workers AI inference faster with speculative decoding &amp; prefix caching. Use our new batch inference for handling large request volumes seamlessly. 】我们刚刚通过投机解码和前缀缓存使工人AI推理更快。使用我们的新批次推理无缝处理大型请求量。</description>
+      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Sequential consistency without borders: how D1 implements global read replication】顺序一致性无边界：D1如何实现全局读取复制</title>
@@ -28,40 +16,52 @@
       <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare Snippets are now Generally Available】Cloudflare片段现在通常可用</title>
-      <link>https://blog.cloudflare.com/snippets/</link>
-      <description>【 Cloudflare Snippets are now generally available, enabling fast, cost-free JavaScript-based HTTP traffic modifications across all paid plans.  】现在通常可以使用CloudFlare片段，可以在所有付费计划中进行基于JavaScript的快速，基于成本的JavaScript HTTP流量修改。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【A next-generation Certificate Transparency log built on Cloudflare Workers】下一代证书透明度日志建立在Cloudflare工人上</title>
+      <link>https://blog.cloudflare.com/azul-certificate-transparency-log/</link>
+      <description>【 Learn about recent developments in Certificate Transparency (CT), and how we built a next-generation CT log on top of Cloudflare&#39;s Developer Platform. 】了解证书透明度（CT）的最新发展以及我们如何在Cloudflare开发人员平台上建立下一代CT登录。</description>
+      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Make your apps truly interactive with Cloudflare Realtime and RealtimeKit 】使您的应用与CloudFlare实时和Realtimekit真正互动</title>
-      <link>https://blog.cloudflare.com/introducing-cloudflare-realtime-and-realtimekit/</link>
-      <description>【 Announcing Cloudflare Realtime and RealtimeKit, a complete toolkit for shipping real-time audio and video apps in days with SDKs for Kotlin, React Native, Swift, JavaScript, and Flutter. 】宣布CloudFlare实时和RealtimeKit，这是一个完整的工具包，用于与Kotlin，React Native，Swift，JavaScript和Flutter的SDK一起运送实时音频和视频应用程序。</description>
-      <pubDate>Wed, 09 Apr 2025 14:05:00 +0000</pubDate>
+      <title>【Startup Program update: empowering every stage of the startup journey】启动计划更新：授权启动旅程的每个阶段</title>
+      <link>https://blog.cloudflare.com/expanding-cloudflares-startup-program/</link>
+      <description>【 Cloudflare’s Startup Program offers up to $250,000 in credits for companies building on our Developer Platform across 4 tiers: $5,000, $25,000, $100,000, and $250,000. 】CloudFlare的启动计划为在我们开发人员平台上建立4层的公司提供高达25万美元的学分：5,000美元，25,000美元，100,000美元和25万美元。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Making Super Slurper 5x faster with Workers, Durable Objects, and Queues】用工人，耐用的物体和队列使超级slul 5倍更快地使超级5倍</title>
       <link>https://blog.cloudflare.com/making-super-slurper-five-times-faster/</link>
       <description>【 We re-architected Super Slurper from the ground up using our Developer Platform — leveraging Cloudflare Workers, Durable Objects, and Queues — and improved transfer speeds by up to 5x. 】我们使用开发人员平台（利用Cloudflare工人，耐用的对象和队列）从头开始重新建立了超级sul骨，并提高了高达5倍的传输速度。</description>
-      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Apr 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Just landed: streaming ingestion on Cloudflare with Arroyo and Pipelines】刚刚降落：与Arroyo和Pipelines在Cloudflare上插入</title>
-      <link>https://blog.cloudflare.com/cloudflare-acquires-arroyo-pipelines-streaming-ingestion-beta/</link>
-      <description>【 We’ve just shipped our new streaming ingestion service, Pipelines — and we’ve acquired Arroyo, enabling us to bring new SQL-based, stateful transformations to Pipelines and R2. 】我们刚刚运送了新的流摄取服务Pipelines  - 我们已经收购了Arroyo，使我们能够将新的基于SQL的状态转换带到管道和R2。</description>
-      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Startup spotlight: building AI agents and accelerating innovation with Cohort #5】启动聚光灯：建立AI代理商并加速与队列的创新</title>
+      <link>https://blog.cloudflare.com/ai-agents-and-innovation-with-launchpad-cohort5/</link>
+      <description>【 Discover how developers are using Cloudflare to scale AI workloads and streamline automation and how participants in Workers Launchpad Cohort #4 have built, and startups participating in Cohort #5 】查找开发人员如何使用CloudFlare来扩展AI工作负载和简化自动化以及工人的参与者如何构建了Launchpad Cohort＃4，以及参与COHORT＃5的初创公司</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Cloudflare Secrets Store (Beta): secure your secrets, simplify your workflow】介绍Cloudflare Secrets商店（Beta）：保护您的秘密，简化工作流程</title>
-      <link>https://blog.cloudflare.com/secrets-store-beta/</link>
-      <description>【 Securely store, manage and deploy account level secrets to Cloudflare Workers through Cloudflare Secrets Store, available in beta – with role-based access control, audit logging and Wrangler support. 】通过CloudFlare Secrets Store（可在Beta中使用）安全地存储，管理和部署帐户级别的秘密，并具有基于角色的访问控制，审计记录和牧马人的支持。</description>
-      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
+      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
+      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees】R2数据目录：托管Apache冰山桌零出口费</title>
       <link>https://blog.cloudflare.com/r2-data-catalog-public-beta/</link>
       <description>【 R2 Data Catalog is now in public beta: a managed Apache Iceberg data catalog built directly into your R2 bucket. 】R2数据目录现在在公共Beta中：直接构建在R2存储桶中的托管Apache Iceberg数据目录。</description>
       <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A global virtual private cloud for building secure cross-cloud apps on Cloudflare Workers】用于在Cloudflare工人上构建安全横云应用程序的全局虚拟私有云</title>
+      <link>https://blog.cloudflare.com/workers-virtual-private-cloud/</link>
+      <description>【 We’re announcing Workers VPC: a global private network that allows applications deployed on Cloudflare Workers to connect to your legacy cloud infrastructure.  】我们宣布工人VPC：一个全球专用网络，允许在CloudFlare工人上部署的应用程序连接到您的传统云基础架构。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we simplified NCMEC reporting with Cloudflare Workflows】我们如何用Cloudflare工作流简化NCMEC报告</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <description>【 We transitioned to Cloudflare Workflows to manage complex, multi-step processes more efficiently. This shift replaced our National Center for Missing &amp; Exploited Children (NCMEC) reporting system. 】我们过渡到CloudFlare工作流程，以更有效地管理复杂的多步骤过程。这一转变取代了我们国家失踪和被剥削儿童中心（NCMEC）报告系统。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

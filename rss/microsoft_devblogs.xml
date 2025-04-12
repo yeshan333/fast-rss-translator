@@ -2,37 +2,7 @@
   <channel>
     <title>Microsoft for Developers</title>
     <link>https://devblogs.microsoft.com/landingpage/</link>
-    <description>Empowering every developer with trusted Microsoft insights</description>
-    <item>
-      <title>【How we ended up rewriting NuGet Restore in .NET 9】我们如何最终在.NET 9中重写Nuget还原</title>
-      <link>https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9</link>
-      <description>【Learn about the journey that led to a full rewrite of the NuGet Restore algorithm in .NET 9, achieving break-through scale and performance.】了解导致Nuget Restore算法在.NET 9中的全面改写的旅程，从而实现了突破性的规模和性能。</description>
-      <pubDate>Wed, 09 Apr 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
-      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
-      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework April 2025 servicing releases updates】.NET和.NET框架2025年4月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2025-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for April 2025.】2025年4月的.NET和.NET框架的最新服务更新的回顾。</description>
-      <pubDate>Wed, 09 Apr 2025 19:06:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Function overloading is more flexible (and more convenient) than template function specialization】与模板功能专业化相比，功能超载更灵活（更方便）</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250410-00/?p=111063</link>
-      <description>【You can change more things in an overload.】您可以在超负荷中更改更多内容。</description>
-      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Hybrid Search with Semantic Kernel for .NET】使用.NET的语义内核宣布混合搜索</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/announcing-hybrid-search-with-semantic-kernel-for-net</link>
-      <description>【Today we’re thrilled to announce support for Hybrid search with Semantic Kernel Vector Stores for .NET. What is Hybrid Search? Hybrid search performs two parallel searches on a vector database.  The union of the results of these two searches are then returned to callers with a combined rank, based on the rankings from each of [&amp;hellip;]】今天，我们很高兴宣布与.NET的语义内核矢量商店对混合搜索的支持。什么是混合搜索？混合搜索在矢量数据库上执行两个并行搜索。  然后，这两个搜索结果的结合基于[…]的每个排名，并将其汇总给呼叫者。</description>
-      <pubDate>Wed, 09 Apr 2025 19:48:37 +0000</pubDate>
-    </item>
+    <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
       <title>【.NET Aspire 9.2 is Now Available with New Ways to Deploy】.NET ASPIRE 9.2现在可以提供新的部署方式</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy</link>
@@ -46,10 +16,22 @@
       <pubDate>Thu, 10 Apr 2025 14:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>【Getting insights from changes to items in Azure Cosmos DB just got easier!】从变更到Azure Cosmos DB中的项目中获得见解变得更加容易！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/getting-insights-from-changes-to-items-in-azure-cosmos-db-just-got-easier</link>
-      <description>【Azure Cosmos DB’s change feed provides a view of changes to data in your container. This enables patterns like event sourcing, auditing and synchronizing downstream systems. Change feed can be read in real time or on demand, giving you the most flexibility for processing and reprocessing changes. Change feed is available in two modes, latest [&amp;hellip;]】Azure Cosmos DB的更改fef提供了对容器中数据的更改的视图。这可以实现诸如事件采购，审核和同步下游系统之类的模式。更改供稿可以实时或按需阅读，从而为您提供处理和再处理更改的最灵活性。更改供稿有两种模式可用，最新的[…]</description>
-      <pubDate>Fri, 11 Apr 2025 00:49:33 +0000</pubDate>
+      <title>【Guest Blog: Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework】来宾博客：通过AI彻底改变业务自动化：Microsoft语义内核过程框架指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-revolutionize-business-automation-with-ai-a-guide-to-microsofts-semantic-kernel-process-framework</link>
+      <description>【Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework Step-by-Step guide on creating your first process with AI Microsoft’s AI Framework, Semantic Kernel, is an easy-to-use C#, Java, and Python-based AI framework that helps you quickly build AI solutions or integrate AI capabilities into your existing app. Semantic Kernel provides various [&amp;hellip;]】通过AI：Microsoft的语义内核过程框架的指南彻底改变业务自动化，该指南逐步指南指南，使用AI Microsoft的AI AI框架Somantic内核创建您的第一个过程，是一个易于使用的C＃，Java和Python的AI框架，可帮助您快速构建AI Solutions或将AI Solutions AI Solutions或集成到现有的应用程序中。语义内核提供各种[…]</description>
+      <pubDate>Fri, 11 Apr 2025 17:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Spring Cloud Azure Starter Key Vault JCA: Streamlined TLS and mTLS for Spring Boot】引入Spring Cloud Azure启动器钥匙库JCA：春季启动的简化TLS和MTLS</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-spring-cloud-azure-starter-key-vault-jca-streamlined-tls-and-mtls-for-spring-boot</link>
+      <description>【This blog post shows the Spring Cloud Azure Starter Key Vault Java Crypto Architecture (JCA).】这篇博客文章显示了弹簧云的Azure启动器钥匙库Java Crypto Architecture（JCA）。</description>
+      <pubDate>Fri, 11 Apr 2025 21:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the UI thread that hung in a kernel call】悬挂在内核电话中的UI线程的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066</link>
+      <description>【I did tell you not to do that.】我确实告诉过你不要那样做。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft at PyTexas 2025: Join Us for a Celebration of Python and Innovation】Microsoft在Pytexas 2025：加入我们，庆祝Python和创新</title>
@@ -58,10 +40,28 @@
       <pubDate>Thu, 10 Apr 2025 17:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>【How to build Multi-agent AI Apps using Microsoft Azure】如何使用Microsoft Azure构建多代理AI应用程序</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-to-build-multi-agent-ai-apps-using-microsoft-azure</link>
-      <description>【Understanding Multi-Agent Workflow Automation  At its core, a multi-agent architecture is like a team of specialized experts working together on complex tasks. Instead of having a single AI agent trying to handle everything, multiple AI agents—each with specific roles and capabilities—collaborate to achieve common goals. Think of it as the difference between having one person [&amp;hellip;]】了解多代理工作流程自动化的核心，一个多代理体系结构就像一个专家团队，共同从事复杂的任务。与其让单个AI代理商试图处理所有事物，不如说是具有特定角色和能力的多个AI代理，以实现共同的目标。将其视为一个人[…]之间的区别</description>
-      <pubDate>Wed, 09 Apr 2025 23:14:49 +0000</pubDate>
+      <title>【Azure AI Foundry: Create an MCP Server with Azure AI Agent Service (TypeScript Edition)】Azure AI Foundry：使用Azure AI代理服务（打字稿版）创建MCP服务器</title>
+      <link>https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp-typescript</link>
+      <description>【Learn how to integrate Azure AI Foundry&#39;s Agent Service with Claude Desktop using the Model Context Protocol (MCP) for powerful integration for MCP clients.】了解如何使用模型上下文协议（MCP）将Azure AI Foundry的代理服务与Claude Desktop集成，以便为MCP客户端集成强大的集成。</description>
+      <pubDate>Fri, 11 Apr 2025 18:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Getting insights from changes to items in Azure Cosmos DB just got easier!】从变更到Azure Cosmos DB中的项目中获得见解变得更加容易！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/getting-insights-from-changes-to-items-in-azure-cosmos-db-just-got-easier</link>
+      <description>【Azure Cosmos DB’s change feed provides a view of changes to data in your container. This enables patterns like event sourcing, auditing and synchronizing downstream systems. Change feed can be read in real time or on demand, giving you the most flexibility for processing and reprocessing changes. Change feed is available in two modes, latest [&amp;hellip;]】Azure Cosmos DB的更改fef提供了对容器中数据的更改的视图。这可以实现诸如事件采购，审核和同步下游系统之类的模式。更改供稿可以实时或按需阅读，从而为您提供处理和再处理更改的最灵活性。更改供稿有两种模式可用，最新的[…]</description>
+      <pubDate>Fri, 11 Apr 2025 00:49:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Resolving Microsoft Graph PowerShell 2.26+ compatibility issues with Azure Runbooks】解决Microsoft Graph PowerShell 2.26+与Azure Runbooks的兼容性问题</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/resolving-microsoft-graph-powershell-2-26-compatibility-issues-with-azure-runbooks</link>
+      <description>【We know how important Azure Automation workflows and appreciate the critical role played by automation runbooks. Some customers have experienced issues with the release of 2.26.1 of the Microsoft Graph PowerShell SDK, particularly when running PowerShell 7.2 runbooks in Azure Automation. The core challenge is a conflict around .NET 6 where fixing Runbooks would break [&amp;hellip;]】我们知道Azure Automation工作流程的重要性以及自动化运行本的关键作用。一些客户在发布Microsoft Graph PowerShell SDK的2.26.1中遇到了问题，尤其是在Azure Automation中运行PowerShell 7.2 Runbooks时。核心挑战是.NET 6的冲突，其中修复运行书将破坏[…]</description>
+      <pubDate>Fri, 11 Apr 2025 15:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
+      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
