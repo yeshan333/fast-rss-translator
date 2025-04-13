@@ -4,28 +4,40 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Workers AI gets a speed boost, batch workload support, more LoRAs, new models, and a refreshed dashboard】工人AI获得了速度提升，批处理工作负载支持，更多的Loras，新型号和刷新的仪表板</title>
-      <link>https://blog.cloudflare.com/workers-ai-improvements/</link>
-      <description>【 We just made Workers AI inference faster with speculative decoding &amp; prefix caching. Use our new batch inference for handling large request volumes seamlessly. 】我们刚刚通过投机解码和前缀缓存使工人AI推理更快。使用我们的新批次推理无缝处理大型请求量。</description>
-      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Sequential consistency without borders: how D1 implements global read replication】顺序一致性无边界：D1如何实现全局读取复制</title>
       <link>https://blog.cloudflare.com/d1-read-replication-beta/</link>
       <description>【 D1, Cloudflare’s managed SQL database, announces read replication beta. Here&#39;s a deep dive of the read replication implementation and how your queries can remain consistent across all regions. 】D1，CloudFlare的托管SQL数据库，宣布阅读复制Beta。这是对读取复制实现的深入研究，以及您的查询如何在所有地区保持一致。</description>
       <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees】R2数据目录：托管Apache冰山桌零出口费</title>
+      <link>https://blog.cloudflare.com/r2-data-catalog-public-beta/</link>
+      <description>【 R2 Data Catalog is now in public beta: a managed Apache Iceberg data catalog built directly into your R2 bucket. 】R2数据目录现在在公共Beta中：直接构建在R2存储桶中的托管Apache Iceberg数据目录。</description>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we simplified NCMEC reporting with Cloudflare Workflows】我们如何用Cloudflare工作流简化NCMEC报告</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <description>【 We transitioned to Cloudflare Workflows to manage complex, multi-step processes more efficiently. This shift replaced our National Center for Missing &amp; Exploited Children (NCMEC) reporting system. 】我们过渡到CloudFlare工作流程，以更有效地管理复杂的多步骤过程。这一转变取代了我们国家失踪和被剥削儿童中心（NCMEC）报告系统。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
+      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
+      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A global virtual private cloud for building secure cross-cloud apps on Cloudflare Workers】用于在Cloudflare工人上构建安全横云应用程序的全局虚拟私有云</title>
+      <link>https://blog.cloudflare.com/workers-virtual-private-cloud/</link>
+      <description>【 We’re announcing Workers VPC: a global private network that allows applications deployed on Cloudflare Workers to connect to your legacy cloud infrastructure.  】我们宣布工人VPC：一个全球专用网络，允许在CloudFlare工人上部署的应用程序连接到您的传统云基础架构。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A next-generation Certificate Transparency log built on Cloudflare Workers】下一代证书透明度日志建立在Cloudflare工人上</title>
       <link>https://blog.cloudflare.com/azul-certificate-transparency-log/</link>
       <description>【 Learn about recent developments in Certificate Transparency (CT), and how we built a next-generation CT log on top of Cloudflare&#39;s Developer Platform. 】了解证书透明度（CT）的最新发展以及我们如何在Cloudflare开发人员平台上建立下一代CT登录。</description>
       <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Startup Program update: empowering every stage of the startup journey】启动计划更新：授权启动旅程的每个阶段</title>
-      <link>https://blog.cloudflare.com/expanding-cloudflares-startup-program/</link>
-      <description>【 Cloudflare’s Startup Program offers up to $250,000 in credits for companies building on our Developer Platform across 4 tiers: $5,000, $25,000, $100,000, and $250,000. 】CloudFlare的启动计划为在我们开发人员平台上建立4层的公司提供高达25万美元的学分：5,000美元，25,000美元，100,000美元和25万美元。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Making Super Slurper 5x faster with Workers, Durable Objects, and Queues】用工人，耐用的物体和队列使超级slul 5倍更快地使超级5倍</title>
@@ -40,28 +52,16 @@
       <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
-      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
-      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
+      <title>【Startup Program update: empowering every stage of the startup journey】启动计划更新：授权启动旅程的每个阶段</title>
+      <link>https://blog.cloudflare.com/expanding-cloudflares-startup-program/</link>
+      <description>【 Cloudflare’s Startup Program offers up to $250,000 in credits for companies building on our Developer Platform across 4 tiers: $5,000, $25,000, $100,000, and $250,000. 】CloudFlare的启动计划为在我们开发人员平台上建立4层的公司提供高达25万美元的学分：5,000美元，25,000美元，100,000美元和25万美元。</description>
       <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees】R2数据目录：托管Apache冰山桌零出口费</title>
-      <link>https://blog.cloudflare.com/r2-data-catalog-public-beta/</link>
-      <description>【 R2 Data Catalog is now in public beta: a managed Apache Iceberg data catalog built directly into your R2 bucket. 】R2数据目录现在在公共Beta中：直接构建在R2存储桶中的托管Apache Iceberg数据目录。</description>
-      <pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A global virtual private cloud for building secure cross-cloud apps on Cloudflare Workers】用于在Cloudflare工人上构建安全横云应用程序的全局虚拟私有云</title>
-      <link>https://blog.cloudflare.com/workers-virtual-private-cloud/</link>
-      <description>【 We’re announcing Workers VPC: a global private network that allows applications deployed on Cloudflare Workers to connect to your legacy cloud infrastructure.  】我们宣布工人VPC：一个全球专用网络，允许在CloudFlare工人上部署的应用程序连接到您的传统云基础架构。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How we simplified NCMEC reporting with Cloudflare Workflows】我们如何用Cloudflare工作流简化NCMEC报告</title>
-      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
-      <description>【 We transitioned to Cloudflare Workflows to manage complex, multi-step processes more efficiently. This shift replaced our National Center for Missing &amp; Exploited Children (NCMEC) reporting system. 】我们过渡到CloudFlare工作流程，以更有效地管理复杂的多步骤过程。这一转变取代了我们国家失踪和被剥削儿童中心（NCMEC）报告系统。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Workers AI gets a speed boost, batch workload support, more LoRAs, new models, and a refreshed dashboard】工人AI获得了速度提升，批处理工作负载支持，更多的Loras，新型号和刷新的仪表板</title>
+      <link>https://blog.cloudflare.com/workers-ai-improvements/</link>
+      <description>【 We just made Workers AI inference faster with speculative decoding &amp; prefix caching. Use our new batch inference for handling large request volumes seamlessly. 】我们刚刚通过投机解码和前缀缓存使工人AI推理更快。使用我们的新批次推理无缝处理大型请求量。</description>
+      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
