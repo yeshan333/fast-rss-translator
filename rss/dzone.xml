@@ -4,28 +4,10 @@
     <link>https://feeds.dzone.com/home</link>
     <description>Recent posts on DZone.com</description>
     <item>
-      <title>【Understanding MEAN Stack: What It Is and Is Not】理解卑鄙的堆栈：它是什么，不是</title>
-      <link>https://dzone.com/articles/mean-stack-development-explained</link>
-      <description>【&lt;p data-end=&#34;322&#34; data-start=&#34;187&#34;&gt;The goal of this article is to explain the components and foundation of MEAN stack development — what it &lt;strong data-end=&#34;298&#34; data-start=&#34;292&#34;&gt;is&lt;/strong&gt; and what it &lt;strong data-end=&#34;321&#34; data-start=&#34;311&#34;&gt;is not&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p data-end=&#34;417&#34; data-start=&#34;324&#34;&gt;Before we define the MEAN stack development environment, let’s talk about what it is &lt;strong data-end=&#34;416&#34; data-start=&#34;409&#34;&gt;not&lt;/strong&gt;.&lt;/p&gt;】&lt;p data-end =“ 322” data-start =“ 187”&gt;本文的目的是解释均值堆栈开发的组件和基础 - 它&lt;strong data-end =“ 298” data-ndata-start =“ 292”&gt;是&lt;/strong&gt; &lt;/strong&gt; &lt;/strong&gt; and &lt;strong data-end =“ 321” data-end-start =“ data-start =” 311“ 311” 311“ 311”&gt; inot&#xA;&lt;p data-end =“ 417” data-start =“ 324”&gt;在定义平均堆栈开发环境之前，让我们谈谈它是什么&lt;strong data-end =“ 416” data-start =“ 409”&gt;不是&lt;/strong&gt;。&lt;/p&gt;。&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【7 Effective Conflict Resolution Strategies for Software Development Teams】7针对软件开发团队的有效冲突解决策略</title>
       <link>https://dzone.com/articles/conflict-resolution-strategies-for-dev-teams</link>
       <description>【&lt;p dir=&#34;ltr&#34;&gt;Conflict resolution is not just a process but a skill for team leaders to address disagreements between two or more parties to drive consensus. Where different personalities and perspectives work toward shared goals, conflicts are certain to arise, and this can be particularly challenging for software development teams that thrive in collaboration and innovation.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Whether it’s disagreements over technical approaches, mismatches in priorities, unclear requirements, differences in work styles, conflicting points of view, or arguments over standards, unresolved conflicts may have undesirable impacts on the core strength, collaboration, or productivity of a team.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;解决冲突不仅是一个过程，而且是团队负责人解决两个或多个政党之间分歧以驱动共识的技能。如果不同的个性和观点朝着共同的目标努力，则肯定会出现冲突，对于在协作和创新方面蓬勃发展的软件开发团队来说，这可能是特别具有挑战性的。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;是否在技术方法上存在分歧，优先级不匹配，不明确要求，工作方式差异，冲突的观点，对标准的论点，未解决的冲突可能对团队的核心优势，协作或生产力产生不良影响。</description>
       <pubDate>Fri, 11 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Chaos Engineering for Microservices】微服务的混乱工程</title>
-      <link>https://dzone.com/articles/chaos-engineering-for-microservices</link>
-      <description>【&lt;p&gt;As someone who works closely with distributed systems and microservices, I&#39;ve seen firsthand how complex things can get once Kubernetes, Istio, and service meshes enter the picture. The shift to a cloud-native world is exciting, but it brings new challenges — especially around resilience.&lt;/p&gt;&#xA;&lt;p&gt;We can&#39;t just hope things won’t fail — because they will. That’s where chaos engineering comes in. It’s a proactive way to build confidence in your system’s ability to handle real-world disruptions by intentionally injecting failure and observing how everything holds up.&lt;/p&gt;】&lt;p&gt;作为与分布式系统和微服务紧密合作的人，我亲眼目睹了一旦Kubernetes，iStio和Service网格进入图片，我就会亲眼目睹。向云原生世界的转变令人兴奋，但它带来了新的挑战，尤其是在弹性周围。&lt;/p&gt;&#xA;&lt;p&gt;我们不能只是希望事情不会失败，因为他们会的。这就是混乱工程的来源。这是一种积极主动的方式，可以通过故意注入失败并观察一切如何保持的能力来建立对系统处理现实世界中断的能力的信心。&lt;/p&gt;。&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Apr 2025 13:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Design Patterns for Scalable Test Automation Frameworks】可扩展测试自动化框架的设计模式</title>
-      <link>https://dzone.com/articles/test-automation-framework-design-patterns</link>
-      <description>【&lt;h2&gt;&lt;strong&gt;Introduction to Scalable Test Automation Frameworks&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;With web applications becoming more and more complicated, test automation frameworks have become a necessity for modern software development teams to be able to scale and have a solid testing infrastructure in place.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;These frameworks provide an essential function in verifying the quality and reliability of software products by automating the testing process and minimizing the total cost and time needed for regression testing.&lt;/p&gt;】&lt;h2&gt; &lt;strong&gt;可扩展测试自动化框架简介&lt;/strong&gt; &lt;/h2&gt;&#xA;&lt;p&gt;随着Web应用程序越来越复杂，测试自动化框架已成为现代软件开发团队能够扩展并建立可靠的测试基础架构的必要性。 &lt;/p&gt;&#xA;&lt;p&gt;这些框架通过自动化测试过程并最小化回归测试所需的总成本和时间来验证软件产品的质量和可靠性。&lt;/p&gt; &lt;/p&gt;</description>
-      <pubDate>Fri, 11 Apr 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Transforming Data Analytics by Combining SQL and ML】通过组合SQL和ML来转换数据分析</title>
@@ -34,10 +16,16 @@
       <pubDate>Thu, 10 Apr 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The One Interview Question That Lost You the Job】一个失去工作的面试问题</title>
-      <link>https://dzone.com/articles/the-one-interview-question-that-lost-you-the-job</link>
-      <description>【&lt;p&gt;People worry — sometimes with justification, but often without — about small things that might have tipped an interview or job hunting interaction against them. Were they dressed “right”? Too dressed up? Not enough? They joined the zoom call 1 minute late, did that ruin the whole thing? Did they answer every single question? Did they ask too many questions themselves? And on and on and on.&lt;/p&gt;&#xA;&lt;p&gt;My perspective — built from 35 years in tech as well as trying to help friends find their own new roles from time to time — is that most interviews are a series of moments that all add up. No individual moment is a deal-breaker. Instead, how a candidate “did” often comes down to the overall sense the interviewer feels after the entire conversation.&lt;/p&gt;】&lt;p&gt;人们担心 - 有时是有道理的，但往往没有 - 可能会给他们带来面试或寻找工作互动的小事情。他们穿着“正确”吗？太打扮了吗？不够？他们加入了Zoom Call 1分钟，这毁了整个事情吗？他们回答了每个问题吗？他们自己问太多问题吗？ &lt;/p&gt;&#xA;&lt;p&gt;我的观点 - 建立在35年的技术领域，并试图帮助朋友不时找到自己的新角色 - 大多数访谈都是一系列的时刻。没有个人时刻是打破交易的人。相反，候选人的“做”通常取决于面试官在整个谈话之后的总体意义。&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Apr 2025 18:00:00 +0000</pubDate>
+      <title>【Understanding MEAN Stack: What It Is and Is Not】理解卑鄙的堆栈：它是什么，不是</title>
+      <link>https://dzone.com/articles/mean-stack-development-explained</link>
+      <description>【&lt;p data-end=&#34;322&#34; data-start=&#34;187&#34;&gt;The goal of this article is to explain the components and foundation of MEAN stack development — what it &lt;strong data-end=&#34;298&#34; data-start=&#34;292&#34;&gt;is&lt;/strong&gt; and what it &lt;strong data-end=&#34;321&#34; data-start=&#34;311&#34;&gt;is not&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p data-end=&#34;417&#34; data-start=&#34;324&#34;&gt;Before we define the MEAN stack development environment, let’s talk about what it is &lt;strong data-end=&#34;416&#34; data-start=&#34;409&#34;&gt;not&lt;/strong&gt;.&lt;/p&gt;】&lt;p data-end =“ 322” data-start =“ 187”&gt;本文的目的是解释均值堆栈开发的组件和基础 - 它&lt;strong data-end =“ 298” data-ndata-start =“ 292”&gt;是&lt;/strong&gt; &lt;/strong&gt; &lt;/strong&gt; and &lt;strong data-end =“ 321” data-end-start =“ data-start =” 311“ 311” 311“ 311”&gt; inot&#xA;&lt;p data-end =“ 417” data-start =“ 324”&gt;在定义平均堆栈开发环境之前，让我们谈谈它是什么&lt;strong data-end =“ 416” data-start =“ 409”&gt;不是&lt;/strong&gt;。&lt;/p&gt;。&lt;/p&gt;</description>
+      <pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Chaos Engineering for Microservices】微服务的混乱工程</title>
+      <link>https://dzone.com/articles/chaos-engineering-for-microservices</link>
+      <description>【&lt;p&gt;As someone who works closely with distributed systems and microservices, I&#39;ve seen firsthand how complex things can get once Kubernetes, Istio, and service meshes enter the picture. The shift to a cloud-native world is exciting, but it brings new challenges — especially around resilience.&lt;/p&gt;&#xA;&lt;p&gt;We can&#39;t just hope things won’t fail — because they will. That’s where chaos engineering comes in. It’s a proactive way to build confidence in your system’s ability to handle real-world disruptions by intentionally injecting failure and observing how everything holds up.&lt;/p&gt;】&lt;p&gt;作为与分布式系统和微服务紧密合作的人，我亲眼目睹了一旦Kubernetes，iStio和Service网格进入图片，我就会亲眼目睹。向云原生世界的转变令人兴奋，但它带来了新的挑战，尤其是在弹性周围。&lt;/p&gt;&#xA;&lt;p&gt;我们不能只是希望事情不会失败，因为他们会的。这就是混乱工程的来源。这是一种积极主动的方式，可以通过故意注入失败并观察一切如何保持的能力来建立对系统处理现实世界中断的能力的信心。&lt;/p&gt;。&lt;/p&gt;</description>
+      <pubDate>Fri, 11 Apr 2025 13:00:09 +0000</pubDate>
     </item>
     <item>
       <title>【GPT-4.5 vs o3: The Applicability of AI Models Across Industries】GPT-4.5 vs O3：跨行业AI模型的适用性</title>
@@ -50,6 +38,18 @@
       <link>https://dzone.com/articles/monitoring-journald-logs-with-ansible-eda</link>
       <description>【&lt;p&gt;Monitoring journald is essential for keeping systems running smoothly and securely. By regularly checking logs generated by systemd, administrators can catch potential issues like failing services or resource constraints — before they turn into major problems. Beyond performance and troubleshooting, journald is a powerful tool for security and compliance. It helps track login attempts, privilege escalations, and unusual service behavior, making it crucial for detecting unauthorized access or potential cyber threats. For organizations that need to meet regulatory requirements, monitoring system logs ensures proper tracking of system changes and security policies.&amp;nbsp;&lt;/p&gt;&#xA;&lt;h2&gt;About the Module&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;ansible.eda.journald&lt;/code&gt; is an Event-Driven Ansible (EDA) plugin that listens to journald logs in real time and triggers automated responses based on log events. This makes it useful for tasks like automatically restarting failed services, detecting security threats, or alerting administrators when critical system issues occur.&lt;/p&gt;】&lt;p&gt;监视日记帐对保持系统的运行平稳，安全运行至关重要。通过定期检查SystemD生成的日志，管理员可以在变成主要问题之前发现服务失败或资源限制的潜在问题。除了性能和故障排除之外，JournalD是安全性和合规性的强大工具。它有助于跟踪登录尝试，特权升级和异常服务行为，这对于检测未经授权的访问或潜在的网络威胁至关重要。对于需要满足监管要求的组织，监视系统日志可确保正确跟踪系统变更和安全策略。 &lt;/p&gt;&#xA;&lt;h2&gt;关于模块&lt;/h2&gt;&#xA;&lt;p&gt; &lt;code&gt; ansible.eda.journald &lt;/code&gt;是一个事件驱动的Ansible（EDA）插件，可实时倾听日记帐日志，并根据日志事件触发自动响应。这使得它对于自动重新启动失败服务，检测安全威胁或在发生关键系统问题时警告管理员的任务很有用。&lt;/p&gt; &lt;/p&gt;</description>
       <pubDate>Thu, 10 Apr 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The One Interview Question That Lost You the Job】一个失去工作的面试问题</title>
+      <link>https://dzone.com/articles/the-one-interview-question-that-lost-you-the-job</link>
+      <description>【&lt;p&gt;People worry — sometimes with justification, but often without — about small things that might have tipped an interview or job hunting interaction against them. Were they dressed “right”? Too dressed up? Not enough? They joined the zoom call 1 minute late, did that ruin the whole thing? Did they answer every single question? Did they ask too many questions themselves? And on and on and on.&lt;/p&gt;&#xA;&lt;p&gt;My perspective — built from 35 years in tech as well as trying to help friends find their own new roles from time to time — is that most interviews are a series of moments that all add up. No individual moment is a deal-breaker. Instead, how a candidate “did” often comes down to the overall sense the interviewer feels after the entire conversation.&lt;/p&gt;】&lt;p&gt;人们担心 - 有时是有道理的，但往往没有 - 可能会给他们带来面试或寻找工作互动的小事情。他们穿着“正确”吗？太打扮了吗？不够？他们加入了Zoom Call 1分钟，这毁了整个事情吗？他们回答了每个问题吗？他们自己问太多问题吗？ &lt;/p&gt;&#xA;&lt;p&gt;我的观点 - 建立在35年的技术领域，并试图帮助朋友不时找到自己的新角色 - 大多数访谈都是一系列的时刻。没有个人时刻是打破交易的人。相反，候选人的“做”通常取决于面试官在整个谈话之后的总体意义。&lt;/p&gt;</description>
+      <pubDate>Thu, 10 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Design Patterns for Scalable Test Automation Frameworks】可扩展测试自动化框架的设计模式</title>
+      <link>https://dzone.com/articles/test-automation-framework-design-patterns</link>
+      <description>【&lt;h2&gt;&lt;strong&gt;Introduction to Scalable Test Automation Frameworks&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;With web applications becoming more and more complicated, test automation frameworks have become a necessity for modern software development teams to be able to scale and have a solid testing infrastructure in place.&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;These frameworks provide an essential function in verifying the quality and reliability of software products by automating the testing process and minimizing the total cost and time needed for regression testing.&lt;/p&gt;】&lt;h2&gt; &lt;strong&gt;可扩展测试自动化框架简介&lt;/strong&gt; &lt;/h2&gt;&#xA;&lt;p&gt;随着Web应用程序越来越复杂，测试自动化框架已成为现代软件开发团队能够扩展并建立可靠的测试基础架构的必要性。 &lt;/p&gt;&#xA;&lt;p&gt;这些框架通过自动化测试过程并最小化回归测试所需的总成本和时间来验证软件产品的质量和可靠性。&lt;/p&gt; &lt;/p&gt;</description>
+      <pubDate>Fri, 11 Apr 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to Write a Good index.html File】如何编写一个好的索引.html文件</title>

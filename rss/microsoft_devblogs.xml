@@ -10,28 +10,10 @@
       <pubDate>Thu, 10 Apr 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Resolving Microsoft Graph PowerShell 2.26+ compatibility issues with Azure Runbooks】解决Microsoft Graph PowerShell 2.26+与Azure Runbooks的兼容性问题</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/resolving-microsoft-graph-powershell-2-26-compatibility-issues-with-azure-runbooks</link>
-      <description>【We know how important Azure Automation workflows and appreciate the critical role played by automation runbooks. Some customers have experienced issues with the release of 2.26.1 of the Microsoft Graph PowerShell SDK, particularly when running PowerShell 7.2 runbooks in Azure Automation. The core challenge is a conflict around .NET 6 where fixing Runbooks would break [&amp;hellip;]】我们知道Azure Automation工作流程的重要性以及自动化运行本的关键作用。一些客户在发布Microsoft Graph PowerShell SDK的2.26.1中遇到了问题，尤其是在Azure Automation中运行PowerShell 7.2 Runbooks时。核心挑战是.NET 6的冲突，其中修复运行书将破坏[…]</description>
-      <pubDate>Fri, 11 Apr 2025 15:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Spring Cloud Azure Starter Key Vault JCA: Streamlined TLS and mTLS for Spring Boot】引入Spring Cloud Azure启动器钥匙库JCA：春季启动的简化TLS和MTLS</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-spring-cloud-azure-starter-key-vault-jca-streamlined-tls-and-mtls-for-spring-boot</link>
-      <description>【This blog post shows the Spring Cloud Azure Starter Key Vault Java Crypto Architecture (JCA).】这篇博客文章显示了弹簧云的Azure启动器钥匙库Java Crypto Architecture（JCA）。</description>
-      <pubDate>Fri, 11 Apr 2025 21:11:34 +0000</pubDate>
-    </item>
-    <item>
       <title>【Microsoft 365 Certification control spotlight: Privacy】Microsoft 365认证控制聚光灯：隐私</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-privacy</link>
       <description>【Discover how Microsoft 365 Certification ensures ISVs use the latest privacy and personally identifiable information (PII) management controls to protect customer data.】查找Microsoft 365认证如何确保ISV使用最新的隐私和个人身份信息（PII）管理控件来保护客户数据。</description>
       <pubDate>Thu, 10 Apr 2025 14:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework】来宾博客：通过AI彻底改变业务自动化：Microsoft语义内核过程框架指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-revolutionize-business-automation-with-ai-a-guide-to-microsofts-semantic-kernel-process-framework</link>
-      <description>【Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework Step-by-Step guide on creating your first process with AI Microsoft’s AI Framework, Semantic Kernel, is an easy-to-use C#, Java, and Python-based AI framework that helps you quickly build AI solutions or integrate AI capabilities into your existing app. Semantic Kernel provides various [&amp;hellip;]】通过AI：Microsoft的语义内核过程框架的指南彻底改变业务自动化，该指南逐步指南指南，使用AI Microsoft的AI AI框架Somantic内核创建您的第一个过程，是一个易于使用的C＃，Java和Python的AI框架，可帮助您快速构建AI Solutions或将AI Solutions AI Solutions或集成到现有的应用程序中。语义内核提供各种[…]</description>
-      <pubDate>Fri, 11 Apr 2025 17:42:14 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the UI thread that hung in a kernel call】悬挂在内核电话中的UI线程的情况</title>
@@ -46,10 +28,22 @@
       <pubDate>Fri, 11 Apr 2025 00:49:33 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
-      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
-      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
+      <title>【Resolving Microsoft Graph PowerShell 2.26+ compatibility issues with Azure Runbooks】解决Microsoft Graph PowerShell 2.26+与Azure Runbooks的兼容性问题</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/resolving-microsoft-graph-powershell-2-26-compatibility-issues-with-azure-runbooks</link>
+      <description>【We know how important Azure Automation workflows and appreciate the critical role played by automation runbooks. Some customers have experienced issues with the release of 2.26.1 of the Microsoft Graph PowerShell SDK, particularly when running PowerShell 7.2 runbooks in Azure Automation. The core challenge is a conflict around .NET 6 where fixing Runbooks would break [&amp;hellip;]】我们知道Azure Automation工作流程的重要性以及自动化运行本的关键作用。一些客户在发布Microsoft Graph PowerShell SDK的2.26.1中遇到了问题，尤其是在Azure Automation中运行PowerShell 7.2 Runbooks时。核心挑战是.NET 6的冲突，其中修复运行书将破坏[…]</description>
+      <pubDate>Fri, 11 Apr 2025 15:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft at PyTexas 2025: Join Us for a Celebration of Python and Innovation】Microsoft在Pytexas 2025：加入我们，庆祝Python和创新</title>
+      <link>https://devblogs.microsoft.com/python/pytexas-2025</link>
+      <description>【Microsoft is thrilled to announce our participation in PyTexas 2025, taking place this year in the vibrant city of Austin, Texas! At this year’s event, Microsoft is proud to contribute to the community’s growth and excitement by hosting a booth and delivering an engaging talk.】微软很高兴宣布我们参加今年在充满活力的德克萨斯州奥斯汀市举行的Pytexas 2025！在今年的活动中，微软很自豪地通过举办展位并发表引人入胜的演讲来为社区的成长和兴奋做出贡献。</description>
+      <pubDate>Thu, 10 Apr 2025 17:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework】来宾博客：通过AI彻底改变业务自动化：Microsoft语义内核过程框架指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-revolutionize-business-automation-with-ai-a-guide-to-microsofts-semantic-kernel-process-framework</link>
+      <description>【Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework Step-by-Step guide on creating your first process with AI Microsoft’s AI Framework, Semantic Kernel, is an easy-to-use C#, Java, and Python-based AI framework that helps you quickly build AI solutions or integrate AI capabilities into your existing app. Semantic Kernel provides various [&amp;hellip;]】通过AI：Microsoft的语义内核过程框架的指南彻底改变业务自动化，该指南逐步指南指南，使用AI Microsoft的AI AI框架Somantic内核创建您的第一个过程，是一个易于使用的C＃，Java和Python的AI框架，可帮助您快速构建AI Solutions或将AI Solutions AI Solutions或集成到现有的应用程序中。语义内核提供各种[…]</description>
+      <pubDate>Fri, 11 Apr 2025 17:42:14 +0000</pubDate>
     </item>
     <item>
       <title>【Azure AI Foundry: Create an MCP Server with Azure AI Agent Service (TypeScript Edition)】Azure AI Foundry：使用Azure AI代理服务（打字稿版）创建MCP服务器</title>
@@ -58,10 +52,16 @@
       <pubDate>Fri, 11 Apr 2025 18:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft at PyTexas 2025: Join Us for a Celebration of Python and Innovation】Microsoft在Pytexas 2025：加入我们，庆祝Python和创新</title>
-      <link>https://devblogs.microsoft.com/python/pytexas-2025</link>
-      <description>【Microsoft is thrilled to announce our participation in PyTexas 2025, taking place this year in the vibrant city of Austin, Texas! At this year’s event, Microsoft is proud to contribute to the community’s growth and excitement by hosting a booth and delivering an engaging talk.】微软很高兴宣布我们参加今年在充满活力的德克萨斯州奥斯汀市举行的Pytexas 2025！在今年的活动中，微软很自豪地通过举办展位并发表引人入胜的演讲来为社区的成长和兴奋做出贡献。</description>
-      <pubDate>Thu, 10 Apr 2025 17:14:09 +0000</pubDate>
+      <title>【Introducing Spring Cloud Azure Starter Key Vault JCA: Streamlined TLS and mTLS for Spring Boot】引入Spring Cloud Azure启动器钥匙库JCA：春季启动的简化TLS和MTLS</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-spring-cloud-azure-starter-key-vault-jca-streamlined-tls-and-mtls-for-spring-boot</link>
+      <description>【This blog post shows the Spring Cloud Azure Starter Key Vault Java Crypto Architecture (JCA).】这篇博客文章显示了弹簧云的Azure启动器钥匙库Java Crypto Architecture（JCA）。</description>
+      <pubDate>Fri, 11 Apr 2025 21:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
+      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
