@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【.NET Aspire 9.2 is Now Available with New Ways to Deploy】.NET ASPIRE 9.2现在可以提供新的部署方式</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy</link>
-      <description>【.NET Aspire 9.2 is now available with cool new dashboard features and introducing the publishers feature】.NET ASPIRE 9.2现在可以提供凉爽的新仪表板功能并介绍发布者功能</description>
-      <pubDate>Thu, 10 Apr 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: Privacy】Microsoft 365认证控制聚光灯：隐私</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-privacy</link>
-      <description>【Discover how Microsoft 365 Certification ensures ISVs use the latest privacy and personally identifiable information (PII) management controls to protect customer data.】查找Microsoft 365认证如何确保ISV使用最新的隐私和个人身份信息（PII）管理控件来保护客户数据。</description>
-      <pubDate>Thu, 10 Apr 2025 14:59:08 +0000</pubDate>
+      <title>【Getting insights from changes to items in Azure Cosmos DB just got easier!】从变更到Azure Cosmos DB中的项目中获得见解变得更加容易！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/getting-insights-from-changes-to-items-in-azure-cosmos-db-just-got-easier</link>
+      <description>【Azure Cosmos DB’s change feed provides a view of changes to data in your container. This enables patterns like event sourcing, auditing and synchronizing downstream systems. Change feed can be read in real time or on demand, giving you the most flexibility for processing and reprocessing changes. Change feed is available in two modes, latest [&amp;hellip;]】Azure Cosmos DB的更改fef提供了对容器中数据的更改的视图。这可以实现诸如事件采购，审核和同步下游系统之类的模式。更改供稿可以实时或按需阅读，从而为您提供处理和再处理更改的最灵活性。更改供稿有两种模式可用，最新的[…]</description>
+      <pubDate>Fri, 11 Apr 2025 00:49:33 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the UI thread that hung in a kernel call】悬挂在内核电话中的UI线程的情况</title>
@@ -22,10 +16,16 @@
       <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Getting insights from changes to items in Azure Cosmos DB just got easier!】从变更到Azure Cosmos DB中的项目中获得见解变得更加容易！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/getting-insights-from-changes-to-items-in-azure-cosmos-db-just-got-easier</link>
-      <description>【Azure Cosmos DB’s change feed provides a view of changes to data in your container. This enables patterns like event sourcing, auditing and synchronizing downstream systems. Change feed can be read in real time or on demand, giving you the most flexibility for processing and reprocessing changes. Change feed is available in two modes, latest [&amp;hellip;]】Azure Cosmos DB的更改fef提供了对容器中数据的更改的视图。这可以实现诸如事件采购，审核和同步下游系统之类的模式。更改供稿可以实时或按需阅读，从而为您提供处理和再处理更改的最灵活性。更改供稿有两种模式可用，最新的[…]</description>
-      <pubDate>Fri, 11 Apr 2025 00:49:33 +0000</pubDate>
+      <title>【PowerShell, OpenSSH, and DSC team investments for 2025】Powershell，Openssh和DSC团队投资2025</title>
+      <link>https://devblogs.microsoft.com/powershell/powershell-openssh-and-dsc-team-investments-for-2025</link>
+      <description>【Planned team investments for 2025 for PowerShell, OpenSSH, DSC, and related tooling.】计划在2025年为Powershell，Openssh，DSC和相关工具进行团队投资。</description>
+      <pubDate>Mon, 14 Apr 2025 13:40:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
+      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
     </item>
     <item>
       <title>【Resolving Microsoft Graph PowerShell 2.26+ compatibility issues with Azure Runbooks】解决Microsoft Graph PowerShell 2.26+与Azure Runbooks的兼容性问题</title>
@@ -34,10 +34,16 @@
       <pubDate>Fri, 11 Apr 2025 15:31:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft at PyTexas 2025: Join Us for a Celebration of Python and Innovation】Microsoft在Pytexas 2025：加入我们，庆祝Python和创新</title>
-      <link>https://devblogs.microsoft.com/python/pytexas-2025</link>
-      <description>【Microsoft is thrilled to announce our participation in PyTexas 2025, taking place this year in the vibrant city of Austin, Texas! At this year’s event, Microsoft is proud to contribute to the community’s growth and excitement by hosting a booth and delivering an engaging talk.】微软很高兴宣布我们参加今年在充满活力的德克萨斯州奥斯汀市举行的Pytexas 2025！在今年的活动中，微软很自豪地通过举办展位并发表引人入胜的演讲来为社区的成长和兴奋做出贡献。</description>
-      <pubDate>Thu, 10 Apr 2025 17:14:09 +0000</pubDate>
+      <title>【Introducing Spring Cloud Azure Starter Key Vault JCA: Streamlined TLS and mTLS for Spring Boot】引入Spring Cloud Azure启动器钥匙库JCA：春季启动的简化TLS和MTLS</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-spring-cloud-azure-starter-key-vault-jca-streamlined-tls-and-mtls-for-spring-boot</link>
+      <description>【This blog post shows the Spring Cloud Azure Starter Key Vault Java Crypto Architecture (JCA).】这篇博客文章显示了弹簧云的Azure启动器钥匙库Java Crypto Architecture（JCA）。</description>
+      <pubDate>Fri, 11 Apr 2025 21:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: Once I have tricked the user into running a malicious shortcut, I can install malware】可疑的安全漏洞：一旦我欺骗用户运行恶意快捷方式，我就可以安装恶意软件</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250414-00/?p=111072</link>
+      <description>【Yes, that&#39;s sort of the point.】是的，这是重点。</description>
+      <pubDate>Mon, 14 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: Revolutionize Business Automation with AI: A Guide to Microsoft’s Semantic Kernel Process Framework】来宾博客：通过AI彻底改变业务自动化：Microsoft语义内核过程框架指南</title>
@@ -46,22 +52,16 @@
       <pubDate>Fri, 11 Apr 2025 17:42:14 +0000</pubDate>
     </item>
     <item>
+      <title>【Introducing Region Selection in Azure Cosmos DB Data Explorer for NoSQL Accounts】NOSQL帐户中的Azure Cosmos DB数据资源管理器中引入区域选择</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/introducing-region-selection-in-azure-cosmos-db-data-explorer-for-nosql-accounts</link>
+      <description>【You asked—we delivered! Users can now manually select the region Data Explorer sends requests to! When you use Entra Authentication with NoSQL accounts, you can now enable the Region Selection option in settings. This new capability gives you precise control over where your requests are sent, helping you test, troubleshoot, and optimize performance by targeting [&amp;hellip;]】你问 - 我们交付了！用户现在可以手动选择“区域数据资源管理器”发送请求！当您使用NOSQL帐户使用ENTRA身份验证时，您现在可以在设置中启用区域选择选项。这种新功能使您可以精确控制请求的发送位置，从而帮助您通过定位[…]来测试，故障排除和优化性能。</description>
+      <pubDate>Mon, 14 Apr 2025 16:56:09 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure AI Foundry: Create an MCP Server with Azure AI Agent Service (TypeScript Edition)】Azure AI Foundry：使用Azure AI代理服务（打字稿版）创建MCP服务器</title>
       <link>https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp-typescript</link>
       <description>【Learn how to integrate Azure AI Foundry&#39;s Agent Service with Claude Desktop using the Model Context Protocol (MCP) for powerful integration for MCP clients.】了解如何使用模型上下文协议（MCP）将Azure AI Foundry的代理服务与Claude Desktop集成，以便为MCP客户端集成强大的集成。</description>
       <pubDate>Fri, 11 Apr 2025 18:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Spring Cloud Azure Starter Key Vault JCA: Streamlined TLS and mTLS for Spring Boot】引入Spring Cloud Azure启动器钥匙库JCA：春季启动的简化TLS和MTLS</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-spring-cloud-azure-starter-key-vault-jca-streamlined-tls-and-mtls-for-spring-boot</link>
-      <description>【This blog post shows the Spring Cloud Azure Starter Key Vault Java Crypto Architecture (JCA).】这篇博客文章显示了弹簧云的Azure启动器钥匙库Java Crypto Architecture（JCA）。</description>
-      <pubDate>Fri, 11 Apr 2025 21:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10 Preview 3 is now available!】.NET 10预览3现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3</link>
-      <description>【Find out about the new features in .NET 10 Preview 3 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览3中查找.NET运行时，SDK，库，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
-      <pubDate>Thu, 10 Apr 2025 20:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

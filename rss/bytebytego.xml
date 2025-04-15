@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP158: How to Learn API Development】EP158：如何学习API开发</title>
-      <link>https://blog.bytebytego.com/p/ep158-how-to-learn-api-development</link>
-      <description>【Learning how to develop APIs is an important skill for modern-day developers.】学习如何开发API是现代开发人员的重要技能。</description>
-      <pubDate>Sat, 12 Apr 2025 15:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【OOP Design Patterns and Anti-Patterns: What Works and What Fails】OOP设计模式和反式模式：什么有效和失败</title>
-      <link>https://blog.bytebytego.com/p/oop-design-patterns-and-anti-patterns</link>
-      <description>【Writing clean, maintainable, and scalable code sounds easy as a requirement, but is a constant challenge when developing real-world applications.】编写干净，可维护和可扩展的代码听起来很容易，但是在开发真实世界应用程序时，始终是一个持续的挑战。</description>
-      <pubDate>Thu, 10 Apr 2025 15:31:21 +0000</pubDate>
+      <title>【EP156: Software Architect Knowledge Map 】EP156：软件架构师知识图</title>
+      <link>https://blog.bytebytego.com/p/ep156-software-architect-knowledge</link>
+      <description>【Becoming a Software Architect is a journey where you are always learning. But there are some things you must definitely strive to know.】成为软件架构师是您一直在学习的旅程。但是有些事情您一定要努力知道。</description>
+      <pubDate>Sat, 29 Mar 2025 15:30:53 +0000</pubDate>
     </item>
     <item>
       <title>【How AMEX Processes Millions of Daily Transactions With Millisecond Latency】AMEX如何通过毫秒延迟处理数百万美元的每日交易</title>
@@ -23,10 +17,10 @@
       <pubDate>Tue, 01 Apr 2025 15:31:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Mastering OOP Fundamentals with SOLID Principles】用坚实的原则掌握OOP基础知识</title>
-      <link>https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid</link>
-      <description>【In this article, we will take a deep dive into the core fundamentals of OOP followed by an introduction to the SOLID principles.】在本文中，我们将深入了解OOP的核心基础，然后介绍扎实的原则。</description>
-      <pubDate>Thu, 27 Mar 2025 15:31:19 +0000</pubDate>
+      <title>【Bluesky: The Decentralized Social Media App with 30 Million Users】蓝军：分散的社交媒体应用程序，有3000万用户</title>
+      <link>https://blog.bytebytego.com/p/bluesky-the-decentralized-social</link>
+      <description>【In this article, we will look at Bluesky&amp;#8217;s architecture and its use of the AT protocol to make things possible.】在本文中，我们将研究布鲁斯基的架构及其对AT协议的使用以使事情成为可能。</description>
+      <pubDate>Tue, 25 Mar 2025 15:31:24 +0000</pubDate>
     </item>
     <item>
       <title>【How YouTube Supports Billions of Users with MySQL and Vitess】YouTube如何为数十亿个用户提供MySQL和Vitess</title>
@@ -41,16 +35,16 @@
       <pubDate>Sat, 22 Mar 2025 15:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>【EP156: Software Architect Knowledge Map 】EP156：软件架构师知识图</title>
-      <link>https://blog.bytebytego.com/p/ep156-software-architect-knowledge</link>
-      <description>【Becoming a Software Architect is a journey where you are always learning. But there are some things you must definitely strive to know.】成为软件架构师是您一直在学习的旅程。但是有些事情您一定要努力知道。</description>
-      <pubDate>Sat, 29 Mar 2025 15:30:53 +0000</pubDate>
+      <title>【Mastering OOP Fundamentals with SOLID Principles】用坚实的原则掌握OOP基础知识</title>
+      <link>https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid</link>
+      <description>【In this article, we will take a deep dive into the core fundamentals of OOP followed by an introduction to the SOLID principles.】在本文中，我们将深入了解OOP的核心基础，然后介绍扎实的原则。</description>
+      <pubDate>Thu, 27 Mar 2025 15:31:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Bluesky: The Decentralized Social Media App with 30 Million Users】蓝军：分散的社交媒体应用程序，有3000万用户</title>
-      <link>https://blog.bytebytego.com/p/bluesky-the-decentralized-social</link>
-      <description>【In this article, we will look at Bluesky&amp;#8217;s architecture and its use of the AT protocol to make things possible.】在本文中，我们将研究布鲁斯基的架构及其对AT协议的使用以使事情成为可能。</description>
-      <pubDate>Tue, 25 Mar 2025 15:31:24 +0000</pubDate>
+      <title>【OOP Design Patterns and Anti-Patterns: What Works and What Fails】OOP设计模式和反式模式：什么有效和失败</title>
+      <link>https://blog.bytebytego.com/p/oop-design-patterns-and-anti-patterns</link>
+      <description>【Writing clean, maintainable, and scalable code sounds easy as a requirement, but is a constant challenge when developing real-world applications.】编写干净，可维护和可扩展的代码听起来很容易，但是在开发真实世界应用程序时，始终是一个持续的挑战。</description>
+      <pubDate>Thu, 10 Apr 2025 15:31:21 +0000</pubDate>
     </item>
     <item>
       <title>【The Art of REST API Design: Idempotency, Pagination, and Security】REST API设计的艺术：势力，分页和安全性</title>
@@ -63,6 +57,12 @@
       <link>https://blog.bytebytego.com/p/ep157-how-to-learn-backend-development</link>
       <description>【Backend Development requires knowledge of multiple aspects. Here&amp;#8217;s a mind map of what all things a developer should learn:】后端发展需要多个方面的知识。这是开发人员应该学到的所有知识的思维图：</description>
       <pubDate>Sat, 05 Apr 2025 15:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP158: How to Learn API Development】EP158：如何学习API开发</title>
+      <link>https://blog.bytebytego.com/p/ep158-how-to-learn-api-development</link>
+      <description>【Learning how to develop APIs is an important skill for modern-day developers.】学习如何开发API是现代开发人员的重要技能。</description>
+      <pubDate>Sat, 12 Apr 2025 15:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
