@@ -4,6 +4,54 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【A global virtual private cloud for building secure cross-cloud apps on Cloudflare Workers】用于在Cloudflare工人上构建安全横云应用程序的全局虚拟私有云</title>
+      <link>https://blog.cloudflare.com/workers-virtual-private-cloud/</link>
+      <description>【 We’re announcing Workers VPC: a global private network that allows applications deployed on Cloudflare Workers to connect to your legacy cloud infrastructure.  】我们宣布工人VPC：一个全球专用网络，允许在CloudFlare工人上部署的应用程序连接到您的传统云基础架构。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we simplified NCMEC reporting with Cloudflare Workflows】我们如何用Cloudflare工作流简化NCMEC报告</title>
+      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
+      <description>【 We transitioned to Cloudflare Workflows to manage complex, multi-step processes more efficiently. This shift replaced our National Center for Missing &amp; Exploited Children (NCMEC) reporting system. 】我们过渡到CloudFlare工作流程，以更有效地管理复杂的多步骤过程。这一转变取代了我们国家失踪和被剥削儿童中心（NCMEC）报告系统。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Developer Week 2025 wrap-up】开发人员第2025周总结</title>
+      <link>https://blog.cloudflare.com/developer-week-2025-wrap-up/</link>
+      <description>【 We’ve closed out Developer Week 2025. Here’s a quick recap of the announcements and in-depth technical explorations that went out during the week. 】我们已经关闭了第2025周的开发人员。这是对一周内进行的公告和深入的技术探索的快速回顾。</description>
+      <pubDate>Mon, 14 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A next-generation Certificate Transparency log built on Cloudflare Workers】下一代证书透明度日志建立在Cloudflare工人上</title>
+      <link>https://blog.cloudflare.com/azul-certificate-transparency-log/</link>
+      <description>【 Learn about recent developments in Certificate Transparency (CT), and how we built a next-generation CT log on top of Cloudflare&#39;s Developer Platform. 】了解证书透明度（CT）的最新发展以及我们如何在Cloudflare开发人员平台上建立下一代CT登录。</description>
+      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Workers AI gets a speed boost, batch workload support, more LoRAs, new models, and a refreshed dashboard】工人AI获得了速度提升，批处理工作负载支持，更多的Loras，新型号和刷新的仪表板</title>
+      <link>https://blog.cloudflare.com/workers-ai-improvements/</link>
+      <description>【 We just made Workers AI inference faster with speculative decoding &amp; prefix caching. Use our new batch inference for handling large request volumes seamlessly. 】我们刚刚通过投机解码和前缀缓存使工人AI推理更快。使用我们的新批次推理无缝处理大型请求量。</description>
+      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
+      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
+      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why I joined Cloudflare as Chief People Officer — Kelly Russell】为什么我加入Cloudflare担任首席人物 - 凯利·罗素（Kelly Russell）</title>
+      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-kelly-russell/</link>
+      <description>【 After years navigating the world of high-growth tech, I’ve learned to recognize a special opportunity when I see one. That’s exactly why I’m thrilled to join Cloudflare as Chief People Officer.&#xA; 】经过多年的高增长技术世界，当我看到一个人时，我学会了认识到一个特殊的机会。这就是为什么我很高兴加入Cloudflare担任首席人物。</description>
+      <pubDate>Mon, 14 Apr 2025 19:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why I joined Cloudflare: to build world-class partnerships in EMEA 】为什么我加入CloudFlare：在EMEA建立世界一流的合作伙伴关系</title>
+      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-to-build-world-class-partnerships-in-emea/</link>
+      <description>【 The EMEA region is a patchwork of diverse markets, industries, and regulatory environments, and it demands a partner-centric approach. That’s why I joined Cloudflare as VP of EMEA Partnerships. 】EMEA地区是各种市场，行业和监管环境的拼凑而成，它需要以合作伙伴为中心的方法。这就是为什么我加入CloudFlare担任EMEA合作伙伴关系副总裁。</description>
+      <pubDate>Tue, 15 Apr 2025 23:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Startup Program update: empowering every stage of the startup journey】启动计划更新：授权启动旅程的每个阶段</title>
       <link>https://blog.cloudflare.com/expanding-cloudflares-startup-program/</link>
       <description>【 Cloudflare’s Startup Program offers up to $250,000 in credits for companies building on our Developer Platform across 4 tiers: $5,000, $25,000, $100,000, and $250,000. 】CloudFlare的启动计划为在我们开发人员平台上建立4层的公司提供高达25万美元的学分：5,000美元，25,000美元，100,000美元和25万美元。</description>
@@ -14,54 +62,6 @@
       <link>https://blog.cloudflare.com/ai-agents-and-innovation-with-launchpad-cohort5/</link>
       <description>【 Discover how developers are using Cloudflare to scale AI workloads and streamline automation and how participants in Workers Launchpad Cohort #4 have built, and startups participating in Cohort #5 】查找开发人员如何使用CloudFlare来扩展AI工作负载和简化自动化以及工人的参与者如何构建了Launchpad Cohort＃4，以及参与COHORT＃5的初创公司</description>
       <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A next-generation Certificate Transparency log built on Cloudflare Workers】下一代证书透明度日志建立在Cloudflare工人上</title>
-      <link>https://blog.cloudflare.com/azul-certificate-transparency-log/</link>
-      <description>【 Learn about recent developments in Certificate Transparency (CT), and how we built a next-generation CT log on top of Cloudflare&#39;s Developer Platform. 】了解证书透明度（CT）的最新发展以及我们如何在Cloudflare开发人员平台上建立下一代CT登录。</description>
-      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A global virtual private cloud for building secure cross-cloud apps on Cloudflare Workers】用于在Cloudflare工人上构建安全横云应用程序的全局虚拟私有云</title>
-      <link>https://blog.cloudflare.com/workers-virtual-private-cloud/</link>
-      <description>【 We’re announcing Workers VPC: a global private network that allows applications deployed on Cloudflare Workers to connect to your legacy cloud infrastructure.  】我们宣布工人VPC：一个全球专用网络，允许在CloudFlare工人上部署的应用程序连接到您的传统云基础架构。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why I joined Cloudflare: to build world-class partnerships in EMEA 】为什么我加入CloudFlare：在EMEA建立世界一流的合作伙伴关系</title>
-      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-to-build-world-class-partnerships-in-emea/</link>
-      <description>【 The EMEA region is a patchwork of diverse markets, industries, and regulatory environments, and it demands a partner-centric approach. That’s why I joined Cloudflare as VP of EMEA Partnerships. 】EMEA地区是各种市场，行业和监管环境的拼凑而成，它需要以合作伙伴为中心的方法。这就是为什么我加入CloudFlare担任EMEA合作伙伴关系副总裁。</description>
-      <pubDate>Tue, 15 Apr 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
-      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
-      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How we simplified NCMEC reporting with Cloudflare Workflows】我们如何用Cloudflare工作流简化NCMEC报告</title>
-      <link>https://blog.cloudflare.com/simplifying-ncmec-reporting-with-cloudflare-workflows/</link>
-      <description>【 We transitioned to Cloudflare Workflows to manage complex, multi-step processes more efficiently. This shift replaced our National Center for Missing &amp; Exploited Children (NCMEC) reporting system. 】我们过渡到CloudFlare工作流程，以更有效地管理复杂的多步骤过程。这一转变取代了我们国家失踪和被剥削儿童中心（NCMEC）报告系统。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why I joined Cloudflare as Chief People Officer — Kelly Russell】为什么我加入Cloudflare担任首席人物 - 凯利·罗素（Kelly Russell）</title>
-      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-kelly-russell/</link>
-      <description>【 After years navigating the world of high-growth tech, I’ve learned to recognize a special opportunity when I see one. That’s exactly why I’m thrilled to join Cloudflare as Chief People Officer.&#xA; 】经过多年的高增长技术世界，当我看到一个人时，我学会了认识到一个特殊的机会。这就是为什么我很高兴加入Cloudflare担任首席人物。</description>
-      <pubDate>Mon, 14 Apr 2025 19:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Developer Week 2025 wrap-up】开发人员第2025周总结</title>
-      <link>https://blog.cloudflare.com/developer-week-2025-wrap-up/</link>
-      <description>【 We’ve closed out Developer Week 2025. Here’s a quick recap of the announcements and in-depth technical explorations that went out during the week. 】我们已经关闭了第2025周的开发人员。这是对一周内进行的公告和深入的技术探索的快速回顾。</description>
-      <pubDate>Mon, 14 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Workers AI gets a speed boost, batch workload support, more LoRAs, new models, and a refreshed dashboard】工人AI获得了速度提升，批处理工作负载支持，更多的Loras，新型号和刷新的仪表板</title>
-      <link>https://blog.cloudflare.com/workers-ai-improvements/</link>
-      <description>【 We just made Workers AI inference faster with speculative decoding &amp; prefix caching. Use our new batch inference for handling large request volumes seamlessly. 】我们刚刚通过投机解码和前缀缓存使工人AI推理更快。使用我们的新批次推理无缝处理大型请求量。</description>
-      <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

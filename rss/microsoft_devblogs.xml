@@ -10,28 +10,10 @@
       <pubDate>Thu, 17 Apr 2025 14:55:14 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the feature flag that didn’t stay on long enough, part 1】功能旗的情况不足以保持长时间，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250417-00/?p=111079</link>
-      <description>【Understanding scope and order of destruction.】了解破坏的范围和顺序。</description>
-      <pubDate>Thu, 17 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Semantic Kernel adds Model Context Protocol (MCP) support for Python】语义内核添加模型上下文协议（MCP）支持Python</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-adds-model-context-protocol-mcp-support-for-python</link>
       <description>【We are excited to announce that Semantic Kernel (SK) now has first-class support for the Model Context Protocol (MCP) — a standard created by Anthropic to enable models, tools, and agents to share context and capabilities seamlessly. With this release, SK can act as both an MCP host (client) and an MCP server, and you [&amp;hellip;]】我们很高兴地宣布，语义内核（SK）现在对模型上下文协议（MCP）具有一流的支持，该标准是由人类创建的标准，可以启用模型，工具和代理，以无缝共享上下文和功能。通过此版本，SK可以充当MCP主机（客户端）和MCP服务器，您[…]</description>
       <pubDate>Thu, 17 Apr 2025 14:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Integrating Semantic Kernel Python with Google’s A2A Protocol】将语义内核Python与Google的A2A协议集成</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-semantic-kernel-python-with-googles-a2a-protocol</link>
-      <description>【Google&amp;#8217;s Agent-to-Agent (A2A) protocol is designed to enable seamless interoperability among diverse AI agents. Microsoft’s Semantic Kernel (SK), an open-source platform for orchestrating intelligent agent interactions, is now being integrated into the A2A ecosystem. In this blog, we demonstrate how Semantic Kernel agents can easily function as an A2A Server, efficiently routing agent calls to [&amp;hellip;]】Google的代理到代理（A2A）协议旨在在不同的AI代理之间实现无缝的互操作性。微软的语义内核（SK）是一个用于协调智能代理交互的开源平台，现在正在集成到A2A生态系统中。在此博客中，我们演示了语义内核代理如何轻松充当A2A服务器，有效地将代理调用[…]</description>
-      <pubDate>Thu, 17 Apr 2025 21:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Preview 2 of the .NET AI Template Now Available】.NET AI模板的预览2现在可用</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2</link>
-      <description>【Preview 2 of the .NET AI Chat Web App template introduces support for .NET Aspire and Qdrant vector database integration, making it easier to create cloud-native AI-powered chat applications with custom data.】.NET AI CHAT Web应用模板的预览2引入了对.NET ASPIRE和QDRANT矢量数据库集成的支持，从而使使用自定义数据的云本地AI-PARE-PARING聊天应用程序更加容易。</description>
-      <pubDate>Thu, 17 Apr 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing the Azure MCP Server】引入Azure MCP服务器</title>
@@ -40,10 +22,22 @@
       <pubDate>Thu, 17 Apr 2025 19:59:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
-      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
-      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
+      <title>【Preview 2 of the .NET AI Template Now Available】.NET AI模板的预览2现在可用</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2</link>
+      <description>【Preview 2 of the .NET AI Chat Web App template introduces support for .NET Aspire and Qdrant vector database integration, making it easier to create cloud-native AI-powered chat applications with custom data.】.NET AI CHAT Web应用模板的预览2引入了对.NET ASPIRE和QDRANT矢量数据库集成的支持，从而使使用自定义数据的云本地AI-PARE-PARING聊天应用程序更加容易。</description>
+      <pubDate>Thu, 17 Apr 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Integrating Semantic Kernel Python with Google’s A2A Protocol】将语义内核Python与Google的A2A协议集成</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-semantic-kernel-python-with-googles-a2a-protocol</link>
+      <description>【Google&amp;#8217;s Agent-to-Agent (A2A) protocol is designed to enable seamless interoperability among diverse AI agents. Microsoft’s Semantic Kernel (SK), an open-source platform for orchestrating intelligent agent interactions, is now being integrated into the A2A ecosystem. In this blog, we demonstrate how Semantic Kernel agents can easily function as an A2A Server, efficiently routing agent calls to [&amp;hellip;]】Google的代理到代理（A2A）协议旨在在不同的AI代理之间实现无缝的互操作性。微软的语义内核（SK）是一个用于协调智能代理交互的开源平台，现在正在集成到A2A生态系统中。在此博客中，我们演示了语义内核代理如何轻松充当A2A服务器，有效地将代理调用[…]</description>
+      <pubDate>Thu, 17 Apr 2025 21:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Toolbox Support for Explicit Assembly References in Windows Forms Out-of-Process Designer】工具箱支持Windows表格中的显式汇编参考，以实行核对设计师</title>
+      <link>https://devblogs.microsoft.com/visualstudio/toolbox-support-for-explicit-assembly-references-in-windows-forms-out-of-process-designer</link>
+      <description>【Visual Studio 17.14 Preview 3 introduces a new feature that enhances the Windows Forms out-of-process designer experience for .NET Framework projects. This release brings Toolbox support for Explicit Assembly References, addressing a long-standing need in legacy application development and migration workflows. What Are Explicit Assembly References? Explicit Assembly References are stand-alone assemblies directly referenced in [&amp;hellip;]】Visual Studio 17.14 Preview 3推出了一项新功能，可增强Windows形式的.NET Framework Projects for .NET Framework项目。此版本为明确的组装参考提供了工具箱支持，从而满足了旧版应用程序开发和迁移工作流程的长期需求。什么是明确的汇编参考？显式组件参考是直接参考[…]中直接引用的独立组件。</description>
+      <pubDate>Thu, 17 Apr 2025 14:45:27 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
@@ -58,10 +52,16 @@
       <pubDate>Fri, 18 Apr 2025 14:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Toolbox Support for Explicit Assembly References in Windows Forms Out-of-Process Designer】工具箱支持Windows表格中的显式汇编参考，以实行核对设计师</title>
-      <link>https://devblogs.microsoft.com/visualstudio/toolbox-support-for-explicit-assembly-references-in-windows-forms-out-of-process-designer</link>
-      <description>【Visual Studio 17.14 Preview 3 introduces a new feature that enhances the Windows Forms out-of-process designer experience for .NET Framework projects. This release brings Toolbox support for Explicit Assembly References, addressing a long-standing need in legacy application development and migration workflows. What Are Explicit Assembly References? Explicit Assembly References are stand-alone assemblies directly referenced in [&amp;hellip;]】Visual Studio 17.14 Preview 3推出了一项新功能，可增强Windows形式的.NET Framework Projects for .NET Framework项目。此版本为明确的组装参考提供了工具箱支持，从而满足了旧版应用程序开发和迁移工作流程的长期需求。什么是明确的汇编参考？显式组件参考是直接参考[…]中直接引用的独立组件。</description>
-      <pubDate>Thu, 17 Apr 2025 14:45:27 +0000</pubDate>
+      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
+      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
+      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the feature flag that didn’t stay on long enough, part 1】功能旗的情况不足以保持长时间，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250417-00/?p=111079</link>
+      <description>【Understanding scope and order of destruction.】了解破坏的范围和秩序。</description>
+      <pubDate>Thu, 17 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
