@@ -10,22 +10,16 @@
       <pubDate>Thu, 17 Apr 2025 14:55:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel adds Model Context Protocol (MCP) support for Python】语义内核添加模型上下文协议（MCP）支持Python</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-adds-model-context-protocol-mcp-support-for-python</link>
-      <description>【We are excited to announce that Semantic Kernel (SK) now has first-class support for the Model Context Protocol (MCP) — a standard created by Anthropic to enable models, tools, and agents to share context and capabilities seamlessly. With this release, SK can act as both an MCP host (client) and an MCP server, and you [&amp;hellip;]】我们很高兴地宣布，语义内核（SK）现在对模型上下文协议（MCP）具有一流的支持，该标准是由人类创建的标准，可以启用模型，工具和代理，以无缝共享上下文和功能。通过此版本，SK可以充当MCP主机（客户端）和MCP服务器，您[…]</description>
-      <pubDate>Thu, 17 Apr 2025 14:33:16 +0000</pubDate>
+      <title>【The case of the feature flag that didn’t stay on long enough, part 1】功能旗的情况不足以保持长时间，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250417-00/?p=111079</link>
+      <description>【Understanding scope and order of destruction.】了解破坏的范围和顺序。</description>
+      <pubDate>Thu, 17 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Azure MCP Server】引入Azure MCP服务器</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server</link>
-      <description>【This post introduces the Azure MCP Server, bringing the power of the cloud to your AI agents.】这篇文章介绍了Azure MCP服务器，将云的功能带到了您的AI代理。</description>
-      <pubDate>Thu, 17 Apr 2025 19:59:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Preview 2 of the .NET AI Template Now Available】.NET AI模板的预览2现在可用</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2</link>
-      <description>【Preview 2 of the .NET AI Chat Web App template introduces support for .NET Aspire and Qdrant vector database integration, making it easier to create cloud-native AI-powered chat applications with custom data.】.NET AI CHAT Web应用模板的预览2引入了对.NET ASPIRE和QDRANT矢量数据库集成的支持，从而使使用自定义数据的云本地AI-PARE-PARING聊天应用程序更加容易。</description>
-      <pubDate>Thu, 17 Apr 2025 17:05:00 +0000</pubDate>
+      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
+      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
+      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
     </item>
     <item>
       <title>【Integrating Semantic Kernel Python with Google’s A2A Protocol】将语义内核Python与Google的A2A协议集成</title>
@@ -40,10 +34,22 @@
       <pubDate>Thu, 17 Apr 2025 14:45:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
-      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
-      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
-      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
+      <title>【Preview 2 of the .NET AI Template Now Available】.NET AI模板的预览2现在可用</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2</link>
+      <description>【Preview 2 of the .NET AI Chat Web App template introduces support for .NET Aspire and Qdrant vector database integration, making it easier to create cloud-native AI-powered chat applications with custom data.】.NET AI CHAT Web应用模板的预览2引入了对.NET ASPIRE和QDRANT矢量数据库集成的支持，从而使使用自定义数据的云本地AI-PARE-PARING聊天应用程序更加容易。</description>
+      <pubDate>Thu, 17 Apr 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Azure MCP Server】引入Azure MCP服务器</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server</link>
+      <description>【This post introduces the Azure MCP Server, bringing the power of the cloud to your AI agents.】这篇文章介绍了Azure MCP服务器，将云的功能带到了您的AI代理。</description>
+      <pubDate>Thu, 17 Apr 2025 19:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel adds Model Context Protocol (MCP) support for Python】语义内核添加模型上下文协议（MCP）支持Python</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-adds-model-context-protocol-mcp-support-for-python</link>
+      <description>【We are excited to announce that Semantic Kernel (SK) now has first-class support for the Model Context Protocol (MCP) — a standard created by Anthropic to enable models, tools, and agents to share context and capabilities seamlessly. With this release, SK can act as both an MCP host (client) and an MCP server, and you [&amp;hellip;]】我们很高兴地宣布，语义内核（SK）现在对模型上下文协议（MCP）具有一流的支持，该标准是由人类创建的标准，可以启用模型，工具和代理，以无缝共享上下文和功能。通过此版本，SK可以充当MCP主机（客户端）和MCP服务器，您[…]</description>
+      <pubDate>Thu, 17 Apr 2025 14:33:16 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the feature flag that didn’t stay on long enough, part 2】功能旗的情况不足以保持长时间，第2部分</title>
@@ -52,16 +58,10 @@
       <pubDate>Fri, 18 Apr 2025 14:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
-      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
-      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the feature flag that didn’t stay on long enough, part 1】功能旗的情况不足以保持长时间，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250417-00/?p=111079</link>
-      <description>【Understanding scope and order of destruction.】了解破坏的范围和秩序。</description>
-      <pubDate>Thu, 17 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
+      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
+      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
+      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
