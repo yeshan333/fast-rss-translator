@@ -4,34 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: General Data Protection Regulation (GDPR)】Microsoft 365认证控制聚光灯：通用数据保护法规（GDPR）</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-general-data-protection-regulation-gdpr</link>
-      <description>【Read how Microsoft 365 Certification helps ISVs validate General Data Protection Regulation (GDPR) compliance.】阅读Microsoft 365认证如何帮助ISV验证一般数据保护法规（GDPR）合规性。</description>
-      <pubDate>Thu, 17 Apr 2025 14:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the feature flag that didn’t stay on long enough, part 1】功能旗的情况不足以保持长时间，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250417-00/?p=111079</link>
-      <description>【Understanding scope and order of destruction.】了解破坏的范围和顺序。</description>
-      <pubDate>Thu, 17 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
-      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
-      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Integrating Semantic Kernel Python with Google’s A2A Protocol】将语义内核Python与Google的A2A协议集成</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-semantic-kernel-python-with-googles-a2a-protocol</link>
-      <description>【Google&amp;#8217;s Agent-to-Agent (A2A) protocol is designed to enable seamless interoperability among diverse AI agents. Microsoft’s Semantic Kernel (SK), an open-source platform for orchestrating intelligent agent interactions, is now being integrated into the A2A ecosystem. In this blog, we demonstrate how Semantic Kernel agents can easily function as an A2A Server, efficiently routing agent calls to [&amp;hellip;]】Google的代理到代理（A2A）协议旨在在不同的AI代理之间实现无缝的互操作性。微软的语义内核（SK）是一个用于协调智能代理交互的开源平台，现在正在集成到A2A生态系统中。在此博客中，我们演示了语义内核代理如何轻松充当A2A服务器，有效地将代理调用[…]</description>
-      <pubDate>Thu, 17 Apr 2025 21:14:47 +0000</pubDate>
-    </item>
-    <item>
       <title>【Toolbox Support for Explicit Assembly References in Windows Forms Out-of-Process Designer】工具箱支持Windows表格中的显式汇编参考，以实行核对设计师</title>
       <link>https://devblogs.microsoft.com/visualstudio/toolbox-support-for-explicit-assembly-references-in-windows-forms-out-of-process-designer</link>
       <description>【Visual Studio 17.14 Preview 3 introduces a new feature that enhances the Windows Forms out-of-process designer experience for .NET Framework projects. This release brings Toolbox support for Explicit Assembly References, addressing a long-standing need in legacy application development and migration workflows. What Are Explicit Assembly References? Explicit Assembly References are stand-alone assemblies directly referenced in [&amp;hellip;]】Visual Studio 17.14 Preview 3推出了一项新功能，可增强Windows形式的.NET Framework Projects for .NET Framework项目。此版本为明确的组装参考提供了工具箱支持，从而满足了旧版应用程序开发和迁移工作流程的长期需求。什么是明确的汇编参考？显式组件参考是直接参考[…]中直接引用的独立组件。</description>
       <pubDate>Thu, 17 Apr 2025 14:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
+      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
+      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
+      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
     </item>
     <item>
       <title>【Preview 2 of the .NET AI Template Now Available】.NET AI模板的预览2现在可用</title>
@@ -40,10 +22,16 @@
       <pubDate>Thu, 17 Apr 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Azure MCP Server】引入Azure MCP服务器</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server</link>
-      <description>【This post introduces the Azure MCP Server, bringing the power of the cloud to your AI agents.】这篇文章介绍了Azure MCP服务器，将云的功能带到了您的AI代理。</description>
-      <pubDate>Thu, 17 Apr 2025 19:59:42 +0000</pubDate>
+      <title>【Integrating Semantic Kernel Python with Google’s A2A Protocol】将语义内核Python与Google的A2A协议集成</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-semantic-kernel-python-with-googles-a2a-protocol</link>
+      <description>【Google&amp;#8217;s Agent-to-Agent (A2A) protocol is designed to enable seamless interoperability among diverse AI agents. Microsoft’s Semantic Kernel (SK), an open-source platform for orchestrating intelligent agent interactions, is now being integrated into the A2A ecosystem. In this blog, we demonstrate how Semantic Kernel agents can easily function as an A2A Server, efficiently routing agent calls to [&amp;hellip;]】Google的代理到代理（A2A）协议旨在在不同的AI代理之间实现无缝的互操作性。微软的语义内核（SK）是一个用于协调智能代理交互的开源平台，现在正在集成到A2A生态系统中。在此博客中，我们演示了语义内核代理如何轻松充当A2A服务器，有效地将代理调用[…]</description>
+      <pubDate>Thu, 17 Apr 2025 21:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: General Data Protection Regulation (GDPR)】Microsoft 365认证控制聚光灯：通用数据保护法规（GDPR）</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-general-data-protection-regulation-gdpr</link>
+      <description>【Read how Microsoft 365 Certification helps ISVs validate General Data Protection Regulation (GDPR) compliance.】阅读Microsoft 365认证如何帮助ISV验证一般数据保护法规（GDPR）合规性。</description>
+      <pubDate>Thu, 17 Apr 2025 14:55:14 +0000</pubDate>
     </item>
     <item>
       <title>【Semantic Kernel adds Model Context Protocol (MCP) support for Python】语义内核添加模型上下文协议（MCP）支持Python</title>
@@ -58,10 +46,22 @@
       <pubDate>Fri, 18 Apr 2025 14:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
-      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
-      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
-      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
+      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
+      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
+      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Azure MCP Server】引入Azure MCP服务器</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server</link>
+      <description>【This post introduces the Azure MCP Server, bringing the power of the cloud to your AI agents.】这篇文章介绍了Azure MCP服务器，将云的功能带到了您的AI代理。</description>
+      <pubDate>Thu, 17 Apr 2025 19:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the ‘Work with Power Fx functions’ Learning Path】宣布“使用Power FX功能”学习路径</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-work-with-power-fx-functions-learning-path</link>
+      <description>【Microsoft Learn has a growing list of Power Platform training modules. Based on community feedback, we’ve added a new learning path: Work with Power Fx functions. Power Fx functions enable the creation of server-side business logic using Power Fx, a low-code, declarative language. These functions were previously called instant low-code plug-ins. They provide reusable, parameterized [&amp;hellip;]】Microsoft Learn拥有越来越多的电力平台培训模块列表。根据社区反馈，我们添加了一个新的学习路径：使用Power FX功能。 Power FX功能可以使用低音，声明语言的Power FX创建服务器端业务逻辑。这些功能以前称为即时低代码插件。他们提供可重复使用的参数化[…]</description>
+      <pubDate>Sun, 20 Apr 2025 13:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

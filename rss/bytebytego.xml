@@ -5,46 +5,16 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Coupling and Cohesion: The Two Principles for Effective Architecture 】耦合和凝聚力：有效体系结构的两个原则</title>
-      <link>https://blog.bytebytego.com/p/coupling-and-cohesion-the-two-principles</link>
-      <description>【Every large system that spirals out of control starts the same way: small, functional, and deceptively simple.】每个大型失控的大型系统都以相同的方式开始：小型，功能性和看似简单。</description>
-      <pubDate>Thu, 17 Apr 2025 15:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Orchestrates Millions of Workflow Jobs with Maestro】Netflix如何与大师协调数百万的工作流程</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-orchestrates-millions</link>
-      <description>【WorkOS + MCP: Authentication for AI Agents (Sponsored)】Workos + MCP：AI代理的身份验证（赞助）</description>
-      <pubDate>Tue, 15 Apr 2025 15:31:16 +0000</pubDate>
-    </item>
-    <item>
       <title>【How YouTube Supports Billions of Users with MySQL and Vitess】YouTube如何为数十亿个用户提供MySQL和Vitess</title>
       <link>https://blog.bytebytego.com/p/how-youtube-supports-billions-of</link>
       <description>【As YouTube&amp;#8217;s popularity soared, so did the complexity of its backend. This happens because every video upload, comment, like, and view creates more data.】随着YouTube的受欢迎程度飙升，其后端的复杂性也是如此。发生这种情况是因为每个视频上传，评论，喜欢和查看都会创建更多数据。</description>
       <pubDate>Tue, 08 Apr 2025 15:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>【EP156: Software Architect Knowledge Map 】EP156：软件架构师知识图</title>
-      <link>https://blog.bytebytego.com/p/ep156-software-architect-knowledge</link>
-      <description>【Becoming a Software Architect is a journey where you are always learning. But there are some things you must definitely strive to know.】成为软件架构师是您一直在学习的旅程。但是有些事情您一定要努力知道。</description>
-      <pubDate>Sat, 29 Mar 2025 15:30:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP159: The Data Engineering Roadmap】EP159：数据工程路线图</title>
-      <link>https://blog.bytebytego.com/p/ep159-the-data-engineering-roadmap</link>
-      <description>【Data engineering has become the backbone of effective data analysis. It involves managing, processing, and optimizing data to derive actionable insights.】数据工程已成为有效数据分析的骨干。它涉及管理，处理和优化数据以获得可行的见解。</description>
-      <pubDate>Sat, 19 Apr 2025 15:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【OOP Design Patterns and Anti-Patterns: What Works and What Fails】OOP设计模式和反式模式：什么有效和失败</title>
-      <link>https://blog.bytebytego.com/p/oop-design-patterns-and-anti-patterns</link>
-      <description>【Writing clean, maintainable, and scalable code sounds easy as a requirement, but is a constant challenge when developing real-world applications.】编写干净，可维护和可扩展的代码听起来很容易，但是在开发真实世界应用程序时，始终是一个持续的挑战。</description>
-      <pubDate>Thu, 10 Apr 2025 15:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP158: How to Learn API Development】EP158：如何学习API开发</title>
-      <link>https://blog.bytebytego.com/p/ep158-how-to-learn-api-development</link>
-      <description>【Learning how to develop APIs is an important skill for modern-day developers.】学习如何开发API是现代开发人员的重要技能。</description>
-      <pubDate>Sat, 12 Apr 2025 15:30:57 +0000</pubDate>
+      <title>【Coupling and Cohesion: The Two Principles for Effective Architecture 】耦合和凝聚力：有效体系结构的两个原则</title>
+      <link>https://blog.bytebytego.com/p/coupling-and-cohesion-the-two-principles</link>
+      <description>【Every large system that spirals out of control starts the same way: small, functional, and deceptively simple.】每个大型失控的大型系统都以相同的方式开始：小型，功能性和看似简单。</description>
+      <pubDate>Thu, 17 Apr 2025 15:30:59 +0000</pubDate>
     </item>
     <item>
       <title>【The Art of REST API Design: Idempotency, Pagination, and Security】REST API设计的艺术：势力，分页和安全性</title>
@@ -53,16 +23,46 @@
       <pubDate>Thu, 03 Apr 2025 15:31:10 +0000</pubDate>
     </item>
     <item>
+      <title>【How AMEX Processes Millions of Daily Transactions With Millisecond Latency】AMEX如何通过毫秒延迟处理数百万美元的每日交易</title>
+      <link>https://blog.bytebytego.com/p/how-amex-processes-millions-of-daily</link>
+      <description>【Optimize Kubernetes performance with these essential metrics (Sponsored)】通过这些基本指标（赞助）优化Kubernetes性能</description>
+      <pubDate>Tue, 01 Apr 2025 15:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP156: Software Architect Knowledge Map 】EP156：软件架构师知识图</title>
+      <link>https://blog.bytebytego.com/p/ep156-software-architect-knowledge</link>
+      <description>【Becoming a Software Architect is a journey where you are always learning. But there are some things you must definitely strive to know.】成为软件架构师是您一直在学习的旅程。但是有些事情您一定要努力知道。</description>
+      <pubDate>Sat, 29 Mar 2025 15:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Orchestrates Millions of Workflow Jobs with Maestro】Netflix如何与大师协调数百万的工作流程</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-orchestrates-millions</link>
+      <description>【WorkOS + MCP: Authentication for AI Agents (Sponsored)】Workos + MCP：AI代理的身份验证（赞助）</description>
+      <pubDate>Tue, 15 Apr 2025 15:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP158: How to Learn API Development】EP158：如何学习API开发</title>
+      <link>https://blog.bytebytego.com/p/ep158-how-to-learn-api-development</link>
+      <description>【Learning how to develop APIs is an important skill for modern-day developers.】学习如何开发API是现代开发人员的重要技能。</description>
+      <pubDate>Sat, 12 Apr 2025 15:30:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【OOP Design Patterns and Anti-Patterns: What Works and What Fails】OOP设计模式和反式模式：什么有效和失败</title>
+      <link>https://blog.bytebytego.com/p/oop-design-patterns-and-anti-patterns</link>
+      <description>【Writing clean, maintainable, and scalable code sounds easy as a requirement, but is a constant challenge when developing real-world applications.】编写干净，可维护和可扩展的代码听起来很容易，但是在开发真实世界应用程序时，始终是一个持续的挑战。</description>
+      <pubDate>Thu, 10 Apr 2025 15:31:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP157: How to Learn Backend Development?】EP157：如何学习后端发展？</title>
       <link>https://blog.bytebytego.com/p/ep157-how-to-learn-backend-development</link>
       <description>【Backend Development requires knowledge of multiple aspects. Here&amp;#8217;s a mind map of what all things a developer should learn:】后端发展需要多个方面的知识。这是开发人员应该学到的所有知识的思维图：</description>
       <pubDate>Sat, 05 Apr 2025 15:30:30 +0000</pubDate>
     </item>
     <item>
-      <title>【How AMEX Processes Millions of Daily Transactions With Millisecond Latency】AMEX如何通过毫秒延迟处理数百万美元的每日交易</title>
-      <link>https://blog.bytebytego.com/p/how-amex-processes-millions-of-daily</link>
-      <description>【Optimize Kubernetes performance with these essential metrics (Sponsored)】通过这些基本指标（赞助）优化Kubernetes性能</description>
-      <pubDate>Tue, 01 Apr 2025 15:31:25 +0000</pubDate>
+      <title>【EP159: The Data Engineering Roadmap】EP159：数据工程路线图</title>
+      <link>https://blog.bytebytego.com/p/ep159-the-data-engineering-roadmap</link>
+      <description>【Data engineering has become the backbone of effective data analysis. It involves managing, processing, and optimizing data to derive actionable insights.】数据工程已成为有效数据分析的骨干。它涉及管理，处理和优化数据以获得可行的见解。</description>
+      <pubDate>Sat, 19 Apr 2025 15:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
