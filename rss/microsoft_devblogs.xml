@@ -4,46 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Toolbox Support for Explicit Assembly References in Windows Forms Out-of-Process Designer】工具箱支持Windows表格中的显式汇编参考，以实行核对设计师</title>
-      <link>https://devblogs.microsoft.com/visualstudio/toolbox-support-for-explicit-assembly-references-in-windows-forms-out-of-process-designer</link>
-      <description>【Visual Studio 17.14 Preview 3 introduces a new feature that enhances the Windows Forms out-of-process designer experience for .NET Framework projects. This release brings Toolbox support for Explicit Assembly References, addressing a long-standing need in legacy application development and migration workflows. What Are Explicit Assembly References? Explicit Assembly References are stand-alone assemblies directly referenced in [&amp;hellip;]】Visual Studio 17.14 Preview 3推出了一项新功能，可增强Windows形式的.NET Framework Projects for .NET Framework项目。此版本为明确的组装参考提供了工具箱支持，从而满足了旧版应用程序开发和迁移工作流程的长期需求。什么是明确的汇编参考？显式组件参考是直接参考[…]中直接引用的独立组件。</description>
-      <pubDate>Thu, 17 Apr 2025 14:45:27 +0000</pubDate>
+      <title>【Announcing the ‘Work with Power Fx functions’ Learning Path】宣布“使用Power FX功能”学习路径</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-work-with-power-fx-functions-learning-path</link>
+      <description>【Microsoft Learn has a growing list of Power Platform training modules. Based on community feedback, we’ve added a new learning path: Work with Power Fx functions. Power Fx functions enable the creation of server-side business logic using Power Fx, a low-code, declarative language. These functions were previously called instant low-code plug-ins. They provide reusable, parameterized [&amp;hellip;]】Microsoft Learn拥有越来越多的电力平台培训模块列表。根据社区反馈，我们添加了一个新的学习路径：使用Power FX功能。 Power FX功能可以使用低音，声明语言的Power FX创建服务器端业务逻辑。这些功能以前称为即时低代码插件。他们提供可重复使用的参数化[…]</description>
+      <pubDate>Sun, 20 Apr 2025 13:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
-      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
-      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
-      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
+      <title>【Predictable LLM results with Structured Output and sp_invoke_external_rest_endpoint】可预测的LLM结果，结构化输出和SP_INVOKE_EXTERNE_REST_ENDPOINT</title>
+      <link>https://devblogs.microsoft.com/azure-sql/predictable-llm-output-with-sp_invoke_external_rest_endpoint</link>
+      <description>【OpenAI recently introduced a powerful new feature for developers: structured output using JSON Schema via the response_format parameter. This makes it possible to request responses from a GPT-4o model that strictly match a given schema—no free-text, no guesswork. If you&amp;#8217;re working with Azure SQL, this is a game-changer. Combined with the sp_invoke_external_rest_endpoint stored procedure and [&amp;hellip;]】OpenAI最近通过响应_format参数引入了开发人员的强大新功能：使用JSON架构的结构化输出。这使得可以从严格匹配给定模式的GPT-4O模型中请求响应 - 没有免费文本，没有猜测。如果您使用Azure SQL，这是一个改变游戏规则的人。与sp_invoke_external_rest_endpoint存储过程和[…]结合使用</description>
+      <pubDate>Mon, 21 Apr 2025 15:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Preview 2 of the .NET AI Template Now Available】.NET AI模板的预览2现在可用</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2</link>
-      <description>【Preview 2 of the .NET AI Chat Web App template introduces support for .NET Aspire and Qdrant vector database integration, making it easier to create cloud-native AI-powered chat applications with custom data.】.NET AI CHAT Web应用模板的预览2引入了对.NET ASPIRE和QDRANT矢量数据库集成的支持，从而使使用自定义数据的云本地AI-PARE-PARING聊天应用程序更加容易。</description>
-      <pubDate>Thu, 17 Apr 2025 17:05:00 +0000</pubDate>
+      <title>【Introducing the Microsoft Graph API usage report】介绍Microsoft Graph API使用报告</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-api-usage-report</link>
+      <description>【Learn more about our new journey to give customers more insight and control over how applications access their data through Microsoft Graph.】了解有关我们的新旅程的更多信息，以使客户有更多的洞察力并控制应用程序如何通过Microsoft Graph访问其数据。</description>
+      <pubDate>Mon, 21 Apr 2025 09:29:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Integrating Semantic Kernel Python with Google’s A2A Protocol】将语义内核Python与Google的A2A协议集成</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/integrating-semantic-kernel-python-with-googles-a2a-protocol</link>
-      <description>【Google&amp;#8217;s Agent-to-Agent (A2A) protocol is designed to enable seamless interoperability among diverse AI agents. Microsoft’s Semantic Kernel (SK), an open-source platform for orchestrating intelligent agent interactions, is now being integrated into the A2A ecosystem. In this blog, we demonstrate how Semantic Kernel agents can easily function as an A2A Server, efficiently routing agent calls to [&amp;hellip;]】Google的代理到代理（A2A）协议旨在在不同的AI代理之间实现无缝的互操作性。微软的语义内核（SK）是一个用于协调智能代理交互的开源平台，现在正在集成到A2A生态系统中。在此博客中，我们演示了语义内核代理如何轻松充当A2A服务器，有效地将代理调用[…]</description>
-      <pubDate>Thu, 17 Apr 2025 21:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: General Data Protection Regulation (GDPR)】Microsoft 365认证控制聚光灯：通用数据保护法规（GDPR）</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-general-data-protection-regulation-gdpr</link>
-      <description>【Read how Microsoft 365 Certification helps ISVs validate General Data Protection Regulation (GDPR) compliance.】阅读Microsoft 365认证如何帮助ISV验证一般数据保护法规（GDPR）合规性。</description>
-      <pubDate>Thu, 17 Apr 2025 14:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel adds Model Context Protocol (MCP) support for Python】语义内核添加模型上下文协议（MCP）支持Python</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-adds-model-context-protocol-mcp-support-for-python</link>
-      <description>【We are excited to announce that Semantic Kernel (SK) now has first-class support for the Model Context Protocol (MCP) — a standard created by Anthropic to enable models, tools, and agents to share context and capabilities seamlessly. With this release, SK can act as both an MCP host (client) and an MCP server, and you [&amp;hellip;]】我们很高兴地宣布，语义内核（SK）现在对模型上下文协议（MCP）具有一流的支持，该标准是由人类创建的标准，可以启用模型，工具和代理，以无缝共享上下文和功能。通过此版本，SK可以充当MCP主机（客户端）和MCP服务器，您[…]</description>
-      <pubDate>Thu, 17 Apr 2025 14:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the feature flag that didn’t stay on long enough, part 2】功能旗的情况不足以保持长时间，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250418-43/?p=111081</link>
-      <description>【Leaving everything the way you found it.】以您找到的方式离开一切。</description>
-      <pubDate>Fri, 18 Apr 2025 14:00:43 +0000</pubDate>
+      <title>【The ongoing story of seconds on the taskbar】任务栏上的几秒钟的故事</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250421-00/?p=111095</link>
+      <description>【The cost of ticking.】滴答费用。</description>
+      <pubDate>Mon, 21 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
@@ -52,16 +34,34 @@
       <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Azure MCP Server】引入Azure MCP服务器</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server</link>
-      <description>【This post introduces the Azure MCP Server, bringing the power of the cloud to your AI agents.】这篇文章介绍了Azure MCP服务器，将云的功能带到了您的AI代理。</description>
-      <pubDate>Thu, 17 Apr 2025 19:59:42 +0000</pubDate>
+      <title>【How to get started quickly with setting up the Microsoft Dev Box service】如何快速开始设置Microsoft Dev Box服务</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/how-to-get-started-quickly-with-setting-up-the-microsoft-dev-box-service</link>
+      <description>【Last updated: April 21, 2025 🎯 Introduction Are you an IT admin, platform engineer, or a developer looking to explore a developer-centric, cloud-powered workstation experience? In this post, I’ll show you how to start quickly and try out Microsoft Dev Box using either a Microsoft 365 Business Premium or Microsoft 365 E3 plan — both [&amp;hellip;]】上次更新：2025年4月21日🎯简介您是IT管理员，平台工程师还是希望探索以开发人员为中心的云供电的工作站体验的开发人员？在这篇文章中，我将向您展示如何快速启动并使用Microsoft 365业务Premium或Microsoft 365 E3计划尝试Microsoft Dev Box  - 两者[…]</description>
+      <pubDate>Mon, 21 Apr 2025 20:54:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the ‘Work with Power Fx functions’ Learning Path】宣布“使用Power FX功能”学习路径</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-work-with-power-fx-functions-learning-path</link>
-      <description>【Microsoft Learn has a growing list of Power Platform training modules. Based on community feedback, we’ve added a new learning path: Work with Power Fx functions. Power Fx functions enable the creation of server-side business logic using Power Fx, a low-code, declarative language. These functions were previously called instant low-code plug-ins. They provide reusable, parameterized [&amp;hellip;]】Microsoft Learn拥有越来越多的电力平台培训模块列表。根据社区反馈，我们添加了一个新的学习路径：使用Power FX功能。 Power FX功能可以使用低音，声明语言的Power FX创建服务器端业务逻辑。这些功能以前称为即时低代码插件。他们提供可重复使用的参数化[…]</description>
-      <pubDate>Sun, 20 Apr 2025 13:55:00 +0000</pubDate>
+      <title>【The case of the feature flag that didn’t stay on long enough, part 2】功能旗的情况不足以保持长时间，第2部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250418-43/?p=111081</link>
+      <description>【Leaving everything the way you found it.】以您找到的方式离开一切。</description>
+      <pubDate>Fri, 18 Apr 2025 14:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Build an AI App That Can Browse the Internet Using Microsoft’s Playwright MCP Server &amp; Semantic Kernel — in Just 4 Steps】来宾博客：构建一个可以使用Microsoft的剧作MCP Server和Sminantic内核浏览互联网的AI应用程序 - 仅4个步骤</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-an-ai-app-that-can-browse-the-internet-using-microsofts-playwright-mcp-server-semantic-kernel-in-just-4-steps</link>
+      <description>【Today we&amp;#8217;re excited to feature a returning guest author, Akshay Kokane to share his recent Medium article on Building an AI App That Can Browse the Internet Using Microsoft’s Playwright MCP Server &amp;amp; Semantic Kernel. We’ll turn it over to him to dive in! MCP! It’s the new buzzword in the AI world. So, I thought [&amp;hellip;]】今天，我们很高兴能邀请回归的来宾作者Akshay Kokane分享他最近的媒体文章，介绍了可以使用Microsoft的Playwright MCP Server＆Sminantic内核来浏览Internet的媒体文章。我们将其交给他潜水！ MCP！这是AI世界中的新流行语。所以，我以为[…]</description>
+      <pubDate>Mon, 21 Apr 2025 18:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
+      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
+      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
+      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB with DiskANN Part 2: Scaling to 1 Billion Vectors with】带有Diskann第2部分的Azure Cosmos DB：与10亿个向量相规</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-with-diskann-part-2-scaling-to-1-billion-vectors-with</link>
+      <description>【Introduction In the first part of our series on Azure Cosmos DB Vector Search with DiskANN, we explored the fundamentals of vector indexing and search capabilities using Azure Cosmos DB for NoSQL and demonstrated a few early performance and cost characteristics. In Part 2, we’ll demonstrate how to scale to 1 billion vector datasets, while [&amp;hellip;]】引言在我们关于Azure Cosmos DB矢量搜索的系列的第一部分中，我们使用Azure Cosmos DB进行NOSQL探索了向量索引和搜索能力的基础，并展示了一些早期性能和成本特征。在第2部分中，我们将演示如何扩展到10亿个矢量数据集，而[…]</description>
+      <pubDate>Mon, 21 Apr 2025 16:02:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
