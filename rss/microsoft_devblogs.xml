@@ -4,34 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Announcing the ‘Work with Power Fx functions’ Learning Path】宣布“使用Power FX功能”学习路径</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-work-with-power-fx-functions-learning-path</link>
-      <description>【Microsoft Learn has a growing list of Power Platform training modules. Based on community feedback, we’ve added a new learning path: Work with Power Fx functions. Power Fx functions enable the creation of server-side business logic using Power Fx, a low-code, declarative language. These functions were previously called instant low-code plug-ins. They provide reusable, parameterized [&amp;hellip;]】Microsoft Learn拥有越来越多的电力平台培训模块列表。根据社区反馈，我们添加了一个新的学习路径：使用Power FX功能。 Power FX功能可以使用低音，声明语言的Power FX创建服务器端业务逻辑。这些功能以前称为即时低代码插件。他们提供可重复使用的参数化[…]</description>
-      <pubDate>Sun, 20 Apr 2025 13:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Predictable LLM results with Structured Output and sp_invoke_external_rest_endpoint】可预测的LLM结果，结构化输出和SP_INVOKE_EXTERNE_REST_ENDPOINT</title>
-      <link>https://devblogs.microsoft.com/azure-sql/predictable-llm-output-with-sp_invoke_external_rest_endpoint</link>
-      <description>【OpenAI recently introduced a powerful new feature for developers: structured output using JSON Schema via the response_format parameter. This makes it possible to request responses from a GPT-4o model that strictly match a given schema—no free-text, no guesswork. If you&amp;#8217;re working with Azure SQL, this is a game-changer. Combined with the sp_invoke_external_rest_endpoint stored procedure and [&amp;hellip;]】OpenAI最近通过响应_format参数引入了开发人员的强大新功能：使用JSON架构的结构化输出。这使得可以从严格匹配给定模式的GPT-4O模型中请求响应 - 没有免费文本，没有猜测。如果您使用Azure SQL，这是一个改变游戏规则的人。与sp_invoke_external_rest_endpoint存储过程和[…]结合使用</description>
-      <pubDate>Mon, 21 Apr 2025 15:30:01 +0000</pubDate>
-    </item>
-    <item>
       <title>【Introducing the Microsoft Graph API usage report】介绍Microsoft Graph API使用报告</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-api-usage-report</link>
       <description>【Learn more about our new journey to give customers more insight and control over how applications access their data through Microsoft Graph.】了解有关我们的新旅程的更多信息，以使客户有更多的洞察力并控制应用程序如何通过Microsoft Graph访问其数据。</description>
       <pubDate>Mon, 21 Apr 2025 09:29:04 +0000</pubDate>
     </item>
     <item>
-      <title>【The ongoing story of seconds on the taskbar】任务栏上的几秒钟的故事</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250421-00/?p=111095</link>
-      <description>【The cost of ticking.】滴答费用。</description>
-      <pubDate>Mon, 21 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Toolkit for IntelliJ: Introducing the enhanced Java Code Quality Analyzer!】Intellij的Azure工具包：引入增强的Java代码质量分析仪！</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-toolkit-for-intellij-introducing-the-enhanced-java-code-quality-analyzer</link>
-      <description>【Discover the latest updates to the Azure Toolkit for IntelliJ, featuring an enhanced Java Code Quality Analyzer to help you write cleaner, safer, and more efficient Java code with Azure SDK client libraries.】在Intellij的Azure工具包中找到最新的更新，其中包含增强的Java代码质量分析仪，可帮助您使用Azure SDK客户端库编写清洁器，更安全和更有效的Java代码。</description>
-      <pubDate>Fri, 18 Apr 2025 17:49:56 +0000</pubDate>
+      <title>【Microspeak: top of mind】缩影：头脑顶</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250422-00/?p=111100</link>
+      <description>【Things I&#39;m thinking about.】我正在考虑的事情。</description>
+      <pubDate>Tue, 22 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to get started quickly with setting up the Microsoft Dev Box service】如何快速开始设置Microsoft Dev Box服务</title>
@@ -40,10 +22,28 @@
       <pubDate>Mon, 21 Apr 2025 20:54:25 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the feature flag that didn’t stay on long enough, part 2】功能旗的情况不足以保持长时间，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250418-43/?p=111081</link>
-      <description>【Leaving everything the way you found it.】以您找到的方式离开一切。</description>
-      <pubDate>Fri, 18 Apr 2025 14:00:43 +0000</pubDate>
+      <title>【Predictable LLM results with Structured Output and sp_invoke_external_rest_endpoint】可预测的LLM结果，结构化输出和SP_INVOKE_EXTERNE_REST_ENDPOINT</title>
+      <link>https://devblogs.microsoft.com/azure-sql/predictable-llm-output-with-sp_invoke_external_rest_endpoint</link>
+      <description>【OpenAI recently introduced a powerful new feature for developers: structured output using JSON Schema via the response_format parameter. This makes it possible to request responses from a GPT-4o model that strictly match a given schema—no free-text, no guesswork. If you&amp;#8217;re working with Azure SQL, this is a game-changer. Combined with the sp_invoke_external_rest_endpoint stored procedure and [&amp;hellip;]】OpenAI最近通过响应_format参数引入了开发人员的强大新功能：使用JSON架构的结构化输出。这使得可以从严格匹配给定模式的GPT-4O模型中请求响应 - 没有免费文本，没有猜测。如果您使用Azure SQL，这是一个改变游戏规则的人。与sp_invoke_external_rest_endpoint存储过程和[…]结合使用</description>
+      <pubDate>Mon, 21 Apr 2025 15:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB Conf 2025 Recap: AI, Apps &amp; Scale】Azure Cosmos DB CONC 2025回顾：AI，应用程序和规模</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2025-recap-ai-apps-scale</link>
+      <description>【On April 15, 2025, developers from around the world came together for Azure Cosmos DB Conf 2025—a free virtual event co-hosted by Microsoft and the vibrant Azure Cosmos DB community. From early-morning keynotes to lightning talks and live demos, the event was packed with fresh insights, expert guidance, and real-world examples of how developers are [&amp;hellip;]】2025年4月15日，来自世界各地的开发人员聚集在一起，参加了Azure Cosmos DB Conf 2025-由Microsoft和充满活力的Azure Cosmos DB社区共同主持的免费虚拟活动。从早晨的主题演讲到雷电谈判和现场演示，该活动充满了新的见解，专家指导和开发人员的现实示例[…]</description>
+      <pubDate>Tue, 22 Apr 2025 14:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The ongoing story of seconds on the taskbar】任务栏上的几秒钟的故事</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250421-00/?p=111095</link>
+      <description>【The cost of ticking.】滴答费用。</description>
+      <pubDate>Mon, 21 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the ‘Work with Power Fx functions’ Learning Path】宣布“使用Power FX功能”学习路径</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-the-work-with-power-fx-functions-learning-path</link>
+      <description>【Microsoft Learn has a growing list of Power Platform training modules. Based on community feedback, we’ve added a new learning path: Work with Power Fx functions. Power Fx functions enable the creation of server-side business logic using Power Fx, a low-code, declarative language. These functions were previously called instant low-code plug-ins. They provide reusable, parameterized [&amp;hellip;]】Microsoft Learn拥有越来越多的电力平台培训模块列表。根据社区反馈，我们添加了一个新的学习路径：使用Power FX功能。 Power FX功能可以使用低音，声明语言的Power FX创建服务器端业务逻辑。这些功能以前称为即时低代码插件。他们提供可重复使用的参数化[…]</description>
+      <pubDate>Sun, 20 Apr 2025 13:55:00 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: Build an AI App That Can Browse the Internet Using Microsoft’s Playwright MCP Server &amp; Semantic Kernel — in Just 4 Steps】来宾博客：构建一个可以使用Microsoft的剧作MCP Server和Sminantic内核浏览互联网的AI应用程序 - 仅4个步骤</title>
@@ -52,16 +52,16 @@
       <pubDate>Mon, 21 Apr 2025 18:13:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Boards + GitHub: Recent Updates】Azure Boards + GitHub：最新更新</title>
-      <link>https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates</link>
-      <description>【Over the past several months, we’ve delivered a series of improvements to the Azure Boards + GitHub integration. Whether you&amp;#8217;re tracking code, managing pull requests, or connecting pipelines, these updates aim to simplify and strengthen the link between your work items and your GitHub activity. Here’s a recap of everything we’ve released (or are just [&amp;hellip;]】在过去的几个月中，我们为Azure Boards + GitHub集成进行了一系列改进。无论您是跟踪代码，管理拉动请求还是连接管道，这些更新旨在简化和加强工作项目与GitHub活动之间的链接。这是我们发布的所有内容（或只是[…]</description>
-      <pubDate>Fri, 18 Apr 2025 14:19:12 +0000</pubDate>
-    </item>
-    <item>
       <title>【Azure Cosmos DB with DiskANN Part 2: Scaling to 1 Billion Vectors with】带有Diskann第2部分的Azure Cosmos DB：与10亿个向量相规</title>
       <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-with-diskann-part-2-scaling-to-1-billion-vectors-with</link>
       <description>【Introduction In the first part of our series on Azure Cosmos DB Vector Search with DiskANN, we explored the fundamentals of vector indexing and search capabilities using Azure Cosmos DB for NoSQL and demonstrated a few early performance and cost characteristics. In Part 2, we’ll demonstrate how to scale to 1 billion vector datasets, while [&amp;hellip;]】引言在我们关于Azure Cosmos DB矢量搜索的系列的第一部分中，我们使用Azure Cosmos DB进行NOSQL探索了向量索引和搜索能力的基础，并展示了一些早期性能和成本特征。在第2部分中，我们将演示如何扩展到10亿个矢量数据集，而[…]</description>
       <pubDate>Mon, 21 Apr 2025 16:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET】介绍AI Dev画廊：您通往本地AI开发的门户。</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development</link>
+      <description>【Discover the new AI Dev Gallery, a Windows application that provides interactive local AI samples, easy model downloads, and source code export - all built with .NET AI building blocks.】发现新的AI Dev画廊，即提供交互式本地AI样本，简易模型下载和源代码导出的Windows应用程序 - 全部使用.NET AI构建块构建。</description>
+      <pubDate>Tue, 22 Apr 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
