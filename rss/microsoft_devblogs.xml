@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET】介绍AI Dev画廊：您通往本地AI开发的门户。</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development</link>
-      <description>【Discover the new AI Dev Gallery, a Windows application that provides interactive local AI samples, easy model downloads, and source code export - all built with .NET AI building blocks.】发现新的AI Dev画廊，即提供交互式本地AI样本，简易模型下载和源代码导出的Windows应用程序 - 全部使用.NET AI构建块构建。</description>
-      <pubDate>Tue, 22 Apr 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets】春季清洁：Azure Devops Oauth应用程序的CTA具有过期或长寿的秘密</title>
-      <link>https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets</link>
-      <description>【Today, we officially closed the doors on any new Azure DevOps OAuth app registrations. As we prepare for the end-of-life for Azure DevOps OAuth apps in 2026, we&amp;#8217;ll begin outreach to engage existing app owners and support them through the migration process to use the Microsoft Identity platform instead for future app development with Azure [&amp;hellip;]】今天，我们在任何新的Azure Devops Oauth应用程序注册上正式关闭了门。当我们在2026年为Azure Devops Oauth应用程序的寿命终止做准备时，我们将开始宣传以吸引现有应用程序所有者并通过迁移过程支持它们，以使用Microsoft Identity平台，而不是使用Azure […]来进行未来的应用程序开发。</description>
-      <pubDate>Wed, 23 Apr 2025 17:16:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java OpenJDK April 2025 Patch &amp; Security Update】Java OpenJDK 2025年4月补丁和安全更新</title>
-      <link>https://devblogs.microsoft.com/java/java-openjdk-april-2025-patch-security-update</link>
-      <description>【Hello Java customers! We are happy to announce the latest April 2025 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 21.0.7 OpenJDK 17.0.15 OpenJDK 11.0.27 Check our release notes page for details on fixes and enhancements. The source code of our builds is available now on GitHub for [&amp;hellip;]】您好Java客户！我们很高兴宣布2025年4月的最新补丁和安全更新版本，用于OpenJDK的Microsoft Build。立即下载并安装二进制文件。 OpenJDK 21.0.7 OpenJDK 17.0.15 OpenJDK 11.0.27查看我们的发行说明页面，以获取有关修复和增强功能的详细信息。我们的构建的源代码现在可以在GitHub上用于[…]</description>
-      <pubDate>Tue, 22 Apr 2025 19:11:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exciting updates coming to the Microsoft 365 Developer Program】Microsoft 365开发人员计划的令人兴奋的更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/exciting-updates-coming-to-the-microsoft-365-developer-program</link>
-      <description>【We are excited to share a preview of upcoming updates to the Microsoft 365 Developer Program.】我们很高兴与Microsoft 365 Developer计划的即将进行更新的预览。</description>
-      <pubDate>Wed, 23 Apr 2025 08:42:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK modularized libraries for JavaScript】JavaScript的Azure SDK模块化库</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-modularized-libraries-for-javascript</link>
-      <description>【This post announces new modularized libraries for the Azure SDK for JavaScript.】这篇文章宣布了JavaScript的Azure SDK的新模块化库。</description>
-      <pubDate>Wed, 23 Apr 2025 16:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What resource ID should I give my application’s main icon?】我应该提供什么资源ID给我应用程序的主要图标？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250423-00/?p=111106</link>
-      <description>【Applying what we know about how Explorer finds the &#34;first&#34; icon in a file.】应用我们知道的有关Explorer如何在文件中找到“第一个”图标的知识。</description>
-      <pubDate>Wed, 23 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pure Virtual C++ 2025: Pre-Conference Videos】纯虚拟C ++ 2025：会议前视频</title>
-      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-pre-conference-videos</link>
-      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It is running on 30th April. The first half of our pre-conference videos is now available on YouTube. The videos are: MSVC C++23 Conformance Simplifying your Cross-Platform Development with Visual Studio C++ Dynamic Debugging How Debuggers Work A Year in Review: [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它在4月30日运行。我们的会议前视频的上半年现在可以在YouTube上使用。视频是：MSVC C ++ 23一致性通过Visual Studio C ++动态调试简化了您的跨平台开发，调试者在评论中的工作方式：[…]</description>
-      <pubDate>Wed, 23 Apr 2025 18:46:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building Real‑Time iOS Apps with SignalR: Introducing the Official Swift Client (Public Preview)】使用SignalR构建实时iOS应用程序：介绍官方Swift客户端（公共预览）</title>
-      <link>https://devblogs.microsoft.com/dotnet/building-real%e2%80%91time-ios-apps-with-signalr-introducing-the-official-swift-client-public-preview</link>
-      <description>【Introduction Until now, iOS developers who wanted real‑time, bi‑directional communication with SignalR had to rely on community‑built clients or roll their own Swift implementation—both of which introduced maintenance and compatibility headaches. We’re excited to announce that the official SignalR Swift client is now available in public preview. With this release, you can: Quickly add real‑time [&amp;hellip;]】介绍到目前为止，希望与Signalr进行实时的双向通信的iOS开发人员必须依靠社区建造的客户或推出自己的迅速实施，这两者都引入了维护和兼容性头痛。我们很高兴地宣布，官方Signalr Swift客户端现已在公共预览中提供。使用此版本，您可以：快速添加实时[…]</description>
-      <pubDate>Wed, 23 Apr 2025 03:46:29 +0000</pubDate>
+      <title>【Effortless adjustments with an adaptive paste】轻松调整自适应糊剂</title>
+      <link>https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste</link>
+      <description>【Find yourself needing to adjust pasted code to actually work in your project? Visual Studio 2022 introduces the capability to adapt your pasted code with Copilot to reduce the time you spend on making tedious changes. Streamline manual code modifications with adaptive paste When you&amp;#8217;re copying and pasting code, the process often comes with extra [&amp;hellip;]】发现自己需要调整粘贴的代码以在项目中实际工作？ Visual Studio 2022介绍了与Copilot调整粘贴代码的能力，以减少您在进行乏味的更改上花费的时间。复制和粘贴代码时，用自适应糊剂简化手动代码修改，该过程通常带有额外的[…]</description>
+      <pubDate>Wed, 23 Apr 2025 14:51:46 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing SharePoint Framework 1.21 with updates on building enterprise extensibility within Microsoft 365】宣布SharePoint Framework 1.21，其中有有关Microsoft 365中构建企业可扩展性的更新</title>
@@ -58,10 +16,52 @@
       <pubDate>Wed, 23 Apr 2025 18:28:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Effortless adjustments with an adaptive paste】轻松调整自适应糊剂</title>
-      <link>https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste</link>
-      <description>【Find yourself needing to adjust pasted code to actually work in your project? Visual Studio 2022 introduces the capability to adapt your pasted code with Copilot to reduce the time you spend on making tedious changes. Streamline manual code modifications with adaptive paste When you&amp;#8217;re copying and pasting code, the process often comes with extra [&amp;hellip;]】发现自己需要调整粘贴的代码以在项目中实际工作？ Visual Studio 2022介绍了与Copilot调整粘贴代码的能力，以减少您在进行乏味的更改上花费的时间。复制和粘贴代码时，用自适应糊剂简化手动代码修改，该过程通常带有额外的[…]</description>
-      <pubDate>Wed, 23 Apr 2025 14:51:46 +0000</pubDate>
+      <title>【Pure Virtual C++ 2025: Pre-Conference Videos】纯虚拟C ++ 2025：会议前视频</title>
+      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-pre-conference-videos</link>
+      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It is running on 30th April. The first half of our pre-conference videos is now available on YouTube. The videos are: MSVC C++23 Conformance Simplifying your Cross-Platform Development with Visual Studio C++ Dynamic Debugging How Debuggers Work A Year in Review: [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它在4月30日运行。我们的会议前视频的上半年现在可以在YouTube上使用。视频是：MSVC C ++ 23一致性通过Visual Studio C ++动态调试简化了您的跨平台开发，调试者在评论中的工作方式：[…]</description>
+      <pubDate>Wed, 23 Apr 2025 18:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets】春季清洁：Azure Devops Oauth应用程序的CTA具有过期或长寿的秘密</title>
+      <link>https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets</link>
+      <description>【Today, we officially closed the doors on any new Azure DevOps OAuth app registrations. As we prepare for the end-of-life for Azure DevOps OAuth apps in 2026, we&amp;#8217;ll begin outreach to engage existing app owners and support them through the migration process to use the Microsoft Identity platform instead for future app development with Azure [&amp;hellip;]】今天，我们在任何新的Azure Devops Oauth应用程序注册上正式关闭了门。当我们在2026年为Azure Devops Oauth应用程序的寿命终止做准备时，我们将开始宣传以吸引现有应用程序所有者并通过迁移过程支持它们，以使用Microsoft Identity平台，而不是使用Azure […]来进行未来的应用程序开发。</description>
+      <pubDate>Wed, 23 Apr 2025 17:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) in a real-life scenario】Azure开发人员CLI（AZD）在现实生活中</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-in-a-real-life-scenario</link>
+      <description>【This post shares some useful tips and lessons learned while using azd during a migration.】这篇文章在迁移过程中使用AZD时分享了一些有用的技巧和经验教训。</description>
+      <pubDate>Thu, 24 Apr 2025 17:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK modularized libraries for JavaScript】JavaScript的Azure SDK模块化库</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-modularized-libraries-for-javascript</link>
+      <description>【This post announces new modularized libraries for the Azure SDK for JavaScript.】这篇文章宣布了JavaScript的Azure SDK的新模块化库。</description>
+      <pubDate>Wed, 23 Apr 2025 16:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: HIPAA】Microsoft 365认证控制聚光灯：HIPAA</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-hipaa</link>
+      <description>【Learn how Microsoft 365 Certification verifies that ISVs have established protocols for managing health information, dealing with emergencies and service disruptions, and complying with key HIPAA regulations.】了解Microsoft 365认证如何验证ISV已建立用于管理健康信息，处理紧急情况和服务中断以及遵守关键HIPAA法规的协议。</description>
+      <pubDate>Thu, 24 Apr 2025 14:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Microsoft Store Assistant — bringing multi expert intelligence to Microsoft Store chat with Semantic Kernel and Azure AI】客户案例研究：MicrosoftStoreassistant-将多专家智能带到Microsoftstore与Semantickernel和Azureai聊天</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-microsoft-store-assistant-bringing-multi-expert-intelligence-to-microsoft-store-chat-with-semantic-kernel-and-azure-ai</link>
+      <description>【Introduction In October 2024 Microsoft replaced a legacy rule‑based chat bot on Microsoft Store with Microsoft Store Assistant, powered by Azure Open AI, Semantic Kernel, and real‑time page context. The transformation changed a scripted, button-driven experience into a conversation that comprehends the entire public Microsoft portfolio, including Surface and Xbox products, Microsoft 365 subscriptions, Azure services, and the Dynamics and Power Platform [&amp;hellip;]】介绍于2024年10月，Microsoft用Microsoft Store Assistant在Microsoft Store上取代了基于旧规则的聊天机器人，并由Azure Open AI，语义内核和实时页面上下文提供动力。转换将脚本式按钮驱动的体验更改为一个对话，该对话了解整个Microsoft Portfolio，包括Surface和Xbox产品，Microsoft 365订阅，Azure Services以及Dynamics and Power Platform […]</description>
+      <pubDate>Thu, 24 Apr 2025 15:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Important Updates to Container Images of Microsoft Build of OpenJDK】Microsoft构建的OpenJDK的容器图像的重要更新</title>
+      <link>https://devblogs.microsoft.com/java/important-updates-to-container-images-of-microsoft-build-of-openjdk</link>
+      <description>【Mariner Linux 2.0 will reach its End-Of-Life (EOL) in July of 2025 and will be replaced with Azure Linux (version 3.0). To ensure a smooth transition for our customers and partners, the Java Engineering Group (DevDiv JEG) behind the Microsoft Build of OpenJDK has developed a migration aligned with this timeline. This strategy takes effect [&amp;hellip;]】Mariner Linux 2.0将于2025年7月到达其寿命末（EOL），并将被Azure Linux（版本3.0）取代。为了确保我们的客户和合作伙伴的平稳过渡，Java工程组（Devdiv JEG）在Microsoft构建的OpenJDK背后已经开发了与此时间表保持一致的迁移。该策略生效[…]</description>
+      <pubDate>Wed, 23 Apr 2025 23:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【When I define a window class with no default cursor, what is the explanation for the cursors that appear in my client area?】当我定义没有默认光标的窗口类时，对我的客户端区域中的光标有什么解释？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250424-00/?p=111114</link>
+      <description>【You said you&#39;d take care of it, but you didn&#39;t.】你说你会照顾好它，但是你没有。</description>
+      <pubDate>Thu, 24 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
