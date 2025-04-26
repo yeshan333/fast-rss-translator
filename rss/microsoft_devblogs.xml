@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Effortless adjustments with an adaptive paste】轻松调整自适应糊剂</title>
-      <link>https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste</link>
-      <description>【Find yourself needing to adjust pasted code to actually work in your project? Visual Studio 2022 introduces the capability to adapt your pasted code with Copilot to reduce the time you spend on making tedious changes. Streamline manual code modifications with adaptive paste When you&amp;#8217;re copying and pasting code, the process often comes with extra [&amp;hellip;]】发现自己需要调整粘贴的代码以在项目中实际工作？ Visual Studio 2022介绍了与Copilot调整粘贴代码的能力，以减少您在进行乏味的更改上花费的时间。复制和粘贴代码时，用自适应糊剂简化手动代码修改，该过程通常带有额外的[…]</description>
-      <pubDate>Wed, 23 Apr 2025 14:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing SharePoint Framework 1.21 with updates on building enterprise extensibility within Microsoft 365】宣布SharePoint Framework 1.21，其中有有关Microsoft 365中构建企业可扩展性的更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-21-with-updates-on-building-enterprise-extensibility-within-microsoft-365</link>
-      <description>【We are excited to announce general availability for the SharePoint Framework 1.21. This time focus is primarily on technical platform updates and new UX options in SharePoint and in Viva Connections.】我们很高兴宣布SharePoint框架1.21的一般可用性。这次重点主要放在SharePoint和In Viva Connections中的技术平台更新和新的UX选项上。</description>
-      <pubDate>Wed, 23 Apr 2025 18:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pure Virtual C++ 2025: Pre-Conference Videos】纯虚拟C ++ 2025：会议前视频</title>
-      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-pre-conference-videos</link>
-      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It is running on 30th April. The first half of our pre-conference videos is now available on YouTube. The videos are: MSVC C++23 Conformance Simplifying your Cross-Platform Development with Visual Studio C++ Dynamic Debugging How Debuggers Work A Year in Review: [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它在4月30日运行。我们的会议前视频的上半年现在可以在YouTube上使用。视频是：MSVC C ++ 23一致性通过Visual Studio C ++动态调试简化了您的跨平台开发，调试者在评论中的工作方式：[…]</description>
-      <pubDate>Wed, 23 Apr 2025 18:46:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets】春季清洁：Azure Devops Oauth应用程序的CTA具有过期或长寿的秘密</title>
-      <link>https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets</link>
-      <description>【Today, we officially closed the doors on any new Azure DevOps OAuth app registrations. As we prepare for the end-of-life for Azure DevOps OAuth apps in 2026, we&amp;#8217;ll begin outreach to engage existing app owners and support them through the migration process to use the Microsoft Identity platform instead for future app development with Azure [&amp;hellip;]】今天，我们在任何新的Azure Devops Oauth应用程序注册上正式关闭了门。当我们在2026年为Azure Devops Oauth应用程序的寿命终止做准备时，我们将开始宣传以吸引现有应用程序所有者并通过迁移过程支持它们，以使用Microsoft Identity平台，而不是使用Azure […]来进行未来的应用程序开发。</description>
-      <pubDate>Wed, 23 Apr 2025 17:16:23 +0000</pubDate>
-    </item>
-    <item>
       <title>【Azure Developer CLI (azd) in a real-life scenario】Azure开发人员CLI（AZD）在现实生活中</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-in-a-real-life-scenario</link>
       <description>【This post shares some useful tips and lessons learned while using azd during a migration.】这篇文章在迁移过程中使用AZD时分享了一些有用的技巧和经验教训。</description>
       <pubDate>Thu, 24 Apr 2025 17:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK modularized libraries for JavaScript】JavaScript的Azure SDK模块化库</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-modularized-libraries-for-javascript</link>
-      <description>【This post announces new modularized libraries for the Azure SDK for JavaScript.】这篇文章宣布了JavaScript的Azure SDK的新模块化库。</description>
-      <pubDate>Wed, 23 Apr 2025 16:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: HIPAA】Microsoft 365认证控制聚光灯：HIPAA</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-hipaa</link>
-      <description>【Learn how Microsoft 365 Certification verifies that ISVs have established protocols for managing health information, dealing with emergencies and service disruptions, and complying with key HIPAA regulations.】了解Microsoft 365认证如何验证ISV已建立用于管理健康信息，处理紧急情况和服务中断以及遵守关键HIPAA法规的协议。</description>
-      <pubDate>Thu, 24 Apr 2025 14:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: Microsoft Store Assistant — bringing multi expert intelligence to Microsoft Store chat with Semantic Kernel and Azure AI】客户案例研究：MicrosoftStoreassistant-将多专家智能带到Microsoftstore与Semantickernel和Azureai聊天</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-microsoft-store-assistant-bringing-multi-expert-intelligence-to-microsoft-store-chat-with-semantic-kernel-and-azure-ai</link>
-      <description>【Introduction In October 2024 Microsoft replaced a legacy rule‑based chat bot on Microsoft Store with Microsoft Store Assistant, powered by Azure Open AI, Semantic Kernel, and real‑time page context. The transformation changed a scripted, button-driven experience into a conversation that comprehends the entire public Microsoft portfolio, including Surface and Xbox products, Microsoft 365 subscriptions, Azure services, and the Dynamics and Power Platform [&amp;hellip;]】介绍于2024年10月，Microsoft用Microsoft Store Assistant在Microsoft Store上取代了基于旧规则的聊天机器人，并由Azure Open AI，语义内核和实时页面上下文提供动力。转换将脚本式按钮驱动的体验更改为一个对话，该对话了解整个Microsoft Portfolio，包括Surface和Xbox产品，Microsoft 365订阅，Azure Services以及Dynamics and Power Platform […]</description>
-      <pubDate>Thu, 24 Apr 2025 15:16:06 +0000</pubDate>
     </item>
     <item>
       <title>【Important Updates to Container Images of Microsoft Build of OpenJDK】Microsoft构建的OpenJDK的容器图像的重要更新</title>
@@ -62,6 +20,48 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20250424-00/?p=111114</link>
       <description>【You said you&#39;d take care of it, but you didn&#39;t.】你说你会照顾好它，但是你没有。</description>
       <pubDate>Thu, 24 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Microsoft Store Assistant — bringing multi expert intelligence to Microsoft Store chat with Semantic Kernel and Azure AI】客户案例研究：MicrosoftStoreassistant-将多专家智能带到Microsoftstore与Semantickernel和Azureai聊天</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-microsoft-store-assistant-bringing-multi-expert-intelligence-to-microsoft-store-chat-with-semantic-kernel-and-azure-ai</link>
+      <description>【Introduction In October 2024 Microsoft replaced a legacy rule‑based chat bot on Microsoft Store with Microsoft Store Assistant, powered by Azure Open AI, Semantic Kernel, and real‑time page context. The transformation changed a scripted, button-driven experience into a conversation that comprehends the entire public Microsoft portfolio, including Surface and Xbox products, Microsoft 365 subscriptions, Azure services, and the Dynamics and Power Platform [&amp;hellip;]】介绍于2024年10月，Microsoft用Microsoft Store Assistant在Microsoft Store上取代了基于旧规则的聊天机器人，并由Azure Open AI，语义内核和实时页面上下文提供动力。转换将脚本式按钮驱动的体验更改为一个对话，该对话了解整个Microsoft Portfolio，包括Surface和Xbox产品，Microsoft 365订阅，Azure Services以及Dynamics and Power Platform […]</description>
+      <pubDate>Thu, 24 Apr 2025 15:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: HIPAA】Microsoft 365认证控制聚光灯：HIPAA</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-hipaa</link>
+      <description>【Learn how Microsoft 365 Certification verifies that ISVs have established protocols for managing health information, dealing with emergencies and service disruptions, and complying with key HIPAA regulations.】了解Microsoft 365认证如何验证ISV已建立用于管理健康信息，处理紧急情况和服务中断以及遵守关键HIPAA法规的协议。</description>
+      <pubDate>Thu, 24 Apr 2025 14:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【If we can have std::atomic&lt;std::shared_ptr&gt;, why not std::atomic&lt;com_ptr&gt;?】如果我们可以拥有std :: atomic &lt;std :: shared_ptr&gt;，为什么不std :: atomic &lt;com_ptr&gt;？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250425-00/?p=111118</link>
+      <description>【Controlling the reference count.】控制参考计数。</description>
+      <pubDate>Fri, 25 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Getting Started with Azure Cosmos DB Using the Python SDK】使用Python SDK开始使用Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/getting-started-with-azure-cosmos-db-using-the-python-sdk</link>
+      <description>【If you&amp;#8217;re new to Azure Cosmos DB and looking to build applications with Python, you&amp;#8217;re in the right place. I’ve created a four-part video series designed to take you from the basics to practical, real-world querying techniques—no prior experience required. Whether you’re setting up your first database, learning how to model your data, or optimizing [&amp;hellip;]】如果您是Azure Cosmos DB的新手，并希望使用Python构建应用程序，那么您就在正确的位置。我创建了一个由四部分组成的视频系列，旨在将您从基本知识带到实用的现实查询技术，而无需先前的经验。无论您是设置第一个数据库，学习如何建模数据还是优化[…]</description>
+      <pubDate>Fri, 25 Apr 2025 16:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Xi’an Jiaotong-Liverpool University scaled hands-on learning with Microsoft Dev Box】Xi’an Jiaotong-Liverpool大学如何使用Microsoft Dev Box缩放动手学习</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/how-xian-jiaotong-liverpool-university-scaled-hands-on-learning-with-microsoft-dev-box</link>
+      <description>【As AI and data science rapidly reshape industries, universities worldwide are rethinking how they deliver hands-on learning. At Xi’an Jiaotong-Liverpool University (XJTLU) in China, the School of AI and Advanced Computing embraced Microsoft Dev Box to give students a modern, scalable, and real-world development environment—right from their first year. Here’s how XJTLU transformed their curriculum [&amp;hellip;]】随着AI和数据科学迅速重塑行业，全世界的大学正在重新思考他们如何提供动手学习。在中国的Xi’an Jiaotong-Liverpool大学（XJTLU），AI和高级计算学院采用了Microsoft Dev Box，为学生提供了一个现代，可扩展和现实的开发环境，就从他们的第一年开始。这是Xjtlu如何改变他们的课程[…]</description>
+      <pubDate>Fri, 25 Apr 2025 16:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel】来宾博客：Semanticlip：使用语义内核构建自己的AI代理的实用指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semanticlip-a-practical-guide-to-building-your-own-ai-agent-with-semantic-kernel</link>
+      <description>【Today we’re excited to welcome Vic Perdana, as a guest author on the Semantic Kernel blog today to cover his work on a SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel. We’ll turn it over to Vic to dive in further. Everywhere you look lately, the buzz is about AI agents. But [&amp;hellip;]】今天，我们很高兴欢迎Vic Perdana，今天是语义内核博客上的客座作者，以涵盖他在Semanticlip上的工作：用语义内核来构建自己的AI代理的实用指南。 我们将其移交给VIC，进一步潜水。最近您到处都是，嗡嗡声是关于AI代理商的。但 […]</description>
+      <pubDate>Fri, 25 Apr 2025 21:42:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (April 2025)】Azure SDK发布（2025年4月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2025</link>
+      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
+      <pubDate>Fri, 25 Apr 2025 17:55:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
