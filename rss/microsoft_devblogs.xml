@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【How Xi’an Jiaotong-Liverpool University scaled hands-on learning with Microsoft Dev Box】Xi’an Jiaotong-Liverpool大学如何使用Microsoft Dev Box缩放动手学习</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/how-xian-jiaotong-liverpool-university-scaled-hands-on-learning-with-microsoft-dev-box</link>
-      <description>【As AI and data science rapidly reshape industries, universities worldwide are rethinking how they deliver hands-on learning. At Xi’an Jiaotong-Liverpool University (XJTLU) in China, the School of AI and Advanced Computing embraced Microsoft Dev Box to give students a modern, scalable, and real-world development environment—right from their first year. Here’s how XJTLU transformed their curriculum [&amp;hellip;]】随着AI和数据科学迅速重塑行业，全世界的大学正在重新思考他们如何提供动手学习。在中国的Xi’an Jiaotong-Liverpool大学（XJTLU），AI和高级计算学院采用了Microsoft Dev Box，为学生提供了一个现代，可扩展和现实的开发环境，就从他们的第一年开始。这是Xjtlu如何改变他们的课程[…]</description>
-      <pubDate>Fri, 25 Apr 2025 16:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel】来宾博客：Semanticlip：使用语义内核构建自己的AI代理的实用指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semanticlip-a-practical-guide-to-building-your-own-ai-agent-with-semantic-kernel</link>
-      <description>【Today we’re excited to welcome Vic Perdana, as a guest author on the Semantic Kernel blog today to cover his work on a SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel. We’ll turn it over to Vic to dive in further. Everywhere you look lately, the buzz is about AI agents. But [&amp;hellip;]】今天，我们很高兴欢迎Vic Perdana，今天是语义内核博客上的客座作者，以涵盖他在Semanticlip上的工作：用语义内核来构建自己的AI代理的实用指南。 我们将其移交给VIC，进一步潜水。最近您到处都是，嗡嗡声是关于AI代理商的。但 […]</description>
-      <pubDate>Fri, 25 Apr 2025 21:42:30 +0000</pubDate>
-    </item>
-    <item>
       <title>【If we can have std::atomic&lt;std::shared_ptr&gt;, why not std::atomic&lt;com_ptr&gt;?】如果我们可以拥有std :: atomic &lt;std :: shared_ptr&gt;，为什么不std :: atomic &lt;com_ptr&gt;？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250425-00/?p=111118</link>
       <description>【Controlling the reference count.】控制参考计数。</description>
       <pubDate>Fri, 25 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Getting Started with Azure Cosmos DB Using the Python SDK】使用Python SDK开始使用Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/getting-started-with-azure-cosmos-db-using-the-python-sdk</link>
-      <description>【If you&amp;#8217;re new to Azure Cosmos DB and looking to build applications with Python, you&amp;#8217;re in the right place. I’ve created a four-part video series designed to take you from the basics to practical, real-world querying techniques—no prior experience required. Whether you’re setting up your first database, learning how to model your data, or optimizing [&amp;hellip;]】如果您是Azure Cosmos DB的新手，并希望使用Python构建应用程序，那么您就在正确的位置。我创建了一个由四部分组成的视频系列，旨在将您从基本知识带到实用的现实查询技术，而无需先前的经验。无论您是设置第一个数据库，学习如何建模数据还是优化[…]</description>
-      <pubDate>Fri, 25 Apr 2025 16:33:41 +0000</pubDate>
     </item>
     <item>
       <title>【Important Updates to Container Images of Microsoft Build of OpenJDK】Microsoft构建的OpenJDK的容器图像的重要更新</title>
@@ -34,10 +16,40 @@
       <pubDate>Wed, 23 Apr 2025 23:27:59 +0000</pubDate>
     </item>
     <item>
+      <title>【Guest Blog: SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel】来宾博客：Semanticlip：使用语义内核构建自己的AI代理的实用指南</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semanticlip-a-practical-guide-to-building-your-own-ai-agent-with-semantic-kernel</link>
+      <description>【Today we’re excited to welcome Vic Perdana, as a guest author on the Semantic Kernel blog today to cover his work on a SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel. We’ll turn it over to Vic to dive in further. Everywhere you look lately, the buzz is about AI agents. But [&amp;hellip;]】今天，我们很高兴欢迎Vic Perdana，今天是语义内核博客上的客座作者，以涵盖他在Semanticlip上的工作：用语义内核来构建自己的AI代理的实用指南。 我们将其移交给VIC，进一步潜水。最近您到处都是，嗡嗡声是关于AI代理商的。但 […]</description>
+      <pubDate>Fri, 25 Apr 2025 21:42:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Certification control spotlight: HIPAA】Microsoft 365认证控制聚光灯：HIPAA</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-hipaa</link>
+      <description>【Learn how Microsoft 365 Certification verifies that ISVs have established protocols for managing health information, dealing with emergencies and service disruptions, and complying with key HIPAA regulations.】了解Microsoft 365认证如何验证ISV已建立用于管理健康信息，处理紧急情况和服务中断以及遵守关键HIPAA法规的协议。</description>
+      <pubDate>Thu, 24 Apr 2025 14:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Xi’an Jiaotong-Liverpool University scaled hands-on learning with Microsoft Dev Box】Xi’an Jiaotong-Liverpool大学如何使用Microsoft Dev Box缩放动手学习</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/how-xian-jiaotong-liverpool-university-scaled-hands-on-learning-with-microsoft-dev-box</link>
+      <description>【As AI and data science rapidly reshape industries, universities worldwide are rethinking how they deliver hands-on learning. At Xi’an Jiaotong-Liverpool University (XJTLU) in China, the School of AI and Advanced Computing embraced Microsoft Dev Box to give students a modern, scalable, and real-world development environment—right from their first year. Here’s how XJTLU transformed their curriculum [&amp;hellip;]】随着AI和数据科学迅速重塑行业，全世界的大学正在重新思考他们如何提供动手学习。在中国的Xi’an Jiaotong-Liverpool大学（XJTLU），AI和高级计算学院采用了Microsoft Dev Box，为学生提供了一个现代，可扩展和现实的开发环境，就从他们的第一年开始。这是Xjtlu如何改变他们的课程[…]</description>
+      <pubDate>Fri, 25 Apr 2025 16:03:27 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure SDK Release (April 2025)】Azure SDK发布（2025年4月）</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2025</link>
       <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
       <pubDate>Fri, 25 Apr 2025 17:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customer Case Study: Microsoft Store Assistant — bringing multi expert intelligence to Microsoft Store chat with Semantic Kernel and Azure AI】客户案例研究：MicrosoftStoreassistant-将多专家智能带到Microsoftstore与Semantickernel和Azureai聊天</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-microsoft-store-assistant-bringing-multi-expert-intelligence-to-microsoft-store-chat-with-semantic-kernel-and-azure-ai</link>
+      <description>【Introduction In October 2024 Microsoft replaced a legacy rule‑based chat bot on Microsoft Store with Microsoft Store Assistant, powered by Azure Open AI, Semantic Kernel, and real‑time page context. The transformation changed a scripted, button-driven experience into a conversation that comprehends the entire public Microsoft portfolio, including Surface and Xbox products, Microsoft 365 subscriptions, Azure services, and the Dynamics and Power Platform [&amp;hellip;]】介绍于2024年10月，Microsoft用Microsoft Store Assistant在Microsoft Store上取代了基于旧规则的聊天机器人，并由Azure Open AI，语义内核和实时页面上下文提供动力。转换将脚本式按钮驱动的体验更改为一个对话，该对话了解整个Microsoft Portfolio，包括Surface和Xbox产品，Microsoft 365订阅，Azure Services以及Dynamics and Power Platform […]</description>
+      <pubDate>Thu, 24 Apr 2025 15:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Getting Started with Azure Cosmos DB Using the Python SDK】使用Python SDK开始使用Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/getting-started-with-azure-cosmos-db-using-the-python-sdk</link>
+      <description>【If you&amp;#8217;re new to Azure Cosmos DB and looking to build applications with Python, you&amp;#8217;re in the right place. I’ve created a four-part video series designed to take you from the basics to practical, real-world querying techniques—no prior experience required. Whether you’re setting up your first database, learning how to model your data, or optimizing [&amp;hellip;]】如果您是Azure Cosmos DB的新手，并希望使用Python构建应用程序，那么您就在正确的位置。我创建了一个由四部分组成的视频系列，旨在将您从基本知识带到实用的现实查询技术，而无需先前的经验。无论您是设置第一个数据库，学习如何建模数据还是优化[…]</description>
+      <pubDate>Fri, 25 Apr 2025 16:33:41 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Developer CLI (azd) in a real-life scenario】Azure开发人员CLI（AZD）在现实生活中</title>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20250424-00/?p=111114</link>
       <description>【You said you&#39;d take care of it, but you didn&#39;t.】你说你会照顾好它，但是你没有。</description>
       <pubDate>Thu, 24 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft 365 Certification control spotlight: HIPAA】Microsoft 365认证控制聚光灯：HIPAA</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-hipaa</link>
-      <description>【Learn how Microsoft 365 Certification verifies that ISVs have established protocols for managing health information, dealing with emergencies and service disruptions, and complying with key HIPAA regulations.】了解Microsoft 365认证如何验证ISV已建立用于管理健康信息，处理紧急情况和服务中断以及遵守关键HIPAA法规的协议。</description>
-      <pubDate>Thu, 24 Apr 2025 14:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: Microsoft Store Assistant — bringing multi expert intelligence to Microsoft Store chat with Semantic Kernel and Azure AI】客户案例研究：MicrosoftStoreassistant-将多专家智能带到Microsoftstore与Semantickernel和Azureai聊天</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-microsoft-store-assistant-bringing-multi-expert-intelligence-to-microsoft-store-chat-with-semantic-kernel-and-azure-ai</link>
-      <description>【Introduction In October 2024 Microsoft replaced a legacy rule‑based chat bot on Microsoft Store with Microsoft Store Assistant, powered by Azure Open AI, Semantic Kernel, and real‑time page context. The transformation changed a scripted, button-driven experience into a conversation that comprehends the entire public Microsoft portfolio, including Surface and Xbox products, Microsoft 365 subscriptions, Azure services, and the Dynamics and Power Platform [&amp;hellip;]】介绍于2024年10月，Microsoft用Microsoft Store Assistant在Microsoft Store上取代了基于旧规则的聊天机器人，并由Azure Open AI，语义内核和实时页面上下文提供动力。转换将脚本式按钮驱动的体验更改为一个对话，该对话了解整个Microsoft Portfolio，包括Surface和Xbox产品，Microsoft 365订阅，Azure Services以及Dynamics and Power Platform […]</description>
-      <pubDate>Thu, 24 Apr 2025 15:16:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
