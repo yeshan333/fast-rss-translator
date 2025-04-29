@@ -4,16 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【If we can have std::atomic&lt;std::shared_ptr&gt;, why not std::atomic&lt;com_ptr&gt;?】如果我们可以拥有std :: atomic &lt;std :: shared_ptr&gt;，为什么不std :: atomic &lt;com_ptr&gt;？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250425-00/?p=111118</link>
-      <description>【Controlling the reference count.】控制参考计数。</description>
-      <pubDate>Fri, 25 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Microsoft Copilot Studio ❤️ MCP】Microsoft Copilot Studio❤️MCP</title>
+      <link>https://devblogs.microsoft.com/powerplatform/microsoft-copilot-studio-mcp</link>
+      <description>【Ever wished your AI agents could tap into live data or execute actions beyond their built-in capabilities? Enter Model Context Protocol (MCP)—a game-changer for integrating external tools and data sources directly into your Copilot Studio agents. 🧠 What is MCP? Think of MCP as a universal adapter for AI applications. It standardizes how AI models [&amp;hellip;]】曾经希望您的AI代理可以利用实时数据或执行内置功能以外的操作？输入模型上下文协议（MCP） - 一种用于将外部工具和数据源直接集成到您的Copilot Studio代理中的游戏规则。 🧠什么是MCP？将MCP视为AI应用程序的通用适配器。它标准化AI模型[…]</description>
+      <pubDate>Mon, 28 Apr 2025 13:13:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Important Updates to Container Images of Microsoft Build of OpenJDK】Microsoft构建的OpenJDK的容器图像的重要更新</title>
-      <link>https://devblogs.microsoft.com/java/important-updates-to-container-images-of-microsoft-build-of-openjdk</link>
-      <description>【Mariner Linux 2.0 will reach its End-Of-Life (EOL) in July of 2025 and will be replaced with Azure Linux (version 3.0). To ensure a smooth transition for our customers and partners, the Java Engineering Group (DevDiv JEG) behind the Microsoft Build of OpenJDK has developed a migration aligned with this timeline. This strategy takes effect [&amp;hellip;]】Mariner Linux 2.0将于2025年7月到达其寿命末（EOL），并将被Azure Linux（版本3.0）取代。为了确保我们的客户和合作伙伴的平稳过渡，Java工程组（Devdiv JEG）在Microsoft构建的OpenJDK背后已经开发了与此时间表保持一致的迁移。该策略生效[…]</description>
-      <pubDate>Wed, 23 Apr 2025 23:27:59 +0000</pubDate>
+      <title>【Guest Blog: Letting AI Help Make the World More Accessible – Analyzing Website Accessibility with Semantic Kernel and OmniParser】来宾博客：让AI帮助使世界更易于访问 - 使用语义内核和OmniParser分析网站可访问性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-letting-ai-help-make-the-world-more-accessible-analyzing-website-accessibility-with-semantic-kernel-and-omniparser</link>
+      <description>【Today we&amp;#8217;re excited to welcome Jonathan David, as a guest author on the Semantic Kernel blog. We&amp;#8217;ll turn it over to Jonathan to dive into Letting AI Help Make the World More Accessible &amp;#8211; Analyzing Website Accessibility with Semantic Kernel and OmniParser. &amp;nbsp; With the European Accessibility Act and Germany&amp;#8217;s Barrierefreiheitsstärkungsgesetz (which translates to Barrier [&amp;hellip;]】今天，我们很高兴欢迎乔纳森·戴维（Jonathan David），作为语义内核博客的客座作家。我们将把它移交给乔纳森（Jonathan），以使AI帮助世界更容易访问，以通过语义内核和omlniparser分析网站可访问性。   借助《欧洲可及性法》和德国的Barrierefreiheitsstärkungsgesetz（转化为障碍[…]</description>
+      <pubDate>Mon, 28 Apr 2025 19:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why did Windows 7, for a few months, log on slower if you have a solid color background?】为什么Windows 7，几个月，如果您的纯色背景登录较慢？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121</link>
+      <description>【It&#39;s waiting for Godot and eventually gives up.】它正在等待戈多特，并最终放弃。</description>
+      <pubDate>Mon, 28 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Protecting against indirect prompt injection attacks in MCP】防止MCP中的间接提示注射攻击</title>
+      <link>https://devblogs.microsoft.com/blog/protecting-against-indirect-injection-attacks-mcp</link>
+      <description>【In this blog post, we will provide some guidelines on how to mitigate prompt injection attacks in Model Context Protocol (MCP) and share the steps Microsoft has taken to address emerging risks such as this one for our customers. MCP is an open protocol spearheaded by Anthropic that defines a standardized interface for connecting Large [&amp;hellip;]】在这篇博客文章中，我们将提供一些有关如何减轻模型上下文协议（MCP）中的快速注射攻击的准则，并分享Microsoft为解决新出现风险（例如，为我们的客户）所采取的步骤。 MCP是一个由人类的矛盾的开放协议，它定义了用于连接大型[…]的标准化界面</description>
+      <pubDate>Mon, 28 Apr 2025 18:00:22 +0000</pubDate>
     </item>
     <item>
       <title>【Guest Blog: SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel】来宾博客：Semanticlip：使用语义内核构建自己的AI代理的实用指南</title>
@@ -22,10 +34,16 @@
       <pubDate>Fri, 25 Apr 2025 21:42:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft 365 Certification control spotlight: HIPAA】Microsoft 365认证控制聚光灯：HIPAA</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-hipaa</link>
-      <description>【Learn how Microsoft 365 Certification verifies that ISVs have established protocols for managing health information, dealing with emergencies and service disruptions, and complying with key HIPAA regulations.】了解Microsoft 365认证如何验证ISV已建立用于管理健康信息，处理紧急情况和服务中断以及遵守关键HIPAA法规的协议。</description>
-      <pubDate>Thu, 24 Apr 2025 14:55:14 +0000</pubDate>
+      <title>【Getting Started with Azure Cosmos DB Using the Python SDK】使用Python SDK开始使用Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/getting-started-with-azure-cosmos-db-using-the-python-sdk</link>
+      <description>【If you&amp;#8217;re new to Azure Cosmos DB and looking to build applications with Python, you&amp;#8217;re in the right place. I’ve created a four-part video series designed to take you from the basics to practical, real-world querying techniques—no prior experience required. Whether you’re setting up your first database, learning how to model your data, or optimizing [&amp;hellip;]】如果您是Azure Cosmos DB的新手，并希望使用Python构建应用程序，那么您就在正确的位置。我创建了一个由四部分组成的视频系列，旨在将您从基本知识带到实用的现实查询技术，而无需先前的经验。无论您是设置第一个数据库，学习如何建模数据还是优化[…]</description>
+      <pubDate>Fri, 25 Apr 2025 16:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ASP.NET Core OData Web API Template Preview Release】ASP.NET核心ODATA Web API模板预览版本</title>
+      <link>https://devblogs.microsoft.com/odata/asp-net-core-odata-web-api-template-preview-release</link>
+      <description>【We are excited to announce the public preview release of the ASP.NET Core OData Web API Template Pack. This template helps you create an ASP.NET Core Web API project with OData support, providing a streamlined setup for .NET 8.0 and above. The following preview release is now available on NuGet: Microsoft.OData.WebApiTemplate Key Features Support for [&amp;hellip;]】我们很高兴宣布ASP.NET Core Odata Web API模板包的公共预览发布。此模板可帮助您使用ODATA支持创建ASP.NET Core Web API项目，为.NET 8.0及以上提供简化的设置。现在可以在Nuget上提供以下预览版本：Microsoft.odata.webapitemplate Plate密钥功能支持[…]</description>
+      <pubDate>Mon, 28 Apr 2025 14:26:37 +0000</pubDate>
     </item>
     <item>
       <title>【How Xi’an Jiaotong-Liverpool University scaled hands-on learning with Microsoft Dev Box】Xi’an Jiaotong-Liverpool大学如何使用Microsoft Dev Box缩放动手学习</title>
@@ -34,34 +52,16 @@
       <pubDate>Fri, 25 Apr 2025 16:03:27 +0000</pubDate>
     </item>
     <item>
+      <title>【Set the default file encoding】设置默认文件编码</title>
+      <link>https://devblogs.microsoft.com/visualstudio/set-the-default-file-encoding</link>
+      <description>【Have you ever encountered unexpected issues due to file encoding when working in cross-platform environments? These frustrating problems can disrupt your workflow and consume valuable time. Visual Studio addresses these concerns with a new feature – the Default File Encoding option. You can now specify the encoding Visual Studio should use when saving files. This [&amp;hellip;]】在跨平台环境中工作时，您是否曾经遇到过意外的问题？这些令人沮丧的问题会破坏您的工作流程并消耗宝贵的时间。 Visual Studio使用新功能 - 默认文件编码选项来解决这些问题。现在，您可以在保存文件时指定编码的Visual Studio应使用。这 […]</description>
+      <pubDate>Mon, 28 Apr 2025 14:50:31 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure SDK Release (April 2025)】Azure SDK发布（2025年4月）</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2025</link>
       <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
       <pubDate>Fri, 25 Apr 2025 17:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customer Case Study: Microsoft Store Assistant — bringing multi expert intelligence to Microsoft Store chat with Semantic Kernel and Azure AI】客户案例研究：MicrosoftStoreassistant-将多专家智能带到Microsoftstore与Semantickernel和Azureai聊天</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/customer-case-study-microsoft-store-assistant-bringing-multi-expert-intelligence-to-microsoft-store-chat-with-semantic-kernel-and-azure-ai</link>
-      <description>【Introduction In October 2024 Microsoft replaced a legacy rule‑based chat bot on Microsoft Store with Microsoft Store Assistant, powered by Azure Open AI, Semantic Kernel, and real‑time page context. The transformation changed a scripted, button-driven experience into a conversation that comprehends the entire public Microsoft portfolio, including Surface and Xbox products, Microsoft 365 subscriptions, Azure services, and the Dynamics and Power Platform [&amp;hellip;]】介绍于2024年10月，Microsoft用Microsoft Store Assistant在Microsoft Store上取代了基于旧规则的聊天机器人，并由Azure Open AI，语义内核和实时页面上下文提供动力。转换将脚本式按钮驱动的体验更改为一个对话，该对话了解整个Microsoft Portfolio，包括Surface和Xbox产品，Microsoft 365订阅，Azure Services以及Dynamics and Power Platform […]</description>
-      <pubDate>Thu, 24 Apr 2025 15:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Getting Started with Azure Cosmos DB Using the Python SDK】使用Python SDK开始使用Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/getting-started-with-azure-cosmos-db-using-the-python-sdk</link>
-      <description>【If you&amp;#8217;re new to Azure Cosmos DB and looking to build applications with Python, you&amp;#8217;re in the right place. I’ve created a four-part video series designed to take you from the basics to practical, real-world querying techniques—no prior experience required. Whether you’re setting up your first database, learning how to model your data, or optimizing [&amp;hellip;]】如果您是Azure Cosmos DB的新手，并希望使用Python构建应用程序，那么您就在正确的位置。我创建了一个由四部分组成的视频系列，旨在将您从基本知识带到实用的现实查询技术，而无需先前的经验。无论您是设置第一个数据库，学习如何建模数据还是优化[…]</description>
-      <pubDate>Fri, 25 Apr 2025 16:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) in a real-life scenario】Azure开发人员CLI（AZD）在现实生活中</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-in-a-real-life-scenario</link>
-      <description>【This post shares some useful tips and lessons learned while using azd during a migration.】这篇文章在迁移过程中使用AZD时分享了一些有用的技巧和经验教训。</description>
-      <pubDate>Thu, 24 Apr 2025 17:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【When I define a window class with no default cursor, what is the explanation for the cursors that appear in my client area?】当我定义没有默认光标的窗口类时，对我的客户端区域中的光标有什么解释？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250424-00/?p=111114</link>
-      <description>【You said you&#39;d take care of it, but you didn&#39;t.】你说你会照顾好它，但是你没有。</description>
-      <pubDate>Thu, 24 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
