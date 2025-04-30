@@ -4,16 +4,22 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #231: React Labs, Compiler, React Router, Next.js, TanStack Query, c15t, RTK, Base UI | Legend List, FlashList, Versioning, Metro, ExecuTorch, Brownfield, Expo Router | TC39, Surveys, Rspack, tsdown】本周在React＃231中：React Labs，编译器，React Router，Next.js，Tanstack查询，C15T，RTK，base UI |传奇列表，闪存列表，版本控制，地铁，executorch，Brownfield，Expo Router | TC39，调查，RSPACK，TSDOWN</title>
+      <link>https://thisweekinreact.com/newsletter/231</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #227: Next.js, tRPC, React Query, React Router, StyledComponents, MUI, Base UI, Next Intl | React Native birthday, Lynx, EAS, Atlas, Reanimated, Audio, BottomTabs | CSS, Rsdoctor, Linters, Node】本周在React＃227中：Next.js，TRPC，React查询，React路由器，StyledComponents，MUI，base UI，NEXT INTL |反应本地生日，Lynx，EAS，Atlas，复活，音频，底部tabs | CSS，RSDOCTOR，Linter，节点</title>
       <link>https://thisweekinreact.com/newsletter/227</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【This Week In React #228: React 19.1, Next.js deployment, React-Email, Triplex, Tinybase, Rspack, i18n-check, React-Admin | 0.79 Golden RC, ExecuTorch, Unistyles, Xcode 16.3, macOS, Screens, Gesture Handler | TypeScript, TC39, WebKit, Intl.Collator, Vitest 3.1】本周在React＃228：React 19.1，Next.js部署，React-Email，Triplex，TinyBase，rspack，i18n-Check，React-Admin | 0.79 Golden RC，Executorch，Unistyles，Xcode 16.3，MacOS，屏幕，手势处理程序| Typescript，TC39，Webkit，Intl.Collat​​or，Vitest 3.1</title>
-      <link>https://thisweekinreact.com/newsletter/228</link>
-      <description>【Hey everyone!】嘿，大家！</description>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <title>【This Week In React #229: React Conf, React Router, Next.js Adapters, Redwood, Apollo, Fastify, Vite, Waku | RN v0.79, Deep Imports, Builder Bob, Fingerprinting | TC39, Tailwind, Rspack, Rstest, Turborepo, Bun】本周在React＃229：React Conf，React Router，Next.js适配器，Redwood，Apollo，Fastify，Vite，Waku | RN V0.79，深入进口，建造者鲍勃，指纹| TC39，尾风，rspack，rstest，turborepo，bun</title>
+      <link>https://thisweekinreact.com/newsletter/229</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #230: Next.js, Turbopack, Rspack, Activity, RSC, oRPC, tweakcn | Expo, Fantom, FlashList, SVG, Tracy, New Arch, Radon | TC39, Temporal, Zod, Bare, Rolldown, CSS Functions】本周在React＃230中：Next.js，Turbopack，Rspack，Activity，RSC，ORPC，Tweakcn |博览会，Fantom，Flashlist，SVG，Tracy，New Arch，Radon | TC39，时间，ZOD，裸露，rolldown，CSS功能</title>
@@ -22,16 +28,10 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【This Week In React #231: React Labs, Compiler, React Router, Next.js, TanStack Query, c15t, RTK, Base UI | Legend List, FlashList, Versioning, Metro, ExecuTorch, Brownfield, Expo Router | TC39, Surveys, Rspack, tsdown】本周在React＃231中：React Labs，编译器，React Router，Next.js，Tanstack查询，C15T，RTK，base UI |传奇列表，闪存列表，版本控制，地铁，executorch，Brownfield，Expo Router | TC39，调查，RSPACK，TSDOWN</title>
-      <link>https://thisweekinreact.com/newsletter/231</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #229: React Conf, React Router, Next.js Adapters, Redwood, Apollo, Fastify, Vite, Waku | RN v0.79, Deep Imports, Builder Bob, Fingerprinting | TC39, Tailwind, Rspack, Rstest, Turborepo, Bun】本周在React＃229：React Conf，React Router，Next.js适配器，Redwood，Apollo，Fastify，Vite，Waku | RN V0.79，深入进口，建造者鲍勃，指纹| TC39，尾风，rspack，rstest，turborepo，bun</title>
-      <link>https://thisweekinreact.com/newsletter/229</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <title>【This Week In React #228: React 19.1, Next.js deployment, React-Email, Triplex, Tinybase, Rspack, i18n-check, React-Admin | 0.79 Golden RC, ExecuTorch, Unistyles, Xcode 16.3, macOS, Screens, Gesture Handler | TypeScript, TC39, WebKit, Intl.Collator, Vitest 3.1】本周在React＃228：React 19.1，Next.js部署，React-Email，Triplex，TinyBase，rspack，i18n-Check，React-Admin | 0.79 Golden RC，Executorch，Unistyles，Xcode 16.3，MacOS，屏幕，手势处理程序| Typescript，TC39，Webkit，Intl.Collat​​or，Vitest 3.1</title>
+      <link>https://thisweekinreact.com/newsletter/228</link>
+      <description>【Hey everyone!】嘿，大家！</description>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

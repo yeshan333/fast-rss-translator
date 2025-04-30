@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Microsoft Copilot Studio ❤️ MCP】Microsoft Copilot Studio❤️MCP</title>
-      <link>https://devblogs.microsoft.com/powerplatform/microsoft-copilot-studio-mcp</link>
-      <description>【Ever wished your AI agents could tap into live data or execute actions beyond their built-in capabilities? Enter Model Context Protocol (MCP)—a game-changer for integrating external tools and data sources directly into your Copilot Studio agents. 🧠 What is MCP? Think of MCP as a universal adapter for AI applications. It standardizes how AI models [&amp;hellip;]】曾经希望您的AI代理可以利用实时数据或执行内置功能以外的操作？输入模型上下文协议（MCP） - 一种用于将外部工具和数据源直接集成到您的Copilot Studio代理中的游戏规则。 🧠什么是MCP？将MCP视为AI应用程序的通用适配器。它标准化AI模型[…]</description>
-      <pubDate>Mon, 28 Apr 2025 13:13:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Letting AI Help Make the World More Accessible – Analyzing Website Accessibility with Semantic Kernel and OmniParser】来宾博客：让AI帮助使世界更易于访问 - 使用语义内核和OmniParser分析网站可访问性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-letting-ai-help-make-the-world-more-accessible-analyzing-website-accessibility-with-semantic-kernel-and-omniparser</link>
-      <description>【Today we&amp;#8217;re excited to welcome Jonathan David, as a guest author on the Semantic Kernel blog. We&amp;#8217;ll turn it over to Jonathan to dive into Letting AI Help Make the World More Accessible &amp;#8211; Analyzing Website Accessibility with Semantic Kernel and OmniParser. &amp;nbsp; With the European Accessibility Act and Germany&amp;#8217;s Barrierefreiheitsstärkungsgesetz (which translates to Barrier [&amp;hellip;]】今天，我们很高兴欢迎乔纳森·戴维（Jonathan David），作为语义内核博客的客座作家。我们将把它移交给乔纳森（Jonathan），以使AI帮助世界更容易访问，以通过语义内核和omlniparser分析网站可访问性。   借助《欧洲可及性法》和德国的Barrierefreiheitsstärkungsgesetz（转化为障碍[…]</description>
-      <pubDate>Mon, 28 Apr 2025 19:29:13 +0000</pubDate>
+      <title>【Protecting Windows users from Janet Jackson’s Rhythm Nation】保护Windows用户免受Janet Jackson的节奏国家</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250429-42/?p=111127</link>
+      <description>【Granting an exception to a system policy.】授予系统政策的例外。</description>
+      <pubDate>Tue, 29 Apr 2025 16:09:42 +0000</pubDate>
     </item>
     <item>
       <title>【Why did Windows 7, for a few months, log on slower if you have a solid color background?】为什么Windows 7，几个月，如果您的纯色背景登录较慢？</title>
@@ -22,34 +16,10 @@
       <pubDate>Mon, 28 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Protecting against indirect prompt injection attacks in MCP】防止MCP中的间接提示注射攻击</title>
-      <link>https://devblogs.microsoft.com/blog/protecting-against-indirect-injection-attacks-mcp</link>
-      <description>【In this blog post, we will provide some guidelines on how to mitigate prompt injection attacks in Model Context Protocol (MCP) and share the steps Microsoft has taken to address emerging risks such as this one for our customers. MCP is an open protocol spearheaded by Anthropic that defines a standardized interface for connecting Large [&amp;hellip;]】在这篇博客文章中，我们将提供一些有关如何减轻模型上下文协议（MCP）中的快速注射攻击的准则，并分享Microsoft为解决新出现风险（例如，为我们的客户）所采取的步骤。 MCP是一个由人类的矛盾的开放协议，它定义了用于连接大型[…]的标准化界面</description>
-      <pubDate>Mon, 28 Apr 2025 18:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel】来宾博客：Semanticlip：使用语义内核构建自己的AI代理的实用指南</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-semanticlip-a-practical-guide-to-building-your-own-ai-agent-with-semantic-kernel</link>
-      <description>【Today we’re excited to welcome Vic Perdana, as a guest author on the Semantic Kernel blog today to cover his work on a SemantiClip: A Practical Guide to Building Your Own AI Agent with Semantic Kernel. We’ll turn it over to Vic to dive in further. Everywhere you look lately, the buzz is about AI agents. But [&amp;hellip;]】今天，我们很高兴欢迎Vic Perdana，今天是语义内核博客上的客座作者，以涵盖他在Semanticlip上的工作：用语义内核来构建自己的AI代理的实用指南。 我们将其移交给VIC，进一步潜水。最近您到处都是，嗡嗡声是关于AI代理商的。但 […]</description>
-      <pubDate>Fri, 25 Apr 2025 21:42:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Getting Started with Azure Cosmos DB Using the Python SDK】使用Python SDK开始使用Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/getting-started-with-azure-cosmos-db-using-the-python-sdk</link>
-      <description>【If you&amp;#8217;re new to Azure Cosmos DB and looking to build applications with Python, you&amp;#8217;re in the right place. I’ve created a four-part video series designed to take you from the basics to practical, real-world querying techniques—no prior experience required. Whether you’re setting up your first database, learning how to model your data, or optimizing [&amp;hellip;]】如果您是Azure Cosmos DB的新手，并希望使用Python构建应用程序，那么您就在正确的位置。我创建了一个由四部分组成的视频系列，旨在将您从基本知识带到实用的现实查询技术，而无需先前的经验。无论您是设置第一个数据库，学习如何建模数据还是优化[…]</description>
-      <pubDate>Fri, 25 Apr 2025 16:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ASP.NET Core OData Web API Template Preview Release】ASP.NET核心ODATA Web API模板预览版本</title>
-      <link>https://devblogs.microsoft.com/odata/asp-net-core-odata-web-api-template-preview-release</link>
-      <description>【We are excited to announce the public preview release of the ASP.NET Core OData Web API Template Pack. This template helps you create an ASP.NET Core Web API project with OData support, providing a streamlined setup for .NET 8.0 and above. The following preview release is now available on NuGet: Microsoft.OData.WebApiTemplate Key Features Support for [&amp;hellip;]】我们很高兴宣布ASP.NET Core Odata Web API模板包的公共预览发布。此模板可帮助您使用ODATA支持创建ASP.NET Core Web API项目，为.NET 8.0及以上提供简化的设置。现在可以在Nuget上提供以下预览版本：Microsoft.odata.webapitemplate Plate密钥功能支持[…]</description>
-      <pubDate>Mon, 28 Apr 2025 14:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Xi’an Jiaotong-Liverpool University scaled hands-on learning with Microsoft Dev Box】Xi’an Jiaotong-Liverpool大学如何使用Microsoft Dev Box缩放动手学习</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/how-xian-jiaotong-liverpool-university-scaled-hands-on-learning-with-microsoft-dev-box</link>
-      <description>【As AI and data science rapidly reshape industries, universities worldwide are rethinking how they deliver hands-on learning. At Xi’an Jiaotong-Liverpool University (XJTLU) in China, the School of AI and Advanced Computing embraced Microsoft Dev Box to give students a modern, scalable, and real-world development environment—right from their first year. Here’s how XJTLU transformed their curriculum [&amp;hellip;]】随着AI和数据科学迅速重塑行业，全世界的大学正在重新思考他们如何提供动手学习。在中国的Xi’an Jiaotong-Liverpool大学（XJTLU），AI和高级计算学院采用了Microsoft Dev Box，为学生提供了一个现代，可扩展和现实的开发环境，就从他们的第一年开始。这是Xjtlu如何改变他们的课程[…]</description>
-      <pubDate>Fri, 25 Apr 2025 16:03:27 +0000</pubDate>
+      <title>【What’s new in Azure AI Foundry | April 2025】Azure AI铸造厂的新功能| 2025年4月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-april-2025</link>
+      <description>【This post highlights the latest features and updates in Azure AI Foundry for April 2025, focusing on new models, agents, and tools that enhance AI development capabilities.】这篇文章重点介绍了2025年4月Azure AI铸造厂的最新功能和更新，重点介绍了增强AI开发功能的新模型，代理和工具。</description>
+      <pubDate>Tue, 29 Apr 2025 15:30:38 +0000</pubDate>
     </item>
     <item>
       <title>【Set the default file encoding】设置默认文件编码</title>
@@ -58,10 +28,40 @@
       <pubDate>Mon, 28 Apr 2025 14:50:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (April 2025)】Azure SDK发布（2025年4月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2025</link>
-      <description>【Azure SDK releases every month. In this post, you find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您可以找到本月的亮点和发行说明。</description>
-      <pubDate>Fri, 25 Apr 2025 17:55:05 +0000</pubDate>
+      <title>【Pure Virtual C++ 2025 is Tomorrow】纯虚拟C ++ 2025是明天</title>
+      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-is-tomorrow</link>
+      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It&amp;#8217;s running live tomorrow, 30th April, from 14:00 to 16:30 UTC. The talks are: 14:00 UTC: Welcome to v1.0 of the meta::[[verse]]! with Inbal Levi 14:30 UTC: Proxy: Next Generation Polymorphism with Mingxin Wang 15:00 UTC: Making unfamiliar C++ code familiar with [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它明天（4月30日）从14:00到16:30 UTC进行直播。谈判是：14:00 UTC：欢迎来到元的V1.0 :: [[[verse]]！使用Inbal Levi 14:30 UTC：代理：Mingxin Wang 15:00 UTC的下一代多态性：使陌生的C ++代码熟悉[…]</description>
+      <pubDate>Tue, 29 Apr 2025 09:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Elevate Your Virtual Machine Management with Multi-Select, Sorting, Grouping, and Tags in Azure DevTest Labs】通过Azure DevTest Labs中的多选择，分类，分组和标签来提升虚拟机管理</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/elevate-your-virtual-machine-management-with-multi-select-sorting-grouping-and-tags-in-azure-devtest-labs</link>
+      <description>【We are thrilled to unveil exciting new enhancements in the My Virtual Machine view within Azure DevTest Labs that will revolutionize your VM management experience. With these updates, managing your virtual machines has never been easier or more efficient. Imagine being able to multi-select VMs to start, stop, restart, or delete them all at once [&amp;hellip;]】我们很高兴在Azure DevTest实验室内的“我的虚拟机”视图中揭示令人兴奋的新增强功能，这将彻底改变您的VM管理体验。通过这些更新，管理虚拟机从未如此简单或更高效。想象一下能够一次启动，停止，重新启动或删除它们[…]</description>
+      <pubDate>Tue, 29 Apr 2025 19:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Protecting against indirect prompt injection attacks in MCP】防止MCP中的间接提示注射攻击</title>
+      <link>https://devblogs.microsoft.com/blog/protecting-against-indirect-injection-attacks-mcp</link>
+      <description>【In this blog post, we will provide some guidelines on how to mitigate prompt injection attacks in Model Context Protocol (MCP) and share the steps Microsoft has taken to address emerging risks such as this one for our customers. MCP is an open protocol spearheaded by Anthropic that defines a standardized interface for connecting Large [&amp;hellip;]】在这篇博客文章中，我们将提供一些有关如何减轻模型上下文协议（MCP）中的快速注射攻击的准则，并分享Microsoft为解决新出现风险（例如，为我们的客户）所采取的步骤。 MCP是一个由人类的矛盾的开放协议，它定义了用于连接大型[…]的标准化界面</description>
+      <pubDate>Mon, 28 Apr 2025 18:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Guest Blog: Letting AI Help Make the World More Accessible – Analyzing Website Accessibility with Semantic Kernel and OmniParser】来宾博客：让AI帮助使世界更容易访问 - 使用语义内核和OmniParser分析网站可访问性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-letting-ai-help-make-the-world-more-accessible-analyzing-website-accessibility-with-semantic-kernel-and-omniparser</link>
+      <description>【Today we&amp;#8217;re excited to welcome Jonathan David, as a guest author on the Semantic Kernel blog. We&amp;#8217;ll turn it over to Jonathan to dive into Letting AI Help Make the World More Accessible &amp;#8211; Analyzing Website Accessibility with Semantic Kernel and OmniParser. &amp;nbsp; With the European Accessibility Act and Germany&amp;#8217;s Barrierefreiheitsstärkungsgesetz (which translates to Barrier [&amp;hellip;]】今天，我们很高兴欢迎乔纳森·戴维（Jonathan David），作为语义内核博客的客座作家。我们将把它移交给乔纳森（Jonathan），以使AI帮助世界更容易访问，以通过语义内核和omlniparser分析网站可访问性。   借助《欧洲可及性法》和德国的Barrierefreiheitsstärkungsgesetz（转化为障碍[…]</description>
+      <pubDate>Mon, 28 Apr 2025 19:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Copilot Studio ❤️ MCP】Microsoft Copilot Studio❤️MCP</title>
+      <link>https://devblogs.microsoft.com/powerplatform/microsoft-copilot-studio-mcp</link>
+      <description>【Ever wished your AI agents could tap into live data or execute actions beyond their built-in capabilities? Enter Model Context Protocol (MCP)—a game-changer for integrating external tools and data sources directly into your Copilot Studio agents. 🧠 What is MCP? Think of MCP as a universal adapter for AI applications. It standardizes how AI models [&amp;hellip;]】曾经希望您的AI代理可以利用实时数据或执行内置功能以外的操作？输入模型上下文协议（MCP） - 一种用于将外部工具和数据源直接集成到您的Copilot Studio代理中的游戏规则。 🧠什么是MCP？将MCP视为AI应用程序的通用适配器。它标准化AI模型[…]</description>
+      <pubDate>Mon, 28 Apr 2025 13:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ASP.NET Core OData Web API Template Preview Release】ASP.NET核心ODATA Web API模板预览版本</title>
+      <link>https://devblogs.microsoft.com/odata/asp-net-core-odata-web-api-template-preview-release</link>
+      <description>【We are excited to announce the public preview release of the ASP.NET Core OData Web API Template Pack. This template helps you create an ASP.NET Core Web API project with OData support, providing a streamlined setup for .NET 8.0 and above. The following preview release is now available on NuGet: Microsoft.OData.WebApiTemplate Key Features Support for [&amp;hellip;]】我们很高兴宣布ASP.NET Core Odata Web API模板包的公共预览发布。此模板可帮助您使用ODATA支持创建ASP.NET Core Web API项目，为.NET 8.0及以上提供简化的设置。现在可以在Nuget上提供以下预览版本：Microsoft.odata.webapitemplate Plate密钥功能支持[…]</description>
+      <pubDate>Mon, 28 Apr 2025 14:26:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
