@@ -10,10 +10,10 @@
       <pubDate>Tue, 29 Apr 2025 16:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Why did Windows 7, for a few months, log on slower if you have a solid color background?】为什么Windows 7，几个月，如果您的纯色背景登录较慢？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121</link>
-      <description>【It&#39;s waiting for Godot and eventually gives up.】它正在等待戈多特，并最终放弃。</description>
-      <pubDate>Mon, 28 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【Guest Blog: Letting AI Help Make the World More Accessible – Analyzing Website Accessibility with Semantic Kernel and OmniParser】来宾博客：让AI帮助使世界更容易访问 - 使用语义内核和OmniParser分析网站可访问性</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-letting-ai-help-make-the-world-more-accessible-analyzing-website-accessibility-with-semantic-kernel-and-omniparser</link>
+      <description>【Today we&amp;#8217;re excited to welcome Jonathan David, as a guest author on the Semantic Kernel blog. We&amp;#8217;ll turn it over to Jonathan to dive into Letting AI Help Make the World More Accessible &amp;#8211; Analyzing Website Accessibility with Semantic Kernel and OmniParser. &amp;nbsp; With the European Accessibility Act and Germany&amp;#8217;s Barrierefreiheitsstärkungsgesetz (which translates to Barrier [&amp;hellip;]】今天，我们很高兴欢迎乔纳森·戴维（Jonathan David），作为语义内核博客的客座作家。我们将把它移交给乔纳森（Jonathan），以使AI帮助世界更容易访问，以通过语义内核和omlniparser分析网站可访问性。   借助《欧洲可及性法》和德国的Barrierefreiheitsstärkungsgesetz（转化为障碍[…]</description>
+      <pubDate>Mon, 28 Apr 2025 19:29:13 +0000</pubDate>
     </item>
     <item>
       <title>【What’s new in Azure AI Foundry | April 2025】Azure AI铸造厂的新功能| 2025年4月</title>
@@ -22,16 +22,10 @@
       <pubDate>Tue, 29 Apr 2025 15:30:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Set the default file encoding】设置默认文件编码</title>
-      <link>https://devblogs.microsoft.com/visualstudio/set-the-default-file-encoding</link>
-      <description>【Have you ever encountered unexpected issues due to file encoding when working in cross-platform environments? These frustrating problems can disrupt your workflow and consume valuable time. Visual Studio addresses these concerns with a new feature – the Default File Encoding option. You can now specify the encoding Visual Studio should use when saving files. This [&amp;hellip;]】在跨平台环境中工作时，您是否曾经遇到过意外的问题？这些令人沮丧的问题会破坏您的工作流程并消耗宝贵的时间。 Visual Studio使用新功能 - 默认文件编码选项来解决这些问题。现在，您可以在保存文件时指定编码的Visual Studio应使用。这 […]</description>
-      <pubDate>Mon, 28 Apr 2025 14:50:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pure Virtual C++ 2025 is Tomorrow】纯虚拟C ++ 2025是明天</title>
-      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-is-tomorrow</link>
-      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It&amp;#8217;s running live tomorrow, 30th April, from 14:00 to 16:30 UTC. The talks are: 14:00 UTC: Welcome to v1.0 of the meta::[[verse]]! with Inbal Levi 14:30 UTC: Proxy: Next Generation Polymorphism with Mingxin Wang 15:00 UTC: Making unfamiliar C++ code familiar with [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它明天（4月30日）从14:00到16:30 UTC进行直播。谈判是：14:00 UTC：欢迎来到元的V1.0 :: [[[verse]]！使用Inbal Levi 14:30 UTC：代理：Mingxin Wang 15:00 UTC的下一代多态性：使陌生的C ++代码熟悉[…]</description>
-      <pubDate>Tue, 29 Apr 2025 09:07:40 +0000</pubDate>
+      <title>【Why does Windows have trouble finding my Win32 resource if it contains an accented character?】如果Windows包含重音角色，为什么Windows难以找到Win32资源？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250430-00/?p=111129</link>
+      <description>【Disagreements over the fine print.】精美印刷品的分歧。</description>
+      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Elevate Your Virtual Machine Management with Multi-Select, Sorting, Grouping, and Tags in Azure DevTest Labs】通过Azure DevTest Labs中的多选择，分类，分组和标签来提升虚拟机管理</title>
@@ -40,28 +34,34 @@
       <pubDate>Tue, 29 Apr 2025 19:29:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Protecting against indirect prompt injection attacks in MCP】防止MCP中的间接提示注射攻击</title>
-      <link>https://devblogs.microsoft.com/blog/protecting-against-indirect-injection-attacks-mcp</link>
-      <description>【In this blog post, we will provide some guidelines on how to mitigate prompt injection attacks in Model Context Protocol (MCP) and share the steps Microsoft has taken to address emerging risks such as this one for our customers. MCP is an open protocol spearheaded by Anthropic that defines a standardized interface for connecting Large [&amp;hellip;]】在这篇博客文章中，我们将提供一些有关如何减轻模型上下文协议（MCP）中的快速注射攻击的准则，并分享Microsoft为解决新出现风险（例如，为我们的客户）所采取的步骤。 MCP是一个由人类的矛盾的开放协议，它定义了用于连接大型[…]的标准化界面</description>
-      <pubDate>Mon, 28 Apr 2025 18:00:22 +0000</pubDate>
+      <title>【Pure Virtual C++ 2025 is Tomorrow】纯虚拟C ++ 2025是明天</title>
+      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-is-tomorrow</link>
+      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It&amp;#8217;s running live tomorrow, 30th April, from 14:00 to 16:30 UTC. The talks are: 14:00 UTC: Welcome to v1.0 of the meta::[[verse]]! with Inbal Levi 14:30 UTC: Proxy: Next Generation Polymorphism with Mingxin Wang 15:00 UTC: Making unfamiliar C++ code familiar with [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它明天（4月30日）从14:00到16:30 UTC进行直播。谈判是：14:00 UTC：欢迎来到元的V1.0 :: [[[verse]]！使用Inbal Levi 14:30 UTC：代理：Mingxin Wang 15:00 UTC的下一代多态性：使陌生的C ++代码熟悉[…]</description>
+      <pubDate>Tue, 29 Apr 2025 09:07:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Letting AI Help Make the World More Accessible – Analyzing Website Accessibility with Semantic Kernel and OmniParser】来宾博客：让AI帮助使世界更容易访问 - 使用语义内核和OmniParser分析网站可访问性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-letting-ai-help-make-the-world-more-accessible-analyzing-website-accessibility-with-semantic-kernel-and-omniparser</link>
-      <description>【Today we&amp;#8217;re excited to welcome Jonathan David, as a guest author on the Semantic Kernel blog. We&amp;#8217;ll turn it over to Jonathan to dive into Letting AI Help Make the World More Accessible &amp;#8211; Analyzing Website Accessibility with Semantic Kernel and OmniParser. &amp;nbsp; With the European Accessibility Act and Germany&amp;#8217;s Barrierefreiheitsstärkungsgesetz (which translates to Barrier [&amp;hellip;]】今天，我们很高兴欢迎乔纳森·戴维（Jonathan David），作为语义内核博客的客座作家。我们将把它移交给乔纳森（Jonathan），以使AI帮助世界更容易访问，以通过语义内核和omlniparser分析网站可访问性。   借助《欧洲可及性法》和德国的Barrierefreiheitsstärkungsgesetz（转化为障碍[…]</description>
-      <pubDate>Mon, 28 Apr 2025 19:29:13 +0000</pubDate>
+      <title>【GitHub Copilot for Xcode: Explore @workspace and New Models Support (GPT-4.1, GPT-4.5 and More)】Xcode的GitHub Copilot：探索@WorkSpace和新模型支持（GPT-4.1，GPT-4.5等）</title>
+      <link>https://devblogs.microsoft.com/xcode/github-copilot-for-xcode-explore-workspace-and-new-models-support-gpt-4-1-gpt-4-5-and-more</link>
+      <description>【The GitHub Copilot for Xcode extension now allows you to ask questions about your entire codebase using the @workspace context. Additionally, we have integrated support for new models, including OpenAI GPT-4.1, GPT-4.5, o3, o4-mini, Gemini 2.5 Pro and Claude 3.7 Sonnet, to enhance your chat conversations and introduce several UX improvements to boost your productivity. [&amp;hellip;]】现在，用于Xcode扩展程序的GitHub副副总片可让您使用@WorkSpace上下文询问有关整个代码库的问题。此外，我们还对新型号进行了集成的支持，包括OpenAI GPT-4.1，GPT-4.5，O3，O4-Mini，Gemini 2.5 Pro和Claude 3.7十四行诗，以增强您的聊天对话并介绍几种UX的改进，以提高您的生产力。 […]</description>
+      <pubDate>Wed, 30 Apr 2025 08:34:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Copilot Studio ❤️ MCP】Microsoft Copilot Studio❤️MCP</title>
-      <link>https://devblogs.microsoft.com/powerplatform/microsoft-copilot-studio-mcp</link>
-      <description>【Ever wished your AI agents could tap into live data or execute actions beyond their built-in capabilities? Enter Model Context Protocol (MCP)—a game-changer for integrating external tools and data sources directly into your Copilot Studio agents. 🧠 What is MCP? Think of MCP as a universal adapter for AI applications. It standardizes how AI models [&amp;hellip;]】曾经希望您的AI代理可以利用实时数据或执行内置功能以外的操作？输入模型上下文协议（MCP） - 一种用于将外部工具和数据源直接集成到您的Copilot Studio代理中的游戏规则。 🧠什么是MCP？将MCP视为AI应用程序的通用适配器。它标准化AI模型[…]</description>
-      <pubDate>Mon, 28 Apr 2025 13:13:41 +0000</pubDate>
+      <title>【Packaging and Publishing a .NET MAUI Library with GitHub Actions】包装和发布带有GitHub动作的.NET MAUI库</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions</link>
+      <description>【In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.】在这篇文章中，了解如何设置DevOps管道以构建和发布具有GitHub操作的.NET MAUI库。</description>
+      <pubDate>Wed, 30 Apr 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【ASP.NET Core OData Web API Template Preview Release】ASP.NET核心ODATA Web API模板预览版本</title>
-      <link>https://devblogs.microsoft.com/odata/asp-net-core-odata-web-api-template-preview-release</link>
-      <description>【We are excited to announce the public preview release of the ASP.NET Core OData Web API Template Pack. This template helps you create an ASP.NET Core Web API project with OData support, providing a streamlined setup for .NET 8.0 and above. The following preview release is now available on NuGet: Microsoft.OData.WebApiTemplate Key Features Support for [&amp;hellip;]】我们很高兴宣布ASP.NET Core Odata Web API模板包的公共预览发布。此模板可帮助您使用ODATA支持创建ASP.NET Core Web API项目，为.NET 8.0及以上提供简化的设置。现在可以在Nuget上提供以下预览版本：Microsoft.odata.webapitemplate Plate密钥功能支持[…]</description>
-      <pubDate>Mon, 28 Apr 2025 14:26:37 +0000</pubDate>
+      <title>【MSSQL Extension for VS Code: Introducing Schema Compare (Preview)】VS代码的MSSQL扩展名：引入架构比较（预览）</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-schema-compare</link>
+      <description>【Overview We are excited to introduce Schema Compare in the MSSQL Extension for VS Code! It can be tedious to manually manage and synchronize different database versions. Enter Schema Compare, the powerful new feature for MSSQL in VS Code that transforms this tedious task into a seamless experience. With intuitive visualization that instantly highlights additions, [&amp;hellip;]】概述我们很高兴在VS代码的MSSQL扩展程序中介绍架构比较！手动管理和同步不同的数据库版本可能会很乏味。 Enter Schema比较，这是MSSQL在VS代码中的强大新功能，它将这一乏味的任务转换为无缝体验。通过直观的可视化，可以立即突出显示添加，[…]</description>
+      <pubDate>Wed, 30 Apr 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【VS Code C++ Extension 1.25 Release:  Explain C++ symbols using Copilot &amp; Customize recursive include paths】VS代码C ++扩展1.25版本：使用Copilot＆Customize递归包括路径，解释C ++符号</title>
+      <link>https://devblogs.microsoft.com/cppblog/vs-code-c-extension-1-25-release-explain-c-symbols-using-copilot-customize-recursive-include-paths</link>
+      <description>【The 1.25 release of the C++ extension in Visual Studio Code introduces a new way to understand your code faster with GitHub Copilot-powered symbol summaries, as well as new customization options for recursive #include path processing. With these enhancements, you gain AI-powered insights into unfamiliar or undocumented code and can optimize IntelliSense performance based on [&amp;hellip;]】Visual Studio代码中C ++扩展的1.25发行版引入了一种新的方法，可以通过GitHub副铜供电的符号摘要更快地理解您的代码，以及用于递归#include Path Processing的新自定义选项。通过这些增强功能，您可以获得对陌生或无证代码的AI驱动见解，并可以根据[…]优化Intellisense性能。</description>
+      <pubDate>Wed, 30 Apr 2025 23:31:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
