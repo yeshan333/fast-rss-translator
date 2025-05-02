@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How DoorDash’s In-House Search Engine Achieved a 50% Drop in Latency】Doordash的内部搜索引擎如何达到50％的潜伏期</title>
-      <link>https://blog.bytebytego.com/p/how-doordashs-in-house-search-engine</link>
-      <description>【&amp;#128640;Faster mobile releases with automated QA (Sponsored)】＆＃128640;使用自动质量检查（赞助）更快的移动版本</description>
-      <pubDate>Tue, 22 Apr 2025 15:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Coupling and Cohesion: The Two Principles for Effective Architecture 】耦合和凝聚力：有效体系结构的两个原则</title>
-      <link>https://blog.bytebytego.com/p/coupling-and-cohesion-the-two-principles</link>
-      <description>【Every large system that spirals out of control starts the same way: small, functional, and deceptively simple.】每个大型失控的大型系统都以相同的方式开始：小型，功能性和看似简单。</description>
-      <pubDate>Thu, 17 Apr 2025 15:30:59 +0000</pubDate>
+      <title>【How WhatsApp Handles 40 Billion Messages Per Day】WhatsApp每天如何处理400亿条消息</title>
+      <link>https://blog.bytebytego.com/p/how-whatsapp-handles-40-billion-messages</link>
+      <description>【In this article, we&amp;#8217;ll take a technical dive into how WhatsApp built its architecture and the challenges the engineering team faced during this journey.】在本文中，我们将研究WhatsApp如何构建其架构以及工程团队在此旅程中面临的挑战。</description>
+      <pubDate>Mon, 28 Apr 2025 15:30:56 +0000</pubDate>
     </item>
     <item>
       <title>【How Airbnb Powers Personalization With 1M Events Per Second】Airbnb如何使用每秒100万事件为个性化提供个性化功能</title>
@@ -23,16 +17,22 @@
       <pubDate>Mon, 21 Apr 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【How Netflix Orchestrates Millions of Workflow Jobs with Maestro】Netflix如何与大师协调数百万的工作流程</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-orchestrates-millions</link>
-      <description>【WorkOS + MCP: Authentication for AI Agents (Sponsored)】Workos + MCP：AI代理的身份验证（赞助）</description>
-      <pubDate>Tue, 15 Apr 2025 15:31:16 +0000</pubDate>
-    </item>
-    <item>
       <title>【Domain-Driven Design (DDD) Demystified】域驱动设计（DDD）脱神秘</title>
       <link>https://blog.bytebytego.com/p/domain-driven-design-ddd-demystified</link>
       <description>【Most software doesn&amp;#8217;t break because of syntax errors or flawed if-else logic.】大多数软件不会因为语法错误而破坏或存在缺陷，如果else逻辑有缺陷。</description>
       <pubDate>Thu, 24 Apr 2025 15:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Coupling and Cohesion: The Two Principles for Effective Architecture 】耦合和凝聚力：有效体系结构的两个原则</title>
+      <link>https://blog.bytebytego.com/p/coupling-and-cohesion-the-two-principles</link>
+      <description>【Every large system that spirals out of control starts the same way: small, functional, and deceptively simple.】每个大型失控的大型系统都以相同的方式开始：小型，功能性和看似简单。</description>
+      <pubDate>Thu, 17 Apr 2025 15:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Synchronous vs Asynchronous Communication: When to Use What?】同步与异步通信：何时使用什么？</title>
+      <link>https://blog.bytebytego.com/p/synchronous-vs-asynchronous-communication</link>
+      <description>【At some point, every system has to make a call: Should this interaction happen synchronously or asynchronously?】在某个时候，每个系统都必须呼叫：这种交互是否应该同步或异步发生？</description>
+      <pubDate>Thu, 01 May 2025 15:30:47 +0000</pubDate>
     </item>
     <item>
       <title>【EP160: Top 20 System Design Concepts You Should Know】EP160：您应该知道的前20个系统设计概念</title>
@@ -41,22 +41,22 @@
       <pubDate>Sat, 26 Apr 2025 15:30:36 +0000</pubDate>
     </item>
     <item>
-      <title>【EP158: How to Learn API Development】EP158：如何学习API开发</title>
-      <link>https://blog.bytebytego.com/p/ep158-how-to-learn-api-development</link>
-      <description>【Learning how to develop APIs is an important skill for modern-day developers.】学习如何开发API是现代开发人员的重要技能。</description>
-      <pubDate>Sat, 12 Apr 2025 15:30:57 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Meta Built Threads to Support 100 Million Signups in 5 Days】元如何在5天内建立线程以支持1亿个注册</title>
       <link>https://blog.bytebytego.com/p/how-meta-built-threads-to-support</link>
       <description>【When a new app hits 100 million signups in under a week, the instinct is to assume someone built a miracle backend overnight.】当一个新应用在一周不到一周的时间内登陆1亿个注册时，本能是假设有人在一夜之间建立了一个奇迹的后端。</description>
       <pubDate>Tue, 29 Apr 2025 15:30:31 +0000</pubDate>
     </item>
     <item>
-      <title>【How WhatsApp Handles 40 Billion Messages Per Day】WhatsApp每天如何处理400亿条消息</title>
-      <link>https://blog.bytebytego.com/p/how-whatsapp-handles-40-billion-messages</link>
-      <description>【In this article, we&amp;#8217;ll take a technical dive into how WhatsApp built its architecture and the challenges the engineering team faced during this journey.】在本文中，我们将研究WhatsApp如何构建其架构以及工程团队在此旅程中面临的挑战。</description>
-      <pubDate>Mon, 28 Apr 2025 15:30:56 +0000</pubDate>
+      <title>【How DoorDash’s In-House Search Engine Achieved a 50% Drop in Latency】Doordash的内部搜索引擎如何达到50％的潜伏期</title>
+      <link>https://blog.bytebytego.com/p/how-doordashs-in-house-search-engine</link>
+      <description>【&amp;#128640;Faster mobile releases with automated QA (Sponsored)】＆＃128640;使用自动质量检查（赞助）更快的移动版本</description>
+      <pubDate>Tue, 22 Apr 2025 15:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Orchestrates Millions of Workflow Jobs with Maestro】Netflix如何与大师协调数百万的工作流程</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-orchestrates-millions</link>
+      <description>【WorkOS + MCP: Authentication for AI Agents (Sponsored)】Workos + MCP：AI代理的身份验证（赞助）</description>
+      <pubDate>Tue, 15 Apr 2025 15:31:16 +0000</pubDate>
     </item>
     <item>
       <title>【EP159: The Data Engineering Roadmap】EP159：数据工程路线图</title>

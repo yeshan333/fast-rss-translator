@@ -4,54 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Protecting Windows users from Janet Jackson’s Rhythm Nation】保护Windows用户免受Janet Jackson的节奏国家</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250429-42/?p=111127</link>
-      <description>【Granting an exception to a system policy.】授予系统政策的例外。</description>
-      <pubDate>Tue, 29 Apr 2025 16:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Guest Blog: Letting AI Help Make the World More Accessible – Analyzing Website Accessibility with Semantic Kernel and OmniParser】来宾博客：让AI帮助使世界更容易访问 - 使用语义内核和OmniParser分析网站可访问性</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-letting-ai-help-make-the-world-more-accessible-analyzing-website-accessibility-with-semantic-kernel-and-omniparser</link>
-      <description>【Today we&amp;#8217;re excited to welcome Jonathan David, as a guest author on the Semantic Kernel blog. We&amp;#8217;ll turn it over to Jonathan to dive into Letting AI Help Make the World More Accessible &amp;#8211; Analyzing Website Accessibility with Semantic Kernel and OmniParser. &amp;nbsp; With the European Accessibility Act and Germany&amp;#8217;s Barrierefreiheitsstärkungsgesetz (which translates to Barrier [&amp;hellip;]】今天，我们很高兴欢迎乔纳森·戴维（Jonathan David），作为语义内核博客的客座作家。我们将把它移交给乔纳森（Jonathan），以使AI帮助世界更容易访问，以通过语义内核和omlniparser分析网站可访问性。   借助《欧洲可及性法》和德国的Barrierefreiheitsstärkungsgesetz（转化为障碍[…]</description>
-      <pubDate>Mon, 28 Apr 2025 19:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in Azure AI Foundry | April 2025】Azure AI铸造厂的新功能| 2025年4月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-april-2025</link>
-      <description>【This post highlights the latest features and updates in Azure AI Foundry for April 2025, focusing on new models, agents, and tools that enhance AI development capabilities.】这篇文章重点介绍了2025年4月Azure AI铸造厂的最新功能和更新，重点介绍了增强AI开发功能的新模型，代理和工具。</description>
-      <pubDate>Tue, 29 Apr 2025 15:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does Windows have trouble finding my Win32 resource if it contains an accented character?】如果Windows包含重音角色，为什么Windows难以找到Win32资源？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250430-00/?p=111129</link>
-      <description>【Disagreements over the fine print.】精美印刷品的分歧。</description>
-      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Elevate Your Virtual Machine Management with Multi-Select, Sorting, Grouping, and Tags in Azure DevTest Labs】通过Azure DevTest Labs中的多选择，分类，分组和标签来提升虚拟机管理</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/elevate-your-virtual-machine-management-with-multi-select-sorting-grouping-and-tags-in-azure-devtest-labs</link>
-      <description>【We are thrilled to unveil exciting new enhancements in the My Virtual Machine view within Azure DevTest Labs that will revolutionize your VM management experience. With these updates, managing your virtual machines has never been easier or more efficient. Imagine being able to multi-select VMs to start, stop, restart, or delete them all at once [&amp;hellip;]】我们很高兴在Azure DevTest实验室内的“我的虚拟机”视图中揭示令人兴奋的新增强功能，这将彻底改变您的VM管理体验。通过这些更新，管理虚拟机从未如此简单或更高效。想象一下能够一次启动，停止，重新启动或删除它们[…]</description>
-      <pubDate>Tue, 29 Apr 2025 19:29:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pure Virtual C++ 2025 is Tomorrow】纯虚拟C ++ 2025是明天</title>
-      <link>https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2025-is-tomorrow</link>
-      <description>【Pure Virtual C++ is our free, one-day, virtual conference for the whole C++ community. It&amp;#8217;s running live tomorrow, 30th April, from 14:00 to 16:30 UTC. The talks are: 14:00 UTC: Welcome to v1.0 of the meta::[[verse]]! with Inbal Levi 14:30 UTC: Proxy: Next Generation Polymorphism with Mingxin Wang 15:00 UTC: Making unfamiliar C++ code familiar with [&amp;hellip;]】纯虚拟C ++是我们为整个C ++社区提供的免费，为期一天的虚拟会议。它明天（4月30日）从14:00到16:30 UTC进行直播。谈判是：14:00 UTC：欢迎来到元的V1.0 :: [[[verse]]！使用Inbal Levi 14:30 UTC：代理：Mingxin Wang 15:00 UTC的下一代多态性：使陌生的C ++代码熟悉[…]</description>
-      <pubDate>Tue, 29 Apr 2025 09:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GitHub Copilot for Xcode: Explore @workspace and New Models Support (GPT-4.1, GPT-4.5 and More)】Xcode的GitHub Copilot：探索@WorkSpace和新模型支持（GPT-4.1，GPT-4.5等）</title>
-      <link>https://devblogs.microsoft.com/xcode/github-copilot-for-xcode-explore-workspace-and-new-models-support-gpt-4-1-gpt-4-5-and-more</link>
-      <description>【The GitHub Copilot for Xcode extension now allows you to ask questions about your entire codebase using the @workspace context. Additionally, we have integrated support for new models, including OpenAI GPT-4.1, GPT-4.5, o3, o4-mini, Gemini 2.5 Pro and Claude 3.7 Sonnet, to enhance your chat conversations and introduce several UX improvements to boost your productivity. [&amp;hellip;]】现在，用于Xcode扩展程序的GitHub副副总片可让您使用@WorkSpace上下文询问有关整个代码库的问题。此外，我们还对新型号进行了集成的支持，包括OpenAI GPT-4.1，GPT-4.5，O3，O4-Mini，Gemini 2.5 Pro和Claude 3.7十四行诗，以增强您的聊天对话并介绍几种UX的改进，以提高您的生产力。 […]</description>
-      <pubDate>Wed, 30 Apr 2025 08:34:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Packaging and Publishing a .NET MAUI Library with GitHub Actions】包装和发布带有GitHub动作的.NET MAUI库</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions</link>
-      <description>【In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.】在这篇文章中，了解如何设置DevOps管道以构建和发布具有GitHub操作的.NET MAUI库。</description>
-      <pubDate>Wed, 30 Apr 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【MSSQL Extension for VS Code: Introducing Schema Compare (Preview)】VS代码的MSSQL扩展名：引入架构比较（预览）</title>
       <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-schema-compare</link>
       <description>【Overview We are excited to introduce Schema Compare in the MSSQL Extension for VS Code! It can be tedious to manually manage and synchronize different database versions. Enter Schema Compare, the powerful new feature for MSSQL in VS Code that transforms this tedious task into a seamless experience. With intuitive visualization that instantly highlights additions, [&amp;hellip;]】概述我们很高兴在VS代码的MSSQL扩展程序中介绍架构比较！手动管理和同步不同的数据库版本可能会很乏味。 Enter Schema比较，这是MSSQL在VS代码中的强大新功能，它将这一乏味的任务转换为无缝体验。通过直观的可视化，可以立即突出显示添加，[…]</description>
@@ -62,6 +14,54 @@
       <link>https://devblogs.microsoft.com/cppblog/vs-code-c-extension-1-25-release-explain-c-symbols-using-copilot-customize-recursive-include-paths</link>
       <description>【The 1.25 release of the C++ extension in Visual Studio Code introduces a new way to understand your code faster with GitHub Copilot-powered symbol summaries, as well as new customization options for recursive #include path processing. With these enhancements, you gain AI-powered insights into unfamiliar or undocumented code and can optimize IntelliSense performance based on [&amp;hellip;]】Visual Studio代码中C ++扩展的1.25发行版引入了一种新的方法，可以通过GitHub副铜供电的符号摘要更快地理解您的代码，以及用于递归#include Path Processing的新自定义选项。通过这些增强功能，您可以获得对陌生或无证代码的AI驱动见解，并可以根据[…]优化Intellisense性能。</description>
       <pubDate>Wed, 30 Apr 2025 23:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Rapidly prototype with gpt-image-1 from Azure OpenAI Service in the Images Playground in Azure AI Foundry】Azure AI Foundry的图像操场上的Azure Openai服务中的GPT-Image-1快速原型</title>
+      <link>https://devblogs.microsoft.com/foundry/images-playground-may-2025</link>
+      <description>【Introducing the next-gen images playground in Azure AI Foundry, a high-fidelity UX sandbox for developers to rapidly prototype with state-of-the-art image generation models like gpt-image-1 from Azure OpenAI Service 1. This playground enables real-time experimentation, prompt optimization, and integration with developer tools like VS Code, accelerating the &#34;Build-Measure-Learn&#34; development loop and enhancing productivity.】Introducing the next-gen images playground in Azure AI Foundry, a high-fidelity UX sandbox for developers to rapidly prototype with state-of-the-art image generation models like gpt-image-1 from Azure OpenAI Service 1. This playground enables real-time experimentation, prompt optimization, and integration with developer tools like VS Code, accelerating the &#34;Build-Measure-Learn&#34; development loop and enhancing productivity.</description>
+      <pubDate>Thu, 01 May 2025 14:51:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.27 with generating TypeSpec files and configuring using natural language】开发代理v0.27与生成打字文件并使用自然语言配置</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-27-with-generating-typespec-files-and-configuring-using-natural-language</link>
+      <description>【Dev Proxy v0.27 is even more developer-friendly, helping you generate API specs faster, improving suggestions while editing, and laying the foundation for more flexible AI integrations.】开发代理V0.27更适合开发人员友好，可帮助您更快地生成API规格，在编辑时改进建议，并为更灵活的AI集成奠定基础。</description>
+      <pubDate>Thu, 01 May 2025 06:41:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Packaging and Publishing a .NET MAUI Library with GitHub Actions】包装和发布带有GitHub动作的.NET MAUI库</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions</link>
+      <description>【In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.】在这篇文章中，了解如何设置DevOps管道以构建和发布具有GitHub操作的.NET MAUI库。</description>
+      <pubDate>Wed, 30 Apr 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure AI Foundry extension for Visual Studio Code April 2025 Update】视觉工作室代码2025年4月更新的视觉工作室代码的Azure AI Foundry扩展</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-extension-for-visual-studio-code-april-2025-update</link>
+      <description>【Azure AI Foundry extension for Visual Studio Code April 2025 Update Azure AI Foundry is a trusted platform for designing, customizing, and managing AI applications, with a portal that enables secure data integration, model customization, and enterprise-grade governance. Earlier this month, we announced the public preview of the Azure AI Foundry extension. And today, the [&amp;hellip;]】Visual Studio代码的Azure AI Foundry扩展2025年4月更新Azure AI Foundry是一个可信赖的平台，用于设计，自定义和管理AI应用程序，并借助一个门户，该门户可启用安全的数据集成，模型自定义和企业级治理。本月初，我们宣布了Azure AI铸造扩展的公开预览。今天，[…]</description>
+      <pubDate>Thu, 01 May 2025 17:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1】使用C ++类型混叠来避免有条件汇编的ODR问题，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134</link>
+      <description>【Still one definition, but two types.】仍然是一个定义，但两种类型。</description>
+      <pubDate>Thu, 01 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does Windows have trouble finding my Win32 resource if it contains an accented character?】如果Windows包含重音角色，为什么Windows难以找到Win32资源？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250430-00/?p=111129</link>
+      <description>【Disagreements over the fine print.】精美印刷品的分歧。</description>
+      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Modernizing Project Files with AI: A Success Story from the .NET Team】使用AI：.NET团队的成功案例现代化项目文件</title>
+      <link>https://devblogs.microsoft.com/blog/modernizing-project-files-with-ai-a-success-story-from-the-dotnet-team</link>
+      <description>【At Microsoft, we are constantly exploring innovative ways to enhance our workflows, improve productivity, and ensure we have a secure supply chain that uses modern tools. One of our recent initiatives was to rebuild the .NET Framework build system by leveraging AI to automate the process. Here’s the story of how we successfully achieved this [&amp;hellip;]】在微软，我们一直在探索创新的方法来增强我们的工作流程，提高生产率并确保我们拥有使用现代工具的安全供应链。我们最近的举措之一是通过利用AI自动化流程来重建.NET框架构建系统。这是我们如何成功实现这一目标的故事[…]</description>
+      <pubDate>Thu, 01 May 2025 18:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【There’s a Linux File Explorer built into Visual Studio!?!】Visual Studio中内置有Linux文件资源管理器！？！</title>
+      <link>https://devblogs.microsoft.com/cppblog/theres-a-linux-file-explorer-built-into-visual-studio</link>
+      <description>【The Remote File Explorer in Visual Studio provides developers with a convenient way to browse, view, and edit files on remote machines—directly from within the IDE. It&amp;#8217;s a powerful tool for managing remote environments without leaving your development workflow. Scott Hanselman published a new YouTube video to his channel, taking us on the journey of [&amp;hellip;]】Visual Studio中的远程文件资源管理器为开发人员提供了一种方便的方式，可以从IDE内部直接浏览，查看和编辑文件。它是管理远程环境而不离开开发工作流程的强大工具。斯科特·汉塞尔曼（Scott Hanselman）向他的频道发布了一个新的YouTube视频，带我们进行了[…]的旅程。</description>
+      <pubDate>Thu, 01 May 2025 15:44:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
