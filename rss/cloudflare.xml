@@ -4,36 +4,6 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report】由2050万个DDOS攻击的目标，同比增长358％：Cloudflare的2025 Q1 DDOS威胁报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/</link>
-      <description>【 DDoS attacks are surging. In 2025 Q1, Cloudflare blocked +20M attacks (a 358% YoY spike) along with 5.6 Tbps and 4.8 Bpps record-breaking attacks. 】DDOS攻击正在激增。在2025年第1季度，Cloudflare与5.6 TBP和4.8 BPP的创纪录攻击相同，阻塞了 +20m攻击（358％的尖峰）。</description>
-      <pubDate>Sun, 27 Apr 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Developer Week 2025 wrap-up】开发人员第2025周总结</title>
-      <link>https://blog.cloudflare.com/developer-week-2025-wrap-up/</link>
-      <description>【 We’ve closed out Developer Week 2025. Here’s a quick recap of the announcements and in-depth technical explorations that went out during the week. 】我们已经关闭了第2025周的开发人员。这是对一周内进行的公告和深入的技术探索的快速回顾。</description>
-      <pubDate>Mon, 14 Apr 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New year, no shutdowns: the Q1 2025 Internet disruption summary】新年，没有关闭：Q1 2025 Internet中断摘要</title>
-      <link>https://blog.cloudflare.com/q1-2025-internet-disruption-summary/</link>
-      <description>【 In Q1 2025, we observed Internet disruptions around the world caused by cable damage, power outages, natural disasters, fire, a cyberattack, and technical problems. 】在2025年第1季度，我们观察到由电缆损坏，停电，自然灾害，火灾，网络攻击和技术问题引起的世界各地的互联网中断。</description>
-      <pubDate>Tue, 22 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thirteen new MCP servers from Cloudflare you can use today】CloudFlare的13台新的MCP服务器，您今天可以使用</title>
-      <link>https://blog.cloudflare.com/thirteen-new-mcp-servers-from-cloudflare/</link>
-      <description>【 You can now connect to Cloudflare&#39;s first publicly available remote Model Context Protocol (MCP) servers from any MCP client that supports remote servers.  】现在，您可以从任何支持远程服务器的MCP客户端中连接到CloudFlare的第一个公开可用的远程模型上下文协议（MCP）服务器。</description>
-      <pubDate>Thu, 01 May 2025 13:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why I joined Cloudflare as Chief People Officer — Kelly Russell】为什么我加入Cloudflare担任首席人物 - 凯利·罗素（Kelly Russell）</title>
-      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-kelly-russell/</link>
-      <description>【 After years navigating the world of high-growth tech, I’ve learned to recognize a special opportunity when I see one. That’s exactly why I’m thrilled to join Cloudflare as Chief People Officer.&#xA; 】经过多年的高增长技术世界，当我看到一个人时，我学会了认识到一个特殊的机会。这就是为什么我很高兴加入Cloudflare担任首席人物。</description>
-      <pubDate>Mon, 14 Apr 2025 19:03:33 +0000</pubDate>
-    </item>
-    <item>
       <title>【Bringing streamable HTTP transport and Python language support to MCP servers】将流媒体的HTTP传输和Python语言支持带到MCP服务器</title>
       <link>https://blog.cloudflare.com/streamable-http-mcp-servers-python/</link>
       <description>【 We&#39;re continuing to make it easier for developers to bring their services into the AI ecosystem with the Model Context Protocol (MCP) with two new updates. 】我们将继续通过模型上下文协议（MCP）进行两个新更新，使开发人员更容易将他们的服务带入AI生态系统。</description>
@@ -46,10 +16,10 @@
       <pubDate>Thu, 01 May 2025 13:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
-      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
-      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
-      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【New year, no shutdowns: the Q1 2025 Internet disruption summary】新年，没有关闭：Q1 2025 Internet中断摘要</title>
+      <link>https://blog.cloudflare.com/q1-2025-internet-disruption-summary/</link>
+      <description>【 In Q1 2025, we observed Internet disruptions around the world caused by cable damage, power outages, natural disasters, fire, a cyberattack, and technical problems. 】在2025年第1季度，我们观察到由电缆损坏，停电，自然灾害，火灾，网络攻击和技术问题引起的世界各地的互联网中断。</description>
+      <pubDate>Tue, 22 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How the April 28, 2025, power outage in Portugal and Spain impacted Internet traffic and connectivity】2025年4月28日，葡萄牙和西班牙的停电如何影响互联网流量和连通性</title>
@@ -62,6 +32,36 @@
       <link>https://blog.cloudflare.com/why-i-joined-cloudflare-to-build-world-class-partnerships-in-emea/</link>
       <description>【 The EMEA region is a patchwork of diverse markets, industries, and regulatory environments, and it demands a partner-centric approach. That’s why I joined Cloudflare as VP of EMEA Partnerships. 】EMEA地区是各种市场，行业和监管环境的拼凑而成，它需要以合作伙伴为中心的方法。这就是为什么我加入CloudFlare担任EMEA合作伙伴关系副总裁。</description>
       <pubDate>Tue, 15 Apr 2025 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why I joined Cloudflare as Chief People Officer — Kelly Russell】为什么我加入Cloudflare担任首席人物 - 凯利·罗素（Kelly Russell）</title>
+      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-kelly-russell/</link>
+      <description>【 After years navigating the world of high-growth tech, I’ve learned to recognize a special opportunity when I see one. That’s exactly why I’m thrilled to join Cloudflare as Chief People Officer.&#xA; 】经过多年的高增长技术世界，当我看到一个人时，我学会了认识到一个特殊的机会。这就是为什么我很高兴加入Cloudflare担任首席人物。</description>
+      <pubDate>Mon, 14 Apr 2025 19:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025】简单，可扩展和全球：2025年6月的集装箱即将到达Cloudflare工人</title>
+      <link>https://blog.cloudflare.com/cloudflare-containers-coming-2025/</link>
+      <description>【 Cloudflare Containers are coming this June. Run new types of workloads on our network with an experience that is simple, scalable, global and deeply integrated with Workers. 】Cloudflare容器将于今年6月到来。在我们的网络上运行新型的工作负载类型，具有简单，可扩展，全局且与工人深入融合的体验。</description>
+      <pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thirteen new MCP servers from Cloudflare you can use today】CloudFlare的13台新的MCP服务器，您今天可以使用</title>
+      <link>https://blog.cloudflare.com/thirteen-new-mcp-servers-from-cloudflare/</link>
+      <description>【 You can now connect to Cloudflare&#39;s first publicly available remote Model Context Protocol (MCP) servers from any MCP client that supports remote servers.  】现在，您可以从任何支持远程服务器的MCP客户端中连接到CloudFlare的第一个公开可用的远程模型上下文协议（MCP）服务器。</description>
+      <pubDate>Thu, 01 May 2025 13:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Developer Week 2025 wrap-up】开发人员第2025周总结</title>
+      <link>https://blog.cloudflare.com/developer-week-2025-wrap-up/</link>
+      <description>【 We’ve closed out Developer Week 2025. Here’s a quick recap of the announcements and in-depth technical explorations that went out during the week. 】我们已经关闭了第2025周的开发人员。这是对一周内进行的公告和深入的技术探索的快速回顾。</description>
+      <pubDate>Mon, 14 Apr 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report】由2050万个DDOS攻击的目标，同比增长358％：Cloudflare的2025 Q1 DDOS威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/</link>
+      <description>【 DDoS attacks are surging. In 2025 Q1, Cloudflare blocked +20M attacks (a 358% YoY spike) along with 5.6 Tbps and 4.8 Bpps record-breaking attacks. 】DDOS攻击正在激增。在2025年第1季度，Cloudflare与5.6 TBP和4.8 BPP的创纪录攻击相同，阻塞了 +20m攻击（358％的尖峰）。</description>
+      <pubDate>Sun, 27 Apr 2025 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
