@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Running RAG with ONNX Runtime GenAI for On-Prem Windows】使用onnx运行时genai运行抹布，用于本地窗口</title>
-      <link>https://devblogs.microsoft.com/ise/running-rag-onnxruntime-genai</link>
-      <description>【Exploring how to efficiently run a RAG pipeline with structured language models (SLMs) and guardrails on Windows, achieving inference under 5 seconds with ONNX Runtime GenAI.】探索如何使用结构化语言模型（SLM）和Windows上的护栏有效运行RAG管道，并使用ONNX Runtime Genai在5秒钟内进行推理。</description>
-      <pubDate>Fri, 02 May 2025 07:00:00 +0000</pubDate>
+      <title>【Guest Blog: Orchestrating AI Agents with Semantic Kernel Plugins: A Technical Deep Dive】来宾博客：使用语义内核插件协调AI代理：技术深入潜水</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-orchestrating-ai-agents-with-semantic-kernel-plugins-a-technical-deep-dive</link>
+      <description>【Today we&amp;#8217;re excited to welcome Jarre Nejatyab as a guest blog to highlight a technical deep dive on orchestrating AI Agents with Semantic Kernel Plugins. In the rapidly evolving world of Large Language Models (LLMs), orchestrating specialized AI agents has become crucial for building sophisticated cognitive architectures capable of complex reasoning and task execution. While [&amp;hellip;]】今天，我们很高兴欢迎Jarre Nejatyab作为来宾博客，以突出有关使用语义内核插件协调AI代理的技术深入研究。在大型语言模型（LLM）迅速发展的世界中，精心策划专业的AI代理对于建立能够复杂的推理和任务执行的复杂认知体系结构变得至关重要。尽管 […]</description>
+      <pubDate>Fri, 02 May 2025 21:10:12 +0000</pubDate>
     </item>
     <item>
       <title>【Rapidly prototype with gpt-image-1 from Azure OpenAI Service in the Images Playground in Azure AI Foundry】Azure AI Foundry的图像操场上的Azure Openai服务中的GPT-Image-1快速原型</title>
@@ -16,10 +16,10 @@
       <pubDate>Thu, 01 May 2025 14:51:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5】介绍Azure Devops ID令牌刷新和Terraform任务版本5</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5</link>
-      <description>【We are excited to share some recent updates that improve the experience of using Workload identity federation (OpenID Connect) with Azure DevOps and Terraform on Microsoft Azure. Many working parts have come together to make this possible and we&amp;#8217;ll share those here. We are also very pleased to announce version 5 of the Microsoft DevLabs [&amp;hellip;]】我们很高兴分享一些最近的更新，以改善使用Azure DevOps和Microsoft Azure上的Azure DevOps和Terraform的工作量身份联合会（OpenID Connect）的经验。许多工作部件都聚集在一起，使这一切成为可能，我们将在这里分享。我们也很高兴宣布Microsoft DevLabs的第5版[…]</description>
-      <pubDate>Fri, 02 May 2025 08:16:56 +0000</pubDate>
+      <title>【Running RAG with ONNX Runtime GenAI for On-Prem Windows】使用onnx运行时genai运行抹布，用于本地窗口</title>
+      <link>https://devblogs.microsoft.com/ise/running-rag-onnxruntime-genai</link>
+      <description>【Exploring how to efficiently run a RAG pipeline with structured language models (SLMs) and guardrails on Windows, achieving inference under 5 seconds with ONNX Runtime GenAI.】探索如何使用结构化语言模型（SLM）和Windows上的护栏有效运行RAG管道，并使用ONNX Runtime Genai在5秒钟内进行推理。</description>
+      <pubDate>Fri, 02 May 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1】使用C ++类型混叠来避免有条件汇编的ODR问题，第1部分</title>
@@ -34,16 +34,16 @@
       <pubDate>Fri, 02 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Modernizing Project Files with AI: A Success Story from the .NET Team】使用AI：.NET团队的成功案例现代化项目文件</title>
-      <link>https://devblogs.microsoft.com/blog/modernizing-project-files-with-ai-a-success-story-from-the-dotnet-team</link>
-      <description>【At Microsoft, we are constantly exploring innovative ways to enhance our workflows, improve productivity, and ensure we have a secure supply chain that uses modern tools. One of our recent initiatives was to rebuild the .NET Framework build system by leveraging AI to automate the process. Here’s the story of how we successfully achieved this [&amp;hellip;]】在微软，我们一直在探索创新的方法来增强我们的工作流程，提高生产率并确保我们拥有使用现代工具的安全供应链。我们最近的举措之一是通过利用AI自动化流程来重建.NET框架构建系统。这是我们如何成功实现这一目标的故事[…]</description>
-      <pubDate>Thu, 01 May 2025 18:00:44 +0000</pubDate>
-    </item>
-    <item>
       <title>【There’s a Linux File Explorer built into Visual Studio!?!】Visual Studio中内置有Linux文件资源管理器！？！</title>
       <link>https://devblogs.microsoft.com/cppblog/theres-a-linux-file-explorer-built-into-visual-studio</link>
       <description>【The Remote File Explorer in Visual Studio provides developers with a convenient way to browse, view, and edit files on remote machines—directly from within the IDE. It&amp;#8217;s a powerful tool for managing remote environments without leaving your development workflow. Scott Hanselman published a new YouTube video to his channel, taking us on the journey of [&amp;hellip;]】Visual Studio中的远程文件资源管理器为开发人员提供了一种方便的方式，可以从IDE内部直接浏览，查看和编辑文件。它是管理远程环境而不离开开发工作流程的强大工具。斯科特·汉塞尔曼（Scott Hanselman）向他的频道发布了一个新的YouTube视频，带我们进行了[…]的旅程。</description>
       <pubDate>Thu, 01 May 2025 15:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Modernizing Project Files with AI: A Success Story from the .NET Team】使用AI：.NET团队的成功案例现代化项目文件</title>
+      <link>https://devblogs.microsoft.com/blog/modernizing-project-files-with-ai-a-success-story-from-the-dotnet-team</link>
+      <description>【At Microsoft, we are constantly exploring innovative ways to enhance our workflows, improve productivity, and ensure we have a secure supply chain that uses modern tools. One of our recent initiatives was to rebuild the .NET Framework build system by leveraging AI to automate the process. Here’s the story of how we successfully achieved this [&amp;hellip;]】在微软，我们一直在探索创新的方法来增强我们的工作流程，提高生产率并确保我们拥有使用现代工具的安全供应链。我们最近的举措之一是通过利用AI自动化流程来重建.NET框架构建系统。这是我们如何成功实现这一目标的故事[…]</description>
+      <pubDate>Thu, 01 May 2025 18:00:44 +0000</pubDate>
     </item>
     <item>
       <title>【Azure AI Foundry extension for Visual Studio Code April 2025 Update】视觉工作室代码2025年4月更新的视觉工作室代码的Azure AI Foundry扩展</title>
@@ -52,10 +52,10 @@
       <pubDate>Thu, 01 May 2025 17:03:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Orchestrating AI Agents with Semantic Kernel Plugins: A Technical Deep Dive】来宾博客：使用语义内核插件协调AI代理：技术深入潜水</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-orchestrating-ai-agents-with-semantic-kernel-plugins-a-technical-deep-dive</link>
-      <description>【Today we&amp;#8217;re excited to welcome Jarre Nejatyab as a guest blog to highlight a technical deep dive on orchestrating AI Agents with Semantic Kernel Plugins. In the rapidly evolving world of Large Language Models (LLMs), orchestrating specialized AI agents has become crucial for building sophisticated cognitive architectures capable of complex reasoning and task execution. While [&amp;hellip;]】今天，我们很高兴欢迎Jarre Nejatyab作为来宾博客，以突出有关使用语义内核插件协调AI代理的技术深入研究。在大型语言模型（LLM）迅速发展的世界中，精心策划专业的AI代理对于建立能够复杂的推理和任务执行的复杂认知体系结构变得至关重要。尽管 […]</description>
-      <pubDate>Fri, 02 May 2025 21:10:12 +0000</pubDate>
+      <title>【Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5】介绍Azure Devops ID令牌刷新和Terraform任务版本5</title>
+      <link>https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5</link>
+      <description>【We are excited to share some recent updates that improve the experience of using Workload identity federation (OpenID Connect) with Azure DevOps and Terraform on Microsoft Azure. Many working parts have come together to make this possible and we&amp;#8217;ll share those here. We are also very pleased to announce version 5 of the Microsoft DevLabs [&amp;hellip;]】我们很高兴分享一些最近的更新，以改善使用Azure DevOps和Microsoft Azure上的Azure DevOps和Terraform的工作量身份联合会（OpenID Connect）的经验。许多工作部件都聚集在一起，使这一切成为可能，我们将在这里分享。我们也很高兴宣布Microsoft DevLabs的第5版[…]</description>
+      <pubDate>Fri, 02 May 2025 08:16:56 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New in vcpkg (April 2025)】VCPKG的新功能（2025年4月）</title>
