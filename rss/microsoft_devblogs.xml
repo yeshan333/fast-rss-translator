@@ -22,22 +22,34 @@
       <pubDate>Fri, 02 May 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1】使用C ++类型混叠来避免有条件汇编的ODR问题，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134</link>
-      <description>【Still one definition, but two types.】仍然是一个定义，但两种类型。</description>
-      <pubDate>Thu, 01 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Using type aliasing to avoid the ODR problem with conditional compilation, part 2】使用类型混叠来避免有条件汇编的ODR问题，第2部分</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250502-00/?p=111140</link>
       <description>【Ensuring that you pick a side.】确保您选择一侧。</description>
       <pubDate>Fri, 02 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1】使用C ++类型混叠来避免有条件汇编的ODR问题，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134</link>
+      <description>【Still one definition, but two types.】仍然是一个定义，但两种类型。</description>
+      <pubDate>Thu, 01 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5】介绍Azure Devops ID令牌刷新和Terraform任务版本5</title>
+      <link>https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5</link>
+      <description>【We are excited to share some recent updates that improve the experience of using Workload identity federation (OpenID Connect) with Azure DevOps and Terraform on Microsoft Azure. Many working parts have come together to make this possible and we&amp;#8217;ll share those here. We are also very pleased to announce version 5 of the Microsoft DevLabs [&amp;hellip;]】我们很高兴分享一些最近的更新，以改善使用Azure DevOps和Microsoft Azure上的Azure DevOps和Terraform的工作量身份联合会（OpenID Connect）的经验。许多工作部件都聚集在一起，使这一切成为可能，我们将在这里分享。我们也很高兴宣布Microsoft DevLabs的第5版[…]</description>
+      <pubDate>Fri, 02 May 2025 08:16:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【There’s a Linux File Explorer built into Visual Studio!?!】Visual Studio中内置有Linux文件资源管理器！？！</title>
       <link>https://devblogs.microsoft.com/cppblog/theres-a-linux-file-explorer-built-into-visual-studio</link>
       <description>【The Remote File Explorer in Visual Studio provides developers with a convenient way to browse, view, and edit files on remote machines—directly from within the IDE. It&amp;#8217;s a powerful tool for managing remote environments without leaving your development workflow. Scott Hanselman published a new YouTube video to his channel, taking us on the journey of [&amp;hellip;]】Visual Studio中的远程文件资源管理器为开发人员提供了一种方便的方式，可以从IDE内部直接浏览，查看和编辑文件。它是管理远程环境而不离开开发工作流程的强大工具。斯科特·汉塞尔曼（Scott Hanselman）向他的频道发布了一个新的YouTube视频，带我们进行了[…]的旅程。</description>
       <pubDate>Thu, 01 May 2025 15:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New in vcpkg (April 2025)】VCPKG的新功能（2025年4月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-april-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.04.09 registry release, 2025-03-22, 2025-04-01, and 2025-04-07 tool releases, as well as changes to vcpkg documentation throughout April. This release contains bug fixes, a new documentation article on offline usage of vcpkg, and other minor improvements. Arm64 Linux users of vcpkg [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.04.09注册表版本的一部分，即2025-03-22、2025-04-01和2025-04-07工具发行，以及整个4月VCPKG文档的更改。该版本包含错误修复程序，有关VCPKG离线使用情况的新文档文档以及其他较小的改进。 VCPKG的ARM64 Linux用户[…]</description>
+      <pubDate>Fri, 02 May 2025 21:44:09 +0000</pubDate>
     </item>
     <item>
       <title>【Modernizing Project Files with AI: A Success Story from the .NET Team】使用AI：.NET团队的成功案例现代化项目文件</title>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-extension-for-visual-studio-code-april-2025-update</link>
       <description>【Azure AI Foundry extension for Visual Studio Code April 2025 Update Azure AI Foundry is a trusted platform for designing, customizing, and managing AI applications, with a portal that enables secure data integration, model customization, and enterprise-grade governance. Earlier this month, we announced the public preview of the Azure AI Foundry extension. And today, the [&amp;hellip;]】Visual Studio代码的Azure AI Foundry扩展2025年4月更新Azure AI Foundry是一个可信赖的平台，用于设计，自定义和管理AI应用程序，并借助一个门户，该门户可启用安全的数据集成，模型自定义和企业级治理。本月初，我们宣布了Azure AI铸造扩展的公开预览。今天，[…]</description>
       <pubDate>Thu, 01 May 2025 17:03:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5】介绍Azure Devops ID令牌刷新和Terraform任务版本5</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5</link>
-      <description>【We are excited to share some recent updates that improve the experience of using Workload identity federation (OpenID Connect) with Azure DevOps and Terraform on Microsoft Azure. Many working parts have come together to make this possible and we&amp;#8217;ll share those here. We are also very pleased to announce version 5 of the Microsoft DevLabs [&amp;hellip;]】我们很高兴分享一些最近的更新，以改善使用Azure DevOps和Microsoft Azure上的Azure DevOps和Terraform的工作量身份联合会（OpenID Connect）的经验。许多工作部件都聚集在一起，使这一切成为可能，我们将在这里分享。我们也很高兴宣布Microsoft DevLabs的第5版[…]</description>
-      <pubDate>Fri, 02 May 2025 08:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in vcpkg (April 2025)】VCPKG的新功能（2025年4月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-april-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.04.09 registry release, 2025-03-22, 2025-04-01, and 2025-04-07 tool releases, as well as changes to vcpkg documentation throughout April. This release contains bug fixes, a new documentation article on offline usage of vcpkg, and other minor improvements. Arm64 Linux users of vcpkg [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.04.09注册表版本的一部分，即2025-03-22、2025-04-01和2025-04-07工具发行，以及整个4月VCPKG文档的更改。该版本包含错误修复程序，有关VCPKG离线使用情况的新文档文档以及其他较小的改进。 VCPKG的ARM64 Linux用户[…]</description>
-      <pubDate>Fri, 02 May 2025 21:44:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
