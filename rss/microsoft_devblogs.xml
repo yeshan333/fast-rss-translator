@@ -4,46 +4,40 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【RC1: Semantic Kernel for Java Agents API】RC1：Java代理API的语义内核</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/preview-release-semantic-kernel-for-java-agents-api</link>
+      <description>【We’re excited to announce the release candidate of the Semantic Kernel for Java Agents API! This marks a major step forward in bringing the power of intelligent agents to Java developers, enabling them to build rich, contextual, and interactive AI experiences using the Semantic Kernel framework. What Are Agents in Semantic Kernel? Agents are intelligent, autonomous [&amp;hellip;]】我们很高兴宣布Java Adent Api的语义内核发行候选者！这标志着将智能代理商的力量带到Java开发人员，使他们能够使用语义内核框架来建立丰富，上下文和交互式AI体验。语义内核中的代理是什么？代理人是聪明的，自主的[…]</description>
+      <pubDate>Tue, 06 May 2025 09:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Nested App Authentication: Now generally available across Microsoft 365】嵌套应用程序身份验证：现在通常在Microsoft 365上找到</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/nested-app-authentication-now-generally-available-across-microsoft-365</link>
+      <description>【Get started with Nested App Authentication, a modern protocol for simplifying authentication for Personal Tab Teams apps that run across Microsoft 365.】开始使用Nested App Authentication，这是一种现代协议，用于简化Microsoft 365运行的个人选项卡团队的身份验证。</description>
+      <pubDate>Tue, 06 May 2025 17:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Fedora Linux is now an official WSL distro】Fedora Linux现在是官方WSL发行版</title>
+      <link>https://devblogs.microsoft.com/commandline/fedora-linux-is-now-an-official-wsl-distro</link>
+      <description>【We’re pleased to announce that one of the latest additions to the list of official WSL distros is Fedora Linux! The Fedora Project has taken advantage of WSL’s new tar-based architecture to produce WSL images beginning with Fedora 42. Try it out To install it, run wsl –-install FedoraLinux-42and then launch it with wsl –d [&amp;hellip;]】我们很高兴地宣布，官方WSL发行版列表中的最新添加是Fedora Linux！ Fedora Project已利用WSL的新基于TAR的体系结构来生产以Fedora 42开头的WSL图像。尝试安装它，运行WSL  - 安装Fedoralinux-42，然后使用WSL –D […]启动它。</description>
+      <pubDate>Tue, 06 May 2025 16:00:05 +0000</pubDate>
+    </item>
+    <item>
       <title>【What’s New in vcpkg (April 2025)】VCPKG的新功能（2025年4月）</title>
       <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-april-2025</link>
       <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.04.09 registry release, 2025-03-22, 2025-04-01, and 2025-04-07 tool releases, as well as changes to vcpkg documentation throughout April. This release contains bug fixes, a new documentation article on offline usage of vcpkg, and other minor improvements. Arm64 Linux users of vcpkg [&amp;hellip;]】这篇博客文章总结了VCPKG软件包管理器的更改，作为2025.04.09注册表版本的一部分，即2025-03-22、2025-04-01和2025-04-07工具发行，以及整个4月VCPKG文档的更改。该版本包含错误修复程序，有关VCPKG离线使用情况的新文档文档以及其他较小的改进。 VCPKG的ARM64 Linux用户[…]</description>
       <pubDate>Fri, 02 May 2025 21:44:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Using type aliasing to avoid the ODR problem with conditional compilation, part 2】使用类型混叠来避免有条件汇编的ODR问题，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250502-00/?p=111140</link>
-      <description>【Ensuring that you pick a side.】确保您选择一侧。</description>
-      <pubDate>Fri, 02 May 2025 14:00:00 +0000</pubDate>
+      <title>【Reinventing Legacy App Modernization: Crowdbotics’ AI-Native Platform on Azure】重塑旧应用应用现代化：Crowdbotics在Azure上的AI本地平台</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/reinventing-legacy-app-modernization-crowdbotics-ai-native-platform-on-azure</link>
+      <description>【Author: Charath Ranganathan, CTO, Crowdbotics Modernizing legacy applications is one of the most daunting tasks facing enterprises today. These systems, often built decades ago using technologies like COBOL on mainframes, power critical business functions but are notoriously difficult, time-consuming, and expensive to update or replace. The process typically involves painstaking manual efforts to understand undocumented [&amp;hellip;]】作者：Charath Ranganathan，CTO，CrowdB​​otics现代化的旧应用程序是当今企业面临的最艰巨的任务之一。这些系统经常在几十年前使用大型机上的COBOL，功率关键业务功能等技术建造，但众所周知，更新或更换的既艰难，耗时又昂贵。该过程通常涉及艰苦的手动努力，以了解无证件[…]</description>
+      <pubDate>Tue, 06 May 2025 09:15:41 +0000</pubDate>
     </item>
     <item>
-      <title>【Modernizing Project Files with AI: A Success Story from the .NET Team】使用AI：.NET团队的成功案例现代化项目文件</title>
-      <link>https://devblogs.microsoft.com/blog/modernizing-project-files-with-ai-a-success-story-from-the-dotnet-team</link>
-      <description>【At Microsoft, we are constantly exploring innovative ways to enhance our workflows, improve productivity, and ensure we have a secure supply chain that uses modern tools. One of our recent initiatives was to rebuild the .NET Framework build system by leveraging AI to automate the process. Here’s the story of how we successfully achieved this [&amp;hellip;]】在微软，我们一直在探索创新的方法来增强我们的工作流程，提高生产率并确保我们拥有使用现代工具的安全供应链。我们最近的举措之一是通过利用AI自动化流程来重建.NET框架构建系统。这是我们如何成功实现这一目标的故事[…]</description>
-      <pubDate>Thu, 01 May 2025 18:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Running RAG with ONNX Runtime GenAI for On-Prem Windows】使用onnx运行时genai运行抹布，用于本地窗口</title>
-      <link>https://devblogs.microsoft.com/ise/running-rag-onnxruntime-genai</link>
-      <description>【Exploring how to efficiently run a RAG pipeline with structured language models (SLMs) and guardrails on Windows, achieving inference under 5 seconds with ONNX Runtime GenAI.】探索如何使用结构化语言模型（SLM）和Windows上的护栏有效运行RAG管道，并使用ONNX Runtime Genai在5秒钟内进行推理。</description>
-      <pubDate>Fri, 02 May 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5】介绍Azure Devops ID令牌刷新和Terraform任务版本5</title>
-      <link>https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5</link>
-      <description>【We are excited to share some recent updates that improve the experience of using Workload identity federation (OpenID Connect) with Azure DevOps and Terraform on Microsoft Azure. Many working parts have come together to make this possible and we&amp;#8217;ll share those here. We are also very pleased to announce version 5 of the Microsoft DevLabs [&amp;hellip;]】我们很高兴分享一些最近的更新，以改善使用Azure DevOps和Microsoft Azure上的Azure DevOps和Terraform的工作量身份联合会（OpenID Connect）的经验。许多工作部件都聚集在一起，使这一切成为可能，我们将在这里分享。我们也很高兴宣布Microsoft DevLabs的第5版[…]</description>
-      <pubDate>Fri, 02 May 2025 08:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure AI Foundry extension for Visual Studio Code April 2025 Update】视觉工作室代码2025年4月更新的视觉工作室代码的Azure AI Foundry扩展</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-extension-for-visual-studio-code-april-2025-update</link>
-      <description>【Azure AI Foundry extension for Visual Studio Code April 2025 Update Azure AI Foundry is a trusted platform for designing, customizing, and managing AI applications, with a portal that enables secure data integration, model customization, and enterprise-grade governance. Earlier this month, we announced the public preview of the Azure AI Foundry extension. And today, the [&amp;hellip;]】Visual Studio代码的Azure AI Foundry扩展2025年4月更新Azure AI Foundry是一个可信赖的平台，用于设计，自定义和管理AI应用程序，并借助一个门户，该门户可启用安全的数据集成，模型自定义和企业级治理。本月初，我们宣布了Azure AI铸造扩展的公开预览。今天，[…]</description>
-      <pubDate>Thu, 01 May 2025 17:03:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【There’s a Linux File Explorer built into Visual Studio!?!】Visual Studio中内置有Linux文件资源管理器！？！</title>
-      <link>https://devblogs.microsoft.com/cppblog/theres-a-linux-file-explorer-built-into-visual-studio</link>
-      <description>【The Remote File Explorer in Visual Studio provides developers with a convenient way to browse, view, and edit files on remote machines—directly from within the IDE. It&amp;#8217;s a powerful tool for managing remote environments without leaving your development workflow. Scott Hanselman published a new YouTube video to his channel, taking us on the journey of [&amp;hellip;]】Visual Studio中的远程文件资源管理器为开发人员提供了一种方便的方式，可以从IDE内部直接浏览，查看和编辑文件。它是管理远程环境而不离开开发工作流程的强大工具。斯科特·汉塞尔曼（Scott Hanselman）向他的频道发布了一个新的YouTube视频，带我们进行了[…]的旅程。</description>
-      <pubDate>Thu, 01 May 2025 15:44:39 +0000</pubDate>
+      <title>【What were the intended uses of those icons in moricons.dll?】这些图标在moricons.dll中的预期用途是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250505-00/?p=111143</link>
+      <description>【Icons for old MS-DOS apps.】旧MS-DOS应用的图标。</description>
+      <pubDate>Mon, 05 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing the updated Teams AI Library and MCP support】宣布更新的团队AI库和MCP支持</title>
@@ -52,16 +46,22 @@
       <pubDate>Mon, 05 May 2025 17:00:57 +0000</pubDate>
     </item>
     <item>
-      <title>【Guest Blog: Orchestrating AI Agents with Semantic Kernel Plugins: A Technical Deep Dive】来宾博客：使用语义内核插件协调AI代理：技术深入潜水</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-orchestrating-ai-agents-with-semantic-kernel-plugins-a-technical-deep-dive</link>
-      <description>【Today we&amp;#8217;re excited to welcome Jarre Nejatyab as a guest blog to highlight a technical deep dive on orchestrating AI Agents with Semantic Kernel Plugins. In the rapidly evolving world of Large Language Models (LLMs), orchestrating specialized AI agents has become crucial for building sophisticated cognitive architectures capable of complex reasoning and task execution. While [&amp;hellip;]】今天，我们很高兴欢迎Jarre Nejatyab作为来宾博客，以突出有关使用语义内核插件协调AI代理的技术深入研究。在大型语言模型（LLM）迅速发展的世界中，精心策划专业的AI代理对于建立能够复杂的推理和任务执行的复杂认知体系结构变得至关重要。尽管 […]</description>
-      <pubDate>Fri, 02 May 2025 21:10:12 +0000</pubDate>
+      <title>【C++ Language Updates in MSVC in Visual Studio 2022 17.14】Visual Studio中的MSVC中的C ++语言更新2022 17.14</title>
+      <link>https://devblogs.microsoft.com/cppblog/c-language-updates-in-msvc-in-visual-studio-2022-17-14</link>
+      <description>【Introduction In this update, we continue the tradition of bucketing bugs into helpful categories for you all to filter through along with even more notes from the compiler team as to what, exactly, was fixed. This blog is also complemented by the recent Pure Virtual C++ pre-conference talk by RanDair Porter; so please check out [&amp;hellip;]】在此更新中，我们将继续将错误存储到有用的类别的传统中，以供大家过滤，以及编译器团队的更多笔记，以确切地解决什么。兰德尔·波特（Randair Porter）最近的纯虚拟C ++会议前演讲也补充了这个博客。所以请查看[…]</description>
+      <pubDate>Tue, 06 May 2025 15:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>【What were the intended uses of those icons in moricons.dll?】这些图标在moricons.dll中的预期用途是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250505-00/?p=111143</link>
-      <description>【Icons for old MS-DOS apps.】旧MS-DOS应用的图标。</description>
-      <pubDate>Mon, 05 May 2025 14:00:00 +0000</pubDate>
+      <title>【What were the MS-DOS programs that Windows used the progman.exe stock icons for?】Windows使用Progman.exe股票图标的MS-DOS程序是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250506-00/?p=111149</link>
+      <description>【Mostly generic-looking icons.】主要是通用的图标。</description>
+      <pubDate>Tue, 06 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Efficiently and Elegantly Modeling Embeddings in Azure SQL and SQL Server】在Azure SQL和SQL Server中有效，优雅地建模嵌入</title>
+      <link>https://devblogs.microsoft.com/azure-sql/efficiently-and-elegantly-modeling-embeddings-in-azure-sql-and-sql-server</link>
+      <description>【Storing and querying text embeddings in a database it might seem challenging, but with the right schema design, it&amp;#8217;s not only possible, it&amp;#8217;s powerful. Whether you’re building AI-powered search, semantic filtering, or recommendation features, embeddings, and thus vectors, are now a first-class data type. So how do you model them well inside a database like [&amp;hellip;]】存储和查询数据库中的文本嵌入方式似乎具有挑战性，但是有了正确的模式设计，它不仅有可能强大。无论您是构建AI驱动的搜索，语义过滤还是推荐功能，嵌入以及矢量现在都是一流的数据类型。因此，您如何在[…]之类的数据库中对其进行良好的建模。</description>
+      <pubDate>Tue, 06 May 2025 15:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
