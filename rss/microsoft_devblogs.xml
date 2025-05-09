@@ -4,52 +4,46 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【General Availability for Data API in vCore-based Azure Cosmos DB for MongoDB】基于Vcore的Azure Cosmos DB中数据API的一般可用性</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/general-availability-for-data-api-in-vcore-based-azure-cosmos-db-for-mongodb</link>
-      <description>【Title: General Availability for Data API in vCore-based Azure Cosmos DB for MongoDB We’re excited to announce the general availability of the Data API for vCore-based Azure Cosmos DB for MongoDB! Overview The Data API is a RESTful HTTPS interface that enables developers to interact with their MongoDB data hosted in vCore-based Azure Cosmos DB [&amp;hellip;]】标题：基于Vcore的Azure Cosmos DB中数据API的一般可用性，我们很高兴宣布MongoDB的基于VCore的Azure Cosmos DB的数据API的一般可用性！概述数据API是一个恢复的HTTPS接口，使开发人员能够与基于VCore的Azure Cosmos DB中托管的MongODB数据进行交互[…]</description>
-      <pubDate>Wed, 07 May 2025 14:00:09 +0000</pubDate>
+      <title>【Python in Visual Studio Code – May 2025 Release】Visual Studio代码中的Python  -  2025年5月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2025-release</link>
+      <description>【The May 2025 release includes updates in the Python Environments extension, a new color picker added by Pylance, branch coverage support, and more!】2025年5月的发布包括在Python环境扩展中的更新，由Pylance添加的新颜色选择器，分支覆盖范围支持等等！</description>
+      <pubDate>Thu, 08 May 2025 22:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Prepare your Office Add-in for the European Accessibility Act (EAA)】为《欧洲可访问性法》（EAA）准备办公室加载项</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/prepare-your-office-add-in-for-the-european-accessibility-act</link>
-      <description>【Starting June 28, 2025, the European Accessibility Act (EAA) takes effect, requiring all digital products and services offered to EU customers to meet comprehensive accessibility standards. If you&#39;re developing Office Add-ins, this may impact you. This blog explains what you need to know to ensure your Office Add-ins are compliant.】从2025年6月28日开始，《欧洲可及性法》（EAA）生效，要求提供给欧盟客户的所有数字产品和服务以符合全面的可访问性标准。如果您正在开发办公室加载项，这可能会影响您。该博客解释了您需要知道的知识，以确保您的办公室加载项合规。</description>
-      <pubDate>Wed, 07 May 2025 19:34:52 +0000</pubDate>
+      <title>【Announcing the General Availability of Managed Identities as Federated Identity Credentials in your Entra apps】在您的ENTRA应用中宣布托管身份作为联合身份证书的一般可用性</title>
+      <link>https://devblogs.microsoft.com/identity/access-cloud-resources-across-tenants-without-secrets-ga</link>
+      <description>【Announcing the GA of Managed Identities as Federated Identity Credentials for Microsoft Entra. Enhance security by replacing app secrets with managed identities, simplify setup, and enable seamless cross-tenant access to Entra-protected resources like Azure and Microsoft Graph.】宣布托管身份的GA作为Microsoft Entra的联合身份证书。通过用托管身份替换应用程序秘密，简化设置并启用对ENTRA保护资源（如Azure和Microsoft Graph）启用无缝的跨租户访问来增强安全性。</description>
+      <pubDate>Thu, 08 May 2025 13:23:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB with DiskANN Part 4: Stable Vector Search Recall with Streaming Data】Azure Cosmos DB，带DISKANN第4部分：稳定的矢量搜索召回与流数据</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-with-diskann-part-4-stable-vector-search-recall-with-streaming-data</link>
-      <description>【Vector search with Azure Cosmos DB  In Part 1 and Part 2 of this series, we explored vector search with Azure Cosmos DB and best practices for scaling it to 1 billion vector datasets while maintaining low query latency. In Part 3, we saw how we can create efficient sharded DiskANN indices for multi-tenant apps.  [&amp;hellip;]】在本系列的第1部分和第2部分中，使用Azure Cosmos DB进行矢量搜索，我们通过Azure Cosmos DB探索了矢量搜索，以及将其扩展到10亿个矢量数据集的最佳实践，同时保持低查询延迟。在第3部分中，我们看到了如何为多租户应用程序创建高效的碎片迪斯坎索引。  […]</description>
-      <pubDate>Wed, 07 May 2025 14:10:02 +0000</pubDate>
+      <title>【Fabric Mirroring for Azure Cosmos DB: Public Preview Refresh Now Live with New Features】Azure Cosmos DB的面料镜像：公共预览刷新现在具有新功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/fabric-mirroring-for-azure-cosmos-db-public-preview-refresh-now-live-with-new-features</link>
+      <description>【We’re thrilled to announce the latest refresh of Fabric Mirroring for Azure Cosmos DB, now available with several powerful new features that enhance your data analytics infrastructure. This update significantly improves the experience, making it easier than ever to replicate your Azure Cosmos DB data into OneLake in Microsoft Fabric—giving you more control and flexibility [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB的最新织物镜像镜像，现在提供了一些强大的新功能，可增强您的数据分析基础架构。此更新大大改善了体验，使您比以往任何时候都更容易将您的Azure Cosmos DB数据复制到Microsoft Fabric中的OneLake中，从而使您更加控制和灵活性[…]</description>
+      <pubDate>Thu, 08 May 2025 14:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Nested App Authentication: Now generally available across Microsoft 365】嵌套应用程序身份验证：现在通常在Microsoft 365上找到</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/nested-app-authentication-now-generally-available-across-microsoft-365</link>
-      <description>【Get started with Nested App Authentication, a modern protocol for simplifying authentication for Personal Tab Teams apps that run across Microsoft 365.】开始使用Nested App Authentication，这是一种现代协议，用于简化Microsoft 365运行的个人选项卡团队的身份验证。</description>
-      <pubDate>Tue, 06 May 2025 17:30:13 +0000</pubDate>
+      <title>【C# 14 – Exploring extension members】C＃14  - 探索扩展成员</title>
+      <link>https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members</link>
+      <description>【C# 14 introduces extension members. See how the `extension` syntax offers flexibility for extension authors and continuity for developers using extensions】C＃14介绍扩展成员。查看“扩展”语法如何为扩展作者提供灵活性和使用扩展的开发人员的连续性</description>
+      <pubDate>Thu, 08 May 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.24.3-1 and 1.23.9-1 Microsoft builds now available】GO 1.24.3-1和1.23.9-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-3-1-and-1-23-9-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download.】现在可以下载Microsoft Go Build的新版本。</description>
-      <pubDate>Wed, 07 May 2025 16:32:42 +0000</pubDate>
+      <title>【Why doesn’t Clipboard History capture rapid changes to clipboard contents?】剪贴板历史记录为什么不捕获剪贴板内容的快速更改？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250508-00/?p=111162</link>
+      <description>【Clipboard history operates asynchronously, so you are changing it before it can respond to the changes.】剪贴板历史记录不同步，因此您正在对其进行更改，然后才能响应更改。</description>
+      <pubDate>Thu, 08 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Efficiently and Elegantly Modeling Embeddings in Azure SQL and SQL Server】在Azure SQL和SQL Server中有效，优雅地建模嵌入</title>
-      <link>https://devblogs.microsoft.com/azure-sql/efficiently-and-elegantly-modeling-embeddings-in-azure-sql-and-sql-server</link>
-      <description>【Storing and querying text embeddings in a database it might seem challenging, but with the right schema design, it&amp;#8217;s not only possible, it&amp;#8217;s powerful. Whether you’re building AI-powered search, semantic filtering, or recommendation features, embeddings, and thus vectors, are now a first-class data type. So how do you model them well inside a database like [&amp;hellip;]】存储和查询数据库中的文本嵌入方式似乎具有挑战性，但是有了正确的模式设计，它不仅有可能强大。无论您是构建AI驱动的搜索，语义过滤还是推荐功能，嵌入以及矢量现在都是一流的数据类型。因此，您如何在[…]之类的数据库中对其进行良好的建模。</description>
-      <pubDate>Tue, 06 May 2025 15:02:57 +0000</pubDate>
+      <title>【Avoid T-SQL anti-patterns with the free T-SQL analysis tool】使用免费的T-SQL分析工具避免使用T-SQL抗模式</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-analysis-dotnet-tool</link>
+      <description>【T-SQL Analyzer is a free, open-source, cross platform command line tool for identifying, and reporting the presence of anti-patterns and design issues in SQL Server T-SQL scripts. As a database developer, you can catch any potential bad practices and design problems very early in the project process &amp;#8211; this ensures a frictionless path to deployment [&amp;hellip;]】T-SQL Analyzer是一种免费的开源，跨平台命令行工具，用于识别并报告SQL Server T-SQL脚本中的反平版和设计问题的存在。作为数据库开发人员，您可以在项目过程的早期很早就发现任何潜在的不良实践和设计问题 - 这确保了无摩擦的部署途径[…]</description>
+      <pubDate>Thu, 08 May 2025 15:32:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Why we built our startup in C#】为什么我们在C＃中构建了初创企业</title>
-      <link>https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp</link>
-      <description>【Tracebit built their B2B SaaS security product using C#.】TraceBit使用C＃构建了其B2B SaaS安全产品。</description>
-      <pubDate>Wed, 07 May 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fedora Linux is now an official WSL distro】Fedora Linux现在是官方WSL发行版</title>
-      <link>https://devblogs.microsoft.com/commandline/fedora-linux-is-now-an-official-wsl-distro</link>
-      <description>【We’re pleased to announce that one of the latest additions to the list of official WSL distros is Fedora Linux! The Fedora Project has taken advantage of WSL’s new tar-based architecture to produce WSL images beginning with Fedora 42. Try it out To install it, run wsl –-install FedoraLinux-42and then launch it with wsl –d [&amp;hellip;]】我们很高兴地宣布，官方WSL发行版列表中的最新添加是Fedora Linux！ Fedora Project已利用WSL的新基于TAR的体系结构来生产以Fedora 42开头的WSL图像。尝试安装它，运行WSL  - 安装Fedoralinux-42，然后使用WSL –D […]启动它。</description>
-      <pubDate>Tue, 06 May 2025 16:00:05 +0000</pubDate>
+      <title>【A Developer’s Guide to Build 2025】开发人员的构建指南2025</title>
+      <link>https://devblogs.microsoft.com/blog/a-developers-guide-to-build-2025</link>
+      <description>【Microsoft Build 2025 is just around the corner (May 19-22), and we&amp;#8217;re fired up about all the developer-focused content we&amp;#8217;ve got lined up for you! Whether you&amp;#8217;re a Visual Studio power user, a VS Code fan, all about Azure, looking for the newest in .NET, or just pumped about AI in development, this year&amp;#8217;s Build is [&amp;hellip;]】Microsoft Build 2025即将临近（5月19日至22日），我们对所有以开发人员为中心的内容为您为您准备了！无论您是视觉工作室的电源用户，VS代码迷，所有关于Azure，正在寻找最新的.NET中，还是只是开发AI，今年的构建都是[…]</description>
+      <pubDate>Thu, 08 May 2025 18:00:22 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Developer CLI (azd) – May 2025】Azure开发人员CLI（AZD） -  2025年5月</title>
@@ -58,10 +52,16 @@
       <pubDate>Wed, 07 May 2025 17:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>【What were the MS-DOS programs that the moricons.dll icons were intended for?】Moricons.dll图标的意图是什么MS-DOS程序？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157</link>
-      <description>【Tallying them up.】将它们付诸实践。</description>
-      <pubDate>Wed, 07 May 2025 14:00:00 +0000</pubDate>
+      <title>【Exchange Web Services code analyzer and usage report】Exchange Web服务代码分析仪和用法报告</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/exchange-web-services-code-analyzer-and-usage-report</link>
+      <description>【We are less than 18 months away from the retirement of Exchange Web Services. Start planning your migration from EWS to Microsoft Graph.】我们距交易所网络服务退休不到18个月。开始规划您从EWS到Microsoft Graph的迁移。</description>
+      <pubDate>Thu, 08 May 2025 16:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Integration testing with Dapr and Testcontainers】与DAPR和TestContainers的集成测试</title>
+      <link>https://devblogs.microsoft.com/ise/external-data-handling-learnings</link>
+      <description>【This blog post discusses setting up a Pytest integration test framework for a system using Dapr and Testcontainers. This framework was initially setup for a customer to suit their needs and it has been extracted into a sample project to provide a starting point.】这篇博客文章讨论了使用DAPR和TestContainers为系统设置Pytest集成测试框架。该框架最初是为客户设置的，以适应其需求，并将其提取到示例项目中以提供起点。</description>
+      <pubDate>Thu, 08 May 2025 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
