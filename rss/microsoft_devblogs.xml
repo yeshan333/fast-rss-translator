@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Python in Visual Studio Code – May 2025 Release】Visual Studio代码中的Python  -  2025年5月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2025-release</link>
-      <description>【The May 2025 release includes updates in the Python Environments extension, a new color picker added by Pylance, branch coverage support, and more!】2025年5月的发布包括在Python环境扩展中的更新，由Pylance添加的新颜色选择器，分支覆盖范围支持等等！</description>
-      <pubDate>Thu, 08 May 2025 22:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the General Availability of Managed Identities as Federated Identity Credentials in your Entra apps】在您的ENTRA应用中宣布托管身份作为联合身份证书的一般可用性</title>
-      <link>https://devblogs.microsoft.com/identity/access-cloud-resources-across-tenants-without-secrets-ga</link>
-      <description>【Announcing the GA of Managed Identities as Federated Identity Credentials for Microsoft Entra. Enhance security by replacing app secrets with managed identities, simplify setup, and enable seamless cross-tenant access to Entra-protected resources like Azure and Microsoft Graph.】宣布托管身份的GA作为Microsoft Entra的联合身份证书。通过用托管身份替换应用程序秘密，简化设置并启用对ENTRA保护资源（如Azure和Microsoft Graph）启用无缝的跨租户访问来增强安全性。</description>
-      <pubDate>Thu, 08 May 2025 13:23:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fabric Mirroring for Azure Cosmos DB: Public Preview Refresh Now Live with New Features】Azure Cosmos DB的面料镜像：公共预览刷新现在具有新功能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/fabric-mirroring-for-azure-cosmos-db-public-preview-refresh-now-live-with-new-features</link>
-      <description>【We’re thrilled to announce the latest refresh of Fabric Mirroring for Azure Cosmos DB, now available with several powerful new features that enhance your data analytics infrastructure. This update significantly improves the experience, making it easier than ever to replicate your Azure Cosmos DB data into OneLake in Microsoft Fabric—giving you more control and flexibility [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB的最新织物镜像镜像，现在提供了一些强大的新功能，可增强您的数据分析基础架构。此更新大大改善了体验，使您比以往任何时候都更容易将您的Azure Cosmos DB数据复制到Microsoft Fabric中的OneLake中，从而使您更加控制和灵活性[…]</description>
-      <pubDate>Thu, 08 May 2025 14:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C# 14 – Exploring extension members】C＃14  - 探索扩展成员</title>
-      <link>https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members</link>
-      <description>【C# 14 introduces extension members. See how the `extension` syntax offers flexibility for extension authors and continuity for developers using extensions】C＃14介绍扩展成员。查看“扩展”语法如何为扩展作者提供灵活性和使用扩展的开发人员的连续性</description>
-      <pubDate>Thu, 08 May 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why doesn’t Clipboard History capture rapid changes to clipboard contents?】剪贴板历史记录为什么不捕获剪贴板内容的快速更改？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250508-00/?p=111162</link>
-      <description>【Clipboard history operates asynchronously, so you are changing it before it can respond to the changes.】剪贴板历史记录不同步，因此您正在对其进行更改，然后才能响应更改。</description>
-      <pubDate>Thu, 08 May 2025 14:00:00 +0000</pubDate>
+      <title>【May 2025: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2025年5月：查看最新的Microsoft Entra密钥功能发布，公告和更新</title>
+      <link>https://devblogs.microsoft.com/identity/eng-connect-feb-25-2</link>
+      <description>【Welcome to the May edition of our monthly newsletter, summarizing the latest news and developments in the exciting, ever-evolving world of Microsoft Entra.】欢迎来到我们每月新闻通讯的5月版，总结了令人兴奋的，不断发展的微软Entra世界中的最新消息和发展。</description>
+      <pubDate>Fri, 09 May 2025 15:05:08 +0000</pubDate>
     </item>
     <item>
       <title>【Avoid T-SQL anti-patterns with the free T-SQL analysis tool】使用免费的T-SQL分析工具避免使用T-SQL抗模式</title>
@@ -46,10 +22,28 @@
       <pubDate>Thu, 08 May 2025 18:00:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd) – May 2025】Azure开发人员CLI（AZD） -  2025年5月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-may-2025</link>
-      <description>【This post announces the May release of the Azure Developer CLI (`azd`).】这篇文章宣布了Azure开发人员CLI（AZD&#39;）的可能发布。</description>
-      <pubDate>Wed, 07 May 2025 17:30:53 +0000</pubDate>
+      <title>【Python in Visual Studio Code – May 2025 Release】Visual Studio代码中的Python  -  2025年5月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2025-release</link>
+      <description>【The May 2025 release includes updates in the Python Environments extension, a new color picker added by Pylance, branch coverage support, and more!】2025年5月的发布包括在Python环境扩展中的更新，由Pylance添加的新颜色选择器，分支覆盖范围支持等等！</description>
+      <pubDate>Thu, 08 May 2025 22:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Fabric Mirroring for Azure Cosmos DB: Public Preview Refresh Now Live with New Features】Azure Cosmos DB的面料镜像：公共预览刷新现在具有新功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/fabric-mirroring-for-azure-cosmos-db-public-preview-refresh-now-live-with-new-features</link>
+      <description>【We’re thrilled to announce the latest refresh of Fabric Mirroring for Azure Cosmos DB, now available with several powerful new features that enhance your data analytics infrastructure. This update significantly improves the experience, making it easier than ever to replicate your Azure Cosmos DB data into OneLake in Microsoft Fabric—giving you more control and flexibility [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB的最新织物镜像镜像，现在提供了一些强大的新功能，可增强您的数据分析基础架构。此更新大大改善了体验，使您比以往任何时候都更容易将您的Azure Cosmos DB数据复制到Microsoft Fabric中的OneLake中，从而使您更加控制和灵活性[…]</description>
+      <pubDate>Thu, 08 May 2025 14:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Office Is Modernizing Their App Suite’s UI using Windows App SDK and React Native】Office如何使用Windows App SDK现代化其应用程序套件的UI并进行反应本地</title>
+      <link>https://devblogs.microsoft.com/react-native/2025-05-09-office-modernize</link>
+      <description>【An inside look at how Office has modernized their UI with WinAppSDK and React Native.】内部查看了办公室如何使用Winappsdk进行了现代化的UI现代化，并对本地进行了反应。</description>
+      <pubDate>Fri, 09 May 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2505.09 – Revamped UX, Improved Usability, and Many New Features】PIX 2505.09  - 修改UX，提高可用性和许多新功能</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2505-09</link>
+      <description>【Today we released PIX on Windows version 2505.09, which can be downloaded here. Since our preview announcement at GDC, we have been working hard to deliver the changes we promised and more. Today’s release includes many new improvements to PIX, including big overall changes and changes specific to GPU Captures and Timing Captures. Other improvements, [&amp;hellip;]】今天，我们在Windows版本2505.09上发布了PIX，可以在此处下载。自从我们在GDC的预览公告以来，我们一直在努力提供我们承诺的更改以及更多的变化。今天的发布包括对PIX的许多新改进，包括大量的整体变化以及GPU捕获和时机捕获的特定变化。其他改进，[…]</description>
+      <pubDate>Fri, 09 May 2025 13:05:36 +0000</pubDate>
     </item>
     <item>
       <title>【Exchange Web Services code analyzer and usage report】Exchange Web服务代码分析仪和用法报告</title>
@@ -58,10 +52,16 @@
       <pubDate>Thu, 08 May 2025 16:44:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Integration testing with Dapr and Testcontainers】与DAPR和TestContainers的集成测试</title>
-      <link>https://devblogs.microsoft.com/ise/external-data-handling-learnings</link>
-      <description>【This blog post discusses setting up a Pytest integration test framework for a system using Dapr and Testcontainers. This framework was initially setup for a customer to suit their needs and it has been extracted into a sample project to provide a starting point.】这篇博客文章讨论了使用DAPR和TestContainers为系统设置Pytest集成测试框架。该框架最初是为客户设置的，以适应其需求，并将其提取到示例项目中以提供起点。</description>
-      <pubDate>Thu, 08 May 2025 07:00:00 +0000</pubDate>
+      <title>【How can I wait for Clipboard History to recognize a clipboard change before I change it again?】在我再次更改之前，如何等待剪贴板历史记录识别剪贴板更改？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250509-00/?p=111169</link>
+      <description>【Listen for the change event.】听更改事件。</description>
+      <pubDate>Fri, 09 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C# 14 – Exploring extension members】C＃14  - 探索扩展成员</title>
+      <link>https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members</link>
+      <description>【C# 14 introduces extension members. See how the `extension` syntax offers flexibility for extension authors and continuity for developers using extensions】C＃14介绍扩展成员。查看“扩展”语法如何为扩展作者提供灵活性和使用扩展的开发人员的连续性</description>
+      <pubDate>Thu, 08 May 2025 18:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
