@@ -4,10 +4,22 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #232: React Router, Next.js, Radix, Vite, MCP, Storybook | Entreprise Framework, Shopify, Brownfield, WebGPU, AI, Release-It, Expo | Node.js, Async Svelte, Compile Hints, View Transitions】本周在React＃232中：React Router，Next.js，Radix，Vite，MCP，Storybook | Entreprise Framework，Shopify，Brownfield，WebGPU，AI，Release-IT，Expo | node.js，异步svelte，编译提示，查看过渡</title>
+      <link>https://thisweekinreact.com/newsletter/232</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #233: RSC, Next.js, Compiler, Unhead, Shadcn, Relay, Mantine | Expo, WebGPU, Skia, Apple fees, Reanimated, Fragment Refs | Node.js, TS, Prisma, Deno, GSAP】本周在React＃233：RSC，Next.js，编译器，Unhead，Shadcn，Relay，Mantine |博览会，webgpu，skia，苹果费，复活，片段refs | Node.js，TS，Prisma，Deno，GSAP</title>
       <link>https://thisweekinreact.com/newsletter/233</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #231: React Labs, Compiler, React Router, Next.js, TanStack Query, c15t, RTK, Base UI | Legend List, FlashList, Versioning, Metro, ExecuTorch, Brownfield, Expo Router | TC39, Surveys, Rspack, tsdown】本周在React＃231中：React Labs，编译器，React Router，Next.js，Tanstack查询，C15T，RTK，base UI |传奇列表，闪存列表，版本控制，地铁，executorch，Brownfield，Expo Router | TC39，调查，RSPACK，TSDOWN</title>
+      <link>https://thisweekinreact.com/newsletter/231</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #229: React Conf, React Router, Next.js Adapters, Redwood, Apollo, Fastify, Vite, Waku | RN v0.79, Deep Imports, Builder Bob, Fingerprinting | TC39, Tailwind, Rspack, Rstest, Turborepo, Bun】本周在React＃229：React Conf，React Router，Next.js适配器，Redwood，Apollo，Fastify，Vite，Waku | RN V0.79，深入进口，建造者鲍勃，指纹| TC39，尾风，rspack，rstest，turborepo，bun</title>
@@ -20,18 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/230</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #231: React Labs, Compiler, React Router, Next.js, TanStack Query, c15t, RTK, Base UI | Legend List, FlashList, Versioning, Metro, ExecuTorch, Brownfield, Expo Router | TC39, Surveys, Rspack, tsdown】本周在React＃231中：React Labs，编译器，React Router，Next.js，Tanstack查询，C15T，RTK，base UI |传奇列表，闪存列表，版本控制，地铁，executorch，Brownfield，Expo Router | TC39，调查，RSPACK，TSDOWN</title>
-      <link>https://thisweekinreact.com/newsletter/231</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #232: React Router, Next.js, Radix, Vite, MCP, Storybook | Entreprise Framework, Shopify, Brownfield, WebGPU, AI, Release-It, Expo | Node.js, Async Svelte, Compile Hints, View Transitions】本周在React＃232中：React Router，Next.js，Radix，Vite，MCP，Storybook | Entreprise Framework，Shopify，Brownfield，WebGPU，AI，Release-IT，Expo | node.js，异步svelte，编译提示，查看过渡</title>
-      <link>https://thisweekinreact.com/newsletter/232</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

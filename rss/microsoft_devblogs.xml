@@ -10,28 +10,16 @@
       <pubDate>Thu, 08 May 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Fabric Mirroring for Azure Cosmos DB: Public Preview Refresh Now Live with New Features】Azure Cosmos DB的面料镜像：公共预览刷新现在具有新功能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/fabric-mirroring-for-azure-cosmos-db-public-preview-refresh-now-live-with-new-features</link>
-      <description>【We’re thrilled to announce the latest refresh of Fabric Mirroring for Azure Cosmos DB, now available with several powerful new features that enhance your data analytics infrastructure. This update significantly improves the experience, making it easier than ever to replicate your Azure Cosmos DB data into OneLake in Microsoft Fabric—giving you more control and flexibility [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB的最新织物镜像镜像，现在提供了一些强大的新功能，可增强您的数据分析基础架构。此更新大大改善了体验，使您比以往任何时候都更容易将您的Azure Cosmos DB数据复制到Microsoft Fabric中的OneLake中，从而使您更加控制和灵活性[…]</description>
-      <pubDate>Thu, 08 May 2025 14:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code – May 2025 Release】Visual Studio代码中的Python  -  2025年5月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2025-release</link>
-      <description>【The May 2025 release includes updates in the Python Environments extension, a new color picker added by Pylance, branch coverage support, and more!】2025年5月的发布包括在Python环境扩展中的更新，由Pylance添加的新颜色选择器，分支覆盖范围支持等等！</description>
-      <pubDate>Thu, 08 May 2025 22:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exchange Web Services code analyzer and usage report】Exchange Web服务代码分析仪和用法报告</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/exchange-web-services-code-analyzer-and-usage-report</link>
-      <description>【We are less than 18 months away from the retirement of Exchange Web Services. Start planning your migration from EWS to Microsoft Graph.】我们距交易所网络服务退休不到18个月。开始规划您从EWS到Microsoft Graph的迁移。</description>
-      <pubDate>Thu, 08 May 2025 16:44:22 +0000</pubDate>
-    </item>
-    <item>
       <title>【May 2025: A look at the latest Microsoft Entra key feature releases, announcements, and updates】2025年5月：查看最新的Microsoft Entra密钥功能发布，公告和更新</title>
       <link>https://devblogs.microsoft.com/identity/eng-connect-feb-25-2</link>
       <description>【Welcome to the May edition of our monthly newsletter, summarizing the latest news and developments in the exciting, ever-evolving world of Microsoft Entra.】欢迎来到我们每月新闻通讯的5月版，总结了令人兴奋的，不断发展的微软Entra世界中的最新消息和发展。</description>
       <pubDate>Fri, 09 May 2025 15:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Developer’s Guide to Build 2025】开发人员的构建指南2025</title>
+      <link>https://devblogs.microsoft.com/blog/a-developers-guide-to-build-2025</link>
+      <description>【Microsoft Build 2025 is just around the corner (May 19-22), and we&amp;#8217;re fired up about all the developer-focused content we&amp;#8217;ve got lined up for you! Whether you&amp;#8217;re a Visual Studio power user, a VS Code fan, all about Azure, looking for the newest in .NET, or just pumped about AI in development, this year&amp;#8217;s Build is [&amp;hellip;]】Microsoft Build 2025即将临近（5月19日至22日），我们对所有以开发人员为中心的内容为您为您准备了！无论您是视觉工作室的电源用户，VS代码迷，所有关于Azure，正在寻找最新的.NET中，还是只是开发AI，今年的构建都是[…]</description>
+      <pubDate>Thu, 08 May 2025 18:00:22 +0000</pubDate>
     </item>
     <item>
       <title>【How Office Is Modernizing Their App Suite’s UI using Windows App SDK and React Native】Office如何使用Windows App SDK现代化其应用程序套件的UI并进行反应本地</title>
@@ -40,10 +28,10 @@
       <pubDate>Fri, 09 May 2025 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I wait for Clipboard History to recognize a clipboard change before I change it again?】在我再次更改之前，如何等待剪贴板历史记录识别剪贴板更改？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250509-00/?p=111169</link>
-      <description>【Listen for the change event.】听更改事件。</description>
-      <pubDate>Fri, 09 May 2025 14:00:00 +0000</pubDate>
+      <title>【Exchange Web Services code analyzer and usage report】Exchange Web服务代码分析仪和用法报告</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/exchange-web-services-code-analyzer-and-usage-report</link>
+      <description>【We are less than 18 months away from the retirement of Exchange Web Services. Start planning your migration from EWS to Microsoft Graph.】我们距交易所网络服务退休不到18个月。开始规划您从EWS到Microsoft Graph的迁移。</description>
+      <pubDate>Thu, 08 May 2025 16:44:22 +0000</pubDate>
     </item>
     <item>
       <title>【PIX 2505.09 – Revamped UX, Improved Usability, and Many New Features】PIX 2505.09  - 修改UX，提高可用性和许多新功能</title>
@@ -52,16 +40,28 @@
       <pubDate>Fri, 09 May 2025 13:05:36 +0000</pubDate>
     </item>
     <item>
+      <title>【Python in Visual Studio Code – May 2025 Release】Visual Studio代码中的Python  -  2025年5月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2025-release</link>
+      <description>【The May 2025 release includes updates in the Python Environments extension, a new color picker added by Pylance, branch coverage support, and more!】2025年5月的发布包括在Python环境扩展中的更新，由Pylance添加的新颜色选择器，分支覆盖范围支持等等！</description>
+      <pubDate>Thu, 08 May 2025 22:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I wait for Clipboard History to recognize a clipboard change before I change it again?】在我再次更改之前，如何等待剪贴板历史记录识别剪贴板更改？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250509-00/?p=111169</link>
+      <description>【Listen for the change event.】听更改事件。</description>
+      <pubDate>Fri, 09 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Avoid T-SQL anti-patterns with the free T-SQL analysis tool】使用免费的T-SQL分析工具避免使用T-SQL抗模式</title>
       <link>https://devblogs.microsoft.com/azure-sql/sql-analysis-dotnet-tool</link>
       <description>【T-SQL Analyzer is a free, open-source, cross platform command line tool for identifying, and reporting the presence of anti-patterns and design issues in SQL Server T-SQL scripts. As a database developer, you can catch any potential bad practices and design problems very early in the project process &amp;#8211; this ensures a frictionless path to deployment [&amp;hellip;]】T-SQL Analyzer是一种免费的开源，跨平台命令行工具，用于识别并报告SQL Server T-SQL脚本中的反平版和设计问题的存在。作为数据库开发人员，您可以在项目过程的早期很早就发现任何潜在的不良实践和设计问题 - 这确保了无摩擦的部署途径[…]</description>
       <pubDate>Thu, 08 May 2025 15:32:24 +0000</pubDate>
     </item>
     <item>
-      <title>【A Developer’s Guide to Build 2025】开发人员的构建指南2025</title>
-      <link>https://devblogs.microsoft.com/blog/a-developers-guide-to-build-2025</link>
-      <description>【Microsoft Build 2025 is just around the corner (May 19-22), and we&amp;#8217;re fired up about all the developer-focused content we&amp;#8217;ve got lined up for you! Whether you&amp;#8217;re a Visual Studio power user, a VS Code fan, all about Azure, looking for the newest in .NET, or just pumped about AI in development, this year&amp;#8217;s Build is [&amp;hellip;]】Microsoft Build 2025即将临近（5月19日至22日），我们对所有以开发人员为中心的内容为您为您准备了！无论您是视觉工作室的电源用户，VS代码迷，所有关于Azure，正在寻找最新的.NET中，还是只是开发AI，今年的构建都是[…]</description>
-      <pubDate>Thu, 08 May 2025 18:00:22 +0000</pubDate>
+      <title>【Fabric Mirroring for Azure Cosmos DB: Public Preview Refresh Now Live with New Features】Azure Cosmos DB的面料镜像：公共预览刷新现在具有新功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/fabric-mirroring-for-azure-cosmos-db-public-preview-refresh-now-live-with-new-features</link>
+      <description>【We’re thrilled to announce the latest refresh of Fabric Mirroring for Azure Cosmos DB, now available with several powerful new features that enhance your data analytics infrastructure. This update significantly improves the experience, making it easier than ever to replicate your Azure Cosmos DB data into OneLake in Microsoft Fabric—giving you more control and flexibility [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB的最新织物镜像镜像，现在提供了一些强大的新功能，可增强您的数据分析基础架构。此更新大大改善了体验，使您比以往任何时候都更容易将您的Azure Cosmos DB数据复制到Microsoft Fabric中的OneLake中，从而使您更加控制和灵活性[…]</description>
+      <pubDate>Thu, 08 May 2025 14:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
