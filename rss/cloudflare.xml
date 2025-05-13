@@ -10,10 +10,10 @@
       <pubDate>Mon, 28 Apr 2025 21:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why I joined Cloudflare: to build world-class partnerships in EMEA 】为什么我加入CloudFlare：在EMEA建立世界一流的合作伙伴关系</title>
-      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-to-build-world-class-partnerships-in-emea/</link>
-      <description>【 The EMEA region is a patchwork of diverse markets, industries, and regulatory environments, and it demands a partner-centric approach. That’s why I joined Cloudflare as VP of EMEA Partnerships. 】EMEA地区是各种市场，行业和监管环境的拼凑而成，它需要以合作伙伴为中心的方法。这就是为什么我加入CloudFlare担任EMEA合作伙伴关系副总裁。</description>
-      <pubDate>Tue, 15 Apr 2025 23:00:00 +0000</pubDate>
+      <title>【Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report】由2050万个DDOS攻击的目标，同比增长358％：Cloudflare的2025 Q1 DDOS威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/</link>
+      <description>【 DDoS attacks are surging. In 2025 Q1, Cloudflare blocked +20M attacks (a 358% YoY spike) along with 5.6 Tbps and 4.8 Bpps record-breaking attacks. 】DDOS攻击正在激增。在2025年第1季度，Cloudflare与5.6 TBP和4.8 BPP的创纪录攻击相同，阻塞了 +20m攻击（358％的尖峰）。</description>
+      <pubDate>Sun, 27 Apr 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Bringing streamable HTTP transport and Python language support to MCP servers】将流媒体的HTTP传输和Python语言支持带到MCP服务器</title>
@@ -22,16 +22,10 @@
       <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Thirteen new MCP servers from Cloudflare you can use today】CloudFlare的13台新的MCP服务器，您今天可以使用</title>
-      <link>https://blog.cloudflare.com/thirteen-new-mcp-servers-from-cloudflare/</link>
-      <description>【 You can now connect to Cloudflare&#39;s first publicly available remote Model Context Protocol (MCP) servers from any MCP client that supports remote servers.  】现在，您可以从任何支持远程服务器的MCP客户端中连接到CloudFlare的第一个公开可用的远程模型上下文协议（MCP）服务器。</description>
-      <pubDate>Thu, 01 May 2025 13:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【QUIC restarts, slow problems: udpgrm to the rescue】Quic重新开始，缓慢的问题：UDPGRM进行营救</title>
-      <link>https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/</link>
-      <description>【 udpgrm is a lightweight daemon for graceful restarts of UDP servers. It leverages SO_REUSEPORT and eBPF to route new and existing flows to the correct server instance. 】UDPGRM是一个轻巧的守护程序，用于优雅的UDP服务器。它利用SO_REUSEPORT和EBPF将新的和现有的流程路由到正确的服务器实例。</description>
-      <pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+      <title>【New year, no shutdowns: the Q1 2025 Internet disruption summary】新年，没有关闭：Q1 2025 Internet中断摘要</title>
+      <link>https://blog.cloudflare.com/q1-2025-internet-disruption-summary/</link>
+      <description>【 In Q1 2025, we observed Internet disruptions around the world caused by cable damage, power outages, natural disasters, fire, a cyberattack, and technical problems. 】在2025年第1季度，我们观察到由电缆损坏，停电，自然灾害，火灾，网络攻击和技术问题引起的世界各地的互联网中断。</description>
+      <pubDate>Tue, 22 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【MCP Demo Day: How 10 leading AI companies built MCP servers on Cloudflare】MCP演示日：有10家领先的AI公司如何在Cloudflare上构建MCP服务器</title>
@@ -40,16 +34,22 @@
       <pubDate>Thu, 01 May 2025 13:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【First-party tags in seconds: Cloudflare integrates Google tag gateway for advertisers 】秒内的第一方标签：CloudFlare集成了广告客户的Google标签网关</title>
-      <link>https://blog.cloudflare.com/google-tag-gateway-for-advertisers/</link>
-      <description>【 Cloudflare introduces a one-click integration with Google tag gateway for advertisers. 】CloudFlare与Google Tag Gateway为广告客户提供了一键集成。</description>
-      <pubDate>Thu, 08 May 2025 18:15:00 +0000</pubDate>
+      <title>【QUIC restarts, slow problems: udpgrm to the rescue】Quic重新开始，缓慢的问题：UDPGRM进行营救</title>
+      <link>https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/</link>
+      <description>【 udpgrm is a lightweight daemon for graceful restarts of UDP servers. It leverages SO_REUSEPORT and eBPF to route new and existing flows to the correct server instance. 】UDPGRM是一个轻巧的守护程序，用于优雅的UDP服务器。它利用SO_REUSEPORT和EBPF将新的和现有的流程路由到正确的服务器实例。</description>
+      <pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New year, no shutdowns: the Q1 2025 Internet disruption summary】新年，没有关闭：Q1 2025 Internet中断摘要</title>
-      <link>https://blog.cloudflare.com/q1-2025-internet-disruption-summary/</link>
-      <description>【 In Q1 2025, we observed Internet disruptions around the world caused by cable damage, power outages, natural disasters, fire, a cyberattack, and technical problems. 】在2025年第1季度，我们观察到由电缆损坏，停电，自然灾害，火灾，网络攻击和技术问题引起的世界各地的互联网中断。</description>
-      <pubDate>Tue, 22 Apr 2025 13:00:00 +0000</pubDate>
+      <title>【Thirteen new MCP servers from Cloudflare you can use today】CloudFlare的13台新的MCP服务器，您今天可以使用</title>
+      <link>https://blog.cloudflare.com/thirteen-new-mcp-servers-from-cloudflare/</link>
+      <description>【 You can now connect to Cloudflare&#39;s first publicly available remote Model Context Protocol (MCP) servers from any MCP client that supports remote servers.  】现在，您可以从任何支持远程服务器的MCP客户端中连接到CloudFlare的第一个公开可用的远程模型上下文协议（MCP）服务器。</description>
+      <pubDate>Thu, 01 May 2025 13:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why I joined Cloudflare: to build world-class partnerships in EMEA 】为什么我加入CloudFlare：在EMEA建立世界一流的合作伙伴关系</title>
+      <link>https://blog.cloudflare.com/why-i-joined-cloudflare-to-build-world-class-partnerships-in-emea/</link>
+      <description>【 The EMEA region is a patchwork of diverse markets, industries, and regulatory environments, and it demands a partner-centric approach. That’s why I joined Cloudflare as VP of EMEA Partnerships. 】EMEA地区是各种市场，行业和监管环境的拼凑而成，它需要以合作伙伴为中心的方法。这就是为什么我加入CloudFlare担任EMEA合作伙伴关系副总裁。</description>
+      <pubDate>Tue, 15 Apr 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Scaling with safety: Cloudflare&#39;s approach to global service health metrics and software releases】安全扩展：CloudFlare的全球服务健康指标和软件发布方法</title>
@@ -58,10 +58,10 @@
       <pubDate>Mon, 05 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report】由2050万个DDOS攻击的目标，同比增长358％：Cloudflare的2025 Q1 DDOS威胁报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/</link>
-      <description>【 DDoS attacks are surging. In 2025 Q1, Cloudflare blocked +20M attacks (a 358% YoY spike) along with 5.6 Tbps and 4.8 Bpps record-breaking attacks. 】DDOS攻击正在激增。在2025年第1季度，Cloudflare与5.6 TBP和4.8 BPP的创纪录攻击相同，阻塞了 +20m攻击（358％的尖峰）。</description>
-      <pubDate>Sun, 27 Apr 2025 23:00:00 +0000</pubDate>
+      <title>【First-party tags in seconds: Cloudflare integrates Google tag gateway for advertisers 】秒内的第一方标签：CloudFlare集成了广告客户的Google标签网关</title>
+      <link>https://blog.cloudflare.com/google-tag-gateway-for-advertisers/</link>
+      <description>【 Cloudflare introduces a one-click integration with Google tag gateway for advertisers. 】CloudFlare与Google Tag Gateway为广告客户提供了一键集成。</description>
+      <pubDate>Thu, 08 May 2025 18:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
