@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
-      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
-      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What is the developer set-up for developing Windows for multiple processor architectures?】用于开发多个处理器架构窗口的开发人员设置是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250513-00/?p=111176</link>
-      <description>【You usually just pick one and count on your friends for the others.】您通常只选择一个，并指望您的朋友为其他人。</description>
-      <pubDate>Tue, 13 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New for C++ Developers in Visual Studio 2022 17.14】Visual Studio 2022 17.14中C ++开发人员的新功能是什么</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-14</link>
-      <description>【Visual Studio 2022 version 17.14 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the Visual Studio downloads page or upgrade your existing installation by following the Update Visual Studio Learn page. Standard Library and Compiler We’ve made a myriad of [&amp;hellip;]】Visual Studio 2022版本17.14现在通常可用！这篇文章总结了您可以在此版本中找到C ++的新功能。您可以从“ Visual Studio下载页面”页面下载Visual Studio 2022，也可以按照“更新Visual Studio Learn Learn”页面升级现有安装。标准图书馆和编译器我们做了无数的[…]</description>
-      <pubDate>Tue, 13 May 2025 17:27:47 +0000</pubDate>
-    </item>
-    <item>
       <title>【Build 2025 Preview: Transform Your AI Apps and Agents with Azure Cosmos DB】构建2025预览：使用Azure Cosmos DB转换您的AI应用程序和代理</title>
       <link>https://devblogs.microsoft.com/cosmosdb/build-2025-preview-transform-your-ai-apps-and-agents-with-azure-cosmos-db</link>
       <description>【Microsoft Build is less than a week away, and the Azure Cosmos DB team will be out in force to showcase the newest features and capabilities for building AI apps and agents with scalable, fast, high-performance data.  Whether you’re in person at the Seattle Convention Center or watching the live or on-demand digital show, we [&amp;hellip;]】Microsoft Build不到一周的路程，Azure Cosmos DB团队将有效地展示具有可扩展，快速，高性能数据的AI应用程序和代理商的最新功能。  无论您是在西雅图会议中心亲自观看现场直播还是点播数字表演，我们都会[…]</description>
       <pubDate>Tue, 13 May 2025 15:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Now Generally Available: Apple identity provider support for Microsoft Entra External ID】现在通常可用：Apple身份提供商对Microsoft Entra外部ID的支持</title>
-      <link>https://devblogs.microsoft.com/identity/now-generally-available-apple-identity-provider-support-for-microsoft-entra-external-id</link>
-      <description>【I&#39;m excited to announce that &#34;Sign in with Apple&#34; is now generally available for external tenants in Entra External ID. The feature has been in public preview since February, and many customers have already integrated Apple as an identity provider for their applications.】我很高兴地宣布，“与Apple的签名”现在通常可用于ENTRA外部ID中的外部租户。自2月以来，该功能一直在公共预览中，许多客户已经将Apple作为其应用程序的身份提供商集成在一起。</description>
-      <pubDate>Tue, 13 May 2025 10:26:32 +0000</pubDate>
     </item>
     <item>
       <title>【Agent mode has arrived in preview for Visual Studio】代理模式已经到达Visual Studio的预览</title>
@@ -40,16 +16,16 @@
       <pubDate>Tue, 13 May 2025 17:26:51 +0000</pubDate>
     </item>
     <item>
-      <title>【🎉 Visual Studio 2022 v17.14 is now generally available!】🎉Visual Studio 2022 V17.14现在通常可用！</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-14-is-now-generally-available</link>
-      <description>【We’re thrilled to announce the general availability of Visual Studio 2022 version 17.14! This release continues our mission to empower developers with faster, smarter, and more productive tools across all workloads. There is so much for developers to love in this release, so be sure to check out the release notes for the full list. [&amp;hellip;]】我们很高兴宣布Visual Studio 2022版本17.14的一般可用性！该版本继续使我们的使命使开发人员在所有工作负载中都更快，更聪明，更有生产力的工具。在此版本中，开发人员有很多爱情，因此请务必查看完整列表的发行说明。 […]</description>
-      <pubDate>Tue, 13 May 2025 17:24:25 +0000</pubDate>
+      <title>【What is the developer set-up for developing Windows for multiple processor architectures?】用于开发多个处理器架构窗口的开发人员设置是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250513-00/?p=111176</link>
+      <description>【You usually just pick one and count on your friends for the others.】您通常只选择一个，并指望您的朋友为其他人。</description>
+      <pubDate>Tue, 13 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework May 2025 servicing releases updates】.NET和.NET框架2025年5月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for May 2025.】2025年5月的.NET和.NET框架的最新服务更新的回顾。</description>
-      <pubDate>Tue, 13 May 2025 22:20:00 +0000</pubDate>
+      <title>【Eclipse + GitHub Copilot = Lightspeed SAP ABAP Development】Eclipse + github copilot = Lightspeed SAP ABAP开发</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/eclipse-github-copilot-lightspeed-sap-abap-development</link>
+      <description>【Introduction  Did you catch the GitHub&amp;#8217;s recent announcement of ABAP support in GitHub Copilot for Eclipse? It is a significant step forward for SAP developers. This integration brings AI-powered code suggestions and chat functionalities directly into the Eclipse IDE, potentially revolutionizing ABAP development. Let&amp;#8217;s break down how it works, how to set it up, and [&amp;hellip;]】简介您是否在Github宣布了Github Copilot的Eclipse宣布ABAP支持？对于SAP开发人员而言，这是迈出的重要一步。这种集成将AI驱动的代码建议和聊天功能直接带入Eclipse IDE，并有可能彻底改变ABAP的发展。让我们分解它的工作方式，如何设置以及[…]</description>
+      <pubDate>Tue, 13 May 2025 21:17:28 +0000</pubDate>
     </item>
     <item>
       <title>【.NET 10 Preview 4 is now available!】.NET 10预览4现在可用！</title>
@@ -58,10 +34,34 @@
       <pubDate>Tue, 13 May 2025 18:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Eclipse + GitHub Copilot = Lightspeed SAP ABAP Development】Eclipse + github copilot = Lightspeed SAP ABAP开发</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/eclipse-github-copilot-lightspeed-sap-abap-development</link>
-      <description>【Introduction  Did you catch the GitHub&amp;#8217;s recent announcement of ABAP support in GitHub Copilot for Eclipse? It is a significant step forward for SAP developers. This integration brings AI-powered code suggestions and chat functionalities directly into the Eclipse IDE, potentially revolutionizing ABAP development. Let&amp;#8217;s break down how it works, how to set it up, and [&amp;hellip;]】简介您是否在Github宣布了Github Copilot的Eclipse宣布ABAP支持？对于SAP开发人员而言，这是迈出的重要一步。这种集成将AI驱动的代码建议和聊天功能直接带入Eclipse IDE，并有可能彻底改变ABAP的发展。让我们分解它的工作方式，如何设置以及[…]</description>
-      <pubDate>Tue, 13 May 2025 21:17:28 +0000</pubDate>
+      <title>【🎉 Visual Studio 2022 v17.14 is now generally available!】🎉Visual Studio 2022 V17.14现在通常可用！</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-14-is-now-generally-available</link>
+      <description>【We’re thrilled to announce the general availability of Visual Studio 2022 version 17.14! This release continues our mission to empower developers with faster, smarter, and more productive tools across all workloads. There is so much for developers to love in this release, so be sure to check out the release notes for the full list. [&amp;hellip;]】我们很高兴宣布Visual Studio 2022版本17.14的一般可用性！该版本继续使我们的使命使开发人员在所有工作负载中都更快，更聪明，更有生产力的工具。在此版本中，开发人员有很多爱情，因此请务必查看完整列表的发行说明。 […]</description>
+      <pubDate>Tue, 13 May 2025 17:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
+      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
+      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET and .NET Framework May 2025 servicing releases updates】.NET和.NET框架2025年5月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for May 2025.】2025年5月的.NET和.NET框架的最新服务更新的回顾。</description>
+      <pubDate>Tue, 13 May 2025 22:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New for C++ Developers in Visual Studio 2022 17.14】Visual Studio 2022 17.14中C ++开发人员的新功能是什么</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-14</link>
+      <description>【Visual Studio 2022 version 17.14 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the Visual Studio downloads page or upgrade your existing installation by following the Update Visual Studio Learn page. Standard Library and Compiler We’ve made a myriad of [&amp;hellip;]】Visual Studio 2022版本17.14现在通常可用！这篇文章总结了您可以在此版本中找到C ++的新功能。您可以从“ Visual Studio下载页面”页面下载Visual Studio 2022，也可以按照“更新Visual Studio Learn Learn”页面升级现有安装。标准图书馆和编译器我们做了无数的[…]</description>
+      <pubDate>Tue, 13 May 2025 17:27:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【If I mark my thread pool callback as long-running, does it still count toward the thread pool thread limit?】如果我将线程池回调标记为长期运行，是否仍然计入线程池螺纹限制？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250514-00/?p=111178</link>
+      <description>【Yes, because it&#39;s still in the thread pool.】是的，因为它仍在线程池中。</description>
+      <pubDate>Wed, 14 May 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
