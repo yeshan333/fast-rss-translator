@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Build 2025 Preview: Transform Your AI Apps and Agents with Azure Cosmos DB】构建2025预览：使用Azure Cosmos DB转换您的AI应用程序和代理</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/build-2025-preview-transform-your-ai-apps-and-agents-with-azure-cosmos-db</link>
-      <description>【Microsoft Build is less than a week away, and the Azure Cosmos DB team will be out in force to showcase the newest features and capabilities for building AI apps and agents with scalable, fast, high-performance data.  Whether you’re in person at the Seattle Convention Center or watching the live or on-demand digital show, we [&amp;hellip;]】Microsoft Build不到一周的路程，Azure Cosmos DB团队将有效地展示具有可扩展，快速，高性能数据的AI应用程序和代理商的最新功能。  无论您是在西雅图会议中心亲自观看现场直播还是点播数字表演，我们都会[…]</description>
-      <pubDate>Tue, 13 May 2025 15:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agent mode has arrived in preview for Visual Studio】代理模式已经到达Visual Studio的预览</title>
-      <link>https://devblogs.microsoft.com/visualstudio/agent-mode-has-arrived-in-preview-for-visual-studio</link>
-      <description>【Plan, build, test, and fix — all from one prompt. Agent mode is now available in public preview for all users in Visual Studio 17.14. Agent mode in Visual Studio allows you to define tasks using natural language, with Copilot autonomously planning, editing your codebase, invoking tools, and iterating to resolve issues. Unlike Copilot Chat [&amp;hellip;]】计划，构建，测试和修复 - 全部从一个提示中。 Agent Mode现在可以在Visual Studio 17.14中的所有用户的公共预览中提供。 Visual Studio中的代理模式可让您使用自然语言定义任务，并在副本自动计划，编辑您的代码库，调用工具和迭代以解决问题。与Copilot聊天不同[…]</description>
-      <pubDate>Tue, 13 May 2025 17:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What is the developer set-up for developing Windows for multiple processor architectures?】用于开发多个处理器架构窗口的开发人员设置是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250513-00/?p=111176</link>
-      <description>【You usually just pick one and count on your friends for the others.】您通常只选择一个，并指望您的朋友为其他人。</description>
-      <pubDate>Tue, 13 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Eclipse + GitHub Copilot = Lightspeed SAP ABAP Development】Eclipse + github copilot = Lightspeed SAP ABAP开发</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/eclipse-github-copilot-lightspeed-sap-abap-development</link>
-      <description>【Introduction  Did you catch the GitHub&amp;#8217;s recent announcement of ABAP support in GitHub Copilot for Eclipse? It is a significant step forward for SAP developers. This integration brings AI-powered code suggestions and chat functionalities directly into the Eclipse IDE, potentially revolutionizing ABAP development. Let&amp;#8217;s break down how it works, how to set it up, and [&amp;hellip;]】简介您是否在Github宣布了Github Copilot的Eclipse宣布ABAP支持？对于SAP开发人员而言，这是迈出的重要一步。这种集成将AI驱动的代码建议和聊天功能直接带入Eclipse IDE，并有可能彻底改变ABAP的发展。让我们分解它的工作方式，如何设置以及[…]</description>
-      <pubDate>Tue, 13 May 2025 21:17:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10 Preview 4 is now available!】.NET 10预览4现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4</link>
-      <description>【Find out about the new features in .NET 10 Preview 4 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览4中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
-      <pubDate>Tue, 13 May 2025 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【🎉 Visual Studio 2022 v17.14 is now generally available!】🎉Visual Studio 2022 V17.14现在通常可用！</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-14-is-now-generally-available</link>
-      <description>【We’re thrilled to announce the general availability of Visual Studio 2022 version 17.14! This release continues our mission to empower developers with faster, smarter, and more productive tools across all workloads. There is so much for developers to love in this release, so be sure to check out the release notes for the full list. [&amp;hellip;]】我们很高兴宣布Visual Studio 2022版本17.14的一般可用性！该版本继续使我们的使命使开发人员在所有工作负载中都更快，更聪明，更有生产力的工具。在此版本中，开发人员有很多爱情，因此请务必查看完整列表的发行说明。 […]</description>
-      <pubDate>Tue, 13 May 2025 17:24:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
-      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
-      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework May 2025 servicing releases updates】.NET和.NET框架2025年5月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for May 2025.】2025年5月的.NET和.NET框架的最新服务更新的回顾。</description>
-      <pubDate>Tue, 13 May 2025 22:20:00 +0000</pubDate>
+      <title>【Cloud infrastructure provisioning: best practices for IaC】云基础架构提供：IAC的最佳实践</title>
+      <link>https://devblogs.microsoft.com/ise/best-practices-infrastructure-pipelines</link>
+      <description>【Infrastructure-as-Code (IaC) is a common DevOps practice that enterprises use to provision and deploy IT infrastructure. Enterprises applying IaC and continuous integration/continuous delivery (CI/CD) pipelines can maintain high availability and manage risk for their cloud environments at scale. However, multi-environment challenges, manual processes, and fragmented guidance still lead to configuration drift, errors, and inconsistencies. These issues are likely to result in downtime, security vulnerabilities, and inefficient resource utilization.】基础架构AS-CODE（IAC）是一种常见的DevOps实践，企业用来提供和部署IT基础架构。应用IAC和连续交付/连续交付（CI/CD）管道的企业可以维持高可用性并规模管理其云环境的风险。但是，多种环境的挑战，手动过程和分散的指导仍会导致配置漂移，错误和不一致。这些问题可能导致停机时间，安全漏洞和效率低下的资源利用。</description>
+      <pubDate>Thu, 15 May 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New for C++ Developers in Visual Studio 2022 17.14】Visual Studio 2022 17.14中C ++开发人员的新功能是什么</title>
@@ -58,10 +16,52 @@
       <pubDate>Tue, 13 May 2025 17:27:47 +0000</pubDate>
     </item>
     <item>
+      <title>【How do I force RunOnce commands to run in a specific order?】我如何强制Runonce命令按特定顺序运行？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250515-00/?p=111181</link>
+      <description>【Run them in the desired order yourself.】自己以所需的顺序运行它们。</description>
+      <pubDate>Thu, 15 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
+      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
+      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 4 is now available!】.NET 10预览4现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4</link>
+      <description>【Find out about the new features in .NET 10 Preview 4 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!】在.NET 10预览4中查找.NET运行时，SDK，Libraries，ASP.NET Core，Blazor，C＃，.Net Maui等！</description>
+      <pubDate>Tue, 13 May 2025 18:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【If I mark my thread pool callback as long-running, does it still count toward the thread pool thread limit?】如果我将线程池回调标记为长期运行，是否仍然计入线程池螺纹限制？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250514-00/?p=111178</link>
       <description>【Yes, because it&#39;s still in the thread pool.】是的，因为它仍在线程池中。</description>
       <pubDate>Wed, 14 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET and .NET Framework May 2025 servicing releases updates】.NET和.NET框架2025年5月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates</link>
+      <description>【A recap of the latest servicing updates for .NET and .NET Framework for May 2025.】2025年5月的.NET和.NET框架的最新服务更新的回顾。</description>
+      <pubDate>Tue, 13 May 2025 22:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Evaluating content safety in your .NET AI applications】评估.NET AI应用程序中的内容安全性</title>
+      <link>https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety</link>
+      <description>【Announcing content safety evaluations and other imporvements in the Microsoft.Extensions.AI.Evaluation libraries.】在Microsoft.extensions.ai.Ai.Evaluation库中宣布内容安全评估和其他源泉。</description>
+      <pubDate>Thu, 15 May 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Celebrating 50 Million Developers: The Journey of Visual Studio and Visual Studio Code】庆祝5000万开发人员：视觉工作室和视觉工作室代码的旅程</title>
+      <link>https://devblogs.microsoft.com/blog/celebrating-50-million-developers-the-journey-of-visual-studio-and-visual-studio-code</link>
+      <description>【Today, I&amp;#8217;m thrilled to share that we&amp;#8217;ve hit an incredible milestone together: 50 million developers are actively using Visual Studio and Visual Studio Code each month. That&amp;#8217;s 50 million of you writing code, debugging late into the night, collaborating on projects, and building the future with us. This isn&amp;#8217;t just a statistic—it&amp;#8217;s a testament to the real work, innovation, [&amp;hellip;]】今天，我很高兴分享我们已经达到了一个令人难以置信的里程碑：5000万开发人员每个月都在使用Visual Studio和Visual Studio代码。那是您编写代码的5000万，在深夜进行调试，在项目上进行合作，并与我们建立未来。这不仅是一个统计数据，还证明了真实的工作，创新，[…]</description>
+      <pubDate>Thu, 15 May 2025 18:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Eclipse + GitHub Copilot = Lightspeed SAP ABAP Development】Eclipse + github copilot = Lightspeed SAP ABAP开发</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/eclipse-github-copilot-lightspeed-sap-abap-development</link>
+      <description>【Introduction  Did you catch the GitHub&amp;#8217;s recent announcement of ABAP support in GitHub Copilot for Eclipse? It is a significant step forward for SAP developers. This integration brings AI-powered code suggestions and chat functionalities directly into the Eclipse IDE, potentially revolutionizing ABAP development. Let&amp;#8217;s break down how it works, how to set it up, and [&amp;hellip;]】简介您是否在Github宣布了Github Copilot的Eclipse宣布ABAP支持？对于SAP开发人员而言，这是迈出的重要一步。这种集成将AI驱动的代码建议和聊天功能直接带入Eclipse IDE，并有可能彻底改变ABAP的发展。让我们分解它的工作方式，如何设置以及[…]</description>
+      <pubDate>Tue, 13 May 2025 21:17:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
