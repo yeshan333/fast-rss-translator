@@ -4,10 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Bringing streamable HTTP transport and Python language support to MCP servers】将流媒体的HTTP传输和Python语言支持带到MCP服务器</title>
-      <link>https://blog.cloudflare.com/streamable-http-mcp-servers-python/</link>
-      <description>【 We&#39;re continuing to make it easier for developers to bring their services into the AI ecosystem with the Model Context Protocol (MCP) with two new updates. 】我们将继续通过模型上下文协议（MCP）进行两个新更新，使开发人员更容易将他们的服务带入AI生态系统。</description>
-      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
+      <title>【How the April 28, 2025, power outage in Portugal and Spain impacted Internet traffic and connectivity】2025年4月28日，葡萄牙和西班牙的停电如何影响互联网流量和连通性</title>
+      <link>https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/</link>
+      <description>【 A massive power outage struck significant portions of Portugal and Spain at 10:34 UTC on April 28, disrupting everyday activities and services. 】4月28日，UTC的大量停电袭击了葡萄牙和西班牙的大部分，破坏了日常活动和服务。</description>
+      <pubDate>Mon, 28 Apr 2025 21:30:00 +0000</pubDate>
     </item>
     <item>
       <title>【Scaling with safety: Cloudflare&#39;s approach to global service health metrics and software releases】安全扩展：CloudFlare的全球服务健康指标和软件发布方法</title>
@@ -16,28 +16,22 @@
       <pubDate>Mon, 05 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Forget IPs: using cryptography to verify bot and agent traffic】忘记IPS：使用密码学验证机器人和代理流量</title>
-      <link>https://blog.cloudflare.com/web-bot-auth/</link>
-      <description>【 Bots now browse like humans. We&#39;re proposing bots use cryptographic signatures so that website owners can verify their identity. Explanations and demonstration code can be found within the post. 】机器人现在像人类一样浏览。我们正在提议使用加密签名，以便网站所有者可以验证其身份。可以在帖子中找到说明和演示代码。</description>
-      <pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
+      <title>【Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report】由2050万个DDOS攻击的目标，同比增长358％：Cloudflare的2025 Q1 DDOS威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/</link>
+      <description>【 DDoS attacks are surging. In 2025 Q1, Cloudflare blocked +20M attacks (a 358% YoY spike) along with 5.6 Tbps and 4.8 Bpps record-breaking attacks. 】DDOS攻击正在激增。在2025年第1季度，Cloudflare与5.6 TBP和4.8 BPP的创纪录攻击相同，阻塞了 +20m攻击（358％的尖峰）。</description>
+      <pubDate>Sun, 27 Apr 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New year, no shutdowns: the Q1 2025 Internet disruption summary】新年，没有关闭：Q1 2025 Internet中断摘要</title>
-      <link>https://blog.cloudflare.com/q1-2025-internet-disruption-summary/</link>
-      <description>【 In Q1 2025, we observed Internet disruptions around the world caused by cable damage, power outages, natural disasters, fire, a cyberattack, and technical problems. 】在2025年第1季度，我们观察到由电缆损坏，停电，自然灾害，火灾，网络攻击和技术问题引起的世界各地的互联网中断。</description>
-      <pubDate>Tue, 22 Apr 2025 13:00:00 +0000</pubDate>
+      <title>【Vulnerability transparency: strengthening security through responsible disclosure】脆弱性透明度：通过负责任的披露加强安全性</title>
+      <link>https://blog.cloudflare.com/vulnerability-transparency-strengthening-security-through-responsible/</link>
+      <description>【 In line with CISA’s Secure By Design pledge, Cloudflare shares its vulnerability disclosure process, CVE issuance criteria, and CNA duties.  】根据CISA的设计承诺，CloudFlare共享其脆弱性披露过程，CVE发行标准和CNA职责。</description>
+      <pubDate>Fri, 16 May 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【MCP Demo Day: How 10 leading AI companies built MCP servers on Cloudflare】MCP演示日：有10家领先的AI公司如何在Cloudflare上构建MCP服务器</title>
-      <link>https://blog.cloudflare.com/mcp-demo-day/</link>
-      <description>【 We’re teaming up with Anthropic, Asana, Atlassian, Block, Intercom, Linear, PayPal, Sentry, Stripe, and Webflow to launch new remote MCP servers, built on Cloudflare, to enable Claude users to manage 】我们正在与拟人，Asana，Atlassian，Block，Intercom，Linear，Paypal，Sentry，Stripe和WebFlow合作，以启动基于CloudFlare的新远程MCP服务器，以使Claude用户能够管理</description>
-      <pubDate>Thu, 01 May 2025 13:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【QUIC restarts, slow problems: udpgrm to the rescue】Quic重新开始，缓慢的问题：UDPGRM进行营救</title>
-      <link>https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/</link>
-      <description>【 udpgrm is a lightweight daemon for graceful restarts of UDP servers. It leverages SO_REUSEPORT and eBPF to route new and existing flows to the correct server instance. 】UDPGRM是一个轻巧的守护程序，用于优雅的UDP服务器。它利用SO_REUSEPORT和EBPF将新的和现有的流程路由到正确的服务器实例。</description>
-      <pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+      <title>【First-party tags in seconds: Cloudflare integrates Google tag gateway for advertisers 】秒内的第一方标签：CloudFlare集成了广告客户的Google标签网关</title>
+      <link>https://blog.cloudflare.com/google-tag-gateway-for-advertisers/</link>
+      <description>【 Cloudflare introduces a one-click integration with Google tag gateway for advertisers. 】CloudFlare与Google Tag Gateway为广告客户提供了一键集成。</description>
+      <pubDate>Thu, 08 May 2025 18:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【Thirteen new MCP servers from Cloudflare you can use today】CloudFlare的13台新的MCP服务器，您今天可以使用</title>
@@ -46,22 +40,28 @@
       <pubDate>Thu, 01 May 2025 13:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>【How the April 28, 2025, power outage in Portugal and Spain impacted Internet traffic and connectivity】2025年4月28日，葡萄牙和西班牙的停电如何影响互联网流量和连通性</title>
-      <link>https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/</link>
-      <description>【 A massive power outage struck significant portions of Portugal and Spain at 10:34 UTC on April 28, disrupting everyday activities and services. 】4月28日，UTC的大量停电袭击了葡萄牙和西班牙的大部分，破坏了日常活动和服务。</description>
-      <pubDate>Mon, 28 Apr 2025 21:30:00 +0000</pubDate>
+      <title>【MCP Demo Day: How 10 leading AI companies built MCP servers on Cloudflare】MCP演示日：有10家领先的AI公司如何在Cloudflare上构建MCP服务器</title>
+      <link>https://blog.cloudflare.com/mcp-demo-day/</link>
+      <description>【 We’re teaming up with Anthropic, Asana, Atlassian, Block, Intercom, Linear, PayPal, Sentry, Stripe, and Webflow to launch new remote MCP servers, built on Cloudflare, to enable Claude users to manage 】我们正在与拟人，Asana，Atlassian，Block，Intercom，Linear，Paypal，Sentry，Stripe和WebFlow合作，以启动基于CloudFlare的新远程MCP服务器，以使Claude用户能够管理</description>
+      <pubDate>Thu, 01 May 2025 13:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Targeted by 20.5 million DDoS attacks, up 358% year-over-year: Cloudflare’s 2025 Q1 DDoS Threat Report】由2050万个DDOS攻击的目标，同比增长358％：Cloudflare的2025 Q1 DDOS威胁报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q1/</link>
-      <description>【 DDoS attacks are surging. In 2025 Q1, Cloudflare blocked +20M attacks (a 358% YoY spike) along with 5.6 Tbps and 4.8 Bpps record-breaking attacks. 】DDOS攻击正在激增。在2025年第1季度，Cloudflare与5.6 TBP和4.8 BPP的创纪录攻击相同，阻塞了 +20m攻击（358％的尖峰）。</description>
-      <pubDate>Sun, 27 Apr 2025 23:00:00 +0000</pubDate>
+      <title>【Forget IPs: using cryptography to verify bot and agent traffic】忘记IPS：使用密码学验证机器人和代理流量</title>
+      <link>https://blog.cloudflare.com/web-bot-auth/</link>
+      <description>【 Bots now browse like humans. We&#39;re proposing bots use cryptographic signatures so that website owners can verify their identity. Explanations and demonstration code can be found within the post. 】机器人现在像人类一样浏览。我们正在提议使用加密签名，以便网站所有者可以验证其身份。可以在帖子中找到说明和演示代码。</description>
+      <pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【First-party tags in seconds: Cloudflare integrates Google tag gateway for advertisers 】秒内的第一方标签：CloudFlare集成了广告客户的Google标签网关</title>
-      <link>https://blog.cloudflare.com/google-tag-gateway-for-advertisers/</link>
-      <description>【 Cloudflare introduces a one-click integration with Google tag gateway for advertisers. 】CloudFlare与Google Tag Gateway为广告客户提供了一键集成。</description>
-      <pubDate>Thu, 08 May 2025 18:15:00 +0000</pubDate>
+      <title>【QUIC restarts, slow problems: udpgrm to the rescue】Quic重新开始，缓慢的问题：UDPGRM进行营救</title>
+      <link>https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/</link>
+      <description>【 udpgrm is a lightweight daemon for graceful restarts of UDP servers. It leverages SO_REUSEPORT and eBPF to route new and existing flows to the correct server instance. 】UDPGRM是一个轻巧的守护程序，用于优雅的UDP服务器。它利用SO_REUSEPORT和EBPF将新的和现有的流程路由到正确的服务器实例。</description>
+      <pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bringing streamable HTTP transport and Python language support to MCP servers】将流媒体的HTTP传输和Python语言支持带到MCP服务器</title>
+      <link>https://blog.cloudflare.com/streamable-http-mcp-servers-python/</link>
+      <description>【 We&#39;re continuing to make it easier for developers to bring their services into the AI ecosystem with the Model Context Protocol (MCP) with two new updates. 】我们将继续通过模型上下文协议（MCP）进行两个新更新，使开发人员更容易将他们的服务带入AI生态系统。</description>
+      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
