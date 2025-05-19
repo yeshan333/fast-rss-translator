@@ -5,16 +5,22 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP162: 9 Clean Code Principles To Keep In Mind】EP162：9牢记的清洁代码原则</title>
-      <link>https://blog.bytebytego.com/p/ep162-9-clean-code-principles-to</link>
-      <description>【Meaningful Names: Name variables and functions to reveal their purpose, not just their value.】有意义的名称：名称变量和功能以揭示其目的，而不仅仅是其价值。</description>
-      <pubDate>Sat, 10 May 2025 15:30:27 +0000</pubDate>
+      <title>【How Meta Built Threads to Support 100 Million Signups in 5 Days】元如何在5天内建立线程以支持1亿个注册</title>
+      <link>https://blog.bytebytego.com/p/how-meta-built-threads-to-support</link>
+      <description>【When a new app hits 100 million signups in under a week, the instinct is to assume someone built a miracle backend overnight.】当一个新应用在一周不到一周的时间内登陆1亿个注册时，本能是假设有人在一夜之间建立了一个奇迹的后端。</description>
+      <pubDate>Tue, 29 Apr 2025 15:30:31 +0000</pubDate>
     </item>
     <item>
       <title>【EP161: A Cheatsheet on REST API Design Best Practices】EP161：关于REST API设计最佳实践的备忘单</title>
       <link>https://blog.bytebytego.com/p/ep161-a-cheatsheet-on-rest-api-design</link>
       <description>【Well-designed APIs behave consistently, fair predictably, and grow without friction.】精心设计的API的行为始终如一，可以预见，并且没有摩擦。</description>
       <pubDate>Sat, 03 May 2025 15:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Messaging Patterns Explained: Pub-Sub, Queues, and Event Streams】消息传递模式解释了：Pub-Sub，队列和事件流</title>
+      <link>https://blog.bytebytego.com/p/messaging-patterns-explained-pub</link>
+      <description>【What happens when the downstream service is overloaded? Or slow? Or down entirely?】下游服务超载时会发生什么？还是慢？还是完全下降？</description>
+      <pubDate>Thu, 08 May 2025 15:30:54 +0000</pubDate>
     </item>
     <item>
       <title>【How Slack Supports Billions of Daily Messages】Slack如何支持数十亿美元的每日消息</title>
@@ -27,12 +33,6 @@
       <link>https://blog.bytebytego.com/p/how-halo-on-xbox-scaled-to-10-million</link>
       <description>【One powerful pattern for solving this problem is the Saga Pattern, a technique originally proposed in the late 1980s but increasingly relevant today.】解决此问题的一种强大模式是传奇模式，这是一种最初提出的技术，最初是在1980年代后期提出的，但今天越来越重要。</description>
       <pubDate>Tue, 06 May 2025 15:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Meta Built Threads to Support 100 Million Signups in 5 Days】元如何在5天内建立线程以支持1亿个注册</title>
-      <link>https://blog.bytebytego.com/p/how-meta-built-threads-to-support</link>
-      <description>【When a new app hits 100 million signups in under a week, the instinct is to assume someone built a miracle backend overnight.】当一个新应用在一周不到一周的时间内登陆1亿个注册时，本能是假设有人在一夜之间建立了一个奇迹的后端。</description>
-      <pubDate>Tue, 29 Apr 2025 15:30:31 +0000</pubDate>
     </item>
     <item>
       <title>【How Canva Collects 25 Billion Events a Day】帆布如何每天收集250亿个活动</title>
@@ -53,10 +53,10 @@
       <pubDate>Thu, 01 May 2025 15:30:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Messaging Patterns Explained: Pub-Sub, Queues, and Event Streams】消息传递模式解释了：Pub-Sub，队列和事件流</title>
-      <link>https://blog.bytebytego.com/p/messaging-patterns-explained-pub</link>
-      <description>【What happens when the downstream service is overloaded? Or slow? Or down entirely?】下游服务超载时会发生什么？还是慢？还是完全下降？</description>
-      <pubDate>Thu, 08 May 2025 15:30:54 +0000</pubDate>
+      <title>【EP162: 9 Clean Code Principles To Keep In Mind】EP162：9牢记的清洁代码原则</title>
+      <link>https://blog.bytebytego.com/p/ep162-9-clean-code-principles-to</link>
+      <description>【Meaningful Names: Name variables and functions to reveal their purpose, not just their value.】有意义的名称：名称变量和功能以揭示其目的，而不仅仅是其价值。</description>
+      <pubDate>Sat, 10 May 2025 15:30:27 +0000</pubDate>
     </item>
     <item>
       <title>【Engineering Trade-offs: Eventual Consistency in Practice】工程权衡：实践中最终的一致性</title>

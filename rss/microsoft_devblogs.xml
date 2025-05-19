@@ -4,30 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【What’s with the weird wReserved value at the start of the DECIMAL structure?】十进制结构开始时，怪异的变形值是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250516-00/?p=111185</link>
-      <description>【It&#39;s where the discriminant goes when the DECIMAL is put &#34;inside&#34; a VARIANT.】当将小数放在“内部”变体中时，判别剂的去向。</description>
-      <pubDate>Fri, 16 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Celebrating 50 Million Developers: The Journey of Visual Studio and Visual Studio Code】庆祝5000万开发人员：视觉工作室和视觉工作室代码的旅程</title>
-      <link>https://devblogs.microsoft.com/blog/celebrating-50-million-developers-the-journey-of-visual-studio-and-visual-studio-code</link>
-      <description>【Today, I&amp;#8217;m thrilled to share that we&amp;#8217;ve hit an incredible milestone together: 50 million developers are actively using Visual Studio and Visual Studio Code each month. That&amp;#8217;s 50 million of you writing code, debugging late into the night, collaborating on projects, and building the future with us. This isn&amp;#8217;t just a statistic—it&amp;#8217;s a testament to the real work, innovation, [&amp;hellip;]】今天，我很高兴分享我们已经达到了一个令人难以置信的里程碑：5000万开发人员每个月都在使用Visual Studio和Visual Studio代码。那是您编写代码的5000万，在深夜进行调试，在项目上进行合作，并与我们建立未来。这不仅是一个统计数据，还证明了真实的工作，创新，[…]</description>
-      <pubDate>Thu, 15 May 2025 18:48:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to Watch Microsoft Build 2025 Online】如何在线观看Microsoft Build 2025</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online</link>
-      <description>【Microsoft Build 2025 Is Almost Here — Here’s How to Make the Most of It Virtually It’s that time again—Microsoft Build is just around the corner! Microsoft Build 2025 kicks off next week (May 19–22)—and now’s the perfect time to get your plan in place. The best part? You don’t have to be in Seattle [&amp;hellip;]】Microsoft Build 2025几乎在这里 - 这是如何充分利用它的方法，这实际上是那个时候 -  Microsoft Build即将来临！ Microsoft Build 2025将于下周（5月19日至22日）开始，现在是制定计划的最佳时机。最好的部分？您不必在西雅图[…]</description>
-      <pubDate>Fri, 16 May 2025 14:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
-      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
-      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
-    </item>
-    <item>
       <title>【How do I force RunOnce commands to run in a specific order?】我如何强制Runonce命令按特定顺序运行？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250515-00/?p=111181</link>
       <description>【Run them in the desired order yourself.】自己以所需的顺序运行它们。</description>
@@ -40,10 +16,40 @@
       <pubDate>Tue, 13 May 2025 22:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>【If I mark my thread pool callback as long-running, does it still count toward the thread pool thread limit?】如果我将线程池回调标记为长期运行，是否仍然计入线程池螺纹限制？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250514-00/?p=111178</link>
-      <description>【Yes, because it&#39;s still in the thread pool.】是的，因为它仍在线程池中。</description>
-      <pubDate>Wed, 14 May 2025 14:00:00 +0000</pubDate>
+      <title>【Semantic Kernel: Package previews, Graduations &amp; Deprecations】语义内核：包装预览，毕业和折旧</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-package-previews-graduations-deprecations</link>
+      <description>【Semantic Kernel: Package Previews, Graduations &amp;amp; Deprecations We are excited to share a summary of recent updates and continuous clean-up efforts across the Semantic Kernel .NET codebase. These changes focus on improving maintainability, aligning with the latest APIs, and ensuring a consistent experience for users. Below you’ll find details on package graduations, deprecations, and a [&amp;hellip;]】语义内核：包装预览，毕业和折旧，我们很高兴分享在语义内核.NET .NET代码库中最近更新和连续清理工作的摘要。这些更改的重点是提高可维护性，与最新的API保持一致，并确保用户的一致体验。在下面，您会找到有关包装毕业，折旧和[…]的详细信息</description>
+      <pubDate>Fri, 16 May 2025 08:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
+      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
+      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s with the weird wReserved value at the start of the DECIMAL structure?】十进制结构开始时，怪异的变形值是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250516-00/?p=111185</link>
+      <description>【It&#39;s where the discriminant goes when the DECIMAL is put &#34;inside&#34; a VARIANT.】当将小数放在“内部”变体中时，判别剂的去向。</description>
+      <pubDate>Fri, 16 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to Watch Microsoft Build 2025 Online】如何在线观看Microsoft Build 2025</title>
+      <link>https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online</link>
+      <description>【Microsoft Build 2025 Is Almost Here — Here’s How to Make the Most of It Virtually It’s that time again—Microsoft Build is just around the corner! Microsoft Build 2025 kicks off next week (May 19–22)—and now’s the perfect time to get your plan in place. The best part? You don’t have to be in Seattle [&amp;hellip;]】Microsoft Build 2025几乎在这里 - 这是如何充分利用它的方法，这实际上是那个时候 -  Microsoft Build即将来临！ Microsoft Build 2025将于下周（5月19日至22日）开始，现在是制定计划的最佳时机。最好的部分？您不必在西雅图[…]</description>
+      <pubDate>Fri, 16 May 2025 14:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Celebrating 50 Million Developers: The Journey of Visual Studio and Visual Studio Code】庆祝5000万开发人员：视觉工作室和视觉工作室代码的旅程</title>
+      <link>https://devblogs.microsoft.com/blog/celebrating-50-million-developers-the-journey-of-visual-studio-and-visual-studio-code</link>
+      <description>【Today, I&amp;#8217;m thrilled to share that we&amp;#8217;ve hit an incredible milestone together: 50 million developers are actively using Visual Studio and Visual Studio Code each month. That&amp;#8217;s 50 million of you writing code, debugging late into the night, collaborating on projects, and building the future with us. This isn&amp;#8217;t just a statistic—it&amp;#8217;s a testament to the real work, innovation, [&amp;hellip;]】今天，我很高兴分享我们已经达到了一个令人难以置信的里程碑：5000万开发人员每个月都在使用Visual Studio和Visual Studio代码。那是您编写代码的5000万，在深夜进行调试，在项目上进行合作，并与我们建立未来。这不仅是一个统计数据，还证明了真实的工作，创新，[…]</description>
+      <pubDate>Thu, 15 May 2025 18:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloud infrastructure provisioning: best practices for IaC】云基础架构提供：IAC的最佳实践</title>
+      <link>https://devblogs.microsoft.com/ise/best-practices-infrastructure-pipelines</link>
+      <description>【Infrastructure-as-Code (IaC) is a common DevOps practice that enterprises use to provision and deploy IT infrastructure. Enterprises applying IaC and continuous integration/continuous delivery (CI/CD) pipelines can maintain high availability and manage risk for their cloud environments at scale. However, multi-environment challenges, manual processes, and fragmented guidance still lead to configuration drift, errors, and inconsistencies. These issues are likely to result in downtime, security vulnerabilities, and inefficient resource utilization.】基础架构AS-CODE（IAC）是一种常见的DevOps实践，企业用来提供和部署IT基础架构。应用IAC和连续交付/连续交付（CI/CD）管道的企业可以维持高可用性并规模管理其云环境的风险。但是，多种环境的挑战，手动过程和分散的指导仍会导致配置漂移，错误和不一致。这些问题可能导致停机时间，安全漏洞和效率低下的资源利用。</description>
+      <pubDate>Thu, 15 May 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Evaluating content safety in your .NET AI applications】评估.NET AI应用程序中的内容安全性</title>
@@ -52,16 +58,10 @@
       <pubDate>Thu, 15 May 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel: Package previews, Graduations &amp; Deprecations】语义内核：包装预览，毕业和折旧</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-package-previews-graduations-deprecations</link>
-      <description>【Semantic Kernel: Package Previews, Graduations &amp;amp; Deprecations We are excited to share a summary of recent updates and continuous clean-up efforts across the Semantic Kernel .NET codebase. These changes focus on improving maintainability, aligning with the latest APIs, and ensuring a consistent experience for users. Below you’ll find details on package graduations, deprecations, and a [&amp;hellip;]】语义内核：包装预览，毕业和折旧，我们很高兴分享在语义内核.NET .NET代码库中最近更新和连续清理工作的摘要。这些更改的重点是提高可维护性，与最新的API保持一致，并确保用户的一致体验。在下面，您会找到有关包装毕业，折旧和[…]的详细信息</description>
-      <pubDate>Fri, 16 May 2025 08:32:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloud infrastructure provisioning: best practices for IaC】云基础架构提供：IAC的最佳实践</title>
-      <link>https://devblogs.microsoft.com/ise/best-practices-infrastructure-pipelines</link>
-      <description>【Infrastructure-as-Code (IaC) is a common DevOps practice that enterprises use to provision and deploy IT infrastructure. Enterprises applying IaC and continuous integration/continuous delivery (CI/CD) pipelines can maintain high availability and manage risk for their cloud environments at scale. However, multi-environment challenges, manual processes, and fragmented guidance still lead to configuration drift, errors, and inconsistencies. These issues are likely to result in downtime, security vulnerabilities, and inefficient resource utilization.】基础架构AS-CODE（IAC）是一种常见的DevOps实践，企业用来提供和部署IT基础架构。应用IAC和连续交付/连续交付（CI/CD）管道的企业可以维持高可用性并规模管理其云环境的风险。但是，多种环境的挑战，手动过程和分散的指导仍会导致配置漂移，错误和不一致。这些问题可能导致停机时间，安全漏洞和效率低下的资源利用。</description>
-      <pubDate>Thu, 15 May 2025 07:00:00 +0000</pubDate>
+      <title>【If I mark my thread pool callback as long-running, does it still count toward the thread pool thread limit?】如果我将线程池回调标记为长期运行，是否仍然计入线程池螺纹限制？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250514-00/?p=111178</link>
+      <description>【Yes, because it&#39;s still in the thread pool.】是的，因为它仍在线程池中。</description>
+      <pubDate>Wed, 14 May 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
