@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【How do I force RunOnce commands to run in a specific order?】我如何强制Runonce命令按特定顺序运行？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250515-00/?p=111181</link>
-      <description>【Run them in the desired order yourself.】自己以所需的顺序运行它们。</description>
-      <pubDate>Thu, 15 May 2025 14:00:00 +0000</pubDate>
+      <title>【Edit is now open source】编辑现在是开源的</title>
+      <link>https://devblogs.microsoft.com/commandline/edit-is-now-open-source</link>
+      <description>【What is Edit? Edit is a new command-line text editor in Windows. Edit is open source, so you can build the code or install the latest version from GitHub! This CLI text editor will be available to preview in the Windows Insider Program in the coming months. After that, it will ship as part of [&amp;hellip;]】什么是编辑？编辑是Windows中的新命令行文本编辑器。编辑是开源的，因此您可以构建代码或从Github安装最新版本！该CLI文本编辑器将在未来几个月内可以在Windows Insider程序中预览。之后，它将作为[…]的一部分发货</description>
+      <pubDate>Mon, 19 May 2025 16:04:35 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework May 2025 servicing releases updates】.NET和.NET框架2025年5月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates</link>
-      <description>【A recap of the latest servicing updates for .NET and .NET Framework for May 2025.】2025年5月的.NET和.NET框架的最新服务更新的回顾。</description>
-      <pubDate>Tue, 13 May 2025 22:20:00 +0000</pubDate>
+      <title>【Accelerate Your .NET Upgrades with GitHub Copilot】加速您的.NET升级使用GitHub Copilot</title>
+      <link>https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet</link>
+      <description>【Upgrade your .NET apps with confidence! Introducing our newest AI-powered upgrade experience, GitHub Copilot app modernization - Upgrade for .NET.】充满信心地升级.NET应用程序！介绍了我们最新的AI驱动升级体验，Github Copilot App Modernization -.NET升级。</description>
+      <pubDate>Mon, 19 May 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel: Package previews, Graduations &amp; Deprecations】语义内核：包装预览，毕业和折旧</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-package-previews-graduations-deprecations</link>
-      <description>【Semantic Kernel: Package Previews, Graduations &amp;amp; Deprecations We are excited to share a summary of recent updates and continuous clean-up efforts across the Semantic Kernel .NET codebase. These changes focus on improving maintainability, aligning with the latest APIs, and ensuring a consistent experience for users. Below you’ll find details on package graduations, deprecations, and a [&amp;hellip;]】语义内核：包装预览，毕业和折旧，我们很高兴分享在语义内核.NET .NET代码库中最近更新和连续清理工作的摘要。这些更改的重点是提高可维护性，与最新的API保持一致，并确保用户的一致体验。在下面，您会找到有关包装毕业，折旧和[…]的详细信息</description>
-      <pubDate>Fri, 16 May 2025 08:32:47 +0000</pubDate>
+      <title>【Accelerating MongoDB Development on Azure: What’s New at Microsoft Build 2025】加速Azure上的MongoDB开发：Microsoft Build 2025的新功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/accelerating-mongodb-development-on-azure-whats-new-at-microsoft-build-2025</link>
+      <description>【Microsoft Build 2025 is underway in Seattle, bringing developers together to shape the future of cloud-native app development. If you build MongoDB workloads in Azure, this year’s updates give you even more tools to accelerate development. We’ve streamlined how you build and modernize MongoDB applications in the cloud with our managed service- vCore-based Azure Cosmos [&amp;hellip;]】Microsoft Build 2025在西雅图正在进行，将开发人员汇集在一起​​，以塑造云本地应用开发的未来。如果您在Azure中构建MongoDB工作负载，今年的更新为您提供了更多的工具来加速开发。我们已经简化了如何使用我们的基于托管服务的Azure Cosmos […]在云中构建和现代化MongoDB应用程序的现代化应用程序。</description>
+      <pubDate>Mon, 19 May 2025 16:00:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Accelerate AI Applications with Semantic Caching on Azure Managed Redis】加速AI应用程序，具有语义缓存在Azure管理的Redis上</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/accelerate-ai-applications-with-semantic-caching-on-azure-managed-redis</link>
-      <description>【In this blog, we will look at implementing the Semantic caching use case using Azure Managed Redis. Azure has been at the forefront of providing caching solutions for over a decade with the Azure Cache for Redis enterprise. This service empowered developers with a high-performance, scalable cache that significantly enhanced the responsiveness of their applications. [&amp;hellip;]】在此博客中，我们将考虑使用Azure托管Redis实现语义缓存用例。十多年来，Azure在为Redis Enterprise提供了十多年的最前沿提供缓存解决方案。这项服务授权开发人员拥有高性能，可扩展的缓存，从而大大提高了其应用程序的响应能力。 […]</description>
-      <pubDate>Tue, 13 May 2025 21:18:06 +0000</pubDate>
+      <title>【Agent mode for every developer】每个开发人员的代理模式</title>
+      <link>https://devblogs.microsoft.com/blog/agent-mode-for-every-developer</link>
+      <description>【At the beginning of April, agent mode rolled out to all users in Visual Studio Code. Since then, we’ve seen and heard how developers are embracing this tool and using it to transform their workflows. Now, just six weeks later, we’re excited to announce that it’s available to all developers using VS Code, Visual Studio, [&amp;hellip;]】在4月初，Agent Mode将Visual Studio代码中的所有用户推出。从那以后，我们看到并听到了开发人员如何拥抱此工具并使用它来改变他们的工作流程。现在，仅仅六周后，我们很高兴地宣布，使用VS代码，Visual Studio，[…]的所有开发人员都可以使用它。</description>
+      <pubDate>Mon, 19 May 2025 18:30:41 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s with the weird wReserved value at the start of the DECIMAL structure?】十进制结构开始时，怪异的变形值是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250516-00/?p=111185</link>
-      <description>【It&#39;s where the discriminant goes when the DECIMAL is put &#34;inside&#34; a VARIANT.】当将小数放在“内部”变体中时，判别剂的去向。</description>
-      <pubDate>Fri, 16 May 2025 14:00:00 +0000</pubDate>
+      <title>【Supercharge AI development with new AI-powered features in Microsoft Dev Box】Microsoft Dev Box中具有新的AI驱动功能的增压AI开发</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/supercharge-ai-development-with-new-ai-powered-features-in-microsoft-dev-box</link>
+      <description>【AI is reshaping how we build, deploy, and scale software. As more apps become AI-powered, developers need environments that can keep up with speed and demands of innovation. We&amp;#8217;ve heard from customers just how critical it is to have a zero-config experience when building AI applications, with streamlined access to compute, prebuilt models, and environment [&amp;hellip;]】AI正在重塑我们的构建，部署和规模软件。随着越来越多的应用程序成为AI驱动的，开发人员需要能够跟上创新速度和需求的环境。我们从客户那里听说，在构建AI应用程序时具有零核能体验的重要性，并简化了对计算，预制模型和环境的访问[…]</description>
+      <pubDate>Mon, 19 May 2025 16:00:53 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Watch Microsoft Build 2025 Online】如何在线观看Microsoft Build 2025</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online</link>
-      <description>【Microsoft Build 2025 Is Almost Here — Here’s How to Make the Most of It Virtually It’s that time again—Microsoft Build is just around the corner! Microsoft Build 2025 kicks off next week (May 19–22)—and now’s the perfect time to get your plan in place. The best part? You don’t have to be in Seattle [&amp;hellip;]】Microsoft Build 2025几乎在这里 - 这是如何充分利用它的方法，这实际上是那个时候 -  Microsoft Build即将来临！ Microsoft Build 2025将于下周（5月19日至22日）开始，现在是制定计划的最佳时机。最好的部分？您不必在西雅图[…]</description>
-      <pubDate>Fri, 16 May 2025 14:00:41 +0000</pubDate>
+      <title>【Announcing the General Availability (GA) of JSON data type &amp; JSON aggregates…】宣布JSON数据类型和JSON聚合的一般可用性（GA）…</title>
+      <link>https://devblogs.microsoft.com/azure-sql/announcing-the-general-availability-ga-of-json-data-type-json-aggregates</link>
+      <description>【We are excited to announce the General Availability (GA) of the native JSON data type and JSON aggregates &amp;#8211; JSON_OBJECTAGG &amp;amp; JSON_ARRAYAGG. You can use the JSON data type and JSON aggregates to integrate and work with JSON documents more efficiently in the database. This functionality is available in Azure SQL Database, Azure SQL Managed [&amp;hellip;]】我们很高兴宣布本机JSON数据类型和JSON聚合的一般可用性（GA） -  JSON_OBJECTAGG和JSON_ARRAYAGG。您可以使用JSON数据类型和JSON聚合物在数据库中更有效地集成和使用JSON文档。此功能可在Azure SQL数据库中获得，Azure SQL托管[…]</description>
+      <pubDate>Mon, 19 May 2025 16:35:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Celebrating 50 Million Developers: The Journey of Visual Studio and Visual Studio Code】庆祝5000万开发人员：视觉工作室和视觉工作室代码的旅程</title>
-      <link>https://devblogs.microsoft.com/blog/celebrating-50-million-developers-the-journey-of-visual-studio-and-visual-studio-code</link>
-      <description>【Today, I&amp;#8217;m thrilled to share that we&amp;#8217;ve hit an incredible milestone together: 50 million developers are actively using Visual Studio and Visual Studio Code each month. That&amp;#8217;s 50 million of you writing code, debugging late into the night, collaborating on projects, and building the future with us. This isn&amp;#8217;t just a statistic—it&amp;#8217;s a testament to the real work, innovation, [&amp;hellip;]】今天，我很高兴分享我们已经达到了一个令人难以置信的里程碑：5000万开发人员每个月都在使用Visual Studio和Visual Studio代码。那是您编写代码的5000万，在深夜进行调试，在项目上进行合作，并与我们建立未来。这不仅是一个统计数据，还证明了真实的工作，创新，[…]</description>
-      <pubDate>Thu, 15 May 2025 18:48:15 +0000</pubDate>
+      <title>【Unlocking the Power of Regex in SQL Server】在SQL Server中解锁正则强度</title>
+      <link>https://devblogs.microsoft.com/azure-sql/unlocking-the-power-of-regex-in-sql-server</link>
+      <description>【Regular expressions, or regex, are powerful tools for text manipulation and pattern matching. They are incredibly useful in various scenarios, such as data validation, extraction, and transformation. SQL Server 2025 introduces native support for regex functions, making it easier to perform complex text operations directly within SQL queries. This Regex support is available in SQL [&amp;hellip;]】正则表达式或正则是正则是文本操作和图案匹配的强大工具。它们在各种情况（例如数据验证，提取和转换）中非常有用。 SQL Server 2025引入了对正则函数的本机支持，从而更容易在SQL查询中直接执行复杂的文本操作。 SQL […]可用此正则支持。</description>
+      <pubDate>Mon, 19 May 2025 16:07:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloud infrastructure provisioning: best practices for IaC】云基础架构提供：IAC的最佳实践</title>
-      <link>https://devblogs.microsoft.com/ise/best-practices-infrastructure-pipelines</link>
-      <description>【Infrastructure-as-Code (IaC) is a common DevOps practice that enterprises use to provision and deploy IT infrastructure. Enterprises applying IaC and continuous integration/continuous delivery (CI/CD) pipelines can maintain high availability and manage risk for their cloud environments at scale. However, multi-environment challenges, manual processes, and fragmented guidance still lead to configuration drift, errors, and inconsistencies. These issues are likely to result in downtime, security vulnerabilities, and inefficient resource utilization.】基础架构AS-CODE（IAC）是一种常见的DevOps实践，企业用来提供和部署IT基础架构。应用IAC和连续交付/连续交付（CI/CD）管道的企业可以维持高可用性并规模管理其云环境的风险。但是，多种环境的挑战，手动过程和分散的指导仍会导致配置漂移，错误和不一致。这些问题可能导致停机时间，安全漏洞和效率低下的资源利用。</description>
-      <pubDate>Thu, 15 May 2025 07:00:00 +0000</pubDate>
+      <title>【.NET Aspire 9.3 is here and enhanced with GitHub Copilot!】。</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93</link>
+      <description>【.NET Aspire 9.3 is the biggest release of .NET Aspire yet, with the introduction of GitHub Copilot directly into the .NET Aspire Dashboard, updates for integrations, app model enhancements, and more.】。</description>
+      <pubDate>Mon, 19 May 2025 17:33:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Evaluating content safety in your .NET AI applications】评估.NET AI应用程序中的内容安全性</title>
-      <link>https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety</link>
-      <description>【Announcing content safety evaluations and other imporvements in the Microsoft.Extensions.AI.Evaluation libraries.】在Microsoft.extensions.ai.Ai.Evaluation库中宣布内容安全评估和其他源泉。</description>
-      <pubDate>Thu, 15 May 2025 17:05:00 +0000</pubDate>
+      <title>【GitHub Copilot: Exploring Agent Mode and MCP Support in Public Preview for Xcode】GitHub Copilot：在Xcode的公共预览中探索代理模式和MCP支持</title>
+      <link>https://devblogs.microsoft.com/xcode/github-copilot-exploring-agent-mode-and-mcp-support-in-public-preview-for-xcode</link>
+      <description>【We’re excited to announce that GitHub Copilot’s Agent Mode and Model Context Protocol (MCP) support are now available in public preview for Xcode! This brings powerful autonomous coding capabilities to macOS developers using Xcode. What is Agent Mode? Agent Mode turns GitHub Copilot into an intelligent pair programmer that can understand your intent, plan multi-step [&amp;hellip;]】我们很高兴地宣布，GitHub Copilot的代理模式和模型上下文协议（MCP）支持现在可以在XCode的Public Preview中获得！这为MacOS开发人员提供了强大的自主编码功能。什么是代理模式？代理模式将GitHub Copilot变成了一个智能的配对程序员，可以理解您的意图，计划多步骤[…]</description>
+      <pubDate>Mon, 19 May 2025 16:09:35 +0000</pubDate>
     </item>
     <item>
-      <title>【If I mark my thread pool callback as long-running, does it still count toward the thread pool thread limit?】如果我将线程池回调标记为长期运行，是否仍然计入线程池螺纹限制？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250514-00/?p=111178</link>
-      <description>【Yes, because it&#39;s still in the thread pool.】是的，因为它仍在线程池中。</description>
-      <pubDate>Wed, 14 May 2025 14:00:00 +0000</pubDate>
+      <title>【Vibe coding with GitHub Copilot: Agent mode and MCP support in JetBrains and Eclipse】使用GitHub Copilot编码的氛围：喷气桥和Eclipse中的代理模式和MCP支持</title>
+      <link>https://devblogs.microsoft.com/java/vibe-coding-with-github-copilot-agent-mode-and-mcp-support-in-jetbrains-and-eclipse</link>
+      <description>【Today, we&amp;#8217;re excited to announce that GitHub Copilot Agent Mode and MCP support are now in public preview for both JetBrains and Eclipse! Whether you&amp;#8217;re working in IntelliJ IDEA, PyCharm, WebStorm or Eclipse, you can now access Copilot’s intelligent agent features and seamlessly manage your project workflows, all from within your IDE.  In this post, we’ll [&amp;hellip;]】今天，我们很高兴地宣布，Github Copilot Agent Mode和MCP支持现在已在Jetbrains和Eclipse的公开预览中！无论您是在Intellij Idea，Pycharm，Webstorm还是Eclipse中工作，现在都可以访问Copilot的智能代理功能，并无缝管理您的项目工作流程，全部来自您的IDE。  在这篇文章中，我们将[…]</description>
+      <pubDate>Mon, 19 May 2025 16:22:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
