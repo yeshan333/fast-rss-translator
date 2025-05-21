@@ -4,46 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Edit is now open source】编辑现在是开源的</title>
-      <link>https://devblogs.microsoft.com/commandline/edit-is-now-open-source</link>
-      <description>【What is Edit? Edit is a new command-line text editor in Windows. Edit is open source, so you can build the code or install the latest version from GitHub! This CLI text editor will be available to preview in the Windows Insider Program in the coming months. After that, it will ship as part of [&amp;hellip;]】什么是编辑？编辑是Windows中的新命令行文本编辑器。编辑是开源的，因此您可以构建代码或从Github安装最新版本！该CLI文本编辑器将在未来几个月内可以在Windows Insider程序中预览。之后，它将作为[…]的一部分发货</description>
-      <pubDate>Mon, 19 May 2025 16:04:35 +0000</pubDate>
+      <title>【GitHub Copilot app modernization for Java 公共预览版发布】GitHub Copilot app modernization for Java 公共预览版发布</title>
+      <link>https://devblogs.microsoft.com/java-ch/github-copilot-app-modernization-for-java</link>
+      <description>【现代化 Java 应用程序并将其迁移到云端，往往是一个复杂、耗时且碎片化的过程。GitHub Copilot app modernization for Java旨在简化并加速这一迁移过程，助力您顺利迈向云端。 该工具现已在 Visual Studio Code Marketplace 上以单一插件包形式公开预览。GitHub Copilot Java app modernization for Java为 Java 升级与现代化提供了智能、可指导的路径——可自动化重复性任务、提升一致性并降低风险。 六大核心价值 1. 智能问题分析与推荐现代化始于洞察。无论是升级 Java 运行时，还是迁移到 Azure，首要步骤是了解您的代码。该工具可分析项目当前状态并生成计划，结合 Azure Migrate 应用代码评估工具（AppCAT）提供上下文感知的修复建议和可操作的推荐，助您从诊断问题转向实际改造。AppCAT 也可作为独立 CLI 工具使用，详见 AppCAT for Java。 2. 专家驱动的代码转换在生成迁移计划后，GitHub Copilot app modernization for Java利用强大的代码转换引擎，融合专家制定的迁移策略与自动化 Java 升级流程。从 Java 8 升级到 Java 21，或迁移到 Azure 服务平台，Copilot 均可精准地应用结构化变更。 在云端现代化场景中，工具提供预定义的 [&amp;hellip;]】现代化 Java 应用程序并将其迁移到云端，往往是一个复杂、耗时且碎片化的过程。GitHub Copilot app modernization for Java旨在简化并加速这一迁移过程，助力您顺利迈向云端。 该工具现已在 Visual Studio Code Marketplace 上以单一插件包形式公开预览。GitHub Copilot Java app modernization for Java为 Java 升级与现代化提供了智能、可指导的路径——可自动化重复性任务、提升一致性并降低风险。 六大核心价值 1. 智能问题分析与推荐现代化始于洞察。无论是升级 Java 运行时，还是迁移到 Azure，首要步骤是了解您的代码。该工具可分析项目当前状态并生成计划，结合 Azure Migrate 应用代码评估工具（AppCAT）提供上下文感知的修复建议和可操作的推荐，助您从诊断问题转向实际改造。AppCAT 也可作为独立 CLI 工具使用，详见 AppCAT for Java。 2. 专家驱动的代码转换在生成迁移计划后，GitHub Copilot app modernization for Java利用强大的代码转换引擎，融合专家制定的迁移策略与自动化 Java 升级流程。从 Java 8 升级到 Java 21，或迁移到 Azure 服务平台，Copilot 均可精准地应用结构化变更。 在云端现代化场景中，工具提供预定义的 […]</description>
+      <pubDate>Tue, 20 May 2025 07:23:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Accelerate Your .NET Upgrades with GitHub Copilot】加速您的.NET升级使用GitHub Copilot</title>
-      <link>https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet</link>
-      <description>【Upgrade your .NET apps with confidence! Introducing our newest AI-powered upgrade experience, GitHub Copilot app modernization - Upgrade for .NET.】充满信心地升级.NET应用程序！介绍了我们最新的AI驱动升级体验，Github Copilot App Modernization -.NET升级。</description>
-      <pubDate>Mon, 19 May 2025 17:05:00 +0000</pubDate>
+      <title>【One Pipeline to Rule Them All: Ensuring CodeQL Scanning Results and Dependency Scanning Results Go to the Intended Repository】一条统治所有这些的管道：确保CODEQL扫描结果和依赖扫描结果转到预期的存储库</title>
+      <link>https://devblogs.microsoft.com/devops/one-pipeline-to-rule-them-all-codeql-dependency-scanning</link>
+      <description>【&amp;#8220;One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them.&amp;#8221; – J.R.R. Tolkien, The Lord of the Rings In the world of code scanning and dependency scanning, your pipeline is the One Ring—a single definition that can orchestrate scans across multiple repositories. [&amp;hellip;]】“一个戒指统治它们，一个戒指可以找到它们，一个戒指将它们全部带来，而在黑暗中将它们束缚在一起。” -  J.R.R.托尔金（Tolkien）是《守则扫描和依赖扫描世界》中的指环王，您的管道是一个环，这是一个单一的定义，可以在多个存储库中进行扫描。 […]</description>
+      <pubDate>Tue, 20 May 2025 23:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Accelerating MongoDB Development on Azure: What’s New at Microsoft Build 2025】加速Azure上的MongoDB开发：Microsoft Build 2025的新功能</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/accelerating-mongodb-development-on-azure-whats-new-at-microsoft-build-2025</link>
-      <description>【Microsoft Build 2025 is underway in Seattle, bringing developers together to shape the future of cloud-native app development. If you build MongoDB workloads in Azure, this year’s updates give you even more tools to accelerate development. We’ve streamlined how you build and modernize MongoDB applications in the cloud with our managed service- vCore-based Azure Cosmos [&amp;hellip;]】Microsoft Build 2025在西雅图正在进行，将开发人员汇集在一起​​，以塑造云本地应用开发的未来。如果您在Azure中构建MongoDB工作负载，今年的更新为您提供了更多的工具来加速开发。我们已经简化了如何使用我们的基于托管服务的Azure Cosmos […]在云中构建和现代化MongoDB应用程序的现代化应用程序。</description>
-      <pubDate>Mon, 19 May 2025 16:00:54 +0000</pubDate>
+      <title>【Azure MCP Server – May 2025 Release】Azure MCP服务器 -  2025年5月发布</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-may-2025-release</link>
+      <description>【This post discusses the updates to the Azure MCP (Model Context Protocol) Server for Microsoft //build 2025.】这篇文章讨论了Microsoft // build 2025的Azure MCP（模型上下文协议）服务器的更新。</description>
+      <pubDate>Tue, 20 May 2025 19:40:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Agent mode for every developer】每个开发人员的代理模式</title>
-      <link>https://devblogs.microsoft.com/blog/agent-mode-for-every-developer</link>
-      <description>【At the beginning of April, agent mode rolled out to all users in Visual Studio Code. Since then, we’ve seen and heard how developers are embracing this tool and using it to transform their workflows. Now, just six weeks later, we’re excited to announce that it’s available to all developers using VS Code, Visual Studio, [&amp;hellip;]】在4月初，Agent Mode将Visual Studio代码中的所有用户推出。从那以后，我们看到并听到了开发人员如何拥抱此工具并使用它来改变他们的工作流程。现在，仅仅六周后，我们很高兴地宣布，使用VS代码，Visual Studio，[…]的所有开发人员都可以使用它。</description>
-      <pubDate>Mon, 19 May 2025 18:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Supercharge AI development with new AI-powered features in Microsoft Dev Box】Microsoft Dev Box中具有新的AI驱动功能的增压AI开发</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/supercharge-ai-development-with-new-ai-powered-features-in-microsoft-dev-box</link>
-      <description>【AI is reshaping how we build, deploy, and scale software. As more apps become AI-powered, developers need environments that can keep up with speed and demands of innovation. We&amp;#8217;ve heard from customers just how critical it is to have a zero-config experience when building AI applications, with streamlined access to compute, prebuilt models, and environment [&amp;hellip;]】AI正在重塑我们的构建，部署和规模软件。随着越来越多的应用程序成为AI驱动的，开发人员需要能够跟上创新速度和需求的环境。我们从客户那里听说，在构建AI应用程序时具有零核能体验的重要性，并简化了对计算，预制模型和环境的访问[…]</description>
-      <pubDate>Mon, 19 May 2025 16:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the General Availability (GA) of JSON data type &amp; JSON aggregates…】宣布JSON数据类型和JSON聚合的一般可用性（GA）…</title>
-      <link>https://devblogs.microsoft.com/azure-sql/announcing-the-general-availability-ga-of-json-data-type-json-aggregates</link>
-      <description>【We are excited to announce the General Availability (GA) of the native JSON data type and JSON aggregates &amp;#8211; JSON_OBJECTAGG &amp;amp; JSON_ARRAYAGG. You can use the JSON data type and JSON aggregates to integrate and work with JSON documents more efficiently in the database. This functionality is available in Azure SQL Database, Azure SQL Managed [&amp;hellip;]】我们很高兴宣布本机JSON数据类型和JSON聚合的一般可用性（GA） -  JSON_OBJECTAGG和JSON_ARRAYAGG。您可以使用JSON数据类型和JSON聚合物在数据库中更有效地集成和使用JSON文档。此功能可在Azure SQL数据库中获得，Azure SQL托管[…]</description>
-      <pubDate>Mon, 19 May 2025 16:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlocking the Power of Regex in SQL Server】在SQL Server中解锁正则强度</title>
-      <link>https://devblogs.microsoft.com/azure-sql/unlocking-the-power-of-regex-in-sql-server</link>
-      <description>【Regular expressions, or regex, are powerful tools for text manipulation and pattern matching. They are incredibly useful in various scenarios, such as data validation, extraction, and transformation. SQL Server 2025 introduces native support for regex functions, making it easier to perform complex text operations directly within SQL queries. This Regex support is available in SQL [&amp;hellip;]】正则表达式或正则是正则是文本操作和图案匹配的强大工具。它们在各种情况（例如数据验证，提取和转换）中非常有用。 SQL Server 2025引入了对正则函数的本机支持，从而更容易在SQL查询中直接执行复杂的文本操作。 SQL […]可用此正则支持。</description>
-      <pubDate>Mon, 19 May 2025 16:07:07 +0000</pubDate>
+      <title>【Announcing Azure Command Launcher for Java】宣布Java的Azure命令发射器</title>
+      <link>https://devblogs.microsoft.com/java/announcing-azure-command-launcher-for-java</link>
+      <description>【Optimizing JVM Configuration for Azure Deployments Tuning the Java Virtual Machine (JVM) for cloud deployments is notoriously challenging. Over 30% of developers tend to deploy Java workloads with no JVM configuration at all, therefore relying on the default settings of the HotSpot JVM. The default settings in OpenJDK are intentionally conservative, designed to work across [&amp;hellip;]】优化用于Azure部署的JVM配置调整Java虚拟机（JVM）以进行云部署是挑战。超过30％的开发人员倾向于完全没有JVM配置部署Java工作负载，因此依赖于热点JVM的默认设置。 OpenJDK中的默认设置有意保守，旨在跨[…]工作。</description>
+      <pubDate>Tue, 20 May 2025 14:00:13 +0000</pubDate>
     </item>
     <item>
       <title>【.NET Aspire 9.3 is here and enhanced with GitHub Copilot!】。</title>
@@ -52,16 +34,34 @@
       <pubDate>Mon, 19 May 2025 17:33:50 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot: Exploring Agent Mode and MCP Support in Public Preview for Xcode】GitHub Copilot：在Xcode的公共预览中探索代理模式和MCP支持</title>
-      <link>https://devblogs.microsoft.com/xcode/github-copilot-exploring-agent-mode-and-mcp-support-in-public-preview-for-xcode</link>
-      <description>【We’re excited to announce that GitHub Copilot’s Agent Mode and Model Context Protocol (MCP) support are now available in public preview for Xcode! This brings powerful autonomous coding capabilities to macOS developers using Xcode. What is Agent Mode? Agent Mode turns GitHub Copilot into an intelligent pair programmer that can understand your intent, plan multi-step [&amp;hellip;]】我们很高兴地宣布，GitHub Copilot的代理模式和模型上下文协议（MCP）支持现在可以在XCode的Public Preview中获得！这为MacOS开发人员提供了强大的自主编码功能。什么是代理模式？代理模式将GitHub Copilot变成了一个智能的配对程序员，可以理解您的意图，计划多步骤[…]</description>
-      <pubDate>Mon, 19 May 2025 16:09:35 +0000</pubDate>
+      <title>【Introducing the Microsoft 365 Agents Toolkit】引入Microsoft 365代理工具包</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-365-agents-toolkit</link>
+      <description>【Read how the Microsoft 365 Agents Toolkit, an evolution of Microsoft Teams Toolkit, is designed to help developers build agents and apps for Microsoft 365 Copilot, Microsoft Teams, and Microsoft 365.】阅读Microsoft 365代理工具包（Microsoft Teams Toolkit的演变）如何旨在帮助开发人员为Microsoft 365 Copilot，Microsoft Teams和Microsoft 365构建代理和应用程序。</description>
+      <pubDate>Tue, 20 May 2025 16:01:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Vibe coding with GitHub Copilot: Agent mode and MCP support in JetBrains and Eclipse】使用GitHub Copilot编码的氛围：喷气桥和Eclipse中的代理模式和MCP支持</title>
-      <link>https://devblogs.microsoft.com/java/vibe-coding-with-github-copilot-agent-mode-and-mcp-support-in-jetbrains-and-eclipse</link>
-      <description>【Today, we&amp;#8217;re excited to announce that GitHub Copilot Agent Mode and MCP support are now in public preview for both JetBrains and Eclipse! Whether you&amp;#8217;re working in IntelliJ IDEA, PyCharm, WebStorm or Eclipse, you can now access Copilot’s intelligent agent features and seamlessly manage your project workflows, all from within your IDE.  In this post, we’ll [&amp;hellip;]】今天，我们很高兴地宣布，Github Copilot Agent Mode和MCP支持现在已在Jetbrains和Eclipse的公开预览中！无论您是在Intellij Idea，Pycharm，Webstorm还是Eclipse中工作，现在都可以访问Copilot的智能代理功能，并无缝管理您的项目工作流程，全部来自您的IDE。  在这篇文章中，我们将[…]</description>
-      <pubDate>Mon, 19 May 2025 16:22:51 +0000</pubDate>
+      <title>【Announced at Build 2025: Foundry connection for Azure Cosmos DB, Global Secondary Index, full-text search, and more】宣布在2025年的Build：Azure Cosmos DB，全球次要索引，全文搜索等等的铸造厂连接等</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announced-at-build-2025-foundry-connection-for-azure-cosmos-db-global-secondary-index-full-text-search-and-more</link>
+      <description>【The countdown to innovation has begun: Day 1 of Microsoft Build 2025 bought several new announcements, demos, and live coding sessions to in-person and online audiences, showcasing the potential of cloud-native and AI-driven applications. Azure Cosmos DB is at the forefront of this innovation. From powering multi-agent applications and unlocking high-speed analytics to delivering new [&amp;hellip;]】创新的倒计时已经开始：Microsoft Build 2025的第1天购买了几个新公告，演示和实时编码会议，并向面对面和在线观众购买，展示了云本地和AI-Driven驱动的应用程序的潜力。 Azure Cosmos DB处于这项创新的最前沿。从为多代理应用程序供电并解锁高速分析到提供新的[…]</description>
+      <pubDate>Tue, 20 May 2025 23:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure DevOps with GitHub Repositories – Your path to Agentic AI】带有GitHub存储库的Azure Devops  - 您通往代理AI的途径</title>
+      <link>https://devblogs.microsoft.com/blog/azure-devops-with-github-repositories-your-path-to-agentic-ai</link>
+      <description>【GitHub Copilot has evolved beyond a coding assistant in the IDE into an agentic teammate – providing actionable feedback on pull requests, fixing bugs and implementing new features, creating pull requests and responding to feedback, and much more. These new capabilities will transform every aspect of the software development lifecycle, as we are already seeing [&amp;hellip;]】Github Copilot已经发展到IDE中的编码助手超越代理队的成员 - 提供了有关拉的请求，修复错误并实施新功能，创建拉动请求并响应反馈等的可行反馈。这些新功能将改变软件开发生命周期的各个方面，因为我们已经看到[…]</description>
+      <pubDate>Tue, 20 May 2025 16:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does Windows report my processor speed twice, with slightly different values?】Windows为什么要报告我的处理器速度两次，值略有不同？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250520-00/?p=111201</link>
+      <description>【One is calculated. The other is self-promotion.】计算一个。另一个是自我促进。</description>
+      <pubDate>Tue, 20 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Agent mode for every developer】每个开发人员的代理模式</title>
+      <link>https://devblogs.microsoft.com/blog/agent-mode-for-every-developer</link>
+      <description>【At the beginning of April, agent mode rolled out to all users in Visual Studio Code. Since then, we’ve seen and heard how developers are embracing this tool and using it to transform their workflows. Now, just six weeks later, we’re excited to announce that it’s available to all developers using VS Code, Visual Studio, [&amp;hellip;]】在4月初，Agent Mode将Visual Studio代码中的所有用户推出。从那以后，我们看到并听到了开发人员如何拥抱此工具并使用它来改变他们的工作流程。现在，仅仅六周后，我们很高兴地宣布，使用VS代码，Visual Studio，[…]的所有开发人员都可以使用它。</description>
+      <pubDate>Mon, 19 May 2025 18:30:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
