@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【GitHub Copilot app modernization for Java 公共预览版发布】GitHub Copilot app modernization for Java 公共预览版发布</title>
-      <link>https://devblogs.microsoft.com/java-ch/github-copilot-app-modernization-for-java</link>
-      <description>【现代化 Java 应用程序并将其迁移到云端，往往是一个复杂、耗时且碎片化的过程。GitHub Copilot app modernization for Java旨在简化并加速这一迁移过程，助力您顺利迈向云端。 该工具现已在 Visual Studio Code Marketplace 上以单一插件包形式公开预览。GitHub Copilot Java app modernization for Java为 Java 升级与现代化提供了智能、可指导的路径——可自动化重复性任务、提升一致性并降低风险。 六大核心价值 1. 智能问题分析与推荐现代化始于洞察。无论是升级 Java 运行时，还是迁移到 Azure，首要步骤是了解您的代码。该工具可分析项目当前状态并生成计划，结合 Azure Migrate 应用代码评估工具（AppCAT）提供上下文感知的修复建议和可操作的推荐，助您从诊断问题转向实际改造。AppCAT 也可作为独立 CLI 工具使用，详见 AppCAT for Java。 2. 专家驱动的代码转换在生成迁移计划后，GitHub Copilot app modernization for Java利用强大的代码转换引擎，融合专家制定的迁移策略与自动化 Java 升级流程。从 Java 8 升级到 Java 21，或迁移到 Azure 服务平台，Copilot 均可精准地应用结构化变更。 在云端现代化场景中，工具提供预定义的 [&amp;hellip;]】现代化 Java 应用程序并将其迁移到云端，往往是一个复杂、耗时且碎片化的过程。GitHub Copilot app modernization for Java旨在简化并加速这一迁移过程，助力您顺利迈向云端。 该工具现已在 Visual Studio Code Marketplace 上以单一插件包形式公开预览。GitHub Copilot Java app modernization for Java为 Java 升级与现代化提供了智能、可指导的路径——可自动化重复性任务、提升一致性并降低风险。 六大核心价值 1. 智能问题分析与推荐现代化始于洞察。无论是升级 Java 运行时，还是迁移到 Azure，首要步骤是了解您的代码。该工具可分析项目当前状态并生成计划，结合 Azure Migrate 应用代码评估工具（AppCAT）提供上下文感知的修复建议和可操作的推荐，助您从诊断问题转向实际改造。AppCAT 也可作为独立 CLI 工具使用，详见 AppCAT for Java。 2. 专家驱动的代码转换在生成迁移计划后，GitHub Copilot app modernization for Java利用强大的代码转换引擎，融合专家制定的迁移策略与自动化 Java 升级流程。从 Java 8 升级到 Java 21，或迁移到 Azure 服务平台，Copilot 均可精准地应用结构化变更。 在云端现代化场景中，工具提供预定义的 […]</description>
-      <pubDate>Tue, 20 May 2025 07:23:53 +0000</pubDate>
+      <title>【DiskANN and Filtered Vector Search are Now Generally Available in Azure Cosmos DB for MongoDB (vCore)】现在通常可以在Azure Cosmos DB（VCORE）中获得Diskann和过滤的矢量搜索（VCORE）</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/diskann-in-azure-cosmos-db-for-mongodb</link>
+      <description>【We’re excited to announce general availability of DiskANN and Filtered Vector Search on Azure Cosmos DB for MongoDB (vCore), starting with M30 cluster tiers and above. You can now use these features in production to store and query vector embeddings directly alongside your operational data—efficiently and in one integrated vector database.  DiskANN Indexing: Scaling Vector [&amp;hellip;]】我们很高兴地宣布，从M30群集层及更高版本开始，在Azure Cosmos DB（VCORE）上，在Azure Cosmos db上进行了diskann和过滤矢量搜索的一般可用性。现在，您可以在生产中使用这些功能来存储和查询矢量嵌入，并在一个集成的矢量数据库中直接与操作数据一起使用。  diskann索引：缩放向量[…]</description>
+      <pubDate>Wed, 21 May 2025 18:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>【One Pipeline to Rule Them All: Ensuring CodeQL Scanning Results and Dependency Scanning Results Go to the Intended Repository】一条统治所有这些的管道：确保CODEQL扫描结果和依赖扫描结果转到预期的存储库</title>
-      <link>https://devblogs.microsoft.com/devops/one-pipeline-to-rule-them-all-codeql-dependency-scanning</link>
-      <description>【&amp;#8220;One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them.&amp;#8221; – J.R.R. Tolkien, The Lord of the Rings In the world of code scanning and dependency scanning, your pipeline is the One Ring—a single definition that can orchestrate scans across multiple repositories. [&amp;hellip;]】“一个戒指统治它们，一个戒指可以找到它们，一个戒指将它们全部带来，而在黑暗中将它们束缚在一起。” -  J.R.R.托尔金（Tolkien）是《守则扫描和依赖扫描世界》中的指环王，您的管道是一个环，这是一个单一的定义，可以在多个存储库中进行扫描。 […]</description>
-      <pubDate>Tue, 20 May 2025 23:47:00 +0000</pubDate>
+      <title>【Connecting to Private NuGet Feeds Just Got Easier】连接到私人Nuget feed变得更加容易</title>
+      <link>https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier</link>
+      <description>【The Visual Studio 2022 17.14 update is here, and it brings great quality-of-life improvements—especially around NuGet authentication. From context about the authentication needs of private NuGet feeds to a simplified account selection workflow, this update helps you stay focused on your code! If you haven’t already, download the latest Visual Studio update to take advantage [&amp;hellip;]】Visual Studio 2022 17.14更新在这里，它带来了巨大的生活质量改进，尤其是Nuget身份验证。从关于私人Nuget Feed的身份验证需求到简化帐户选择工作流程的上下文，此更新可帮助您专注于代码！如果您还没有，请下载最新的Visual Studio更新以利用优势[…]</description>
+      <pubDate>Wed, 21 May 2025 15:55:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure MCP Server – May 2025 Release】Azure MCP服务器 -  2025年5月发布</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-may-2025-release</link>
-      <description>【This post discusses the updates to the Azure MCP (Model Context Protocol) Server for Microsoft //build 2025.】这篇文章讨论了Microsoft // build 2025的Azure MCP（模型上下文协议）服务器的更新。</description>
-      <pubDate>Tue, 20 May 2025 19:40:20 +0000</pubDate>
+      <title>【Semantic Kernel and Microsoft.Extensions.AI: Better Together, Part 1】语义内核和Microsoft.extensions.ai：更好地在一起，第1部分</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-microsoft-extensions-ai-better-together-part-1</link>
+      <description>【This is the start of a series highlighting the integration between Microsoft Semantic Kernel and Microsoft.Extensions.AI. Future parts will provide detailed examples of using Semantic Kernel with Microsoft.Extensions.AI abstractions.  The most common questions are:  &amp;#8220;Do Microsoft&amp;#8217;s AI extensions replace Semantic Kernel?&amp;#8221;  &amp;#8220;When should I use Microsoft&amp;#8217;s AI extensions instead of Semantic Kernel?&amp;#8221;  This blog post [&amp;hellip;]】这是一个系列的开始，突出了Microsoft语义内核和Microsoft.extensions.ai之间的集成。未来的部分将提供使用Microsoft.extensions.ai摘要使用语义内核的详细示例。  最常见的问题是：“微软的AI扩展是否取代语义内核？”  “我什么时候应该使用Microsoft的AI扩展而不是语义内核？”  这篇博客文章[…]</description>
+      <pubDate>Wed, 21 May 2025 14:47:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Azure Command Launcher for Java】宣布Java的Azure命令发射器</title>
-      <link>https://devblogs.microsoft.com/java/announcing-azure-command-launcher-for-java</link>
-      <description>【Optimizing JVM Configuration for Azure Deployments Tuning the Java Virtual Machine (JVM) for cloud deployments is notoriously challenging. Over 30% of developers tend to deploy Java workloads with no JVM configuration at all, therefore relying on the default settings of the HotSpot JVM. The default settings in OpenJDK are intentionally conservative, designed to work across [&amp;hellip;]】优化用于Azure部署的JVM配置调整Java虚拟机（JVM）以进行云部署是挑战。超过30％的开发人员倾向于完全没有JVM配置部署Java工作负载，因此依赖于热点JVM的默认设置。 OpenJDK中的默认设置有意保守，旨在跨[…]工作。</description>
-      <pubDate>Tue, 20 May 2025 14:00:13 +0000</pubDate>
+      <title>【Transitioning to new Extensions AI IEmbeddingGenerator interface】过渡到新的扩展名AI iembedgingGenerator界面</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/transitioning-to-new-iembeddinggenerator-interface</link>
+      <description>【As Semantic Kernel shifts its foundational abstractions to Microsoft.Extensions.AI, we are obsoleting and moving away from our experimental embeddings interfaces to the new standardized abstractions that provide a more consistent and powerful way to work with AI services across the .NET ecosystem. The Evolution of Embedding Generation in Semantic Kernel Semantic Kernel has always aimed [&amp;hellip;]】随着语义内核将其基本抽象转移到microsoft.extensions.ai时，我们正在淘汰并从实验性嵌入界面转移到新的标准化抽象，这些抽象提供了一种更加一致，更有力的方式，可以在.NET生态系统中使用AI服务。在语义内核语义内核中嵌入产生的演变一直以目标为目标[…]</description>
+      <pubDate>Wed, 21 May 2025 14:46:46 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET Aspire 9.3 is here and enhanced with GitHub Copilot!】。</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93</link>
-      <description>【.NET Aspire 9.3 is the biggest release of .NET Aspire yet, with the introduction of GitHub Copilot directly into the .NET Aspire Dashboard, updates for integrations, app model enhancements, and more.】。</description>
-      <pubDate>Mon, 19 May 2025 17:33:50 +0000</pubDate>
+      <title>【MSSQL Extension for VS Code: Introducing Schema Designer (Preview)】VS代码的MSSQL扩展名：介绍模式设计器（预览）</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vs-code-mssql-schema-designer</link>
+      <description>【Overview Database design can often feel like navigating a maze of tables, relationships, and data types — especially when working directly with T-SQL scripts. But what if you could map out your database, make changes to your tables, and manage complex schemas within a graphical interface? We are excited to announce the Public Preview of [&amp;hellip;]】概述数据库设计通常会感觉像是导航表，关系和数据类型的迷宫，尤其是直接使用T-SQL脚本时。但是，如果您可以映射数据库，对表进行更改并在图形接口中管理复杂的模式怎么办？我们很高兴宣布[…]的公众预览</description>
+      <pubDate>Wed, 21 May 2025 15:55:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Microsoft 365 Agents Toolkit】引入Microsoft 365代理工具包</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-365-agents-toolkit</link>
-      <description>【Read how the Microsoft 365 Agents Toolkit, an evolution of Microsoft Teams Toolkit, is designed to help developers build agents and apps for Microsoft 365 Copilot, Microsoft Teams, and Microsoft 365.】阅读Microsoft 365代理工具包（Microsoft Teams Toolkit的演变）如何旨在帮助开发人员为Microsoft 365 Copilot，Microsoft Teams和Microsoft 365构建代理和应用程序。</description>
-      <pubDate>Tue, 20 May 2025 16:01:44 +0000</pubDate>
+      <title>【Connect Once, Integrate Anywhere with MCP】连接一次，与MCP的任何地方集成</title>
+      <link>https://devblogs.microsoft.com/blog/connect-once-integrate-anywhere-with-mcps</link>
+      <description>【In the fast-paced world of AI development, connecting intelligent applications to the tools and data sources they need can be challenging. That&amp;#8217;s why Model Context Protocol (MCP) is resonating with some many, an open standard that&amp;#8217;s transforming how developers integrate AI capabilities into their applications. MCP enables you to &amp;#8220;connect once, integrate anywhere&amp;#8221; by creating [&amp;hellip;]】在AI开发快节奏的世界中，将智能应用程序与所需的工具和数据源联系起来可能具有挑战性。这就是为什么模型上下文协议（MCP）引起了许多开放标准的共鸣，这是一个开发者如何将AI功能集成到其应用程序中的原因。 MCP使您可以通过创建[…]来“连接一次，整合到任何地方”</description>
+      <pubDate>Wed, 21 May 2025 17:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Announced at Build 2025: Foundry connection for Azure Cosmos DB, Global Secondary Index, full-text search, and more】宣布在2025年的Build：Azure Cosmos DB，全球次要索引，全文搜索等等的铸造厂连接等</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announced-at-build-2025-foundry-connection-for-azure-cosmos-db-global-secondary-index-full-text-search-and-more</link>
-      <description>【The countdown to innovation has begun: Day 1 of Microsoft Build 2025 bought several new announcements, demos, and live coding sessions to in-person and online audiences, showcasing the potential of cloud-native and AI-driven applications. Azure Cosmos DB is at the forefront of this innovation. From powering multi-agent applications and unlocking high-speed analytics to delivering new [&amp;hellip;]】创新的倒计时已经开始：Microsoft Build 2025的第1天购买了几个新公告，演示和实时编码会议，并向面对面和在线观众购买，展示了云本地和AI-Driven驱动的应用程序的潜力。 Azure Cosmos DB处于这项创新的最前沿。从为多代理应用程序供电并解锁高速分析到提供新的[…]</description>
-      <pubDate>Tue, 20 May 2025 23:53:02 +0000</pubDate>
+      <title>【Now in Preview: Azure Cosmos DB Fleets】现在在预览中：Azure Cosmos DB舰队</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/now-in-preview-azure-cosmos-db-fleets</link>
+      <description>【We’re excited to announce the preview of Azure Cosmos DB fleets. Azure Cosmos DB fleets address common challenges that developers face when building and managing multi-tenant or Software as a Service (SaaS) applications. Today, many SaaS providers using Azure Cosmos DB isolate each tenant in a separate database account to meet strict performance and security [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB舰队的预览。 Azure Cosmos DB车队应对开发人员在构建和管理多租户或软件作为服务（SaaS）应用程序时面临的共同挑战。如今，许多SaaS提供商使用Azure Cosmos DB隔离每个租户在单独的数据库帐户中，以满足严格的性能和安全性[…]</description>
+      <pubDate>Wed, 21 May 2025 15:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevOps with GitHub Repositories – Your path to Agentic AI】带有GitHub存储库的Azure Devops  - 您通往代理AI的途径</title>
-      <link>https://devblogs.microsoft.com/blog/azure-devops-with-github-repositories-your-path-to-agentic-ai</link>
-      <description>【GitHub Copilot has evolved beyond a coding assistant in the IDE into an agentic teammate – providing actionable feedback on pull requests, fixing bugs and implementing new features, creating pull requests and responding to feedback, and much more. These new capabilities will transform every aspect of the software development lifecycle, as we are already seeing [&amp;hellip;]】Github Copilot已经发展到IDE中的编码助手超越代理队的成员 - 提供了有关拉的请求，修复错误并实施新功能，创建拉动请求并响应反馈等的可行反馈。这些新功能将改变软件开发生命周期的各个方面，因为我们已经看到[…]</description>
-      <pubDate>Tue, 20 May 2025 16:00:55 +0000</pubDate>
+      <title>【AI and Vector Data Extensions are now Generally Available (GA)】AI和向量数据扩展现在通常可用（GA）</title>
+      <link>https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga</link>
+      <description>【We’re excited to announce that these extensions are now generally available, providing developers with a robust foundation to build scalable, maintainable, and interoperable AI-powered applications.】我们很高兴地宣布，这些扩展名现在通常可用，为开发人员提供了坚固的基础，以构建可扩展，可维护和可互操作的AI驱动应用程序。</description>
+      <pubDate>Wed, 21 May 2025 16:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does Windows report my processor speed twice, with slightly different values?】Windows为什么要报告我的处理器速度两次，值略有不同？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250520-00/?p=111201</link>
-      <description>【One is calculated. The other is self-promotion.】计算一个。另一个是自我促进。</description>
-      <pubDate>Tue, 20 May 2025 14:00:00 +0000</pubDate>
+      <title>【Foundry Local: A New Era of Edge AI】Foundry Local：Edge AI的新时代</title>
+      <link>https://devblogs.microsoft.com/foundry/foundry-local-a-new-era-of-edge-ai</link>
+      <description>【At Microsoft Build 2025, Microsoft unveiled its groundbreaking Foundry Local solution for edge devices—an efficient platform specifically designed for local AI inference. As a critical component of Microsoft&amp;#8217;s AI strategy, Foundry Local empowers developers to smoothly deploy and run Small Language Models (SLMs) on resource-constrained edge devices, opening new possibilities for the convergence of edge computing and [&amp;hellip;]】在Microsoft Build 2025，Microsoft推出了其开创性的Edge设备的本地解决方案，这是一个专门针对本地AI推理设计的有效平台。作为Microsoft AI策略的关键组成部分，Foundry Local Emplater开发人员可以在资源受限的边缘设备上平稳部署和运行小语言模型（SLM），为Edge Computing和[…]的收敛开辟了新的可能性</description>
+      <pubDate>Wed, 21 May 2025 22:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Agent mode for every developer】每个开发人员的代理模式</title>
-      <link>https://devblogs.microsoft.com/blog/agent-mode-for-every-developer</link>
-      <description>【At the beginning of April, agent mode rolled out to all users in Visual Studio Code. Since then, we’ve seen and heard how developers are embracing this tool and using it to transform their workflows. Now, just six weeks later, we’re excited to announce that it’s available to all developers using VS Code, Visual Studio, [&amp;hellip;]】在4月初，Agent Mode将Visual Studio代码中的所有用户推出。从那以后，我们看到并听到了开发人员如何拥抱此工具并使用它来改变他们的工作流程。现在，仅仅六周后，我们很高兴地宣布，使用VS代码，Visual Studio，[…]的所有开发人员都可以使用它。</description>
-      <pubDate>Mon, 19 May 2025 18:30:41 +0000</pubDate>
+      <title>【AI Shell Preview 4 Release!】AI Shell Preview 4版本！</title>
+      <link>https://devblogs.microsoft.com/powershell/preview-4-ai-shell</link>
+      <description>【We&#39;re excited to share the latest preview release of AI Shell that includes new features and improvements based on your feedback.】我们很高兴分享AI Shell的最新预览版本，该版本包括基于您的反馈的新功能和改进。</description>
+      <pubDate>Wed, 21 May 2025 15:16:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
