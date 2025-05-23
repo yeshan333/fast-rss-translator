@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【DiskANN and Filtered Vector Search are Now Generally Available in Azure Cosmos DB for MongoDB (vCore)】现在通常可以在Azure Cosmos DB（VCORE）中获得Diskann和过滤的矢量搜索（VCORE）</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/diskann-in-azure-cosmos-db-for-mongodb</link>
-      <description>【We’re excited to announce general availability of DiskANN and Filtered Vector Search on Azure Cosmos DB for MongoDB (vCore), starting with M30 cluster tiers and above. You can now use these features in production to store and query vector embeddings directly alongside your operational data—efficiently and in one integrated vector database.  DiskANN Indexing: Scaling Vector [&amp;hellip;]】我们很高兴地宣布，从M30群集层及更高版本开始，在Azure Cosmos DB（VCORE）上，在Azure Cosmos db上进行了diskann和过滤矢量搜索的一般可用性。现在，您可以在生产中使用这些功能来存储和查询矢量嵌入，并在一个集成的矢量数据库中直接与操作数据一起使用。  diskann索引：缩放向量[…]</description>
-      <pubDate>Wed, 21 May 2025 18:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Connecting to Private NuGet Feeds Just Got Easier】连接到私人Nuget feed变得更加容易</title>
-      <link>https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier</link>
-      <description>【The Visual Studio 2022 17.14 update is here, and it brings great quality-of-life improvements—especially around NuGet authentication. From context about the authentication needs of private NuGet feeds to a simplified account selection workflow, this update helps you stay focused on your code! If you haven’t already, download the latest Visual Studio update to take advantage [&amp;hellip;]】Visual Studio 2022 17.14更新在这里，它带来了巨大的生活质量改进，尤其是Nuget身份验证。从关于私人Nuget Feed的身份验证需求到简化帐户选择工作流程的上下文，此更新可帮助您专注于代码！如果您还没有，请下载最新的Visual Studio更新以利用优势[…]</description>
-      <pubDate>Wed, 21 May 2025 15:55:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel and Microsoft.Extensions.AI: Better Together, Part 1】语义内核和Microsoft.extensions.ai：更好地在一起，第1部分</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-microsoft-extensions-ai-better-together-part-1</link>
-      <description>【This is the start of a series highlighting the integration between Microsoft Semantic Kernel and Microsoft.Extensions.AI. Future parts will provide detailed examples of using Semantic Kernel with Microsoft.Extensions.AI abstractions.  The most common questions are:  &amp;#8220;Do Microsoft&amp;#8217;s AI extensions replace Semantic Kernel?&amp;#8221;  &amp;#8220;When should I use Microsoft&amp;#8217;s AI extensions instead of Semantic Kernel?&amp;#8221;  This blog post [&amp;hellip;]】这是一个系列的开始，突出了Microsoft语义内核和Microsoft.extensions.ai之间的集成。未来的部分将提供使用Microsoft.extensions.ai摘要使用语义内核的详细示例。  最常见的问题是：“微软的AI扩展是否取代语义内核？”  “我什么时候应该使用Microsoft的AI扩展而不是语义内核？”  这篇博客文章[…]</description>
-      <pubDate>Wed, 21 May 2025 14:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Transitioning to new Extensions AI IEmbeddingGenerator interface】过渡到新的扩展名AI iembedgingGenerator界面</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/transitioning-to-new-iembeddinggenerator-interface</link>
-      <description>【As Semantic Kernel shifts its foundational abstractions to Microsoft.Extensions.AI, we are obsoleting and moving away from our experimental embeddings interfaces to the new standardized abstractions that provide a more consistent and powerful way to work with AI services across the .NET ecosystem. The Evolution of Embedding Generation in Semantic Kernel Semantic Kernel has always aimed [&amp;hellip;]】随着语义内核将其基本抽象转移到microsoft.extensions.ai时，我们正在淘汰并从实验性嵌入界面转移到新的标准化抽象，这些抽象提供了一种更加一致，更有力的方式，可以在.NET生态系统中使用AI服务。在语义内核语义内核中嵌入产生的演变一直以目标为目标[…]</description>
-      <pubDate>Wed, 21 May 2025 14:46:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MSSQL Extension for VS Code: Introducing Schema Designer (Preview)】VS代码的MSSQL扩展名：介绍模式设计器（预览）</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vs-code-mssql-schema-designer</link>
-      <description>【Overview Database design can often feel like navigating a maze of tables, relationships, and data types — especially when working directly with T-SQL scripts. But what if you could map out your database, make changes to your tables, and manage complex schemas within a graphical interface? We are excited to announce the Public Preview of [&amp;hellip;]】概述数据库设计通常会感觉像是导航表，关系和数据类型的迷宫，尤其是直接使用T-SQL脚本时。但是，如果您可以映射数据库，对表进行更改并在图形接口中管理复杂的模式怎么办？我们很高兴宣布[…]的公众预览</description>
-      <pubDate>Wed, 21 May 2025 15:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Connect Once, Integrate Anywhere with MCP】连接一次，与MCP的任何地方集成</title>
-      <link>https://devblogs.microsoft.com/blog/connect-once-integrate-anywhere-with-mcps</link>
-      <description>【In the fast-paced world of AI development, connecting intelligent applications to the tools and data sources they need can be challenging. That&amp;#8217;s why Model Context Protocol (MCP) is resonating with some many, an open standard that&amp;#8217;s transforming how developers integrate AI capabilities into their applications. MCP enables you to &amp;#8220;connect once, integrate anywhere&amp;#8221; by creating [&amp;hellip;]】在AI开发快节奏的世界中，将智能应用程序与所需的工具和数据源联系起来可能具有挑战性。这就是为什么模型上下文协议（MCP）引起了许多开放标准的共鸣，这是一个开发者如何将AI功能集成到其应用程序中的原因。 MCP使您可以通过创建[…]来“连接一次，整合到任何地方”</description>
-      <pubDate>Wed, 21 May 2025 17:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Now in Preview: Azure Cosmos DB Fleets】现在在预览中：Azure Cosmos DB舰队</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/now-in-preview-azure-cosmos-db-fleets</link>
-      <description>【We’re excited to announce the preview of Azure Cosmos DB fleets. Azure Cosmos DB fleets address common challenges that developers face when building and managing multi-tenant or Software as a Service (SaaS) applications. Today, many SaaS providers using Azure Cosmos DB isolate each tenant in a separate database account to meet strict performance and security [&amp;hellip;]】我们很高兴宣布Azure Cosmos DB舰队的预览。 Azure Cosmos DB车队应对开发人员在构建和管理多租户或软件作为服务（SaaS）应用程序时面临的共同挑战。如今，许多SaaS提供商使用Azure Cosmos DB隔离每个租户在单独的数据库帐户中，以满足严格的性能和安全性[…]</description>
-      <pubDate>Wed, 21 May 2025 15:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI and Vector Data Extensions are now Generally Available (GA)】AI和向量数据扩展现在通常可用（GA）</title>
-      <link>https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga</link>
-      <description>【We’re excited to announce that these extensions are now generally available, providing developers with a robust foundation to build scalable, maintainable, and interoperable AI-powered applications.】我们很高兴地宣布，这些扩展名现在通常可用，为开发人员提供了坚固的基础，以构建可扩展，可维护和可互操作的AI驱动应用程序。</description>
-      <pubDate>Wed, 21 May 2025 16:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Foundry Local: A New Era of Edge AI】Foundry Local：Edge AI的新时代</title>
       <link>https://devblogs.microsoft.com/foundry/foundry-local-a-new-era-of-edge-ai</link>
       <description>【At Microsoft Build 2025, Microsoft unveiled its groundbreaking Foundry Local solution for edge devices—an efficient platform specifically designed for local AI inference. As a critical component of Microsoft&amp;#8217;s AI strategy, Foundry Local empowers developers to smoothly deploy and run Small Language Models (SLMs) on resource-constrained edge devices, opening new possibilities for the convergence of edge computing and [&amp;hellip;]】在Microsoft Build 2025，Microsoft推出了其开创性的Edge设备的本地解决方案，这是一个专门针对本地AI推理设计的有效平台。作为Microsoft AI策略的关键组成部分，Foundry Local Emplater开发人员可以在资源受限的边缘设备上平稳部署和运行小语言模型（SLM），为Edge Computing和[…]的收敛开辟了新的可能性</description>
       <pubDate>Wed, 21 May 2025 22:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>【AI Shell Preview 4 Release!】AI Shell Preview 4版本！</title>
-      <link>https://devblogs.microsoft.com/powershell/preview-4-ai-shell</link>
-      <description>【We&#39;re excited to share the latest preview release of AI Shell that includes new features and improvements based on your feedback.】我们很高兴分享AI Shell的最新预览版本，该版本包括基于您的反馈的新功能和改进。</description>
-      <pubDate>Wed, 21 May 2025 15:16:13 +0000</pubDate>
+      <title>【Generally Available: Seamless Migration from Serverless to Provisioned Throughput in Azure Cosmos DB】通常可用：无缝迁移从无服务器到Azure Cosmos DB中的配置吞吐量</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/generally-available-seamless-migration-from-serverless-to-provisioned-throughput-in-azure-cosmos-db</link>
+      <description>【We are excited to announce the general availability (GA) of a highly requested capability in Azure Cosmos DB: the ability to migrate from serverless to provisioned throughput mode—without manual recreation, or downtime. This release builds on the momentum of our public preview and is now fully supported across all regions. Why it matters Azure Cosmos [&amp;hellip;]】我们很高兴地宣布Azure Cosmos DB中高度要求的功能的一般可用性（GA）：从无服务器迁移到配置的吞吐量模式（无手动娱乐或停机时间）的能力。该版本建立在我们公众预览的势头的基础上，现在在所有地区都得到了完全支持。为什么它重要的是Azure Cosmos […]</description>
+      <pubDate>Thu, 22 May 2025 20:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript Native Previews】宣布打字稿本机预览</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews</link>
+      <description>【This past March we unveiled our efforts to port the TypeScript compiler and toolset to native code. This port has achieved a 10x speed-up on most projects &amp;#8211; not just by using a natively-compiled language (Go), but also through using shared memory parallelism and concurrency where we can benefit. Since then, we have made several [&amp;hellip;]】在过去的3月，我们揭露了将打字稿编译器和工具集移植到本机代码的努力。该端口在大多数项目上都达到了10倍的速度 - 不仅是使用本质上编译的语言（GO），还通过使用共享记忆并行性和并发，我们可以从中受益。从那以后，我们做了几个[…]</description>
+      <pubDate>Thu, 22 May 2025 15:04:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Public Preview: Shape and Control Workloads with Throughput Buckets in Azure Cosmos DB】公共预览：Azure Cosmos DB中使用吞吐量桶的形状和控制工作负载</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/public-preview-shape-and-control-workloads-with-throughput-buckets-in-azure-cosmos-db</link>
+      <description>【Imagine your application is processing customer checkouts in real-time, while a background process synchronizes data for reporting. Suddenly, the seamless user experience falters because the sync job consumes more RU/s than anticipated.  Many teams face a common challenge: multiple workloads share the same container resources, yet each has different performance requirements.  We&amp;#8217;re excited to introduce [&amp;hellip;]】想象一下，您的应用程序正在实时处理客户结帐，而背景过程则同步数据进行报告。突然，无缝的用户体验会失败，因为同步作业消耗的ru/s比预期的要多。  许多团队面临一个普遍的挑战：多个工作负载共享相同的容器资源，但是每个工作负载都有不同的性能要求。  我们很高兴介绍[…]</description>
+      <pubDate>Thu, 22 May 2025 17:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Office Add-ins announces Copilot agents with add-in actions and more at Build 2025】办公室加载项宣布副代理具有加载项的操作，以及在2025年的Build 2025</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/office-addins-at-build-2025</link>
+      <description>【As part of the expanding capabilities for agents across Microsoft 365, Office Platform announces add-in actions for Copilot agents are available in preview. This blog is an overview of all the new capabilities across the platform: APIs, developer tools, and add-in distribution options—making it simpler to build new or iterate on JavaScript add-ins.】作为Microsoft 365中代理商扩展功能的一部分，Office Platform宣布为Copilot代理的附加操作提供预览。该博客是整个平台上所有新功能的概述：API，开发人员工具和附加发行选项 - 使在JavaScript加载项上构建新或迭代更简单。</description>
+      <pubDate>Thu, 22 May 2025 22:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Agent Store: Build, publish, and discover agents in Microsoft 365 Copilot】介绍代理商店：在Microsoft 365 Copilot中构建，发布和发现代理商</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-store-build-publish-and-discover-agents-in-microsoft-365-copilot</link>
+      <description>【We’re excited to introduce the Agent Store — a centralized, curated marketplace that features agents built by Microsoft, trusted partners, and customers. The Agent Store offers a new, immersive experience within Microsoft 365 Copilot that enables users to browse, install, and try agents tailored to their needs.】我们很高兴介绍Agent Store，这是一个集中的，精心策划的市场，其特色是由Microsoft，Trusted Partners和客户建造的代理商。 Agent Store在Microsoft 365 Copilot中提供了一种新的沉浸式体验，使用户能够根据自己的需求浏览，安装和尝试量身定制的代理商。</description>
+      <pubDate>Thu, 22 May 2025 16:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Now Available: Migrate from RU to vCore for Azure Cosmos DB for MongoDB via Azure Portal】现在可用：通过Azure Portal从RU迁移到Vcore的Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/migrate-mongo-db-ru-to-vcore</link>
+      <description>【We are thrilled to introduce a cost-effective, simple, and efficient solution for migrating from RU-based Azure Cosmos DB for MongoDB to vCore-based. You can now move to vCore-based Azure Cosmos DB for MongoDB at no cost using the Azure portal.  How is the vCore model different?  Azure Cosmos DB offers two pricing models: Request Units [&amp;hellip;]】我们很高兴引入一种经济高效，简单且高效的解决方案，用于从基于RU的Azure Cosmos DB迁移到MongoDB到基于VCORE的基于VCORE。现在，您可以使用Azure Portal免费使用MongoDB的基于VCore的Azure Cosmos DB。  Vcore模型有何不同？  Azure Cosmos DB提供了两个定价模型：请求单位[…]</description>
+      <pubDate>Thu, 22 May 2025 22:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I create a window the size of the screen without it being treated as a fullscreen window?】如何创建一个屏幕大小的窗口，而不会将其视为全屏窗口？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250522-00/?p=111211</link>
+      <description>【You can declare that you aren&#39;t rude.】您可以声明自己并不粗鲁。</description>
+      <pubDate>Thu, 22 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New AI Features in SQL Server 2025】SQL Server 2025中的新AI功能</title>
+      <link>https://devblogs.microsoft.com/azure-sql/new-ai-features-in-sql-server-2025</link>
+      <description>【We have some great new AI Features in SQL Server 2025. I also figured a video would be better than reading a blog&amp;#8230;. but, you can also read all about it here.】我们在SQL Server 2025中有一些很棒的新AI功能。我还认为视频比阅读博客要好。但是，您也可以在这里阅读所有有关它的信息。</description>
+      <pubDate>Thu, 22 May 2025 20:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Entra ID integration with Azure Cosmos DB for MongoDB (vCore)】Microsoft Entra ID与Azure Cosmos DB集成，用于MongoDB（VCORE）</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/microsoft-entra-id-integration-with-azure-cosmos-db-for-mongodb-vcore</link>
+      <description>【Security is no longer a nice-to-have—it’s a foundational requirement for any cloud-native architecture. As organizations adopt managed database services to support mission-critical applications, they must prioritize robust, scalable, and centralized security. Azure Cosmos DB for MongoDB (vCore) delivers high performance and flexibility, but it provides the most value when paired with well-implemented security practices. Authentication [&amp;hellip;]】安全性不再是一个不错的选择，而是对任何云本地架构的基本要求。随着组织采用托管数据库服务来支持关键任务应用程序，他们必须优先考虑强大，可扩展和集中安全性。 MongoDB（VCORE）的Azure Cosmos DB提供了高性能和灵活性，但与实践良好的安全实践配对时，它提供了最大的价值。验证 […]</description>
+      <pubDate>Thu, 22 May 2025 14:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
