@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Foundry Local: A New Era of Edge AI】Foundry Local：Edge AI的新时代</title>
-      <link>https://devblogs.microsoft.com/foundry/foundry-local-a-new-era-of-edge-ai</link>
-      <description>【At Microsoft Build 2025, Microsoft unveiled its groundbreaking Foundry Local solution for edge devices—an efficient platform specifically designed for local AI inference. As a critical component of Microsoft&amp;#8217;s AI strategy, Foundry Local empowers developers to smoothly deploy and run Small Language Models (SLMs) on resource-constrained edge devices, opening new possibilities for the convergence of edge computing and [&amp;hellip;]】在Microsoft Build 2025，Microsoft推出了其开创性的Edge设备的本地解决方案，这是一个专门针对本地AI推理设计的有效平台。作为Microsoft AI策略的关键组成部分，Foundry Local Emplater开发人员可以在资源受限的边缘设备上平稳部署和运行小语言模型（SLM），为Edge Computing和[…]的收敛开辟了新的可能性</description>
-      <pubDate>Wed, 21 May 2025 22:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Generally Available: Seamless Migration from Serverless to Provisioned Throughput in Azure Cosmos DB】通常可用：无缝迁移从无服务器到Azure Cosmos DB中的配置吞吐量</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/generally-available-seamless-migration-from-serverless-to-provisioned-throughput-in-azure-cosmos-db</link>
-      <description>【We are excited to announce the general availability (GA) of a highly requested capability in Azure Cosmos DB: the ability to migrate from serverless to provisioned throughput mode—without manual recreation, or downtime. This release builds on the momentum of our public preview and is now fully supported across all regions. Why it matters Azure Cosmos [&amp;hellip;]】我们很高兴地宣布Azure Cosmos DB中高度要求的功能的一般可用性（GA）：从无服务器迁移到配置的吞吐量模式（无手动娱乐或停机时间）的能力。该版本建立在我们公众预览的势头的基础上，现在在所有地区都得到了完全支持。为什么它重要的是Azure Cosmos […]</description>
-      <pubDate>Thu, 22 May 2025 20:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript Native Previews】宣布打字稿本机预览</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews</link>
-      <description>【This past March we unveiled our efforts to port the TypeScript compiler and toolset to native code. This port has achieved a 10x speed-up on most projects &amp;#8211; not just by using a natively-compiled language (Go), but also through using shared memory parallelism and concurrency where we can benefit. Since then, we have made several [&amp;hellip;]】在过去的3月，我们揭露了将打字稿编译器和工具集移植到本机代码的努力。该端口在大多数项目上都达到了10倍的速度 - 不仅是使用本质上编译的语言（GO），还通过使用共享记忆并行性和并发，我们可以从中受益。从那以后，我们做了几个[…]</description>
-      <pubDate>Thu, 22 May 2025 15:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Public Preview: Shape and Control Workloads with Throughput Buckets in Azure Cosmos DB】公共预览：Azure Cosmos DB中使用吞吐量桶的形状和控制工作负载</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/public-preview-shape-and-control-workloads-with-throughput-buckets-in-azure-cosmos-db</link>
-      <description>【Imagine your application is processing customer checkouts in real-time, while a background process synchronizes data for reporting. Suddenly, the seamless user experience falters because the sync job consumes more RU/s than anticipated.  Many teams face a common challenge: multiple workloads share the same container resources, yet each has different performance requirements.  We&amp;#8217;re excited to introduce [&amp;hellip;]】想象一下，您的应用程序正在实时处理客户结帐，而背景过程则同步数据进行报告。突然，无缝的用户体验会失败，因为同步作业消耗的ru/s比预期的要多。  许多团队面临一个普遍的挑战：多个工作负载共享相同的容器资源，但是每个工作负载都有不同的性能要求。  我们很高兴介绍[…]</description>
-      <pubDate>Thu, 22 May 2025 17:00:38 +0000</pubDate>
+      <title>【Meet the DocumentDB Extension for VS Code and DocumentDB Local — A Fast, Friendly Way to Work with DocumentDB, Locally and Beyond】满足VS代码和DocumentDB Local的DocumentDB扩展名 - 一种快速，友好的方式与DocumentDB，本地及以后合作</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/meet-the-documentdb-extension-for-vs-code-and-documentdb-local-a-fast-friendly-way-to-work-with-documentdb-locally-and-beyond</link>
+      <description>【Say hello to the new DocumentDB extension for Visual Studio Code—an efficient open-source database tool that brings your MongoDB API and DocumentDB databases right into your editor. Designed for developers building cloud apps, working in hybrid or local setups, or debugging live production systems, this extension lets you browse, manage, and query your data directly [&amp;hellip;]】向Visual Studio Code的新文档DOMEDDB扩展名字打个招呼，这是一种有效的开源数据库工具，它将您的MongoDB API和DocumentDB数据库直接带入您的编辑器。为开发人员设计云应用程序，在混合或本地设置中工作或调试实时生产系统，该扩展可以使您直接浏览，管理和查询数据[…]</description>
+      <pubDate>Fri, 23 May 2025 16:00:27 +0000</pubDate>
     </item>
     <item>
       <title>【Office Add-ins announces Copilot agents with add-in actions and more at Build 2025】办公室加载项宣布副代理具有加载项的操作，以及在2025年的Build 2025</title>
@@ -34,10 +16,10 @@
       <pubDate>Thu, 22 May 2025 22:29:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Agent Store: Build, publish, and discover agents in Microsoft 365 Copilot】介绍代理商店：在Microsoft 365 Copilot中构建，发布和发现代理商</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-store-build-publish-and-discover-agents-in-microsoft-365-copilot</link>
-      <description>【We’re excited to introduce the Agent Store — a centralized, curated marketplace that features agents built by Microsoft, trusted partners, and customers. The Agent Store offers a new, immersive experience within Microsoft 365 Copilot that enables users to browse, install, and try agents tailored to their needs.】我们很高兴介绍Agent Store，这是一个集中的，精心策划的市场，其特色是由Microsoft，Trusted Partners和客户建造的代理商。 Agent Store在Microsoft 365 Copilot中提供了一种新的沉浸式体验，使用户能够根据自己的需求浏览，安装和尝试量身定制的代理商。</description>
-      <pubDate>Thu, 22 May 2025 16:00:59 +0000</pubDate>
+      <title>【Durable Functions for Indexing in RAG: A Practical Python Approach】在抹布中索引的耐用功能：一种实用的python方法</title>
+      <link>https://devblogs.microsoft.com/ise/durable-functions-for-rag-indexing</link>
+      <description>【Azure Durable Functions streamline RAG indexing by combining push flexibility with pull reliability for scalable,】Azure耐用函数通过将推动灵活性与可伸缩可靠性相结合的可靠性来简化RAG索引</description>
+      <pubDate>Fri, 23 May 2025 08:23:18 +0000</pubDate>
     </item>
     <item>
       <title>【Now Available: Migrate from RU to vCore for Azure Cosmos DB for MongoDB via Azure Portal】现在可用：通过Azure Portal从RU迁移到Vcore的Azure Cosmos DB</title>
@@ -46,10 +28,22 @@
       <pubDate>Thu, 22 May 2025 22:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I create a window the size of the screen without it being treated as a fullscreen window?】如何创建一个屏幕大小的窗口，而不会将其视为全屏窗口？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250522-00/?p=111211</link>
-      <description>【You can declare that you aren&#39;t rude.】您可以声明自己并不粗鲁。</description>
-      <pubDate>Thu, 22 May 2025 14:00:00 +0000</pubDate>
+      <title>【How can I detect if one of my helper processes is launching child processes?】如何检测我的助手过程之一是启动儿童流程？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250523-00/?p=111216</link>
+      <description>【You can ask a job object to keep track for you.】您可以要求一个工作对象跟踪您。</description>
+      <pubDate>Fri, 23 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Generally Available: Seamless Migration from Serverless to Provisioned Throughput in Azure Cosmos DB】通常可用：无缝迁移从无服务器到Azure Cosmos DB中的配置吞吐量</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/generally-available-seamless-migration-from-serverless-to-provisioned-throughput-in-azure-cosmos-db</link>
+      <description>【We are excited to announce the general availability (GA) of a highly requested capability in Azure Cosmos DB: the ability to migrate from serverless to provisioned throughput mode—without manual recreation, or downtime. This release builds on the momentum of our public preview and is now fully supported across all regions. Why it matters Azure Cosmos [&amp;hellip;]】我们很高兴地宣布Azure Cosmos DB中高度要求的功能的一般可用性（GA）：从无服务器迁移到配置的吞吐量模式（无手动娱乐或停机时间）的能力。该版本建立在我们公众预览的势头的基础上，现在在所有地区都得到了完全支持。为什么它重要的是Azure Cosmos […]</description>
+      <pubDate>Thu, 22 May 2025 20:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Now in Public Preview: Azure Functions Trigger for Azure Cosmos DB for MongoDB vCore】现在在公共预览中：Azure功能触发Azure Cosmos DB的MongoDB Vcor​​e</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/now-in-public-preview-azure-functions-trigger-for-azure-cosmos-db-for-mongodb-vcore</link>
+      <description>【The Azure Cosmos DB trigger for Azure Functions is now in public preview—available for C# Azure Functions using Azure Cosmos DB for MongoDB vCore! This new capability allows developers to easily trigger Azure Functions in response to changes in a MongoDB vCore collection, making it simple to build real-time, event-driven applications with minimal setup. 🔍 [&amp;hellip;]】Azure Cosmos DB触发器的Azure功能现在正在公开预览中 - 对于C＃Azure函数，使用Azure Cosmos DB用于MongoDB Vcor​​e！这种新功能使开发人员可以轻松触发Azure功能，以响应MongoDB Vcor​​e Collection的更改，从而易于构建使用最少设置的实时，事件驱动的应用程序。 🔍[…]</description>
+      <pubDate>Fri, 23 May 2025 14:00:53 +0000</pubDate>
     </item>
     <item>
       <title>【New AI Features in SQL Server 2025】SQL Server 2025中的新AI功能</title>
@@ -58,10 +52,16 @@
       <pubDate>Thu, 22 May 2025 20:21:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Entra ID integration with Azure Cosmos DB for MongoDB (vCore)】Microsoft Entra ID与Azure Cosmos DB集成，用于MongoDB（VCORE）</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/microsoft-entra-id-integration-with-azure-cosmos-db-for-mongodb-vcore</link>
-      <description>【Security is no longer a nice-to-have—it’s a foundational requirement for any cloud-native architecture. As organizations adopt managed database services to support mission-critical applications, they must prioritize robust, scalable, and centralized security. Azure Cosmos DB for MongoDB (vCore) delivers high performance and flexibility, but it provides the most value when paired with well-implemented security practices. Authentication [&amp;hellip;]】安全性不再是一个不错的选择，而是对任何云本地架构的基本要求。随着组织采用托管数据库服务来支持关键任务应用程序，他们必须优先考虑强大，可扩展和集中安全性。 MongoDB（VCORE）的Azure Cosmos DB提供了高性能和灵活性，但与实践良好的安全实践配对时，它提供了最大的价值。验证 […]</description>
-      <pubDate>Thu, 22 May 2025 14:00:04 +0000</pubDate>
+      <title>【Announcing General Availability of JavaScript SDK v4 for Azure Cosmos DB】宣布JavaScript SDK V4的一般可用性用于Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-general-availability-of-javascript-sdk-v4-for-azure-cosmos-db</link>
+      <description>【We’re excited to launch version 4 of the Azure Cosmos DB JavaScript SDK! This update delivers major improvements that make it easier and faster to build high-performance apps with the Azure Cosmos DB for NoSQL API. Version 4 is available now and targets Node.js v18 and above, introducing a host of new capabilities, including: Improved [&amp;hellip;]】我们很高兴启动Azure Cosmos DB JavaScript SDK的版本4！此更新提供了重大改进，使使用NOSQL API的Azure Cosmos DB构建高性能应用程序变得更加容易，更快。版本4现在可用，目标是Node.js V18及以上，引入了许多新功能，包括：改进[…]</description>
+      <pubDate>Fri, 23 May 2025 22:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Confluent Cloud Releases Managed V2 Kafka Connector for Azure Cosmos DB】Confluent Cloud释放Azure Cosmos DB的托管V2 Kafka连接器</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/confluent-cloud-releases-managed-v2-kafka-connector-for-azure-cosmos-db</link>
+      <description>【This article was co-authored by Sudhindra Sheshadrivasan, Staff Product Manager at Confluent. We’re excited to announce the General Availability (GA) of the Confluent Cloud-managed V2 Kafka Connector for Azure Cosmos DB! This release marks a major milestone in our mission to simplify and streamline real-time data streaming from and into Azure Cosmos DB using Apache [&amp;hellip;]】这篇文章由Confluent的员工产品经理Sudhindra Sheshadrivasan合着。我们很高兴宣布Azure Cosmos DB的汇合云管理V2 Kafka连接器的一般可用性（GA）！此版本标志着我们的任务中的一个主要里程碑，即使用Apache简化和简化从Azure Cosmos DB的实时数据流[…]</description>
+      <pubDate>Fri, 23 May 2025 18:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
