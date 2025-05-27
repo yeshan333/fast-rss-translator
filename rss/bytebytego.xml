@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP162: 9 Clean Code Principles To Keep In Mind】EP162：9牢记的清洁代码原则</title>
-      <link>https://blog.bytebytego.com/p/ep162-9-clean-code-principles-to</link>
-      <description>【Meaningful Names: Name variables and functions to reveal their purpose, not just their value.】有意义的名称：名称变量和功能以揭示其目的，而不仅仅是其价值。</description>
-      <pubDate>Sat, 10 May 2025 15:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Gateway vs Service Mesh - Which One Do You Need】API网关与服务网格 - 您需要哪一个</title>
-      <link>https://blog.bytebytego.com/p/api-gateway-vs-service-mesh-which</link>
-      <description>【In this article, we look at both API Gateways and Service Mesh in detail, along with their key differences and usage goals.】在本文中，我们详细介绍了API网关和服务网格，以及它们的主要差异和使用目标。</description>
-      <pubDate>Thu, 22 May 2025 15:31:07 +0000</pubDate>
+      <title>【EP164: JWT Simply Explained】EP164：JWT简单地解释了</title>
+      <link>https://blog.bytebytego.com/p/ep164-jwt-simply-explained</link>
+      <description>【JWT or JSON Web Tokens is an open standard for securely transmitting information between two parties. They are widely used for authentication and authorization.】JWT或JSON Web令牌是在两方之间安全传输信息的开放标准。它们被广泛用于身份验证和授权。</description>
+      <pubDate>Sat, 24 May 2025 15:30:30 +0000</pubDate>
     </item>
     <item>
       <title>【Engineering Trade-offs: Eventual Consistency in Practice】工程权衡：实践中最终的一致性</title>
@@ -23,22 +17,22 @@
       <pubDate>Thu, 15 May 2025 15:30:30 +0000</pubDate>
     </item>
     <item>
+      <title>【EP163: 12 MCP Servers You Can Use in 2025】EP163：12您可以在2025年使用的MCP服务器</title>
+      <link>https://blog.bytebytego.com/p/ep163-12-mcp-servers-you-can-use</link>
+      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
+      <pubDate>Sat, 17 May 2025 03:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Halo on Xbox Scaled to 10+ Million Players using the Saga Pattern】Xbox上的光环如何使用SAGA图案缩放到100多百万球员</title>
+      <link>https://blog.bytebytego.com/p/how-halo-on-xbox-scaled-to-10-million</link>
+      <description>【One powerful pattern for solving this problem is the Saga Pattern, a technique originally proposed in the late 1980s but increasingly relevant today.】解决此问题的一种强大模式是传奇模式，这是一种最初提出的技术，最初是在1980年代后期提出的，但今天越来越重要。</description>
+      <pubDate>Tue, 06 May 2025 15:31:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Pinterest Scaled Its Architecture to Support 500 Million Users】Pinterest如何扩展其架构以支持5亿用户</title>
       <link>https://blog.bytebytego.com/p/how-pinterest-scaled-its-architecture</link>
       <description>【In this article, we&amp;#8217;ll look at how Pinterest scaled its architecture to handle the scale and the challenges they faced along the way.】在本文中，我们将研究Pinterest如何扩展其体系结构以应对规模及其沿途面临的挑战。</description>
       <pubDate>Mon, 19 May 2025 15:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Slack Supports Billions of Daily Messages】Slack如何支持数十亿美元的每日消息</title>
-      <link>https://blog.bytebytego.com/p/how-slack-supports-billions-of-daily</link>
-      <description>【At peak weekday hours, Slack maintains over five million simultaneous WebSocket sessions. That&amp;#8217;s not just a metric, but a serious architectural challenge.】在工作日高峰时段，Slack可以同时维持超过500万个Websocket会议。这不仅是一个指标，而且是一个严重的建筑挑战。</description>
-      <pubDate>Tue, 13 May 2025 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Messaging Patterns Explained: Pub-Sub, Queues, and Event Streams】消息传递模式解释了：Pub-Sub，队列和事件流</title>
-      <link>https://blog.bytebytego.com/p/messaging-patterns-explained-pub</link>
-      <description>【What happens when the downstream service is overloaded? Or slow? Or down entirely?】下游服务超载时会发生什么？还是慢？还是完全下降？</description>
-      <pubDate>Thu, 08 May 2025 15:30:54 +0000</pubDate>
     </item>
     <item>
       <title>【How Facebook Live Scaled to a Billion Users】Facebook Live如何扩展到十亿用户</title>
@@ -47,22 +41,28 @@
       <pubDate>Tue, 20 May 2025 15:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>【EP163: 12 MCP Servers You Can Use in 2025】EP163：12您可以在2025年使用的MCP服务器</title>
-      <link>https://blog.bytebytego.com/p/ep163-12-mcp-servers-you-can-use</link>
-      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
-      <pubDate>Sat, 17 May 2025 03:30:24 +0000</pubDate>
+      <title>【How Slack Supports Billions of Daily Messages】Slack如何支持数十亿美元的每日消息</title>
+      <link>https://blog.bytebytego.com/p/how-slack-supports-billions-of-daily</link>
+      <description>【At peak weekday hours, Slack maintains over five million simultaneous WebSocket sessions. That&amp;#8217;s not just a metric, but a serious architectural challenge.】在工作日高峰时段，Slack可以同时维持超过500万个Websocket会议。这不仅是一个指标，而且是一个严重的建筑挑战。</description>
+      <pubDate>Tue, 13 May 2025 15:30:31 +0000</pubDate>
     </item>
     <item>
-      <title>【EP164: JWT Simply Explained】EP164：JWT简单地解释了</title>
-      <link>https://blog.bytebytego.com/p/ep164-jwt-simply-explained</link>
-      <description>【JWT or JSON Web Tokens is an open standard for securely transmitting information between two parties. They are widely used for authentication and authorization.】JWT或JSON Web令牌是在两方之间安全传输信息的开放标准。它们被广泛用于身份验证和授权。</description>
-      <pubDate>Sat, 24 May 2025 15:30:30 +0000</pubDate>
+      <title>【API Gateway vs Service Mesh - Which One Do You Need】API网关与服务网格 - 您需要哪一个</title>
+      <link>https://blog.bytebytego.com/p/api-gateway-vs-service-mesh-which</link>
+      <description>【In this article, we look at both API Gateways and Service Mesh in detail, along with their key differences and usage goals.】在本文中，我们详细介绍了API网关和服务网格，以及它们的主要差异和使用目标。</description>
+      <pubDate>Thu, 22 May 2025 15:31:07 +0000</pubDate>
     </item>
     <item>
-      <title>【How Halo on Xbox Scaled to 10+ Million Players using the Saga Pattern】Xbox上的光环如何使用SAGA图案缩放到100多百万球员</title>
-      <link>https://blog.bytebytego.com/p/how-halo-on-xbox-scaled-to-10-million</link>
-      <description>【One powerful pattern for solving this problem is the Saga Pattern, a technique originally proposed in the late 1980s but increasingly relevant today.】解决此问题的一种强大模式是传奇模式，这是一种最初提出的技术，最初是在1980年代后期提出的，但今天越来越重要。</description>
-      <pubDate>Tue, 06 May 2025 15:31:14 +0000</pubDate>
+      <title>【EP162: 9 Clean Code Principles To Keep In Mind】EP162：9牢记的清洁代码原则</title>
+      <link>https://blog.bytebytego.com/p/ep162-9-clean-code-principles-to</link>
+      <description>【Meaningful Names: Name variables and functions to reveal their purpose, not just their value.】有意义的名称：名称变量和功能以揭示其目的，而不仅仅是其价值。</description>
+      <pubDate>Sat, 10 May 2025 15:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Messaging Patterns Explained: Pub-Sub, Queues, and Event Streams】消息传递模式解释了：Pub-Sub，队列和事件流</title>
+      <link>https://blog.bytebytego.com/p/messaging-patterns-explained-pub</link>
+      <description>【What happens when the downstream service is overloaded? Or slow? Or down entirely?】下游服务超载时会发生什么？还是慢？还是完全下降？</description>
+      <pubDate>Thu, 08 May 2025 15:30:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

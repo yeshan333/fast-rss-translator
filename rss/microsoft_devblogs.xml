@@ -4,6 +4,18 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Now Available: Migrate from RU to vCore for Azure Cosmos DB for MongoDB via Azure Portal】现在可用：通过Azure Portal从RU迁移到Vcore的Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/migrate-mongo-db-ru-to-vcore</link>
+      <description>【We are thrilled to introduce a cost-effective, simple, and efficient solution for migrating from RU-based Azure Cosmos DB for MongoDB to vCore-based. You can now move to vCore-based Azure Cosmos DB for MongoDB at no cost using the Azure portal.  How is the vCore model different?  Azure Cosmos DB offers two pricing models: Request Units [&amp;hellip;]】我们很高兴引入一种经济高效，简单且高效的解决方案，用于从基于RU的Azure Cosmos DB迁移到MongoDB到基于VCORE的基于VCORE。现在，您可以使用Azure Portal免费使用MongoDB的基于VCore的Azure Cosmos DB。  Vcore模型有何不同？  Azure Cosmos DB提供了两个定价模型：请求单位[…]</description>
+      <pubDate>Thu, 22 May 2025 22:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Office Add-ins announces Copilot agents with add-in actions and more at Build 2025】办公室加载项宣布副代理具有加载项的操作，以及在2025年的Build 2025</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/office-addins-at-build-2025</link>
+      <description>【As part of the expanding capabilities for agents across Microsoft 365, Office Platform announces add-in actions for Copilot agents are available in preview. This blog is an overview of all the new capabilities across the platform: APIs, developer tools, and add-in distribution options—making it simpler to build new or iterate on JavaScript add-ins.】作为Microsoft 365中代理商扩展功能的一部分，Office Platform宣布为Copilot代理的附加操作提供预览。该博客是整个平台上所有新功能的概述：API，开发人员工具和附加发行选项 - 使在JavaScript加载项上构建新或迭代更简单。</description>
+      <pubDate>Thu, 22 May 2025 22:29:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【Meet the DocumentDB Extension for VS Code and DocumentDB Local — A Fast, Friendly Way to Work with DocumentDB, Locally and Beyond】满足VS代码和DocumentDB Local的DocumentDB扩展名 - 一种快速，友好的方式与DocumentDB，本地及以后合作</title>
       <link>https://devblogs.microsoft.com/cosmosdb/meet-the-documentdb-extension-for-vs-code-and-documentdb-local-a-fast-friendly-way-to-work-with-documentdb-locally-and-beyond</link>
       <description>【Say hello to the new DocumentDB extension for Visual Studio Code—an efficient open-source database tool that brings your MongoDB API and DocumentDB databases right into your editor. Designed for developers building cloud apps, working in hybrid or local setups, or debugging live production systems, this extension lets you browse, manage, and query your data directly [&amp;hellip;]】向Visual Studio Code的新文档DOMEDDB扩展名字打个招呼，这是一种有效的开源数据库工具，它将您的MongoDB API和DocumentDB数据库直接带入您的编辑器。为开发人员设计云应用程序，在混合或本地设置中工作或调试实时生产系统，该扩展可以使您直接浏览，管理和查询数据[…]</description>
@@ -16,16 +28,16 @@
       <pubDate>Fri, 23 May 2025 18:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Generally Available: Seamless Migration from Serverless to Provisioned Throughput in Azure Cosmos DB】通常可用：无缝迁移从无服务器到Azure Cosmos DB中的配置吞吐量</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/generally-available-seamless-migration-from-serverless-to-provisioned-throughput-in-azure-cosmos-db</link>
-      <description>【We are excited to announce the general availability (GA) of a highly requested capability in Azure Cosmos DB: the ability to migrate from serverless to provisioned throughput mode—without manual recreation, or downtime. This release builds on the momentum of our public preview and is now fully supported across all regions. Why it matters Azure Cosmos [&amp;hellip;]】我们很高兴地宣布Azure Cosmos DB中高度要求的功能的一般可用性（GA）：从无服务器迁移到配置的吞吐量模式（无手动娱乐或停机时间）的能力。该版本建立在我们公众预览的势头的基础上，现在在所有地区都得到了完全支持。为什么它重要的是Azure Cosmos […]</description>
-      <pubDate>Thu, 22 May 2025 20:00:03 +0000</pubDate>
+      <title>【Why does Enum­Process­Modules report no modules on a process that was created suspended?】为什么EnumProcessModules在创建的过程中没有报告任何模块？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250526-00/?p=111218</link>
+      <description>【There are no modules yet because you didn&#39;t give them a chance to load.】还没有模块，因为您没有给他们加载的机会。</description>
+      <pubDate>Mon, 26 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Now Available: Migrate from RU to vCore for Azure Cosmos DB for MongoDB via Azure Portal】现在可用：通过Azure Portal从RU迁移到Vcore的Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/migrate-mongo-db-ru-to-vcore</link>
-      <description>【We are thrilled to introduce a cost-effective, simple, and efficient solution for migrating from RU-based Azure Cosmos DB for MongoDB to vCore-based. You can now move to vCore-based Azure Cosmos DB for MongoDB at no cost using the Azure portal.  How is the vCore model different?  Azure Cosmos DB offers two pricing models: Request Units [&amp;hellip;]】我们很高兴引入一种经济高效，简单且高效的解决方案，用于从基于RU的Azure Cosmos DB迁移到MongoDB到基于VCORE的基于VCORE。现在，您可以使用Azure Portal免费使用MongoDB的基于VCore的Azure Cosmos DB。  Vcore模型有何不同？  Azure Cosmos DB提供了两个定价模型：请求单位[…]</description>
-      <pubDate>Thu, 22 May 2025 22:00:07 +0000</pubDate>
+      <title>【Announcing General Availability of JavaScript SDK v4 for Azure Cosmos DB】宣布JavaScript SDK V4的一般可用性用于Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-general-availability-of-javascript-sdk-v4-for-azure-cosmos-db</link>
+      <description>【We’re excited to launch version 4 of the Azure Cosmos DB JavaScript SDK! This update delivers major improvements that make it easier and faster to build high-performance apps with the Azure Cosmos DB for NoSQL API. Version 4 is available now and targets Node.js v18 and above, introducing a host of new capabilities, including: Improved [&amp;hellip;]】我们很高兴启动Azure Cosmos DB JavaScript SDK的版本4！此更新提供了重大改进，使使用NOSQL API的Azure Cosmos DB构建高性能应用程序变得更加容易，更快。版本4现在可用，目标是Node.js V18及以上，引入了许多新功能，包括：改进[…]</description>
+      <pubDate>Fri, 23 May 2025 22:00:10 +0000</pubDate>
     </item>
     <item>
       <title>【Now in Public Preview: Azure Functions Trigger for Azure Cosmos DB for MongoDB vCore】现在在公共预览中：Azure功能触发Azure Cosmos DB的MongoDB Vcor​​e</title>
@@ -34,34 +46,22 @@
       <pubDate>Fri, 23 May 2025 14:00:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Durable Functions for Indexing in RAG: A Practical Python Approach】在抹布中索引的耐用功能：一种实用的python方法</title>
-      <link>https://devblogs.microsoft.com/ise/durable-functions-for-rag-indexing</link>
-      <description>【Azure Durable Functions streamline RAG indexing by combining push flexibility with pull reliability for scalable,】Azure耐用函数通过将推动灵活性与可伸缩可靠性相结合的可靠性来简化RAG索引</description>
-      <pubDate>Fri, 23 May 2025 08:23:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Office Add-ins announces Copilot agents with add-in actions and more at Build 2025】办公室加载项宣布副代理具有加载项的操作，以及在2025年的Build 2025</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/office-addins-at-build-2025</link>
-      <description>【As part of the expanding capabilities for agents across Microsoft 365, Office Platform announces add-in actions for Copilot agents are available in preview. This blog is an overview of all the new capabilities across the platform: APIs, developer tools, and add-in distribution options—making it simpler to build new or iterate on JavaScript add-ins.】作为Microsoft 365中代理商扩展功能的一部分，Office Platform宣布为Copilot代理的附加操作提供预览。该博客是整个平台上所有新功能的概述：API，开发人员工具和附加发行选项 - 使在JavaScript加载项上构建新或迭代更简单。</description>
-      <pubDate>Thu, 22 May 2025 22:29:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I detect if one of my helper processes is launching child processes?】如何检测我的助手过程之一是启动儿童流程？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250523-00/?p=111216</link>
-      <description>【You can ask a job object to keep track for you.】您可以要求一个工作对象跟踪您。</description>
-      <pubDate>Fri, 23 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【New AI Features in SQL Server 2025】SQL Server 2025中的新AI功能</title>
       <link>https://devblogs.microsoft.com/azure-sql/new-ai-features-in-sql-server-2025</link>
       <description>【We have some great new AI Features in SQL Server 2025. I also figured a video would be better than reading a blog&amp;#8230;. but, you can also read all about it here.】我们在SQL Server 2025中有一些很棒的新AI功能。我还认为视频比阅读博客要好。但是，您也可以在这里阅读所有有关它的信息。</description>
       <pubDate>Thu, 22 May 2025 20:21:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing General Availability of JavaScript SDK v4 for Azure Cosmos DB】宣布JavaScript SDK V4的一般可用性用于Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-general-availability-of-javascript-sdk-v4-for-azure-cosmos-db</link>
-      <description>【We’re excited to launch version 4 of the Azure Cosmos DB JavaScript SDK! This update delivers major improvements that make it easier and faster to build high-performance apps with the Azure Cosmos DB for NoSQL API. Version 4 is available now and targets Node.js v18 and above, introducing a host of new capabilities, including: Improved [&amp;hellip;]】我们很高兴启动Azure Cosmos DB JavaScript SDK的版本4！此更新提供了重大改进，使使用NOSQL API的Azure Cosmos DB构建高性能应用程序变得更加容易，更快。版本4现在可用，目标是Node.js V18及以上，引入了许多新功能，包括：改进[…]</description>
-      <pubDate>Fri, 23 May 2025 22:00:10 +0000</pubDate>
+      <title>【Durable Functions for Indexing in RAG: A Practical Python Approach】在抹布中索引的耐用功能：一种实用的python方法</title>
+      <link>https://devblogs.microsoft.com/ise/durable-functions-for-rag-indexing</link>
+      <description>【Azure Durable Functions streamline RAG indexing by combining push flexibility with pull reliability for scalable,】Azure耐用函数通过将推动灵活性与可伸缩可靠性相结合的可靠性来简化RAG索引</description>
+      <pubDate>Fri, 23 May 2025 08:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I detect if one of my helper processes is launching child processes?】如何检测我的助手过程之一是启动儿童流程？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250523-00/?p=111216</link>
+      <description>【You can ask a job object to keep track for you.】您可以要求一个工作对象跟踪您。</description>
+      <pubDate>Fri, 23 May 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
