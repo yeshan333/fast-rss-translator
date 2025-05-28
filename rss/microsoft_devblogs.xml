@@ -4,34 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Now Available: Migrate from RU to vCore for Azure Cosmos DB for MongoDB via Azure Portal】现在可用：通过Azure Portal从RU迁移到Vcore的Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/migrate-mongo-db-ru-to-vcore</link>
-      <description>【We are thrilled to introduce a cost-effective, simple, and efficient solution for migrating from RU-based Azure Cosmos DB for MongoDB to vCore-based. You can now move to vCore-based Azure Cosmos DB for MongoDB at no cost using the Azure portal.  How is the vCore model different?  Azure Cosmos DB offers two pricing models: Request Units [&amp;hellip;]】我们很高兴引入一种经济高效，简单且高效的解决方案，用于从基于RU的Azure Cosmos DB迁移到MongoDB到基于VCORE的基于VCORE。现在，您可以使用Azure Portal免费使用MongoDB的基于VCore的Azure Cosmos DB。  Vcore模型有何不同？  Azure Cosmos DB提供了两个定价模型：请求单位[…]</description>
-      <pubDate>Thu, 22 May 2025 22:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Office Add-ins announces Copilot agents with add-in actions and more at Build 2025】办公室加载项宣布副代理具有加载项的操作，以及在2025年的Build 2025</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/office-addins-at-build-2025</link>
-      <description>【As part of the expanding capabilities for agents across Microsoft 365, Office Platform announces add-in actions for Copilot agents are available in preview. This blog is an overview of all the new capabilities across the platform: APIs, developer tools, and add-in distribution options—making it simpler to build new or iterate on JavaScript add-ins.】作为Microsoft 365中代理商扩展功能的一部分，Office Platform宣布为Copilot代理的附加操作提供预览。该博客是整个平台上所有新功能的概述：API，开发人员工具和附加发行选项 - 使在JavaScript加载项上构建新或迭代更简单。</description>
-      <pubDate>Thu, 22 May 2025 22:29:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Meet the DocumentDB Extension for VS Code and DocumentDB Local — A Fast, Friendly Way to Work with DocumentDB, Locally and Beyond】满足VS代码和DocumentDB Local的DocumentDB扩展名 - 一种快速，友好的方式与DocumentDB，本地及以后合作</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/meet-the-documentdb-extension-for-vs-code-and-documentdb-local-a-fast-friendly-way-to-work-with-documentdb-locally-and-beyond</link>
-      <description>【Say hello to the new DocumentDB extension for Visual Studio Code—an efficient open-source database tool that brings your MongoDB API and DocumentDB databases right into your editor. Designed for developers building cloud apps, working in hybrid or local setups, or debugging live production systems, this extension lets you browse, manage, and query your data directly [&amp;hellip;]】向Visual Studio Code的新文档DOMEDDB扩展名字打个招呼，这是一种有效的开源数据库工具，它将您的MongoDB API和DocumentDB数据库直接带入您的编辑器。为开发人员设计云应用程序，在混合或本地设置中工作或调试实时生产系统，该扩展可以使您直接浏览，管理和查询数据[…]</description>
-      <pubDate>Fri, 23 May 2025 16:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Confluent Cloud Releases Managed V2 Kafka Connector for Azure Cosmos DB】Confluent Cloud释放Azure Cosmos DB的托管V2 Kafka连接器</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/confluent-cloud-releases-managed-v2-kafka-connector-for-azure-cosmos-db</link>
-      <description>【This article was co-authored by Sudhindra Sheshadrivasan, Staff Product Manager at Confluent. We’re excited to announce the General Availability (GA) of the Confluent Cloud-managed V2 Kafka Connector for Azure Cosmos DB! This release marks a major milestone in our mission to simplify and streamline real-time data streaming from and into Azure Cosmos DB using Apache [&amp;hellip;]】这篇文章由Confluent的员工产品经理Sudhindra Sheshadrivasan合着。我们很高兴宣布Azure Cosmos DB的汇合云管理V2 Kafka连接器的一般可用性（GA）！此版本标志着我们的任务中的一个主要里程碑，即使用Apache简化和简化从Azure Cosmos DB的实时数据流[…]</description>
-      <pubDate>Fri, 23 May 2025 18:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does Enum­Process­Modules report no modules on a process that was created suspended?】为什么EnumProcessModules在创建的过程中没有报告任何模块？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250526-00/?p=111218</link>
-      <description>【There are no modules yet because you didn&#39;t give them a chance to load.】还没有模块，因为您没有给他们加载的机会。</description>
-      <pubDate>Mon, 26 May 2025 14:00:00 +0000</pubDate>
+      <title>【Azure AI Foundry MCP Server May 2025 Update: Adding Models, Knowledge &amp; Evaluation】Azure AI Foundry MCP服务器2025年5月更新：添加模型，知识和评估</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-mcp-server-may-2025</link>
+      <description>【Major expansion of Azure AI Foundry MCP Server with new Models, Knowledge Management, and Evaluation capabilities joining the existing Agent Services, enabling developers to interact with Azure AI through natural language.】Azure AI Foundry MCP服务器的主要扩展具有新的模型，知识管理和评估功能，可加入现有代理服务，使开发人员能够通过自然语言与Azure AI进行交互。</description>
+      <pubDate>Tue, 27 May 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing General Availability of JavaScript SDK v4 for Azure Cosmos DB】宣布JavaScript SDK V4的一般可用性用于Azure Cosmos DB</title>
@@ -40,28 +16,52 @@
       <pubDate>Fri, 23 May 2025 22:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Now in Public Preview: Azure Functions Trigger for Azure Cosmos DB for MongoDB vCore】现在在公共预览中：Azure功能触发Azure Cosmos DB的MongoDB Vcor​​e</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/now-in-public-preview-azure-functions-trigger-for-azure-cosmos-db-for-mongodb-vcore</link>
-      <description>【The Azure Cosmos DB trigger for Azure Functions is now in public preview—available for C# Azure Functions using Azure Cosmos DB for MongoDB vCore! This new capability allows developers to easily trigger Azure Functions in response to changes in a MongoDB vCore collection, making it simple to build real-time, event-driven applications with minimal setup. 🔍 [&amp;hellip;]】Azure Cosmos DB触发器的Azure功能现在正在公开预览中 - 对于C＃Azure函数，使用Azure Cosmos DB用于MongoDB Vcor​​e！这种新功能使开发人员可以轻松触发Azure功能，以响应MongoDB Vcor​​e Collection的更改，从而易于构建使用最少设置的实时，事件驱动的应用程序。 🔍[…]</description>
-      <pubDate>Fri, 23 May 2025 14:00:53 +0000</pubDate>
+      <title>【What was origin of the code name Redpill for Windows 8 feature lockout?】Windows 8功能锁定的代码名称redpill的来源是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250527-00/?p=111220</link>
+      <description>【Pretty obvious, actually.】实际上很明显。</description>
+      <pubDate>Tue, 27 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New AI Features in SQL Server 2025】SQL Server 2025中的新AI功能</title>
-      <link>https://devblogs.microsoft.com/azure-sql/new-ai-features-in-sql-server-2025</link>
-      <description>【We have some great new AI Features in SQL Server 2025. I also figured a video would be better than reading a blog&amp;#8230;. but, you can also read all about it here.】我们在SQL Server 2025中有一些很棒的新AI功能。我还认为视频比阅读博客要好。但是，您也可以在这里阅读所有有关它的信息。</description>
-      <pubDate>Thu, 22 May 2025 20:21:54 +0000</pubDate>
+      <title>【Azure DevOps with GitHub Repositories – Your path to Agentic AI】带有GitHub存储库的Azure Devops  - 您通往代理AI的途径</title>
+      <link>https://devblogs.microsoft.com/devops/azure-devops-with-github-repositories-your-path-to-agentic-ai</link>
+      <description>【GitHub Copilot has evolved beyond a coding assistant in the IDE into an agentic teammate – providing actionable feedback on pull requests, fixing bugs and implementing new features, creating pull requests and responding to feedback, and much more. These new capabilities will transform every aspect of the software development lifecycle, as we are already seeing [&amp;hellip;]】Github Copilot已经发展到IDE中的编码助手超越代理队的成员 - 提供了有关拉的请求，修复错误并实施新功能，创建拉动请求并响应反馈等的可行反馈。这些新功能将改变软件开发生命周期的各个方面，因为我们已经看到[…]</description>
+      <pubDate>Tue, 27 May 2025 19:38:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Durable Functions for Indexing in RAG: A Practical Python Approach】在抹布中索引的耐用功能：一种实用的python方法</title>
-      <link>https://devblogs.microsoft.com/ise/durable-functions-for-rag-indexing</link>
-      <description>【Azure Durable Functions streamline RAG indexing by combining push flexibility with pull reliability for scalable,】Azure耐用函数通过将推动灵活性与可伸缩可靠性相结合的可靠性来简化RAG索引</description>
-      <pubDate>Fri, 23 May 2025 08:23:18 +0000</pubDate>
+      <title>【Circuit Breaker Policy Fine-tuning Best Practice】断路器政策微调最佳实践</title>
+      <link>https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice</link>
+      <description>【Summary of some best practice and insights about circuit breaker resilience policy fine-tuning.】关于断路器弹性政策微调的一些最佳实践和见解的摘要。</description>
+      <pubDate>Tue, 27 May 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I detect if one of my helper processes is launching child processes?】如何检测我的助手过程之一是启动儿童流程？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250523-00/?p=111216</link>
-      <description>【You can ask a job object to keep track for you.】您可以要求一个工作对象跟踪您。</description>
-      <pubDate>Fri, 23 May 2025 14:00:00 +0000</pubDate>
+      <title>【Why does Enum­Process­Modules report no modules on a process that was created suspended?】为什么EnumProcessModules在创建的过程中没有报告任何模块？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250526-00/?p=111218</link>
+      <description>【There are no modules yet because you didn&#39;t give them a chance to load.】还没有模块，因为您没有给他们加载的机会。</description>
+      <pubDate>Mon, 26 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Address Sanitizer Updates for Visual Studio 2022 Version 17.14】Visual Studio 2022版本17.14的地址消毒剂更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/address-sanitizer-updates-for-visual-studio-2022-17-14</link>
+      <description>【Introduction It has been an exciting few months for the Address Sanitizer (ASan) since our last update. In addition to our continuous focus on quality and correctness, our internal “dogfooding” (i.e. internal adoption) effort has reached several important milestones. In this update, I want to go over some of the quality improvements since Visual Studio [&amp;hellip;]】引言自上次更新以来，对于地址消毒剂（ASAN）来说，这是一个令人兴奋的几个月。除了我们不断关注质量和正确性外，我们的内部“狗食”（即内部采用）的工作达到了几个重要的里程碑。在此更新中，我想介绍视觉工作室[…]以来的一些质量改进。</description>
+      <pubDate>Tue, 27 May 2025 20:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing New Tools and Features in the Responses API in Azure AI Foundry】在Azure AI Foundry中的响应API中引入新工具和功能</title>
+      <link>https://devblogs.microsoft.com/foundry/introducing-new-tools-and-features-in-the-responses-api-in-azure-ai-foundry</link>
+      <description>【With the introduction of the Responses API, Microsoft is enabling a new standard for AI development within the Azure ecosystem. Originally launched by OpenAI and now natively supported in Azure AI Foundry, the Responses API combines the simplicity of the Chat Completions API with the advanced tool-calling capabilities of the Assistants API. It offers a [&amp;hellip;]】随着响应API的引入，Microsoft为Azure生态系统中的AI开发提供了新的标准。 API最初由OpenAI推出，现在由Azure AI铸造厂提供了本地支持，API将聊天完成API的简单性与助手API的高级工具称呼功能结合在一起。它提供了[…]</description>
+      <pubDate>Tue, 27 May 2025 21:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【VisualStudio.Extensibility: Editor classification and updates to user prompt】visualStudio.textensible：编辑器分类和更新到用户提示</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt</link>
+      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow users like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance, reliability, and installation without restarting Visual Studio. Additional benefits include a sleek and intuitive [&amp;hellip;]】我们继续投资于VisualStudio.stensensibility SDK，以允许像您这样的用户创建比以往更快，更光滑的扩展！ Extensensible。可帮助您构建在主要Visual Studio IDE过程之外运行的扩展，以提高性能，可靠性和安装，而无需重新启动Visual Studio。其他好处包括时尚直觉[…]</description>
+      <pubDate>Tue, 27 May 2025 16:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel: Multi-agent Orchestration】语义内核：多代理编排</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-multi-agent-orchestration</link>
+      <description>【The field of AI is rapidly evolving, and the need for more sophisticated, collaborative, and flexible agent-based systems is growing. With this in mind, Semantic Kernel introduces a new multi-agent orchestration framework that enables developers to build, manage, and scale complex agent workflows with ease. This post explores the new orchestration patterns, their capabilities, and [&amp;hellip;]】人工智能领域正在迅速发展，需要基于更复杂，协作和灵活的基于代理的系统的需求正在增长。考虑到这一点，语义内核引入了一个新的多代理编排框架，该框架使开发人员可以轻松地构建，管理和扩展复杂的代理工作流程。这篇文章探讨了新的编排模式，它们的能力和[…]</description>
+      <pubDate>Tue, 27 May 2025 16:54:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
