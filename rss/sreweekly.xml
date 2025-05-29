@@ -4,10 +4,10 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #476】SRE周刊＃476</title>
-      <link>https://sreweekly.com/sre-weekly-issue-476/</link>
-      <description>【View on sreweekly.com Automation and The Substitution Myth The myth is: The underlying and often unexamined assumption for the benefits of automation is the notion that computers/machines are better at some tasks, and humans are better at a different, non-overlapping set of tasks. This article lays out several pitfalls to this approach, with references. &amp;#160;&amp;#160;Courtney [&amp;#8230;]】在sweekly.com自动化和替代神话上的观点是神话：自动化益处的基本且经常不顾一切的假设是计算机/机器在某些任务上更好，而在不同的，非重叠的任务集中，人类在某些任务方面更好。本文列出了这种方法的几个陷阱，并带有参考。   考特尼[…]</description>
-      <pubDate>Mon, 12 May 2025 01:16:27 +0000</pubDate>
+      <title>【SRE Weekly Issue #477】SRE周刊＃477</title>
+      <link>https://sreweekly.com/sre-weekly-issue-477/</link>
+      <description>【View on sreweekly.com Human Error Strikes Again… or Does It? Why don&amp;#8217;t we look for the root cause of a successful outcome? &amp;#160;&amp;#160;Hamed Silatani &amp;#8212; Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using [&amp;#8230;]】在sreweekly.com上查看人为错误再次罢工……还是这样？我们为什么不寻找成功结果的根本原因？   HAMED SILATANI  - 正常运行实验室我们如何优化LLM的成本，质量和安全性来促进写作后验尸，以避免使用[…]的潜在陷阱，以避免使用的潜在陷阱。</description>
+      <pubDate>Mon, 19 May 2025 01:33:16 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #475】SRE周刊＃475</title>
@@ -16,22 +16,22 @@
       <pubDate>Mon, 05 May 2025 01:48:52 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #474】SRE周刊＃474</title>
-      <link>https://sreweekly.com/sre-weekly-issue-474/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: We&amp;#8217;ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we&amp;#8217;re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Why do we do blameless incident reviews? This is a truly outstanding article about blameless incident analysis! Beyond just &amp;#8220;why&amp;#8221;, [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.io的消息：我们刚刚筹集了6200万美元，以构建与您解决事件的AI代理。看看我们如何开创事件管理的新时代。 https://go.incident.io/blog/incident.io-raises-62m为什么我们要进行无罪的事件评论？这是一篇关于无罪事件分析的真正出色文章！超越“为什么”，[…]</description>
-      <pubDate>Mon, 28 Apr 2025 01:55:52 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #478】SRE周刊＃478</title>
       <link>https://sreweekly.com/sre-weekly-issue-478/</link>
       <description>【View on sreweekly.com Security and SRE: How Datadog&amp;#8217;s combined approach aims to tackle security and reliability challenges Datadog has fully merged their SRE and Security teams. In this post, we&amp;#8217;ll look at essential elements of SRE and security, the benefits we&amp;#8217;ve realized by combining the two disciplines, and what that approach looks like for us. [&amp;#8230;]】在Sreweekly.com Security和SRE上查看：Datadog的合并方法旨在应对安全性和可靠性挑战Datadog已完全合并其SRE和安全团队。在这篇文章中，我们将研究SRE和Security的基本要素，通过结合两个学科来实现的好处，以及这种方法对我们来说是什么样子。 […]</description>
       <pubDate>Mon, 26 May 2025 02:04:54 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #477】SRE周刊＃477</title>
-      <link>https://sreweekly.com/sre-weekly-issue-477/</link>
-      <description>【View on sreweekly.com Human Error Strikes Again… or Does It? Why don&amp;#8217;t we look for the root cause of a successful outcome? &amp;#160;&amp;#160;Hamed Silatani &amp;#8212; Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using [&amp;#8230;]】在sreweekly.com上查看人为错误再次罢工……还是这样？我们为什么不寻找成功结果的根本原因？   HAMED SILATANI  - 正常运行实验室我们如何优化LLM的成本，质量和安全性来促进写作后验尸，以避免使用[…]的潜在陷阱，以避免使用的潜在陷阱。</description>
-      <pubDate>Mon, 19 May 2025 01:33:16 +0000</pubDate>
+      <title>【SRE Weekly Issue #476】SRE周刊＃476</title>
+      <link>https://sreweekly.com/sre-weekly-issue-476/</link>
+      <description>【View on sreweekly.com Automation and The Substitution Myth The myth is: The underlying and often unexamined assumption for the benefits of automation is the notion that computers/machines are better at some tasks, and humans are better at a different, non-overlapping set of tasks. This article lays out several pitfalls to this approach, with references. &amp;#160;&amp;#160;Courtney [&amp;#8230;]】在sweekly.com自动化和替代神话上的观点是神话：自动化益处的基本且经常不顾一切的假设是计算机/机器在某些任务上更好，而在不同的，非重叠的任务集中，人类在某些任务方面更好。本文列出了这种方法的几个陷阱，并带有参考。   考特尼[…]</description>
+      <pubDate>Mon, 12 May 2025 01:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #474】SRE周刊＃474</title>
+      <link>https://sreweekly.com/sre-weekly-issue-474/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: We&amp;#8217;ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we&amp;#8217;re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Why do we do blameless incident reviews? This is a truly outstanding article about blameless incident analysis! Beyond just &amp;#8220;why&amp;#8221;, [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.io的消息：我们刚刚筹集了6200万美元，以构建与您解决事件的AI代理。看看我们如何开创事件管理的新时代。 https://go.incident.io/blog/incident.io-raises-62m为什么我们要进行无罪的事件评论？这是一篇关于无罪事件分析的真正出色文章！超越“为什么”，[…]</description>
+      <pubDate>Mon, 28 Apr 2025 01:55:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

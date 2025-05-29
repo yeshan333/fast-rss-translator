@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Azure AI Foundry MCP Server May 2025 Update: Adding Models, Knowledge &amp; Evaluation】Azure AI Foundry MCP服务器2025年5月更新：添加模型，知识和评估</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-mcp-server-may-2025</link>
-      <description>【Major expansion of Azure AI Foundry MCP Server with new Models, Knowledge Management, and Evaluation capabilities joining the existing Agent Services, enabling developers to interact with Azure AI through natural language.】Azure AI Foundry MCP服务器的主要扩展具有新的模型，知识管理和评估功能，可加入现有代理服务，使开发人员能够通过自然语言与Azure AI进行交互。</description>
-      <pubDate>Tue, 27 May 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing General Availability of JavaScript SDK v4 for Azure Cosmos DB】宣布JavaScript SDK V4的一般可用性用于Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-general-availability-of-javascript-sdk-v4-for-azure-cosmos-db</link>
-      <description>【We’re excited to launch version 4 of the Azure Cosmos DB JavaScript SDK! This update delivers major improvements that make it easier and faster to build high-performance apps with the Azure Cosmos DB for NoSQL API. Version 4 is available now and targets Node.js v18 and above, introducing a host of new capabilities, including: Improved [&amp;hellip;]】我们很高兴启动Azure Cosmos DB JavaScript SDK的版本4！此更新提供了重大改进，使使用NOSQL API的Azure Cosmos DB构建高性能应用程序变得更加容易，更快。版本4现在可用，目标是Node.js V18及以上，引入了许多新功能，包括：改进[…]</description>
-      <pubDate>Fri, 23 May 2025 22:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What was origin of the code name Redpill for Windows 8 feature lockout?】Windows 8功能锁定的代码名称redpill的来源是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250527-00/?p=111220</link>
-      <description>【Pretty obvious, actually.】实际上很明显。</description>
-      <pubDate>Tue, 27 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure DevOps with GitHub Repositories – Your path to Agentic AI】带有GitHub存储库的Azure Devops  - 您通往代理AI的途径</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-with-github-repositories-your-path-to-agentic-ai</link>
-      <description>【GitHub Copilot has evolved beyond a coding assistant in the IDE into an agentic teammate – providing actionable feedback on pull requests, fixing bugs and implementing new features, creating pull requests and responding to feedback, and much more. These new capabilities will transform every aspect of the software development lifecycle, as we are already seeing [&amp;hellip;]】Github Copilot已经发展到IDE中的编码助手超越代理队的成员 - 提供了有关拉的请求，修复错误并实施新功能，创建拉动请求并响应反馈等的可行反馈。这些新功能将改变软件开发生命周期的各个方面，因为我们已经看到[…]</description>
-      <pubDate>Tue, 27 May 2025 19:38:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Circuit Breaker Policy Fine-tuning Best Practice】断路器政策微调最佳实践</title>
-      <link>https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice</link>
-      <description>【Summary of some best practice and insights about circuit breaker resilience policy fine-tuning.】关于断路器弹性政策微调的一些最佳实践和见解的摘要。</description>
-      <pubDate>Tue, 27 May 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does Enum­Process­Modules report no modules on a process that was created suspended?】为什么EnumProcessModules在创建的过程中没有报告任何模块？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250526-00/?p=111218</link>
-      <description>【There are no modules yet because you didn&#39;t give them a chance to load.】还没有模块，因为您没有给他们加载的机会。</description>
-      <pubDate>Mon, 26 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Address Sanitizer Updates for Visual Studio 2022 Version 17.14】Visual Studio 2022版本17.14的地址消毒剂更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/address-sanitizer-updates-for-visual-studio-2022-17-14</link>
-      <description>【Introduction It has been an exciting few months for the Address Sanitizer (ASan) since our last update. In addition to our continuous focus on quality and correctness, our internal “dogfooding” (i.e. internal adoption) effort has reached several important milestones. In this update, I want to go over some of the quality improvements since Visual Studio [&amp;hellip;]】引言自上次更新以来，对于地址消毒剂（ASAN）来说，这是一个令人兴奋的几个月。除了我们不断关注质量和正确性外，我们的内部“狗食”（即内部采用）的工作达到了几个重要的里程碑。在此更新中，我想介绍视觉工作室[…]以来的一些质量改进。</description>
-      <pubDate>Tue, 27 May 2025 20:04:30 +0000</pubDate>
+      <title>【Improve the commands in your extensions】提高扩展中的命令</title>
+      <link>https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions</link>
+      <description>【As Visual Studio extension authors, our goal is to create tools that empower developers across diverse environments. A key part of this mission involves ensuring that your extension commands remain accessible and consistent across all Visual Studio locales. In your VSSDK extensions, by adding the CanonicalName property to your commands in the .vsct file, you [&amp;hellip;]】作为Visual Studio扩展作者，我们的目标是创建工具，以增强各种环境中的开发人员的能力。此任务的关键部分是确保您的扩展命令在所有Visual Studio Locales中保持易于访问和一致。在您的VSSDK扩展程序中，通过将CanonicalName属性添加到.vsct文件中的命令中，您[…]</description>
+      <pubDate>Wed, 28 May 2025 15:53:58 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing New Tools and Features in the Responses API in Azure AI Foundry】在Azure AI Foundry中的响应API中引入新工具和功能</title>
@@ -52,16 +16,52 @@
       <pubDate>Tue, 27 May 2025 21:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>【VisualStudio.Extensibility: Editor classification and updates to user prompt】visualStudio.textensible：编辑器分类和更新到用户提示</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt</link>
-      <description>【We continue to invest in the VisualStudio.Extensibility SDK to allow users like you to create extensions that run faster and smoother than ever before! VisualStudio.Extensibility helps you build extensions that run outside the main Visual Studio IDE process for improved performance, reliability, and installation without restarting Visual Studio. Additional benefits include a sleek and intuitive [&amp;hellip;]】我们继续投资于VisualStudio.stensensibility SDK，以允许像您这样的用户创建比以往更快，更光滑的扩展！ Extensensible。可帮助您构建在主要Visual Studio IDE过程之外运行的扩展，以提高性能，可靠性和安装，而无需重新启动Visual Studio。其他好处包括时尚直觉[…]</description>
-      <pubDate>Tue, 27 May 2025 16:00:42 +0000</pubDate>
+      <title>【Azure AI Foundry MCP Server May 2025 Update: Adding Models, Knowledge &amp; Evaluation】Azure AI Foundry MCP服务器2025年5月更新：添加模型，知识和评估</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-mcp-server-may-2025</link>
+      <description>【Major expansion of Azure AI Foundry MCP Server with new Models, Knowledge Management, and Evaluation capabilities joining the existing Agent Services, enabling developers to interact with Azure AI through natural language.】Azure AI Foundry MCP服务器的主要扩展具有新的模型，知识管理和评估功能，可加入现有代理服务，使开发人员能够通过自然语言与Azure AI进行交互。</description>
+      <pubDate>Tue, 27 May 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel: Multi-agent Orchestration】语义内核：多代理编排</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-multi-agent-orchestration</link>
-      <description>【The field of AI is rapidly evolving, and the need for more sophisticated, collaborative, and flexible agent-based systems is growing. With this in mind, Semantic Kernel introduces a new multi-agent orchestration framework that enables developers to build, manage, and scale complex agent workflows with ease. This post explores the new orchestration patterns, their capabilities, and [&amp;hellip;]】人工智能领域正在迅速发展，需要基于更复杂，协作和灵活的基于代理的系统的需求正在增长。考虑到这一点，语义内核引入了一个新的多代理编排框架，该框架使开发人员可以轻松地构建，管理和扩展复杂的代理工作流程。这篇文章探讨了新的编排模式，它们的能力和[…]</description>
-      <pubDate>Tue, 27 May 2025 16:54:32 +0000</pubDate>
+      <title>【DocumentDB Local – MongoDB API on Your Machine】DocumentDB本地 - 机器上的MongoDB API</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/documentdb-local-mongodb-api-on-your-machine</link>
+      <description>【Introduction DocumentDB Local provides a lightweight, containerized environment that lets you develop and test applications locally using a MongoDB-compatible interface. It’s ideal for prototyping or running integration tests without needing a cloud setup. When paired with the DocumentDB Extension for Visual Studio Code, it creates a focused and consistent local development environment. DocumentDB Local is [&amp;hellip;]】简介DocumentDB Local提供了一个轻巧的容器化环境，可让您使用MongoDB兼容接口在本地开发和测试应用程序。它是原型制作或运行集成测试的理想选择，而无需云设置。当与Visual Studio代码的DocumentDB扩展配对时，它会创建一个集中且一致的本地开发环境。 documentdb local是[…]</description>
+      <pubDate>Wed, 28 May 2025 15:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Getting started with AI in SQL Server 2025 on Windows】在Windows上使用SQL Server 2025中的AI入门</title>
+      <link>https://devblogs.microsoft.com/azure-sql/getting-started-with-ai-in-sql-server-2025-on-windows</link>
+      <description>【Back in the earlier part of the year (February maybe?), I put this tutorial together for our early adopters in the SQL Server 2025 program. It’s a guide for setting up SQL Server 2025 in a Hyper-V VM (I used Windows Server) with Ollama and ngnix as an https proxy. It&amp;#8217;s a variation of my [&amp;hellip;]】回到今年早期（也许是2月？），我将本教程放在SQL Server 2025程序中。这是用于在Hyper-V VM（我使用Windows Server）中设置SQL Server 2025的指南，将Ollama和NGNIX作为HTTPS代理。这是我[…]的变体</description>
+      <pubDate>Wed, 28 May 2025 23:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel and Microsoft.Extensions.AI: Better Together, Part 2】语义内核和Microsoft.extensions.ai：更好地在一起，第2部分</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-microsoft-extensions-ai-better-together-part-2</link>
+      <description>【This is Part 2 of our series on integrating Microsoft.Extensions.AI with Semantic Kernel. In Part 1, we explored the relationship between these technologies and how they complement each other. Now, let&amp;#8217;s dive into practical examples showing how to use Microsoft.Extensions.AI abstractions with Semantic Kernel in non-agent scenarios. Getting Started with Microsoft.Extensions.AI and Semantic Kernel Before we [&amp;hellip;]】这是我们有关Microsoft.extensions.ai与语义内核集成的系列系列的第2部分。在第1部分中，我们探讨了这些技术之间的关系以及它们如何相互补充。现在，让我们介绍实践示例，以显示如何在非代理方案中使用语义内核的Microsoft.extensions.ai抽象。在[…]</description>
+      <pubDate>Wed, 28 May 2025 13:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB TV – Everything New in Azure Cosmos DB from Microsoft Build 2025】Azure Cosmos DB电视 -  Microsoft Build 2025的Azure Cosmos DB中的所有新事物</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-everything-new-in-azure-cosmos-db-from-microsoft-build-2025</link>
+      <description>【Microsoft Build 2025 brought major innovations to Azure Cosmos DB, and in Episode 105 of Azure Cosmos DB TV, Principal Program Manager Mark Brown sits down with Kirill Gavrylyuk, Vice President and GM of Azure Cosmos DB, to break it all down. Whether you&amp;#8217;re developing AI-native apps, building with MongoDB, or just looking for better [&amp;hellip;]】Microsoft Build 2025为Azure Cosmos DB带来了重大创新，在Azure Cosmos DB TV的第105集中，首席计划经理Mark Brown与Azure Cosmos DB的副总裁兼GM GM Kirill Gavrylyuk坐下来，以分解所有这些。无论您是开发AI本地应用程序，使用MongoDB构建，还是只是寻找更好的[…]</description>
+      <pubDate>Wed, 28 May 2025 17:55:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10】宣布dotnet run app.cs  - 一种从c＃和.net 10开始的简单方法</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app</link>
+      <description>【We are super excited to introduce a new feature that was released as part of .NET 10 Preview 4 that makes getting started with C# easier than ever. You can now run a C# file directly using dotnet run app.cs. This means you no longer need to create a project file or scaffold a whole [&amp;hellip;]】我们非常高兴地引入了一项新功能，该功能是.NET 10 Preview 4的一部分，该功能比以往任何时候都更加容易开始C＃。现在，您可以使用Dotnet Run App.c.直接运行C＃文件。这意味着您不再需要创建一个项目文件或脚手架[…]</description>
+      <pubDate>Wed, 28 May 2025 16:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Code quicker with Azure AI Foundry playgrounds and Visual Studio Code】使用Azure AI Foundry Playgrounds和Visual Studio代码更快地代码</title>
+      <link>https://devblogs.microsoft.com/foundry/open-in-vscode</link>
+      <description>【The &#34;Open in VS Code&#34; workflow, part of the Azure AI Foundry extension for Visual Studio Code, accelerates developer velocity by integrating agent or model API endpoints and code samples into a new workspace in VS Code for Web. This feature streamlines the development process, enabling rapid prototyping and deployment with just one click.】Visual Studio代码的Azure AI Foundry扩展的一部分“在VS代码中打开”工作流程，通过将代理或模型API端点和模型API端点和代码示例集成到Web的VS代码中的新工作区中来加速开发人员速度。此功能简化了开发过程，仅一键单击即可快速进行原型制作和部署。</description>
+      <pubDate>Wed, 28 May 2025 19:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How do I convert a WIC bitmap back to a GDI HBITMAP?】如何将WIC位图转换回GDI HBITMAP？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250528-00/?p=111225</link>
+      <description>【You can copy the bits into a DIB section.】您可以将位复制到DIB部分中。</description>
+      <pubDate>Wed, 28 May 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
