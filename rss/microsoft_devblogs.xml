@@ -4,40 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Improve the commands in your extensions】提高扩展中的命令</title>
-      <link>https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions</link>
-      <description>【As Visual Studio extension authors, our goal is to create tools that empower developers across diverse environments. A key part of this mission involves ensuring that your extension commands remain accessible and consistent across all Visual Studio locales. In your VSSDK extensions, by adding the CanonicalName property to your commands in the .vsct file, you [&amp;hellip;]】作为Visual Studio扩展作者，我们的目标是创建工具，以增强各种环境中的开发人员的能力。此任务的关键部分是确保您的扩展命令在所有Visual Studio Locales中保持易于访问和一致。在您的VSSDK扩展程序中，通过将CanonicalName属性添加到.vsct文件中的命令中，您[…]</description>
-      <pubDate>Wed, 28 May 2025 15:53:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing New Tools and Features in the Responses API in Azure AI Foundry】在Azure AI Foundry中的响应API中引入新工具和功能</title>
-      <link>https://devblogs.microsoft.com/foundry/introducing-new-tools-and-features-in-the-responses-api-in-azure-ai-foundry</link>
-      <description>【With the introduction of the Responses API, Microsoft is enabling a new standard for AI development within the Azure ecosystem. Originally launched by OpenAI and now natively supported in Azure AI Foundry, the Responses API combines the simplicity of the Chat Completions API with the advanced tool-calling capabilities of the Assistants API. It offers a [&amp;hellip;]】随着响应API的引入，Microsoft为Azure生态系统中的AI开发提供了新的标准。 API最初由OpenAI推出，现在由Azure AI铸造厂提供了本地支持，API将聊天完成API的简单性与助手API的高级工具称呼功能结合在一起。它提供了[…]</description>
-      <pubDate>Tue, 27 May 2025 21:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure AI Foundry MCP Server May 2025 Update: Adding Models, Knowledge &amp; Evaluation】Azure AI Foundry MCP服务器2025年5月更新：添加模型，知识和评估</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-ai-foundry-mcp-server-may-2025</link>
-      <description>【Major expansion of Azure AI Foundry MCP Server with new Models, Knowledge Management, and Evaluation capabilities joining the existing Agent Services, enabling developers to interact with Azure AI through natural language.】Azure AI Foundry MCP服务器的主要扩展具有新的模型，知识管理和评估功能，可加入现有代理服务，使开发人员能够通过自然语言与Azure AI进行交互。</description>
-      <pubDate>Tue, 27 May 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DocumentDB Local – MongoDB API on Your Machine】DocumentDB本地 - 机器上的MongoDB API</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/documentdb-local-mongodb-api-on-your-machine</link>
-      <description>【Introduction DocumentDB Local provides a lightweight, containerized environment that lets you develop and test applications locally using a MongoDB-compatible interface. It’s ideal for prototyping or running integration tests without needing a cloud setup. When paired with the DocumentDB Extension for Visual Studio Code, it creates a focused and consistent local development environment. DocumentDB Local is [&amp;hellip;]】简介DocumentDB Local提供了一个轻巧的容器化环境，可让您使用MongoDB兼容接口在本地开发和测试应用程序。它是原型制作或运行集成测试的理想选择，而无需云设置。当与Visual Studio代码的DocumentDB扩展配对时，它会创建一个集中且一致的本地开发环境。 documentdb local是[…]</description>
-      <pubDate>Wed, 28 May 2025 15:09:28 +0000</pubDate>
-    </item>
-    <item>
       <title>【Getting started with AI in SQL Server 2025 on Windows】在Windows上使用SQL Server 2025中的AI入门</title>
       <link>https://devblogs.microsoft.com/azure-sql/getting-started-with-ai-in-sql-server-2025-on-windows</link>
       <description>【Back in the earlier part of the year (February maybe?), I put this tutorial together for our early adopters in the SQL Server 2025 program. It’s a guide for setting up SQL Server 2025 in a Hyper-V VM (I used Windows Server) with Ollama and ngnix as an https proxy. It&amp;#8217;s a variation of my [&amp;hellip;]】回到今年早期（也许是2月？），我将本教程放在SQL Server 2025程序中。这是用于在Hyper-V VM（我使用Windows Server）中设置SQL Server 2025的指南，将Ollama和NGNIX作为HTTPS代理。这是我[…]的变体</description>
       <pubDate>Wed, 28 May 2025 23:46:58 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel and Microsoft.Extensions.AI: Better Together, Part 2】语义内核和Microsoft.extensions.ai：更好地在一起，第2部分</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-microsoft-extensions-ai-better-together-part-2</link>
-      <description>【This is Part 2 of our series on integrating Microsoft.Extensions.AI with Semantic Kernel. In Part 1, we explored the relationship between these technologies and how they complement each other. Now, let&amp;#8217;s dive into practical examples showing how to use Microsoft.Extensions.AI abstractions with Semantic Kernel in non-agent scenarios. Getting Started with Microsoft.Extensions.AI and Semantic Kernel Before we [&amp;hellip;]】这是我们有关Microsoft.extensions.ai与语义内核集成的系列系列的第2部分。在第1部分中，我们探讨了这些技术之间的关系以及它们如何相互补充。现在，让我们介绍实践示例，以显示如何在非代理方案中使用语义内核的Microsoft.extensions.ai抽象。在[…]</description>
-      <pubDate>Wed, 28 May 2025 13:18:24 +0000</pubDate>
+      <title>【Vector Support Public Preview now extended to Azure SQL MI】向量支持公共预览现在扩展到Azure SQL MI</title>
+      <link>https://devblogs.microsoft.com/azure-sql/4561-2</link>
+      <description>【We are thrilled to announce that Azure SQL Managed Instance now supports Vector type and functions in public preview.  This builds on the momentum from Azure SQL Database, where vector support has been in public preview since December. Check out the detailed announcement 💡 Why Choose Azure SQL Managed Instance for AI-Driven Modernization? Effortless Cloud [&amp;hellip;]】我们很高兴地宣布，Azure SQL托管实例现在支持公共预览中的向量类型和功能。  这是基于Azure SQL数据库的动力，自12月以来，向量支持一直在公共预览中。查看详细的公告💡为什么为什么选择Ai-Driven现代化的Azure SQL托管实例？轻松的云[…]</description>
+      <pubDate>Thu, 29 May 2025 17:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SQL Cryptozoology AI Embeddings Lab Now Available!】Azure SQL Cryptozoology AI Embeddings Lab现在可用！</title>
+      <link>https://devblogs.microsoft.com/azure-sql/azure-sql-cryptozoology-ai-embeddings-lab-now-available</link>
+      <description>【Missed out on MS Build 2025? No worries! Our lab is now available for your exploration. Dive into a unique cryptozoology experience using Azure SQL and Azure AI to uncover intriguing (and true) connections among cryptids worldwide. Curious about who would reign supreme in a battle royal or which regions of the world hold the [&amp;hellip;]】错过了MS Build 2025？不用担心！我们的实验室现在可以供您探索。使用Azure SQL和Azure AI探索独特的加密学体验，以发现全球隐脚之间的感动（和真实）联系。好奇谁将在皇家战役中统治最高或世界的哪个地区[…]</description>
+      <pubDate>Thu, 29 May 2025 19:55:29 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Cosmos DB TV – Everything New in Azure Cosmos DB from Microsoft Build 2025】Azure Cosmos DB电视 -  Microsoft Build 2025的Azure Cosmos DB中的所有新事物</title>
@@ -46,22 +28,40 @@
       <pubDate>Wed, 28 May 2025 17:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10】宣布dotnet run app.cs  - 一种从c＃和.net 10开始的简单方法</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app</link>
-      <description>【We are super excited to introduce a new feature that was released as part of .NET 10 Preview 4 that makes getting started with C# easier than ever. You can now run a C# file directly using dotnet run app.cs. This means you no longer need to create a project file or scaffold a whole [&amp;hellip;]】我们非常高兴地引入了一项新功能，该功能是.NET 10 Preview 4的一部分，该功能比以往任何时候都更加容易开始C＃。现在，您可以使用Dotnet Run App.c.直接运行C＃文件。这意味着您不再需要创建一个项目文件或脚手架[…]</description>
-      <pubDate>Wed, 28 May 2025 16:00:25 +0000</pubDate>
+      <title>【Go from prompt to playback with Sora from Azure OpenAI in the video playground in Azure AI Foundry】从Azure AI Foundry的视频游乐场中的Azure Openai的Sora提示到播放</title>
+      <link>https://devblogs.microsoft.com/foundry/sora-in-video-playground</link>
+      <description>【The video playground in Azure AI Foundry is a high-fidelity testbed for prototyping with cutting-edge video generation models like Sora from Azure OpenAI. It offers a controlled environment for developers to experiment with prompt structures, evaluate model consistency, and optimize outputs for industry use cases.】Azure AI Foundry中的视频游乐场是用于原型制作的高保真测试床，该型号具有尖端的视频生成模型，例如来自Azure Openai的Sora。它为开发人员提供了一个受控的环境，可以尝试及时结构，评估模型一致性并优化行业用例的产出。</description>
+      <pubDate>Thu, 29 May 2025 20:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of creating new instances when you wanted to use the same one】当您想使用同一实例时创建新实例的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250529-00/?p=111228</link>
+      <description>【C++ language backward compatibility makes legal what you had hoped wasn&#39;t.】C ++语言向后兼容，使您希望不是。</description>
+      <pubDate>Thu, 29 May 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Agentic DevOps in action: Reimagining every phase of the developer lifecycle】行动中的代理DevOps：重新构想开发人员生命周期的每个阶段</title>
+      <link>https://devblogs.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle</link>
+      <description>【What if your dev tools could take the first pass at a feature, file a bug report, propose a fix—and deploy it? With Agentic DevOps and GitHub Copilot, they can. Here&#39;s how agents will reshape every step of the software development lifecycle.】如果您的开发工具可以在功能上进行第一次通过，请提交错误报告，提出修复并部署它怎么办？使用代理Devops和Github副驾驶，它们可以。这是代理商将如何重塑软件开发生命周期的每个步骤。</description>
+      <pubDate>Thu, 29 May 2025 19:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building Multi-Agent AI Apps in Java with Spring AI and Azure Cosmos DB!】使用Spring AI和Azure Cosmos DB构建Java的多代理AI应用程序！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/building-multi-agent-ai-apps-in-java-with-spring-ai-and-azure-cosmos-db</link>
+      <description>【As AI-driven apps become more sophisticated, there&amp;#8217;s an increasing need for them to mimic collaborative problem solving &amp;#8211; like a team of domain experts working together. Multi-agent apps offer exactly that: collections of specialized agents that cooperate to handle complex tasks. But to make them production-grade, you need more than just clever prompts &amp;#8211; you [&amp;hellip;]】随着AI驱动的应用程序变得越来越复杂，他们越来越需要模仿协作问题解决问题，就像一个团队专家团队一起工作。多代理应用程序提供了：合作处理复杂任务的专门代理的集合。但是要使它们成为生产级，您不仅需要巧妙的提示 - 您[…]</description>
+      <pubDate>Thu, 29 May 2025 14:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Fine-tune the volume of logs your app produces】微调您的应用程序生成的日志量</title>
+      <link>https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces</link>
+      <description>【Explores the new log sampling feature】探索新的日志采样功能</description>
+      <pubDate>Thu, 29 May 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Code quicker with Azure AI Foundry playgrounds and Visual Studio Code】使用Azure AI Foundry Playgrounds和Visual Studio代码更快地代码</title>
       <link>https://devblogs.microsoft.com/foundry/open-in-vscode</link>
       <description>【The &#34;Open in VS Code&#34; workflow, part of the Azure AI Foundry extension for Visual Studio Code, accelerates developer velocity by integrating agent or model API endpoints and code samples into a new workspace in VS Code for Web. This feature streamlines the development process, enabling rapid prototyping and deployment with just one click.】Visual Studio代码的Azure AI Foundry扩展的一部分“在VS代码中打开”工作流程，通过将代理或模型API端点和模型API端点和代码示例集成到Web的VS代码中的新工作区中来加速开发人员速度。此功能简化了开发过程，仅一键单击即可快速进行原型制作和部署。</description>
       <pubDate>Wed, 28 May 2025 19:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How do I convert a WIC bitmap back to a GDI HBITMAP?】如何将WIC位图转换回GDI HBITMAP？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250528-00/?p=111225</link>
-      <description>【You can copy the bits into a DIB section.】您可以将位复制到DIB部分中。</description>
-      <pubDate>Wed, 28 May 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

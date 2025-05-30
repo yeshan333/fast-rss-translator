@@ -4,6 +4,18 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>Smartsheet如何通过Amazon Bedrock和Roo Code提高开发人员的生产力</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/</link>
+      <description></description>
+      <pubDate>Mon, 19 May 2025 17:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>宣布AWS良好的生成AI镜头</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/</link>
+      <description></description>
+      <pubDate>Thu, 17 Apr 2025 23:00:58 +0000</pubDate>
+    </item>
+    <item>
       <title>使用Amazon API Gateway转换Maya的API管理</title>
       <link>https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/</link>
       <description></description>
@@ -22,16 +34,10 @@
       <pubDate>Fri, 18 Apr 2025 16:19:36 +0000</pubDate>
     </item>
     <item>
-      <title>使用多模式LLM革新农业知识管理：参考体系结构</title>
-      <link>https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/</link>
+      <title>改善现金应用程序的平台弹性</title>
+      <link>https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/</link>
       <description></description>
-      <pubDate>Thu, 15 May 2025 17:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smartsheet如何通过Amazon Bedrock和Roo Code提高开发人员的生产力</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/</link>
-      <description></description>
-      <pubDate>Mon, 19 May 2025 17:28:58 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 15:10:40 +0000</pubDate>
     </item>
     <item>
       <title>使用Amazon Sagemaker AI和Amazon Bedrock优化车队操作</title>
@@ -40,28 +46,22 @@
       <pubDate>Wed, 28 May 2025 18:29:26 +0000</pubDate>
     </item>
     <item>
-      <title>宣布AWS良好的生成AI镜头</title>
-      <link>https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/</link>
+      <title>通过现代建筑治理赋予您的团队能力</title>
+      <link>https://aws.amazon.com/blogs/architecture/empower-your-teams-with-modern-architecture-governance/</link>
       <description></description>
-      <pubDate>Thu, 17 Apr 2025 23:00:58 +0000</pubDate>
+      <pubDate>Mon, 21 Apr 2025 17:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用多模式LLM革新农业知识管理：参考体系结构</title>
+      <link>https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 17:20:44 +0000</pubDate>
     </item>
     <item>
       <title>建立和运营有效的建筑审查委员会</title>
       <link>https://aws.amazon.com/blogs/architecture/build-and-operate-an-effective-architecture-review-board/</link>
       <description></description>
       <pubDate>Mon, 14 Apr 2025 14:49:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>3周内的UNIDAYS如何在AWS地区扩张</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-unidays-achieved-aws-region-expansion-in-3-weeks/</link>
-      <description></description>
-      <pubDate>Tue, 08 Apr 2025 16:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>通过现代建筑治理赋予您的团队能力</title>
-      <link>https://aws.amazon.com/blogs/architecture/empower-your-teams-with-modern-architecture-governance/</link>
-      <description></description>
-      <pubDate>Mon, 21 Apr 2025 17:08:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
