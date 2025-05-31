@@ -5,46 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP163: 12 MCP Servers You Can Use in 2025】EP163：12您可以在2025年使用的MCP服务器</title>
-      <link>https://blog.bytebytego.com/p/ep163-12-mcp-servers-you-can-use</link>
-      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
-      <pubDate>Sat, 17 May 2025 03:30:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Amazon Key Opens 100 Million Doors Every Year】亚马逊钥匙每年如何打开1亿个门</title>
-      <link>https://blog.bytebytego.com/p/how-amazon-key-opens-100-million</link>
-      <description>【We recently had the wonderful opportunity to sit with Kaushik Mani and Vijay Nagarajan from the Amazon Key team to learn how they built this system and the challenges they faced.】最近，我们有一个绝佳的机会与亚马逊钥匙团队的Kaushik Mani和Vijay Nagarajan坐在一起，以了解他们如何构建该系统及其面临的挑战。</description>
-      <pubDate>Wed, 28 May 2025 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Gateway vs Service Mesh - Which One Do You Need】API网关与服务网格 - 您需要哪一个</title>
-      <link>https://blog.bytebytego.com/p/api-gateway-vs-service-mesh-which</link>
-      <description>【In this article, we look at both API Gateways and Service Mesh in detail, along with their key differences and usage goals.】在本文中，我们详细介绍了API网关和服务网格，以及它们的主要差异和使用目标。</description>
-      <pubDate>Thu, 22 May 2025 15:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP164: JWT Simply Explained】EP164：JWT简单地解释了</title>
-      <link>https://blog.bytebytego.com/p/ep164-jwt-simply-explained</link>
-      <description>【JWT or JSON Web Tokens is an open standard for securely transmitting information between two parties. They are widely used for authentication and authorization.】JWT或JSON Web令牌是在两方之间安全传输信息的开放标准。它们被广泛用于身份验证和授权。</description>
-      <pubDate>Sat, 24 May 2025 15:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Eats Handles Billions of Daily Search Queries】Uber如何处理数十亿的日常搜索查询</title>
-      <link>https://blog.bytebytego.com/p/how-uber-eats-handles-billions-of</link>
-      <description>【In this article, we look at the breakdown of how Uber Eats rebuilt its search platform to handle this scale without degrading performance or relevance.】在本文中，我们研究了Uber饮食如何重建其搜索平台以处理此规模而不会降低性能或相关性的细分。</description>
-      <pubDate>Tue, 27 May 2025 15:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Slack Supports Billions of Daily Messages】Slack如何支持数十亿美元的每日消息</title>
-      <link>https://blog.bytebytego.com/p/how-slack-supports-billions-of-daily</link>
-      <description>【At peak weekday hours, Slack maintains over five million simultaneous WebSocket sessions. That&amp;#8217;s not just a metric, but a serious architectural challenge.】在工作日高峰时段，Slack可以同时维持超过500万个Websocket会议。这不仅是一个指标，而且是一个严重的建筑挑战。</description>
-      <pubDate>Tue, 13 May 2025 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Facebook Live Scaled to a Billion Users】Facebook Live如何扩展到十亿用户</title>
-      <link>https://blog.bytebytego.com/p/how-facebook-live-scaled-to-a-billion</link>
-      <description>【In this article, we&amp;#8217;ll look at how Facebook Live was built and the kind of challenges they faced.】在本文中，我们将研究Facebook Live的建立以及他们面临的挑战。</description>
-      <pubDate>Tue, 20 May 2025 15:31:05 +0000</pubDate>
+      <title>【A Deep Dive into HTTP: From HTTP 1 to HTTP 3】深入研究HTTP：从HTTP 1到HTTP 3</title>
+      <link>https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1</link>
+      <description>【In this article, we trace the HTTP journey. From the stateless, text-based simplicity of HTTP/1.1 to the encrypted, multiplexed, and mobile-optimized world of HTTP/3.】在本文中，我们追踪HTTP旅程。从HTTP/1.1的无状态，基于文本的简单性到HTTP/3的加密，多路复用和移动优化的世界。</description>
+      <pubDate>Thu, 29 May 2025 15:30:46 +0000</pubDate>
     </item>
     <item>
       <title>【How Pinterest Scaled Its Architecture to Support 500 Million Users】Pinterest如何扩展其架构以支持5亿用户</title>
@@ -53,16 +17,52 @@
       <pubDate>Mon, 19 May 2025 15:30:40 +0000</pubDate>
     </item>
     <item>
+      <title>【How Facebook Live Scaled to a Billion Users】Facebook Live如何扩展到十亿用户</title>
+      <link>https://blog.bytebytego.com/p/how-facebook-live-scaled-to-a-billion</link>
+      <description>【In this article, we&amp;#8217;ll look at how Facebook Live was built and the kind of challenges they faced.】在本文中，我们将研究Facebook Live的建立以及他们面临的挑战。</description>
+      <pubDate>Tue, 20 May 2025 15:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【API Gateway vs Service Mesh - Which One Do You Need】API网关与服务网格 - 您需要哪一个</title>
+      <link>https://blog.bytebytego.com/p/api-gateway-vs-service-mesh-which</link>
+      <description>【In this article, we look at both API Gateways and Service Mesh in detail, along with their key differences and usage goals.】在本文中，我们详细介绍了API网关和服务网格，以及它们的主要差异和使用目标。</description>
+      <pubDate>Thu, 22 May 2025 15:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Eats Handles Billions of Daily Search Queries】Uber如何处理数十亿的日常搜索查询</title>
+      <link>https://blog.bytebytego.com/p/how-uber-eats-handles-billions-of</link>
+      <description>【In this article, we look at the breakdown of how Uber Eats rebuilt its search platform to handle this scale without degrading performance or relevance.】在本文中，我们研究了Uber饮食如何重建其搜索平台以处理此规模而不会降低性能或相关性的细分。</description>
+      <pubDate>Tue, 27 May 2025 15:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Amazon Key Opens 100 Million Doors Every Year】亚马逊钥匙每年如何打开1亿个门</title>
+      <link>https://blog.bytebytego.com/p/how-amazon-key-opens-100-million</link>
+      <description>【We recently had the wonderful opportunity to sit with Kaushik Mani and Vijay Nagarajan from the Amazon Key team to learn how they built this system and the challenges they faced.】最近，我们有一个绝佳的机会与亚马逊钥匙团队的Kaushik Mani和Vijay Nagarajan坐在一起，以了解他们如何构建该系统及其面临的挑战。</description>
+      <pubDate>Wed, 28 May 2025 15:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP163: 12 MCP Servers You Can Use in 2025】EP163：12您可以在2025年使用的MCP服务器</title>
+      <link>https://blog.bytebytego.com/p/ep163-12-mcp-servers-you-can-use</link>
+      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
+      <pubDate>Sat, 17 May 2025 03:30:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【Engineering Trade-offs: Eventual Consistency in Practice】工程权衡：实践中最终的一致性</title>
       <link>https://blog.bytebytego.com/p/a-guide-to-eventual-consistency-in</link>
       <description>【Modern applications don&amp;#8217;t run on a single database or monolithic backend anymore. They run on event-driven, distributed systems.】现代应用程序不再在单个数据库或整体后端运行。他们在事件驱动的分布式系统上运行。</description>
       <pubDate>Thu, 15 May 2025 15:30:30 +0000</pubDate>
     </item>
     <item>
-      <title>【A Deep Dive into HTTP: From HTTP 1 to HTTP 3】深入研究HTTP：从HTTP 1到HTTP 3</title>
-      <link>https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1</link>
-      <description>【In this article, we trace the HTTP journey. From the stateless, text-based simplicity of HTTP/1.1 to the encrypted, multiplexed, and mobile-optimized world of HTTP/3.】在本文中，我们追踪HTTP旅程。从HTTP/1.1的无状态，基于文本的简单性到HTTP/3的加密，多路复用和移动优化的世界。</description>
-      <pubDate>Thu, 29 May 2025 15:30:46 +0000</pubDate>
+      <title>【How Slack Supports Billions of Daily Messages】Slack如何支持数十亿美元的每日消息</title>
+      <link>https://blog.bytebytego.com/p/how-slack-supports-billions-of-daily</link>
+      <description>【At peak weekday hours, Slack maintains over five million simultaneous WebSocket sessions. That&amp;#8217;s not just a metric, but a serious architectural challenge.】在工作日高峰时段，Slack可以同时维持超过500万个Websocket会议。这不仅是一个指标，而且是一个严重的建筑挑战。</description>
+      <pubDate>Tue, 13 May 2025 15:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP164: JWT Simply Explained】EP164：JWT简单地解释了</title>
+      <link>https://blog.bytebytego.com/p/ep164-jwt-simply-explained</link>
+      <description>【JWT or JSON Web Tokens is an open standard for securely transmitting information between two parties. They are widely used for authentication and authorization.】JWT或JSON Web令牌是在两方之间安全传输信息的开放标准。它们被广泛用于身份验证和授权。</description>
+      <pubDate>Sat, 24 May 2025 15:30:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

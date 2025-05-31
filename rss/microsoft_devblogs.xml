@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Getting started with AI in SQL Server 2025 on Windows】在Windows上使用SQL Server 2025中的AI入门</title>
-      <link>https://devblogs.microsoft.com/azure-sql/getting-started-with-ai-in-sql-server-2025-on-windows</link>
-      <description>【Back in the earlier part of the year (February maybe?), I put this tutorial together for our early adopters in the SQL Server 2025 program. It’s a guide for setting up SQL Server 2025 in a Hyper-V VM (I used Windows Server) with Ollama and ngnix as an https proxy. It&amp;#8217;s a variation of my [&amp;hellip;]】回到今年早期（也许是2月？），我将本教程放在SQL Server 2025程序中。这是用于在Hyper-V VM（我使用Windows Server）中设置SQL Server 2025的指南，将Ollama和NGNIX作为HTTPS代理。这是我[…]的变体</description>
-      <pubDate>Wed, 28 May 2025 23:46:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Vector Support Public Preview now extended to Azure SQL MI】向量支持公共预览现在扩展到Azure SQL MI</title>
-      <link>https://devblogs.microsoft.com/azure-sql/4561-2</link>
-      <description>【We are thrilled to announce that Azure SQL Managed Instance now supports Vector type and functions in public preview.  This builds on the momentum from Azure SQL Database, where vector support has been in public preview since December. Check out the detailed announcement 💡 Why Choose Azure SQL Managed Instance for AI-Driven Modernization? Effortless Cloud [&amp;hellip;]】我们很高兴地宣布，Azure SQL托管实例现在支持公共预览中的向量类型和功能。  这是基于Azure SQL数据库的动力，自12月以来，向量支持一直在公共预览中。查看详细的公告💡为什么为什么选择Ai-Driven现代化的Azure SQL托管实例？轻松的云[…]</description>
-      <pubDate>Thu, 29 May 2025 17:16:41 +0000</pubDate>
+      <title>【Using an oracle to see where your code is producing the wrong output】使用Oracle查看您的代码在哪里产生错误的输出</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250530-00/?p=111232</link>
+      <description>【If there is a reference implementation, then use it as a check.】如果有参考实现，请将其用作检查。</description>
+      <pubDate>Fri, 30 May 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure SQL Cryptozoology AI Embeddings Lab Now Available!】Azure SQL Cryptozoology AI Embeddings Lab现在可用！</title>
@@ -22,10 +16,10 @@
       <pubDate>Thu, 29 May 2025 19:55:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB TV – Everything New in Azure Cosmos DB from Microsoft Build 2025】Azure Cosmos DB电视 -  Microsoft Build 2025的Azure Cosmos DB中的所有新事物</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-everything-new-in-azure-cosmos-db-from-microsoft-build-2025</link>
-      <description>【Microsoft Build 2025 brought major innovations to Azure Cosmos DB, and in Episode 105 of Azure Cosmos DB TV, Principal Program Manager Mark Brown sits down with Kirill Gavrylyuk, Vice President and GM of Azure Cosmos DB, to break it all down. Whether you&amp;#8217;re developing AI-native apps, building with MongoDB, or just looking for better [&amp;hellip;]】Microsoft Build 2025为Azure Cosmos DB带来了重大创新，在Azure Cosmos DB TV的第105集中，首席计划经理Mark Brown与Azure Cosmos DB的副总裁兼GM GM Kirill Gavrylyuk坐下来，以分解所有这些。无论您是开发AI本地应用程序，使用MongoDB构建，还是只是寻找更好的[…]</description>
-      <pubDate>Wed, 28 May 2025 17:55:11 +0000</pubDate>
+      <title>【Efficient Ground Truth Generation for Search Evaluation】有效的地面真相生成搜索评估</title>
+      <link>https://devblogs.microsoft.com/ise/efficient-ground-truth-generation-search-evaluation</link>
+      <description>【This article discusses the challenges and methodologies for creating a reliable groundtruth dataset for search evaluation. It highlights the use of TREC Pooling and GPT-4o assisted ranking to overcome the labor-intensive process of manual labeling, ensuring high-quality search evaluations even with limited data.】本文讨论了创建可靠的地面图数据集的挑战和方法论。它突出了TREC合并和GPT-4O辅助排名的使用来克服劳动密集型的手动标签过程，即使数据有限，也可以确保高质量的搜索评估。</description>
+      <pubDate>Fri, 30 May 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go from prompt to playback with Sora from Azure OpenAI in the video playground in Azure AI Foundry】从Azure AI Foundry的视频游乐场中的Azure Openai的Sora提示到播放</title>
@@ -34,34 +28,40 @@
       <pubDate>Thu, 29 May 2025 20:38:42 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of creating new instances when you wanted to use the same one】当您想使用同一实例时创建新实例的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250529-00/?p=111228</link>
-      <description>【C++ language backward compatibility makes legal what you had hoped wasn&#39;t.】C ++语言向后兼容，使您希望不是。</description>
-      <pubDate>Thu, 29 May 2025 14:00:00 +0000</pubDate>
+      <title>【The Future of Semantic Kernel: A Commitment to Innovation and Collaboration】语义内核的未来：对创新与协作的承诺</title>
+      <link>https://devblogs.microsoft.com/foundry/semantic-kernel-commitment-ai-innovation</link>
+      <description>【Semantic Kernel is Microsoft’s core framework for enterprise AI orchestration, remaining secure, stable, and rapidly evolving with unified multi-agent support and deep Azure integration, backed by ongoing investment and a clear long-term roadmap.】语义内核是Microsoft企业AI编排的核心框架，它保持安全，稳定且迅速发展，并以统一的多代理支持和深度的Azure集成，并以持续的投资和清晰的长期路线图支持。</description>
+      <pubDate>Fri, 30 May 2025 13:15:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Agentic DevOps in action: Reimagining every phase of the developer lifecycle】行动中的代理DevOps：重新构想开发人员生命周期的每个阶段</title>
-      <link>https://devblogs.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle</link>
-      <description>【What if your dev tools could take the first pass at a feature, file a bug report, propose a fix—and deploy it? With Agentic DevOps and GitHub Copilot, they can. Here&#39;s how agents will reshape every step of the software development lifecycle.】如果您的开发工具可以在功能上进行第一次通过，请提交错误报告，提出修复并部署它怎么办？使用代理Devops和Github副驾驶，它们可以。这是代理商将如何重塑软件开发生命周期的每个步骤。</description>
-      <pubDate>Thu, 29 May 2025 19:16:40 +0000</pubDate>
+      <title>【Powering Real-Time Messaging at Scale with Azure Cosmos DB】使用Azure Cosmos DB大规模供电实时消息传递</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/powering-real-time-messaging-at-scale-with-azure-cosmos-db</link>
+      <description>【Microsoft Teams, Copilot, Azure Communication Services and many other product offerings from Microsoft, rely on a unified messaging platform that powers real-time communication and collaboration at an unprecedented scale. This messaging platform has become critical for enabling boundary-less collaboration, supporting hundreds of millions of users worldwide. To ensure global discovery, durable storage and performance needed [&amp;hellip;]】Microsoft团队，Copilot，Azure Communication Services和Microsoft的许多其他产品都依靠一个统一的消息平台，该平台以前所未有的规模为实时通信和协作提供动力。这个消息平台对于实现无边界协作，支持全球数亿用户至关重要。为了确保全球发现，需要耐用的存储和性能[…]</description>
+      <pubDate>Fri, 30 May 2025 19:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Building Multi-Agent AI Apps in Java with Spring AI and Azure Cosmos DB!】使用Spring AI和Azure Cosmos DB构建Java的多代理AI应用程序！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/building-multi-agent-ai-apps-in-java-with-spring-ai-and-azure-cosmos-db</link>
-      <description>【As AI-driven apps become more sophisticated, there&amp;#8217;s an increasing need for them to mimic collaborative problem solving &amp;#8211; like a team of domain experts working together. Multi-agent apps offer exactly that: collections of specialized agents that cooperate to handle complex tasks. But to make them production-grade, you need more than just clever prompts &amp;#8211; you [&amp;hellip;]】随着AI驱动的应用程序变得越来越复杂，他们越来越需要模仿协作问题解决问题，就像一个团队专家团队一起工作。多代理应用程序提供了：合作处理复杂任务的专门代理的集合。但是要使它们成为生产级，您不仅需要巧妙的提示 - 您[…]</description>
-      <pubDate>Thu, 29 May 2025 14:00:17 +0000</pubDate>
+      <title>【D3D12 Shader Execution Reordering】D3D12着色器执行重新排序</title>
+      <link>https://devblogs.microsoft.com/directx/ser</link>
+      <description>【Shader Execution Reordering (SER) is an addition to DirectX Raytracing that enables application shader code inform hardware how to find coherency across rays so they can be sorted to execute better in parallel. At GDC 2025 DXR 1.2 was announced including SER, and you can see it discussed in this: GDC DirectX State Of The [&amp;hellip;]】着色器执行重新排序（SER）是DirectX RayTracing的补充，可启用应用程序着色器代码信息硬件如何在射线之间找到相干性，以便对它们进行分类以在并行中更好地执行。在GDC 2025 DXR 1.2上宣布了包括SER，您可以在此处看到：GDC Directx […]的GDC Directx状态</description>
+      <pubDate>Fri, 30 May 2025 17:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Fine-tune the volume of logs your app produces】微调您的应用程序生成的日志量</title>
-      <link>https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces</link>
-      <description>【Explores the new log sampling feature】探索新的日志采样功能</description>
-      <pubDate>Thu, 29 May 2025 17:05:00 +0000</pubDate>
+      <title>【Agility SDK 1.717-preview and 1.616-retail】敏捷性SDK 1.717-preiview和1.616-Ortail</title>
+      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-717-preview-and-1-616-retail</link>
+      <description>【We are pleased to announce both a retail and preview Agility SDK release with several new features, available on Agility SDK Downloads today! As usual, the features in this release come with Day One PIX support. Please read the PIX blog post for more information. Agility SDK 1.717-preview features Cooperative Vectors unlocks powerful new hardware acceleration for vector [&amp;hellip;]】我们很高兴地宣布零售和预览敏捷性SDK版本，并具有几个新功能，可在Agility SDK下载可用！像往常一样，此版本中的功能由第一天的PIX支持带来。请阅读PIX博客文章以获取更多信息。敏捷性SDK 1.717-PREVIEW功能合作矢量解锁矢量的强大新硬件加速度[…]</description>
+      <pubDate>Fri, 30 May 2025 16:59:16 +0000</pubDate>
     </item>
     <item>
-      <title>【Code quicker with Azure AI Foundry playgrounds and Visual Studio Code】使用Azure AI Foundry Playgrounds和Visual Studio代码更快地代码</title>
-      <link>https://devblogs.microsoft.com/foundry/open-in-vscode</link>
-      <description>【The &#34;Open in VS Code&#34; workflow, part of the Azure AI Foundry extension for Visual Studio Code, accelerates developer velocity by integrating agent or model API endpoints and code samples into a new workspace in VS Code for Web. This feature streamlines the development process, enabling rapid prototyping and deployment with just one click.】Visual Studio代码的Azure AI Foundry扩展的一部分“在VS代码中打开”工作流程，通过将代理或模型API端点和模型API端点和代码示例集成到Web的VS代码中的新工作区中来加速开发人员速度。此功能简化了开发过程，仅一键单击即可快速进行原型制作和部署。</description>
-      <pubDate>Wed, 28 May 2025 19:01:04 +0000</pubDate>
+      <title>【D3D12 Opacity Micromaps】D3D12不透明度微型</title>
+      <link>https://devblogs.microsoft.com/directx/omm</link>
+      <description>【DirectX Raytracing (DXR) now supports Opacity Micromaps (OMMs), enabling hardware to handle alpha tested geometry more efficiently than relying only on costly AnyHit shader invocations. At GDC 2025 DXR 1.2 was announced including OMMs, and you can see it discussed in this: GDC DirectX State Of The Union YouTube Recording. In the video, Remedy showed [&amp;hellip;]】DirectX RayTracing（DXR）现在支持不透明度微型胶带（OMMS），使硬件能够更有效地处理经α测试的几何形状，而不是仅依赖昂贵的Anyhit Anyhit Shinder Inccocations。在GDC 2025 DXR 1.2上宣布了包括OMMS，您可以在此处看到：GDC Directx YouTube录制。在视频中，补救措施显示[…]</description>
+      <pubDate>Fri, 30 May 2025 17:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2505.30 and 2505.30-preview: support for DXR 1.2, Cooperative Vectors and more】PIX 2505.30和2505.30-preview：对DXR 1.2的支持，合作向量等</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2505-30-and-2505-30-preview</link>
+      <description>【Today we released two new versions of PIX, which can be downloaded here. These complement the new D3D12 Agility SDKs released today. The new versions of PIX are: PIX 2505.30 – supports the new retail D3D12 features released today in Agility SDK 1.616, including: Opacity Micromaps (OMMs) Tiled Resources Tier 4 PIX 2505.30-preview – supports the [&amp;hellip;]】今天，我们发布了两个新版本的Pix，可以在此处下载。这些补充了今天发布的新的D3D12敏捷性SDK。 pix的新版本是：PIX 2505.30  - 支持今天在Agility SDK 1.616中发布的新零售D3D12功能，包括：不透明度micromaps（OMMS）瓷砖资源层4 PIX 2505.30-PREVIEW  - 支持[…] […]</description>
+      <pubDate>Fri, 30 May 2025 17:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

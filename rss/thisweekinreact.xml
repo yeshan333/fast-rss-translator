@@ -4,12 +4,6 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
-      <title>【This Week In React #233: RSC, Next.js, Compiler, Unhead, Shadcn, Relay, Mantine | Expo, WebGPU, Skia, Apple fees, Reanimated, Fragment Refs | Node.js, TS, Prisma, Deno, GSAP】本周在React＃233：RSC，Next.js，编译器，Unhead，Shadcn，Relay，Mantine |博览会，webgpu，skia，苹果费，复活，片段refs | Node.js，TS，Prisma，Deno，GSAP</title>
-      <link>https://thisweekinreact.com/newsletter/233</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【This Week In React #232: React Router, Next.js, Radix, Vite, MCP, Storybook | Entreprise Framework, Shopify, Brownfield, WebGPU, AI, Release-It, Expo | Node.js, Async Svelte, Compile Hints, View Transitions】本周在React＃232中：React Router，Next.js，Radix，Vite，MCP，Storybook | Entreprise Framework，Shopify，Brownfield，WebGPU，AI，Release-IT，Expo | node.js，异步svelte，编译提示，查看过渡</title>
       <link>https://thisweekinreact.com/newsletter/232</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,6 +20,12 @@
       <link>https://thisweekinreact.com/newsletter/234</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #233: RSC, Next.js, Compiler, Unhead, Shadcn, Relay, Mantine | Expo, WebGPU, Skia, Apple fees, Reanimated, Fragment Refs | Node.js, TS, Prisma, Deno, GSAP】本周在React＃233：RSC，Next.js，编译器，Unhead，Shadcn，Relay，Mantine |博览会，webgpu，skia，苹果费，复活，片段refs | Node.js，TS，Prisma，Deno，GSAP</title>
+      <link>https://thisweekinreact.com/newsletter/233</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #236: Remix, TanStack, RSC, RedwoodSDK, Storybook, Docusaurus | ExecuTorch, Screens, FlashList, Reanimated, Expo, EAS, Radon | TypeScript, Temporal, Angular, JSPM, ESLint, tsdown】本周在React＃236：Remix，Tanstack，RSC，Redwoodsdk，Storybook，Docusaurus | executorch，屏幕，Flashlist，Reanimated，Expo，EAS，Radon |打字稿，时间，角，JSPM，ESLINT，TSDOWN</title>
