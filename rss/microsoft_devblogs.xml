@@ -4,6 +4,48 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【D3D12 Shader Execution Reordering】D3D12着色器执行重新排序</title>
+      <link>https://devblogs.microsoft.com/directx/ser</link>
+      <description>【Shader Execution Reordering (SER) is an addition to DirectX Raytracing that enables application shader code inform hardware how to find coherency across rays so they can be sorted to execute better in parallel. At GDC 2025 DXR 1.2 was announced including SER, and you can see it discussed in this: GDC DirectX State Of The [&amp;hellip;]】着色器执行重新排序（SER）是DirectX RayTracing的补充，可启用应用程序着色器代码信息硬件如何在射线之间找到相干性，以便对它们进行分类以在并行中更好地执行。在GDC 2025 DXR 1.2上宣布了包括SER，您可以在此处看到：GDC Directx […]的GDC Directx状态</description>
+      <pubDate>Fri, 30 May 2025 17:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go from prompt to playback with Sora from Azure OpenAI in the video playground in Azure AI Foundry】从Azure AI Foundry的视频游乐场中的Azure Openai的Sora提示到播放</title>
+      <link>https://devblogs.microsoft.com/foundry/sora-in-video-playground</link>
+      <description>【The video playground in Azure AI Foundry is a high-fidelity testbed for prototyping with cutting-edge video generation models like Sora from Azure OpenAI. It offers a controlled environment for developers to experiment with prompt structures, evaluate model consistency, and optimize outputs for industry use cases.】Azure AI Foundry中的视频游乐场是用于原型制作的高保真测试床，该型号具有尖端的视频生成模型，例如来自Azure Openai的Sora。它为开发人员提供了一个受控的环境，可以尝试及时结构，评估模型一致性并优化行业用例的产出。</description>
+      <pubDate>Thu, 29 May 2025 20:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2505.30 and 2505.30-preview: support for DXR 1.2, Cooperative Vectors and more】PIX 2505.30和2505.30-preview：对DXR 1.2的支持，合作向量等</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2505-30-and-2505-30-preview</link>
+      <description>【Today we released two new versions of PIX, which can be downloaded here. These complement the new D3D12 Agility SDKs released today. The new versions of PIX are: PIX 2505.30 – supports the new retail D3D12 features released today in Agility SDK 1.616, including: Opacity Micromaps (OMMs) Tiled Resources Tier 4 PIX 2505.30-preview – supports the [&amp;hellip;]】今天，我们发布了两个新版本的Pix，可以在此处下载。这些补充了今天发布的新的D3D12敏捷性SDK。 pix的新版本是：PIX 2505.30  - 支持今天在Agility SDK 1.616中发布的新零售D3D12功能，包括：不透明度micromaps（OMMS）瓷砖资源层4 PIX 2505.30-PREVIEW  - 支持[…] […]</description>
+      <pubDate>Fri, 30 May 2025 17:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Efficient Ground Truth Generation for Search Evaluation】有效的地面真相生成搜索评估</title>
+      <link>https://devblogs.microsoft.com/ise/efficient-ground-truth-generation-search-evaluation</link>
+      <description>【This article discusses the challenges and methodologies for creating a reliable groundtruth dataset for search evaluation. It highlights the use of TREC Pooling and GPT-4o assisted ranking to overcome the labor-intensive process of manual labeling, ensuring high-quality search evaluations even with limited data.】本文讨论了创建可靠的地面图数据集的挑战和方法论。它突出了TREC合并和GPT-4O辅助排名的使用来克服劳动密集型的手动标签过程，即使数据有限，也可以确保高质量的搜索评估。</description>
+      <pubDate>Fri, 30 May 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Future of Semantic Kernel: A Commitment to Innovation and Collaboration】语义内核的未来：对创新与协作的承诺</title>
+      <link>https://devblogs.microsoft.com/foundry/semantic-kernel-commitment-ai-innovation</link>
+      <description>【Semantic Kernel is Microsoft’s core framework for enterprise AI orchestration, remaining secure, stable, and rapidly evolving with unified multi-agent support and deep Azure integration, backed by ongoing investment and a clear long-term roadmap.】语义内核是Microsoft企业AI编排的核心框架，它保持安全，稳定且迅速发展，并以统一的多代理支持和深度的Azure集成，并以持续的投资和清晰的长期路线图支持。</description>
+      <pubDate>Fri, 30 May 2025 13:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【D3D12 Opacity Micromaps】D3D12不透明度微型</title>
+      <link>https://devblogs.microsoft.com/directx/omm</link>
+      <description>【DirectX Raytracing (DXR) now supports Opacity Micromaps (OMMs), enabling hardware to handle alpha tested geometry more efficiently than relying only on costly AnyHit shader invocations. At GDC 2025 DXR 1.2 was announced including OMMs, and you can see it discussed in this: GDC DirectX State Of The Union YouTube Recording. In the video, Remedy showed [&amp;hellip;]】DirectX RayTracing（DXR）现在支持不透明度微型胶带（OMMS），使硬件能够更有效地处理经α测试的几何形状，而不是仅依赖昂贵的Anyhit Anyhit Shinder Inccocations。在GDC 2025 DXR 1.2上宣布了包括OMMS，您可以在此处看到：GDC Directx YouTube录制。在视频中，补救措施显示[…]</description>
+      <pubDate>Fri, 30 May 2025 17:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Agility SDK 1.717-preview and 1.616-retail】敏捷性SDK 1.717-preiview和1.616-Ortail</title>
+      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-717-preview-and-1-616-retail</link>
+      <description>【We are pleased to announce both a retail and preview Agility SDK release with several new features, available on Agility SDK Downloads today! As usual, the features in this release come with Day One PIX support. Please read the PIX blog post for more information. Agility SDK 1.717-preview features Cooperative Vectors unlocks powerful new hardware acceleration for vector [&amp;hellip;]】我们很高兴地宣布零售和预览敏捷性SDK版本，并具有几个新功能，可在Agility SDK下载可用！像往常一样，此版本中的功能由第一天的PIX支持带来。请阅读PIX博客文章以获取更多信息。敏捷性SDK 1.717-PREVIEW功能合作矢量解锁矢量的强大新硬件加速度[…]</description>
+      <pubDate>Fri, 30 May 2025 16:59:16 +0000</pubDate>
+    </item>
+    <item>
       <title>【Using an oracle to see where your code is producing the wrong output】使用Oracle查看您的代码在哪里产生错误的输出</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250530-00/?p=111232</link>
       <description>【If there is a reference implementation, then use it as a check.】如果有参考实现，请将其用作检查。</description>
@@ -16,52 +58,10 @@
       <pubDate>Thu, 29 May 2025 19:55:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Efficient Ground Truth Generation for Search Evaluation】有效的地面真相生成搜索评估</title>
-      <link>https://devblogs.microsoft.com/ise/efficient-ground-truth-generation-search-evaluation</link>
-      <description>【This article discusses the challenges and methodologies for creating a reliable groundtruth dataset for search evaluation. It highlights the use of TREC Pooling and GPT-4o assisted ranking to overcome the labor-intensive process of manual labeling, ensuring high-quality search evaluations even with limited data.】本文讨论了创建可靠的地面图数据集的挑战和方法论。它突出了TREC合并和GPT-4O辅助排名的使用来克服劳动密集型的手动标签过程，即使数据有限，也可以确保高质量的搜索评估。</description>
-      <pubDate>Fri, 30 May 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go from prompt to playback with Sora from Azure OpenAI in the video playground in Azure AI Foundry】从Azure AI Foundry的视频游乐场中的Azure Openai的Sora提示到播放</title>
-      <link>https://devblogs.microsoft.com/foundry/sora-in-video-playground</link>
-      <description>【The video playground in Azure AI Foundry is a high-fidelity testbed for prototyping with cutting-edge video generation models like Sora from Azure OpenAI. It offers a controlled environment for developers to experiment with prompt structures, evaluate model consistency, and optimize outputs for industry use cases.】Azure AI Foundry中的视频游乐场是用于原型制作的高保真测试床，该型号具有尖端的视频生成模型，例如来自Azure Openai的Sora。它为开发人员提供了一个受控的环境，可以尝试及时结构，评估模型一致性并优化行业用例的产出。</description>
-      <pubDate>Thu, 29 May 2025 20:38:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Future of Semantic Kernel: A Commitment to Innovation and Collaboration】语义内核的未来：对创新与协作的承诺</title>
-      <link>https://devblogs.microsoft.com/foundry/semantic-kernel-commitment-ai-innovation</link>
-      <description>【Semantic Kernel is Microsoft’s core framework for enterprise AI orchestration, remaining secure, stable, and rapidly evolving with unified multi-agent support and deep Azure integration, backed by ongoing investment and a clear long-term roadmap.】语义内核是Microsoft企业AI编排的核心框架，它保持安全，稳定且迅速发展，并以统一的多代理支持和深度的Azure集成，并以持续的投资和清晰的长期路线图支持。</description>
-      <pubDate>Fri, 30 May 2025 13:15:06 +0000</pubDate>
-    </item>
-    <item>
       <title>【Powering Real-Time Messaging at Scale with Azure Cosmos DB】使用Azure Cosmos DB大规模供电实时消息传递</title>
       <link>https://devblogs.microsoft.com/cosmosdb/powering-real-time-messaging-at-scale-with-azure-cosmos-db</link>
       <description>【Microsoft Teams, Copilot, Azure Communication Services and many other product offerings from Microsoft, rely on a unified messaging platform that powers real-time communication and collaboration at an unprecedented scale. This messaging platform has become critical for enabling boundary-less collaboration, supporting hundreds of millions of users worldwide. To ensure global discovery, durable storage and performance needed [&amp;hellip;]】Microsoft团队，Copilot，Azure Communication Services和Microsoft的许多其他产品都依靠一个统一的消息平台，该平台以前所未有的规模为实时通信和协作提供动力。这个消息平台对于实现无边界协作，支持全球数亿用户至关重要。为了确保全球发现，需要耐用的存储和性能[…]</description>
       <pubDate>Fri, 30 May 2025 19:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【D3D12 Shader Execution Reordering】D3D12着色器执行重新排序</title>
-      <link>https://devblogs.microsoft.com/directx/ser</link>
-      <description>【Shader Execution Reordering (SER) is an addition to DirectX Raytracing that enables application shader code inform hardware how to find coherency across rays so they can be sorted to execute better in parallel. At GDC 2025 DXR 1.2 was announced including SER, and you can see it discussed in this: GDC DirectX State Of The [&amp;hellip;]】着色器执行重新排序（SER）是DirectX RayTracing的补充，可启用应用程序着色器代码信息硬件如何在射线之间找到相干性，以便对它们进行分类以在并行中更好地执行。在GDC 2025 DXR 1.2上宣布了包括SER，您可以在此处看到：GDC Directx […]的GDC Directx状态</description>
-      <pubDate>Fri, 30 May 2025 17:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agility SDK 1.717-preview and 1.616-retail】敏捷性SDK 1.717-preiview和1.616-Ortail</title>
-      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-717-preview-and-1-616-retail</link>
-      <description>【We are pleased to announce both a retail and preview Agility SDK release with several new features, available on Agility SDK Downloads today! As usual, the features in this release come with Day One PIX support. Please read the PIX blog post for more information. Agility SDK 1.717-preview features Cooperative Vectors unlocks powerful new hardware acceleration for vector [&amp;hellip;]】我们很高兴地宣布零售和预览敏捷性SDK版本，并具有几个新功能，可在Agility SDK下载可用！像往常一样，此版本中的功能由第一天的PIX支持带来。请阅读PIX博客文章以获取更多信息。敏捷性SDK 1.717-PREVIEW功能合作矢量解锁矢量的强大新硬件加速度[…]</description>
-      <pubDate>Fri, 30 May 2025 16:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【D3D12 Opacity Micromaps】D3D12不透明度微型</title>
-      <link>https://devblogs.microsoft.com/directx/omm</link>
-      <description>【DirectX Raytracing (DXR) now supports Opacity Micromaps (OMMs), enabling hardware to handle alpha tested geometry more efficiently than relying only on costly AnyHit shader invocations. At GDC 2025 DXR 1.2 was announced including OMMs, and you can see it discussed in this: GDC DirectX State Of The Union YouTube Recording. In the video, Remedy showed [&amp;hellip;]】DirectX RayTracing（DXR）现在支持不透明度微型胶带（OMMS），使硬件能够更有效地处理经α测试的几何形状，而不是仅依赖昂贵的Anyhit Anyhit Shinder Inccocations。在GDC 2025 DXR 1.2上宣布了包括OMMS，您可以在此处看到：GDC Directx YouTube录制。在视频中，补救措施显示[…]</description>
-      <pubDate>Fri, 30 May 2025 17:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2505.30 and 2505.30-preview: support for DXR 1.2, Cooperative Vectors and more】PIX 2505.30和2505.30-preview：对DXR 1.2的支持，合作向量等</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2505-30-and-2505-30-preview</link>
-      <description>【Today we released two new versions of PIX, which can be downloaded here. These complement the new D3D12 Agility SDKs released today. The new versions of PIX are: PIX 2505.30 – supports the new retail D3D12 features released today in Agility SDK 1.616, including: Opacity Micromaps (OMMs) Tiled Resources Tier 4 PIX 2505.30-preview – supports the [&amp;hellip;]】今天，我们发布了两个新版本的Pix，可以在此处下载。这些补充了今天发布的新的D3D12敏捷性SDK。 pix的新版本是：PIX 2505.30  - 支持今天在Agility SDK 1.616中发布的新零售D3D12功能，包括：不透明度micromaps（OMMS）瓷砖资源层4 PIX 2505.30-PREVIEW  - 支持[…] […]</description>
-      <pubDate>Fri, 30 May 2025 17:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
