@@ -10,28 +10,28 @@
       <pubDate>Mon, 26 May 2025 02:04:54 +0000</pubDate>
     </item>
     <item>
+      <title>【SRE Weekly Issue #475】SRE周刊＃475</title>
+      <link>https://sreweekly.com/sre-weekly-issue-475/</link>
+      <description>【View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven&amp;#8217;t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class. &amp;#160;&amp;#160;Ivan Shubin &amp;#8212; Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: [&amp;#8230;]】在Sreweekly.com上查看时间序列中的异常检测，使用统计分析，我在相当一段时间有关异常检测的文章中没有看到这种细节。尽管如此，即使您在统计课程中睡觉，数学还是非常平易近人的。   伊万·舒本</description>
+      <pubDate>Mon, 05 May 2025 01:48:52 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #477】SRE周刊＃477</title>
       <link>https://sreweekly.com/sre-weekly-issue-477/</link>
       <description>【View on sreweekly.com Human Error Strikes Again… or Does It? Why don&amp;#8217;t we look for the root cause of a successful outcome? &amp;#160;&amp;#160;Hamed Silatani &amp;#8212; Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using [&amp;#8230;]】在sreweekly.com上查看人为错误再次罢工……还是这样？我们为什么不寻找成功结果的根本原因？   HAMED SILATANI  - 正常运行实验室我们如何优化LLM的成本，质量和安全性来促进写作后验尸，以避免使用[…]的潜在陷阱，以避免使用的潜在陷阱。</description>
       <pubDate>Mon, 19 May 2025 01:33:16 +0000</pubDate>
     </item>
     <item>
+      <title>【SRE Weekly Issue #479】SRE周刊＃479</title>
+      <link>https://sreweekly.com/sre-weekly-issue-479/</link>
+      <description>【View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don&amp;#8217;t always return you to a previous system state. They can return you to a state you&amp;#8217;ve never tested or operated before. &amp;#160;&amp;#160;Steve Fenton &amp;#8212; Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives [&amp;#8230;]】在sweekly.com上查看自动回滚是最后的度假胜地回滚，并不总是将您返回到以前的系统状态。他们可以将您返回您以前从未进行过测试或操作的状态。   史蒂夫·芬顿（Steve Fenton） - 章鱼部署燃烧率是一个更好的错误率，本文解释了烧伤率警报的数学，并给出了[…]</description>
+      <pubDate>Mon, 02 Jun 2025 02:17:31 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #476】SRE周刊＃476</title>
       <link>https://sreweekly.com/sre-weekly-issue-476/</link>
       <description>【View on sreweekly.com Automation and The Substitution Myth The myth is: The underlying and often unexamined assumption for the benefits of automation is the notion that computers/machines are better at some tasks, and humans are better at a different, non-overlapping set of tasks. This article lays out several pitfalls to this approach, with references. &amp;#160;&amp;#160;Courtney [&amp;#8230;]】在sweekly.com自动化和替代神话上的观点是神话：自动化益处的基本且经常不顾一切的假设是计算机/机器在某些任务上更好，而在不同的，非重叠的任务集中，人类在某些任务方面更好。本文列出了这种方法的几个陷阱，并带有参考。   考特尼[…]</description>
       <pubDate>Mon, 12 May 2025 01:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #474】SRE周刊＃474</title>
-      <link>https://sreweekly.com/sre-weekly-issue-474/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: We&amp;#8217;ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we&amp;#8217;re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Why do we do blameless incident reviews? This is a truly outstanding article about blameless incident analysis! Beyond just &amp;#8220;why&amp;#8221;, [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Actist.io的消息：我们刚刚筹集了6200万美元，以构建与您解决事件的AI代理。看看我们如何开创事件管理的新时代。 https://go.incident.io/blog/incident.io-raises-62m为什么我们要进行无罪的事件评论？这是一篇关于无罪事件分析的真正出色文章！超越“为什么”，[…]</description>
-      <pubDate>Mon, 28 Apr 2025 01:55:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #475】SRE周刊＃475</title>
-      <link>https://sreweekly.com/sre-weekly-issue-475/</link>
-      <description>【View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven&amp;#8217;t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class. &amp;#160;&amp;#160;Ivan Shubin &amp;#8212; Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: [&amp;#8230;]】在Sreweekly.com上查看时间序列中的异常检测，使用统计分析，我在相当一段时间有关异常检测的文章中没有看到这种细节。尽管如此，即使您在统计课程中睡觉，数学还是非常平易近人的。   伊万·舒本</description>
-      <pubDate>Mon, 05 May 2025 01:48:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
