@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【A story of collaborating agents: chatting with your database the right way】一个合作代理人的故事：以正确的方式与您的数据库聊天</title>
-      <link>https://devblogs.microsoft.com/azure-sql/a-story-of-collaborating-agents-chatting-with-your-database-the-right-way</link>
-      <description>【Today, more and more customers are embracing AI with one clear goal in mind: they want to chat with their data. And by &amp;#8220;data,&amp;#8221; they mean all of it:  structured tables, unstructured documents, images, audio, and more. This demand has given rise to hybrid approaches that blend semantic understanding with precise data retrieval. But here’s [&amp;hellip;]】如今，越来越多的客户正在考虑一个明确的目标：他们想与数据聊天。通过“数据”，它们的意思是所有：结构化表，非结构化文档，图像，音频等。这种需求引起了混合方法，将语义理解与精确的数据检索融为一体。但这是[…]</description>
-      <pubDate>Mon, 02 Jun 2025 18:13:57 +0000</pubDate>
+      <title>【The symbolism of the magnifying glass is not universal】放大镜的象征不是通用</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250603-00/?p=111240</link>
+      <description>【Just making things bigger?】只是使事情变大？</description>
+      <pubDate>Tue, 03 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Extension Manager updates in Visual Studio】Visual Studio中的扩展管理器更新</title>
@@ -16,40 +16,28 @@
       <pubDate>Mon, 02 Jun 2025 18:13:24 +0000</pubDate>
     </item>
     <item>
-      <title>【D3D12 Shader Execution Reordering】D3D12着色器执行重新排序</title>
-      <link>https://devblogs.microsoft.com/directx/ser</link>
-      <description>【Shader Execution Reordering (SER) is an addition to DirectX Raytracing that enables application shader code inform hardware how to find coherency across rays so they can be sorted to execute better in parallel. At GDC 2025 DXR 1.2 was announced including SER, and you can see it discussed in this: GDC DirectX State Of The [&amp;hellip;]】着色器执行重新排序（SER）是DirectX RayTracing的补充，可启用应用程序着色器代码信息硬件如何在射线之间找到相干性，以便对它们进行分类以在并行中更好地执行。在GDC 2025 DXR 1.2上宣布了包括SER，您可以在此处看到：GDC Directx […]的GDC Directx状态</description>
-      <pubDate>Fri, 30 May 2025 17:00:47 +0000</pubDate>
+      <title>【Enhancing Conversational Agents with Azure AI Language Conversational Language Understanding and Custom Question Answering】用Azure AI语言对话语言理解和自定义问题回答增强对话代理</title>
+      <link>https://devblogs.microsoft.com/foundry/enhancing-conversational-agents-with-azure-ai-language-conversational-language-understanding-and-custom-question-answering</link>
+      <description>【As we focus our work on empowering the agent design experience, a list of the new features in the we published earlier this week, including the intent triage agent and the exact question-answering agent, utilizing Conversational language understanding (CLU) and Custom question answering (CQA). We’re excited to share new enhancements to the customization experiences in CLU and CQA [&amp;hellip;]】当我们将工作重点放在授权代理设计经验上时，我们本周早些时候发布的新功能列表，包括Intent Triage Agent和确切的问题撤职代理，利用对话性语言理解（CLU）和自定义问题答案（CQA）。我们很高兴分享CLU和CQA的定制体验的新增强功能[…]</description>
+      <pubDate>Tue, 03 Jun 2025 22:20:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Agility SDK 1.717-preview and 1.616-retail】敏捷性SDK 1.717-preiview和1.616-Ortail</title>
-      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-717-preview-and-1-616-retail</link>
-      <description>【We are pleased to announce both a retail and preview Agility SDK release with several new features, available on Agility SDK Downloads today! As usual, the features in this release come with Day One PIX support. Please read the PIX blog post for more information. Agility SDK 1.717-preview features Cooperative Vectors unlocks powerful new hardware acceleration for [&amp;hellip;]】我们很高兴地宣布零售和预览敏捷性SDK版本，并具有几个新功能，可在Agility SDK下载可用！像往常一样，此版本中的功能由第一天的PIX支持带来。请阅读PIX博客文章以获取更多信息。敏捷性SDK 1.717-preiview功能合作矢量解锁[…]的强大新硬件加速度</description>
-      <pubDate>Fri, 30 May 2025 16:59:16 +0000</pubDate>
+      <title>【Azure SDK Release (May 2025)】Azure SDK版本（2025年5月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-may-2025</link>
+      <description>【Azure SDK releases every month. In this post, you&#39;ll find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您会发现本月的亮点和发行说明。</description>
+      <pubDate>Tue, 03 Jun 2025 16:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using AI Foundry with .NET MAUI】将AI Foundry与.net Maui一起使用</title>
+      <link>https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui</link>
+      <description>【Using AI Foundry with .NET MAUI brings the power of LLMs to mobile and desktop applications.】使用带有.NET MAUI的AI Foundry将LLM的功能带入移动和桌面应用程序。</description>
+      <pubDate>Tue, 03 Jun 2025 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【Stating the obvious about debugging an invalid parameter error when freeing memory】说明在释放内存时调试无效参数错误的明显</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250602-00/?p=111236</link>
       <description>【Writing it down for posterity.】将其写下来以进行后代。</description>
       <pubDate>Mon, 02 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Powering Real-Time Messaging at Scale with Azure Cosmos DB】使用Azure Cosmos DB大规模供电实时消息传递</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/powering-real-time-messaging-at-scale-with-azure-cosmos-db</link>
-      <description>【Microsoft Teams, Copilot, Azure Communication Services and many other product offerings from Microsoft, rely on a unified messaging platform that powers real-time communication and collaboration at an unprecedented scale. This messaging platform has become critical for enabling boundary-less collaboration, supporting hundreds of millions of users worldwide. To ensure global discovery, durable storage and performance needed [&amp;hellip;]】Microsoft团队，Copilot，Azure Communication Services和Microsoft的许多其他产品都依靠一个统一的消息平台，该平台以前所未有的规模为实时通信和协作提供动力。这个消息平台对于实现无边界协作，支持全球数亿用户至关重要。为了确保全球发现，需要耐用的存储和性能[…]</description>
-      <pubDate>Fri, 30 May 2025 19:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2505.30 and 2505.30-preview: support for DXR 1.2, Cooperative Vectors and more】PIX 2505.30和2505.30-preview：对DXR 1.2的支持，合作向量等</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2505-30-and-2505-30-preview</link>
-      <description>【Today we released two new versions of PIX, which can be downloaded here. These complement the new D3D12 Agility SDKs released today. The new versions of PIX are: PIX 2505.30 – supports the new retail D3D12 features released today in Agility SDK 1.616, including: Opacity Micromaps (OMMs) Tiled Resources Tier 4 PIX 2505.30-preview – supports the [&amp;hellip;]】今天，我们发布了两个新版本的Pix，可以在此处下载。这些补充了今天发布的新的D3D12敏捷性SDK。 pix的新版本是：PIX 2505.30  - 支持今天在Agility SDK 1.616中发布的新零售D3D12功能，包括：不透明度micromaps（OMMS）瓷砖资源层4 PIX 2505.30-PREVIEW  - 支持[…] […]</description>
-      <pubDate>Fri, 30 May 2025 17:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【D3D12 Opacity Micromaps】D3D12不透明度微型</title>
-      <link>https://devblogs.microsoft.com/directx/omm</link>
-      <description>【DirectX Raytracing (DXR) now supports Opacity Micromaps (OMMs), enabling hardware to handle alpha tested geometry more efficiently than relying only on costly AnyHit shader invocations. At GDC 2025 DXR 1.2 was announced including OMMs, and you can see it discussed in this: GDC DirectX State Of The Union YouTube Recording. In the video, Remedy showed [&amp;hellip;]】DirectX RayTracing（DXR）现在支持不透明度微型胶带（OMMS），使硬件能够更有效地处理经α测试的几何形状，而不是仅依赖昂贵的Anyhit Anyhit Shinder Inccocations。在GDC 2025 DXR 1.2上宣布了包括OMMS，您可以在此处看到：GDC Directx YouTube录制。在视频中，补救措施显示[…]</description>
-      <pubDate>Fri, 30 May 2025 17:00:55 +0000</pubDate>
     </item>
     <item>
       <title>【GitHub Secret Protection and GitHub Code Security for Azure DevOps】GitHub秘密保护和Azure DevOps的GitHub代码安全性</title>
@@ -62,6 +50,18 @@
       <link>https://devblogs.microsoft.com/directx/cooperative-vector</link>
       <description>【Welcome to the preview release for Cooperative Vector support in D3D12.  This exposes powerful new hardware acceleration for vector and matrix operations, enabling developers to efficiently drive neural rendering techniques directly from individual shader threads in real-time graphics pipelines. In research and in industry, machine learning based approaches have made their way to mainstream, replacing/augmenting [&amp;hellip;]】欢迎来到D3D12中合作向量支持的预览发布。  这将为向量和矩阵操作公开强大的新硬件加速度，使开发人员能够在实时图形管道中直接从单个着色器线程中直接从单个着色器线程中驱动神经渲染技术。在研究和行业中，基于机器学习的方法已成为主流，取代/增强[…]</description>
       <pubDate>Mon, 02 Jun 2025 17:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career】云学院：解锁您的Azure技能并加速您的职业生涯</title>
+      <link>https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers</link>
+      <description>【When we launched the Cloud Academy benefit for Visual Studio Professional and Enterprise subscribers back in March 2025, our goal was simple: give you the hands-on, practical learning experience you need to confidently master Azure and cloud technologies — without spending a dime beyond your subscription. Why? Because in today’s fast-changing tech world, knowing theory [&amp;hellip;]】当我们在2025年3月推出Visual Studio专业人士和企业订阅者的Cloud Academy福利时，我们的目标很简单：为您提供动手实践，实用的学习经验，您需要确信掌握Azure和Cloud Technologies，而无需花费贵重的订阅。为什么？因为在当今快速变化的技术世界中，了解理论[…]</description>
+      <pubDate>Tue, 03 Jun 2025 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A story of collaborating agents: chatting with your database the right way】一个合作代理人的故事：以正确的方式与您的数据库聊天</title>
+      <link>https://devblogs.microsoft.com/azure-sql/a-story-of-collaborating-agents-chatting-with-your-database-the-right-way</link>
+      <description>【Today, more and more customers are embracing AI with one clear goal in mind: they want to chat with their data. And by &amp;#8220;data,&amp;#8221; they mean all of it:  structured tables, unstructured documents, images, audio, and more. This demand has given rise to hybrid approaches that blend semantic understanding with precise data retrieval. But here’s [&amp;hellip;]】如今，越来越多的客户正在考虑一个明确的目标：他们想与数据聊天。通过“数据”，它们的意思是所有：结构化表，非结构化文档，图像，音频等。这种需求引起了混合方法，将语义理解与精确的数据检索融为一体。但这是[…]</description>
+      <pubDate>Mon, 02 Jun 2025 18:13:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
