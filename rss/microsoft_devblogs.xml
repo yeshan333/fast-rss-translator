@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【The symbolism of the magnifying glass is not universal】放大镜的象征不是通用</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250603-00/?p=111240</link>
-      <description>【Just making things bigger?】只是使事情变大？</description>
-      <pubDate>Tue, 03 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Extension Manager updates in Visual Studio】Visual Studio中的扩展管理器更新</title>
-      <link>https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio</link>
-      <description>【The latest updates in Visual Studio 2022 introduced features specifically designed to improve how you manage extensions. These updates offer tools that help you automate processes, provide detailed controls for configuration, and enhance the user interface to streamline your development workflows. Seamless auto updates Visual Studio now automatically triggers updates whenever you open the Extension [&amp;hellip;]】Visual Studio 2022中的最新更新引入了专门设计的功能，以改善您管理扩展的方式。这些更新提供的工具可帮助您自动化流程，为配置提供详细的控件，并增强用户界面以简化开发工作流程。无缝自动更新Visual Studio现在每当打开扩展名时会自动触发更新[…]</description>
-      <pubDate>Mon, 02 Jun 2025 18:13:24 +0000</pubDate>
-    </item>
-    <item>
       <title>【Enhancing Conversational Agents with Azure AI Language Conversational Language Understanding and Custom Question Answering】用Azure AI语言对话语言理解和自定义问题回答增强对话代理</title>
       <link>https://devblogs.microsoft.com/foundry/enhancing-conversational-agents-with-azure-ai-language-conversational-language-understanding-and-custom-question-answering</link>
-      <description>【As we focus our work on empowering the agent design experience, a list of the new features in the we published earlier this week, including the intent triage agent and the exact question-answering agent, utilizing Conversational language understanding (CLU) and Custom question answering (CQA). We’re excited to share new enhancements to the customization experiences in CLU and CQA [&amp;hellip;]】当我们将工作重点放在授权代理设计经验上时，我们本周早些时候发布的新功能列表，包括Intent Triage Agent和确切的问题撤职代理，利用对话性语言理解（CLU）和自定义问题答案（CQA）。我们很高兴分享CLU和CQA的定制体验的新增强功能[…]</description>
+      <description>【As we focus our work on empowering the agent design experience, a list of the new features in the we published earlier this week, including the 】当我们将工作重点放在授权代理设计经验上时，我们在本周早些时候发布的新功能列表，包括 </description>
       <pubDate>Tue, 03 Jun 2025 22:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (May 2025)】Azure SDK版本（2025年5月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-may-2025</link>
-      <description>【Azure SDK releases every month. In this post, you&#39;ll find this month&#39;s highlights and release notes.】Azure SDK每月发布。在这篇文章中，您会发现本月的亮点和发行说明。</description>
-      <pubDate>Tue, 03 Jun 2025 16:59:15 +0000</pubDate>
     </item>
     <item>
       <title>【Using AI Foundry with .NET MAUI】将AI Foundry与.net Maui一起使用</title>
       <link>https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui</link>
-      <description>【Using AI Foundry with .NET MAUI brings the power of LLMs to mobile and desktop applications.】使用带有.NET MAUI的AI Foundry将LLM的功能带入移动和桌面应用程序。</description>
+      <description>【What&#39;s better than a &#34;to do&#34; app? A &#34;to do&#34; app that helps you do more with the power of AI! Using Microsoft.Extensions.AI, you can easily bring the smarts of any model you find in AI Foundry directly into your mobile and desktop .NET MAUI applications. To demonstrate this, I&#39;ll show you how to take the first step towards making our .NET MAUI】有什么比“要做”应用更好的？一个“待办事项”应用程序，可以帮助您使用AI的力量做更多的事情！使用Microsoft.extensions.ai，您可以轻松地将您在AI Foundry中发现的任何型号的智能放入您的移动和桌面.NET MAUI应用程序中。为了证明这一点，我将向您展示如何迈向制作.Net Maui的第一步</description>
       <pubDate>Tue, 03 Jun 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Stating the obvious about debugging an invalid parameter error when freeing memory】说明在释放内存时调试无效参数错误的明显</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250602-00/?p=111236</link>
-      <description>【Writing it down for posterity.】将其写下来以进行后代。</description>
-      <pubDate>Mon, 02 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GitHub Secret Protection and GitHub Code Security for Azure DevOps】GitHub秘密保护和Azure DevOps的GitHub代码安全性</title>
-      <link>https://devblogs.microsoft.com/devops/github-secret-protection-and-github-code-security-for-azure-devops</link>
-      <description>【Following the changes to GitHub Advanced Security on GitHub, we&amp;#8217;re launching the standalone security products of GitHub Secret Protection and GitHub Code Security for Azure DevOps today. You can bring the protection of Advanced Security to your enterprise with the flexibility to enable the right level of protection for your repositories. GitHub Secret Protection for [&amp;hellip;]】在GITHUB上对GitHub Advanced Security进行了更改后，我们正在为Azure DevOps推出GitHub Secret Protection和GitHub Code Security的独立安全产品。您可以将高级安全保护的保护带入您的企业，以便灵活地为您的存储库提供适当的保护级别。 Github的秘密保护[…]</description>
-      <pubDate>Mon, 02 Jun 2025 14:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【D3D12 Cooperative Vector】D3D12合作矢量</title>
-      <link>https://devblogs.microsoft.com/directx/cooperative-vector</link>
-      <description>【Welcome to the preview release for Cooperative Vector support in D3D12.  This exposes powerful new hardware acceleration for vector and matrix operations, enabling developers to efficiently drive neural rendering techniques directly from individual shader threads in real-time graphics pipelines. In research and in industry, machine learning based approaches have made their way to mainstream, replacing/augmenting [&amp;hellip;]】欢迎来到D3D12中合作向量支持的预览发布。  这将为向量和矩阵操作公开强大的新硬件加速度，使开发人员能够在实时图形管道中直接从单个着色器线程中直接从单个着色器线程中驱动神经渲染技术。在研究和行业中，基于机器学习的方法已成为主流，取代/增强[…]</description>
-      <pubDate>Mon, 02 Jun 2025 17:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career】云学院：解锁您的Azure技能并加速您的职业生涯</title>
-      <link>https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers</link>
-      <description>【When we launched the Cloud Academy benefit for Visual Studio Professional and Enterprise subscribers back in March 2025, our goal was simple: give you the hands-on, practical learning experience you need to confidently master Azure and cloud technologies — without spending a dime beyond your subscription. Why? Because in today’s fast-changing tech world, knowing theory [&amp;hellip;]】当我们在2025年3月推出Visual Studio专业人士和企业订阅者的Cloud Academy福利时，我们的目标很简单：为您提供动手实践，实用的学习经验，您需要确信掌握Azure和Cloud Technologies，而无需花费贵重的订阅。为什么？因为在当今快速变化的技术世界中，了解理论[…]</description>
-      <pubDate>Tue, 03 Jun 2025 14:00:08 +0000</pubDate>
     </item>
     <item>
       <title>【A story of collaborating agents: chatting with your database the right way】一个合作代理人的故事：以正确的方式与您的数据库聊天</title>
       <link>https://devblogs.microsoft.com/azure-sql/a-story-of-collaborating-agents-chatting-with-your-database-the-right-way</link>
-      <description>【Today, more and more customers are embracing AI with one clear goal in mind: they want to chat with their data. And by &amp;#8220;data,&amp;#8221; they mean all of it:  structured tables, unstructured documents, images, audio, and more. This demand has given rise to hybrid approaches that blend semantic understanding with precise data retrieval. But here’s [&amp;hellip;]】如今，越来越多的客户正在考虑一个明确的目标：他们想与数据聊天。通过“数据”，它们的意思是所有：结构化表，非结构化文档，图像，音频等。这种需求引起了混合方法，将语义理解与精确的数据检索融为一体。但这是[…]</description>
+      <description>【Today, more and more customers are embracing AI with one clear goal in mind: they want to chat with their data. And by &#34;data,&#34; they mean all of it:  structured tables, unstructured documents, images, audio, and more. This demand has given rise to hybrid approaches that blend semantic understanding with precise data retrieval. But here’s】如今，越来越多的客户正在考虑一个明确的目标：他们想与数据聊天。通过“数据”，它们的意思是：结构化表，非结构化文档，图像，音频等。这种需求引起了混合方法，将语义理解与精确的数据检索融为一体。但这是</description>
       <pubDate>Mon, 02 Jun 2025 18:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers】赶上Microsoft Build 2025：.NET开发人员的基本会话</title>
+      <link>https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers</link>
+      <description>【Build 2025 is a wrap! We packed this year&#39;s conference with tons of cool stuff around AI-powered coding, cloud-native apps, and the future of .NET. If you missed the live event or just want to revisit the good parts, here&#39;s a roundup of can&#39;t-miss content you&#39;ll want to check out. [alert type=&#34;note&#34; heading=&#34;Note&#34;]All sessions are now avail】构建2025是一个包装！我们在今年的会议上围绕着AI驱动的编码，云本地应用程序和.NET的未来，收拾了很多很酷的东西。如果您错过了现场活动或只是想重新审视好零件，这里是您要查看的无误内容的综述。 [警报type =“ note” heading =“ note”]现在所有会话均可</description>
+      <pubDate>Wed, 04 Jun 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (May 2025)】Azure SDK版本（2025年5月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-may-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
+      <pubDate>Tue, 03 Jun 2025 16:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I programmatically find the network path by which a folder has been shared?】如何以编程方式找到已共享文件夹的网络路径？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250604-00/?p=111245</link>
+      <description>【When you right-click a folder in Explorer, select Properties, and go to the Sharing tab, there is a section titled &#34;Network File and Folder Sharing&#34;, and in there, it tells you the network path by which this folder has been shared. (Or &#34;Not shared&#34; if it hasn&#39;t been shared at all.) How can I obtain this path programmatically? There】当您右键单击Explorer中的文件夹，选择属性，然后转到“共享”选项卡时，有一个标题为“网络文件和文件夹共享”的部分，在那里，它告诉您该文件夹已共享的网络路径。 （如果根本没有共享，则“没有共享”。）如何以编程方式获得此路径？那里</description>
+      <pubDate>Wed, 04 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career】云学院：解锁您的Azure技能并加速您的职业生涯</title>
+      <link>https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers</link>
+      <description>【When we launched the Cloud Academy benefit for Visual Studio Professional and Enterprise subscribers back in March 2025, our goal was simple: give you the hands-on, practical learning experience you need to confidently master Azure and cloud technologies — without spending a dime beyond your subscription. Why? Because in】当我们在2025年3月推出Visual Studio专业人士和企业订阅者的Cloud Academy福利时，我们的目标很简单：为您提供动手实践，实用的学习经验，您需要确信掌握Azure和Cloud Technologies，而无需花费贵重的订阅。为什么？因为在</description>
+      <pubDate>Tue, 03 Jun 2025 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build like Microsoft: Developer agents in action】像Microsoft这样的构建：开发人员正在行动</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/build-like-microsoft-developer-agents-in-action</link>
+      <description>【Every day, developers tackle complex workflows involving planning, coding, reviewing, testing, securing, and releasing software. These tasks, often scattered across various tools and platforms, create friction that slows us down. At Microsoft, we believe AI can change that. This belief led us to create Athena, an AI-powered collaborative ag】每天，开发人员都会处理涉及计划，编码，审查，测试，确保和发布软件的复杂工作流程。这些任务通常散布在各种工具和平台上，会产生摩擦，使我们放慢脚步。在微软，我们认为AI可以改变这一点。这种信念使我们创建了Athena，这是AI驱动的协作AG</description>
+      <pubDate>Wed, 04 Jun 2025 15:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The symbolism of the magnifying glass is not universal】放大镜的象征不是通用</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250603-00/?p=111240</link>
+      <description>【Windows 3.0 introduced WinHelp, a program for browsing online help files. The toolbar contained a series of buttons: Index, Back, Browse backward, Browse forward, and Search.】Windows 3.0引入了WinHelp，这是一个用于浏览在线帮助文​​件的程序。工具栏包含一系列按钮：索引，背面，向后浏览，向前浏览和搜索。</description>
+      <pubDate>Tue, 03 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Riffing on a typo in the name of the opera &lt;I&gt;Turandot&lt;/I&gt;】以歌剧的名义在错别字上即兴&lt;/i&gt;</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250604-01/?p=111247</link>
+      <description>【I turned on the radio in the car and heard what was identified by the Radio Data System information as a performance by the Metropolitan Opera of New York of Puccini&#39;s Turnadot. Whoever entered the information introduced a typo, because the correct spelling is Turan】我打开了汽车的收音机，听到了无线电数据系统信息所识别的内容，这是纽约纽约图奇尼（Puccini）Turnadot的大都会歌剧院的表演。输入信息的人引入了错字，因为正确的拼写是Turan</description>
+      <pubDate>Wed, 04 Jun 2025 14:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
