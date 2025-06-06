@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Enhancing Conversational Agents with Azure AI Language Conversational Language Understanding and Custom Question Answering】用Azure AI语言对话语言理解和自定义问题回答增强对话代理</title>
-      <link>https://devblogs.microsoft.com/foundry/enhancing-conversational-agents-with-azure-ai-language-conversational-language-understanding-and-custom-question-answering</link>
-      <description>【As we focus our work on empowering the agent design experience, a list of the new features in the we published earlier this week, including the 】当我们将工作重点放在授权代理设计经验上时，我们在本周早些时候发布的新功能列表，包括 </description>
-      <pubDate>Tue, 03 Jun 2025 22:20:12 +0000</pubDate>
+      <title>【Enhancing Plugin Metadata Management with SemanticPluginForge】使用Semanticpluginforge增强插件元数据管理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/enhancing-plugin-metadata-management-with-semanticpluginforge</link>
+      <description>【In the world of software development, flexibility and adaptability are key. Developers often face challenges when it comes to updating plugin metadata dynamically without disrupting services or requiring redeployment. This is where SemanticPluginForge, an open-source project, step】在软件开发的世界中，灵活性和适应性是关键。开发人员在动态更新插件元数据时通常会面临挑战，而无需破坏服务或需要重新部署。这是一个开源项目Semanticpluginforge，步骤</description>
+      <pubDate>Thu, 05 Jun 2025 09:44:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Using AI Foundry with .NET MAUI】将AI Foundry与.net Maui一起使用</title>
-      <link>https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui</link>
-      <description>【What&#39;s better than a &#34;to do&#34; app? A &#34;to do&#34; app that helps you do more with the power of AI! Using Microsoft.Extensions.AI, you can easily bring the smarts of any model you find in AI Foundry directly into your mobile and desktop .NET MAUI applications. To demonstrate this, I&#39;ll show you how to take the first step towards making our .NET MAUI】有什么比“要做”应用更好的？一个“待办事项”应用程序，可以帮助您使用AI的力量做更多的事情！使用Microsoft.extensions.ai，您可以轻松地将您在AI Foundry中发现的任何型号的智能放入您的移动和桌面.NET MAUI应用程序中。为了证明这一点，我将向您展示如何迈向制作.Net Maui的第一步</description>
-      <pubDate>Tue, 03 Jun 2025 17:15:00 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) - June 2025】Azure开发人员CLI（AZD） -  2025年6月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-june-2025</link>
+      <description>【This post shares the details of the latest changes to the Azure Developer CLI (azd) in releases 1.16.0, 1.16.1, and 1.17.0. We invite you to join our June release discussion on GitHub with questions and comments. This month&#39;s release has new features, bug fixes,】这篇文章分享了Azure开发人员CLI（AZD）的最新更改的详细信息。我们邀请您加入我们在Github上的6月发布讨论，并提出问题和评论。本月的版本具有新功能，错误修复，</description>
+      <pubDate>Thu, 05 Jun 2025 20:20:50 +0000</pubDate>
     </item>
     <item>
-      <title>【A story of collaborating agents: chatting with your database the right way】一个合作代理人的故事：以正确的方式与您的数据库聊天</title>
-      <link>https://devblogs.microsoft.com/azure-sql/a-story-of-collaborating-agents-chatting-with-your-database-the-right-way</link>
-      <description>【Today, more and more customers are embracing AI with one clear goal in mind: they want to chat with their data. And by &#34;data,&#34; they mean all of it:  structured tables, unstructured documents, images, audio, and more. This demand has given rise to hybrid approaches that blend semantic understanding with precise data retrieval. But here’s】如今，越来越多的客户正在考虑一个明确的目标：他们想与数据聊天。通过“数据”，它们的意思是：结构化表，非结构化文档，图像，音频等。这种需求引起了混合方法，将语义理解与精确的数据检索融为一体。但这是</description>
-      <pubDate>Mon, 02 Jun 2025 18:13:57 +0000</pubDate>
+      <title>【Emit logs on-demand with log buffering】用日志缓冲发射日志</title>
+      <link>https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering</link>
+      <description>【Managing logs in production environments involves tricky trade-offs. You want detailed logs when things go wrong, but you don&#39;t want to pay storage costs for logs that never get examined. While log sampling helps reduce log volume by emitting only a percentage of】在生产环境中管理日志涉及棘手的权衡。您需要详细的日志，但是当出现问题时，您不想为从未被检查的日志支付存储成本。虽然日志采样仅通过排放一定的百分比有助于减少日志量</description>
+      <pubDate>Thu, 05 Jun 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers】赶上Microsoft Build 2025：.NET开发人员的基本会话</title>
-      <link>https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers</link>
-      <description>【Build 2025 is a wrap! We packed this year&#39;s conference with tons of cool stuff around AI-powered coding, cloud-native apps, and the future of .NET. If you missed the live event or just want to revisit the good parts, here&#39;s a roundup of can&#39;t-miss content you&#39;ll want to check out. [alert type=&#34;note&#34; heading=&#34;Note&#34;]All sessions are now avail】构建2025是一个包装！我们在今年的会议上围绕着AI驱动的编码，云本地应用程序和.NET的未来，收拾了很多很酷的东西。如果您错过了现场活动或只是想重新审视好零件，这里是您要查看的无误内容的综述。 [警报type =“ note” heading =“ note”]现在所有会话均可</description>
-      <pubDate>Wed, 04 Jun 2025 19:00:00 +0000</pubDate>
+      <title>【Hierarchical Waterfall Evaluation of Query Classification, Retrieval &amp; Generation in Multi-Agent LLM Systems】多代理LLM系统中查询分类，检索和发电的分层瀑布评估</title>
+      <link>https://devblogs.microsoft.com/ise/hierarchical-waterfall-evaluation-query-classification-rag-llm</link>
+      <description>【Introduction As organizations increasingly deploy multi-agent LLM systems to handle complex queries and workflows, the need for robust evaluation frameworks becomes crucial. Based on our recent work implementing hypothesis-driven experimentation for a large enterprise client, this post shares insights on building a hierarchical water】随着组织越来越多地部署多代理LLM系统来处理复杂的查询和工作流程，对强大的评估框架的需求变得至关重要。根据我们最近针对大型企业客户实施假设驱动的实验的工作，该帖子分享了建立层次水的见解</description>
+      <pubDate>Thu, 05 Jun 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (May 2025)】Azure SDK版本（2025年5月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-may-2025</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
-      <pubDate>Tue, 03 Jun 2025 16:59:15 +0000</pubDate>
+      <title>【Dev Proxy v0.28 with LLM usage and costs tracking】DEV代理v0.28带有LLM使用和成本跟踪</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-28-with-llm-usage-and-costs-tracking</link>
+      <description>【We’re thrilled to announce the release of Dev Proxy v0.28. This version introduces a new ability to help you understand language models’ usage and costs in your applications, alongside many improvements to mocking, TypeSpec generation, and plugin flexibility. In this version: New OpenAITelemetryPlugin to track language mode】我们很高兴宣布发行Dev Proxy v0.28。此版本引入了一种新的功能，可以帮助您了解应用程序中语言模型的使用和成本，以及嘲笑，打字生成和插件灵活性的许多改进。在此版本中：新的OpenaitElemetryplugin到跟踪语言模式</description>
+      <pubDate>Thu, 05 Jun 2025 06:36:49 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I programmatically find the network path by which a folder has been shared?】如何以编程方式找到已共享文件夹的网络路径？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250604-00/?p=111245</link>
-      <description>【When you right-click a folder in Explorer, select Properties, and go to the Sharing tab, there is a section titled &#34;Network File and Folder Sharing&#34;, and in there, it tells you the network path by which this folder has been shared. (Or &#34;Not shared&#34; if it hasn&#39;t been shared at all.) How can I obtain this path programmatically? There】当您右键单击Explorer中的文件夹，选择属性，然后转到“共享”选项卡时，有一个标题为“网络文件和文件夹共享”的部分，在那里，它告诉您该文件夹已共享的网络路径。 （如果根本没有共享，则“没有共享”。）如何以编程方式获得此路径？那里</description>
-      <pubDate>Wed, 04 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【How to filter C++ Build Insights by project】如何通过项目过滤C ++建立见解</title>
+      <link>https://devblogs.microsoft.com/visualstudio/how-to-filter-c-build-insights-by-project</link>
+      <description>【Visual Studio 2022 version 17.14 comes with quality-of-life improvements to its C++ Build Insights integration that will make it easier for you to navigate large multi-project traces and handle long file names for your build inputs and artifacts.】Visual Studio 2022版本17.14具有其C ++构建见解集成的生活质量改进，这将使您更容易浏览大型多项目trace，并为您的构建输入和工件处理长文件名。</description>
+      <pubDate>Thu, 05 Jun 2025 15:37:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career】云学院：解锁您的Azure技能并加速您的职业生涯</title>
-      <link>https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers</link>
-      <description>【When we launched the Cloud Academy benefit for Visual Studio Professional and Enterprise subscribers back in March 2025, our goal was simple: give you the hands-on, practical learning experience you need to confidently master Azure and cloud technologies — without spending a dime beyond your subscription. Why? Because in】当我们在2025年3月推出Visual Studio专业人士和企业订阅者的Cloud Academy福利时，我们的目标很简单：为您提供动手实践，实用的学习经验，您需要确信掌握Azure和Cloud Technologies，而无需花费贵重的订阅。为什么？因为在</description>
-      <pubDate>Tue, 03 Jun 2025 14:00:08 +0000</pubDate>
+      <title>【Restricting PAT Creation in Azure DevOps Is Now in Preview】限制Azure DevOps中的PAT创建现已在预览中</title>
+      <link>https://devblogs.microsoft.com/devops/restricting-pat-creation-in-azure-devops-is-now-in-preview</link>
+      <description>【As organizations continue to strengthen their security posture, restricting usage of personal access tokens (PATs) has become a critical area of focus. With the latest public preview of the】随着组织继续加强其安全姿势，限制个人访问令牌（PATS）的使用已成为关注的关键领域。随着最新的公开预览</description>
+      <pubDate>Thu, 05 Jun 2025 17:08:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Build like Microsoft: Developer agents in action】像Microsoft这样的构建：开发人员正在行动</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/build-like-microsoft-developer-agents-in-action</link>
-      <description>【Every day, developers tackle complex workflows involving planning, coding, reviewing, testing, securing, and releasing software. These tasks, often scattered across various tools and platforms, create friction that slows us down. At Microsoft, we believe AI can change that. This belief led us to create Athena, an AI-powered collaborative ag】每天，开发人员都会处理涉及计划，编码，审查，测试，确保和发布软件的复杂工作流程。这些任务通常散布在各种工具和平台上，会产生摩擦，使我们放慢脚步。在微软，我们认为AI可以改变这一点。这种信念使我们创建了Athena，这是AI驱动的协作AG</description>
-      <pubDate>Wed, 04 Jun 2025 15:54:25 +0000</pubDate>
+      <title>【Microsoft and LangChain: Leading the Way in AI Security for Open Source on Azure】Microsoft and Langchain：在Azure上的AI安全性方面领先于AI安全性</title>
+      <link>https://devblogs.microsoft.com//microsoft-and-langchain-leading-the-way-in-ai-security-for-open-source-on-azure</link>
+      <description>【For developers building in the field of AI, the industry moves so quickly that we often prioritise speed and execution over everything else. To keep up with the latest changes, many developers and enterpris】对于在AI领域建设的开发人员来说，行业的发展如此之快，以至于我们经常优先考虑速度和执行，而不是其他所有方面。为了跟上最新更改，许多开发人员和企业家</description>
+      <pubDate>Thu, 05 Jun 2025 17:05:24 +0000</pubDate>
     </item>
     <item>
-      <title>【The symbolism of the magnifying glass is not universal】放大镜的象征不是通用</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250603-00/?p=111240</link>
-      <description>【Windows 3.0 introduced WinHelp, a program for browsing online help files. The toolbar contained a series of buttons: Index, Back, Browse backward, Browse forward, and Search.】Windows 3.0引入了WinHelp，这是一个用于浏览在线帮助文​​件的程序。工具栏包含一系列按钮：索引，背面，向后浏览，向前浏览和搜索。</description>
-      <pubDate>Tue, 03 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【Why do some Windows functions fail if I pass an unaligned Unicode string?】如果我通过一个未对齐的Unicode字符串，为什么某些Windows功能会失败？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250605-00/?p=111250</link>
+      <description>【A customer found that if they passed Unicode strings (which in Windows means strings encoded as UTF-16LE using the two-byte data type wchar_t as code units) which are not on even addresses, then some—but not all—functions fail to accept those strings. Why isn&#39;t this documented? This is one of the】一位客户发现，如果他们通过Unicode字符串（在Windows中意味着使用两个字节数据类型WCHAR_T作为代码单元编码为UTF-16LE的字符串），这些字符串不在地址上，那么某些（但不是全部）功能就无法接受这些字符串。为什么不记录下来？这是</description>
+      <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Riffing on a typo in the name of the opera &lt;I&gt;Turandot&lt;/I&gt;】以歌剧的名义在错别字上即兴&lt;/i&gt;</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250604-01/?p=111247</link>
-      <description>【I turned on the radio in the car and heard what was identified by the Radio Data System information as a performance by the Metropolitan Opera of New York of Puccini&#39;s Turnadot. Whoever entered the information introduced a typo, because the correct spelling is Turan】我打开了汽车的收音机，听到了无线电数据系统信息所识别的内容，这是纽约纽约图奇尼（Puccini）Turnadot的大都会歌剧院的表演。输入信息的人引入了错字，因为正确的拼写是Turan</description>
-      <pubDate>Wed, 04 Jun 2025 14:00:01 +0000</pubDate>
+      <title>【Smarter SK Agents with Contextual Function Selection】具有上下文功能选择的智能SK代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/smarter-sk-agents-with-contextual-function-selection</link>
+      <description>【Smarter SK Agents with Contextual Function Selection In today&#39;s fast-paced AI landscape, developers are constantly seeking ways to make AI interactions more efficient and relevant. The new Contextual Function Selection feature in the Semantic Kernel Agent Framework is here to address this need. By dynamically selecti】在当今快节奏的AI景观中，具有上下文功能选择的智能SK代理，开发人员一直在寻找使AI交互更有效和相关的方法。语义内核代理框架中的新上下文功能选择功能在这里解决此需求。通过动态选择</description>
+      <pubDate>Thu, 05 Jun 2025 09:28:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
