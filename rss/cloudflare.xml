@@ -4,10 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Cloudflare named a Strong Performer in Email Security by Forrester】Cloudflare命名了Forrester的Email Security的强大表现</title>
-      <link>https://blog.cloudflare.com/cloudflare-named-a-strong-performer-in-email-security-by-forrester/</link>
-      <description>【 Forrester has recognized Cloudflare Email Security as a Strong Performer in the ‘current offering’ category in “The Forrester Wave™: Email, Messaging, And Collaboration Security Solutions. 】Forrester在“ Forrester Wave™：电子邮件，消息传递和协作安全解决方案中的“当前产品”类别中，CloudFlare电子邮件安全性是强大的表现。</description>
-      <pubDate>Fri, 30 May 2025 14:30:00 +0000</pubDate>
+      <title>【Bringing connections into view: real-time BGP route visibility on Cloudflare Radar】将连接融入视图：实时BGP路线可见性</title>
+      <link>https://blog.cloudflare.com/bringing-connections-into-view-real-time-bgp-route-visibility-on-cloudflare/</link>
+      <description>【 Real-time BGP route visualization is now available on Cloudflare Radar, providing immediate insights into global Internet routing. 】现在可以在CloudFlare Radar上使用实时BGP路由可视化，从而立即洞悉全球Internet路由。</description>
+      <pubDate>Wed, 21 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Your IPs, your rules: enabling more efficient address space usage】您的IPS，您的规则：启用更有效的地址空间使用情况</title>
@@ -22,34 +22,10 @@
       <pubDate>Fri, 16 May 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Resolving a request smuggling vulnerability in Pingora】解决Pingora中的走私漏洞的请求</title>
-      <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
-      <description>【 Cloudflare patched a vulnerability (CVE-2025-4366) in the Pingora OSS framework, which exposed users of the framework and Cloudflare CDN’s free tier to potential request smuggling attacks. 】CloudFlare修补了Pingora OSS框架中的漏洞（CVE-2025-4366），该漏洞使该框架的用户和Cloudflare CDN的自由层次接触了潜在的请求走私攻击。</description>
-      <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Let’s DO this: detecting Workers Builds errors across 1 million Durable Objects】让我们这样做：检测工人在100万个耐用物体中构建错误</title>
       <link>https://blog.cloudflare.com/detecting-workers-builds-errors-across-1-million-durable-durable-objects/</link>
       <description>【 Workers Builds, our CI/CD product for deploying Workers, monitors build issues by analyzing build failure metadata spread across over one million Durable Objects. 】工人建造了我们用于部署工人的CI/CD产品，通过分析构建故障元数据扩散到超过一百万耐用的物体中，监视构建问题。</description>
       <pubDate>Thu, 29 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Forget IPs: using cryptography to verify bot and agent traffic】忘记IPS：使用密码学验证机器人和代理流量</title>
-      <link>https://blog.cloudflare.com/web-bot-auth/</link>
-      <description>【 Bots now browse like humans. We&#39;re proposing bots use cryptographic signatures so that website owners can verify their identity. Explanations and demonstration code can be found within the post. 】机器人现在像人类一样浏览。我们正在提议使用加密签名，以便网站所有者可以验证其身份。可以在帖子中找到说明和演示代码。</description>
-      <pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare named in 2025 Gartner® Magic Quadrant™ for Security Service Edge】CloudFlare在2025年命名的Gartner®MagicQuadrant™安全服务边缘</title>
-      <link>https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2025/</link>
-      <description>【 For the third consecutive year, Gartner has named Cloudflare to the Gartner® Magic Quadrant™ for Security Service Edge (SSE) report. 】Gartner连续第三年将Cloudflare命名为Security Service Edge（SSE）报告的Gartner®MagicQuadrant™。</description>
-      <pubDate>Fri, 23 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Bringing connections into view: real-time BGP route visibility on Cloudflare Radar】将连接融入视图：实时BGP路线可见性</title>
-      <link>https://blog.cloudflare.com/bringing-connections-into-view-real-time-bgp-route-visibility-on-cloudflare/</link>
-      <description>【 Real-time BGP route visualization is now available on Cloudflare Radar, providing immediate insights into global Internet routing. 】现在可以在CloudFlare Radar上使用实时BGP路由可视化，从而立即洞悉全球Internet路由。</description>
-      <pubDate>Wed, 21 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Building an AI Agent that puts humans in the loop with Knock and Cloudflare’s Agents SDK】建立一个AI代理，将人类用敲门和Cloudflare的代理SDK进入循环</title>
@@ -58,10 +34,34 @@
       <pubDate>Tue, 03 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Resolving a request smuggling vulnerability in Pingora】解决Pingora中的走私漏洞的请求</title>
+      <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
+      <description>【 Cloudflare patched a vulnerability (CVE-2025-4366) in the Pingora OSS framework, which exposed users of the framework and Cloudflare CDN’s free tier to potential request smuggling attacks. 】CloudFlare修补了Pingora OSS框架中的漏洞（CVE-2025-4366），该漏洞使该框架的用户和Cloudflare CDN的自由层次接触了潜在的请求走私攻击。</description>
+      <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Forget IPs: using cryptography to verify bot and agent traffic】忘记IPS：使用密码学验证机器人和代理流量</title>
+      <link>https://blog.cloudflare.com/web-bot-auth/</link>
+      <description>【 Bots now browse like humans. We&#39;re proposing bots use cryptographic signatures so that website owners can verify their identity. Explanations and demonstration code can be found within the post. 】机器人现在像人类一样浏览。我们正在提议使用加密签名，以便网站所有者可以验证其身份。可以在帖子中找到说明和演示代码。</description>
+      <pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare named a Strong Performer in Email Security by Forrester】Cloudflare命名了Forrester的Email Security的强大表现</title>
+      <link>https://blog.cloudflare.com/cloudflare-named-a-strong-performer-in-email-security-by-forrester/</link>
+      <description>【 Forrester has recognized Cloudflare Email Security as a Strong Performer in the ‘current offering’ category in “The Forrester Wave™: Email, Messaging, And Collaboration Security Solutions. 】Forrester在“ Forrester Wave™：电子邮件，消息传递和协作安全解决方案中的“当前产品”类别中，CloudFlare电子邮件安全性是强大的表现。</description>
+      <pubDate>Fri, 30 May 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Performance measurements… and the people who love them】绩效测量…和爱他们的人</title>
       <link>https://blog.cloudflare.com/loving-performance-measurements/</link>
       <description>【 Developers have a gut-felt understanding for performance, but that intuition breaks down when systems reach Cloudflare’s scale. 】开发人员对性能有肠道的了解，但是当系统达到Cloudflare的规模时，直觉会破裂。</description>
       <pubDate>Tue, 20 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare named in 2025 Gartner® Magic Quadrant™ for Security Service Edge】CloudFlare在2025年命名的Gartner®MagicQuadrant™安全服务边缘</title>
+      <link>https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2025/</link>
+      <description>【 For the third consecutive year, Gartner has named Cloudflare to the Gartner® Magic Quadrant™ for Security Service Edge (SSE) report. 】Gartner连续第三年将Cloudflare命名为Security Service Edge（SSE）报告的Gartner®MagicQuadrant™。</description>
+      <pubDate>Fri, 23 May 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
