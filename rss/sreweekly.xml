@@ -4,16 +4,16 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #478】SRE周刊＃478</title>
+      <link>https://sreweekly.com/sre-weekly-issue-478/</link>
+      <description>【View on sreweekly.com Security and SRE: How Datadog&amp;#8217;s combined approach aims to tackle security and reliability challenges Datadog has fully merged their SRE and Security teams. In this post, we&amp;#8217;ll look at essential elements of SRE and security, the benefits we&amp;#8217;ve realized by combining the two disciplines, and what that approach looks like for us. [&amp;#8230;]】在Sreweekly.com Security和SRE上查看：Datadog的合并方法旨在应对安全性和可靠性挑战Datadog已完全合并其SRE和安全团队。在这篇文章中，我们将研究SRE和Security的基本要素，通过结合两个学科来实现的好处，以及这种方法对我们来说是什么样子。 […]</description>
+      <pubDate>Mon, 26 May 2025 02:04:54 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #475】SRE周刊＃475</title>
       <link>https://sreweekly.com/sre-weekly-issue-475/</link>
       <description>【View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven&amp;#8217;t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class. &amp;#160;&amp;#160;Ivan Shubin &amp;#8212; Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: [&amp;#8230;]】在Sreweekly.com上查看时间序列中的异常检测，使用统计分析，我在相当一段时间有关异常检测的文章中没有看到这种细节。尽管如此，即使您在统计课程中睡觉，数学还是非常平易近人的。   伊万·舒本</description>
       <pubDate>Mon, 05 May 2025 01:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #477】SRE周刊＃477</title>
-      <link>https://sreweekly.com/sre-weekly-issue-477/</link>
-      <description>【View on sreweekly.com Human Error Strikes Again… or Does It? Why don&amp;#8217;t we look for the root cause of a successful outcome? &amp;#160;&amp;#160;Hamed Silatani &amp;#8212; Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using [&amp;#8230;]】在sreweekly.com上查看人为错误再次罢工……还是这样？我们为什么不寻找成功结果的根本原因？   HAMED SILATANI  - 正常运行实验室我们如何优化LLM的成本，质量和安全性来促进写作后验尸，以避免使用[…]的潜在陷阱，以避免使用的潜在陷阱。</description>
-      <pubDate>Mon, 19 May 2025 01:33:16 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #479】SRE周刊＃479</title>
@@ -28,10 +28,10 @@
       <pubDate>Mon, 12 May 2025 01:16:27 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #478】SRE周刊＃478</title>
-      <link>https://sreweekly.com/sre-weekly-issue-478/</link>
-      <description>【View on sreweekly.com Security and SRE: How Datadog&amp;#8217;s combined approach aims to tackle security and reliability challenges Datadog has fully merged their SRE and Security teams. In this post, we&amp;#8217;ll look at essential elements of SRE and security, the benefits we&amp;#8217;ve realized by combining the two disciplines, and what that approach looks like for us. [&amp;#8230;]】在Sreweekly.com Security和SRE上查看：Datadog的合并方法旨在应对安全性和可靠性挑战Datadog已完全合并其SRE和安全团队。在这篇文章中，我们将研究SRE和Security的基本要素，通过结合两个学科来实现的好处，以及这种方法对我们来说是什么样子。 […]</description>
-      <pubDate>Mon, 26 May 2025 02:04:54 +0000</pubDate>
+      <title>【SRE Weekly Issue #477】SRE周刊＃477</title>
+      <link>https://sreweekly.com/sre-weekly-issue-477/</link>
+      <description>【View on sreweekly.com Human Error Strikes Again… or Does It? Why don&amp;#8217;t we look for the root cause of a successful outcome? &amp;#160;&amp;#160;Hamed Silatani &amp;#8212; Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using [&amp;#8230;]】在sreweekly.com上查看人为错误再次罢工……还是这样？我们为什么不寻找成功结果的根本原因？   HAMED SILATANI  - 正常运行实验室我们如何优化LLM的成本，质量和安全性来促进写作后验尸，以避免使用[…]的潜在陷阱，以避免使用的潜在陷阱。</description>
+      <pubDate>Mon, 19 May 2025 01:33:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

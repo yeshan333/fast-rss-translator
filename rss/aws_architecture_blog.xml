@@ -4,28 +4,16 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>实施以事件为导向的发票处理，以大规模弹性财务监控</title>
-      <link>https://aws.amazon.com/blogs/architecture/implement-event-driven-invoice-processing-for-resilient-financial-monitoring-at-scale/</link>
+      <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
       <description></description>
-      <pubDate>Mon, 12 May 2025 17:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smartsheet如何通过Amazon Bedrock和Roo Code提高开发人员的生产力</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/</link>
-      <description></description>
-      <pubDate>Mon, 19 May 2025 17:28:58 +0000</pubDate>
+      <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
     </item>
     <item>
       <title>通过现代建筑治理赋予您的团队能力</title>
       <link>https://aws.amazon.com/blogs/architecture/empower-your-teams-with-modern-architecture-governance/</link>
       <description></description>
       <pubDate>Mon, 21 Apr 2025 17:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用多模式LLM革新农业知识管理：参考体系结构</title>
-      <link>https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/</link>
-      <description></description>
-      <pubDate>Thu, 15 May 2025 17:20:44 +0000</pubDate>
     </item>
     <item>
       <title>改善现金应用程序的平台弹性</title>
@@ -40,10 +28,22 @@
       <pubDate>Mon, 02 Jun 2025 16:25:10 +0000</pubDate>
     </item>
     <item>
-      <title>智能表如何降低其无服务器体系结构中的延迟和优化成本</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/</link>
+      <title>使用Amazon Sagemaker AI和Amazon Bedrock优化车队操作</title>
+      <link>https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/</link>
       <description></description>
-      <pubDate>Fri, 18 Apr 2025 16:19:36 +0000</pubDate>
+      <pubDate>Wed, 28 May 2025 18:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smartsheet如何通过Amazon Bedrock和Roo Code提高开发人员的生产力</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/</link>
+      <description></description>
+      <pubDate>Mon, 19 May 2025 17:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用多模式LLM革新农业知识管理：参考体系结构</title>
+      <link>https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 17:20:44 +0000</pubDate>
     </item>
     <item>
       <title>使用Amazon API Gateway转换Maya的API管理</title>
@@ -52,16 +52,16 @@
       <pubDate>Tue, 27 May 2025 17:29:02 +0000</pubDate>
     </item>
     <item>
-      <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
+      <title>智能表如何降低其无服务器体系结构中的延迟和优化成本</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/</link>
       <description></description>
-      <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
+      <pubDate>Fri, 18 Apr 2025 16:19:36 +0000</pubDate>
     </item>
     <item>
-      <title>使用Amazon Sagemaker AI和Amazon Bedrock优化车队操作</title>
-      <link>https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/</link>
+      <title>实施以事件为导向的发票处理，以大规模弹性财务监控</title>
+      <link>https://aws.amazon.com/blogs/architecture/implement-event-driven-invoice-processing-for-resilient-financial-monitoring-at-scale/</link>
       <description></description>
-      <pubDate>Wed, 28 May 2025 18:29:26 +0000</pubDate>
+      <pubDate>Mon, 12 May 2025 17:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
