@@ -4,16 +4,40 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Why do some Windows functions fail if I pass an unaligned Unicode string?】如果我通过一个未对齐的Unicode字符串，为什么某些Windows功能会失败？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250605-00/?p=111250</link>
-      <description>【A customer found that if they passed Unicode strings (which in Windows means strings encoded as UTF-16LE using the two-byte data type wchar_t as code units) which are not on even addresses, then some—but not all—functions fail to accept those strings. Why isn&#39;t this documented? This is one of the】一位客户发现，如果他们通过Unicode字符串（在Windows中意味着使用两个字节数据类型WCHAR_T作为代码单元编码为UTF-16LE的字符串），这些字符串不在地址上，那么某些（但不是全部）功能就无法接受这些字符串。为什么不记录下来？这是</description>
-      <pubDate>Thu, 05 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【How to filter C++ Build Insights by project】如何通过项目过滤C ++建立见解</title>
+      <link>https://devblogs.microsoft.com/visualstudio/how-to-filter-c-build-insights-by-project</link>
+      <description>【Visual Studio 2022 version 17.14 comes with quality-of-life improvements to its C++ Build Insights integration that will make it easier for you to navigate large multi-project traces and handle long file names for your build inputs and artifacts.】Visual Studio 2022版本17.14具有其C ++构建见解集成的生活质量改进，这将使您更容易浏览大型多项目trace，并为您的构建输入和工件处理长文件名。</description>
+      <pubDate>Thu, 05 Jun 2025 15:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Emit logs on-demand with log buffering】用日志缓冲发射日志</title>
+      <link>https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering</link>
+      <description>【Managing logs in production environments involves tricky trade-offs. You want detailed logs when things go wrong, but you don&#39;t want to pay storage costs for logs that never get examined. While log sampling helps reduce log volume by emitting only a percentage of log】在生产环境中管理日志涉及棘手的权衡。您需要详细的日志，但是当出现问题时，您不想为从未被检查的日志支付存储成本。而日志采样仅通过排放一定的日志有助于减少日志量</description>
+      <pubDate>Thu, 05 Jun 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft and LangChain: Leading the Way in AI Security for Open Source on Azure】Microsoft and Langchain：在Azure上的AI安全性方面领先于AI安全性</title>
       <link>https://devblogs.microsoft.com//microsoft-and-langchain-leading-the-way-in-ai-security-for-open-source-on-azure</link>
       <description>【For developers building in the field of AI, the industry moves so quickly that we often prioritise speed and execution over everything else. To keep up with the latest changes, many developers and enterpris】对于在AI领域建设的开发人员来说，行业的发展如此之快，以至于我们经常优先考虑速度和执行，而不是其他所有方面。为了跟上最新更改，许多开发人员和企业家</description>
       <pubDate>Thu, 05 Jun 2025 17:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) - June 2025】Azure开发人员CLI（AZD） -  2025年6月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-june-2025</link>
+      <description>【This post shares the details of the latest changes to the Azure Developer CLI (azd) in releases 1.16.0, 1.16.1, and 1.17.0. We invite you to join our June release discussion on GitHub with questions and comments. This month&#39;s release has new features, bug fixes,】这篇文章分享了Azure开发人员CLI（AZD）的最新更改的详细信息。我们邀请您加入我们在Github上的6月发布讨论，并提出问题和评论。本月的版本具有新功能，错误修复，</description>
+      <pubDate>Thu, 05 Jun 2025 20:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does C++ think my class is copy-constructible when it can&#39;t be copy-constructed?】为什么C ++认为我的班级不能被复制构造时可以构建？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254</link>
+      <description>【Consider the following scenario: template&amp;lt;typename T&amp;gt; struct Base { // Default-constructible Base() = default; // Not copy-constructible Base(Base const &amp;amp;) = delete; }; template&amp;lt;typename T&amp;gt; struct Derived : Base&amp;lt;T&amp;gt; { Derived() = default; Derived(Derived const&amp;amp; d) :】考虑以下方案：模板&lt;typeName t&gt; struct base {// default-constructible base（）= default; //不使用复制构造的基础（base const＆）= delete; }; template &lt;typename t&gt; struct dedived：base &lt;t&gt; {derived（）=默认值;派生（派生的const＆d）：</description>
+      <pubDate>Fri, 06 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: Tricking a program into running non-elevated】可疑的安全漏洞：欺骗程序以运行非高级</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250609-00/?p=111258</link>
+      <description>【Within the span of a week,¹ we received two security vulnerability reports that claimed that you could use the RunAsInvoker compatibility layer to run any program without requiring administrator privileges. I have pointed out in the past that RunAsInvoker is not a secret, even higher UAC setting, but rather】在一周的时间内，我们收到了两个安全漏洞报告，声称您可以使用RunAsinVoker兼容性层运行任何程序，而无需管理员特权。我过去指出，RunasinVoker不是一个秘密，甚至更高的UAC设置，而是</description>
+      <pubDate>Mon, 09 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.24.4-1 and 1.23.10-1 Microsoft builds now available】GO 1.24.4-1和1.23.10-1 Microsoft现在可用</title>
@@ -28,40 +52,16 @@
       <pubDate>Thu, 05 Jun 2025 17:08:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does C++ think my class is copy-constructible when it can&#39;t be copy-constructed?】为什么C ++认为我的班级不能被复制构造时可以构建？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254</link>
-      <description>【Consider the following scenario: template&amp;lt;typename T&amp;gt; struct Base { // Default-constructible Base() = default; // Not copy-constructible Base(Base const &amp;amp;) = delete; }; template&amp;lt;typename T&amp;gt; struct Derived : Base&amp;lt;T&amp;gt; { Derived() = default; Derived(Derived const&amp;amp; d) :】考虑以下方案：模板&lt;typeName t&gt; struct base {// default-constructible base（）= default; //不使用复制构造的基础（base const＆）= delete; }; template &lt;typename t&gt; struct dedived：base &lt;t&gt; {derived（）=默认值;派生（派生的const＆d）：</description>
-      <pubDate>Fri, 06 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Emit logs on-demand with log buffering】用日志缓冲发射日志</title>
-      <link>https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering</link>
-      <description>【Managing logs in production environments involves tricky trade-offs. You want detailed logs when things go wrong, but you don&#39;t want to pay storage costs for logs that never get examined. While log sampling helps reduce log volume by emitting only a percentage of log】在生产环境中管理日志涉及棘手的权衡。您需要详细的日志，但是当出现问题时，您不想为从未被检查的日志支付存储成本。而日志采样仅通过排放一定的日志有助于减少日志量</description>
-      <pubDate>Thu, 05 Jun 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) - June 2025】Azure开发人员CLI（AZD） -  2025年6月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-june-2025</link>
-      <description>【This post shares the details of the latest changes to the Azure Developer CLI (azd) in releases 1.16.0, 1.16.1, and 1.17.0. We invite you to join our June release discussion on GitHub with questions and comments. This month&#39;s release has new features, bug fixes,】这篇文章分享了Azure开发人员CLI（AZD）的最新更改的详细信息。我们邀请您加入我们在Github上的6月发布讨论，并提出问题和评论。本月的版本具有新功能，错误修复，</description>
-      <pubDate>Thu, 05 Jun 2025 20:20:50 +0000</pubDate>
+      <title>【Next edit suggestions available in Visual Studio GitHub Copilot】Visual Studio Github Copilot中提供的下一个编辑建议</title>
+      <link>https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot</link>
+      <description>【GitHub Copilot code completions, or gray text, are specialized in autocompleting unfinished code or providing helpful template code. In reality, coding activities are more diverse than writing new code. What if Copilot could better assist your coding not only with code generation, but your code editing activities as well? We are excited to】GitHub Copilot代码完成或灰色文本专门用于自动完成未完成的代码或提供有用的模板代码。实际上，编码活动比编写新代码更多样化。如果Copilot不仅可以更好地帮助您的编码，不仅可以为您的代码生成，还可以帮助您的代码编辑活动，该怎么办？我们很兴奋</description>
+      <pubDate>Mon, 09 Jun 2025 15:00:39 +0000</pubDate>
     </item>
     <item>
       <title>【Building a Modern Python API with Azure Cosmos DB: A 5-Part Video Series】用Azure Cosmos DB构建现代Python API：一个5部分的视频系列</title>
       <link>https://devblogs.microsoft.com/cosmosdb/building-a-modern-python-api-with-azure-cosmos-db-a-5-part-video-series</link>
       <description>【I&#39;m excited to share our new video series where I walk through building a production-ready inventory management API using Python, FastAPI, and Azure Cosmos DB NoSQL. This project demonstrates modern async patterns, clean architecture, and enterprise-grade features like batch operations and optimistic concurrency control.】我很高兴分享我们的新视频系列，在其中，我将使用Python，FastApi和Azure Cosmos DB Nosql构建准备生产的库存管理API。该项目展示了现代的异步模式，干净的体系结构和企业级功能，例如批处理操作和乐观的并发控制。</description>
       <pubDate>Fri, 06 Jun 2025 15:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to filter C++ Build Insights by project】如何通过项目过滤C ++建立见解</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-to-filter-c-build-insights-by-project</link>
-      <description>【Visual Studio 2022 version 17.14 comes with quality-of-life improvements to its C++ Build Insights integration that will make it easier for you to navigate large multi-project traces and handle long file names for your build inputs and artifacts.】Visual Studio 2022版本17.14具有其C ++构建见解集成的生活质量改进，这将使您更容易浏览大型多项目trace，并为您的构建输入和工件处理长文件名。</description>
-      <pubDate>Thu, 05 Jun 2025 15:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Enhancing Plugin Metadata Management with SemanticPluginForge】使用Semanticpluginforge增强插件元数据管理</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/enhancing-plugin-metadata-management-with-semanticpluginforge</link>
-      <description>【In the world of software development, flexibility and adaptability are key. Developers often face challenges when it comes to updating plugin metadata dynamically without disrupting services or requiring redeployment. This is where SemanticPluginForge, an open-source project, step】在软件开发的世界中，灵活性和适应性是关键。开发人员在动态更新插件元数据时通常会面临挑战，而无需破坏服务或需要重新部署。这是一个开源项目Semanticpluginforge，步骤</description>
-      <pubDate>Thu, 05 Jun 2025 09:44:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
