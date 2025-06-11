@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【How to filter C++ Build Insights by project】如何通过项目过滤C ++建立见解</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-to-filter-c-build-insights-by-project</link>
-      <description>【Visual Studio 2022 version 17.14 comes with quality-of-life improvements to its C++ Build Insights integration that will make it easier for you to navigate large multi-project traces and handle long file names for your build inputs and artifacts.】Visual Studio 2022版本17.14具有其C ++构建见解集成的生活质量改进，这将使您更容易浏览大型多项目trace，并为您的构建输入和工件处理长文件名。</description>
-      <pubDate>Thu, 05 Jun 2025 15:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Emit logs on-demand with log buffering】用日志缓冲发射日志</title>
-      <link>https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering</link>
-      <description>【Managing logs in production environments involves tricky trade-offs. You want detailed logs when things go wrong, but you don&#39;t want to pay storage costs for logs that never get examined. While log sampling helps reduce log volume by emitting only a percentage of log】在生产环境中管理日志涉及棘手的权衡。您需要详细的日志，但是当出现问题时，您不想为从未被检查的日志支付存储成本。而日志采样仅通过排放一定的日志有助于减少日志量</description>
-      <pubDate>Thu, 05 Jun 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft and LangChain: Leading the Way in AI Security for Open Source on Azure】Microsoft and Langchain：在Azure上的AI安全性方面领先于AI安全性</title>
-      <link>https://devblogs.microsoft.com//microsoft-and-langchain-leading-the-way-in-ai-security-for-open-source-on-azure</link>
-      <description>【For developers building in the field of AI, the industry moves so quickly that we often prioritise speed and execution over everything else. To keep up with the latest changes, many developers and enterpris】对于在AI领域建设的开发人员来说，行业的发展如此之快，以至于我们经常优先考虑速度和执行，而不是其他所有方面。为了跟上最新更改，许多开发人员和企业家</description>
-      <pubDate>Thu, 05 Jun 2025 17:05:24 +0000</pubDate>
+      <title>【Next edit suggestions available in Visual Studio GitHub Copilot】Visual Studio Github Copilot中提供的下一个编辑建议</title>
+      <link>https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot</link>
+      <description>【GitHub Copilot code completions, or gray text, are specialized in autocompleting unfinished code or providing helpful template code. In reality, coding activities are more diverse than writing new code. What if Copilot could better assist your coding not only with code generation, but your code editing activities as well? We are excited to】GitHub Copilot代码完成或灰色文本专门用于自动完成未完成的代码或提供有用的模板代码。实际上，编码活动比编写新代码更多样化。如果Copilot不仅可以更好地帮助您的编码，不仅可以为您的代码生成，还可以帮助您的代码编辑活动，该怎么办？我们很兴奋</description>
+      <pubDate>Mon, 09 Jun 2025 15:00:39 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Developer CLI (azd) - June 2025】Azure开发人员CLI（AZD） -  2025年6月</title>
@@ -28,34 +16,46 @@
       <pubDate>Thu, 05 Jun 2025 20:20:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does C++ think my class is copy-constructible when it can&#39;t be copy-constructed?】为什么C ++认为我的班级不能被复制构造时可以构建？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254</link>
-      <description>【Consider the following scenario: template&amp;lt;typename T&amp;gt; struct Base { // Default-constructible Base() = default; // Not copy-constructible Base(Base const &amp;amp;) = delete; }; template&amp;lt;typename T&amp;gt; struct Derived : Base&amp;lt;T&amp;gt; { Derived() = default; Derived(Derived const&amp;amp; d) :】考虑以下方案：模板&lt;typeName t&gt; struct base {// default-constructible base（）= default; //不使用复制构造的基础（base const＆）= delete; }; template &lt;typename t&gt; struct dedived：base &lt;t&gt; {derived（）=默认值;派生（派生的const＆d）：</description>
-      <pubDate>Fri, 06 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dubious security vulnerability: Tricking a program into running non-elevated】可疑的安全漏洞：欺骗程序以运行非高级</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250609-00/?p=111258</link>
-      <description>【Within the span of a week,¹ we received two security vulnerability reports that claimed that you could use the RunAsInvoker compatibility layer to run any program without requiring administrator privileges. I have pointed out in the past that RunAsInvoker is not a secret, even higher UAC setting, but rather】在一周的时间内，我们收到了两个安全漏洞报告，声称您可以使用RunAsinVoker兼容性层运行任何程序，而无需管理员特权。我过去指出，RunasinVoker不是一个秘密，甚至更高的UAC设置，而是</description>
-      <pubDate>Mon, 09 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Go 1.24.4-1 and 1.23.10-1 Microsoft builds now available】GO 1.24.4-1和1.23.10-1 Microsoft现在可用</title>
       <link>https://devblogs.microsoft.com/go/go-1-24-4-1-and-1-23-10-1-microsoft-builds-now-available</link>
       <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
       <pubDate>Fri, 06 Jun 2025 20:08:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Restricting PAT Creation in Azure DevOps Is Now in Preview】限制Azure DevOps中的PAT创建现已在预览中</title>
-      <link>https://devblogs.microsoft.com/devops/restricting-pat-creation-in-azure-devops-is-now-in-preview</link>
-      <description>【As organizations continue to strengthen their security posture, restricting usage of personal access tokens (PATs) has become a critical area of focus. With the latest public preview of the】随着组织继续加强其安全姿势，限制个人访问令牌（PATS）的使用已成为关注的关键领域。随着最新的公开预览</description>
-      <pubDate>Thu, 05 Jun 2025 17:08:48 +0000</pubDate>
+      <title>【.NET and .NET Framework June 2025 servicing releases updates】.NET和.NET框架2025年6月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for June 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements [alert type=&#34;important&#34; heading=&#34;Security Update&#34;] All developers using .NET 8.0 and .NET 9.0 should update immediately】欢迎使用2025年6月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们服务版本中新事物的快速概述：安全改进：安全性改进[arter type type type type type type&#39;exticts“ extimper” heading =“ heading =“安全更新”]使用.NET 8.0和.net 9.0和.net 9.0和.net 9.0和.Net 9.0 and .net 9.0</description>
+      <pubDate>Tue, 10 Jun 2025 20:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Next edit suggestions available in Visual Studio GitHub Copilot】Visual Studio Github Copilot中提供的下一个编辑建议</title>
-      <link>https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot</link>
-      <description>【GitHub Copilot code completions, or gray text, are specialized in autocompleting unfinished code or providing helpful template code. In reality, coding activities are more diverse than writing new code. What if Copilot could better assist your coding not only with code generation, but your code editing activities as well? We are excited to】GitHub Copilot代码完成或灰色文本专门用于自动完成未完成的代码或提供有用的模板代码。实际上，编码活动比编写新代码更多样化。如果Copilot不仅可以更好地帮助您的编码，不仅可以为您的代码生成，还可以帮助您的代码编辑活动，该怎么办？我们很兴奋</description>
-      <pubDate>Mon, 09 Jun 2025 15:00:39 +0000</pubDate>
+      <title>【June Patches for Azure DevOps Server】Azure DevOps服务器的6月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4</link>
+      <description>【Today we are releasing patches that impact the latest version of our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can dow】今天，我们正在发布影响最新版本的自托管产品Azure DevOps Server的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。你可以道歉</description>
+      <pubDate>Tue, 10 Jun 2025 19:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 5 is now available!】.NET 10预览5现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5</link>
+      <description>【Today, we are excited to announce the fifth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 5&#34; url=&#34;https:】如今，我们很高兴宣布.NET 10的第五个预览版本，并在.NET运行时，SDK，库，C＃，ASP.NET Core，Blazor，.Net Maui等，具有增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览5” url =“ https：https：https：https：</description>
+      <pubDate>Tue, 10 Jun 2025 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does C++ think my class is copy-constructible when it can&#39;t be copy-constructed?】为什么C ++认为我的班级不能被复制构造时可以构建？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254</link>
+      <description>【Consider the following scenario: template&amp;lt;typename T&amp;gt; struct Base { // Default-constructible Base() = default; // Not copy-constructible Base(Base const &amp;amp;) = delete; }; template&amp;lt;typename T&amp;gt; struct Derived : Base&amp;lt;T&amp;gt; { Derived() = default; Derived(Derived const&amp;amp; d) :】考虑以下方案：模板&lt;typeName t&gt; struct base {// default-constructible base（）= default; //不使用复制构造的基础（base const＆）= delete; }; template &lt;typename t&gt; struct dedived：base &lt;t&gt; {derived（）=默认值;派生（派生的const＆d）：</description>
+      <pubDate>Fri, 06 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Application compatibility for Windows 95 crashed a cash register】Windows 95的申请兼容性撞车了</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250610-00/?p=111260</link>
+      <description>【Some time ago, I told the story of the time the development manager for Windows 95 bought one copy of every PC program in the Egghead Software store. I learned that in addition to stunning the store manager,】不久前，我讲述了Windows 95开发经理的故事，在Egghead软件商店中购买了每个PC程序的副本。我了解到，除了令人惊叹的商店经理外，</description>
+      <pubDate>Tue, 10 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: Tricking a program into running non-elevated】可疑的安全漏洞：欺骗程序以运行非高级</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250609-00/?p=111258</link>
+      <description>【Within the span of a week,¹ we received two security vulnerability reports that claimed that you could use the RunAsInvoker compatibility layer to run any program without requiring administrator privileges. I have pointed out in the past that RunAsInvoker is not a secret, even higher UAC setting, but rather】在一周的时间内，我们收到了两个安全漏洞报告，声称您可以使用RunAsinVoker兼容性层运行任何程序，而无需管理员特权。我过去指出，RunasinVoker不是一个秘密，甚至更高的UAC设置，而是</description>
+      <pubDate>Mon, 09 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Building a Modern Python API with Azure Cosmos DB: A 5-Part Video Series】用Azure Cosmos DB构建现代Python API：一个5部分的视频系列</title>
