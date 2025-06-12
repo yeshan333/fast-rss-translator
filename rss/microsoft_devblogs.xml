@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Next edit suggestions available in Visual Studio GitHub Copilot】Visual Studio Github Copilot中提供的下一个编辑建议</title>
-      <link>https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot</link>
-      <description>【GitHub Copilot code completions, or gray text, are specialized in autocompleting unfinished code or providing helpful template code. In reality, coding activities are more diverse than writing new code. What if Copilot could better assist your coding not only with code generation, but your code editing activities as well? We are excited to】GitHub Copilot代码完成或灰色文本专门用于自动完成未完成的代码或提供有用的模板代码。实际上，编码活动比编写新代码更多样化。如果Copilot不仅可以更好地帮助您的编码，不仅可以为您的代码生成，还可以帮助您的代码编辑活动，该怎么办？我们很兴奋</description>
-      <pubDate>Mon, 09 Jun 2025 15:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) - June 2025】Azure开发人员CLI（AZD） -  2025年6月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-june-2025</link>
-      <description>【This post shares the details of the latest changes to the Azure Developer CLI (azd) in releases 1.16.0, 1.16.1, and 1.17.0. We invite you to join our June release discussion on GitHub with questions and comments. This month&#39;s release has new features, bug fixes,】这篇文章分享了Azure开发人员CLI（AZD）的最新更改的详细信息。我们邀请您加入我们在Github上的6月发布讨论，并提出问题和评论。本月的版本具有新功能，错误修复，</description>
-      <pubDate>Thu, 05 Jun 2025 20:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.24.4-1 and 1.23.10-1 Microsoft builds now available】GO 1.24.4-1和1.23.10-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-4-1-and-1-23-10-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
-      <pubDate>Fri, 06 Jun 2025 20:08:48 +0000</pubDate>
-    </item>
-    <item>
       <title>【.NET and .NET Framework June 2025 servicing releases updates】.NET和.NET框架2025年6月服务发布更新</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates</link>
       <description>【Welcome to our combined .NET servicing updates for June 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements [alert type=&#34;important&#34; heading=&#34;Security Update&#34;] All developers using .NET 8.0 and .NET 9.0 should update immediately】欢迎使用2025年6月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们服务版本中新事物的快速概述：安全改进：安全性改进[arter type type type type type type&#39;exticts“ extimper” heading =“ heading =“安全更新”]使用.NET 8.0和.net 9.0和.net 9.0和.net 9.0和.Net 9.0 and .net 9.0</description>
       <pubDate>Tue, 10 Jun 2025 20:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【June Patches for Azure DevOps Server】Azure DevOps服务器的6月补丁</title>
-      <link>https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4</link>
-      <description>【Today we are releasing patches that impact the latest version of our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can dow】今天，我们正在发布影响最新版本的自托管产品Azure DevOps Server的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。你可以道歉</description>
-      <pubDate>Tue, 10 Jun 2025 19:13:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10 Preview 5 is now available!】.NET 10预览5现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5</link>
-      <description>【Today, we are excited to announce the fifth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 5&#34; url=&#34;https:】如今，我们很高兴宣布.NET 10的第五个预览版本，并在.NET运行时，SDK，库，C＃，ASP.NET Core，Blazor，.Net Maui等，具有增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览5” url =“ https：https：https：https：</description>
-      <pubDate>Tue, 10 Jun 2025 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does C++ think my class is copy-constructible when it can&#39;t be copy-constructed?】为什么C ++认为我的班级不能被复制构造时可以构建？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254</link>
-      <description>【Consider the following scenario: template&amp;lt;typename T&amp;gt; struct Base { // Default-constructible Base() = default; // Not copy-constructible Base(Base const &amp;amp;) = delete; }; template&amp;lt;typename T&amp;gt; struct Derived : Base&amp;lt;T&amp;gt; { Derived() = default; Derived(Derived const&amp;amp; d) :】考虑以下方案：模板&lt;typeName t&gt; struct base {// default-constructible base（）= default; //不使用复制构造的基础（base const＆）= delete; }; template &lt;typename t&gt; struct dedived：base &lt;t&gt; {derived（）=默认值;派生（派生的const＆d）：</description>
-      <pubDate>Fri, 06 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Application compatibility for Windows 95 crashed a cash register】Windows 95的申请兼容性撞车了</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250610-00/?p=111260</link>
-      <description>【Some time ago, I told the story of the time the development manager for Windows 95 bought one copy of every PC program in the Egghead Software store. I learned that in addition to stunning the store manager,】不久前，我讲述了Windows 95开发经理的故事，在Egghead软件商店中购买了每个PC程序的副本。我了解到，除了令人惊叹的商店经理外，</description>
-      <pubDate>Tue, 10 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Dubious security vulnerability: Tricking a program into running non-elevated】可疑的安全漏洞：欺骗程序以运行非高级</title>
@@ -58,10 +16,52 @@
       <pubDate>Mon, 09 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building a Modern Python API with Azure Cosmos DB: A 5-Part Video Series】用Azure Cosmos DB构建现代Python API：一个5部分的视频系列</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/building-a-modern-python-api-with-azure-cosmos-db-a-5-part-video-series</link>
-      <description>【I&#39;m excited to share our new video series where I walk through building a production-ready inventory management API using Python, FastAPI, and Azure Cosmos DB NoSQL. This project demonstrates modern async patterns, clean architecture, and enterprise-grade features like batch operations and optimistic concurrency control.】我很高兴分享我们的新视频系列，在其中，我将使用Python，FastApi和Azure Cosmos DB Nosql构建准备生产的库存管理API。该项目展示了现代的异步模式，干净的体系结构和企业级功能，例如批处理操作和乐观的并发控制。</description>
-      <pubDate>Fri, 06 Jun 2025 15:00:26 +0000</pubDate>
+      <title>【Application compatibility for Windows 95 crashed a cash register】Windows 95的申请兼容性撞车了</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250610-00/?p=111260</link>
+      <description>【Some time ago, I told the story of the time the development manager for Windows 95 bought one copy of every PC program in the Egghead Software store. I learned that in addition to stunning the store manager,】不久前，我讲述了Windows 95开发经理的故事，在Egghead软件商店中购买了每个PC程序的副本。我了解到，除了令人惊叹的商店经理外，</description>
+      <pubDate>Tue, 10 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Next edit suggestions available in Visual Studio GitHub Copilot】Visual Studio Github Copilot中提供的下一个编辑建议</title>
+      <link>https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot</link>
+      <description>【GitHub Copilot code completions, or gray text, are specialized in autocompleting unfinished code or providing helpful template code. In reality, coding activities are more diverse than writing new code. What if Copilot could better assist your coding not only with code generation, but your code editing activities as well? We are excited to】GitHub Copilot代码完成或灰色文本专门用于自动完成未完成的代码或提供有用的模板代码。实际上，编码活动比编写新代码更多样化。如果Copilot不仅可以更好地帮助您的编码，不仅可以为您的代码生成，还可以帮助您的代码编辑活动，该怎么办？我们很兴奋</description>
+      <pubDate>Mon, 09 Jun 2025 15:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multimodal Voice Intelligence with .NET MAUI】带有.net Maui的多模式语音智能</title>
+      <link>https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui</link>
+      <description>【One of the most interesting ways to enhance your existing applications with AI is to enable more ways for your users to interact with it. Today you probably handle text input, and perhaps some touch gestures for your power users. Now it&#39;s easier than ever to expand that to voice and vision, especially when your users&#39; primary input is via mobi】使用AI增强现有应用程序的最有趣的方法之一是促进更多用户与之互动的方法。今天，您可能会处理文本输入，也许可以为您的权力用户提供一些触摸手势。现在将其扩展到语音和视觉比以往任何时候都容易，尤其是当用户的主要输入通过MOBI时</description>
+      <pubDate>Wed, 11 Jun 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【June Patches for Azure DevOps Server】Azure DevOps服务器的6月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4</link>
+      <description>【Today we are releasing patches that impact the latest version of our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can dow】今天，我们正在发布影响最新版本的自托管产品Azure DevOps Server的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。你可以道歉</description>
+      <pubDate>Tue, 10 Jun 2025 19:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Removing the &lt;CODE&gt;MAX_PATH&lt;/CODE&gt; restriction on paths applies only to paths】删除&lt;code&gt; max_path &lt;/code&gt;路径上的限制仅适用于路径</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250611-00/?p=111262</link>
+      <description>【A customer was playing around with Windows long paths and found that even though they used the \\?\ long path prefix, they still couldn&#39;t use a long path. The documentation on the maximum pat】客户正在使用Windows Long路径玩耍，发现即使使用\\？\长路径前缀，他们仍然无法使用长路径。最大PAT的文档</description>
+      <pubDate>Wed, 11 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 5 is now available!】.NET 10预览5现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5</link>
+      <description>【Today, we are excited to announce the fifth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 5&#34; url=&#34;https:】如今，我们很高兴宣布.NET 10的第五个预览版本，并在.NET运行时，SDK，库，C＃，ASP.NET Core，Blazor，.Net Maui等，具有增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览5” url =“ https：https：https：https：</description>
+      <pubDate>Tue, 10 Jun 2025 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Security and Trust in Visual Studio Marketplace】对视觉工作室市场的安全和信任</title>
+      <link>https://devblogs.microsoft.com//security-and-trust-in-visual-studio-marketplace</link>
+      <description>【In today&#39;s fast-paced digital world, keeping the Visual Studio Marketplace secure and trustworthy is extremely important. We know how crucial it is to protect your extensions, so we&#39;re always working on new ways to keep things safe. We&#39;d like to share an update on the existing safeguards and upcoming investments that ensure VS Marketplace r】在当今快节奏的数字世界中，保持Visual Studio Marketplace安全和值得信赖非常重要。我们知道保护您的扩展是多么重要，因此我们一直在努力确保事物安全的新方法。我们想分享有关现有保障措施和即将进行的投资的更新，以确保与市场</description>
+      <pubDate>Wed, 11 Jun 2025 22:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI Genius Challenge: Flex your AI skills and beat the clock!】AI Genius挑战：灵活您的AI技能并击败时钟！</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/ai-genius-challenge-flex-your-ai-skills-and-beat-the-clock</link>
+      <description>【If you’ve been following along with the AI Genius Series, you already know we’ve been on a journey, one filled with learning, experimentation, and discovery. We’ve explored the power of Retrieval Augmented Generation (RAG), dived into Copilot deployment, and unlocked the potential of Azure’s AI ecosystem. But now, it’s time to take a】如果您一直在关注AI Genius系列，那么您已经知道我们一直在旅途中，充满了学习，实验和发现。我们已经探索了检索增强发电（RAG）的力量，跳入副本部署，并解锁了Azure AI生态系统的潜力。但是现在是时候去</description>
+      <pubDate>Wed, 11 Jun 2025 23:38:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
