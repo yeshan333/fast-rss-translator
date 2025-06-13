@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【.NET and .NET Framework June 2025 servicing releases updates】.NET和.NET框架2025年6月服务发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for June 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements [alert type=&#34;important&#34; heading=&#34;Security Update&#34;] All developers using .NET 8.0 and .NET 9.0 should update immediately】欢迎使用2025年6月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们服务版本中新事物的快速概述：安全改进：安全性改进[arter type type type type type type&#39;exticts“ extimper” heading =“ heading =“安全更新”]使用.NET 8.0和.net 9.0和.net 9.0和.net 9.0和.Net 9.0 and .net 9.0</description>
-      <pubDate>Tue, 10 Jun 2025 20:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dubious security vulnerability: Tricking a program into running non-elevated】可疑的安全漏洞：欺骗程序以运行非高级</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250609-00/?p=111258</link>
-      <description>【Within the span of a week,¹ we received two security vulnerability reports that claimed that you could use the RunAsInvoker compatibility layer to run any program without requiring administrator privileges. I have pointed out in the past that RunAsInvoker is not a secret, even higher UAC setting, but rather】在一周的时间内，我们收到了两个安全漏洞报告，声称您可以使用RunAsinVoker兼容性层运行任何程序，而无需管理员特权。我过去指出，RunasinVoker不是一个秘密，甚至更高的UAC设置，而是</description>
-      <pubDate>Mon, 09 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Application compatibility for Windows 95 crashed a cash register】Windows 95的申请兼容性撞车了</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250610-00/?p=111260</link>
-      <description>【Some time ago, I told the story of the time the development manager for Windows 95 bought one copy of every PC program in the Egghead Software store. I learned that in addition to stunning the store manager,】不久前，我讲述了Windows 95开发经理的故事，在Egghead软件商店中购买了每个PC程序的副本。我了解到，除了令人惊叹的商店经理外，</description>
-      <pubDate>Tue, 10 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Next edit suggestions available in Visual Studio GitHub Copilot】Visual Studio Github Copilot中提供的下一个编辑建议</title>
-      <link>https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot</link>
-      <description>【GitHub Copilot code completions, or gray text, are specialized in autocompleting unfinished code or providing helpful template code. In reality, coding activities are more diverse than writing new code. What if Copilot could better assist your coding not only with code generation, but your code editing activities as well? We are excited to】GitHub Copilot代码完成或灰色文本专门用于自动完成未完成的代码或提供有用的模板代码。实际上，编码活动比编写新代码更多样化。如果Copilot不仅可以更好地帮助您的编码，不仅可以为您的代码生成，还可以帮助您的代码编辑活动，该怎么办？我们很兴奋</description>
-      <pubDate>Mon, 09 Jun 2025 15:00:39 +0000</pubDate>
+      <title>【Removing the &lt;CODE&gt;MAX_PATH&lt;/CODE&gt; restriction on paths applies only to paths】删除&lt;code&gt; max_path &lt;/code&gt;路径上的限制仅适用于路径</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250611-00/?p=111262</link>
+      <description>【A customer was playing around with Windows long paths and found that even though they used the \\?\ long path prefix, they still couldn&#39;t use a long path. The documentation on the maximum pat】客户正在使用Windows Long路径玩耍，发现即使使用\\？\长路径前缀，他们仍然无法使用长路径。最大PAT的文档</description>
+      <pubDate>Wed, 11 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Multimodal Voice Intelligence with .NET MAUI】带有.net Maui的多模式语音智能</title>
@@ -34,34 +16,52 @@
       <pubDate>Wed, 11 Jun 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【June Patches for Azure DevOps Server】Azure DevOps服务器的6月补丁</title>
-      <link>https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4</link>
-      <description>【Today we are releasing patches that impact the latest version of our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can dow】今天，我们正在发布影响最新版本的自托管产品Azure DevOps Server的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。你可以道歉</description>
-      <pubDate>Tue, 10 Jun 2025 19:13:51 +0000</pubDate>
+      <title>【The Complete MCP Experience: Full Specification Support in VS Code】完整的MCP体验：VS代码中的完整规格支持</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/the-complete-mcp-experience:-full-specification-support-in-vs-code</link>
+      <description>【VS Code now supports the complete Model Context Protocol specification, including authorization, prompts, resources, and sampling. Read the full article】VS代码现在支持完整的模型上下文协议规范，包括授权，提示，资源和采样。阅读全文</description>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Removing the &lt;CODE&gt;MAX_PATH&lt;/CODE&gt; restriction on paths applies only to paths】删除&lt;code&gt; max_path &lt;/code&gt;路径上的限制仅适用于路径</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250611-00/?p=111262</link>
-      <description>【A customer was playing around with Windows long paths and found that even though they used the \\?\ long path prefix, they still couldn&#39;t use a long path. The documentation on the maximum pat】客户正在使用Windows Long路径玩耍，发现即使使用\\？\长路径前缀，他们仍然无法使用长路径。最大PAT的文档</description>
-      <pubDate>Wed, 11 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【May 2025 (version 1.101)】2025年5月（版本1.101）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/may-2025-(version-1.101)</link>
+      <description>【Learn what is new in the Visual Studio Code May 2025 Release (1.101) Read the full article】了解2025年5月的“视觉工作室代码”中的新内容（1.101）阅读全文</description>
+      <pubDate>Thu, 12 Jun 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 10 Preview 5 is now available!】.NET 10预览5现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5</link>
-      <description>【Today, we are excited to announce the fifth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 5&#34; url=&#34;https:】如今，我们很高兴宣布.NET 10的第五个预览版本，并在.NET运行时，SDK，库，C＃，ASP.NET Core，Blazor，.Net Maui等，具有增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览5” url =“ https：https：https：https：</description>
-      <pubDate>Tue, 10 Jun 2025 18:30:00 +0000</pubDate>
+      <title>【Monitor your Quarkus native application on Azure】在Azure上监视您的Quarkus本地应用程序</title>
+      <link>https://devblogs.microsoft.com/java/monitor-your-quarkus-native-application-on-azure</link>
+      <description>【Introduction Quarkus is a】简介Quarkus是一个</description>
+      <pubDate>Thu, 12 Jun 2025 12:18:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Security and Trust in Visual Studio Marketplace】对视觉工作室市场的安全和信任</title>
-      <link>https://devblogs.microsoft.com//security-and-trust-in-visual-studio-marketplace</link>
-      <description>【In today&#39;s fast-paced digital world, keeping the Visual Studio Marketplace secure and trustworthy is extremely important. We know how crucial it is to protect your extensions, so we&#39;re always working on new ways to keep things safe. We&#39;d like to share an update on the existing safeguards and upcoming investments that ensure VS Marketplace r】在当今快节奏的数字世界中，保持Visual Studio Marketplace安全和值得信赖非常重要。我们知道保护您的扩展是多么重要，因此我们一直在努力确保事物安全的新方法。我们想分享有关现有保障措施和即将进行的投资的更新，以确保与市场</description>
-      <pubDate>Wed, 11 Jun 2025 22:00:21 +0000</pubDate>
+      <title>【Improve Your Productivity with New GitHub Copilot Features for .NET!】使用.NET的新GitHub Copilot功能提高生产率！</title>
+      <link>https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet</link>
+      <description>【The Visual Studio 17.14 GA release and recent C# Dev Kit releases for VS Code have introduced a whole new batch of GitHub Copilot features des】Visual Studio 17.14 GA版本和最近的C＃DEV套件VS代码发布了一批全新的GitHub Copilot功能DES</description>
+      <pubDate>Thu, 12 Jun 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【AI Genius Challenge: Flex your AI skills and beat the clock!】AI Genius挑战：灵活您的AI技能并击败时钟！</title>
       <link>https://devblogs.microsoft.com/all-things-azure/ai-genius-challenge-flex-your-ai-skills-and-beat-the-clock</link>
       <description>【If you’ve been following along with the AI Genius Series, you already know we’ve been on a journey, one filled with learning, experimentation, and discovery. We’ve explored the power of Retrieval Augmented Generation (RAG), dived into Copilot deployment, and unlocked the potential of Azure’s AI ecosystem. But now, it’s time to take a】如果您一直在关注AI Genius系列，那么您已经知道我们一直在旅途中，充满了学习，实验和发现。我们已经探索了检索增强发电（RAG）的力量，跳入副本部署，并解锁了Azure AI生态系统的潜力。但是现在是时候去</description>
       <pubDate>Wed, 11 Jun 2025 23:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does Windows even have &lt;CODE&gt;Interlocked&lt;/CODE&gt; functions when we have &lt;CODE&gt;std::atomic&lt;/CODE&gt;?】当我们拥有&lt;code&gt; std :: atomic &lt;/code&gt;时，为什么Windows甚至具有&lt;code&gt;互锁&lt;/code&gt;函数？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250612-00/?p=111265</link>
+      <description>【Windows provides a family of functions for performing atomic operations. They have the word Interlocked in their name. But why do these functions even exist when we have std::atomic? This is similar to asking】Windows提供了一个用于执行原子操作的功能系列。他们的名字互锁了这个词。但是，为什么当我们拥有std ::原子时，这些功能甚至存在呢？这类似于问</description>
+      <pubDate>Thu, 12 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dockerizing UV】dockerizing紫外线</title>
+      <link>https://devblogs.microsoft.com/ise/dockerizing-uv</link>
+      <description>【Containerizing your Python applications helps standardize environments and streamline deployment—but it also introduces unique challenges. In our team&#39;s exploration of modern dependency management tools, we discovered that while UV (Universal Virtualenv) delivers impressive speed and simplicity in local development, replicating its setup ins】容器化Python应用程序有助于标准化环境和简化部署，但它也引入了独特的挑战。在我们团队对现代依赖管理工具的探索中，我们发现虽然紫外线（Universal Virtualenv）在本地开发中提供了令人印象深刻的速度和简单性，并复制了其设置</description>
+      <pubDate>Thu, 12 Jun 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Security and Trust in Visual Studio Marketplace】对视觉工作室市场的安全和信任</title>
+      <link>https://devblogs.microsoft.com//security-and-trust-in-visual-studio-marketplace</link>
+      <description>【In today&#39;s fast-paced digital world, keeping the Visual Studio Marketplace secure and trustworthy is extremely important. We know how crucial it is to protect your extensions, so we&#39;re always working on new ways to keep things safe. We&#39;d like to share an update on the existing safeguards and upcoming investments that ensure VS Marketplace r】在当今快节奏的数字世界中，保持Visual Studio Marketplace安全和值得信赖非常重要。我们知道保护您的扩展是多么重要，因此我们一直在努力确保事物安全的新方法。我们想分享有关现有保障措施和即将进行的投资的更新，以确保与市场</description>
+      <pubDate>Wed, 11 Jun 2025 22:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

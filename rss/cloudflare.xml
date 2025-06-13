@@ -22,28 +22,16 @@
       <pubDate>Tue, 20 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Resolving a request smuggling vulnerability in Pingora】解决Pingora中的走私漏洞的请求</title>
-      <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
-      <description>【 Cloudflare patched a vulnerability (CVE-2025-4366) in the Pingora OSS framework, which exposed users of the framework and Cloudflare CDN’s free tier to potential request smuggling attacks. 】CloudFlare修补了Pingora OSS框架中的漏洞（CVE-2025-4366），该漏洞使该框架的用户和Cloudflare CDN的自由层次接触了潜在的请求走私攻击。</description>
-      <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Vulnerability transparency: strengthening security through responsible disclosure】脆弱性透明度：通过负责任的披露加强安全性</title>
-      <link>https://blog.cloudflare.com/vulnerability-transparency-strengthening-security-through-responsible/</link>
-      <description>【 In line with CISA’s Secure By Design pledge, Cloudflare shares its vulnerability disclosure process, CVE issuance criteria, and CNA duties.  】根据CISA的设计承诺，CloudFlare共享其脆弱性披露过程，CVE发行标准和CNA职责。</description>
-      <pubDate>Fri, 16 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Cloudflare named in 2025 Gartner® Magic Quadrant™ for Security Service Edge】CloudFlare在2025年命名的Gartner®MagicQuadrant™安全服务边缘</title>
       <link>https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2025/</link>
       <description>【 For the third consecutive year, Gartner has named Cloudflare to the Gartner® Magic Quadrant™ for Security Service Edge (SSE) report. 】Gartner连续第三年将Cloudflare命名为Security Service Edge（SSE）报告的Gartner®MagicQuadrant™。</description>
       <pubDate>Fri, 23 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Your IPs, your rules: enabling more efficient address space usage】您的IPS，您的规则：启用更有效的地址空间使用情况</title>
-      <link>https://blog.cloudflare.com/your-ips-your-rules-enabling-more-efficient-address-space-usage/</link>
-      <description>【 IPv4 is expensive, and moving network resources around is hard. Previously, when customers wanted to use multiple Cloudflare services, they had to bring a new address range. 】IPv4很昂贵，而移动网络资源很难。以前，当客户想使用多个CloudFlare服务时，他们必须带来一个新的地址范围。</description>
-      <pubDate>Mon, 19 May 2025 13:00:00 +0000</pubDate>
+      <title>【We shipped FinalizationRegistry in Workers: why you should never use it】我们在工人中运送了最终确认：为什么您永远不应该使用它</title>
+      <link>https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/</link>
+      <description>【 Cloudflare Workers now support FinalizationRegistry, but just because you can use it doesn’t mean you should. 】CloudFlare工人现在支持最终确定措施，但仅仅因为您可以使用它并不意味着您应该使用。</description>
+      <pubDate>Wed, 11 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Let’s DO this: detecting Workers Builds errors across 1 million Durable Objects】让我们这样做：检测工人在100万个耐用物体中构建错误</title>
@@ -52,16 +40,28 @@
       <pubDate>Thu, 29 May 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Cloudflare service outage June 12, 2025】CloudFlare服务停电2025年6月12日</title>
+      <link>https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/</link>
+      <description>【 Multiple Cloudflare services, including Workers KV, Access, WARP and the Cloudflare dashboard, experienced an outage for up to 2 hours and 28 minutes on June 12, 2025. 】包括工人KV，Access，Warp和Cloudflare仪表板在内的多个CloudFlare服务在2025年6月12日的停电中最多28分钟经历了停电。</description>
+      <pubDate>Thu, 12 Jun 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Resolving a request smuggling vulnerability in Pingora】解决Pingora中的走私漏洞的请求</title>
+      <link>https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/</link>
+      <description>【 Cloudflare patched a vulnerability (CVE-2025-4366) in the Pingora OSS framework, which exposed users of the framework and Cloudflare CDN’s free tier to potential request smuggling attacks. 】CloudFlare修补了Pingora OSS框架中的漏洞（CVE-2025-4366），该漏洞使该框架的用户和Cloudflare CDN的自由层次接触了潜在的请求走私攻击。</description>
+      <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare named a Strong Performer in Email Security by Forrester】Cloudflare命名了Forrester的Email Security的强大表现</title>
       <link>https://blog.cloudflare.com/cloudflare-named-a-strong-performer-in-email-security-by-forrester/</link>
       <description>【 Forrester has recognized Cloudflare Email Security as a Strong Performer in the ‘current offering’ category in “The Forrester Wave™: Email, Messaging, And Collaboration Security Solutions. 】Forrester在“ Forrester Wave™：电子邮件，消息传递和协作安全解决方案中的“当前产品”类别中，CloudFlare电子邮件安全性是强大的表现。</description>
       <pubDate>Fri, 30 May 2025 14:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【We shipped FinalizationRegistry in Workers: why you should never use it】我们在工人中运送了最终确认：为什么您永远不应该使用它</title>
-      <link>https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/</link>
-      <description>【 Cloudflare Workers now support FinalizationRegistry, but just because you can use it doesn’t mean you should. 】CloudFlare工人现在支持最终确定措施，但仅仅因为您可以使用它并不意味着您应该使用。</description>
-      <pubDate>Wed, 11 Jun 2025 13:00:00 +0000</pubDate>
+      <title>【Celebrating 11 years of Project Galileo’s global impact】庆祝伽利略项目的全球影响11周年</title>
+      <link>https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/</link>
+      <description>【 June 2025 marks the 11th anniversary of Project Galileo, Cloudflare’s effort to protect vulnerable public interest organizations from cyber threats. 】2025年6月是Cloulflare项目伽利略项目11周年纪念日，为保护脆弱的公共利益组织免受网络威胁而努力。</description>
+      <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
