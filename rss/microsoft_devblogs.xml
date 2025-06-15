@@ -4,10 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Thread pool threads are like preschool: Leave things the way you found them】线程池线程就像学前班：以您找到的方式离开事物</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250613-00/?p=111268</link>
+      <description>【A customer wanted to use the Windows thread pool, but they also wanted to use COM from their work item. They saw in the COM documentation that each thread must call Co­Initialize(Ex) before using COM, so they planned on doing something like this: thread_local bool isComInitialized = false; auto DoWork】客户想使用Windows线程池，但他们也想使用其工作项目中的COM。他们在COM文档中看到每个线程必须在使用COM之前调用Coinitialize（EX），因此他们计划执行这样的操作：thread_local bool iscominitialization = false;自动嫁妆</description>
+      <pubDate>Fri, 13 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dockerizing UV】dockerizing紫外线</title>
+      <link>https://devblogs.microsoft.com/ise/dockerizing-uv</link>
+      <description>【Containerizing your Python applications helps standardize environments and streamline deployment—but it also introduces unique challenges. In our team&#39;s exploration of modern dependency management tools, we discovered that while UV (Universal Virtualenv) delivers impressive speed and simplicity in local development, replicating its setup ins】容器化Python应用程序有助于标准化环境和简化部署，但它也引入了独特的挑战。在我们团队对现代依赖管理工具的探索中，我们发现虽然紫外线（Universal Virtualenv）在本地开发中提供了令人印象深刻的速度和简单性，并复制了其设置</description>
+      <pubDate>Thu, 12 Jun 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Improve Your Productivity with New GitHub Copilot Features for .NET!】使用.NET的新GitHub Copilot功能提高生产率！</title>
       <link>https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet</link>
       <description>【The Visual Studio 17.14 GA release and recent C# Dev Kit releases for VS Code have introduced a whole new batch of GitHub Copilot features design】Visual Studio 17.14 GA版本和最近的C＃开发套件VS代码发布了一批全新的GitHub Copilot功能设计</description>
       <pubDate>Thu, 12 Jun 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【May 2025 (version 1.101)】2025年5月（版本1.101）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/may-2025-(version-1.101)</link>
+      <description>【Learn what is new in the Visual Studio Code May 2025 Release (1.101) Read the full article】了解2025年5月的“视觉工作室代码”中的新内容（1.101）阅读全文</description>
+      <pubDate>Thu, 12 Jun 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does Windows even have &lt;CODE&gt;Interlocked&lt;/CODE&gt; functions when we have &lt;CODE&gt;std::atomic&lt;/CODE&gt;?】当我们拥有&lt;code&gt; std :: atomic &lt;/code&gt;时，为什么Windows甚至具有&lt;code&gt;互锁&lt;/code&gt;函数？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250612-00/?p=111265</link>
+      <description>【Windows provides a family of functions for performing atomic operations. They have the word Interlocked in their name. But why do these functions even exist when we have std::atomic? This is similar to asking】Windows提供了一个用于执行原子操作的功能系列。他们的名字互锁了这个词。但是，为什么当我们拥有std ::原子时，这些功能甚至存在呢？这类似于问</description>
+      <pubDate>Thu, 12 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The Complete MCP Experience: Full Specification Support in VS Code】完整的MCP体验：VS代码中的完整规格支持</title>
@@ -16,10 +40,10 @@
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Monitor your Quarkus native application on Azure】在Azure上监视您的Quarkus本地应用程序</title>
-      <link>https://devblogs.microsoft.com/java/monitor-your-quarkus-native-application-on-azure</link>
-      <description>【Introduction Quarkus is a】简介Quarkus是一个</description>
-      <pubDate>Thu, 12 Jun 2025 12:18:47 +0000</pubDate>
+      <title>【Multimodal Voice Intelligence with .NET MAUI】带有.net Maui的多模式语音智能</title>
+      <link>https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui</link>
+      <description>【One of the most interesting ways to enhance your existing applications with AI is to enable more ways for your users to interact with it. Today you probably handle text input, and perhaps some touch gestures for your power users. Now it&#39;s easier than ever to expand that to voice and vision, especially when your users&#39; primary input is via mobi】使用AI增强现有应用程序的最有趣的方法之一是促进更多用户与之互动的方法。今天，您可能会处理文本输入，也许可以为您的权力用户提供一些触摸手势。现在将其扩展到语音和视觉比以往任何时候都容易，尤其是当用户的主要输入通过MOBI时</description>
+      <pubDate>Wed, 11 Jun 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【AI Genius Challenge: Flex your AI skills and beat the clock!】AI Genius挑战：灵活您的AI技能并击败时钟！</title>
@@ -34,34 +58,10 @@
       <pubDate>Wed, 11 Jun 2025 22:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【May 2025 (version 1.101)】2025年5月（版本1.101）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/may-2025-(version-1.101)</link>
-      <description>【Learn what is new in the Visual Studio Code May 2025 Release (1.101) Read the full article】了解2025年5月的“视觉工作室代码”中的新内容（1.101）阅读全文</description>
-      <pubDate>Thu, 12 Jun 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dockerizing UV】dockerizing紫外线</title>
-      <link>https://devblogs.microsoft.com/ise/dockerizing-uv</link>
-      <description>【Containerizing your Python applications helps standardize environments and streamline deployment—but it also introduces unique challenges. In our team&#39;s exploration of modern dependency management tools, we discovered that while UV (Universal Virtualenv) delivers impressive speed and simplicity in local development, replicating its setup ins】容器化Python应用程序有助于标准化环境和简化部署，但它也引入了独特的挑战。在我们团队对现代依赖管理工具的探索中，我们发现虽然紫外线（Universal Virtualenv）在本地开发中提供了令人印象深刻的速度和简单性，并复制了其设置</description>
-      <pubDate>Thu, 12 Jun 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does Windows even have &lt;CODE&gt;Interlocked&lt;/CODE&gt; functions when we have &lt;CODE&gt;std::atomic&lt;/CODE&gt;?】当我们拥有&lt;code&gt; std :: atomic &lt;/code&gt;时，为什么Windows甚至具有&lt;code&gt;互锁&lt;/code&gt;函数？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250612-00/?p=111265</link>
-      <description>【Windows provides a family of functions for performing atomic operations. They have the word Interlocked in their name. But why do these functions even exist when we have std::atomic? This is similar to asking】Windows提供了一个用于执行原子操作的功能系列。他们的名字互锁了这个词。但是，为什么当我们拥有std ::原子时，这些功能甚至存在呢？这类似于问</description>
-      <pubDate>Thu, 12 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thread pool threads are like preschool: Leave things the way you found them】线程池线程就像学前班：以您找到的方式离开事物</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250613-00/?p=111268</link>
-      <description>【A customer wanted to use the Windows thread pool, but they also wanted to use COM from their work item. They saw in the COM documentation that each thread must call Co­Initialize(Ex) before using COM, so they planned on doing something like this: thread_local bool isComInitialized = false; auto DoWork】客户想使用Windows线程池，但他们也想使用其工作项目中的COM。他们在COM文档中看到每个线程必须在使用COM之前调用Coinitialize（EX），因此他们计划执行这样的操作：thread_local bool iscominitialization = false;自动嫁妆</description>
-      <pubDate>Fri, 13 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Multimodal Voice Intelligence with .NET MAUI】带有.net Maui的多模式语音智能</title>
-      <link>https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui</link>
-      <description>【One of the most interesting ways to enhance your existing applications with AI is to enable more ways for your users to interact with it. Today you probably handle text input, and perhaps some touch gestures for your power users. Now it&#39;s easier than ever to expand that to voice and vision, especially when your users&#39; primary input is via mobi】使用AI增强现有应用程序的最有趣的方法之一是促进更多用户与之互动的方法。今天，您可能会处理文本输入，也许可以为您的权力用户提供一些触摸手势。现在将其扩展到语音和视觉比以往任何时候都容易，尤其是当用户的主要输入通过MOBI时</description>
-      <pubDate>Wed, 11 Jun 2025 17:05:00 +0000</pubDate>
+      <title>【Monitor your Quarkus native application on Azure】在Azure上监视您的Quarkus本地应用程序</title>
+      <link>https://devblogs.microsoft.com/java/monitor-your-quarkus-native-application-on-azure</link>
+      <description>【Introduction Quarkus is a】简介Quarkus是一个</description>
+      <pubDate>Thu, 12 Jun 2025 12:18:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
