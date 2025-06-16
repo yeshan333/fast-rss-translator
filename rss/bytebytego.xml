@@ -5,46 +5,16 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Our New Book, Mobile System Design Interview, Is Now Available】我们的新书《移动系统设计采访》现已可用</title>
-      <link>https://blog.bytebytego.com/p/our-new-book-mobile-system-design</link>
-      <description>【Our new book, Mobile System Design Interview, is available on Amazon!】我们的新书《移动系统设计采访》可在亚马逊上获得！</description>
-      <pubDate>Mon, 09 Jun 2025 15:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Runs on Java?】Netflix如何在Java上运行？</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-runs-on-java</link>
-      <description>【Netflix is a masterclass in backend engineering at scale. Behind the seamless playback, tailored recommendations, and cross-device consistency lies an intricate architecture powered by Java.】Netflix是大规模后端工程的大师班。在无缝的播放，量身定制的建议和跨设备一致性的背后是由Java提供动力的复杂建筑。</description>
-      <pubDate>Tue, 03 Jun 2025 15:30:52 +0000</pubDate>
-    </item>
-    <item>
       <title>【Database Schema Design Simplified: Normalization vs Denormalization】数据库架构设计简化：归一化与非正式化</title>
       <link>https://blog.bytebytego.com/p/database-schema-design-simplified</link>
       <description>【The goal isn&#39;t to declare one approach as the winner. It&#39;s to understand their mechanics, consequences, and ideal use cases.】目标不是将一种方法宣布为赢家。这是了解他们的机制，后果和理想用例。</description>
       <pubDate>Thu, 12 Jun 2025 15:30:25 +0000</pubDate>
     </item>
     <item>
-      <title>【How Lyft Uses ML to Make 100 Million Predictions A Day】Lyft如何使用ML每天做出1亿个预测</title>
-      <link>https://blog.bytebytego.com/p/how-lyft-uses-ml-to-make-100-million</link>
-      <description>【In this article, we&amp;#8217;ll look at how Lyft built an architecture to accomplish this requirement and the challenges they faced.】在本文中，我们将研究Lyft如何构建建筑以完成这一要求及其面临的挑战。</description>
-      <pubDate>Tue, 10 Jun 2025 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SQL vs NoSQL: Choosing the Right Database for An Application】SQL VS NOSQL：为应用程序选择正确的数据库</title>
-      <link>https://blog.bytebytego.com/p/sql-vs-nosql-choosing-the-right-database</link>
-      <description>【In this article, we break down the core database paradigms, such as SQL and NoSQL, along with specialized database types and how developers can choose the appropriate database for their requirements.】在本文中，我们分解了诸如SQL和NOSQL之类的核心数据库范例，以及专门的数据库类型，以及开发人员如何为其要求选择适当的数据库。</description>
-      <pubDate>Thu, 05 Jun 2025 15:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Deep Dive into HTTP: From HTTP 1 to HTTP 3】深入研究HTTP：从HTTP 1到HTTP 3</title>
-      <link>https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1</link>
-      <description>【In this article, we trace the HTTP journey. From the stateless, text-based simplicity of HTTP/1.1 to the encrypted, multiplexed, and mobile-optimized world of HTTP/3.】在本文中，我们追踪HTTP旅程。从HTTP/1.1的无状态，基于文本的简单性到HTTP/3的加密，多路复用和移动优化的世界。</description>
-      <pubDate>Thu, 29 May 2025 15:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
-      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
-      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
+      <title>【EP165: AI Agent versus MCP】EP165：AI代理与MCP</title>
+      <link>https://blog.bytebytego.com/p/ep165-ai-agent-versus-mcp</link>
+      <description>【Have you used AI Agents or MCP?】您是否使用过AI代理或MCP？</description>
+      <pubDate>Sat, 31 May 2025 15:30:19 +0000</pubDate>
     </item>
     <item>
       <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
@@ -53,16 +23,46 @@
       <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
     </item>
     <item>
+      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
+      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
+      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Deep Dive into HTTP: From HTTP 1 to HTTP 3】深入研究HTTP：从HTTP 1到HTTP 3</title>
+      <link>https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1</link>
+      <description>【In this article, we trace the HTTP journey. From the stateless, text-based simplicity of HTTP/1.1 to the encrypted, multiplexed, and mobile-optimized world of HTTP/3.】在本文中，我们追踪HTTP旅程。从HTTP/1.1的无状态，基于文本的简单性到HTTP/3的加密，多路复用和移动优化的世界。</description>
+      <pubDate>Thu, 29 May 2025 15:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Runs on Java?】Netflix如何在Java上运行？</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-runs-on-java</link>
+      <description>【Netflix is a masterclass in backend engineering at scale. Behind the seamless playback, tailored recommendations, and cross-device consistency lies an intricate architecture powered by Java.】Netflix是大规模后端工程的大师班。在无缝的播放，量身定制的建议和跨设备一致性的背后是由Java提供动力的复杂建筑。</description>
+      <pubDate>Tue, 03 Jun 2025 15:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SQL vs NoSQL: Choosing the Right Database for An Application】SQL VS NOSQL：为应用程序选择正确的数据库</title>
+      <link>https://blog.bytebytego.com/p/sql-vs-nosql-choosing-the-right-database</link>
+      <description>【In this article, we break down the core database paradigms, such as SQL and NoSQL, along with specialized database types and how developers can choose the appropriate database for their requirements.】在本文中，我们分解了诸如SQL和NOSQL之类的核心数据库范例，以及专门的数据库类型，以及开发人员如何为其要求选择适当的数据库。</description>
+      <pubDate>Thu, 05 Jun 2025 15:30:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP166: What is Event Sourcing? 】EP166：什么是事件采购？</title>
       <link>https://blog.bytebytego.com/p/ep166-what-is-event-sourcing</link>
       <description>【The event sourcing paradigm is used to design a system with determinism. This changes the philosophy of normal system designs.】事件采购范式用于设计具有决定论的系统。这改变了正常系统设计的理念。</description>
       <pubDate>Sat, 07 Jun 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【EP165: AI Agent versus MCP】EP165：AI代理与MCP</title>
-      <link>https://blog.bytebytego.com/p/ep165-ai-agent-versus-mcp</link>
-      <description>【Have you used AI Agents or MCP?】您是否使用过AI代理或MCP？</description>
-      <pubDate>Sat, 31 May 2025 15:30:19 +0000</pubDate>
+      <title>【Our New Book, Mobile System Design Interview, Is Now Available】我们的新书《移动系统设计采访》现已可用</title>
+      <link>https://blog.bytebytego.com/p/our-new-book-mobile-system-design</link>
+      <description>【Our new book, Mobile System Design Interview, is available on Amazon!】我们的新书《移动系统设计采访》可在亚马逊上获得！</description>
+      <pubDate>Mon, 09 Jun 2025 15:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Lyft Uses ML to Make 100 Million Predictions A Day】Lyft如何使用ML每天做出1亿个预测</title>
+      <link>https://blog.bytebytego.com/p/how-lyft-uses-ml-to-make-100-million</link>
+      <description>【In this article, we&amp;#8217;ll look at how Lyft built an architecture to accomplish this requirement and the challenges they faced.】在本文中，我们将研究Lyft如何构建建筑以完成这一要求及其面临的挑战。</description>
+      <pubDate>Tue, 10 Jun 2025 15:30:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
