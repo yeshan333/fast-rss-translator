@@ -4,28 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Azure DevOps MCP Server, Public Preview】Azure Devops MCP服务器，公共预览</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview</link>
-      <description>【A few weeks ago at BUILD, we announced the upcoming Azure DevOps MCP Server: 👉 Azure DevOps with GitHub Repositories – Your path to Agentic AI Today, we’re excited to share that the local Azure DevOps MCP】几周前，在Build，我们宣布了即将推出的Azure DevOps MCP服务器：👉azure devops，带有GitHub存储库 - 您今天的代理AI途径，我们很高兴分享本地Azure Devops MCP</description>
-      <pubDate>Tue, 17 Jun 2025 18:40:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Writing a helper class for generating a particular category of C callback wrappers around C++ methods】编写用于生成C ++方法的特定类别C回调包装器类别的助手类</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250616-00/?p=111271</link>
-      <description>【A common pattern for C callbacks is to accept a function pointer and a void*, and then the callback function receives that pointer in addition to the parameters specific to the callback. // Hypothetical callback typedef int (*callback_t)( void* context, int arg1, char const* arg2, double arg3); void Regi】C回调的常见模式是接受功能指针和一个void*，然后除了回调的参数外，回调功能还接收该指针。 //假设回调typedef int（* callback_t）（void* context，int arg1，char const* arg2，double arg3）; void regi</description>
-      <pubDate>Mon, 16 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Funding the Egghead store shopping spree took a little extra legwork】资助Egghead商店购物狂欢花了一些额外的腿部工作</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250617-00/?p=111275</link>
-      <description>【Some time ago, I told the story of the time the development manager for Windows 95 bought one copy of every PC program in the Egghead Software store and】不久前，我讲述了Windows 95开发经理的故事</description>
-      <pubDate>Tue, 17 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Securely Turbo‑Charge Your Software Delivery with Codex Coding Agent on Azure OpenAI】用Azure Openai上的Codex编码代理安全地向您的软件交付您的软件交付</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/securely-turbo%e2%80%91charge-your-software-delivery-with-the-codex-coding-agent-on-azure-openai</link>
-      <description>【Introduction OpenAI’s Codex CLI is the same coding agent that powers ChatGPT’s Codex. You can now run this】简介OpenAI的Codex CLI是为Chatgpt的Codex提供动力的编码代理。您现在可以运行此</description>
-      <pubDate>Tue, 17 Jun 2025 22:54:11 +0000</pubDate>
+      <title>【Agent mode is now generally available with MCP support】代理模式现在通常可以提供MCP支持</title>
+      <link>https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support</link>
+      <description>【Copilot agent mode is the next evolution in AI-assisted development—and it&#39;s now generally available in the Visual Studio June update. Agent mode turns GitHub Copilot into an autonomous pair programmer capable of handling multi-step development tasks from end to end. It builds a plan, executes it, adapts along the way, and loops through t】Copilot代理模式是AI辅助开发中的下一个演变，现在通常可以在Visual Studio June更新中获得。代理模式将GitHub Copilot变成一个自主配对程序员，能够从头到尾处理多步开发任务。它构建一个计划，执行它，沿途适应，并通过T循环</description>
+      <pubDate>Tue, 17 Jun 2025 18:24:08 +0000</pubDate>
     </item>
     <item>
       <title>【SQL Server 2025 CTP 2.1: DiskANN Improvements】SQL Server 2025 CTP 2.1：Diskann改进</title>
@@ -34,10 +16,40 @@
       <pubDate>Tue, 17 Jun 2025 19:15:49 +0000</pubDate>
     </item>
     <item>
-      <title>【An open-source AutoScaler for Azure SQL Hyperscale Elastic Pools】用于Azure SQL Hyperscale弹性池的开源自动赛车</title>
-      <link>https://devblogs.microsoft.com/azure-sql/auto-scaling-hyperscale-elastic-pools</link>
-      <description>【[alert type=&#34;important&#34; heading=&#34;Guest Post&#34;]Larry Silverman is the Chief Technology Officer at TrackAbout, Inc. (a Datacor company) and a long-time user of Azure SQL Database and SQL Server. In this blog post Larry shares a novel open-source solution which addresses a core need for their business. Thanks, Larry! [/alert]】[Alert Type =“重要” heading =“访客帖子”] Larry Silverman是Trackabout，Inc。（Datacor Company）的首席技术官，也是Azure SQL数据库和SQL Server的长期用户。在这篇博客文章中，拉里（Larry）分享了一种新颖的开源解决方案，该解决方案解决了对其业务的核心需求。谢谢，拉里！ [/警报]</description>
-      <pubDate>Tue, 17 Jun 2025 15:00:06 +0000</pubDate>
+      <title>【Additional reactions and ease of sharing】其他反应和易于分享</title>
+      <link>https://devblogs.microsoft.com/devblogs-news/additional-reactions-and-ease-of-sharing</link>
+      <description>【We&#39;re always exploring ways to enhance DevBlogs for our readers. In the past few weeks, we’ve introduced two updates to features: reactions and sharing. Reactions: You now have six expressive reaction options to choose from—moving beyond the simple heart. It’s a small change that we hope makes a big difference in how you engage with p】我们一直在探索为读者增强DevBlogs的方法。在过去的几周中，我们对功能进行了两个更新：反应和共享。反应：您现在有六个表达反应选择可以选择 - 超越简单的心脏。这是一个很小的变化，我们希望您与P的互动方式有很大的不同</description>
+      <pubDate>Wed, 18 Jun 2025 15:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure DevOps MCP Server, Public Preview】Azure Devops MCP服务器，公共预览</title>
+      <link>https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview</link>
+      <description>【A few weeks ago at BUILD, we announced the upcoming Azure DevOps MCP Server: 👉 Azure DevOps with GitHub Repositories – Your path to Agentic AI Today, we’re excited to share that the local Azure DevOps MCP】几周前，在Build，我们宣布了即将推出的Azure DevOps MCP服务器：👉azure devops，带有GitHub存储库 - 您今天的代理AI途径，我们很高兴分享本地Azure Devops MCP</description>
+      <pubDate>Tue, 17 Jun 2025 18:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MSSQL Extension for VS Code: Local Containers, GitHub Copilot Agent Mode and Connection Groups】VS代码的MSSQL扩展名：本地容器，GitHub Copilot代理模式和连接组</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-containers-agent-mode</link>
+      <description>【The MSSQL Extension for VS Code continues to evolve, bringing powerful new features that make SQL development more local, more organized, and more intelligent. In version v1.33.0, we’re introducing Local SQL Server container】VS代码的MSSQL扩展不断发展，带来了强大的新功能，使SQL开发更加本地，更有条理，更聪明。在版本v1.33.0中，我们介绍了本地SQL Server容器</description>
+      <pubDate>Wed, 18 Jun 2025 17:37:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Securely Turbo‑Charge Your Software Delivery with Codex Coding Agent on Azure OpenAI】用Azure Openai上的Codex编码代理安全地向您的软件交付您的软件交付</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/securely-turbo%e2%80%91charge-your-software-delivery-with-the-codex-coding-agent-on-azure-openai</link>
+      <description>【Introduction OpenAI’s Codex CLI is the same coding agent that powers ChatGPT’s Codex. You can now run this】简介OpenAI的Codex CLI是为Chatgpt的Codex提供动力的编码代理。您现在可以运行此</description>
+      <pubDate>Tue, 17 Jun 2025 22:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【You have to tell &lt;CODE&gt;Get-&lt;/CODE&gt; and &lt;CODE&gt;Set­Security­Info&lt;/CODE&gt; the object type, you can&#39;t make it guess】您必须告诉&lt;code&gt;获取 -  &lt;/code&gt;和&lt;code&gt; setSecurityInfo &lt;/code&gt;对象类型，您无法猜测</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250618-00/?p=111281</link>
+      <description>【A customer was trying to read the security information from a process object, but their call to Get­Security­Info wasn&#39;t working. PACL dacl = nullptr; PSECURITY_DESCRIPTOR sd = nullptr; GetSecurityInfo(processHandle, SE_UNKNOWN_OBJECT_TYPE, DACL_SECURITY_INFORMATION, nullptr, // not interested in ow】客户试图从流程对象中阅读安全信息，但是他们对getEcurityInfo的呼吁不起作用。 pacl dacl = nullptr; psecurity_descriptor sd = nullptr; getCurityInfo（processHandle，se_unknown_object_type，dacl_security_information，nullptr，//对OW不感兴趣</description>
+      <pubDate>Wed, 18 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Microsoft Desired State Configuration v3.1.0】宣布Microsoft所需状态配置v3.1.0</title>
+      <link>https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0</link>
+      <description>【We&#39;re pleased to announce the General Availability of Microsoft&#39;s Desired State Configuration (DSC) version 3.1.0. This release marks a significant milestone in our effort to deliver cloud-native configuration management for cross-platform environments. DSC is a declarative configuration and orchestration】我们很高兴地宣布Microsoft所需状态配置（DSC）版本3.1.0的一般可用性。该版本标志着我们为跨平台环境提供云本地配置管理的努力的一个重要里程碑。 DSC是声明性的配置和编排</description>
+      <pubDate>Wed, 18 Jun 2025 14:12:40 +0000</pubDate>
     </item>
     <item>
       <title>【Multimodal Vision Intelligence with .NET MAUI】带有.net Maui的多模式视觉智能</title>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/java/connect-spring-ai-to-local-ai-models-with-foundry-local</link>
       <description>【What is Azure AI Foundry and Foundry Local? Azure AI Foundry is Microsoft&#39;s comprehensive platform for enterprise AI development and deployment, enabling organizations to build, customize, and operate AI solutions at scale. It provides tools, services, and infrastructure to develop, fine-tune and deploy AI models in production envi】什么是Azure AI Foundry and Foundry Local？ Azure AI Foundry是Microsoft企业AI开发和部署的综合平台，使组织能够按大规模构建，自定义和操作AI解决方案。它提供工具，服务和基础架构来开发，微调和部署AI模型在生产环境中</description>
       <pubDate>Tue, 17 Jun 2025 18:46:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agent mode is now generally available with MCP support】代理模式现在通常可以提供MCP支持</title>
-      <link>https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support</link>
-      <description>【Copilot agent mode is the next evolution in AI-assisted development—and it&#39;s now generally available in the Visual Studio June update. Agent mode turns GitHub Copilot into an autonomous pair programmer capable of handling multi-step development tasks from end to end. It builds a plan, executes it, adapts along the way, and loops through t】Copilot代理模式是AI辅助开发中的下一个演变，现在通常可以在Visual Studio June更新中获得。代理模式将GitHub Copilot变成一个自主配对程序员，能够从头到尾处理多步开发任务。它构建一个计划，执行它，沿途适应，并通过T循环</description>
-      <pubDate>Tue, 17 Jun 2025 18:24:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code - June 2025 Release】Visual Studio代码中的Python- 2025年6月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-june-2025-release</link>
-      <description>【We&#39;re excited to announce the June 2025 release of the Python, Pylance and Jupyter ext】我们很高兴宣布2025年6月的Python，Pylance和Jupyter Ext发行</description>
-      <pubDate>Mon, 16 Jun 2025 16:38:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
