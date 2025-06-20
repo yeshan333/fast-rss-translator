@@ -4,16 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Agent mode is now generally available with MCP support】代理模式现在通常可以提供MCP支持</title>
-      <link>https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support</link>
-      <description>【Copilot agent mode is the next evolution in AI-assisted development—and it&#39;s now generally available in the Visual Studio June update. Agent mode turns GitHub Copilot into an autonomous pair programmer capable of handling multi-step development tasks from end to end. It builds a plan, executes it, adapts along the way, and loops through t】Copilot代理模式是AI辅助开发中的下一个演变，现在通常可以在Visual Studio June更新中获得。代理模式将GitHub Copilot变成一个自主配对程序员，能够从头到尾处理多步开发任务。它构建一个计划，执行它，沿途适应，并通过T循环</description>
-      <pubDate>Tue, 17 Jun 2025 18:24:08 +0000</pubDate>
+      <title>【Announcing General Availability of GitHub Copilot for Azure—Now with Agent Mode】宣布GitHub Copilot用于Azure的一般可用性 - 现在使用Agent Mode</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/announcing-general-availability-of-github-copilot-for-azure-now-with-agent-mode</link>
+      <description>【Unlocking a New DevOps Era GitHub Copilot for Azure was first introduced at Ignite 2024 as a public preview, empowering developers, IT operators, and DevOps practitioners to leverage natural language to provision, configure, and manage r】首次在IGNITE 2024上引入了新的Devops ERA GITHUB COPILOT作为Azure的副驾驶，作为公共预览，增强开发人员，IT运营商和DevOps从业人员的能力，以利用自然语言来提供，配置和管理R</description>
+      <pubDate>Thu, 19 Jun 2025 21:19:28 +0000</pubDate>
     </item>
     <item>
-      <title>【SQL Server 2025 CTP 2.1: DiskANN Improvements】SQL Server 2025 CTP 2.1：Diskann改进</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-server-2025-ctp-2-1-diskann-improvements</link>
-      <description>【I&#39;m happy to announce that SQL Server 2025 CTP 2.1 is now available, and it brings significant improvements to DiskANN support. While DiskANN remains in preview, each release continues to remove limit】我很高兴地宣布，SQL Server 2025 CTP 2.1现在可用，它为Diskann支持带来了重大改进。虽然Diskann仍留在预览中，但每个版本继续消除限制</description>
-      <pubDate>Tue, 17 Jun 2025 19:15:49 +0000</pubDate>
+      <title>【Learning to read C++ compiler errors: Ambiguous symbol errors after including a header file】学习读取C ++编译器错误：包含标头文件后模棱两可的符号错误</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250619-00/?p=111285</link>
+      <description>【A colleague added another header file to their project, and everything started blowing up with &#34;ambiguous symbol&#34; errors. #include &#34;pch.h&#34; #include &#34;something.h&#34; #include &#34;newheader.h&#34; #include &amp;lt;shlobj.h&amp;gt; ... This resulted in a build error in Visual Studi】一位同事在他们的项目中添加了另一个标头文件，一切都开始爆炸了“模棱两可的符号”错误。 #include“ pch.h” #include“ somings.h” #include“ newheader.h” #include &lt;shlobj.h&gt; ...这在Visual Studi中导致构建错误</description>
+      <pubDate>Thu, 19 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Balance governance and flexibility with Dev Box project policies】通过开发框项目政策的平衡治理和灵活性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/balance-governance-and-flexibility-with-dev-box-project-policies</link>
+      <description>【As organizations scale their development efforts, managing access to cloud resources becomes critical. Platform engineers need to strike a balance between enforcing governance and enabling developer agility. At Build 2025, we announced the general availability of project policies in Microsoft Dev Box, which provides a powerful】随着组织扩大开发工作，管理对云资源的访问变得至关重要。平台工程师需要在执行治理和使开发人员敏捷性之间取得平衡。在2025年的Build 2025中，我们宣布了Microsoft Dev Box中项目政策的一般可用性，该项目提供了强大的</description>
+      <pubDate>Thu, 19 Jun 2025 18:50:51 +0000</pubDate>
     </item>
     <item>
       <title>【Additional reactions and ease of sharing】其他反应和易于分享</title>
@@ -22,22 +28,10 @@
       <pubDate>Wed, 18 Jun 2025 15:15:02 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevOps MCP Server, Public Preview】Azure Devops MCP服务器，公共预览</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview</link>
-      <description>【A few weeks ago at BUILD, we announced the upcoming Azure DevOps MCP Server: 👉 Azure DevOps with GitHub Repositories – Your path to Agentic AI Today, we’re excited to share that the local Azure DevOps MCP】几周前，在Build，我们宣布了即将推出的Azure DevOps MCP服务器：👉azure devops，带有GitHub存储库 - 您今天的代理AI途径，我们很高兴分享本地Azure Devops MCP</description>
-      <pubDate>Tue, 17 Jun 2025 18:40:23 +0000</pubDate>
-    </item>
-    <item>
       <title>【MSSQL Extension for VS Code: Local Containers, GitHub Copilot Agent Mode and Connection Groups】VS代码的MSSQL扩展名：本地容器，GitHub Copilot代理模式和连接组</title>
       <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-containers-agent-mode</link>
       <description>【The MSSQL Extension for VS Code continues to evolve, bringing powerful new features that make SQL development more local, more organized, and more intelligent. In version v1.33.0, we’re introducing Local SQL Server container】VS代码的MSSQL扩展不断发展，带来了强大的新功能，使SQL开发更加本地，更有条理，更聪明。在版本v1.33.0中，我们介绍了本地SQL Server容器</description>
       <pubDate>Wed, 18 Jun 2025 17:37:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Securely Turbo‑Charge Your Software Delivery with Codex Coding Agent on Azure OpenAI】用Azure Openai上的Codex编码代理安全地向您的软件交付您的软件交付</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/securely-turbo%e2%80%91charge-your-software-delivery-with-the-codex-coding-agent-on-azure-openai</link>
-      <description>【Introduction OpenAI’s Codex CLI is the same coding agent that powers ChatGPT’s Codex. You can now run this】简介OpenAI的Codex CLI是为Chatgpt的Codex提供动力的编码代理。您现在可以运行此</description>
-      <pubDate>Tue, 17 Jun 2025 22:54:11 +0000</pubDate>
     </item>
     <item>
       <title>【You have to tell &lt;CODE&gt;Get-&lt;/CODE&gt; and &lt;CODE&gt;Set­Security­Info&lt;/CODE&gt; the object type, you can&#39;t make it guess】您必须告诉&lt;code&gt;获取 -  &lt;/code&gt;和&lt;code&gt; setSecurityInfo &lt;/code&gt;对象类型，您无法猜测</title>
@@ -52,16 +46,22 @@
       <pubDate>Wed, 18 Jun 2025 14:12:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Multimodal Vision Intelligence with .NET MAUI】带有.net Maui的多模式视觉智能</title>
-      <link>https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui</link>
-      <description>【Expanding the many ways in which users can interact with our apps is one of the most exciting parts of working with modern AI models and device capabilities. With .NET MAUI, it&#39;s easy to enhance your app from a text-based experience to one that supports voice, vision, and more. Previously I covered a】扩展用户可以与我们的应用程序进行交互的多种方式是使用现代AI模型和设备功能的最令人兴奋的部分之一。借助.NET MAUI，可以轻松地增强您的应用程序从基于文本的体验到支持语音，愿景等的经验。以前我介绍了</description>
-      <pubDate>Tue, 17 Jun 2025 19:30:00 +0000</pubDate>
+      <title>【Announcing General Availability of Native Vector Type &amp; Functions in Azure SQL】宣布Azure SQL中本地向量类型和功能的一般可用性</title>
+      <link>https://devblogs.microsoft.com/azure-sql/announcing-general-availability-of-native-vector-type-functions-in-azure-sql</link>
+      <description>【We are happy to announce that Native vector support in Azure SQL Database and Azure SQL Managed Instance is moving to General Availability this summer. Deployments are already underway, and several regions have begun receiving the feature. What is going GA? Integrated Vector Data Type Azure SQL introduces a dedicated】我们很高兴地宣布，Azure SQL数据库中的本机向量支持，而Azure SQL托管实例将于今年夏天转向一般可用性。部署已经在进行中，几个地区已经开始收到该功能。 GA发生了什么？集成矢量数据类型Azure SQL引入了专用</description>
+      <pubDate>Thu, 19 Jun 2025 15:55:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Connect Spring AI to Local AI Models with Foundry Local】将Spring AI连接到Local Foundry Local的本地AI模型</title>
-      <link>https://devblogs.microsoft.com/java/connect-spring-ai-to-local-ai-models-with-foundry-local</link>
-      <description>【What is Azure AI Foundry and Foundry Local? Azure AI Foundry is Microsoft&#39;s comprehensive platform for enterprise AI development and deployment, enabling organizations to build, customize, and operate AI solutions at scale. It provides tools, services, and infrastructure to develop, fine-tune and deploy AI models in production envi】什么是Azure AI Foundry and Foundry Local？ Azure AI Foundry是Microsoft企业AI开发和部署的综合平台，使组织能够按大规模构建，自定义和操作AI解决方案。它提供工具，服务和基础架构来开发，微调和部署AI模型在生产环境中</description>
-      <pubDate>Tue, 17 Jun 2025 18:46:40 +0000</pubDate>
+      <title>【PACT Contract Testing - Because Not Everything Needs Full Integration Tests】协定合同测试 - 因为并非所有内容都需要完整的集成测试</title>
+      <link>https://devblogs.microsoft.com/ise/pact-contract-testing-because-not-everything-needs-full-integration-tests</link>
+      <description>【At Microsoft Industry Solutions Engineering, we are big fans of integration tests. They are the best way to test that your system works as a whole, but sometimes, integration tests are overkill or too complex to set up that the return on investment is just not worth it. That&#39;s the situation one of our teams has recently found themselves in.】在Microsoft行业解决方案工程中，我们是集成测试的忠实拥护者。它们是测试您的系统整体工作的最佳方法，但是有时，集成测试过于杀伤或过于复杂，无法设置投资回报是不值得的。这就是我们的团队中的一个情况。</description>
+      <pubDate>Thu, 19 Jun 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Control cloud costs with Dev Box hibernation features】控制云成本具有开发盒冬眠功能</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/control-cloud-costs-with-dev-box-hibernation-features</link>
+      <description>【Cost is one of the most important concerns in any cloud-native rollout. IT admins need powerful tools to control costs without slowing development. At Build 2025, we were excited to announce the general availability of hibernat】成本是任何云本地推出中最重要的问题之一。 IT管​​理员需要强大的工具来控制成本而不会减慢发展的发展。在2025年的建筑中，我们很高兴宣布Hibernat的一般可用性</description>
+      <pubDate>Thu, 19 Jun 2025 18:46:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
