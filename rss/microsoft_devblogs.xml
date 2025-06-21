@@ -10,40 +10,16 @@
       <pubDate>Thu, 19 Jun 2025 21:19:28 +0000</pubDate>
     </item>
     <item>
+      <title>【PACT Contract Testing - Because Not Everything Needs Full Integration Tests】协定合同测试 - 因为并非所有内容都需要完整的集成测试</title>
+      <link>https://devblogs.microsoft.com/ise/pact-contract-testing-because-not-everything-needs-full-integration-tests</link>
+      <description>【At Microsoft Industry Solutions Engineering, we are big fans of integration tests. They are the best way to test that your system works as a whole, but sometimes, integration tests are overkill or too complex to set up that the return on investment is just not worth it. That&#39;s the situation one of our teams has recently found themselves in.】在Microsoft行业解决方案工程中，我们是集成测试的忠实拥护者。它们是测试您的系统整体工作的最佳方法，但是有时，集成测试过于杀伤或过于复杂，无法设置投资回报是不值得的。这就是我们的团队中的一个情况。</description>
+      <pubDate>Thu, 19 Jun 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Learning to read C++ compiler errors: Ambiguous symbol errors after including a header file】学习读取C ++编译器错误：包含标头文件后模棱两可的符号错误</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250619-00/?p=111285</link>
       <description>【A colleague added another header file to their project, and everything started blowing up with &#34;ambiguous symbol&#34; errors. #include &#34;pch.h&#34; #include &#34;something.h&#34; #include &#34;newheader.h&#34; #include &amp;lt;shlobj.h&amp;gt; ... This resulted in a build error in Visual Studi】一位同事在他们的项目中添加了另一个标头文件，一切都开始爆炸了“模棱两可的符号”错误。 #include“ pch.h” #include“ somings.h” #include“ newheader.h” #include &lt;shlobj.h&gt; ...这在Visual Studi中导致构建错误</description>
       <pubDate>Thu, 19 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Balance governance and flexibility with Dev Box project policies】通过开发框项目政策的平衡治理和灵活性</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/balance-governance-and-flexibility-with-dev-box-project-policies</link>
-      <description>【As organizations scale their development efforts, managing access to cloud resources becomes critical. Platform engineers need to strike a balance between enforcing governance and enabling developer agility. At Build 2025, we announced the general availability of project policies in Microsoft Dev Box, which provides a powerful】随着组织扩大开发工作，管理对云资源的访问变得至关重要。平台工程师需要在执行治理和使开发人员敏捷性之间取得平衡。在2025年的Build 2025中，我们宣布了Microsoft Dev Box中项目政策的一般可用性，该项目提供了强大的</description>
-      <pubDate>Thu, 19 Jun 2025 18:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Additional reactions and ease of sharing】其他反应和易于分享</title>
-      <link>https://devblogs.microsoft.com/devblogs-news/additional-reactions-and-ease-of-sharing</link>
-      <description>【We&#39;re always exploring ways to enhance DevBlogs for our readers. In the past few weeks, we’ve introduced two updates to features: reactions and sharing. Reactions: You now have six expressive reaction options to choose from—moving beyond the simple heart. It’s a small change that we hope makes a big difference in how you engage with p】我们一直在探索为读者增强DevBlogs的方法。在过去的几周中，我们对功能进行了两个更新：反应和共享。反应：您现在有六个表达反应选择可以选择 - 超越简单的心脏。这是一个很小的变化，我们希望您与P的互动方式有很大的不同</description>
-      <pubDate>Wed, 18 Jun 2025 15:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MSSQL Extension for VS Code: Local Containers, GitHub Copilot Agent Mode and Connection Groups】VS代码的MSSQL扩展名：本地容器，GitHub Copilot代理模式和连接组</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-containers-agent-mode</link>
-      <description>【The MSSQL Extension for VS Code continues to evolve, bringing powerful new features that make SQL development more local, more organized, and more intelligent. In version v1.33.0, we’re introducing Local SQL Server container】VS代码的MSSQL扩展不断发展，带来了强大的新功能，使SQL开发更加本地，更有条理，更聪明。在版本v1.33.0中，我们介绍了本地SQL Server容器</description>
-      <pubDate>Wed, 18 Jun 2025 17:37:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【You have to tell &lt;CODE&gt;Get-&lt;/CODE&gt; and &lt;CODE&gt;Set­Security­Info&lt;/CODE&gt; the object type, you can&#39;t make it guess】您必须告诉&lt;code&gt;获取 -  &lt;/code&gt;和&lt;code&gt; setSecurityInfo &lt;/code&gt;对象类型，您无法猜测</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250618-00/?p=111281</link>
-      <description>【A customer was trying to read the security information from a process object, but their call to Get­Security­Info wasn&#39;t working. PACL dacl = nullptr; PSECURITY_DESCRIPTOR sd = nullptr; GetSecurityInfo(processHandle, SE_UNKNOWN_OBJECT_TYPE, DACL_SECURITY_INFORMATION, nullptr, // not interested in ow】客户试图从流程对象中阅读安全信息，但是他们对getEcurityInfo的呼吁不起作用。 pacl dacl = nullptr; psecurity_descriptor sd = nullptr; getCurityInfo（processHandle，se_unknown_object_type，dacl_security_information，nullptr，//对OW不感兴趣</description>
-      <pubDate>Wed, 18 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Microsoft Desired State Configuration v3.1.0】宣布Microsoft所需状态配置v3.1.0</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0</link>
-      <description>【We&#39;re pleased to announce the General Availability of Microsoft&#39;s Desired State Configuration (DSC) version 3.1.0. This release marks a significant milestone in our effort to deliver cloud-native configuration management for cross-platform environments. DSC is a declarative configuration and orchestration】我们很高兴地宣布Microsoft所需状态配置（DSC）版本3.1.0的一般可用性。该版本标志着我们为跨平台环境提供云本地配置管理的努力的一个重要里程碑。 DSC是声明性的配置和编排</description>
-      <pubDate>Wed, 18 Jun 2025 14:12:40 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing General Availability of Native Vector Type &amp; Functions in Azure SQL】宣布Azure SQL中本地向量类型和功能的一般可用性</title>
@@ -52,16 +28,40 @@
       <pubDate>Thu, 19 Jun 2025 15:55:22 +0000</pubDate>
     </item>
     <item>
-      <title>【PACT Contract Testing - Because Not Everything Needs Full Integration Tests】协定合同测试 - 因为并非所有内容都需要完整的集成测试</title>
-      <link>https://devblogs.microsoft.com/ise/pact-contract-testing-because-not-everything-needs-full-integration-tests</link>
-      <description>【At Microsoft Industry Solutions Engineering, we are big fans of integration tests. They are the best way to test that your system works as a whole, but sometimes, integration tests are overkill or too complex to set up that the return on investment is just not worth it. That&#39;s the situation one of our teams has recently found themselves in.】在Microsoft行业解决方案工程中，我们是集成测试的忠实拥护者。它们是测试您的系统整体工作的最佳方法，但是有时，集成测试过于杀伤或过于复杂，无法设置投资回报是不值得的。这就是我们的团队中的一个情况。</description>
-      <pubDate>Thu, 19 Jun 2025 07:00:00 +0000</pubDate>
+      <title>【💻 Spring Cleaning for Dev Boxes: Mastering Manual &amp; Automatic Offboarding】💻开发盒的弹簧清洁：掌握手册和自动卸货</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/%f0%9f%92%bb-spring-cleaning-for-dev-boxes-mastering-manual-automatic-offboarding</link>
+      <description>【Let’s face it. Sometimes your Dev Box just… hangs around too long. Whether you’ve moved to a new project, left the company, want to create a new dev box with the latest tools, it&#39;s time to clean things up. 🎯 With Dev Box Auto-Deletion now in public preview, offboarding just got a whole lot easier. Here&#39;s everything】让我们面对现实吧。有时您的开发盒只是……闲逛太久了。无论您是搬到一个新项目，离开了公司，都想创建一个带有最新工具的新开发框，现在该清理东西了。 🎯现在在公共预览中使用开发框自动删除，卸货变得容易得多。这是一切</description>
+      <pubDate>Fri, 20 Jun 2025 19:51:00 +0000</pubDate>
     </item>
     <item>
       <title>【Control cloud costs with Dev Box hibernation features】控制云成本具有开发盒冬眠功能</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/control-cloud-costs-with-dev-box-hibernation-features</link>
       <description>【Cost is one of the most important concerns in any cloud-native rollout. IT admins need powerful tools to control costs without slowing development. At Build 2025, we were excited to announce the general availability of hibernat】成本是任何云本地推出中最重要的问题之一。 IT管​​理员需要强大的工具来控制成本而不会减慢发展的发展。在2025年的建筑中，我们很高兴宣布Hibernat的一般可用性</description>
       <pubDate>Thu, 19 Jun 2025 18:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Balance governance and flexibility with Dev Box project policies】通过开发框项目政策的平衡治理和灵活性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/balance-governance-and-flexibility-with-dev-box-project-policies</link>
+      <description>【As organizations scale their development efforts, managing access to cloud resources becomes critical. Platform engineers need to strike a balance between enforcing governance and enabling developer agility. At Build 2025, we announced the general availability of project policies in Microsoft Dev Box, which provides a powerful】随着组织扩大开发工作，管理对云资源的访问变得至关重要。平台工程师需要在执行治理和使开发人员敏捷性之间取得平衡。在2025年的Build 2025中，我们宣布了Microsoft Dev Box中项目政策的一般可用性，该项目提供了强大的</description>
+      <pubDate>Thu, 19 Jun 2025 18:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the invalid handle error when a handle is closed while a thread is waiting on it】当线程在等待时关闭手柄时，无效的手柄错误的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250620-00/?p=111291</link>
+      <description>【A customer tracked one of their crashes to an invalid handle exception being raised when one thread closed a handle that another thread was waiting for. Or at least that&#39;s how they presented the problem. The stack trace in the crash dump said ntdll!KiRaiseUserExceptionDispatcher+0x3a KERNELBASE!WaitForMultipleObjectsEx+0x】当一个线程关闭另一个线程在等待的句柄时，客户将其中一次崩溃跟踪到无效的手柄异常。或至少这就是他们提出问题的方式。碰撞转储中的堆栈跟踪表示ntdll！kiraiseuserexceptiondispatcher+0x3a kernelbase！waitgurfformultipleObjectsex+0x</description>
+      <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry</link>
+      <description>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry We are excited to announce the availability of o3-pro, the newest model in the Azure AI Foundry via Azure OpenAI. o3-pro combines more compute with long context and multimodal input to deliver consistently better answers for complex tasks. o3-pro is available via the】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro，我们很高兴宣布O3-Pro的可用性，O3-Pro是Azure AI铸造厂中通过Azure OpenAi中的最新型号的可用性。 O3-Pro将更多的计算与长上下文和多模式输入相结合，以为复杂的任务提供更好的答案。 O3-Pro可通过</description>
+      <pubDate>Fri, 20 Jun 2025 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【codex-mini: Fast, Scalable Code Generation for the CLI Era】Codex-Mini：CLI时代的快速，可扩展的代码生成</title>
+      <link>https://devblogs.microsoft.com/foundry/codex-mini-fast-scalable-code-generation-for-the-cli-era</link>
+      <description>【We’re announcing the general availability of Azure OpenAI’s codex-mini in Azure AI Foundry Models.  codex-mini is a fine-tuned version of the o4-mini model, designed to deliver rapid, instruction-following performance for developers working in CLI workflows. Whether you&#39;r】我们宣布Azure Openai在Azure AI Foundry模型中的Codex-Mini的总体可用性。  Codex-Mini是O4-Mini型号的微调版本，旨在为在CLI工作流中工作的开发人员提供快速，指导性的性能。无论你是</description>
+      <pubDate>Fri, 20 Jun 2025 16:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

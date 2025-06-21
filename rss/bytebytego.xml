@@ -5,22 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
-      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
-      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Database Schema Design Simplified: Normalization vs Denormalization】数据库架构设计简化：归一化与非正式化</title>
-      <link>https://blog.bytebytego.com/p/database-schema-design-simplified</link>
-      <description>【The goal isn&#39;t to declare one approach as the winner. It&#39;s to understand their mechanics, consequences, and ideal use cases.】目标不是将一种方法宣布为赢家。这是了解他们的机制，后果和理想用例。</description>
-      <pubDate>Thu, 12 Jun 2025 15:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP166: What is Event Sourcing? 】EP166：什么是事件采购？</title>
-      <link>https://blog.bytebytego.com/p/ep166-what-is-event-sourcing</link>
-      <description>【The event sourcing paradigm is used to design a system with determinism. This changes the philosophy of normal system designs.】事件采购范式用于设计具有决定论的系统。这改变了正常系统设计的理念。</description>
-      <pubDate>Sat, 07 Jun 2025 15:30:32 +0000</pubDate>
+      <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
+      <link>https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should</link>
+      <description>【Which other AI concept will you add to the list?】您还将添加哪个AI概念？</description>
+      <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
     </item>
     <item>
       <title>【How Lyft Uses ML to Make 100 Million Predictions A Day】Lyft如何使用ML每天做出1亿个预测</title>
@@ -35,10 +23,16 @@
       <pubDate>Thu, 05 Jun 2025 15:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
-      <link>https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should</link>
-      <description>【Which other AI concept will you add to the list?】您还将添加哪个AI概念？</description>
-      <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
+      <title>【How the Google Cloud Outage Crashed the Internet】Google云中断如何崩溃了互联网</title>
+      <link>https://blog.bytebytego.com/p/how-the-google-cloud-outage-crashed</link>
+      <description>【On June 12, 2025, a significant portion of the internet experienced a sudden outage. What started as intermittent failures on Gmail and Spotify soon escalated into a global infrastructure meltdown. For millions of users and hundreds of companies, critical apps simply stopped working.】2025年6月12日，很大一部分互联网突然发生了停电。最初是因为Gmail的间歇性失败和Spotify很快升级为全球基础设施崩溃。对于数百万用户和数百家公司而言，关键应用程序只是停止工作。</description>
+      <pubDate>Tue, 17 Jun 2025 15:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database Schema Design Simplified: Normalization vs Denormalization】数据库架构设计简化：归一化与非正式化</title>
+      <link>https://blog.bytebytego.com/p/database-schema-design-simplified</link>
+      <description>【The goal isn&#39;t to declare one approach as the winner. It&#39;s to understand their mechanics, consequences, and ideal use cases.】目标不是将一种方法宣布为赢家。这是了解他们的机制，后果和理想用例。</description>
+      <pubDate>Thu, 12 Jun 2025 15:30:25 +0000</pubDate>
     </item>
     <item>
       <title>【A Guide to Database Transactions: From ACID to Concurrency Control】数据库交易指南：从酸到并发控制</title>
@@ -47,10 +41,16 @@
       <pubDate>Thu, 19 Jun 2025 15:30:36 +0000</pubDate>
     </item>
     <item>
-      <title>【How Netflix Runs on Java?】Netflix如何在Java上运行？</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-runs-on-java</link>
-      <description>【Netflix is a masterclass in backend engineering at scale. Behind the seamless playback, tailored recommendations, and cross-device consistency lies an intricate architecture powered by Java.】Netflix是大规模后端工程的大师班。在无缝的播放，量身定制的建议和跨设备一致性的背后是由Java提供动力的复杂建筑。</description>
-      <pubDate>Tue, 03 Jun 2025 15:30:52 +0000</pubDate>
+      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
+      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
+      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP166: What is Event Sourcing? 】EP166：什么是事件采购？</title>
+      <link>https://blog.bytebytego.com/p/ep166-what-is-event-sourcing</link>
+      <description>【The event sourcing paradigm is used to design a system with determinism. This changes the philosophy of normal system designs.】事件采购范式用于设计具有决定论的系统。这改变了正常系统设计的理念。</description>
+      <pubDate>Sat, 07 Jun 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
       <title>【Our New Book, Mobile System Design Interview, Is Now Available】我们的新书《移动系统设计采访》现已可用</title>
@@ -59,10 +59,10 @@
       <pubDate>Mon, 09 Jun 2025 15:30:26 +0000</pubDate>
     </item>
     <item>
-      <title>【How the Google Cloud Outage Crashed the Internet】Google云中断如何崩溃了互联网</title>
-      <link>https://blog.bytebytego.com/p/how-the-google-cloud-outage-crashed</link>
-      <description>【On June 12, 2025, a significant portion of the internet experienced a sudden outage. What started as intermittent failures on Gmail and Spotify soon escalated into a global infrastructure meltdown. For millions of users and hundreds of companies, critical apps simply stopped working.】2025年6月12日，很大一部分互联网突然发生了停电。最初是因为Gmail的间歇性失败和Spotify很快升级为全球基础设施崩溃。对于数百万用户和数百家公司而言，关键应用程序只是停止工作。</description>
-      <pubDate>Tue, 17 Jun 2025 15:30:25 +0000</pubDate>
+      <title>【How Netflix Runs on Java?】Netflix如何在Java上运行？</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-runs-on-java</link>
+      <description>【Netflix is a masterclass in backend engineering at scale. Behind the seamless playback, tailored recommendations, and cross-device consistency lies an intricate architecture powered by Java.】Netflix是大规模后端工程的大师班。在无缝的播放，量身定制的建议和跨设备一致性的背后是由Java提供动力的复杂建筑。</description>
+      <pubDate>Tue, 03 Jun 2025 15:30:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
