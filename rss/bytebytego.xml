@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How Lyft Uses ML to Make 100 Million Predictions A Day】Lyft如何使用ML每天做出1亿个预测</title>
-      <link>https://blog.bytebytego.com/p/how-lyft-uses-ml-to-make-100-million</link>
-      <description>【In this article, we&amp;#8217;ll look at how Lyft built an architecture to accomplish this requirement and the challenges they faced.】在本文中，我们将研究Lyft如何构建建筑以完成这一要求及其面临的挑战。</description>
-      <pubDate>Tue, 10 Jun 2025 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Our New Book, Mobile System Design Interview, Is Now Available】我们的新书《移动系统设计采访》现已可用</title>
-      <link>https://blog.bytebytego.com/p/our-new-book-mobile-system-design</link>
-      <description>【Our new book, Mobile System Design Interview, is available on Amazon!】我们的新书《移动系统设计采访》可在亚马逊上获得！</description>
-      <pubDate>Mon, 09 Jun 2025 15:30:26 +0000</pubDate>
+      <title>【EP168: AI Vs Machine Learning Vs Deep Learning Vs Generative AI】EP168：AI与机器学习与深度学习与生成AI</title>
+      <link>https://blog.bytebytego.com/p/ep168-ai-vs-machine-learning-vs-deep</link>
+      <description>【What else will you add to understand these concepts better?】您还会添加什么以更好地理解这些概念？</description>
+      <pubDate>Sat, 21 Jun 2025 15:30:15 +0000</pubDate>
     </item>
     <item>
       <title>【SQL vs NoSQL: Choosing the Right Database for An Application】SQL VS NOSQL：为应用程序选择正确的数据库</title>
@@ -23,16 +17,16 @@
       <pubDate>Thu, 05 Jun 2025 15:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
-      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
-      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
+      <title>【How the Google Cloud Outage Crashed the Internet】Google云中断如何崩溃了互联网</title>
+      <link>https://blog.bytebytego.com/p/how-the-google-cloud-outage-crashed</link>
+      <description>【On June 12, 2025, a significant portion of the internet experienced a sudden outage. What started as intermittent failures on Gmail and Spotify soon escalated into a global infrastructure meltdown. For millions of users and hundreds of companies, critical apps simply stopped working.】2025年6月12日，很大一部分互联网突然发生了停电。最初是因为Gmail的间歇性失败和Spotify很快升级为全球基础设施崩溃。对于数百万用户和数百家公司而言，关键应用程序只是停止工作。</description>
+      <pubDate>Tue, 17 Jun 2025 15:30:25 +0000</pubDate>
     </item>
     <item>
-      <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
-      <link>https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should</link>
-      <description>【Which other AI concept will you add to the list?】您还将添加哪个AI概念？</description>
-      <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
+      <title>【How Lyft Uses ML to Make 100 Million Predictions A Day】Lyft如何使用ML每天做出1亿个预测</title>
+      <link>https://blog.bytebytego.com/p/how-lyft-uses-ml-to-make-100-million</link>
+      <description>【In this article, we&amp;#8217;ll look at how Lyft built an architecture to accomplish this requirement and the challenges they faced.】在本文中，我们将研究Lyft如何构建建筑以完成这一要求及其面临的挑战。</description>
+      <pubDate>Tue, 10 Jun 2025 15:30:45 +0000</pubDate>
     </item>
     <item>
       <title>【Database Schema Design Simplified: Normalization vs Denormalization】数据库架构设计简化：归一化与非正式化</title>
@@ -41,28 +35,34 @@
       <pubDate>Thu, 12 Jun 2025 15:30:25 +0000</pubDate>
     </item>
     <item>
+      <title>【A Guide to Database Transactions: From ACID to Concurrency Control】数据库交易指南：从酸到并发控制</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-database-transactions</link>
+      <description>【In this article, we break down the key building blocks that make transactional systems reliable in the face of concurrency.】在本文中，我们分解了使交易系统在并发时可靠的关键构件。</description>
+      <pubDate>Thu, 19 Jun 2025 15:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
+      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
+      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP166: What is Event Sourcing? 】EP166：什么是事件采购？</title>
       <link>https://blog.bytebytego.com/p/ep166-what-is-event-sourcing</link>
       <description>【The event sourcing paradigm is used to design a system with determinism. This changes the philosophy of normal system designs.】事件采购范式用于设计具有决定论的系统。这改变了正常系统设计的理念。</description>
       <pubDate>Sat, 07 Jun 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【How the Google Cloud Outage Crashed the Internet】Google云中断如何崩溃了互联网</title>
-      <link>https://blog.bytebytego.com/p/how-the-google-cloud-outage-crashed</link>
-      <description>【On June 12, 2025, a significant portion of the internet experienced a sudden outage. What started as intermittent failures on Gmail and Spotify soon escalated into a global infrastructure meltdown. For millions of users and hundreds of companies, critical apps simply stopped working.】2025年6月12日，很大一部分互联网突然发生了停电。最初是因为Gmail的间歇性失败和Spotify很快升级为全球基础设施崩溃。对于数百万用户和数百家公司而言，关键应用程序只是停止工作。</description>
-      <pubDate>Tue, 17 Jun 2025 15:30:25 +0000</pubDate>
+      <title>【Our New Book, Mobile System Design Interview, Is Now Available】我们的新书《移动系统设计采访》现已可用</title>
+      <link>https://blog.bytebytego.com/p/our-new-book-mobile-system-design</link>
+      <description>【Our new book, Mobile System Design Interview, is available on Amazon!】我们的新书《移动系统设计采访》可在亚马逊上获得！</description>
+      <pubDate>Mon, 09 Jun 2025 15:30:26 +0000</pubDate>
     </item>
     <item>
-      <title>【EP168: AI Vs Machine Learning Vs Deep Learning Vs Generative AI】EP168：AI与机器学习与深度学习与生成AI</title>
-      <link>https://blog.bytebytego.com/p/ep168-ai-vs-machine-learning-vs-deep</link>
-      <description>【What else will you add to understand these concepts better?】您还会添加什么以更好地理解这些概念？</description>
-      <pubDate>Sat, 21 Jun 2025 15:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Database Transactions: From ACID to Concurrency Control】数据库交易指南：从酸到并发控制</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-database-transactions</link>
-      <description>【In this article, we break down the key building blocks that make transactional systems reliable in the face of concurrency.】在本文中，我们分解了使交易系统在并发时可靠的关键构件。</description>
-      <pubDate>Thu, 19 Jun 2025 15:30:36 +0000</pubDate>
+      <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
+      <link>https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should</link>
+      <description>【Which other AI concept will you add to the list?】您还将添加哪个AI概念？</description>
+      <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

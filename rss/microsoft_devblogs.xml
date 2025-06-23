@@ -4,16 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【codex-mini: Fast, Scalable Code Generation for the CLI Era】Codex-Mini：CLI时代的快速，可扩展的代码生成</title>
-      <link>https://devblogs.microsoft.com/foundry/codex-mini-fast-scalable-code-generation-for-the-cli-era</link>
-      <description>【We’re announcing the general availability of Azure OpenAI’s codex-mini in Azure AI Foundry Models.  codex-mini is a fine-tuned version of the o4-mini model, designed to deliver rapid, instruction-following performance for developers working in CLI workflows. Whether you&#39;r】我们宣布Azure Openai在Azure AI Foundry模型中的Codex-Mini的总体可用性。  Codex-Mini是O4-Mini型号的微调版本，旨在为在CLI工作流中工作的开发人员提供快速，指导性的性能。无论你是</description>
-      <pubDate>Fri, 20 Jun 2025 16:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry</link>
-      <description>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry We are excited to announce the availability of o3-pro, the newest model in the Azure AI Foundry via Azure OpenAI. o3-pro combines more compute with long context and multimodal input to deliver consistently better answers for complex tasks. o3-pro is available via the】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro，我们很高兴宣布O3-Pro的可用性，O3-Pro是Azure AI铸造厂中通过Azure OpenAi中的最新型号的可用性。 O3-Pro将更多的计算与长上下文和多模式输入相结合，以为复杂的任务提供更好的答案。 O3-Pro可通过</description>
-      <pubDate>Fri, 20 Jun 2025 16:06:00 +0000</pubDate>
+      <title>【Announcing General Availability of GitHub Copilot for Azure—Now with Agent Mode】宣布GitHub Copilot用于Azure的一般可用性 - 现在使用Agent Mode</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/announcing-general-availability-of-github-copilot-for-azure-now-with-agent-mode</link>
+      <description>【Unlocking a New DevOps Era GitHub Copilot for Azure was first introduced at Ignite 2024 as a public preview, empowering developers, IT operators, and DevOps practitioners to leverage natural language to provision, configure, and manage r】首次在IGNITE 2024上引入了新的Devops ERA GITHUB COPILOT作为Azure的副驾驶，作为公共预览，增强开发人员，IT运营商和DevOps从业人员的能力，以利用自然语言来提供，配置和管理R</description>
+      <pubDate>Thu, 19 Jun 2025 21:19:28 +0000</pubDate>
     </item>
     <item>
       <title>【The case of the invalid handle error when a handle is closed while a thread is waiting on it】当线程在等待时关闭手柄时，无效的手柄错误的情况</title>
@@ -22,22 +16,16 @@
       <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【💻 Spring Cleaning for Dev Boxes: Mastering Manual &amp; Automatic Offboarding】💻开发盒的弹簧清洁：掌握手册和自动卸货</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/%f0%9f%92%bb-spring-cleaning-for-dev-boxes-mastering-manual-automatic-offboarding</link>
-      <description>【Let’s face it. Sometimes your Dev Box just… hangs around too long. Whether you’ve moved to a new project, left the company, want to create a new dev box with the latest tools, it&#39;s time to clean things up. 🎯 With Dev Box Auto-Deletion now in public preview, offboarding just got a whole lot easier. Here&#39;s everything】让我们面对现实吧。有时您的开发盒只是……闲逛太久了。无论您是搬到一个新项目，离开了公司，都想创建一个带有最新工具的新开发框，现在该清理东西了。 🎯现在在公共预览中使用开发框自动删除，卸货变得容易得多。这是一切</description>
-      <pubDate>Fri, 20 Jun 2025 19:51:00 +0000</pubDate>
+      <title>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry</link>
+      <description>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry We are excited to announce the availability of o3-pro, the newest model in the Azure AI Foundry via Azure OpenAI. o3-pro combines more compute with long context and multimodal input to deliver consistently better answers for complex tasks. o3-pro is available via the】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro，我们很高兴宣布O3-Pro的可用性，O3-Pro是Azure AI铸造厂中通过Azure OpenAi中的最新型号的可用性。 O3-Pro将更多的计算与长上下文和多模式输入相结合，以为复杂的任务提供更好的答案。 O3-Pro可通过</description>
+      <pubDate>Fri, 20 Jun 2025 16:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Balance governance and flexibility with Dev Box project policies】通过开发框项目政策的平衡治理和灵活性</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/balance-governance-and-flexibility-with-dev-box-project-policies</link>
-      <description>【As organizations scale their development efforts, managing access to cloud resources becomes critical. Platform engineers need to strike a balance between enforcing governance and enabling developer agility. At Build 2025, we announced the general availability of project policies in Microsoft Dev Box, which provides a powerful】随着组织扩大开发工作，管理对云资源的访问变得至关重要。平台工程师需要在执行治理和使开发人员敏捷性之间取得平衡。在2025年的Build 2025中，我们宣布了Microsoft Dev Box中项目政策的一般可用性，该项目提供了强大的</description>
-      <pubDate>Thu, 19 Jun 2025 18:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing General Availability of Native Vector Type &amp; Functions in Azure SQL】宣布Azure SQL中本地向量类型和功能的一般可用性</title>
-      <link>https://devblogs.microsoft.com/azure-sql/announcing-general-availability-of-native-vector-type-functions-in-azure-sql</link>
-      <description>【We are happy to announce that Native vector support in Azure SQL Database and Azure SQL Managed Instance is moving to General Availability this summer. Deployments are already underway, and several regions have begun receiving the feature. What is going GA? Integrated Vector Data Type Azure SQL introduces a dedicated】我们很高兴地宣布，Azure SQL数据库中的本机向量支持，而Azure SQL托管实例将于今年夏天转向一般可用性。部署已经在进行中，几个地区已经开始收到该功能。 GA发生了什么？集成矢量数据类型Azure SQL引入了专用</description>
-      <pubDate>Thu, 19 Jun 2025 15:55:22 +0000</pubDate>
+      <title>【PACT Contract Testing - Because Not Everything Needs Full Integration Tests】协定合同测试 - 因为并非所有内容都需要完整的集成测试</title>
+      <link>https://devblogs.microsoft.com/ise/pact-contract-testing-because-not-everything-needs-full-integration-tests</link>
+      <description>【At Microsoft Industry Solutions Engineering, we are big fans of integration tests. They are the best way to test that your system works as a whole, but sometimes, integration tests are overkill or too complex to set up that the return on investment is just not worth it. That&#39;s the situation one of our teams has recently found themselves in.】在Microsoft行业解决方案工程中，我们是集成测试的忠实拥护者。它们是测试您的系统整体工作的最佳方法，但是有时，集成测试过于杀伤或过于复杂，无法设置投资回报是不值得的。这就是我们的团队中的一个情况。</description>
+      <pubDate>Thu, 19 Jun 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Learning to read C++ compiler errors: Ambiguous symbol errors after including a header file】学习读取C ++编译器错误：包含标头文件后模棱两可的符号错误</title>
@@ -46,22 +34,34 @@
       <pubDate>Thu, 19 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Announcing General Availability of Native Vector Type &amp; Functions in Azure SQL】宣布Azure SQL中本地向量类型和功能的一般可用性</title>
+      <link>https://devblogs.microsoft.com/azure-sql/announcing-general-availability-of-native-vector-type-functions-in-azure-sql</link>
+      <description>【We are happy to announce that Native vector support in Azure SQL Database and Azure SQL Managed Instance is moving to General Availability this summer. Deployments are already underway, and several regions have begun receiving the feature. What is going GA? Integrated Vector Data Type Azure SQL introduces a dedicated】我们很高兴地宣布，Azure SQL数据库中的本机向量支持，而Azure SQL托管实例将于今年夏天转向一般可用性。部署已经在进行中，几个地区已经开始收到该功能。 GA发生了什么？集成矢量数据类型Azure SQL引入了专用</description>
+      <pubDate>Thu, 19 Jun 2025 15:55:22 +0000</pubDate>
+    </item>
+    <item>
       <title>【Control cloud costs with Dev Box hibernation features】控制云成本具有开发盒冬眠功能</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/control-cloud-costs-with-dev-box-hibernation-features</link>
       <description>【Cost is one of the most important concerns in any cloud-native rollout. IT admins need powerful tools to control costs without slowing development. At Build 2025, we were excited to announce the general availability of hibernat】成本是任何云本地推出中最重要的问题之一。 IT管​​理员需要强大的工具来控制成本而不会减慢发展的发展。在2025年的建筑中，我们很高兴宣布Hibernat的一般可用性</description>
       <pubDate>Thu, 19 Jun 2025 18:46:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing General Availability of GitHub Copilot for Azure—Now with Agent Mode】宣布GitHub Copilot用于Azure的一般可用性 - 现在使用Agent Mode</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/announcing-general-availability-of-github-copilot-for-azure-now-with-agent-mode</link>
-      <description>【Unlocking a New DevOps Era GitHub Copilot for Azure was first introduced at Ignite 2024 as a public preview, empowering developers, IT operators, and DevOps practitioners to leverage natural language to provision, configure, and manage r】首次在IGNITE 2024上引入了新的Devops ERA GITHUB COPILOT作为Azure的副驾驶，作为公共预览，增强开发人员，IT运营商和DevOps从业人员的能力，以利用自然语言来提供，配置和管理R</description>
-      <pubDate>Thu, 19 Jun 2025 21:19:28 +0000</pubDate>
+      <title>【codex-mini: Fast, Scalable Code Generation for the CLI Era】Codex-Mini：CLI时代的快速，可扩展的代码生成</title>
+      <link>https://devblogs.microsoft.com/foundry/codex-mini-fast-scalable-code-generation-for-the-cli-era</link>
+      <description>【We’re announcing the general availability of Azure OpenAI’s codex-mini in Azure AI Foundry Models.  codex-mini is a fine-tuned version of the o4-mini model, designed to deliver rapid, instruction-following performance for developers working in CLI workflows. Whether you&#39;r】我们宣布Azure Openai在Azure AI Foundry模型中的Codex-Mini的总体可用性。  Codex-Mini是O4-Mini型号的微调版本，旨在为在CLI工作流中工作的开发人员提供快速，指导性的性能。无论你是</description>
+      <pubDate>Fri, 20 Jun 2025 16:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PACT Contract Testing - Because Not Everything Needs Full Integration Tests】协定合同测试 - 因为并非所有内容都需要完整的集成测试</title>
-      <link>https://devblogs.microsoft.com/ise/pact-contract-testing-because-not-everything-needs-full-integration-tests</link>
-      <description>【At Microsoft Industry Solutions Engineering, we are big fans of integration tests. They are the best way to test that your system works as a whole, but sometimes, integration tests are overkill or too complex to set up that the return on investment is just not worth it. That&#39;s the situation one of our teams has recently found themselves in.】在Microsoft行业解决方案工程中，我们是集成测试的忠实拥护者。它们是测试您的系统整体工作的最佳方法，但是有时，集成测试过于杀伤或过于复杂，无法设置投资回报是不值得的。这就是我们的团队中的一个情况。</description>
-      <pubDate>Thu, 19 Jun 2025 07:00:00 +0000</pubDate>
+      <title>【Balance governance and flexibility with Dev Box project policies】通过开发框项目政策的平衡治理和灵活性</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/balance-governance-and-flexibility-with-dev-box-project-policies</link>
+      <description>【As organizations scale their development efforts, managing access to cloud resources becomes critical. Platform engineers need to strike a balance between enforcing governance and enabling developer agility. At Build 2025, we announced the general availability of project policies in Microsoft Dev Box, which provides a powerful】随着组织扩大开发工作，管理对云资源的访问变得至关重要。平台工程师需要在执行治理和使开发人员敏捷性之间取得平衡。在2025年的Build 2025中，我们宣布了Microsoft Dev Box中项目政策的一般可用性，该项目提供了强大的</description>
+      <pubDate>Thu, 19 Jun 2025 18:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【💻 Spring Cleaning for Dev Boxes: Mastering Manual &amp; Automatic Offboarding】💻开发盒的弹簧清洁：掌握手册和自动卸货</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/%f0%9f%92%bb-spring-cleaning-for-dev-boxes-mastering-manual-automatic-offboarding</link>
+      <description>【Let’s face it. Sometimes your Dev Box just… hangs around too long. Whether you’ve moved to a new project, left the company, want to create a new dev box with the latest tools, it&#39;s time to clean things up. 🎯 With Dev Box Auto-Deletion now in public preview, offboarding just got a whole lot easier. Here&#39;s everything】让我们面对现实吧。有时您的开发盒只是……闲逛太久了。无论您是搬到一个新项目，离开了公司，都想创建一个带有最新工具的新开发框，现在该清理东西了。 🎯现在在公共预览中使用开发框自动删除，卸货变得容易得多。这是一切</description>
+      <pubDate>Fri, 20 Jun 2025 19:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
