@@ -4,16 +4,28 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Let’s DO this: detecting Workers Builds errors across 1 million Durable Objects】让我们这样做：检测工人在100万个耐用物体中构建错误</title>
+      <link>https://blog.cloudflare.com/detecting-workers-builds-errors-across-1-million-durable-durable-objects/</link>
+      <description>【 Workers Builds, our CI/CD product for deploying Workers, monitors build issues by analyzing build failure metadata spread across over one million Durable Objects. 】工人建造了我们用于部署工人的CI/CD产品，通过分析构建故障元数据扩散到超过一百万耐用的物体中，监视构建问题。</description>
+      <pubDate>Thu, 29 May 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack】捍卫互联网：CloudFlare如何阻止纪念性7.3 TBPS DDOS攻击</title>
       <link>https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/</link>
       <description>【 In mid-May 2025, Cloudflare blocked the largest DDoS attack ever recorded: a staggering 7.3 terabits per second (Tbps). 】在2025年3月中旬，Cloudflare封锁了有史以来最大的DDOS攻击：每秒惊人的7.3 Terabits（TBPS）。</description>
       <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Celebrating 11 years of Project Galileo’s global impact】庆祝伽利略项目的全球影响11周年</title>
-      <link>https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/</link>
-      <description>【 June 2025 marks the 11th anniversary of Project Galileo, Cloudflare’s effort to protect vulnerable public interest organizations from cyber threats. 】2025年6月是Cloulflare项目伽利略项目11周年纪念日，为保护脆弱的公共利益组织免受网络威胁而努力。</description>
-      <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
+      <title>【Cloudflare named a Strong Performer in Email Security by Forrester】Cloudflare命名了Forrester的Email Security的强大表现</title>
+      <link>https://blog.cloudflare.com/cloudflare-named-a-strong-performer-in-email-security-by-forrester/</link>
+      <description>【 Forrester has recognized Cloudflare Email Security as a Strong Performer in the ‘current offering’ category in “The Forrester Wave™: Email, Messaging, And Collaboration Security Solutions. 】Forrester在“ Forrester Wave™：电子邮件，消息传递和协作安全解决方案中的“当前产品”类别中，CloudFlare电子邮件安全性是强大的表现。</description>
+      <pubDate>Fri, 30 May 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Everything you need to know about NIST’s new guidance in “SP 1800-35: Implementing a Zero Trust Architecture”】您需要了解的有关NIST在“ SP 1800-35：实施零信任体系结构”的新指南中需要了解的一切</title>
+      <link>https://blog.cloudflare.com/nist-sp-1300-85/</link>
+      <description>【 We read NIST’s new guidance on “Implementing a Zero-Trust Architecture” so that you don’t have to.  Read this to get the key points on the newly-released NIST Special Publication 1800-35.  】我们阅读了NIST关于“实施零值体系结构”的新指南，因此您不必这样做。  请阅读此内容以获取新发行的NIST特别出版物1800-35的关键点。</description>
+      <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare service outage June 12, 2025】CloudFlare服务停电2025年6月12日</title>
@@ -22,16 +34,16 @@
       <pubDate>Thu, 12 Jun 2025 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Let’s DO this: detecting Workers Builds errors across 1 million Durable Objects】让我们这样做：检测工人在100万个耐用物体中构建错误</title>
-      <link>https://blog.cloudflare.com/detecting-workers-builds-errors-across-1-million-durable-durable-objects/</link>
-      <description>【 Workers Builds, our CI/CD product for deploying Workers, monitors build issues by analyzing build failure metadata spread across over one million Durable Objects. 】工人建造了我们用于部署工人的CI/CD产品，通过分析构建故障元数据扩散到超过一百万耐用的物体中，监视构建问题。</description>
-      <pubDate>Thu, 29 May 2025 13:00:00 +0000</pubDate>
+      <title>【Celebrating 11 years of Project Galileo’s global impact】庆祝伽利略项目的全球影响11周年</title>
+      <link>https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/</link>
+      <description>【 June 2025 marks the 11th anniversary of Project Galileo, Cloudflare’s effort to protect vulnerable public interest organizations from cyber threats. 】2025年6月是Cloulflare项目伽利略项目11周年纪念日，为保护脆弱的公共利益组织免受网络威胁而努力。</description>
+      <pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare named a Strong Performer in Email Security by Forrester】Cloudflare命名了Forrester的Email Security的强大表现</title>
-      <link>https://blog.cloudflare.com/cloudflare-named-a-strong-performer-in-email-security-by-forrester/</link>
-      <description>【 Forrester has recognized Cloudflare Email Security as a Strong Performer in the ‘current offering’ category in “The Forrester Wave™: Email, Messaging, And Collaboration Security Solutions. 】Forrester在“ Forrester Wave™：电子邮件，消息传递和协作安全解决方案中的“当前产品”类别中，CloudFlare电子邮件安全性是强大的表现。</description>
-      <pubDate>Fri, 30 May 2025 14:30:00 +0000</pubDate>
+      <title>【Building an AI Agent that puts humans in the loop with Knock and Cloudflare’s Agents SDK】建立一个AI代理，将人类用敲门和Cloudflare的代理SDK进入循环</title>
+      <link>https://blog.cloudflare.com/building-agents-at-knock-agents-sdk/</link>
+      <description>【 How Knock shipped an AI Agent with human-in-the-loop capabilities with Cloudflare’s Agents SDK and Cloudflare Workers. 】如何使用Cloudflare的代理商SDK和Cloudflare工人使用人类的AI代理商进行了AI代理。</description>
+      <pubDate>Tue, 03 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare Log Explorer is now GA, providing native observability and forensics】CloudFlare Log Explorer现在为GA，提供本地可观察性和取证能力</title>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/</link>
       <description>【 Cloudflare Workers now support FinalizationRegistry, but just because you can use it doesn’t mean you should. 】CloudFlare工人现在支持最终确定措施，但仅仅因为您可以使用它并不意味着您应该使用。</description>
       <pubDate>Wed, 11 Jun 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building an AI Agent that puts humans in the loop with Knock and Cloudflare’s Agents SDK】建立一个AI代理，将人类用敲门和Cloudflare的代理SDK进入循环</title>
-      <link>https://blog.cloudflare.com/building-agents-at-knock-agents-sdk/</link>
-      <description>【 How Knock shipped an AI Agent with human-in-the-loop capabilities with Cloudflare’s Agents SDK and Cloudflare Workers. 】如何使用Cloudflare的代理商SDK和Cloudflare工人使用人类的AI代理商进行了AI代理。</description>
-      <pubDate>Tue, 03 Jun 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Everything you need to know about NIST’s new guidance in “SP 1800-35: Implementing a Zero Trust Architecture”】您需要了解的有关NIST在“ SP 1800-35：实施零信任体系结构”的新指南中需要了解的一切</title>
-      <link>https://blog.cloudflare.com/nist-sp-1300-85/</link>
-      <description>【 We read NIST’s new guidance on “Implementing a Zero-Trust Architecture” so that you don’t have to.  Read this to get the key points on the newly-released NIST Special Publication 1800-35.  】我们阅读了NIST关于“实施零值体系结构”的新指南，因此您不必这样做。  请阅读此内容以获取新发行的NIST特别出版物1800-35的关键点。</description>
-      <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
