@@ -4,10 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Announcing General Availability of GitHub Copilot for Azure—Now with Agent Mode】宣布GitHub Copilot用于Azure的一般可用性 - 现在使用Agent Mode</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/announcing-general-availability-of-github-copilot-for-azure-now-with-agent-mode</link>
-      <description>【Unlocking a New DevOps Era GitHub Copilot for Azure was first introduced at Ignite 2024 as a public preview, empowering developers, IT operators, and DevOps practitioners to leverage natural language to provision, configure, and manage r】首次在IGNITE 2024上引入了新的Devops ERA GITHUB COPILOT作为Azure的副驾驶，作为公共预览，增强开发人员，IT运营商和DevOps从业人员的能力，以利用自然语言来提供，配置和管理R</description>
-      <pubDate>Thu, 19 Jun 2025 21:19:28 +0000</pubDate>
+      <title>【🎉 Now in Public Preview: Create Dev Boxes on Behalf of Your Developers】🎉现在在公共预览中：代表开发人员创建开发框</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/public-preview-create-dev-boxes-on-behalf-of-developers</link>
+      <description>【We’re excited to announce that one of our most-requested features is officially in Public Preview: You can now create Dev Boxes on behalf of your developers】我们很高兴地宣布，我们最要求的功能之一是正式的公开预览：您现在可以代表开发人员创建开发框</description>
+      <pubDate>Mon, 23 Jun 2025 19:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro</title>
+      <link>https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry</link>
+      <description>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry We are excited to announce the availability of o3-pro, the newest model in the Azure AI Foundry via Azure OpenAI. o3-pro combines more compute with long context and multimodal input to deliver consistently better answers for complex tasks. o3-pro is available via the】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro，我们很高兴宣布O3-Pro的可用性，O3-Pro是Azure AI铸造厂中通过Azure OpenAi中的最新型号的可用性。 O3-Pro将更多的计算与长上下文和多模式输入相结合，以为复杂的任务提供更好的答案。 O3-Pro可通过</description>
+      <pubDate>Fri, 20 Jun 2025 16:06:00 +0000</pubDate>
     </item>
     <item>
       <title>【Deprecation of MS-APP-ACTS-AS header in Shifts Management Microsoft Graph APIs】换档管理中的MS-App-Acts-As标题Microsoft Graph API</title>
@@ -28,22 +34,10 @@
       <pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning】内部访问：加入我们的VS Live！雷德蒙德（Redmond）进行一周的深度开发人员学习</title>
-      <link>https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning</link>
-      <description>【A long time ago, I stood in a packed room at VS Live! and watched developers erupt in applause after a debugging demo shaved hours off a real-world problem. That was the moment I realized this wasn’t just a conference—it was a place where developers and toolmakers come together to push the craft forward. I’m excited to announce that I】很久以前，我站在VS Live的一个拥挤的房间里！在调试演示剃光的数小时后，看着开发人员在掌声中爆发了掌声。那是我意识到这不仅是一次会议，而且是开发人员和工具制造商聚在一起推动工艺前进的地方。我很高兴地宣布我</description>
-      <pubDate>Mon, 23 Jun 2025 14:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Balance governance and flexibility with Dev Box project policies】通过开发框项目政策的平衡治理和灵活性</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/balance-governance-and-flexibility-with-dev-box-project-policies</link>
-      <description>【As organizations scale their development efforts, managing access to cloud resources becomes critical. Platform engineers need to strike a balance between enforcing governance and enabling developer agility. At Build 2025, we announced the general availability of project policies in Microsoft Dev Box, which provides a powerful】随着组织扩大开发工作，管理对云资源的访问变得至关重要。平台工程师需要在执行治理和使开发人员敏捷性之间取得平衡。在2025年的Build 2025中，我们宣布了Microsoft Dev Box中项目政策的一般可用性，该项目提供了强大的</description>
-      <pubDate>Thu, 19 Jun 2025 18:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【🎉 Now in Public Preview: Create Dev Boxes on Behalf of Your Developers】🎉现在在公共预览中：代表开发人员创建开发框</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/public-preview-create-dev-boxes-on-behalf-of-developers</link>
-      <description>【We’re excited to announce that one of our most-requested features is officially in Public Preview: You can now create Dev Boxes on behalf of your developers】我们很高兴地宣布，我们最要求的功能之一是正式的公开预览：您现在可以代表开发人员创建开发框</description>
-      <pubDate>Mon, 23 Jun 2025 19:02:39 +0000</pubDate>
+      <title>【The case of the invalid handle error when a handle is closed while a thread is waiting on it】当线程在等待时关闭手柄时，无效的手柄错误的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250620-00/?p=111291</link>
+      <description>【A customer tracked one of their crashes to an invalid handle exception being raised when one thread closed a handle that another thread was waiting for. Or at least that&#39;s how they presented the problem. The stack trace in the crash dump said ntdll!KiRaiseUserExceptionDispatcher+0x3a KERNELBASE!WaitForMultipleObjectsEx+0x】当一个线程关闭另一个线程在等待的句柄时，客户将其中一次崩溃跟踪到无效的手柄异常。或至少这就是他们提出问题的方式。碰撞转储中的堆栈跟踪表示ntdll！kiraiseuserexceptiondispatcher+0x3a kernelbase！waitgurfformultipleObjectsex+0x</description>
+      <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【codex-mini: Fast, Scalable Code Generation for the CLI Era】Codex-Mini：CLI时代的快速，可扩展的代码生成</title>
@@ -52,16 +46,22 @@
       <pubDate>Fri, 20 Jun 2025 16:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the invalid handle error when a handle is closed while a thread is waiting on it】当线程在等待时关闭手柄时，无效的手柄错误的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250620-00/?p=111291</link>
-      <description>【A customer tracked one of their crashes to an invalid handle exception being raised when one thread closed a handle that another thread was waiting for. Or at least that&#39;s how they presented the problem. The stack trace in the crash dump said ntdll!KiRaiseUserExceptionDispatcher+0x3a KERNELBASE!WaitForMultipleObjectsEx+0x】当一个线程关闭另一个线程在等待的句柄时，客户将其中一次崩溃跟踪到无效的手柄异常。或至少这就是他们提出问题的方式。碰撞转储中的堆栈跟踪表示ntdll！kiraiseuserexceptiondispatcher+0x3a kernelbase！waitgurfformultipleObjectsex+0x</description>
-      <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【Abusing copyright strings to trick software into thinking it&#39;s running on your competitor&#39;s PC】滥用版权字符串欺骗软件以思考其在竞争对手的PC上运行</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299</link>
+      <description>【One very complicated part of bringing up Plug and Play was bootstrapping the entire process. After all, the number of computers that supported the Plug and Play specification started at zero, because the specification was still being written. A lot of clever tricks were used to retrofit Plug and Play onto legacy hardware.¹ The Wind】提高插头和游戏的一个非常复杂的部分是引导整个过程。毕竟，支持插头规格的计算机数量开始为零，因为规范仍在编写。许多巧妙的技巧被用来翻新插件并播放到遗产硬件上。</description>
+      <pubDate>Tue, 24 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry</link>
-      <description>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry We are excited to announce the availability of o3-pro, the newest model in the Azure AI Foundry via Azure OpenAI. o3-pro combines more compute with long context and multimodal input to deliver consistently better answers for complex tasks. o3-pro is available via the】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro，我们很高兴宣布O3-Pro的可用性，O3-Pro是Azure AI铸造厂中通过Azure OpenAi中的最新型号的可用性。 O3-Pro将更多的计算与长上下文和多模式输入相结合，以为复杂的任务提供更好的答案。 O3-Pro可通过</description>
-      <pubDate>Fri, 20 Jun 2025 16:06:00 +0000</pubDate>
+      <title>【Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning】内部访问：加入我们的VS Live！雷德蒙德（Redmond）进行一周的深度开发人员学习</title>
+      <link>https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning</link>
+      <description>【A long time ago, I stood in a packed room at VS Live! and watched developers erupt in applause after a debugging demo shaved hours off a real-world problem. That was the moment I realized this wasn’t just a conference—it was a place where developers and toolmakers come together to push the craft forward. I’m excited to announce that I】很久以前，我站在VS Live的一个拥挤的房间里！在调试演示剃光的数小时后，看着开发人员在掌声中爆发了掌声。那是我意识到这不仅是一次会议，而且是开发人员和工具制造商聚在一起推动工艺前进的地方。我很高兴地宣布我</description>
+      <pubDate>Mon, 23 Jun 2025 14:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Kernel Python Gets a Major Vector Store Upgrade】语义内核Python获得了主要的矢量商店升级</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-python-gets-a-major-vector-store-upgrade</link>
+      <description>【We&#39;re excited to announce a significant update to Semantic Kernel Python&#39;s vector store implementation. Version 1.34 brings a complete overhaul that makes working with vector data simpler, more intuitive, and more powerful. This update consolidates the API, improves developer experience, and adds new capabilities that streamline AI development】我们很高兴宣布对语义内核Python的矢量商店实施的重大更新。版本1.34带来了一次完整的大修，使使用向量数据更简单，更直观，更强大。此更新巩固了API，改善了开发人员的体验，并添加了简化AI开发的新功能</description>
+      <pubDate>Wed, 25 Jun 2025 00:40:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
