@@ -4,46 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Semantic Kernel Python Gets a Major Vector Store Upgrade】语义内核Python获得了主要的矢量商店升级</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-python-gets-a-major-vector-store-upgrade</link>
+      <description>【We&#39;re excited to announce a significant update to Semantic Kernel Python&#39;s vector store implementation. Version 1.34 brings a complete overhaul that makes working with vector data simpler, more intuitive, and more powerful. This update consolidates the API, improves developer experience, and adds new capabilities that streamline AI development】我们很高兴宣布对语义内核Python的矢量商店实施的重大更新。版本1.34带来了一次完整的大修，使使用向量数据更简单，更直观，更强大。此更新巩固了API，改善了开发人员的体验，并添加了简化AI开发的新功能</description>
+      <pubDate>Wed, 25 Jun 2025 00:40:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【🎉 Now in Public Preview: Create Dev Boxes on Behalf of Your Developers】🎉现在在公共预览中：代表开发人员创建开发框</title>
       <link>https://devblogs.microsoft.com/develop-from-the-cloud/public-preview-create-dev-boxes-on-behalf-of-developers</link>
       <description>【We’re excited to announce that one of our most-requested features is officially in Public Preview: You can now create Dev Boxes on behalf of your developers】我们很高兴地宣布，我们最要求的功能之一是正式的公开预览：您现在可以代表开发人员创建开发框</description>
       <pubDate>Mon, 23 Jun 2025 19:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry</link>
-      <description>【o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry We are excited to announce the availability of o3-pro, the newest model in the Azure AI Foundry via Azure OpenAI. o3-pro combines more compute with long context and multimodal input to deliver consistently better answers for complex tasks. o3-pro is available via the】O系列更新：Azure AI Foundry中的新O3定价和O3-Pro，我们很高兴宣布O3-Pro的可用性，O3-Pro是Azure AI铸造厂中通过Azure OpenAi中的最新型号的可用性。 O3-Pro将更多的计算与长上下文和多模式输入相结合，以为复杂的任务提供更好的答案。 O3-Pro可通过</description>
-      <pubDate>Fri, 20 Jun 2025 16:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Deprecation of MS-APP-ACTS-AS header in Shifts Management Microsoft Graph APIs】换档管理中的MS-App-Acts-As标题Microsoft Graph API</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/deprecation-of-ms-app-acts-as-header-in-shifts-management-microsoft-graph-apis</link>
-      <description>【In app-only access scenarios, Shifts Management Graph APIs previously required the MS-APP-ACTS-AS: userId header to indicate the user on whose behalf the application was acting. However, this conflicted with the】在仅应用程序访问方案中，移动管理图API先前需要MS-App-Acts-AS：用户ID标头来指示代表其代表应用程序代表的用户。但是，这与</description>
-      <pubDate>Mon, 23 Jun 2025 15:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【💻 Spring Cleaning for Dev Boxes: Mastering Manual &amp; Automatic Offboarding】💻开发盒的弹簧清洁：掌握手册和自动卸货</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/%f0%9f%92%bb-spring-cleaning-for-dev-boxes-mastering-manual-automatic-offboarding</link>
-      <description>【Let’s face it. Sometimes your Dev Box just… hangs around too long. Whether you’ve moved to a new project, left the company, want to create a new dev box with the latest tools, it&#39;s time to clean things up. 🎯 With Dev Box Auto-Deletion now in public preview, offboarding just got a whole lot easier. Here&#39;s everything】让我们面对现实吧。有时您的开发盒只是……闲逛太久了。无论您是搬到一个新项目，离开了公司，都想创建一个带有最新工具的新开发框，现在该清理东西了。 🎯现在在公共预览中使用开发框自动删除，卸货变得容易得多。这是一切</description>
-      <pubDate>Fri, 20 Jun 2025 19:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The MIDL compiler still has trouble with double greater-than signs, sadly】MIDL编译器仍然遇到双重迹象的麻烦，可悲的是</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250623-00/?p=111295</link>
-      <description>【The parser for the Microsoft MIDL compiler has long suffered from the problem of the double greater-than sign. This problem plagued C++ until C++11 added a special rule:¹ [temp.names] (4): When parsing a template-argument-list, the first non-nested &amp;gt; is taken as the ending delimiter rath】Microsoft MIDL编译器的解析器长期以来遭受了双重大号的问题。这个问题困扰着C ++直到C ++ 11添加了一个特殊的规则：¹[temp.names]（4）：解析模板 -  argument-list时，第一个非纽扣&gt;被视为结束定界线rath</description>
-      <pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the invalid handle error when a handle is closed while a thread is waiting on it】当线程在等待时关闭手柄时，无效的手柄错误的情况</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250620-00/?p=111291</link>
-      <description>【A customer tracked one of their crashes to an invalid handle exception being raised when one thread closed a handle that another thread was waiting for. Or at least that&#39;s how they presented the problem. The stack trace in the crash dump said ntdll!KiRaiseUserExceptionDispatcher+0x3a KERNELBASE!WaitForMultipleObjectsEx+0x】当一个线程关闭另一个线程在等待的句柄时，客户将其中一次崩溃跟踪到无效的手柄异常。或至少这就是他们提出问题的方式。碰撞转储中的堆栈跟踪表示ntdll！kiraiseuserexceptiondispatcher+0x3a kernelbase！waitgurfformultipleObjectsex+0x</description>
-      <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【codex-mini: Fast, Scalable Code Generation for the CLI Era】Codex-Mini：CLI时代的快速，可扩展的代码生成</title>
-      <link>https://devblogs.microsoft.com/foundry/codex-mini-fast-scalable-code-generation-for-the-cli-era</link>
-      <description>【We’re announcing the general availability of Azure OpenAI’s codex-mini in Azure AI Foundry Models.  codex-mini is a fine-tuned version of the o4-mini model, designed to deliver rapid, instruction-following performance for developers working in CLI workflows. Whether you&#39;r】我们宣布Azure Openai在Azure AI Foundry模型中的Codex-Mini的总体可用性。  Codex-Mini是O4-Mini型号的微调版本，旨在为在CLI工作流中工作的开发人员提供快速，指导性的性能。无论你是</description>
-      <pubDate>Fri, 20 Jun 2025 16:23:00 +0000</pubDate>
     </item>
     <item>
       <title>【Abusing copyright strings to trick software into thinking it&#39;s running on your competitor&#39;s PC】滥用版权字符串欺骗软件以思考其在竞争对手的PC上运行</title>
@@ -52,16 +22,46 @@
       <pubDate>Tue, 24 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【The MIDL compiler still has trouble with double greater-than signs, sadly】MIDL编译器仍然遇到双重迹象的麻烦，可悲的是</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250623-00/?p=111295</link>
+      <description>【The parser for the Microsoft MIDL compiler has long suffered from the problem of the double greater-than sign. This problem plagued C++ until C++11 added a special rule:¹ [temp.names] (4): When parsing a template-argument-list, the first non-nested &amp;gt; is taken as the ending delimiter rath】Microsoft MIDL编译器的解析器长期以来遭受了双重大号的问题。这个问题困扰着C ++直到C ++ 11添加了一个特殊的规则：¹[temp.names]（4）：解析模板 -  argument-list时，第一个非纽扣&gt;被视为结束定界线rath</description>
+      <pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Removing Azure Resource Manager reliance on Azure DevOps sign-ins】删除Azure资源经理对Azure DevOps签名的依赖</title>
+      <link>https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins</link>
+      <description>【Azure DevOps will no longer depend on the Azure Resource Manager (ARM) resource (https://management.azure.com) when you sign in or refresh Microsoft Entra access tokens. Previously, Azure DevOps required the ARM audience during sign-in and token refresh flows. This requirement meant administrators had to allow all Azure DevOps users to bypa】当您登录或刷新Microsoft Entra访问令牌时，Azure DevOps将不再依赖Azure Resource Manager（ARM）资源（https://management.azure.com）。以前，Azure Devops在登录和令牌刷新流程中需要手臂观众。该要求意味着管理员必须允许所有Azure Devops用户BYPA</description>
+      <pubDate>Wed, 25 Jun 2025 18:24:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Better Models, Smarter Defaults: Claude Sonnet 4, GPT-4.1, and More Control in Visual Studio】更好的型号，更聪明的默认值：Claude Sonnet 4，GPT-4.1，以及Visual Studio中的更多控制</title>
+      <link>https://devblogs.microsoft.com/visualstudio/better-models-smarter-defaults-claude-sonnet-4-gpt-4-1-and-more-control-in-visual-studio</link>
+      <description>【We’re excited to share some major improvements to the Copilot experience in Visual Studio, including smarter default models, more choices, and easier ways to manage your usage. Smarter default model Copilot in Visual Studio now uses GPT-4.1 as the default model (previously 4o). In our testing, it】我们很高兴能分享视觉工作室中副驾驶体验的一些重大改进，包括更智能的默认模型，更多的选择以及管理您的用法的更简单方法。 Visual Studio中的Smarter默认模型Copilot现在使用GPT-4.1作为默认模型（以前为4O）。在我们的测试中</description>
+      <pubDate>Wed, 25 Jun 2025 23:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why do I get errors about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 1】为什么我会遇到一些奇怪的符号的错误？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250625-00/?p=111306</link>
+      <description>【A colleague was writing a fuzz test and ran into a build error. vccorlib.lib(climain.obj) : error LNK2019: unresolved external symbol &#34;?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform@@$00@Platform@@@Z&#34; (?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform@@$00@P】一位同事正在编写模糊测试，并遇到了构建错误。 vccorlib.lib（climain.obj）：错误lnk2019：未解决的外部符号”？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform@emplact@@@@@@@emplact@@emplact@@emplact@@@@@em@ z z”</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning】内部访问：加入我们的VS Live！雷德蒙德（Redmond）进行一周的深度开发人员学习</title>
       <link>https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning</link>
       <description>【A long time ago, I stood in a packed room at VS Live! and watched developers erupt in applause after a debugging demo shaved hours off a real-world problem. That was the moment I realized this wasn’t just a conference—it was a place where developers and toolmakers come together to push the craft forward. I’m excited to announce that I】很久以前，我站在VS Live的一个拥挤的房间里！在调试演示剃光的数小时后，看着开发人员在掌声中爆发了掌声。那是我意识到这不仅是一次会议，而且是开发人员和工具制造商聚在一起推动工艺前进的地方。我很高兴地宣布我</description>
       <pubDate>Mon, 23 Jun 2025 14:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Semantic Kernel Python Gets a Major Vector Store Upgrade】语义内核Python获得了主要的矢量商店升级</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-python-gets-a-major-vector-store-upgrade</link>
-      <description>【We&#39;re excited to announce a significant update to Semantic Kernel Python&#39;s vector store implementation. Version 1.34 brings a complete overhaul that makes working with vector data simpler, more intuitive, and more powerful. This update consolidates the API, improves developer experience, and adds new capabilities that streamline AI development】我们很高兴宣布对语义内核Python的矢量商店实施的重大更新。版本1.34带来了一次完整的大修，使使用向量数据更简单，更直观，更强大。此更新巩固了API，改善了开发人员的体验，并添加了简化AI开发的新功能</description>
-      <pubDate>Wed, 25 Jun 2025 00:40:21 +0000</pubDate>
+      <title>【Deprecation of MS-APP-ACTS-AS header in Shifts Management Microsoft Graph APIs】换档管理中的MS-App-Acts-As标题Microsoft Graph API</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/deprecation-of-ms-app-acts-as-header-in-shifts-management-microsoft-graph-apis</link>
+      <description>【In app-only access scenarios, Shifts Management Graph APIs previously required the MS-APP-ACTS-AS: userId header to indicate the user on whose behalf the application was acting. However, this conflicted with the】在仅应用程序访问方案中，移动管理图API先前需要MS-App-Acts-AS：用户ID标头来指示代表其代表应用程序代表的用户。但是，这与</description>
+      <pubDate>Mon, 23 Jun 2025 15:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Your information has been permanently deleted, for small values of permanently】您的信息已被永久删除，以永久价值</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308</link>
+      <description>【As part of a periodic purge of unused online accounts, I deleted my account from a company ten months ago. Let&#39;s call that company Contoso. I received a confirmation that said, &#34;Your personal information and items associated with your account have now been deleted. This action is permanent and cannot be reversed.&#34; Yesterday, I got a】作为定期清除未使用在线帐户的一部分，我十个月前将我的帐户删除了。让我们称那个公司的邦托索。我收到了一个确认，说：“您的个人信息和与您的帐户相关的物品现已删除。此操作是永久的，不能逆转。”昨天，我得到了</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
