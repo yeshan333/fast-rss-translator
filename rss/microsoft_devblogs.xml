@@ -4,34 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Semantic Kernel Python Gets a Major Vector Store Upgrade】语义内核Python获得了主要的矢量商店升级</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-python-gets-a-major-vector-store-upgrade</link>
-      <description>【We&#39;re excited to announce a significant update to Semantic Kernel Python&#39;s vector store implementation. Version 1.34 brings a complete overhaul that makes working with vector data simpler, more intuitive, and more powerful. This update consolidates the API, improves developer experience, and adds new capabilities that streamline AI development】我们很高兴宣布对语义内核Python的矢量商店实施的重大更新。版本1.34带来了一次完整的大修，使使用向量数据更简单，更直观，更强大。此更新巩固了API，改善了开发人员的体验，并添加了简化AI开发的新功能</description>
-      <pubDate>Wed, 25 Jun 2025 00:40:21 +0000</pubDate>
+      <title>【Copilot for Xcode Adds Support for Claude Sonnet 4 and Opus 4】Xcode的Copilot增加了对Claude Sonnet 4和Opus 4的支持</title>
+      <link>https://devblogs.microsoft.com/xcode/copilot-for-xcode-adds-support-for-claude-sonnet-4-and-opus-4</link>
+      <description>【GitHub Copilot for Xcode now supports Anthropic Claude Sonnet 4 and Claude Opus 4, bringing more powerful AI assistance to your Swift, Objective-C, and Apple platform development.  】Xcode的GitHub Copilot现在支持人类的Claude Sonnet 4和Claude Opus 4，为您的Swift，Objective-C和Apple Platform Platform开发提供了更强大的AI帮助。  </description>
+      <pubDate>Fri, 27 Jun 2025 02:59:04 +0000</pubDate>
     </item>
     <item>
-      <title>【🎉 Now in Public Preview: Create Dev Boxes on Behalf of Your Developers】🎉现在在公共预览中：代表开发人员创建开发框</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/public-preview-create-dev-boxes-on-behalf-of-developers</link>
-      <description>【We’re excited to announce that one of our most-requested features is officially in Public Preview: You can now create Dev Boxes on behalf of your developers】我们很高兴地宣布，我们最要求的功能之一是正式的公开预览：您现在可以代表开发人员创建开发框</description>
-      <pubDate>Mon, 23 Jun 2025 19:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Abusing copyright strings to trick software into thinking it&#39;s running on your competitor&#39;s PC】滥用版权字符串欺骗软件以思考其在竞争对手的PC上运行</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299</link>
-      <description>【One very complicated part of bringing up Plug and Play was bootstrapping the entire process. After all, the number of computers that supported the Plug and Play specification started at zero, because the specification was still being written. A lot of clever tricks were used to retrofit Plug and Play onto legacy hardware.¹ The Wind】提高插头和游戏的一个非常复杂的部分是引导整个过程。毕竟，支持插头规格的计算机数量开始为零，因为规范仍在编写。许多巧妙的技巧被用来翻新插件并播放到遗产硬件上。</description>
-      <pubDate>Tue, 24 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The MIDL compiler still has trouble with double greater-than signs, sadly】MIDL编译器仍然遇到双重迹象的麻烦，可悲的是</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250623-00/?p=111295</link>
-      <description>【The parser for the Microsoft MIDL compiler has long suffered from the problem of the double greater-than sign. This problem plagued C++ until C++11 added a special rule:¹ [temp.names] (4): When parsing a template-argument-list, the first non-nested &amp;gt; is taken as the ending delimiter rath】Microsoft MIDL编译器的解析器长期以来遭受了双重大号的问题。这个问题困扰着C ++直到C ++ 11添加了一个特殊的规则：¹[temp.names]（4）：解析模板 -  argument-list时，第一个非纽扣&gt;被视为结束定界线rath</description>
-      <pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Removing Azure Resource Manager reliance on Azure DevOps sign-ins】删除Azure资源经理对Azure DevOps签名的依赖</title>
-      <link>https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins</link>
-      <description>【Azure DevOps will no longer depend on the Azure Resource Manager (ARM) resource (https://management.azure.com) when you sign in or refresh Microsoft Entra access tokens. Previously, Azure DevOps required the ARM audience during sign-in and token refresh flows. This requirement meant administrators had to allow all Azure DevOps users to bypa】当您登录或刷新Microsoft Entra访问令牌时，Azure DevOps将不再依赖Azure Resource Manager（ARM）资源（https://management.azure.com）。以前，Azure Devops在登录和令牌刷新流程中需要手臂观众。该要求意味着管理员必须允许所有Azure Devops用户BYPA</description>
-      <pubDate>Wed, 25 Jun 2025 18:24:26 +0000</pubDate>
+      <title>【Simpler XAML in .NET MAUI 10】更简单的XAML在.NET MAUI 10</title>
+      <link>https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10</link>
+      <description>【Building UI in .NET MAUI with XAML continues to be the most popular approach. It&#39;s easy to see the nesting structure of your UI, works for most use cases with hot reload, and it supports powerful state flow with data binding. One of the downsides is how verbose it can become. Every page requires you to declare the namespaces for any types used】用XAML在.NET MAUI中构建UI仍然是最受欢迎的方法。它很容易看到UI的嵌套结构，适用于大多数带有热装加载的用例，并且用数据绑定支持强大的状态流。缺点之一是它可以变成详细的。每个页面都要求您声明使用的任何类型的名称空间</description>
+      <pubDate>Thu, 26 Jun 2025 19:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【Better Models, Smarter Defaults: Claude Sonnet 4, GPT-4.1, and More Control in Visual Studio】更好的型号，更聪明的默认值：Claude Sonnet 4，GPT-4.1，以及Visual Studio中的更多控制</title>
@@ -40,28 +22,46 @@
       <pubDate>Wed, 25 Jun 2025 23:24:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Why do I get errors about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 1】为什么我会遇到一些奇怪的符号的错误？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第1部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250625-00/?p=111306</link>
-      <description>【A colleague was writing a fuzz test and ran into a build error. vccorlib.lib(climain.obj) : error LNK2019: unresolved external symbol &#34;?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform@@$00@Platform@@@Z&#34; (?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform@@$00@P】一位同事正在编写模糊测试，并遇到了构建错误。 vccorlib.lib（climain.obj）：错误lnk2019：未解决的外部符号”？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform@emplact@@@@@@@emplact@@emplact@@emplact@@@@@em@ z z”</description>
-      <pubDate>Wed, 25 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【Introducing MSSQL MCP Server (Preview)】介绍MSSQL MCP服务器（预览）</title>
+      <link>https://devblogs.microsoft.com/azure-sql/introducing-mssql-mcp-server</link>
+      <description>【The next leap in data interaction isn&#39;t just about efficient processing; it&#39;s about intuitive and meaningful conversation with your own data. For years, the true power of SQL Server databases has been locked behind complex query languages and specialized tools, accessible primarily to developers and database adm】数据交互的下一个飞跃不仅仅是有效的处理。 这是关于与您自己的数据的直观和有意义的对话。多年来，SQL Server数据库的真正功能一直锁定在复杂的查询语言和专业工具后面，主要可用于开发人员和数据库ADM</description>
+      <pubDate>Thu, 26 Jun 2025 20:51:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning】内部访问：加入我们的VS Live！雷德蒙德（Redmond）进行一周的深度开发人员学习</title>
-      <link>https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning</link>
-      <description>【A long time ago, I stood in a packed room at VS Live! and watched developers erupt in applause after a debugging demo shaved hours off a real-world problem. That was the moment I realized this wasn’t just a conference—it was a place where developers and toolmakers come together to push the craft forward. I’m excited to announce that I】很久以前，我站在VS Live的一个拥挤的房间里！在调试演示剃光的数小时后，看着开发人员在掌声中爆发了掌声。那是我意识到这不仅是一次会议，而且是开发人员和工具制造商聚在一起推动工艺前进的地方。我很高兴地宣布我</description>
-      <pubDate>Mon, 23 Jun 2025 14:00:26 +0000</pubDate>
+      <title>【Fleet Configuration Management】车队配置管理</title>
+      <link>https://devblogs.microsoft.com/ise/fleet-configuration-management</link>
+      <description>【Introduction Recently, the Microsoft ISE team completed a customer engagement that involved managing edge deployments to factory floors across geographical locations. This system needed to support existing workloads migrated from Azure IoT Hub, new workloads for processing IoT data feeds, and machine learning workloads for performing】引言最近，微软ISE团队完成了客户参与度，其中涉及将边缘部署到地理位置的工厂地板上。该系统需要支持从Azure IoT中心迁移的现有工作负载，用于处理IoT数据供稿的新工作负载以及用于执行的机器学习工作负载</description>
+      <pubDate>Thu, 26 Jun 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Deprecation of MS-APP-ACTS-AS header in Shifts Management Microsoft Graph APIs】换档管理中的MS-App-Acts-As标题Microsoft Graph API</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/deprecation-of-ms-app-acts-as-header-in-shifts-management-microsoft-graph-apis</link>
-      <description>【In app-only access scenarios, Shifts Management Graph APIs previously required the MS-APP-ACTS-AS: userId header to indicate the user on whose behalf the application was acting. However, this conflicted with the】在仅应用程序访问方案中，移动管理图API先前需要MS-App-Acts-AS：用户ID标头来指示代表其代表应用程序代表的用户。但是，这与</description>
-      <pubDate>Mon, 23 Jun 2025 15:30:30 +0000</pubDate>
+      <title>【How Electronic Arts standardized C++ builds across Windows and Linux with Visual Studio Build Tools】电子艺术如何使用Visual Studio构建工具在Windows和Linux跨Windows和Linux上建造</title>
+      <link>https://devblogs.microsoft.com/cppblog/how-electronic-arts-standardized-c-builds-across-windows-and-linux-with-visual-studio-build-tools</link>
+      <description>【At Electronic Arts (EA), the Frostbite Enginering Workflows team has thousands of developers who work on powerful game engines behind popular games.  EA has relied on Visual Studio for years due to several features such as IntelliSense, Build Insights, and the overall debugging experience and eagerly use newer integrations such as GitHub Copi】在电子艺术（EA），Frostbite Enginering Workfrows团队拥有成千上万的开发人员，他们在流行游戏背后的强大游戏引擎工作。  由于诸如Intellisense，Build Insights和整体调试体验，并热切使用较新的集成（例如GitHub Copi），EA一直依靠Visual Studio多年来依靠Visual Studio。</description>
+      <pubDate>Thu, 26 Jun 2025 12:00:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Your information has been permanently deleted, for small values of permanently】您的信息已被永久删除，以永久价值</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308</link>
-      <description>【As part of a periodic purge of unused online accounts, I deleted my account from a company ten months ago. Let&#39;s call that company Contoso. I received a confirmation that said, &#34;Your personal information and items associated with your account have now been deleted. This action is permanent and cannot be reversed.&#34; Yesterday, I got a】作为定期清除未使用在线帐户的一部分，我十个月前将我的帐户删除了。让我们称那个公司的邦托索。我收到了一个确认，说：“您的个人信息和与您的帐户相关的物品现已删除。此操作是永久的，不能逆转。”昨天，我得到了</description>
-      <pubDate>Wed, 25 Jun 2025 14:00:01 +0000</pubDate>
+      <title>【Removing Azure Resource Manager reliance on Azure DevOps sign-ins】删除Azure资源经理对Azure DevOps签名的依赖</title>
+      <link>https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins</link>
+      <description>【Azure DevOps will no longer depend on the Azure Resource Manager (ARM) resource (https://management.azure.com) when you sign in or refresh Microsoft Entra access tokens. Previously, Azure DevOps required the ARM audience during sign-in and token refresh flows. This requirement meant administrators had to allow all Azure DevOps users to bypa】当您登录或刷新Microsoft Entra访问令牌时，Azure DevOps将不再依赖Azure Resource Manager（ARM）资源（https://management.azure.com）。以前，Azure Devops在登录和令牌刷新流程中需要手臂观众。该要求意味着管理员必须允许所有Azure Devops用户BYPA</description>
+      <pubDate>Wed, 25 Jun 2025 18:24:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why do I get errors about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 2】为什么我会遇到一些怪异符号的错误？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第2部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250626-00/?p=111314</link>
+      <description>【We are investigating why a project is getting an error about a weird C++/CX symbol, and we thought we had figured it out, but our a】我们正在调查为什么一个项目对怪异的C ++/CX符号遇到错误，我们认为我们已经弄清楚了，但是我们的A</description>
+      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Azure Storage Connector for PyTorch】引入Pytorch的Azure存储连接器</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-storage-connector-for-pytorch</link>
+      <description>【We&#39;re excited to introduce the Azure Storage Connector for PyTorch (azstoragetorch), a new library that brings seamless, performance-optimized integration between Azure Storage and PyTorch. The library makes it easy to access and store data in Azure Blob Storage directly within your training workflows. What is PyTorch?】我们很高兴地介绍了Pytorch（Azstoragetorch）的Azure存储连接器，这是一个新的库，它在Azure Storage和Pytorch之间带来了无缝，性能优化的集成。该库使直接在培训工作流程中的Azure Blob存储中访问和存储数据。什么是Pytorch？</description>
+      <pubDate>Thu, 26 Jun 2025 15:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v0.29 with refactored architecture, MCP server, and exposed LM prompts】带有重构体系结构，MCP服务器和暴露的LM提示的DEV代理v0.29</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-29-with-refactored-architecture-mcp-server-and-exposed-lm-prompts</link>
+      <description>【We’re excited to introduce Dev Proxy v0.29, with a major architectural overhaul, control over language model prompts, and improved diagnostics. Whether you&#39;re building, debugging, or customizing your API simulations, this version gives you more power and clarity than ever before. In this version: Architectural refactoring to】我们很高兴介绍Dev Proxy V0.29，并进行了重大的体系结构大修，对语言模型提示的控制和改进的诊断。无论您是构建，调试还是自定义API模拟，此版本都比以往任何时候都更加明确。在此版本中：建筑重构</description>
+      <pubDate>Thu, 26 Jun 2025 07:22:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
