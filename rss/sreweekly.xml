@@ -4,22 +4,22 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #480】SRE周刊＃480</title>
-      <link>https://sreweekly.com/sre-weekly-issue-480/</link>
-      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的消息：🔍值得注意的Pagerduty Shift：完整的事件管理现在跨越了所有付费层。升级的松弛至上和团队优先的经验意味着在事件中遇到的工具更少。仅利用Pagerduty进行基本警报？是时候查看您计划中新近可用的东西了！ https://fnf.dev/4dz5v36您无法阻止[…]</description>
-      <pubDate>Mon, 09 Jun 2025 02:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #481】SRE周刊＃481</title>
-      <link>https://sreweekly.com/sre-weekly-issue-481/</link>
-      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On [&amp;#8230;]】在sreweekly.com上查看我们的赞助商Pagerduty的消息：需要Slack-Native E2E事件管理吗？ Pagerduty提供！自动事件工作流程设置了松弛频道？ ✅事件角色和内置命令？ ✅提供实时客户影响的AI驱动聊天？ ✅现在所有付费的Pagerduty计划可用。 https://fnf.dev/4dz5v36 Google Cloud Platform事件，2025年6月12日在[…]上</description>
-      <pubDate>Mon, 16 Jun 2025 01:22:03 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #478】SRE周刊＃478</title>
       <link>https://sreweekly.com/sre-weekly-issue-478/</link>
       <description>【View on sreweekly.com Security and SRE: How Datadog&amp;#8217;s combined approach aims to tackle security and reliability challenges Datadog has fully merged their SRE and Security teams. In this post, we&amp;#8217;ll look at essential elements of SRE and security, the benefits we&amp;#8217;ve realized by combining the two disciplines, and what that approach looks like for us. [&amp;#8230;]】在Sreweekly.com Security和SRE上查看：Datadog的合并方法旨在应对安全性和可靠性挑战Datadog已完全合并其SRE和安全团队。在这篇文章中，我们将研究SRE和Security的基本要素，通过结合两个学科来实现的好处，以及这种方法对我们来说是什么样子。 […]</description>
       <pubDate>Mon, 26 May 2025 02:04:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #479】SRE周刊＃479</title>
+      <link>https://sreweekly.com/sre-weekly-issue-479/</link>
+      <description>【View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don&amp;#8217;t always return you to a previous system state. They can return you to a state you&amp;#8217;ve never tested or operated before. &amp;#160;&amp;#160;Steve Fenton &amp;#8212; Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives [&amp;#8230;]】在sweekly.com上查看自动回滚是最后的度假胜地回滚，并不总是将您返回到以前的系统状态。他们可以将您返回您以前从未进行过测试或操作的状态。   史蒂夫·芬顿（Steve Fenton） - 章鱼部署燃烧率是一个更好的错误率，本文解释了烧伤率警报的数学，并给出了[…]</description>
+      <pubDate>Mon, 02 Jun 2025 02:17:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #480】SRE周刊＃480</title>
+      <link>https://sreweekly.com/sre-weekly-issue-480/</link>
+      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的消息：🔍值得注意的Pagerduty Shift：完整的事件管理现在跨越了所有付费层。升级的松弛至上和团队优先的经验意味着在事件中遇到的工具更少。仅利用Pagerduty进行基本警报？是时候查看您计划中新近可用的东西了！ https://fnf.dev/4dz5v36您无法阻止[…]</description>
+      <pubDate>Mon, 09 Jun 2025 02:25:12 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #482】SRE周刊＃482</title>
@@ -28,10 +28,10 @@
       <pubDate>Mon, 23 Jun 2025 02:48:32 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #479】SRE周刊＃479</title>
-      <link>https://sreweekly.com/sre-weekly-issue-479/</link>
-      <description>【View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don&amp;#8217;t always return you to a previous system state. They can return you to a state you&amp;#8217;ve never tested or operated before. &amp;#160;&amp;#160;Steve Fenton &amp;#8212; Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives [&amp;#8230;]】在sweekly.com上查看自动回滚是最后的度假胜地回滚，并不总是将您返回到以前的系统状态。他们可以将您返回您以前从未进行过测试或操作的状态。   史蒂夫·芬顿（Steve Fenton） - 章鱼部署燃烧率是一个更好的错误率，本文解释了烧伤率警报的数学，并给出了[…]</description>
-      <pubDate>Mon, 02 Jun 2025 02:17:31 +0000</pubDate>
+      <title>【SRE Weekly Issue #481】SRE周刊＃481</title>
+      <link>https://sreweekly.com/sre-weekly-issue-481/</link>
+      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On [&amp;#8230;]】在sreweekly.com上查看我们的赞助商Pagerduty的消息：需要Slack-Native E2E事件管理吗？ Pagerduty提供！自动事件工作流程设置了松弛频道？ ✅事件角色和内置命令？ ✅提供实时客户影响的AI驱动聊天？ ✅现在所有付费的Pagerduty计划可用。 https://fnf.dev/4dz5v36 Google Cloud Platform事件，2025年6月12日在[…]上</description>
+      <pubDate>Mon, 16 Jun 2025 01:22:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

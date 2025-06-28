@@ -4,52 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Copilot for Xcode Adds Support for Claude Sonnet 4 and Opus 4】Xcode的Copilot增加了对Claude Sonnet 4和Opus 4的支持</title>
+      <title>【Copilot for Xcode Adds Support for Anthropic Claude Sonnet 4 and Opus 4】Xcode的Copilot增加了对人类Claude Sonnet 4和Opus 4的支持</title>
       <link>https://devblogs.microsoft.com/xcode/copilot-for-xcode-adds-support-for-claude-sonnet-4-and-opus-4</link>
       <description>【GitHub Copilot for Xcode now supports Anthropic Claude Sonnet 4 and Claude Opus 4, bringing more powerful AI assistance to your Swift, Objective-C, and Apple platform development.  】Xcode的GitHub Copilot现在支持人类的Claude Sonnet 4和Claude Opus 4，为您的Swift，Objective-C和Apple Platform Platform开发提供了更强大的AI帮助。  </description>
       <pubDate>Fri, 27 Jun 2025 02:59:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Simpler XAML in .NET MAUI 10】更简单的XAML在.NET MAUI 10</title>
-      <link>https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10</link>
-      <description>【Building UI in .NET MAUI with XAML continues to be the most popular approach. It&#39;s easy to see the nesting structure of your UI, works for most use cases with hot reload, and it supports powerful state flow with data binding. One of the downsides is how verbose it can become. Every page requires you to declare the namespaces for any types used】用XAML在.NET MAUI中构建UI仍然是最受欢迎的方法。它很容易看到UI的嵌套结构，适用于大多数带有热装加载的用例，并且用数据绑定支持强大的状态流。缺点之一是它可以变成详细的。每个页面都要求您声明使用的任何类型的名称空间</description>
-      <pubDate>Thu, 26 Jun 2025 19:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Better Models, Smarter Defaults: Claude Sonnet 4, GPT-4.1, and More Control in Visual Studio】更好的型号，更聪明的默认值：Claude Sonnet 4，GPT-4.1，以及Visual Studio中的更多控制</title>
-      <link>https://devblogs.microsoft.com/visualstudio/better-models-smarter-defaults-claude-sonnet-4-gpt-4-1-and-more-control-in-visual-studio</link>
-      <description>【We’re excited to share some major improvements to the Copilot experience in Visual Studio, including smarter default models, more choices, and easier ways to manage your usage. Smarter default model Copilot in Visual Studio now uses GPT-4.1 as the default model (previously 4o). In our testing, it】我们很高兴能分享视觉工作室中副驾驶体验的一些重大改进，包括更智能的默认模型，更多的选择以及管理您的用法的更简单方法。 Visual Studio中的Smarter默认模型Copilot现在使用GPT-4.1作为默认模型（以前为4O）。在我们的测试中</description>
-      <pubDate>Wed, 25 Jun 2025 23:24:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing MSSQL MCP Server (Preview)】介绍MSSQL MCP服务器（预览）</title>
-      <link>https://devblogs.microsoft.com/azure-sql/introducing-mssql-mcp-server</link>
-      <description>【The next leap in data interaction isn&#39;t just about efficient processing; it&#39;s about intuitive and meaningful conversation with your own data. For years, the true power of SQL Server databases has been locked behind complex query languages and specialized tools, accessible primarily to developers and database adm】数据交互的下一个飞跃不仅仅是有效的处理。 这是关于与您自己的数据的直观和有意义的对话。多年来，SQL Server数据库的真正功能一直锁定在复杂的查询语言和专业工具后面，主要可用于开发人员和数据库ADM</description>
-      <pubDate>Thu, 26 Jun 2025 20:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fleet Configuration Management】车队配置管理</title>
-      <link>https://devblogs.microsoft.com/ise/fleet-configuration-management</link>
-      <description>【Introduction Recently, the Microsoft ISE team completed a customer engagement that involved managing edge deployments to factory floors across geographical locations. This system needed to support existing workloads migrated from Azure IoT Hub, new workloads for processing IoT data feeds, and machine learning workloads for performing】引言最近，微软ISE团队完成了客户参与度，其中涉及将边缘部署到地理位置的工厂地板上。该系统需要支持从Azure IoT中心迁移的现有工作负载，用于处理IoT数据供稿的新工作负载以及用于执行的机器学习工作负载</description>
-      <pubDate>Thu, 26 Jun 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Electronic Arts standardized C++ builds across Windows and Linux with Visual Studio Build Tools】电子艺术如何使用Visual Studio构建工具在Windows和Linux跨Windows和Linux上建造</title>
-      <link>https://devblogs.microsoft.com/cppblog/how-electronic-arts-standardized-c-builds-across-windows-and-linux-with-visual-studio-build-tools</link>
-      <description>【At Electronic Arts (EA), the Frostbite Enginering Workflows team has thousands of developers who work on powerful game engines behind popular games.  EA has relied on Visual Studio for years due to several features such as IntelliSense, Build Insights, and the overall debugging experience and eagerly use newer integrations such as GitHub Copi】在电子艺术（EA），Frostbite Enginering Workfrows团队拥有成千上万的开发人员，他们在流行游戏背后的强大游戏引擎工作。  由于诸如Intellisense，Build Insights和整体调试体验，并热切使用较新的集成（例如GitHub Copi），EA一直依靠Visual Studio多年来依靠Visual Studio。</description>
-      <pubDate>Thu, 26 Jun 2025 12:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Removing Azure Resource Manager reliance on Azure DevOps sign-ins】删除Azure资源经理对Azure DevOps签名的依赖</title>
-      <link>https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins</link>
-      <description>【Azure DevOps will no longer depend on the Azure Resource Manager (ARM) resource (https://management.azure.com) when you sign in or refresh Microsoft Entra access tokens. Previously, Azure DevOps required the ARM audience during sign-in and token refresh flows. This requirement meant administrators had to allow all Azure DevOps users to bypa】当您登录或刷新Microsoft Entra访问令牌时，Azure DevOps将不再依赖Azure Resource Manager（ARM）资源（https://management.azure.com）。以前，Azure Devops在登录和令牌刷新流程中需要手臂观众。该要求意味着管理员必须允许所有Azure Devops用户BYPA</description>
-      <pubDate>Wed, 25 Jun 2025 18:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why do I get errors about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 2】为什么我会遇到一些怪异符号的错误？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250626-00/?p=111314</link>
-      <description>【We are investigating why a project is getting an error about a weird C++/CX symbol, and we thought we had figured it out, but our a】我们正在调查为什么一个项目对怪异的C ++/CX符号遇到错误，我们认为我们已经弄清楚了，但是我们的A</description>
-      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing the Azure Storage Connector for PyTorch】引入Pytorch的Azure存储连接器</title>
@@ -58,10 +16,52 @@
       <pubDate>Thu, 26 Jun 2025 15:00:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Dev Proxy v0.29 with refactored architecture, MCP server, and exposed LM prompts】带有重构体系结构，MCP服务器和暴露的LM提示的DEV代理v0.29</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-29-with-refactored-architecture-mcp-server-and-exposed-lm-prompts</link>
-      <description>【We’re excited to introduce Dev Proxy v0.29, with a major architectural overhaul, control over language model prompts, and improved diagnostics. Whether you&#39;re building, debugging, or customizing your API simulations, this version gives you more power and clarity than ever before. In this version: Architectural refactoring to】我们很高兴介绍Dev Proxy V0.29，并进行了重大的体系结构大修，对语言模型提示的控制和改进的诊断。无论您是构建，调试还是自定义API模拟，此版本都比以往任何时候都更加明确。在此版本中：建筑重构</description>
-      <pubDate>Thu, 26 Jun 2025 07:22:33 +0000</pubDate>
+      <title>【Anthropic Claude Sonnet 4 and Opus 4 Now Available in GitHub Copilot for JetBrains and Eclipse】拟人化的克劳德十四行诗4和opus 4现在在Github副铜中可用于喷气式和日食</title>
+      <link>https://devblogs.microsoft.com/java/anthropic-claude-sonnet-4-and-opus-4-support</link>
+      <description>【Anthropic Claude Sonnet 4 and Claude Opus 4 are now available in GitHub Copilot Chat for JetBrains IDEs and Eclipse. Model Availability✨】现在可以在Github Copilot聊天中为喷气式和Eclipse提供拟人的Claude Sonnet 4和Claude Opus 4。模型可用性✨</description>
+      <pubDate>Fri, 27 Jun 2025 05:57:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Electronic Arts standardized C++ builds across Windows and Linux with Visual Studio Build Tools】电子艺术如何使用Visual Studio构建工具在Windows和Linux跨Windows和Linux上建造</title>
+      <link>https://devblogs.microsoft.com/cppblog/how-electronic-arts-standardized-c-builds-across-windows-and-linux-with-visual-studio-build-tools</link>
+      <description>【At Electronic Arts (EA), the Frostbite Enginering Workflows team has thousands of developers who work on powerful game engines behind popular games.  EA has relied on Visual Studio for years due to several features such as IntelliSense, Build Insights, and the overall debugging experience and eagerly use newer integrations such as GitHub Copi】在电子艺术（EA），Frostbite Enginering Workfrows团队拥有成千上万的开发人员，他们在流行游戏背后的强大游戏引擎工作。  由于诸如Intellisense，Build Insights和整体调试体验，并热切使用较新的集成（例如GitHub Copi），EA一直依靠Visual Studio多年来依靠Visual Studio。</description>
+      <pubDate>Thu, 26 Jun 2025 12:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why do I get errors about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 2】为什么我会遇到一些怪异符号的错误？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第2部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250626-00/?p=111314</link>
+      <description>【We are investigating why a project is getting an error about a weird C++/CX symbol, and we thought we had figured it out, but our a】我们正在调查为什么一个项目对怪异的C ++/CX符号遇到错误，我们认为我们已经弄清楚了，但是我们的A</description>
+      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing MSSQL MCP Server (Preview)】介绍MSSQL MCP服务器（预览）</title>
+      <link>https://devblogs.microsoft.com/azure-sql/introducing-mssql-mcp-server</link>
+      <description>【The next leap in data interaction isn&#39;t just about efficient processing; it&#39;s about intuitive and meaningful conversation with your own data. For years, the true power of SQL Server databases has been locked behind complex query languages and specialized tools, accessible primarily to developers and database adm】数据交互的下一个飞跃不仅仅是有效的处理。 这是关于与您自己的数据的直观和有意义的对话。多年来，SQL Server数据库的真正功能一直锁定在复杂的查询语言和专业工具后面，主要可用于开发人员和数据库ADM</description>
+      <pubDate>Thu, 26 Jun 2025 20:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft 365 Copilot APIs: Unlocking enterprise knowledge for AI with the Retrieval API — Now in Public Preview】Microsoft 365 Copilot API：通过检索API解锁AI的企业知识 - 现在在公共预览中</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-unlocking-enterprise-knowledge-for-ai-with-the-retrieval-api</link>
+      <description>【At Build 2025, we introduced the Microsoft 365 Copilot APIs. Developers now have an extensibility layer that empowers them to create intelligent, AI-driven experiences deeply integrated with the Microsoft 365 ecosystem. These API】在Build 2025，我们引入了Microsoft 365 Copilot API。现在，开发人员拥有一个可扩展的层，可以使他们能够创建与Microsoft 365生态系统深入整合的智能AI驱动体验。这些API</description>
+      <pubDate>Fri, 27 Jun 2025 17:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Model Context Protocol Support (preview) in Azure AI Foundry Agent Service】在Azure AI铸造代理服务中宣布模型上下文协议支持（预览）</title>
+      <link>https://devblogs.microsoft.com/foundry/announcing-model-context-protocol-support-preview-in-azure-ai-foundry-agent-service</link>
+      <description>【Generative-AI agents only become useful when they can do things—query systems of record, trigger workflows, or look up specialized knowledge. Until now that meant hand-rolling Azure Functions, managing OpenAPI specs, or writing custom pl】生成型代理只有在能够做事时才会变得有用 - 记录的Query Systems，触发工作流或查找专业知识。到目前为止</description>
+      <pubDate>Fri, 27 Jun 2025 22:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why do I get errors or warnings about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 3】为什么我会收到有关称为怪异符号的错误或警告？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第3部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250627-00/?p=111316</link>
+      <description>【We have been investigating why a project is getting an error about a weird C++/CX symbol, and we tracked it down to three things:】我们一直在调查为什么一个项目对怪异的C ++/CX符号遇到错误，然后我们将其跟踪到三件事：</description>
+      <pubDate>Fri, 27 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Simpler XAML in .NET MAUI 10】更简单的XAML在.NET MAUI 10</title>
+      <link>https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10</link>
+      <description>【Building UI in .NET MAUI with XAML continues to be the most popular approach. It&#39;s easy to see the nesting structure of your UI, works for most use cases with hot reload, and it supports powerful state flow with data binding. One of the downsides is how verbose it can become. Every page requires you to declare the namespaces for any types used】用XAML在.NET MAUI中构建UI仍然是最受欢迎的方法。它很容易看到UI的嵌套结构，适用于大多数带有热装加载的用例，并且用数据绑定支持强大的状态流。缺点之一是它可以变成详细的。每个页面都要求您声明使用的任何类型的名称空间</description>
+      <pubDate>Thu, 26 Jun 2025 19:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
