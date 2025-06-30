@@ -10,18 +10,6 @@
       <pubDate>Mon, 02 Jun 2025 16:25:10 +0000</pubDate>
     </item>
     <item>
-      <title>使用Amazon API Gateway转换Maya的API管理</title>
-      <link>https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/</link>
-      <description></description>
-      <pubDate>Tue, 27 May 2025 17:29:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用AWS和生成AI简化可持续性报告</title>
-      <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
-      <description></description>
-      <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Smartsheet如何通过Amazon Bedrock和Roo Code提高开发人员的生产力</title>
       <link>https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/</link>
       <description></description>
@@ -34,22 +22,22 @@
       <pubDate>Thu, 12 Jun 2025 12:21:22 +0000</pubDate>
     </item>
     <item>
+      <title>AWS着陆区的亚马逊基岩基线建筑</title>
+      <link>https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/</link>
+      <description></description>
+      <pubDate>Mon, 23 Jun 2025 18:36:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用AWS和生成AI简化可持续性报告</title>
+      <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
+      <description></description>
+      <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
+    </item>
+    <item>
       <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
       <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
       <description></description>
       <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stellantis如何通过AWS上的无服务器编排来简化浮动许可管理</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/</link>
-      <description></description>
-      <pubDate>Thu, 12 Jun 2025 12:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>改善现金应用程序的平台弹性</title>
-      <link>https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/</link>
-      <description></description>
-      <pubDate>Thu, 29 May 2025 15:10:40 +0000</pubDate>
     </item>
     <item>
       <title>使用Amazon Sagemaker AI和Amazon Bedrock优化车队操作</title>
@@ -58,10 +46,22 @@
       <pubDate>Wed, 28 May 2025 18:29:26 +0000</pubDate>
     </item>
     <item>
-      <title>AWS着陆区的亚马逊基岩基线建筑</title>
-      <link>https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/</link>
+      <title>Stellantis如何通过AWS上的无服务器编排来简化浮动许可管理</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/</link>
       <description></description>
-      <pubDate>Mon, 23 Jun 2025 18:36:51 +0000</pubDate>
+      <pubDate>Thu, 12 Jun 2025 12:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用Amazon API Gateway转换Maya的API管理</title>
+      <link>https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/</link>
+      <description></description>
+      <pubDate>Tue, 27 May 2025 17:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>改善现金应用程序的平台弹性</title>
+      <link>https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/</link>
+      <description></description>
+      <pubDate>Thu, 29 May 2025 15:10:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
