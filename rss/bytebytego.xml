@@ -5,28 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Database Schema Design Simplified: Normalization vs Denormalization】数据库架构设计简化：归一化与非正式化</title>
-      <link>https://blog.bytebytego.com/p/database-schema-design-simplified</link>
-      <description>【The goal isn&#39;t to declare one approach as the winner. It&#39;s to understand their mechanics, consequences, and ideal use cases.】目标不是将一种方法宣布为赢家。这是了解他们的机制，后果和理想用例。</description>
-      <pubDate>Thu, 12 Jun 2025 15:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Object Oriented Design Interview Book is here — now available on Amazon!】面向对象的设计采访书在这里 - 现在在亚马逊上可用！</title>
-      <link>https://blog.bytebytego.com/p/object-oriented-design-interview</link>
-      <description>【*BIG* announcement: Our new book, Object Oriented Design Interview, is available on Amazon!】* Big*公告：我们的新书，面向对象的设计采访，可在亚马逊上获得！</description>
-      <pubDate>Mon, 23 Jun 2025 15:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
-      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
-      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
-      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP168: AI Vs Machine Learning Vs Deep Learning Vs Generative AI】EP168：AI与机器学习与深度学习与生成AI</title>
-      <link>https://blog.bytebytego.com/p/ep168-ai-vs-machine-learning-vs-deep</link>
-      <description>【What else will you add to understand these concepts better?】您还会添加什么以更好地理解这些概念？</description>
-      <pubDate>Sat, 21 Jun 2025 15:30:15 +0000</pubDate>
+      <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
+      <link>https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should</link>
+      <description>【Which other AI concept will you add to the list?】您还将添加哪个AI概念？</description>
+      <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
     </item>
     <item>
       <title>【EP169: RAG vs Agentic RAG】EP169：抹布与代理抹布</title>
@@ -35,16 +17,34 @@
       <pubDate>Sat, 28 Jun 2025 15:30:09 +0000</pubDate>
     </item>
     <item>
+      <title>【Inside Airbnb’s AI-Powered Pipeline to Migrate Tests: Months of Work in Days 】在Airbnb的AI驱动管道中，用于迁移测试：几天的工作</title>
+      <link>https://blog.bytebytego.com/p/inside-airbnbs-ai-powered-pipeline</link>
+      <description>【This article covers the structure of the automation pipeline, the trade-offs behind prompt engineering vs. brute-force retries, the methods used to handle complex edge cases, and the results that followed.】本文涵盖了自动化管道的结构，迅速工程与蛮力重试的权衡取舍，用于处理复杂边缘案例的方法以及随后的结果。</description>
+      <pubDate>Tue, 24 Jun 2025 15:30:34 +0000</pubDate>
+    </item>
+    <item>
       <title>【Database Indexing Demystified: Index Types and Use-Cases】数据库索引神秘：索引类型和用例</title>
       <link>https://blog.bytebytego.com/p/database-indexing-demystified-index</link>
       <description>【In this article, we will explore the basic concept of database indexing and different index types.】在本文中，我们将探讨数据库索引和不同索引类型的基本概念。</description>
       <pubDate>Thu, 26 Jun 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【A Guide to Database Transactions: From ACID to Concurrency Control】数据库交易指南：从酸到并发控制</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-database-transactions</link>
-      <description>【In this article, we break down the key building blocks that make transactional systems reliable in the face of concurrency.】在本文中，我们分解了使交易系统在并发时可靠的关键构件。</description>
-      <pubDate>Thu, 19 Jun 2025 15:30:36 +0000</pubDate>
+      <title>【Database Schema Design Simplified: Normalization vs Denormalization】数据库架构设计简化：归一化与非正式化</title>
+      <link>https://blog.bytebytego.com/p/database-schema-design-simplified</link>
+      <description>【The goal isn&#39;t to declare one approach as the winner. It&#39;s to understand their mechanics, consequences, and ideal use cases.】目标不是将一种方法宣布为赢家。这是了解他们的机制，后果和理想用例。</description>
+      <pubDate>Thu, 12 Jun 2025 15:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Shopify Tech Stack】Shopify Tech堆栈</title>
+      <link>https://blog.bytebytego.com/p/shopify-tech-stack</link>
+      <description>【Note: This article is written in collaboration with the Shopify engineering team.】注意：本文是与Shopify工程团队合作编写的。</description>
+      <pubDate>Wed, 11 Jun 2025 15:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Object Oriented Design Interview Book is here — now available on Amazon!】面向对象的设计采访书在这里 - 现在在亚马逊上可用！</title>
+      <link>https://blog.bytebytego.com/p/object-oriented-design-interview</link>
+      <description>【*BIG* announcement: Our new book, Object Oriented Design Interview, is available on Amazon!】* Big*公告：我们的新书，面向对象的设计采访，可在亚马逊上获得！</description>
+      <pubDate>Mon, 23 Jun 2025 15:31:08 +0000</pubDate>
     </item>
     <item>
       <title>【How the Google Cloud Outage Crashed the Internet】Google云中断如何崩溃了互联网</title>
@@ -53,16 +53,16 @@
       <pubDate>Tue, 17 Jun 2025 15:30:25 +0000</pubDate>
     </item>
     <item>
-      <title>【EP167: Top 20 AI Concepts You Should Know】EP167：您应该知道的前20个AI概念</title>
-      <link>https://blog.bytebytego.com/p/ep167-top-20-ai-concepts-you-should</link>
-      <description>【Which other AI concept will you add to the list?】您还将添加哪个AI概念？</description>
-      <pubDate>Sat, 14 Jun 2025 15:30:22 +0000</pubDate>
+      <title>【EP168: AI Vs Machine Learning Vs Deep Learning Vs Generative AI】EP168：AI与机器学习与深度学习与生成AI</title>
+      <link>https://blog.bytebytego.com/p/ep168-ai-vs-machine-learning-vs-deep</link>
+      <description>【What else will you add to understand these concepts better?】您还会添加什么以更好地理解这些概念？</description>
+      <pubDate>Sat, 21 Jun 2025 15:30:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside Airbnb’s AI-Powered Pipeline to Migrate Tests: Months of Work in Days 】在Airbnb的AI驱动管道中，用于迁移测试：几天的工作</title>
-      <link>https://blog.bytebytego.com/p/inside-airbnbs-ai-powered-pipeline</link>
-      <description>【This article covers the structure of the automation pipeline, the trade-offs behind prompt engineering vs. brute-force retries, the methods used to handle complex edge cases, and the results that followed.】本文涵盖了自动化管道的结构，迅速工程与蛮力重试的权衡取舍，用于处理复杂边缘案例的方法以及随后的结果。</description>
-      <pubDate>Tue, 24 Jun 2025 15:30:34 +0000</pubDate>
+      <title>【A Guide to Database Transactions: From ACID to Concurrency Control】数据库交易指南：从酸到并发控制</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-database-transactions</link>
+      <description>【In this article, we break down the key building blocks that make transactional systems reliable in the face of concurrency.】在本文中，我们分解了使交易系统在并发时可靠的关键构件。</description>
+      <pubDate>Thu, 19 Jun 2025 15:30:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,22 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【How Electronic Arts standardized C++ builds across Windows and Linux with Visual Studio Build Tools】电子艺术如何使用Visual Studio构建工具在Windows和Linux跨Windows和Linux上建造</title>
-      <link>https://devblogs.microsoft.com/cppblog/how-electronic-arts-standardized-c-builds-across-windows-and-linux-with-visual-studio-build-tools</link>
-      <description>【At Electronic Arts (EA), the Frostbite Enginering Workflows team has thousands of developers who work on powerful game engines behind popular games.  EA has relied on Visual Studio for years due to several features such as IntelliSense, Build Insights, and the overall debugging experience and eagerly use newer integrations such as GitHub Copi】在电子艺术（EA），Frostbite Enginering Workfrows团队拥有成千上万的开发人员，他们在流行游戏背后的强大游戏引擎工作。  由于诸如Intellisense，Build Insights和整体调试体验，并热切使用较新的集成（例如GitHub Copi），EA一直依靠Visual Studio多年来依靠Visual Studio。</description>
-      <pubDate>Thu, 26 Jun 2025 12:00:43 +0000</pubDate>
+      <title>【Open Source AI Editor: First Milestone】开源AI编辑器：第一个里程碑</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/open-source-ai-editor:-first-milestone</link>
+      <description>【We are open sourcing the GitHub Copilot Chat extension. It’s the first milestone in making VS Code an open source AI editor. Read the full article】我们正在开放采购GitHub副唱片聊天扩展。这是使VS代码成为开源AI编辑器的第一个里程碑。阅读全文</description>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Copilot for Xcode Adds Support for Anthropic Claude Sonnet 4 and Opus 4】Xcode的Copilot增加了对人类Claude Sonnet 4和Opus 4的支持</title>
-      <link>https://devblogs.microsoft.com/xcode/copilot-for-xcode-adds-support-for-claude-sonnet-4-and-opus-4</link>
-      <description>【GitHub Copilot for Xcode now supports Anthropic Claude Sonnet 4 and Claude Opus 4, bringing more powerful AI assistance to your Swift, Objective-C, and Apple platform development.  】Xcode的GitHub Copilot现在支持人类的Claude Sonnet 4和Claude Opus 4，为您的Swift，Objective-C和Apple Platform Platform开发提供了更强大的AI帮助。  </description>
-      <pubDate>Fri, 27 Jun 2025 02:59:04 +0000</pubDate>
+      <title>【Agents at Work: Putting MSSQL MCP Server into Practice】工作中的代理：将MSSQL MCP服务器付诸实践</title>
+      <link>https://devblogs.microsoft.com/azure-sql/mssql-mcp-server-in-action-susans-journey</link>
+      <description>【How often have you wished you could just talk to your data? Imagine extracting crucial insights, updating records, or building complex reports without wrestling with intricate query languages or relying on a dedicated developer. For many professionals, the true power of their enterprise data remains locked behind technical barriers, h】您多久希望您可以与数据交谈？想象一下，提取至关重要的见解，更新记录或构建复杂的报告，而无需使用复杂的查询语言搏斗或依靠专用的开发人员。对于许多专业人员而言，其企业数据的真正力量仍然锁定在技术障碍后面</description>
+      <pubDate>Mon, 30 Jun 2025 15:54:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Anthropic Claude Sonnet 4 and Opus 4 Now Available in GitHub Copilot for JetBrains and Eclipse】拟人化的克劳德十四行诗4和opus 4现在在Github副铜中可用于喷气式和日食</title>
-      <link>https://devblogs.microsoft.com/java/anthropic-claude-sonnet-4-and-opus-4-support</link>
-      <description>【Anthropic Claude Sonnet 4 and Claude Opus 4 are now available in GitHub Copilot Chat for JetBrains IDEs and Eclipse. Model Availability✨】现在可以在Github Copilot聊天中为喷气式和Eclipse提供拟人的Claude Sonnet 4和Claude Opus 4。模型可用性✨</description>
-      <pubDate>Fri, 27 Jun 2025 05:57:37 +0000</pubDate>
+      <title>【2025 mid-year link clearance】2025年中链接清除</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250630-01/?p=111323</link>
+      <description>【Visualizing all the books of the world in ISBN space. What it says on the tin. Back in 2013, there was a series of promotional videos for the golf European Tour titled &#34;Every Shot Imaginable&#34;, in which golfers attempted silly tasks. P】在ISBN空间中可视化世界上所有书籍。它在锡上说什么。早在2013年，高尔夫欧洲巡回赛就有一系列宣传视频，名为“每个射门”，高尔夫球手尝试了愚蠢的任务。 p</description>
+      <pubDate>Mon, 30 Jun 2025 14:00:01 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Model Context Protocol Support (preview) in Azure AI Foundry Agent Service】在Azure AI铸造代理服务中宣布模型上下文协议支持（预览）</title>
@@ -28,40 +28,40 @@
       <pubDate>Fri, 27 Jun 2025 22:30:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Azure Storage Connector for PyTorch】引入Pytorch的Azure存储连接器</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-storage-connector-for-pytorch</link>
-      <description>【We&#39;re excited to introduce the Azure Storage Connector for PyTorch (azstoragetorch), a new library that brings seamless, performance-optimized integration between Azure Storage and PyTorch. The library makes it easy to access and store data in Azure Blob Storage directly within your training workflows. What is PyTorch?】我们很高兴地介绍了Pytorch（Azstoragetorch）的Azure存储连接器，这是一个新的库，它在Azure Storage和Pytorch之间带来了无缝，性能优化的集成。该库使直接在培训工作流程中的Azure Blob存储中访问和存储数据。什么是Pytorch？</description>
-      <pubDate>Thu, 26 Jun 2025 15:00:12 +0000</pubDate>
+      <title>【What&#39;s new in Azure AI Foundry | June 2025】Azure AI Foundry中的新功能| 2025年6月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-june-2025</link>
+      <description>【TL;DR Key dev updates: Agent Service hits GA with Model Context Protocol (MCP) support—integrate any backend with standardized JSON-RPC calls, no more custom OpenAPI specs. New models include o3-pro for enterprise reasoning, Sora for video generation, and DeepSeek-R1 for open-source reasoning. Platform ch】TL; DR密钥开发更新：代理服务使用模型上下文协议（MCP）支持击中GA-通过标准化的JSON-RPC调用，将任何后端综合，不再有自定义OpenAPI规格。新模型包括用于企业推理的O3-Pro，用于视频生成的Sora和用于开源推理的DeepSeek-R1。平台</description>
+      <pubDate>Mon, 30 Jun 2025 15:00:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Why do I get errors about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 2】为什么我会遇到一些怪异符号的错误？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250626-00/?p=111314</link>
-      <description>【We are investigating why a project is getting an error about a weird C++/CX symbol, and we thought we had figured it out, but our a】我们正在调查为什么一个项目对怪异的C ++/CX符号遇到错误，我们认为我们已经弄清楚了，但是我们的A</description>
-      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Simpler XAML in .NET MAUI 10】更简单的XAML在.NET MAUI 10</title>
-      <link>https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10</link>
-      <description>【Building UI in .NET MAUI with XAML continues to be the most popular approach. It&#39;s easy to see the nesting structure of your UI, works for most use cases with hot reload, and it supports powerful state flow with data binding. One of the downsides is how verbose it can become. Every page requires you to declare the namespaces for any types used】用XAML在.NET MAUI中构建UI仍然是最受欢迎的方法。它很容易看到UI的嵌套结构，适用于大多数带有热装加载的用例，并且用数据绑定支持强大的状态流。缺点之一是它可以变成详细的。每个页面都要求您声明使用的任何类型的名称空间</description>
-      <pubDate>Thu, 26 Jun 2025 19:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why do I get errors or warnings about some weird symbol called ?main@@YAHP$01E$AAV?$Array@PE$AAVString@Platform..., part 3】为什么我会收到有关称为怪异符号的错误或警告？main @@ yahp $ 01e $ aav？$ array@pe $ aavstring@platform ...，第3部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250627-00/?p=111316</link>
-      <description>【We have been investigating why a project is getting an error about a weird C++/CX symbol, and we tracked it down to three things:】我们一直在调查为什么一个项目对怪异的C ++/CX符号遇到错误，然后我们将其跟踪到三件事：</description>
-      <pubDate>Fri, 27 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing MSSQL MCP Server (Preview)】介绍MSSQL MCP服务器（预览）</title>
-      <link>https://devblogs.microsoft.com/azure-sql/introducing-mssql-mcp-server</link>
-      <description>【The next leap in data interaction isn&#39;t just about efficient processing; it&#39;s about intuitive and meaningful conversation with your own data. For years, the true power of SQL Server databases has been locked behind complex query languages and specialized tools, accessible primarily to developers and database adm】数据交互的下一个飞跃不仅仅是有效的处理。 这是关于与您自己的数据的直观和有意义的对话。多年来，SQL Server数据库的真正功能一直锁定在复杂的查询语言和专业工具后面，主要可用于开发人员和数据库ADM</description>
-      <pubDate>Thu, 26 Jun 2025 20:51:29 +0000</pubDate>
+      <title>【Exploring azd extensions: Enhance your Azure developer experience】探索AZD扩展：增强您的Azure开发人员体验</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azd-extension-framework</link>
+      <description>【Exploring azd extensions: Enhance your Azure developer experience The Azure Developer CLI (azd) has a new feature called extensions that empowers developers to customize their workflow with azd. If you&#39;re a developer building on Azure, maybe you already have a &#34;wish list&#34; of CLI capabilities. If so, you might be able to create an ext】探索AZD扩展：增强您的Azure开发人员体验Azure开发人员CLI（AZD）具有一个名为Extensions的新功能，使开发人员能够使用AZD自定义其工作流程。如果您是Azure上的开发人员建筑，也许您已经拥有CLI功能的“愿望清单”。如果是这样，您也许可以创建一个ext</description>
+      <pubDate>Mon, 30 Jun 2025 18:00:02 +0000</pubDate>
     </item>
     <item>
       <title>【Microsoft 365 Copilot APIs: Unlocking enterprise knowledge for AI with the Retrieval API — Now in Public Preview】Microsoft 365 Copilot API：通过检索API解锁AI的企业知识 - 现在在公共预览中</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-unlocking-enterprise-knowledge-for-ai-with-the-retrieval-api</link>
       <description>【At Build 2025, we introduced the Microsoft 365 Copilot APIs. Developers now have an extensibility layer that empowers them to create intelligent, AI-driven experiences deeply integrated with the Microsoft 365 ecosystem. These API】在Build 2025，我们引入了Microsoft 365 Copilot API。现在，开发人员拥有一个可扩展的层，可以使他们能够创建与Microsoft 365生态系统深入整合的智能AI驱动体验。这些API</description>
       <pubDate>Fri, 27 Jun 2025 17:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Embracing the power of the empty set in API design: Requesting zero items】拥抱API设计中的空套的功能：请求零项目</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250630-00/?p=111320</link>
+      <description>【A team was proposing a method that was at its essence a Read(n) that takes the maximum number of items to read. The reality was more complicated than that: The parameter n was really a configuration property on an operation, but it had the same meaning: It set the maximum number of items to return. The team s】一个团队正在提出一种本质上是读取（n）的方法，该方法需要最多的项目数量。现实比这更复杂：参数n实际上是操作上的配置属性，但是它具有相同的含义：它设置了要返回的最大项目数。团队</description>
+      <pubDate>Mon, 30 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Latest NoSQL Java Ecosystem Updates: June 2024 - June 2025】最新的NOSQL Java生态系统更新：2024年6月 -  2025年6月</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-june-2024-june-2025</link>
+      <description>【Welcome to the latest roundup of key updates across the Azure Cosmos DB Java ecosystem! The largest external customers of Azure Cosmos DB API for NoSQL, running some of th】欢迎使用Azure Cosmos DB Java生态系统的最新关键更新综述！ NOSQL的Azure Cosmos DB API最大的外部客户，运行了一些</description>
+      <pubDate>Mon, 30 Jun 2025 14:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s New for Java Developers in Azure Cosmos DB (NoSQL)?】Azure Cosmos DB（NOSQL）中Java开发人员的新功能是什么？</title>
+      <link>https://devblogs.microsoft.com/java/whats-new-for-java-developers-in-azure-cosmos-db-nosql</link>
+      <description>【The Java ecosystem around Azure Cosmos DB has quietly grown a lot stronger in the first half of 2024. And the updates are especially exciting if you’re working on scalable apps or exploring GenAI workloads. From new support for vector search and indexing, to better】Azure Cosmos DB周围的Java生态系统在2024年上半年悄悄地增长了很多。如果您正在研究可扩展的应用程序或探索Genai工作负载，则更新尤其令人兴奋。从对向量搜索和索引的新支持，到更好</description>
+      <pubDate>Mon, 30 Jun 2025 18:33:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

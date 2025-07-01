@@ -4,28 +4,16 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Building agents with OpenAI and Cloudflare’s Agents SDK】与OpenAI和Cloudflare代理SDK建造代理商</title>
-      <link>https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/</link>
-      <description>【 We’re building AI agents where logic and reasoning are handled by OpenAI’s Agents SDK, and execution happens across Cloudflare&#39;s global network via Cloudflare’s Agents SDK.  】我们正在建立AI代理，在该代理商中，OpenAI代理SDK处理逻辑和推理，并且通过CloudFlare的代理SDK在Cloudflare的全球网络中进行了执行。</description>
-      <pubDate>Wed, 25 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack】捍卫互联网：CloudFlare如何阻止纪念性7.3 TBPS DDOS攻击</title>
+      <link>https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/</link>
+      <description>【 In mid-May 2025, Cloudflare blocked the largest DDoS attack ever recorded: a staggering 7.3 terabits per second (Tbps). 】在2025年3月中旬，Cloudflare封锁了有史以来最大的DDOS攻击：每秒惊人的7.3 Terabits（TBPS）。</description>
+      <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare service outage June 12, 2025】CloudFlare服务停电2025年6月12日</title>
-      <link>https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/</link>
-      <description>【 Multiple Cloudflare services, including Workers KV, Access, WARP and the Cloudflare dashboard, experienced an outage for up to 2 hours and 28 minutes on June 12, 2025. 】包括工人KV，Access，Warp和Cloudflare仪表板在内的多个CloudFlare服务在2025年6月12日的停电中最多28分钟经历了停电。</description>
-      <pubDate>Thu, 12 Jun 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Russian Internet users are unable to access the open Internet】俄罗斯互联网用户无法访问开放的互联网</title>
-      <link>https://blog.cloudflare.com/russian-internet-users-are-unable-to-access-the-open-internet/</link>
-      <description>【 Since June 9, 2025, Internet users located in Russia and connecting to the open Internet have been throttled by Russian Internet Service Providers (ISPs). 】自2025年6月9日以来，俄罗斯互联网服务提供商（ISP）促进了位于俄罗斯的互联网用户并连接到开放式互联网。</description>
-      <pubDate>Thu, 26 Jun 2025 22:33:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Orange Me2eets: We made an end-to-end encrypted video calling app and it was easy】橙色ME2Eets：我们制作了一个端到端的加密视频通话应用程序，这很容易</title>
-      <link>https://blog.cloudflare.com/orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was/</link>
-      <description>【 Orange Meets, our open-source video calling web application, now supports end-to-end encryption using the MLS protocol with continuous group key agreement. 】Orange Meets是我们的开源视频调用Web应用程序，现在使用MLS协议和连续的组密钥协议支持端到端加密。</description>
-      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare Log Explorer is now GA, providing native observability and forensics】CloudFlare Log Explorer现在为GA，提供本地可观察性和取证能力</title>
+      <link>https://blog.cloudflare.com/logexplorer-ga/</link>
+      <description>【 We are happy to announce the General Availability of Cloudflare Log Explorer, a powerful product designed to bring observability and forensics capabilities directly into your Cloudflare dashboard. 】我们很高兴宣布CloudFlare Log Explorer的一般可用性，这是一种强大的产品，旨在将可观察性和取证功能直接带入您的Cloudflare仪表板中。</description>
+      <pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Containers are available in public beta for simple, global, and programmable compute】公共Beta中有容器可用于简单，全局和可编程的计算</title>
@@ -34,10 +22,22 @@
       <pubDate>Tue, 24 Jun 2025 16:00:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare Log Explorer is now GA, providing native observability and forensics】CloudFlare Log Explorer现在为GA，提供本地可观察性和取证能力</title>
-      <link>https://blog.cloudflare.com/logexplorer-ga/</link>
-      <description>【 We are happy to announce the General Availability of Cloudflare Log Explorer, a powerful product designed to bring observability and forensics capabilities directly into your Cloudflare dashboard. 】我们很高兴宣布CloudFlare Log Explorer的一般可用性，这是一种强大的产品，旨在将可观察性和取证功能直接带入您的Cloudflare仪表板中。</description>
+      <title>【Connect any React application to an MCP server in three lines of code】将任何React应用程序连接到MCP服务器中的三行代码</title>
+      <link>https://blog.cloudflare.com/connect-any-react-application-to-an-mcp-server-in-three-lines-of-code/</link>
+      <description>【 We&#39;re open-sourcing use-mcp, a React library that connects to any MCP server in just 3 lines of code, as well as our AI Playground, a complete chat interface that can connect to remote MCP servers.  】我们是开放式用户使用MCP，这是一个仅在3行代码中连接到任何MCP服务器的React库以及我们的AI Playground，这是一个可以连接到远程MCP服务器的完整聊天界面。</description>
       <pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Orange Me2eets: We made an end-to-end encrypted video calling app and it was easy】橙色ME2Eets：我们制作了一个端到端的加密视频通话应用程序，这很容易</title>
+      <link>https://blog.cloudflare.com/orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was/</link>
+      <description>【 Orange Meets, our open-source video calling web application, now supports end-to-end encryption using the MLS protocol with continuous group key agreement. 】Orange Meets是我们的开源视频调用Web应用程序，现在使用MLS协议和连续的组密钥协议支持端到端加密。</description>
+      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Russian Internet users are unable to access the open Internet】俄罗斯互联网用户无法访问开放的互联网</title>
+      <link>https://blog.cloudflare.com/russian-internet-users-are-unable-to-access-the-open-internet/</link>
+      <description>【 Since June 9, 2025, Internet users located in Russia and connecting to the open Internet have been throttled by Russian Internet Service Providers (ISPs). 】自2025年6月9日以来，俄罗斯互联网服务提供商（ISP）促进了位于俄罗斯的互联网用户并连接到开放式互联网。</description>
+      <pubDate>Thu, 26 Jun 2025 22:33:30 +0000</pubDate>
     </item>
     <item>
       <title>【Celebrate Micro-Small, and Medium-sized Enterprises Day with Cloudflare 】与Cloudflare一起庆祝微型小男友和中型企业日</title>
@@ -52,16 +52,16 @@
       <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack】捍卫互联网：CloudFlare如何阻止纪念性7.3 TBPS DDOS攻击</title>
-      <link>https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/</link>
-      <description>【 In mid-May 2025, Cloudflare blocked the largest DDoS attack ever recorded: a staggering 7.3 terabits per second (Tbps). 】在2025年3月中旬，Cloudflare封锁了有史以来最大的DDOS攻击：每秒惊人的7.3 Terabits（TBPS）。</description>
-      <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
+      <title>【Cloudflare service outage June 12, 2025】CloudFlare服务停电2025年6月12日</title>
+      <link>https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/</link>
+      <description>【 Multiple Cloudflare services, including Workers KV, Access, WARP and the Cloudflare dashboard, experienced an outage for up to 2 hours and 28 minutes on June 12, 2025. 】包括工人KV，Access，Warp和Cloudflare仪表板在内的多个CloudFlare服务在2025年6月12日的停电中最多28分钟经历了停电。</description>
+      <pubDate>Thu, 12 Jun 2025 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Connect any React application to an MCP server in three lines of code】将任何React应用程序连接到MCP服务器中的三行代码</title>
-      <link>https://blog.cloudflare.com/connect-any-react-application-to-an-mcp-server-in-three-lines-of-code/</link>
-      <description>【 We&#39;re open-sourcing use-mcp, a React library that connects to any MCP server in just 3 lines of code, as well as our AI Playground, a complete chat interface that can connect to remote MCP servers.  】我们是开放式用户使用MCP，这是一个仅在3行代码中连接到任何MCP服务器的React库以及我们的AI Playground，这是一个可以连接到远程MCP服务器的完整聊天界面。</description>
-      <pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
+      <title>【Building agents with OpenAI and Cloudflare’s Agents SDK】与OpenAI和Cloudflare代理SDK建造代理商</title>
+      <link>https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/</link>
+      <description>【 We’re building AI agents where logic and reasoning are handled by OpenAI’s Agents SDK, and execution happens across Cloudflare&#39;s global network via Cloudflare’s Agents SDK.  】我们正在建立AI代理，在该代理商中，OpenAI代理SDK处理逻辑和推理，并且通过CloudFlare的代理SDK在Cloudflare的全球网络中进行了执行。</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
