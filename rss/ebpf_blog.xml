@@ -4,28 +4,16 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
+      <title>【Case Study: Polar Signals Uses eBPF to Monitor Internal Cross-Zone Network Traffic on Kubernetes, Reducing These Operating Costs by 50%】案例研究：极地信号使用EBPF监视Kubernetes上的内部跨区域网络流量，将这些运营成本降低了50％</title>
+      <link>https://ebpf.foundation/case-study-polar-signals-uses-ebpf-to-monitor-internal-cross-zone-network-traffic-on-kubernetes-reducing-these-operating-costs-by-50/</link>
+      <description>【Polar Signals developed kubezonnet, an open source project designed to monitor and measure cross-zone network traffic in Kubernetes clusters. The solution leverages eBPF to trace network packets and aggregate traffic data.】Polar Signals开发了Kubezonnet，这是一个开源项目，旨在监视和测量Kubernetes簇中的跨区域网络流量。该解决方案利用EBPF追踪网络数据包和汇总流量数据。</description>
+      <pubDate>Thu, 16 Jan 2025 09:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Why Does My eBPF Program Work on One Kernel but Fail on Another?】为什么我的EBPF程序在一个内核上工作，而在另一个内核上失败？</title>
       <link>https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on</link>
       <description>【Learn how to make eBPF programs portable across different Linux kernels using BPF CO-RE and BTF, and discover techniques for supporting systems without built-in BTF by embedding external BTF data.】了解如何使用BPF Co-RE和BTF使EBPF程序在不同的Linux内核上移植，并通过嵌入外部BTF数据来发现支持系统的技术，而无需内置BTF。</description>
       <pubDate>Tue, 22 Apr 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What If CI/CD Pipelines Had Built-in Security and Observability with eBPF?】如果CI/CD管道对EBPF具有内置的安全性和可观察性怎么办？</title>
-      <link>https://ebpfchirp.substack.com/p/what-if-cicd-pipelines-had-built</link>
-      <description>【Learn how eBPF can add real-time security and observability to CI/CD pipelines like GitHub Actions, helping detect exploits and optimize workflows execution time.】了解如何将EBPF添加到CI/CD管道（例如GitHub操作），帮助检测利用并优化工作流执行时间的CI/CD管道中。</description>
-      <pubDate>Thu, 27 Mar 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Tracepoints, Kprobes, or Fprobes: Which One Should You Choose?】跟踪点，kprobes或fprobes：您应该选择哪一个？</title>
-      <link>https://ebpfchirp.substack.com/p/tracepoints-kprobes-or-fprobes-which</link>
-      <description>【Tracing programs like kprobes, fprobes, and tracepoints are very popular, but their overlapping functionality can make choosing the right one confusing.】追踪Kprobes，Fprobes和TracePoint之类的程序非常受欢迎，但是它们的重叠功能可以使选择正确的一个令人困惑。</description>
-      <pubDate>Sat, 04 Jan 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【P99Conf: How eBPF Could Make Faster Database Systems】P99Conf：EBPF如何使数据库系统更快</title>
-      <link>https://thenewstack.io/p99conf-how-ebpf-could-make-faster-database-systems/</link>
-      <description>【Learn about BPF-DB, an in-memory key-value data store that can be planted within the OS kernel itself via eBPF, thereby routing around the restrictions and limitations of an OS’s user space, or the space in memory where a program is typically run】了解BPF-DB，这是一种内存中的键值数据存储，可以通过EBPF在OS内核中种植，从而围绕OS用户空间的限制和局限性进行路由，或者通常在内存中运行的空间。</description>
-      <pubDate>Sun, 27 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Debugging Memory Leaks with eBPF】通过EBPF调试内存泄漏</title>
@@ -34,22 +22,22 @@
       <pubDate>Sat, 26 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【P99Conf: How eBPF Could Make Faster Database Systems】P99Conf：EBPF如何使数据库系统更快</title>
+      <link>https://thenewstack.io/p99conf-how-ebpf-could-make-faster-database-systems/</link>
+      <description>【Learn about BPF-DB, an in-memory key-value data store that can be planted within the OS kernel itself via eBPF, thereby routing around the restrictions and limitations of an OS’s user space, or the space in memory where a program is typically run】了解BPF-DB，这是一种内存中的键值数据存储，可以通过EBPF在OS内核中种植，从而围绕OS用户空间的限制和局限性进行路由，或者通常在内存中运行的空间。</description>
+      <pubDate>Sun, 27 Oct 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Breaking Boundaries: Implementing the Enigma Machine in eBPF】打破边界：在EBPF中实现谜团</title>
       <link>https://isovalent.com/blog/post/breaking-boundaries-implementing-the-enigma-machine-in-ebpf/</link>
       <description>【André Martins celebrates Alan Turing 113th posthumous birthday by implementing the Enigma machine in eBPF】安德烈·马丁斯（AndréMartins</description>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Case Study: Polar Signals Uses eBPF to Monitor Internal Cross-Zone Network Traffic on Kubernetes, Reducing These Operating Costs by 50%】案例研究：极地信号使用EBPF监视Kubernetes上的内部跨区域网络流量，将这些运营成本降低了50％</title>
-      <link>https://ebpf.foundation/case-study-polar-signals-uses-ebpf-to-monitor-internal-cross-zone-network-traffic-on-kubernetes-reducing-these-operating-costs-by-50/</link>
-      <description>【Polar Signals developed kubezonnet, an open source project designed to monitor and measure cross-zone network traffic in Kubernetes clusters. The solution leverages eBPF to trace network packets and aggregate traffic data.】Polar Signals开发了Kubezonnet，这是一个开源项目，旨在监视和测量Kubernetes簇中的跨区域网络流量。该解决方案利用EBPF追踪网络数据包和汇总流量数据。</description>
-      <pubDate>Thu, 16 Jan 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF in 2025 - Bigger Than the CrowdStrike Outage】2025年的EBPF  - 比众率的停机大</title>
-      <link>https://thenewstack.io/ebpf-in-2025-bigger-than-the-crowdstrike-outage/</link>
-      <description>【 In 2025 eBPF adoption will expand rapidly and other predictions】在2025年，EBPF采用将迅速扩展和其他预测</description>
-      <pubDate>Wed, 01 Jan 2025 12:33:00 +0000</pubDate>
+      <title>【eBPF Announces Support for Tolkien Ring】EBPF宣布支持托尔金环</title>
+      <link>https://ebpf.io/blog/support-for-tolkien-ring</link>
+      <description>【eBPF revives Tolkien Ring, proving even ancient networks can be rebuilt better】EBPF恢复了托尔金环，证明即使是古老的网络也可以更好地重建</description>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How to use eBPF for monitoring Linux thread contention?】如何使用EBPF监视Linux线程争议？</title>
@@ -58,10 +46,22 @@
       <pubDate>Fri, 25 Oct 2024 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【eBPF Announces Support for Tolkien Ring】EBPF宣布支持托尔金环</title>
-      <link>https://ebpf.io/blog/support-for-tolkien-ring</link>
-      <description>【eBPF revives Tolkien Ring, proving even ancient networks can be rebuilt better】EBPF恢复了托尔金环，证明即使是古老的网络也可以更好地重建</description>
-      <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
+      <title>【Tracepoints, Kprobes, or Fprobes: Which One Should You Choose?】跟踪点，kprobes或fprobes：您应该选择哪一个？</title>
+      <link>https://ebpfchirp.substack.com/p/tracepoints-kprobes-or-fprobes-which</link>
+      <description>【Tracing programs like kprobes, fprobes, and tracepoints are very popular, but their overlapping functionality can make choosing the right one confusing.】追踪Kprobes，Fprobes和TracePoint之类的程序非常受欢迎，但是它们的重叠功能可以使选择正确的一个令人困惑。</description>
+      <pubDate>Sat, 04 Jan 2025 09:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【eBPF in 2025 - Bigger Than the CrowdStrike Outage】2025年的EBPF  - 比众率的停机大</title>
+      <link>https://thenewstack.io/ebpf-in-2025-bigger-than-the-crowdstrike-outage/</link>
+      <description>【 In 2025 eBPF adoption will expand rapidly and other predictions】在2025年，EBPF采用将迅速扩展和其他预测</description>
+      <pubDate>Wed, 01 Jan 2025 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What If CI/CD Pipelines Had Built-in Security and Observability with eBPF?】如果CI/CD管道对EBPF具有内置的安全性和可观察性怎么办？</title>
+      <link>https://ebpfchirp.substack.com/p/what-if-cicd-pipelines-had-built</link>
+      <description>【Learn how eBPF can add real-time security and observability to CI/CD pipelines like GitHub Actions, helping detect exploits and optimize workflows execution time.】了解如何将EBPF添加到CI/CD管道（例如GitHub操作），帮助检测利用并优化工作流执行时间的CI/CD管道中。</description>
+      <pubDate>Thu, 27 Mar 2025 09:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
