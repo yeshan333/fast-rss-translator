@@ -4,34 +4,34 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Unintended yet somehow entirely expected consequences of marking a COM interface as local】意想不到的，但完全期望将COM接口标记为本地的后果</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250702-00/?p=111332</link>
+      <description>【A customer was adding an interface to their out-of-process COM server. They added their interface to the project&#39;s existing IDL file and recompiled the resulting proxy stub DLL. But when they tried to connect to the server, the connection failed with error 0x80040155, also known as REGDB_E_IID­NOT­REG】客户正在向其未经处理的COM服务器添加接口。他们将界面添加到项目现有的IDL文件中，并重新编译了由此产生的代理存根DLL。但是，当他们尝试连接到服务器时，连接失败，错误0x80040155，也称为regdb_e_iidnotreg</description>
+      <pubDate>Wed, 02 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Exploring azd extensions: Enhance your Azure developer experience】探索AZD扩展：增强您的Azure开发人员体验</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azd-extension-framework</link>
       <description>【Exploring azd extensions: Enhance your Azure developer experience The Azure Developer CLI (azd) has a new feature called extensions that empowers developers to customize their workflow with azd. If you&#39;re a developer building on Azure, maybe you already have a &#34;wish list&#34; of CLI capabilities. If so, you might be able to create an ext】探索AZD扩展：增强您的Azure开发人员体验Azure开发人员CLI（AZD）具有一个名为Extensions的新功能，使开发人员能够使用AZD自定义其工作流程。如果您是Azure上的开发人员建筑，也许您已经拥有CLI功能的“愿望清单”。如果是这样，您也许可以创建一个ext</description>
       <pubDate>Mon, 30 Jun 2025 18:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>【Embracing the power of the empty set in API design: Requesting zero items】拥抱API设计中的空套的功能：请求零项目</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250630-00/?p=111320</link>
-      <description>【A team was proposing a method that was at its essence a Read(n) that takes the maximum number of items to read. The reality was more complicated than that: The parameter n was really a configuration property on an operation, but it had the same meaning: It set the maximum number of items to return. The team s】一个团队正在提出一种本质上是读取（n）的方法，该方法需要最多的项目数量。现实比这更复杂：参数n实际上是操作上的配置属性，但是它具有相同的含义：它设置了要返回的最大项目数。团队</description>
-      <pubDate>Mon, 30 Jun 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What&#39;s new in Azure AI Foundry | June 2025】Azure AI Foundry中的新功能| 2025年6月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-june-2025</link>
-      <description>【TL;DR Key dev updates: Agent Service hits GA with Model Context Protocol (MCP) support—integrate any backend with standardized JSON-RPC calls, no more custom OpenAPI specs. New models include o3-pro for enterprise reasoning, Sora for video generation, and DeepSeek-R1 for open-source reasoning. Platform ch】TL; DR密钥开发更新：代理服务使用模型上下文协议（MCP）支持击中GA-通过标准化的JSON-RPC调用，将任何后端综合，不再有自定义OpenAPI规格。新模型包括用于企业推理的O3-Pro，用于视频生成的Sora和用于开源推理的DeepSeek-R1。平台</description>
-      <pubDate>Mon, 30 Jun 2025 15:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Latest NoSQL Java Ecosystem Updates: June 2024 - June 2025】最新的NOSQL Java生态系统更新：2024年6月 -  2025年6月</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/latest-nosql-java-ecosystem-updates-june-2024-june-2025</link>
-      <description>【Welcome to the latest roundup of key updates across the Azure Cosmos DB Java ecosystem! The largest external customers of Azure Cosmos DB API for NoSQL, running some of th】欢迎使用Azure Cosmos DB Java生态系统的最新关键更新综述！ NOSQL的Azure Cosmos DB API最大的外部客户，运行了一些</description>
-      <pubDate>Mon, 30 Jun 2025 14:28:39 +0000</pubDate>
+      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
+      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
+      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
+      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New for Java Developers in Azure Cosmos DB (NoSQL)?】Azure Cosmos DB（NOSQL）中Java开发人员的新功能是什么？</title>
       <link>https://devblogs.microsoft.com/java/whats-new-for-java-developers-in-azure-cosmos-db-nosql</link>
       <description>【The Java ecosystem around Azure Cosmos DB has quietly grown a lot stronger in the first half of 2024. And the updates are especially exciting if you’re working on scalable apps or exploring GenAI workloads. From new support for vector search and indexing, to better】Azure Cosmos DB周围的Java生态系统在2024年上半年悄悄地增长了很多。如果您正在研究可扩展的应用程序或探索Genai工作负载，则更新尤其令人兴奋。从对向量搜索和索引的新支持，到更好</description>
       <pubDate>Mon, 30 Jun 2025 18:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
+      <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
+      <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
+      <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Join us for MCP Dev Days - July 29-30】加入我们的MCP开发日 -  7月29日至30日</title>
@@ -46,12 +46,6 @@
       <pubDate>Tue, 01 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【2025 mid-year link clearance】2025年中链接清除</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250630-01/?p=111323</link>
-      <description>【Visualizing all the books of the world in ISBN space. What it says on the tin. Back in 2013, there was a series of promotional videos for the golf European Tour titled &#34;Every Shot Imaginable&#34;, in which golfers attempted silly tasks. P】在ISBN空间中可视化世界上所有书籍。它在锡上说什么。早在2013年，高尔夫欧洲巡回赛就有一系列宣传视频，名为“每个射门”，高尔夫球手尝试了愚蠢的任务。 p</description>
-      <pubDate>Mon, 30 Jun 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
       <title>【DirectStorage 1.3 is now available】DirectStorage 1.3现在可用</title>
       <link>https://devblogs.microsoft.com/directx/directstorage-1-3-is-now-available</link>
       <description>【Today we’re releasing DirectStorage 1.3, this update includes a new API and several refinements based on developer feedback. The package is now available for download via NuGet】今天，我们发布了DirectStorage 1.3，此更新包括基于开发人员反馈的新API和几种改进。该软件包现在可以通过Nuget下载</description>
@@ -62,6 +56,12 @@
       <link>https://devblogs.microsoft.com/azure-sql/mssql-mcp-server-in-action-susans-journey</link>
       <description>【How often have you wished you could just talk to your data? Imagine extracting crucial insights, updating records, or building complex reports without wrestling with intricate query languages or relying on a dedicated developer. For many professionals, the true power of their enterprise data remains locked behind technical barriers, h】您多久希望您可以与数据交谈？想象一下，提取至关重要的见解，更新记录或构建复杂的报告，而无需使用复杂的查询语言搏斗或依靠专用的开发人员。对于许多专业人员而言，其企业数据的真正力量仍然锁定在技术障碍后面</description>
       <pubDate>Mon, 30 Jun 2025 15:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (June 2025)】Azure SDK发布（2025年6月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
+      <pubDate>Wed, 02 Jul 2025 15:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,16 +4,28 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Russian Internet users are unable to access the open Internet】俄罗斯互联网用户无法访问开放的互联网</title>
-      <link>https://blog.cloudflare.com/russian-internet-users-are-unable-to-access-the-open-internet/</link>
-      <description>【 Since June 9, 2025, Internet users located in Russia and connecting to the open Internet have been throttled by Russian Internet Service Providers (ISPs). 】自2025年6月9日以来，俄罗斯互联网服务提供商（ISP）促进了位于俄罗斯的互联网用户并连接到开放式互联网。</description>
-      <pubDate>Thu, 26 Jun 2025 22:33:30 +0000</pubDate>
+      <title>【Message Signatures are now part of our Verified Bots Program, simplifying bot authentication】消息签名现在是我们经过验证的机器人程序的一部分，简化了机器人身份验证</title>
+      <link>https://blog.cloudflare.com/verified-bots-with-cryptography/</link>
+      <description>【 Bots can start authenticating to Cloudflare using public key cryptography, preventing them from being spoofed and allowing origins to have confidence in their identity. 】机器人可以使用公共密钥密码学开始对CloudFlare进行身份验证，从而阻止它们被欺骗，并使起源对其身份有信心。</description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building agents with OpenAI and Cloudflare’s Agents SDK】与OpenAI和Cloudflare代理SDK建造代理商</title>
-      <link>https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/</link>
-      <description>【 We’re building AI agents where logic and reasoning are handled by OpenAI’s Agents SDK, and execution happens across Cloudflare&#39;s global network via Cloudflare’s Agents SDK.  】我们正在建立AI代理，在该代理商中，OpenAI代理SDK处理逻辑和推理，并且通过CloudFlare的代理SDK在Cloudflare的全球网络中进行了执行。</description>
-      <pubDate>Wed, 25 Jun 2025 14:00:00 +0000</pubDate>
+      <title>【Introducing pay per crawl: enabling content owners to charge AI crawlers for access】引入每次爬网薪水：使内容所有者能够向AI爬网收费以访问</title>
+      <link>https://blog.cloudflare.com/introducing-pay-per-crawl/</link>
+      <description>【 Pay per crawl is a new feature to allow content creators to charge AI crawlers for access to their content.  】薪酬是一项新功能，可以允许内容创建者向AI爬网收费以访问其内容。 </description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The crawl before the fall… of referrals: understanding AI’s impact on content providers】秋天之前的爬网…推荐：了解AI对内容提供商的影响</title>
+      <link>https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/</link>
+      <description>【 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; 】现在，CloudFlare Radar显示给定AI模型的频率相对于该站点爬网的频率将流量发送到站点。这有助于站点所有者决定允许或阻止哪种AI机器人。</description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Control content use for AI training with Cloudflare’s managed robots.txt and blocking for monetized content】使用CloudFlare的托管机器人的AI培训的控制内容用途，并阻止货币化内容</title>
+      <link>https://blog.cloudflare.com/control-content-use-for-ai-training/</link>
+      <description>【 Cloudflare is making it easier for publishers and content creators of all sizes to prevent their content from being scraped for AI training by managing robots.txt on their behalf.  】CloudFlare使出版商和所有规模的内容创建者更容易通过代表他们管理Robots.txt来防止其内容进行AI培训。</description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Celebrate Micro-Small, and Medium-sized Enterprises Day with Cloudflare 】与Cloudflare一起庆祝微型小男友和中型企业日</title>
@@ -28,22 +40,10 @@
       <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing pay per crawl: enabling content owners to charge AI crawlers for access】引入每次爬网薪水：使内容所有者能够向AI爬网收费以访问</title>
-      <link>https://blog.cloudflare.com/introducing-pay-per-crawl/</link>
-      <description>【 Pay per crawl is a new feature to allow content creators to charge AI crawlers for access to their content.  】薪酬是一项新功能，可以允许内容创建者向AI爬网收费以访问其内容。 </description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Message Signatures are now part of our Verified Bots Program, simplifying bot authentication】消息签名现在是我们经过验证的机器人程序的一部分，简化了机器人身份验证</title>
-      <link>https://blog.cloudflare.com/verified-bots-with-cryptography/</link>
-      <description>【 Bots can start authenticating to Cloudflare using public key cryptography, preventing them from being spoofed and allowing origins to have confidence in their identity. 】机器人可以使用公共密钥密码学开始对CloudFlare进行身份验证，从而阻止它们被欺骗，并使起源对其身份有信心。</description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Control content use for AI training with Cloudflare’s managed robots.txt and blocking for monetized content】使用CloudFlare的托管机器人的AI培训的控制内容用途，并阻止货币化内容</title>
-      <link>https://blog.cloudflare.com/control-content-use-for-ai-training/</link>
-      <description>【 Cloudflare is making it easier for publishers and content creators of all sizes to prevent their content from being scraped for AI training by managing robots.txt on their behalf.  】CloudFlare使出版商和所有规模的内容创建者更容易通过代表他们管理Robots.txt来防止其内容进行AI培训。</description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+      <title>【Building agents with OpenAI and Cloudflare’s Agents SDK】与OpenAI和Cloudflare代理SDK建造代理商</title>
+      <link>https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/</link>
+      <description>【 We’re building AI agents where logic and reasoning are handled by OpenAI’s Agents SDK, and execution happens across Cloudflare&#39;s global network via Cloudflare’s Agents SDK.  】我们正在建立AI代理，在该代理商中，OpenAI代理SDK处理逻辑和推理，并且通过CloudFlare的代理SDK在Cloudflare的全球网络中进行了执行。</description>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Content Independence Day: no AI crawl without compensation!】内容独立日：没有赔偿的没有AI爬网！</title>
@@ -52,16 +52,16 @@
       <pubDate>Tue, 01 Jul 2025 10:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The crawl before the fall… of referrals: understanding AI’s impact on content providers】秋天之前的爬网…推荐：了解AI对内容提供商的影响</title>
-      <link>https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/</link>
-      <description>【 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; 】现在，CloudFlare Radar显示给定AI模型的频率相对于该站点爬网的频率将流量发送到站点。这有助于站点所有者决定允许或阻止哪种AI机器人。</description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【From Googlebot to GPTBot: who’s crawling your site in 2025】从Googlebot到GPTBOT：谁在2025年爬上您的网站</title>
       <link>https://blog.cloudflare.com/from-googlebot-to-gptbot-whos-crawling-your-site-in-2025/</link>
       <description>【 From May 2024 to May 2025, crawler traffic rose 18%, with GPTBot growing 305% and Googlebot 96%. 】从2024年5月到2025年5月，Crawler交通增长了18％，GPTBOT增长了305％，Googlebot增长了96％。</description>
       <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Russian Internet users are unable to access the open Internet】俄罗斯互联网用户无法访问开放的互联网</title>
+      <link>https://blog.cloudflare.com/russian-internet-users-are-unable-to-access-the-open-internet/</link>
+      <description>【 Since June 9, 2025, Internet users located in Russia and connecting to the open Internet have been throttled by Russian Internet Service Providers (ISPs). 】自2025年6月9日以来，俄罗斯互联网服务提供商（ISP）促进了位于俄罗斯的互联网用户并连接到开放式互联网。</description>
+      <pubDate>Thu, 26 Jun 2025 22:33:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
