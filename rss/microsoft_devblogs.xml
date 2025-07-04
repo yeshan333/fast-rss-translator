@@ -4,40 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Unintended yet somehow entirely expected consequences of marking a COM interface as local】意想不到的，但完全期望将COM接口标记为本地的后果</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250702-00/?p=111332</link>
-      <description>【A customer was adding an interface to their out-of-process COM server. They added their interface to the project&#39;s existing IDL file and recompiled the resulting proxy stub DLL. But when they tried to connect to the server, the connection failed with error 0x80040155, also known as REGDB_E_IID­NOT­REG】客户正在向其未经处理的COM服务器添加接口。他们将界面添加到项目现有的IDL文件中，并重新编译了由此产生的代理存根DLL。但是，当他们尝试连接到服务器时，连接失败，错误0x80040155，也称为regdb_e_iidnotreg</description>
-      <pubDate>Wed, 02 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exploring azd extensions: Enhance your Azure developer experience】探索AZD扩展：增强您的Azure开发人员体验</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-extension-framework</link>
-      <description>【Exploring azd extensions: Enhance your Azure developer experience The Azure Developer CLI (azd) has a new feature called extensions that empowers developers to customize their workflow with azd. If you&#39;re a developer building on Azure, maybe you already have a &#34;wish list&#34; of CLI capabilities. If so, you might be able to create an ext】探索AZD扩展：增强您的Azure开发人员体验Azure开发人员CLI（AZD）具有一个名为Extensions的新功能，使开发人员能够使用AZD自定义其工作流程。如果您是Azure上的开发人员建筑，也许您已经拥有CLI功能的“愿望清单”。如果是这样，您也许可以创建一个ext</description>
-      <pubDate>Mon, 30 Jun 2025 18:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
-      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
-      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
-      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New for Java Developers in Azure Cosmos DB (NoSQL)?】Azure Cosmos DB（NOSQL）中Java开发人员的新功能是什么？</title>
-      <link>https://devblogs.microsoft.com/java/whats-new-for-java-developers-in-azure-cosmos-db-nosql</link>
-      <description>【The Java ecosystem around Azure Cosmos DB has quietly grown a lot stronger in the first half of 2024. And the updates are especially exciting if you’re working on scalable apps or exploring GenAI workloads. From new support for vector search and indexing, to better】Azure Cosmos DB周围的Java生态系统在2024年上半年悄悄地增长了很多。如果您正在研究可扩展的应用程序或探索Genai工作负载，则更新尤其令人兴奋。从对向量搜索和索引的新支持，到更好</description>
-      <pubDate>Mon, 30 Jun 2025 18:33:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
-      <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
-      <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
-      <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Join us for MCP Dev Days - July 29-30】加入我们的MCP开发日 -  7月29日至30日</title>
-      <link>https://devblogs.microsoft.com//join-us-for-mcp-dev-days-july-29-30</link>
-      <description>【Get ready for two days of deep technical insight, community connection, and hands-on learning at MCP Dev Days, a virtual event dedicated to the Model Context Protocol (MCP) — the emerging standard that bridges AI models and the tools they rely on. [cta-button text=&#34;➡️ Register for MCP Dev Days&#34; url=&#34;h】在MCP Dev Days上准备两天的深度技术洞察力，社区联系和动手学习，这是一个虚拟事件，该虚拟事件专门用于模型上下文协议（MCP），这是桥梁AI模型及其所依赖工具的新兴标准。 [cta-button text =“➡️登记为MCP DEV days” url =“ H</description>
-      <pubDate>Tue, 01 Jul 2025 22:00:46 +0000</pubDate>
+      <title>【DirectStorage 1.3 is now available】DirectStorage 1.3现在可用</title>
+      <link>https://devblogs.microsoft.com/directx/directstorage-1-3-is-now-available</link>
+      <description>【Today we’re releasing DirectStorage 1.3, this update includes a new API and several refinements based on developer feedback. The package is now available for download via NuGet】今天，我们发布了DirectStorage 1.3，此更新包括基于开发人员反馈的新API和几种改进。该软件包现在可以通过Nuget下载</description>
+      <pubDate>Tue, 01 Jul 2025 18:00:06 +0000</pubDate>
     </item>
     <item>
       <title>【The sizzle reel that says things that nobody understands】嘶哑的卷轴，说没有人理解的话</title>
@@ -46,22 +16,52 @@
       <pubDate>Tue, 01 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【DirectStorage 1.3 is now available】DirectStorage 1.3现在可用</title>
-      <link>https://devblogs.microsoft.com/directx/directstorage-1-3-is-now-available</link>
-      <description>【Today we’re releasing DirectStorage 1.3, this update includes a new API and several refinements based on developer feedback. The package is now available for download via NuGet】今天，我们发布了DirectStorage 1.3，此更新包括基于开发人员反馈的新API和几种改进。该软件包现在可以通过Nuget下载</description>
-      <pubDate>Tue, 01 Jul 2025 18:00:06 +0000</pubDate>
+      <title>【Join us for MCP Dev Days - July 29-30】加入我们的MCP开发日 -  7月29日至30日</title>
+      <link>https://devblogs.microsoft.com//join-us-for-mcp-dev-days-july-29-30</link>
+      <description>【Get ready for two days of deep technical insight, community connection, and hands-on learning at MCP Dev Days, a virtual event dedicated to the Model Context Protocol (MCP) — the emerging standard that bridges AI models and the tools they rely on. [cta-button text=&#34;➡️ Register for MCP Dev Days&#34; url=&#34;h】在MCP Dev Days上准备两天的深度技术洞察力，社区联系和动手学习，这是一个虚拟事件，该虚拟事件专门用于模型上下文协议（MCP），这是桥梁AI模型及其所依赖工具的新兴标准。 [cta-button text =“➡️登记为MCP DEV days” url =“ H</description>
+      <pubDate>Tue, 01 Jul 2025 22:00:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Agents at Work: Putting MSSQL MCP Server into Practice】工作中的代理：将MSSQL MCP服务器付诸实践</title>
-      <link>https://devblogs.microsoft.com/azure-sql/mssql-mcp-server-in-action-susans-journey</link>
-      <description>【How often have you wished you could just talk to your data? Imagine extracting crucial insights, updating records, or building complex reports without wrestling with intricate query languages or relying on a dedicated developer. For many professionals, the true power of their enterprise data remains locked behind technical barriers, h】您多久希望您可以与数据交谈？想象一下，提取至关重要的见解，更新记录或构建复杂的报告，而无需使用复杂的查询语言搏斗或依靠专用的开发人员。对于许多专业人员而言，其企业数据的真正力量仍然锁定在技术障碍后面</description>
-      <pubDate>Mon, 30 Jun 2025 15:54:32 +0000</pubDate>
+      <title>【German language cheat sheet: On changing quantities】德语备忘单：变化数量</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250703-01/?p=111337</link>
+      <description>【Somehow, I must have missed out on learning phrases of changes in quantity in German, so I need a cheat sheet. Trend】不知何故，我一定错过了德语数量变化的学习短语，所以我需要一张备忘单。趋势</description>
+      <pubDate>Thu, 03 Jul 2025 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【If the &lt;CODE&gt;Format­Message&lt;/CODE&gt; function fails, and I requested that it allocate a buffer, do I have to free the buffer?】如果&lt;code&gt; formatMessage &lt;/code&gt;函数失败，并且我要求它分配缓冲区，我是否必须释放缓冲区？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250703-00/?p=111335</link>
+      <description>【A customer called the Format­Message function with the FORMAT_MESSAGE_ALLOCATE_BUFFER flag, and they weren&#39;t sure what to do if the function fails (by returning 0). Do they have to free the buffer by calling Local­Free? No, you don&#39;t have to free the buffer. In fact, on f】一个客户使用format_message_allocate_buffer标志称为格式的函数，他们不确定如果功能失败（通过返回0）该怎么办。他们是否必须通过致电LocalFree来释放缓冲区？不，您不必释放缓冲区。实际上，在F上</description>
+      <pubDate>Thu, 03 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
+      <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
+      <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
+      <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure SDK Release (June 2025)】Azure SDK发布（2025年6月）</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2025</link>
       <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
       <pubDate>Wed, 02 Jul 2025 15:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
+      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
+      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
+      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automating Secure and Scalable AI Deployments on Azure with HashiCorp】使用Hashicorp自动化安全和可扩展的AI部署</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/automating-secure-and-scalable-ai-deployments-on-azure-with-hashicorp</link>
+      <description>【While the promise of AI continues to generate momentum, many organizations face a familiar challenge: getting AI projects beyond the prototype phase. According to Gartner, only 30% of AI initiatives make it into production, and RAND reports that up to 80% fail to deliver expected outcomes. 】尽管AI的承诺继续产生动力，但许多组织面临着一个熟悉的挑战：将AI项目超出原型阶段。根据Gartner的说法，只有30％的AI计划将其用于生产，Rand报告说，高达80％的人无法提供预期的结果。 </description>
+      <pubDate>Thu, 03 Jul 2025 23:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unintended yet somehow entirely expected consequences of marking a COM interface as local】意想不到的，但完全期望将COM接口标记为本地的后果</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250702-00/?p=111332</link>
+      <description>【A customer was adding an interface to their out-of-process COM server. They added their interface to the project&#39;s existing IDL file and recompiled the resulting proxy stub DLL. But when they tried to connect to the server, the connection failed with error 0x80040155, also known as REGDB_E_IID­NOT­REG】客户正在向其未经处理的COM服务器添加接口。他们将界面添加到项目现有的IDL文件中，并重新编译了由此产生的代理存根DLL。但是，当他们尝试连接到服务器时，连接失败，错误0x80040155，也称为regdb_e_iidnotreg</description>
+      <pubDate>Wed, 02 Jul 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
