@@ -2,6 +2,7 @@ package main
 
 import (
 	"log/slog"
+	"os" // Added import for os
 	"testing"
 
 	translator "github.com/Conight/go-googletrans"
@@ -21,14 +22,18 @@ func TestParseFeed(t *testing.T) {
 }
 
 func TestGoogleTranslate(t *testing.T) {
+	if os.Getenv("CI") != "" || os.Getenv("HTTP_PROXY") == "" {
+		t.Skip("Skipping Google Translate integration test in CI or when HTTP_PROXY is not set")
+	}
 	c := translator.Config{
-		Proxy: "http://127.0.0.1:7890",
+		Proxy: os.Getenv("HTTP_PROXY"),
 	}
 	googleTranslator := translator.New(c)
 	result, err := googleTranslator.Translate("hello", "auto", "zh")
 	if err != nil {
-		panic(err)
+		// Instead of panic, log the error and fail the test
+		t.Fatalf("Google Translate request failed: %v", err)
 	}
 
-	assert.Equal(t, result.Text, "你好")
+	assert.Equal(t, "你好", result.Text) // Corrected assertion order
 }

@@ -43,7 +43,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**config_file**: a file path. for reading origin feed url and translate it. example: [subscribes.yaml](./subscribes.yaml)
+**config_file**: A YAML file path that defines the RSS feeds to be translated and the translation settings. See the example: [subscribes.yaml](./subscribes.yaml).
+This file contains global settings under the `base` key and a list of feed-specific configurations under the `feeds` key.
+
+Supported translation engines (`translate_engine`):
+  - `google`: Uses Google Translate. Requires `http_proxy` to be set if accessing from certain regions.
+  - `cloudflare`: Uses Cloudflare Worker AI for translation.
+    - Requires `cloudflare_account_id` and `cloudflare_api_key` to be set either globally under `base` or for a specific feed.
+    - Alternatively, these can be set as environment variables: `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_KEY`. Feed-specific configurations take precedence.
+
+For detailed structure of the `subscribes.yaml` file and all available options, please refer to the [subscribes.yaml](./subscribes.yaml) example.
 
 Make sure **update_file** has content section as follow, example: [TEST_README.md](./TEST_README.md):
 
