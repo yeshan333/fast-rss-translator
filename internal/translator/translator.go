@@ -7,11 +7,19 @@ import (
 	"os"
 	"path/filepath"
 	"sync"
+	"bytes"
+	"encoding/json"
+	"net/http"
 
 	gtranslator "github.com/Conight/go-googletrans"
 	"github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
 )
+
+const cloudflareAPIEndpoint = "https://api.cloudflare.com/client/v4/accounts/%s/ai/v1/chat/completions"
+const cloudflareModel = "@cf/google/gemma-3-12b-it"
+const cloudflarePromptFormat = "你是一个专业的翻译助手，可以将用户输入的内容翻译成双语展现的形式，使用【】包裹原文，然后再跟译文，例如：Hello World，处理后为：【Hello World】你好世界。注意返回不要夹带任何信息除了译文和原文外的任何信息。翻译：%s"
+
 
 type Feed struct {
 	Name            string `mapstructure:"name"`
@@ -19,8 +27,10 @@ type Feed struct {
 	OriginLanguage  string `mapstructure:"origin_language"`
 	TargetLanguage  string `mapstructure:"target_language"`
 	TranslateMode   string `mapstructure:"translate_mode"`   // origin | proxy | bilingual, bilingual: mix origin and target lang, proxy: do not translate
-	TranslateEngine string `mapstructure:"translate_engine"` // google | openai
+	TranslateEngine string `mapstructure:"translate_engine"` // google | openai | cloudflare
 	MaxPost         int    `mapstructure:"max_post"`         // max handled posts
+	CloudflareAccountID string `mapstructure:"cloudflare_account_id"`
+	CloudflareApiKey    string `mapstructure:"cloudflare_api_key"`
 }
 
 type Translator struct {
@@ -176,7 +186,86 @@ func (translator *Translator) DoTranslate(content string) string {
 		return ""
 	case "aliyun":
 		return ""
+	case "cloudflare":
+		return translator.translateWithCloudflare(content)
 	default:
 		return ""
 	}
+}
+
+func (translator *Translator) translateWithCloudflare(content string) string {
+	accountID := os.Getenv("CLOUDFLARE_ACCOUNT_ID")
+	apiKey := os.Getenv("CLOUDFLARE_API_KEY")
+
+	if translator.CloudflareAccountID != "" {
+		accountID = translator.CloudflareAccountID
+	}
+	if translator.CloudflareApiKey != "" {
+		apiKey = translator.CloudflareApiKey
+	}
+
+	if accountID == "" || apiKey == "" {
+		slog.Error("Cloudflare Account ID or API Key not set for feed", "feed", translator.Feed.Url)
+		return content // Return original content if credentials are not set
+	}
+
+	apiURL := fmt.Sprintf(cloudflareAPIEndpoint, accountID)
+
+	requestBody := map[string]interface{}{
+		"model": cloudflareModel,
+		"messages": []map[string]string{
+			{
+				"role":    "user",
+				"content": fmt.Sprintf(cloudflarePromptFormat, content),
+			},
+		},
+	}
+	jsonBody, err := json.Marshal(requestBody)
+	if err != nil {
+		slog.Error("Error marshalling Cloudflare request body", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+
+	req, err := http.NewRequest("POST", apiURL, bytes.NewBuffer(jsonBody))
+	if err != nil {
+		slog.Error("Error creating Cloudflare request", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+
+	req.Header.Set("Authorization", "Bearer "+apiKey)
+	req.Header.Set("Content-Type", "application/json")
+
+	// Use http.DefaultClient so it can be overridden in tests
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		slog.Error("Error sending request to Cloudflare", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		slog.Error("Cloudflare API request failed", "status_code", resp.StatusCode, "feed", translator.Feed.Url)
+		// You might want to read resp.Body here to get more error details from Cloudflare
+		return content
+	}
+
+	var cloudflareResp struct {
+		Choices []struct {
+			Message struct {
+				Content string `json:"content"`
+			} `json:"message"`
+		} `json:"choices"`
+	}
+
+	if err := json.NewDecoder(resp.Body).Decode(&cloudflareResp); err != nil {
+		slog.Error("Error decoding Cloudflare response body", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+
+	if len(cloudflareResp.Choices) > 0 && cloudflareResp.Choices[0].Message.Content != "" {
+		return cloudflareResp.Choices[0].Message.Content
+	}
+
+	slog.Warn("Cloudflare translation returned empty content", "feed", translator.Feed.Url, "original_content", content)
+	return content // Return original content if translation is empty
 }
