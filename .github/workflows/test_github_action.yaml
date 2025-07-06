@@ -20,9 +20,6 @@ jobs:
       - name: fast-rss-translator
         uses: ./
         id: fast-rss-translator-action
-        env:
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
         with:
           config_file: 'subscribes.yaml'
           update_file: 'TEST_README.md'
@@ -31,3 +28,5 @@ jobs:
           org: "yeshan333"
           repo: "fast-rss-translator"
           token: ${{ secrets.GITHUB_TOKEN }}
+          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          cloudflare_api_key: ${{ secrets.CLOUDFLARE_API_KEY }}
