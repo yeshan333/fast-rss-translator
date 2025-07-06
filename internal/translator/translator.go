@@ -31,6 +31,8 @@ type Feed struct {
 	CloudflareAccountID string `mapstructure:"cloudflare_account_id"`
 	CloudflareApiKey    string `mapstructure:"cloudflare_api_key"`
 	CloudflareAIModel   string `mapstructure:"cloudflare_ai_model"` // cloudflare ai model, default is @cf/google/gemma-3-12b-it
+	AlibabaQwenAPIKey   string `mapstructure:"alibaba_qwen_api_key"`
+	AlibabaQwenAIModel  string `mapstructure:"alibaba_qwen_ai_model"` // alibaba qwen ai model, default is qwen-turbo
 }
 
 type Translator struct {
@@ -184,8 +186,8 @@ func (translator *Translator) DoTranslate(content string) string {
 		}
 	case "openai":
 		return ""
-	case "aliyun":
-		return ""
+	case "qwen":
+		return translator.translateWithAlibabaQwen(content)
 	case "cloudflare":
 		return translator.translateWithCloudflare(content)
 	default:
@@ -273,5 +275,87 @@ func (translator *Translator) translateWithCloudflare(content string) string {
 	}
 
 	slog.Warn("Cloudflare translation returned empty content", "feed", translator.Feed.Url, "original_content", content)
+	return content // Return original content if translation is empty
+}
+
+func (translator *Translator) translateWithAlibabaQwen(content string) string {
+	apiKey := os.Getenv("ALIBABA_QWEN_API_KEY")
+
+	if translator.AlibabaQwenAPIKey != "" {
+		apiKey = translator.AlibabaQwenAPIKey
+	}
+	if translator.CloudflareApiKey != "" {
+		apiKey = translator.CloudflareApiKey
+	}
+
+	if apiKey == "" {
+		slog.Error("Alibaba Qwen API Key not set for feed", "feed", translator.Feed.Url)
+		return content // Return original content if credentials are not set
+	}
+
+	apiURL := "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+
+	var alibabaQwenModel string
+	if translator.AlibabaQwenAIModel != "" {
+		alibabaQwenModel = translator.AlibabaQwenAIModel
+	} else {
+		alibabaQwenModel = "qwen-turbo" // Default model
+	}
+	requestBody := map[string]interface{}{
+		"model": alibabaQwenModel,
+		"messages": []map[string]string{
+			{
+				"role":    "user",
+				"content": fmt.Sprintf(cloudflarePromptFormat, translator.TargetLanguage, content),
+			},
+		},
+	}
+	jsonBody, err := json.Marshal(requestBody)
+	if err != nil {
+		slog.Error("Error marshalling Alibaba Qwen request body", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+
+	req, err := http.NewRequest("POST", apiURL, bytes.NewBuffer(jsonBody))
+	if err != nil {
+		slog.Error("Error creating Alibaba Qwen request", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+
+	req.Header.Set("Authorization", "Bearer "+apiKey)
+	req.Header.Set("Content-Type", "application/json")
+
+	// Use http.DefaultClient so it can be overridden in tests
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		slog.Error("Error sending request to Alibaba Qwen", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		slog.Error("Alibaba Qwen API request failed", "status_code", resp.StatusCode, "feed", translator.Feed.Url)
+		// You might want to read resp.Body here to get more error details from Alibaba Qwen
+		return content
+	}
+
+	var QwenApiResp struct {
+		Choices []struct {
+			Message struct {
+				Content string `json:"content"`
+			} `json:"message"`
+		} `json:"choices"`
+	}
+
+	if err := json.NewDecoder(resp.Body).Decode(&QwenApiResp); err != nil {
+		slog.Error("Error decoding Alibaba Qwen response body", "err", err, "feed", translator.Feed.Url)
+		return content
+	}
+
+	if len(QwenApiResp.Choices) > 0 && QwenApiResp.Choices[0].Message.Content != "" {
+		return QwenApiResp.Choices[0].Message.Content
+	}
+
+	slog.Warn("Alibaba Qwen translation returned empty content", "feed", translator.Feed.Url, "original_content", content)
 	return content // Return original content if translation is empty
 }

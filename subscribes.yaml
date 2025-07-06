@@ -11,8 +11,8 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
     max_post: 10
+    # translate_engine: "cloudflare"z
     # Cloudflare specific settings (override global or environment variables if set)
     # cloudflare_account_id: "specific_feed_account_id"
     # cloudflare_api_key: "specific_feed_api_key"
@@ -23,7 +23,8 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
+    translate_engine: "qwen"
+    # alibaba_qwen_api_key: "specific_feed_api_key"
     max_post: 10
 
   - name: netflixtechblog.xml
@@ -119,7 +120,7 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "google"
+    translate_engine: "qwen"
     max_post: 10
 
   - name: javascriptweekly.xml
@@ -127,7 +128,7 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
+    translate_engine: "qwen"
     max_post: 10
 
   - name: pycoders.xml
@@ -135,7 +136,7 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
+    translate_engine: "qwen"
     max_post: 10
 
   - name: thisweekinreact.xml

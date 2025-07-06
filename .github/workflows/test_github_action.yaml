@@ -26,11 +26,13 @@ jobs:
       - name: fast-rss-translator
         uses: ./
         id: fast-rss-translator-action
+        env:
+          ALIBABA_QWEN_API_KEY: ${{ secrets.ALIBABA_QWEN_API_KEY }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
         with:
           config_file: 'subscribes.yaml'
           update_file: 'TEST_README.md'
-          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          cloudflare_api_key: ${{ secrets.CLOUDFLARE_API_KEY }}
       - name: Commit rss files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
