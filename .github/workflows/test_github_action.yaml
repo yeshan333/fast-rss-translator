@@ -17,6 +17,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Get current branch name
+        id: get-branch
+        run: echo "branch=$(git branch --show-current)" >> $GITHUB_OUTPUT
+
       - name: fast-rss-translator
         uses: ./
         id: fast-rss-translator-action
@@ -27,6 +31,7 @@ jobs:
           username: "github-actions[bot]"
           org: "yeshan333"
           repo: "fast-rss-translator"
+          branch: ${{ steps.get-branch.outputs.branch }}
           token: ${{ secrets.GITHUB_TOKEN }}
           cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           cloudflare_api_key: ${{ secrets.CLOUDFLARE_API_KEY }}

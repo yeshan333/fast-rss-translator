@@ -20,6 +20,9 @@ while [ $# -gt 0 ]; do
     --repo=*)
       repo="${1#*=}"
       ;;
+    --branch=*)
+      branch="${1#*=}"
+      ;;
     --token=*)
       token="${1#*=}"
       ;;
@@ -61,5 +64,5 @@ then
   git add .
 
   git commit -m "Auto commit by bot, ci skip"
-  git push https://${username}:${token}@github.com/${org}/${repo}.git
+  git push https://${username}:${token}@github.com/${org}/${repo}.git origin $branch
 fi
