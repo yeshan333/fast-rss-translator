@@ -4,9 +4,11 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
+  pull_request:
 
-permissions:
-  contents: write
+permissions:                    # Global permissions configuration starts here
+  contents: write               # 'write' access to repository contents
+  pull-requests: write          # 'write' access to pull requests
 
 jobs:
   test_fast_rss_translator_action:
@@ -15,15 +17,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+      - name: Get current branch name
+        id: get-branch
+        run: echo "branch=$(git branch --show-current)" >> $GITHUB_OUTPUT
       - name: fast-rss-translator
         uses: ./
         id: fast-rss-translator-action
         with:
           config_file: 'subscribes.yaml'
           update_file: 'TEST_README.md'
-          push: true
-          username: "github-actions[bot]"
-          org: "yeshan333"
-          repo: "fast-rss-translator"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          cloudflare_api_key: ${{ secrets.CLOUDFLARE_API_KEY }}
+      - name: Commit rss files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Update rss files"
+      - name: Push rss changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.get-branch.outputs.branch }}

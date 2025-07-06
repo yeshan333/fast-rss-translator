@@ -1,6 +1,6 @@
 module github.com/yeshan333/fast-rss-translator
 
-go 1.22.4
+go 1.24.4
 
 require (
 	github.com/Conight/go-googletrans v0.2.4

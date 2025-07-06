@@ -1,24 +1,247 @@
 package translator_test
 
 import (
+	"bytes" // Added bytes import
+	"io"
+	"net/http"
+	"net/http/httptest"
+	"os"
+	"strings"
 	"testing"
 
 	"github.com/yeshan333/fast-rss-translator/internal/translator"
 )
 
 func TestExecute(t *testing.T) {
+	// This test makes actual network calls, consider mocking if needed for CI/CD
+	// For now, we'll keep it as an integration test for google translate
+
+	// Skip this test in CI environments or if proxy is not available
+	if os.Getenv("CI") != "" || os.Getenv("HTTP_PROXY") == "" {
+		t.Skip("Skipping Google Translate integration test in CI or when HTTP_PROXY is not set")
+	}
+
 	trans := &translator.Translator{
-		HttpProxy: "http://127.0.0.1:7890",
+		HttpProxy: os.Getenv("HTTP_PROXY"), // Assumes HTTP_PROXY is set for testing
 		Feed: translator.Feed{
-			Name:            "feed_test.xml",
-			Url:             "https://grafana.com/blog/index.xml",
+			Name:            "feed_test_google.xml",
+			Url:             "https://grafana.com/blog/index.xml", // Using a real RSS feed for testing
 			TargetLanguage:  "zh",
 			TranslateMode:   "origin",
 			TranslateEngine: "google",
 			MaxPost:         1,
 		},
 	}
-	translateContent := "<p>Whether they’re for synthetic monitoring, large-language models, or some other use case, Grafana application plugins are a fantastic way to enhance your overall Grafana experience. Data for these custom experiences can come from a variety of sources, including nested data sources. However, they can also come from third-party APIs, which usually require authentication to access.</p>\n<p>This blog post explains, step by step, how to securely authenticate against third-party APIs when developing your Grafana app plugin. By the end, you&rsquo;ll understand how to handle authentication securely, ensuring that sensitive credentials are protected throughout interactions with third-party APIs.</p>\n<p><em>Note: For those new to Grafana, it might be helpful to understand the distinctions between our panel plugins, data source plugins, and application plugins before continuing with this post. Each plugin type serves a unique purpose and has different capabilities within the Grafana ecosystem. You can find a detailed overview of each type in our <a href=\"/developers/plugin-tools/key-concepts/plugin-types-usage\">developer documentation</a>.</em></p>\n<h2 id=\"the-need-for-secure-authentication-with-third-party-apis\">The need for secure authentication with third-party APIs</h2>\n<p>When integrating with third-party APIs, it&rsquo;s crucial to secure your connection and use authentication credentials to protect sensitive data from unauthorized access. The mishandling of authentication can expose you to several risks, including credential leaks, man-in-the-middle attacks, replay attacks, impersonation, and compliance violations. This could happen, for example, if you simply store your API authentication credentials in plain text, directly inside your frontend components, and then use them to call a third-party API.</p>\n<p>To avoid these risks, it’s essential to implement robust security measures for API credentials and ensure encrypted communications with third-party services.</p>\n<h2 id=\"secure-api-authentication-in-grafana-app-plugins\">Secure API authentication in Grafana app plugins</h2>\n<p>While the following steps will help you securely authenticate against a third-party API within a Grafan app plugin, they can also be used within a backend data source plugin.</p>\n<p>There are several best practices to ensure credentials are handled safely and that plugins do not expose sensitive information, either in transit or at rest:</p>\n<ol>\n<li><strong>In transit</strong>: Ensure you’re using HTTPS at all times to guarantee secure communication.</li>\n<li><strong>At rest</strong>: Use <a href=\"/developers/plugin-tools/create-a-plugin/extend-a-plugin/add-authentication-for-data-source-plugins#store-configuration-in-securejsondata\">Grafana&rsquo;s SecureJsonData</a> plugin configuration to securely store sensitive data like API keys.</li>\n<li><strong>Minimize scope of visibility</strong>: Use the <a href=\"/developers/plugin-tools/key-concepts/backend-plugins/#resources\">Resources feature</a> in the Grafana plugin architecture to act as an intermediary for requests to third-party APIs. This lets you securely fetch data in the frontend without exposing credentials to the client.</li>\n</ol>\n<figure\nclass=\"figure-wrapper figure-wrapper__lightbox w-100p \"\nstyle=\"max-width: 917px;\"\nitemprop=\"associatedMedia\"\nitemscope=\"\"\nitemtype=\"http://schema.org/ImageObject\"\n>\n<a\nclass=\"lightbox-link\"\nhref=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png\"\nitemprop=\"contentUrl\"\n>\n<div class=\"img-wrapper w-100p h-auto\"><img\nclass=\"lazyload \"\ndata-src=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png\"data-srcset=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=320 320w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=550 550w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=750 750w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=900 900w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=1040 1040w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=1240 1240w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png?w=1920 1920w\"\ndata-sizes=\"auto\"alt=\"A diagram depicting best practices to ensure credentials are handled safely. \"\nwidth=\"917\"\nheight=\"523\"\n/>\n<noscript>\n<img\nsrc=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-diagram.png\"\nalt=\"A diagram depicting best practices to ensure credentials are handled safely. \"\nwidth=\"917\"\nheight=\"523\"\n/>\n</noscript></div>\n</a>\n</figure>\n<h3 id=\"handling-api-keys\">Handling API keys</h3>\n<p>Grafana provides a mechanism to store sensitive information, such as API keys or passwords, using secure JSON data fields within the plugin’s configuration. These credentials are encrypted and can only be accessed server-side, ensuring they are not exposed in the browser.</p>\n<p>When bootstrapping your Grafana app plugin, using the <a href=\"/developers/plugin-tools/#quick-start\">Create Plugin CLI tool</a>, your app plugin source code will contain a configuration page with an example for storing secure credentials. This can be found in the <code>src/components/AppConfig/AppConfig.tsx</code> file.</p>\n<figure\nclass=\"figure-wrapper figure-wrapper__lightbox w-100p \"\nstyle=\"max-width: 590px;\"\nitemprop=\"associatedMedia\"\nitemscope=\"\"\nitemtype=\"http://schema.org/ImageObject\"\n>\n<a\nclass=\"lightbox-link captioned\"\nhref=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png\"\nitemprop=\"contentUrl\"\n>\n<div class=\"img-wrapper w-100p h-auto\"><img\nclass=\"lazyload mb-0\"\ndata-src=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png\"data-srcset=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=320 320w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=550 550w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=750 750w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=900 900w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=1040 1040w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=1240 1240w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png?w=1920 1920w\"\ndata-sizes=\"auto\"alt=\"A screenshot of the out-of-the-box Grafana app plugin configuration settings page.\"\nwidth=\"590\"\nheight=\"273\"\ntitle=\"*The out-of-the-box Grafana app plugin configuration settings page.*\"\n/>\n<noscript>\n<img\nsrc=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-settings.png\"\nalt=\"A screenshot of the out-of-the-box Grafana app plugin configuration settings page.\"\nwidth=\"590\"\nheight=\"273\"\ntitle=\"*The out-of-the-box Grafana app plugin configuration settings page.*\"\n/>\n</noscript></div>\n<figcaption class=\"w-100p caption text-gray-13 \"><em>The out-of-the-box Grafana app plugin configuration settings page.</em></figcaption>\n</a>\n</figure>\n<p>You will see that there are two pieces of data being stored as part of the plugin’s configuration: <code>apiUrl</code> and <code>apiKey</code>.</p>\n<p>Inside of the configuration page’s source code, you’ll notice the <strong>Submit</strong> button has an <code>onClick</code> handler that calls the <code>updatePluginAndReload</code> function as shown below:</p>\n<div class=\"code-snippet code-snippet__mini\"><div class=\"lang-toolbar__mini\">\n<span class=\"code-clipboard\">\n<button x-data=\"app_code_snippet()\" x-init=\"init()\" @click=\"copy()\">\n<img class=\"code-clipboard__icon\" src=\"/media/images/icons/icon-copy-small-2.svg\" alt=\"Copy code to clipboard\" width=\"14\" height=\"13\">\n<span>Copy</span>\n</button>\n</span>\n</div><div class=\"code-snippet code-snippet__border\">\n<pre data-expanded=\"false\"><code class=\"language-none\">updatePluginAndReload(plugin.meta.id, {\nenabled,\npinned,\njsonData: {\napiUrl: state.apiUrl,\n},\nsecureJsonData: state.isApiKeySet\n? undefined\n: {\napiKey: state.apiKey,\n},\n})</code></pre>\n</div>\n</div><p>This call to the <code>updatePluginAndReload</code> function saves the user’s configuration form input in the plugin’s configuration settings. The <code>apiUrl</code> is being stored as plain JSON data, while the <code>apiKey</code> is being stored as secure JSON data. This means the frontend of your app plugin has no way to retrieve the raw value of the <code>apiKey</code> which can therefore only be used by the backend part of your plugin. This ensures that your API credentials remain private and secure.</p>\n<p>Remember to run your development Grafana instance and navigate to your app plugin’s configuration page to update the configuration appropriately with your third-party API credentials.</p>\n<p>Alternatively, for development purposes, you may want to enter default values for your plugin’s configuration via the <code>provisioning/plugins/app.yaml</code> file, as shown below. This will default your plugin’s configuration to the values entered in this file each time the Docker containers are restarted.</p>\n<figure\nclass=\"figure-wrapper figure-wrapper__lightbox w-100p \"\nstyle=\"max-width: 419px;\"\nitemprop=\"associatedMedia\"\nitemscope=\"\"\nitemtype=\"http://schema.org/ImageObject\"\n>\n<a\nclass=\"lightbox-link\"\nhref=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png\"\nitemprop=\"contentUrl\"\n>\n<div class=\"img-wrapper w-100p h-auto\"><img\nclass=\"lazyload \"\ndata-src=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png\"data-srcset=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=320 320w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=550 550w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=750 750w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=900 900w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=1040 1040w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=1240 1240w, /media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png?w=1920 1920w\"\ndata-sizes=\"auto\"alt=\"A screenshot showing default values for the plugin&#39;s configuration.\"\nwidth=\"419\"\nheight=\"270\"\n/>\n<noscript>\n<img\nsrc=\"/media/blog/authenticating-APIs-grafana-plugins/authenticating-APIs-default-values.png\"\nalt=\"A screenshot showing default values for the plugin&#39;s configuration.\"\nwidth=\"419\"\nheight=\"270\"\n/>\n</noscript></div>\n</a>\n</figure>\n<p>As mentioned earlier, it is incredibly important that you use HTTPS to create a secure connection to your API.</p>\n<h3 id=\"creating-a-resources-endpoint-to-call-the-third-party-api\">Creating a Resources endpoint to call the third-party API</h3>\n<p>Grafana plugins can use the Resources functionality to allow the frontend to retrieve arbitrary data from the plugin’s backend. What you decide to expose via the Resources endpoints is entirely up to you as the developer, but in this instance, we will use a Resources endpoint to retrieve data from an authenticated third-party API.</p>\n<p>Resources endpoints within your app plugin are configured inside the <code>pkg/plugin/resources.go</code> file. Inside this file there is a <code>registerRoutes</code> function that defines which Resources endpoints are available within your app plugin.</p>\n<p>To register a new endpoint, define it within the <code>registerRoutes</code> function, as shown below:</p>\n<div class=\"code-snippet code-snippet__mini\"><div class=\"lang-toolbar__mini\">\n<span class=\"code-clipboard\">\n<button x-data=\"app_code_snippet()\" x-init=\"init()\" @click=\"copy()\">\n<img class=\"code-clipboard__icon\" src=\"/media/images/icons/icon-copy-small-2.svg\" alt=\"Copy code to clipboard\" width=\"14\" height=\"13\">\n<span>Copy</span>\n</button>\n</span>\n</div><div class=\"code-snippet code-snippet__border\">\n<pre data-expanded=\"false\"><code class=\"language-none\">func (a *App) registerRoutes(mux *http.ServeMux) {\nmux.HandleFunc(&#34;/ping&#34;, a.handlePing)\nmux.HandleFunc(&#34;/echo&#34;, a.handleEcho)\nmux.HandleFunc(&#34;/my-new-endpoint&#34;, a.handleMyNewEndpoint) // Newly registered endpoint\n}</code></pre>\n</div>\n</div><p>Above we have defined a new Resources endpoint that can be accessed at the Resources location for our plugin by the frontend – for example, <code>/api/plugins/&lt;your-plugin-id&gt;/resources/my-new-endpoint</code>.</p>\n<p>This new endpoint is configured to be handled by a new function, <code>a.handleMyNewEndpoint</code>. We must implement this function, which is a standard Go HTTP handler, in order to return data to the frontend when the endpoint is called.</p>\n<p>Let’s take a look at an example implementation that gets the API URL and API key from your plugin configuration, and then makes an authenticated HTTP request to the third-party API before returning the data to the client.</p>\n<div class=\"code-snippet code-snippet__mini\"><div class=\"lang-toolbar__mini\">\n<span class=\"code-clipboard\">\n<button x-data=\"app_code_snippet()\" x-init=\"init()\" @click=\"copy()\">\n<img class=\"code-clipboard__icon\" src=\"/media/images/icons/icon-copy-small-2.svg\" alt=\"Copy code to clipboard\" width=\"14\" height=\"13\">\n<span>Copy</span>\n</button>\n</span>\n</div><div class=\"code-snippet code-snippet__border\">\n<pre data-expanded=\"false\"><code class=\"language-none\">func (a *App) handleMyNewEndpoint(w http.ResponseWriter, req *http.Request) {\n// Only allow HTTP GET calls\nif req.Method != http.MethodGet {\nhttp.Error(w, &#34;method not allowed&#34;, http.StatusMethodNotAllowed)\nreturn\n}\n// Get the Plugin context\npCtx := httpadapter.PluginConfigFromContext(req.Context())\n// Get the API Key from the plugin’s secure JSON configuration data\napiKey, exists := pCtx.AppInstanceSettings.DecryptedSecureJSONData[&#34;apiKey&#34;]\nif !exists {\nhttp.Error(w, err.Error(), http.StatusInternalServerError)\nreturn\n}\n// Get the API URL from the plugin’s standard JSON configuration data\nvar config pluginConfig\nif err := json.Unmarshal(pCtx.AppInstanceSettings.JSONData, &amp;config); err != nil {\nhttp.Error(w, err.Error(), http.StatusInternalServerError)\nreturn\n}\nif config.ApiUrl == &#34;&#34; {\nreturn nil, errors.New(&#34;no api url configured&#34;)\n}\n// Define the full API endpoint to call (in this instance the /profile endpoint of the third-party API)\napiUrl := fmt.Sprintf(&#34;%s/profile&#34;, config.ApiUrl)\n// Create a new HTTP request to the API\nclient := &amp;http.Client{}\napiReq, err := http.NewRequest(&#34;GET&#34;, apiUrl, nil)\nif err != nil {\nhttp.Error(w, err.Error(), http.StatusInternalServerError)\nreturn\n}\n// Set the Authorization header using the API Key\napiReq.Header.Set(&#34;Authorization&#34;, fmt.Sprintf(&#34;***;, apiKey))\n// Make the request\napiResp, err := client.Do(apiReq)\nif err != nil {\nhttp.Error(w, err.Error(), http.StatusInternalServerError)\nreturn\n}\ndefer apiResp.Body.Close()\n// Read the response body\nbody, err := io.ReadAll(apiResp.Body)\nif err != nil {\nhttp.Error(w, err.Error(), http.StatusInternalServerError)\nreturn\n}\n// Write the response body as JSON for the caller to consume\nw.Header().Set(&#34;Content-Type&#34;, &#34;application/json&#34;)\nw.Write(body)\n}</code></pre>\n</div>\n</div><p>The above code uses the plugin’s configuration to call out to the authenticated third-party API’s <code>/profile</code> endpoint and return the data to the client.</p>\n<p>Remember, in order for this new Resources endpoint to take effect, the backend source code of the plugin must be rebuilt using the <code>mage -v build:linux</code> command and then the Docker containers must be restarted using Docker Compose.</p>\n<h3 id=\"calling-the-resources-endpoint-from-the-frontend\">Calling the Resources endpoint from the frontend</h3>\n<p>Your plugin’s frontend can now use the newly created Resources endpoint to retrieve data from the authenticated third-party API.</p>\n<p>To call the Resources endpoint, use the <code>getBackendSrv().fetch()</code> function, which is part of the <code>@grafana/runtime</code> package. We also use the <code>lastValueFrom</code> function, which is available as part of the <code>rxjs</code> package.</p>\n<p>An example of this is shown below:</p>\n<div class=\"code-snippet code-snippet__mini\"><div class=\"lang-toolbar__mini\">\n<span class=\"code-clipboard\">\n<button x-data=\"app_code_snippet()\" x-init=\"init()\" @click=\"copy()\">\n<img class=\"code-clipboard__icon\" src=\"/media/images/icons/icon-copy-small-2.svg\" alt=\"Copy code to clipboard\" width=\"14\" height=\"13\">\n<span>Copy</span>\n</button>\n</span>\n</div><div class=\"code-snippet code-snippet__border\">\n<pre data-expanded=\"false\"><code class=\"language-none\">const response = getBackendSrv().fetch({\nurl: &#39;api/plugins/myorg-myplugin-app/resources/my-new-endpoint\n});\nconst value = await lastValueFrom(response) as any;\nconsole.log(value);</code></pre>\n</div>\n</div><p>The above code will make a call to the new Resources endpoint, grab the value from the response, and output it to the browser’s console.</p>\n<h2 id=\"how-to-learn-more\">How to learn more</h2>\n<p>By following the steps above, you can securely authenticate against third-party APIs within your Grafana app plugin, ensuring that your integrations are not only powerful, but secure. This method protects sensitive credentials and maintains the integrity and security of your data flows.</p>\n<p>For more information on Grafana plugin development and the Resources API, refer to the <a href=\"/developers/\">Grafana developer portal</a>. Additionally, you can explore <a href=\"https://community.grafana.com/\" target=\"_blank\" rel=\"noopener noreferrer\">our community forums</a> to learn best practices and get support from other Grafana developers.</p>"
-	// trans.Execute("./rss_test")
-	t.Log(trans.DoTranslate(translateContent))
+	translateContent := "Hello World"
+	translated := trans.DoTranslate(translateContent)
+	if translated == "" || translated == translateContent {
+		t.Errorf("Google Translate failed, expected translation for '%s', got '%s'", translateContent, translated)
+	}
+	t.Logf("Google Translate: '%s' -> '%s'", translateContent, translated)
+}
+
+func TestTranslateWithCloudflare(t *testing.T) {
+	// Mock HTTP server
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		// Check auth header
+		authHeader := r.Header.Get("Authorization")
+		if authHeader != "Bearer test-api-key" {
+			t.Errorf("Expected Authorization header 'Bearer test-api-key', got '%s'", authHeader)
+			http.Error(w, "Unauthorized", http.StatusUnauthorized)
+			return
+		}
+
+		// Check content type
+		contentType := r.Header.Get("Content-Type")
+		if contentType != "application/json" {
+			t.Errorf("Expected Content-Type header 'application/json', got '%s'", contentType)
+			http.Error(w, "Bad Request", http.StatusBadRequest)
+			return
+		}
+
+		// Log received request at mock server
+		t.Logf("Mock server received request URI: %s", r.RequestURI)
+		t.Logf("Mock server received request URL Path: %s", r.URL.Path)
+		t.Logf("Mock server received request method: %s", r.Method)
+		// t.Logf("Mock server received request headers: %#v", r.Header) // Can be verbose
+
+		// Check request body
+		body, err := io.ReadAll(r.Body)
+		if err != nil {
+			t.Fatalf("Mock server failed to read request body: %v", err)
+		}
+		expectedRequestBody := `"content":""你是一个专业的翻译助手，可以将用户输入的内容翻译成双语展现的形式，使用【】包裹原文，然后再跟译文。例如：Hello World，处理后为：【Hello World】你好世界。注意返回不要夹带任何除了译文和原文外的任何信息。译文使用的语言代码为 zh-hans，请翻译：Elixir with AI""`
+		if !strings.Contains(string(body), expectedRequestBody) {
+			t.Errorf("Mock Server: Expected request body to contain '%s', got '%s'", expectedRequestBody, string(body))
+		}
+		if !strings.Contains(string(body), `"model":"@cf/google/gemma-3-12b-it"`) {
+			t.Errorf("Mock Server: Expected request body to contain model info, got '%s'", string(body))
+		}
+
+		// Send mock response
+		mockResponse := `{
+			"id": "id-1751744438633",
+			"object": "chat.completion",
+			"created": 1751744438,
+			"model": "@cf/google/gemma-3-12b-it",
+			"choices": [
+				{
+					"index": 0,
+					"message": {
+						"role": "assistant",
+						"content": "【Elixir with AI】Elixir 与人工智能"
+					},
+					"logprobs": null,
+					"finish_reason": "stop"
+				}
+			],
+			"usage": {
+				"prompt_tokens": 75,
+				"completion_tokens": 11,
+				"total_tokens": 86
+			}
+		}`
+		w.Header().Set("Content-Type", "application/json")
+		w.WriteHeader(http.StatusOK)
+		io.WriteString(w, mockResponse)
+	}))
+	defer server.Close()
+
+	// Override the actual Cloudflare API endpoint with the mock server's URL for this test
+	// This requires a way to inject the URL, which is not directly available in the current structure.
+	// For a real unit test, you'd refactor translateWithCloudflare to accept an http.Client and the URL,
+	// or use a global variable for the endpoint that can be changed in tests.
+	//
+	// As a workaround for now, we will test the DoTranslate method which calls translateWithCloudflare internally.
+	// We will set the CloudflareAccountID to a value that allows us to identify the mock server.
+	// The actual constant `cloudflareAPIEndpoint` in `translator.go` will be used, so we need to ensure our mock server
+	// URL structure matches what Sprintf expects if we were to modify that constant.
+	// However, since we can't modify the constant for testing without changing the source,
+	// we rely on the test setup to ensure the correct mock server is called if we were to intercept DNS or similar.
+	//
+	// A better approach would be to pass the API endpoint URL to the translateWithCloudflare function or the Translator struct.
+	// For this exercise, we'll assume the `cloudflareAPIEndpoint` constant is modified for testing or we use environment variables.
+
+	// Let's simulate setting the endpoint for testing if we could:
+	// originalCloudflareAPIEndpoint := translator.CloudflareAPIEndpoint // Assuming it's a public var
+	// translator.CloudflareAPIEndpoint = server.URL + "/client/v4/accounts/%s/ai/v1/chat/completions" // This is not possible with current const
+	// defer func() { translator.CloudflareAPIEndpoint = originalCloudflareAPIEndpoint }()
+
+	// Since we can't easily change the URL constant, we'll proceed with the test
+	// and it will make a real HTTP request if not properly mocked at a lower level (e.g. http client injection).
+	// For the purpose of this test, we will assume that if we set CloudflareAccountID to "test-account-id",
+	// and if we could intercept HTTP calls, we would direct calls to `https://api.cloudflare.com/client/v4/accounts/test-account-id/...`
+	// to our `server.URL`.
+	//
+	// The current `translateWithCloudflare` uses a global `cloudflareAPIEndpoint` constant.
+	// To properly test this without network calls, `http.DefaultClient` could be mocked,
+	// or `translateWithCloudflare` should accept an `*http.Client`.
+
+	// We will proceed by creating a custom HTTP client and transport for this test.
+	// This is a common way to mock HTTP clients in Go.
+	originalClient := http.DefaultClient
+	http.DefaultClient = &http.Client{
+		Transport: &customTransport{serverURL: server.URL, t: t},
+	}
+	defer func() { http.DefaultClient = originalClient }()
+
+	trans := translator.Translator{
+		Feed: translator.Feed{
+			Name:                "feed_cloudflare_test.xml",
+			Url:                 "http://example.com/rss.xml", // Dummy URL, not used by DoTranslate directly for this test
+			TargetLanguage:      "zh",                         // Not directly used by Cloudflare prompt but good to have
+			TranslateMode:       "bilingual",                  // To ensure DoTranslate is called
+			TranslateEngine:     "cloudflare",
+			CloudflareAccountID: "test-account-id", // This will be part of the URL
+			CloudflareApiKey:    "test-api-key",
+		},
+	}
+
+	inputText := "Elixir with AI"
+	expectedOutput := "【Elixir with AI】Elixir 与人工智能"
+	actualOutput := trans.DoTranslate(inputText)
+
+	if actualOutput != expectedOutput {
+		t.Errorf("TranslateWithCloudflare: expected '%s', got '%s'", expectedOutput, actualOutput)
+	}
+
+	// Test case for when API key or Account ID is missing
+	trans.Feed.CloudflareApiKey = ""
+	actualOutput = trans.DoTranslate(inputText)
+	if actualOutput != inputText {
+		t.Errorf("TranslateWithCloudflare (missing API key): expected original text '%s', got '%s'", inputText, actualOutput)
+	}
+}
+
+// customTransport to redirect requests to the mock server
+type customTransport struct {
+	serverURL string
+	t         *testing.T
+}
+
+func (ct *customTransport) RoundTrip(req *http.Request) (*http.Response, error) {
+	// Check if the request is intended for Cloudflare
+	// This is a simplified check. A more robust check might involve parsing the URL.
+	if strings.Contains(req.URL.Host, "api.cloudflare.com") && strings.Contains(req.URL.Path, "/ai/v1/chat/completions") {
+		// Redirect to mock server
+		newURL := ct.serverURL + req.URL.Path
+		if req.URL.RawQuery != "" {
+			newURL += "?" + req.URL.RawQuery
+		}
+
+		// Create a new request to the mock server
+		// We need to be careful about the host in the URL for the httptest server
+		// The server expects requests to its own host.
+
+		// Read the original request's body because it can only be read once.
+		var bodyBytes []byte
+		var err error
+		if req.Body != nil {
+			bodyBytes, err = io.ReadAll(req.Body)
+			if err != nil {
+				ct.t.Fatalf("Failed to read original request body: %v", err)
+				return nil, err
+			}
+			// It's important to close the original body.
+			req.Body.Close()
+		}
+
+		// Create a new request to the mock server.
+		// The URL for NewRequest should be the mock server's root URL, as its handler is registered there.
+		// Pass the original body content using a new buffer.
+		mockReq, err := http.NewRequest(req.Method, ct.serverURL, bytes.NewBuffer(bodyBytes))
+		if err != nil {
+			ct.t.Fatalf("Failed to create request to mock server: %v", err)
+			return nil, err
+		}
+
+		// Copy all headers from the original request to the new request.
+		mockReq.Header = make(http.Header)
+		for k, v := range req.Header {
+			mockReq.Header[k] = v
+		}
+
+		// The httptest server's handler is at its root.
+		// Send the request to the mock server.
+		// Use a new client or http.DefaultClient if it's not the one being modified.
+		// Since we are modifying http.DefaultClient's transport, we should use a specific client here
+		// to avoid recursion if this transport was, by mistake, assigned to the client making this call.
+		// However, the client making the *original* call is http.DefaultClient.
+		// The client *inside* this RoundTrip should be a fresh one or one that doesn't use this transport.
+		client := &http.Client{}
+
+		ct.t.Logf("CustomTransport: Sending mock request to URL: %s", mockReq.URL.String())
+		ct.t.Logf("CustomTransport: Mock request method: %s", mockReq.Method)
+		// ct.t.Logf("CustomTransport: Mock request headers: %#v", mockReq.Header) // Verbose
+		if mockReq.Body != nil {
+			ct.t.Logf("CustomTransport: Mock request body is not nil")
+		} else {
+			ct.t.Logf("CustomTransport: Mock request body is nil")
+		}
+
+		return client.Do(mockReq)
+
+	}
+	// For other requests, use the default transport (which would be http.DefaultTransport)
+	return http.DefaultTransport.RoundTrip(req)
 }

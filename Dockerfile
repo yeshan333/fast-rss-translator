@@ -1,4 +1,4 @@
-FROM golang:1.22.4 as builder
+FROM golang:1.24.4 as builder
 
 WORKDIR /workspace
 COPY . .
@@ -18,9 +18,9 @@ LABEL "maintainer"="yeshan333.ye@gmail.com"
 
 LABEL "Name"="fast-rss-translator"
 
-ENV LC_ALL C.UTF-8
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US.UTF-8
+ENV LC_ALL=C.UTF-8
+ENV LANG=en_US.UTF-8
+ENV LANGUAGE=en_US.UTF-8
 
 RUN apk add --no-cache \
         git \
