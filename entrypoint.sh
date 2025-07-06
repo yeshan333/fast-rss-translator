@@ -36,6 +36,7 @@ else
   exit 1
 fi
 
+git config --global --add safe.directory /github/workspace
 git branch
 git remote -v
 git status -s
