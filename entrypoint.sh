@@ -58,6 +58,7 @@ then
   git config --global --add safe.directory /github/workspace
   git config --local user.email "${username}@users.noreply.github.com"
   git config --local user.name "${username}"
+  git remote -v
   git status -s
   git add .
 
