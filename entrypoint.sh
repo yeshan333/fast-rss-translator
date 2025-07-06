@@ -20,9 +20,6 @@ while [ $# -gt 0 ]; do
     --repo=*)
       repo="${1#*=}"
       ;;
-    --branch=*)
-      branch="${1#*=}"
-      ;;
     --token=*)
       token="${1#*=}"
       ;;
@@ -41,6 +38,7 @@ while [ $# -gt 0 ]; do
   shift
 done
 
+branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}
 export CLOUDFLARE_ACCOUNT_ID="${cloudflare_account_id}"
 export CLOUDFLARE_API_KEY="${cloudflare_api_key}"
 /bin/fast-rss-translator --config "$config_file" --update-file "$update_file" >> running.log

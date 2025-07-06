@@ -22,9 +22,6 @@ inputs:
   repo:
     description: 'The repo name'
     required: true
-  branch:
-    description: 'The branch name to push changes to'
-    required: false
   token:
     description: 'github token, has repo contents write permission'
     required: true
@@ -44,7 +41,6 @@ runs:
     - --push=${{ inputs.push }}
     - --org=${{ inputs.org }}
     - --repo=${{ inputs.repo }}
-    - --branch=${{ inputs.branch }}
     - --token=${{ inputs.token }}
     - --cloudflare_account_id=${{ inputs.cloudflare_account_id }}
     - --cloudflare_api_key=${{ inputs.cloudflare_api_key }}
