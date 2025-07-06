@@ -25,6 +25,12 @@ inputs:
   token:
     description: 'github token, has repo contents write permission'
     required: true
+  cloudflare_account_id:
+    description: 'Cloudflare account ID for AI model usage when use cloudflare translate engine'
+    required: false
+  cloudflare_api_key:
+    description: 'Cloudflare API key for AI model usage'
+    required: false
 runs:
   using: 'docker'
   image: 'Dockerfile'
