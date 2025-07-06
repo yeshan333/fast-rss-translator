@@ -9,22 +9,6 @@ inputs:
     description: 'update rss urls file path'
     required: true
     default: 'README.md'
-  push:
-    description: 'Indicate if you want to push the changes automatically to github repository'
-    default: 'true'
-    required: true
-  username:
-    description: 'The username of the git repository'
-    required: true
-  org:
-    description: 'The org of the current repo'
-    required: true
-  repo:
-    description: 'The repo name'
-    required: true
-  token:
-    description: 'github token, has repo contents write permission'
-    required: true
   cloudflare_account_id:
     description: 'Cloudflare account ID for AI model usage when use cloudflare translate engine'
     required: false
@@ -37,10 +21,5 @@ runs:
   args:
     - --config_file=${{ inputs.config_file }}
     - --update_file=${{ inputs.update_file }}
-    - --username=${{ inputs.username }}
-    - --push=${{ inputs.push }}
-    - --org=${{ inputs.org }}
-    - --repo=${{ inputs.repo }}
-    - --token=${{ inputs.token }}
     - --cloudflare_account_id=${{ inputs.cloudflare_account_id }}
     - --cloudflare_api_key=${{ inputs.cloudflare_api_key }}

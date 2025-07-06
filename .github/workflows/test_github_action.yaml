@@ -6,8 +6,9 @@ on:
   workflow_dispatch:
   pull_request:
 
-permissions:
-  contents: write
+permissions:                    # Global permissions configuration starts here
+  contents: read                # 'read' access to repository contents
+  pull-requests: write          # 'write' access to pull requests
 
 jobs:
   test_fast_rss_translator_action:
@@ -25,10 +26,10 @@ jobs:
         with:
           config_file: 'subscribes.yaml'
           update_file: 'TEST_README.md'
-          push: true
-          username: "github-actions[bot]"
-          org: "yeshan333"
-          repo: "fast-rss-translator"
-          token: ${{ secrets.GITHUB_TOKEN }}
           cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           cloudflare_api_key: ${{ secrets.CLOUDFLARE_API_KEY }}
+      - name: Push rss changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
