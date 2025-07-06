@@ -1,15 +1,15 @@
 package translator
 
 import (
+	"bytes"
+	"encoding/json"
 	"fmt"
 	"log/slog"
 	"math"
+	"net/http"
 	"os"
 	"path/filepath"
 	"sync"
-	"bytes"
-	"encoding/json"
-	"net/http"
 
 	gtranslator "github.com/Conight/go-googletrans"
 	"github.com/gorilla/feeds"
@@ -17,20 +17,20 @@ import (
 )
 
 const cloudflareAPIEndpoint = "https://api.cloudflare.com/client/v4/accounts/%s/ai/v1/chat/completions"
-const cloudflareModel = "@cf/google/gemma-3-12b-it"
-const cloudflarePromptFormat = "你是一个专业的翻译助手，可以将用户输入的内容翻译成双语展现的形式，使用【】包裹原文，然后再跟译文，例如：Hello World，处理后为：【Hello World】你好世界。注意返回不要夹带任何信息除了译文和原文外的任何信息。翻译：%s"
-
+const defaultCloudflareModel = "@cf/google/gemma-3-12b-it"
+const cloudflarePromptFormat = "你是一个专业的翻译助手，可以将用户输入的内容翻译成对应的语言。例如：Hello World，处理后为：你好世界。注意返回不要夹带任何除了译文外的任何信息。译文使用的语言代码为 %s，请翻译：%s"
 
 type Feed struct {
-	Name            string `mapstructure:"name"`
-	Url             string `mapstructure:"url"`
-	OriginLanguage  string `mapstructure:"origin_language"`
-	TargetLanguage  string `mapstructure:"target_language"`
-	TranslateMode   string `mapstructure:"translate_mode"`   // origin | proxy | bilingual, bilingual: mix origin and target lang, proxy: do not translate
-	TranslateEngine string `mapstructure:"translate_engine"` // google | openai | cloudflare
-	MaxPost         int    `mapstructure:"max_post"`         // max handled posts
+	Name                string `mapstructure:"name"`
+	Url                 string `mapstructure:"url"`
+	OriginLanguage      string `mapstructure:"origin_language"`
+	TargetLanguage      string `mapstructure:"target_language"`
+	TranslateMode       string `mapstructure:"translate_mode"`   // origin | proxy | bilingual, bilingual: mix origin and target lang, proxy: do not translate
+	TranslateEngine     string `mapstructure:"translate_engine"` // google | openai | cloudflare
+	MaxPost             int    `mapstructure:"max_post"`         // max handled posts
 	CloudflareAccountID string `mapstructure:"cloudflare_account_id"`
 	CloudflareApiKey    string `mapstructure:"cloudflare_api_key"`
+	CloudflareAIModel   string `mapstructure:"cloudflare_ai_model"` // cloudflare ai model, default is @cf/google/gemma-3-12b-it
 }
 
 type Translator struct {
@@ -211,12 +211,18 @@ func (translator *Translator) translateWithCloudflare(content string) string {
 
 	apiURL := fmt.Sprintf(cloudflareAPIEndpoint, accountID)
 
+	var cloudflareModel string
+	if translator.CloudflareAIModel != "" {
+		cloudflareModel = translator.CloudflareAIModel
+	} else {
+		cloudflareModel = defaultCloudflareModel // Default model
+	}
 	requestBody := map[string]interface{}{
 		"model": cloudflareModel,
 		"messages": []map[string]string{
 			{
 				"role":    "user",
-				"content": fmt.Sprintf(cloudflarePromptFormat, content),
+				"content": fmt.Sprintf(cloudflarePromptFormat, translator.TargetLanguage, content),
 			},
 		},
 	}

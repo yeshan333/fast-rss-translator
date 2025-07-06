@@ -2,30 +2,21 @@ base:
   output_path: "./rss"
   visit_base_url: "https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/"
   translate_engine: "google" # default engine, can be overridden per feed
-  # cloudflare_account_id: "your_cloudflare_account_id" # Optional: if using cloudflare globally
-  # cloudflare_api_key: "your_cloudflare_api_key"       # Optional: if using cloudflare globally
 
 # http_proxy: "http://127.0.0.1:7890" # Needed for Google Translate in some regions
 
 feeds:
-  - name: example_cloudflare_feed.xml
-    url: "https://example.com/feed.xml" # Replace with a real feed URL
-    origin_language: "auto"
-    target_language: "zh"
-    translate_mode: "bilingual" # or "origin" or "proxy"
-    translate_engine: "cloudflare"
-    max_post: 5
-    # Cloudflare specific settings (override global or environment variables if set)
-    # cloudflare_account_id: "specific_feed_account_id"
-    # cloudflare_api_key: "specific_feed_api_key"
-
   - name: softwaretestingweekly.xml
     url: "https://softwaretestingweekly.com/issues.rss"
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "google"
+    translate_engine: "cloudflare"
     max_post: 10
+    # Cloudflare specific settings (override global or environment variables if set)
+    # cloudflare_account_id: "specific_feed_account_id"
+    # cloudflare_api_key: "specific_feed_api_key"
+    # cloudflare_ai_model: "@cf/google/gemma-3-12b-it" # Optional: specify a different model for this feed
 
   - name: thinkingelixir.xml
     url: "https://podcast.thinkingelixir.com/rss"

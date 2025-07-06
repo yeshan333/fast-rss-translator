@@ -70,7 +70,7 @@ func TestTranslateWithCloudflare(t *testing.T) {
 		if err != nil {
 			t.Fatalf("Mock server failed to read request body: %v", err)
 		}
-		expectedRequestBody := `"content":"你是一个专业的翻译助手，可以将用户输入的内容翻译成双语展现的形式，使用【】包裹原文，然后再跟译文，例如：Hello World，处理后为：【Hello World】你好世界。注意返回不要夹带任何信息除了译文和原文外的任何信息。翻译：Elixir with AI"`
+		expectedRequestBody := `"content":""你是一个专业的翻译助手，可以将用户输入的内容翻译成双语展现的形式，使用【】包裹原文，然后再跟译文。例如：Hello World，处理后为：【Hello World】你好世界。注意返回不要夹带任何除了译文和原文外的任何信息。译文使用的语言代码为 zh-hans，请翻译：Elixir with AI""`
 		if !strings.Contains(string(body), expectedRequestBody) {
 			t.Errorf("Mock Server: Expected request body to contain '%s', got '%s'", expectedRequestBody, string(body))
 		}
@@ -144,7 +144,6 @@ func TestTranslateWithCloudflare(t *testing.T) {
 		Transport: &customTransport{serverURL: server.URL, t: t},
 	}
 	defer func() { http.DefaultClient = originalClient }()
-
 
 	trans := translator.Translator{
 		Feed: translator.Feed{

@@ -4,6 +4,7 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
+  pull_request:
 
 permissions:
   contents: write
@@ -19,6 +20,9 @@ jobs:
       - name: fast-rss-translator
         uses: ./
         id: fast-rss-translator-action
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
         with:
           config_file: 'subscribes.yaml'
           update_file: 'TEST_README.md'
