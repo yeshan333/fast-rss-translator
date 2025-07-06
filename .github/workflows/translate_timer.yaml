@@ -5,8 +5,8 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
+permissions:                    # Global permissions configuration starts here
+  contents: write               # 'write' access to repository contents
 
 jobs:
   do_rss_tranaslte:
@@ -19,6 +19,9 @@ jobs:
           go-version: '^1.22.4'
 
       - name: Do translate
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
         run: |
           go run main.go --update-file TEST_README.md
 
@@ -26,7 +29,7 @@ jobs:
         run: |
           pwd
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"github-actions[bot]
+          git config --local user.name "github-actions[bot]"
           if [[ -n $(git status -s) ]]; then
             git add .
             git commit -m "update feed files by ci"
