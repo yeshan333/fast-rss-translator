@@ -9,17 +9,9 @@ inputs:
     description: 'update rss urls file path'
     required: true
     default: 'README.md'
-  cloudflare_account_id:
-    description: 'Cloudflare account ID for AI model usage when use cloudflare translate engine'
-    required: false
-  cloudflare_api_key:
-    description: 'Cloudflare API key for AI model usage'
-    required: false
 runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
     - --config_file=${{ inputs.config_file }}
     - --update_file=${{ inputs.update_file }}
-    - --cloudflare_account_id=${{ inputs.cloudflare_account_id }}
-    - --cloudflare_api_key=${{ inputs.cloudflare_api_key }}

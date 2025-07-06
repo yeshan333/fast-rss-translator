@@ -20,6 +20,7 @@ jobs:
 
       - name: Do translate
         env:
+          ALIBABA_QWEN_API_KEY: ${{ secrets.ALIBABA_QWEN_API_KEY }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
         run: |
