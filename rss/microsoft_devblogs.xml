@@ -4,22 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Azure SDK Release (June 2025)】Azure SDK发布（2025年6月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
+      <pubDate>Wed, 02 Jul 2025 15:00:43 +0000</pubDate>
+    </item>
+    <item>
       <title>【German language cheat sheet: On changing quantities】德语备忘单：变化数量</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250703-01/?p=111337</link>
       <description>【Somehow, I must have missed out on learning phrases of changes in quantity in German, so I need a cheat sheet. Trend】不知何故，我一定错过了德语数量变化的学习短语，所以我需要一张备忘单。趋势</description>
       <pubDate>Thu, 03 Jul 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【If the &lt;CODE&gt;Format­Message&lt;/CODE&gt; function fails, and I requested that it allocate a buffer, do I have to free the buffer?】如果&lt;code&gt; formatMessage &lt;/code&gt;函数失败，并且我要求它分配缓冲区，我是否必须释放缓冲区？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250703-00/?p=111335</link>
-      <description>【A customer called the Format­Message function with the FORMAT_MESSAGE_ALLOCATE_BUFFER flag, and they weren&#39;t sure what to do if the function fails (by returning 0). Do they have to free the buffer by calling Local­Free? No, you don&#39;t have to free the buffer. In fact, on f】一个客户使用format_message_allocate_buffer标志称为格式的函数，他们不确定如果功能失败（通过返回0）该怎么办。他们是否必须通过致电LocalFree来释放缓冲区？不，您不必释放缓冲区。实际上，在F上</description>
-      <pubDate>Thu, 03 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
-      <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
-      <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
-      <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Join us for MCP Dev Days - July 29-30】加入我们的MCP开发日 -  7月29日至30日</title>
@@ -28,22 +22,22 @@
       <pubDate>Tue, 01 Jul 2025 22:00:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Automating Secure and Scalable AI Deployments on Azure with HashiCorp】使用Hashicorp自动化安全和可扩展的AI部署</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/automating-secure-and-scalable-ai-deployments-on-azure-with-hashicorp</link>
-      <description>【While the promise of AI continues to generate momentum, many organizations face a familiar challenge: getting AI projects beyond the prototype phase. According to Gartner, only 30% of AI initiatives make it into production, and RAND reports that up to 80% fail to deliver expected outcomes. 】尽管AI的承诺继续产生动力，但许多组织面临着一个熟悉的挑战：将AI项目超出原型阶段。根据Gartner的说法，只有30％的AI计划将其用于生产，Rand报告说，高达80％的人无法提供预期的结果。 </description>
-      <pubDate>Thu, 03 Jul 2025 23:03:35 +0000</pubDate>
+      <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
+      <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
+      <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
+      <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (June 2025)】VCPKG的新功能（2025年6月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-june-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.06.13 registry release, 2025-04-16,】此博客文章总结了VCPKG软件包管理器的更改，作为2025.06.13注册表版本的一部分，2025-04-16，</description>
-      <pubDate>Fri, 04 Jul 2025 19:02:05 +0000</pubDate>
+      <title>【If the &lt;CODE&gt;Format­Message&lt;/CODE&gt; function fails, and I requested that it allocate a buffer, do I have to free the buffer?】如果&lt;code&gt; formatMessage &lt;/code&gt;函数失败，并且我要求它分配缓冲区，我是否必须释放缓冲区？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250703-00/?p=111335</link>
+      <description>【A customer called the Format­Message function with the FORMAT_MESSAGE_ALLOCATE_BUFFER flag, and they weren&#39;t sure what to do if the function fails (by returning 0). Do they have to free the buffer by calling Local­Free? No, you don&#39;t have to free the buffer. In fact, on f】一个客户使用format_message_allocate_buffer标志称为格式的函数，他们不确定如果功能失败（通过返回0）该怎么办。他们是否必须通过致电LocalFree来释放缓冲区？不，您不必释放缓冲区。实际上，在F上</description>
+      <pubDate>Thu, 03 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (June 2025)】Azure SDK发布（2025年6月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2025</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
-      <pubDate>Wed, 02 Jul 2025 15:00:43 +0000</pubDate>
+      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
+      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
+      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
+      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
     </item>
     <item>
       <title>【Unintended yet somehow entirely expected consequences of marking a COM interface as local】意想不到的，但完全期望将COM接口标记为本地的后果</title>
@@ -52,10 +46,16 @@
       <pubDate>Wed, 02 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
-      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
-      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
-      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
+      <title>【What’s New in vcpkg (June 2025)】VCPKG的新功能（2025年6月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-june-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.06.13 registry release, 2025-04-16,】此博客文章总结了VCPKG软件包管理器的更改，作为2025.06.13注册表版本的一部分，2025-04-16，</description>
+      <pubDate>Fri, 04 Jul 2025 19:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automating Secure and Scalable AI Deployments on Azure with HashiCorp】使用Hashicorp自动化安全和可扩展的AI部署</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/automating-secure-and-scalable-ai-deployments-on-azure-with-hashicorp</link>
+      <description>【While the promise of AI continues to generate momentum, many organizations face a familiar challenge: getting AI projects beyond the prototype phase. According to Gartner, only 30% of AI initiatives make it into production, and RAND reports that up to 80% fail to deliver expected outcomes. 】尽管AI的承诺继续产生动力，但许多组织面临着一个熟悉的挑战：将AI项目超出原型阶段。根据Gartner的说法，只有30％的AI计划将其用于生产，Rand报告说，高达80％的人无法提供预期的结果。 </description>
+      <pubDate>Thu, 03 Jul 2025 23:03:35 +0000</pubDate>
     </item>
     <item>
       <title>【Why doesn&#39;t &lt;CODE&gt;LVIF_&lt;WBR&gt;INDENT&lt;/CODE&gt; work without an image list?】为什么&lt;code&gt; lvif_ &lt;wbr&gt;缩进&lt;/code&gt;在没有图像列表的情况下工作？</title>
