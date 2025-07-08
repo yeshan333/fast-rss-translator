@@ -4,10 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Azure SDK Release (June 2025)】Azure SDK发布（2025年6月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-june-2025</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
-      <pubDate>Wed, 02 Jul 2025 15:00:43 +0000</pubDate>
+      <title>【If the &lt;CODE&gt;Format­Message&lt;/CODE&gt; function fails, and I requested that it allocate a buffer, do I have to free the buffer?】如果&lt;code&gt; formatMessage &lt;/code&gt;函数失败，并且我要求它分配缓冲区，我是否必须释放缓冲区？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250703-00/?p=111335</link>
+      <description>【A customer called the Format­Message function with the FORMAT_MESSAGE_ALLOCATE_BUFFER flag, and they weren&#39;t sure what to do if the function fails (by returning 0). Do they have to free the buffer by calling Local­Free? No, you don&#39;t have to free the buffer. In fact, on f】一个客户使用format_message_allocate_buffer标志称为格式的函数，他们不确定如果功能失败（通过返回0）该怎么办。他们是否必须通过致电LocalFree来释放缓冲区？不，您不必释放缓冲区。实际上，在F上</description>
+      <pubDate>Thu, 03 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: If I perform this complex series of manual steps, I can crash a program I am running】可疑的安全漏洞：如果我执行此复杂的一系列手动步骤，我可能会崩溃我正在运行的程序</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250707-00/?p=111351</link>
+      <description>【A security vulnerability report arrived that went roughly like this. In Program X, click on the triangle icon and hold the mouse down. Drag the triangle icon to the green box in the corner, and while still holding the mouse down, press Alt+F4 to close the window. The program will】一份安全漏洞报告到了，大概是这样进行的。在程序X中，单击三角图标并将鼠标按下。将三角图标拖到角落的绿色框中，并且在仍将鼠标固定下来时，按Alt+F4关闭窗口。该程序将</description>
+      <pubDate>Mon, 07 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【German language cheat sheet: On changing quantities】德语备忘单：变化数量</title>
@@ -16,34 +22,10 @@
       <pubDate>Thu, 03 Jul 2025 14:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Join us for MCP Dev Days - July 29-30】加入我们的MCP开发日 -  7月29日至30日</title>
-      <link>https://devblogs.microsoft.com//join-us-for-mcp-dev-days-july-29-30</link>
-      <description>【Get ready for two days of deep technical insight, community connection, and hands-on learning at MCP Dev Days, a virtual event dedicated to the Model Context Protocol (MCP) — the emerging standard that bridges AI models and the tools they rely on. [cta-button text=&#34;➡️ Register for MCP Dev Days&#34; url=&#34;h】在MCP Dev Days上准备两天的深度技术洞察力，社区联系和动手学习，这是一个虚拟事件，该虚拟事件专门用于模型上下文协议（MCP），这是桥梁AI模型及其所依赖工具的新兴标准。 [cta-button text =“➡️登记为MCP DEV days” url =“ H</description>
-      <pubDate>Tue, 01 Jul 2025 22:00:46 +0000</pubDate>
-    </item>
-    <item>
       <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
       <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
       <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
       <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【If the &lt;CODE&gt;Format­Message&lt;/CODE&gt; function fails, and I requested that it allocate a buffer, do I have to free the buffer?】如果&lt;code&gt; formatMessage &lt;/code&gt;函数失败，并且我要求它分配缓冲区，我是否必须释放缓冲区？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250703-00/?p=111335</link>
-      <description>【A customer called the Format­Message function with the FORMAT_MESSAGE_ALLOCATE_BUFFER flag, and they weren&#39;t sure what to do if the function fails (by returning 0). Do they have to free the buffer by calling Local­Free? No, you don&#39;t have to free the buffer. In fact, on f】一个客户使用format_message_allocate_buffer标志称为格式的函数，他们不确定如果功能失败（通过返回0）该怎么办。他们是否必须通过致电LocalFree来释放缓冲区？不，您不必释放缓冲区。实际上，在F上</description>
-      <pubDate>Thu, 03 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
-      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
-      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
-      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unintended yet somehow entirely expected consequences of marking a COM interface as local】意想不到的，但完全期望将COM接口标记为本地的后果</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250702-00/?p=111332</link>
-      <description>【A customer was adding an interface to their out-of-process COM server. They added their interface to the project&#39;s existing IDL file and recompiled the resulting proxy stub DLL. But when they tried to connect to the server, the connection failed with error 0x80040155, also known as REGDB_E_IID­NOT­REG】客户正在向其未经处理的COM服务器添加接口。他们将界面添加到项目现有的IDL文件中，并重新编译了由此产生的代理存根DLL。但是，当他们尝试连接到服务器时，连接失败，错误0x80040155，也称为regdb_e_iidnotreg</description>
-      <pubDate>Wed, 02 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New in vcpkg (June 2025)】VCPKG的新功能（2025年6月）</title>
@@ -58,10 +40,28 @@
       <pubDate>Thu, 03 Jul 2025 23:03:35 +0000</pubDate>
     </item>
     <item>
+      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
+      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
+      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
+      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Markdown Support Arrives for Work Items】降价支持到达工作项目</title>
+      <link>https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items</link>
+      <description>【After several months in private preview and many bug fixes along the way, we’re excited to announce that Markdown support in large text fields is now generally available! 🎉 🦄 How it works By default, all existing and new work items will continue using the HTML editor for large text fields. However, you now have the】经过几个月的私人预览和许多错误修复后，我们很高兴地宣布，现在通常可以在大型文本字段中提供降价支持！ 🎉🎉默认情况下它的工作原理，所有现有工作项目将继续使用HTML编辑器作为大型文本字段。但是，您现在有</description>
+      <pubDate>Mon, 07 Jul 2025 19:32:46 +0000</pubDate>
+    </item>
+    <item>
       <title>【Why doesn&#39;t &lt;CODE&gt;LVIF_&lt;WBR&gt;INDENT&lt;/CODE&gt; work without an image list?】为什么&lt;code&gt; lvif_ &lt;wbr&gt;缩进&lt;/code&gt;在没有图像列表的情况下工作？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250704-00/?p=111348</link>
       <description>【The LVIF_INDENT property of the Win32 classic listview control lets you indent an item in report view. The units of indentation are the size of the image list. But that requires an image list. Why does it require an image list? The indentation feature of the classic listview control was added for Internet Mail an】Win32经典listView控件的LVIF_INDENT属性使您可以在报告视图中缩进项目。压痕单位是图像列表的大小。但这需要图像列表。为什么需要图像列表？为Internet邮件添加了经典ListView控件的缩进功能</description>
       <pubDate>Fri, 04 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft build of Go Telemetry - Helping Us Build Better Tools】Microsoft构建Go Telemetry-帮助我们构建更好的工具</title>
+      <link>https://devblogs.microsoft.com/go/microsoft-go-telemetry</link>
+      <description>【Starting with Go 1.25, we&#39;re enabling telemetry collection in the Microsoft build of Go to help us better understand how developers use our tools and prioritize future improvements. This data collection will provide valuable insights into usage patterns, performance characteristics, and common workflows that will directly i】从GO 1.25开始，我们在Microsoft Go Build of Go中启用遥测收集，以帮助我们更好地了解开发人员如何使用我们的工具并确定未来的改进。该数据收集将提供有关使用模式，性能特征和常见工作流程的有价值的见解，这将直接</description>
+      <pubDate>Mon, 07 Jul 2025 08:07:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
