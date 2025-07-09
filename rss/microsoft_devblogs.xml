@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【If the &lt;CODE&gt;Format­Message&lt;/CODE&gt; function fails, and I requested that it allocate a buffer, do I have to free the buffer?】如果&lt;code&gt; formatMessage &lt;/code&gt;函数失败，并且我要求它分配缓冲区，我是否必须释放缓冲区？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250703-00/?p=111335</link>
-      <description>【A customer called the Format­Message function with the FORMAT_MESSAGE_ALLOCATE_BUFFER flag, and they weren&#39;t sure what to do if the function fails (by returning 0). Do they have to free the buffer by calling Local­Free? No, you don&#39;t have to free the buffer. In fact, on f】一个客户使用format_message_allocate_buffer标志称为格式的函数，他们不确定如果功能失败（通过返回0）该怎么办。他们是否必须通过致电LocalFree来释放缓冲区？不，您不必释放缓冲区。实际上，在F上</description>
-      <pubDate>Thu, 03 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Why doesn&#39;t &lt;CODE&gt;LVIF_&lt;WBR&gt;INDENT&lt;/CODE&gt; work without an image list?】为什么&lt;code&gt; lvif_ &lt;wbr&gt;缩进&lt;/code&gt;在没有图像列表的情况下工作？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250704-00/?p=111348</link>
+      <description>【The LVIF_INDENT property of the Win32 classic listview control lets you indent an item in report view. The units of indentation are the size of the image list. But that requires an image list. Why does it require an image list? The indentation feature of the classic listview control was added for Internet Mail an】Win32经典listView控件的LVIF_INDENT属性使您可以在报告视图中缩进项目。压痕单位是图像列表的大小。但这需要图像列表。为什么需要图像列表？为Internet邮件添加了经典ListView控件的缩进功能</description>
+      <pubDate>Fri, 04 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Dubious security vulnerability: If I perform this complex series of manual steps, I can crash a program I am running】可疑的安全漏洞：如果我执行此复杂的一系列手动步骤，我可能会崩溃我正在运行的程序</title>
@@ -16,16 +16,10 @@
       <pubDate>Mon, 07 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【German language cheat sheet: On changing quantities】德语备忘单：变化数量</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250703-01/?p=111337</link>
-      <description>【Somehow, I must have missed out on learning phrases of changes in quantity in German, so I need a cheat sheet. Trend】不知何故，我一定错过了德语数量变化的学习短语，所以我需要一张备忘单。趋势</description>
-      <pubDate>Thu, 03 Jul 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Local AI + .NET = AltText Magic in One C# Script】本地AI + .net =一个C＃脚本中的AltText魔术</title>
-      <link>https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models</link>
-      <description>【Need to generate image descriptions fast? In this post, we’ll show how to combine .NET 10’s new capabilities with local AI models to create smart AltText — all in one simple C# file. It’s a fun way to explore what AI can do beyond chat. AltText Generation with Local AI Models and dotnet run app.cs ✨ I】需要快速生成图像描述吗？在这篇文章中，我们将展示如何将.NET 10的新功能与本地AI模型相结合，以创建Smart AltText，这都是一个简单的C＃文件。这是一种有趣的方式，可以探索AI在聊天之外可以做什么。使用本地AI模型和Dotnet Run App.cs✨II</description>
-      <pubDate>Wed, 02 Jul 2025 20:00:00 +0000</pubDate>
+      <title>【Microsoft build of Go Telemetry - Helping Us Build Better Tools】Microsoft构建Go Telemetry-帮助我们构建更好的工具</title>
+      <link>https://devblogs.microsoft.com/go/microsoft-go-telemetry</link>
+      <description>【Starting with Go 1.25, we&#39;re enabling telemetry collection in the Microsoft build of Go to help us better understand how developers use our tools and prioritize future improvements. This data collection will provide valuable insights into usage patterns, performance characteristics, and common workflows that will directly i】从GO 1.25开始，我们在Microsoft Go Build of Go中启用遥测收集，以帮助我们更好地了解开发人员如何使用我们的工具并确定未来的改进。该数据收集将提供有关使用模式，性能特征和常见工作流程的有价值的见解，这将直接</description>
+      <pubDate>Mon, 07 Jul 2025 08:07:13 +0000</pubDate>
     </item>
     <item>
       <title>【What’s New in vcpkg (June 2025)】VCPKG的新功能（2025年6月）</title>
@@ -34,16 +28,16 @@
       <pubDate>Fri, 04 Jul 2025 19:02:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Automating Secure and Scalable AI Deployments on Azure with HashiCorp】使用Hashicorp自动化安全和可扩展的AI部署</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/automating-secure-and-scalable-ai-deployments-on-azure-with-hashicorp</link>
-      <description>【While the promise of AI continues to generate momentum, many organizations face a familiar challenge: getting AI projects beyond the prototype phase. According to Gartner, only 30% of AI initiatives make it into production, and RAND reports that up to 80% fail to deliver expected outcomes. 】尽管AI的承诺继续产生动力，但许多组织面临着一个熟悉的挑战：将AI项目超出原型阶段。根据Gartner的说法，只有30％的AI计划将其用于生产，Rand报告说，高达80％的人无法提供预期的结果。 </description>
-      <pubDate>Thu, 03 Jul 2025 23:03:35 +0000</pubDate>
+      <title>【A walkthrough of the original Microsoft Building 3】原始Microsoft大楼3的演练</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250708-00/?p=111357</link>
+      <description>【I don&#39;t know why, but there is a Matterport walkthrough of the original Microsoft Building 3, which now no longer exists. This walkthrough appears to have been made not too long before the building was demolished to make room for the new Microsoft campus. I can tell by the】我不知道为什么，但是有Matterport的The Matterport演练了原始的Microsoft建筑物3，现在不再存在。这项演练似乎不久之后就拆除了建筑物以为新的Microsoft校园腾出空间。我可以通过</description>
+      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the Awesome GitHub Copilot Customizations repo】介绍很棒的Github副副定制存储库</title>
-      <link>https://devblogs.microsoft.com//introducing-awesome-github-copilot-customizations-repo</link>
-      <description>【Today we&#39;re excited to announce the launch of the Awesome GitHub Copilot Customizations repo! The Awesome Copilot repo is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consisten】今天，我们很高兴宣布出色的Github Copilot Customizations Repo发布！ Awesome Copilot Repo是一种由社区驱动的资源，具有自定义说明，可重复使用的提示和自定义聊天模式，可帮助您获得一致</description>
-      <pubDate>Wed, 02 Jul 2025 17:30:59 +0000</pubDate>
+      <title>【Smarter, workspace-aware code completions for C++ in VS Code】智能，vs代码中C ++的工作区意识到代码完成</title>
+      <link>https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code</link>
+      <description>【C++ code understanding Developing C++ code can be complex. C++ project structure, style, and convention can vary widely from repository to repository, and critical context for a given task often spans multiple files. This can require C++ developers to open and navigate across several files to fully understand a given project and auth】C ++代码理解开发C ++代码可能很复杂。 C ++项目结构，样式和惯例可能因存储库而异，并且给定任务的关键上下文通常跨越多个文件。这可能需要C ++开发人员在几个文件中打开和导航，以充分了解一个给定的项目和auth</description>
+      <pubDate>Tue, 08 Jul 2025 14:50:11 +0000</pubDate>
     </item>
     <item>
       <title>【Markdown Support Arrives for Work Items】降价支持到达工作项目</title>
@@ -52,16 +46,22 @@
       <pubDate>Mon, 07 Jul 2025 19:32:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Why doesn&#39;t &lt;CODE&gt;LVIF_&lt;WBR&gt;INDENT&lt;/CODE&gt; work without an image list?】为什么&lt;code&gt; lvif_ &lt;wbr&gt;缩进&lt;/code&gt;在没有图像列表的情况下工作？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250704-00/?p=111348</link>
-      <description>【The LVIF_INDENT property of the Win32 classic listview control lets you indent an item in report view. The units of indentation are the size of the image list. But that requires an image list. Why does it require an image list? The indentation feature of the classic listview control was added for Internet Mail an】Win32经典listView控件的LVIF_INDENT属性使您可以在报告视图中缩进项目。压痕单位是图像列表的大小。但这需要图像列表。为什么需要图像列表？为Internet邮件添加了经典ListView控件的缩进功能</description>
-      <pubDate>Fri, 04 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Announcing TypeScript 5.9 Beta】宣布打字稿5.9 beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta</link>
+      <description>【Today we are excited to announce the availability of TypeScript 5.9 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&#39;s take a look at what&#39;s new in TypeScript 5】今天，我们很高兴宣布Typescript 5.9 Beta的可用性。要开始使用Beta，您可以使用以下命令通过NPM获取它：NPM install -d typescript@beta让我们看看Typescript 5中的新事物5</description>
+      <pubDate>Tue, 08 Jul 2025 17:38:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft build of Go Telemetry - Helping Us Build Better Tools】Microsoft构建Go Telemetry-帮助我们构建更好的工具</title>
-      <link>https://devblogs.microsoft.com/go/microsoft-go-telemetry</link>
-      <description>【Starting with Go 1.25, we&#39;re enabling telemetry collection in the Microsoft build of Go to help us better understand how developers use our tools and prioritize future improvements. This data collection will provide valuable insights into usage patterns, performance characteristics, and common workflows that will directly i】从GO 1.25开始，我们在Microsoft Go Build of Go中启用遥测收集，以帮助我们更好地了解开发人员如何使用我们的工具并确定未来的改进。该数据收集将提供有关使用模式，性能特征和常见工作流程的有价值的见解，这将直接</description>
-      <pubDate>Mon, 07 Jul 2025 08:07:13 +0000</pubDate>
+      <title>【.NET and .NET Framework July 2025 servicing releases updates】.NET和.NET框架2025年7月Servicing发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for July 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of July 08, 2025. This update contains non-security】欢迎使用2025年7月的总和.NET维修更新。让我们进入.NET＆.NET框架的最新版本，以下是我们服务发行版中新事物的快速概述：安全性改进。NET和.NET框架，随着2025年7月8日的最新更新，已更新。</description>
+      <pubDate>Tue, 08 Jul 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build Biosensing AI-Native Apps on Azure with BCI, AI Foundry, and Agents Service】使用BCI，AI铸造厂和代理服务在Azure上构建生物传感AI-NEATIANT应用程序</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/build-biosensing-ai-native-apps-on-azure-with-bci-ai-foundry-and-agents</link>
+      <description>【Co‑Author:】合着者：</description>
+      <pubDate>Tue, 08 Jul 2025 05:57:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
