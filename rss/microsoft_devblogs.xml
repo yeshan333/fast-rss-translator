@@ -4,54 +4,6 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Why doesn&#39;t &lt;CODE&gt;LVIF_&lt;WBR&gt;INDENT&lt;/CODE&gt; work without an image list?】为什么&lt;code&gt; lvif_ &lt;wbr&gt;缩进&lt;/code&gt;在没有图像列表的情况下工作？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250704-00/?p=111348</link>
-      <description>【The LVIF_INDENT property of the Win32 classic listview control lets you indent an item in report view. The units of indentation are the size of the image list. But that requires an image list. Why does it require an image list? The indentation feature of the classic listview control was added for Internet Mail an】Win32经典listView控件的LVIF_INDENT属性使您可以在报告视图中缩进项目。压痕单位是图像列表的大小。但这需要图像列表。为什么需要图像列表？为Internet邮件添加了经典ListView控件的缩进功能</description>
-      <pubDate>Fri, 04 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dubious security vulnerability: If I perform this complex series of manual steps, I can crash a program I am running】可疑的安全漏洞：如果我执行此复杂的一系列手动步骤，我可能会崩溃我正在运行的程序</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250707-00/?p=111351</link>
-      <description>【A security vulnerability report arrived that went roughly like this. In Program X, click on the triangle icon and hold the mouse down. Drag the triangle icon to the green box in the corner, and while still holding the mouse down, press Alt+F4 to close the window. The program will】一份安全漏洞报告到了，大概是这样进行的。在程序X中，单击三角图标并将鼠标按下。将三角图标拖到角落的绿色框中，并且在仍将鼠标固定下来时，按Alt+F4关闭窗口。该程序将</description>
-      <pubDate>Mon, 07 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft build of Go Telemetry - Helping Us Build Better Tools】Microsoft构建Go Telemetry-帮助我们构建更好的工具</title>
-      <link>https://devblogs.microsoft.com/go/microsoft-go-telemetry</link>
-      <description>【Starting with Go 1.25, we&#39;re enabling telemetry collection in the Microsoft build of Go to help us better understand how developers use our tools and prioritize future improvements. This data collection will provide valuable insights into usage patterns, performance characteristics, and common workflows that will directly i】从GO 1.25开始，我们在Microsoft Go Build of Go中启用遥测收集，以帮助我们更好地了解开发人员如何使用我们的工具并确定未来的改进。该数据收集将提供有关使用模式，性能特征和常见工作流程的有价值的见解，这将直接</description>
-      <pubDate>Mon, 07 Jul 2025 08:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New in vcpkg (June 2025)】VCPKG的新功能（2025年6月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-june-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.06.13 registry release, 2025-04-16,】此博客文章总结了VCPKG软件包管理器的更改，作为2025.06.13注册表版本的一部分，2025-04-16，</description>
-      <pubDate>Fri, 04 Jul 2025 19:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A walkthrough of the original Microsoft Building 3】原始Microsoft大楼3的演练</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250708-00/?p=111357</link>
-      <description>【I don&#39;t know why, but there is a Matterport walkthrough of the original Microsoft Building 3, which now no longer exists. This walkthrough appears to have been made not too long before the building was demolished to make room for the new Microsoft campus. I can tell by the】我不知道为什么，但是有Matterport的The Matterport演练了原始的Microsoft建筑物3，现在不再存在。这项演练似乎不久之后就拆除了建筑物以为新的Microsoft校园腾出空间。我可以通过</description>
-      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Smarter, workspace-aware code completions for C++ in VS Code】智能，vs代码中C ++的工作区意识到代码完成</title>
-      <link>https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code</link>
-      <description>【C++ code understanding Developing C++ code can be complex. C++ project structure, style, and convention can vary widely from repository to repository, and critical context for a given task often spans multiple files. This can require C++ developers to open and navigate across several files to fully understand a given project and auth】C ++代码理解开发C ++代码可能很复杂。 C ++项目结构，样式和惯例可能因存储库而异，并且给定任务的关键上下文通常跨越多个文件。这可能需要C ++开发人员在几个文件中打开和导航，以充分了解一个给定的项目和auth</description>
-      <pubDate>Tue, 08 Jul 2025 14:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Markdown Support Arrives for Work Items】降价支持到达工作项目</title>
-      <link>https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items</link>
-      <description>【After several months in private preview and many bug fixes along the way, we’re excited to announce that Markdown support in large text fields is now generally available! 🎉 🦄 How it works By default, all existing and new work items will continue using the HTML editor for large text fields. However, you now have the】经过几个月的私人预览和许多错误修复后，我们很高兴地宣布，现在通常可以在大型文本字段中提供降价支持！ 🎉🎉默认情况下它的工作原理，所有现有工作项目将继续使用HTML编辑器作为大型文本字段。但是，您现在有</description>
-      <pubDate>Mon, 07 Jul 2025 19:32:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.9 Beta】宣布打字稿5.9 beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta</link>
-      <description>【Today we are excited to announce the availability of TypeScript 5.9 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&#39;s take a look at what&#39;s new in TypeScript 5】今天，我们很高兴宣布Typescript 5.9 Beta的可用性。要开始使用Beta，您可以使用以下命令通过NPM获取它：NPM install -d typescript@beta让我们看看Typescript 5中的新事物5</description>
-      <pubDate>Tue, 08 Jul 2025 17:38:54 +0000</pubDate>
-    </item>
-    <item>
       <title>【.NET and .NET Framework July 2025 servicing releases updates】.NET和.NET框架2025年7月Servicing发布更新</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates</link>
       <description>【Welcome to our combined .NET servicing updates for July 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of July 08, 2025. This update contains non-security】欢迎使用2025年7月的总和.NET维修更新。让我们进入.NET＆.NET框架的最新版本，以下是我们服务发行版中新事物的快速概述：安全性改进。NET和.NET框架，随着2025年7月8日的最新更新，已更新。</description>
@@ -62,6 +14,54 @@
       <link>https://devblogs.microsoft.com/all-things-azure/build-biosensing-ai-native-apps-on-azure-with-bci-ai-foundry-and-agents</link>
       <description>【Co‑Author:】合着者：</description>
       <pubDate>Tue, 08 Jul 2025 05:57:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.9 Beta】宣布打字稿5.9 beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta</link>
+      <description>【Today we are excited to announce the availability of TypeScript 5.9 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&#39;s take a look at what&#39;s new in TypeScript 5】今天，我们很高兴宣布Typescript 5.9 Beta的可用性。要开始使用Beta，您可以使用以下命令通过NPM获取它：NPM install -d typescript@beta让我们看看Typescript 5中的新事物5</description>
+      <pubDate>Tue, 08 Jul 2025 17:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Smarter, workspace-aware code completions for C++ in VS Code】智能，vs代码中C ++的工作区意识到代码完成</title>
+      <link>https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code</link>
+      <description>【C++ code understanding Developing C++ code can be complex. C++ project structure, style, and convention can vary widely from repository to repository, and critical context for a given task often spans multiple files. This can require C++ developers to open and navigate across several files to fully understand a given project and auth】C ++代码理解开发C ++代码可能很复杂。 C ++项目结构，样式和惯例可能因存储库而异，并且给定任务的关键上下文通常跨越多个文件。这可能需要C ++开发人员在几个文件中打开和导航，以充分了解一个给定的项目和auth</description>
+      <pubDate>Tue, 08 Jul 2025 14:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How the .NET MAUI Team uses GitHub Copilot for Productivity】.NET MAUI团队如何使用GitHub Copilot来生产力</title>
+      <link>https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips</link>
+      <description>【Around the time of Microsoft Build 2025, the new GitHub Copilot Coding Agent was unveiled and made widely available across GitHub. With AI evolving at a dizzying pace in recent months, we imagined a &#34;dream scenario&#34;: A GitHub】在Microsoft Build 2025时期，新的Github副副副代理被揭幕，并在Github上广泛使用。近几个月来，随着AI的发展，我们想象着一个“梦想场景”：一个github</description>
+      <pubDate>Wed, 09 Jul 2025 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【July Patches for Azure DevOps Server】Azure DevOps服务器的7月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2</link>
+      <description>【Today we are releasing patches that impact the latest version of our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can dow】今天，我们正在发布影响最新版本的自托管产品Azure DevOps Server的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。你可以道歉</description>
+      <pubDate>Wed, 09 Jul 2025 15:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How We Use AI Agents for COBOL Migration and Mainframe Modernization】我们如何使用AI代理进行COBOL迁移和大型机现代化</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization</link>
+      <description>【Legacy modernization is one of the most frequently raised challenges customers approach us with. They want to eliminate technical debt and run applications cloud-native. Obviously, there are different levels of complexity in legacy modernization, but the most challenging cases remain mai】旧版现代化是客户对我们面对的最常见的挑战之一。他们希望消除技术债务并运行云原生应用程序。显然，传统现代化的复杂程度不同，但最具挑战性的案件仍然是MAI</description>
+      <pubDate>Wed, 09 Jul 2025 17:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A walkthrough of the original Microsoft Building 3】原始Microsoft大楼3的演练</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250708-00/?p=111357</link>
+      <description>【I don&#39;t know why, but there is a Matterport walkthrough of the original Microsoft Building 3, which now no longer exists. This walkthrough appears to have been made not too long before the building was demolished to make room for the new Microsoft campus. I can tell by the】我不知道为什么，但是有Matterport的The Matterport演练了原始的Microsoft建筑物3，现在不再存在。这项演练似乎不久之后就拆除了建筑物以为新的Microsoft校园腾出空间。我可以通过</description>
+      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.24.5-1 and 1.23.11-1 Microsoft builds now available】GO 1.24.5-1和1.23.11-1 Microsoft现在可用</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-5-1-and-1-23-11-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
+      <pubDate>Wed, 09 Jul 2025 06:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【When I install an unhandled structured exception filter, why doesn&#39;t &lt;CODE&gt;std::&lt;WBR&gt;terminate&lt;/CODE&gt; get called?】当我安装一个未经处理的结构化异常过滤器时，为什么&lt;code&gt; std :: &lt;wbr&gt;终止&lt;/code&gt;被调用？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250709-00/?p=111360</link>
+      <description>【For diagnostic and reliability purposes, a customer wanted to detect and report all all unhandled C++ exceptions as well as all unhandled structured exceptions. Their idea was to cover both exits: Use set_terminate to install a std::terminate handler, which is called when a C++ exception goes unhand】为了诊断和可靠性，客户希望检测并报告所有未手持的C ++异常以及所有未手持的结构化例外。他们的想法是覆盖两个退出：使用set_terninate安装std ::终止处理程序，当c ++例外时，它被称为</description>
+      <pubDate>Wed, 09 Jul 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
