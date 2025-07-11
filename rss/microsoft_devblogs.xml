@@ -4,28 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【.NET and .NET Framework July 2025 servicing releases updates】.NET和.NET框架2025年7月Servicing发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for July 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of July 08, 2025. This update contains non-security】欢迎使用2025年7月的总和.NET维修更新。让我们进入.NET＆.NET框架的最新版本，以下是我们服务发行版中新事物的快速概述：安全性改进。NET和.NET框架，随着2025年7月8日的最新更新，已更新。</description>
-      <pubDate>Tue, 08 Jul 2025 19:00:00 +0000</pubDate>
+      <title>【How We Use AI Agents for COBOL Migration and Mainframe Modernization】我们如何使用AI代理进行COBOL迁移和大型机现代化</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization</link>
+      <description>【Legacy modernization is one of the most frequently raised challenges customers approach us with. They want to eliminate technical debt and run applications cloud-native. Obviously, there are different levels of complexity in legacy modernization, but the most challenging cases remain mai】旧版现代化是客户对我们面对的最常见的挑战之一。他们希望消除技术债务并运行云原生应用程序。显然，传统现代化的复杂程度不同，但最具挑战性的案件仍然是MAI</description>
+      <pubDate>Wed, 09 Jul 2025 17:10:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Build Biosensing AI-Native Apps on Azure with BCI, AI Foundry, and Agents Service】使用BCI，AI铸造厂和代理服务在Azure上构建生物传感AI-NEATIANT应用程序</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/build-biosensing-ai-native-apps-on-azure-with-bci-ai-foundry-and-agents</link>
-      <description>【Co‑Author:】合着者：</description>
-      <pubDate>Tue, 08 Jul 2025 05:57:41 +0000</pubDate>
+      <title>【When I install an unhandled structured exception filter, why doesn&#39;t &lt;CODE&gt;std::&lt;WBR&gt;terminate&lt;/CODE&gt; get called?】当我安装一个未经处理的结构化异常过滤器时，为什么&lt;code&gt; std :: &lt;wbr&gt;终止&lt;/code&gt;被调用？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250709-00/?p=111360</link>
+      <description>【For diagnostic and reliability purposes, a customer wanted to detect and report all all unhandled C++ exceptions as well as all unhandled structured exceptions. Their idea was to cover both exits: Use set_terminate to install a std::terminate handler, which is called when a C++ exception goes unhand】为了诊断和可靠性，客户希望检测并报告所有未手持的C ++异常以及所有未手持的结构化例外。他们的想法是覆盖两个退出：使用set_terninate安装std ::终止处理程序，当c ++例外时，它被称为</description>
+      <pubDate>Wed, 09 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 5.9 Beta】宣布打字稿5.9 beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta</link>
-      <description>【Today we are excited to announce the availability of TypeScript 5.9 Beta. To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta Let&#39;s take a look at what&#39;s new in TypeScript 5】今天，我们很高兴宣布Typescript 5.9 Beta的可用性。要开始使用Beta，您可以使用以下命令通过NPM获取它：NPM install -d typescript@beta让我们看看Typescript 5中的新事物5</description>
-      <pubDate>Tue, 08 Jul 2025 17:38:54 +0000</pubDate>
+      <title>【Customize GitHub Copilot in JetBrains with Custom Instructions】通过自定义说明自定义喷气式桥</title>
+      <link>https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions</link>
+      <description>【Today, you can use Custom Instructions in JetBrains to speed up development while staying aligned with your team&#39;s coding standards and personal preferences.】今天，您可以使用喷气桥中的自定义说明来加快开发的速度，同时与团队的编码标准和个人喜好保持一致。</description>
+      <pubDate>Thu, 10 Jul 2025 04:20:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Smarter, workspace-aware code completions for C++ in VS Code】智能，vs代码中C ++的工作区意识到代码完成</title>
-      <link>https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code</link>
-      <description>【C++ code understanding Developing C++ code can be complex. C++ project structure, style, and convention can vary widely from repository to repository, and critical context for a given task often spans multiple files. This can require C++ developers to open and navigate across several files to fully understand a given project and auth】C ++代码理解开发C ++代码可能很复杂。 C ++项目结构，样式和惯例可能因存储库而异，并且给定任务的关键上下文通常跨越多个文件。这可能需要C ++开发人员在几个文件中打开和导航，以充分了解一个给定的项目和auth</description>
-      <pubDate>Tue, 08 Jul 2025 14:50:11 +0000</pubDate>
+      <title>【Our first attempt to detect and report all unhandled C++ exceptions as well as all unhandled structured exceptions】我们第一次尝试检测和报告所有未经处理的C ++例外以及所有未手持的结构化例外</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250710-00/?p=111366</link>
+      <description>【Last time, we saw that installing an unhandled structured exception filter prevents the Microsoft Visual C++ runtime from converting unhandled C++ exceptions into】上次，我们看到安装一个未经处理的结构化异常过滤器可防止Microsoft Visual C ++运行时运行时将未经处理的C ++异常转换为</description>
+      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【How the .NET MAUI Team uses GitHub Copilot for Productivity】.NET MAUI团队如何使用GitHub Copilot来生产力</title>
@@ -34,22 +34,22 @@
       <pubDate>Wed, 09 Jul 2025 17:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Use Agent to Update Dataverse Table Content】使用代理更新数据词表内容</title>
+      <link>https://devblogs.microsoft.com/ise/use-agent-to-update-dataverse-table</link>
+      <description>【Introduction Some time ago, I watched a demo of an AI agent updating a row in a table. The scenario was simple but effectively demonstrated the tool&#39;s capabilities and potential benefits for users. This made me wonder whether the same could be achieved using Microsoft Power Platforms. This article explores how to build an agent in Mi】介绍不久前，我观看了一个AI代理的演示，在表中更新了一行。该方案很简单，但有效地证明了该工具的功能和对用户的潜在好处。这让我想知道使用Microsoft Power Platforms是否可以实现相同的功能。本文探讨了如何在MI中建立代理商</description>
+      <pubDate>Thu, 10 Jul 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【July Patches for Azure DevOps Server】Azure DevOps服务器的7月补丁</title>
       <link>https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2</link>
       <description>【Today we are releasing patches that impact the latest version of our self-hosted product, Azure DevOps Server. We strongly encourage and recommend that all customers use the latest, most secure release of Azure DevOps Server. You can dow】今天，我们正在发布影响最新版本的自托管产品Azure DevOps Server的补丁程序。我们强烈鼓励并建议所有客户使用最新，最安全的Azure DevOps服务器。你可以道歉</description>
       <pubDate>Wed, 09 Jul 2025 15:37:13 +0000</pubDate>
     </item>
     <item>
-      <title>【How We Use AI Agents for COBOL Migration and Mainframe Modernization】我们如何使用AI代理进行COBOL迁移和大型机现代化</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization</link>
-      <description>【Legacy modernization is one of the most frequently raised challenges customers approach us with. They want to eliminate technical debt and run applications cloud-native. Obviously, there are different levels of complexity in legacy modernization, but the most challenging cases remain mai】旧版现代化是客户对我们面对的最常见的挑战之一。他们希望消除技术债务并运行云原生应用程序。显然，传统现代化的复杂程度不同，但最具挑战性的案件仍然是MAI</description>
-      <pubDate>Wed, 09 Jul 2025 17:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A walkthrough of the original Microsoft Building 3】原始Microsoft大楼3的演练</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250708-00/?p=111357</link>
-      <description>【I don&#39;t know why, but there is a Matterport walkthrough of the original Microsoft Building 3, which now no longer exists. This walkthrough appears to have been made not too long before the building was demolished to make room for the new Microsoft campus. I can tell by the】我不知道为什么，但是有Matterport的The Matterport演练了原始的Microsoft建筑物3，现在不再存在。这项演练似乎不久之后就拆除了建筑物以为新的Microsoft校园腾出空间。我可以通过</description>
-      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Customize AI responses from GitHub Copilot】从GitHub Copilot自定义AI响应</title>
+      <link>https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot</link>
+      <description>【GitHub Copilot along with its various models are capable of some amazing things. When in Agent mode the AI can create parts of or even entire applications from your written (or spoken!) instructions. You can just feel the vibes (coding), can&#39;t you? [alert type=&#34;note&#34; heading=&#34;Note&#34;]GitHub Copilot Agent mode is more than code completi】Github Copilot及其各种模型都能做出一些惊人的事情。在代理模式下，AI可以通过您的书面（或口语！）说明创建或什至全部应用程序的一部分。您可以感觉到共鸣（编码），不是吗？ [警报类型=“ note” heading =“ note”] github副代理模式不仅仅是代码完成</description>
+      <pubDate>Thu, 10 Jul 2025 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.24.5-1 and 1.23.11-1 Microsoft builds now available】GO 1.24.5-1和1.23.11-1 Microsoft现在可用</title>
@@ -58,10 +58,10 @@
       <pubDate>Wed, 09 Jul 2025 06:09:26 +0000</pubDate>
     </item>
     <item>
-      <title>【When I install an unhandled structured exception filter, why doesn&#39;t &lt;CODE&gt;std::&lt;WBR&gt;terminate&lt;/CODE&gt; get called?】当我安装一个未经处理的结构化异常过滤器时，为什么&lt;code&gt; std :: &lt;wbr&gt;终止&lt;/code&gt;被调用？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250709-00/?p=111360</link>
-      <description>【For diagnostic and reliability purposes, a customer wanted to detect and report all all unhandled C++ exceptions as well as all unhandled structured exceptions. Their idea was to cover both exits: Use set_terminate to install a std::terminate handler, which is called when a C++ exception goes unhand】为了诊断和可靠性，客户希望检测并报告所有未手持的C ++异常以及所有未手持的结构化例外。他们的想法是覆盖两个退出：使用set_terninate安装std ::终止处理程序，当c ++例外时，它被称为</description>
-      <pubDate>Wed, 09 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【June 2025 (version 1.102)】2025年6月（版本1.102）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/june-2025-(version-1.102)</link>
+      <description>【Learn what is new in the Visual Studio Code June 2025 Release (1.102) Read the full article】了解2025年6月的《 Visual Studio代码》中的新内容（1.102）阅读全文</description>
+      <pubDate>Wed, 09 Jul 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

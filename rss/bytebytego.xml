@@ -5,12 +5,6 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Inside Airbnb’s AI-Powered Pipeline to Migrate Tests: Months of Work in Days 】在Airbnb的AI驱动管道中，用于迁移测试：几天的工作</title>
-      <link>https://blog.bytebytego.com/p/inside-airbnbs-ai-powered-pipeline</link>
-      <description>【This article covers the structure of the automation pipeline, the trade-offs behind prompt engineering vs. brute-force retries, the methods used to handle complex edge cases, and the results that followed.】本文涵盖了自动化管道的结构，迅速工程与蛮力重试的权衡取舍，用于处理复杂边缘案例的方法以及随后的结果。</description>
-      <pubDate>Tue, 24 Jun 2025 15:30:34 +0000</pubDate>
-    </item>
-    <item>
       <title>【7 Years, 8 Books, 1 Launch. A lot more to come!】7年，8本书，1个发射。还有更多！</title>
       <link>https://blog.bytebytego.com/p/7-years-8-books-1-launch-a-lot-more</link>
       <description>【7 Years, 8 Books, 1 Launch.】7年，8本书，1个发射。</description>
@@ -23,34 +17,22 @@
       <pubDate>Mon, 23 Jun 2025 15:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
-      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
-      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
-      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
-    </item>
-    <item>
       <title>【EP169: RAG vs Agentic RAG】EP169：抹布与代理抹布</title>
       <link>https://blog.bytebytego.com/p/ep169-rag-vs-agentic-rag</link>
       <description>【What else will you add to better understand RAG vs Agentic RAG?】您还可以添加什么以更好地了解RAG与Agentic rag？</description>
       <pubDate>Sat, 28 Jun 2025 15:30:09 +0000</pubDate>
     </item>
     <item>
-      <title>【A Guide to Database Replication: Key Concepts and Strategies】数据库复制指南：关键概念和策略</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-database-replication-key</link>
-      <description>【We will cover single-leader, multi-leader, and leaderless replication models, breaking down how each works, what problems they solve, and where they fall apart.】我们将介绍单个领导者，多领导者和无领导者复制模型，分解每个人的工作方式，他们解决的问题以及它们崩溃的位置。</description>
-      <pubDate>Thu, 03 Jul 2025 15:31:05 +0000</pubDate>
+      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
+      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
+      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
+      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Database Indexing Demystified: Index Types and Use-Cases】数据库索引神秘：索引类型和用例</title>
-      <link>https://blog.bytebytego.com/p/database-indexing-demystified-index</link>
-      <description>【In this article, we will explore the basic concept of database indexing and different index types.】在本文中，我们将探讨数据库索引和不同索引类型的基本概念。</description>
-      <pubDate>Thu, 26 Jun 2025 15:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP168: AI Vs Machine Learning Vs Deep Learning Vs Generative AI】EP168：AI与机器学习与深度学习与生成AI</title>
-      <link>https://blog.bytebytego.com/p/ep168-ai-vs-machine-learning-vs-deep</link>
-      <description>【What else will you add to understand these concepts better?】您还会添加什么以更好地理解这些概念？</description>
-      <pubDate>Sat, 21 Jun 2025 15:30:15 +0000</pubDate>
+      <title>【Inside Airbnb’s AI-Powered Pipeline to Migrate Tests: Months of Work in Days 】在Airbnb的AI驱动管道中，用于迁移测试：几天的工作</title>
+      <link>https://blog.bytebytego.com/p/inside-airbnbs-ai-powered-pipeline</link>
+      <description>【This article covers the structure of the automation pipeline, the trade-offs behind prompt engineering vs. brute-force retries, the methods used to handle complex edge cases, and the results that followed.】本文涵盖了自动化管道的结构，迅速工程与蛮力重试的权衡取舍，用于处理复杂边缘案例的方法以及随后的结果。</description>
+      <pubDate>Tue, 24 Jun 2025 15:30:34 +0000</pubDate>
     </item>
     <item>
       <title>【How Spotify Uses GenAI and ML to Annotate a Hundred Million Tracks】Spotify如何使用Genai和ML注释一亿首曲目</title>
@@ -63,6 +45,24 @@
       <link>https://blog.bytebytego.com/p/ep170-best-ways-to-test-system-functionality</link>
       <description>【Testing system functionality&amp;#160;ensures that a system or software application performs as expected, meets user requirements, and operates reliably.】测试系统功能可确保系统或软件应用程序按预期执行，满足用户要求并可靠地运行。</description>
       <pubDate>Sat, 05 Jul 2025 15:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide to Database Replication: Key Concepts and Strategies】数据库复制指南：关键概念和策略</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-database-replication-key</link>
+      <description>【We will cover single-leader, multi-leader, and leaderless replication models, breaking down how each works, what problems they solve, and where they fall apart.】我们将介绍单个领导者，多领导者和无领导者复制模型，分解每个人的工作方式，他们解决的问题以及它们崩溃的位置。</description>
+      <pubDate>Thu, 03 Jul 2025 15:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
+      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
+      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
+      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database Indexing Demystified: Index Types and Use-Cases】数据库索引神秘：索引类型和用例</title>
+      <link>https://blog.bytebytego.com/p/database-indexing-demystified-index</link>
+      <description>【In this article, we will explore the basic concept of database indexing and different index types.】在本文中，我们将探讨数据库索引和不同索引类型的基本概念。</description>
+      <pubDate>Thu, 26 Jun 2025 15:30:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

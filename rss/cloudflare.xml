@@ -4,10 +4,16 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【The crawl before the fall… of referrals: understanding AI’s impact on content providers】坠落前的爬升……推荐机制的影响：理解人工智能对内容提供者的影响</title>
-      <link>https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/</link>
-      <description>【 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; 】 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; </description>
+      <title>【Message Signatures are now part of our Verified Bots Program, simplifying bot authentication】消息签名现在是我们的认证机器人计划的一部分，简化了机器人身份验证</title>
+      <link>https://blog.cloudflare.com/verified-bots-with-cryptography/</link>
+      <description>【 Bots can start authenticating to Cloudflare using public key cryptography, preventing them from being spoofed and allowing origins to have confidence in their identity. 】 Bots can start authenticating to Cloudflare using public key cryptography, preventing them from being spoofed and allowing origins to have confidence in their identity. </description>
       <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Celebrate Micro-Small, and Medium-sized Enterprises Day with Cloudflare 】庆祝中小微企业日与Cloudflare一起</title>
+      <link>https://blog.cloudflare.com/celebrate-micro-small-and-medium-sized-enterprises-day-with-cloudflare/</link>
+      <description>【 To celebrate United Nations Micro, Small, and Medium Sized Enterprises Day, Cloudflare is sharing success stories of small businesses building and growing on our platform. 】 To celebrate United Nations Micro, Small, and Medium Sized Enterprises Day, Cloudflare is sharing success stories of small businesses building and growing on our platform. </description>
+      <pubDate>Fri, 27 Jun 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Content Independence Day: no AI crawl without compensation!】内容独立日：没有补偿，不许AI抓取！</title>
@@ -16,34 +22,28 @@
       <pubDate>Tue, 01 Jul 2025 10:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Control content use for AI training with Cloudflare’s managed robots.txt and blocking for monetized content】使用 Cloudflare 的托管 robots.txt 和针对盈利内容的阻止功能来控制内容使用以用于人工智能训练</title>
-      <link>https://blog.cloudflare.com/control-content-use-for-ai-training/</link>
-      <description>【 Cloudflare is making it easier for publishers and content creators of all sizes to prevent their content from being scraped for AI training by managing robots.txt on their behalf.  】 Cloudflare is making it easier for publishers and content creators of all sizes to prevent their content from being scraped for AI training by managing robots.txt on their behalf.  </description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How TimescaleDB helped us scale analytics and reporting】时间序列数据库如何帮助我们扩展分析和报告</title>
+      <title>【How TimescaleDB helped us scale analytics and reporting】如何使用TimescaleDB扩展分析和报告</title>
       <link>https://blog.cloudflare.com/timescaledb-art/</link>
       <description>【 Cloudflare chose TimescaleDB to power its Digital Experience Monitoring and Zero Trust Analytics products.  】Cloudflare选择TimescaleDB来支持其数字体验监控和零信任分析产品。</description>
       <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Message Signatures are now part of our Verified Bots Program, simplifying bot authentication】消息签名现在是我们认证机器人计划的一部分，简化了机器人身份验证</title>
-      <link>https://blog.cloudflare.com/verified-bots-with-cryptography/</link>
-      <description>【 Bots can start authenticating to Cloudflare using public key cryptography, preventing them from being spoofed and allowing origins to have confidence in their identity. 】机器人可以使用公钥密码学开始对Cloudflare进行身份验证，防止它们被伪造，并使来源能够对其身份有信心。</description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Russian Internet users are unable to access the open Internet】俄罗斯互联网用户无法访问开放的互联网</title>
-      <link>https://blog.cloudflare.com/russian-internet-users-are-unable-to-access-the-open-internet/</link>
-      <description>【 Since June 9, 2025, Internet users located in Russia and connecting to the open Internet have been throttled by Russian Internet Service Providers (ISPs). 】自2025年6月9日起，位于俄罗斯并连接到开放互联网的互联网用户已被俄罗斯互联网服务提供商（ISP）限制。</description>
-      <pubDate>Thu, 26 Jun 2025 22:33:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing simple and secure egress policies by hostname in Cloudflare’s SASE platform】通过主机名在Cloudflare的SASE平台上引入简单且安全的出站策略</title>
+      <title>【Introducing simple and secure egress policies by hostname in Cloudflare’s SASE platform】通过主机名在Cloudflare的SASE平台中引入简单且安全的出站策略</title>
       <link>https://blog.cloudflare.com/egress-policies-by-hostname/</link>
       <description>【 Cloudflare&#39;s SASE platform now offers egress policies by hostname, domain, content category, and application in open beta. 】Cloudflare 的 SASE 平台现在在公开测试版中提供按主机名、域名、内容类别和应用程序的出站策略。</description>
       <pubDate>Mon, 07 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The crawl before the fall… of referrals: understanding AI’s impact on content providers】坠落前的爬升……推荐机制的影响：理解人工智能对内容提供者的影响</title>
+      <link>https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/</link>
+      <description>【 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; 】Cloudflare Radar现在显示给定AI模型向网站发送流量的频率，相对于它爬取该网站的频率。这有助于网站所有者决定允许或阻止哪些AI机器人。</description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Control content use for AI training with Cloudflare’s managed robots.txt and blocking for monetized content】使用 Cloudflare 的托管 robots.txt 和针对付费内容的阻止功能来控制内容使用以用于 AI 训练</title>
+      <link>https://blog.cloudflare.com/control-content-use-for-ai-training/</link>
+      <description>【 Cloudflare is making it easier for publishers and content creators of all sizes to prevent their content from being scraped for AI training by managing robots.txt on their behalf.  】Cloudflare 正在使所有规模的出版商和内容创作者更容易防止其内容被用于人工智能训练的抓取，方法是代表他们管理 robots.txt。</description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing pay per crawl: enabling content owners to charge AI crawlers for access】引入按爬取付费：使内容所有者能够对AI爬虫的访问收费</title>
@@ -52,16 +52,16 @@
       <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 1)】闪电侠v2：全球分布式键值存储的演进（第一部分）</title>
+      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-1/</link>
+      <description>【 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  】这篇博文是系列文章的第一篇，我们将分享重新设计Quicksilver——Cloudflare的分布式键值存储系统——的历程，该系统每秒在全球范围内处理超过30亿个键。</description>
+      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【From Googlebot to GPTBot: who’s crawling your site in 2025】从Googlebot到GPTBot：2025年谁在爬取您的网站</title>
       <link>https://blog.cloudflare.com/from-googlebot-to-gptbot-whos-crawling-your-site-in-2025/</link>
       <description>【 From May 2024 to May 2025, crawler traffic rose 18%, with GPTBot growing 305% and Googlebot 96%. 】从2024年5月到2025年5月，爬虫流量增长了18%，其中GPTBot增长了305%，Googlebot增长了96%。</description>
       <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Celebrate Micro-Small, and Medium-sized Enterprises Day with Cloudflare 】庆祝中小微企业日与Cloudflare一起</title>
-      <link>https://blog.cloudflare.com/celebrate-micro-small-and-medium-sized-enterprises-day-with-cloudflare/</link>
-      <description>【 To celebrate United Nations Micro, Small, and Medium Sized Enterprises Day, Cloudflare is sharing success stories of small businesses building and growing on our platform. 】为庆祝联合国中小微企业日，Cloudflare正在分享在我们的平台上建设和成长的小型企业成功故事。</description>
-      <pubDate>Fri, 27 Jun 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
