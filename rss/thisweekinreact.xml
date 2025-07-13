@@ -4,10 +4,22 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #242: Vite RSC, Next.js, NuxtLabs, shadcn, TanStack, Valtio, XState, RHF | Unistyles, Rag, Shadow Insets, Ignite, Metro, RN 0.81 RC | TypeScript, CSS Gaps, Browserlist-rs, Biome, Astro, esbuild】本周在React＃242中：Vite RSC，Next.js，Nuxtlabs，Shadcn，Tanstack，Valtio，Xstate，RHF | Unistyles，抹布，阴影插图，IGNITE，METRO，RN 0.81 RC |打字稿，CSS差距，浏览列表RS，Biome，Astro，Esbuild</title>
+      <link>https://thisweekinreact.com/newsletter/242</link>
+      <description>【Hi everyone! Kacper and Krzysztof from Software Mansion here! 👋】大家好！ KACPER和KRZYSZTOF来自软件大厦！ 👋</description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #240: Radix, shadcn/ui, Next.js, MCP, Vite, RedwoodSDK, Apollo, Vercel, Recharts | Skia, WebGPU,  Radon IDE, React Navigation, Safe Area Context, iOS optimizations, Snapai | Prettier, Node, Biome, State of Devs】本周在React＃240中：Radix，Shadcn/UI，Next.js，MCP，Vite，Redwoodsdk，Apollo，Apollo，Vercel，Recharts | Skia，WebGPU，Raad Ide，React导航，安全区域环境，iOS优化，Snapai |漂亮，节点，生物群体，开发状态</title>
       <link>https://thisweekinreact.com/newsletter/240</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #239: ViewTransition, Suspense, TanStack, Zero, use-mcp, Compiler, Intl-T | 0.80, Stable APIs, iOS prebuilds, shadcn, Expo, InstantDB, Granite | TypeBuddy, Hono, H3, Playwright, cosmos.gl】本周在React＃239中：View Transition，悬念，Tanstack，零，使用MCP，Compiler，Intl-T | 0.80，稳定的API，iOS Prebuilds，ShadCN，Expo，InstantDB，花岗岩| TypeBuddy，Hono，H3，剧作家，Cosmos.gl</title>
+      <link>https://thisweekinreact.com/newsletter/239</link>
+      <description>【Hi everyone! Krzysztof and Tomasz from Software Mansion here 👋】大家好！来自软件大厦的Krzysztof和Tomasz在这里👋</description>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【This Week In React #241: Remix, Next.js, Turbopack, Radix  DOM templating, Ultracite, Stack, StyleX, MUI | Nitro Week, Skia, App Generator, Swift, Kotlin | ES2025, Rspack, Babel, TypeScript, Effect, Deno, Three.js】本周在React＃241中：Remix，Next.js，Turbopack，Radix Dom Templating，Ultracite，stack，Stylex，Mui | Nitro Week，Skia，App Generator，Swift，Kotlin | ES2025，rspack，babel，打字稿，效果，deNo，三人</title>
@@ -20,18 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/238</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #239: ViewTransition, Suspense, TanStack, Zero, use-mcp, Compiler, Intl-T | 0.80, Stable APIs, iOS prebuilds, shadcn, Expo, InstantDB, Granite | TypeBuddy, Hono, H3, Playwright, cosmos.gl】本周在React＃239中：View Transition，悬念，Tanstack，零，使用MCP，Compiler，Intl-T | 0.80，稳定的API，iOS Prebuilds，ShadCN，Expo，InstantDB，花岗岩| TypeBuddy，Hono，H3，剧作家，Cosmos.gl</title>
-      <link>https://thisweekinreact.com/newsletter/239</link>
-      <description>【Hi everyone! Krzysztof and Tomasz from Software Mansion here 👋】大家好！来自软件大厦的Krzysztof和Tomasz在这里👋</description>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #242: Vite RSC, Next.js, NuxtLabs, shadcn, TanStack, Valtio, XState, RHF | Unistyles, Rag, Shadow Insets, Ignite, Metro, RN 0.81 RC | TypeScript, CSS Gaps, Browserlist-rs, Biome, Astro, esbuild】本周在React＃242中：Vite RSC，Next.js，Nuxtlabs，Shadcn，Tanstack，Valtio，Xstate，RHF | Unistyles，抹布，阴影插图，IGNITE，METRO，RN 0.81 RC |打字稿，CSS差距，浏览列表RS，Biome，Astro，Esbuild</title>
-      <link>https://thisweekinreact.com/newsletter/242</link>
-      <description>【Hi everyone! Kacper and Krzysztof from Software Mansion here! 👋】大家好！ KACPER和KRZYSZTOF来自软件大厦！ 👋</description>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

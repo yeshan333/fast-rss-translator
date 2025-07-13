@@ -4,16 +4,16 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #483】SRE周刊＃483</title>
-      <link>https://sreweekly.com/sre-weekly-issue-483/</link>
-      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty&amp;#8217;s reliability apart. The same [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的一条消息：当互联网在6月12日步履蹒跚时，其他事件管理平台可能已经崩溃了，但Pagerduty处理了172％的事件激增，通知无处不在433％。您的平台应该在暴风雨中是岩石的，而不是另一个担心。看看是什么设定了Pagerduty的可靠性。相同 […]</description>
-      <pubDate>Mon, 30 Jun 2025 02:33:04 +0000</pubDate>
-    </item>
-    <item>
       <title>【SRE Weekly Issue #480】SRE周刊＃480</title>
       <link>https://sreweekly.com/sre-weekly-issue-480/</link>
       <description>【View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的消息：🔍值得注意的Pagerduty Shift：完整的事件管理现在跨越了所有付费层。升级的松弛至上和团队优先的经验意味着在事件中遇到的工具更少。仅利用Pagerduty进行基本警报？是时候查看您计划中新近可用的东西了！ https://fnf.dev/4dz5v36您无法阻止[…]</description>
       <pubDate>Mon, 09 Jun 2025 02:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #481】SRE周刊＃481</title>
+      <link>https://sreweekly.com/sre-weekly-issue-481/</link>
+      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On [&amp;#8230;]】在sreweekly.com上查看我们的赞助商Pagerduty的消息：需要Slack-Native E2E事件管理吗？ Pagerduty提供！自动事件工作流程设置了松弛频道？ ✅事件角色和内置命令？ ✅提供实时客户影响的AI驱动聊天？ ✅现在所有付费的Pagerduty计划可用。 https://fnf.dev/4dz5v36 Google Cloud Platform事件，2025年6月12日在[…]上</description>
+      <pubDate>Mon, 16 Jun 2025 01:22:03 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #482】SRE周刊＃482</title>
@@ -22,16 +22,16 @@
       <pubDate>Mon, 23 Jun 2025 02:48:32 +0000</pubDate>
     </item>
     <item>
+      <title>【SRE Weekly Issue #483】SRE周刊＃483</title>
+      <link>https://sreweekly.com/sre-weekly-issue-483/</link>
+      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty&amp;#8217;s reliability apart. The same [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的一条消息：当互联网在6月12日步履蹒跚时，其他事件管理平台可能已经崩溃了，但Pagerduty处理了172％的事件激增，通知无处不在433％。您的平台应该在暴风雨中是岩石的，而不是另一个担心。看看是什么设定了Pagerduty的可靠性。相同 […]</description>
+      <pubDate>Mon, 30 Jun 2025 02:33:04 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #484】SRE周刊＃484</title>
       <link>https://sreweekly.com/sre-weekly-issue-484/</link>
       <description>【View on sreweekly.com Exact Code Search: Find code faster across repositories This is really neat! They&amp;#8217;ve developed a new approach to search that uses 3-letter &amp;#8220;trigrams&amp;#8221; rather than tokenizing words, making it especially well-suited to code search. It converts regular expressions to trigram searches behind the scenes. &amp;#160;&amp;#160;Dmitry Gruzd &amp;#8212; GitLab Pattern machines that we [&amp;#8230;]】在Sreweekly.com上查看精确代码搜索：在存储库中更快地查找代码，这真的很整洁！他们开发了一种新的搜索方法，该方法使用了3个字母的“ Trigrams”而不是象征性的单词，从而特别适合代码搜索。它将正则表达式转换为幕后的Trigram搜索。   Dmitry Gruzd  - 我们[…]的GitLab模式机器</description>
       <pubDate>Mon, 07 Jul 2025 01:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #481】SRE周刊＃481</title>
-      <link>https://sreweekly.com/sre-weekly-issue-481/</link>
-      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On [&amp;#8230;]】在sreweekly.com上查看我们的赞助商Pagerduty的消息：需要Slack-Native E2E事件管理吗？ Pagerduty提供！自动事件工作流程设置了松弛频道？ ✅事件角色和内置命令？ ✅提供实时客户影响的AI驱动聊天？ ✅现在所有付费的Pagerduty计划可用。 https://fnf.dev/4dz5v36 Google Cloud Platform事件，2025年6月12日在[…]上</description>
-      <pubDate>Mon, 16 Jun 2025 01:22:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

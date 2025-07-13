@@ -4,28 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Building Event-Driven Go applications with Azure Cosmos DB and Azure Functions】使用Azure Cosmos DB和Azure功能建立事件驱动的GO应用程序</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/building-event-driven-go-applications-with-azure-cosmos-db-and-azure-functions</link>
-      <description>【The Go programming language is a great fit for building serverless applications. Go applications can be easily compiled to a single, statically linked binary, making deployment simple and reducing external dependencies. They start up quickly, which is ideal for serverless】GO编程语言非常适合构建无服务器应用程序。 GO应用程序可以轻松地编译到单个静态链接的二进制文件中，从而使部署简单而减少了外部依赖关系。它们快速启动，这是无服务器的理想选择</description>
-      <pubDate>Fri, 11 Jul 2025 17:30:15 +0000</pubDate>
+      <title>【Use Agent to Update Dataverse Table Content】使用代理更新数据词表内容</title>
+      <link>https://devblogs.microsoft.com/ise/use-agent-to-update-dataverse-table</link>
+      <description>【Introduction Some time ago, I watched a demo of an AI agent updating a row in a table. The scenario was simple but effectively demonstrated the tool&#39;s capabilities and potential benefits for users. This made me wonder whether the same could be achieved using Microsoft Power Platforms. This article explores how to build an agent in Mi】介绍不久前，我观看了一个AI代理的演示，在表中更新了一行。该方案很简单，但有效地证明了该工具的功能和对用户的潜在好处。这让我想知道使用Microsoft Power Platforms是否可以实现相同的功能。本文探讨了如何在MI中建立代理商</description>
+      <pubDate>Thu, 10 Jul 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2507.11 - misc bug fixes + improvements】PIX 2507.11- MISC错误修复 +改进</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2507-11</link>
-      <description>【Today we released PIX version 2507.11, which can be downloaded here. This release includes everything in the previous 2505.30 release, plus the following bug fixes: GPU Captures (capture time】今天，我们发布了PIX版本2507.11，可以在此处下载。此版本包括上一版中的所有内容，以及以下错误修复：GPU捕获（捕获时间</description>
-      <pubDate>Fri, 11 Jul 2025 19:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Our first attempt to detect and report all unhandled C++ exceptions as well as all unhandled structured exceptions】我们第一次尝试检测和报告所有未经处理的C ++例外以及所有未手持的结构化例外</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250710-00/?p=111366</link>
-      <description>【Last time, we saw that installing an unhandled structured exception filter prevents the Microsoft Visual C++ runtime from converting unhandled C++ exceptions into】上次，我们看到安装一个未经处理的结构化异常过滤器可防止Microsoft Visual C ++运行时运行时将未经处理的C ++异常转换为</description>
-      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customize GitHub Copilot in JetBrains with Custom Instructions】通过自定义说明自定义喷气式桥</title>
-      <link>https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions</link>
-      <description>【Today, you can use Custom Instructions in JetBrains to speed up development while staying aligned with your team&#39;s coding standards and personal preferences.】今天，您可以使用喷气桥中的自定义说明来加快开发的速度，同时与团队的编码标准和个人喜好保持一致。</description>
-      <pubDate>Thu, 10 Jul 2025 04:20:12 +0000</pubDate>
+      <title>【June 2025 (version 1.102)】2025年6月（版本1.102）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/june-2025-(version-1.102)</link>
+      <description>【Learn what is new in the Visual Studio Code June 2025 Release (1.102) Read the full article】了解2025年6月的《 Visual Studio代码》中的新内容（1.102）阅读全文</description>
+      <pubDate>Wed, 09 Jul 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Detecting and reporting all unhandled C++ exceptions as well as all unhandled structured exceptions】检测和报告所有未手持的C ++异常以及所有未经处理的结构化异常</title>
@@ -40,16 +28,22 @@
       <pubDate>Fri, 11 Jul 2025 14:50:13 +0000</pubDate>
     </item>
     <item>
-      <title>【June 2025 (version 1.102)】2025年6月（版本1.102）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/june-2025-(version-1.102)</link>
-      <description>【Learn what is new in the Visual Studio Code June 2025 Release (1.102) Read the full article】了解2025年6月的《 Visual Studio代码》中的新内容（1.102）阅读全文</description>
-      <pubDate>Wed, 09 Jul 2025 17:00:00 +0000</pubDate>
+      <title>【PIX 2507.11 - misc bug fixes + improvements】PIX 2507.11- MISC错误修复 +改进</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2507-11</link>
+      <description>【Today we released PIX version 2507.11, which can be downloaded here. This release includes everything in the previous 2505.30 release, plus the following bug fixes: GPU Captures (capture time】今天，我们发布了PIX版本2507.11，可以在此处下载。此版本包括上一版中的所有内容，以及以下错误修复：GPU捕获（捕获时间</description>
+      <pubDate>Fri, 11 Jul 2025 19:56:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Use Agent to Update Dataverse Table Content】使用代理更新数据词表内容</title>
-      <link>https://devblogs.microsoft.com/ise/use-agent-to-update-dataverse-table</link>
-      <description>【Introduction Some time ago, I watched a demo of an AI agent updating a row in a table. The scenario was simple but effectively demonstrated the tool&#39;s capabilities and potential benefits for users. This made me wonder whether the same could be achieved using Microsoft Power Platforms. This article explores how to build an agent in Mi】介绍不久前，我观看了一个AI代理的演示，在表中更新了一行。该方案很简单，但有效地证明了该工具的功能和对用户的潜在好处。这让我想知道使用Microsoft Power Platforms是否可以实现相同的功能。本文探讨了如何在MI中建立代理商</description>
-      <pubDate>Thu, 10 Jul 2025 07:00:00 +0000</pubDate>
+      <title>【Building Event-Driven Go applications with Azure Cosmos DB and Azure Functions】使用Azure Cosmos DB和Azure功能建立事件驱动的GO应用程序</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/building-event-driven-go-applications-with-azure-cosmos-db-and-azure-functions</link>
+      <description>【The Go programming language is a great fit for building serverless applications. Go applications can be easily compiled to a single, statically linked binary, making deployment simple and reducing external dependencies. They start up quickly, which is ideal for serverless】GO编程语言非常适合构建无服务器应用程序。 GO应用程序可以轻松地编译到单个静态链接的二进制文件中，从而使部署简单而减少了外部依赖关系。它们快速启动，这是无服务器的理想选择</description>
+      <pubDate>Fri, 11 Jul 2025 17:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customize AI responses from GitHub Copilot】从GitHub Copilot自定义AI响应</title>
+      <link>https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot</link>
+      <description>【GitHub Copilot along with its various models are capable of some amazing things. When in Agent mode the AI can create parts of or even entire applications from your written (or spoken!) instructions. You can just feel the vibes (coding), can&#39;t you? [alert type=&#34;note&#34; heading=&#34;Note&#34;]GitHub Copilot Agent mode is more than code completi】Github Copilot及其各种模型都能做出一些惊人的事情。在代理模式下，AI可以通过您的书面（或口语！）说明创建或什至全部应用程序的一部分。您可以感觉到共鸣（编码），不是吗？ [警报类型=“ note” heading =“ note”] github副代理模式不仅仅是代码完成</description>
+      <pubDate>Thu, 10 Jul 2025 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>【How We Use AI Agents for COBOL Migration and Mainframe Modernization】我们如何使用AI代理进行COBOL迁移和大型机现代化</title>
@@ -58,10 +52,16 @@
       <pubDate>Wed, 09 Jul 2025 17:10:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Customize AI responses from GitHub Copilot】从GitHub Copilot自定义AI响应</title>
-      <link>https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot</link>
-      <description>【GitHub Copilot along with its various models are capable of some amazing things. When in Agent mode the AI can create parts of or even entire applications from your written (or spoken!) instructions. You can just feel the vibes (coding), can&#39;t you? [alert type=&#34;note&#34; heading=&#34;Note&#34;]GitHub Copilot Agent mode is more than code completi】Github Copilot及其各种模型都能做出一些惊人的事情。在代理模式下，AI可以通过您的书面（或口语！）说明创建或什至全部应用程序的一部分。您可以感觉到共鸣（编码），不是吗？ [警报类型=“ note” heading =“ note”] github副代理模式不仅仅是代码完成</description>
-      <pubDate>Thu, 10 Jul 2025 17:15:00 +0000</pubDate>
+      <title>【Customize GitHub Copilot in JetBrains with Custom Instructions】通过自定义说明自定义喷气式桥</title>
+      <link>https://devblogs.microsoft.com/java/customize-github-copilot-in-jetbrains-with-custom-instructions</link>
+      <description>【Today, you can use Custom Instructions in JetBrains to speed up development while staying aligned with your team&#39;s coding standards and personal preferences.】今天，您可以使用喷气桥中的自定义说明来加快开发的速度，同时与团队的编码标准和个人喜好保持一致。</description>
+      <pubDate>Thu, 10 Jul 2025 04:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Our first attempt to detect and report all unhandled C++ exceptions as well as all unhandled structured exceptions】我们第一次尝试检测和报告所有未经处理的C ++例外以及所有未手持的结构化例外</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250710-00/?p=111366</link>
+      <description>【Last time, we saw that installing an unhandled structured exception filter prevents the Microsoft Visual C++ runtime from converting unhandled C++ exceptions into】上次，我们看到安装一个未经处理的结构化异常过滤器可防止Microsoft Visual C ++运行时运行时将未经处理的C ++异常转换为</description>
+      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
