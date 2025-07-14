@@ -4,10 +4,22 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
+      <title>使用Amazon API Gateway转换Maya的API管理</title>
+      <link>https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/</link>
       <description></description>
-      <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 17:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS着陆区的亚马逊基岩基线建筑</title>
+      <link>https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/</link>
+      <description></description>
+      <pubDate>Mon, 23 Jun 2025 18:36:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stellantis如何通过AWS上的无服务器编排来简化浮动许可管理</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/</link>
+      <description></description>
+      <pubDate>Thu, 12 Jun 2025 12:16:54 +0000</pubDate>
     </item>
     <item>
       <title>通过无缝故障转移构建多区域AWS私有链接支持服务</title>
@@ -16,10 +28,22 @@
       <pubDate>Thu, 12 Jun 2025 12:21:22 +0000</pubDate>
     </item>
     <item>
-      <title>AWS着陆区的亚马逊基岩基线建筑</title>
-      <link>https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/</link>
+      <title>使用AWS变换为VMware迁移和现代化VMware工作负载</title>
+      <link>https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/</link>
       <description></description>
-      <pubDate>Mon, 23 Jun 2025 18:36:51 +0000</pubDate>
+      <pubDate>Tue, 08 Jul 2025 20:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用Amazon Sagemaker AI和Amazon Bedrock优化车队操作</title>
+      <link>https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/</link>
+      <description></description>
+      <pubDate>Wed, 28 May 2025 18:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
+      <description></description>
+      <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
     </item>
     <item>
       <title>改善现金应用程序的平台弹性</title>
@@ -38,30 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
       <description></description>
       <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用AWS变换为VMware迁移和现代化VMware工作负载</title>
-      <link>https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/</link>
-      <description></description>
-      <pubDate>Tue, 08 Jul 2025 20:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stellantis如何通过AWS上的无服务器编排来简化浮动许可管理</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/</link>
-      <description></description>
-      <pubDate>Thu, 12 Jun 2025 12:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用Amazon Sagemaker AI和Amazon Bedrock优化车队操作</title>
-      <link>https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/</link>
-      <description></description>
-      <pubDate>Wed, 28 May 2025 18:29:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用Amazon API Gateway转换Maya的API管理</title>
-      <link>https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/</link>
-      <description></description>
-      <pubDate>Tue, 27 May 2025 17:29:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
