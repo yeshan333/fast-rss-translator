@@ -4,10 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Announcing Full Cross-Platform Support for the mssql-python Driver】宣布对MSSQL-Python驱动程序的全面跨平台支持</title>
-      <link>https://devblogs.microsoft.com/python/announcing-full-cross-platform-support-for-the-mssql-python-driver</link>
-      <description>【】</description>
-      <pubDate>Mon, 14 Jul 2025 11:41:51 +0000</pubDate>
+      <title>【Enhancing Code Quality at Scale with AI-Powered Code Reviews】通过AI驱动的代码评论提高代码质量</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-code-quality-at-scale-with-ai-powered-code-reviews</link>
+      <description>【At Microsoft, we are constantly looking for ways to improve developer productivity and code quality. One of our most impactful innovations in this space is AI-powered code review assistant — an AI tool that augments pull request (PR) reviews. This AI Assistant started as an internal experiment and now has scaled to suppor】在微软，我们一直在寻找提高开发人员生产率和代码质量的方法。我们在该领域最有影响力的创新之一是AI驱动的代码审查助理 - 一种AI工具，可增强拉力请求（PR）评论。这位AI助手最初是作为内部实验，现在已经扩大了</description>
+      <pubDate>Mon, 14 Jul 2025 15:21:05 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Cosmos DB in Microsoft Fabric (Preview) with New Capabilities!】在Microsoft Fabric（预览）中宣布具有新功能的Cosmos DB！</title>
@@ -16,16 +16,22 @@
       <pubDate>Mon, 14 Jul 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building Event-Driven Go applications with Azure Cosmos DB and Azure Functions】使用Azure Cosmos DB和Azure功能建立事件驱动的GO应用程序</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/building-event-driven-go-applications-with-azure-cosmos-db-and-azure-functions</link>
-      <description>【The Go programming language is a great fit for building serverless applications. Go applications can be easily compiled to a single, statically linked binary, making deployment simple and reducing external dependencies. They start up quickly, which is ideal for serverless】GO编程语言非常适合构建无服务器应用程序。 GO应用程序可以轻松地编译到单个静态链接的二进制文件中，从而使部署简单而减少了外部依赖关系。它们快速启动，这是无服务器的理想选择</description>
-      <pubDate>Fri, 11 Jul 2025 17:30:15 +0000</pubDate>
+      <title>【There is a &lt;CODE&gt;std::&lt;WBR&gt;chrono::&lt;WBR&gt;high_&lt;WBR&gt;resolution_&lt;WBR&gt;clock&lt;/CODE&gt;, but no &lt;CODE&gt;low_&lt;WBR&gt;resolution_&lt;WBR&gt;clock&lt;/CODE&gt;】有一个&lt;code&gt; std :: &lt;wbr&gt; chrono :: &lt;wbr&gt; high_ &lt;wbr&gt; stolution_ &lt;wbr&gt;时钟&lt;/code&gt;，但没有&lt;code&gt; low_ &lt;wbr&gt; stolution_ &lt;wbr&gt; colkect &lt;/code&gt; clock &lt;/code&gt;</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250714-00/?p=111375</link>
+      <description>【The C++ standard provides a std::chrono::high_resolution_clock which provides the implementation&#39;s clock with the smallest tick period. This gives you the best resolution available to the implementation. But what if you don&#39;t need the best resolution available to the implementation? For examp】C ++标准提供了一个std :: Chrono :: High_resolution_clock，该clock为实现时钟提供了最小的刻度周期。这为您提供了实施的最佳分辨率。但是，如果您不需要实施的最佳分辨率怎么办？对于Examp</description>
+      <pubDate>Mon, 14 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Enhancing Code Quality at Scale with AI-Powered Code Reviews】通过AI驱动的代码评论提高代码质量</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-code-quality-at-scale-with-ai-powered-code-reviews</link>
-      <description>【At Microsoft, we are constantly looking for ways to improve developer productivity and code quality. One of our most impactful innovations in this space is AI-powered code review assistant — an AI tool that augments pull request (PR) reviews. This AI Assistant started as an internal experiment and now has scaled to suppor】在微软，我们一直在寻找提高开发人员生产率和代码质量的方法。我们在该领域最有影响力的创新之一是AI驱动的代码审查助理 - 一种AI工具，可增强拉力请求（PR）评论。这位AI助手最初是作为内部实验，现在已经扩大了</description>
-      <pubDate>Mon, 14 Jul 2025 15:21:05 +0000</pubDate>
+      <title>【Updates to Warning Suppressions in Microsoft C++ Code Analysis】Microsoft C ++代码分析中警告抑制的更新</title>
+      <link>https://devblogs.microsoft.com/cppblog/updates-to-warning-suppressions-in-microsoft-c-code-analysis</link>
+      <description>【Microsoft C++ Code Analysis is a powerful static analysis tool integrated into Visual Studio that helps you identify and fix potential issues in your C++ code. Large projects require effective management of analysis warnings to maintain code quality and you sometimes need to suppress warnings, but must do so in a clear and auditable way.】Microsoft C ++代码分析是一种集成到Visual Studio中的功能强大的静态分析工具，可帮助您识别和修复C ++代码中的潜在问题。大型项目需要有效管理分析警告以维持代码质量，有时您需要抑制警告，但必须以清晰可视化的方式进行警告。</description>
+      <pubDate>Tue, 15 Jul 2025 18:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building Your First MCP Server with .NET and Publishing to NuGet】使用.NET构建您的第一台MCP服务器并发布到Nuget</title>
+      <link>https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart</link>
+      <description>【Want to extend AI assistants with custom capabilities? In this post, we&#39;ll show you how to build a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet — making your AI tools discoverable and reusable by the entire .NET community. We&#39;ll also show you some new features we&#39;ve added to .NET 10 and NuGet to support this, and】是否想通过自定义功能扩展AI助手？在这篇文章中，我们将向您展示如何使用.NET 10构建模型上下文协议（MCP）服务器并将其发布给Nuget，这使您的AI工具可在整个.NET社区中发现和重复使用。我们还将向您展示一些我们添加到.NET 10和Nuget的新功能以支持此功能，并且</description>
+      <pubDate>Tue, 15 Jul 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Supercharge your EWS migration with AI and GitHub Copilot】用AI和GitHub Copilot增强EWS迁移</title>
@@ -34,34 +40,28 @@
       <pubDate>Mon, 14 Jul 2025 17:53:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Detecting and reporting all unhandled C++ exceptions as well as all unhandled structured exceptions】检测和报告所有未手持的C ++异常以及所有未经处理的结构化异常</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250711-00/?p=111368</link>
-      <description>【Last time, attempted to intercept the ways that a C++ program could exit due to an unhandled exception by installing a custom unhandled str】上次，试图通过安装自定义的未手动str，试图拦截C ++程序可以退出的方式</description>
-      <pubDate>Fri, 11 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【.NET 10 Preview 6 is now available!】.NET 10预览6现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6</link>
+      <description>【Today, we are excited to announce the sixth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 6&#34; url=&#34;https://get.d】今天，我们很高兴宣布.NET 10的第六次预览版本，并在.NET运行时，SDK，Libraries，C＃，ASP.NET Core，Blazor，.Net Maui等增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览6” url =“ https：//get.d</description>
+      <pubDate>Tue, 15 Jul 2025 17:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PIX 2507.11 - misc bug fixes + improvements】PIX 2507.11- MISC错误修复 +改进</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2507-11</link>
-      <description>【Today we released PIX version 2507.11, which can be downloaded here. This release includes everything in the previous 2505.30 release, plus the following bug fixes: GPU Captures (capture time】今天，我们发布了PIX版本2507.11，可以在此处下载。此版本包括上一版中的所有内容，以及以下错误修复：GPU捕获（捕获时间</description>
-      <pubDate>Fri, 11 Jul 2025 19:56:20 +0000</pubDate>
+      <title>【Extension concerns when replacing the OS disk】更换OS磁盘时的扩展问题</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/extension-concerns-when-replacing-the-os-disk</link>
+      <description>【One confusing area regarding extensions on Azure VMs is - what happens when the OS disk is swapped out? Well, in that case the extensions will run again. Is this the desired behavior? Well, we don&#39;t know. There are many types of extensions. Some handle monitoring and security, so those you&#39;ll probably want to keep. Some install applications】关于Azure VM的扩展的一个令人困惑的区域是 - 当OS磁盘被换掉时会发生什么？好吧，在这种情况下，扩展将再次运行。这是所需的行为吗？好吧，我们不知道。扩展有多种类型。有些人处理监视和安全性，因此您可能要保留这些监视。一些安装应用程序</description>
+      <pubDate>Tue, 15 Jul 2025 17:28:13 +0000</pubDate>
     </item>
     <item>
-      <title>【There is a &lt;CODE&gt;std::&lt;WBR&gt;chrono::&lt;WBR&gt;high_&lt;WBR&gt;resolution_&lt;WBR&gt;clock&lt;/CODE&gt;, but no &lt;CODE&gt;low_&lt;WBR&gt;resolution_&lt;WBR&gt;clock&lt;/CODE&gt;】有一个&lt;code&gt; std :: &lt;wbr&gt; chrono :: &lt;wbr&gt; high_ &lt;wbr&gt; stolution_ &lt;wbr&gt;时钟&lt;/code&gt;，但没有&lt;code&gt; low_ &lt;wbr&gt; stolution_ &lt;wbr&gt; colkect &lt;/code&gt; clock &lt;/code&gt;</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250714-00/?p=111375</link>
-      <description>【The C++ standard provides a std::chrono::high_resolution_clock which provides the implementation&#39;s clock with the smallest tick period. This gives you the best resolution available to the implementation. But what if you don&#39;t need the best resolution available to the implementation? For examp】C ++标准提供了一个std :: Chrono :: High_resolution_clock，该clock为实现时钟提供了最小的刻度周期。这为您提供了实施的最佳分辨率。但是，如果您不需要实施的最佳分辨率怎么办？对于Examp</description>
-      <pubDate>Mon, 14 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Perhaps not a recommended usage for an emergency power outlet】也许不是建议使用紧急电源插座</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250715-00/?p=111381</link>
+      <description>【It is not uncommon for Microsoft employees who are aficionados of arcade video games to set up a unit in free play mode in a public space for anyone to play. For example, the Habitrail in the Building 16-18 complex】对于街机视频游戏的狂热者来说，Microsoft员工在公共场所以免费游戏模式设置单元供任何人玩游戏并不少见。例如，大楼16-18综合大楼的栖息地</description>
+      <pubDate>Tue, 15 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code - July 2025 Release】Visual Studio代码中的Python- 2025年7月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release</link>
-      <description>【We&#39;re excited to announce the July 2025 release of the Python, Pylance and Jupyter ext】我们很高兴宣布2025年7月发布Python，Pylance和Jupyter Ext</description>
-      <pubDate>Fri, 11 Jul 2025 14:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customize AI responses from GitHub Copilot】从GitHub Copilot自定义AI响应</title>
-      <link>https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot</link>
-      <description>【GitHub Copilot along with its various models are capable of some amazing things. When in Agent mode the AI can create parts of or even entire applications from your written (or spoken!) instructions. You can just feel the vibes (coding), can&#39;t you? [alert type=&#34;note&#34; heading=&#34;Note&#34;]GitHub Copilot Agent mode is more than code completi】Github Copilot及其各种模型都能做出一些惊人的事情。在代理模式下，AI可以通过您的书面（或口语！）说明创建或什至全部应用程序的一部分。您可以感觉到共鸣（编码），不是吗？ [警报类型=“ note” heading =“ note”] github副代理模式不仅仅是代码完成</description>
-      <pubDate>Thu, 10 Jul 2025 17:15:00 +0000</pubDate>
+      <title>【Power Platform API and SDKs: From UX-First to API-First】电源平台API和SDK：从UX-First到API-First</title>
+      <link>https://devblogs.microsoft.com/powerplatform/power-platform-api-and-sdks-from-ux-first-to-api-first</link>
+      <description>【Historically, Power Platform has empowered administrators through the Power Platform Admin Center (PPAC). This UX-first experience offered a seamless, intuitive interface for managing environments, automating everyday tasks, and discovering new capabilities within the platform. Today, we’re taking a bold step forward. We’re tran】从历史上看，Power Platform通过Power Platform Admin Center（PPAC）授权管理员。这种UX优先的体验提供了一个无缝，直观的界面，用于管理环境，自动化日常任务以及在平台内发现新功能。今天，我们迈出了大胆的一步。我们是Tran</description>
+      <pubDate>Tue, 15 Jul 2025 17:38:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
