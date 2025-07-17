@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Enhancing Code Quality at Scale with AI-Powered Code Reviews】通过AI驱动的代码评论提高代码质量</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-code-quality-at-scale-with-ai-powered-code-reviews</link>
-      <description>【At Microsoft, we are constantly looking for ways to improve developer productivity and code quality. One of our most impactful innovations in this space is AI-powered code review assistant — an AI tool that augments pull request (PR) reviews. This AI Assistant started as an internal experiment and now has scaled to suppor】在微软，我们一直在寻找提高开发人员生产率和代码质量的方法。我们在该领域最有影响力的创新之一是AI驱动的代码审查助理 - 一种AI工具，可增强拉力请求（PR）评论。这位AI助手最初是作为内部实验，现在已经扩大了</description>
-      <pubDate>Mon, 14 Jul 2025 15:21:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Cosmos DB in Microsoft Fabric (Preview) with New Capabilities!】在Microsoft Fabric（预览）中宣布具有新功能的Cosmos DB！</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-cosmos-db-in-microsoft-fabric-preview-with-new-capabilities</link>
-      <description>【We’re excited to unveil the open Public Preview of Cosmos DB in Microsoft Fabric, now available to all users! Since our initial announcement at Microsoft Build 2025, we’ve introduced an array of powerful new features to enhance your data workflows.】我们很高兴揭开Microsoft Fabric中Cosmos DB的公开预览，现在可供所有用户使用！自从我们在Microsoft Build 2025的最初公告以来，我们引入了一系列强大的新功能，以增强您的数据工作流程。</description>
-      <pubDate>Mon, 14 Jul 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【There is a &lt;CODE&gt;std::&lt;WBR&gt;chrono::&lt;WBR&gt;high_&lt;WBR&gt;resolution_&lt;WBR&gt;clock&lt;/CODE&gt;, but no &lt;CODE&gt;low_&lt;WBR&gt;resolution_&lt;WBR&gt;clock&lt;/CODE&gt;】有一个&lt;code&gt; std :: &lt;wbr&gt; chrono :: &lt;wbr&gt; high_ &lt;wbr&gt; stolution_ &lt;wbr&gt;时钟&lt;/code&gt;，但没有&lt;code&gt; low_ &lt;wbr&gt; stolution_ &lt;wbr&gt; colkect &lt;/code&gt; clock &lt;/code&gt;</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250714-00/?p=111375</link>
-      <description>【The C++ standard provides a std::chrono::high_resolution_clock which provides the implementation&#39;s clock with the smallest tick period. This gives you the best resolution available to the implementation. But what if you don&#39;t need the best resolution available to the implementation? For examp】C ++标准提供了一个std :: Chrono :: High_resolution_clock，该clock为实现时钟提供了最小的刻度周期。这为您提供了实施的最佳分辨率。但是，如果您不需要实施的最佳分辨率怎么办？对于Examp</description>
-      <pubDate>Mon, 14 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Updates to Warning Suppressions in Microsoft C++ Code Analysis】Microsoft C ++代码分析中警告抑制的更新</title>
       <link>https://devblogs.microsoft.com/cppblog/updates-to-warning-suppressions-in-microsoft-c-code-analysis</link>
       <description>【Microsoft C++ Code Analysis is a powerful static analysis tool integrated into Visual Studio that helps you identify and fix potential issues in your C++ code. Large projects require effective management of analysis warnings to maintain code quality and you sometimes need to suppress warnings, but must do so in a clear and auditable way.】Microsoft C ++代码分析是一种集成到Visual Studio中的功能强大的静态分析工具，可帮助您识别和修复C ++代码中的潜在问题。大型项目需要有效管理分析警告以维持代码质量，有时您需要抑制警告，但必须以清晰可视化的方式进行警告。</description>
       <pubDate>Tue, 15 Jul 2025 18:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building Your First MCP Server with .NET and Publishing to NuGet】使用.NET构建您的第一台MCP服务器并发布到Nuget</title>
-      <link>https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart</link>
-      <description>【Want to extend AI assistants with custom capabilities? In this post, we&#39;ll show you how to build a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet — making your AI tools discoverable and reusable by the entire .NET community. We&#39;ll also show you some new features we&#39;ve added to .NET 10 and NuGet to support this, and】是否想通过自定义功能扩展AI助手？在这篇文章中，我们将向您展示如何使用.NET 10构建模型上下文协议（MCP）服务器并将其发布给Nuget，这使您的AI工具可在整个.NET社区中发现和重复使用。我们还将向您展示一些我们添加到.NET 10和Nuget的新功能以支持此功能，并且</description>
-      <pubDate>Tue, 15 Jul 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Supercharge your EWS migration with AI and GitHub Copilot】用AI和GitHub Copilot增强EWS迁移</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/supercharge-your-ews-migration-with-ai-and-github-copilot</link>
-      <description>【Are you running apps on Exchange Web Services (EWS)? With EWS support ending in October 2026, this is the perfect time to modernize. We’re excited to announce a new hands-on tutorial that helps you accelerate migrations from EWS to Microsoft Graph, using AI tools you already have access to. This tutorial】您是否在Exchange Web Services（EWS）上运行应用程序？随着EWS的支持在2026年10月结束，这是现代化的理想时机。我们很高兴宣布一个新的动手教程，该教程可帮助您使用已经可以访问的AI工具加速从EWS到Microsoft Graph的迁移。本教程</description>
-      <pubDate>Mon, 14 Jul 2025 17:53:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10 Preview 6 is now available!】.NET 10预览6现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6</link>
-      <description>【Today, we are excited to announce the sixth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 6&#34; url=&#34;https://get.d】今天，我们很高兴宣布.NET 10的第六次预览版本，并在.NET运行时，SDK，Libraries，C＃，ASP.NET Core，Blazor，.Net Maui等增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览6” url =“ https：//get.d</description>
-      <pubDate>Tue, 15 Jul 2025 17:22:00 +0000</pubDate>
     </item>
     <item>
       <title>【Extension concerns when replacing the OS disk】更换OS磁盘时的扩展问题</title>
@@ -52,16 +16,52 @@
       <pubDate>Tue, 15 Jul 2025 17:28:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Perhaps not a recommended usage for an emergency power outlet】也许不是建议使用紧急电源插座</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250715-00/?p=111381</link>
-      <description>【It is not uncommon for Microsoft employees who are aficionados of arcade video games to set up a unit in free play mode in a public space for anyone to play. For example, the Habitrail in the Building 16-18 complex】对于街机视频游戏的狂热者来说，Microsoft员工在公共场所以免费游戏模式设置单元供任何人玩游戏并不少见。例如，大楼16-18综合大楼的栖息地</description>
-      <pubDate>Tue, 15 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Microsoft and LangChain4j: A Partnership for Secure, Enterprise-Grade Java AI Applications】Microsoft和Langchain4J：安全的企业级Java AI应用程序的合作伙伴关系</title>
+      <link>https://devblogs.microsoft.com/java/microsoft-and-langchain4j-a-partnership-for-secure-enterprise-grade-java-ai-applications</link>
+      <description>【】</description>
+      <pubDate>Wed, 16 Jul 2025 14:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Fundamental Failure-Mode Theorem: Systems lie about their proper functioning】基本故障模式定理：系统谎称其适当的功能</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250716-00/?p=111383</link>
+      <description>【I have on occasion referred to Le Chatelier&#39;s Principle for complex systems, as presented by John Gall in the book Systemantics: &#34;Every complex system r】我有时会提到约翰·盖尔（John Gall）在《系统主义者》一书中提出的《复杂系统的原理》：“每个复杂系统r r</description>
+      <pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【10 Microsoft MCP Servers to Accelerate Your Development Workflow】10 Microsoft MCP服务器加速您的开发工作流程</title>
+      <link>https://devblogs.microsoft.com//10-microsoft-mcp-servers-to-accelerate-your-development-workflow</link>
+      <description>【We&#39;ve been talking a lot about the Model Context Protocol (MCP) lately, including recent blog posts and sessions at Microsoft Build. In this post, I&#39;d like to share some top tips for how you can use MCP servers we&#39;ve been building to improve yo】最近，我们一直在谈论模型上下文协议（MCP），包括Microsoft Build的最新博客文章和会议。在这篇文章中，我想分享一些您如何使用我们一直在建造的MCP服务器来改善您的主要技巧</description>
+      <pubDate>Wed, 16 Jul 2025 19:30:32 +0000</pubDate>
     </item>
     <item>
       <title>【Power Platform API and SDKs: From UX-First to API-First】电源平台API和SDK：从UX-First到API-First</title>
       <link>https://devblogs.microsoft.com/powerplatform/power-platform-api-and-sdks-from-ux-first-to-api-first</link>
       <description>【Historically, Power Platform has empowered administrators through the Power Platform Admin Center (PPAC). This UX-first experience offered a seamless, intuitive interface for managing environments, automating everyday tasks, and discovering new capabilities within the platform. Today, we’re taking a bold step forward. We’re tran】从历史上看，Power Platform通过Power Platform Admin Center（PPAC）授权管理员。这种UX优先的体验提供了一个无缝，直观的界面，用于管理环境，自动化日常任务以及在平台内发现新功能。今天，我们迈出了大胆的一步。我们是Tran</description>
       <pubDate>Tue, 15 Jul 2025 17:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building Your First MCP Server with .NET and Publishing to NuGet】使用.NET构建您的第一台MCP服务器并发布到Nuget</title>
+      <link>https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart</link>
+      <description>【Want to extend AI assistants with custom capabilities? In this post, we&#39;ll show you how to build a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet — making your AI tools discoverable and reusable by the entire .NET community. We&#39;ll also show you some new features we&#39;ve added to .NET 10 and NuGet to support this, and】是否想通过自定义功能扩展AI助手？在这篇文章中，我们将向您展示如何使用.NET 10构建模型上下文协议（MCP）服务器并将其发布给Nuget，这使您的AI工具可在整个.NET社区中发现和重复使用。我们还将向您展示一些我们添加到.NET 10和Nuget的新功能以支持此功能，并且</description>
+      <pubDate>Tue, 15 Jul 2025 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bring your own agents into Microsoft 365 Copilot】将自己的代理商带入Microsoft 365 Copilot</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/bring-your-own-agents-into-microsoft-365-copilot</link>
+      <description>【Custom Engine Agents now generally available—build and integrate your own AI into the flow of work Microsoft 365 Copilot is redefining how people interact with AI—embedding it directly into the flow of work as the intuitive, natural interface for agents: the ‘UI for AI’ As Copilot becomes the interface for】自定义发动机代理现在通常可用 - 建立并将自己的AI集成到Microsoft 365 Copilot的工作流程中，正在重新定义人们与AI的互动方式 - 将其直接插入工作流中，作为代理的直观，自然界面：“ ui for AI”作为副cop的copilot成为copilot的界面。</description>
+      <pubDate>Wed, 16 Jul 2025 16:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Perhaps not a recommended usage for an emergency power outlet】也许不是建议使用紧急电源插座</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250715-00/?p=111381</link>
+      <description>【It is not uncommon for Microsoft employees who are aficionados of arcade video games to set up a unit in free play mode in a public space for anyone to play. For example, the Habitrail in the Building 16-18 complex】对于街机视频游戏的狂热者来说，Microsoft员工在公共场所以免费游戏模式设置单元供任何人玩游戏并不少见。例如，大楼16-18综合大楼的栖息地</description>
+      <pubDate>Tue, 15 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 6 is now available!】.NET 10预览6现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6</link>
+      <description>【Today, we are excited to announce the sixth preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 6&#34; url=&#34;https://get.d】今天，我们很高兴宣布.NET 10的第六次预览版本，并在.NET运行时，SDK，Libraries，C＃，ASP.NET Core，Blazor，.Net Maui等增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览6” url =“ https：//get.d</description>
+      <pubDate>Tue, 15 Jul 2025 17:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
