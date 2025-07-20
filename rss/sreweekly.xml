@@ -4,10 +4,16 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
-      <title>【SRE Weekly Issue #481】SRE周刊＃481</title>
-      <link>https://sreweekly.com/sre-weekly-issue-481/</link>
-      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On [&amp;#8230;]】在sreweekly.com上查看我们的赞助商Pagerduty的消息：需要Slack-Native E2E事件管理吗？ Pagerduty提供！自动事件工作流程设置了松弛频道？ ✅事件角色和内置命令？ ✅提供实时客户影响的AI驱动聊天？ ✅现在所有付费的Pagerduty计划可用。 https://fnf.dev/4dz5v36 Google Cloud Platform事件，2025年6月12日在[…]上</description>
-      <pubDate>Mon, 16 Jun 2025 01:22:03 +0000</pubDate>
+      <title>【SRE Weekly Issue #484】SRE周刊＃484</title>
+      <link>https://sreweekly.com/sre-weekly-issue-484/</link>
+      <description>【View on sreweekly.com Exact Code Search: Find code faster across repositories This is really neat! They&amp;#8217;ve developed a new approach to search that uses 3-letter &amp;#8220;trigrams&amp;#8221; rather than tokenizing words, making it especially well-suited to code search. It converts regular expressions to trigram searches behind the scenes. &amp;#160;&amp;#160;Dmitry Gruzd &amp;#8212; GitLab Pattern machines that we [&amp;#8230;]】在Sreweekly.com上查看精确代码搜索：在存储库中更快地查找代码，这真的很整洁！他们开发了一种新的搜索方法，该方法使用了3个字母的“ Trigrams”而不是象征性的单词，从而特别适合代码搜索。它将正则表达式转换为幕后的Trigram搜索。   Dmitry Gruzd  - 我们[…]的GitLab模式机器</description>
+      <pubDate>Mon, 07 Jul 2025 01:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Weekly Issue #482】SRE周刊＃482</title>
+      <link>https://sreweekly.com/sre-weekly-issue-482/</link>
+      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Incidents move fast. But you’ll never get left behind with PagerDuty’s GenAI incident response assistant, available in all paid plans. Get instant business impact analysis, troubleshooting steps, and auto-drafted status updates—directly in Slack. Stop context-switching, start resolving faster. https://fnf.dev/4dZ5V36 Service Disruption on multiple Salesforce services on [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的消息：事件快速移动。但是，您永远不会被Pagerduty的Genai事件响应助理留下来，这些响应助理在所有付费计划中都可以使用。立即进行业务影响分析，故障排除步骤和自动放牧状态更新，直接在Slack中。停止上下文切换，开始更快地解决。 https://fnf.dev/4dz5v36在[…]上多个Salesforce服务上的服务中断</description>
+      <pubDate>Mon, 23 Jun 2025 02:48:32 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Weekly Issue #485】SRE周刊＃485</title>
@@ -22,16 +28,10 @@
       <pubDate>Mon, 30 Jun 2025 02:33:04 +0000</pubDate>
     </item>
     <item>
-      <title>【SRE Weekly Issue #484】SRE周刊＃484</title>
-      <link>https://sreweekly.com/sre-weekly-issue-484/</link>
-      <description>【View on sreweekly.com Exact Code Search: Find code faster across repositories This is really neat! They&amp;#8217;ve developed a new approach to search that uses 3-letter &amp;#8220;trigrams&amp;#8221; rather than tokenizing words, making it especially well-suited to code search. It converts regular expressions to trigram searches behind the scenes. &amp;#160;&amp;#160;Dmitry Gruzd &amp;#8212; GitLab Pattern machines that we [&amp;#8230;]】在Sreweekly.com上查看精确代码搜索：在存储库中更快地查找代码，这真的很整洁！他们开发了一种新的搜索方法，该方法使用了3个字母的“ Trigrams”而不是象征性的单词，从而特别适合代码搜索。它将正则表达式转换为幕后的Trigram搜索。   Dmitry Gruzd  - 我们[…]的GitLab模式机器</description>
-      <pubDate>Mon, 07 Jul 2025 01:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #482】SRE周刊＃482</title>
-      <link>https://sreweekly.com/sre-weekly-issue-482/</link>
-      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Incidents move fast. But you’ll never get left behind with PagerDuty’s GenAI incident response assistant, available in all paid plans. Get instant business impact analysis, troubleshooting steps, and auto-drafted status updates—directly in Slack. Stop context-switching, start resolving faster. https://fnf.dev/4dZ5V36 Service Disruption on multiple Salesforce services on [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Pagerduty的消息：事件快速移动。但是，您永远不会被Pagerduty的Genai事件响应助理留下来，这些响应助理在所有付费计划中都可以使用。立即进行业务影响分析，故障排除步骤和自动放牧状态更新，直接在Slack中。停止上下文切换，开始更快地解决。 https://fnf.dev/4dz5v36在[…]上多个Salesforce服务上的服务中断</description>
-      <pubDate>Mon, 23 Jun 2025 02:48:32 +0000</pubDate>
+      <title>【SRE Weekly Issue #481】SRE周刊＃481</title>
+      <link>https://sreweekly.com/sre-weekly-issue-481/</link>
+      <description>【View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On [&amp;#8230;]】在sreweekly.com上查看我们的赞助商Pagerduty的消息：需要Slack-Native E2E事件管理吗？ Pagerduty提供！自动事件工作流程设置了松弛频道？ ✅事件角色和内置命令？ ✅提供实时客户影响的AI驱动聊天？ ✅现在所有付费的Pagerduty计划可用。 https://fnf.dev/4dz5v36 Google Cloud Platform事件，2025年6月12日在[…]上</description>
+      <pubDate>Mon, 16 Jun 2025 01:22:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
