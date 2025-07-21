@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Content Independence Day: no AI crawl without compensation!】内容独立日：没有补偿就不让AI抓取！</title>
-      <link>https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/</link>
-      <description>【 It’s Content Independence Day: Cloudflare, along with a majority of the world&#39;s leading publishers and AI companies, is changing the default to block AI crawlers unless they pay creators for content. 】 It’s Content Independence Day: Cloudflare, along with a majority of the world&#39;s leading publishers and AI companies, is changing the default to block AI crawlers unless they pay creators for content. </description>
-      <pubDate>Tue, 01 Jul 2025 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Explore your Cloudflare data with Python notebooks, powered by marimo】使用 Python 笔记本探索您的 Cloudflare 数据，由 marimo 提供支持</title>
-      <link>https://blog.cloudflare.com/marimo-cloudflare-notebooks/</link>
-      <description>【 We’ve partnered with marimo to bring their best-in-class Python notebook experience to your Cloudflare data. 】 We’ve partnered with marimo to bring their best-in-class Python notebook experience to your Cloudflare data. </description>
-      <pubDate>Wed, 16 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 1)】闪电侠v2：全球分布式键值存储的演进（第一部分）</title>
-      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-1/</link>
-      <description>【 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  】 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  </description>
-      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Hyper-volumetric DDoS attacks skyrocket: Cloudflare’s 2025 Q2 DDoS threat report】超体积DDoS攻击激增：Cloudflare 2025年第二季度DDoS威胁报告</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q2/</link>
-      <description>【 June was the busiest month for DDoS attacks in 2025 Q2, accounting for nearly 38% of all observed activity. 】 June was the busiest month for DDoS attacks in 2025 Q2, accounting for nearly 38% of all observed activity. </description>
-      <pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The crawl before the fall… of referrals: understanding AI’s impact on content providers】跌倒前的爬行……推荐的衰落：理解人工智能对内容提供者的影响</title>
-      <link>https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/</link>
-      <description>【 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; 】 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; </description>
-      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare recognized as a Visionary in 2025 Gartner® Magic Quadrant™ for SASE Platforms】Cloudflare 在 2025 年 Gartner® Magic Quadrant™ SASE 平台中被列为愿景者</title>
-      <link>https://blog.cloudflare.com/cloudflare-sase-gartner-magic-quadrant-2025/</link>
-      <description>【 Gartner has recognized Cloudflare as a Visionary in the 2025 Gartner® Magic Quadrant™ for SASE Platforms report. 】 Gartner has recognized Cloudflare as a Visionary in the 2025 Gartner® Magic Quadrant™ for SASE Platforms report. </description>
-      <pubDate>Tue, 15 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 2)】闪电侠v2：全球分布式键值存储的演进（第2部分）</title>
       <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-2-of-2/</link>
-      <description>【 This is part two of a story about how we overcame the challenges of making a complex system more scalable. 】这是关于如何克服使复杂系统更具可扩展性挑战的故事的第二部分。</description>
+      <description>【 This is part two of a story about how we overcame the challenges of making a complex system more scalable. 】这是关于我们将复杂系统变得更可扩展的挑战克服过程的第二部分。</description>
       <pubDate>Thu, 17 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing simple and secure egress policies by hostname in Cloudflare’s SASE platform】通过主机名在Cloudflare的SASE平台上引入简单且安全的出站策略</title>
-      <link>https://blog.cloudflare.com/egress-policies-by-hostname/</link>
-      <description>【 Cloudflare&#39;s SASE platform now offers egress policies by hostname, domain, content category, and application in open beta. 】Cloudflare 的 SASE 平台现在在公开测试版中提供按主机名、域名、内容类别和应用程序的出口策略。</description>
-      <pubDate>Mon, 07 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare 1.1.1.1 incident on July 14, 2025】2025年7月14日Cloudflare 1.1.1.1事件</title>
-      <link>https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/</link>
-      <description>【 July 14th, 2025, Cloudflare made a change to our service topologies that caused an outage for 1.1.1.1 on the edge, causing downtime for 62 minutes for customers using the 1.1.1.1 public DNS Resolver. 】2025年7月14日，Cloudflare对其服务拓扑进行了更改，导致边缘上的1.1.1.1出现中断，使用1.1.1.1公共DNS解析器的客户因此经历了62分钟的停机时间。</description>
-      <pubDate>Tue, 15 Jul 2025 15:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【How TimescaleDB helped us scale analytics and reporting】时间序列数据库如何帮助我们扩展分析和报告</title>
       <link>https://blog.cloudflare.com/timescaledb-art/</link>
       <description>【 Cloudflare chose TimescaleDB to power its Digital Experience Monitoring and Zero Trust Analytics products.  】Cloudflare选择TimescaleDB来支持其数字体验监控和零信任分析产品。</description>
       <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Content Independence Day: no AI crawl without compensation!】内容独立日：没有补偿，不许AI抓取！</title>
+      <link>https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/</link>
+      <description>【 It’s Content Independence Day: Cloudflare, along with a majority of the world&#39;s leading publishers and AI companies, is changing the default to block AI crawlers unless they pay creators for content. 】这是内容独立日：Cloudflare，以及世界上大多数领先的出版商和人工智能公司，正在将默认设置更改为阻止人工智能爬虫，除非它们为内容支付给创作者。</description>
+      <pubDate>Tue, 01 Jul 2025 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing simple and secure egress policies by hostname in Cloudflare’s SASE platform】通过主机名在Cloudflare的SASE平台上引入简单且安全的出站策略</title>
+      <link>https://blog.cloudflare.com/egress-policies-by-hostname/</link>
+      <description>【 Cloudflare&#39;s SASE platform now offers egress policies by hostname, domain, content category, and application in open beta. 】Cloudflare的SASE平台现在在公开测试版中提供了基于主机名、域名、内容类别和应用的出站策略。</description>
+      <pubDate>Mon, 07 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Hyper-volumetric DDoS attacks skyrocket: Cloudflare’s 2025 Q2 DDoS threat report】超体积DDoS攻击激增：Cloudflare 2025年第二季度DDoS威胁报告</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q2/</link>
+      <description>【 June was the busiest month for DDoS attacks in 2025 Q2, accounting for nearly 38% of all observed activity. 】6月是2025年第二季度DDoS攻击最繁忙的月份，占所有观察到活动的近38%。</description>
+      <pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The crawl before the fall… of referrals: understanding AI’s impact on content providers】跌倒前的爬行……推荐的影响力：了解人工智能对内容提供者的影响</title>
+      <link>https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/</link>
+      <description>【 Cloudflare Radar now shows how often a given AI model sends traffic to a site relative to how often it crawls that site. This helps site owners make decisions about which AI bots to allow or block.&#xA; 】Cloudflare Radar现在显示给定AI模型相对于该网站的爬取频率，向该网站发送流量的频率。这有助于网站所有者决定允许或阻止哪些AI机器人。</description>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare recognized as a Visionary in 2025 Gartner® Magic Quadrant™ for SASE Platforms】Cloudflare 被列为 2025 年 Gartner® 魔法象限™ SASE 平台的愿景者</title>
+      <link>https://blog.cloudflare.com/cloudflare-sase-gartner-magic-quadrant-2025/</link>
+      <description>【 Gartner has recognized Cloudflare as a Visionary in the 2025 Gartner® Magic Quadrant™ for SASE Platforms report. 】Gartner在2025年Gartner® Magic Quadrant™ for SASE Platforms报告中将Cloudflare列为愿景者。</description>
+      <pubDate>Tue, 15 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 1)】闪电侠v2：全球分布式键值存储的演进（第一部分）</title>
+      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-1/</link>
+      <description>【 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  】这篇博文是系列文章的第一篇，我们将分享重新设计Quicksilver——Cloudflare的分布式键值存储系统——的历程，该系统每秒在全球范围内处理超过30亿个键。</description>
+      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Explore your Cloudflare data with Python notebooks, powered by marimo】使用 Python 笔记本探索您的 Cloudflare 数据，由 marimo 提供支持</title>
+      <link>https://blog.cloudflare.com/marimo-cloudflare-notebooks/</link>
+      <description>【 We’ve partnered with marimo to bring their best-in-class Python notebook experience to your Cloudflare data. 】我们已与 marimo 合作，将他们一流的 Python 笔记本体验带到您的 Cloudflare 数据中。</description>
+      <pubDate>Wed, 16 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare 1.1.1.1 incident on July 14, 2025】2025年7月14日Cloudflare 1.1.1.1事件</title>
+      <link>https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/</link>
+      <description>【 July 14th, 2025, Cloudflare made a change to our service topologies that caused an outage for 1.1.1.1 on the edge, causing downtime for 62 minutes for customers using the 1.1.1.1 public DNS Resolver. 】2025年7月14日，Cloudflare对其服务拓扑进行了更改，导致边缘的1.1.1.1出现中断，使用1.1.1.1公共DNS解析器的客户因此出现了62分钟的停机时间。</description>
+      <pubDate>Tue, 15 Jul 2025 15:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

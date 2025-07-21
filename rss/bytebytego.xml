@@ -11,10 +11,40 @@
       <pubDate>Wed, 02 Jul 2025 15:50:25 +0000</pubDate>
     </item>
     <item>
-      <title>【A Guide to Database Replication: Key Concepts and Strategies】数据库复制指南：关键概念和策略</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-database-replication-key</link>
-      <description>【We will cover single-leader, multi-leader, and leaderless replication models, breaking down how each works, what problems they solve, and where they fall apart.】我们将介绍单个领导者，多领导者和无领导者复制模型，分解每个人的工作方式，他们解决的问题以及它们崩溃的位置。</description>
-      <pubDate>Thu, 03 Jul 2025 15:31:05 +0000</pubDate>
+      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
+      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
+      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
+      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
+      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
+      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
+      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide to Database Sharding: Key Strategies】数据库碎片指南：关键策略</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-database-sharding-key</link>
+      <description>【This article looks at the fundamentals of database sharding. We cover details like why it matters, how it works, and what trade-offs come with it. We&amp;#8217;ll walk through common sharding strategies and practical engineering considerations.】本文着眼于数据库碎片的基础。我们涵盖了详细信息，例如它的重要性，运作方式以及随之而来的权衡。我们将介绍常见的碎片策略和实践工程考虑。</description>
+      <pubDate>Thu, 17 Jul 2025 15:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Tinder’s API Gateway Handles A Billion Swipes Per Day】Tinder的API门户每天如何处理十亿美元</title>
+      <link>https://blog.bytebytego.com/p/how-tinders-api-gateway-handles-a</link>
+      <description>【Tinder operates globally. Real user traffic pours in from over 190 countries. So does bad traffic that includes bots, scrapers, and abuse attempts.】火种在全球运作。真正的用户流量来自190多个国家 /地区。包括机器人，刮板和滥用尝试的不良流量也是如此。</description>
+      <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
+      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
+      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
+      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack</link>
+      <description>【GenAI refers to systems capable of creating new content, such as text, images, code, or music, by learning patterns from existing data.】Genai是指能够通过从现有数据中学习模式来创建新内容，例如文本，图像，代码或音乐。</description>
+      <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
       <title>【How Spotify Uses GenAI and ML to Annotate a Hundred Million Tracks】Spotify如何使用Genai和ML注释一亿首曲目</title>
@@ -29,40 +59,10 @@
       <pubDate>Sat, 05 Jul 2025 15:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
-      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
-      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
-      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
-      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
-      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
-      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
-      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
-      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
-      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Tinder’s API Gateway Handles A Billion Swipes Per Day】Tinder的API门户每天如何处理十亿美元</title>
-      <link>https://blog.bytebytego.com/p/how-tinders-api-gateway-handles-a</link>
-      <description>【Tinder operates globally. Real user traffic pours in from over 190 countries. So does bad traffic that includes bots, scrapers, and abuse attempts.】火种在全球运作。真正的用户流量来自190多个国家 /地区。包括机器人，刮板和滥用尝试的不良流量也是如此。</description>
-      <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Database Sharding: Key Strategies】数据库碎片指南：关键策略</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-database-sharding-key</link>
-      <description>【This article looks at the fundamentals of database sharding. We cover details like why it matters, how it works, and what trade-offs come with it. We&amp;#8217;ll walk through common sharding strategies and practical engineering considerations.】本文着眼于数据库碎片的基础。我们涵盖了详细信息，例如它的重要性，运作方式以及随之而来的权衡。我们将介绍常见的碎片策略和实践工程考虑。</description>
-      <pubDate>Thu, 17 Jul 2025 15:30:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack</link>
-      <description>【GenAI refers to systems capable of creating new content, such as text, images, code, or music, by learning patterns from existing data.】Genai是指能够通过从现有数据中学习模式来创建新内容，例如文本，图像，代码或音乐。</description>
-      <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
+      <title>【A Guide to Database Replication: Key Concepts and Strategies】数据库复制指南：关键概念和策略</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-database-replication-key</link>
+      <description>【We will cover single-leader, multi-leader, and leaderless replication models, breaking down how each works, what problems they solve, and where they fall apart.】我们将介绍单个领导者，多领导者和无领导者复制模型，分解每个人的工作方式，他们解决的问题以及它们崩溃的位置。</description>
+      <pubDate>Thu, 03 Jul 2025 15:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
