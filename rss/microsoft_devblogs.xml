@@ -4,40 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Microsoft and LangChain4j: A Partnership for Secure, Enterprise-Grade Java AI Applications】Microsoft和Langchain4J：安全的企业级Java AI应用程序的合作伙伴关系</title>
-      <link>https://devblogs.microsoft.com/java/microsoft-and-langchain4j-a-partnership-for-secure-enterprise-grade-java-ai-applications</link>
-      <description>【】</description>
-      <pubDate>Wed, 16 Jul 2025 14:58:12 +0000</pubDate>
+      <title>【Guest Blog: Building Multi-Agent Solutions with Semantic Kernel and A2A Protocol】来宾博客：使用语义内核和A2A协议构建多代理解决方案</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-building-multi-agent-solutions-with-semantic-kernel-and-a2a-protocol</link>
+      <description>【In the rapidly evolving landscape of AI application development, the ability to orchestrate multiple intelligent agents has become crucial for building sophisticated, enterprise-grade solutions. While individual AI agents excel at specific tasks, complex business scenarios often require coordination between specialized agents running on differ】在AI应用程序开发的快速发展的景观中，协调多种智能代理的能力对于建立复杂的企业级解决方案至关重要。虽然单个AI代理在特定任务上表现出色，但复杂的业务场景通常需要在奔跑的专用代理之间进行协调</description>
+      <pubDate>Mon, 21 Jul 2025 08:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Command GitHub&#39;s Coding Agent from VS Code】命令GitHub的编码代理来自VS代码</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/command-github&#39;s-coding-agent-from-vs-code</link>
-      <description>【VS Code&#39;s integration with GitHub Copilot Coding Agent allows you to delegate tasks to the agent and let it handle them in the background. Read the full article】VS代码与GitHub Copilot编码代理的集成使您可以将任务委托给代理，并让其在后台处理它们。阅读全文</description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <title>【Integration testing for Go applications using Testcontainers and containerized databases】使用TestContainers和容器化数据库为GO应用程序进行集成测试</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/integration-testing-for-go-applications-using-testcontainers-and-containerized-databases</link>
+      <description>【Integration testing has always presented a fundamental challenge: how do you test your application against real dependencies without the complexity of managing external services? Traditional approaches often involve either mocking dependencies (which can miss integration issues) or maintaining separate test environments (which can be expensive】集成测试始终提出了一个基本挑战：您如何在不管理外部服务的复杂性的情况下测试针对真实依赖的应用程序？传统方法通常涉及嘲笑依赖项（可能会错过集成问题）或保持单独的测试环境（这可能很昂贵）</description>
+      <pubDate>Mon, 21 Jul 2025 15:55:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Build reliable Go applications: Configuring Azure Cosmos DB Go SDK for real-world scenarios】构建可靠的GO应用程序：为真实情况配置Azure Cosmos DB GO SDK</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/build-reliable-go-applications-configuring-azure-cosmos-db-go-sdk-for-real-world-scenarios</link>
-      <description>【When building applications that interact with databases, developers frequently encounter scenarios where default SDK configurations don&#39;t align with their specific operational requirements. They need to customize SDK behavior to address real-world challenges like network instability, performance bottlenecks, debugging complexity, monitoring re】当构建与数据库互动的应用程序时，开发人员经常遇到默认SDK配置与其特定操作要求不符的方案。他们需要自定义SDK行为，以应对现实世界中的挑战，例如网络不稳定性，性能瓶颈，调试复杂性，监视RE</description>
-      <pubDate>Thu, 17 Jul 2025 16:50:15 +0000</pubDate>
+      <title>【Azure Developer CLI: From Dev to Prod with One Click】Azure开发人员CLI：从开发人员到prod一键</title>
+      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-one-click</link>
+      <description>【This post walks through how to implement a &#34;build once, deploy everywhere&#34; pattern using Azure Developer CLI (azd) that provisions environment-specific infrastructure and promotes applications from dev to prod with t】这篇文章介绍了如何使用Azure Developer CLI（AZD）实施“构建一次，在任何地方部署”模式，该模式可以提供特定于环境的基础架构，并促进与T Dev一起使用T Dev的应用程序</description>
+      <pubDate>Mon, 21 Jul 2025 16:17:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Updates to Warning Suppressions in Microsoft C++ Code Analysis】Microsoft C ++代码分析中警告抑制的更新</title>
-      <link>https://devblogs.microsoft.com/cppblog/updates-to-warning-suppressions-in-microsoft-c-code-analysis</link>
-      <description>【Microsoft C++ Code Analysis is a powerful static analysis tool integrated into Visual Studio that helps you identify and fix potential issues in your C++ code. Large projects require effective management of analysis warnings to maintain code quality and you sometimes need to suppress warnings, but must do so in a clear and auditable way.】Microsoft C ++代码分析是一种集成到Visual Studio中的功能强大的静态分析工具，可帮助您识别和修复C ++代码中的潜在问题。大型项目需要有效管理分析警告以维持代码质量，有时您需要抑制警告，但必须以清晰可视化的方式进行警告。</description>
-      <pubDate>Tue, 15 Jul 2025 18:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The case of the invalid instruction exception on an instruction that should never have executed】无效的指令例外情况是无法执行的指令</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250718-00/?p=111390</link>
-      <description>【The image processing folks added specialized AVX2 versions of their code, but found that it was crashing with an illegal instruction exception. The code went something like this: void SwizzleAVX2(uint32_t* source, uint32_t* destination, uint32_t count) { ⟦ do stuff using AVX-only instructions ⟧ ⟦ such as _mm256_cv】图像处理人员添加了其代码的专门AVX2版本，但发现它正在崩溃，但具有非法指令例外。代码进行了类似的操作：void swizzleavx2（uint32_t* source，uint32_t* destinate，uint32_t count）{⟦使用AVX仅使用AVX-仅使用AVX-for Avx-mmm256_cv做事</description>
-      <pubDate>Fri, 18 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【If the Window Runtime PropertyValue is for boxing non-inspectables, why is there a PropertyValue.CreateInspectable?】如果窗口运行时属性值用于拳击非检查物，为什么有属性值。</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250717-00/?p=111388</link>
-      <description>【The Windows Runtime provides a class named Property­Value which is a helper class for boxing non-inspectables. &#34;Boxing&#34; means taking a value type and wrapping inside an object so it can be used as an object type, and in the Windows Runtime, &#34;objects&#34; are represented by the IInspectable interface. There are】Windows Runtime提供了一个名为PropertyValue的类，该类是用于拳击非观察物的助手类。 “拳击”是指在对象中使用值类型并包裹在对象中，因此可以用作对象类型，在Windows运行时，“对象”由Iinspoctable接口表示。有</description>
-      <pubDate>Thu, 17 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【What happens if C++/WinRT is unable to resume execution on a dispatcher thread?】如果C ++/WinRT无法在调度程序线程上恢复执行情况会怎样？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250721-00/?p=111396</link>
+      <description>【The C++/WinRT library provides the winrt::resume_foreground() function for resuming a coroutine on the foreground thread of a dispatcher. It supports three types of dispatchers: Windows.UI.Core.CoreDispatcher, Windows.System.DispatcherQueue, Micros】C ++/WinRT库提供了WinRT :: insume_foreground（）函数，用于在调度程序的前景线上恢复coroutine。它支持三种类型的调度程序：windows.ui.core.coredispatcher，windows.system.dispatcherqueue，micros</description>
+      <pubDate>Mon, 21 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【AI Model Promotion with dstoolkit-mlops-v2】DstoolKit-Mlops-V2的AI模型促进</title>
@@ -46,22 +34,34 @@
       <pubDate>Fri, 18 Jul 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The Fundamental Failure-Mode Theorem: Systems lie about their proper functioning】基本故障模式定理：系统谎称其适当的功能</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250716-00/?p=111383</link>
-      <description>【I have on occasion referred to Le Chatelier&#39;s Principle for complex systems, as presented by John Gall in the book Systemantics: &#34;Every complex system r】我有时会提到约翰·盖尔（John Gall）在《系统主义者》一书中提出的《复杂系统的原理》：“每个复杂系统r r</description>
-      <pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET】询问模式与代理模式 - 选择.net的合适的副本体验</title>
+      <link>https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode</link>
+      <description>【As a .NET developer, productivity and problem-solving are at the heart of your workflow. GitHub Copilot Chat offers two powerful modes, Ask Mode and Agent Mode, that can dramatically accelerate your development, but knowing when to use each is essential to getting the most out of this tool. In this post, we’ll break down the differences,】作为.NET开发人员，生产力和解决问题是您工作流程的核心。 Github Copilot聊天提供了两个强大的模式，即询问模式和代理模式，它们可以极大地加速您的开发，但是知道何时使用每个模式，对于充分利用了该工具至关重要。在这篇文章中，我们将分解差异，</description>
+      <pubDate>Mon, 21 Jul 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Bring your own agents into Microsoft 365 Copilot】将自己的代理商带入Microsoft 365 Copilot</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/bring-your-own-agents-into-microsoft-365-copilot</link>
-      <description>【Custom Engine Agents now generally available—build and integrate your own AI into the flow of work Microsoft 365 Copilot is redefining how people interact with AI—embedding it directly into the flow of work as the intuitive, natural interface for agents: the ‘UI for AI’ As Copilot becomes the interface for】自定义发动机代理现在通常可用 - 建立并将自己的AI集成到Microsoft 365 Copilot的工作流程中，正在重新定义人们与AI的互动方式 - 将其直接插入工作流中，作为代理的直观，自然界面：“ ui for AI”作为副cop的copilot成为copilot的界面。</description>
-      <pubDate>Wed, 16 Jul 2025 16:06:08 +0000</pubDate>
+      <title>【Java OpenJDK July 2025 Patch &amp; Security Update】Java OpenJDK 2025年7月补丁和安全更新</title>
+      <link>https://devblogs.microsoft.com/java/java-openjdk-july-2025-patch-security-update</link>
+      <description>【Hello Java customers! We are happy to announce the latest July 2025 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 21.0.8 OpenJDK 17.0.16 OpenJDK 11.0.28 Check our】您好Java客户！我们很高兴宣布2025年7月的最新补丁程序和安全更新版本，用于OpenJDK的Microsoft Build。立即下载并安装二进制文件。 OpenJDK 21.0.8 OpenJDK 17.0.16 OpenJDK 11.0.28检查我们</description>
+      <pubDate>Mon, 21 Jul 2025 22:07:07 +0000</pubDate>
     </item>
     <item>
-      <title>【10 Microsoft MCP Servers to Accelerate Your Development Workflow】10 Microsoft MCP服务器加速您的开发工作流程</title>
-      <link>https://devblogs.microsoft.com//10-microsoft-mcp-servers-to-accelerate-your-development-workflow</link>
-      <description>【We&#39;ve been talking a lot about the Model Context Protocol (MCP) lately, including recent blog posts and sessions at Microsoft Build. In this post, I&#39;d like to share some top tips for how you can use MCP servers we&#39;ve been building to improve yo】最近，我们一直在谈论模型上下文协议（MCP），包括Microsoft Build的最新博客文章和会议。在这篇文章中，我想分享一些您如何使用我们一直在建造的MCP服务器来改善您的主要技巧</description>
-      <pubDate>Wed, 16 Jul 2025 19:30:32 +0000</pubDate>
+      <title>【Visual Studio Code CMake Tools Extension 1.21 Release: Multi-root improvements, CMake Presets v10, and more…】Visual Studio代码CMAKE工具扩展1.21版本：多根改进，CMAKE PRESTES V10等等…</title>
+      <link>https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-1-21-release-multi-root-improvements-cmake-presets-v10-and-more</link>
+      <description>【We’re excited to announce the latest 1.21 release of the CMake Tools extension for Visual Studio Code. This update brings a host of new updates, including addressing one of our top-voted issues for multi-root improvements and adding】我们很高兴宣布最新的1.21版本的CMAKE工具扩展名用于Visual Studio Code。此更新带来了许多新的更新，包括解决我们最重要的问题之一，以进行多个重点改进和添加</description>
+      <pubDate>Mon, 21 Jul 2025 12:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The case of the invalid instruction exception on an instruction that should never have executed】无效的指令例外情况是无法执行的指令</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250718-00/?p=111390</link>
+      <description>【The image processing folks added specialized AVX2 versions of their code, but found that it was crashing with an illegal instruction exception. The code went something like this: void SwizzleAVX2(uint32_t* source, uint32_t* destination, uint32_t count) { ⟦ do stuff using AVX-only instructions ⟧ ⟦ such as _mm256_cv】图像处理人员添加了其代码的专门AVX2版本，但发现它正在崩溃，但具有非法指令例外。代码进行了类似的操作：void swizzleavx2（uint32_t* source，uint32_t* destinate，uint32_t count）{⟦使用AVX仅使用AVX-仅使用AVX-for Avx-mmm256_cv做事</description>
+      <pubDate>Fri, 18 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build Smarter with the Microsoft 365 Agents Toolkit MCP Server】使用Microsoft 365代理工具包MCP服务器构建更聪明的人</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/build-smarter-with-the-microsoft-365-agents-toolkit-mcp-server</link>
+      <description>【As AI agents become central to how we build and interact with modern productivity apps, developers need tools that are flexible, standard-based, and deeply integrated with AI. That’s where the Microsoft 365 Agents Toolkit MCP Server】随着AI代理人成为我们如何与现代生产力应用程序构建和互动的核心，开发人员需要灵活，基于标准并与AI深入集成的工具。这就是Themicrosoft 365代理工具包MCP服务器的地方</description>
+      <pubDate>Mon, 21 Jul 2025 17:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
