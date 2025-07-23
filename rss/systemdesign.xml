@@ -5,6 +5,48 @@
     <description>Download my system design playbook for free on newsletter signup</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【How DNS Works 🔥】DNS的工作原理</title>
+      <link>https://newsletter.systemdesign.one/p/what-is-a-dns-server-and-how-does-it-work</link>
+      <description>【#70: Distributed Hierarchical Database for 5.35B Users (2 Minutes)】＃70：5.35b用户的分布式层次数据库（2分钟）</description>
+      <pubDate>Fri, 02 May 2025 09:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Concurrency Is Not Parallelism 🔥】并发不是平行性🔥</title>
+      <link>https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism</link>
+      <description>【#75: Break Into Concurrency vs Parallelism (3 Minutes)】＃75：闯入并发与并行性（3分钟）</description>
+      <pubDate>Wed, 18 Jun 2025 11:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Reddit Works 🔥】Reddit的工作方式🔥</title>
+      <link>https://newsletter.systemdesign.one/p/reddit-architecture</link>
+      <description>【#76: Break Into Reddit Architecture for 100M Daily Users (5 Minutes)】＃76：每天使用1亿用户的Reddit体系结构（5分钟）</description>
+      <pubDate>Thu, 03 Jul 2025 12:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【System Design Playbook 🔥】系统设计剧本🔥</title>
+      <link>https://newsletter.systemdesign.one/p/system-design-pdf</link>
+      <description>【Download My Playbook for Free】免费下载我的剧本</description>
+      <pubDate>Fri, 23 May 2025 10:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Load Balancing Algorithms Really Work ⭐】负载平衡算法如何真正起作用⭐</title>
+      <link>https://newsletter.systemdesign.one/p/load-balancing-algorithms</link>
+      <description>【#72: Break Into Load Balancing Algorithms (3 Minutes)】＃72：闯入负载平衡算法（3分钟）</description>
+      <pubDate>Mon, 19 May 2025 11:41:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How API Gateway Actually Work ⭐】API网关如何实际工作⭐</title>
+      <link>https://newsletter.systemdesign.one/p/how-api-gateway-works</link>
+      <description>【#73: Break Into API Gateway (3 Minutes)】＃73：闯入API网关（3分钟）</description>
+      <pubDate>Thu, 29 May 2025 11:31:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How JWT Works ✨】JWT的工作原理✨</title>
+      <link>https://newsletter.systemdesign.one/p/how-jwt-works</link>
+      <description>【#71: Break Into JSON Web Token (3 Minutes)】＃71：闯入JSON Web令牌（3分钟）</description>
+      <pubDate>Sat, 10 May 2025 11:57:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Figma Scaled to 4M Users—Without Fancy Databases 🔥】无花果如何缩放到400万用户 - 没有花式数据库🔥</title>
       <link>https://newsletter.systemdesign.one/p/postgres-scale</link>
       <description>【#69: Break Into Postgres Scalability (4 Minutes)】＃69：闯入Postgres的可伸缩性（4分钟）</description>
@@ -17,52 +59,10 @@
       <pubDate>Fri, 11 Jul 2025 11:36:58 +0000</pubDate>
     </item>
     <item>
-      <title>【How Load Balancing Algorithms Really Work ⭐】负载平衡算法如何真正起作用⭐</title>
-      <link>https://newsletter.systemdesign.one/p/load-balancing-algorithms</link>
-      <description>【#72: Break Into Load Balancing Algorithms (3 Minutes)】＃72：闯入负载平衡算法（3分钟）</description>
-      <pubDate>Mon, 19 May 2025 11:41:56 +0000</pubDate>
-    </item>
-    <item>
       <title>【Everything You Need to Know About Cache Strategies ⭐】您需要了解的有关缓存策略的一切</title>
       <link>https://newsletter.systemdesign.one/p/cache-strategies</link>
       <description>【#74: A Simple Introduction to Cache Strategies (3 Minutes)】＃74：简单的缓存策略简介（3分钟）</description>
       <pubDate>Fri, 13 Jun 2025 11:52:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Reddit Works 🔥】Reddit的工作方式🔥</title>
-      <link>https://newsletter.systemdesign.one/p/reddit-architecture</link>
-      <description>【#76: Break Into Reddit Architecture for 100M Daily Users (5 Minutes)】＃76：每天使用1亿用户的Reddit体系结构（5分钟）</description>
-      <pubDate>Thu, 03 Jul 2025 12:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How DNS Works 🔥】DNS的工作原理</title>
-      <link>https://newsletter.systemdesign.one/p/what-is-a-dns-server-and-how-does-it-work</link>
-      <description>【#70: Distributed Hierarchical Database for 5.35B Users (2 Minutes)】＃70：5.35b用户的分布式层次数据库（2分钟）</description>
-      <pubDate>Fri, 02 May 2025 09:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How JWT Works ✨】JWT的工作原理✨</title>
-      <link>https://newsletter.systemdesign.one/p/how-jwt-works</link>
-      <description>【#71: Break Into JSON Web Token (3 Minutes)】＃71：闯入JSON Web令牌（3分钟）</description>
-      <pubDate>Sat, 10 May 2025 11:57:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Concurrency Is Not Parallelism 🔥】并发不是平行性🔥</title>
-      <link>https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism</link>
-      <description>【#75: Break Into Concurrency vs Parallelism (3 Minutes)】＃75：闯入并发与并行性（3分钟）</description>
-      <pubDate>Wed, 18 Jun 2025 11:46:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How API Gateway Actually Work ⭐】API网关如何实际工作⭐</title>
-      <link>https://newsletter.systemdesign.one/p/how-api-gateway-works</link>
-      <description>【#73: Break Into API Gateway (3 Minutes)】＃73：闯入API网关（3分钟）</description>
-      <pubDate>Thu, 29 May 2025 11:31:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【System Design Playbook 🔥】系统设计剧本🔥</title>
-      <link>https://newsletter.systemdesign.one/p/system-design-pdf</link>
-      <description>【Download My Playbook for Free】免费下载我的剧本</description>
-      <pubDate>Fri, 23 May 2025 10:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

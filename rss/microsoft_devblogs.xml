@@ -4,10 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Guest Blog: Building Multi-Agent Solutions with Semantic Kernel and A2A Protocol】来宾博客：使用语义内核和A2A协议构建多代理解决方案</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/guest-blog-building-multi-agent-solutions-with-semantic-kernel-and-a2a-protocol</link>
-      <description>【In the rapidly evolving landscape of AI application development, the ability to orchestrate multiple intelligent agents has become crucial for building sophisticated, enterprise-grade solutions. While individual AI agents excel at specific tasks, complex business scenarios often require coordination between specialized agents running on differ】在AI应用程序开发的快速发展的景观中，协调多种智能代理的能力对于建立复杂的企业级解决方案至关重要。虽然单个AI代理在特定任务上表现出色，但复杂的业务场景通常需要在奔跑的专用代理之间进行协调</description>
-      <pubDate>Mon, 21 Jul 2025 08:10:23 +0000</pubDate>
+      <title>【What happens if C++/WinRT is unable to resume execution on a dispatcher thread?】如果C ++/WinRT无法在调度程序线程上恢复执行情况会怎样？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250721-00/?p=111396</link>
+      <description>【The C++/WinRT library provides the winrt::resume_foreground() function for resuming a coroutine on the foreground thread of a dispatcher. It supports three types of dispatchers: Windows.UI.Core.CoreDispatcher, Windows.System.DispatcherQueue, Micros】C ++/WinRT库提供了WinRT :: insume_foreground（）函数，用于在调度程序的前景线上恢复coroutine。它支持三种类型的调度程序：windows.ui.core.coredispatcher，windows.system.dispatcherqueue，micros</description>
+      <pubDate>Mon, 21 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Being more adamant about reporting that C++/WinRT was unable to resume execution on a dispatcher thread】更坚决地报告C ++/Winrt无法在调度程序线程上恢复执行</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250722-00/?p=111400</link>
+      <description>【Last time, we saw what happens if C++/WinRT is unable to resume execution on a dispatcher thread: If you use winrt::resume_foreground with a】上次，我们看到了如果C ++/Winrt无法在调度程序线程上恢复执行会发生什么：如果您使用Winrt :: insume_foreground，则</description>
+      <pubDate>Tue, 22 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Fresh Learning Paths Now Available on Pluralsight for VS Subscribers】现在可在PluralSight上为vs订户提供新的学习路径</title>
+      <link>https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2</link>
+      <description>【We’ve been thrilled to see so many of you jump back into your Pluralsight benefit after our April 3rd announcement about extended access. Your enthusiasm for learning and leveling up with Visual Studio inspires us every day. If you】在我们4月3日关于扩展访问的公告之后，我们很高兴看到很多人重新回到您的多元化福利。您对学习和与Visual Studio升级的热情每天都会激发我们的启发。如果你</description>
+      <pubDate>Tue, 22 Jul 2025 14:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18】MCP C＃SDK获得重大更新：支持协议版本2025-06-18</title>
+      <link>https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update</link>
+      <description>【The Model Context Protocol (MCP) continues to evolve, and we&#39;re excited to announce that the MCP C# SDK now supports the latest specification version 2025-06-18. This update brings significant new capabilities to .NET developers building AI applications, including an imp】模型上下文协议（MCP）继续发展，我们很高兴宣布MCP C＃SDK现在支持最新的规范版本2025-06-18。此更新为.NET开发人员构建AI应用程序带来了重要的新功能，包括IMP</description>
+      <pubDate>Tue, 22 Jul 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Integration testing for Go applications using Testcontainers and containerized databases】使用TestContainers和容器化数据库为GO应用程序进行集成测试</title>
@@ -16,28 +34,10 @@
       <pubDate>Mon, 21 Jul 2025 15:55:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI: From Dev to Prod with One Click】Azure开发人员CLI：从开发人员到prod一键</title>
-      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-one-click</link>
-      <description>【This post walks through how to implement a &#34;build once, deploy everywhere&#34; pattern using Azure Developer CLI (azd) that provisions environment-specific infrastructure and promotes applications from dev to prod with t】这篇文章介绍了如何使用Azure Developer CLI（AZD）实施“构建一次，在任何地方部署”模式，该模式可以提供特定于环境的基础架构，并促进与T Dev一起使用T Dev的应用程序</description>
-      <pubDate>Mon, 21 Jul 2025 16:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What happens if C++/WinRT is unable to resume execution on a dispatcher thread?】如果C ++/WinRT无法在调度程序线程上恢复执行情况会怎样？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250721-00/?p=111396</link>
-      <description>【The C++/WinRT library provides the winrt::resume_foreground() function for resuming a coroutine on the foreground thread of a dispatcher. It supports three types of dispatchers: Windows.UI.Core.CoreDispatcher, Windows.System.DispatcherQueue, Micros】C ++/WinRT库提供了WinRT :: insume_foreground（）函数，用于在调度程序的前景线上恢复coroutine。它支持三种类型的调度程序：windows.ui.core.coredispatcher，windows.system.dispatcherqueue，micros</description>
-      <pubDate>Mon, 21 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI Model Promotion with dstoolkit-mlops-v2】DstoolKit-Mlops-V2的AI模型促进</title>
-      <link>https://devblogs.microsoft.com/ise/ai-model-promotion-with-dstoolkit-v2</link>
-      <description>【Introduction In a recent engagement, our team of Data Scientists and Software Engineers, developed a series of custom AI models to meet our customer&#39;s specific use case. While doing so, consideration was given to how best to allow Data Scientists the freedom to quickly experiment and iterate on model development, while also incorpora】在最近的参与度中，我们的数据科学家和软件工程师团队开发了一系列自定义AI模型，以满足客户的特定用例。在这样做的同时，考虑了如何最好地允许数据科学家快速实验和迭代模型开发的自由，同时也将</description>
-      <pubDate>Fri, 18 Jul 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET】询问模式与代理模式 - 选择.net的合适的副本体验</title>
-      <link>https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode</link>
-      <description>【As a .NET developer, productivity and problem-solving are at the heart of your workflow. GitHub Copilot Chat offers two powerful modes, Ask Mode and Agent Mode, that can dramatically accelerate your development, but knowing when to use each is essential to getting the most out of this tool. In this post, we’ll break down the differences,】作为.NET开发人员，生产力和解决问题是您工作流程的核心。 Github Copilot聊天提供了两个强大的模式，即询问模式和代理模式，它们可以极大地加速您的开发，但是知道何时使用每个模式，对于充分利用了该工具至关重要。在这篇文章中，我们将分解差异，</description>
-      <pubDate>Mon, 21 Jul 2025 17:05:00 +0000</pubDate>
+      <title>【Build Smarter with the Microsoft 365 Agents Toolkit MCP Server】使用Microsoft 365代理工具包MCP服务器构建更聪明的人</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/build-smarter-with-the-microsoft-365-agents-toolkit-mcp-server</link>
+      <description>【As AI agents become central to how we build and interact with modern productivity apps, developers need tools that are flexible, standard-based, and deeply integrated with AI. That’s where the Microsoft 365 Agents Toolkit MCP Server】随着AI代理人成为我们如何与现代生产力应用程序构建和互动的核心，开发人员需要灵活，基于标准并与AI深入集成的工具。这就是Themicrosoft 365代理工具包MCP服务器的地方</description>
+      <pubDate>Mon, 21 Jul 2025 17:00:56 +0000</pubDate>
     </item>
     <item>
       <title>【Java OpenJDK July 2025 Patch &amp; Security Update】Java OpenJDK 2025年7月补丁和安全更新</title>
@@ -52,16 +52,16 @@
       <pubDate>Mon, 21 Jul 2025 12:10:34 +0000</pubDate>
     </item>
     <item>
-      <title>【The case of the invalid instruction exception on an instruction that should never have executed】无效的指令例外情况是无法执行的指令</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250718-00/?p=111390</link>
-      <description>【The image processing folks added specialized AVX2 versions of their code, but found that it was crashing with an illegal instruction exception. The code went something like this: void SwizzleAVX2(uint32_t* source, uint32_t* destination, uint32_t count) { ⟦ do stuff using AVX-only instructions ⟧ ⟦ such as _mm256_cv】图像处理人员添加了其代码的专门AVX2版本，但发现它正在崩溃，但具有非法指令例外。代码进行了类似的操作：void swizzleavx2（uint32_t* source，uint32_t* destinate，uint32_t count）{⟦使用AVX仅使用AVX-仅使用AVX-for Avx-mmm256_cv做事</description>
-      <pubDate>Fri, 18 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET】询问模式与代理模式 - 选择.net的合适的副本体验</title>
+      <link>https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode</link>
+      <description>【As a .NET developer, productivity and problem-solving are at the heart of your workflow. GitHub Copilot Chat offers two powerful modes, Ask Mode and Agent Mode, that can dramatically accelerate your development, but knowing when to use each is essential to getting the most out of this tool. In this post, we’ll break down the differences,】作为.NET开发人员，生产力和解决问题是您工作流程的核心。 Github Copilot聊天提供了两个强大的模式，即询问模式和代理模式，它们可以极大地加速您的开发，但是知道何时使用每个模式，对于充分利用了该工具至关重要。在这篇文章中，我们将分解差异，</description>
+      <pubDate>Mon, 21 Jul 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Build Smarter with the Microsoft 365 Agents Toolkit MCP Server】使用Microsoft 365代理工具包MCP服务器构建更聪明的人</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/build-smarter-with-the-microsoft-365-agents-toolkit-mcp-server</link>
-      <description>【As AI agents become central to how we build and interact with modern productivity apps, developers need tools that are flexible, standard-based, and deeply integrated with AI. That’s where the Microsoft 365 Agents Toolkit MCP Server】随着AI代理人成为我们如何与现代生产力应用程序构建和互动的核心，开发人员需要灵活，基于标准并与AI深入集成的工具。这就是Themicrosoft 365代理工具包MCP服务器的地方</description>
-      <pubDate>Mon, 21 Jul 2025 17:00:56 +0000</pubDate>
+      <title>【Azure Developer CLI: From Dev to Prod with One Click】Azure开发人员CLI：从开发人员到prod一键</title>
+      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-one-click</link>
+      <description>【This post walks through how to implement a &#34;build once, deploy everywhere&#34; pattern using Azure Developer CLI (azd) that provisions environment-specific infrastructure and promotes applications from dev to prod with t】这篇文章介绍了如何使用Azure Developer CLI（AZD）实施“构建一次，在任何地方部署”模式，该模式可以提供特定于环境的基础架构，并促进与T Dev一起使用T Dev的应用程序</description>
+      <pubDate>Mon, 21 Jul 2025 16:17:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

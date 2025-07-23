@@ -4,10 +4,10 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
-      <title>【How to be prepared for cloud provider outages】如何为云提供商停电做好准备</title>
-      <link>https://www.gremlin.com/blog/how-to-be-prepared-for-cloud-provider-outages</link>
-      <description>【Check out these testing best practices teams should follow to minimize the impact of cloud provider outages so they don’t catch you by surprise.】查看这些测试最佳实践团队应遵循，以最大程度地减少云提供商中断的影响，这样他们就不会惊讶地吸引您。</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <title>【How a major retailer tested critical serverless systems with Failure Flags】主要零售商如何用故障标志测试关键服务器系统</title>
+      <link>https://www.gremlin.com/blog/how-a-major-retailer-tested-critical-serverless-systems-with-failure-flags</link>
+      <description>【Find out how Gremlin helped a major retailer test region failover for a critical service built on AWS Lambda using Failure Flags.】找出Gremlin如何帮助使用故障标志在AWS Lambda建立的关键服务的主要零售商测试区域故障转移。</description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Insights to keep AI applications reliable】让AI应用程序可靠的见解</title>
@@ -16,16 +16,10 @@
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Infographic: Resilience and reliability in the cloud】信息图：云中的韧性和可靠性</title>
-      <link>https://www.gremlin.com/blog/infographic-resilience-and-reliability-in-the-cloud</link>
-      <description>【Created in partnership with AWS, this infographic shows the impact of outages, the most common causes of outages, and the results companies get from investing in resilience.】该信息图与AWS合作创建，显示了中断的影响，最常见的中断原因以及公司从投资弹性中获得的结果。</description>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Three reliability best practices when using AI agents for coding】使用AI代理进行编码时，三种可靠性最佳实践</title>
-      <link>https://www.gremlin.com/blog/three-reliability-best-practices-when-using-ai-agents-for-coding</link>
-      <description>【AI agents can help developers move faster, but they can also introduce potential failures into your system. Find out best practices for reliability to keep human and AI errors from causing outages.】AI代理可以帮助开发人员更快地移动，但他们也可以将潜在的故障引入您的系统。找出可靠性的最佳实践，以防止人类和AI错误引起中断。</description>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <title>【4 Chaos Engineering recommendations from Gartner】Gartner的4个混乱工程建议</title>
+      <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
+      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner最近为基础设施平台发布了2025年的炒作周期。这是他们采用混乱工程的四个关键建议。</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Ensuring your AI systems can scale to meet demand】确保您的AI系统可以扩展以满足需求</title>
@@ -34,22 +28,16 @@
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Three reliability best practices when using AI agents for coding】使用AI代理进行编码时，三种可靠性最佳实践</title>
+      <link>https://www.gremlin.com/blog/three-reliability-best-practices-when-using-ai-agents-for-coding</link>
+      <description>【AI agents can help developers move faster, but they can also introduce potential failures into your system. Find out best practices for reliability to keep human and AI errors from causing outages.】AI代理可以帮助开发人员更快地移动，但他们也可以将潜在的故障引入您的系统。找出可靠性的最佳实践，以防止人类和AI错误引起中断。</description>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Test serverless and application-level reliability with Failure Flags】使用故障标志测试无服务器和应用程序级可靠性</title>
       <link>https://www.gremlin.com/blog/test-serverless-and-application-level-reliability-with-failure-flags</link>
       <description>【Run resilience tests at the application level in serverless, container, Kubernetes, and service mesh environments with Gremlin Failure Flags.】使用Gremlin故障标志的无服务器，容器，Kubernetes和服务网格环境中的应用程序级别运行弹性测试。</description>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How a major retailer tested critical serverless systems with Failure Flags】主要零售商如何用故障标志测试关键服务器系统</title>
-      <link>https://www.gremlin.com/blog/how-a-major-retailer-tested-critical-serverless-systems-with-failure-flags</link>
-      <description>【Find out how Gremlin helped a major retailer test region failover for a critical service built on AWS Lambda using Failure Flags.】找出Gremlin如何帮助使用故障标志在AWS Lambda建立的关键服务的主要零售商测试区域故障转移。</description>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Three key facts about serverless reliability】有关无服务器可靠性的三个关键事实</title>
-      <link>https://www.gremlin.com/blog/three-key-facts-about-serverless-reliability</link>
-      <description>【Serverless means not managing servers, but you still need to consider reliability. In our latest blog, learn why and how to build resilient serverless applications.】无服务器意味着不管理服务器，但是您仍然需要考虑可靠性。在我们的最新博客中，了解为什么以及如何构建弹性无服务器应用程序。</description>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Simulating artificial intelligence (AI) service outages with Gremlin】与Gremlin模拟人工智能（AI）服务中断</title>
@@ -58,10 +46,22 @@
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【4 Chaos Engineering recommendations from Gartner】Gartner的4个混乱工程建议</title>
-      <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
-      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner最近为基础设施平台发布了2025年的炒作周期。这是他们采用混乱工程的四个关键建议。</description>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <title>【How to be prepared for cloud provider outages】如何为云提供商停电做好准备</title>
+      <link>https://www.gremlin.com/blog/how-to-be-prepared-for-cloud-provider-outages</link>
+      <description>【Check out these testing best practices teams should follow to minimize the impact of cloud provider outages so they don’t catch you by surprise.】查看这些测试最佳实践团队应遵循，以最大程度地减少云提供商中断的影响，这样他们就不会惊讶地吸引您。</description>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Infographic: Resilience and reliability in the cloud】信息图：云中的韧性和可靠性</title>
+      <link>https://www.gremlin.com/blog/infographic-resilience-and-reliability-in-the-cloud</link>
+      <description>【Created in partnership with AWS, this infographic shows the impact of outages, the most common causes of outages, and the results companies get from investing in resilience.】该信息图与AWS合作创建，显示了中断的影响，最常见的中断原因以及公司从投资弹性中获得的结果。</description>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Three key facts about serverless reliability】有关无服务器可靠性的三个关键事实</title>
+      <link>https://www.gremlin.com/blog/three-key-facts-about-serverless-reliability</link>
+      <description>【Serverless means not managing servers, but you still need to consider reliability. In our latest blog, learn why and how to build resilient serverless applications.】无服务器意味着不管理服务器，但是您仍然需要考虑可靠性。在我们的最新博客中，了解为什么以及如何构建弹性无服务器应用程序。</description>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
