@@ -4,22 +4,16 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>使用AWS AI服务分析媒体内容</title>
-      <link>https://aws.amazon.com/blogs/architecture/analyze-media-content-using-aws-ai-services/</link>
+      <title>AWS着陆区的亚马逊基岩基线建筑</title>
+      <link>https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/</link>
       <description></description>
-      <pubDate>Mon, 02 Jun 2025 16:25:10 +0000</pubDate>
+      <pubDate>Mon, 23 Jun 2025 18:36:51 +0000</pubDate>
     </item>
     <item>
-      <title>使用AWS和生成AI简化可持续性报告</title>
-      <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
+      <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
       <description></description>
-      <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>如何赢得胜利使用AWS WAF阻止DDOS事件</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/</link>
-      <description></description>
-      <pubDate>Mon, 14 Jul 2025 19:12:38 +0000</pubDate>
+      <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
     </item>
     <item>
       <title>Stellantis如何通过AWS上的无服务器编排来简化浮动许可管理</title>
@@ -34,16 +28,22 @@
       <pubDate>Tue, 08 Jul 2025 20:37:49 +0000</pubDate>
     </item>
     <item>
+      <title>使用AWS AI服务分析媒体内容</title>
+      <link>https://aws.amazon.com/blogs/architecture/analyze-media-content-using-aws-ai-services/</link>
+      <description></description>
+      <pubDate>Mon, 02 Jun 2025 16:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用AWS和生成AI简化可持续性报告</title>
+      <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
+      <description></description>
+      <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
+    </item>
+    <item>
       <title>通过托管服务实施对亚马逊EK的监视</title>
       <link>https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/</link>
       <description></description>
       <pubDate>Fri, 18 Jul 2025 15:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>PEGA的LaunchPad如何使SaaS可扩展性使用AWS Lambda</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/</link>
-      <description></description>
-      <pubDate>Fri, 30 May 2025 18:30:49 +0000</pubDate>
     </item>
     <item>
       <title>通过无缝故障转移构建多区域AWS私有链接支持服务</title>
@@ -58,10 +58,10 @@
       <pubDate>Thu, 29 May 2025 15:10:40 +0000</pubDate>
     </item>
     <item>
-      <title>AWS着陆区的亚马逊基岩基线建筑</title>
-      <link>https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/</link>
+      <title>如何赢得胜利使用AWS WAF阻止DDOS事件</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/</link>
       <description></description>
-      <pubDate>Mon, 23 Jun 2025 18:36:51 +0000</pubDate>
+      <pubDate>Mon, 14 Jul 2025 19:12:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
