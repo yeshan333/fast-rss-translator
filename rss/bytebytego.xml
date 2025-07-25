@@ -5,16 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How Nubank Uses AI Models to Analyze Transaction Data for 100M Users】Nubank如何使用AI模型分析100m用户的交易数据</title>
-      <link>https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze</link>
-      <description>【Nubank adopted a foundation model-based approach, which has already been transforming domains like natural language processing and computer vision.】Nubank采用了一种基于基础模型的方法，该方法已经在改变自然语言处理和计算机视觉等领域。</description>
-      <pubDate>Tue, 22 Jul 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【7 Years, 8 Books, 1 Launch. A lot more to come!】7年，8本书，1个发射。还有更多！</title>
-      <link>https://blog.bytebytego.com/p/7-years-8-books-1-launch-a-lot-more</link>
-      <description>【7 Years, 8 Books, 1 Launch.】7年，8本书，1个发射。</description>
-      <pubDate>Wed, 02 Jul 2025 15:50:25 +0000</pubDate>
+      <title>【A Guide to Database Replication: Key Concepts and Strategies】数据库复制指南：关键概念和策略</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-database-replication-key</link>
+      <description>【We will cover single-leader, multi-leader, and leaderless replication models, breaking down how each works, what problems they solve, and where they fall apart.】我们将介绍单个领导者，多领导者和无领导者复制模型，分解每个人的工作方式，他们解决的问题以及它们崩溃的位置。</description>
+      <pubDate>Thu, 03 Jul 2025 15:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【EP170: All-in-One Technical Interview Prep Kit】EP170：多合一技术面试准备套件</title>
@@ -23,16 +17,16 @@
       <pubDate>Sat, 05 Jul 2025 15:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>【A Guide to Database Replication: Key Concepts and Strategies】数据库复制指南：关键概念和策略</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-database-replication-key</link>
-      <description>【We will cover single-leader, multi-leader, and leaderless replication models, breaking down how each works, what problems they solve, and where they fall apart.】我们将介绍单个领导者，多领导者和无领导者复制模型，分解每个人的工作方式，他们解决的问题以及它们崩溃的位置。</description>
-      <pubDate>Thu, 03 Jul 2025 15:31:05 +0000</pubDate>
+      <title>【How Tinder’s API Gateway Handles A Billion Swipes Per Day】Tinder的API门户每天如何处理十亿美元</title>
+      <link>https://blog.bytebytego.com/p/how-tinders-api-gateway-handles-a</link>
+      <description>【Tinder operates globally. Real user traffic pours in from over 190 countries. So does bad traffic that includes bots, scrapers, and abuse attempts.】火种在全球运作。真正的用户流量来自190多个国家 /地区。包括机器人，刮板和滥用尝试的不良流量也是如此。</description>
+      <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
     </item>
     <item>
-      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
-      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
-      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
-      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
+      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
+      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
+      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
+      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
     </item>
     <item>
       <title>【A Guide to Database Sharding: Key Strategies】数据库碎片指南：关键策略</title>
@@ -41,10 +35,16 @@
       <pubDate>Thu, 17 Jul 2025 15:30:24 +0000</pubDate>
     </item>
     <item>
-      <title>【How Tinder’s API Gateway Handles A Billion Swipes Per Day】Tinder的API门户每天如何处理十亿美元</title>
-      <link>https://blog.bytebytego.com/p/how-tinders-api-gateway-handles-a</link>
-      <description>【Tinder operates globally. Real user traffic pours in from over 190 countries. So does bad traffic that includes bots, scrapers, and abuse attempts.】火种在全球运作。真正的用户流量来自190多个国家 /地区。包括机器人，刮板和滥用尝试的不良流量也是如此。</description>
-      <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
+      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
+      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
+      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
+      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
+      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
+      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
+      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
     </item>
     <item>
       <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
@@ -53,16 +53,16 @@
       <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
-      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
-      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
-      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
+      <title>【Consistency and Partition Tolerance: Understanding CAP vs PACELC】一致性和分区耐受性：理解上限与PACELC</title>
+      <link>https://blog.bytebytego.com/p/consistency-and-partition-tolerance</link>
+      <description>【In this article, we will look at these two models as they apply to real-world database design and understand the various trade-offs involved.】在本文中，我们将研究这两个模型，因为它们适用于现实世界数据库设计，并了解所涉及的各种权衡。</description>
+      <pubDate>Thu, 24 Jul 2025 15:30:33 +0000</pubDate>
     </item>
     <item>
-      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
-      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
-      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
-      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
+      <title>【How Nubank Uses AI Models to Analyze Transaction Data for 100M Users】Nubank如何使用AI模型分析100m用户的交易数据</title>
+      <link>https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze</link>
+      <description>【Nubank adopted a foundation model-based approach, which has already been transforming domains like natural language processing and computer vision.】Nubank采用了一种基于基础模型的方法，该方法已经在改变自然语言处理和计算机视觉等领域。</description>
+      <pubDate>Tue, 22 Jul 2025 15:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,28 +4,16 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Shutdown season: the Q2 2025 Internet disruption summary】停机季节：2025年第二季度互联网中断总结</title>
-      <link>https://blog.cloudflare.com/q2-2025-internet-disruption-summary/</link>
-      <description>【 In Q2 2025, we observed Internet disruptions around the world resulting from government-directed shutdowns, power outages, cable damage, a cyberattack, and technical problems. 】 In Q2 2025, we observed Internet disruptions around the world resulting from government-directed shutdowns, power outages, cable damage, a cyberattack, and technical problems. </description>
-      <pubDate>Tue, 22 Jul 2025 13:00:00 +0000</pubDate>
+      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 2)】闪电侠v2：全球分布式键值存储的演进（第2部分）</title>
+      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-2-of-2/</link>
+      <description>【 This is part two of a story about how we overcame the challenges of making a complex system more scalable. 】这是关于如何克服使复杂系统更具可扩展性挑战的故事的第二部分。</description>
+      <pubDate>Thu, 17 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 1)】闪电侠v2：全球分布式键值存储的演进（第一部分）</title>
-      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-1/</link>
-      <description>【 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  】 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  </description>
-      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare protects against critical SharePoint vulnerability, CVE-2025-53770】Cloudflare 保护防止关键 SharePoint 漏洞 CVE-2025-53770</title>
-      <link>https://blog.cloudflare.com/cloudflare-protects-against-critical-sharepoint-vulnerability-cve-2025-53770/</link>
-      <description>【 Microsoft disclosed two critical vulnerabilities, CVE-2025-53771 and CVE-2025-53770, that are exploited to attack SharePoint servers. 】 Microsoft disclosed two critical vulnerabilities, CVE-2025-53771 and CVE-2025-53770, that are exploited to attack SharePoint servers. </description>
-      <pubDate>Tue, 22 Jul 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Explore your Cloudflare data with Python notebooks, powered by marimo】使用 Python 笔记本探索您的 Cloudflare 数据，由 marimo 提供支持</title>
-      <link>https://blog.cloudflare.com/marimo-cloudflare-notebooks/</link>
-      <description>【 We’ve partnered with marimo to bring their best-in-class Python notebook experience to your Cloudflare data. 】 We’ve partnered with marimo to bring their best-in-class Python notebook experience to your Cloudflare data. </description>
-      <pubDate>Wed, 16 Jul 2025 13:00:00 +0000</pubDate>
+      <title>【Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform】无服务器状态球：在 Cloudflare 开发者平台上构建无服务器 ATProto 应用程序的指南</title>
+      <link>https://blog.cloudflare.com/serverless-atproto/</link>
+      <description>【 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. 】在 Cloudflare Workers 上构建和部署实时的、去中心化的认证传输协议（ATProto）应用。</description>
+      <pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】构建Jetflow：Cloudflare的灵活高效数据管道框架</title>
@@ -34,28 +22,40 @@
       <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Cloudflare recognized as a Visionary in 2025 Gartner® Magic Quadrant™ for SASE Platforms】Cloudflare被列为2025年Gartner®魔力象限™ for SASE平台的愿景者</title>
+      <link>https://blog.cloudflare.com/cloudflare-sase-gartner-magic-quadrant-2025/</link>
+      <description>【 Gartner has recognized Cloudflare as a Visionary in the 2025 Gartner® Magic Quadrant™ for SASE Platforms report. 】Gartner将Cloudflare认可为2025年Gartner® Magic Quadrant™ for SASE Platforms报告中的愿景者。</description>
+      <pubDate>Tue, 15 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Hyper-volumetric DDoS attacks skyrocket: Cloudflare’s 2025 Q2 DDoS threat report】超体积DDoS攻击激增：Cloudflare 2025年第二季度DDoS威胁报告</title>
       <link>https://blog.cloudflare.com/ddos-threat-report-for-2025-q2/</link>
       <description>【 June was the busiest month for DDoS attacks in 2025 Q2, accounting for nearly 38% of all observed activity. 】6月是2025年第二季度DDoS攻击最繁忙的月份，占所有观察到活动的近38%。</description>
       <pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How TimescaleDB helped us scale analytics and reporting】时间序列数据库如何帮助我们扩展分析和报告</title>
-      <link>https://blog.cloudflare.com/timescaledb-art/</link>
-      <description>【 Cloudflare chose TimescaleDB to power its Digital Experience Monitoring and Zero Trust Analytics products.  】Cloudflare选择TimescaleDB来支持其数字体验监控和零信任分析产品。</description>
-      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Explore your Cloudflare data with Python notebooks, powered by marimo】使用 Python 笔记本探索您的 Cloudflare 数据，由 marimo 提供支持</title>
+      <link>https://blog.cloudflare.com/marimo-cloudflare-notebooks/</link>
+      <description>【 We’ve partnered with marimo to bring their best-in-class Python notebook experience to your Cloudflare data. 】我们已与 marimo 合作，将他们一流的 Python 笔记本体验带到您的 Cloudflare 数据中。</description>
+      <pubDate>Wed, 16 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 2)】闪电侠v2：全球分布式键值存储的演进（第2部分）</title>
-      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-2-of-2/</link>
-      <description>【 This is part two of a story about how we overcame the challenges of making a complex system more scalable. 】这是关于我们将复杂系统变得更可扩展所克服挑战的故事的第二部分。</description>
-      <pubDate>Thu, 17 Jul 2025 13:00:00 +0000</pubDate>
+      <title>【Shutdown season: the Q2 2025 Internet disruption summary】停机季节：2025年第二季度互联网中断摘要</title>
+      <link>https://blog.cloudflare.com/q2-2025-internet-disruption-summary/</link>
+      <description>【 In Q2 2025, we observed Internet disruptions around the world resulting from government-directed shutdowns, power outages, cable damage, a cyberattack, and technical problems. 】在2025年第二季度，我们观察到由于政府指导的断网、停电、电缆损坏、网络攻击和技术问题，全球出现了互联网中断的情况。</description>
+      <pubDate>Tue, 22 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare recognized as a Visionary in 2025 Gartner® Magic Quadrant™ for SASE Platforms】Cloudflare 被列为 2025 年 Gartner® Magic Quadrant™ SASE 平台的愿景者</title>
-      <link>https://blog.cloudflare.com/cloudflare-sase-gartner-magic-quadrant-2025/</link>
-      <description>【 Gartner has recognized Cloudflare as a Visionary in the 2025 Gartner® Magic Quadrant™ for SASE Platforms report. 】Gartner在2025年Gartner® Magic Quadrant™ for SASE Platforms报告中将Cloudflare认定为愿景领袖。</description>
-      <pubDate>Tue, 15 Jul 2025 15:00:00 +0000</pubDate>
+      <title>【Quicksilver v2: evolution of a globally distributed key-value store (Part 1)】闪电侠v2：全球分布式键值存储的演进（第一部分）</title>
+      <link>https://blog.cloudflare.com/quicksilver-v2-evolution-of-a-globally-distributed-key-value-store-part-1/</link>
+      <description>【 This blog post is the first of a series, in which we share our journey in redesigning Quicksilver — Cloudflare’s distributed key-value store that serves over 3 billion keys per second globally.  】这篇博文是系列文章的第一篇，我们将分享重新设计Quicksilver——Cloudflare的分布式键值存储系统——的历程，该系统每秒在全球范围内处理超过30亿个键。</description>
+      <pubDate>Thu, 10 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare protects against critical SharePoint vulnerability, CVE-2025-53770】Cloudflare 保护免受关键 SharePoint 漏洞 CVE-2025-53770 的影响</title>
+      <link>https://blog.cloudflare.com/cloudflare-protects-against-critical-sharepoint-vulnerability-cve-2025-53770/</link>
+      <description>【 Microsoft disclosed two critical vulnerabilities, CVE-2025-53771 and CVE-2025-53770, that are exploited to attack SharePoint servers. 】微软披露了两个关键漏洞CVE-2025-53771和CVE-2025-53770，这些漏洞被用于攻击SharePoint服务器。</description>
+      <pubDate>Tue, 22 Jul 2025 16:30:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudflare 1.1.1.1 incident on July 14, 2025】2025年7月14日Cloudflare 1.1.1.1事件</title>
