@@ -4,40 +4,28 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【How can I confirm in the Windows debugger that I&#39;m looking at a COMDAT-folded function?】如何在Windows调试器中确认我正在查看Comdat折叠功能？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250725-00/?p=111409</link>
+      <description>【Some time ago, we learned about identical COMDAT folding (and also】不久前，我们了解了相同的Comdat折叠（也</description>
+      <pubDate>Fri, 25 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Microsoft.PowerShell.PlatyPS 1.0.0】宣布Microsoft.powershell.platyps 1.0.0</title>
+      <link>https://devblogs.microsoft.com/powershell/announcing-platyps-100</link>
+      <description>【We&#39;re pleased to announce the general availability (GA) release of Microsoft.PowerShell.PlatyPS v1.0.0. PlatyPS is the tool that Microsoft uses to create the PowerShell content you get from Get】我们很高兴地宣布Microsoft.powershell.platyps v1.0.0的一般可用性（GA）发布。 Platyps是Microsoft用来创建您从GET获得的PowerShell内容的工具</description>
+      <pubDate>Thu, 24 Jul 2025 21:35:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【MSSQL Extension for VS Code: Agent Mode Updates, Colored Connections, and Schema Designer Enhancements】VS代码的MSSQL扩展名：代理模式更新，彩色连接和架构设计器增强功能</title>
       <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-agent-mode-updates</link>
       <description>【The MSSQL Extension for VS Code keeps getting better—bringing thoughtful updates that make SQL development more conversational, more visual, and more local. In version v1.34.0, we’ve focused this release on deepening】VS代码的MSSQL扩展程序不断变得更好 - 构成了周到的更新，使SQL开发更加对话，更具视觉效果和更本地化。在版本v1.34.0中，我们将此发行版重点放在加速度上</description>
       <pubDate>Wed, 23 Jul 2025 22:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Code CMake Tools Extension 1.21 Release: Multi-root improvements, CMake Presets v10, and more…】Visual Studio代码CMAKE工具扩展1.21版本：多根改进，CMAKE PRESTES V10等等…</title>
-      <link>https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-1-21-release-multi-root-improvements-cmake-presets-v10-and-more</link>
-      <description>【We’re excited to announce the latest 1.21 release of the CMake Tools extension for Visual Studio Code. This update brings a host of new updates, including addressing one of our top-voted issues for multi-root improvements and adding】我们很高兴宣布最新的1.21版本的CMAKE工具扩展名用于Visual Studio Code。此更新带来了许多新的更新，包括解决我们最重要的问题之一，以进行多个重点改进和添加</description>
-      <pubDate>Mon, 21 Jul 2025 12:10:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Being more adamant about reporting that C++/WinRT was unable to resume execution on a dispatcher thread】更坚决地报告C ++/Winrt无法在调度程序线程上恢复执行</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250722-00/?p=111400</link>
-      <description>【Last time, we saw what happens if C++/WinRT is unable to resume execution on a dispatcher thread: If you use winrt::resume_foreground with a】上次，我们看到了如果C ++/Winrt无法在调度程序线程上恢复执行会发生什么：如果您使用Winrt :: insume_foreground，则</description>
-      <pubDate>Tue, 22 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Can You Build Agent2Agent Communication on MCP? Yes!】您可以在MCP上构建Agent2Agent通信吗？是的！</title>
-      <link>https://devblogs.microsoft.com//can-you-build-agent2agent-communication-on-mcp-yes</link>
-      <description>【MCP has evolved significantly beyond its original goal of &#34;providing context to LLMs.&#34; With recent enhancements including resumable streams, elicitation,】MCP已经大大发展了其最初的“向LLM提供背景”的目标。最近的增强功能，包括可重新启动，启发，</description>
-      <pubDate>Wed, 23 Jul 2025 17:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java OpenJDK July 2025 Patch &amp; Security Update】Java OpenJDK 2025年7月补丁和安全更新</title>
-      <link>https://devblogs.microsoft.com/java/java-openjdk-july-2025-patch-security-update</link>
-      <description>【Hello Java customers! We are happy to announce the latest July 2025 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 21.0.8 OpenJDK 17.0.16 OpenJDK 11.0.28 Check our】您好Java客户！我们很高兴宣布2025年7月的最新补丁程序和安全更新版本，用于OpenJDK的Microsoft Build。立即下载并安装二进制文件。 OpenJDK 21.0.8 OpenJDK 17.0.16 OpenJDK 11.0.28检查我们</description>
-      <pubDate>Mon, 21 Jul 2025 22:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fresh Learning Paths Now Available on Pluralsight for VS Subscribers】现在可在PluralSight上为vs订户提供新的学习路径</title>
-      <link>https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2</link>
-      <description>【We’ve been thrilled to see so many of you jump back into your Pluralsight benefit after our April 3rd announcement about extended access. Your enthusiasm for learning and leveling up with Visual Studio inspires us every day. If you】在我们4月3日关于扩展访问的公告之后，我们很高兴看到很多人重新回到您的多元化福利。您对学习和与Visual Studio升级的热情每天都会激发我们的启发。如果你</description>
-      <pubDate>Tue, 22 Jul 2025 14:00:40 +0000</pubDate>
+      <title>【Scalable Data Governance &amp; Compliance with UDM】可扩展的数据治理和遵守UDM</title>
+      <link>https://devblogs.microsoft.com/udm/scalable-data-governance-compliance-with-udm</link>
+      <description>【Why Data Governance Matters In today’s data-driven world, governance isn’t just a technical requirement—it’s foundational to successful business operations. Good governance ensures data is not only accurate and compliant but also discoverable and usable at scale. At the heart of this approach lies robust, high-quality meta】为什么数据治理在当今数据驱动的世界中很重要，治理不仅是技术要求，而且是成功的业务运营的基础。良好的治理确保数据不仅准确且合规，而且可以在大规模上发现和可用。这种方法的核心是强大的高质量元</description>
+      <pubDate>Fri, 25 Jul 2025 20:19:07 +0000</pubDate>
     </item>
     <item>
       <title>【Exploring possible solutions to the inconsistency in how Windows searches case-insensitively for named resources】在Windows如何对命名资源搜索案例搜索情况下，探索可能不一致的解决方案</title>
@@ -46,22 +34,34 @@
       <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Azure Container Options: Matching Services to Operational Responsibility】Azure容器选项：将服务与运营责任相匹配</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/azure-container-options-matching-services-to-operational-responsibility</link>
+      <description>【Customers are looking to modernize their application on cloud and ask us for guidance on which Azure container services to choose. Should you choose A or B container services or A+B container services? Some choose both (A + B) or use A or B appr】客户希望在云上现代化其应用程序，并向我们询问选择哪种Azure容器服务的指导。您是否应该选择A或B容器服务或A+B容器服务？有些选择同时选择（a + b）或使用A或B ADPER</description>
+      <pubDate>Fri, 25 Jul 2025 21:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.9 RC】宣布打字稿5.9 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc</link>
+      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 5.9! To get started using the Release Candidate, you can get it through npm with the following command: npm install -D typescript@rc Let&#39;s take a look at what&#39;s new】今天，我们很高兴宣布打字稿5.9的发行候选人（RC）！要开始使用发布候选者，您可以通过以下命令通过NPM获得：NPM install -d Typescript@rc让我们看一下新的新事物</description>
+      <pubDate>Fri, 25 Jul 2025 16:53:10 +0000</pubDate>
+    </item>
+    <item>
       <title>【How can I wait until a named object (say a mutex) is created?】我如何等到创建命名对象（例如sutex）？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250724-00/?p=111406</link>
       <description>【A customer used a named mutex as a way to detect that another instance of the program is already running. This is pretty standard. They also used the presence of the mutex to indicate that the program is ready to receive work requests: When the program creates the mutex, this prevents new instances from running, and it also announce】客户使用命名互联克作为检测程序的另一个实例已经运行的方式。这是非常标准的。他们还使用Mutex的存在表明该程序已准备好接收工作请求：当程序创建MUTEX时，这会防止新实例运行，并且还宣布</description>
       <pubDate>Thu, 24 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18】MCP C＃SDK获得重大更新：支持协议版本2025-06-18</title>
-      <link>https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update</link>
-      <description>【The Model Context Protocol (MCP) continues to evolve, and we&#39;re excited to announce that the MCP C# SDK now supports the latest specification version 2025-06-18. This update brings significant new capabilities to .NET developers building AI applications, including an imp】模型上下文协议（MCP）继续发展，我们很高兴宣布MCP C＃SDK现在支持最新的规范版本2025-06-18。此更新为.NET开发人员构建AI应用程序带来了重要的新功能，包括IMP</description>
-      <pubDate>Tue, 22 Jul 2025 17:00:00 +0000</pubDate>
+      <title>【Can You Build Agent2Agent Communication on MCP? Yes!】您可以在MCP上构建Agent2Agent通信吗？是的！</title>
+      <link>https://devblogs.microsoft.com//can-you-build-agent2agent-communication-on-mcp-yes</link>
+      <description>【MCP has evolved significantly beyond its original goal of &#34;providing context to LLMs.&#34; With recent enhancements including resumable streams, elicitation,】MCP已经大大发展了其最初的“向LLM提供背景”的目标。最近的增强功能，包括可重新启动，启发，</description>
+      <pubDate>Wed, 23 Jul 2025 17:00:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Microsoft.PowerShell.PlatyPS 1.0.0】宣布Microsoft.powershell.platyps 1.0.0</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-platyps-100</link>
-      <description>【We&#39;re pleased to announce the general availability (GA) release of Microsoft.PowerShell.PlatyPS v1.0.0. PlatyPS is the tool that Microsoft uses to create the PowerShell content you get from Get】我们很高兴地宣布Microsoft.powershell.platyps v1.0.0的一般可用性（GA）发布。 Platyps是Microsoft用来创建您从GET获得的PowerShell内容的工具</description>
-      <pubDate>Thu, 24 Jul 2025 21:35:14 +0000</pubDate>
+      <title>【From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story】从手动测试到AI生成的自动化：我们的Azure Devops MCP +剧作家成功故事</title>
+      <link>https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story</link>
+      <description>【In today’s fast-paced software development cycles, manual testing often becomes a significant bottleneck. Our team was facing a growing backlog of test cases that required repetitive manual execution—running the entire test suite every sprint. This consumed valuable time that could be better spent on exploratory testing and higher-value】在当今快节奏的软件开发周期中，手动测试通常成为一个重要的瓶颈。我们的团队面临着越来越多的测试案例的积压，这些案例需要重复手动执行，这将使整个测试套件每次冲刺划定。这段耗时的时间可以更好地用于探索性测试和高价值</description>
+      <pubDate>Fri, 25 Jul 2025 06:47:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
