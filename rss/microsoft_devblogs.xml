@@ -4,22 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【How can I confirm in the Windows debugger that I&#39;m looking at a COMDAT-folded function?】如何在Windows调试器中确认我正在查看Comdat折叠功能？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250725-00/?p=111409</link>
-      <description>【Some time ago, we learned about identical COMDAT folding (and also】不久前，我们了解了相同的Comdat折叠（也</description>
-      <pubDate>Fri, 25 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Microsoft.PowerShell.PlatyPS 1.0.0】宣布Microsoft.powershell.platyps 1.0.0</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-platyps-100</link>
-      <description>【We&#39;re pleased to announce the general availability (GA) release of Microsoft.PowerShell.PlatyPS v1.0.0. PlatyPS is the tool that Microsoft uses to create the PowerShell content you get from Get】我们很高兴地宣布Microsoft.powershell.platyps v1.0.0的一般可用性（GA）发布。 Platyps是Microsoft用来创建您从GET获得的PowerShell内容的工具</description>
-      <pubDate>Thu, 24 Jul 2025 21:35:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MSSQL Extension for VS Code: Agent Mode Updates, Colored Connections, and Schema Designer Enhancements】VS代码的MSSQL扩展名：代理模式更新，彩色连接和架构设计器增强功能</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-agent-mode-updates</link>
-      <description>【The MSSQL Extension for VS Code keeps getting better—bringing thoughtful updates that make SQL development more conversational, more visual, and more local. In version v1.34.0, we’ve focused this release on deepening】VS代码的MSSQL扩展程序不断变得更好 - 构成了周到的更新，使SQL开发更加对话，更具视觉效果和更本地化。在版本v1.34.0中，我们将此发行版重点放在加速度上</description>
-      <pubDate>Wed, 23 Jul 2025 22:34:00 +0000</pubDate>
+      <title>【From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story】从手动测试到AI生成的自动化：我们的Azure Devops MCP +剧作家成功故事</title>
+      <link>https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story</link>
+      <description>【In today’s fast-paced software development cycles, manual testing often becomes a significant bottleneck. Our team was facing a growing backlog of test cases that required repetitive manual execution—running the entire test suite every sprint. This consumed valuable time that could be better spent on exploratory testing and higher-value】在当今快节奏的软件开发周期中，手动测试通常成为一个重要的瓶颈。我们的团队面临着越来越多的测试案例的积压，这些案例需要重复手动执行，这将使整个测试套件每次冲刺划定。这段耗时的时间可以更好地用于探索性测试和高价值</description>
+      <pubDate>Fri, 25 Jul 2025 06:47:36 +0000</pubDate>
     </item>
     <item>
       <title>【Scalable Data Governance &amp; Compliance with UDM】可扩展的数据治理和遵守UDM</title>
@@ -28,10 +16,10 @@
       <pubDate>Fri, 25 Jul 2025 20:19:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Exploring possible solutions to the inconsistency in how Windows searches case-insensitively for named resources】在Windows如何对命名资源搜索案例搜索情况下，探索可能不一致的解决方案</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250723-00/?p=111403</link>
-      <description>【Some time ago, I explained why Windows has trouble finding Win32 resources with accented characters. It boils down to an ambiguity in the Portable Executable sp】不久前，我解释了为什么Windows难以找到带有重音字符的Win32资源。它归结为便携式可执行式SP中的歧义</description>
-      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【MSSQL Extension for VS Code: Agent Mode Updates, Colored Connections, and Schema Designer Enhancements】VS代码的MSSQL扩展名：代理模式更新，彩色连接和架构设计器增强功能</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-agent-mode-updates</link>
+      <description>【The MSSQL Extension for VS Code keeps getting better—bringing thoughtful updates that make SQL development more conversational, more visual, and more local. In version v1.34.0, we’ve focused this release on deepening】VS代码的MSSQL扩展程序不断变得更好 - 构成了周到的更新，使SQL开发更加对话，更具视觉效果和更本地化。在版本v1.34.0中，我们将此发行版重点放在加速度上</description>
+      <pubDate>Wed, 23 Jul 2025 22:34:00 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Container Options: Matching Services to Operational Responsibility】Azure容器选项：将服务与运营责任相匹配</title>
@@ -40,28 +28,40 @@
       <pubDate>Fri, 25 Jul 2025 21:01:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 5.9 RC】宣布打字稿5.9 RC</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc</link>
-      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 5.9! To get started using the Release Candidate, you can get it through npm with the following command: npm install -D typescript@rc Let&#39;s take a look at what&#39;s new】今天，我们很高兴宣布打字稿5.9的发行候选人（RC）！要开始使用发布候选者，您可以通过以下命令通过NPM获得：NPM install -d Typescript@rc让我们看一下新的新事物</description>
-      <pubDate>Fri, 25 Jul 2025 16:53:10 +0000</pubDate>
-    </item>
-    <item>
       <title>【How can I wait until a named object (say a mutex) is created?】我如何等到创建命名对象（例如sutex）？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250724-00/?p=111406</link>
       <description>【A customer used a named mutex as a way to detect that another instance of the program is already running. This is pretty standard. They also used the presence of the mutex to indicate that the program is ready to receive work requests: When the program creates the mutex, this prevents new instances from running, and it also announce】客户使用命名互联克作为检测程序的另一个实例已经运行的方式。这是非常标准的。他们还使用Mutex的存在表明该程序已准备好接收工作请求：当程序创建MUTEX时，这会防止新实例运行，并且还宣布</description>
       <pubDate>Thu, 24 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Exploring possible solutions to the inconsistency in how Windows searches case-insensitively for named resources】在Windows如何对命名资源搜索案例搜索情况下，探索可能不一致的解决方案</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250723-00/?p=111403</link>
+      <description>【Some time ago, I explained why Windows has trouble finding Win32 resources with accented characters. It boils down to an ambiguity in the Portable Executable sp】不久前，我解释了为什么Windows难以找到带有重音字符的Win32资源。它归结为便携式可执行式SP中的歧义</description>
+      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I confirm in the Windows debugger that I&#39;m looking at a COMDAT-folded function?】如何在Windows调试器中确认我正在查看Comdat折叠功能？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250725-00/?p=111409</link>
+      <description>【Some time ago, we learned about identical COMDAT folding (and also】不久前，我们了解了相同的Comdat折叠（也</description>
+      <pubDate>Fri, 25 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing TypeScript 5.9 RC】宣布打字稿5.9 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc</link>
+      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 5.9! To get started using the Release Candidate, you can get it through npm with the following command: npm install -D typescript@rc Let&#39;s take a look at what&#39;s new】今天，我们很高兴宣布打字稿5.9的发行候选人（RC）！要开始使用发布候选者，您可以通过以下命令通过NPM获得：NPM install -d Typescript@rc让我们看一下新的新事物</description>
+      <pubDate>Fri, 25 Jul 2025 16:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Microsoft.PowerShell.PlatyPS 1.0.0】宣布Microsoft.powershell.platyps 1.0.0</title>
+      <link>https://devblogs.microsoft.com/powershell/announcing-platyps-100</link>
+      <description>【We&#39;re pleased to announce the general availability (GA) release of Microsoft.PowerShell.PlatyPS v1.0.0. PlatyPS is the tool that Microsoft uses to create the PowerShell content you get from Get】我们很高兴地宣布Microsoft.powershell.platyps v1.0.0的一般可用性（GA）发布。 Platyps是Microsoft用来创建您从GET获得的PowerShell内容的工具</description>
+      <pubDate>Thu, 24 Jul 2025 21:35:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【Can You Build Agent2Agent Communication on MCP? Yes!】您可以在MCP上构建Agent2Agent通信吗？是的！</title>
       <link>https://devblogs.microsoft.com//can-you-build-agent2agent-communication-on-mcp-yes</link>
       <description>【MCP has evolved significantly beyond its original goal of &#34;providing context to LLMs.&#34; With recent enhancements including resumable streams, elicitation,】MCP已经大大发展了其最初的“向LLM提供背景”的目标。最近的增强功能，包括可重新启动，启发，</description>
       <pubDate>Wed, 23 Jul 2025 17:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story】从手动测试到AI生成的自动化：我们的Azure Devops MCP +剧作家成功故事</title>
-      <link>https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story</link>
-      <description>【In today’s fast-paced software development cycles, manual testing often becomes a significant bottleneck. Our team was facing a growing backlog of test cases that required repetitive manual execution—running the entire test suite every sprint. This consumed valuable time that could be better spent on exploratory testing and higher-value】在当今快节奏的软件开发周期中，手动测试通常成为一个重要的瓶颈。我们的团队面临着越来越多的测试案例的积压，这些案例需要重复手动执行，这将使整个测试套件每次冲刺划定。这段耗时的时间可以更好地用于探索性测试和高价值</description>
-      <pubDate>Fri, 25 Jul 2025 06:47:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
