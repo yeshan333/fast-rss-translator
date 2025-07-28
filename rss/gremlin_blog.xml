@@ -4,10 +4,10 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
-      <title>【Measure your reliability risk, not your engineers】衡量您的可靠性风险，而不是工程师</title>
-      <link>https://www.gremlin.com/blog/measure-your-reliability-risk-not-your-engineers</link>
-      <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应揭示风险，并使您的团队能够提高可靠性，而不是创造防御能力和责备游戏。</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <title>【Ensuring your AI systems can scale to meet demand】确保您的AI系统可以扩展以满足需求</title>
+      <link>https://www.gremlin.com/blog/ensuring-your-ai-systems-can-scale-to-meet-demand</link>
+      <description>【Demand for AI services is ever-increasing. Are your systems prepared? This blog teaches you how to prepare for sudden demand surges.】对AI服务的需求正在越来越多。您的系统准备好了吗？该博客教您如何为突然的需求激增做准备。</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Lessons from Alaska’s outage: Redundant ≠ resilient】阿拉斯加停电的教训：冗余≠弹性</title>
@@ -22,10 +22,10 @@
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Test serverless and application-level reliability with Failure Flags】使用故障标志测试无服务器和应用程序级可靠性</title>
-      <link>https://www.gremlin.com/blog/test-serverless-and-application-level-reliability-with-failure-flags</link>
-      <description>【Run resilience tests at the application level in serverless, container, Kubernetes, and service mesh environments with Gremlin Failure Flags.】使用Gremlin故障标志的无服务器，容器，Kubernetes和服务网格环境中的应用程序级别运行弹性测试。</description>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <title>【4 Chaos Engineering recommendations from Gartner】Gartner的4个混乱工程建议</title>
+      <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
+      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner最近为基础设施平台发布了2025年的炒作周期。这是他们采用混乱工程的四个关键建议。</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Insights to keep AI applications reliable】让AI应用程序可靠的见解</title>
@@ -34,16 +34,16 @@
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【4 Chaos Engineering recommendations from Gartner】Gartner的4个混乱工程建议</title>
-      <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
-      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner最近为基础设施平台发布了2025年的炒作周期。这是他们采用混乱工程的四个关键建议。</description>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <title>【Measure your reliability risk, not your engineers】衡量您的可靠性风险，而不是工程师</title>
+      <link>https://www.gremlin.com/blog/measure-your-reliability-risk-not-your-engineers</link>
+      <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应揭示风险，并使您的团队能够提高可靠性，而不是创造防御能力和责备游戏。</description>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Simulating artificial intelligence (AI) service outages with Gremlin】与Gremlin模拟人工智能（AI）服务中断</title>
-      <link>https://www.gremlin.com/blog/simulating-artificial-intelligence-service-outages-with-gremlin</link>
-      <description>【Learn how to leverage artificial intelligence (AI) services while avoiding downtime caused by outages.】了解如何利用人工智能（AI）服务，同时避免停机时间。</description>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <title>【How a major retailer tested critical serverless systems with Failure Flags】主要零售商如何用故障标志测试关键服务器系统</title>
+      <link>https://www.gremlin.com/blog/how-a-major-retailer-tested-critical-serverless-systems-with-failure-flags</link>
+      <description>【Find out how Gremlin helped a major retailer test region failover for a critical service built on AWS Lambda using Failure Flags.】找出Gremlin如何帮助使用故障标志在AWS Lambda建立的关键服务的主要零售商测试区域故障转移。</description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Three key facts about serverless reliability】有关无服务器可靠性的三个关键事实</title>
@@ -52,16 +52,16 @@
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How a major retailer tested critical serverless systems with Failure Flags】主要零售商如何用故障标志测试关键服务器系统</title>
-      <link>https://www.gremlin.com/blog/how-a-major-retailer-tested-critical-serverless-systems-with-failure-flags</link>
-      <description>【Find out how Gremlin helped a major retailer test region failover for a critical service built on AWS Lambda using Failure Flags.】找出Gremlin如何帮助使用故障标志在AWS Lambda建立的重要服务的主要零售商测试区域故障转移。</description>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <title>【Simulating artificial intelligence (AI) service outages with Gremlin】与Gremlin模拟人工智能（AI）服务中断</title>
+      <link>https://www.gremlin.com/blog/simulating-artificial-intelligence-service-outages-with-gremlin</link>
+      <description>【Learn how to leverage artificial intelligence (AI) services while avoiding downtime caused by outages.】了解如何利用人工智能（AI）服务，同时避免停机时间。</description>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Ensuring your AI systems can scale to meet demand】确保您的AI系统可以扩展以满足需求</title>
-      <link>https://www.gremlin.com/blog/ensuring-your-ai-systems-can-scale-to-meet-demand</link>
-      <description>【Demand for AI services is ever-increasing. Are your systems prepared? This blog teaches you how to prepare for sudden demand surges.】对AI服务的需求正在越来越多。您的系统准备好了吗？该博客教您如何为突然的需求激增做准备。</description>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <title>【Test serverless and application-level reliability with Failure Flags】使用故障标志测试无服务器和应用程序级可靠性</title>
+      <link>https://www.gremlin.com/blog/test-serverless-and-application-level-reliability-with-failure-flags</link>
+      <description>【Run resilience tests at the application level in serverless, container, Kubernetes, and service mesh environments with Gremlin Failure Flags.】使用Gremlin故障标志的无服务器，容器，Kubernetes和服务网格环境中的应用程序级别运行弹性测试。</description>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

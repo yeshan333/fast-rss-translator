@@ -5,28 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
-      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
-      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
-      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
-      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
-      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
-      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack</link>
-      <description>【GenAI refers to systems capable of creating new content, such as text, images, code, or music, by learning patterns from existing data.】Genai是指能够通过从现有数据中学习模式来创建新内容，例如文本，图像，代码或音乐。</description>
-      <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Nubank Uses AI Models to Analyze Transaction Data for 100M Users】Nubank如何使用AI模型分析100m用户的交易数据</title>
-      <link>https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze</link>
-      <description>【Nubank adopted a foundation model-based approach, which has already been transforming domains like natural language processing and computer vision.】Nubank采用了一种基于基础模型的方法，该方法已经在改变自然语言处理和计算机视觉等领域。</description>
-      <pubDate>Tue, 22 Jul 2025 15:30:44 +0000</pubDate>
+      <title>【EP173: BIGGEST Mistakes to Avoid in System Design Interviews】EP173：系统设计采访中要避免的最大错误</title>
+      <link>https://blog.bytebytego.com/p/ep173-12-mcp-servers-you-can-use</link>
+      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
+      <pubDate>Sat, 26 Jul 2025 15:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【A Guide to Database Sharding: Key Strategies】数据库碎片指南：关键策略</title>
@@ -47,22 +29,40 @@
       <pubDate>Thu, 24 Jul 2025 15:30:33 +0000</pubDate>
     </item>
     <item>
+      <title>【How Nubank Uses AI Models to Analyze Transaction Data for 100M Users】Nubank如何使用AI模型分析100m用户的交易数据</title>
+      <link>https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze</link>
+      <description>【Nubank adopted a foundation model-based approach, which has already been transforming domains like natural language processing and computer vision.】Nubank采用了一种基于基础模型的方法，该方法已经在改变自然语言处理和计算机视觉等领域。</description>
+      <pubDate>Tue, 22 Jul 2025 15:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
+      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
+      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
+      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
+      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
+      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
+      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP170: All-in-One Technical Interview Prep Kit】EP170：多合一技术面试准备套件</title>
       <link>https://blog.bytebytego.com/p/ep170-best-ways-to-test-system-functionality</link>
       <description>【Testing system functionality&amp;#160;ensures that a system or software application performs as expected, meets user requirements, and operates reliably.】测试系统功能可确保系统或软件应用程序按预期执行，满足用户要求并可靠地运行。</description>
       <pubDate>Sat, 05 Jul 2025 15:30:35 +0000</pubDate>
     </item>
     <item>
+      <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack</link>
+      <description>【GenAI refers to systems capable of creating new content, such as text, images, code, or music, by learning patterns from existing data.】Genai是指能够通过从现有数据中学习模式来创建新内容，例如文本，图像，代码或音乐。</description>
+      <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Tinder’s API Gateway Handles A Billion Swipes Per Day】Tinder的API门户每天如何处理十亿美元</title>
       <link>https://blog.bytebytego.com/p/how-tinders-api-gateway-handles-a</link>
       <description>【Tinder operates globally. Real user traffic pours in from over 190 countries. So does bad traffic that includes bots, scrapers, and abuse attempts.】火种在全球运作。真正的用户流量来自190多个国家 /地区。包括机器人，刮板和滥用尝试的不良流量也是如此。</description>
       <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP173: BIGGEST Mistakes to Avoid in System Design Interviews】EP173：系统设计采访中要避免的最大错误</title>
-      <link>https://blog.bytebytego.com/p/ep173-12-mcp-servers-you-can-use</link>
-      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
-      <pubDate>Sat, 26 Jul 2025 15:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
