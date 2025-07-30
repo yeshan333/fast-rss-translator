@@ -4,28 +4,40 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【How can I confirm in the Windows debugger that I&#39;m looking at a COMDAT-folded function?】如何在Windows调试器中确认我正在查看Comdat折叠功能？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250725-00/?p=111409</link>
-      <description>【Some time ago, we learned about identical COMDAT folding (and also】不久前，我们了解了相同的Comdat折叠（也</description>
-      <pubDate>Fri, 25 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Aspire 9.4 is here with a CLI and interactive dashboard features】Aspire 9.4在这里具有CLI和互动仪表板功能</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4</link>
+      <description>【Today, we released .NET Aspire 9.4, our biggest release ever, bringing new integrations, interactive dashboard-based inputs, and a standalone, native AOT command line tool for creating and running Aspirified apps. We also published our first roadmap last week, which outl】今天，我们发布了.NET ASPIRE 9.4，这是我们有史以来最大的发行版，带来了新的集成，基于交互式仪表板的输入以及一个独立的本机AOT命令行工具，用于创建和运行Applesified应用程序。上周我们还发布了第一张路线图，</description>
+      <pubDate>Tue, 29 Jul 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Let’s Learn MCP Series Recap: 8 Languages, 4 Code Bases, Full Resources】让我们学习MCP系列回顾：8种语言，4个代码库，完整资源</title>
-      <link>https://devblogs.microsoft.com//lets-learn-mcp-series-recap-8-languages-4-code-bases-full-resources</link>
-      <description>【The Model Context Protocol (MCP) has quickly established itself as the go-to standard for seamlessly connecting AI agents with a variety of external tools and services. In just a few months, it has become a prominent topic at developer events and forums, gaining adoption from companies of all sizes. To meet the rapid pace of advancements, we】模型上下文协议（MCP）已迅速确定自己是无缝连接AI代理和各种外部工具和服务的首选标准。在短短几个月内，它已成为开发人员活动和论坛上的一个杰出话题，从各种规模的公司中获得了收养。为了达到进步的快速步伐，我们</description>
-      <pubDate>Mon, 28 Jul 2025 16:00:02 +0000</pubDate>
+      <title>【Scalable Data Governance &amp; Compliance with UDM】可扩展的数据治理和遵守UDM</title>
+      <link>https://devblogs.microsoft.com/udm/scalable-data-governance-compliance-with-udm</link>
+      <description>【Why Data Governance Matters In today’s data-driven world, governance isn’t just a technical requirement—it’s foundational to successful business operations. Good governance ensures data is not only accurate and compliant but also discoverable and usable at scale. At the heart of this approach lies robust, high-quality meta】为什么数据治理在当今数据驱动的世界中很重要，治理不仅是技术要求，而且是成功的业务运营的基础。良好的治理确保数据不仅准确且合规，而且可以在大规模上发现和可用。这种方法的核心是强大的高质量元</description>
+      <pubDate>Fri, 25 Jul 2025 20:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Watch Live: Visual Studio Toolbox at VS LIVE! Redmond 2025】观看直播：Vs Visio Studio Toolbox in VS Live！ Redmond 2025</title>
+      <link>https://devblogs.microsoft.com/visualstudio/watch-live-visual-studio-toolbox-at-vs-live-redmond-2025</link>
+      <description>【Join Robert Green and Leslie Richardson for a full day of live sessions, demos, and interviews. Live from Microsoft HQ – Stream Tuesday’s Sessions with Visual Studio Toolbox! On Tuesday, August 5, join us for a special edition of Visual Studio Toolbox Live—broadcast f】加入罗伯特·格林（Robert Green）和莱斯利·理查森（Leslie Richardson），进行一整天的现场会议，演示和访谈。来自Microsoft HQ  - 流媒体工作室工具箱的流媒体周二会议！ 8月5日，星期二，加入我们，进行特别版的Visual Studio Toolbox Live -Broadcast f</description>
+      <pubDate>Tue, 29 Jul 2025 15:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Scaling multi-tenant Go applications: Choosing the right database partitioning approach】缩放多租户GO应用程序：选择正确的数据库分区方法</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/scaling-multi-tenant-go-applications-choosing-the-right-database-partitioning-approach</link>
+      <description>【Multi-tenant applications face a fundamental challenge: how to efficiently store and query data for tenants of vastly different sizes? Consider the typical scenario where your platform serves both enterprise clients with hundreds of thousands of users, as well as small businesses with just a handful. With traditional database partitioning stra】多租户应用程序面临着一个基本挑战：如何有效地存储和查询大小不同的租户数据？考虑一下您平台为企业客户提供数十万用户的企业客户的典型情况，以及只有少数用户的小型企业。传统数据库分区</description>
+      <pubDate>Mon, 28 Jul 2025 13:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why is there a window with no name blocking Windows shutdown?】为什么没有一个没有名称阻止窗口关闭的窗口？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250729-00/?p=111417</link>
+      <description>【If you try to shut down Windows, and there&#39;s a program that is not allowing the shutdown to proceed, then the Blocked Shutdown Resolver (BSDR) shows a list of windows that includes the one that is processing the shutdown notification, as well as】如果您尝试关闭Windows，并且有一个程序不允许关闭进行，则阻止的关闭解析器（BSDR）显示一个窗口的列表，其中包括正在处理关闭通知的一个窗口</description>
+      <pubDate>Tue, 29 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【API design note: Don&#39;t make up multiple names for the same thing】API设计注意：不要为同一件事编写多个名称</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250728-00/?p=111415</link>
       <description>【A recurring problem I encounter when reviewing API proposals is that teams tend not to be precise in their use of terminology. This casualness is inevitable when you work with a feature for a long time and develop notational shortcuts, but the people who are learning your API don&#39;t have the same level of familiarity that you do, and shiftin】我在审查API提案时遇到的反复出现的问题是，在使用术语时，团队往往并不精确。当您长期使用功能并发展符号捷径时，这种休闲性是不可避免的，但是正在学习您的API的人没有与您相同的熟悉程度，而是Shiftin</description>
       <pubDate>Mon, 28 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Microsoft.PowerShell.PlatyPS 1.0.0】宣布Microsoft.powershell.platyps 1.0.0</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-platyps-100</link>
-      <description>【We&#39;re pleased to announce the general availability (GA) release of Microsoft.PowerShell.PlatyPS v1.0.0. PlatyPS is the tool that Microsoft uses to create the PowerShell content you get from Get】我们很高兴地宣布Microsoft.powershell.platyps v1.0.0的一般可用性（GA）发布。 Platyps是Microsoft用来创建您从GET获得的PowerShell内容的工具</description>
-      <pubDate>Thu, 24 Jul 2025 21:35:14 +0000</pubDate>
     </item>
     <item>
       <title>【Azure Developer CLI (azd) - July 2025】Azure开发人员CLI（AZD） -  2025年7月</title>
@@ -40,28 +52,16 @@
       <pubDate>Fri, 25 Jul 2025 21:01:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Scalable Data Governance &amp; Compliance with UDM】可扩展的数据治理和遵守UDM</title>
-      <link>https://devblogs.microsoft.com/udm/scalable-data-governance-compliance-with-udm</link>
-      <description>【Why Data Governance Matters In today’s data-driven world, governance isn’t just a technical requirement—it’s foundational to successful business operations. Good governance ensures data is not only accurate and compliant but also discoverable and usable at scale. At the heart of this approach lies robust, high-quality meta】为什么数据治理在当今数据驱动的世界中很重要，治理不仅是技术要求，而且是成功的业务运营的基础。良好的治理确保数据不仅准确且合规，而且可以在大规模上发现和可用。这种方法的核心是强大的高质量元</description>
-      <pubDate>Fri, 25 Jul 2025 20:19:07 +0000</pubDate>
+      <title>【Microsoft build of Go 1.25 crypto backend changes】Microsoft构建GO 1.25加密后端更改</title>
+      <link>https://devblogs.microsoft.com/go/microsoft-go-defaults-to-system-crypto</link>
+      <description>【Starting in Go 1.25, the Microsoft build of Go will default to using system-provided cryptography: OpenSSL on Linux and CNG on Windows. The systemcrypto GOEXPERIMENT will be enabled by default and picks the supported backend for the target platform.】从GO 1.25开始，GO的Microsoft构建将默认为使用System提供的密码学：Linux上的OpenSSL和Windows上的CNG。默认情况下将启用SystemCrypto Gosperiment，并为目标平台选择支持的后端。</description>
+      <pubDate>Tue, 29 Jul 2025 16:53:35 +0000</pubDate>
     </item>
     <item>
-      <title>【From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story】从手动测试到AI生成的自动化：我们的Azure Devops MCP +剧作家成功故事</title>
-      <link>https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story</link>
-      <description>【In today’s fast-paced software development cycles, manual testing often becomes a significant bottleneck. Our team was facing a growing backlog of test cases that required repetitive manual execution—running the entire test suite every sprint. This consumed valuable time that could be better spent on exploratory testing and higher-value】在当今快节奏的软件开发周期中，手动测试通常成为一个重要的瓶颈。我们的团队面临着越来越多的测试案例的积压，这些案例需要重复手动执行，这将使整个测试套件每次冲刺划定。这段耗时的时间可以更好地用于探索性测试和高价值</description>
-      <pubDate>Fri, 25 Jul 2025 06:47:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 5.9 RC】宣布打字稿5.9 RC</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc</link>
-      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 5.9! To get started using the Release Candidate, you can get it through npm with the following command: npm install -D typescript@rc Let&#39;s take a look at what&#39;s new】今天，我们很高兴宣布打字稿5.9的发行候选人（RC）！要开始使用发布候选者，您可以通过以下命令通过NPM获得：NPM install -d Typescript@rc让我们看一下新的新事物</description>
-      <pubDate>Fri, 25 Jul 2025 16:53:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Scaling multi-tenant Go applications: Choosing the right database partitioning approach】缩放多租户GO应用程序：选择正确的数据库分区方法</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/scaling-multi-tenant-go-applications-choosing-the-right-database-partitioning-approach</link>
-      <description>【Multi-tenant applications face a fundamental challenge: how to efficiently store and query data for tenants of vastly different sizes? Consider the typical scenario where your platform serves both enterprise clients with hundreds of thousands of users, as well as small businesses with just a handful. With traditional database partitioning stra】多租户应用程序面临着一个基本挑战：如何有效地存储和查询大小不同的租户数据？考虑一下您平台为企业客户提供数十万用户的企业客户的典型情况，以及只有少数用户的小型企业。传统数据库分区</description>
-      <pubDate>Mon, 28 Jul 2025 13:00:20 +0000</pubDate>
+      <title>【Let’s Learn MCP Series Recap: 8 Languages, 4 Code Bases, Full Resources】让我们学习MCP系列回顾：8种语言，4个代码库，完整资源</title>
+      <link>https://devblogs.microsoft.com//lets-learn-mcp-series-recap-8-languages-4-code-bases-full-resources</link>
+      <description>【The Model Context Protocol (MCP) has quickly established itself as the go-to standard for seamlessly connecting AI agents with a variety of external tools and services. In just a few months, it has become a prominent topic at developer events and forums, gaining adoption from companies of all sizes. To meet the rapid pace of advancements, we】模型上下文协议（MCP）已迅速确定自己是无缝连接AI代理和各种外部工具和服务的首选标准。在短短几个月内，它已成为开发人员活动和论坛上的一个杰出话题，从各种规模的公司中获得了收养。为了达到进步的快速步伐，我们</description>
+      <pubDate>Mon, 28 Jul 2025 16:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

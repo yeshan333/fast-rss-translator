@@ -5,22 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP173: BIGGEST Mistakes to Avoid in System Design Interviews】EP173：系统设计采访中要避免的最大错误</title>
-      <link>https://blog.bytebytego.com/p/ep173-12-mcp-servers-you-can-use</link>
-      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
-      <pubDate>Sat, 26 Jul 2025 15:31:05 +0000</pubDate>
-    </item>
-    <item>
       <title>【How Nubank Uses AI Models to Analyze Transaction Data for 100M Users】Nubank如何使用AI模型分析100m用户的交易数据</title>
       <link>https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze</link>
       <description>【Nubank adopted a foundation model-based approach, which has already been transforming domains like natural language processing and computer vision.】Nubank采用了一种基于基础模型的方法，该方法已经在改变自然语言处理和计算机视觉等领域。</description>
       <pubDate>Tue, 22 Jul 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
-      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
-      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
-      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
     </item>
     <item>
       <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
@@ -29,16 +17,10 @@
       <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
     </item>
     <item>
-      <title>【EP170: All-in-One Technical Interview Prep Kit】EP170：多合一技术面试准备套件</title>
-      <link>https://blog.bytebytego.com/p/ep170-best-ways-to-test-system-functionality</link>
-      <description>【Testing system functionality&amp;#160;ensures that a system or software application performs as expected, meets user requirements, and operates reliably.】测试系统功能可确保系统或软件应用程序按预期执行，满足用户要求并可靠地运行。</description>
-      <pubDate>Sat, 05 Jul 2025 15:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Consistency and Partition Tolerance: Understanding CAP vs PACELC】一致性和分区耐受性：理解上限与PACELC</title>
-      <link>https://blog.bytebytego.com/p/consistency-and-partition-tolerance</link>
-      <description>【In this article, we will look at these two models as they apply to real-world database design and understand the various trade-offs involved.】在本文中，我们将研究这两个模型，因为它们适用于现实世界数据库设计，并了解所涉及的各种权衡。</description>
-      <pubDate>Thu, 24 Jul 2025 15:30:33 +0000</pubDate>
+      <title>【EP173: BIGGEST Mistakes to Avoid in System Design Interviews】EP173：系统设计采访中要避免的最大错误</title>
+      <link>https://blog.bytebytego.com/p/ep173-12-mcp-servers-you-can-use</link>
+      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
+      <pubDate>Sat, 26 Jul 2025 15:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【How Tinder’s API Gateway Handles A Billion Swipes Per Day】Tinder的API门户每天如何处理十亿美元</title>
@@ -47,16 +29,34 @@
       <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
-      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
-      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
-      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
+      <title>【How Cursor Serves Billions of AI Code Completions Every Day】光标如何每天为数十亿个AI代码完成服务</title>
+      <link>https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai</link>
+      <description>【In this article, we will take a look at the key features of Cursor, how those features work, and the infrastructure stack that powers it.】在本文中，我们将查看光标的关键功能，这些功能的工作方式以及为其提供动力的基础架构堆栈。</description>
+      <pubDate>Tue, 29 Jul 2025 15:30:27 +0000</pubDate>
     </item>
     <item>
       <title>【A Guide to Database Sharding: Key Strategies】数据库碎片指南：关键策略</title>
       <link>https://blog.bytebytego.com/p/a-guide-to-database-sharding-key</link>
       <description>【This article looks at the fundamentals of database sharding. We cover details like why it matters, how it works, and what trade-offs come with it. We&amp;#8217;ll walk through common sharding strategies and practical engineering considerations.】本文着眼于数据库碎片的基础。我们涵盖了详细信息，例如它的重要性，运作方式以及随之而来的权衡。我们将介绍常见的碎片策略和实践工程考虑。</description>
       <pubDate>Thu, 17 Jul 2025 15:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Consistency and Partition Tolerance: Understanding CAP vs PACELC】一致性和分区耐受性：理解上限与PACELC</title>
+      <link>https://blog.bytebytego.com/p/consistency-and-partition-tolerance</link>
+      <description>【In this article, we will look at these two models as they apply to real-world database design and understand the various trade-offs involved.】在本文中，我们将研究这两个模型，因为它们适用于现实世界数据库设计，并了解所涉及的各种权衡。</description>
+      <pubDate>Thu, 24 Jul 2025 15:30:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Discord Stores Trillions of Messages with High Performance】Discord如何用高性能存储数万亿个消息</title>
+      <link>https://blog.bytebytego.com/p/how-discord-stores-trillions-of-messages</link>
+      <description>【We will walk through how Discord rebuilt its message storage layer from the ground up. We will learn the issues Discord faced with Apache Cassandra&amp;#174; and their shift to ScyllaDB.】我们将介绍如何从头开始重建其消息存储层。我们将学习与ApacheCassandra®及其转向Scylladb所面临的不和谐问题。</description>
+      <pubDate>Tue, 08 Jul 2025 15:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database Index Internals: Understanding the Data Structures】数据库索引内部：了解数据结构</title>
+      <link>https://blog.bytebytego.com/p/database-index-internals-understanding</link>
+      <description>【In this article, we will cover the core internal data structures that power database indexes. Each section will walk through how the structure works, what problems it solves, where it performs best, and what limitations it carries.】在本文中，我们将介绍电源数据库索引的核心内部数据结构。每个部分都将介绍结构的工作原理，其解决的问题，最佳性能以及它带来的限制。</description>
+      <pubDate>Thu, 10 Jul 2025 15:30:34 +0000</pubDate>
     </item>
     <item>
       <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>

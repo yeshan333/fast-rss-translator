@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #485】SRE周刊＃485</title>
+      <link>https://sreweekly.com/sre-weekly-issue-485/</link>
+      <description>【View on sreweekly.com YOUR AD COULD BE HERE! SRE Weekly has openings for new sponsorships. Reply or email lex at sreweekly.com for details. Migrating the Jira Database Platform to AWS Aurora How would you migrate several million databases, with minimal impact to your users? Atlassian allocates one Postgres database per tenant customer, with a few [&amp;#8230;]】在sweekly.com上查看您的广告可能在这里！ SRE Weekly为新赞助提供了空缺。有关详细信息，请在sreweekly.com上回复或发送电子邮件。将JIRA数据库平台迁移到AWS Aurora，您将如何迁移数百万个数据库，对您的用户产生最小的影响？ Atlassian每个租户客户分配一个Postgres数据库，其中一些[…]</description>
+      <pubDate>Mon, 14 Jul 2025 01:43:30 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #487】SRE周刊＃487</title>
       <link>https://sreweekly.com/sre-weekly-issue-487/</link>
       <description>【View on sreweekly.com A message from our sponsor, Spacelift: IaC Experts! IaCConf Call for Presenters &amp;#8211; August 27, 2025The upcoming IaCConf Spotlight dives into the security and governance challenges of managing infrastructure as code at scale. From embedding security in your pipelines to navigating the realities of open source risk, this event brings together practitioners [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商Spacelift：IAC专家的消息！ IACCONF呼吁主持人 -  2025年8月27日，即将到来的IACCONF聚光灯潜入安全和治理挑战的挑战，即将基础架构作为大规模代码。从嵌入管道中的安全性到导航开源风险的现实，此事件将从业人员汇集在一起[…]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-484/</link>
       <description>【View on sreweekly.com Exact Code Search: Find code faster across repositories This is really neat! They&amp;#8217;ve developed a new approach to search that uses 3-letter &amp;#8220;trigrams&amp;#8221; rather than tokenizing words, making it especially well-suited to code search. It converts regular expressions to trigram searches behind the scenes. &amp;#160;&amp;#160;Dmitry Gruzd &amp;#8212; GitLab Pattern machines that we [&amp;#8230;]】在Sreweekly.com上查看精确代码搜索：在存储库中更快地查找代码，这真的很整洁！他们开发了一种新的搜索方法，该方法使用了3个字母的“ Trigrams”而不是象征性的单词，从而特别适合代码搜索。它将正则表达式转换为幕后的Trigram搜索。   Dmitry Gruzd  - 我们[…]的GitLab模式机器</description>
       <pubDate>Mon, 07 Jul 2025 01:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #485】SRE周刊＃485</title>
-      <link>https://sreweekly.com/sre-weekly-issue-485/</link>
-      <description>【View on sreweekly.com YOUR AD COULD BE HERE! SRE Weekly has openings for new sponsorships. Reply or email lex at sreweekly.com for details. Migrating the Jira Database Platform to AWS Aurora How would you migrate several million databases, with minimal impact to your users? Atlassian allocates one Postgres database per tenant customer, with a few [&amp;#8230;]】在sweekly.com上查看您的广告可能在这里！ SRE Weekly为新赞助提供了空缺。有关详细信息，请在sreweekly.com上回复或发送电子邮件。将JIRA数据库平台迁移到AWS Aurora，您将如何迁移数百万个数据库，对您的用户产生最小的影响？ Atlassian每个租户客户分配一个Postgres数据库，其中一些[…]</description>
-      <pubDate>Mon, 14 Jul 2025 01:43:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
