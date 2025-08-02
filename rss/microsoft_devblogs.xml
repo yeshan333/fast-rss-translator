@@ -4,10 +4,16 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Announcing TypeScript 5.9】宣布打字稿5.9</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9</link>
-      <description>【Today we are excited to announce the release of TypeScript 5.9! If you&#39;re not familiar with TypeScript, it&#39;s a language that builds on JavaScript by adding syntax for types. With types, TypeScript makes it possible to check your code to avoid bugs ahead of time. The TypeScript type-checker does all this, and is also the foundation of grea】今天，我们很高兴宣布发行Typescript 5.9！如果您不熟悉打字稿，则是一种通过添加类型的语法在JavaScript上构建的语言。使用类型，TypeScript使您可以检查您的代码，以避免提前错误。 Typescript类型检查器完成了所有这些工作，也是Grea的基础</description>
-      <pubDate>Fri, 01 Aug 2025 16:19:25 +0000</pubDate>
+      <title>【Smarter AI Edits in Visual Studio Copilot】Visual Studio Copilot中的智能AI编辑</title>
+      <link>https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot</link>
+      <description>【When we first set out to get smarter AI edits in Visual Studio Copilot, we knew we were tackling a deeply complex problem. It wasn’t just about generating great suggestions—it was about figuring out how to seamlessly apply those suggestions to your code. While the idea seemed simple at first glance, the reality w】当我们第一次开始在Visual Studio Copilot中获得更智能的AI编辑时，我们知道我们正在解决一个非常复杂的问题。这不仅仅是提出很棒的建议，而是要弄清楚如何无缝将这些建议应用于您的代码。乍一看这个想法似乎很简单，但现实w</description>
+      <pubDate>Thu, 31 Jul 2025 12:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GitHub Copilot for Xcode: Introducing Copilot Vision, Custom Instructions, Locale-Aware Responses, and More】Xcode的GitHub Copilot：介绍副本视觉，自定义说明，环境感知响应等等</title>
+      <link>https://devblogs.microsoft.com/xcode/github-copilot-for-xcode-introducing-copilot-vision-and-more</link>
+      <description>【We’re excited to introduce updates to GitHub Copilot for Xcode, bringing new ways to interact with AI and streamline your development workflow. With Copilot Vision, you can upload and chat with images—like screenshots and UI designs—directly in Xcode. We’ve also introduced global】我们很高兴向Github Copilot介绍Xcode的更新，从而带来了与AI互动并简化开发工作流程的新方法。使用Copilot Vision，您可以在Xcode中直接上传和与图像（例如屏幕截图和UI设计）上传和聊天。我们还介绍了全球</description>
+      <pubDate>Thu, 31 Jul 2025 03:27:18 +0000</pubDate>
     </item>
     <item>
       <title>【Two related questions about keeping track of PIDs of IPC clients】有关跟踪IPC客户pid的两个相关问题</title>
@@ -22,34 +28,10 @@
       <pubDate>Thu, 31 Jul 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Updated .NET and JDBC Drivers with Native Vector Data Support for High-Performance AI Workload】更新具有本机向量数据支持的.NET和JDBC驱动程序，以实现高性能AI工作负载</title>
-      <link>https://devblogs.microsoft.com/azure-sql/updated-net-and-jdbc-drivers-with-native-vector-data-support-for-high-performance-ai-workload</link>
-      <description>【We’ve just released major updates to our data access libraries, bringing native support for vector data to both the .NET and JDBC ecosystems, unlocking significant performance gains for AI and machine learning workloads. Microsoft.Data.SqlClient 6.1.0 With the new SqlVector class, you can now handle vector data in bin】我们刚刚发布了对数据访问库的重大更新，为.NET和JDBC生态系统带来了对矢量数据的本机支持，从而为AI和机器学习工作负载提供了显着的性能增长。 Microsoft.data.sqlclient 6.1.0带有新的SQLVector类，您现在可以在bin中处理矢量数据</description>
-      <pubDate>Thu, 31 Jul 2025 16:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GitHub Copilot for Xcode: Introducing Copilot Vision, Custom Instructions, Locale-Aware Responses, and More】Xcode的GitHub Copilot：介绍副本视觉，自定义说明，环境感知响应等等</title>
-      <link>https://devblogs.microsoft.com/xcode/github-copilot-for-xcode-introducing-copilot-vision-and-more</link>
-      <description>【We’re excited to introduce updates to GitHub Copilot for Xcode, bringing new ways to interact with AI and streamline your development workflow. With Copilot Vision, you can upload and chat with images—like screenshots and UI designs—directly in Xcode. We’ve also introduced global】我们很高兴向Github Copilot介绍Xcode的更新，从而带来了与AI互动并简化开发工作流程的新方法。使用Copilot Vision，您可以在Xcode中直接上传和与图像（例如屏幕截图和UI设计）上传和聊天。我们还介绍了全球</description>
-      <pubDate>Thu, 31 Jul 2025 03:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Smarter AI Edits in Visual Studio Copilot】Visual Studio Copilot中的智能AI编辑</title>
-      <link>https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot</link>
-      <description>【When we first set out to get smarter AI edits in Visual Studio Copilot, we knew we were tackling a deeply complex problem. It wasn’t just about generating great suggestions—it was about figuring out how to seamlessly apply those suggestions to your code. While the idea seemed simple at first glance, the reality w】当我们第一次开始在Visual Studio Copilot中获得更智能的AI编辑时，我们知道我们正在解决一个非常复杂的问题。这不仅仅是提出很棒的建议，而是要弄清楚如何无缝将这些建议应用于您的代码。乍一看这个想法似乎很简单，但现实w</description>
-      <pubDate>Thu, 31 Jul 2025 12:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A consequence of the weird &lt;CODE&gt;wReserved&lt;/CODE&gt; value at the start of the &lt;CODE&gt;DECIMAL&lt;/CODE&gt; structure】在&lt;code&gt; DECIMAL &lt;/code&gt;结构开始时，怪异&lt;code&gt; wresvered &lt;/code&gt;值的结果</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250731-00/?p=111423</link>
-      <description>【Not too long ago, I explained why why there is a weird wReserved value at the start of the DECIMAL structure. Markus Grohs pointed out】不久前，我解释了为什么在十进制结构开始时有一个奇怪的变形值。马库斯·格罗斯（Markus Grohs）指出</description>
-      <pubDate>Thu, 31 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Join us at Azure Dev Summit 2025】加入我们的Azure Dev Summit 2025</title>
-      <link>https://devblogs.microsoft.com//join-us-at-azure-dev-summit-2025</link>
-      <description>【The success of AI-powered apps and agents hinges not only on cutting edge models and AI platforms, but on the developers who are chartered with designing innovative services that are secure, scalable, and grounded in the right knowledge. The inaugural Azure Dev Summit on October 13-16, 2025】AI驱动的应用程序和代理商的成功不仅取决于最前沿的模型和AI平台，还取决于开发人员，这些开发人员却涉及设计安全，可扩展和基于正确知识的创新服务。 2025年10月13日至16日举行的首届Azure Dev峰会</description>
-      <pubDate>Thu, 31 Jul 2025 18:49:52 +0000</pubDate>
+      <title>【Building AI Agents with the A2A .NET SDK】用A2A .NET SDK构建AI代理</title>
+      <link>https://devblogs.microsoft.com/foundry/building-ai-agents-a2a-dotnet-sdk</link>
+      <description>【Building AI Agents with the A2A .NET SDK The AI development landscape is rapidly evolving. Autonomous agents are becoming increasingly sophisticated, specialized, and capable of handling complex tasks across diverse domains. From customer service bots to data analysis agents, from content creation assistants to workflow orchestrators】使用A2A .NET SDK建造AI代理商AI开发局势正在迅速发展。自主代理人变得越来越复杂，专业，并且能够处理跨不同领域的复杂任务。从客户服务机器人到数据分析代理，从内容创建助手到工作流编排者</description>
+      <pubDate>Thu, 31 Jul 2025 10:08:49 +0000</pubDate>
     </item>
     <item>
       <title>【Azure SDK Release (July 2025)】Azure SDK发布（2025年7月）</title>
@@ -58,10 +40,28 @@
       <pubDate>Wed, 30 Jul 2025 22:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building AI Agents with the A2A .NET SDK】用A2A .NET SDK构建AI代理</title>
-      <link>https://devblogs.microsoft.com/foundry/building-ai-agents-a2a-dotnet-sdk</link>
-      <description>【Building AI Agents with the A2A .NET SDK The AI development landscape is rapidly evolving. Autonomous agents are becoming increasingly sophisticated, specialized, and capable of handling complex tasks across diverse domains. From customer service bots to data analysis agents, from content creation assistants to workflow orchestrators】使用A2A .NET SDK建造AI代理商AI开发局势正在迅速发展。自主代理人变得越来越复杂，专业，并且能够处理跨不同领域的复杂任务。从客户服务机器人到数据分析代理，从内容创建助手到工作流编排者</description>
-      <pubDate>Thu, 31 Jul 2025 10:08:49 +0000</pubDate>
+      <title>【Announcing TypeScript 5.9】宣布打字稿5.9</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9</link>
+      <description>【Today we are excited to announce the release of TypeScript 5.9! If you&#39;re not familiar with TypeScript, it&#39;s a language that builds on JavaScript by adding syntax for types. With types, TypeScript makes it possible to check your code to avoid bugs ahead of time. The TypeScript type-checker does all this, and is also the foundation of grea】今天，我们很高兴宣布发行Typescript 5.9！如果您不熟悉打字稿，则是一种通过添加类型的语法在JavaScript上构建的语言。使用类型，TypeScript使您可以检查您的代码，以避免提前错误。 Typescript类型检查器完成了所有这些工作，也是Grea的基础</description>
+      <pubDate>Fri, 01 Aug 2025 16:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Join us at Azure Dev Summit 2025】加入我们的Azure Dev Summit 2025</title>
+      <link>https://devblogs.microsoft.com//join-us-at-azure-dev-summit-2025</link>
+      <description>【The success of AI-powered apps and agents hinges not only on cutting edge models and AI platforms, but on the developers who are chartered with designing innovative services that are secure, scalable, and grounded in the right knowledge. The inaugural Azure Dev Summit on October 13-16, 2025】AI驱动的应用程序和代理商的成功不仅取决于最前沿的模型和AI平台，还取决于开发人员，这些开发人员却涉及设计安全，可扩展和基于正确知识的创新服务。 2025年10月13日至16日举行的首届Azure Dev峰会</description>
+      <pubDate>Thu, 31 Jul 2025 18:49:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A consequence of the weird &lt;CODE&gt;wReserved&lt;/CODE&gt; value at the start of the &lt;CODE&gt;DECIMAL&lt;/CODE&gt; structure】在&lt;code&gt; DECIMAL &lt;/code&gt;结构开始时，怪异&lt;code&gt; wresvered &lt;/code&gt;值的结果</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250731-00/?p=111423</link>
+      <description>【Not too long ago, I explained why why there is a weird wReserved value at the start of the DECIMAL structure. Markus Grohs pointed out】不久前，我解释了为什么在十进制结构开始时有一个奇怪的变形值。马库斯·格罗斯（Markus Grohs）指出</description>
+      <pubDate>Thu, 31 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Updated .NET and JDBC Drivers with Native Vector Data Support for High-Performance AI Workload】更新具有本机向量数据支持的.NET和JDBC驱动程序，以实现高性能AI工作负载</title>
+      <link>https://devblogs.microsoft.com/azure-sql/updated-net-and-jdbc-drivers-with-native-vector-data-support-for-high-performance-ai-workload</link>
+      <description>【We’ve just released major updates to our data access libraries, bringing native support for vector data to both the .NET and JDBC ecosystems, unlocking significant performance gains for AI and machine learning workloads. Microsoft.Data.SqlClient 6.1.0 With the new SqlVector class, you can now handle vector data in bin】我们刚刚发布了对数据访问库的重大更新，为.NET和JDBC生态系统带来了对矢量数据的本机支持，从而为AI和机器学习工作负载提供了显着的性能增长。 Microsoft.data.sqlclient 6.1.0带有新的SQLVector类，您现在可以在bin中处理矢量数据</description>
+      <pubDate>Thu, 31 Jul 2025 16:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
