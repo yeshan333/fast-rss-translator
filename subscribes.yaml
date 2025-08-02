@@ -52,7 +52,7 @@ feeds:
     max_post: 10
 
   - name: cncf_blog.xml
-    url: "https://rsshub.rssforever.com/cncf"
+    url: "https://cloudys-rsshub-ab061133bcab.herokuapp.com/cncf"
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
@@ -60,7 +60,7 @@ feeds:
     max_post: 10
 
   - name: uber_blog.xml
-    url: "https://rsshub.rssforever.com/uber/blog"
+    url: "https://cloudys-rsshub-ab061133bcab.herokuapp.com/uber/blog"
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
@@ -156,7 +156,7 @@ feeds:
     max_post: 10
 
   - name: sspai_daily.xml
-    url: "https://rsshub.rssforever.com/sspai/author/ee0vj778"
+    url: "https://cloudys-rsshub-ab061133bcab.herokuapp.com/sspai/author/ee0vj778"
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "proxy"
