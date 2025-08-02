@@ -3,6 +3,7 @@
 A faster RSS translator for translating any language feed to any language feed with GitHub Action Automation Workflow.
 
 Support Feed format:
+
 - RSS (0.90 to 2.0)
 - Atom (0.3, 1.0)
 - JSON (1.0, 1.1)
@@ -47,10 +48,11 @@ jobs:
 This file contains global settings under the `base` key and a list of feed-specific configurations under the `feeds` key.
 
 Supported translation engines (`translate_engine`):
-  - `google`: Uses Google Translate. Requires `http_proxy` to be set if accessing from certain regions.
-  - `cloudflare`: Uses Cloudflare Worker AI for translation.
-    - Requires `cloudflare_account_id` and `cloudflare_api_key` to be set either globally under `base` or for a specific feed.
-    - Alternatively, these can be set as environment variables: `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_KEY`. Feed-specific configurations take precedence.
+
+- `google`: Uses Google Translate. Requires `http_proxy` to be set if accessing from certain regions.
+- `cloudflare`: Uses Cloudflare Worker AI for translation.
+  - Requires `cloudflare_account_id` and `cloudflare_api_key` to be set either globally under `base` or for a specific feed.
+  - Alternatively, these can be set as environment variables: `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_KEY`. Feed-specific configurations take precedence.
 
 For detailed structure of the `subscribes.yaml` file and all available options, please refer to the [subscribes.yaml](./subscribes.yaml) example.
 

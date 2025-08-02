@@ -10,6 +10,7 @@ import (
 	"os"
 	"path/filepath"
 	"sync"
+	"time"
 
 	gtranslator "github.com/Conight/go-googletrans"
 	"github.com/gorilla/feeds"
@@ -301,61 +302,87 @@ func (translator *Translator) translateWithAlibabaQwen(content string) string {
 	} else {
 		alibabaQwenModel = "qwen-turbo" // Default model
 	}
-	requestBody := map[string]interface{}{
-		"model": alibabaQwenModel,
-		"messages": []map[string]string{
-			{
-				"role":    "user",
-				"content": fmt.Sprintf(cloudflarePromptFormat, translator.TargetLanguage, content),
+
+	// Simple retry logic for handling transient errors
+	for attempt := 0; attempt < 3; attempt++ {
+		requestBody := map[string]interface{}{
+			"model": alibabaQwenModel,
+			"messages": []map[string]string{
+				{
+					"role":    "user",
+					"content": fmt.Sprintf(cloudflarePromptFormat, translator.TargetLanguage, content),
+				},
 			},
-		},
-	}
-	jsonBody, err := json.Marshal(requestBody)
-	if err != nil {
-		slog.Error("Error marshalling Alibaba Qwen request body", "err", err, "feed", translator.Feed.Url)
-		return content
+		}
+		jsonBody, err := json.Marshal(requestBody)
+		if err != nil {
+			slog.Error("Error marshalling Alibaba Qwen request body", "err", err, "feed", translator.Feed.Url)
+			return content
+		}
+
+		req, err := http.NewRequest("POST", apiURL, bytes.NewBuffer(jsonBody))
+		if err != nil {
+			slog.Error("Error creating Alibaba Qwen request", "err", err, "feed", translator.Feed.Url)
+			return content
+		}
+
+		req.Header.Set("Authorization", "Bearer "+apiKey)
+		req.Header.Set("Content-Type", "application/json")
+
+		resp, err := http.DefaultClient.Do(req)
+		if err != nil {
+			slog.Error("Error sending request to Alibaba Qwen", "err", err, "feed", translator.Feed.Url)
+			// Wait a bit before retrying
+			if attempt < 2 {
+				time.Sleep(time.Duration(attempt+1) * time.Second)
+			}
+			continue
+		}
+
+		// Handle rate limiting
+		if resp.StatusCode == http.StatusTooManyRequests {
+			resp.Body.Close()
+			if attempt < 2 {
+				// Simple backoff: 1s, 2s
+				waitTime := time.Duration(attempt+1) * time.Second
+				slog.Warn("Qwen API rate limit reached, retrying", "attempt", attempt+1, "wait_time", waitTime, "feed", translator.Feed.Url)
+				time.Sleep(waitTime)
+				continue
+			}
+		}
+
+		defer resp.Body.Close()
+
+		if resp.StatusCode != http.StatusOK {
+			slog.Error("Alibaba Qwen API request failed", "status_code", resp.StatusCode, "feed", translator.Feed.Url)
+			// Wait a bit before retrying on server errors
+			if resp.StatusCode >= 500 && attempt < 2 {
+				time.Sleep(time.Duration(attempt+1) * time.Second)
+				continue
+			}
+			return content
+		}
+
+		var QwenApiResp struct {
+			Choices []struct {
+				Message struct {
+					Content string `json:"content"`
+				} `json:"message"`
+			} `json:"choices"`
+		}
+
+		if err := json.NewDecoder(resp.Body).Decode(&QwenApiResp); err != nil {
+			slog.Error("Error decoding Alibaba Qwen response body", "err", err, "feed", translator.Feed.Url)
+			return content
+		}
+
+		if len(QwenApiResp.Choices) > 0 && QwenApiResp.Choices[0].Message.Content != "" {
+			return QwenApiResp.Choices[0].Message.Content
+		}
+
+		slog.Warn("Alibaba Qwen translation returned empty content", "feed", translator.Feed.Url, "original_content", content)
+		return content // Return original content if translation is empty
 	}
 
-	req, err := http.NewRequest("POST", apiURL, bytes.NewBuffer(jsonBody))
-	if err != nil {
-		slog.Error("Error creating Alibaba Qwen request", "err", err, "feed", translator.Feed.Url)
-		return content
-	}
-
-	req.Header.Set("Authorization", "Bearer "+apiKey)
-	req.Header.Set("Content-Type", "application/json")
-
-	// Use http.DefaultClient so it can be overridden in tests
-	resp, err := http.DefaultClient.Do(req)
-	if err != nil {
-		slog.Error("Error sending request to Alibaba Qwen", "err", err, "feed", translator.Feed.Url)
-		return content
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		slog.Error("Alibaba Qwen API request failed", "status_code", resp.StatusCode, "feed", translator.Feed.Url)
-		// You might want to read resp.Body here to get more error details from Alibaba Qwen
-		return content
-	}
-
-	var QwenApiResp struct {
-		Choices []struct {
-			Message struct {
-				Content string `json:"content"`
-			} `json:"message"`
-		} `json:"choices"`
-	}
-
-	if err := json.NewDecoder(resp.Body).Decode(&QwenApiResp); err != nil {
-		slog.Error("Error decoding Alibaba Qwen response body", "err", err, "feed", translator.Feed.Url)
-		return content
-	}
-
-	if len(QwenApiResp.Choices) > 0 && QwenApiResp.Choices[0].Message.Content != "" {
-		return QwenApiResp.Choices[0].Message.Content
-	}
-
-	slog.Warn("Alibaba Qwen translation returned empty content", "feed", translator.Feed.Url, "original_content", content)
-	return content // Return original content if translation is empty
+	return content
 }
