@@ -5,28 +5,28 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Consistency and Partition Tolerance: Understanding CAP vs PACELC】一致性和分区耐受性：理解上限与PACELC</title>
+      <link>https://blog.bytebytego.com/p/consistency-and-partition-tolerance</link>
+      <description>【In this article, we will look at these two models as they apply to real-world database design and understand the various trade-offs involved.】在本文中，我们将研究这两个模型，因为它们适用于现实世界数据库设计，并了解所涉及的各种权衡。</description>
+      <pubDate>Thu, 24 Jul 2025 15:30:33 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Nubank Uses AI Models to Analyze Transaction Data for 100M Users】Nubank如何使用AI模型分析100m用户的交易数据</title>
       <link>https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze</link>
       <description>【Nubank adopted a foundation model-based approach, which has already been transforming domains like natural language processing and computer vision.】Nubank采用了一种基于基础模型的方法，该方法已经在改变自然语言处理和计算机视觉等领域。</description>
       <pubDate>Tue, 22 Jul 2025 15:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>【EP171: The Generative AI Tech Stack】EP171：生成的AI技术堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack</link>
-      <description>【GenAI refers to systems capable of creating new content, such as text, images, code, or music, by learning patterns from existing data.】Genai是指能够通过从现有数据中学习模式来创建新内容，例如文本，图像，代码或音乐。</description>
-      <pubDate>Sat, 12 Jul 2025 15:30:32 +0000</pubDate>
+      <title>【Top Leader Election Algorithms in Distributed Databases】分布式数据库中的顶级领导者选举算法</title>
+      <link>https://blog.bytebytego.com/p/top-leader-election-algorithms-in</link>
+      <description>【A database needs to be sure about who the leader is at any given time, that the leader is sufficiently up to date, and that a new leader can be chosen quickly and safely when necessary.】数据库需要确保在任何给定时间的领导者是谁，领导者足够最新的，并且可以在必要时快速，安全地选择新的领导者。</description>
+      <pubDate>Thu, 31 Jul 2025 15:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
-      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
-      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
-      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cursor Serves Billions of AI Code Completions Every Day】光标如何每天为数十亿个AI代码完成服务</title>
-      <link>https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai</link>
-      <description>【In this article, we will take a look at the key features of Cursor, how those features work, and the infrastructure stack that powers it.】在本文中，我们将查看光标的关键功能，这些功能的工作方式以及为其提供动力的基础架构堆栈。</description>
-      <pubDate>Tue, 29 Jul 2025 15:30:27 +0000</pubDate>
+      <title>【EP173: BIGGEST Mistakes to Avoid in System Design Interviews】EP173：系统设计采访中要避免的最大错误</title>
+      <link>https://blog.bytebytego.com/p/ep173-12-mcp-servers-you-can-use</link>
+      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
+      <pubDate>Sat, 26 Jul 2025 15:31:05 +0000</pubDate>
     </item>
     <item>
       <title>【A Guide to Database Sharding: Key Strategies】数据库碎片指南：关键策略</title>
@@ -35,10 +35,16 @@
       <pubDate>Thu, 17 Jul 2025 15:30:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Consistency and Partition Tolerance: Understanding CAP vs PACELC】一致性和分区耐受性：理解上限与PACELC</title>
-      <link>https://blog.bytebytego.com/p/consistency-and-partition-tolerance</link>
-      <description>【In this article, we will look at these two models as they apply to real-world database design and understand the various trade-offs involved.】在本文中，我们将研究这两个模型，因为它们适用于现实世界数据库设计，并了解所涉及的各种权衡。</description>
-      <pubDate>Thu, 24 Jul 2025 15:30:33 +0000</pubDate>
+      <title>【EP172: Top 5 common ways to improve API performance】EP172：提高API性能的前5种常见方法</title>
+      <link>https://blog.bytebytego.com/p/ep172-top-5-common-ways-to-improve</link>
+      <description>【What other ways do you use to improve API performance?】您还使用哪些其他方法来提高API性能？</description>
+      <pubDate>Sat, 19 Jul 2025 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LLMs See the World】LLM如何看世界</title>
+      <link>https://blog.bytebytego.com/p/how-llms-see-the-world</link>
+      <description>【Tokens are what rule the world of LLMs. You send tokens to models, you pay by the token, and models read, understand, and breathe tokens.】令牌是统治LLM的世界。您将令牌发送到模型，由代币付款，模型读取，理解和呼吸令牌。</description>
+      <pubDate>Mon, 04 Aug 2025 15:30:24 +0000</pubDate>
     </item>
     <item>
       <title>【EP174: 16 Coding Patterns That Make Interviews Easy】EP174：16种使访谈变得容易的编码模式</title>
@@ -53,16 +59,10 @@
       <pubDate>Tue, 15 Jul 2025 15:31:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Top Leader Election Algorithms in Distributed Databases】分布式数据库中的顶级领导者选举算法</title>
-      <link>https://blog.bytebytego.com/p/top-leader-election-algorithms-in</link>
-      <description>【A database needs to be sure about who the leader is at any given time, that the leader is sufficiently up to date, and that a new leader can be chosen quickly and safely when necessary.】数据库需要确保在任何给定时间的领导者是谁，领导者足够最新的，并且可以在必要时快速，安全地选择新的领导者。</description>
-      <pubDate>Thu, 31 Jul 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP173: BIGGEST Mistakes to Avoid in System Design Interviews】EP173：系统设计采访中要避免的最大错误</title>
-      <link>https://blog.bytebytego.com/p/ep173-12-mcp-servers-you-can-use</link>
-      <description>【MCP (Model Context Protocol) is an open standard that simplifies how AI models, particularly LLMs, interact with external data sources, tools, and services.】MCP（模型上下文协议）是一个开放标准，可以简化AI模型，尤其是LLMS，与外部数据源，工具和服务的交互方式。</description>
-      <pubDate>Sat, 26 Jul 2025 15:31:05 +0000</pubDate>
+      <title>【How Cursor Serves Billions of AI Code Completions Every Day】光标如何每天为数十亿个AI代码完成服务</title>
+      <link>https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai</link>
+      <description>【In this article, we will take a look at the key features of Cursor, how those features work, and the infrastructure stack that powers it.】在本文中，我们将查看光标的关键功能，这些功能的工作方式以及为其提供动力的基础架构堆栈。</description>
+      <pubDate>Tue, 29 Jul 2025 15:30:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
