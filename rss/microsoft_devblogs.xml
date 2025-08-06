@@ -4,34 +4,22 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Announcing TypeScript 5.9】宣布打字稿5.9</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-9</link>
-      <description>【Today we are excited to announce the release of TypeScript 5.9! If you&#39;re not familiar with TypeScript, it&#39;s a language that builds on JavaScript by adding syntax for types. With types, TypeScript makes it possible to check your code to avoid bugs ahead of time. The TypeScript type-checker does all this, and is also the foundation of grea】今天，我们很高兴宣布发行Typescript 5.9！如果您不熟悉打字稿，则是一种通过添加类型的语法在JavaScript上构建的语言。使用类型，TypeScript使您可以检查您的代码，以避免提前错误。 Typescript类型检查器完成了所有这些工作，也是Grea的基础</description>
-      <pubDate>Fri, 01 Aug 2025 16:19:25 +0000</pubDate>
+      <title>【What’s New in vcpkg (July 2025)】VCPKG的新功能（2025年7月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.07.25 registry release, 2025-06-20,】此博客文章总结了VCPKG软件包管理器的更改，作为2025.07.25注册表版本的一部分，2025-06-20，</description>
+      <pubDate>Tue, 05 Aug 2025 20:34:38 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new in Azure AI Foundry | July 2025】Azure AI Foundry中的新功能| 2025年7月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-july-2025</link>
-      <description>【TL;DR Deep Research Agent (Public Preview): Automate complex, multi-step web research with OpenAI’s o3-deep-research model, now available in Azure AI Foundry Agent Service. GPT-image-1 model: Adds input fidelity controls and partial image streaming for advanced image editing and generation.】TL; DRED Deep Research Agent（公共预览）：与OpenAI的O3深研究模型自动化，多步网络研究，现已在Azure AI Foundry代理服务中获得。 GPT-Image-1模型：为高级图像编辑和生成添加输入保真控制和部分图像流。</description>
-      <pubDate>Mon, 04 Aug 2025 15:00:27 +0000</pubDate>
+      <title>【.NET Conf 2025 - Announcing the Call for Content】.NET CONC 2025-宣布呼吁内容</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content</link>
+      <description>【Hey .NET developers! 🎉 The moment we&#39;ve all been waiting for is here - the Call for Content for .NET Conf 2025 is officially open! We want YOU to be part of this amazing celebration of everyt】嘿.NET开发人员！ 🎉我们都在等待的那一刻就在这里 -  .NET CONC 2025的内容呼吁正式开放！我们希望您成为每个人的惊人庆祝活动的一部分</description>
+      <pubDate>Tue, 05 Aug 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Automate your open-source dependency scanning with Advanced Security】使用高级安全性自动化开源依赖性扫描</title>
-      <link>https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security</link>
-      <description>【Any experiences that require additional setup is cumbersome, especially when there are multiple people needed. In GitHub Advanced Security for Azure DevOps, we&#39;re working to make it easier to enable features and scale out enablement across your enterprise. You can now automatically inject the dependency scanning task into a】任何需要额外设置的经验都很麻烦，尤其是在需要多个人的情况下。在GitHub的Azure DevOps Advanced Security中，我们正在努力使启用功能并扩展启用企业的功能变得更加容易。您现在可以自动将依赖项扫描任务注入</description>
-      <pubDate>Mon, 04 Aug 2025 17:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I read more than 4GB of data from a file in a single call to &lt;CODE&gt;Read­File&lt;/CODE&gt;?】如何在单个调用中读取&lt;code&gt; readfile &lt;/code&gt;的文件中的文件超过4GB的数据？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250804-00/?p=111432</link>
-      <description>【The nNumber­Of­Bytes­To­Read parameter to Read­File is a 32-bit unsigned integer, which limits the number of bytes that could be read at once to 4GB. What if you need to read more than 4GB? The Read­File function cannot read more than 4GB of data at a time. At the time the function was or】读取文件的nnumberofbytestoread参数是一个32位的无符号整数，它限制了可以立即读取到4GB的字节数。如果您需要阅读超过4GB怎么办？读取文件函数一次不能读取超过4GB的数据。当时该功能是或</description>
-      <pubDate>Mon, 04 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The new Dependabot NuGet updater: 65% faster with native .NET】新的Disperabot Nuget Updater：使用本机.NET快65％</title>
-      <link>https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater</link>
-      <description>【If you&#39;ve ever waited impatiently for Dependabot to update your .NET dependencies, or worse, watched it fail with cryptic errors, we have some great news. Over the past year, the Dependabot team has worked on a refactor of the NuGet updater, and the results are impressive. From hybrid to native The previous NuGet updater use】如果您曾经不耐烦地等待Disperabot更新您的.NET依赖项，或者更糟糕的是，请注意它失败了，我们会有一些好消息。在过去的一年中，Displabot团队一直致力于Nuget Updater的重构，结果令人印象深刻。从混合到本地</description>
-      <pubDate>Mon, 04 Aug 2025 15:00:00 +0000</pubDate>
+      <title>【Scalable AI with Azure Cosmos DB - Video Series】与Azure Cosmos DB的可伸缩AI  - 视频系列</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/scalable-ai-with-azure-cosmos-db-video-series</link>
+      <description>【Scalable AI in Action with Azure Cosmos DB – A Monthly Partner Showcase As AI continues to reshape industries, customers are seeking scalable, real-time solutions that integrate seamlessly with their existing data platforms. Azure Cosmos DB, with its global distribution, low latency, and multi-model support, is uniquely p】Azure Cosmos DB的可扩展AI  - 随着AI的每月伴侣展示，随着AI的继续展示，客户正在寻求可扩展的实时解决方案，以与现有的数据平台无缝集成。 Azure Cosmos DB具有全球分布，低潜伏期和多模型支持，是独特的p</description>
+      <pubDate>Tue, 05 Aug 2025 14:13:08 +0000</pubDate>
     </item>
     <item>
       <title>【Dynamically Update C++ syntax using Next Edit Suggestions】使用下一个编辑建议动态更新C ++语法</title>
@@ -40,28 +28,40 @@
       <pubDate>Mon, 04 Aug 2025 16:36:10 +0000</pubDate>
     </item>
     <item>
-      <title>【A consequence of the weird &lt;CODE&gt;wReserved&lt;/CODE&gt; value at the start of the &lt;CODE&gt;DECIMAL&lt;/CODE&gt; structure】在&lt;code&gt; DECIMAL &lt;/code&gt;结构开始时，怪异&lt;code&gt; wresvered &lt;/code&gt;值的结果</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250731-00/?p=111423</link>
-      <description>【Not too long ago, I explained why why there is a weird wReserved value at the start of the DECIMAL structure. Markus Grohs pointed out】不久前，我解释了为什么在十进制结构开始时有一个奇怪的变形值。马库斯·格罗斯（Markus Grohs）指出</description>
-      <pubDate>Thu, 31 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【.NET and .NET Framework August 2025 servicing releases updates】.NET和.NET框架2025年8月Servicating发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for August 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of August 05, 2025. This update contains non-secu】欢迎使用2025年8月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们维修版本中新事物的快速概述：安全改进。NET和.NET框架，并在2025年8月的2025年8月更新中重新刷新了。</description>
+      <pubDate>Tue, 05 Aug 2025 22:54:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Two related questions about keeping track of PIDs of IPC clients】有关跟踪IPC客户pid的两个相关问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250801-00/?p=111427</link>
-      <description>【A customer was writing a program that was intended to run in the background and was looking for recommendations on how to store its PID so that other programs can find it and start communicating with the background process. Another customer was writing a provider program that will have multiple clients connect to it. They want the p】客户正在编写一个旨在在后台运行的程序，并正在寻找有关如何存储其PID的建议，以便其他程序可以找到它并开始与后台过程进行通信。另一个客户是编写一个提供商计划，该计划将使多个客户连接到它。他们想要P</description>
-      <pubDate>Fri, 01 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Exploring new Agent Quality and NLP evaluators for .NET AI applications】探索.NET AI应用程序的新代理质量和NLP评估器</title>
+      <link>https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators</link>
+      <description>【When building AI applications, comprehensive evaluation is crucial to ensure your systems deliver accurate, reliable, and contextually appropriate responses. We&#39;re excited to announce key enhancements to the Microsoft.Extensions.AI.Evaluation libraries with new】在构建AI应用程序时，全面的评估对于确保您的系统提供准确，可靠和上下文适当的响应至关重要。我们很高兴地宣布Microsoft.extensions.ai.Ai.Evaluation库的密钥增强功能</description>
+      <pubDate>Tue, 05 Aug 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Updated .NET and JDBC Drivers with Native Vector Data Support for High-Performance AI Workload】更新具有本机向量数据支持的.NET和JDBC驱动程序，以实现高性能AI工作负载</title>
-      <link>https://devblogs.microsoft.com/azure-sql/updated-net-and-jdbc-drivers-with-native-vector-data-support-for-high-performance-ai-workload</link>
-      <description>【We’ve just released major updates to our data access libraries, bringing native support for vector data to both the .NET and JDBC ecosystems, unlocking significant performance gains for AI and machine learning workloads. Microsoft.Data.SqlClient 6.1.0 With the new SqlVector class, you can now handle vector data in bin】我们刚刚发布了对数据访问库的重大更新，为.NET和JDBC生态系统带来了对矢量数据的本机支持，从而为AI和机器学习工作负载提供了显着的性能增长。 Microsoft.data.sqlclient 6.1.0带有新的SQLVector类，您现在可以在bin中处理矢量数据</description>
-      <pubDate>Thu, 31 Jul 2025 16:02:34 +0000</pubDate>
+      <title>【Introducing MCP Support in AI Shell Preview 6】在AI Shell Preview 6中引入MCP支持6</title>
+      <link>https://devblogs.microsoft.com/powershell/preview-6-ai-shell</link>
+      <description>【AI Shell Preview 6 is here! We are super excited to announce the latest preview release of AI Shell. This release focuses on enhancing the user experience with new features, improved error handling, and better integration with Model Context Protocol (MCP) tools. What&#39;s new at a glance】AI Shell Preview 6在这里！我们很高兴宣布AI Shell的最新预览版本。该版本的重点是增强用户体验新功能，改进的错误处理以及与模型上下文协议（MCP）工具更好的集成。一目了然</description>
+      <pubDate>Tue, 05 Aug 2025 18:40:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Join us at Azure Dev Summit 2025】加入我们的Azure Dev Summit 2025</title>
-      <link>https://devblogs.microsoft.com//join-us-at-azure-dev-summit-2025</link>
-      <description>【The success of AI-powered apps and agents hinges not only on cutting edge models and AI platforms, but on the developers who are chartered with designing innovative services that are secure, scalable, and grounded in the right knowledge. The inaugural Azure Dev Summit on October 13-16, 2025】AI驱动的应用程序和代理商的成功不仅取决于最前沿的模型和AI平台，还取决于开发人员，这些开发人员却涉及设计安全，可扩展和基于正确知识的创新服务。 2025年10月13日至16日举行的首届Azure Dev峰会</description>
-      <pubDate>Thu, 31 Jul 2025 18:49:52 +0000</pubDate>
+      <title>【Why are Windows semiannual updates named H1 and H2?】为什么Windows半年度更新名为H1和H2？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435</link>
+      <description>【Windows issues monthly updates, but the bigger updates happen twice a year. The one that happens in the first half of the year is called the H1 release, and the one in the second half is the H2 release. The letter H refers to &#34;half&#34;, which is the same pattern used by finance people to refer to the first and second halves of fiscal years. (Q】Windows会发出每月更新，但每年发生两次更新。在今年上半年发生的一种被称为H1版本，下半年是H2版本。字母h提到“一半”，这与财务人员使用的模式相同，指的是财政年度的第一和第二半。 （q</description>
+      <pubDate>Tue, 05 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio】Visual Studio 2015退休：较旧版本的Visual Studio的支持提醒</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio</link>
+      <description>【Support for Visual Studio 2015 will end on October 14, 2025. If you’re using an older version of Visual Studio, we want to keep you productive and secure when using Visual Studio, and strongly recommend you upgrade to Visual Studio 2022, which brings the power of Copilot to your development workflow. It also contains key productivity improve】支持Visual Studio 2015将于2025年10月14日结束。如果您使用较旧版本的Visual Studio，我们希望在使用Visual Studio时保持富有成效和安全的安全，并强烈建议您升级到Visual Studio 2022，这将使Copilot的力量带入开发工作流程。它还包含关键的生产率提高</description>
+      <pubDate>Tue, 05 Aug 2025 16:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automate your open-source dependency scanning with Advanced Security】使用高级安全性自动化开源依赖性扫描</title>
+      <link>https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security</link>
+      <description>【Any experiences that require additional setup is cumbersome, especially when there are multiple people needed. In GitHub Advanced Security for Azure DevOps, we&#39;re working to make it easier to enable features and scale out enablement across your enterprise. You can now automatically inject the dependency scanning task into a】任何需要额外设置的经验都很麻烦，尤其是在需要多个人的情况下。在GitHub的Azure DevOps Advanced Security中，我们正在努力使启用功能并扩展启用企业的功能变得更加容易。您现在可以自动将依赖项扫描任务注入</description>
+      <pubDate>Mon, 04 Aug 2025 17:17:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
