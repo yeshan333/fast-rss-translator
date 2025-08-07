@@ -10,34 +10,16 @@
       <pubDate>Tue, 05 Aug 2025 20:34:38 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET Conf 2025 - Announcing the Call for Content】.NET CONC 2025-宣布呼吁内容</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content</link>
-      <description>【Hey .NET developers! 🎉 The moment we&#39;ve all been waiting for is here - the Call for Content for .NET Conf 2025 is officially open! We want YOU to be part of this amazing celebration of everyt】嘿.NET开发人员！ 🎉我们都在等待的那一刻就在这里 -  .NET CONC 2025的内容呼吁正式开放！我们希望您成为每个人的惊人庆祝活动的一部分</description>
-      <pubDate>Tue, 05 Aug 2025 16:00:00 +0000</pubDate>
+      <title>【Announcing the Browser Automation Tool (Preview) in Azure AI Foundry Agent Service】宣布Azure AI Foundry代理服务中的浏览器自动化工具（预览）</title>
+      <link>https://devblogs.microsoft.com/foundry/announcing-the-browser-automation-tool-preview-in-azure-ai-foundry-agent-service</link>
+      <description>【Overview  T】概述t</description>
+      <pubDate>Wed, 06 Aug 2025 15:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Scalable AI with Azure Cosmos DB - Video Series】与Azure Cosmos DB的可伸缩AI  - 视频系列</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/scalable-ai-with-azure-cosmos-db-video-series</link>
-      <description>【Scalable AI in Action with Azure Cosmos DB – A Monthly Partner Showcase As AI continues to reshape industries, customers are seeking scalable, real-time solutions that integrate seamlessly with their existing data platforms. Azure Cosmos DB, with its global distribution, low latency, and multi-model support, is uniquely p】Azure Cosmos DB的可扩展AI  - 随着AI的每月伴侣展示，随着AI的继续展示，客户正在寻求可扩展的实时解决方案，以与现有的数据平台无缝集成。 Azure Cosmos DB具有全球分布，低潜伏期和多模型支持，是独特的p</description>
-      <pubDate>Tue, 05 Aug 2025 14:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dynamically Update C++ syntax using Next Edit Suggestions】使用下一个编辑建议动态更新C ++语法</title>
-      <link>https://devblogs.microsoft.com/cppblog/dynamically-update-c-syntax-using-next-edit-suggestions</link>
-      <description>【When working in a C++ repo, you often are maintaining and updating existing code just as often as you are writing new code. However, updating code in C++ can often require navigating to several different locations in a file to ensure consistency, which can disrupt your logical workflow. For example, changing a data member’s access level typi】在C ++仓库中工作时，您通常会像编写新代码一样频繁地维护和更新现有代码。但是，C ++中的更新代码通常需要导航到文件中的几个不同位置以确保一致性，这可能会破坏您的逻辑工作流程。例如，更改数据成员的访问级别典型</description>
-      <pubDate>Mon, 04 Aug 2025 16:36:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework August 2025 servicing releases updates】.NET和.NET框架2025年8月Servicating发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for August 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of August 05, 2025. This update contains non-secu】欢迎使用2025年8月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们维修版本中新事物的快速概述：安全改进。NET和.NET框架，并在2025年8月的2025年8月更新中重新刷新了。</description>
-      <pubDate>Tue, 05 Aug 2025 22:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exploring new Agent Quality and NLP evaluators for .NET AI applications】探索.NET AI应用程序的新代理质量和NLP评估器</title>
-      <link>https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators</link>
-      <description>【When building AI applications, comprehensive evaluation is crucial to ensure your systems deliver accurate, reliable, and contextually appropriate responses. We&#39;re excited to announce key enhancements to the Microsoft.Extensions.AI.Evaluation libraries with new】在构建AI应用程序时，全面的评估对于确保您的系统提供准确，可靠和上下文适当的响应至关重要。我们很高兴地宣布Microsoft.extensions.ai.Ai.Evaluation库的密钥增强功能</description>
-      <pubDate>Tue, 05 Aug 2025 17:05:00 +0000</pubDate>
+      <title>【5 Copilot Chat Prompts .NET Devs Should Steal Today】5个Copilot聊天提示.NET DEV今天应该偷</title>
+      <link>https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today</link>
+      <description>【Artificial intelligence is quickly becoming a key part of the modern .NET developer’s toolkit. With GitHub Copilot Chat, you can save countless hours, eliminate friction, and unlock new levels of creativity by simply asking the right questions. But what exactly should you ask? Here are five GitHub Copilot Chat prompts every .NET dev shoul】人工智能正在迅速成为现代.NET开发人员工具包的关键部分。借助Github Copilot聊天，您可以节省无数小时，消除摩擦，并通过简单地提出正确的问题来解锁新的创造力。但是您到底应该问什么？这是五个github副作用聊天提示，每个.NET DEV SHOUL</description>
+      <pubDate>Wed, 06 Aug 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing MCP Support in AI Shell Preview 6】在AI Shell Preview 6中引入MCP支持6</title>
@@ -46,22 +28,40 @@
       <pubDate>Tue, 05 Aug 2025 18:40:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Why are Windows semiannual updates named H1 and H2?】为什么Windows半年度更新名为H1和H2？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435</link>
-      <description>【Windows issues monthly updates, but the bigger updates happen twice a year. The one that happens in the first half of the year is called the H1 release, and the one in the second half is the H2 release. The letter H refers to &#34;half&#34;, which is the same pattern used by finance people to refer to the first and second halves of fiscal years. (Q】Windows会发出每月更新，但每年发生两次更新。在今年上半年发生的一种被称为H1版本，下半年是H2版本。字母h提到“一半”，这与财务人员使用的模式相同，指的是财政年度的第一和第二半。 （q</description>
-      <pubDate>Tue, 05 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【How do I disable pieces of the property sheet for a service in the Services MMC snap-in?】如何禁用属性表的属性表中的服务MMC快照中的服务？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250806-00/?p=111440</link>
+      <description>【A customer was developing a service, and they didn&#39;t want users to be able to change the service&#39;s startup type (e.g. change it from auto-start to disabled). They saw that other services had the &#34;Startup type&#34; field disabled. How can they get in on that action? They found that that they could get close to the desired behavior by restricting】客户正在开发服务，他们不希望用户能够更改服务的启动类型（例如，将其从自动启动更改为残疾人）。他们看到其他服务已禁用“启动类型”字段。他们如何参与这一行动？他们发现，他们可以通过限制来接近所需的行为</description>
+      <pubDate>Wed, 06 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio】Visual Studio 2015退休：较旧版本的Visual Studio的支持提醒</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio</link>
-      <description>【Support for Visual Studio 2015 will end on October 14, 2025. If you’re using an older version of Visual Studio, we want to keep you productive and secure when using Visual Studio, and strongly recommend you upgrade to Visual Studio 2022, which brings the power of Copilot to your development workflow. It also contains key productivity improve】支持Visual Studio 2015将于2025年10月14日结束。如果您使用较旧版本的Visual Studio，我们希望在使用Visual Studio时保持富有成效和安全的安全，并强烈建议您升级到Visual Studio 2022，这将使Copilot的力量带入开发工作流程。它还包含关键的生产率提高</description>
-      <pubDate>Tue, 05 Aug 2025 16:16:53 +0000</pubDate>
+      <title>【.NET and .NET Framework August 2025 servicing releases updates】.NET和.NET框架2025年8月Servicating发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for August 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of August 05, 2025. This update contains non-secu】欢迎使用2025年8月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们维修版本中新事物的快速概述：安全改进。NET和.NET框架，并在2025年8月的2025年8月更新中重新刷新了。</description>
+      <pubDate>Tue, 05 Aug 2025 22:54:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Automate your open-source dependency scanning with Advanced Security】使用高级安全性自动化开源依赖性扫描</title>
-      <link>https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security</link>
-      <description>【Any experiences that require additional setup is cumbersome, especially when there are multiple people needed. In GitHub Advanced Security for Azure DevOps, we&#39;re working to make it easier to enable features and scale out enablement across your enterprise. You can now automatically inject the dependency scanning task into a】任何需要额外设置的经验都很麻烦，尤其是在需要多个人的情况下。在GitHub的Azure DevOps Advanced Security中，我们正在努力使启用功能并扩展启用企业的功能变得更加容易。您现在可以自动将依赖项扫描任务注入</description>
-      <pubDate>Mon, 04 Aug 2025 17:17:37 +0000</pubDate>
+      <title>【Build a RAG application with LangChain and Local LLMs powered by Ollama】使用Langchain和由Ollama提供动力的Langchain和Local LLMS构建RAG应用程序</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama</link>
+      <description>【Local large language models (LLMs) provide significant advantages for developers and organizations. Key benefits include enhanced data privacy, as sensitive information remains entirely within your own infrastructure, and offline functionality, enabling uninterrupted work even without internet access. While cloud-based LLM services are conveni】当地的大型语言模型（LLM）为开发人员和组织提供了重要的优势。关键好处包括增强的数据隐私，因为敏感信息完全保留在您自己的基础架构中，并且离线功能，即使没有Internet访问，也可以不间断地工作。而基于云的LLM服务便宜</description>
+      <pubDate>Wed, 06 Aug 2025 11:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exploring new Agent Quality and NLP evaluators for .NET AI applications】探索.NET AI应用程序的新代理质量和NLP评估器</title>
+      <link>https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators</link>
+      <description>【When building AI applications, comprehensive evaluation is crucial to ensure your systems deliver accurate, reliable, and contextually appropriate responses. We&#39;re excited to announce key enhancements to the Microsoft.Extensions.AI.Evaluation libraries with new】在构建AI应用程序时，全面的评估对于确保您的系统提供准确，可靠和上下文适当的响应至关重要。我们很高兴地宣布Microsoft.extensions.ai.Ai.Evaluation库的密钥增强功能</description>
+      <pubDate>Tue, 05 Aug 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Generative AI for Beginners - Java Edition launched】初学者的生成AI -Java Edition推出了</title>
+      <link>https://devblogs.microsoft.com/java/generative-ai-for-beginners-java-edition-launched</link>
+      <description>【IN ONE hour, all ONLINE, complete our ne】在一个小时内，所有在线，完成我们的NE</description>
+      <pubDate>Wed, 06 Aug 2025 08:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【&#34;HTTP header exceeding 8,192 bytes&#34; error when using the Azure SDK for Java】使用Azure SDK时，“ HTTP标头超过8,192个字节”错误</title>
+      <link>https://devblogs.microsoft.com/java/http-header-size-errors-in-the-azure-sdk-for-java</link>
+      <description>【A recent issue was identified in the azure-resourcemanager libraries for Java regarding HTTP headers exceeding 8,192 bytes. Following analysis, this was addressed within the Azure SDK for Java by increasing the maximum response header size limit of “reactor-netty-http】最近在Java的Azure-ResourceManager库中确定了最近的一个问题，内容涉及超过8,192个字节的HTTP标头。在分析之后，通过增加“反应器netty-HTTP</description>
+      <pubDate>Thu, 07 Aug 2025 01:29:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
