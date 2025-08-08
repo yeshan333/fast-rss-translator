@@ -4,16 +4,52 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【What’s New in vcpkg (July 2025)】VCPKG的新功能（2025年7月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.07.25 registry release, 2025-06-20,】此博客文章总结了VCPKG软件包管理器的更改，作为2025.07.25注册表版本的一部分，2025-06-20，</description>
-      <pubDate>Tue, 05 Aug 2025 20:34:38 +0000</pubDate>
+      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
+      <link>https://devblogs.microsoft.com/external-blogs/july-2025-version-1-103</link>
+      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Browser Automation Tool (Preview) in Azure AI Foundry Agent Service】宣布Azure AI Foundry代理服务中的浏览器自动化工具（预览）</title>
-      <link>https://devblogs.microsoft.com/foundry/announcing-the-browser-automation-tool-preview-in-azure-ai-foundry-agent-service</link>
-      <description>【Overview  T】概述t</description>
-      <pubDate>Wed, 06 Aug 2025 15:00:56 +0000</pubDate>
+      <title>【&#34;HTTP header exceeding 8,192 bytes&#34; error when using the Azure SDK for Java】使用Azure SDK时，“ HTTP标头超过8,192个字节”错误</title>
+      <link>https://devblogs.microsoft.com/java/http-header-size-errors-in-the-azure-sdk-for-java</link>
+      <description>【A recent issue was identified in the azure-resourcemanager libraries for Java regarding HTTP headers exceeding 8,192 bytes. Following analysis, this was addressed within the Azure SDK for Java by increasing the maximum response header size limit of “reactor-netty-http】最近在Java的Azure-ResourceManager库中确定了最近的一个问题，内容涉及超过8,192个字节的HTTP标头。在分析之后，通过增加“反应器netty-HTTP</description>
+      <pubDate>Thu, 07 Aug 2025 01:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/july-2025-(version-1.103)</link>
+      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code - August 2025 Release】Visual Studio代码中的Python- 2025年8月发行</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2025-release</link>
+      <description>【We&#39;re excited to announce the August 2025 release of the Python, Pylance and Jupyter e】我们很高兴宣布2025年8月发行Python，Pylance和Jupyter E</description>
+      <pubDate>Thu, 07 Aug 2025 20:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Complete Playwright End to End Story, Tools, AI, and Real-World Workflows】完整的剧作家最终故事，工具，人工智能和现实世界的工作流程</title>
+      <link>https://devblogs.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows</link>
+      <description>【1. Introduction End to end testing has evolved dramatically, and Playwright stands at the forefront. Playwright offers a full ecosystem empowering developers to write, debug, and maintain tests with speed and reliability. From its po】1。介绍端到端测试的发展发生了巨大的发展，剧作家站在前沿。剧作家提供了一个完整的生态系统，以赋予开发人员能够以速度和可靠性来编写，调试和维护测试。从它的po</description>
+      <pubDate>Thu, 07 Aug 2025 18:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learnings from External Data Handling】从外部数据处理中学习</title>
+      <link>https://devblogs.microsoft.com/ise/learnings-from-external-data-handling-learnings</link>
+      <description>【Intro Our ISE team at Microsoft recently completed an engagement with a large industrial customer. The system we developed was distributed between the edge and the cloud and made use of technologies including Python, Azure IoT, Kubernetes, Redis and D】Microsoft的ISE团队介绍了我们最近与大型工业客户的订婚。我们开发的系统分布在边缘和云之间，并利用包括Python，Azure IoT，Kubernetes，Redis和D等技术</description>
+      <pubDate>Thu, 07 Aug 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.24.6-1 and 1.23.12-1 Microsoft builds now available】GO 1.24.6-1和1.23.12-1 Microsoft现在可用</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-6-1-and-1-23-12-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
+      <pubDate>Thu, 07 Aug 2025 16:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dev Proxy v1.0 with new features for building robust AI-powered apps】开发代理v1.0具有用于构建强大AI驱动应用的新功能</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v1-0-with-new-features-for-building-robust-ai-powered-apps</link>
+      <description>【We&#39;re excited to announce Dev Proxy v1.0, with new language model-specific testing capabilities. This release introduces tools to help developers build more reliable AI-powered applications by simulating real-world scenarios and tracking resource usage. In this version: Language model failure simulation with 15 realistic failur】我们很高兴宣布Dev Proxy V1.0，并具有新的语言模型特定测试功能。该版本介绍了工具，以帮助开发人员通过模拟现实世界情景和跟踪资源使用量来构建更可靠的AI驱动应用程序。在此版本中：语言模型故障模拟与15个现实失败</description>
+      <pubDate>Thu, 07 Aug 2025 06:15:06 +0000</pubDate>
     </item>
     <item>
       <title>【5 Copilot Chat Prompts .NET Devs Should Steal Today】5个Copilot聊天提示.NET DEV今天应该偷</title>
@@ -22,46 +58,10 @@
       <pubDate>Wed, 06 Aug 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing MCP Support in AI Shell Preview 6】在AI Shell Preview 6中引入MCP支持6</title>
-      <link>https://devblogs.microsoft.com/powershell/preview-6-ai-shell</link>
-      <description>【AI Shell Preview 6 is here! We are super excited to announce the latest preview release of AI Shell. This release focuses on enhancing the user experience with new features, improved error handling, and better integration with Model Context Protocol (MCP) tools. What&#39;s new at a glance】AI Shell Preview 6在这里！我们很高兴宣布AI Shell的最新预览版本。该版本的重点是增强用户体验新功能，改进的错误处理以及与模型上下文协议（MCP）工具更好的集成。一目了然</description>
-      <pubDate>Tue, 05 Aug 2025 18:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How do I disable pieces of the property sheet for a service in the Services MMC snap-in?】如何禁用属性表的属性表中的服务MMC快照中的服务？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250806-00/?p=111440</link>
-      <description>【A customer was developing a service, and they didn&#39;t want users to be able to change the service&#39;s startup type (e.g. change it from auto-start to disabled). They saw that other services had the &#34;Startup type&#34; field disabled. How can they get in on that action? They found that that they could get close to the desired behavior by restricting】客户正在开发服务，他们不希望用户能够更改服务的启动类型（例如，将其从自动启动更改为残疾人）。他们看到其他服务已禁用“启动类型”字段。他们如何参与这一行动？他们发现，他们可以通过限制来接近所需的行为</description>
-      <pubDate>Wed, 06 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework August 2025 servicing releases updates】.NET和.NET框架2025年8月Servicating发布更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for August 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of August 05, 2025. This update contains non-secu】欢迎使用2025年8月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们维修版本中新事物的快速概述：安全改进。NET和.NET框架，并在2025年8月的2025年8月更新中重新刷新了。</description>
-      <pubDate>Tue, 05 Aug 2025 22:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build a RAG application with LangChain and Local LLMs powered by Ollama】使用Langchain和由Ollama提供动力的Langchain和Local LLMS构建RAG应用程序</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama</link>
-      <description>【Local large language models (LLMs) provide significant advantages for developers and organizations. Key benefits include enhanced data privacy, as sensitive information remains entirely within your own infrastructure, and offline functionality, enabling uninterrupted work even without internet access. While cloud-based LLM services are conveni】当地的大型语言模型（LLM）为开发人员和组织提供了重要的优势。关键好处包括增强的数据隐私，因为敏感信息完全保留在您自己的基础架构中，并且离线功能，即使没有Internet访问，也可以不间断地工作。而基于云的LLM服务便宜</description>
-      <pubDate>Wed, 06 Aug 2025 11:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Exploring new Agent Quality and NLP evaluators for .NET AI applications】探索.NET AI应用程序的新代理质量和NLP评估器</title>
-      <link>https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators</link>
-      <description>【When building AI applications, comprehensive evaluation is crucial to ensure your systems deliver accurate, reliable, and contextually appropriate responses. We&#39;re excited to announce key enhancements to the Microsoft.Extensions.AI.Evaluation libraries with new】在构建AI应用程序时，全面的评估对于确保您的系统提供准确，可靠和上下文适当的响应至关重要。我们很高兴地宣布Microsoft.extensions.ai.Ai.Evaluation库的密钥增强功能</description>
-      <pubDate>Tue, 05 Aug 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Generative AI for Beginners - Java Edition launched】初学者的生成AI -Java Edition推出了</title>
-      <link>https://devblogs.microsoft.com/java/generative-ai-for-beginners-java-edition-launched</link>
-      <description>【IN ONE hour, all ONLINE, complete our ne】在一个小时内，所有在线，完成我们的NE</description>
-      <pubDate>Wed, 06 Aug 2025 08:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【&#34;HTTP header exceeding 8,192 bytes&#34; error when using the Azure SDK for Java】使用Azure SDK时，“ HTTP标头超过8,192个字节”错误</title>
-      <link>https://devblogs.microsoft.com/java/http-header-size-errors-in-the-azure-sdk-for-java</link>
-      <description>【A recent issue was identified in the azure-resourcemanager libraries for Java regarding HTTP headers exceeding 8,192 bytes. Following analysis, this was addressed within the Azure SDK for Java by increasing the maximum response header size limit of “reactor-netty-http】最近在Java的Azure-ResourceManager库中确定了最近的一个问题，内容涉及超过8,192个字节的HTTP标头。在分析之后，通过增加“反应器netty-HTTP</description>
-      <pubDate>Thu, 07 Aug 2025 01:29:31 +0000</pubDate>
+      <title>【How can I detect that Windows is running in S-Mode?】如何检测Windows在S模式中运行？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250807-00/?p=111444</link>
+      <description>【Windows S-Mode is a mode of Windows which restricts programs to those which came from the Microsoft Store. You might have a program that is available from the Microsoft Store (therefore is allowed to run in S-Mode), and you want to know whether to suggest that the user install a companion program that is not allowed in S-Mode. How can a pro】Windows S模式是一种窗口模式，它将程序限制为来自Microsoft Store的程序。您可能拥有一个从Microsoft Store可用的程序（因此允许在S模式下运行），并且您想知道是否建议用户安装S-Mode中不允许使用的伴随程序。专业人士怎么能</description>
+      <pubDate>Thu, 07 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
