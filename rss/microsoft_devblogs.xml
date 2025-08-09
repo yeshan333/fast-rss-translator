@@ -4,10 +4,46 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【&#34;HTTP header exceeding 8,192 bytes&#34; error when using the Azure SDK for Java】使用Azure SDK时，“ HTTP标头超过8,192个字节”错误</title>
-      <link>https://devblogs.microsoft.com/java/http-header-size-errors-in-the-azure-sdk-for-java</link>
-      <description>【A recent issue was identified in the azure-resourcemanager libraries for Java regarding HTTP headers exceeding 8,192 bytes. Following analysis, this was addressed within the Azure SDK for Java by increasing the maximum response header size limit of “reactor-netty-http】最近在Java的Azure-ResourceManager库中确定了最近的一个问题，内容涉及超过8,192个字节的HTTP标头。在分析之后，通过增加“反应器netty-HTTP</description>
-      <pubDate>Thu, 07 Aug 2025 01:29:31 +0000</pubDate>
+      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/july-2025-(version-1.103)</link>
+      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
+      <link>https://devblogs.microsoft.com/external-blogs/july-2025-version-1-103</link>
+      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code - August 2025 Release】Visual Studio代码中的Python- 2025年8月发行</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2025-release</link>
+      <description>【We&#39;re excited to announce the August 2025 release of the Python, Pylance and Jupyter e】我们很高兴宣布2025年8月发行Python，Pylance和Jupyter E</description>
+      <pubDate>Thu, 07 Aug 2025 20:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.24.6-1 and 1.23.12-1 Microsoft builds now available】GO 1.24.6-1和1.23.12-1 Microsoft现在可用</title>
+      <link>https://devblogs.microsoft.com/go/go-1-24-6-1-and-1-23-12-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
+      <pubDate>Thu, 07 Aug 2025 16:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Under what conditions could a &lt;CODE&gt;Read­File&lt;/CODE&gt; or &lt;CODE&gt;Write­File&lt;/CODE&gt; fail to transfer all of the bytes, and how do I detect that?】在什么条件下，&lt;Code&gt; ReadFile &lt;/code&gt;或&lt;code&gt; writeFile &lt;/code&gt;无法转移所有字节，我该如何检测？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250808-00/?p=111447</link>
+      <description>【A customer wanted to understand the conditions under which the Read­File and Write­File functions would fail to transfer all of the bytes, and how to detect that this has occurred. The obvious reason why the Read­File functions would fail to transfer all the bytes is if there aren&#39;t that man】客户想了解ReadFile和WriteFile功能无法传输所有字节的条件，以及如何检测发生这种情况。 ReadFile函数无法传输所有字节的明显原因是如果没有该字节</description>
+      <pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learnings from External Data Handling】从外部数据处理中学习</title>
+      <link>https://devblogs.microsoft.com/ise/learnings-from-external-data-handling-learnings</link>
+      <description>【Intro Our ISE team at Microsoft recently completed an engagement with a large industrial customer. The system we developed was distributed between the edge and the cloud and made use of technologies including Python, Azure IoT, Kubernetes, Redis and D】Microsoft的ISE团队介绍了我们最近与大型工业客户的订婚。我们开发的系统分布在边缘和云之间，并利用包括Python，Azure IoT，Kubernetes，Redis和D等技术</description>
+      <pubDate>Thu, 07 Aug 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Complete Playwright End-to-End Story, Tools, AI, and Real-World Workflows】完整的剧作家端到端的故事，工具，人工智能和现实世界的工作流程</title>
+      <link>https://devblogs.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows</link>
+      <description>【1. Introduction End-to-end testing has evolved dramatically, and Playwright stands at the forefront. Playwright offers a full ecosystem empowering developers to write, debug, and maintain tests with speed and reliability. From its po】1。简介端到端测试发生了巨大的发展，剧作家站在前沿。剧作家提供了一个完整的生态系统，以赋予开发人员能够以速度和可靠性来编写，调试和维护测试。从它的po</description>
+      <pubDate>Thu, 07 Aug 2025 18:00:52 +0000</pubDate>
     </item>
     <item>
       <title>【Dev Proxy v1.0 with new features for building robust AI-powered apps】开发代理v1.0具有用于构建强大AI驱动应用的新功能</title>
@@ -22,46 +58,10 @@
       <pubDate>Thu, 07 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Under what conditions could a &lt;CODE&gt;Read­File&lt;/CODE&gt; or &lt;CODE&gt;Write­File&lt;/CODE&gt; fail to transfer all of the bytes, and how do I detect that?】在什么条件下，&lt;Code&gt; ReadFile &lt;/code&gt;或&lt;code&gt; writeFile &lt;/code&gt;无法转移所有字节，我该如何检测？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250808-00/?p=111447</link>
-      <description>【A customer wanted to understand the conditions under which the Read­File and Write­File functions would fail to transfer all of the bytes, and how to detect that this has occurred. The obvious reason why the Read­File functions would fail to transfer all the bytes is if there aren&#39;t that man】客户想了解ReadFile和WriteFile功能无法传输所有字节的条件，以及如何检测发生这种情况。 ReadFile函数无法传输所有字节的明显原因是如果没有该字节</description>
-      <pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.24.6-1 and 1.23.12-1 Microsoft builds now available】GO 1.24.6-1和1.23.12-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-24-6-1-and-1-23-12-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
-      <pubDate>Thu, 07 Aug 2025 16:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code - August 2025 Release】Visual Studio代码中的Python- 2025年8月发行</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2025-release</link>
-      <description>【We&#39;re excited to announce the August 2025 release of the Python, Pylance and Jupyter e】我们很高兴宣布2025年8月发行Python，Pylance和Jupyter E</description>
-      <pubDate>Thu, 07 Aug 2025 20:58:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/july-2025-(version-1.103)</link>
-      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
-      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Learnings from External Data Handling】从外部数据处理中学习</title>
-      <link>https://devblogs.microsoft.com/ise/learnings-from-external-data-handling-learnings</link>
-      <description>【Intro Our ISE team at Microsoft recently completed an engagement with a large industrial customer. The system we developed was distributed between the edge and the cloud and made use of technologies including Python, Azure IoT, Kubernetes, Redis and D】Microsoft的ISE团队介绍了我们最近与大型工业客户的订婚。我们开发的系统分布在边缘和云之间，并利用包括Python，Azure IoT，Kubernetes，Redis和D等技术</description>
-      <pubDate>Thu, 07 Aug 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
-      <link>https://devblogs.microsoft.com/external-blogs/july-2025-version-1-103</link>
-      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
-      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Complete Playwright End-to-End Story, Tools, AI, and Real-World Workflows】完整的剧作家端到端的故事，工具，人工智能和现实世界的工作流程</title>
-      <link>https://devblogs.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows</link>
-      <description>【1. Introduction End-to-end testing has evolved dramatically, and Playwright stands at the forefront. Playwright offers a full ecosystem empowering developers to write, debug, and maintain tests with speed and reliability. From its po】1。简介端到端测试发生了巨大的发展，剧作家站在前沿。剧作家提供了一个完整的生态系统，以赋予开发人员能够以速度和可靠性来编写，调试和维护测试。从它的po</description>
-      <pubDate>Thu, 07 Aug 2025 18:00:52 +0000</pubDate>
+      <title>【&#34;HTTP header exceeding 8,192 bytes&#34; error when using the Azure SDK for Java】使用Azure SDK时，“ HTTP标头超过8,192个字节”错误</title>
+      <link>https://devblogs.microsoft.com/java/http-header-size-errors-in-the-azure-sdk-for-java</link>
+      <description>【A recent issue was identified in the azure-resourcemanager libraries for Java regarding HTTP headers exceeding 8,192 bytes. Following analysis, this was addressed within the Azure SDK for Java by increasing the maximum response header size limit of “reactor-netty-http】最近在Java的Azure-ResourceManager库中确定了最近的一个问题，内容涉及超过8,192个字节的HTTP标头。在分析之后，通过增加“反应器netty-HTTP</description>
+      <pubDate>Thu, 07 Aug 2025 01:29:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
