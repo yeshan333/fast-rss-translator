@@ -36,6 +36,22 @@ type Feed struct {
 	AlibabaQwenAIModel  string `mapstructure:"alibaba_qwen_ai_model"` // alibaba qwen ai model, default is qwen-turbo
 }
 
+// SafeString returns a string representation of the feed with sensitive data masked
+func (f *Feed) SafeString() string {
+	cloudflareApiKey := "****"
+	if f.CloudflareApiKey != "" {
+		cloudflareApiKey = f.CloudflareApiKey[:min(4, len(f.CloudflareApiKey))] + "****"
+	}
+	
+	alibabaQwenAPIKey := "****"
+	if f.AlibabaQwenAPIKey != "" {
+		alibabaQwenAPIKey = f.AlibabaQwenAPIKey[:min(4, len(f.AlibabaQwenAPIKey))] + "****"
+	}
+	
+	return fmt.Sprintf("Feed{Name: %s, Url: %s, OriginLanguage: %s, TargetLanguage: %s, TranslateMode: %s, TranslateEngine: %s, MaxPost: %d, CloudflareAccountID: %s, CloudflareApiKey: %s, CloudflareAIModel: %s, AlibabaQwenAPIKey: %s, AlibabaQwenAIModel: %s}",
+		f.Name, f.Url, f.OriginLanguage, f.TargetLanguage, f.TranslateMode, f.TranslateEngine, f.MaxPost, f.CloudflareAccountID, cloudflareApiKey, f.CloudflareAIModel, alibabaQwenAPIKey, f.AlibabaQwenAIModel)
+}
+
 type Translator struct {
 	Feed
 	HttpProxy string

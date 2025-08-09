@@ -49,7 +49,7 @@ var rootCmd = &cobra.Command{
 		// 	panic(err)
 		// }
 		slog.Info("get rss feeds from config file", "filepath", cfgFile)
-		slog.Info("global subscribes config", "config", fmt.Sprintf("%+v", globalConfig))
+		slog.Info("global subscribes config", "config", globalConfig.SafeString())
 
 		wg := sync.WaitGroup{}
 		wg.Add(len(globalConfig.Feeds))
