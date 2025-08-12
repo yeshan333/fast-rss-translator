@@ -27,13 +27,14 @@ type Feed struct {
 	OriginLanguage      string `mapstructure:"origin_language"`
 	TargetLanguage      string `mapstructure:"target_language"`
 	TranslateMode       string `mapstructure:"translate_mode"`   // origin | proxy | bilingual, bilingual: mix origin and target lang, proxy: do not translate
-	TranslateEngine     string `mapstructure:"translate_engine"` // google | openai | cloudflare
+	TranslateEngine     string `mapstructure:"translate_engine"` // google | openai | cloudflare | qwen
 	MaxPost             int    `mapstructure:"max_post"`         // max handled posts
 	CloudflareAccountID string `mapstructure:"cloudflare_account_id"`
 	CloudflareApiKey    string `mapstructure:"cloudflare_api_key"`
 	CloudflareAIModel   string `mapstructure:"cloudflare_ai_model"` // cloudflare ai model, default is @cf/google/gemma-3-12b-it
 	AlibabaQwenAPIKey   string `mapstructure:"alibaba_qwen_api_key"`
 	AlibabaQwenAIModel  string `mapstructure:"alibaba_qwen_ai_model"` // alibaba qwen ai model, default is qwen-turbo
+	AlibabaQwenAPIURL   string `mapstructure:"alibaba_qwen_api_url"`  // alibaba qwen api url, default is https://dashscope.aliyuncs.com/compatible-mode/v1
 }
 
 // SafeString returns a string representation of the feed with sensitive data masked
@@ -42,14 +43,14 @@ func (f *Feed) SafeString() string {
 	if f.CloudflareApiKey != "" {
 		cloudflareApiKey = f.CloudflareApiKey[:min(4, len(f.CloudflareApiKey))] + "****"
 	}
-	
+
 	alibabaQwenAPIKey := "****"
 	if f.AlibabaQwenAPIKey != "" {
 		alibabaQwenAPIKey = f.AlibabaQwenAPIKey[:min(4, len(f.AlibabaQwenAPIKey))] + "****"
 	}
-	
-	return fmt.Sprintf("Feed{Name: %s, Url: %s, OriginLanguage: %s, TargetLanguage: %s, TranslateMode: %s, TranslateEngine: %s, MaxPost: %d, CloudflareAccountID: %s, CloudflareApiKey: %s, CloudflareAIModel: %s, AlibabaQwenAPIKey: %s, AlibabaQwenAIModel: %s}",
-		f.Name, f.Url, f.OriginLanguage, f.TargetLanguage, f.TranslateMode, f.TranslateEngine, f.MaxPost, f.CloudflareAccountID, cloudflareApiKey, f.CloudflareAIModel, alibabaQwenAPIKey, f.AlibabaQwenAIModel)
+
+	return fmt.Sprintf("Feed{Name: %s, Url: %s, OriginLanguage: %s, TargetLanguage: %s, TranslateMode: %s, TranslateEngine: %s, MaxPost: %d, CloudflareAccountID: %s, CloudflareApiKey: %s, CloudflareAIModel: %s, AlibabaQwenAPIKey: %s, AlibabaQwenAIModel: %s, AlibabaQwenAPIURL: %s}",
+		f.Name, f.Url, f.OriginLanguage, f.TargetLanguage, f.TranslateMode, f.TranslateEngine, f.MaxPost, f.CloudflareAccountID, cloudflareApiKey, f.CloudflareAIModel, alibabaQwenAPIKey, f.AlibabaQwenAIModel, f.AlibabaQwenAPIURL)
 }
 
 type Translator struct {
@@ -297,6 +298,7 @@ func (translator *Translator) translateWithCloudflare(content string) string {
 
 func (translator *Translator) translateWithAlibabaQwen(content string) string {
 	apiKey := os.Getenv("ALIBABA_QWEN_API_KEY")
+	apiURL := os.Getenv("ALIBABA_QWEN_API_URL")
 
 	if translator.AlibabaQwenAPIKey != "" {
 		apiKey = translator.AlibabaQwenAPIKey
@@ -310,7 +312,16 @@ func (translator *Translator) translateWithAlibabaQwen(content string) string {
 		return content // Return original content if credentials are not set
 	}
 
-	apiURL := "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+	completionEndpoint := "/chat/completions"
+	defaultAPIURL := "https://dashscope.aliyuncs.com/compatible-mode/v1"
+	finalAPIURL := defaultAPIURL + completionEndpoint
+
+	// Use custom API URL from config or environment variable if provided
+	if translator.AlibabaQwenAPIURL != "" {
+		finalAPIURL = translator.AlibabaQwenAPIURL + completionEndpoint
+	} else if apiURL != "" {
+		finalAPIURL = apiURL + completionEndpoint
+	}
 
 	var alibabaQwenModel string
 	if translator.AlibabaQwenAIModel != "" {
@@ -320,8 +331,8 @@ func (translator *Translator) translateWithAlibabaQwen(content string) string {
 	}
 
 	// Simple retry logic for handling transient errors
-	for attempt := 0; attempt < 3; attempt++ {
-		requestBody := map[string]interface{}{
+	for attempt := range 3 {
+		requestBody := map[string]any{
 			"model": alibabaQwenModel,
 			"messages": []map[string]string{
 				{
@@ -336,7 +347,7 @@ func (translator *Translator) translateWithAlibabaQwen(content string) string {
 			return content
 		}
 
-		req, err := http.NewRequest("POST", apiURL, bytes.NewBuffer(jsonBody))
+		req, err := http.NewRequest("POST", finalAPIURL, bytes.NewBuffer(jsonBody))
 		if err != nil {
 			slog.Error("Error creating Alibaba Qwen request", "err", err, "feed", translator.Feed.Url)
 			return content
