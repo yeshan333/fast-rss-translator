@@ -10,34 +10,10 @@
       <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The Complete Playwright End-to-End Story, Tools, AI, and Real-World Workflows】完整的剧作家端到端的故事，工具，人工智能和现实世界的工作流程</title>
-      <link>https://devblogs.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows</link>
-      <description>【1. Introduction End-to-end testing has evolved dramatically, and Playwright stands at the forefront. Playwright offers a full ecosystem empowering developers to write, debug, and maintain tests with speed and reliability. From its po】1。简介端到端测试发生了巨大的发展，剧作家站在前沿。剧作家提供了一个完整的生态系统，以赋予开发人员能够以速度和可靠性来编写，调试和维护测试。从它的po</description>
-      <pubDate>Thu, 07 Aug 2025 18:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 1: Concept art】关于创建跟踪指针类的想法，第1部分：概念艺术</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250811-00/?p=111451</link>
-      <description>【Suppose you have a C++ object, and you want to be able to create a &#34;tracking pointer&#34; that points to the object and follows it as it moves. // Concept art - final product may differ in significant ways struct Widget : trackable_object&amp;lt;Widget&amp;gt; { ⟦ ... ⟧ }; Widget w; tracking_ptr&amp;lt;Widget&amp;gt; p(w); asse】假设您有一个C ++对象，并且您希望能够创建一个指向对象并在其移动时跟随它的“跟踪指针”。 //概念艺术 - 最终产品可能会在很大程度上有所不同。小部件W; tracking_ptr &lt;Widget&gt; p（w）; ASSE</description>
-      <pubDate>Mon, 11 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
       <link>https://devblogs.microsoft.com/external-blogs/july-2025-version-1-103</link>
       <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
       <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Under what conditions could a &lt;CODE&gt;Read­File&lt;/CODE&gt; or &lt;CODE&gt;Write­File&lt;/CODE&gt; fail to transfer all of the bytes, and how do I detect that?】在什么条件下，&lt;Code&gt; ReadFile &lt;/code&gt;或&lt;code&gt; writeFile &lt;/code&gt;无法转移所有字节，我该如何检测？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250808-00/?p=111447</link>
-      <description>【A customer wanted to understand the conditions under which the Read­File and Write­File functions would fail to transfer all of the bytes, and how to detect that this has occurred. The obvious reason why the Read­File functions would fail to transfer all the bytes is if there aren&#39;t that man】客户想了解ReadFile和WriteFile功能无法传输所有字节的条件，以及如何检测发生这种情况。 ReadFile函数无法传输所有字节的明显原因是如果没有该字节</description>
-      <pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing GA of Bicep templates support for Microsoft Entra ID resources】宣布二头肌模板的GA支持Microsoft Entra ID资源</title>
-      <link>https://devblogs.microsoft.com/identity/bicep-templates-for-microsoft-entra-id-resources-is-ga</link>
-      <description>【We’re thrilled to announce that Bicep templates for Microsoft Entra ID resources is generally available from July 29th, 2025. Bicep templates bring declarative infrastructure as code (IaC) capabilities to Microsoft Graph resources. This new capability will initially be available for core Microsoft Entra ID resources. Bicep templat】我们很高兴地宣布，Microsoft Entra ID资源的二头肌模板通常从2025年7月29日提供。二头肌模板将声明性的基础架构作为代码（IAC）功能带到Microsoft Graph Resources。最初，这种新功能将用于Microsoft Entra ID资源。二头肌神庙</description>
-      <pubDate>Mon, 11 Aug 2025 16:08:26 +0000</pubDate>
     </item>
     <item>
       <title>【mssql-python vs pyodbc: Benchmarking SQL Server Performance】MSSQL-PYTHON vs PYODBC：基准测试SQL Server性能</title>
@@ -52,16 +28,40 @@
       <pubDate>Thu, 07 Aug 2025 20:58:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Real-Time Security with Continuous Access Evaluation (CAE) comes to Azure DevOps】带有连续访问评估（CAE）的实时安全性用于Azure DevOps</title>
-      <link>https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops</link>
-      <description>【We’re thrilled to announce that Continuous Access Evaluation (CAE) is now supported on Azure DevOps, bringing a new level of near real-time security enforcement to your development workflows. 🔐 What Is CAE?】我们很高兴地宣布，Azure Devops现在支持持续的访问评估（CAE），这为您的开发工作流程带来了新的近乎实时安全执行。 🔐什么是CAE？</description>
-      <pubDate>Tue, 12 Aug 2025 14:39:05 +0000</pubDate>
+      <title>【The Complete Playwright End-to-End Story, Tools, AI, and Real-World Workflows】完整的剧作家端到端的故事，工具，人工智能和现实世界的工作流程</title>
+      <link>https://devblogs.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows</link>
+      <description>【1. Introduction End-to-end testing has evolved dramatically, and Playwright stands at the forefront. Playwright offers a full ecosystem empowering developers to write, debug, and maintain tests with speed and reliability. From its po】1。简介端到端测试发生了巨大的发展，剧作家站在前沿。剧作家提供了一个完整的生态系统，以赋予开发人员能够以速度和可靠性来编写，调试和维护测试。从它的po</description>
+      <pubDate>Thu, 07 Aug 2025 18:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing GA of Bicep templates support for Microsoft Entra ID resources】宣布二头肌模板的GA支持Microsoft Entra ID资源</title>
+      <link>https://devblogs.microsoft.com/identity/bicep-templates-for-microsoft-entra-id-resources-is-ga</link>
+      <description>【We’re thrilled to announce that Bicep templates for Microsoft Entra ID resources is generally available from July 29th, 2025. Bicep templates bring declarative infrastructure as code (IaC) capabilities to Microsoft Graph resources. This new capability will initially be available for core Microsoft Entra ID resources. Bicep templat】我们很高兴地宣布，Microsoft Entra ID资源的二头肌模板通常从2025年7月29日提供。二头肌模板将声明性的基础架构作为代码（IAC）功能带到Microsoft Graph Resources。最初，这种新功能将用于Microsoft Entra ID资源。二头肌神庙</description>
+      <pubDate>Mon, 11 Aug 2025 16:08:26 +0000</pubDate>
     </item>
     <item>
       <title>【Go 1.24.6-1 and 1.23.12-1 Microsoft builds now available】GO 1.24.6-1和1.23.12-1 Microsoft现在可用</title>
       <link>https://devblogs.microsoft.com/go/go-1-24-6-1-and-1-23-12-1-microsoft-builds-now-available</link>
       <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
       <pubDate>Thu, 07 Aug 2025 16:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Under what conditions could a &lt;CODE&gt;Read­File&lt;/CODE&gt; or &lt;CODE&gt;Write­File&lt;/CODE&gt; fail to transfer all of the bytes, and how do I detect that?】在什么条件下，&lt;Code&gt; ReadFile &lt;/code&gt;或&lt;code&gt; writeFile &lt;/code&gt;无法转移所有字节，我该如何检测？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250808-00/?p=111447</link>
+      <description>【A customer wanted to understand the conditions under which the Read­File and Write­File functions would fail to transfer all of the bytes, and how to detect that this has occurred. The obvious reason why the Read­File functions would fail to transfer all the bytes is if there aren&#39;t that man】客户想了解ReadFile和WriteFile功能无法传输所有字节的条件，以及如何检测发生这种情况。 ReadFile函数无法传输所有字节的明显原因是如果没有该字节</description>
+      <pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thoughts on creating a tracking pointer class, part 1: Concept art】关于创建跟踪指针类的想法，第1部分：概念艺术</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250811-00/?p=111451</link>
+      <description>【Suppose you have a C++ object, and you want to be able to create a &#34;tracking pointer&#34; that points to the object and follows it as it moves. // Concept art - final product may differ in significant ways struct Widget : trackable_object&amp;lt;Widget&amp;gt; { ⟦ ... ⟧ }; Widget w; tracking_ptr&amp;lt;Widget&amp;gt; p(w); asse】假设您有一个C ++对象，并且您希望能够创建一个指向对象并在其移动时跟随它的“跟踪指针”。 //概念艺术 - 最终产品可能会在很大程度上有所不同。小部件W; tracking_ptr &lt;Widget&gt; p（w）; ASSE</description>
+      <pubDate>Mon, 11 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Real-Time Security with Continuous Access Evaluation (CAE) comes to Azure DevOps】带有连续访问评估（CAE）的实时安全性用于Azure DevOps</title>
+      <link>https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops</link>
+      <description>【We’re thrilled to announce that Continuous Access Evaluation (CAE) is now supported on Azure DevOps, bringing a new level of near real-time security enforcement to your development workflows. 🔐 What Is CAE?】我们很高兴地宣布，Azure Devops现在支持持续的访问评估（CAE），这为您的开发工作流程带来了新的近乎实时安全执行。 🔐什么是CAE？</description>
+      <pubDate>Tue, 12 Aug 2025 14:39:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
