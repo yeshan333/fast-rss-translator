@@ -4,16 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy</title>
-      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
-      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. </description>
-      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform】Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform</title>
-      <link>https://blog.cloudflare.com/serverless-atproto/</link>
-      <description>【 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. 】 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. </description>
-      <pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
+      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare</title>
+      <link>https://blog.cloudflare.com/building-jetflow-a-framework-for-flexible-performant-data-pipelines-at-cloudflare/</link>
+      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. </description>
+      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI</title>
@@ -28,16 +22,22 @@
       <pubDate>Tue, 22 Jul 2025 16:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy</title>
+      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
+      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. </description>
+      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)】Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)</title>
       <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
       <description>【 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. 】 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. </description>
       <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives</title>
-      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
-      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. </description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
+      <title>【Redesigning Workers KV for increased availability and faster performance】Redesigning Workers KV for increased availability and faster performance</title>
+      <link>https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/</link>
+      <description>【 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; 】 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; </description>
+      <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The White House AI Action Plan:  a new chapter in U.S. AI policy】The White House AI Action Plan:  a new chapter in U.S. AI policy</title>
@@ -46,16 +46,16 @@
       <pubDate>Fri, 25 Jul 2025 01:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare</title>
-      <link>https://blog.cloudflare.com/building-jetflow-a-framework-for-flexible-performant-data-pipelines-at-cloudflare/</link>
-      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. </description>
-      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
+      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives</title>
+      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
+      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. </description>
+      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Redesigning Workers KV for increased availability and faster performance】Redesigning Workers KV for increased availability and faster performance</title>
-      <link>https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/</link>
-      <description>【 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; 】 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; </description>
-      <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
+      <title>【Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform】Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform</title>
+      <link>https://blog.cloudflare.com/serverless-atproto/</link>
+      <description>【 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. 】 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. </description>
+      <pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Aligning our prices and packaging with the problems we help customers solve】Aligning our prices and packaging with the problems we help customers solve</title>
