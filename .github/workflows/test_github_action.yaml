@@ -29,6 +29,7 @@ jobs:
         env:
           ALIBABA_QWEN_API_URL: ${{ secrets.ALIBABA_QWEN_API_URL }}
           ALIBABA_QWEN_API_KEY: ${{ secrets.ALIBABA_QWEN_API_KEY }}
+          ALIBABA_QWEN_AI_MODEL: ${{ secrets.ALIBABA_QWEN_AI_MODEL }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
         with:

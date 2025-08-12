@@ -299,6 +299,7 @@ func (translator *Translator) translateWithCloudflare(content string) string {
 func (translator *Translator) translateWithAlibabaQwen(content string) string {
 	apiKey := os.Getenv("ALIBABA_QWEN_API_KEY")
 	apiURL := os.Getenv("ALIBABA_QWEN_API_URL")
+	model := os.Getenv("ALIBABA_QWEN_AI_MODEL")
 
 	if translator.AlibabaQwenAPIKey != "" {
 		apiKey = translator.AlibabaQwenAPIKey
@@ -324,8 +325,11 @@ func (translator *Translator) translateWithAlibabaQwen(content string) string {
 	}
 
 	var alibabaQwenModel string
+	// Use custom model from config or environment variable if provided
 	if translator.AlibabaQwenAIModel != "" {
 		alibabaQwenModel = translator.AlibabaQwenAIModel
+	} else if model != "" {
+		alibabaQwenModel = model
 	} else {
 		alibabaQwenModel = "qwen-turbo" // Default model
 	}
