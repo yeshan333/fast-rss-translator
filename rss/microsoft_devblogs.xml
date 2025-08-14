@@ -4,46 +4,46 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Real-Time Security with Continuous Access Evaluation (CAE) comes to Azure DevOps】带有连续访问评估（CAE）的实时安全性用于Azure DevOps</title>
-      <link>https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops</link>
-      <description>【We’re thrilled to announce that Continuous Access Evaluation (CAE) is now supported on Azure DevOps, bringing a new level of near real-time security enforcement to your development workflows. 🔐 What Is CAE?】我们很高兴地宣布，Azure Devops现在支持持续的访问评估（CAE），这为您的开发工作流程带来了新的近乎实时安全执行。 🔐什么是CAE？</description>
-      <pubDate>Tue, 12 Aug 2025 14:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【mssql-python vs pyodbc: Benchmarking SQL Server Performance】MSSQL-PYTHON vs PYODBC：基准测试SQL Server性能</title>
-      <link>https://devblogs.microsoft.com/python/mssql-python-vs-pyodbc-benchmarking-sql-server-performance</link>
-      <description>【】</description>
-      <pubDate>Tue, 12 Aug 2025 11:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 1: Concept art】关于创建跟踪指针类的想法，第1部分：概念艺术</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250811-00/?p=111451</link>
-      <description>【Suppose you have a C++ object, and you want to be able to create a &#34;tracking pointer&#34; that points to the object and follows it as it moves. // Concept art - final product may differ in significant ways struct Widget : trackable_object&amp;lt;Widget&amp;gt; { ⟦ ... ⟧ }; Widget w; tracking_ptr&amp;lt;Widget&amp;gt; p(w); asse】假设您有一个C ++对象，并且您希望能够创建一个指向对象并在其移动时跟随它的“跟踪指针”。 //概念艺术 - 最终产品可能会在很大程度上有所不同。小部件W; tracking_ptr &lt;Widget&gt; p（w）; ASSE</description>
-      <pubDate>Mon, 11 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【July 2025 (version 1.103)】2025年7月（版本1.103）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/july-2025-(version-1.103)</link>
-      <description>【Learn what is new in the Visual Studio Code July 2025 Release (1.103) Read the full article】了解2025年7月的“视觉工作室代码”中的新内容（1.103）阅读全文</description>
-      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing GA of Bicep templates support for Microsoft Entra ID resources】宣布二头肌模板的GA支持Microsoft Entra ID资源</title>
-      <link>https://devblogs.microsoft.com/identity/bicep-templates-for-microsoft-entra-id-resources-is-ga</link>
-      <description>【We’re thrilled to announce that Bicep templates for Microsoft Entra ID resources is generally available from July 29th, 2025. Bicep templates bring declarative infrastructure as code (IaC) capabilities to Microsoft Graph resources. This new capability will initially be available for core Microsoft Entra ID resources. Bicep templat】我们很高兴地宣布，Microsoft Entra ID资源的二头肌模板通常从2025年7月29日提供。二头肌模板将声明性的基础架构作为代码（IAC）功能带到Microsoft Graph Resources。最初，这种新功能将用于Microsoft Entra ID资源。二头肌神庙</description>
-      <pubDate>Mon, 11 Aug 2025 16:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Under what conditions could a &lt;CODE&gt;Read­File&lt;/CODE&gt; or &lt;CODE&gt;Write­File&lt;/CODE&gt; fail to transfer all of the bytes, and how do I detect that?】在什么条件下，&lt;Code&gt; ReadFile &lt;/code&gt;或&lt;code&gt; writeFile &lt;/code&gt;无法转移所有字节，我该如何检测？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250808-00/?p=111447</link>
-      <description>【A customer wanted to understand the conditions under which the Read­File and Write­File functions would fail to transfer all of the bytes, and how to detect that this has occurred. The obvious reason why the Read­File functions would fail to transfer all the bytes is if there aren&#39;t that man】客户想了解ReadFile和WriteFile功能无法传输所有字节的条件，以及如何检测发生这种情况。 ReadFile函数无法传输所有字节的明显原因是如果没有该字节</description>
-      <pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【GPT-5 Now Available in Visual Studio】GPT-5现在在Visual Studio中可用</title>
       <link>https://devblogs.microsoft.com/visualstudio/gpt-5-now-available-in-visual-studio</link>
-      <description>【We’re excited to share that GPT-5, OpenAI’s latest frontier model, is now rolling out in GitHub Copilot for Visual Studio. GPT-5 offers faster responses and even better performance for writing and understanding code. This release brings a new level of capability to】We’re excited to share that GPT-5, OpenAI’s latest frontier model, is now rolling out in GitHub Copilot for Visual Studio. GPT-5 offers faster responses and even better performance for writing and understanding code. This release brings a new level of capability to</description>
+      <description>【We’re excited to share that GPT-5, OpenAI’s latest frontier model, is now rolling out in GitHub Copilot for Visual Studio. GPT-5 offers faster responses and even better performance for writing and understanding code. This release brings a new level of capability to】我们很高兴分享Openai最新的Frontier模型GPT-5现在正在Github Copilot上推出Visual Studio。 GPT-5提供更快的响应，甚至可以更好地理解代码。此版本带来了新的能力</description>
       <pubDate>Tue, 12 Aug 2025 17:10:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Managed Instance for Apache Cassandra v5.0 Generally Available!】Apache Cassandra v5.0的Azure托管实例通常可用！</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-managed-instance-for-apache-cassandra-v5-0-generally-available</link>
+      <description>【】</description>
+      <pubDate>Wed, 13 Aug 2025 14:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET 10 Preview 7 is now available!】.NET 10预览7现在可用！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7</link>
+      <description>【Today, we are excited to announce the seventh preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 7&#34; url=&#34;https://get】今天，我们很高兴宣布.NET 10的第七次预览版本，并在.NET运行时，SDK，库，C＃，ASP.NET Core，Blazor，.Net Maui等增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览7” url =“ https：//获取</description>
+      <pubDate>Tue, 12 Aug 2025 19:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PowerToys 0.93 is here: faster Command Palette, new dashboard UX and more】PowerToys 0.93在这里：更快的命令调色板，新仪表板UX等</title>
+      <link>https://devblogs.microsoft.com/commandline/powertoys-0-93-is-here-faster-command-palette-new-dashboard-ux-and-more</link>
+      <description>【】</description>
+      <pubDate>Wed, 13 Aug 2025 15:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.25.0-1 Microsoft build now available】现在可用1.25.0-1 Microsoft构建</title>
+      <link>https://devblogs.microsoft.com/go/go-1-25-0-1-microsoft-build-now-available</link>
+      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft构建的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
+      <pubDate>Wed, 13 Aug 2025 12:04:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【From Redmond to San Diego: VS Live! Highlights, Session Examples, and What’s Next】从雷德蒙德到圣地亚哥：vs Live！亮点，会话示例以及下一步</title>
+      <link>https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next</link>
+      <description>【There’s something special about hosting developers at Microsoft HQ — and this year’s Visual Studio Live! Redmond reminded me why I love these events. The energy in every room was electric. From the moment the first session kicked off, developers leaned in, asked smart, challenging questions, and took every opportunity to connect with the】在Microsoft HQ托管开发人员以及今年的Visual Studio Live有一些特别之处！雷德蒙德提醒我为什么我喜欢这些事件。每个房间的能量都是电的。从第一届会议开始的那一刻起，开发人员就倾斜，问聪明，具有挑战性的问题，并借此机会与</description>
+      <pubDate>Thu, 14 Aug 2025 00:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure DevOps OAuth Client Secrets Now Shown Only Once】Azure Devops Oauth客户秘密现在仅显示一次</title>
+      <link>https://devblogs.microsoft.com/devops/azure-devops-oauth-client-secrets-now-shown-only-once</link>
+      <description>【We’re making an important change to how Azure DevOps displays OAuth client secrets to align with industry best practices and improve our overall security posture. Starting September, newly generated client secrets will be shown only once at the time of creation. After that, they will no longer be retrievable via the UI or】我们正在对Azure DevOps如何显示Oauth客户的秘密以与行业最佳实践保持一致并改善我们的整体安全姿势的重要性。从9月开始，新生成的客户秘密将在创建时仅显示一次。之后，它们将不再通过UI检索或</description>
+      <pubDate>Wed, 13 Aug 2025 15:31:56 +0000</pubDate>
     </item>
     <item>
       <title>【Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps】狩猎生活秘密：秘密有效性检查到达Github Advance for Azure Devops</title>
@@ -52,16 +52,16 @@
       <pubDate>Tue, 12 Aug 2025 16:08:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 2: Using a &lt;CODE&gt;std::list&lt;/CODE&gt;】关于创建跟踪指针类的想法，第2部分：使用&lt;code&gt; std :: List &lt;/code&gt;</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250812-00/?p=111454</link>
-      <description>【Last time, we worked out how we want a proposed &#34;tracking pointer&#34; to work. Now we can try implementing it. One idea is to give each trackable object a list of all the tracking pointers that a】上次，我们弄清楚了如何希望提出的“跟踪指针”工作。现在我们可以尝试实施它。一个想法是给每个可跟踪的对象一个列表的所有跟踪指针的列表</description>
-      <pubDate>Tue, 12 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines】Azure开发人员CLI：从DEV到使用Azure DevOps Pipelines</title>
+      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines</link>
+      <description>【Building on our previous post about implementing dev-to-prod promotion with GitHub Actions, this follow-up demonstrates the same &#34;build once, deploy everywhere&#34; pattern using Azure DevOps Pipelines. You&#39;ll learn how to leverage Azure Dev】在我们以前关于通过GitHub Action实施Dev-to-to-to促销的文章的基础上，此后续措施使用Azure DevOps管道展示了相同的“构建一次，在任何地方部署”模式。您将学习如何利用Azure Dev</description>
+      <pubDate>Wed, 13 Aug 2025 18:29:24 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 10 Preview 7 is now available!】.NET 10预览7现在可用！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7</link>
-      <description>【Today, we are excited to announce the seventh preview release of .NET 10 with enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more. Check out the full release notes linked below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 10 Preview 7&#34; url=&#34;https://get】今天，我们很高兴宣布.NET 10的第七次预览版本，并在.NET运行时，SDK，库，C＃，ASP.NET Core，Blazor，.Net Maui等增强功能。查看下面链接的完整发行说明，并立即开始。 [cta button align =“中心” text =“下载.net 10预览7” url =“ https：//获取</description>
-      <pubDate>Tue, 12 Aug 2025 19:20:00 +0000</pubDate>
+      <title>【Thoughts on creating a tracking pointer class, part 3: Using a &lt;CODE&gt;std::vector&lt;/CODE&gt;】关于创建跟踪指针类的想法，第3部分：使用&lt;code&gt; std :: vector &lt;/code&gt;</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250813-00/?p=111459</link>
+      <description>【Last time, we tried to build our &#34;tracking pointers&#34; out of nodes in a std::list, but we found that the std::list was not expressive enough to support the operations we needed.¹ So instea】上次，我们试图从std ::列表中的节点中构建“跟踪指针”，但我们发现std ::列表的表现不足以支持我们需要的操作。</description>
+      <pubDate>Wed, 13 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
