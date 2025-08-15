@@ -4,22 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare</title>
-      <link>https://blog.cloudflare.com/building-jetflow-a-framework-for-flexible-performant-data-pipelines-at-cloudflare/</link>
-      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. </description>
-      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives</title>
-      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
-      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. </description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Redesigning Workers KV for increased availability and faster performance】Redesigning Workers KV for increased availability and faster performance</title>
-      <link>https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/</link>
-      <description>【 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; 】 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; </description>
-      <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
+      <title>【Aligning our prices and packaging with the problems we help customers solve】Aligning our prices and packaging with the problems we help customers solve</title>
+      <link>https://blog.cloudflare.com/aligning-our-prices-and-packaging-with-the-problems-we-help-customers-solve/</link>
+      <description>【 You asked for simplicity. We listened. Introducing Externa and Interna, two new use-case-driven packages to simplify how you connect and protect your entire infrastructure. 】 You asked for simplicity. We listened. Introducing Externa and Interna, two new use-case-driven packages to simplify how you connect and protect your entire infrastructure. </description>
+      <pubDate>Mon, 11 Aug 2025 23:03:00 +0000</pubDate>
     </item>
     <item>
       <title>【The White House AI Action Plan:  a new chapter in U.S. AI policy】The White House AI Action Plan:  a new chapter in U.S. AI policy</title>
@@ -28,10 +16,10 @@
       <pubDate>Fri, 25 Jul 2025 01:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI</title>
-      <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
-      <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). </description>
-      <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
+      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare</title>
+      <link>https://blog.cloudflare.com/building-jetflow-a-framework-for-flexible-performant-data-pipelines-at-cloudflare/</link>
+      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. </description>
+      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)】Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)</title>
@@ -46,22 +34,34 @@
       <pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】将隐私代理上的双重支付延迟从40毫秒减少到&lt;1毫秒</title>
+      <title>【Cloudflare protects against critical SharePoint vulnerability, CVE-2025-53770】Cloudflare protects against critical SharePoint vulnerability, CVE-2025-53770</title>
+      <link>https://blog.cloudflare.com/cloudflare-protects-against-critical-sharepoint-vulnerability-cve-2025-53770/</link>
+      <description>【 Microsoft disclosed two critical vulnerabilities, CVE-2025-53771 and CVE-2025-53770, that are exploited to attack SharePoint servers. 】 Microsoft disclosed two critical vulnerabilities, CVE-2025-53771 and CVE-2025-53770, that are exploited to attack SharePoint servers. </description>
+      <pubDate>Tue, 22 Jul 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives</title>
+      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
+      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. </description>
+      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】将隐私代理中的双重支付延迟从40毫秒降低至&lt;1毫秒</title>
       <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
-      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】我们通过修复&#34;double-spend&#34;检查中的40毫秒延迟，显著提升了隐私代理服务的速度。</description>
+      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】我们通过解决“双重支付”检查中的40毫秒延迟，显著加快了隐私代理服务。</description>
       <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Aligning our prices and packaging with the problems we help customers solve】调整我们的价格和包装，以匹配我们帮助客户解决的问题。</title>
-      <link>https://blog.cloudflare.com/aligning-our-prices-and-packaging-with-the-problems-we-help-customers-solve/</link>
-      <description>【 You asked for simplicity. We listened. Introducing Externa and Interna, two new use-case-driven packages to simplify how you connect and protect your entire infrastructure. 】您要求简洁。我们倾听了。隆重推出 Externa 和 Interna，这两款全新基于实际用例的解决方案，旨在简化您连接和保护整个基础设施的方式。</description>
-      <pubDate>Mon, 11 Aug 2025 23:03:00 +0000</pubDate>
+      <title>【Redesigning Workers KV for increased availability and faster performance】重新设计Workers KV以提高可用性和更快的性能</title>
+      <link>https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/</link>
+      <description>【 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; 】Workers KV 是 Cloudflare 的全球键值存储服务。在 6 月 12 日事件后，我们重新设计了 KV 的冗余存储后端，消除了单点故障，并做出了重大改进。</description>
+      <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare protects against critical SharePoint vulnerability, CVE-2025-53770】Cloudflare防护针对SharePoint的严重漏洞CVE-2025-53770</title>
-      <link>https://blog.cloudflare.com/cloudflare-protects-against-critical-sharepoint-vulnerability-cve-2025-53770/</link>
-      <description>【 Microsoft disclosed two critical vulnerabilities, CVE-2025-53771 and CVE-2025-53770, that are exploited to attack SharePoint servers. 】微软披露了两个严重漏洞CVE-2025-53771和CVE-2025-53770，这些漏洞被用于攻击SharePoint服务器。</description>
-      <pubDate>Tue, 22 Jul 2025 16:30:00 +0000</pubDate>
+      <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】与OpenAI携手，将他们的最新开放模型引入Cloudflare Workers AI。</title>
+      <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
+      <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】OpenAI最新推出的开源模型现已在Cloudflare Workers AI平台发布当日上线，并支持响应API、代码解释器和网络搜索（即将推出）。</description>
+      <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
