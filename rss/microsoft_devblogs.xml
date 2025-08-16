@@ -4,9 +4,15 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Data encryption with customer-managed key (CMK) for Azure Cosmos DB for MongoDB vCore】使用客户管理的密钥（CMK）的数据加密，用于MongoDB Vcore的Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/data-encryption-with-customer-managed-key-cmk-for-azure-cosmos-db-for-mongodb-vcore</link>
+      <description>【Built-in security for every configuration Azure Cosmos DB for MongoDB vCore is designed with security as a foundational principle. Regardless of how your cluster is configured—whether it&#39;s a sing】每种配置的内置安全性Azure cosmos db for MongoDB VCore的设计都以安全性为基础原理。不管如何配置群集，无论是唱歌</description>
+      <pubDate>Thu, 14 Aug 2025 15:21:01 +0000</pubDate>
+    </item>
+    <item>
       <title>【Improving Codebase Awareness in Visual Studio Chat】在Visual Studio聊天中提高代码库意识</title>
       <link>https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat</link>
-      <description>【Smarter Code Search in Visual Studio: From BM25 to Semantic Search  In our lat】Smarter Code Search in Visual Studio: From BM25 to Semantic Search  In our lat</description>
+      <description>【Smarter Code Search in Visual Studio: From BM25 to Semantic Search  In our lat】Visual Studio中的智能代码搜索：从BM25到我们LAT的语义搜索</description>
       <pubDate>Thu, 14 Aug 2025 12:00:59 +0000</pubDate>
     </item>
     <item>
@@ -16,34 +22,16 @@
       <pubDate>Thu, 14 Aug 2025 13:10:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the NuGet MCP Server Preview】宣布Nuget MCP服务器预览</title>
-      <link>https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview</link>
-      <description>【Last month, we announced support for building custom MCP servers with .NET and publishing them to NuGet. Building on that foundation, today we&#39;re announcing the official NuGet MCP Server, which enables you to integrate real-time NuGet package information】Last month, we announced support for building custom MCP servers with .NET and publishing them to NuGet.在该基金会的基础上，今天我们宣布官方的Nuget MCP服务器，这使您能够集成实时Nuget软件包信息</description>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 4: Using a circular doubly linked list】关于创建跟踪指针类的想法，第4部分：使用圆形双链接列表</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250814-00/?p=111482</link>
-      <description>【Our previous attempt to create a tracking pointer class had the downside of incurring a potential memory allocation when a tracking pointer is copied or moved. We can get rid of this allocation by mak】我们以前创建跟踪指针类的尝试的缺点是在复制或移动跟踪指针时会产生潜在的内存分配。 We can get rid of this allocation by mak</description>
-      <pubDate>Thu, 14 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines】Azure开发人员CLI：从DEV到使用Azure DevOps Pipelines</title>
-      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines</link>
-      <description>【Building on our previous post about implementing dev-to-prod promotion with GitHub Actions, this follow-up demonstrates the same &#34;build once, deploy everywhere&#34; pattern using Azure DevOps Pipelines. You&#39;ll learn how to leverage Azure Dev】在我们以前关于通过GitHub Action实施Dev-to-to-to促销的文章的基础上，此后续措施使用Azure DevOps管道展示了相同的“构建一次，在任何地方部署”模式。 You&#39;ll learn how to leverage Azure Dev</description>
-      <pubDate>Wed, 13 Aug 2025 18:29:24 +0000</pubDate>
+      <title>【Thoughts on creating a tracking pointer class, part 5: Copying our tracking pointer】关于创建跟踪指针类的想法，第5部分：复制我们的跟踪指针</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250815-00/?p=111484</link>
+      <description>【Our previous attempt to create a tracking pointer class had the perhaps-undesirable property that copying a const tracking pointer is not permitted. This requirement arose because copying a tracking p】我们以前创建跟踪指针类的尝试也许是不可避免的属性，即不允许复制跟踪指针。此要求之所以出现，是因为复制跟踪P</description>
+      <pubDate>Fri, 15 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【From Redmond to San Diego: VS Live! Highlights, Session Examples, and What’s Next】从雷德蒙德到圣地亚哥：vs Live！亮点，会话示例以及下一步</title>
       <link>https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next</link>
-      <description>【There’s something special about hosting developers at Microsoft HQ — and this year’s Visual Studio Live! Redmond reminded me why I love these events. The energy in every room was electric. From the moment the first session kicked off, developers leaned in, asked smart, challenging questions, and took every opportunity to connect with the】There’s something special about hosting developers at Microsoft HQ — and this year’s Visual Studio Live! Redmond reminded me why I love these events. The energy in every room was electric.从第一届会议开始的那一刻起，开发人员就倾斜，问聪明，具有挑战性的问题，并借此机会与</description>
+      <description>【There’s something special about hosting developers at Microsoft HQ — and this year’s Visual Studio Live! Redmond reminded me why I love these events. The energy in every room was electric. From the moment the first session kicked off, developers leaned in, asked smart, challenging questions, and took every opportunity to connect with the】在Microsoft HQ托管开发人员以及今年的Visual Studio Live有一些特别之处！雷德蒙德提醒我为什么我喜欢这些事件。每个房间的能量都是电的。从第一届会议开始的那一刻起，开发人员就倾斜，问聪明，具有挑战性的问题，并借此机会与</description>
       <pubDate>Thu, 14 Aug 2025 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Data encryption with customer-managed key (CMK) for Azure Cosmos DB for MongoDB vCore】使用客户管理的密钥（CMK）的数据加密，用于MongoDB Vcore的Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/data-encryption-with-customer-managed-key-cmk-for-azure-cosmos-db-for-mongodb-vcore</link>
-      <description>【Built-in security for every configuration Azure Cosmos DB for MongoDB vCore is designed with security as a foundational principle. Regardless of how your cluster is configured—whether it&#39;s a sing】每种配置的内置安全性Azure cosmos db for MongoDB VCore的设计都以安全性为基础原理。不管如何配置群集，无论是唱歌</description>
-      <pubDate>Thu, 14 Aug 2025 15:21:01 +0000</pubDate>
     </item>
     <item>
       <title>【GPT-5 for Microsoft Developers】Microsoft开发人员的GPT-5</title>
@@ -58,10 +46,22 @@
       <pubDate>Thu, 14 Aug 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PowerToys 0.93 is here: faster Command Palette, new dashboard UX and more】PowerToys 0.93在这里：更快的命令调色板，新仪表板UX等</title>
-      <link>https://devblogs.microsoft.com/commandline/powertoys-0-93-is-here-faster-command-palette-new-dashboard-ux-and-more</link>
-      <description>【】</description>
-      <pubDate>Wed, 13 Aug 2025 15:11:21 +0000</pubDate>
+      <title>【Announcing the NuGet MCP Server Preview】宣布Nuget MCP服务器预览</title>
+      <link>https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview</link>
+      <description>【Last month, we announced support for building custom MCP servers with .NET and publishing them to NuGet. Building on that foundation, today we&#39;re announcing the official NuGet MCP Server, which enables you to integrate real-time NuGet package information】上个月，我们宣布支持使用.NET构建自定义MCP服务器并将其发布到Nuget。在该基金会的基础上，今天我们宣布官方的Nuget MCP服务器，这使您能够集成实时Nuget软件包信息</description>
+      <pubDate>Thu, 14 Aug 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines】Azure开发人员CLI：从DEV到使用Azure DevOps Pipelines</title>
+      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines</link>
+      <description>【Building on our previous post about implementing dev-to-prod promotion with GitHub Actions, this follow-up demonstrates the same &#34;build once, deploy everywhere&#34; pattern using Azure DevOps Pipelines. You&#39;ll learn how to leverage Azure Dev】在我们以前关于通过GitHub Action实施Dev-to-to-to促销的文章的基础上，此后续措施使用Azure DevOps管道展示了相同的“构建一次，在任何地方部署”模式。您将学习如何利用Azure Dev</description>
+      <pubDate>Wed, 13 Aug 2025 18:29:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thoughts on creating a tracking pointer class, part 4: Using a circular doubly linked list】关于创建跟踪指针类的想法，第4部分：使用圆形双链接列表</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250814-00/?p=111482</link>
+      <description>【Our previous attempt to create a tracking pointer class had the downside of incurring a potential memory allocation when a tracking pointer is copied or moved. We can get rid of this allocation by mak】我们以前创建跟踪指针类的尝试的缺点是在复制或移动跟踪指针时会产生潜在的内存分配。我们可以摆脱Mak的分配</description>
+      <pubDate>Thu, 14 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
