@@ -4,22 +4,16 @@
     <link>https://feeds.dzone.com/home</link>
     <description>Recent posts on DZone.com</description>
     <item>
+      <title>【How to Build ML Experimentation Platforms You Can Trust?】如何构建您可以信任的ML实验平台？</title>
+      <link>https://dzone.com/articles/build-reliable-ml-experimentation-platforms</link>
+      <description>【&lt;p data-selectable-paragraph=&#34;&#34;&gt;Machine learning models don’t succeed in isolation — they rely on robust systems to validate, monitor, and explain their behavior. Top tech companies such as Netflix, Meta, and Airbnb have invested heavily in building scalable experimentation and ML platforms that help them detect drift, uncover bias, and maintain high-quality user experiences.&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph=&#34;&#34;&gt;But building trust in &lt;a href=&#34;https://dzone.com/articles/mastering-the-art-of-building-complex-machine-lear&#34;&gt;machine learning&lt;/a&gt; doesn’t come from a single dashboard. It comes from a layered, systematic approach to observability.&lt;/p&gt;】&lt;p数据可选 - 段落=“”&gt;机器学习模型无法孤立地成功 - 他们依靠可靠的系统来验证，监视和解释其行为。 Netflix，Meta和Airbnb等顶尖技术公司在建立可扩展的实验和ML平台方面进行了大量投资，可帮助他们发现漂移，发现偏见并保持高质量的用户体验。&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph =“”&gt;但在&lt;a href =“ https://dzone.com/articles/mastering-the-the-the-the--art-of-building-complex-machine-lear”&gt;机器学习&lt;/a&gt;不是来自单个仪表板上。它来自一种分层，系统的可观察性方法。&lt;/p&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Consumer Ecosystem Design for Efficient Configuration Based Product Rollouts】用于高效配置产品推出的消费者生态系统设计</title>
       <link>https://dzone.com/articles/insurance-distributed-consumer-ecosystem</link>
       <description>【&lt;p&gt;In a regulated and complex industry like Insurance, one of the biggest challenges facing speed to market is the complexity in regulations and the state variations. &amp;nbsp;Both the variations and complexities cause the code to become unmanageable and complex with all sorts of conditional statements and business logic creeping into consumer applications, making it extremely hard to manage or develop. &amp;nbsp; &amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;This is where distributed architecture/components shine allowing not only to break down piece into smaller manageable parts but also reducing single point of failures. How to effectively distribute the architecture is where the key lies in whether a system will truly be configurable to allow for speed to market.&lt;/p&gt;】&lt;p&gt;在像保险这样的受管制和复杂行业中，面临速度市场面临的最大挑战之一是法规和州的差异。  变化和复杂性都使代码变得难以管理和复杂，随着各种有条件的陈述和业务逻辑蔓延到消费者应用程序中，使其极难管理或开发。    &lt;/p&gt;&#xA;&lt;p&gt;这是分布式体系结构/组件发光的地方，不仅可以将零件分解为较小的可管理零件，还可以减少单点故障。如何有效分发体系结构是关键在于系统是否真正可以配置以允许速度上市的地方。&lt;/p&gt;</description>
       <pubDate>Fri, 15 Aug 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Virtualized Containers vs. Bare Metal: The Winner Is…】虚拟化容器与裸金属：获胜者是…</title>
-      <link>https://dzone.com/articles/virtualized-containers-vs-bare-metal</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;The blanket statement that bare metal is superior to containers in VMs for running containerized infrastructure, such as Kubernetes, no longer holds true. Each has pros and cons, so the right choice depends heavily on specific workload requirements and operational context.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Bare metal was long touted as the obvious choice for organizations seeking both the best compute performance and even superior security when hosting containers compared to VMs. But this disparity in performance has slowly eroded. For security, it is now hard to make the case for bare metal’s benefits over those of VMs, except for very niche use cases.&amp;nbsp;&lt;/p&gt;】&lt;p dir =“ ltr”&gt;裸金属比VM中的容器优于运行容器的基础架构（例如Kubernetes）不再成立。每个人都有利弊，因此正确的选择在很大程度上取决于特定的工作负载要求和操作环境。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;长期以来，将裸金属吹捧为与VMS相比，在托管容器时寻求最佳计算性能，甚至优越的安全性的组织的明显选择。但是，这种性能的差异已逐渐侵蚀。对于安全性，除了非常利基的用例外，很难为Bare Metal对VM的益处提供益处。 &lt;/p&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 14:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to Architect a Compliant Cloud for Healthcare Clients (Azure Edition)】如何为医疗保健客户建造合规的云（Azure Edition）</title>
-      <link>https://dzone.com/articles/how-to-architect-a-compliant-cloud-for-healthcare</link>
-      <description>【&lt;p&gt;Designing cloud infrastructure for healthcare isn’t just about uptime and cost; it’s about protecting sensitive patient data and satisfying regulatory requirements like HIPAA and HITRUST. When we were tasked with migrating a healthcare client&#39;s legacy workloads into Azure, we knew every decision had to be auditable, encrypted, and policy-controlled.&lt;/p&gt;&#xA;&lt;p&gt;This guide walks through how we built a compliant Azure environment for healthcare clients using Microsoft-native tools, shared responsibility awareness, and practical implementation techniques that held up under third-party audits.&lt;/p&gt;】&lt;p&gt;设计用于医疗保健的云基础架构不仅仅是正常运行时间和成本；这是关于保护敏感的患者数据并满足HIPAA和HITRUST等监管要求。当我们的任务是将医疗保健客户的旧工作负载迁移到Azure时，我们知道每个决定都必须进行审核，加密和政策控制。&lt;/p&gt;&#xA;&lt;p&gt;本指南介绍了我们如何使用Microsoft-native工具，共同的责任意识和实践实施技术为医疗保健客户构建合规环境，从而在第三方审核下进行了。&lt;/p&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Agile Teams Thrive on Collective Strengths, Not Sameness】敏捷的团队在集体优势上蓬勃发展，而不是相同</title>
@@ -28,10 +22,10 @@
       <pubDate>Fri, 15 Aug 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Data Pipeline Architectures: Lessons from Implementing Real-Time Analytics】数据管道体系结构：实施实时分析的教训</title>
-      <link>https://dzone.com/articles/lessons-from-implementing-real-time-analytics</link>
-      <description>【&lt;p dir=&#34;ltr&#34;&gt;Not long ago, real-time analytics was considered a luxury reserved for tech giants and hyper-scale startups—fraud detection in milliseconds, live GPS tracking for logistics, or instant recommendation engines that adapt as users browse.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Today, the landscape has shifted dramatically.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;不久前，实时分析被认为是用于科技巨头和高度规模的初创公司保留的奢侈品 - 毫秒毫无疑问的GPS跟踪，用于物流的实时GPS跟踪或适应用户浏览的即时推荐引擎。&lt;/p&gt;。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;今天，景观已经发生了巨大变化。&lt;/p&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 12:00:00 +0000</pubDate>
+      <title>【How to Architect a Compliant Cloud for Healthcare Clients (Azure Edition)】如何为医疗保健客户建造合规的云（Azure Edition）</title>
+      <link>https://dzone.com/articles/how-to-architect-a-compliant-cloud-for-healthcare</link>
+      <description>【&lt;p&gt;Designing cloud infrastructure for healthcare isn’t just about uptime and cost; it’s about protecting sensitive patient data and satisfying regulatory requirements like HIPAA and HITRUST. When we were tasked with migrating a healthcare client&#39;s legacy workloads into Azure, we knew every decision had to be auditable, encrypted, and policy-controlled.&lt;/p&gt;&#xA;&lt;p&gt;This guide walks through how we built a compliant Azure environment for healthcare clients using Microsoft-native tools, shared responsibility awareness, and practical implementation techniques that held up under third-party audits.&lt;/p&gt;】&lt;p&gt;设计用于医疗保健的云基础架构不仅仅是正常运行时间和成本；这是关于保护敏感的患者数据并满足HIPAA和HITRUST等监管要求。当我们的任务是将医疗保健客户的旧工作负载迁移到Azure时，我们知道每个决定都必须进行审核，加密和政策控制。&lt;/p&gt;&#xA;&lt;p&gt;本指南介绍了我们如何使用Microsoft-native工具，共同的责任意识和实践实施技术为医疗保健客户构建合规环境，从而在第三方审核下进行了。&lt;/p&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Java JEP 400 Explained: Why UTF-8 Became the Default Charset】Java JEP 400解释了：为什么UTF-8成为默认的Charset</title>
@@ -40,22 +34,28 @@
       <pubDate>Fri, 15 Aug 2025 19:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Data Pipeline Architectures: Lessons from Implementing Real-Time Analytics】数据管道体系结构：实施实时分析的教训</title>
+      <link>https://dzone.com/articles/lessons-from-implementing-real-time-analytics</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;Not long ago, real-time analytics was considered a luxury reserved for tech giants and hyper-scale startups—fraud detection in milliseconds, live GPS tracking for logistics, or instant recommendation engines that adapt as users browse.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Today, the landscape has shifted dramatically.&lt;/p&gt;】&lt;p dir =“ ltr”&gt;不久前，实时分析被认为是用于科技巨头和高度规模的初创公司保留的奢侈品 - 毫秒毫无疑问的GPS跟踪，用于物流的实时GPS跟踪或适应用户浏览的即时推荐引擎。&lt;/p&gt;。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;今天，景观已经发生了巨大变化。&lt;/p&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Amazon EMRFS vs HDFS: Which One Is Right for Your Big Data Needs?】Amazon EMRFS vs HDFS：哪一个适合您的大数据需求？</title>
       <link>https://dzone.com/articles/amazon-emrfs-vs-hdfs</link>
       <description>【&lt;p&gt;Amazon EMR is a managed service from AWS for big data processing. EMR is used to run enterprise-scale data processing tasks using distributed computing. It breaks down tasks into smaller chunks and uses multiple computers for processing. It uses popular big data frameworks like Apache Hadoop and Apache Spark. EMR can be set up easily, enabling organizations to swiftly analyze and process large volumes of data without the hassle of managing servers.&lt;/p&gt;&#xA;&lt;p&gt;The two primary options for storing data in Amazon EMR are &lt;a href=&#34;https://dzone.com/articles/an-introduction-to-hdfs&#34;&gt;Hadoop Distributed File System&lt;/a&gt; (HDFS) and Elastic MapReduce File System (EMRFS).&lt;/p&gt;】&lt;p&gt; Amazon EMR是AWS的托管服务，用于大数据处理。 EMR用于使用分布式计算运行企业规模的数据处理任务。它将任务分解为较小的块，并使用多台计算机进行处理。它使用流行的大数据框架，例如Apache Hadoop和Apache Spark。可以轻松设置EMR，使组织能够迅速分析和处理大量数据，而无需管理服务器的麻烦。&lt;/p&gt;&#xA;&lt;p&gt;在Amazon EMR中存储数据的两个主要选项是&lt;a href =“ https://dzone.com/articles/an-introduction/antroduction-to-hdfs”&gt; Hadoop分布式文件系统&lt;/a&gt;（HDFS）和Elastic MapReduce文件系统（EMRFS）。</description>
       <pubDate>Fri, 15 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Build ML Experimentation Platforms You Can Trust?】如何构建您可以信任的ML实验平台？</title>
-      <link>https://dzone.com/articles/build-reliable-ml-experimentation-platforms</link>
-      <description>【&lt;p data-selectable-paragraph=&#34;&#34;&gt;Machine learning models don’t succeed in isolation — they rely on robust systems to validate, monitor, and explain their behavior. Top tech companies such as Netflix, Meta, and Airbnb have invested heavily in building scalable experimentation and ML platforms that help them detect drift, uncover bias, and maintain high-quality user experiences.&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph=&#34;&#34;&gt;But building trust in &lt;a href=&#34;https://dzone.com/articles/mastering-the-art-of-building-complex-machine-lear&#34;&gt;machine learning&lt;/a&gt; doesn’t come from a single dashboard. It comes from a layered, systematic approach to observability.&lt;/p&gt;】&lt;p数据可选 - 段落=“”&gt;机器学习模型无法孤立地成功 - 他们依靠可靠的系统来验证，监视和解释其行为。 Netflix，Meta和Airbnb等顶尖技术公司在建立可扩展的实验和ML平台方面进行了大量投资，可帮助他们发现漂移，发现偏见并保持高质量的用户体验。&lt;/p&gt;&#xA;&lt;p data-selectable-paragraph =“”&gt;但在&lt;a href =“ https://dzone.com/articles/mastering-the-the-the-the--art-of-building-complex-machine-lear”&gt;机器学习&lt;/a&gt;不是来自单个仪表板上。它来自一种分层，系统的可观察性方法。&lt;/p&gt;</description>
-      <pubDate>Fri, 15 Aug 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【My First Practical Agentic App: Using Firebase and Generative AI to Automate Office Tasks】我的第一个实用代理应用程序：使用Firebase和Generative AI自动化办公任务</title>
       <link>https://dzone.com/articles/agentic-app-firebase-generative-ai-office-automation</link>
       <description>【&lt;h2 dir=&#34;ltr&#34;&gt;Why I Built This App&lt;/h2&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Being a full-stack engineer, I was curious about agentic applications — tools that propose and act, rather than just waiting for the next command. Instead of a showy travel itinerary robot, I asked myself:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA; &lt;p dir=&#34;ltr&#34;&gt;“What’s one piece of software I’d be thrilled to have every morning?”&lt;/p&gt;】&lt;h2 dir =“ ltr”&gt;为什么我构建了此应用&lt;/h2&gt;&#xA;&lt;p dir =“ ltr”&gt;作为一名全堆栈工程师，我对代理应用程序感到好奇 - 提出和行动的工具，而不仅仅是等待下一个命令。我问自己：&lt;/p&gt;，而不是艳丽的旅行行程机器人&#xA;&lt;BlockQuote&gt;&#xA; &lt;p dir =“ ltr”&gt;“我每天早上都有什么软件？” &lt;/p&gt;</description>
       <pubDate>Fri, 15 Aug 2025 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Virtualized Containers vs. Bare Metal: The Winner Is…】虚拟化容器与裸金属：获胜者是…</title>
+      <link>https://dzone.com/articles/virtualized-containers-vs-bare-metal</link>
+      <description>【&lt;p dir=&#34;ltr&#34;&gt;The blanket statement that bare metal is superior to containers in VMs for running containerized infrastructure, such as Kubernetes, no longer holds true. Each has pros and cons, so the right choice depends heavily on specific workload requirements and operational context.&lt;/p&gt;&#xA;&lt;p dir=&#34;ltr&#34;&gt;Bare metal was long touted as the obvious choice for organizations seeking both the best compute performance and even superior security when hosting containers compared to VMs. But this disparity in performance has slowly eroded. For security, it is now hard to make the case for bare metal’s benefits over those of VMs, except for very niche use cases.&amp;nbsp;&lt;/p&gt;】&lt;p dir =“ ltr”&gt;裸金属比VM中的容器优于运行容器的基础架构（例如Kubernetes）不再成立。每个人都有利弊，因此正确的选择在很大程度上取决于特定的工作负载要求和操作环境。&lt;/p&gt;&#xA;&lt;p dir =“ ltr”&gt;长期以来，将裸金属吹捧为与VMS相比，在托管容器时寻求最佳计算性能，甚至优越的安全性的组织的明显选择。但是，这种性能的差异已逐渐侵蚀。对于安全性，除了非常利基的用例外，很难为Bare Metal对VM的益处提供益处。 &lt;/p&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 14:00:07 +0000</pubDate>
     </item>
     <item>
       <title>【Green DevOps: Building Sustainable Pipelines and Energy-Aware Cloud Deployments】绿色DEVOPS：建造可持续管道和能源感知的云部署</title>
