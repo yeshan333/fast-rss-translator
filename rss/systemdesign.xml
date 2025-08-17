@@ -5,22 +5,10 @@
     <description>Download my system design playbook for free on newsletter signup</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
-      <title>【Concurrency Is Not Parallelism 🔥】并发不是平行性🔥</title>
-      <link>https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism</link>
-      <description>【#75: Break Into Concurrency vs Parallelism (3 Minutes)】＃75：闯入并发与并行性（3分钟）</description>
-      <pubDate>Wed, 18 Jun 2025 11:46:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Reddit Works 🔥】Reddit的工作方式🔥</title>
-      <link>https://newsletter.systemdesign.one/p/reddit-architecture</link>
-      <description>【#76: Break Into Reddit Architecture for 100M Daily Users (5 Minutes)】＃76：每天使用1亿用户的Reddit体系结构（5分钟）</description>
-      <pubDate>Thu, 03 Jul 2025 12:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Amazon S3 Achieves Strong Consistency Without Sacrificing 99.99% Availability 🌟】亚马逊S3如何实现强大的一致性而不牺牲99.99％的可用性🌟</title>
-      <link>https://newsletter.systemdesign.one/p/s3-strong-consistency</link>
-      <description>【#79: Break Into Amazon S3 Architecture (4 Minutes)】＃79：闯入亚马逊S3体系结构（4分钟）</description>
-      <pubDate>Tue, 29 Jul 2025 11:32:18 +0000</pubDate>
+      <title>【How API Gateway Actually Work ⭐】API网关如何实际工作⭐</title>
+      <link>https://newsletter.systemdesign.one/p/how-api-gateway-works</link>
+      <description>【#73: Break Into API Gateway (3 Minutes)】＃73：闯入API网关（3分钟）</description>
+      <pubDate>Thu, 29 May 2025 11:31:37 +0000</pubDate>
     </item>
     <item>
       <title>【How Does HTTPS Work 🔥】HTTP如何工作🔥</title>
@@ -29,22 +17,16 @@
       <pubDate>Thu, 07 Aug 2025 11:46:09 +0000</pubDate>
     </item>
     <item>
-      <title>【How API Gateway Actually Work ⭐】API网关如何实际工作⭐</title>
-      <link>https://newsletter.systemdesign.one/p/how-api-gateway-works</link>
-      <description>【#73: Break Into API Gateway (3 Minutes)】＃73：闯入API网关（3分钟）</description>
-      <pubDate>Thu, 29 May 2025 11:31:37 +0000</pubDate>
+      <title>【Forward Proxy vs Reverse Proxy ✨】正向代理与反向代理✨</title>
+      <link>https://newsletter.systemdesign.one/p/forward-proxy-vs-reverse-proxy</link>
+      <description>【#77: Break Into Proxy Servers (4 Minutes)】＃77：闯入代理服务器（4分钟）</description>
+      <pubDate>Fri, 11 Jul 2025 11:36:58 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Scale Code Reviews 🔥】如何扩展代码评论🔥</title>
-      <link>https://newsletter.systemdesign.one/p/how-to-do-code-review</link>
-      <description>【#78: How Great Software Engineers Do Code Reviews (4 Minutes)】＃78：伟大的软件工程师如何进行代码评论（4分钟）</description>
-      <pubDate>Fri, 25 Jul 2025 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Everything You Need to Know About Cache Strategies ⭐】您需要了解的有关缓存策略的一切</title>
-      <link>https://newsletter.systemdesign.one/p/cache-strategies</link>
-      <description>【#74: A Simple Introduction to Cache Strategies (3 Minutes)】＃74：简单的缓存策略简介（3分钟）</description>
-      <pubDate>Fri, 13 Jun 2025 11:52:10 +0000</pubDate>
+      <title>【How Amazon S3 Achieves Strong Consistency Without Sacrificing 99.99% Availability 🌟】亚马逊S3如何实现强大的一致性而不牺牲99.99％的可用性🌟</title>
+      <link>https://newsletter.systemdesign.one/p/s3-strong-consistency</link>
+      <description>【#79: Break Into Amazon S3 Architecture (4 Minutes)】＃79：闯入亚马逊S3体系结构（4分钟）</description>
+      <pubDate>Tue, 29 Jul 2025 11:32:18 +0000</pubDate>
     </item>
     <item>
       <title>【How Do Webhooks Work ⭐】Webhooks如何工作⭐</title>
@@ -59,10 +41,28 @@
       <pubDate>Tue, 05 Aug 2025 11:36:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Forward Proxy vs Reverse Proxy ✨】正向代理与反向代理✨</title>
-      <link>https://newsletter.systemdesign.one/p/forward-proxy-vs-reverse-proxy</link>
-      <description>【#77: Break Into Proxy Servers (4 Minutes)】＃77：闯入代理服务器（4分钟）</description>
-      <pubDate>Fri, 11 Jul 2025 11:36:58 +0000</pubDate>
+      <title>【How Reddit Works 🔥】Reddit的工作方式🔥</title>
+      <link>https://newsletter.systemdesign.one/p/reddit-architecture</link>
+      <description>【#76: Break Into Reddit Architecture for 100M Daily Users (5 Minutes)】＃76：每天使用1亿用户的Reddit体系结构（5分钟）</description>
+      <pubDate>Thu, 03 Jul 2025 12:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to Scale Code Reviews 🔥】如何扩展代码评论🔥</title>
+      <link>https://newsletter.systemdesign.one/p/how-to-do-code-review</link>
+      <description>【#78: How Great Software Engineers Do Code Reviews (4 Minutes)】＃78：伟大的软件工程师如何进行代码评论（4分钟）</description>
+      <pubDate>Fri, 25 Jul 2025 10:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Everything You Need to Know About Cache Strategies ⭐】您需要了解的有关缓存策略的一切</title>
+      <link>https://newsletter.systemdesign.one/p/cache-strategies</link>
+      <description>【#74: A Simple Introduction to Cache Strategies (3 Minutes)】＃74：简单的缓存策略简介（3分钟）</description>
+      <pubDate>Fri, 13 Jun 2025 11:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Concurrency Is Not Parallelism 🔥】并发不是平行性🔥</title>
+      <link>https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism</link>
+      <description>【#75: Break Into Concurrency vs Parallelism (3 Minutes)】＃75：闯入并发与并行性（3分钟）</description>
+      <pubDate>Wed, 18 Jun 2025 11:46:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

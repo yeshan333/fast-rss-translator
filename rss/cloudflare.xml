@@ -4,28 +4,10 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives</title>
-      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
-      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. </description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy</title>
-      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
-      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. </description>
-      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform】Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform</title>
-      <link>https://blog.cloudflare.com/serverless-atproto/</link>
-      <description>【 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. 】 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. </description>
-      <pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The White House AI Action Plan:  a new chapter in U.S. AI policy】The White House AI Action Plan:  a new chapter in U.S. AI policy</title>
-      <link>https://blog.cloudflare.com/the-white-house-ai-action-plan-a-new-chapter-in-u-s-ai-policy/</link>
-      <description>【 The White House AI Action Plan is a pivotal policy document outlining the current administration&#39;s priorities and deliverables in AI to establish American AI as the gold standard for AI worldwide. 】 The White House AI Action Plan is a pivotal policy document outlining the current administration&#39;s priorities and deliverables in AI to establish American AI as the gold standard for AI worldwide. </description>
-      <pubDate>Fri, 25 Jul 2025 01:52:00 +0000</pubDate>
+      <title>【MadeYouReset: An HTTP/2 vulnerability thwarted by Rapid Reset mitigations】MadeYouReset: An HTTP/2 vulnerability thwarted by Rapid Reset mitigations</title>
+      <link>https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/</link>
+      <description>【 A new HTTP/2 denial-of-service (DoS) vulnerability called MadeYouReset was recently disclosed by security researchers. Cloudflare HTTP DDoS mitigation, already protects from MadeYouReset. 】 A new HTTP/2 denial-of-service (DoS) vulnerability called MadeYouReset was recently disclosed by security researchers. Cloudflare HTTP DDoS mitigation, already protects from MadeYouReset. </description>
+      <pubDate>Thu, 14 Aug 2025 22:03:00 +0000</pubDate>
     </item>
     <item>
       <title>【Redesigning Workers KV for increased availability and faster performance】Redesigning Workers KV for increased availability and faster performance</title>
@@ -34,34 +16,52 @@
       <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI</title>
-      <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
-      <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). </description>
-      <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Aligning our prices and packaging with the problems we help customers solve】Aligning our prices and packaging with the problems we help customers solve</title>
       <link>https://blog.cloudflare.com/aligning-our-prices-and-packaging-with-the-problems-we-help-customers-solve/</link>
       <description>【 You asked for simplicity. We listened. Introducing Externa and Interna, two new use-case-driven packages to simplify how you connect and protect your entire infrastructure. 】 You asked for simplicity. We listened. Introducing Externa and Interna, two new use-case-driven packages to simplify how you connect and protect your entire infrastructure. </description>
       <pubDate>Mon, 11 Aug 2025 23:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】构建Jetflow：一个在Cloudflare中用于灵活且高性能数据流水线的框架</title>
+      <title>【The White House AI Action Plan:  a new chapter in U.S. AI policy】The White House AI Action Plan:  a new chapter in U.S. AI policy</title>
+      <link>https://blog.cloudflare.com/the-white-house-ai-action-plan-a-new-chapter-in-u-s-ai-policy/</link>
+      <description>【 The White House AI Action Plan is a pivotal policy document outlining the current administration&#39;s priorities and deliverables in AI to establish American AI as the gold standard for AI worldwide. 】 The White House AI Action Plan is a pivotal policy document outlining the current administration&#39;s priorities and deliverables in AI to establish American AI as the gold standard for AI worldwide. </description>
+      <pubDate>Fri, 25 Jul 2025 01:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform】Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform</title>
+      <link>https://blog.cloudflare.com/serverless-atproto/</link>
+      <description>【 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. 】 Build and deploy real-time, decentralized Authenticated Transfer Protocol (ATProto) apps on Cloudflare Workers. </description>
+      <pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI</title>
+      <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
+      <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). </description>
+      <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives</title>
+      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
+      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. </description>
+      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare</title>
       <link>https://blog.cloudflare.com/building-jetflow-a-framework-for-flexible-performant-data-pipelines-at-cloudflare/</link>
-      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】面临大规模数据摄入挑战，Cloudflare的商业智能团队构建了一个名为Jetflow的新框架。</description>
+      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. </description>
       <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)】SaaS v1（托管CNAME）的SSL漏洞披露</title>
+      <title>【Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)】Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)</title>
       <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
-      <description>【 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. 】即将披露Cloudflare SSL for SaaS v1中的一个漏洞，并详细说明了我们针对弃用已采取的步骤。</description>
+      <description>【 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. 】 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. </description>
       <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【MadeYouReset: An HTTP/2 vulnerability thwarted by Rapid Reset mitigations】MadeYouReset: An HTTP/2 vulnerability thwarted by Rapid Reset mitigations</title>
-      <link>https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/</link>
-      <description>【 A new HTTP/2 denial-of-service (DoS) vulnerability called MadeYouReset was recently disclosed by security researchers. Cloudflare HTTP DDoS mitigation, already protects from MadeYouReset. 】安全研究人员最近披露了一个名为MadeYouReset的新HTTP/2拒绝服务（DoS）漏洞。Cloudflare的HTTP DDoS防护已能防御MadeYouReset攻击。</description>
-      <pubDate>Thu, 14 Aug 2025 22:03:00 +0000</pubDate>
+      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy</title>
+      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
+      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. </description>
+      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
