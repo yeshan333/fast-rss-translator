@@ -23,7 +23,6 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
     # alibaba_qwen_api_key: "specific_feed_api_key"
     max_post: 10
 
@@ -120,7 +119,6 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
     max_post: 10
 
   - name: javascriptweekly.xml
@@ -128,7 +126,6 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
     max_post: 10
 
   - name: pycoders.xml
@@ -136,7 +133,6 @@ feeds:
     origin_language: "auto"
     target_language: "zh"
     translate_mode: "bilingual"
-    translate_engine: "cloudflare"
     max_post: 10
 
   - name: thisweekinreact.xml
