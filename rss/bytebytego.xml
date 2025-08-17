@@ -5,46 +5,10 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【Top Leader Election Algorithms in Distributed Databases】分布式数据库中的顶级领导者选举算法</title>
-      <link>https://blog.bytebytego.com/p/top-leader-election-algorithms-in</link>
-      <description>【A database needs to be sure about who the leader is at any given time, that the leader is sufficiently up to date, and that a new leader can be chosen quickly and safely when necessary.】数据库需要确保在任何给定时间的领导者是谁，领导者足够最新的，并且可以在必要时快速，安全地选择新的领导者。</description>
-      <pubDate>Thu, 31 Jul 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cursor Serves Billions of AI Code Completions Every Day】光标如何每天为数十亿个AI代码完成服务</title>
-      <link>https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai</link>
-      <description>【In this article, we will take a look at the key features of Cursor, how those features work, and the infrastructure stack that powers it.】在本文中，我们将查看光标的关键功能，这些功能的工作方式以及为其提供动力的基础架构堆栈。</description>
-      <pubDate>Tue, 29 Jul 2025 15:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Eats Deduplicates Hundreds of Millions of Product Images】Uber如何吃掉数亿个产品图像</title>
-      <link>https://blog.bytebytego.com/p/how-uber-eats-deduplicates-hundreds</link>
-      <description>【At the scale of Uber Eats, image handling is an operational necessity. The platform manages hundreds of millions of product images, with millions of updates flowing through the system every hour.】在Uber Eats的规模上，图像处理是一种操作的必要性。该平台管理数亿个产品图像，每小时会有数百万个更新遍布系统。</description>
-      <pubDate>Tue, 05 Aug 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
       <title>【Top Scalability Strategies for Real-World Load】现实负载的最高可扩展性策略</title>
       <link>https://blog.bytebytego.com/p/top-scalability-strategies-for-real</link>
       <description>【In modern distributed systems, scalability is not a nice-to-have. Whether serving a global user base or responding to a viral spike, systems that fail to scale often fail outright.】在现代分布式系统中，可伸缩性不是一个不错的选择。无论是服务全球用户群还是响应病毒峰值，无法扩展的系统通常会完全失败。</description>
       <pubDate>Thu, 07 Aug 2025 15:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP176: How Does SSO Work?】EP176：SSO如何工作？</title>
-      <link>https://blog.bytebytego.com/p/ep176-how-does-sso-work</link>
-      <description>【Single Sign-On (SSO) is an authentication scheme. It allows a user to log in to different systems using a single ID.】单登录（SSO）是一种身份验证方案。它允许用户使用单个ID登录到不同的系统。</description>
-      <pubDate>Sat, 16 Aug 2025 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP174: 16 Coding Patterns That Make Interviews Easy】EP174：16种使访谈变得容易的编码模式</title>
-      <link>https://blog.bytebytego.com/p/ep174-16-coding-patterns-that-make</link>
-      <description>【Which other coding pattern will you add to the list?】您还将添加哪些其他编码模式？</description>
-      <pubDate>Sat, 02 Aug 2025 15:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LLMs See the World】LLM如何看世界</title>
-      <link>https://blog.bytebytego.com/p/how-llms-see-the-world</link>
-      <description>【Tokens are what rule the world of LLMs. You send tokens to models, you pay by the token, and models read, understand, and breathe tokens.】令牌是统治LLM的世界。您将令牌发送到模型，由代币付款，模型读取，理解和呼吸令牌。</description>
-      <pubDate>Mon, 04 Aug 2025 15:30:24 +0000</pubDate>
     </item>
     <item>
       <title>【A Guide to Top Caching Strategies】顶级缓存策略指南</title>
@@ -53,10 +17,46 @@
       <pubDate>Thu, 14 Aug 2025 15:30:24 +0000</pubDate>
     </item>
     <item>
+      <title>【Top Leader Election Algorithms in Distributed Databases】分布式数据库中的顶级领导者选举算法</title>
+      <link>https://blog.bytebytego.com/p/top-leader-election-algorithms-in</link>
+      <description>【A database needs to be sure about who the leader is at any given time, that the leader is sufficiently up to date, and that a new leader can be chosen quickly and safely when necessary.】数据库需要确保在任何给定时间的领导者是谁，领导者足够最新的，并且可以在必要时快速，安全地选择新的领导者。</description>
+      <pubDate>Thu, 31 Jul 2025 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Eats Deduplicates Hundreds of Millions of Product Images】Uber如何吃掉数亿个产品图像</title>
+      <link>https://blog.bytebytego.com/p/how-uber-eats-deduplicates-hundreds</link>
+      <description>【At the scale of Uber Eats, image handling is an operational necessity. The platform manages hundreds of millions of product images, with millions of updates flowing through the system every hour.】在Uber Eats的规模上，图像处理是一种操作的必要性。该平台管理数亿个产品图像，每小时会有数百万个更新遍布系统。</description>
+      <pubDate>Tue, 05 Aug 2025 15:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP174: 16 Coding Patterns That Make Interviews Easy】EP174：16种使访谈变得容易的编码模式</title>
+      <link>https://blog.bytebytego.com/p/ep174-16-coding-patterns-that-make</link>
+      <description>【Which other coding pattern will you add to the list?】您还将添加哪些其他编码模式？</description>
+      <pubDate>Sat, 02 Aug 2025 15:31:22 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Atlassian Migrated 4 Million Jira Databases to AWS Aurora】Atlassian如何将400万JIRA数据库迁移到AWS Aurora</title>
       <link>https://blog.bytebytego.com/p/how-atlassian-migrated-4-million</link>
       <description>【Atlassian routinely migrates about 1,000 databases every day as part of its regular operations, and its users never notice.】作为常规操作的一部分，Atlassian通常每天迁移约1,000个数据库，其用户从未注意到。</description>
       <pubDate>Tue, 12 Aug 2025 15:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP176: How Does SSO Work?】EP176：SSO如何工作？</title>
+      <link>https://blog.bytebytego.com/p/ep176-how-does-sso-work</link>
+      <description>【Single Sign-On (SSO) is an authentication scheme. It allows a user to log in to different systems using a single ID.】单登录（SSO）是一种身份验证方案。它允许用户使用单个ID登录到不同的系统。</description>
+      <pubDate>Sat, 16 Aug 2025 15:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Cursor Serves Billions of AI Code Completions Every Day】光标如何每天为数十亿个AI代码完成服务</title>
+      <link>https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai</link>
+      <description>【In this article, we will take a look at the key features of Cursor, how those features work, and the infrastructure stack that powers it.】在本文中，我们将查看光标的关键功能，这些功能的工作方式以及为其提供动力的基础架构堆栈。</description>
+      <pubDate>Tue, 29 Jul 2025 15:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LLMs See the World】LLM如何看世界</title>
+      <link>https://blog.bytebytego.com/p/how-llms-see-the-world</link>
+      <description>【Tokens are what rule the world of LLMs. You send tokens to models, you pay by the token, and models read, understand, and breathe tokens.】令牌是统治LLM的世界。您将令牌发送到模型，由代币付款，模型读取，理解和呼吸令牌。</description>
+      <pubDate>Mon, 04 Aug 2025 15:30:24 +0000</pubDate>
     </item>
     <item>
       <title>【EP175: What is the SOLID Principle?】EP175：坚实的原理是什么？</title>
