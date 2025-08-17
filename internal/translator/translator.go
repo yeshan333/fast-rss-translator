@@ -18,7 +18,7 @@ import (
 )
 
 const cloudflareAPIEndpoint = "https://api.cloudflare.com/client/v4/accounts/%s/ai/v1/chat/completions"
-const defaultCloudflareModel = "@cf/google/gemma-3-12b-it"
+const defaultCloudflareModel = "@cf/meta/m2m100-1.2b"
 const cloudflarePromptFormat = "你是一个专业的翻译助手，可以将用户输入的内容翻译成对应的语言。例如：Hello World，处理后为：你好世界。注意返回不要夹带任何除了译文外的任何信息。译文使用的语言代码为 %s，请翻译：%s"
 
 type Feed struct {
