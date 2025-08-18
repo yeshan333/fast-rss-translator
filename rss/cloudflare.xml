@@ -4,10 +4,46 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】与Openai合作将他们的新开放模型带到Cloudflare工人AI</title>
+      <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
+      <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】OpenAI的最新开源型号现在可在CloudFlare工人AI上获得，并支持响应API，代码解释器和Web搜索（即将推出）。</description>
+      <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The White House AI Action Plan:  a new chapter in U.S. AI policy】白宫AI行动计划：美国AI政策的新篇章</title>
+      <link>https://blog.cloudflare.com/the-white-house-ai-action-plan-a-new-chapter-in-u-s-ai-policy/</link>
+      <description>【 The White House AI Action Plan is a pivotal policy document outlining the current administration&#39;s priorities and deliverables in AI to establish American AI as the gold standard for AI worldwide. 】白宫AI行动计划是一项关键的政策文件，概述了当前政府在AI中的优先事项和可交付成果，以确立American AI为全球AI的黄金标准。</description>
+      <pubDate>Fri, 25 Jul 2025 01:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the Cloudflare Browser Developer Program】宣布CloudFlare浏览器开发人员计划</title>
+      <link>https://blog.cloudflare.com/announcing-the-cloudflare-browser-developer-program/</link>
+      <description>【 Announcing the Browser Developer Program: Cloudflare’s new collaborative program to help shape Cloudflare challenges that work seamlessly with your browser. Join us today! 】宣布浏览器开发人员计划：CloudFlare的新协作计划，以帮助塑造与浏览器无缝搭配的Cloudflare挑战。立即加入我们！</description>
+      <pubDate>Mon, 18 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】困惑正在使用隐形，未申报的爬网逃避网站无爬行指令</title>
+      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
+      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】困惑性正在反复修改其用户代理，并更改IPS和ASN，以隐藏其爬行活动，直接与网站表达的明确无爬行偏好冲突。</description>
+      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】将双重延迟从40毫秒降低到&lt;1 ms的隐私代理</title>
+      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
+      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】我们通过修复40毫秒的“双重款式”检查来大大加强了我们的隐私委托服务。</description>
+      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【MadeYouReset: An HTTP/2 vulnerability thwarted by Rapid Reset mitigations】MadyOureSet：http/2漏洞被快速复位缓解挫败</title>
       <link>https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/</link>
       <description>【 A new HTTP/2 denial-of-service (DoS) vulnerability called MadeYouReset was recently disclosed by security researchers. Cloudflare HTTP DDoS mitigation, already protects from MadeYouReset. 】安全研究人员最近披露了一个新的HTTP/2拒绝服务（DOS）漏洞。 Cloudflare HTTP DDOS缓解措施，已经可以保护MadyYouReset。</description>
       <pubDate>Thu, 14 Aug 2025 22:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Redesigning Workers KV for increased availability and faster performance】重新设计工人KV，以提高可用性和更快的性能</title>
+      <link>https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/</link>
+      <description>【 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; 】工人KV是Cloudflare的全球钥匙值商店。 6月12日事件发生后，我们重新建立了KV的冗余存储后端，删除单点失败并做出了重大改进。</description>
+      <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Serverless Statusphere: a walk through building serverless ATProto applications on Cloudflare’s Developer Platform】无服务器状态：通过CloudFlare的开发人员平台上的无服务器ATPROTO应用程序漫步</title>
@@ -22,46 +58,10 @@
       <pubDate>Mon, 11 Aug 2025 23:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】将双重延迟从40毫秒降低到&lt;1 ms的隐私代理</title>
-      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
-      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】我们通过修复40毫秒的“双重款式”检查来大大加强了我们的隐私委托服务。</description>
-      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)】SaaS V1的SSL漏洞披露（托管CNAME）</title>
       <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
       <description>【 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. 】详细说明了我们为贬值所采取的步骤。</description>
       <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building Jetflow: a framework for flexible, performant data pipelines at Cloudflare】构建喷气流：Cloudflare的灵活，性能数据管道的框架</title>
-      <link>https://blog.cloudflare.com/building-jetflow-a-framework-for-flexible-performant-data-pipelines-at-cloudflare/</link>
-      <description>【 Faced with a data-ingestion challenge at a massive scale, Cloudflare&#39;s Business Intelligence team built a new framework called Jetflow. 】面对大规模的数据开发挑战，Cloudflare的商业智能团队建立了一个名为Jetflow的新框架。</description>
-      <pubDate>Wed, 23 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Partnering with OpenAI to bring their new open models onto Cloudflare Workers AI】与Openai合作将他们的新开放模型带到Cloudflare工人AI</title>
-      <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
-      <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】OpenAI的最新开源型号现在可在CloudFlare工人AI上获得，并支持响应API，代码解释器和Web搜索（即将推出）。</description>
-      <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Redesigning Workers KV for increased availability and faster performance】重新设计工人KV，以提高可用性和更快的性能</title>
-      <link>https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/</link>
-      <description>【 Workers KV is Cloudflare&#39;s global key-value store. After the incident on June 12, we re-architected KV’s redundant storage backend, remove single points of failure, and make substantial improvements.&#xA; 】工人KV是Cloudflare的全球钥匙值商店。 6月12日事件发生后，我们重新建立了KV的冗余存储后端，删除单点失败并做出了重大改进。</description>
-      <pubDate>Fri, 08 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The White House AI Action Plan:  a new chapter in U.S. AI policy】白宫AI行动计划：美国AI政策的新篇章</title>
-      <link>https://blog.cloudflare.com/the-white-house-ai-action-plan-a-new-chapter-in-u-s-ai-policy/</link>
-      <description>【 The White House AI Action Plan is a pivotal policy document outlining the current administration&#39;s priorities and deliverables in AI to establish American AI as the gold standard for AI worldwide. 】白宫AI行动计划是一项关键的政策文件，概述了当前政府在AI中的优先事项和可交付成果，以确立American AI为全球AI的黄金标准。</description>
-      <pubDate>Fri, 25 Jul 2025 01:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】困惑正在使用隐形，未申报的爬网逃避网站无爬行指令</title>
-      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
-      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】困惑性正在反复修改其用户代理，并更改IPS和ASN，以隐藏其爬行活动，直接与网站表达的明确无爬行偏好冲突。</description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

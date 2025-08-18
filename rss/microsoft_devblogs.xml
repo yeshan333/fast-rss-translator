@@ -4,46 +4,10 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Data encryption with customer-managed key (CMK) for Azure Cosmos DB for MongoDB vCore】使用客户管理的密钥（CMK）的数据加密，用于MongoDB Vcore的Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/data-encryption-with-customer-managed-key-cmk-for-azure-cosmos-db-for-mongodb-vcore</link>
-      <description>【Built-in security for every configuration Azure Cosmos DB for MongoDB vCore is designed with security as a foundational principle. Regardless of how your cluster is configured—whether it&#39;s a sing】每种配置的内置安全性Azure cosmos db for MongoDB VCore的设计都以安全性为基础原理。不管如何配置群集，无论是唱歌</description>
-      <pubDate>Thu, 14 Aug 2025 15:21:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Customizable and Extensible Evaluation of a GenAI Application】Genai应用程序可定制且可扩展的评估</title>
-      <link>https://devblogs.microsoft.com/ise/customizable-extensible-evaluations-of-genai-application</link>
-      <description>【Introduction You have built out a generative AI application. Now are you wondering how to assess that your application is returning quality results? Have you considered using Azure AI Foundry to evaluate your application? If you are wondering how to start programmatically evaluating your application in a way that is both adaptable an】简介您已经构建了生成的AI应用程序。现在，您想知道如何评估您的应用程序正在返回质量结果？您是否考虑过使用Azure AI铸造厂评估您的应用程序？如果您想知道如何以一种适应性的方式启动编程评估您的应用程序</description>
-      <pubDate>Thu, 14 Aug 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【GPT-5 for Microsoft Developers】Microsoft开发人员的GPT-5</title>
       <link>https://devblogs.microsoft.com/blog/gpt-5-for-microsoft-developers</link>
       <description>【OpenAI announced GPT-5 last week in &#34;GPT-5 and the new era of work&#34;. Working with OpenAI, we rolled out GPT-5 support the day it launched, making sure you can use and build with it and integrate it into your applications immediately. We&#39;ve got you covered with a dev-focused rundo】Openai上周在“ GPT-5和新时代”中宣布了GPT-5。与OpenAI合作，我们推出了GPT-5支持的那一天，请确保您可以使用并构建它并立即将其集成到您的应用程序中。我们让您覆盖着以开发为中心的Rundo</description>
       <pubDate>Thu, 14 Aug 2025 17:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Model Context Protocol (MCP) for GitHub Copilot in Xcode is Now Generally Available】Xcode中GitHub Copilot的模型上下文协议（MCP）现在通常可用</title>
-      <link>https://devblogs.microsoft.com/xcode/mcp-for-ghc-in-xcode-is-now-generally-available</link>
-      <description>【Model Context Protocol (MCP) support with GitHub Copilot is now generally available for Xcode! Developers can now enable GitHub Copilot with MCP in Xcode to enhance coding intelligence and context awareness. What&#39;s new With MCP support in Xcode, developers can now connect Copilot to both local and remote MCP servers that follow the】XCode现在通常可以使用GitHub Copilot的模型上下文协议（MCP）支持！开发人员现在可以在XCode中使用MCP启用GitHub Copilot，以增强编码智能和上下文意识。 XCode中MCP支持的新功能，开发人员现在可以将副副总片连接到遵循的本地和远程MCP服务器</description>
-      <pubDate>Thu, 14 Aug 2025 13:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improving Codebase Awareness in Visual Studio Chat】在Visual Studio聊天中提高代码库意识</title>
-      <link>https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat</link>
-      <description>【Smarter Code Search in Visual Studio: From BM25 to Semantic Search  In our lat】Visual Studio中的智能代码搜索：从BM25到我们LAT的语义搜索</description>
-      <pubDate>Thu, 14 Aug 2025 12:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 4: Using a circular doubly linked list】关于创建跟踪指针类的想法，第4部分：使用圆形双链接列表</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250814-00/?p=111482</link>
-      <description>【Our previous attempt to create a tracking pointer class had the downside of incurring a potential memory allocation when a tracking pointer is copied or moved. We can get rid of this allocation by mak】我们以前创建跟踪指针类的尝试的缺点是在复制或移动跟踪指针时会产生潜在的内存分配。我们可以摆脱Mak的分配</description>
-      <pubDate>Thu, 14 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines】Azure开发人员CLI：从DEV到使用Azure DevOps Pipelines</title>
-      <link>https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines</link>
-      <description>【Building on our previous post about implementing dev-to-prod promotion with GitHub Actions, this follow-up demonstrates the same &#34;build once, deploy everywhere&#34; pattern using Azure DevOps Pipelines. You&#39;ll learn how to leverage Azure Dev】在我们以前关于通过GitHub Action实施Dev-to-to-to促销的文章的基础上，此后续措施使用Azure DevOps管道展示了相同的“构建一次，在任何地方部署”模式。您将学习如何利用Azure Dev</description>
-      <pubDate>Wed, 13 Aug 2025 18:29:24 +0000</pubDate>
     </item>
     <item>
       <title>【From Redmond to San Diego: VS Live! Highlights, Session Examples, and What’s Next】从雷德蒙德到圣地亚哥：vs Live！亮点，会话示例以及下一步</title>
@@ -52,16 +16,52 @@
       <pubDate>Thu, 14 Aug 2025 00:36:07 +0000</pubDate>
     </item>
     <item>
+      <title>【Model Context Protocol (MCP) for GitHub Copilot in Xcode is Now Generally Available】Xcode中GitHub Copilot的模型上下文协议（MCP）现在通常可用</title>
+      <link>https://devblogs.microsoft.com/xcode/mcp-for-ghc-in-xcode-is-now-generally-available</link>
+      <description>【Model Context Protocol (MCP) support with GitHub Copilot is now generally available for Xcode! Developers can now enable GitHub Copilot with MCP in Xcode to enhance coding intelligence and context awareness. What&#39;s new With MCP support in Xcode, developers can now connect Copilot to both local and remote MCP servers that follow the】XCode现在通常可以使用GitHub Copilot的模型上下文协议（MCP）支持！开发人员现在可以在XCode中使用MCP启用GitHub Copilot，以增强编码智能和上下文意识。 XCode中MCP支持的新功能，开发人员现在可以将副副总片连接到遵循的本地和远程MCP服务器</description>
+      <pubDate>Thu, 14 Aug 2025 13:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Customizable and Extensible Evaluation of a GenAI Application】Genai应用程序可定制且可扩展的评估</title>
+      <link>https://devblogs.microsoft.com/ise/customizable-extensible-evaluations-of-genai-application</link>
+      <description>【Introduction You have built out a generative AI application. Now are you wondering how to assess that your application is returning quality results? Have you considered using Azure AI Foundry to evaluate your application? If you are wondering how to start programmatically evaluating your application in a way that is both adaptable an】简介您已经构建了生成的AI应用程序。现在，您想知道如何评估您的应用程序正在返回质量结果？您是否考虑过使用Azure AI铸造厂评估您的应用程序？如果您想知道如何以一种适应性的方式启动编程评估您的应用程序</description>
+      <pubDate>Thu, 14 Aug 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing the NuGet MCP Server Preview】宣布Nuget MCP服务器预览</title>
       <link>https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview</link>
       <description>【Last month, we announced support for building custom MCP servers with .NET and publishing them to NuGet. Building on that foundation, today we&#39;re announcing the official NuGet MCP Server, which enables you to integrate real-time NuGet package information】上个月，我们宣布支持使用.NET构建自定义MCP服务器并将其发布到Nuget。在该基金会的基础上，今天我们宣布官方的Nuget MCP服务器，这使您能够集成实时Nuget软件包信息</description>
       <pubDate>Thu, 14 Aug 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Thoughts on creating a tracking pointer class, part 6: Non-modifying trackers】关于创建跟踪指针类的想法，第6部分：非修改跟踪器</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250818-00/?p=111486</link>
+      <description>【Let&#39;s add non-modifying trackers to our tracking pointers implementation. That is, a tracking pointer that gives you only read-only access to the tracked object. The idea is that tracking point】让我们在跟踪指针实现中添加非修改跟踪器。也就是说，一种跟踪指针，可让您仅阅读对跟踪对象的访问。想法是跟踪点</description>
+      <pubDate>Mon, 18 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Thoughts on creating a tracking pointer class, part 5: Copying our tracking pointer】关于创建跟踪指针类的想法，第5部分：复制我们的跟踪指针</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250815-00/?p=111484</link>
       <description>【Our previous attempt to create a tracking pointer class had the perhaps-undesirable property that copying a const tracking pointer is not permitted. This requirement arose because copying a tracking p】我们以前创建跟踪指针类的尝试也许是不可避免的属性，即不允许复制跟踪指针。此要求之所以出现，是因为复制跟踪P</description>
       <pubDate>Fri, 15 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Data encryption with customer-managed key (CMK) for Azure Cosmos DB for MongoDB vCore】使用客户管理的密钥（CMK）的数据加密，用于MongoDB Vcore的Azure Cosmos DB</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/data-encryption-with-customer-managed-key-cmk-for-azure-cosmos-db-for-mongodb-vcore</link>
+      <description>【Built-in security for every configuration Azure Cosmos DB for MongoDB vCore is designed with security as a foundational principle. Regardless of how your cluster is configured—whether it&#39;s a sing】每种配置的内置安全性Azure cosmos db for MongoDB VCore的设计都以安全性为基础原理。不管如何配置群集，无论是唱歌</description>
+      <pubDate>Thu, 14 Aug 2025 15:21:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thoughts on creating a tracking pointer class, part 4: Using a circular doubly linked list】关于创建跟踪指针类的想法，第4部分：使用圆形双链接列表</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250814-00/?p=111482</link>
+      <description>【Our previous attempt to create a tracking pointer class had the downside of incurring a potential memory allocation when a tracking pointer is copied or moved. We can get rid of this allocation by mak】我们以前创建跟踪指针类的尝试的缺点是在复制或移动跟踪指针时会产生潜在的内存分配。我们可以摆脱Mak的分配</description>
+      <pubDate>Thu, 14 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improving Codebase Awareness in Visual Studio Chat】在Visual Studio聊天中提高代码库意识</title>
+      <link>https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat</link>
+      <description>【Smarter Code Search in Visual Studio: From BM25 to Semantic Search  In our lat】Visual Studio中的智能代码搜索：从BM25到我们LAT的语义搜索</description>
+      <pubDate>Thu, 14 Aug 2025 12:00:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

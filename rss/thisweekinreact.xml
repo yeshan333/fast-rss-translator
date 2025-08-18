@@ -4,18 +4,6 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
-      <title>【This Week In React #243: Next.js, TanStack, Compiler, React Router, R3f | Node-API, Wallet, Worklets, Apple LLM, Metro, Skia, Radon, RNEF | Nuxt, Deno, zshy, TypeGPU, Rspack】本周在React＃243中：Next.js，Tanstack，编译器，React路由器，R3F |节点API，钱包，工作点，Apple LLM，Metro，Skia，Radon，Rnef | nuxt，deno，zshy，typegpu，rspack</title>
-      <link>https://thisweekinreact.com/newsletter/243</link>
-      <description>【Hi everyone! Tomek and Tymek from Software Mansion here! 👋】大家好！来自软件大厦的Tomek和Tymek！ 👋</description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #241: Remix, Next.js, Turbopack, Radix  DOM templating, Ultracite, Stack, StyleX, MUI | Nitro Week, Skia, App Generator, Swift, Kotlin | ES2025, Rspack, Babel, TypeScript, Effect, Deno, Three.js】本周在React＃241中：Remix，Next.js，Turbopack，Radix Dom Templating，Ultracite，stack，Stylex，Mui | Nitro Week，Skia，App Generator，Swift，Kotlin | ES2025，rspack，babel，打字稿，效果，deNo，三人</title>
-      <link>https://thisweekinreact.com/newsletter/241</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【This Week In React #245: TanStack, React Core, Next.js MCP, RSC, memo, Remix, Base UI, React Aria | Precompiled iOS, Rozenite, AI, Perf, Nitro, BottomSheet, Tinybase | TC39, TypeScript, Runtimes, Mocks】本周在React＃245：Tanstack，React Core，Next.JS MCP，RSC，Memo，Remix，Base UI，React Aria |预编译iOS，rozenite，ai，perf，nitro，底部表，tinybase | TC39，打字稿，运行时，模拟</title>
       <link>https://thisweekinreact.com/newsletter/245</link>
       <description>【Hi everyone!】大家好！</description>
@@ -28,10 +16,22 @@
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【This Week In React #241: Remix, Next.js, Turbopack, Radix  DOM templating, Ultracite, Stack, StyleX, MUI | Nitro Week, Skia, App Generator, Swift, Kotlin | ES2025, Rspack, Babel, TypeScript, Effect, Deno, Three.js】本周在React＃241中：Remix，Next.js，Turbopack，Radix Dom Templating，Ultracite，stack，Stylex，Mui | Nitro Week，Skia，App Generator，Swift，Kotlin | ES2025，rspack，babel，打字稿，效果，deNo，三人</title>
+      <link>https://thisweekinreact.com/newsletter/241</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #242: Vite RSC, Next.js, NuxtLabs, shadcn, TanStack, Valtio, XState, RHF | Unistyles, Rag, Shadow Insets, Ignite, Metro, RN 0.81 RC | TypeScript, CSS Gaps, Browserlist-rs, Biome, Astro, esbuild】本周在React＃242中：Vite RSC，Next.js，Nuxtlabs，Shadcn，Tanstack，Valtio，Xstate，RHF | Unistyles，抹布，阴影插图，IGNITE，METRO，RN 0.81 RC |打字稿，CSS差距，浏览列表RS，Biome，Astro，Esbuild</title>
       <link>https://thisweekinreact.com/newsletter/242</link>
       <description>【Hi everyone! Kacper and Krzysztof from Software Mansion here! 👋】大家好！ KACPER和KRZYSZTOF来自软件大厦！ 👋</description>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【This Week In React #243: Next.js, TanStack, Compiler, React Router, R3f | Node-API, Wallet, Worklets, Apple LLM, Metro, Skia, Radon, RNEF | Nuxt, Deno, zshy, TypeGPU, Rspack】本周在React＃243中：Next.js，Tanstack，编译器，React路由器，R3F |节点API，钱包，工作点，Apple LLM，Metro，Skia，Radon，Rnef | nuxt，deno，zshy，typegpu，rspack</title>
+      <link>https://thisweekinreact.com/newsletter/243</link>
+      <description>【Hi everyone! Tomek and Tymek from Software Mansion here! 👋】大家好！来自软件大厦的Tomek和Tymek！ 👋</description>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
