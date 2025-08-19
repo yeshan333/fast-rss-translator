@@ -4,46 +4,10 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>Zapier如何在AWS lambda上运行孤立的任务和升级功能</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/</link>
-      <description></description>
-      <pubDate>Fri, 25 Jul 2025 13:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karrot如何在AWS上构建功能平台，第2部分：功能摄入</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/</link>
-      <description></description>
-      <pubDate>Thu, 14 Aug 2025 15:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>通过托管服务实施对亚马逊EK的监视</title>
-      <link>https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/</link>
-      <description></description>
-      <pubDate>Fri, 18 Jul 2025 15:47:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Karrot如何在AWS上建立功能平台，第1部分：动机和功能服务</title>
       <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/</link>
       <description></description>
       <pubDate>Thu, 14 Aug 2025 15:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hashicorp如何通过Amazon应用程序恢复控制器使跨区域切换无缝</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/</link>
-      <description></description>
-      <pubDate>Fri, 25 Jul 2025 13:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用AWS和生成AI简化可持续性报告</title>
-      <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
-      <description></description>
-      <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用VLLM深度学习容器在Amazon EKS上部署LLM</title>
-      <link>https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/</link>
-      <description></description>
-      <pubDate>Thu, 14 Aug 2025 15:09:51 +0000</pubDate>
     </item>
     <item>
       <title>使用AWS变换为VMware迁移和现代化VMware工作负载</title>
@@ -58,10 +22,46 @@
       <pubDate>Fri, 01 Aug 2025 15:33:28 +0000</pubDate>
     </item>
     <item>
+      <title>Karrot如何在AWS上构建功能平台，第2部分：功能摄入</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/</link>
+      <description></description>
+      <pubDate>Thu, 14 Aug 2025 15:16:27 +0000</pubDate>
+    </item>
+    <item>
       <title>如何赢得胜利使用AWS WAF阻止DDOS事件</title>
       <link>https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/</link>
       <description></description>
       <pubDate>Mon, 14 Jul 2025 19:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hashicorp如何通过Amazon应用程序恢复控制器使跨区域切换无缝</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/</link>
+      <description></description>
+      <pubDate>Fri, 25 Jul 2025 13:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>通过托管服务实施对亚马逊EK的监视</title>
+      <link>https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/</link>
+      <description></description>
+      <pubDate>Fri, 18 Jul 2025 15:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用VLLM深度学习容器在Amazon EKS上部署LLM</title>
+      <link>https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/</link>
+      <description></description>
+      <pubDate>Thu, 14 Aug 2025 15:09:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zapier如何在AWS lambda上运行孤立的任务和升级功能</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/</link>
+      <description></description>
+      <pubDate>Fri, 25 Jul 2025 13:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用AWS和生成AI简化可持续性报告</title>
+      <link>https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/</link>
+      <description></description>
+      <pubDate>Thu, 26 Jun 2025 17:54:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
