@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Model Context Protocol (MCP) for GitHub Copilot in Xcode is Now Generally Available】Xcode中GitHub Copilot的模型上下文协议（MCP）现在通常可用</title>
-      <link>https://devblogs.microsoft.com/xcode/mcp-for-ghc-in-xcode-is-now-generally-available</link>
-      <description>【Model Context Protocol (MCP) support with GitHub Copilot is now generally available for Xcode! Developers can now enable GitHub Copilot with MCP in Xcode to enhance coding intelligence and context awareness. What&#39;s new With MCP support in Xcode, developers can now connect Copilot to both local and remote MCP servers that follow the】XCode现在通常可以使用GitHub Copilot的模型上下文协议（MCP）支持！开发人员现在可以在XCode中使用MCP启用GitHub Copilot，以增强编码智能和上下文意识。 XCode中MCP支持的新功能，开发人员现在可以将副副总片连接到遵循的本地和远程MCP服务器</description>
-      <pubDate>Thu, 14 Aug 2025 13:10:45 +0000</pubDate>
+      <title>【Azure SDK Release (August 2025)】Azure SDK Release (August 2025)</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our</description>
+      <pubDate>Tue, 19 Aug 2025 18:43:38 +0000</pubDate>
     </item>
     <item>
-      <title>【GPT-5 for Microsoft Developers】Microsoft开发人员的GPT-5</title>
-      <link>https://devblogs.microsoft.com/blog/gpt-5-for-microsoft-developers</link>
-      <description>【OpenAI announced GPT-5 last week in &#34;GPT-5 and the new era of work&#34;. Working with OpenAI, we rolled out GPT-5 support the day it launched, making sure you can use and build with it and integrate it into your applications immediately. We&#39;ve got you covered with a dev-focused rundo】Openai上周在“ GPT-5和新时代”中宣布了GPT-5。与OpenAI合作，我们推出了GPT-5支持的那一天，请确保您可以使用并构建它并立即将其集成到您的应用程序中。我们让您覆盖着以开发为中心的Rundo</description>
-      <pubDate>Thu, 14 Aug 2025 17:00:24 +0000</pubDate>
+      <title>【Announcing Copilot Studio Agent Academy: Your Mission Starts Now】Announcing Copilot Studio Agent Academy: Your Mission Starts Now</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-copilot-studio-agent-academy</link>
+      <description>【Welcome to Copilot Studio Agent Academy Whether you&#39;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#39;ve got your mission briefing ready and it&#39;s time to suit up! We&#39;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curricu】Welcome to Copilot Studio Agent Academy Whether you&#39;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#39;ve got your mission briefing ready and it&#39;s time to suit up! We&#39;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curricu</description>
+      <pubDate>Wed, 20 Aug 2025 13:00:39 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the NuGet MCP Server Preview】宣布Nuget MCP服务器预览</title>
-      <link>https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview</link>
-      <description>【Last month, we announced support for building custom MCP servers with .NET and publishing them to NuGet. Building on that foundation, today we&#39;re announcing the official NuGet MCP Server, which enables you to integrate real-time NuGet package information】上个月，我们宣布支持使用.NET构建自定义MCP服务器并将其发布到Nuget。在该基金会的基础上，今天我们宣布官方的Nuget MCP服务器，这使您能够集成实时Nuget软件包信息</description>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0000</pubDate>
+      <title>【Copilot Diagnostics toolset for .NET In Visual Studio】Copilot Diagnostics toolset for .NET In Visual Studio</title>
+      <link>https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio</link>
+      <description>【We know how much energy developers pour into debugging bugs and diagnosing performance in .NET. That’s why we’ve doubled down on making the debugging and profiling experience in Visual Studio not just easier, but genuinely enjoyable meeting you exactly where your real work happens. The same tools you rely on are now able to keep up with yo】We know how much energy developers pour into debugging bugs and diagnosing performance in .NET. That’s why we’ve doubled down on making the debugging and profiling experience in Visual Studio not just easier, but genuinely enjoyable meeting you exactly where your real work happens. The same tools you rely on are now able to keep up with yo</description>
+      <pubDate>Wed, 20 Aug 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Data encryption with customer-managed key (CMK) for Azure Cosmos DB for MongoDB vCore】使用客户管理的密钥（CMK）的数据加密，用于MongoDB Vcore的Azure Cosmos DB</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/data-encryption-with-customer-managed-key-cmk-for-azure-cosmos-db-for-mongodb-vcore</link>
-      <description>【Built-in security for every configuration Azure Cosmos DB for MongoDB vCore is designed with security as a foundational principle. Regardless of how your cluster is configured—whether it&#39;s a sing】每种配置的内置安全性Azure cosmos db for MongoDB VCore的设计都以安全性为基础原理。不管如何配置群集，无论是唱歌</description>
-      <pubDate>Thu, 14 Aug 2025 15:21:01 +0000</pubDate>
+      <title>【Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉】Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉</title>
+      <link>https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio</link>
+      <description>【We’re excited to announce that MCP support is now GA in Visual Studio—unlocking richer, real-time context from your entire development stack and expanding the power of Agent Mode like never before. Model Context Protocol (MCP) is an open standard that makes it easy for AI agents to connect with external tools and services—think of it】We’re excited to announce that MCP support is now GA in Visual Studio—unlocking richer, real-time context from your entire development stack and expanding the power of Agent Mode like never before. Model Context Protocol (MCP) is an open standard that makes it easy for AI agents to connect with external tools and services—think of it</description>
+      <pubDate>Tue, 19 Aug 2025 18:23:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 5: Copying our tracking pointer】关于创建跟踪指针类的想法，第5部分：复制我们的跟踪指针</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250815-00/?p=111484</link>
-      <description>【Our previous attempt to create a tracking pointer class had the perhaps-undesirable property that copying a const tracking pointer is not permitted. This requirement arose because copying a tracking p】我们以前创建跟踪指针类的尝试也许是不可避免的属性，即不允许复制跟踪指针。此要求之所以出现，是因为复制跟踪P</description>
-      <pubDate>Fri, 15 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Announcing Proxy 4: The Next Leap in C++ Polymorphism】Announcing Proxy 4: The Next Leap in C++ Polymorphism</title>
+      <link>https://devblogs.microsoft.com/cppblog/announcing-proxy-4-the-next-leap-in-c-polymorphism</link>
+      <description>【Proxy 4 is here! After years of innovation and sustained use in the Windows OS codebase (since 2022), Proxy has matured from a bold experiment into a production-grade, modern C++ library for runtime polymorphism. The theory behind Proxy is original, and its design is now proven at scale. We are excited to invite the broader C++ community to jo】Proxy 4 is here! After years of innovation and sustained use in the Windows OS codebase (since 2022), Proxy has matured from a bold experiment into a production-grade, modern C++ library for runtime polymorphism. The theory behind Proxy is original, and its design is now proven at scale. We are excited to invite the broader C++ community to jo</description>
+      <pubDate>Tue, 19 Aug 2025 16:35:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 4: Using a circular doubly linked list】关于创建跟踪指针类的想法，第4部分：使用圆形双链接列表</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250814-00/?p=111482</link>
-      <description>【Our previous attempt to create a tracking pointer class had the downside of incurring a potential memory allocation when a tracking pointer is copied or moved. We can get rid of this allocation by mak】我们以前创建跟踪指针类的尝试的缺点是在复制或移动跟踪指针时会产生潜在的内存分配。我们可以摆脱Mak的分配</description>
-      <pubDate>Thu, 14 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Bring Your Own Model to Chat in Visual Studio】Bring Your Own Model to Chat in Visual Studio</title>
+      <link>https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat</link>
+      <description>【We’re excited to announce that you can now bring your own language model into Visual Studio Chat. You can connect API keys from providers (OpenAI, Anthropic, and Google) to access a wider range of models. This makes it ea】We’re excited to announce that you can now bring your own language model into Visual Studio Chat. You can connect API keys from providers (OpenAI, Anthropic, and Google) to access a wider range of models. This makes it ea</description>
+      <pubDate>Wed, 20 Aug 2025 15:40:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 6: Non-modifying trackers】关于创建跟踪指针类的想法，第6部分：非修改跟踪器</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250818-00/?p=111486</link>
-      <description>【Let&#39;s add non-modifying trackers to our tracking pointers implementation. That is, a tracking pointer that gives you only read-only access to the tracked object. The idea is that tracking point】让我们在跟踪指针实现中添加非修改跟踪器。也就是说，一种跟踪指针，可让您仅阅读对跟踪对象的访问。想法是跟踪点</description>
-      <pubDate>Mon, 18 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Announcing the Data Wrangler powered Notebook Results Table】Announcing the Data Wrangler powered Notebook Results Table</title>
+      <link>https://devblogs.microsoft.com/python/data-wrangler-results-table</link>
+      <description>【If you have ever found yourself rewriting the last line of a notebook cell repeatedly just to get an overview of your data, you&#39;re not alone. In VS Code the default output for Pandas DataFrames is a static, truncated HTML table and it often fails to answer essential questions, such as: Do we have rogue blank values somewhere we di】If you have ever found yourself rewriting the last line of a notebook cell repeatedly just to get an overview of your data, you&#39;re not alone. In VS Code the default output for Pandas DataFrames is a static, truncated HTML table and it often fails to answer essential questions, such as: Do we have rogue blank values somewhere we di</description>
+      <pubDate>Tue, 19 Aug 2025 19:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd) - August 2025】Azure开发人员CLI（AZD） -  2025年8月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2025</link>
-      <description>【Welcome to the August 2025 edition of the Azure Developer CLI (azd) release blog! This post covers releases 1.18.1 and 1.18.2. To share your feedback and questions, join the August release discussion on GitHub. This month brings important bug fixes, documentation improvements】欢迎使用2025年8月的Azure开发人员CLI（AZD）版本博客！这篇文章涵盖了1.18.1和1.18.2的发布。要分享您的反馈和问题，请加入Github的八月发布讨论。本月带来重要的错误修复，文档改进</description>
-      <pubDate>Mon, 18 Aug 2025 18:44:14 +0000</pubDate>
+      <title>【Ground Truth Curation Process for AI Systems】Ground Truth Curation Process for AI Systems</title>
+      <link>https://devblogs.microsoft.com/ise/ground-truth-curation-for-ai-systems</link>
+      <description>【Introduction Imagine you&#39;re building a powerful new AI assistant to support real business tasks — like answering maintenance questions in a manufacturing plant or surfacing insights from historical service data. To ensure that this AI system produces accurate and useful responses, we need a reliable way to measure its performance.】Introduction Imagine you&#39;re building a powerful new AI assistant to support real business tasks — like answering maintenance questions in a manufacturing plant or surfacing insights from historical service data. To ensure that this AI system produces accurate and useful responses, we need a reliable way to measure its performance.</description>
+      <pubDate>Wed, 20 Aug 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Handling Machine Reboots with VM Applications】使用VM应用程序重新启动机器</title>
-      <link>https://devblogs.microsoft.com/azure-vm-runtime/handling-machine-reboots-with-vm-applications</link>
-      <description>【One confusion around all of our extensions is: how are reboots handled? This varies by extension, but only VM Applications provide the option on how to handle them. It does this via the &#34;scriptBehaviorAfterReboot&#34; prop】我们所有扩展的一种混乱是：如何处理重启？这会随着扩展而有所不同，但是只有VM应用程序提供了有关如何处理它们的选项。它通过“ ScriptBehaviorafterReboot” Prop来执行此操作</description>
-      <pubDate>Mon, 18 Aug 2025 22:11:21 +0000</pubDate>
+      <title>【Introducing Advanced Shader Delivery】Introducing Advanced Shader Delivery</title>
+      <link>https://devblogs.microsoft.com/directx/introducing-advanced-shader-delivery</link>
+      <description>【This year at gamescom, Microsoft is highlighting new gaming features coming for Windows, particularly for handheld devices. We want to highlight one of the DirectX team’s most exciting new contributions to the PC gaming ecosystem, whic】This year at gamescom, Microsoft is highlighting new gaming features coming for Windows, particularly for handheld devices. We want to highlight one of the DirectX team’s most exciting new contributions to the PC gaming ecosystem, whic</description>
+      <pubDate>Wed, 20 Aug 2025 16:10:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Dependabot support for vcpkg】diDeNABOT对VCPKG的支持</title>
-      <link>https://devblogs.microsoft.com/cppblog/dependabot-support-for-vcpkg</link>
-      <description>【We are excited to announce that GitHub’s Dependabot now brings automated dependency updates to C++ projects using vcpkg. This support is available for projects using vcpkg man】我们很高兴地宣布，GitHub的Displabot现在使用VCPKG将自动依赖性更新带到C ++项目。此支持可用于使用VCPKG男子的项目</description>
-      <pubDate>Mon, 18 Aug 2025 18:30:16 +0000</pubDate>
+      <title>【Thoughts on creating a tracking pointer class, part 8: Tracking const objects】Thoughts on creating a tracking pointer class, part 8: Tracking const objects</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250820-00/?p=111490</link>
+      <description>【Last time, we added the ability to create non-modifying tracking pointers, but it required that you start with a non-const trackable object. But what if you want to create a non-modifying tracking pointer to an object to which you have only a】Last time, we added the ability to create non-modifying tracking pointers, but it required that you start with a non-const trackable object. But what if you want to create a non-modifying tracking pointer to an object to which you have only a</description>
+      <pubDate>Wed, 20 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
