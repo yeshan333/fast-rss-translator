@@ -1,6 +1,6 @@
 base:
   output_path: "./rss"
-  visit_base_url: "https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/"
+  visit_base_url: "https://cdn.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/"
   translate_engine: "google" # default engine, can be overridden per feed
 
 # http_proxy: "http://127.0.0.1:7890" # Needed for Google Translate in some regions
