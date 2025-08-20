@@ -4,64 +4,64 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>Karrot如何在AWS上构建功能平台，第2部分：功能摄入</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/</link>
-      <description></description>
-      <pubDate>Thu, 14 Aug 2025 15:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commbank如何使他们的Commsec交易平台高度可用且在操作上有弹性</title>
+      <title>How CommBank made their CommSec trading platform highly available and operationally resilient</title>
       <link>https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/</link>
       <description></description>
       <pubDate>Tue, 19 Aug 2025 23:49:16 +0000</pubDate>
     </item>
     <item>
-      <title>使用AWS变换为VMware迁移和现代化VMware工作负载</title>
-      <link>https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/</link>
-      <description></description>
-      <pubDate>Tue, 08 Jul 2025 20:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>通过托管服务实施对亚马逊EK的监视</title>
-      <link>https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/</link>
-      <description></description>
-      <pubDate>Fri, 18 Jul 2025 15:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karrot如何在AWS上建立功能平台，第1部分：动机和功能服务</title>
+      <title>How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving</title>
       <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/</link>
       <description></description>
       <pubDate>Thu, 14 Aug 2025 15:16:29 +0000</pubDate>
     </item>
     <item>
-      <title>使用VLLM深度学习容器在Amazon EKS上部署LLM</title>
+      <title>How Karrot built a feature platform on AWS, Part 2: Feature ingestion</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/</link>
+      <description></description>
+      <pubDate>Thu, 14 Aug 2025 15:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deploy LLMs on Amazon EKS using vLLM Deep Learning Containers</title>
       <link>https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/</link>
       <description></description>
       <pubDate>Thu, 14 Aug 2025 15:09:51 +0000</pubDate>
     </item>
     <item>
-      <title>如何赢得胜利使用AWS WAF阻止DDOS事件</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/</link>
+      <title>Maximizing Business Value Through Strategic Cloud Optimization</title>
+      <link>https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/</link>
       <description></description>
-      <pubDate>Mon, 14 Jul 2025 19:12:38 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 15:33:28 +0000</pubDate>
     </item>
     <item>
-      <title>Zapier如何在AWS lambda上运行孤立的任务和升级功能</title>
+      <title>How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale</title>
       <link>https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/</link>
       <description></description>
       <pubDate>Fri, 25 Jul 2025 13:30:06 +0000</pubDate>
     </item>
     <item>
-      <title>Hashicorp如何通过Amazon应用程序恢复控制器使跨区域切换无缝</title>
+      <title>How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller</title>
       <link>https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/</link>
       <description></description>
       <pubDate>Fri, 25 Jul 2025 13:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>通过战略云优化最大化业务价值</title>
-      <link>https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/</link>
+      <title>Implement monitoring for Amazon EKS with managed services</title>
+      <link>https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/</link>
       <description></description>
-      <pubDate>Fri, 01 Aug 2025 15:33:28 +0000</pubDate>
+      <pubDate>Fri, 18 Jul 2025 15:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Scale to Win uses AWS WAF to block DDoS events</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/</link>
+      <description></description>
+      <pubDate>Mon, 14 Jul 2025 19:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migrate and modernize VMware workloads with AWS Transform for VMware</title>
+      <link>https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/</link>
+      <description></description>
+      <pubDate>Tue, 08 Jul 2025 20:37:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -117,6 +117,11 @@ func (translator *Translator) Execute(outputDir string) {
 	}
 	wg.Wait()
 
+	// Sort items by published date in descending order (newest first)
+	newfeed.Sort(func(a, b *feeds.Item) bool {
+		return a.Created.After(b.Created)
+	})
+
 	// var rss string
 	// switch feed.FeedType {
 	// case gofeed.FeedTypeAtom:

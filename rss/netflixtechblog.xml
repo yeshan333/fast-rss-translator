@@ -11,16 +11,16 @@
       <pubDate>Mon, 18 Aug 2025 18:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Behind the Scenes: Building a Robust Ads Event Processing Pipeline】Behind the Scenes: Building a Robust Ads Event Processing Pipeline</title>
-      <link>https://netflixtechblog.com/behind-the-scenes-building-a-robust-ads-event-processing-pipeline-e4e86caf9249?source=rss----2615bd06b42e---4</link>
+      <title>【Accelerating Video Quality Control at Netflix with Pixel Error Detection】Accelerating Video Quality Control at Netflix with Pixel Error Detection</title>
+      <link>https://netflixtechblog.com/accelerating-video-quality-control-at-netflix-with-pixel-error-detection-47ef7af7ca2e?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Fri, 09 May 2025 19:44:04 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 21:29:57 +0000</pubDate>
     </item>
     <item>
-      <title>【AV1 @ Scale: Film Grain Synthesis, The Awakening】AV1 @ Scale: Film Grain Synthesis, The Awakening</title>
-      <link>https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b?source=rss----2615bd06b42e---4</link>
+      <title>【Behind the Streams: Live at Netflix. Part 1】Behind the Streams: Live at Netflix. Part 1</title>
+      <link>https://netflixtechblog.com/behind-the-streams-live-at-netflix-part-1-d23f917c2f40?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Wed, 02 Jul 2025 14:21:44 +0000</pubDate>
+      <pubDate>Tue, 15 Jul 2025 16:04:08 +0000</pubDate>
     </item>
     <item>
       <title>【Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow】Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow</title>
@@ -29,10 +29,16 @@
       <pubDate>Thu, 10 Jul 2025 19:31:06 +0000</pubDate>
     </item>
     <item>
-      <title>【Measuring Dialogue Intelligibility for Netflix Content】Measuring Dialogue Intelligibility for Netflix Content</title>
-      <link>https://netflixtechblog.com/measuring-dialogue-intelligibility-for-netflix-content-58c13d2a6f6e?source=rss----2615bd06b42e---4</link>
+      <title>【Driving Content Delivery Efficiency Through Classifying Cache Misses】Driving Content Delivery Efficiency Through Classifying Cache Misses</title>
+      <link>https://netflixtechblog.com/driving-content-delivery-efficiency-through-classifying-cache-misses-ffcf08026b6c?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Thu, 08 May 2025 00:40:17 +0000</pubDate>
+      <pubDate>Wed, 02 Jul 2025 15:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AV1 @ Scale: Film Grain Synthesis, The Awakening】AV1 @ Scale: Film Grain Synthesis, The Awakening</title>
+      <link>https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b?source=rss----2615bd06b42e---4</link>
+      <description>【】</description>
+      <pubDate>Wed, 02 Jul 2025 14:21:44 +0000</pubDate>
     </item>
     <item>
       <title>【Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix】Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix</title>
@@ -47,22 +53,16 @@
       <pubDate>Wed, 21 May 2025 16:28:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Driving Content Delivery Efficiency Through Classifying Cache Misses】Driving Content Delivery Efficiency Through Classifying Cache Misses</title>
-      <link>https://netflixtechblog.com/driving-content-delivery-efficiency-through-classifying-cache-misses-ffcf08026b6c?source=rss----2615bd06b42e---4</link>
+      <title>【Behind the Scenes: Building a Robust Ads Event Processing Pipeline】Behind the Scenes: Building a Robust Ads Event Processing Pipeline</title>
+      <link>https://netflixtechblog.com/behind-the-scenes-building-a-robust-ads-event-processing-pipeline-e4e86caf9249?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Wed, 02 Jul 2025 15:20:23 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 19:44:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Behind the Streams: Live at Netflix. Part 1】Behind the Streams: Live at Netflix. Part 1</title>
-      <link>https://netflixtechblog.com/behind-the-streams-live-at-netflix-part-1-d23f917c2f40?source=rss----2615bd06b42e---4</link>
+      <title>【Measuring Dialogue Intelligibility for Netflix Content】Measuring Dialogue Intelligibility for Netflix Content</title>
+      <link>https://netflixtechblog.com/measuring-dialogue-intelligibility-for-netflix-content-58c13d2a6f6e?source=rss----2615bd06b42e---4</link>
       <description>【】</description>
-      <pubDate>Tue, 15 Jul 2025 16:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Accelerating Video Quality Control at Netflix with Pixel Error Detection】Accelerating Video Quality Control at Netflix with Pixel Error Detection</title>
-      <link>https://netflixtechblog.com/accelerating-video-quality-control-at-netflix-with-pixel-error-detection-47ef7af7ca2e?source=rss----2615bd06b42e---4</link>
-      <description>【】</description>
-      <pubDate>Mon, 11 Aug 2025 21:29:57 +0000</pubDate>
+      <pubDate>Thu, 08 May 2025 00:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
