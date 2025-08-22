@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Copilot Diagnostics toolset for .NET In Visual Studio】Copilot Diagnostics toolset for .NET In Visual Studio</title>
+      <title>【Create embeddings in SQL Server 2025 RC0 with a local ONNX model on Windows】在Windows上使用本地ONNX模型在SQL Server 2025 RC0中创建嵌入式</title>
+      <link>https://devblogs.microsoft.com/azure-sql/create-embeddings-in-sql-server-2025-rc0-with-a-local-onnx-model-on-windows</link>
+      <description>【With the release of SQL Server 2025 RC0, we have enabled the ability to use a local ONNX model on th】随着SQL Server 2025 RC0的发布，我们启用了在TH上使用本地onnx模型的能力</description>
+      <pubDate>Fri, 22 Aug 2025 01:45:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enhance your CLI testing workflow with the new dotnet test】通过新的dotnet测试增强CLI测试工作流程</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp</link>
+      <description>【The dotnet test command is part of the .NET CLI and is used to run tests in a given solution. It supports multiple test frameworks, including MSTest, xUnit, NUnit and TUnit. The command recognizes two main test platforms: VSTest and Microsoft.Testing.Platform】dotnet test命令是.NET CLI的一部分，用于在给定解决方案中运行测试。它支持多个测试框架，包括Mstest，Xunit，Nunit和Tunit。该命令识别两个主要测试平台：vstest and Microsoft.testing.platform</description>
+      <pubDate>Thu, 21 Aug 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Better Control over Your Copilot Code Suggestions】更好地控制您的Copilot代码建议</title>
+      <link>https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions</link>
+      <description>【Copilot code completions and suggestions in the editor speed you up in your daily programming and coding activities, at every keystroke. They help you finish the line you&#39;re typing or anticipate your next edit, making your workflow smoother and faster. At the same time, editor is where you focus and put in the deep work. Based on your feedback】副本代码的完成和编辑中的建议在每日钥匙中都会加快您的日常编程和编码活动的速度。它们可以帮助您完成您要键入或预期下一个编辑的线路，从而使您的工作流程更加顺畅，更快。同时，编辑是您专注于深入工作的地方。根据您的反馈</description>
+      <pubDate>Thu, 21 Aug 2025 16:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MSSQL Extension for VS Code: Schema Compare, Schema Designer, Local SQL Server Container GA】VS代码的MSSQL扩展名：架构比较，架构设计器，本地SQL Server Container GA</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-schema-container</link>
+      <description>【The MSSQL Extension for VS Code continues to evolve, delivering features that make SQL development more visual, more consistent, and more developer-friendly. In version v1.35.0, we’re announcing the General Availability (GA) of】VS代码的MSSQL扩展名继续发展，提供了使SQL开发更具视觉，更一致和更友好的功能。在版本v1.35.0中，我们宣布了一般可用性（GA）</description>
+      <pubDate>Thu, 21 Aug 2025 15:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thoughts on creating a tracking pointer class, part 9: Conversion】关于创建跟踪指针类的想法，第9部分：转换</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250821-00/?p=111492</link>
+      <description>【Last time, we added the ability to create tracking pointers from const objects. But we discovered that you could not convert a tracking_ptr&amp;lt;T&amp;gt; to a tra】上次，我们添加了从const对象创建跟踪指针的能力。但是我们发现您无法将tracking_ptr &lt;t&gt;转换为tra</description>
+      <pubDate>Thu, 21 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Designing Multi-Agent Intelligence】设计多代理智能</title>
+      <link>https://devblogs.microsoft.com/blog/designing-multi-agent-intelligence</link>
+      <description>【Written by: Maggie Liu, Thiago Rotta, Vinicius Souza, James Tooles, &amp;amp;】撰写者：Maggie Liu，Thiago Rotta，Vinicius Souza，James Tooles，＆</description>
+      <pubDate>Wed, 20 Aug 2025 19:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Copilot Diagnostics toolset for .NET In Visual Studio】Visual Studio中的.NET的Copilot诊断工具集</title>
       <link>https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio</link>
-      <description>【We know how much energy developers pour into debugging bugs and diagnosing performance in .NET. That’s why we’ve doubled down on making the debugging and profiling experience in Visual Studio not just easier, but genuinely enjoyable meeting you exactly where your real work happens. The same tools you rely on are now able to keep up with yo】We know how much energy developers pour into debugging bugs and diagnosing performance in .NET. That’s why we’ve doubled down on making the debugging and profiling experience in Visual Studio not just easier, but genuinely enjoyable meeting you exactly where your real work happens. The same tools you rely on are now able to keep up with yo</description>
+      <description>【We know how much energy developers pour into debugging bugs and diagnosing performance in .NET. That’s why we’ve doubled down on making the debugging and profiling experience in Visual Studio not just easier, but genuinely enjoyable meeting you exactly where your real work happens. The same tools you rely on are now able to keep up with yo】我们知道有多少能源开发人员会涌入调试错误和.NET中的性能。这就是为什么我们在视觉工作室中进行调试和分析体验不仅更容易，而且真正令人愉快地与您的真实工作发生的地方真正令人愉快的原因。您依靠的工具现在能够跟上YO</description>
       <pubDate>Wed, 20 Aug 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Advanced Shader Delivery】Introducing Advanced Shader Delivery</title>
+      <title>【Introducing Advanced Shader Delivery】介绍高级着色器交付</title>
       <link>https://devblogs.microsoft.com/directx/introducing-advanced-shader-delivery</link>
-      <description>【This year at gamescom, Microsoft is highlighting new gaming features coming for Windows, particularly for handheld devices. We want to highlight one of the DirectX team’s most exciting new contributions to the PC gaming ecosystem, whic】This year at gamescom, Microsoft is highlighting new gaming features coming for Windows, particularly for handheld devices. We want to highlight one of the DirectX team’s most exciting new contributions to the PC gaming ecosystem, whic</description>
+      <description>【This year at gamescom, Microsoft is highlighting new gaming features coming for Windows, particularly for handheld devices. We want to highlight one of the DirectX team’s most exciting new contributions to the PC gaming ecosystem, whic】今年在Gamescom上，微软正在重点介绍Windows的新游戏功能，尤其是用于手持设备。我们想强调DirecTX团队对PC游戏生态系统最令人兴奋的新贡献之一</description>
       <pubDate>Wed, 20 Aug 2025 16:10:40 +0000</pubDate>
     </item>
     <item>
-      <title>【Bring Your Own Model to Chat in Visual Studio】Bring Your Own Model to Chat in Visual Studio</title>
+      <title>【Bring Your Own Model to Chat in Visual Studio】带上自己的模型在Visual Studio中聊天</title>
       <link>https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat</link>
-      <description>【We’re excited to announce that you can now bring your own language model into Visual Studio Chat. You can connect API keys from providers (OpenAI, Anthropic, and Google) to access a wider range of models. This makes it ea】We’re excited to announce that you can now bring your own language model into Visual Studio Chat. You can connect API keys from providers (OpenAI, Anthropic, and Google) to access a wider range of models. This makes it ea</description>
+      <description>【We’re excited to announce that you can now bring your own language model into Visual Studio Chat. You can connect API keys from providers (OpenAI, Anthropic, and Google) to access a wider range of models. This makes it ea】我们很高兴地宣布，您现在可以将自己的语言模型带入Visual Studio聊天中。您可以将提供商（OpenAI，Anthropic和Google）的API键连接到更广泛的型号。这使它成为EA</description>
       <pubDate>Wed, 20 Aug 2025 15:40:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 8: Tracking const objects】Thoughts on creating a tracking pointer class, part 8: Tracking const objects</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250820-00/?p=111490</link>
-      <description>【Last time, we added the ability to create non-modifying tracking pointers, but it required that you start with a non-const trackable object. But what if you want to create a non-modifying tracking pointer to an object to which you have only a】Last time, we added the ability to create non-modifying tracking pointers, but it required that you start with a non-const trackable object. But what if you want to create a non-modifying tracking pointer to an object to which you have only a</description>
-      <pubDate>Wed, 20 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Copilot Studio Agent Academy: Your Mission Starts Now】Announcing Copilot Studio Agent Academy: Your Mission Starts Now</title>
+      <title>【Announcing Copilot Studio Agent Academy: Your Mission Starts Now】宣布Copilot Studio Agent Academy：您的任务现在开始</title>
       <link>https://devblogs.microsoft.com/powerplatform/announcing-copilot-studio-agent-academy</link>
-      <description>【Welcome to Copilot Studio Agent Academy Whether you&#39;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#39;ve got your mission briefing ready and it&#39;s time to suit up! We&#39;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curricu】Welcome to Copilot Studio Agent Academy Whether you&#39;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#39;ve got your mission briefing ready and it&#39;s time to suit up! We&#39;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curricu</description>
+      <description>【Welcome to Copilot Studio Agent Academy Whether you&#39;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#39;ve got your mission briefing ready and it&#39;s time to suit up! We&#39;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curricu】欢迎来到Copilot Studio Agent Academy，无论您是与AI代理商一起开始旅程，还是希望在Microsoft Copilot Studio中提高您的技能，我们已经准备好您的任务简报了，现在该适应了！我们很高兴介绍副作用工作室代理商学院，这是一款新的，自节奏的课程</description>
       <pubDate>Wed, 20 Aug 2025 13:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Ground Truth Curation Process for AI Systems】Ground Truth Curation Process for AI Systems</title>
-      <link>https://devblogs.microsoft.com/ise/ground-truth-curation-for-ai-systems</link>
-      <description>【Introduction Imagine you&#39;re building a powerful new AI assistant to support real business tasks — like answering maintenance questions in a manufacturing plant or surfacing insights from historical service data. To ensure that this AI system produces accurate and useful responses, we need a reliable way to measure its performance.】Introduction Imagine you&#39;re building a powerful new AI assistant to support real business tasks — like answering maintenance questions in a manufacturing plant or surfacing insights from historical service data. To ensure that this AI system produces accurate and useful responses, we need a reliable way to measure its performance.</description>
-      <pubDate>Wed, 20 Aug 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the Data Wrangler powered Notebook Results Table】Announcing the Data Wrangler powered Notebook Results Table</title>
-      <link>https://devblogs.microsoft.com/python/data-wrangler-results-table</link>
-      <description>【If you have ever found yourself rewriting the last line of a notebook cell repeatedly just to get an overview of your data, you&#39;re not alone. In VS Code the default output for Pandas DataFrames is a static, truncated HTML table and it often fails to answer essential questions, such as: Do we have rogue blank values somewhere we di】If you have ever found yourself rewriting the last line of a notebook cell repeatedly just to get an overview of your data, you&#39;re not alone. In VS Code the default output for Pandas DataFrames is a static, truncated HTML table and it often fails to answer essential questions, such as: Do we have rogue blank values somewhere we di</description>
-      <pubDate>Tue, 19 Aug 2025 19:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (August 2025)】Azure SDK Release (August 2025)</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2025</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our</description>
-      <pubDate>Tue, 19 Aug 2025 18:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉】Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉</title>
-      <link>https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio</link>
-      <description>【We’re excited to announce that MCP support is now GA in Visual Studio—unlocking richer, real-time context from your entire development stack and expanding the power of Agent Mode like never before. Model Context Protocol (MCP) is an open standard that makes it easy for AI agents to connect with external tools and services—think of it】We’re excited to announce that MCP support is now GA in Visual Studio—unlocking richer, real-time context from your entire development stack and expanding the power of Agent Mode like never before. Model Context Protocol (MCP) is an open standard that makes it easy for AI agents to connect with external tools and services—think of it</description>
-      <pubDate>Tue, 19 Aug 2025 18:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Proxy 4: The Next Leap in C++ Polymorphism】Announcing Proxy 4: The Next Leap in C++ Polymorphism</title>
-      <link>https://devblogs.microsoft.com/cppblog/announcing-proxy-4-the-next-leap-in-c-polymorphism</link>
-      <description>【Proxy 4 is here! After years of innovation and sustained use in the Windows OS codebase (since 2022), Proxy has matured from a bold experiment into a production-grade, modern C++ library for runtime polymorphism. The theory behind Proxy is original, and its design is now proven at scale. We are excited to invite the broader C++ community to jo】Proxy 4 is here! After years of innovation and sustained use in the Windows OS codebase (since 2022), Proxy has matured from a bold experiment into a production-grade, modern C++ library for runtime polymorphism. The theory behind Proxy is original, and its design is now proven at scale. We are excited to invite the broader C++ community to jo</description>
-      <pubDate>Tue, 19 Aug 2025 16:35:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
