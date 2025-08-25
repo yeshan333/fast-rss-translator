@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP177: The Modern Software Stack】EP177：现代软件堆栈</title>
+      <link>https://blog.bytebytego.com/p/ep177-the-modern-software-stack</link>
+      <description>【In today&amp;#8217;s world, building software means working across multiple layers, each with its own role, tools, and technologies.】在当今的世界中，构建软件意味着跨多层工作，每个层都具有自己的角色，工具和技术。</description>
+      <pubDate>Sat, 23 Aug 2025 15:30:26 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top Strategies to Improve Reliability in Distributed Systems】提高分布式系统可靠性的最佳策略</title>
       <link>https://blog.bytebytego.com/p/top-strategies-to-improve-reliability</link>
       <description>【In this article, we will take a closer look at strategies that can help improve the reliability of a system.】在本文中，我们将仔细研究可以帮助提高系统可靠性的策略。</description>
@@ -19,7 +25,7 @@
     <item>
       <title>【How LLMs See Images, Audio, and More】LLM如何查看图像，音频等</title>
       <link>https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more</link>
-      <description>【Just like how &#34;Hello world!&#34; becomes discrete tokens for text processing, a photograph gets chopped into image patches, and a song becomes a sequence of audio codes.】就像“你好世界”如何！成为用于文本处理的离散令牌，将照片切成图像贴片，歌曲成为一系列音频代码。</description>
+      <description>【Just like how &#34;Hello world!&#34; becomes discrete tokens for text processing, a photograph gets chopped into image patches, and a song becomes a sequence of audio codes.】就像“你好世界”一样！成为用于文本处理的离散令牌，将照片切成图像贴片，歌曲成为一系列音频代码。</description>
       <pubDate>Mon, 18 Aug 2025 15:30:33 +0000</pubDate>
     </item>
     <item>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-uber-eats-deduplicates-hundreds</link>
       <description>【At the scale of Uber Eats, image handling is an operational necessity. The platform manages hundreds of millions of product images, with millions of updates flowing through the system every hour.】在Uber Eats的规模上，图像处理是一种操作的必要性。该平台管理数亿个产品图像，每小时会有数百万个更新遍布系统。</description>
       <pubDate>Tue, 05 Aug 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LLMs See the World】LLM如何看世界</title>
-      <link>https://blog.bytebytego.com/p/how-llms-see-the-world</link>
-      <description>【Tokens are what rule the world of LLMs. You send tokens to models, you pay by the token, and models read, understand, and breathe tokens.】令牌是统治LLM的世界。您将令牌发送到模型，由代币付款，模型读取，理解和呼吸令牌。</description>
-      <pubDate>Mon, 04 Aug 2025 15:30:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

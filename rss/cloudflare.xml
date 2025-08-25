@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Welcome to AI Week 2025】欢迎来到AI周2025周</title>
+      <link>https://blog.cloudflare.com/welcome-to-ai-week-2025/</link>
+      <description>【 We’re seeing AI fundamentally change how people work across every industry. Customer support agents can respond to ten times the tickets. Software engineers are reviewers of AI generated code instead 】我们看到AI从根本上改变了人们在每个行业的工作方式。客户支持代理可以回应门票的十倍。软件工程师是AI生成的代码的审阅者</description>
+      <pubDate>Sun, 24 Aug 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MoQ: Refactoring the Internet&#39;s real-time media stack】欧元：重构互联网的实时媒体堆栈</title>
+      <link>https://blog.cloudflare.com/moq/</link>
+      <description>【 Media over QUIC (MoQ) is a new IETF standard that resolves this conflict, creating a single foundation for sub-second, interactive streaming at a global scale.&#xA; 】媒体上的QUIC（MOQ）是解决这一冲突的新型IETF标准，为全球范围内的秒，交互式流构成了一个基础。</description>
+      <pubDate>Fri, 22 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare incident on August 21, 2025】Cloudflare事件于2025年8月21日</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/</link>
+      <description>【 On August 21, 2025, an influx of traffic directed toward clients hosted in AWS us-east-1 caused severe congestion on links between Cloudflare and us-east-1. In this post, we explain the details. 】2025年8月21日，针对AWS US-EAST-1托管的客户的大量交通涌入，在Cloudflare和US-EAST-1之间的联系上造成了严重的交通拥堵。在这篇文章中，我们解释了细节。</description>
+      <pubDate>Fri, 22 Aug 2025 00:58:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How a volunteer-run wildfire site in Portugal stayed online during DDoS attacks】DDOS攻击期间，葡萄牙的志愿者经营的野火网站如何停留在线</title>
       <link>https://blog.cloudflare.com/wildfire-fogos-pt-portugal-ddos-attack/</link>
       <description>【 Fogos.pt, a volunteer-run wildfire tracker in Portugal, grew from a side project into a critical national resource used by citizens, media, and government. During 2025 fire season it was hit by DDoS  】Fogos.pt是葡萄牙的志愿者经营的野火追踪器，从附带项目发展成为公民，媒体和政府使用的关键国家资源。在2025年火灾季节，它被DDOS击中</description>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/</link>
       <description>【 OpenAI’s newest open-source models are now available on Cloudflare Workers AI on Day 0, with support for Responses API, Code Interpreter and Web Search (coming soon). 】OpenAI的最新开源型号现在可在CloudFlare工人AI上获得，并支持响应API，代码解释器和Web搜索（即将推出）。</description>
       <pubDate>Tue, 05 Aug 2025 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy】将双重延迟从40毫秒降低到&lt;1 ms的隐私代理</title>
-      <link>https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/</link>
-      <description>【 We significantly sped up our privacy proxy service by fixing a 40ms delay in &#34;double-spend&#34; checks. 】我们通过修复40毫秒的“双重款式”检查来大大加强了我们的隐私委托服务。</description>
-      <pubDate>Tue, 05 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives】困惑正在使用隐形，未申报的爬网逃避网站无爬行指令</title>
-      <link>https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/</link>
-      <description>【 Perplexity is repeatedly modifying their user agent and changing IPs and ASNs to hide their crawling activity, in direct conflict with explicit no-crawl preferences expressed by websites. 】困惑性正在反复修改其用户代理，并更改IPS和ASN，以隐藏其爬行活动，直接与网站表达的明确无爬行偏好冲突。</description>
-      <pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Vulnerability disclosure on SSL for SaaS v1 (Managed CNAME)】SaaS V1的SSL漏洞披露（托管CNAME）</title>
-      <link>https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/</link>
-      <description>【 An upcoming vulnerability disclosure in Cloudflare’s SSL for SaaSv1 is detailed, explaining the steps we’ve taken towards deprecation. 】详细说明了我们为贬值所采取的步骤。</description>
-      <pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,30 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Everyone is talkin’ bout vibes】每个人都在说话的共鸣</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/everyone-is-talkin-bout-vibes</link>
+      <description>【Leading up to Microsoft Ignite, I wanted to pressure-test something the community keeps talking about: vibe coding. It’s a style of AI-assisted development where you describe outcomes in natural language and your assistant does most of the scaffolding, refacto】在Microsoft Ignite之后，我想对社区一直在谈论的事情进行压力测试：Vibe编码。这是一种AI辅助发展的风格，您可以描述自然语言的结果，而您的助手进行了大部分的脚手架，重新处理</description>
+      <pubDate>Fri, 22 Aug 2025 18:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unlocking GPT-5’s Freeform Tool Calling: A New Era of Seamless Integration】解锁GPT-5的Freeform工具呼叫：无缝集成的新时代</title>
+      <link>https://devblogs.microsoft.com/foundry/unlocking-gpt-5s-freeform-tool-calling-a-new-era-of-seamless-integration</link>
+      <description>【GPT-5 models are now available in Azure AI Foundry via Azure OpenAI. Designed for advanced reasoning and generation. One of the core capabilities of the model is tool calling, which enables it to interact with external systems by generating an】GPT-5型号现在可以通过Azure Openai在Azure AI铸造厂中获得。专为高级推理和发电而设计。该模型的核心功能之一是工具调用，它使其能够通过生成一个与外部系统进行交互</description>
+      <pubDate>Fri, 22 Aug 2025 17:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thoughts on creating a tracking pointer class, part 10: Proper conversion】关于创建跟踪指针类的想法，第10部分：正确的转换</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250822-00/?p=111494</link>
+      <description>【Last time, we added the ability to convert tracking pointers to non-const objects into tracking pointers to const objects, but we noted that there&#39;s a problem. The problem is that】上次，我们添加了将跟踪指针转换为非const对象的能力，以跟踪指针到const对象，但我们注意到存在问题。问题是</description>
+      <pubDate>Fri, 22 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【OData .NET (ODL) 9 Preview Release】ODATA .NET（ODL）9预览版本</title>
+      <link>https://devblogs.microsoft.com/odata/odata-net-9-preview-release</link>
+      <description>【We’re happy to announce that OData .NET (ODL) 9 Preview 2 has been officially released and is available on NuGet: Microsoft.OData.Core 9.0.0 Preview 2】我们很高兴地宣布ODATA .NET（ODL）9预览2已正式发布，可在Nuget上发布：Microsoft.odata.core 9.0.0 Preview 2</description>
+      <pubDate>Fri, 22 Aug 2025 09:30:54 +0000</pubDate>
+    </item>
+    <item>
       <title>【Create embeddings in SQL Server 2025 RC0 with a local ONNX model on Windows】在Windows上使用本地ONNX模型在SQL Server 2025 RC0中创建嵌入式</title>
       <link>https://devblogs.microsoft.com/azure-sql/create-embeddings-in-sql-server-2025-rc0-with-a-local-onnx-model-on-windows</link>
       <description>【With the release of SQL Server 2025 RC0, we have enabled the ability to use a local ONNX model on th】随着SQL Server 2025 RC0的发布，我们启用了在TH上使用本地onnx模型的能力</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/blog/designing-multi-agent-intelligence</link>
       <description>【Written by: Maggie Liu, Thiago Rotta, Vinicius Souza, James Tooles, &amp;amp;】撰写者：Maggie Liu，Thiago Rotta，Vinicius Souza，James Tooles，＆</description>
       <pubDate>Wed, 20 Aug 2025 19:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Copilot Diagnostics toolset for .NET In Visual Studio】Visual Studio中的.NET的Copilot诊断工具集</title>
-      <link>https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio</link>
-      <description>【We know how much energy developers pour into debugging bugs and diagnosing performance in .NET. That’s why we’ve doubled down on making the debugging and profiling experience in Visual Studio not just easier, but genuinely enjoyable meeting you exactly where your real work happens. The same tools you rely on are now able to keep up with yo】我们知道有多少能源开发人员会涌入调试错误和.NET中的性能。这就是为什么我们在视觉工作室中进行调试和分析体验不仅更容易，而且真正令人愉快地与您的真实工作发生的地方真正令人愉快的原因。您依靠的工具现在能够跟上YO</description>
-      <pubDate>Wed, 20 Aug 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Advanced Shader Delivery】介绍高级着色器交付</title>
-      <link>https://devblogs.microsoft.com/directx/introducing-advanced-shader-delivery</link>
-      <description>【This year at gamescom, Microsoft is highlighting new gaming features coming for Windows, particularly for handheld devices. We want to highlight one of the DirectX team’s most exciting new contributions to the PC gaming ecosystem, whic】今年在Gamescom上，微软正在重点介绍Windows的新游戏功能，尤其是用于手持设备。我们想强调DirecTX团队对PC游戏生态系统最令人兴奋的新贡献之一</description>
-      <pubDate>Wed, 20 Aug 2025 16:10:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Bring Your Own Model to Chat in Visual Studio】带上自己的模型在Visual Studio中聊天</title>
-      <link>https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat</link>
-      <description>【We’re excited to announce that you can now bring your own language model into Visual Studio Chat. You can connect API keys from providers (OpenAI, Anthropic, and Google) to access a wider range of models. This makes it ea】我们很高兴地宣布，您现在可以将自己的语言模型带入Visual Studio聊天中。您可以将提供商（OpenAI，Anthropic和Google）的API键连接到更广泛的型号。这使它成为EA</description>
-      <pubDate>Wed, 20 Aug 2025 15:40:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Copilot Studio Agent Academy: Your Mission Starts Now】宣布Copilot Studio Agent Academy：您的任务现在开始</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-copilot-studio-agent-academy</link>
-      <description>【Welcome to Copilot Studio Agent Academy Whether you&#39;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#39;ve got your mission briefing ready and it&#39;s time to suit up! We&#39;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curricu】欢迎来到Copilot Studio Agent Academy，无论您是与AI代理商一起开始旅程，还是希望在Microsoft Copilot Studio中提高您的技能，我们已经准备好您的任务简报了，现在该适应了！我们很高兴介绍副作用工作室代理商学院，这是一款新的，自节奏的课程</description>
-      <pubDate>Wed, 20 Aug 2025 13:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
