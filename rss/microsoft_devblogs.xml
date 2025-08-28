@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Everyone is talkin’ bout vibes】每个人都在说话的共鸣</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/everyone-is-talkin-bout-vibes</link>
-      <description>【Leading up to Microsoft Ignite, I wanted to pressure-test something the community keeps talking about: vibe coding. It’s a style of AI-assisted development where you describe outcomes in natural language and your assistant does most of the scaffolding, refacto】在Microsoft Ignite之后，我想对社区一直在谈论的事情进行压力测试：Vibe编码。这是一种AI辅助发展的风格，您可以描述自然语言的结果，而您的助手进行了大部分的脚手架，重新处理</description>
-      <pubDate>Fri, 22 Aug 2025 18:30:06 +0000</pubDate>
+      <title>【Roadmap for AI in Visual Studio (September)】Visual Studio的AI路线图（9月）</title>
+      <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september</link>
+      <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，该路线图概述了通过AI驱动的代理体验发展视觉工作室的下一步。我们每个月都打算提供更智能，更快，更直观的工具，以增强您的编码体验。免责声明：此处概述的项目代表了当月正在进行的工作。他们</description>
+      <pubDate>Wed, 27 Aug 2025 18:02:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlocking GPT-5’s Freeform Tool Calling: A New Era of Seamless Integration】解锁GPT-5的Freeform工具呼叫：无缝集成的新时代</title>
-      <link>https://devblogs.microsoft.com/foundry/unlocking-gpt-5s-freeform-tool-calling-a-new-era-of-seamless-integration</link>
-      <description>【GPT-5 models are now available in Azure AI Foundry via Azure OpenAI. Designed for advanced reasoning and generation. One of the core capabilities of the model is tool calling, which enables it to interact with external systems by generating an】GPT-5型号现在可以通过Azure Openai在Azure AI铸造厂中获得。专为高级推理和发电而设计。该模型的核心功能之一是工具调用，它使其能够通过生成一个与外部系统进行交互</description>
-      <pubDate>Fri, 22 Aug 2025 17:29:26 +0000</pubDate>
+      <title>【EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio】efcore.visualizer-查看“实体框架核心查询计划”</title>
+      <link>https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio</link>
+      <description>【This is a guest blog from Giorgi Dalakishvili, the developer of EFCore.Visualizer. Entity Framework Core is a powerful, feature-rich ORM powering many of today&#39;s applications. W】这是efcore.visualizer的开发商Giorgi Dalakishvili的来宾博客。 Entity Framework Core是一个功能强大的功能丰富的ORM，可为当今许多应用程序提供动力。 w</description>
+      <pubDate>Wed, 27 Aug 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 10: Proper conversion】关于创建跟踪指针类的想法，第10部分：正确的转换</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250822-00/?p=111494</link>
-      <description>【Last time, we added the ability to convert tracking pointers to non-const objects into tracking pointers to const objects, but we noted that there&#39;s a problem. The problem is that】上次，我们添加了将跟踪指针转换为非const对象的能力，以跟踪指针到const对象，但我们注意到存在问题。问题是</description>
-      <pubDate>Fri, 22 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Thoughts on creating a tracking pointer class, part 13: Restoring the strong exception guarantee】关于创建跟踪指针类的想法，第13部分：恢复强大的异常保证</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250827-00/?p=111518</link>
+      <description>【Last time, we created a tracking pointer class based on std::shared_ptr. We found a problem with the move-assignment operator: It didn&#39;t satisfy the str】上次，我们创建了一个基于std :: shared_ptr的跟踪指针类。我们发现了移动管理操作员的问题：它不满足STR</description>
+      <pubDate>Wed, 27 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【OData .NET (ODL) 9 Preview Release】ODATA .NET（ODL）9预览版本</title>
-      <link>https://devblogs.microsoft.com/odata/odata-net-9-preview-release</link>
-      <description>【We’re happy to announce that OData .NET (ODL) 9 Preview 2 has been officially released and is available on NuGet: Microsoft.OData.Core 9.0.0 Preview 2】我们很高兴地宣布ODATA .NET（ODL）9预览2已正式发布，可在Nuget上发布：Microsoft.odata.core 9.0.0 Preview 2</description>
-      <pubDate>Fri, 22 Aug 2025 09:30:54 +0000</pubDate>
+      <title>【Encoding Changes for Template Arguments in Semantic Kernel】在语义内核中编码模板参数的更改</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/encoding-changes-for-template-arguments-in-semantic-kernel</link>
+      <description>【In previous versions of the Semantic Kernel, the encoding of template arguments was performed automatically if the argument type was a string. The encoding was not applied for custom types, anonymous types, or collections. With the latest changes, we&#39;ve introduced stricter rules: if automatic encoding is enabled (the default be】在语义内核的先前版本中，如果参数类型是字符串，则会自动执行模板参数的编码。该编码不适用于自定义类型，匿名类型或集合。有了最新的更改，我们引入了更严格的规则：如果启用了自动编码（默认为</description>
+      <pubDate>Wed, 27 Aug 2025 05:17:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Create embeddings in SQL Server 2025 RC0 with a local ONNX model on Windows】在Windows上使用本地ONNX模型在SQL Server 2025 RC0中创建嵌入式</title>
-      <link>https://devblogs.microsoft.com/azure-sql/create-embeddings-in-sql-server-2025-rc0-with-a-local-onnx-model-on-windows</link>
-      <description>【With the release of SQL Server 2025 RC0, we have enabled the ability to use a local ONNX model on th】随着SQL Server 2025 RC0的发布，我们启用了在TH上使用本地onnx模型的能力</description>
-      <pubDate>Fri, 22 Aug 2025 01:45:58 +0000</pubDate>
+      <title>【Azure Authentication Changes in Semantic Kernel Python】Azure身份验证语义内核Python的变化</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/azure-authentication-changes-in-semantic-kernel-python</link>
+      <description>【In previous versions of the Semantic Kernel Python, the default fallback authentication mechanism for Azure services like AzureChatCompletion was DefaultAzureCredential from the Azure Identity library. This provided a convenient way to authenticate without explicitly passing credentials, especially during development.】在先前版本的语义内核Python中，AzurechatCompletion（例如AzureChatCompletion）的默认后备身份验证机制是Azure Identity库中的DefaultazureCrecrecreCrecretential。这提供了一种方便的方法来验证而无需明确传递凭据，尤其是在开发过程中。</description>
+      <pubDate>Wed, 27 Aug 2025 05:16:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Enhance your CLI testing workflow with the new dotnet test】通过新的dotnet测试增强CLI测试工作流程</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp</link>
-      <description>【The dotnet test command is part of the .NET CLI and is used to run tests in a given solution. It supports multiple test frameworks, including MSTest, xUnit, NUnit and TUnit. The command recognizes two main test platforms: VSTest and Microsoft.Testing.Platform】dotnet test命令是.NET CLI的一部分，用于在给定解决方案中运行测试。它支持多个测试框架，包括Mstest，Xunit，Nunit和Tunit。该命令识别两个主要测试平台：vstest and Microsoft.testing.platform</description>
-      <pubDate>Thu, 21 Aug 2025 17:05:00 +0000</pubDate>
+      <title>【The Visual Studio August Update is here - smarter AI, better debugging, and more control】Visual Studio 8月更新在这里 - 更聪明的AI，更好的调试和更多控制</title>
+      <link>https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control</link>
+      <description>【The August 2025 update for Visual Studio 2022 (v17.14) is now available, and it’s all about helping developers stay focused, productive, and in control. Whether you&#39;re building games, tuning performance, or exploring AI, this release brings meaningful improvements that make everyday development smoother and smarter.】2025年8月的Visual Studio 2022更新（V17.14）现已上市，这一切都涉及帮助开发人员保持专注，富有成效和控制。无论您是构建游戏，调整性能还是探索AI，此版本都会带来有意义的改进，使日常开发变得更加顺畅，更聪明。</description>
+      <pubDate>Tue, 26 Aug 2025 18:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>【Better Control over Your Copilot Code Suggestions】更好地控制您的Copilot代码建议</title>
-      <link>https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions</link>
-      <description>【Copilot code completions and suggestions in the editor speed you up in your daily programming and coding activities, at every keystroke. They help you finish the line you&#39;re typing or anticipate your next edit, making your workflow smoother and faster. At the same time, editor is where you focus and put in the deep work. Based on your feedback】副本代码的完成和编辑中的建议在每日钥匙中都会加快您的日常编程和编码活动的速度。它们可以帮助您完成您要键入或预期下一个编辑的线路，从而使您的工作流程更加顺畅，更快。同时，编辑是您专注于深入工作的地方。根据您的反馈</description>
-      <pubDate>Thu, 21 Aug 2025 16:00:37 +0000</pubDate>
+      <title>【Windows Terminal Preview 1.24 Release】Windows Terminal Preview 1.24版本</title>
+      <link>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-24-release</link>
+      <description>【We’re back with another Terminal release for you! This development cycle, we focused on overall quality of life improvements and bug fixes. We are also updating Windows Terminal stable to version 1.23, which will include all of the features from】我们将为您提供另一个终端版本！在开发周期，我们专注于整体生活质量改善和错误修复。我们还将更新Windows终端稳定为1.23版，其中包括来自</description>
+      <pubDate>Tue, 26 Aug 2025 16:02:26 +0000</pubDate>
     </item>
     <item>
-      <title>【MSSQL Extension for VS Code: Schema Compare, Schema Designer, Local SQL Server Container GA】VS代码的MSSQL扩展名：架构比较，架构设计器，本地SQL Server Container GA</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-schema-container</link>
-      <description>【The MSSQL Extension for VS Code continues to evolve, delivering features that make SQL development more visual, more consistent, and more developer-friendly. In version v1.35.0, we’re announcing the General Availability (GA) of】VS代码的MSSQL扩展名继续发展，提供了使SQL开发更具视觉，更一致和更友好的功能。在版本v1.35.0中，我们宣布了一般可用性（GA）</description>
-      <pubDate>Thu, 21 Aug 2025 15:53:37 +0000</pubDate>
+      <title>【Thoughts on creating a tracking pointer class, part 12: A shared tracking pointer】关于创建跟踪指针类的想法，第12部分：共享跟踪指针</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250826-00/?p=111506</link>
+      <description>【The tracking pointer designs we&#39;ve been using so far have had O(n) complexity on move, where n is the number of outstanding tracking pointers. But we can reduce this to O(1) by the classic technique of introducing another level of indirection. What we can do is give every trackable object】到目前为止，我们一直使用的跟踪指针设计在移动中具有O（n）的复杂性，其中N是出色的跟踪指针的数量。但是，我们可以通过引入另一个间接级别的经典技术将其简化为O（1）。我们能做的就是给每个可追踪的对象</description>
+      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Thoughts on creating a tracking pointer class, part 9: Conversion】关于创建跟踪指针类的想法，第9部分：转换</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250821-00/?p=111492</link>
-      <description>【Last time, we added the ability to create tracking pointers from const objects. But we discovered that you could not convert a tracking_ptr&amp;lt;T&amp;gt; to a tra】上次，我们添加了从const对象创建跟踪指针的能力。但是我们发现您无法将tracking_ptr &lt;t&gt;转换为tra</description>
-      <pubDate>Thu, 21 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【VS Code Dev Days – Join an event near you to learn about AI-assisted development】VS代码开发日 - 参加您附近的活动，了解AI辅助开发</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/vs-code-dev-days-–-join-an-event-near-you-to-learn-about-ai-assisted-development</link>
+      <description>【Join a VS Code Dev Days event to learn about GitHub Copilot in VS Code Read the full article】加入VS代码开发日活动，以了解有关GitHub Copilot在VS代码中阅读全文</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Designing Multi-Agent Intelligence】设计多代理智能</title>
-      <link>https://devblogs.microsoft.com/blog/designing-multi-agent-intelligence</link>
-      <description>【Written by: Maggie Liu, Thiago Rotta, Vinicius Souza, James Tooles, &amp;amp;】撰写者：Maggie Liu，Thiago Rotta，Vinicius Souza，James Tooles，＆</description>
-      <pubDate>Wed, 20 Aug 2025 19:00:13 +0000</pubDate>
+      <title>【Secure Your Connections with Entra ID Support in the DocumentDB VS Code Extension】在文档DB VS代码扩展中使用ENTRA ID支持保护您的连接</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/secure-your-connections-with-entra-id-support-in-the-documentdb-vs-code-extension</link>
+      <description>【Today, we&#39;re thrilled to announce a major update to the DocumentDB for VS Code extension that will make life easier for enterprise developers. With】今天，我们很高兴地宣布对VS代码扩展的文档DB进行重大更新，这将使企业开发人员的生活更轻松。和</description>
+      <pubDate>Mon, 25 Aug 2025 22:33:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
