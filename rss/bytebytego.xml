@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP178: The Lifecycle of a Kubernetes Pod】EP178：Kubernetes Pod的生命周期</title>
+      <link>https://blog.bytebytego.com/p/ep178-the-lifecycle-of-a-kubernetes</link>
+      <description>【What else will you add to understand the Kubernetes Pod Lifecycle?】您还可以添加什么来了解Kubernetes Pod生命周期？</description>
+      <pubDate>Sat, 30 Aug 2025 15:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Detailed Guide to Content Delivery Networks】内容交付网络的详细指南</title>
+      <link>https://blog.bytebytego.com/p/a-detailed-guide-to-content-delivery</link>
+      <description>【On the modern web, speed is a critical factor.】在现代网络上，速度是关键因素。</description>
+      <pubDate>Thu, 28 Aug 2025 15:30:15 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP177: The Modern Software Stack】EP177：现代软件堆栈</title>
       <link>https://blog.bytebytego.com/p/ep177-the-modern-software-stack</link>
       <description>【In today&amp;#8217;s world, building software means working across multiple layers, each with its own role, tools, and technologies.】在当今的世界中，构建软件意味着跨多层工作，每个层都具有自己的角色，工具和技术。</description>
@@ -25,7 +37,7 @@
     <item>
       <title>【How LLMs See Images, Audio, and More】LLM如何查看图像，音频等</title>
       <link>https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more</link>
-      <description>【Just like how &#34;Hello world!&#34; becomes discrete tokens for text processing, a photograph gets chopped into image patches, and a song becomes a sequence of audio codes.】就像“你好世界”一样！成为用于文本处理的离散令牌，将照片切成图像贴片，歌曲成为一系列音频代码。</description>
+      <description>【Just like how &#34;Hello world!&#34; becomes discrete tokens for text processing, a photograph gets chopped into image patches, and a song becomes a sequence of audio codes.】就像“你好世界”如何！成为用于文本处理的离散令牌，将照片切成图像贴片，歌曲成为一系列音频代码。</description>
       <pubDate>Mon, 18 Aug 2025 15:30:33 +0000</pubDate>
     </item>
     <item>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep175-what-is-the-solid-principle</link>
       <description>【SOLID offers guidelines to create software that is easy to understand, modify, and extend.】SOLID提供指南，以创建易于理解，修改和扩展的软件。</description>
       <pubDate>Sat, 09 Aug 2025 15:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top Scalability Strategies for Real-World Load】现实负载的最高可扩展性策略</title>
-      <link>https://blog.bytebytego.com/p/top-scalability-strategies-for-real</link>
-      <description>【In modern distributed systems, scalability is not a nice-to-have. Whether serving a global user base or responding to a viral spike, systems that fail to scale often fail outright.】在现代分布式系统中，可伸缩性不是一个不错的选择。无论是服务全球用户群还是响应病毒峰值，无法扩展的系统通常会完全失败。</description>
-      <pubDate>Thu, 07 Aug 2025 15:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Eats Deduplicates Hundreds of Millions of Product Images】Uber如何吃掉数亿个产品图像</title>
-      <link>https://blog.bytebytego.com/p/how-uber-eats-deduplicates-hundreds</link>
-      <description>【At the scale of Uber Eats, image handling is an operational necessity. The platform manages hundreds of millions of product images, with millions of updates flowing through the system every hour.】在Uber Eats的规模上，图像处理是一种操作的必要性。该平台管理数亿个产品图像，每小时会有数百万个更新遍布系统。</description>
-      <pubDate>Tue, 05 Aug 2025 15:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【How to get fast, easy insights with the Gremlin MCP Server】如何使用Gremlin MCP服务器获得快速，简单的见解</title>
+      <link>https://www.gremlin.com/blog/how-to-get-fast-easy-insights-with-the-gremlin-mcp-server</link>
+      <description>【Find out how to quickly and easily uncover new reliability insights by using the Gremlin MCP Server and your favorite LLM.】通过使用Gremlin MCP服务器和您喜欢的LLM快速，轻松地发现新的可靠性见解。</description>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Fix issues faster with Recommended Remediations】通过建议的补救措施更快地解决问题</title>
       <link>https://www.gremlin.com/blog/fix-issues-faster-with-recommended-remediations</link>
       <description>【Recommended Remediation speeds up teams with tailored suggestions to help you address reliability risks before they cause failures.】建议的补救措施加快了量身定制建议的团队，以帮助您在造成失败之前解决可靠性风险。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/three-key-facts-about-serverless-reliability</link>
       <description>【Serverless means not managing servers, but you still need to consider reliability. In our latest blog, learn why and how to build resilient serverless applications.】无服务器意味着不管理服务器，但是您仍然需要考虑可靠性。在我们的最新博客中，了解为什么以及如何构建弹性无服务器应用程序。</description>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Ensuring your AI systems can scale to meet demand】确保您的AI系统可以扩展以满足需求</title>
-      <link>https://www.gremlin.com/blog/ensuring-your-ai-systems-can-scale-to-meet-demand</link>
-      <description>【Demand for AI services is ever-increasing. Are your systems prepared? This blog teaches you how to prepare for sudden demand surges.】对AI服务的需求正在越来越多。您的系统准备好了吗？该博客教您如何为突然的需求激增做准备。</description>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

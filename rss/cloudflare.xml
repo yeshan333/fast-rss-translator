@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【AI Gateway now gives you access to your favorite AI models, dynamic routing and more — through just one endpoint】AI网关现在使您可以访问您喜欢的AI模型，动态路由等等 - 仅通过一个端点</title>
-      <link>https://blog.cloudflare.com/ai-gateway-aug-2025-refresh/</link>
-      <description>【 AI Gateway now gives you access to your favorite AI models, dynamic routing and more — through just one endpoint. 】AI网关现在使您可以通过一个端点访问您喜欢的AI模型，动态路由等。</description>
-      <pubDate>Wed, 27 Aug 2025 14:05:00 +0000</pubDate>
+      <title>【Automating threat analysis and response with Cloudy 】自动化威胁分析和多云的响应</title>
+      <link>https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/</link>
+      <description>【 Cloudy now supercharges analytics investigations and Cloudforce One threat intelligence! Get instant insights from threat events and APIs on APTs, DDoS, cybercrime &amp; more - powered by Workers AI. 】Cloudy现在增强了分析调查和Cloudforce一个威胁情报！从威胁事件和API中获得有关APTS，DDOS，Cyber​​Crime等的API的即时见解 - 由工人AI提供支持。</description>
+      <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How we built the most efficient inference engine for Cloudflare’s network 】我们如何为Cloudflare网络构建最有效的推理引擎</title>
-      <link>https://blog.cloudflare.com/cloudflares-most-efficient-ai-inference-engine/</link>
-      <description>【 Infire is an LLM inference engine that employs a range of techniques to maximize resource utilization, allowing us to serve AI models more efficiently with better performance for Cloudflare workloads. 】Infire是一种LLM推理引擎，采用了一系列技术来最大程度地利用资源利用，从而使我们能够更有效地为Cloudflare工作负载提供更好的AI模型。</description>
-      <pubDate>Wed, 27 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
+      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
+      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Cloudflare runs more AI models on fewer GPUs: A technical deep-dive 】CloudFlare如何在更少的GPU上运行更多的AI模型：技术深度暗示</title>
-      <link>https://blog.cloudflare.com/how-cloudflare-runs-more-ai-models-on-fewer-gpus/</link>
-      <description>【 Cloudflare built an internal platform called Omni. This platform uses lightweight isolation and memory over-commitment to run multiple AI models on a single GPU. 】Cloudflare构建了一个名为Omni的内部平台。该平台使用轻巧的隔离和内存过度承诺来在单个GPU上运行多个AI模型。</description>
-      <pubDate>Wed, 27 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals】爬网差距：AI机器人，培训和推荐的CloudFlare数据</title>
+      <link>https://blog.cloudflare.com/crawlers-click-ai-bots-training/</link>
+      <description>【 By mid-2025, training drives nearly 80% of AI crawling, while referrals to publishers (especially from Google) are falling and crawl-to-refer ratios show AI consumes far more than it sends back. 】到2025年中，培训驱动了近80％的人工智能爬行，而推荐给出版商（尤其是来自Google的），并且爬行与引用比率显示AI的消耗远远超过其寄回。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【State-of-the-art image generation Leonardo models and text-to-speech Deepgram models now available in Workers AI】最先进的图像生成Leonardo模型和文本到语音深集模型现已在工人AI中使用</title>
-      <link>https://blog.cloudflare.com/workers-ai-partner-models/</link>
-      <description>【 We&#39;re expanding Workers AI with new partner models from Leonardo.Ai and Deepgram. Start using state-of-the-art image generation models from Leonardo and real-time TTS and STT models from Deepgram.  】我们正在通过Leonardo.ai和Deepgram的新合作伙伴模型来扩展工人AI。开始使用Leonardo的最新图像生成模型以及Deepgram的实时TTS和STT模型。</description>
-      <pubDate>Wed, 27 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
+      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
+      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing the AI Revolution: Introducing Cloudflare MCP Server Portals】确保AI革命：引入CloudFlare MCP服务器门户网站</title>
-      <link>https://blog.cloudflare.com/zero-trust-mcp-server-portals/</link>
-      <description>【 Cloudflare MCP Server Portals are now available in Open Beta. MCP Server Portals are a new capability that enable you to centralize, secure, and observe every MCP connection in your organization. 】CloudFlare MCP服务器门户网站现在可在Open Beta中使用。 MCP服务器门户是一种新功能，使您能够集中，安全并观察组织中的每个MCP连接。</description>
-      <pubDate>Tue, 26 Aug 2025 14:05:00 +0000</pubDate>
+      <title>【Cloudy Summarizations of Email Detections: Beta Announcement】电子邮件检测的多云汇总：Beta公告</title>
+      <link>https://blog.cloudflare.com/cloudy-driven-email-security-summaries/</link>
+      <description>【 We&#39;re now leveraging our internal LLM, Cloudy, to generate automated summaries within our Email Security product, helping SOC teams better understand what&#39;s happening within flagged messages. 】现在，我们利用我们的内部LLM Cloudy来生成我们的电子邮件安全产品中的自动摘要，帮助SOC团队更好地了解标记的消息中正在发生的事情。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【ChatGPT, Claude, &amp; Gemini security scanning with Cloudflare CASB】Chatgpt，Claude和Gemini安全扫描与Cloudflare CASB</title>
-      <link>https://blog.cloudflare.com/casb-ai-integrations/</link>
-      <description>【 Cloudflare CASB now scans ChatGPT, Claude, and Gemini for misconfigurations, sensitive data exposure, and compliance issues, helping organizations adopt AI with confidence.&#xA; 】Cloudflare CASB现在扫描Chatgpt，Claude和Gemini是否有错误的配置，敏感的数据暴露和合规性问题，帮助组织充满信心地采用AI。</description>
-      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【A deeper look at AI crawlers: breaking down traffic by purpose and industry】更深入地看一下AI爬行者：目的和行业分解流量</title>
+      <link>https://blog.cloudflare.com/ai-crawler-traffic-by-purpose-and-industry/</link>
+      <description>【 We are extending AI-related insights on Cloudflare Radar with new industry-focused data and a breakdown of bot traffic by purpose, such as training or user action.  】我们正在扩展与AI相关的CloudFlare Radar的见解，并使用新的以行业为中心的数据以及诸如培训或用户操作之类的机器人流量分解。</description>
+      <pubDate>Thu, 28 Aug 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Block unsafe prompts targeting your LLM endpoints with Firewall for AI】阻止不安全的提示针对AI的防火墙针对LLM端点</title>
-      <link>https://blog.cloudflare.com/block-unsafe-llm-prompts-with-firewall-for-ai/</link>
-      <description>【 Cloudflare&#39;s AI security suite now includes unsafe content moderation, integrated into the Application Security Suite via Firewall for AI.  】CloudFlare的AI安全套件现在包括不安全的内容审核，通过防火墙集成在应用程序安全套件中。</description>
-      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【The age of agents: cryptographically recognizing agent traffic】代理年龄：密码识别代理流量</title>
+      <link>https://blog.cloudflare.com/signed-agents/</link>
+      <description>【 Cloudflare now lets websites and bot creators use Web Bot Auth to segment agents from verified bots, making it easier for customers to allow or disallow the many types of user and partner directed. 】CloudFlare现在使网站和机器人创建者使用Web Bot Auth从经过验证的机器人中进行分割代理，从而使客户更容易允许或禁止使用过的许多类型的用户和合作伙伴。</description>
+      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Best Practices for Securing Generative AI with SASE】用Sase确保生成AI的最佳实践</title>
-      <link>https://blog.cloudflare.com/best-practices-sase-for-ai/</link>
-      <description>【 This guide provides best practices for Security and IT leaders to securely adopt generative AI using Cloudflare’s SASE architecture as part of a strategy for AI Security Posture Management (AI-SPM). 】本指南为安全提供了最佳实践，IT领导者可以使用CloudFlare的Sase Architecture安全地采用生成AI，作为AI安全姿势管理策略（AI-SPM）的一部分。</description>
-      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【The next step for content creators in working with AI bots: Introducing AI Crawl Control】内容创建者与AI机器人合作的下一步：引入AI爬网控制</title>
+      <link>https://blog.cloudflare.com/introducing-ai-crawl-control/</link>
+      <description>【 Cloudflare launches AI Crawl Control (formerly AI Audit) and introduces easily customizable 402 HTTP responses. 】CloudFlare启动了AI爬网控制（以前是AI审核），并引入了易于自定义的402 HTTP响应。</description>
+      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Cloudflare Application Confidence Score For AI Applications】引入AI应用程序的CloudFlare应用程序置信度得分</title>
-      <link>https://blog.cloudflare.com/confidence-score-rubric/</link>
-      <description>【 Cloudflare will provide confidence scores within our application library for Gen AI applications, allowing customers to assess their risk for employees using shadow IT.  】CloudFlare将在我们的应用程序库中为Gen Gen Applications提供信心分数，使客户能够使用Shadow IT评估员工的风险。</description>
-      <pubDate>Tue, 26 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【Evaluating image segmentation models for background removal for Images】评估图像删除图像的图像分割模型</title>
+      <link>https://blog.cloudflare.com/background-removal/</link>
+      <description>【 An inside look at how the Images team compared dichotomous image segmentation models to identify and isolate subjects in an image from the background. 】内部查看图像团队如何比较二分法图像分割模型，以识别和隔离从背景中的图像中的受试者。</description>
+      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Unmasking the Unseen: Your Guide to Taming Shadow AI with Cloudflare One】揭露看不见的：您用Cloudflare驯服影子AI的指南</title>
-      <link>https://blog.cloudflare.com/shadow-AI-analytics/</link>
-      <description>【 Don&#39;t let &#34;Shadow AI&#34; silently leak your data to unsanctioned AI. This new threat requires a new defense. Learn how to gain visibility and control without sacrificing innovation. 】不要让“ Shadow AI”默默地泄漏您的数据以未经批准的AI。这种新威胁需要新的防御。了解如何在不牺牲创新的情况下获得可见性和控制。</description>
-      <pubDate>Mon, 25 Aug 2025 14:05:00 +0000</pubDate>
+      <title>【Make Your Website Conversational for People and Agents with NLWeb and AutoRAG】与NLWEB和Autorag对您和代理商进行对话的网站对话</title>
+      <link>https://blog.cloudflare.com/conversational-search-with-nlweb-and-autorag/</link>
+      <description>【 With NLWeb, an open project by Microsoft, and Cloudflare AutoRAG, conversational search is now a one-click setup for your website. 】对于Microsoft和CloudFlare Autorag的一个开放项目NLWEB，对话搜索现在是您网站的一键设置。</description>
+      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
