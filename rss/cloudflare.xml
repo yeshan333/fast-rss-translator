@@ -10,27 +10,27 @@
       <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
-      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
-      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals】爬网差距：AI机器人，培训和推荐的CloudFlare数据</title>
       <link>https://blog.cloudflare.com/crawlers-click-ai-bots-training/</link>
       <description>【 By mid-2025, training drives nearly 80% of AI crawling, while referrals to publishers (especially from Google) are falling and crawl-to-refer ratios show AI consumes far more than it sends back. 】到2025年中，培训驱动了近80％的人工智能爬行，而推荐给出版商（尤其是来自Google的），并且爬行与引用比率显示AI的消耗远远超过其寄回。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
-      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
-      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
+      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
+      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
+      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Cloudy Summarizations of Email Detections: Beta Announcement】电子邮件检测的多云汇总：Beta公告</title>
       <link>https://blog.cloudflare.com/cloudy-driven-email-security-summaries/</link>
       <description>【 We&#39;re now leveraging our internal LLM, Cloudy, to generate automated summaries within our Email Security product, helping SOC teams better understand what&#39;s happening within flagged messages. 】现在，我们利用我们的内部LLM Cloudy来生成我们的电子邮件安全产品中的自动摘要，帮助SOC团队更好地了解标记的消息中正在发生的事情。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
+      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
+      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,12 +46,6 @@
       <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The next step for content creators in working with AI bots: Introducing AI Crawl Control】内容创建者与AI机器人合作的下一步：引入AI爬网控制</title>
-      <link>https://blog.cloudflare.com/introducing-ai-crawl-control/</link>
-      <description>【 Cloudflare launches AI Crawl Control (formerly AI Audit) and introduces easily customizable 402 HTTP responses. 】CloudFlare启动了AI爬网控制（以前是AI审核），并引入了易于自定义的402 HTTP响应。</description>
-      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Evaluating image segmentation models for background removal for Images】评估图像删除图像的图像分割模型</title>
       <link>https://blog.cloudflare.com/background-removal/</link>
       <description>【 An inside look at how the Images team compared dichotomous image segmentation models to identify and isolate subjects in an image from the background. 】内部查看图像团队如何比较二分法图像分割模型，以识别和隔离从背景中的图像中的受试者。</description>
@@ -61,6 +55,12 @@
       <title>【Make Your Website Conversational for People and Agents with NLWeb and AutoRAG】与NLWEB和Autorag对您和代理商进行对话的网站对话</title>
       <link>https://blog.cloudflare.com/conversational-search-with-nlweb-and-autorag/</link>
       <description>【 With NLWeb, an open project by Microsoft, and Cloudflare AutoRAG, conversational search is now a one-click setup for your website. 】对于Microsoft和CloudFlare Autorag的一个开放项目NLWEB，对话搜索现在是您网站的一键设置。</description>
+      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The next step for content creators in working with AI bots: Introducing AI Crawl Control】内容创建者与AI机器人合作的下一步：引入AI爬网控制</title>
+      <link>https://blog.cloudflare.com/introducing-ai-crawl-control/</link>
+      <description>【 Cloudflare launches AI Crawl Control (formerly AI Audit) and introduces easily customizable 402 HTTP responses. 】CloudFlare启动了AI爬网控制（以前是AI审核），并引入了易于自定义的402 HTTP响应。</description>
       <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
