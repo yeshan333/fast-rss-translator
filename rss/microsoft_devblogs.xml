@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Let Copilot Coding Agent handle the busy work】让Copilot编码代理处理繁忙的工作</title>
+      <link>https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet</link>
+      <description>【The GitHub Copilot Coding Agent changes how .NET developers get work done. Beyond inline suggestions, it can analyze your repo, plan multi‑step tasks, create issues and pull requests, and carry changes across projects—all in the cloud. In this post, we’ll show two concrete scenarios using the eShopLite sample: automatically creating miss】GitHub副副代理改变了.NET开发人员完成工作的方式。除了内联建议之外，它可以分析您的回购，计划多步骤任务，创建问题并提取请求，并在项目中进行更改 - 所有这些都在云中。在这篇文章中，我们将使用Eshoplite样本显示两个具体方案：自动创建MISS</description>
+      <pubDate>Wed, 03 Sep 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What&#39;s new in Azure AI Foundry | August 2025】Azure AI Foundry中的新功能| 2025年8月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-august-2025</link>
+      <description>【TL;DR Models: GPT‑5 family now in Azure AI Foundry (gpt‑5 requires registration; launch regions: East US 2, Sweden Central). Also new: Sora API updates (image→video, inpainting; Global Standard in East US 2 and Sweden Central), Mistral Document AI (OCR), Black Forest Labs FLUX.1 Kontext [pro] and FLUX1.1 [pro],】TL; DR模型：现在在Azure AI铸造厂的GPT -5家族（GPT -5需要注册；发射区域：East US 2，瑞典Central）。也是新的：Sora API更新（图像→视频，inpain; East US 2和Sweden Central的全球标准），Mistral文档AI（OCR），Black Forest Labs Flux.1 Kontext [Pro] [Pro]和Flux1.1 [Pro]，</description>
+      <pubDate>Wed, 03 Sep 2025 15:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I write a C++/WinRT &lt;CODE&gt;IAsyncOperation&lt;T&gt;&lt;/CODE&gt; where &lt;CODE&gt;T&lt;/CODE&gt; is not a Windows Runtime type?, part 1】如何编写C ++/Winrt &lt;code&gt; iaSyncoperation &lt;t&gt; &lt;/code&gt;其中&lt;code&gt; t &lt;/code&gt;不是Windows运行时类型？，第1部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250903-00/?p=111546</link>
+      <description>【I often get asked about how one could use C++/WinRT&#39;s IAsyncOperation&amp;lt;T&amp;gt; where T is not a Windows Runtime type. The T in IAsyncOperation&amp;lt;T&amp;gt; must be a Windows Runtime type because the algorithm for generating an interface ID for IAsyncOperation&amp;lt;T&amp;gt; work】我经常被问到如何使用C ++/Winrt的iasyncoperation &lt;t&gt;其中T不是Windows运行时类型。 iAsyncoperation &lt;t&gt;中的t必须是Windows运行时类型</description>
+      <pubDate>Wed, 03 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Unlocking Vector Search with OneLake Indexer and OpenAI Integration in Microsoft Fabric】使用Onelake索引器和Microsoft Fabric中的OpenAI集成解锁矢量搜索</title>
+      <link>https://devblogs.microsoft.com/ise/msfabric-and-openai-for-dataset</link>
+      <description>【Our team works with customer solutions that integrate AI into data solutions. Some time ago, this post titled Fabric Change the Game: Unleashing the Power of Microsoft Fabric and OpenAI for Datase】我们的团队与将AI集成到数据解决方案中的客户解决方案合作。一段时间以前，这篇名为Fabric Change Game的帖子：释放Microsoft Fabric的功能和DATASE的OpenAI的功能</description>
+      <pubDate>Wed, 03 Sep 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PowerToys 0.94 is here: Settings search, shortcut conflict detection and more!】PowerToys 0.94在这里：设置搜索，快捷冲突检测等等！</title>
+      <link>https://devblogs.microsoft.com/commandline/powertoys-0-94-is-here-settings-search-shortcut-conflict-detection-and-more</link>
+      <description>【】</description>
+      <pubDate>Tue, 02 Sep 2025 15:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: Remembering passwords for recently-opened ZIP files】可疑安全漏洞：记住最近开放的邮政编码文件的密码</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250902-00/?p=111544</link>
+      <description>【A security vulnerability report arrived that claimed that it could obtain unauthorized access to a password-protected ZIP file by the following means: Start with a password-protected ZIP file, call it &#34;secret.zip&#34;. Create a dummy ZIP file and give it the same password. Call this file &#34;attack&#34;. Open atta】安全漏洞报告到达，声称它可以通过以下方式获得未经授权对受密码保护的ZIP文件的访问：从密码保护的ZIP文件开始，将其称为“ necret.zip”。创建一个虚拟zip文件，并提供相同的密码。称此文件为“攻击”。公开Atta</description>
+      <pubDate>Tue, 02 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Boost Your Copilot Collaboration with Reusable Prompt Files】通过可重复使用的提示文件来增强您的副驾驶协作</title>
+      <link>https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files</link>
+      <description>【Writing effective prompts for AI tools can be time-consuming and challenging. Cement those efforts by leveraging reusable prompt files. These custom prompts allow for quick access at the prompt box, and they’re automatically stored and shared with your teammates to make it easy to multiply your Copilot s】为AI工具编写有效的提示可能是耗时且具有挑战性的。 通过利用可重复使用的提示文件来解决这些努力。 这些自定义提示允许在提示盒中快速访问，并且它们会自动存储并与队友共享，以使您可以轻松地将副驾驶S乘</description>
+      <pubDate>Tue, 02 Sep 2025 12:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Enriching Microsoft 365 profiles with Microsoft 365 Copilot connectors for people data (public preview)】使用Microsoft 365 Copilot连接器来丰富Microsoft 365配置文件（公共预览）</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/enriching-microsoft-365-profiles-with-microsoft-365-copilot-connectors-for-people-data-public-preview</link>
+      <description>【In today’s workplace, employee data lives across multiple systems – HR databases, talent platforms, directories – making it hard to get a complete view of a person.  Microsoft 365 Copilot connectors for people data (now in public preview) tackle this challenge by bringing external people data into Microsoft 365. A Mi】在当今的工作场所中，员工数据跨越了多个系统（人力资源数据库，人才平台，目录），因此很难完全了解一个人。  Microsoft 365 Copilot连接器用于人员数据（现在在公共预览中）通过将外部人员数据带入Microsoft 365来应对这一挑战。</description>
+      <pubDate>Mon, 01 Sep 2025 14:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Thoughts on creating a tracking pointer class, part 16: Second attempt to use a list】关于创建跟踪指针类的想法，第16部分：第二次尝试使用列表</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250901-00/?p=111537</link>
+      <description>【Commenter LB pointed out that you can use the splice method to move nodes between lists. So let&#39;s try that. The idea is that each tracking_ptr holds an iterator to a list node that is part of】评论者LB指出，您可以使用剪接方法在列表之间移动节点。所以让我们尝试一下。这个想法是每个Tracking_ptr都将迭代器保存到列表节点的一部分</description>
+      <pubDate>Mon, 01 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Microsoft Graph Toolkit retirement】Microsoft Graph Toolkit退休</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-toolkit-retirement</link>
       <description>【We are announcing the deprecation of the Microsoft Graph Toolkit (MGT). The retirement period begins September 1st, 2025 with full retirement planned for August 28th, 2026. Why we’re retiri】我们宣布Microsoft Graph Toolkit（MGT）的弃用。退休期开始于2025年9月1日，计划于2026年8月28日全额退休。为什么我们要退休</description>
       <pubDate>Fri, 29 Aug 2025 20:22:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Graph CLI retirement】Microsoft Graph CLI退休</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-cli-retirement</link>
-      <description>【We are announcing the retirement of the Microsoft Graph command-line interface (CLI). The Microsoft Graph CLI has served as a powerful tool for developers and IT professionals to interact with Microsoft Graph through simple terminal commands—enabling automation, scripting, and streamli】我们宣布退休Microsoft Graph命令行接口（CLI）。 Microsoft Graph CLI已成为开发人员和IT专业人员通过简单终端命令与Microsoft Graph互动的强大工具 - 以实现自动化，脚本和shartli</description>
-      <pubDate>Fri, 29 Aug 2025 19:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using SQL Server&#39;s new AI features and Python to create a T-SQL assistant】使用SQL Server的新AI功能和Python创建T-SQL助手</title>
-      <link>https://devblogs.microsoft.com/azure-sql/using-sql-servers-new-ai-features-and-python-to-create-a-t-sql-assistant</link>
-      <description>【[alert type=&#34;important&#34; heading=&#34;Guest Post&#34;]Rodrigo Ribeiro Gomes, Head of Innovation at Power Tuning, has been leveraging the new AI features in SQL Server engine to simplify the lives of DBAs and developers. He generously shared his experience with us: thank you, Rodrigo![/alert] I recently created a】[Alert Type =“重要” heading =“来宾帖子”] Power Tuning创新负责人Rodrigo Ribeiro Gomes一直利用SQL Server Engine中的新AI功能来简化DBAS和开发人员的生活。他慷慨地与我们分享了自己的经历：谢谢，Rodrigo！[/ALERT]我最近创建了一个</description>
-      <pubDate>Fri, 29 Aug 2025 15:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 15: A custom shared pointer】关于创建跟踪指针类的想法，第15部分：自定义共享指针</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250829-00/?p=111526</link>
-      <description>【Last time, we made our trackable object implementation&#39;s constructors and assignment operations non-throwing, although it came at a cost of making】上次，我们使可跟踪的对象实现的构造函数和任务操作不付诸实施，尽管它是以制造成本的代价</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Getting Started with the Aspire CLI】Aspire CLI入门</title>
-      <link>https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli</link>
-      <description>【The Aspire CLI is a powerful, cross-platform tool designed to streamline the development, management, and deployment of application systems. Whether you’re building a simple website or an enterprise-scale distributed application with microservices and queues and databases, the Aspire CLI offers an interactive-first experience to help you cre】Aspire CLI是一种功能强大的跨平台工具，旨在简化应用程序系统的开发，管理和部署。无论您是构建一个简单的网站还是使用微服务和队列和数据库的企业规模的分布式应用程序，Aspire CLI都会提供交互式优先的体验，以帮助您CRE</description>
-      <pubDate>Thu, 28 Aug 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Awesome Copilot MCP Server】宣布很棒的Copilot MCP服务器</title>
-      <link>https://devblogs.microsoft.com/blog/announcing-awesome-copilot-mcp-server</link>
-      <description>【Today, we&#39;re excited to announce the Awesome Copilot MCP Server - a simple way to search those customizations and save them directly to your repository from the MCP server. In early July, we announced the community-driven Awesome GitHub Co】今天，我们很高兴地宣布Awesome Copilot MCP服务器 - 一种搜索这些自定义并将其直接从MCP服务器保存到存储库的简单方法。 7月初，我们宣布了社区驱动的很棒的Github Co</description>
-      <pubDate>Thu, 28 Aug 2025 17:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 14: Nonthrowing moves with the shared tracking pointer】关于创建跟踪指针类的想法，第14部分：通过共享跟踪指针进行的非预设动作</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250828-00/?p=111524</link>
-      <description>【So far, we&#39;ve been working on an alternate design for tracking pointers, but we found that it had the unfortunate property of having potentially-throwing constructors and m】到目前为止，我们一直在为跟踪指针进行替代设计，但我们发现它具有不幸的属性，即具有潜在的构造函数和M</description>
-      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Roadmap for AI in Visual Studio (September)】Visual Studio的AI路线图（9月）</title>
-      <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september</link>
-      <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，该路线图概述了通过AI驱动的代理体验发展视觉工作室的下一步。我们每个月都打算提供更智能，更快，更直观的工具，以增强您的编码体验。免责声明：此处概述的项目代表了当月正在进行的工作。他们</description>
-      <pubDate>Wed, 27 Aug 2025 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio】efcore.visualizer-查看“实体框架核心查询计划”</title>
-      <link>https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio</link>
-      <description>【This is a guest blog from Giorgi Dalakishvili, the developer of EFCore.Visualizer. Entity Framework Core is a powerful, feature-rich ORM powering many of today&#39;s applications. W】这是efcore.visualizer的开发商Giorgi Dalakishvili的来宾博客。 Entity Framework Core是一个功能强大的功能丰富的ORM，可为当今许多应用程序提供动力。 w</description>
-      <pubDate>Wed, 27 Aug 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Thoughts on creating a tracking pointer class, part 13: Restoring the strong exception guarantee】关于创建跟踪指针类的想法，第13部分：恢复强大的异常保证</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250827-00/?p=111518</link>
-      <description>【Last time, we created a tracking pointer class based on std::shared_ptr. We found a problem with the move-assignment operator: It didn&#39;t satisfy the str】上次，我们创建了一个基于std :: shared_ptr的跟踪指针类。我们发现了移动管理操作员的问题：它不满足STR</description>
-      <pubDate>Wed, 27 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

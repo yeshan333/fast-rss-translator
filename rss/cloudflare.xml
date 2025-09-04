@@ -4,16 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Automating threat analysis and response with Cloudy 】自动化威胁分析和多云的响应</title>
-      <link>https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/</link>
-      <description>【 Cloudy now supercharges analytics investigations and Cloudforce One threat intelligence! Get instant insights from threat events and APIs on APTs, DDoS, cybercrime &amp; more - powered by Workers AI. 】Cloudy现在增强了分析调查和Cloudforce一个威胁情报！从威胁事件和API中获得有关APTS，DDOS，Cyber​​Crime等的API的即时见解 - 由工人AI提供支持。</description>
-      <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
+      <title>【AI Week 2025: Recap】AI周2025年：回顾</title>
+      <link>https://blog.cloudflare.com/ai-week-2025-wrapup/</link>
+      <description>【 How do we embrace the power of AI without losing control? That was one of our big themes for AI Week 2025. Check out all of the products, partnerships, and features we announced. 】我们如何在不失去控制的情况下拥抱AI的力量？那是我们2025年AI周的大主题之一。查看我们宣布的所有产品，合作伙伴关系和功能。</description>
+      <pubDate>Wed, 03 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals】爬网差距：AI机器人，培训和推荐的CloudFlare数据</title>
-      <link>https://blog.cloudflare.com/crawlers-click-ai-bots-training/</link>
-      <description>【 By mid-2025, training drives nearly 80% of AI crawling, while referrals to publishers (especially from Google) are falling and crawl-to-refer ratios show AI consumes far more than it sends back. 】到2025年中，培训驱动了近80％的人工智能爬行，而推荐给出版商（尤其是来自Google的），并且爬行与引用比率显示AI的消耗远远超过其寄回。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
+      <title>【The impact of the Salesloft Drift breach on Cloudflare and our customers】Salesloft Drift违规对Cloudflare和我们的客户的影响</title>
+      <link>https://blog.cloudflare.com/response-to-salesloft-drift-incident/</link>
+      <description>【 An advanced threat actor, GRUB1, exploited the integration between Salesloft’s Drift chat agent and Salesforce to gain unauthorized access to Salesforce tenants of Cloudflare and many other companies. 】一位高级威胁参与者GRUB1利用了Salesloft的漂移聊天代理和Salesforce之间的集成，以获得未经授权的Cloudflare和许多其他公司的Salesforce租户的访问。</description>
+      <pubDate>Tue, 02 Sep 2025 17:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automating threat analysis and response with Cloudy 】自动化威胁分析和多云的响应</title>
+      <link>https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/</link>
+      <description>【 Cloudy now supercharges analytics investigations and Cloudforce One threat intelligence! Get instant insights from threat events and APIs on APTs, DDoS, cybercrime &amp; more - powered by Workers AI. 】Cloudy现在增强了分析调查和CloudForce一个威胁情报！从威胁事件和API中获得有关APTS，DDOS，Cyber​​Crime等的API的即时见解 - 由工人AI提供支持。</description>
+      <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
       <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
@@ -34,6 +40,12 @@
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals】爬网差距：AI机器人，培训和推荐的CloudFlare数据</title>
+      <link>https://blog.cloudflare.com/crawlers-click-ai-bots-training/</link>
+      <description>【 By mid-2025, training drives nearly 80% of AI crawling, while referrals to publishers (especially from Google) are falling and crawl-to-refer ratios show AI consumes far more than it sends back. 】到2025年中，培训驱动了近80％的人工智能爬行，而推荐给出版商（尤其是来自Google的），并且爬行与引用比率显示AI的消耗远远超过其寄回。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A deeper look at AI crawlers: breaking down traffic by purpose and industry】更深入地看一下AI爬行者：目的和行业分解流量</title>
       <link>https://blog.cloudflare.com/ai-crawler-traffic-by-purpose-and-industry/</link>
       <description>【 We are extending AI-related insights on Cloudflare Radar with new industry-focused data and a breakdown of bot traffic by purpose, such as training or user action.  】我们正在扩展与AI相关的CloudFlare Radar的见解，并使用新的以行业为中心的数据以及诸如培训或用户操作之类的机器人流量分解。</description>
@@ -49,18 +61,6 @@
       <title>【Evaluating image segmentation models for background removal for Images】评估图像删除图像的图像分割模型</title>
       <link>https://blog.cloudflare.com/background-removal/</link>
       <description>【 An inside look at how the Images team compared dichotomous image segmentation models to identify and isolate subjects in an image from the background. 】内部查看图像团队如何比较二分法图像分割模型，以识别和隔离从背景中的图像中的受试者。</description>
-      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Make Your Website Conversational for People and Agents with NLWeb and AutoRAG】与NLWEB和Autorag对您和代理商进行对话的网站对话</title>
-      <link>https://blog.cloudflare.com/conversational-search-with-nlweb-and-autorag/</link>
-      <description>【 With NLWeb, an open project by Microsoft, and Cloudflare AutoRAG, conversational search is now a one-click setup for your website. 】对于Microsoft和CloudFlare Autorag的一个开放项目NLWEB，对话搜索现在是您网站的一键设置。</description>
-      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The next step for content creators in working with AI bots: Introducing AI Crawl Control】内容创建者与AI机器人合作的下一步：引入AI爬网控制</title>
-      <link>https://blog.cloudflare.com/introducing-ai-crawl-control/</link>
-      <description>【 Cloudflare launches AI Crawl Control (formerly AI Audit) and introduces easily customizable 402 HTTP responses. 】CloudFlare启动了AI爬网控制（以前是AI审核），并引入了易于自定义的402 HTTP响应。</description>
       <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>

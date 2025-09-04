@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Dropbox Built an AI Product Dash with RAG and AI Agents】Dropbox如何与RAG和AI代理商建造AI产品破折号</title>
+      <link>https://blog.bytebytego.com/p/how-dropbox-built-an-ai-product-dash</link>
+      <description>【In this article, we look at how Dropbox leveraged RAG and AI Agents to make Dash a reality.】在本文中，我们研究了Dropbox如何利用抹布和AI代理使DASH成为现实。</description>
+      <pubDate>Tue, 02 Sep 2025 15:30:31 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP178: The Lifecycle of a Kubernetes Pod】EP178：Kubernetes Pod的生命周期</title>
       <link>https://blog.bytebytego.com/p/ep178-the-lifecycle-of-a-kubernetes</link>
       <description>【What else will you add to understand the Kubernetes Pod Lifecycle?】您还可以添加什么来了解Kubernetes Pod生命周期？</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-atlassian-migrated-4-million</link>
       <description>【Atlassian routinely migrates about 1,000 databases every day as part of its regular operations, and its users never notice.】作为常规操作的一部分，Atlassian通常每天迁移约1,000个数据库，其用户从未注意到。</description>
       <pubDate>Tue, 12 Aug 2025 15:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP175: What is the SOLID Principle?】EP175：坚实的原理是什么？</title>
-      <link>https://blog.bytebytego.com/p/ep175-what-is-the-solid-principle</link>
-      <description>【SOLID offers guidelines to create software that is easy to understand, modify, and extend.】SOLID提供指南，以创建易于理解，修改和扩展的软件。</description>
-      <pubDate>Sat, 09 Aug 2025 15:31:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
