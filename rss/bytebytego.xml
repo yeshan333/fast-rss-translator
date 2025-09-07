@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP179: Kubernetes Explained】EP179：Kubernetes解释了</title>
+      <link>https://blog.bytebytego.com/p/ep179-kubernetes-explained</link>
+      <description>【Kubernetes is the de facto standard for container orchestration.】Kubernetes是容器编排的事实上的标准。</description>
+      <pubDate>Sat, 06 Sep 2025 15:30:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide to Rate Limiting Strategies】费率限制策略指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-rate-limiting-strategies</link>
+      <description>【In this article, we will focus on the need for rate limiting and some practical rate limiting strategies that are used in different scenarios.】在本文中，我们将重点介绍在不同情况下使用的对利率限制和一些实用的利率限制策略的需求。</description>
+      <pubDate>Thu, 04 Sep 2025 15:30:49 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Dropbox Built an AI Product Dash with RAG and AI Agents】Dropbox如何与RAG和AI代理商建造AI产品破折号</title>
       <link>https://blog.bytebytego.com/p/how-dropbox-built-an-ai-product-dash</link>
       <description>【In this article, we look at how Dropbox leveraged RAG and AI Agents to make Dash a reality.】在本文中，我们研究了Dropbox如何利用抹布和AI代理使DASH成为现实。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep176-how-does-sso-work</link>
       <description>【Single Sign-On (SSO) is an authentication scheme. It allows a user to log in to different systems using a single ID.】单登录（SSO）是一种身份验证方案。它允许用户使用单个ID登录到不同的系统。</description>
       <pubDate>Sat, 16 Aug 2025 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Top Caching Strategies】顶级缓存策略指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-top-caching-strategies</link>
-      <description>【In this article, we will explore the critical caching strategies that enable fast, reliable systems.】在本文中，我们将探讨能够快速，可靠系统的关键缓存策略。</description>
-      <pubDate>Thu, 14 Aug 2025 15:30:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Atlassian Migrated 4 Million Jira Databases to AWS Aurora】Atlassian如何将400万JIRA数据库迁移到AWS Aurora</title>
-      <link>https://blog.bytebytego.com/p/how-atlassian-migrated-4-million</link>
-      <description>【Atlassian routinely migrates about 1,000 databases every day as part of its regular operations, and its users never notice.】作为常规操作的一部分，Atlassian通常每天迁移约1,000个数据库，其用户从未注意到。</description>
-      <pubDate>Tue, 12 Aug 2025 15:30:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

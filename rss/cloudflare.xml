@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1】解决未经授权的1.1.1.1的多个TLS证书的发行</title>
+      <link>https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/</link>
+      <description>【 Unauthorized TLS certificates were issued for 1.1.1.1 by a Certification Authority without permission from Cloudflare. These rogue certificates have now been revoked. 】未经Cloudflare许可，未经授权的TLS证书以1.1.1.1颁发。这些流氓证书现在已被撤销。</description>
+      <pubDate>Thu, 04 Sep 2025 17:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【AI Week 2025: Recap】AI周2025年：回顾</title>
       <link>https://blog.cloudflare.com/ai-week-2025-wrapup/</link>
       <description>【 How do we embrace the power of AI without losing control? That was one of our big themes for AI Week 2025. Check out all of the products, partnerships, and features we announced. 】我们如何在不失去控制的情况下拥抱AI的力量？那是我们2025年AI周的大主题之一。查看我们宣布的所有产品，合作伙伴关系和功能。</description>
@@ -22,9 +28,9 @@
       <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
-      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
-      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
+      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
+      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
+      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -34,15 +40,15 @@
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
-      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
-      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals】爬网差距：AI机器人，培训和推荐的CloudFlare数据</title>
       <link>https://blog.cloudflare.com/crawlers-click-ai-bots-training/</link>
       <description>【 By mid-2025, training drives nearly 80% of AI crawling, while referrals to publishers (especially from Google) are falling and crawl-to-refer ratios show AI consumes far more than it sends back. 】到2025年中，培训驱动了近80％的人工智能爬行，而推荐给出版商（尤其是来自Google的），并且爬行与引用比率显示AI的消耗远远超过其寄回。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
+      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
+      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -50,12 +56,6 @@
       <link>https://blog.cloudflare.com/ai-crawler-traffic-by-purpose-and-industry/</link>
       <description>【 We are extending AI-related insights on Cloudflare Radar with new industry-focused data and a breakdown of bot traffic by purpose, such as training or user action.  】我们正在扩展与AI相关的CloudFlare Radar的见解，并使用新的以行业为中心的数据以及诸如培训或用户操作之类的机器人流量分解。</description>
       <pubDate>Thu, 28 Aug 2025 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The age of agents: cryptographically recognizing agent traffic】代理年龄：密码识别代理流量</title>
-      <link>https://blog.cloudflare.com/signed-agents/</link>
-      <description>【 Cloudflare now lets websites and bot creators use Web Bot Auth to segment agents from verified bots, making it easier for customers to allow or disallow the many types of user and partner directed. 】CloudFlare现在使网站和机器人创建者使用Web Bot Auth从经过验证的机器人中进行分割代理，从而使客户更容易允许或禁止使用过的许多类型的用户和合作伙伴。</description>
-      <pubDate>Thu, 28 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Evaluating image segmentation models for background removal for Images】评估图像删除图像的图像分割模型</title>
