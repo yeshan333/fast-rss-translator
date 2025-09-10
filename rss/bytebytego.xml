@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Netflix Tudum Supports 20 Million Users With CQRS】Netflix Tudum如何为2000万用户提供CQRS</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-tudum-supports-20-million</link>
+      <description>【We will look at the evolution of this design decision and how Netflix went about implementing it.】我们将研究该设计决定的演变以及Netflix如何实施它。</description>
+      <pubDate>Tue, 09 Sep 2025 15:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Grab Built An Authentication System for 180+ Million Users】Grab如何为1.8亿以上用户建立了身份验证系统</title>
+      <link>https://blog.bytebytego.com/p/how-grab-built-an-authentication</link>
+      <description>【Grab decided they needed one central system that would make authentication and authorization the same across all applications.】Grab决定他们需要一个中央系统，可以在所有应用程序中进行身份验证和授权。</description>
+      <pubDate>Mon, 08 Sep 2025 15:31:30 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP179: Kubernetes Explained】EP179：Kubernetes解释了</title>
       <link>https://blog.bytebytego.com/p/ep179-kubernetes-explained</link>
       <description>【Kubernetes is the de facto standard for container orchestration.】Kubernetes是容器编排的事实上的标准。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-reddit-delivers-notifications</link>
       <description>【Push notifications carry a double-edged sword in the design of any product. Done well, these notifications reconnect users with content they care about.】推送通知在任何产品的设计中都带有双刃剑。做得很好，这些通知将用户与他们关心的内容重新连接。</description>
       <pubDate>Tue, 19 Aug 2025 15:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LLMs See Images, Audio, and More】LLM如何查看图像，音频等</title>
-      <link>https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more</link>
-      <description>【Just like how &#34;Hello world!&#34; becomes discrete tokens for text processing, a photograph gets chopped into image patches, and a song becomes a sequence of audio codes.】就像“你好世界”一样！成为用于文本处理的离散令牌，将照片切成图像贴片，歌曲成为一系列音频代码。</description>
-      <pubDate>Mon, 18 Aug 2025 15:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP176: How Does SSO Work?】EP176：SSO如何工作？</title>
-      <link>https://blog.bytebytego.com/p/ep176-how-does-sso-work</link>
-      <description>【Single Sign-On (SSO) is an authentication scheme. It allows a user to log in to different systems using a single ID.】单登录（SSO）是一种身份验证方案。它允许用户使用单个ID登录到不同的系统。</description>
-      <pubDate>Sat, 16 Aug 2025 15:30:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

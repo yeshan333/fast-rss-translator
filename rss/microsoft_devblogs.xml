@@ -4,6 +4,54 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Visual Studio 2026 Insiders is here!】Visual Studio 2026内部人员在这里！</title>
+      <link>https://devblogs.microsoft.com/cppblog/visual-studio-2026-insiders-is-here</link>
+      <description>【Get ready –the first Insiders release of Visual Studio 2026 has arrived! In this new evolution of Visual Studio, we’re continuing our commitment to building the best integrated developer environment for C++ developers on Windows. [video src=&#34;&#34; poster=&#34;&#34;] Visual Studio 2026 features a fresh UI, f】准备好 -  Visual Studio 2026的第一个内部人士发布！在这一新的Visual Studio演变中，我们继续致力于为Windows上的C ++开发人员建立最佳的集成开发人员环境。 [Video Src =“” Poster =“”] Visual Studio 2026具有新鲜的UI，F</description>
+      <pubDate>Wed, 10 Sep 2025 00:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing .NET 10 Release Candidate 1】宣布.NET 10释放候选1</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1</link>
+      <description>【.NET 10 Release Candidate 1 is now available. This is our first of two release candidates which come with a go-live support license so you can confidently use this release for your production applications. This release of .NET 10 is supported in the new】.NET 10释放候选1现在可用。这是我们两个发行候选人中的第一个，该候选人带有Go-Live支持许可证，因此您可以自信地将此版本用于生产应用程序。新的10版在新的版本中支持</description>
+      <pubDate>Tue, 09 Sep 2025 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【.NET and .NET Framework September 2025 servicing releases updates】.NET和.NET框架2025年9月服务发布更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for September 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of September 05, 2025. This update contains no】欢迎使用2025年9月的总和.NET维修更新。让我们进入.NET＆.NET Framework的最新版本，以下是我们维修版本中的新事物的快速概述：安全改进：NET和.NET框架，并刷新了最新的更新。</description>
+      <pubDate>Tue, 09 Sep 2025 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio 2026 Insiders is here!】Visual Studio 2026内部人员在这里！</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here</link>
+      <description>【Visual Studio 2026 Insiders is here - and it marks one of the most ambitious steps forward we’ve taken with the IDE. This release brings AI woven directly into the developer workflow, performance improvements that reset expectations for speed at enterprise scale, and a modern design that makes the environment feel lighter】Visual Studio 2026内部人员在这里 - 它标志着我们与IDE一起采取的最雄心勃勃的步骤之一。此版本将AI直接带入开发人员的工作流程，重置对企业规模速度期望的性能的改进以及使环境变得更轻的现代设计</description>
+      <pubDate>Tue, 09 Sep 2025 16:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A suggestion to people who assign nicknames to meeting rooms】向将昵称分配给会议室的人的建议</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250909-00/?p=111578</link>
+      <description>【It is common for Microsoft buildings to assign nicknames to meeting rooms to make them easier to remember. Instead of &#34;We will be in room 1728&#34; you can say &#34;We will be in the Magellan room.&#34; The new Microsoft Building 3 has a series of meeting rooms labeled 1.3A through 1.3E. (The number 1.3 means &#34;first floor, zone 3.&#34;) These meeti】Microsoft建筑物通常将昵称分配给会议室以使它们更容易记住。您可以说“我们将在麦哲伦房间里”，而不是“我们将在1728室”。新的Microsoft建筑物3有一系列标有1.3A至1.3E的会议室。 （数字1.3的意思是“一楼，区域3”）</description>
+      <pubDate>Tue, 09 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a Runtime JAR inspector in 10 hours】在10个小时内建立运行时罐检查器</title>
+      <link>https://devblogs.microsoft.com/java/building-a-runtime-jar-inspector-in-10-hours</link>
+      <description>【Last Friday I was reviewing our backlog items in the Java Engineering Group, and found an idea we had when Log4Shell happened. To this day, there is still no main stream solution to &#34;find in production where a given JAR is being used&#34;.】上周五，我在Java工程组中审查了我们的积压项目，并在Log4shell发生时发现了一个想法。直到今天，仍然没有主流解决方案可以“在使用给定罐子的生产中找到”。</description>
+      <pubDate>Mon, 08 Sep 2025 19:17:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Change to data visibility for Microsoft Graph callRecords APIs in GCC High and DoD】更改Microsoft Graph CallRecords API的数据可见性</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/change-to-data-visibility-for-microsoft-graph-callrecords-apis-in-gcc-high-and-dod</link>
+      <description>【As a continuation of changes previously announced for global customers, we will be making cha】作为以前宣布全球客户的变更的延续，我们将制作CHA</description>
+      <pubDate>Mon, 08 Sep 2025 18:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why didn&#39;t Windows 95 simply special-case the laptops that locked up when it executed the &lt;CODE&gt;HLT&lt;/CODE&gt; instruction?】为什么Windows 95不简单地执行&lt;code&gt; HLT &lt;/code&gt;指令时锁定的笔记本电脑？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250908-00/?p=111572</link>
+      <description>【The 80386 HLT instruction tells the CPU to stop executing instructions until a hardware interrupt occurs. This was traditionally the instruction performed by the operating system when it had no work to do, allowing the CPU to go into a low-power mode. (In modern times, operating systems use other instructions like MWAIT】80386 HLT指令告诉CPU停止执行说明，直到发生硬件中断为止。传统上，这是操作系统没有工作要做的指令，允许CPU进入低功率模式。 （在现代，操作系统使用其他说明，例如MWAIT</description>
+      <pubDate>Mon, 08 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【The case of the crash on a null pointer even though we checked it for null】即使我们检查了null的零件，坠机指针上的崩溃案件即</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250905-00/?p=111560</link>
       <description>【A colleague was investigating a crash. The stack at the point of the crash looks like this: contoso!winrt::impl::consume_Windows_Foundation_Collections_IVectorView&amp;lt; winrt::Windows::Foundation::Collections::IVectorView&amp;lt;int&amp;gt;, int&amp;gt;::Size+0x30 contoso!winrt::Contoso::implementation::Widget::】一位同事正在调查撞车事故。坠机点的堆栈看起来像这样：contoso！winrt :: inmp.:: councume_windows_foundation_collections_ivectorview &lt;winrt :: Windows :: Foundation :: Foundation :: collections :: collections :: IvectorView &lt;int&gt; &lt;int&gt;，int&gt;，int&gt;，int&gt;，int&gt;，size+0x30 contoso！</description>
@@ -14,54 +62,6 @@
       <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2025</link>
       <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.08.27 registry release as well as changes to vcpkg documentation throughout August. There were no tool chang】该博客文章总结了VCPKG软件包管理器的更改，作为2025.08.27注册表版本的一部分，以及整个8月的VCPKG文档的更改。没有工具chang</description>
       <pubDate>Fri, 05 Sep 2025 03:24:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI】使用Azure容器应用程序和Azure Openai构建您自己的Microsoft Docs AI助手</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai</link>
-      <description>【Learn how to deploy a self-hosted AI assistant that leverages Microsoft Learn content via the Model Context Protocol (MCP) and Azure OpenAI. It’s fast, secure, and ready for developer use in real-world apps. Prerequisite】了解如何部署自托管的AI助手，该AI助手通过模型上下文协议（MCP）和Azure Openai来利用Microsoft学习内容。它是快速，安全的，并且可以在现实世界应用中使用开发人员使用。先决条件</description>
-      <pubDate>Thu, 04 Sep 2025 22:09:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【🎉Enhancing security and streamlining configuration with Lab Secrets in Azure DevTest Labs】Azure DevTest实验室中的实验室秘密增强安全性和简化配置</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/%f0%9f%8e%89enhancing-security-and-streamlining-configuration-with-lab-secrets-in-azure-devtest-labs</link>
-      <description>【For platform engineers, securely managing sensitive information across dev and test environments is a critical responsibility. Each workflow, from provisioning virtual machines to deploying artifacts and automating environment setup, often involves handling credentials, SSH keys, and API tokens.】对于平台工程师，在开发环境和测试环境中安全管理敏感信息是一项至关重要的责任。从配置虚拟机到部署工件和自动化环境设置的每个工作流程通常都涉及处理凭据，SSH键和API令牌。</description>
-      <pubDate>Thu, 04 Sep 2025 18:37:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I write a C++/WinRT &lt;CODE&gt;IAsyncOperation&lt;T&gt;&lt;/CODE&gt; where &lt;CODE&gt;T&lt;/CODE&gt; is not a Windows Runtime type?, part 2】如何编写C ++/Winrt &lt;code&gt; iaSyncoperation &lt;t&gt; &lt;/code&gt;其中&lt;code&gt; t &lt;/code&gt;不是Windows运行时类型？，第2部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250904-00/?p=111557</link>
-      <description>【Last time, we smuggled an arbitrary C++ value inside an IInspectable but noted the lack of safety. So let&#39;s add some safety. To ensur】上次，我们走私了一个可观的C ++值，但注意到缺乏安全性。因此，让我们添加一些安全性。确保</description>
-      <pubDate>Thu, 04 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Make Sense of Your Output Window with Copilot】用副驾驶员弄清输出窗口</title>
-      <link>https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot</link>
-      <description>【Ever found yourself staring at the Output Window, overwhelmed by endless lines of logs and cryptic messages? You&#39;re】有没有发现自己盯着输出窗口，被无尽的日志和隐秘消息淹没了吗？ 你</description>
-      <pubDate>Thu, 04 Sep 2025 12:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New Test Run Hub in Azure Test Plans】Azure测试计划中的新测试中心</title>
-      <link>https://devblogs.microsoft.com/devops/new-test-run-hub</link>
-      <description>【Delivering high-quality software is a necessity and that’s why Azure Test Plans has introduced the all-new Test Run Hub, an enabler for teams who want to take control of their testing process and drive continuous improvement.】提供高质量的软件是必要的，这就是为什么Azure测试计划推出了全新的测试枢纽，这是想要控制其测试过程并推动持续改进的团队的推动力。</description>
-      <pubDate>Thu, 04 Sep 2025 09:58:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v1.1 with improved support for Microsoft Graph batching】开发代理v1.1，并改善了对Microsoft Graph批处理的支持</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v1-1-with-improved-support-for-microsoft-graph-batching</link>
-      <description>【We&#39;re excited to announce the release of Dev Proxy v1.1. This update delivers critical fixes for Microsoft Graph batch request simulation, resolves authentication plugin issues, and enhances the MinimalPermissionsGuidancePlugin with new reporting capabilities. In this version: Fixed Microsoft Graph batch response handling】我们很高兴宣布发行Dev Proxy v1.1。此更新为Microsoft Graph Batch请求模拟提供了关键修复，解决了身份验证插件问题，并通过新的报告功能增强了最小的PermissionsGuidancePlugin。在此版本中：固定的Microsoft Graph批处理响应处理</description>
-      <pubDate>Thu, 04 Sep 2025 07:54:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.25.1-1 and 1.24.7-1 Microsoft builds now available】GO 1.25.1-1和1.24.7-1 Microsoft现在可用</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-1-1-and-1-24-7-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】现在可以下载Microsoft Go Build的新版本。有关此版本和包括更改的更多信息，请参见下表：Microsoft版本上游标签</description>
-      <pubDate>Thu, 04 Sep 2025 03:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Let Copilot Coding Agent handle the busy work】让Copilot编码代理处理繁忙的工作</title>
-      <link>https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet</link>
-      <description>【The GitHub Copilot Coding Agent changes how .NET developers get work done. Beyond inline suggestions, it can analyze your repo, plan multi‑step tasks, create issues and pull requests, and carry changes across projects—all in the cloud. In this post, we’ll show two concrete scenarios using the eShopLite sample: automatically creating miss】GitHub副副代理改变了.NET开发人员完成工作的方式。除了内联建议之外，它可以分析您的回购，计划多步骤任务，创建问题并提取请求，并在项目中进行更改 - 所有这些都在云中。在这篇文章中，我们将使用Eshoplite样本显示两个具体方案：自动创建MISS</description>
-      <pubDate>Wed, 03 Sep 2025 17:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

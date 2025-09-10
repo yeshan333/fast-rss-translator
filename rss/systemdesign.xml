@@ -5,6 +5,12 @@
     <description>Download my system design playbook for free on newsletter signup</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【7 Best Practices for API Design 🔥】API设计的7种最佳实践🔥</title>
+      <link>https://newsletter.systemdesign.one/p/best-practices-for-api-design</link>
+      <description>【#86: Break into API design (8 Minutes)】＃86：闯入API设计（8分钟）</description>
+      <pubDate>Sun, 07 Sep 2025 11:00:37 +0000</pubDate>
+    </item>
+    <item>
       <title>【API Gateway vs Load Balancer vs Reverse Proxy 🌟】API网关与负载平衡器与反向代理🌟</title>
       <link>https://newsletter.systemdesign.one/p/api-gateway-load-balancer-reverse-proxy</link>
       <description>【#85: Break Into Edge Architecture (4 Minutes)】＃85：闯入边缘体系结构（4分钟）</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/forward-proxy-vs-reverse-proxy</link>
       <description>【#77: Break Into Proxy Servers (4 Minutes)】＃77：闯入代理服务器（4分钟）</description>
       <pubDate>Fri, 11 Jul 2025 11:36:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Reddit Works 🔥】Reddit的工作方式🔥</title>
-      <link>https://newsletter.systemdesign.one/p/reddit-architecture</link>
-      <description>【#76: Break Into Reddit Architecture for 100M Daily Users (5 Minutes)】＃76：每天使用1亿用户的Reddit体系结构（5分钟）</description>
-      <pubDate>Thu, 03 Jul 2025 12:07:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
