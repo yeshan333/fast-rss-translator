@@ -30,20 +30,8 @@
     <item>
       <title>【Automating threat analysis and response with Cloudy 】自动化威胁分析和多云的响应</title>
       <link>https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/</link>
-      <description>【 Cloudy now supercharges analytics investigations and Cloudforce One threat intelligence! Get instant insights from threat events and APIs on APTs, DDoS, cybercrime &amp; more - powered by Workers AI. 】Cloudy现在增强了分析调查和CloudForce一个威胁情报！从威胁事件和API中获得有关APTS，DDOS，Cyber​​Crime等的API的即时见解 - 由工人AI提供支持。</description>
+      <description>【 Cloudy now supercharges analytics investigations and Cloudforce One threat intelligence! Get instant insights from threat events and APIs on APTs, DDoS, cybercrime &amp; more - powered by Workers AI. 】Cloudy现在增强了分析调查和Cloudforce一个威胁情报！从威胁事件和API中获得有关APTS，DDOS，Cyber​​Crime等的API的即时见解 - 由工人AI提供支持。</description>
       <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
-      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
-      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
-      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
-      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals】爬网差距：AI机器人，培训和推荐的CloudFlare数据</title>
@@ -55,6 +43,18 @@
       <title>【Cloudy Summarizations of Email Detections: Beta Announcement】电子邮件检测的多云汇总：Beta公告</title>
       <link>https://blog.cloudflare.com/cloudy-driven-email-security-summaries/</link>
       <description>【 We&#39;re now leveraging our internal LLM, Cloudy, to generate automated summaries within our Email Security product, helping SOC teams better understand what&#39;s happening within flagged messages. 】现在，我们利用我们的内部LLM Cloudy来生成我们的电子邮件安全产品中的自动摘要，帮助SOC团队更好地了解标记的消息中正在发生的事情。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
+      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
+      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
+      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
+      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
     <item>

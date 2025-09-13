@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Start Learning AI — Our New YouTube Channel is Live】开始学习AI  - 我们的新YouTube频道是现场</title>
+      <link>https://blog.bytebytego.com/p/start-learning-ai-our-youtube-channel</link>
+      <description>【BIG announcement: We&amp;#8217;ve launched a new YouTube channel to make learning AI easier &amp;#8212; ByteByteAI!】大公告：我们启动了一个新的YouTube频道，以使学习更容易 -  Bytebyteai！</description>
+      <pubDate>Fri, 12 Sep 2025 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Consistent Hashing 101: How Modern Systems Handle Growth and Failure】一致的散列101：现代系统如何处理增长和失败</title>
+      <link>https://blog.bytebytego.com/p/consistent-hashing-101-how-modern</link>
+      <description>【In the world of distributed systems, one of the hardest problems isn&amp;#8217;t just storing or retrieving data.】在分布式系统的世界中，最困难的问题之一不仅是存储或检索数据。</description>
+      <pubDate>Thu, 11 Sep 2025 15:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How DoorDash uses AI Models to Understand Restaurant Menus】Doordash如何使用AI模型来了解餐厅菜单</title>
+      <link>https://blog.bytebytego.com/p/how-doordash-uses-ai-models-to-understand</link>
+      <description>【The technical goal of their project was clear: achieve accurate transcription of menu photos into structured menu data while keeping latency and cost low enough for production at scale.】他们项目的技术目标是明确的：将菜单照片的准确转录到结构化菜单数据中，同时保持延迟和成本低以进行大规模生产。</description>
+      <pubDate>Wed, 10 Sep 2025 15:30:09 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Netflix Tudum Supports 20 Million Users With CQRS】Netflix Tudum如何为2000万用户提供CQRS</title>
       <link>https://blog.bytebytego.com/p/how-netflix-tudum-supports-20-million</link>
       <description>【We will look at the evolution of this design decision and how Netflix went about implementing it.】我们将研究该设计决定的演变以及Netflix如何实施它。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/a-detailed-guide-to-content-delivery</link>
       <description>【On the modern web, speed is a critical factor.】在现代网络上，速度是关键因素。</description>
       <pubDate>Thu, 28 Aug 2025 15:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP177: The Modern Software Stack】EP177：现代软件堆栈</title>
-      <link>https://blog.bytebytego.com/p/ep177-the-modern-software-stack</link>
-      <description>【In today&amp;#8217;s world, building software means working across multiple layers, each with its own role, tools, and technologies.】在当今的世界中，构建软件意味着跨多层工作，每个层都具有自己的角色，工具和技术。</description>
-      <pubDate>Sat, 23 Aug 2025 15:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top Strategies to Improve Reliability in Distributed Systems】提高分布式系统可靠性的最佳策略</title>
-      <link>https://blog.bytebytego.com/p/top-strategies-to-improve-reliability</link>
-      <description>【In this article, we will take a closer look at strategies that can help improve the reliability of a system.】在本文中，我们将仔细研究可以帮助提高系统可靠性的策略。</description>
-      <pubDate>Thu, 21 Aug 2025 15:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Reddit Delivers Notifications to Tens of Millions of Users】Reddit如何向数千万用户提供通知</title>
-      <link>https://blog.bytebytego.com/p/how-reddit-delivers-notifications</link>
-      <description>【Push notifications carry a double-edged sword in the design of any product. Done well, these notifications reconnect users with content they care about.】推送通知在任何产品的设计中都带有双刃剑。做得很好，这些通知将用户与他们关心的内容重新连接。</description>
-      <pubDate>Tue, 19 Aug 2025 15:30:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

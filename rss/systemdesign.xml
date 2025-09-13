@@ -5,6 +5,12 @@
     <description>Download my system design playbook for free on newsletter signup</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【9 Best Practices for API Security ⚔️】API安全的9最佳实践⚔️</title>
+      <link>https://newsletter.systemdesign.one/p/api-security-best-practices</link>
+      <description>【#87: Break Into API Security (7 Minutes)】＃87：闯入API安全性（7分钟）</description>
+      <pubDate>Fri, 12 Sep 2025 09:16:11 +0000</pubDate>
+    </item>
+    <item>
       <title>【7 Best Practices for API Design 🔥】API设计的7种最佳实践🔥</title>
       <link>https://newsletter.systemdesign.one/p/best-practices-for-api-design</link>
       <description>【#86: Break into API design (8 Minutes)】＃86：闯入API设计（8分钟）</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/how-to-do-code-review</link>
       <description>【#78: How Great Software Engineers Do Code Reviews (4 Minutes)】＃78：伟大的软件工程师如何进行代码评论（4分钟）</description>
       <pubDate>Fri, 25 Jul 2025 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Forward Proxy vs Reverse Proxy ✨】正向代理与反向代理✨</title>
-      <link>https://newsletter.systemdesign.one/p/forward-proxy-vs-reverse-proxy</link>
-      <description>【#77: Break Into Proxy Servers (4 Minutes)】＃77：闯入代理服务器（4分钟）</description>
-      <pubDate>Fri, 11 Jul 2025 11:36:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

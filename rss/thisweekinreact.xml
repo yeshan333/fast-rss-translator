@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #249: TanStack, Fast-Refresh, MDX, Storybook, nuqs, AI Elements, Three-Fiber | Expo, Legend List, Uniwind, New Arch, Rock, Screens, IAP, Glass, Sound, NavigationBar | Interop, Linting, Safari】本周在React＃249中：Tanstack，Fast-Refresh，MDX，Storybook，NUQS，AI元素，三纤维|博览会，传奇名单，Uniwind，New Arch，Rock，Screens，IAP，Glass，Sound，NavigationBar | Interop，linting，Safari</title>
+      <link>https://thisweekinreact.com/newsletter/249</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #248: Compiler, Next.js, Activity, Forket, Vite, shadcn, React Aria, BaseUI, RTK | RN 1.0?, Nightly testing, Autolinking, Reanimated, Ottrelite, Liquid Glass, Radon | WebMCP, Node, Ripple, View Transitions】本周在React＃248中：编译器，Next.js，活动，forket，vite，shadcn，react aria，baseui，rtk | RN 1.0？，夜间测试，自动联系，复兴，ottrelite，液体玻璃，ra | WebMCP，节点，波纹，查看过渡</title>
       <link>https://thisweekinreact.com/newsletter/248</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/245</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #244: React Router, Compiler, Next.js, TanStack, JSX, Storybook | Reanimated, Hermes, Keyboard Controller, Screens, Node-API, Shimmer | TC39, tsgolint, Bun, Better-Auth, WebGPU】本周在React＃244中：React Router，编译器，Next.js，Tanstack，JSX，Storybook |复活，爱马仕，键盘控制器，屏幕，节点-API，微光| TC39，Tsgolint，Bun，Better-auth，WebGPU</title>
-      <link>https://thisweekinreact.com/newsletter/244</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
