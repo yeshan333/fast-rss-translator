@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #494】SRE周刊＃494</title>
+      <link>https://sreweekly.com/sre-weekly-issue-494/</link>
+      <description>【View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I&amp;#8217;m on medical leave. If all goes to plan, I&amp;#8217;ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you&amp;#8217;re interested, I invite [&amp;#8230;]】在我休病假期间，在Sreweekly.com上查看SRE周刊将在接下来的6周内休息。如果一切都计划在计划中，我将在本周晚些时候为亲人捐赠肾脏，减少我的内部冗余，以帮助他们应对自己的内部肾脏事件。如果您有兴趣，我邀请[…]</description>
+      <pubDate>Mon, 15 Sep 2025 01:49:10 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #493】SRE周刊＃493</title>
       <link>https://sreweekly.com/sre-weekly-issue-493/</link>
       <description>【View on sreweekly.com A message from our sponsor, Shipfox: Shipfox supercharges GitHub Actions &amp;#8211; no workflow changes, 30-min setup. 2x faster builds with better CPU, faster disks &amp;#38; high-throughput caching 75% lower costs with shorter jobs and better price-per-performance Full CI observability with test/job speed and reliability 👉 See how it works: https://www.shipfox.io?utm_source=SREWeekly&amp;#38;utm_campaign=issue493 Reverse Proxy [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商ShipFox：ShipFox增压github Actions的消息 - 没有工作流程更改，30分钟的设置。 2倍更快的构建速度更快，更快的CPU，更快的磁盘和高通量缓存，成本较短，较短的成本降低了，并且较短的价格和按测试/工作速度和可靠性更好的完整CI完整可观察性，请参阅其工作方式：https：///www.sophyfox.ioship.iosefm_sorcequct.srewsrecrectectuctucce=srewsrect = srewsrewsrew =</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-490/</link>
       <description>【View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商，Observe，Inc。的消息：建立在可扩展的，具有成本效益的数据湖上，Obseres在大规模上提供了AI驱动的可观察性。凭借其上下文感知的知识图和AI SRE，可以观察到Capital One，TopGolf和Dialpad每天摄入数百个Terabytes，并更快地解决问题，这要降低成本的较低。了解观察是如何[…]</description>
       <pubDate>Mon, 18 Aug 2025 02:33:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #489】SRE周刊＃489</title>
-      <link>https://sreweekly.com/sre-weekly-issue-489/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe&amp;#8216;s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale &amp;#8211; from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more [&amp;#8230;]】在Sreweekly.com上查看我们的赞助商，Observe，Inc.。的消息：观察免费的大师班的观察性大规模可观察到了太平洋的9月4日上午10点！我们将探讨如何在大规模构建可观察性 - 从遥测和开放数据湖到主动地启用您的代码和表面见解的AI代理。了解更多 […]</description>
-      <pubDate>Mon, 11 Aug 2025 02:21:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

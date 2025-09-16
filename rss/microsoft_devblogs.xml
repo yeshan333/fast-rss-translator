@@ -4,6 +4,36 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Diving Into Spec-Driven Development With GitHub Spec Kit】通过GitHub规格套件潜入规格驱动的开发</title>
+      <link>https://devblogs.microsoft.com/blog/spec-driven-development-spec-kit</link>
+      <description>【Developers are increasingly relying on AI agents to both build new software as well as extend capabilities of existing projects that they support. One challenge with AI-based systems, however, is that to produce the right output you need to first establish really good context. If you don&#39;t decide what you&#39;re building and why you&#39;re bu】开发人员越来越依靠AI代理来构建新软件，并扩展了他们支持的现有项目的功能。但是，基于AI的系统的一个挑战是，要产生正确的输出，您首先建立了非常好的上下文。如果您不决定要建造的内容以及为什么</description>
+      <pubDate>Mon, 15 Sep 2025 21:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code - September 2025 Release】Visual Studio代码中的Python- 2025年9月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2025-release</link>
+      <description>【We&#39;re excited to announce the September 2025 release of the Python, Pylance and Jupyter】我们很高兴宣布2025年9月的Python，Pylance和Jupyter发布</description>
+      <pubDate>Mon, 15 Sep 2025 18:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Application Insights Code Optimizations for .NET Apps】应用程序见解.NET应用程序的代码优化</title>
+      <link>https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations</link>
+      <description>【As engineers we know how frustrating it can be to chase and fix performance issues without clear guidance. That’s why we built Application Insights Code Optimizations — to give you actionable insights, reduce the guesswork, and help you focus on what you do best: building great software.】作为工程师，我们知道在没有明确指导的情况下追逐和解决绩效问题会有多么令人沮丧。这就是为什么我们构建了应用程序见解代码优化的原因 - 为您提供可行的见解，减少猜测并帮助您专注于最佳的工作：构建出色的软件。</description>
+      <pubDate>Mon, 15 Sep 2025 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?】为什么Microsoft Wireless笔记本电脑主持人鼠标的名称8000在蓝牙驱动程序中进行了硬编码？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599</link>
+      <description>【Some time ago, people noticed that buried in the Windows Bluetooth drivers is the hard-coded name of the Microsoft Wireless Notebook Presenter Mouse 8000. What&#39;s going on there? Does the Microsoft Wireless Notebook Presenter Mouse 8000 receive favorable treatment from the Microsoft Bluetooth drivers? Is this some sort of collusion?】不久前，人们注意到埋在Windows蓝牙驱动程序中的是Microsoft Wireless Notebook主持人Mouse 8000的硬编码名称。那里发生了什么？ Microsoft Wireless Notebook主持人Mouse 8000是否从Microsoft蓝牙驱动程序获得有利的治疗方法？这是某种勾结吗？</description>
+      <pubDate>Mon, 15 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing auto model selection (preview)】引入自动模型选择（预览）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/introducing-auto-model-selection-(preview)</link>
+      <description>【Use auto model selection in VS Code to get faster responses, reduced rate limiting, and a 10% discount on premium requests for paid users. Read the full article】在VS代码中使用自动模型选择，以获得更快的响应，降低的利率限制以及付费用户的高级请求折扣10％。阅读全文</description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How can I convert a third party in-process server so it runs in the COM surrogate?】如何转换第三方过程中的服务器，以便在COM代理中运行？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20250912-00/?p=111589</link>
       <description>【A customer had an app with a plugin model based on vendor-supplied COM objects that are loaded into the process via Co­Create­Instance. Main process】客户的应用程序具有基于供应商提供的com对象的插件模型，该应用程序通过cocreateinStance加载到该过程中。主要过程</description>
@@ -32,36 +62,6 @@
       <link>https://devblogs.microsoft.com/vscode-blog/august-2025-(version-1.104)</link>
       <description>【Learn what is new in the Visual Studio Code August 2025 Release (1.104) Read the full article】了解2025年8月版本的视觉工作室代码中的新内容（1.104）阅读全文</description>
       <pubDate>Thu, 11 Sep 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Democratizing Performance: The Copilot Profiler Agent in Action on Real Code】民主化的绩效：副驾率的代理商在实际代码上行动</title>
-      <link>https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio</link>
-      <description>【[alert type=&#34;tip&#34; heading=&#34;Watch behind the scenes of the Profiler Agent&#34;]Head on over to the Copilot Profiler Agent to watch.[/alert]】[Alert Type =“ Tip”标题=“观看Profiler Agent的幕后”]直接前往Copilot Profiler代理。[/ALERT]</description>
-      <pubDate>Thu, 11 Sep 2025 16:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why can&#39;t &lt;CODE&gt;std::apply&lt;/CODE&gt; figure out which overload I intend to use? Only one of then will work!】为什么&lt;code&gt; std :: Apply &lt;/code&gt;找出我打算使用哪种过载？当时只有一个会起作用！</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250911-00/?p=111586</link>
-      <description>【Consider the following: void f(int, int); void f(char*, char*); void test(std::tuple&amp;lt;int, int&amp;gt; t) { std::apply(f, t); // error } The compiler complains that it cannot deduce the type of the first parameter. I&#39;m using std::apply here, but the same arguments apply to functions like】考虑以下内容：void f（int，int）； void f（char*，char*）; void Test（std :: tuple &lt;int，int&gt; t）{std :: apply（f，t）; //错误}编译器抱怨它不能推断出第一个参数的类型。我正在使用std :: apply在这里，但是同样的论点也适用于诸如此类的函数</description>
-      <pubDate>Thu, 11 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Storage APIs gain Entra ID and RBAC support】Azure Storage API增益ENTRA ID和RBAC支持</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-storage-apis-gain-entra-id-and-rbac-support</link>
-      <description>【API Updates To align with security best practices, Microsoft Entra ID and RBAC (role-based access control) support is now generally available for the following Azure Storage data plane APIs: Get Ac】API更新与安全性最佳实践保持一致，Microsoft Entra ID和RBAC（基于角色的访问控制）支持现在通常可用于以下Azure存储数据平面API：获取AC</description>
-      <pubDate>Wed, 10 Sep 2025 18:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The documentation says that CompanyName version information is required, but my program seems to work without it, so how required is it?】该文档说需要公司名称信息，但是我的程序似乎没有它，所以这是如何要求的？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250910-00/?p=111582</link>
-      <description>【A customer observed that the documentation for version resources describes strings like CompanyName and ProductName as &#34;required&#34;. But they found that if they omitted those strings, nothing bad seemed to happen】客户观察到版本资源的文档将诸如公司名称和productname之类的字符串描述为“必需”。但是他们发现，如果他们省略了这些琴弦，似乎没有什么坏事发生</description>
-      <pubDate>Wed, 10 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C++ Language Updates in MSVC Build Tools v14.50】MSVC构建工具中的C ++语言更新v14.50</title>
-      <link>https://devblogs.microsoft.com/cppblog/c-language-updates-in-msvc-build-tools-v14-50</link>
-      <description>【C++ Language Updates in MSVC Build Tools v14.50 It has been some time since we have provided an update on MSVC progress, and this one comes with the latest major update to our IDE: Visual Studio 2026 version 18.0. This version of Visual Studio ships with the MSVC Build Tools version 14.50, which incl】MSVC构建工具中的C ++语言更新v14.50自从我们提供了MSVC进度的更新以来，已经有一段时间了，这是我们IDE的最新主要更新：Visual Studio 2026版本18.0。此版本的Visual Studio带有MSVC构建工具版本14.50，其中包括</description>
-      <pubDate>Wed, 10 Sep 2025 13:51:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

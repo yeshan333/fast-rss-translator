@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Linear Implemented Multi-Region Support For Customers】线性如何为客户实施多区域支持</title>
+      <link>https://blog.bytebytego.com/p/how-linear-implemented-multi-region</link>
+      <description>【In this article, we look at how Linear implemented multi-region support for its customers. We will explore the architecture they built, along with the technical implementation details.】在本文中，我们研究了如何为客户实施多区域支持。我们将探索他们构建的体系结构以及技术实施细节。</description>
+      <pubDate>Mon, 15 Sep 2025 15:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP180: Python vs Java】EP180：Python vs Java</title>
+      <link>https://blog.bytebytego.com/p/ep180-design-patterns-cheat-sheet</link>
+      <description>【The cheat sheet briefly explains each pattern and how to use it.】备忘单简要说明了每个模式以及如何使用它。</description>
+      <pubDate>Sat, 13 Sep 2025 15:31:25 +0000</pubDate>
+    </item>
+    <item>
       <title>【Start Learning AI — Our New YouTube Channel is Live】开始学习AI  - 我们的新YouTube频道是现场</title>
       <link>https://blog.bytebytego.com/p/start-learning-ai-our-youtube-channel</link>
       <description>【BIG announcement: We&amp;#8217;ve launched a new YouTube channel to make learning AI easier &amp;#8212; ByteByteAI!】大公告：我们启动了一个新的YouTube频道，以使学习更容易 -  Bytebyteai！</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-dropbox-built-an-ai-product-dash</link>
       <description>【In this article, we look at how Dropbox leveraged RAG and AI Agents to make Dash a reality.】在本文中，我们研究了Dropbox如何利用抹布和AI代理使DASH成为现实。</description>
       <pubDate>Tue, 02 Sep 2025 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP178: The Lifecycle of a Kubernetes Pod】EP178：Kubernetes Pod的生命周期</title>
-      <link>https://blog.bytebytego.com/p/ep178-the-lifecycle-of-a-kubernetes</link>
-      <description>【What else will you add to understand the Kubernetes Pod Lifecycle?】您还可以添加什么来了解Kubernetes Pod生命周期？</description>
-      <pubDate>Sat, 30 Aug 2025 15:49:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Detailed Guide to Content Delivery Networks】内容交付网络的详细指南</title>
-      <link>https://blog.bytebytego.com/p/a-detailed-guide-to-content-delivery</link>
-      <description>【On the modern web, speed is a critical factor.】在现代网络上，速度是关键因素。</description>
-      <pubDate>Thu, 28 Aug 2025 15:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
