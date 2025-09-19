@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Diving Into Spec-Driven Development With GitHub Spec Kit】通过GitHub规格套件潜入规格驱动的开发</title>
-      <link>https://devblogs.microsoft.com/blog/spec-driven-development-spec-kit</link>
-      <description>【Developers are increasingly relying on AI agents to both build new software as well as extend capabilities of existing projects that they support. One challenge with AI-based systems, however, is that to produce the right output you need to first establish really good context. If you don&#39;t decide what you&#39;re building and why you&#39;re bu】开发人员越来越依靠AI代理来构建新软件，并扩展了他们支持的现有项目的功能。但是，基于AI的系统的一个挑战是，要产生正确的输出，您首先建立了非常好的上下文。如果您不决定要建造的内容以及为什么</description>
-      <pubDate>Mon, 15 Sep 2025 21:19:55 +0000</pubDate>
+      <title>【AI-Assisted Development powered by Local Models】由本地模型提供支持的AI辅助开发</title>
+      <link>https://devblogs.microsoft.com/foundry/ai-assisted-development-powered-by-local-models</link>
+      <description>【Developers have long struggled with concerns about data privacy, restrictive cloud dependencies, and limited control over their AI tools—especially when working on sensitive projects or within regulated industries. Now, with the excitement surrounding local models, you can harness AI directly on your device, ensuring your data stays private】长期以来，开发人员一直在担心数据隐私，限制性云依赖性以及对其AI工具的控制有限，尤其是在从事敏感项目或受监管行业内部工作时。现在，有了围绕当地模型的兴奋，您可以直接在设备上利用AI，确保数据保持私密</description>
+      <pubDate>Thu, 18 Sep 2025 19:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Python in Visual Studio Code - September 2025 Release】Visual Studio代码中的Python- 2025年9月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2025-release</link>
-      <description>【We&#39;re excited to announce the September 2025 release of the Python, Pylance and Jupyter】我们很高兴宣布2025年9月的Python，Pylance和Jupyter发布</description>
-      <pubDate>Mon, 15 Sep 2025 18:22:18 +0000</pubDate>
+      <title>【The new GitHub app for Teams: from conversation to code】新的GitHub应用程序：从对话到代码</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/copilot-powered-github-app-for-teams-preview</link>
+      <description>【Meet the reimagined GitHub app for Teams: an AI-powered app to collaborate with GitHub Copilot right inside your Teams conversations. This initial release focuses on the Copilot coding agent, which was built to translate conversations into code and pull requests. This is the first step toward bringing the full power】与重新构想的GITHUB应用程序相遇：一个由AI驱动的应用程序，可与团队对话中的Github Copilot合作。此初始版本的重点是副本编码代理，该代理旨在将对话转化为代码和拉出请求。这是带来全力的第一步</description>
+      <pubDate>Thu, 18 Sep 2025 16:40:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Application Insights Code Optimizations for .NET Apps】应用程序见解.NET应用程序的代码优化</title>
-      <link>https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations</link>
-      <description>【As engineers we know how frustrating it can be to chase and fix performance issues without clear guidance. That’s why we built Application Insights Code Optimizations — to give you actionable insights, reduce the guesswork, and help you focus on what you do best: building great software.】作为工程师，我们知道在没有明确指导的情况下追逐和解决绩效问题会有多么令人沮丧。这就是为什么我们构建了应用程序见解代码优化的原因 - 为您提供可行的见解，减少猜测并帮助您专注于最佳的工作：构建出色的软件。</description>
-      <pubDate>Mon, 15 Sep 2025 17:05:00 +0000</pubDate>
+      <title>【Can I close a duplicate handle while I&#39;m waiting on the original?】在等待原件时，我可以关闭重复的手柄吗？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250918-00/?p=111608</link>
+      <description>【In our study of the case of the invalid handle error when a handle is closed while a thread is waiting on it, Frederic Benoit】在我们对螺纹在等待时关闭手柄时无效的手柄错误的研究中，弗雷德里克·贝诺特</description>
+      <pubDate>Thu, 18 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?】为什么Microsoft Wireless笔记本电脑主持人鼠标的名称8000在蓝牙驱动程序中进行了硬编码？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599</link>
-      <description>【Some time ago, people noticed that buried in the Windows Bluetooth drivers is the hard-coded name of the Microsoft Wireless Notebook Presenter Mouse 8000. What&#39;s going on there? Does the Microsoft Wireless Notebook Presenter Mouse 8000 receive favorable treatment from the Microsoft Bluetooth drivers? Is this some sort of collusion?】不久前，人们注意到埋在Windows蓝牙驱动程序中的是Microsoft Wireless Notebook主持人Mouse 8000的硬编码名称。那里发生了什么？ Microsoft Wireless Notebook主持人Mouse 8000是否从Microsoft蓝牙驱动程序获得有利的治疗方法？这是某种勾结吗？</description>
-      <pubDate>Mon, 15 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【How can I get my shell thumbnail extractors to run in the same process?】如何在同一过程中让我的壳缩略图提取器运行？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250917-29/?p=111604</link>
+      <description>【We learned that Explorer uses the COM Surrogate as a sacrificial process when hosting thumbnail extraction plug-ins. A customer had a thumbnail extraction plug-in for which prepar】我们了解到，在托管缩略图提取插件时，Explorer使用COM代理作为牺牲过程。客户有一个缩略图提取插件</description>
+      <pubDate>Wed, 17 Sep 2025 18:21:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing auto model selection (preview)】引入自动模型选择（预览）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/introducing-auto-model-selection-(preview)</link>
-      <description>【Use auto model selection in VS Code to get faster responses, reduced rate limiting, and a 10% discount on premium requests for paid users. Read the full article】在VS代码中使用自动模型选择，以获得更快的响应，降低的利率限制以及付费用户的高级请求折扣10％。阅读全文</description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <title>【Record Scanner for vinyl collectors cuts costs with Azure Cosmos DB vector search】乙烯基收集器的记录扫描仪通过Azure Cosmos DB矢量搜索降低成本</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/record-scanner-for-vinyl-collectors-cuts-costs-with-azure-cosmos-db-vector-search</link>
+      <description>【by Artur Drozdz, Founder of Record Scanner (recordscanner.com) If you’re like me, there’s at least one room in your home with an entire cabinet dedicated to your growing vinyl collection. At this point, you’ve probably heard that vinyl is making a comeback, it’s not just vintage anymo】作者：Record Scanner（RecordScanner.com）的创始人Artur Drozdz，如果您像我一样，您家中至少有一个房间，整个橱柜都专门用于您不断增长的乙烯基收藏。在这一点上，您可能已经听说乙烯基正在卷土重来，而不仅仅是老式Anymo</description>
+      <pubDate>Wed, 17 Sep 2025 18:07:05 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I convert a third party in-process server so it runs in the COM surrogate?】如何转换第三方过程中的服务器，以便在COM代理中运行？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250912-00/?p=111589</link>
-      <description>【A customer had an app with a plugin model based on vendor-supplied COM objects that are loaded into the process via Co­Create­Instance. Main process】客户的应用程序具有基于供应商提供的com对象的插件模型，该应用程序通过cocreateinStance加载到该过程中。主要过程</description>
-      <pubDate>Fri, 12 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Getting the most out of MCP in Visual Studio with Prompts, Resources, and Sampling】通过提示，资源和采样</title>
+      <link>https://devblogs.microsoft.com/visualstudio/mcp-prompts-resources-sampling</link>
+      <description>【We&#39;re excited to announce that Visual Studio now supports MCP prompts, resources, and sampling (with even more coming soon!) to enhance your Copilot experience by bringing in more context from your engineering stack. These powerful new features unlock deeper integrations with your favorite tools and services, making your development workflow m】我们很高兴地宣布，Visual Studio现在支持MCP提示，资源和采样（即将推出更多！），以通过从工程堆栈中获得更多背景来增强您的副作用体验。这些强大的新功能与您喜欢的工具和服务取得了更深的集成，使您的开发工作流程M</description>
+      <pubDate>Wed, 17 Sep 2025 17:30:37 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft C++ Team at CppCon 2025】CPPCON 2025的Microsoft C ++团队</title>
-      <link>https://devblogs.microsoft.com/cppblog/microsoft-at-cppcon-2025</link>
-      <description>【&amp;nbsp; It&#39;s that time of year again! We are excited to see you all at CppCon this year, where we&#39;ll once again b】  又是一年中的那个时候！我们很高兴今年在CPPCon见到大家，我们将再次b</description>
-      <pubDate>Thu, 11 Sep 2025 22:41:21 +0000</pubDate>
+      <title>【Prompt Files and Instructions Files Explained】提示文件和说明文件解释了</title>
+      <link>https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained</link>
+      <description>【GitHub Copilot is transforming the way developers write code by acting as an intelligent coding agent directly in your editor. Whether you’re building ASP.NET web applications, working with C#, or reviewing code with your team, Copilot can help automate repetitive tasks, suggest entire functions, and streamline code reviews. In this guide, w】Github Copilot正在通过直接在编辑器中充当智能编码代理来改变开发人员编写代码的方式。无论您是构建ASP.NET Web应用程序，使用C＃还是与您的团队一起查看代码，Copilot都可以帮助自动化重复任务，建议整个功能并简化代码评论。在本指南中，W</description>
+      <pubDate>Wed, 17 Sep 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Shader Model 6.9 and The Future of Cooperative Vector】着色器6.9和合作矢量的未来</title>
-      <link>https://devblogs.microsoft.com/directx/shader-model-6-9-and-the-future-of-cooperative-vector</link>
-      <description>【Direct】直接的</description>
-      <pubDate>Thu, 11 Sep 2025 17:00:34 +0000</pubDate>
+      <title>【SQL Server 2025 RC1: faster DiskANN and FP16 support】SQL Server 2025 RC1：更快的Diskann和FP16支持</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-server-2025-rc1-faster-diskann-and-fp16-support</link>
+      <description>【We’re excited to announce major improvements to DiskANN in SQL Server 2025 RC1, making vector search faster, more scalable, and more storage-efficient than ever before. ⚡ Significantly Faster Index Builds Building DiskANN indexes is now considerably faster, thanks to】我们很高兴地宣布SQL Server 2025 RC1中Diskann的重大改进，使矢量搜索比以往任何时候都更快，更可扩展和更有效率。 ⚡明显更快的索引构建建筑物diskann索引现在要快得多，这要归功于</description>
+      <pubDate>Wed, 17 Sep 2025 16:05:23 +0000</pubDate>
     </item>
     <item>
-      <title>【August 2025 (version 1.104)】2025年8月（版本1.104）</title>
-      <link>https://devblogs.microsoft.com/external-blogs/august-2025-version-1-104</link>
-      <description>【Learn what is new in the Visual Studio Code August 2025 Release (1.104) Read the full article】了解2025年8月版本的视觉工作室代码中的新内容（1.104）阅读全文</description>
-      <pubDate>Thu, 11 Sep 2025 17:00:00 +0000</pubDate>
+      <title>【MSSQL Extension for VS Code: Fabric Integration and GitHub Copilot Slash Commands (Public Preview)】VS代码的MSSQL扩展名：Fabric Integration和GitHub Copilot Slash命令（公共预览）</title>
+      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-fabric-copilot</link>
+      <description>【The MSSQL Extension for VS Code continues to evolve, delivering features that make SQL development more integrated, more consistent, and more developer-friendly. In version v1.36.0, we’re announci】VS代码的MSSQL扩展程序继续发展，提供使SQL开发更加集成，更一致和更友好的功能。在版本v1.36.0中，我们是auceci</description>
+      <pubDate>Wed, 17 Sep 2025 16:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>【August 2025 (version 1.104)】2025年8月（版本1.104）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/august-2025-(version-1.104)</link>
-      <description>【Learn what is new in the Visual Studio Code August 2025 Release (1.104) Read the full article】了解2025年8月版本的视觉工作室代码中的新内容（1.104）阅读全文</description>
-      <pubDate>Thu, 11 Sep 2025 17:00:00 +0000</pubDate>
+      <title>【Ground Your Agents Faster with Native Azure AI Search Indexing in Foundry】用本地Azure AI搜索索引在Foundry中更快地将代理商接地</title>
+      <link>https://devblogs.microsoft.com/foundry/ground-your-agents-faster-native-azure-ai-search-indexing-foundry</link>
+      <description>【TL;DR Azure AI Foundry now lets you ingest data directly from Azure Blob Storage, ADLS Gen2, or Microsoft OneLake and create an Azure AI Search index in just one click.  When you create an agent in Azure AI Foundry one of the most powerf】TL; Dr Azure AI Foundry现在可以让您直接从Azure Blob存储，ADLS GEN2或Microsoft OneLake摄入数据，并在仅一键单击中创建Azure AI搜索索引。  当您在Azure AI铸造中创建代理时，最多的Powerf之一</description>
+      <pubDate>Wed, 17 Sep 2025 08:00:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

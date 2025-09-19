@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #250: Activity, React Router, CSS-in-JS, RSC, React-Query, useEffect | Expo, iOS blur, AI, Lynx, Squircle, DataList, Liquid Glass | TC39, pnpm, Bun, Browserslist, WebKit】本周React＃250：活动，React路由器，CSS-IN-JS，RSC，React-Query，使用效果|博览会，iOS Blur，AI，Lynx，squircle，Datalist，液体玻璃| TC39，PNPM，BUN，BrowserSlist，Webkit</title>
+      <link>https://thisweekinreact.com/newsletter/250</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #249: TanStack, Fast-Refresh, MDX, Storybook, nuqs, AI Elements, Three-Fiber | Expo, Legend List, Uniwind, New Arch, Rock, Screens, IAP, Glass, Sound, NavigationBar | Interop, Linting, Safari】本周在React＃249中：Tanstack，Fast-Refresh，MDX，Storybook，NUQS，AI元素，三纤维|博览会，传奇名单，Uniwind，New Arch，Rock，Screens，IAP，Glass，Sound，NavigationBar | Interop，linting，Safari</title>
       <link>https://thisweekinreact.com/newsletter/249</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/246</link>
       <description>【Hi everyone! Kacper and Krzysztof from Software Mansion here! 👋】大家好！ KACPER和KRZYSZTOF来自软件大厦！ 👋</description>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #245: TanStack, React Core, Next.js MCP, RSC, memo, Remix, Base UI, React Aria | Precompiled iOS, Rozenite, AI, Perf, Nitro, BottomSheet, Tinybase | TC39, TypeScript, Runtimes, Mocks】本周在React＃245：Tanstack，React Core，Next.JS MCP，RSC，Memo，Remix，Base UI，React Aria |预编译iOS，rozenite，ai，perf，nitro，底部表，tinybase | TC39，打字稿，运行时，模拟</title>
-      <link>https://thisweekinreact.com/newsletter/245</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

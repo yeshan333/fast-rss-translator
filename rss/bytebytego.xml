@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Understanding Load Balancers: Traffic Management at Scale】了解负载平衡器：大规模交通管理</title>
+      <link>https://blog.bytebytego.com/p/understanding-load-balancers-traffic</link>
+      <description>【When applications grow beyond a single server, they face the challenge of handling more users, more data, and more requests than one machine can manage.】当应用程序超越单个服务器时，他们面临着处理更多用户，更多的数据和更多请求的挑战，而不是一台计算机可以管理的挑战。</description>
+      <pubDate>Thu, 18 Sep 2025 15:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Become an AI Engineer | Learn by Doing | Cohort Based Course】成为AI工程师|通过做学习|基于队列的课程</title>
+      <link>https://blog.bytebytego.com/p/become-an-ai-engineer-learn-by-doing</link>
+      <description>【After months of preparation, I&amp;#8217;m thrilled to announce the launch of the very first cohort of Becoming an AI Engineer.】经过几个月的准备，我很高兴宣布成为AI工程师的第一个队列。</description>
+      <pubDate>Wed, 17 Sep 2025 15:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Anthropic Built a Multi-Agent Research System】人类如何构建多代理研究系统</title>
+      <link>https://blog.bytebytego.com/p/how-anthropic-built-a-multi-agent</link>
+      <description>【In this article, we will understand the architecture of the multi-agent research system that Anthropic built.】在本文中，我们将了解人类构建的多代理研究系统的架构。</description>
+      <pubDate>Tue, 16 Sep 2025 15:30:45 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Linear Implemented Multi-Region Support For Customers】线性如何为客户实施多区域支持</title>
       <link>https://blog.bytebytego.com/p/how-linear-implemented-multi-region</link>
       <description>【In this article, we look at how Linear implemented multi-region support for its customers. We will explore the architecture they built, along with the technical implementation details.】在本文中，我们研究了如何为客户实施多区域支持。我们将探索他们构建的体系结构以及技术实施细节。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-grab-built-an-authentication</link>
       <description>【Grab decided they needed one central system that would make authentication and authorization the same across all applications.】Grab决定他们需要一个中央系统，可以在所有应用程序中进行身份验证和授权。</description>
       <pubDate>Mon, 08 Sep 2025 15:31:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP179: Kubernetes Explained】EP179：Kubernetes解释了</title>
-      <link>https://blog.bytebytego.com/p/ep179-kubernetes-explained</link>
-      <description>【Kubernetes is the de facto standard for container orchestration.】Kubernetes是容器编排的事实上的标准。</description>
-      <pubDate>Sat, 06 Sep 2025 15:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Rate Limiting Strategies】费率限制策略指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-rate-limiting-strategies</link>
-      <description>【In this article, we will focus on the need for rate limiting and some practical rate limiting strategies that are used in different scenarios.】在本文中，我们将重点介绍在不同情况下使用的对利率限制和一些实用的利率限制策略的需求。</description>
-      <pubDate>Thu, 04 Sep 2025 15:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Dropbox Built an AI Product Dash with RAG and AI Agents】Dropbox如何与RAG和AI代理商建造AI产品破折号</title>
-      <link>https://blog.bytebytego.com/p/how-dropbox-built-an-ai-product-dash</link>
-      <description>【In this article, we look at how Dropbox leveraged RAG and AI Agents to make Dash a reality.】在本文中，我们研究了Dropbox如何利用抹布和AI代理使DASH成为现实。</description>
-      <pubDate>Tue, 02 Sep 2025 15:30:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

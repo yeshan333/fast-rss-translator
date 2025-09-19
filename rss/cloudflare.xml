@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Connect and secure any private or public app by hostname, not IP — free for everyone in Cloudflare One】通过主机名连接并保护任何私人或公共应用程序，而不是IP-对于CloudFlare中的每个人免费</title>
+      <link>https://blog.cloudflare.com/tunnel-hostname-routing/</link>
+      <description>【 Tired of IP Lists? Securely connect private networks to any app by its hostname, not its IP address. This routing is now built into Cloudflare Tunnel and is free for all Cloudflare One customers. 】厌倦了IP列表？通过其主机名而不是其IP地址将专用网络安全地连接到任何应用程序。该路由现在内置在Cloudflare隧道中，对于所有CloudFlare One客户都是免费的。</description>
+      <pubDate>Thu, 18 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The RUM Diaries: enabling Web Analytics by default】朗姆酒日记：默认启用Web分析</title>
+      <link>https://blog.cloudflare.com/the-rum-diaries-enabling-web-analytics-by-default/</link>
+      <description>【 On October 15th 2025, Cloudflare is enabling Web Analytics for all free domains by default—helping you see how your site performs around the world in real time, without ever collecting personal data. 】默认情况下，CloudFlare在2025年10月15日为所有自由域启用了Web分析，您可以看到您的网站在无需收集个人数据的情况下实时地在世界范围内的表现。</description>
+      <pubDate>Wed, 17 Sep 2025 19:21:27 +0000</pubDate>
+    </item>
+    <item>
       <title>【Integrating CrowdStrike Falcon Fusion SOAR with Cloudflare’s SASE platform】将CrowdStrike Falcon Fusion与Cloudflare的Sase平台集成</title>
       <link>https://blog.cloudflare.com/integrating-crowdstrike-falcon-fusion-soar-with-cloudflares-sase-platform/</link>
       <description>【 Cloudflare and CrowdStrike have partnered to help SOC teams minimize manual bottlenecks. By combining Cloudflare’s SASE platform with CrowdStrike’s Falcon® Fusion SOAR, security teams can now detect  】Cloudflare和CrowdStrike已合作，帮助SOC团队最大程度地减少手动瓶颈。通过将Cloudflare的Sase平台与CrowdStrike的Falcon®融合Soar相结合，安全团队现在可以检测到</description>
@@ -49,18 +61,6 @@
       <title>【Cloudy Summarizations of Email Detections: Beta Announcement】电子邮件检测的多云汇总：Beta公告</title>
       <link>https://blog.cloudflare.com/cloudy-driven-email-security-summaries/</link>
       <description>【 We&#39;re now leveraging our internal LLM, Cloudy, to generate automated summaries within our Email Security product, helping SOC teams better understand what&#39;s happening within flagged messages. 】现在，我们利用我们的内部LLM Cloudy来生成我们的电子邮件安全产品中的自动摘要，帮助SOC团队更好地了解标记的消息中正在发生的事情。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Troubleshooting network connectivity and performance with Cloudflare AI】使用CloudFlare AI进行故障排除网络连接和性能</title>
-      <link>https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/</link>
-      <description>【 Troubleshoot network connectivity issues by using Cloudflare AI-Power to quickly self diagnose and resolve WARP client and network issues. 】通过使用CloudFlare AI-Power快速自我诊断并解决翘曲客户端和网络问题来解决网络连接问题。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare is the best place to build realtime voice agents】CloudFlare是建造实时语音代理的最佳场所</title>
-      <link>https://blog.cloudflare.com/cloudflare-realtime-voice-ai/</link>
-      <description>【 Today, we&#39;re excited to announce new capabilities that make it easier than ever to build real-time, voice-enabled AI applications on Cloudflare&#39;s global network. 】如今，我们很高兴宣布新功能，这些功能比以往任何时候都更容易在Cloudflare的全球网络上构建实时的语音AI应用程序。</description>
       <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
