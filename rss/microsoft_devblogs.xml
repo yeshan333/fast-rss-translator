@@ -4,6 +4,12 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Learning to read C++ compiler errors: Not a legal base class】学习阅读C ++编译器错误：不是法律基础类</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250919-00/?p=111612</link>
+      <description>【A colleague was trying to create a Windows Runtime delegate with WRL. Here&#39;s a simplified version of what they wrote. namespace ABI { using namespace ABI::Windows::UI::ViewManagement; } struct MyClass : Microsoft::WRL::RuntimeClass&amp;lt;⟦...⟧&amp;gt; { HRESULT OnInputPaneShowing(ABI::InputPane* sender,】一位同事试图与WRL创建Windows Runtime委托。这是他们写的简化版本。命名空间ABI {使用名称空间ABI :: Windows :: UI :: ViewManagement; } struct myClass：Microsoft :: WRL :: runtimeclass &lt;⟦...⟧&gt; {hresult onInputPaneshowing（abi :: inputpane* sender，sender，</description>
+      <pubDate>Fri, 19 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【AI-Assisted Development powered by Local Models】由本地模型提供支持的AI辅助开发</title>
       <link>https://devblogs.microsoft.com/foundry/ai-assisted-development-powered-by-local-models</link>
       <description>【Developers have long struggled with concerns about data privacy, restrictive cloud dependencies, and limited control over their AI tools—especially when working on sensitive projects or within regulated industries. Now, with the excitement surrounding local models, you can harness AI directly on your device, ensuring your data stays private】长期以来，开发人员一直在担心数据隐私，限制性云依赖性以及对其AI工具的控制有限，尤其是在从事敏感项目或受监管行业内部工作时。现在，有了围绕当地模型的兴奋，您可以直接在设备上利用AI，确保数据保持私密</description>
@@ -56,12 +62,6 @@
       <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-fabric-copilot</link>
       <description>【The MSSQL Extension for VS Code continues to evolve, delivering features that make SQL development more integrated, more consistent, and more developer-friendly. In version v1.36.0, we’re announci】VS代码的MSSQL扩展程序继续发展，提供使SQL开发更加集成，更一致和更友好的功能。在版本v1.36.0中，我们是auceci</description>
       <pubDate>Wed, 17 Sep 2025 16:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Ground Your Agents Faster with Native Azure AI Search Indexing in Foundry】用本地Azure AI搜索索引在Foundry中更快地将代理商接地</title>
-      <link>https://devblogs.microsoft.com/foundry/ground-your-agents-faster-native-azure-ai-search-indexing-foundry</link>
-      <description>【TL;DR Azure AI Foundry now lets you ingest data directly from Azure Blob Storage, ADLS Gen2, or Microsoft OneLake and create an Azure AI Search index in just one click.  When you create an agent in Azure AI Foundry one of the most powerf】TL; Dr Azure AI Foundry现在可以让您直接从Azure Blob存储，ADLS GEN2或Microsoft OneLake摄入数据，并在仅一键单击中创建Azure AI搜索索引。  当您在Azure AI铸造中创建代理时，最多的Powerf之一</description>
-      <pubDate>Wed, 17 Sep 2025 08:00:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

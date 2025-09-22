@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP181: How Java Works】EP181：Java如何工作</title>
+      <link>https://blog.bytebytego.com/p/ep181-how-java-works</link>
+      <description>【Ever wondered what happens behind the scenes when you run a Java program?】有没有想过当您运行Java程序时幕后会发生什么？</description>
+      <pubDate>Sat, 20 Sep 2025 15:30:34 +0000</pubDate>
+    </item>
+    <item>
       <title>【Understanding Load Balancers: Traffic Management at Scale】了解负载平衡器：大规模交通管理</title>
       <link>https://blog.bytebytego.com/p/understanding-load-balancers-traffic</link>
       <description>【When applications grow beyond a single server, they face the challenge of handling more users, more data, and more requests than one machine can manage.】当应用程序超越单个服务器时，他们面临着处理更多用户，更多的数据和更多请求的挑战，而不是一台计算机可以管理的挑战。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-netflix-tudum-supports-20-million</link>
       <description>【We will look at the evolution of this design decision and how Netflix went about implementing it.】我们将研究该设计决定的演变以及Netflix如何实施它。</description>
       <pubDate>Tue, 09 Sep 2025 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Grab Built An Authentication System for 180+ Million Users】Grab如何为1.8亿以上用户建立了身份验证系统</title>
-      <link>https://blog.bytebytego.com/p/how-grab-built-an-authentication</link>
-      <description>【Grab decided they needed one central system that would make authentication and authorization the same across all applications.】Grab决定他们需要一个中央系统，可以在所有应用程序中进行身份验证和授权。</description>
-      <pubDate>Mon, 08 Sep 2025 15:31:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

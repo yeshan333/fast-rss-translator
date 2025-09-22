@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Cloudflare’s 2025 Annual Founders’ Letter】Cloudflare的2025年年度创始人信</title>
+      <link>https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/</link>
+      <description>【 Cloudflare launched 15 years ago. We like to celebrate our birthday by launching new products that give back to the Internet. But we&#39;ve also been thinking a lot about what&#39;s changed on the Internet. 】Cloudflare于15年前推出。我们喜欢通过推出回馈互联网的新产品来庆祝生日。但是我们也一直在考虑互联网上发生的变化。</description>
+      <pubDate>Sun, 21 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【You don’t need quantum hardware for post-quantum security】您不需要量子硬件即可进行量子后安全</title>
+      <link>https://blog.cloudflare.com/you-dont-need-quantum-hardware/</link>
+      <description>【 Post-quantum cryptography protects against quantum threats using today’s hardware. Quantum tech like QKD may sound appealing, but it isn’t necessary or sufficient to secure organizations. 】量子后密码学可保护使用当今硬件的量子威胁。像QKD这样的量子技术听起来可能很吸引人，但没有必要或足以保护组织。</description>
+      <pubDate>Fri, 19 Sep 2025 13:44:40 +0000</pubDate>
+    </item>
+    <item>
       <title>【Connect and secure any private or public app by hostname, not IP — free for everyone in Cloudflare One】通过主机名连接并保护任何私人或公共应用程序，而不是IP-对于CloudFlare中的每个人免费</title>
       <link>https://blog.cloudflare.com/tunnel-hostname-routing/</link>
       <description>【 Tired of IP Lists? Securely connect private networks to any app by its hostname, not its IP address. This routing is now built into Cloudflare Tunnel and is free for all Cloudflare One customers. 】厌倦了IP列表？通过其主机名而不是其IP地址将专用网络安全地连接到任何应用程序。该路由现在内置在Cloudflare隧道中，对于所有CloudFlare One客户都是免费的。</description>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/response-to-salesloft-drift-incident/</link>
       <description>【 An advanced threat actor, GRUB1, exploited the integration between Salesloft’s Drift chat agent and Salesforce to gain unauthorized access to Salesforce tenants of Cloudflare and many other companies. 】一位高级威胁参与者GRUB1利用了Salesloft的漂移聊天代理和Salesforce之间的集成，以获得未经授权的Cloudflare和许多其他公司的Salesforce租户的访问。</description>
       <pubDate>Tue, 02 Sep 2025 17:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automating threat analysis and response with Cloudy 】自动化威胁分析和多云的响应</title>
-      <link>https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/</link>
-      <description>【 Cloudy now supercharges analytics investigations and Cloudforce One threat intelligence! Get instant insights from threat events and APIs on APTs, DDoS, cybercrime &amp; more - powered by Workers AI. 】Cloudy现在增强了分析调查和Cloudforce一个威胁情报！从威胁事件和API中获得有关APTS，DDOS，Cyber​​Crime等的API的即时见解 - 由工人AI提供支持。</description>
-      <pubDate>Fri, 29 Aug 2025 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudy Summarizations of Email Detections: Beta Announcement】电子邮件检测的多云汇总：Beta公告</title>
-      <link>https://blog.cloudflare.com/cloudy-driven-email-security-summaries/</link>
-      <description>【 We&#39;re now leveraging our internal LLM, Cloudy, to generate automated summaries within our Email Security product, helping SOC teams better understand what&#39;s happening within flagged messages. 】现在，我们利用我们的内部LLM Cloudy来生成我们的电子邮件安全产品中的自动摘要，帮助SOC团队更好地了解标记的消息中正在发生的事情。</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
