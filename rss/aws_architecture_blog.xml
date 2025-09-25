@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>可扩展的，弹性数据库和搜索解决方案，用于构建的LancedB和Amazon S3的1B+向量</title>
+      <link>https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/</link>
+      <description></description>
+      <pubDate>Mon, 22 Sep 2025 17:15:44 +0000</pubDate>
+    </item>
+    <item>
       <title>通过具有成本意识的AWS KMS关键策略简化多租户加密</title>
       <link>https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/</link>
       <description></description>
       <pubDate>Fri, 18 Jul 2025 15:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>如何赢得胜利使用AWS WAF阻止DDOS事件</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/</link>
-      <description></description>
-      <pubDate>Mon, 14 Jul 2025 19:12:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

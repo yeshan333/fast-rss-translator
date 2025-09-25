@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Fine-Tuning Transforms Generic AI Models into Specialists】微调如何将通用AI模型转化为专家</title>
+      <link>https://blog.bytebytego.com/p/how-fine-tuning-transforms-generic</link>
+      <description>【In this article, we will understand how fine-tuning works at a conceptual level, the different approaches available, and breakthrough techniques like LoRA that have democratized access to AI customization.】在本文中，我们将了解微调如何在概念层面，可用的不同方法以及像Lora这样的突破性技术来使AI自定义访问民主化。</description>
+      <pubDate>Wed, 24 Sep 2025 15:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How RAG Enables AI For Your Data】RAG如何启用AI的数据</title>
+      <link>https://blog.bytebytego.com/p/how-rag-enables-ai-for-your-data</link>
+      <description>【Large Language Models like GPT-4 and Claude have transformed the way we interact with computers.】GPT-4和Claude等大型语言模型已经改变了我们与计算机互动的方式。</description>
+      <pubDate>Tue, 23 Sep 2025 15:31:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Meta Animates Billions of AI-generated Images】元如何使数十亿个AI生成的图像动画</title>
+      <link>https://blog.bytebytego.com/p/how-meta-animates-billions-of-ai</link>
+      <description>【In this article, we will look at how Meta implemented this feature and the challenges they faced.】在本文中，我们将研究Meta如何实施此功能以及它们面临的挑战。</description>
+      <pubDate>Mon, 22 Sep 2025 15:30:45 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP181: How Java Works】EP181：Java如何工作</title>
       <link>https://blog.bytebytego.com/p/ep181-how-java-works</link>
       <description>【Ever wondered what happens behind the scenes when you run a Java program?】有没有想过当您运行Java程序时幕后会发生什么？</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/start-learning-ai-our-youtube-channel</link>
       <description>【BIG announcement: We&amp;#8217;ve launched a new YouTube channel to make learning AI easier &amp;#8212; ByteByteAI!】大公告：我们启动了一个新的YouTube频道，以使学习更容易 -  Bytebyteai！</description>
       <pubDate>Fri, 12 Sep 2025 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Consistent Hashing 101: How Modern Systems Handle Growth and Failure】一致的散列101：现代系统如何处理增长和失败</title>
-      <link>https://blog.bytebytego.com/p/consistent-hashing-101-how-modern</link>
-      <description>【In the world of distributed systems, one of the hardest problems isn&amp;#8217;t just storing or retrieving data.】在分布式系统的世界中，最困难的问题之一不仅是存储或检索数据。</description>
-      <pubDate>Thu, 11 Sep 2025 15:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How DoorDash uses AI Models to Understand Restaurant Menus】Doordash如何使用AI模型来了解餐厅菜单</title>
-      <link>https://blog.bytebytego.com/p/how-doordash-uses-ai-models-to-understand</link>
-      <description>【The technical goal of their project was clear: achieve accurate transcription of menu photos into structured menu data while keeping latency and cost low enough for production at scale.】他们项目的技术目标是明确的：将菜单照片的准确转录到结构化菜单数据中，同时保持延迟和成本低以进行大规模生产。</description>
-      <pubDate>Wed, 10 Sep 2025 15:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Tudum Supports 20 Million Users With CQRS】Netflix Tudum如何为2000万用户提供CQRS</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-tudum-supports-20-million</link>
-      <description>【We will look at the evolution of this design decision and how Netflix went about implementing it.】我们将研究该设计决定的演变以及Netflix如何实施它。</description>
-      <pubDate>Tue, 09 Sep 2025 15:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

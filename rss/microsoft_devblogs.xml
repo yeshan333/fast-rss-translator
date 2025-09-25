@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Learning to read C++ compiler errors: Not a legal base class】学习阅读C ++编译器错误：不是法律基础类</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250919-00/?p=111612</link>
-      <description>【A colleague was trying to create a Windows Runtime delegate with WRL. Here&#39;s a simplified version of what they wrote. namespace ABI { using namespace ABI::Windows::UI::ViewManagement; } struct MyClass : Microsoft::WRL::RuntimeClass&amp;lt;⟦...⟧&amp;gt; { HRESULT OnInputPaneShowing(ABI::InputPane* sender,】一位同事试图与WRL创建Windows Runtime委托。这是他们写的简化版本。命名空间ABI {使用名称空间ABI :: Windows :: UI :: ViewManagement; } struct myClass：Microsoft :: WRL :: runtimeclass &lt;⟦...⟧&gt; {hresult onInputPaneshowing（abi :: inputpane* sender，sender，</description>
-      <pubDate>Fri, 19 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Exploring Text-to-Image capabilities in .NET】在.NET中探索文本对图像功能</title>
+      <link>https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet</link>
+      <description>【I created my first graphic in 1981 using a language called &#34;BASIC&#34; on a computer by Texas Instruments called the TI-99/4A. The code to enter and run BASIC, by the way, was written by a new company at the time named Microsoft. In July of 1991, a program called &#34;POV-Ray&#34; was released that made it possible to render complex 3D scenes using a doma】我在1981年创建了我的第一张图形，该语言在德州仪器的计算机上使用了一种名为TI-99/4A的计算机上的语言。顺便说一句，要输入和运行基本的代码是由一家名为Microsoft的新公司编写的。 1991年7月，发布了一个名为“ POV射线”的程序，该计划使使用DOMA渲染复杂的3D场景成为可能</description>
+      <pubDate>Wed, 24 Sep 2025 23:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【AI-Assisted Development powered by Local Models】由本地模型提供支持的AI辅助开发</title>
-      <link>https://devblogs.microsoft.com/foundry/ai-assisted-development-powered-by-local-models</link>
-      <description>【Developers have long struggled with concerns about data privacy, restrictive cloud dependencies, and limited control over their AI tools—especially when working on sensitive projects or within regulated industries. Now, with the excitement surrounding local models, you can harness AI directly on your device, ensuring your data stays private】长期以来，开发人员一直在担心数据隐私，限制性云依赖性以及对其AI工具的控制有限，尤其是在从事敏感项目或受监管行业内部工作时。现在，有了围绕当地模型的兴奋，您可以直接在设备上利用AI，确保数据保持私密</description>
-      <pubDate>Thu, 18 Sep 2025 19:00:50 +0000</pubDate>
+      <title>【Visual Studio 2026 Insiders: Using Podman for Container Development】Visual Studio 2026内部人员：使用Podman进行容器开发</title>
+      <link>https://devblogs.microsoft.com/blog/visual-studio-2026-insiders-using-podman-for-container-development</link>
+      <description>【Podman is an open-source container engine that has rapidly gained popularity for its daemonless architecture, rootless operation, and compatibility with Docker CLI commands. Unlike Docker, Podman does not require a central daemon, offering improved security and flexibili】Podman是一款开源容器引擎，其无根的架构，无根操作以及与Docker CLI命令的兼容性迅速获得了知名度。与Docker不同，Podman不需要中央守护程序，提供了提高的安全性和Flexibili</description>
+      <pubDate>Wed, 24 Sep 2025 17:30:30 +0000</pubDate>
     </item>
     <item>
-      <title>【The new GitHub app for Teams: from conversation to code】新的GitHub应用程序：从对话到代码</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/copilot-powered-github-app-for-teams-preview</link>
-      <description>【Meet the reimagined GitHub app for Teams: an AI-powered app to collaborate with GitHub Copilot right inside your Teams conversations. This initial release focuses on the Copilot coding agent, which was built to translate conversations into code and pull requests. This is the first step toward bringing the full power】与重新构想的GITHUB应用程序相遇：一个由AI驱动的应用程序，可与团队对话中的Github Copilot合作。此初始版本的重点是副本编码代理，该代理旨在将对话转化为代码和拉出请求。这是带来全力的第一步</description>
-      <pubDate>Thu, 18 Sep 2025 16:40:15 +0000</pubDate>
+      <title>【Why is Windows still tinkering with critical sections?】为什么Windows仍在修补关键部分？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624</link>
+      <description>【Adrian aka Silent aka CookiePLMonster did a deep investigation into how a 20 year old bug in GTA San Andreas surfaced in W】阿德里安（Adrian）又名Silent Aka Cookieplmonster对GTA San Andreas的20岁虫在W中进行了深入的调查。</description>
+      <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Can I close a duplicate handle while I&#39;m waiting on the original?】在等待原件时，我可以关闭重复的手柄吗？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250918-00/?p=111608</link>
-      <description>【In our study of the case of the invalid handle error when a handle is closed while a thread is waiting on it, Frederic Benoit】在我们对螺纹在等待时关闭手柄时无效的手柄错误的研究中，弗雷德里克·贝诺特</description>
-      <pubDate>Thu, 18 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Teaching the LLM Good Habits: How Azure MCP Uses Best-Practice Tools】教LLM良好习惯：Azure MCP如何使用最佳实践工具</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/teaching-the-llm-good-habits-how-azure-mcp-uses-best-practice-tools</link>
+      <description>【】</description>
+      <pubDate>Tue, 23 Sep 2025 23:02:30 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I get my shell thumbnail extractors to run in the same process?】如何在同一过程中让我的壳缩略图提取器运行？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250917-29/?p=111604</link>
-      <description>【We learned that Explorer uses the COM Surrogate as a sacrificial process when hosting thumbnail extraction plug-ins. A customer had a thumbnail extraction plug-in for which prepar】我们了解到，在托管缩略图提取插件时，Explorer使用COM代理作为牺牲过程。客户有一个缩略图提取插件</description>
-      <pubDate>Wed, 17 Sep 2025 18:21:29 +0000</pubDate>
+      <title>【Foundry Local Meets More Silicon】铸造本地遇到更多硅</title>
+      <link>https://devblogs.microsoft.com/foundry/foundry-local-meets-more-silicon</link>
+      <description>【Foundry Local is a high-performance local AI runtime stack that brings Azure AI Foundry’s power to client devices. Foundry Local lets you build and ship cross-platform AI apps that run models with acceleration on a wide range of hardware. The Evolution of AI Acceleration On-device AI has progressed】Foundry Local是一种高性能的本地AI运行时堆栈，它将Azure AI Foundry的功率带给客户设备。 Foundry Local可以允许您构建和运送跨平台AI应用程序，该应用程序在各种硬件上以加速度运行模型。人工智能加速度的进化已进步已进展</description>
+      <pubDate>Tue, 23 Sep 2025 19:01:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Record Scanner for vinyl collectors cuts costs with Azure Cosmos DB vector search】乙烯基收集器的记录扫描仪通过Azure Cosmos DB矢量搜索降低成本</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/record-scanner-for-vinyl-collectors-cuts-costs-with-azure-cosmos-db-vector-search</link>
-      <description>【by Artur Drozdz, Founder of Record Scanner (recordscanner.com) If you’re like me, there’s at least one room in your home with an entire cabinet dedicated to your growing vinyl collection. At this point, you’ve probably heard that vinyl is making a comeback, it’s not just vintage anymo】作者：Record Scanner（RecordScanner.com）的创始人Artur Drozdz，如果您像我一样，您家中至少有一个房间，整个橱柜都专门用于您不断增长的乙烯基收藏。在这一点上，您可能已经听说乙烯基正在卷土重来，而不仅仅是老式Anymo</description>
-      <pubDate>Wed, 17 Sep 2025 18:07:05 +0000</pubDate>
+      <title>【Another lesson learned from the Windows 98 on-stage USB blue screen】从Windows 98舞台上USB蓝屏中学到的另一个教训</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250923-00/?p=111621</link>
+      <description>【Microsoft Production Studios (commonly known inside Microsoft simply as Microsoft Studios) is a large broadcast studio nestled in the trees on Microsoft&#39;s main Redmond Campus.¹ Here&#39;s a video hosted by Luke Burbank, local】Microsoft Production Studios（通常在Microsoft内部简单地称为Microsoft Studios）是一个大型广播工作室，坐落在Microsoft Main Redmond Campus的树木中。</description>
+      <pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Getting the most out of MCP in Visual Studio with Prompts, Resources, and Sampling】通过提示，资源和采样</title>
-      <link>https://devblogs.microsoft.com/visualstudio/mcp-prompts-resources-sampling</link>
-      <description>【We&#39;re excited to announce that Visual Studio now supports MCP prompts, resources, and sampling (with even more coming soon!) to enhance your Copilot experience by bringing in more context from your engineering stack. These powerful new features unlock deeper integrations with your favorite tools and services, making your development workflow m】我们很高兴地宣布，Visual Studio现在支持MCP提示，资源和采样（即将推出更多！），以通过从工程堆栈中获得更多背景来增强您的副作用体验。这些强大的新功能与您喜欢的工具和服务取得了更深的集成，使您的开发工作流程M</description>
-      <pubDate>Wed, 17 Sep 2025 17:30:37 +0000</pubDate>
+      <title>【Enhancements to XAML Live Preview in Visual Studio for .NET MAUI】为.NET MAUI的Visual Studio中XAML Live Preview的增强功能</title>
+      <link>https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui</link>
+      <description>【The XAML Live Preview feature in Visual Studio 2022 version 17.14 introduces a significant usability improvement for .NET MAUI projects: the XAML Live Preview window is now available during design time, eliminating the requirement to initiate a debug session. This change streamlines the UI dev】Visual Studio 2022版本17.14中的XAML Live Preview功能引入了.NET MAUI项目的可用性改进：XAML Live Preview窗口现已在设计期间可用，消除了启动调试会话的要求。此更改简化了UI DEV</description>
+      <pubDate>Mon, 22 Sep 2025 17:26:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Prompt Files and Instructions Files Explained】提示文件和说明文件解释了</title>
-      <link>https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained</link>
-      <description>【GitHub Copilot is transforming the way developers write code by acting as an intelligent coding agent directly in your editor. Whether you’re building ASP.NET web applications, working with C#, or reviewing code with your team, Copilot can help automate repetitive tasks, suggest entire functions, and streamline code reviews. In this guide, w】Github Copilot正在通过直接在编辑器中充当智能编码代理来改变开发人员编写代码的方式。无论您是构建ASP.NET Web应用程序，使用C＃还是与您的团队一起查看代码，Copilot都可以帮助自动化重复任务，建议整个功能并简化代码评论。在本指南中，W</description>
-      <pubDate>Wed, 17 Sep 2025 17:05:00 +0000</pubDate>
+      <title>【Using the new SqlVector type with EF Core and Dapper】将新的SQLVector类型与EF Core和Dapper一起使用</title>
+      <link>https://devblogs.microsoft.com/azure-sql/using-the-new-sqlvector-type-with-ef-core-and-dapper</link>
+      <description>【Azure SQL vector support has been generally available for a few months now, and the ecosystem is quickly evolving to make working with vectors in your applications as seamless and efficient as possible. With the release of】Azure SQL向量支持通常已经有几个月了，并且生态系统正在迅速发展，以使应用程序中的向量尽可能无缝有效。随着发布</description>
+      <pubDate>Mon, 22 Sep 2025 17:21:01 +0000</pubDate>
     </item>
     <item>
-      <title>【SQL Server 2025 RC1: faster DiskANN and FP16 support】SQL Server 2025 RC1：更快的Diskann和FP16支持</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-server-2025-rc1-faster-diskann-and-fp16-support</link>
-      <description>【We’re excited to announce major improvements to DiskANN in SQL Server 2025 RC1, making vector search faster, more scalable, and more storage-efficient than ever before. ⚡ Significantly Faster Index Builds Building DiskANN indexes is now considerably faster, thanks to】我们很高兴地宣布SQL Server 2025 RC1中Diskann的重大改进，使矢量搜索比以往任何时候都更快，更可扩展和更有效率。 ⚡明显更快的索引构建建筑物diskann索引现在要快得多，这要归功于</description>
-      <pubDate>Wed, 17 Sep 2025 16:05:23 +0000</pubDate>
+      <title>【New Trusted Publishing enhances security on NuGet.org】新的Trusted Publishing在Nuget.org上增强了安全性</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org</link>
+      <description>【We’re excited to announce Trusted Publishing on nuget.org — a simpler, safer way to publish NuGet packages from GitHub Actions. Rather than relying on long‑lived API keys, your workflow can use a short‑lived GitHub OIDC token to request a temporary, single‑use NuGet API key. These keys expire quickly (≈ 1 hour), eliminating long‑】我们很高兴能在Nuget.org上宣布可信赖的发布 - 一种更简单，更安全的方式，可以从GitHub Actions发布Nuget软件包。您的工作流不再依靠长期的API键，而是可以使用短寿命的github oidc令牌来请求临时的一次性nuget api键。这些钥匙迅速到期（≈1小时），消除了长期的</description>
+      <pubDate>Mon, 22 Sep 2025 15:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>【MSSQL Extension for VS Code: Fabric Integration and GitHub Copilot Slash Commands (Public Preview)】VS代码的MSSQL扩展名：Fabric Integration和GitHub Copilot Slash命令（公共预览）</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-fabric-copilot</link>
-      <description>【The MSSQL Extension for VS Code continues to evolve, delivering features that make SQL development more integrated, more consistent, and more developer-friendly. In version v1.36.0, we’re announci】VS代码的MSSQL扩展程序继续发展，提供使SQL开发更加集成，更一致和更友好的功能。在版本v1.36.0中，我们是auceci</description>
-      <pubDate>Wed, 17 Sep 2025 16:00:09 +0000</pubDate>
+      <title>【Why was Windows 3.0&#39;s WinHelp called an online help system when it ran offline?】为什么Windows 3.0的Winhelp在离线运行时称其为在线帮助系统？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250922-00/?p=111619</link>
+      <description>【Some time ago, I described Windows 3.0&#39;s WinHelp as &#34;a program for browsing online help files.&#34; But Windows 3.0 predated the Internet, and these help files were available even if the computer was not】不久前，我将Windows 3.0的Winhelp描述为“用于浏览在线帮助文​​件的程序”。但是Windows 3.0早于Internet，即使计算机不是计算机也可以使用这些帮助文件</description>
+      <pubDate>Mon, 22 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
