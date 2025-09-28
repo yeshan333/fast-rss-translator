@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP182: Cookies vs Sessions】EP182：cookie vs sessions</title>
+      <link>https://blog.bytebytego.com/p/ep182-cookies-vs-sessions</link>
+      <description>【Every web app needs a way to remember users after they log in, and the way they manage this makes a big difference in performance, scalability, and security of that web application.】每个Web应用程序都需要一种方法来记住用户登录后，并且他们管理此操作的方式对该Web应用程序的性能，可扩展性和安全性有很大的影响。</description>
+      <pubDate>Sat, 27 Sep 2025 15:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GraphQL 101: API Approach Beyond REST】GraphQL 101：API接近休息</title>
+      <link>https://blog.bytebytego.com/p/graphql-101-api-approach-beyond-rest</link>
+      <description>【In this article, we will start with the basic concepts of GraphQL, covering how it works and why it has become so popular. From there, we will look at different ways GraphQL can be used as part of system architecture, from simple deployments to large-scale environments.】在本文中，我们将从GraphQl的基本概念开始，涵盖它的工作原理以及为什么变得如此受欢迎。从那里开始，我们将研究GraphQL可以用作系统体系结构的一部分，从简单部署到大规模环境。</description>
+      <pubDate>Thu, 25 Sep 2025 15:31:09 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Fine-Tuning Transforms Generic AI Models into Specialists】微调如何将通用AI模型转化为专家</title>
       <link>https://blog.bytebytego.com/p/how-fine-tuning-transforms-generic</link>
       <description>【In this article, we will understand how fine-tuning works at a conceptual level, the different approaches available, and breakthrough techniques like LoRA that have democratized access to AI customization.】在本文中，我们将了解微调如何在概念层面，可用的不同方法以及像Lora这样的突破性技术来使AI自定义访问民主化。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-linear-implemented-multi-region</link>
       <description>【In this article, we look at how Linear implemented multi-region support for its customers. We will explore the architecture they built, along with the technical implementation details.】在本文中，我们研究了如何为客户实施多区域支持。我们将探索他们构建的体系结构以及技术实施细节。</description>
       <pubDate>Mon, 15 Sep 2025 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP180: Python vs Java】EP180：Python vs Java</title>
-      <link>https://blog.bytebytego.com/p/ep180-design-patterns-cheat-sheet</link>
-      <description>【The cheat sheet briefly explains each pattern and how to use it.】备忘单简要说明了每个模式以及如何使用它。</description>
-      <pubDate>Sat, 13 Sep 2025 15:31:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Start Learning AI — Our New YouTube Channel is Live】开始学习AI  - 我们的新YouTube频道是现场</title>
-      <link>https://blog.bytebytego.com/p/start-learning-ai-our-youtube-channel</link>
-      <description>【BIG announcement: We&amp;#8217;ve launched a new YouTube channel to make learning AI easier &amp;#8212; ByteByteAI!】大公告：我们启动了一个新的YouTube频道，以使学习更容易 -  Bytebyteai！</description>
-      <pubDate>Fri, 12 Sep 2025 15:30:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Exploring Text-to-Image capabilities in .NET】在.NET中探索文本对图像功能</title>
-      <link>https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet</link>
-      <description>【I created my first graphic in 1981 using a language called &#34;BASIC&#34; on a computer by Texas Instruments called the TI-99/4A. The code to enter and run BASIC, by the way, was written by a new company at the time named Microsoft. In July of 1991, a program called &#34;POV-Ray&#34; was released that made it possible to render complex 3D scenes using a doma】我在1981年创建了我的第一张图形，该语言在德州仪器的计算机上使用了一种名为TI-99/4A的计算机上的语言。顺便说一句，要输入和运行基本的代码是由一家名为Microsoft的新公司编写的。 1991年7月，发布了一个名为“ POV射线”的程序，该计划使使用DOMA渲染复杂的3D场景成为可能</description>
-      <pubDate>Wed, 24 Sep 2025 23:30:00 +0000</pubDate>
+      <title>【Preparing Your .NET MAUI Apps for Google Play&#39;s 16 KB Page Size Requirement】为Google Play的16 KB页面尺寸要求准备.NET MAUI应用程序</title>
+      <link>https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support</link>
+      <description>【If you&#39;re a .NET MAUI developer publishing apps to Google Play, there&#39;s an important requirement coming your way. Starting November 1st, 2025, Google Play will require all new apps and updates targeting Android 15+ to support 16 KB page sizes on 64-bit devices. What is the 16 KB Page Size Requirement? Androi】如果您是Google Play的.NET MAUI开发人员发布应用程序，那么您的方式就会有一个重要的要求。从2025年11月1日开始，Google Play将需要所有针对Android 15+的更新，以支持64位设备上的16 KB页面尺寸。 16 KB页面大小的要求是什么？ Androi</description>
+      <pubDate>Fri, 26 Sep 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio 2026 Insiders: Using Podman for Container Development】Visual Studio 2026内部人员：使用Podman进行容器开发</title>
-      <link>https://devblogs.microsoft.com/blog/visual-studio-2026-insiders-using-podman-for-container-development</link>
-      <description>【Podman is an open-source container engine that has rapidly gained popularity for its daemonless architecture, rootless operation, and compatibility with Docker CLI commands. Unlike Docker, Podman does not require a central daemon, offering improved security and flexibili】Podman是一款开源容器引擎，其无根的架构，无根操作以及与Docker CLI命令的兼容性迅速获得了知名度。与Docker不同，Podman不需要中央守护程序，提供了提高的安全性和Flexibili</description>
-      <pubDate>Wed, 24 Sep 2025 17:30:30 +0000</pubDate>
+      <title>【Why didn&#39;t Windows 95 setup install a miniature Windows 95 so that it could be written as a 32-bit program?】为什么Windows 95设置不安装微型Windows 95，以便可以将其写入32位程序？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250926-00/?p=111629</link>
+      <description>【I noted some time ago that Windows 95 Setup was actually three programs running under three different operating systems. The first part was an MS-DOS program, which was used if you installed Windows 9】我一段时间以前指出，Windows 95设置实际上是在三个不同的操作系统下运行的三个程序。第一部分是MS-DOS程序，如果您安装了Windows 9</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why is Windows still tinkering with critical sections?】为什么Windows仍在修补关键部分？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624</link>
-      <description>【Adrian aka Silent aka CookiePLMonster did a deep investigation into how a 20 year old bug in GTA San Andreas surfaced in W】阿德里安（Adrian）又名Silent Aka Cookieplmonster对GTA San Andreas的20岁虫在W中进行了深入的调查。</description>
-      <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Simplifying Resource Management in mssql-python through Context Manager】通过上下文管理器简化MSSQL-Python中的资源管理</title>
+      <link>https://devblogs.microsoft.com/python/simplifying-resource-management-in-mssql-python-through-context-manager</link>
+      <description>【Reviewed by: Sumit Sarabhai】评论者：Sumit Sarabhai</description>
+      <pubDate>Fri, 26 Sep 2025 09:49:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Teaching the LLM Good Habits: How Azure MCP Uses Best-Practice Tools】教LLM良好习惯：Azure MCP如何使用最佳实践工具</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/teaching-the-llm-good-habits-how-azure-mcp-uses-best-practice-tools</link>
-      <description>【】</description>
-      <pubDate>Tue, 23 Sep 2025 23:02:30 +0000</pubDate>
+      <title>【Unlocking MCP in JetBrains: How Copilot Uses Sampling, Prompts, Resources, and Elicitation】解锁Jetbrains：Copilot如何使用采样，提示，资源和启发</title>
+      <link>https://devblogs.microsoft.com/java/unlocking-mcp-in-jetbrains-how-copilot-uses-sampling-prompts-resources-and-elicitation</link>
+      <description>【With the enhanced capability of the MCP on JetBrains, you can now bring prompts, resources, and even interac】随着MCP在喷气桥上的功能增强，您现在可以带来提示，资源，甚至可以携带Interac</description>
+      <pubDate>Fri, 26 Sep 2025 07:46:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Foundry Local Meets More Silicon】铸造本地遇到更多硅</title>
-      <link>https://devblogs.microsoft.com/foundry/foundry-local-meets-more-silicon</link>
-      <description>【Foundry Local is a high-performance local AI runtime stack that brings Azure AI Foundry’s power to client devices. Foundry Local lets you build and ship cross-platform AI apps that run models with acceleration on a wide range of hardware. The Evolution of AI Acceleration On-device AI has progressed】Foundry Local是一种高性能的本地AI运行时堆栈，它将Azure AI Foundry的功率带给客户设备。 Foundry Local可以允许您构建和运送跨平台AI应用程序，该应用程序在各种硬件上以加速度运行模型。人工智能加速度的进化已进步已进展</description>
-      <pubDate>Tue, 23 Sep 2025 19:01:15 +0000</pubDate>
+      <title>【PIX 2509.25 - support for new D3D features and devices, and misc bug fixes】PIX 2509.25-支持新的D3D功能和设备，以及MISC错误修复</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2509-25</link>
+      <description>【Today we released PIX version 2509.25, which can be downloaded here. This release includes everything in the previous 2507.11 release, plus: A compatibility fix to make PIX work on Windows 11 24H2 or 25H2 with K】今天，我们发布了PIX版本2509.25，可以在此处下载。此版本包括上一版中的所有内容，以及：使pix在Windows 11 24H2或25H2上使用k的兼容性修复</description>
+      <pubDate>Thu, 25 Sep 2025 21:00:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Another lesson learned from the Windows 98 on-stage USB blue screen】从Windows 98舞台上USB蓝屏中学到的另一个教训</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250923-00/?p=111621</link>
-      <description>【Microsoft Production Studios (commonly known inside Microsoft simply as Microsoft Studios) is a large broadcast studio nestled in the trees on Microsoft&#39;s main Redmond Campus.¹ Here&#39;s a video hosted by Luke Burbank, local】Microsoft Production Studios（通常在Microsoft内部简单地称为Microsoft Studios）是一个大型广播工作室，坐落在Microsoft Main Redmond Campus的树木中。</description>
-      <pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Announcing Aspire 9.5】宣布Aspire 9.5</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95</link>
+      <description>【Aspire 9.5 is here with exciting new features and improvements that enhance the developer experience for building distributed applications. For the complete list of changes and technical details, visit the official Aspire 9.5 release notes. Let&#39;s】Aspire 9.5在这里具有令人兴奋的新功能和改进，可增强开发人员用于构建分布式应用程序的体验。有关更改和技术细节的完整列表，请访问官方Aspire 9.5发行说明。让我们</description>
+      <pubDate>Thu, 25 Sep 2025 17:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Enhancements to XAML Live Preview in Visual Studio for .NET MAUI】为.NET MAUI的Visual Studio中XAML Live Preview的增强功能</title>
-      <link>https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui</link>
-      <description>【The XAML Live Preview feature in Visual Studio 2022 version 17.14 introduces a significant usability improvement for .NET MAUI projects: the XAML Live Preview window is now available during design time, eliminating the requirement to initiate a debug session. This change streamlines the UI dev】Visual Studio 2022版本17.14中的XAML Live Preview功能引入了.NET MAUI项目的可用性改进：XAML Live Preview窗口现已在设计期间可用，消除了启动调试会话的要求。此更改简化了UI DEV</description>
-      <pubDate>Mon, 22 Sep 2025 17:26:51 +0000</pubDate>
+      <title>【Agility SDK 1.618: Advanced Shader Delivery and 1.716 out of preview】敏捷SDK 1.618：高级着色器交付和1.716的预览</title>
+      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-618</link>
+      <description>【We are pleased to announce the retail release of AgilitySDK 1.618, available on Agility SDK Downloads today! This release promotes our 1.716 features out of preview and also】我们很高兴地宣布，Agilitysdk 1.618的零售发布，今天可在Agility SDK下载上使用！此版本促进了我们的1.716功能，从预览中提取</description>
+      <pubDate>Thu, 25 Sep 2025 17:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Using the new SqlVector type with EF Core and Dapper】将新的SQLVector类型与EF Core和Dapper一起使用</title>
-      <link>https://devblogs.microsoft.com/azure-sql/using-the-new-sqlvector-type-with-ef-core-and-dapper</link>
-      <description>【Azure SQL vector support has been generally available for a few months now, and the ecosystem is quickly evolving to make working with vectors in your applications as seamless and efficient as possible. With the release of】Azure SQL向量支持通常已经有几个月了，并且生态系统正在迅速发展，以使应用程序中的向量尽可能无缝有效。随着发布</description>
-      <pubDate>Mon, 22 Sep 2025 17:21:01 +0000</pubDate>
+      <title>【Announcing WinUI Gallery 2.7】宣布Winui Gallery 2.7</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-winui-gallery-2-7</link>
+      <description>【&amp;nbs】＆nbs</description>
+      <pubDate>Thu, 25 Sep 2025 16:33:49 +0000</pubDate>
     </item>
     <item>
-      <title>【New Trusted Publishing enhances security on NuGet.org】新的Trusted Publishing在Nuget.org上增强了安全性</title>
-      <link>https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org</link>
-      <description>【We’re excited to announce Trusted Publishing on nuget.org — a simpler, safer way to publish NuGet packages from GitHub Actions. Rather than relying on long‑lived API keys, your workflow can use a short‑lived GitHub OIDC token to request a temporary, single‑use NuGet API key. These keys expire quickly (≈ 1 hour), eliminating long‑】我们很高兴能在Nuget.org上宣布可信赖的发布 - 一种更简单，更安全的方式，可以从GitHub Actions发布Nuget软件包。您的工作流不再依靠长期的API键，而是可以使用短寿命的github oidc令牌来请求临时的一次性nuget api键。这些钥匙迅速到期（≈1小时），消除了长期的</description>
-      <pubDate>Mon, 22 Sep 2025 15:40:00 +0000</pubDate>
+      <title>【Data API builder 1.6: Flexible Logging for Every Developer】数据API构建器1.6：每个开发人员的灵活记录</title>
+      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-16-logging</link>
+      <description>【Previously, developers were limited to the default log levels and filters hardcoded into DAB. With release 1.6, you can now configure filters and levels for logs emitted by the engine. This release also adds new sinks. In addition to Application Insights and OpenTelemetry publishing, Data API builder now suppo】以前，开发人员仅限于默认日志级别，并将过滤器用于DAB。使用Release 1.6，您现在可以为发动机发射的日志配置过滤器和级别。此版本还增加了新的水槽。除了应用程序见解和OpenTelemetry Publishing外，数据API构建器现在可以支持</description>
+      <pubDate>Thu, 25 Sep 2025 16:27:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Why was Windows 3.0&#39;s WinHelp called an online help system when it ran offline?】为什么Windows 3.0的Winhelp在离线运行时称其为在线帮助系统？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250922-00/?p=111619</link>
-      <description>【Some time ago, I described Windows 3.0&#39;s WinHelp as &#34;a program for browsing online help files.&#34; But Windows 3.0 predated the Internet, and these help files were available even if the computer was not】不久前，我将Windows 3.0的Winhelp描述为“用于浏览在线帮助文​​件的程序”。但是Windows 3.0早于Internet，即使计算机不是计算机也可以使用这些帮助文件</description>
-      <pubDate>Mon, 22 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Samples note: Use comments to describe what code does, not what you wish the code would do】示例注意：使用注释来描述代码的作用，而不是您希望代码会做什么</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250925-00/?p=111627</link>
+      <description>【Windows API design is samples-driven. This means that when a team proposes an API, we want them to demonstrate how to use that API with a sample code fragment. We do this so that we can evaluate the ergonomics of the API and see】Windows API设计是样品驱动的。这意味着，当团队提出API时，我们希望他们演示如何使用示例代码片段使用该API。我们这样做，以便我们可以评估API的人体工程学并看到</description>
+      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

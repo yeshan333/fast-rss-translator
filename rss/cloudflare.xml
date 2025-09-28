@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Automatically Secure: how we upgraded 6,000,000 domains by default to get ready for the Quantum Future】自动安全：默认情况下，我们如何升级6,000,000个域以为量子未来做好准备</title>
-      <link>https://blog.cloudflare.com/automatically-secure/</link>
-      <description>【 After a year since we started enabling Automatic SSL/TLS, we want to talk about these results, why they matter, and how we’re preparing for the next leap in Internet security. 】自从我们开始启用自动SSL/TLS的一年以来，我们想谈论这些结果，为什么重要以及我们如何为下一个Internet安全的飞跃做准备。</description>
-      <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Monitoring AS-SETs and why they matter】监视ASTES以及它们重要的原因</title>
+      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
+      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监视其ASN的ASET成员资格的一些原因，而现在CloudFlare Radar可以提供帮助。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A simpler path to a safer Internet: an update to our CSAM scanning tool】更安全的互联网的简单途径：我们的CSAM扫描工具的更新</title>
-      <link>https://blog.cloudflare.com/a-simpler-path-to-a-safer-internet-an-update-to-our-csam-scanning-tool/</link>
-      <description>【 Cloudflare has made it even easier to enable our free child safety tooling for all customers. 】Cloudflare使我们更容易为所有客户启用我们的免费儿童安全工具。</description>
-      <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Cloudflare just got faster and more secure, powered by Rust】Cloudflare刚刚变得更快，更安全，由Rust提供动力</title>
+      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
+      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用新的基于模块化的锈蚀代理代替了Cloudflare的原始核心系统，以取代Nginx。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing today for the quantum future: WARP client now supports post-quantum cryptography (PQC)】今天确保量子未来：扭曲客户现在支持量词后加密（PQC）</title>
-      <link>https://blog.cloudflare.com/post-quantum-warp/</link>
-      <description>【 To prepare for a future where powerful quantum computers come online, we&#39;ve upgraded our WARP client with post-quantum cryptography. 】为了准备一个强大的量子计算机在线的未来，我们已经通过后量子加密量升级了翘曲客户端。</description>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
+      <title>【Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click】介绍天文台和智能盾牌 - 查看世界如何看待您的网站，并在一次点击中更快地使其更快</title>
+      <link>https://blog.cloudflare.com/introducing-observatory-and-smart-shield/</link>
+      <description>【 We&#39;re announcing two enhancements to our Application Performance suite that&#39;ll show how the world sees your website, and make it faster with one click - available Cloudflare Dashboard! 】我们宣布了我们的应用程序性能套件的两个增强功能，这些增强功能将显示世界如何看待您的网站，并通过一键单击 - 可用的Cloudflare仪表板更快！</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【To build a better Internet in the age of AI, we need responsible AI bot principles. Here’s our proposal.】为了在AI时代建立更好的互联网，我们需要负责的AI机器人原则。这是我们的建议。</title>
-      <link>https://blog.cloudflare.com/building-a-better-internet-with-responsible-ai-bot-principles/</link>
-      <description>【 We are proposing—as starting points—responsible AI bot principles that emphasize transparency, accountability, and respect for content access and use preferences. 】我们正在提出强调透明度，问责制以及对内容访问和使用首选项的尊重的反应AI机器人原则。</description>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
+      <title>【An AI Index for all our customers】我们所有客户的AI指数</title>
+      <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
+      <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】CloudFlare将很快为您的域名创建AI优化的搜索索引，并揭示一组现成的标准API和包括MCP Server，LLMS.TXT和搜索API在内的现成标准API和工具。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing data in SaaS to SaaS applications】将SaaS中的数据固定到SaaS应用程序</title>
-      <link>https://blog.cloudflare.com/saas-to-saas-security/</link>
-      <description>【 The recent Salesloft breach taught us one thing: companies do not have visibility over data in SaaS applications. Cloudflare is committing to providing additional security tools for SaaS applications 】最近的SalesLoft违规教会了我们一件事：公司在SaaS应用程序中没有可见性。 CloudFlare致力于为SaaS应用程序提供其他安全工具</description>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
+      <title>【Network performance update: Birthday Week 2025】网络绩效更新：2025年生日周</title>
+      <link>https://blog.cloudflare.com/network-performance-update-birthday-week-2025/</link>
+      <description>【 On the Internet, being fast is what matters and at Cloudflare, we are committed to being the fastest network in the world. 】在Internet上，快速至关重要，在Cloudflare中，我们致力于成为世界上最快的网络。</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Giving users choice with Cloudflare’s new Content Signals Policy】为用户选择CloudFlare的新内容信号策略</title>
-      <link>https://blog.cloudflare.com/content-signals-policy/</link>
-      <description>【 Cloudflare’s Content Signals Policy gives creators a new tool to control use of their content. &#xA; 】CloudFlare的内容信号策略为创建者提供了一种控制其内容使用的新工具。</description>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
+      <title>【Introducing new regional Internet traffic and Certificate Transparency insights on Cloudflare Radar】在Cloudflare Radar上引入新的区域互联网流量和证书透明度见解</title>
+      <link>https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/</link>
+      <description>【 Cloudflare Radar now offers a Certificate Transparency dashboard for monitoring TLS certificate activity,  and new regional traffic insights for a sub-national perspective on Internet trends. 】CloudFlare Radar现在提供了一个证书透明度仪表板，用于监视TLS证书活动，以及新的区域交通见解，以对Internet趋势的次国家视角。</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building unique, per-customer defenses against advanced bot threats in the AI era】在人工智能时代建立针对先进的机器人威胁的独特的，人均防御</title>
-      <link>https://blog.cloudflare.com/per-customer-bot-defenses/</link>
-      <description>【 Today, we are announcing a new approach to catching bots: using models to provide behavioral anomaly detection unique to each bot management customer and stop sophisticated bot attacks.  】今天，我们宣布了一种新方法来捕捉机器人：使用模型提供每个机器人管理客户独有的行为异常检测并停止复杂的机器人攻击。</description>
-      <pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Eliminating Cold Starts 2: shard and conquer】消除寒冷开始2：碎片和征服</title>
+      <link>https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/</link>
+      <description>【 We reduced Cloudflare Workers cold starts by 10x by optimistically routing to servers with already-loaded Workers. Learn how we did it here. 】我们将Cloudflare工人的冷速度降低了10倍，通过与已经负载工人的服务器进行乐观的路由。了解我们在这里做的。</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare Confidence Scorecards - making AI safer for the Internet】Cloudflare信心记分卡 - 使互联网更安全</title>
-      <link>https://blog.cloudflare.com/cloudflare-confidence-scorecards-making-ai-safer-for-the-internet/</link>
-      <description>【 Cloudflare Confidence Scorecards are now live in the Application Library. Get transparent risk ratings for SaaS and Gen-AI apps. 】Cloudflare Profure得分卡现在生活在应用程序库中。获得SaaS和Gen-AI应用程序的透明风险评级。</description>
-      <pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Code Mode: the better way to use MCP】代码模式：使用MCP的更好方法</title>
+      <link>https://blog.cloudflare.com/code-mode/</link>
+      <description>【 It turns out we&#39;ve all been using MCP wrong. Most agents today use MCP by exposing the &#34;tools&#34; directly to the LLM. 】事实证明，我们都在使用MCP错误。如今，大多数代理商通过将“工具”直接暴露于LLM来使用MCP。</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Deploy your own AI vibe coding platform — in one click! 】部署自己的AI Vibe编码平台 - 一键单击！</title>
-      <link>https://blog.cloudflare.com/deploy-your-own-ai-vibe-coding-platform/</link>
-      <description>【 Introducing VibeSDK, an open-source AI &#34;vibe coding&#34; platform that anyone can deploy to build their own custom platform. Comes ready with code generation, sandbox environment, and project deployment.  】引入VibesDK，一个开源AI“ VIBE编码”平台，任何人都可以部署以构建自己的自定义平台。准备好代码生成，沙盒环境和项目部署。</description>
-      <pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【How Cloudflare uses the world’s greatest collection of performance data to make the world’s fastest global network even faster】CloudFlare如何使用世界上最大的性能数据集来使世界上最快的全球网络更快</title>
+      <link>https://blog.cloudflare.com/how-cloudflare-uses-the-worlds-greatest-collection-of-performance-data/</link>
+      <description>【 Cloudflare is using its vast traffic to send responses faster than ever before, by learning the characteristics of each individual network and tuning our congestion control system.    】通过学习每个单独的网络的特征并调整我们的拥塞控制系统，CloudFlare正在使用其庞大的流量来更快地发送响应。</description>
+      <pubDate>Fri, 26 Sep 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why Cloudflare, Netlify, and Webflow are collaborating to support Open Source tools like Astro and TanStack】为什么CloudFlare，NetLify和WebFlow正在协作以支持Astro和Tanstack等开源工具</title>
-      <link>https://blog.cloudflare.com/cloudflare-astro-tanstack/</link>
-      <description>【 Today, Cloudflare is proud to announce support for two cornerstone frameworks in the modern web ecosystem: we’re partnering with Webflow to sponsor Astro, and with Netlify to sponsor TanStack. 】如今，CloudFlare自豪地宣布对现代网络生态系统中两个基石框架的支持：我们正在与WebFlow合作以赞助Astro，并与Netlify一起向赞助商Tanstack。</description>
-      <pubDate>Tue, 23 Sep 2025 13:10:00 +0000</pubDate>
+      <title>【Every Cloudflare feature, available to everyone】每个Cloudflare功能，每个人都可以使用</title>
+      <link>https://blog.cloudflare.com/enterprise-grade-features-for-all/</link>
+      <description>【 Cloudflare is making every feature available to any customer. 】CloudFlare正在为任何客户提供所有功能。</description>
+      <pubDate>Thu, 25 Sep 2025 14:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
