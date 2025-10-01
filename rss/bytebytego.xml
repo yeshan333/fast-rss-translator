@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Why Anthropic’s MCP is a Big Deal】为什么人类的MCP很重要</title>
+      <link>https://blog.bytebytego.com/p/why-anthropics-mcp-is-a-big-deal</link>
+      <description>【In this article, we will look at MCP in detail and explore what makes it such an important component in the AI landscape.】在本文中，我们将详细研究MCP，并探索使其成为AI景观中如此重要组成部分的原因。</description>
+      <pubDate>Tue, 30 Sep 2025 15:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Grab’s Migration from Go to Rust Cut Costs by 70%】Grab的迁移如何从生锈削减成本70％</title>
+      <link>https://blog.bytebytego.com/p/how-grabs-migration-from-go-to-rust</link>
+      <description>【Grab has long relied on Golang for most of its microservices. In this article, we look at how Grab migrated their counter service from Go to Rust, resulting in a 70% cost reduction.】Grab长期以来一直依赖Golang的大多数微服务。在本文中，我们研究了Grab如何从Rust迁移他们的柜台服务，从而降低了70％的成本。</description>
+      <pubDate>Mon, 29 Sep 2025 15:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course】注册的最后机会|成为AI工程师|基于队列的课程</title>
+      <link>https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai</link>
+      <description>【Our very first cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们成为AI工程师的第一个队列在不到一周的时间内就开始了。这是与畅销书作家阿里·阿米尼亚（Ali Aminian）合作创建的，由Bytebytego出版的实时，基于队列的课程。</description>
+      <pubDate>Sun, 28 Sep 2025 15:30:54 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP182: Cookies vs Sessions】EP182：cookie vs sessions</title>
       <link>https://blog.bytebytego.com/p/ep182-cookies-vs-sessions</link>
       <description>【Every web app needs a way to remember users after they log in, and the way they manage this makes a big difference in performance, scalability, and security of that web application.】每个Web应用程序都需要一种方法来记住用户登录后，并且他们管理此操作的方式对该Web应用程序的性能，可扩展性和安全性有很大的影响。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/understanding-load-balancers-traffic</link>
       <description>【When applications grow beyond a single server, they face the challenge of handling more users, more data, and more requests than one machine can manage.】当应用程序超越单个服务器时，他们面临着处理更多用户，更多的数据和更多请求的挑战，而不是一台计算机可以管理的挑战。</description>
       <pubDate>Thu, 18 Sep 2025 15:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Become an AI Engineer | Learn by Doing | Cohort Based Course】成为AI工程师|通过做学习|基于队列的课程</title>
-      <link>https://blog.bytebytego.com/p/become-an-ai-engineer-learn-by-doing</link>
-      <description>【After months of preparation, I&amp;#8217;m thrilled to announce the launch of the very first cohort of Becoming an AI Engineer.】经过几个月的准备，我很高兴宣布成为AI工程师的第一个队列。</description>
-      <pubDate>Wed, 17 Sep 2025 15:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Anthropic Built a Multi-Agent Research System】人类如何构建多代理研究系统</title>
-      <link>https://blog.bytebytego.com/p/how-anthropic-built-a-multi-agent</link>
-      <description>【In this article, we will understand the architecture of the multi-agent research system that Anthropic built.】在本文中，我们将了解人类构建的多代理研究系统的架构。</description>
-      <pubDate>Tue, 16 Sep 2025 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Linear Implemented Multi-Region Support For Customers】线性如何为客户实施多区域支持</title>
-      <link>https://blog.bytebytego.com/p/how-linear-implemented-multi-region</link>
-      <description>【In this article, we look at how Linear implemented multi-region support for its customers. We will explore the architecture they built, along with the technical implementation details.】在本文中，我们研究了如何为客户实施多区域支持。我们将探索他们构建的体系结构以及技术实施细节。</description>
-      <pubDate>Mon, 15 Sep 2025 15:30:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

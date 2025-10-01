@@ -4,16 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Monitoring AS-SETs and why they matter】监视ASTES以及它们重要的原因</title>
-      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
-      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监视其ASN的ASET成员资格的一些原因，而现在CloudFlare Radar可以提供帮助。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Payload on Workers: a full-fledged CMS, running entirely on Cloudflare’s stack】工人的有效载荷：全面的CMS，完全在Cloudflare的堆栈上运行</title>
+      <link>https://blog.cloudflare.com/payload-cms-workers/</link>
+      <description>【 We demonstrate how the open-source Payload CMS was ported to run entirely on Cloudflare&#39;s developer platform. 】我们演示了如何将开源有效载荷CMS移植到CloudFlare的开发人员平台上。</description>
+      <pubDate>Tue, 30 Sep 2025 15:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare just got faster and more secure, powered by Rust】Cloudflare刚刚变得更快，更安全，由Rust提供动力</title>
-      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
-      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用新的基于模块化的锈蚀代理代替了Cloudflare的原始核心系统，以取代Nginx。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Nationwide Internet shutdown in Afghanistan extends localized disruptions】阿富汗的全国性互联网关闭扩展了本地破坏</title>
+      <link>https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/</link>
+      <description>【 On September 29, 2025, Internet connectivity was completely shut down across Afghanistan, impacting business, education, finance, and government services. 】2025年9月29日，互联网连通性在阿富汗完全关闭，影响了商业，教育，金融和政府服务。</description>
+      <pubDate>Tue, 30 Sep 2025 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【15 years of helping build a better Internet: a look back at Birthday Week 2025】15年帮助建立更好的互联网：回顾2025年生日周</title>
+      <link>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</link>
+      <description>【 Rust-powered core systems, post-quantum upgrades, developer access for students, PlanetScale integration, open-source partnerships, and our biggest internship program ever — 1,111 interns in 2026. 】由生锈的核心系统，Quantum后升级，学生的开发人员访问，Planetscale集成，开源合作伙伴关系以及我们有史以来最大的实习计划 -  2026年1111名实习生。</description>
+      <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click】介绍天文台和智能盾牌 - 查看世界如何看待您的网站，并在一次点击中更快地使其更快</title>
@@ -28,21 +34,21 @@
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Network performance update: Birthday Week 2025】网络绩效更新：2025年生日周</title>
-      <link>https://blog.cloudflare.com/network-performance-update-birthday-week-2025/</link>
-      <description>【 On the Internet, being fast is what matters and at Cloudflare, we are committed to being the fastest network in the world. 】在Internet上，快速至关重要，在Cloudflare中，我们致力于成为世界上最快的网络。</description>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
+      <title>【Cloudflare just got faster and more secure, powered by Rust】Cloudflare刚刚变得更快，更安全，由Rust提供动力</title>
+      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
+      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用新的基于模块化的锈蚀代理代替了Cloudflare的原始核心系统，以取代Nginx。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Monitoring AS-SETs and why they matter】监视ASTES以及它们重要的原因</title>
+      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
+      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监视其ASN的ASET成员资格的一些原因，而现在CloudFlare Radar可以提供帮助。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing new regional Internet traffic and Certificate Transparency insights on Cloudflare Radar】在Cloudflare Radar上引入新的区域互联网流量和证书透明度见解</title>
       <link>https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/</link>
       <description>【 Cloudflare Radar now offers a Certificate Transparency dashboard for monitoring TLS certificate activity,  and new regional traffic insights for a sub-national perspective on Internet trends. 】CloudFlare Radar现在提供了一个证书透明度仪表板，用于监视TLS证书活动，以及新的区域交通见解，以对Internet趋势的次国家视角。</description>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Eliminating Cold Starts 2: shard and conquer】消除寒冷开始2：碎片和征服</title>
-      <link>https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/</link>
-      <description>【 We reduced Cloudflare Workers cold starts by 10x by optimistically routing to servers with already-loaded Workers. Learn how we did it here. 】我们将Cloudflare工人的冷速度降低了10倍，通过与已经负载工人的服务器进行乐观的路由。了解我们在这里做的。</description>
       <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -52,16 +58,10 @@
       <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Cloudflare uses the world’s greatest collection of performance data to make the world’s fastest global network even faster】CloudFlare如何使用世界上最大的性能数据集来使世界上最快的全球网络更快</title>
-      <link>https://blog.cloudflare.com/how-cloudflare-uses-the-worlds-greatest-collection-of-performance-data/</link>
-      <description>【 Cloudflare is using its vast traffic to send responses faster than ever before, by learning the characteristics of each individual network and tuning our congestion control system.    】通过学习每个单独的网络的特征并调整我们的拥塞控制系统，CloudFlare正在使用其庞大的流量来更快地发送响应。</description>
-      <pubDate>Fri, 26 Sep 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Every Cloudflare feature, available to everyone】每个Cloudflare功能，每个人都可以使用</title>
-      <link>https://blog.cloudflare.com/enterprise-grade-features-for-all/</link>
-      <description>【 Cloudflare is making every feature available to any customer. 】CloudFlare正在为任何客户提供所有功能。</description>
-      <pubDate>Thu, 25 Sep 2025 14:05:00 +0000</pubDate>
+      <title>【Eliminating Cold Starts 2: shard and conquer】消除寒冷开始2：碎片和征服</title>
+      <link>https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/</link>
+      <description>【 We reduced Cloudflare Workers cold starts by 10x by optimistically routing to servers with already-loaded Workers. Learn how we did it here. 】我们将Cloudflare工人的冷速度降低了10倍，通过与已经负载工人的服务器进行乐观的路由。了解我们在这里做的。</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

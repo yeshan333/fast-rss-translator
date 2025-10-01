@@ -4,6 +4,48 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【TypeScript 7 native preview in Visual Studio 2026】TypeScript 7 Visual Studio中的本机预览2026</title>
+      <link>https://devblogs.microsoft.com/blog/typescript-7-native-preview-in-visual-studio-2026</link>
+      <description>【In March of this year Anders Hejlsberg announced TypeScript 7 native preview and in May Daniel posted Announcing TypeScript Native Previews. Visual Studio 2026 Insiders n】今年3月，安德斯·赫尔斯伯格（Anders Hejlsberg）宣布了Typescript 7本地预览，丹尼尔（Daniel）发布了宣布打字稿本机预览的宣布。 Visual Studio 2026内部人员n</description>
+      <pubDate>Tue, 30 Sep 2025 16:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microspeak: Convicted】微言：被定罪</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250930-00/?p=111639</link>
+      <description>【When you do something with conviction, you do so with full confidence that you are correct. But what is the verb that means &#34;To be fully confident that one is correct&#34;? At Microsoft, it is often backformed into the verb convict (stress on second syllable). This backformation typically happens in speech,】当您有信念做某事时，您会完全相信自己是正确的。但是，“完全有信心一个正确的动词”是什么意思？在微软，通常会将其反面到动词定罪中（第二个音节上的压力）。这种反映通常发生在语音中，</description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio September Update - profiler agent, app modernization, and more】Visual Studio 9月更新 -  Profiler代理，应用现代化等等</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-september-update</link>
+      <description>【The September 2025 update for Visual Studio 2022 (v17.14) is now available. In this month, we are bringing you a fully integrated and game-changing agentic AI experience, from code generation to modernization, profiling, and code reviews.  】Visual Studio 2022（V17.14）的2025年9月更新现已可用。在本月，我们将为您带来完全集成和改变游戏的代理AI体验，从代码生成到现代化，分析和代码评论。  </description>
+      <pubDate>Tue, 30 Sep 2025 13:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft’s OpenJDK builds now ready for Java 25】Microsoft的OpenJDK现在可以为Java 25构建</title>
+      <link>https://devblogs.microsoft.com/java/microsofts-openjdk-builds-now-ready-for-java-25</link>
+      <description>【We’re excited to announce that the Microsoft Build of OpenJDK binaries are now available for Java 25. As always, our builds aim to provide a high-quality, production-ready build of OpenJDK, with binaries tested across plat】我们很高兴地宣布，Microsoft的OpenJDK二进制文件现在可用于Java 25。与往常一样，我们的构建旨在提供高质量的，可准备的OpenJDK，并在Plat上测试了二进制文件</description>
+      <pubDate>Tue, 30 Sep 2025 00:33:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Data API builder 1.6: Advanced Behaviors with Special HTTP Headers】数据API构建器1.6：具有特殊HTTP标头的高级行为</title>
+      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-16-http-headers</link>
+      <description>【Data API builder (DAB) provides REST and GraphQL endpoints over SQL Server, Azure Cosmos DB, PostgreSQL, MySQL, and SQL Data Warehouse. REST endpoints support several HTTP headers that let you control how requests behave. These headers give you precision over updates, caching, and discovering new resources.】数据API构建器（DAB）通过SQL Server，Azure Cosmos DB，PostgreSQL，MySQL和SQL数据仓库提供REST和GRAPHQL端点。 REST端点支持几个HTTP标头，可让您控制请求的行为方式。这些标题为您提供了更新，缓存和发现新资源的精确度。</description>
+      <pubDate>Mon, 29 Sep 2025 17:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Fixing Overload Resolution For Parameter Arrays in C++/CLI】修复C ++/CLI中参数阵列的过载分辨率</title>
+      <link>https://devblogs.microsoft.com/cppblog/fixing-overload-resolution-for-parameter-arrays-in-c-cli</link>
+      <description>【Introduction In the below discussion, .NET Framework refers to the older version of the Microsoft Common Language Runtime, also known as &#34;Desktop Framework&#34; (versions 4.0 through 4.8.x) while .NET  refers t】引言在以下讨论中，.NET框架是指Microsoft通用语言运行时的旧版本，也称为“桌面框架”（版本4.0至4.8.x版本），而.NET则是指t</description>
+      <pubDate>Mon, 29 Sep 2025 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I enumerate the overflow icons in the Notification Area without showing them?】如果不显示通知区域，我如何列举通知区域中的溢出图标？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20250929-00/?p=111637</link>
+      <description>【Some time ago, I demonstrated enumerating notification icons via UI Automation. Part of the exercise was enumerating the icons in the overflow area. This was done by finding the button that expands the over】不久前，我通过UI自动化表明了列举通知图标。练习的一部分是列举溢流区域中的图标。这是通过找到扩展超过的按钮来完成的</description>
+      <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Preparing Your .NET MAUI Apps for Google Play&#39;s 16 KB Page Size Requirement】为Google Play的16 KB页面尺寸要求准备.NET MAUI应用程序</title>
       <link>https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support</link>
       <description>【If you&#39;re a .NET MAUI developer publishing apps to Google Play, there&#39;s an important requirement coming your way. Starting November 1st, 2025, Google Play will require all new apps and updates targeting Android 15+ to support 16 KB page sizes on 64-bit devices. What is the 16 KB Page Size Requirement? Androi】如果您是Google Play的.NET MAUI开发人员发布应用程序，那么您的方式就会有一个重要的要求。从2025年11月1日开始，Google Play将需要所有针对Android 15+的更新，以支持64位设备上的16 KB页面尺寸。 16 KB页面大小的要求是什么？ Androi</description>
@@ -20,48 +62,6 @@
       <link>https://devblogs.microsoft.com/python/simplifying-resource-management-in-mssql-python-through-context-manager</link>
       <description>【Reviewed by: Sumit Sarabhai】评论者：Sumit Sarabhai</description>
       <pubDate>Fri, 26 Sep 2025 09:49:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlocking MCP in JetBrains: How Copilot Uses Sampling, Prompts, Resources, and Elicitation】解锁Jetbrains：Copilot如何使用采样，提示，资源和启发</title>
-      <link>https://devblogs.microsoft.com/java/unlocking-mcp-in-jetbrains-how-copilot-uses-sampling-prompts-resources-and-elicitation</link>
-      <description>【With the enhanced capability of the MCP on JetBrains, you can now bring prompts, resources, and even interac】随着MCP在喷气桥上的功能增强，您现在可以带来提示，资源，甚至可以携带Interac</description>
-      <pubDate>Fri, 26 Sep 2025 07:46:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2509.25 - support for new D3D features and devices, and misc bug fixes】PIX 2509.25-支持新的D3D功能和设备，以及MISC错误修复</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2509-25</link>
-      <description>【Today we released PIX version 2509.25, which can be downloaded here. This release includes everything in the previous 2507.11 release, plus: A compatibility fix to make PIX work on Windows 11 24H2 or 25H2 with K】今天，我们发布了PIX版本2509.25，可以在此处下载。此版本包括上一版中的所有内容，以及：使pix在Windows 11 24H2或25H2上使用k的兼容性修复</description>
-      <pubDate>Thu, 25 Sep 2025 21:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Aspire 9.5】宣布Aspire 9.5</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95</link>
-      <description>【Aspire 9.5 is here with exciting new features and improvements that enhance the developer experience for building distributed applications. For the complete list of changes and technical details, visit the official Aspire 9.5 release notes. Let&#39;s】Aspire 9.5在这里具有令人兴奋的新功能和改进，可增强开发人员用于构建分布式应用程序的体验。有关更改和技术细节的完整列表，请访问官方Aspire 9.5发行说明。让我们</description>
-      <pubDate>Thu, 25 Sep 2025 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agility SDK 1.618: Advanced Shader Delivery and 1.716 out of preview】敏捷SDK 1.618：高级着色器交付和1.716的预览</title>
-      <link>https://devblogs.microsoft.com/directx/agility-sdk-1-618</link>
-      <description>【We are pleased to announce the retail release of AgilitySDK 1.618, available on Agility SDK Downloads today! This release promotes our 1.716 features out of preview and also】我们很高兴地宣布，Agilitysdk 1.618的零售发布，今天可在Agility SDK下载上使用！此版本促进了我们的1.716功能，从预览中提取</description>
-      <pubDate>Thu, 25 Sep 2025 17:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing WinUI Gallery 2.7】宣布Winui Gallery 2.7</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-winui-gallery-2-7</link>
-      <description>【&amp;nbs】＆nbs</description>
-      <pubDate>Thu, 25 Sep 2025 16:33:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Data API builder 1.6: Flexible Logging for Every Developer】数据API构建器1.6：每个开发人员的灵活记录</title>
-      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-16-logging</link>
-      <description>【Previously, developers were limited to the default log levels and filters hardcoded into DAB. With release 1.6, you can now configure filters and levels for logs emitted by the engine. This release also adds new sinks. In addition to Application Insights and OpenTelemetry publishing, Data API builder now suppo】以前，开发人员仅限于默认日志级别，并将过滤器用于DAB。使用Release 1.6，您现在可以为发动机发射的日志配置过滤器和级别。此版本还增加了新的水槽。除了应用程序见解和OpenTelemetry Publishing外，数据API构建器现在可以支持</description>
-      <pubDate>Thu, 25 Sep 2025 16:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Samples note: Use comments to describe what code does, not what you wish the code would do】示例注意：使用注释来描述代码的作用，而不是您希望代码会做什么</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250925-00/?p=111627</link>
-      <description>【Windows API design is samples-driven. This means that when a team proposes an API, we want them to demonstrate how to use that API with a sample code fragment. We do this so that we can evaluate the ergonomics of the API and see】Windows API设计是样品驱动的。这意味着，当团队提出API时，我们希望他们演示如何使用示例代码片段使用该API。我们这样做，以便我们可以评估API的人体工程学并看到</description>
-      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
