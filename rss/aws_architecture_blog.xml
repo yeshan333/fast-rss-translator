@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>AWS实时支付编排的现代化</title>
+      <link>https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/</link>
+      <description></description>
+      <pubDate>Wed, 01 Oct 2025 23:34:00 +0000</pubDate>
+    </item>
+    <item>
       <title>建立有弹性的生成AI代理</title>
       <link>https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/</link>
       <description></description>
       <pubDate>Fri, 25 Jul 2025 13:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hashicorp如何通过Amazon应用程序恢复控制器使跨区域切换无缝</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/</link>
-      <description></description>
-      <pubDate>Fri, 25 Jul 2025 13:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【TypeScript 7 native preview in Visual Studio 2026】TypeScript 7 Visual Studio中的本机预览2026</title>
-      <link>https://devblogs.microsoft.com/blog/typescript-7-native-preview-in-visual-studio-2026</link>
-      <description>【In March of this year Anders Hejlsberg announced TypeScript 7 native preview and in May Daniel posted Announcing TypeScript Native Previews. Visual Studio 2026 Insiders n】今年3月，安德斯·赫尔斯伯格（Anders Hejlsberg）宣布了Typescript 7本地预览，丹尼尔（Daniel）发布了宣布打字稿本机预览的宣布。 Visual Studio 2026内部人员n</description>
-      <pubDate>Tue, 30 Sep 2025 16:04:20 +0000</pubDate>
+      <title>【Roadmap for AI in Visual Studio (October)】Visual Studio的AI路线图（10月）</title>
+      <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october</link>
+      <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，该路线图概述了通过AI驱动的代理体验发展视觉工作室的下一步。我们每个月都打算提供更智能，更快，更直观的工具，以增强您的编码体验。免责声明：此处概述的项目代表了当月正在进行的工作。他们</description>
+      <pubDate>Fri, 03 Oct 2025 19:29:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Microspeak: Convicted】微言：被定罪</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250930-00/?p=111639</link>
-      <description>【When you do something with conviction, you do so with full confidence that you are correct. But what is the verb that means &#34;To be fully confident that one is correct&#34;? At Microsoft, it is often backformed into the verb convict (stress on second syllable). This backformation typically happens in speech,】当您有信念做某事时，您会完全相信自己是正确的。但是，“完全有信心一个正确的动词”是什么意思？在微软，通常会将其反面到动词定罪中（第二个音节上的压力）。这种反映通常发生在语音中，</description>
-      <pubDate>Tue, 30 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Can we get weak functions for static linking? The Visual C++ compiler says &#34;We have weak functions at home&#34;】我们可以获得静态链接的弱功能吗？视觉C ++编译器说：“我们在家中的功能较弱”</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251003-00/?p=111650</link>
+      <description>【The ELF object file has this thing called &#34;weak functions&#34;. These are functions present in a library that are used by the linker to resolve a symbol only if the main program doesn&#39;t provide a resolution for them. The Visual C++ compiler doesn&#39;t have &#34;weak functions&#34; in this sense, but that doesn&#39;t mean that equivalent functionality】精灵对象文件具有称为“弱函数”的东西。这些是库中存在的函数，仅当主程序无法为其提供分辨率时，链接器使用的函数才能解析符号。从这个意义上讲，Visual C ++编译器没有“弱功能”，但这并不意味着等效功能</description>
+      <pubDate>Fri, 03 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio September Update - profiler agent, app modernization, and more】Visual Studio 9月更新 -  Profiler代理，应用现代化等等</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-september-update</link>
-      <description>【The September 2025 update for Visual Studio 2022 (v17.14) is now available. In this month, we are bringing you a fully integrated and game-changing agentic AI experience, from code generation to modernization, profiling, and code reviews.  】Visual Studio 2022（V17.14）的2025年9月更新现已可用。在本月，我们将为您带来完全集成和改变游戏的代理AI体验，从代码生成到现代化，分析和代码评论。  </description>
-      <pubDate>Tue, 30 Sep 2025 13:30:50 +0000</pubDate>
+      <title>【From Lab to Live: A Blueprint for a Voice-Powered AI Sales Coach】从实验室到现场：语音动力AI销售教练的蓝图</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/from-lab-to-live-a-blueprint-for-a-voice-powered-ai-sales-coach</link>
+      <description>【Until recently, building real-time voice AI for production was challenging. Developers faced hurdles such as managing audio streams and ensuring low-latency performance. That landscape is changing. The】直到最近，建立实时声音AI进行生产还是具有挑战性的。开发人员面临诸如管理音频流和确保低延迟性能之类的障碍。景观正在发生变化。这</description>
+      <pubDate>Fri, 03 Oct 2025 06:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft’s OpenJDK builds now ready for Java 25】Microsoft的OpenJDK现在可以为Java 25构建</title>
-      <link>https://devblogs.microsoft.com/java/microsofts-openjdk-builds-now-ready-for-java-25</link>
-      <description>【We’re excited to announce that the Microsoft Build of OpenJDK binaries are now available for Java 25. As always, our builds aim to provide a high-quality, production-ready build of OpenJDK, with binaries tested across plat】我们很高兴地宣布，Microsoft的OpenJDK二进制文件现在可用于Java 25。与往常一样，我们的构建旨在提供高质量的，可准备的OpenJDK，并在Plat上测试了二进制文件</description>
-      <pubDate>Tue, 30 Sep 2025 00:33:04 +0000</pubDate>
+      <title>【VS Live! Orlando – Your Ultimate Learning Adventure】VS Live！奥兰多 - 您的最终学习冒险</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025</link>
+      <description>【Imagine swapping stories with fellow developers over dinner as the Florida sun sets, then beginning the next morning with a stroll past the resort’s palm-lined walkways before catching your first session across】想象一下佛罗里达太阳的景点与其他开发人员在晚餐时交换故事，然后在第二天早上开始漫步，经过度假村的棕榈衬里人行道，然后抓住了您的第一届会议</description>
+      <pubDate>Thu, 02 Oct 2025 16:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Data API builder 1.6: Advanced Behaviors with Special HTTP Headers】数据API构建器1.6：具有特殊HTTP标头的高级行为</title>
-      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-16-http-headers</link>
-      <description>【Data API builder (DAB) provides REST and GraphQL endpoints over SQL Server, Azure Cosmos DB, PostgreSQL, MySQL, and SQL Data Warehouse. REST endpoints support several HTTP headers that let you control how requests behave. These headers give you precision over updates, caching, and discovering new resources.】数据API构建器（DAB）通过SQL Server，Azure Cosmos DB，PostgreSQL，MySQL和SQL数据仓库提供REST和GRAPHQL端点。 REST端点支持几个HTTP标头，可让您控制请求的行为方式。这些标题为您提供了更新，缓存和发现新资源的精确度。</description>
-      <pubDate>Mon, 29 Sep 2025 17:30:35 +0000</pubDate>
+      <title>【Azure SDK Release (September 2025)】Azure SDK发布（2025年9月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
+      <pubDate>Thu, 02 Oct 2025 15:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Fixing Overload Resolution For Parameter Arrays in C++/CLI】修复C ++/CLI中参数阵列的过载分辨率</title>
-      <link>https://devblogs.microsoft.com/cppblog/fixing-overload-resolution-for-parameter-arrays-in-c-cli</link>
-      <description>【Introduction In the below discussion, .NET Framework refers to the older version of the Microsoft Common Language Runtime, also known as &#34;Desktop Framework&#34; (versions 4.0 through 4.8.x) while .NET  refers t】引言在以下讨论中，.NET框架是指Microsoft通用语言运行时的旧版本，也称为“桌面框架”（版本4.0至4.8.x版本），而.NET则是指t</description>
-      <pubDate>Mon, 29 Sep 2025 14:00:08 +0000</pubDate>
+      <title>【The problem with inferring from a function call operator is that there may be more than one】从函数调用操作员推断出的问题是，可能有多个</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251002-00/?p=111647</link>
+      <description>【Some time ago, I wrote briefly on writing a helper class for generating a particular category of C callback wrappers around C++ methods. This particular】不久前，我简要撰写了为编写辅助课程的文章，用于在C ++方法上生成特定类别的C回调包装器。这个特别</description>
+      <pubDate>Thu, 02 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I enumerate the overflow icons in the Notification Area without showing them?】如果不显示通知区域，我如何列举通知区域中的溢出图标？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250929-00/?p=111637</link>
-      <description>【Some time ago, I demonstrated enumerating notification icons via UI Automation. Part of the exercise was enumerating the icons in the overflow area. This was done by finding the button that expands the over】不久前，我通过UI自动化表明了列举通知图标。练习的一部分是列举溢流区域中的图标。这是通过找到扩展超过的按钮来完成的</description>
-      <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【Leveraging Fabric Eventhouse to Store Great Expectations Validation Results】利用Fabric Eventhouse存储良好的期望验证结果</title>
+      <link>https://devblogs.microsoft.com/ise/leveraging-fabric-eventhouse-to-store-great-expectations-validation-results</link>
+      <description>【In a previous post, we explored how to perform data validations with Great Expectations (GX) in Microsoft Fabric. We walked through how to set up the validation framework and ensure your data meets the quality standards expected. Now, in thi】在上一篇文章中，我们探索了如何在Microsoft Fabric中以良好的期望（GX）执行数据验证。我们浏览了如何设置验证框架，并确保您的数据符合预期的质量标准。现在，在蒂</description>
+      <pubDate>Thu, 02 Oct 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Preparing Your .NET MAUI Apps for Google Play&#39;s 16 KB Page Size Requirement】为Google Play的16 KB页面尺寸要求准备.NET MAUI应用程序</title>
-      <link>https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support</link>
-      <description>【If you&#39;re a .NET MAUI developer publishing apps to Google Play, there&#39;s an important requirement coming your way. Starting November 1st, 2025, Google Play will require all new apps and updates targeting Android 15+ to support 16 KB page sizes on 64-bit devices. What is the 16 KB Page Size Requirement? Androi】如果您是Google Play的.NET MAUI开发人员发布应用程序，那么您的方式就会有一个重要的要求。从2025年11月1日开始，Google Play将需要所有针对Android 15+的更新，以支持64位设备上的16 KB页面尺寸。 16 KB页面大小的要求是什么？ Androi</description>
-      <pubDate>Fri, 26 Sep 2025 17:05:00 +0000</pubDate>
+      <title>【What’s New in vcpkg (September 2025)】VCPKG的新功能（2025年9月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2025</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.09.17 registry release, the 2025-08-29 and】此博客文章总结了VCPKG软件包管理器的更改，作为2025.09.17注册表版本，2025-08-29和</description>
+      <pubDate>Thu, 02 Oct 2025 05:29:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Why didn&#39;t Windows 95 setup install a miniature Windows 95 so that it could be written as a 32-bit program?】为什么Windows 95设置不安装微型Windows 95，以便可以将其写入32位程序？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20250926-00/?p=111629</link>
-      <description>【I noted some time ago that Windows 95 Setup was actually three programs running under three different operating systems. The first part was an MS-DOS program, which was used if you installed Windows 9】我一段时间以前指出，Windows 95设置实际上是在三个不同的操作系统下运行的三个程序。第一部分是MS-DOS程序，如果您安装了Windows 9</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+      <title>【The $150 Secret Hiding in Plain Sight】$ 150的秘密隐藏在朴素的视线中</title>
+      <link>https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio</link>
+      <description>【Picture this: I’m standing in front of 400+ developers at Visual Studio Live! Redmond, right here on the Microsoft campus in Building 33, about to reveal what I call the hidden value of a Visual Studio subscription. I pull up a simple question on the screen:】图片：我站在Visual Studio Live的400多个开发人员面前！雷德蒙德（Redmond），就在33号建筑物的Microsoft校园里，即将揭示我所说的Visual Studio订阅的隐藏价值。我在屏幕上提起一个简单的问题：</description>
+      <pubDate>Wed, 01 Oct 2025 16:27:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Simplifying Resource Management in mssql-python through Context Manager】通过上下文管理器简化MSSQL-Python中的资源管理</title>
-      <link>https://devblogs.microsoft.com/python/simplifying-resource-management-in-mssql-python-through-context-manager</link>
-      <description>【Reviewed by: Sumit Sarabhai】评论者：Sumit Sarabhai</description>
-      <pubDate>Fri, 26 Sep 2025 09:49:51 +0000</pubDate>
+      <title>【Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer】引入Microsoft Agent Framework（预览）：使每个开发人员简单地使AI代理</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview</link>
+      <description>【Building AI agents shouldn&#39;t be rocket science. Yet many developers find themselves wrestling with complex orchestration logic, struggling to connect multiple AI models, or spending weeks building hosting infrastructure just to get a simple agent into production. What if building an AI agent could be as straightforward as creating a web API】建造AI代理不应是火箭科学。然而，许多开发人员发现自己以复杂的编排逻辑来搏斗，努力连接多个AI模型，或者花几周的时间建立托管基础架构，只是为了使一个简单的代理进入生产。如果构建AI代理与创建Web API一样直接</description>
+      <pubDate>Wed, 01 Oct 2025 14:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

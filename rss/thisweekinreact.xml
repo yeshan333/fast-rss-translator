@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #252: React 19.2, Activity, useEffectEvent, Compiler, Astro, StyleX, Docusaurus | Vega OS, Voltra, NativeScript, Expo Router, NativeWind, Lynx, Maestro | TC39, Temporal, Baseline, State Of JS, Supply Chain, MCP】本周在React＃252：React 19.2，活动，USEFEFFECTEVENT，COMPILER，ASTRO，Stylex，Docusaurus | Vega OS，Voltra，Nativescript，Expo Router，本地风，Lynx，Maestro | TC39，时间，基线，JS状态，供应链，MCP</title>
+      <link>https://thisweekinreact.com/newsletter/252</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #251: TanStack, React Router, RSC, ESLint, Vite, ViewTransition | Nitro Modules, Expo Workflows, Live Activity, Nitro Fetch, IAP | CSS, HTML, WASM, knip, npm】本周在React＃251中：Tanstack，React Router，RSC，Eslint，Vite，View Transition |硝基模块，博览会工作流，现场活动，硝基提取，IAP | CSS，HTML，WASM，Knip，NPM</title>
       <link>https://thisweekinreact.com/newsletter/251</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/248</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #247: nuqs, Concurrent React, Apollo, shadcn, Streamdown, Fragment Refs, Waku, React-Aria | Expo Launch, Maestro, SPM, Screens, ExecuTorch, BottomSheet, Jest | Zod, Rspack, ESLint, CSS, Bun, Firefox】本周在React＃247中：NUQS，并发，Apollo，Shadcn，StreamDown，Fragment Refs，Waku，React-aria |博览会发射，大师，SPM，屏幕，executorch，底部表，开玩笑| ZOD，RSPACK，ESLINT，CSS，BUN，FIREFOX</title>
-      <link>https://thisweekinreact.com/newsletter/247</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Last Call: Enrollment for the AI Engineering Cohort Ends Today】上次通话：AI工程队列的注册今天结束</title>
+      <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering</link>
+      <description>【Our very first cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们成为AI工程师的第一个队列从一天开始。这是与畅销书作家阿里·阿米尼亚（Ali Aminian）合作创建的，由Bytebytego出版的实时，基于队列的课程。</description>
+      <pubDate>Fri, 03 Oct 2025 14:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Service Discovery 101: The Phonebook for Distributed Systems】服务发现101：分布式系统电话簿</title>
+      <link>https://blog.bytebytego.com/p/service-discovery-101-the-phonebook</link>
+      <description>【How do all these services find and communicate with each other in this constantly shifting landscape?】在这种不断变化的景观中，所有这些服务如何找到并相互交流？</description>
+      <pubDate>Thu, 02 Oct 2025 15:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Airbnb Runs Distributed Databases on Kubernetes at Scale】Airbnb如何大规模运行Kubernetes上的分布数据库</title>
+      <link>https://blog.bytebytego.com/p/how-airbnb-runs-distributed-databases</link>
+      <description>【In this article, we will look at how Airbnb implemented this design and the challenges they faced.】在本文中，我们将研究Airbnb如何实施这一设计及其面临的挑战。</description>
+      <pubDate>Wed, 01 Oct 2025 15:30:18 +0000</pubDate>
+    </item>
+    <item>
       <title>【Why Anthropic’s MCP is a Big Deal】为什么人类的MCP很重要</title>
       <link>https://blog.bytebytego.com/p/why-anthropics-mcp-is-a-big-deal</link>
       <description>【In this article, we will look at MCP in detail and explore what makes it such an important component in the AI landscape.】在本文中，我们将详细研究MCP，并探索使其成为AI景观中如此重要组成部分的原因。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-rag-enables-ai-for-your-data</link>
       <description>【Large Language Models like GPT-4 and Claude have transformed the way we interact with computers.】GPT-4和Claude等大型语言模型已经改变了我们与计算机互动的方式。</description>
       <pubDate>Tue, 23 Sep 2025 15:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Meta Animates Billions of AI-generated Images】元如何使数十亿个AI生成的图像动画</title>
-      <link>https://blog.bytebytego.com/p/how-meta-animates-billions-of-ai</link>
-      <description>【In this article, we will look at how Meta implemented this feature and the challenges they faced.】在本文中，我们将研究Meta如何实施此功能以及它们面临的挑战。</description>
-      <pubDate>Mon, 22 Sep 2025 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP181: How Java Works】EP181：Java如何工作</title>
-      <link>https://blog.bytebytego.com/p/ep181-how-java-works</link>
-      <description>【Ever wondered what happens behind the scenes when you run a Java program?】有没有想过当您运行Java程序时幕后会发生什么？</description>
-      <pubDate>Sat, 20 Sep 2025 15:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Understanding Load Balancers: Traffic Management at Scale】了解负载平衡器：大规模交通管理</title>
-      <link>https://blog.bytebytego.com/p/understanding-load-balancers-traffic</link>
-      <description>【When applications grow beyond a single server, they face the challenge of handling more users, more data, and more requests than one machine can manage.】当应用程序超越单个服务器时，他们面临着处理更多用户，更多的数据和更多请求的挑战，而不是一台计算机可以管理的挑战。</description>
-      <pubDate>Thu, 18 Sep 2025 15:30:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
