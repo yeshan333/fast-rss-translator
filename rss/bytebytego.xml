@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How OpenAI Uses Kubernetes And Apache Kafka for GenAI】Openai如何将Kubernetes和Apache Kafka用于Genai</title>
+      <link>https://blog.bytebytego.com/p/how-openai-uses-kubernetes-and-apache</link>
+      <description>【In this article, we will understand how OpenAI built such a system and the challenges they faced.】在本文中，我们将了解Openai如何建立这样的系统以及它们面临的挑战。</description>
+      <pubDate>Mon, 06 Oct 2025 15:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP183: MCP vs API: what’s the difference?】EP183：MCP vs API：有什么区别？</title>
+      <link>https://blog.bytebytego.com/p/ep183-mcp-vs-api-whats-the-difference</link>
+      <description>【APIs have been the backbone of software-to-software communication for decades.】几十年来，API 一直是软件间通信的支柱。</description>
+      <pubDate>Sat, 04 Oct 2025 15:30:45 +0000</pubDate>
+    </item>
+    <item>
       <title>【Last Call: Enrollment for the AI Engineering Cohort Ends Today】上次通话：AI工程队列的注册今天结束</title>
       <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering</link>
       <description>【Our very first cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们成为AI工程师的第一个队列从一天开始。这是与畅销书作家阿里·阿米尼亚（Ali Aminian）合作创建的，由Bytebytego出版的实时，基于队列的课程。</description>
@@ -49,20 +61,8 @@
     <item>
       <title>【GraphQL 101: API Approach Beyond REST】GraphQL 101：API接近休息</title>
       <link>https://blog.bytebytego.com/p/graphql-101-api-approach-beyond-rest</link>
-      <description>【In this article, we will start with the basic concepts of GraphQL, covering how it works and why it has become so popular. From there, we will look at different ways GraphQL can be used as part of system architecture, from simple deployments to large-scale environments.】在本文中，我们将从GraphQl的基本概念开始，涵盖它的工作原理以及为什么变得如此受欢迎。从那里开始，我们将研究GraphQL可以用作系统体系结构的一部分，从简单部署到大规模环境。</description>
+      <description>【In this article, we will start with the basic concepts of GraphQL, covering how it works and why it has become so popular. From there, we will look at different ways GraphQL can be used as part of system architecture, from simple deployments to large-scale environments.】在本文中，我们将从 GraphQL 的基本概念开始，介绍它的工作原理以及它为何如此流行。从那里，我们将研究 GraphQL 作为系统架构一部分的不同方式，从简单的部署到大规模环境。</description>
       <pubDate>Thu, 25 Sep 2025 15:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Fine-Tuning Transforms Generic AI Models into Specialists】微调如何将通用AI模型转化为专家</title>
-      <link>https://blog.bytebytego.com/p/how-fine-tuning-transforms-generic</link>
-      <description>【In this article, we will understand how fine-tuning works at a conceptual level, the different approaches available, and breakthrough techniques like LoRA that have democratized access to AI customization.】在本文中，我们将了解微调如何在概念层面，可用的不同方法以及像Lora这样的突破性技术来使AI自定义访问民主化。</description>
-      <pubDate>Wed, 24 Sep 2025 15:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How RAG Enables AI For Your Data】RAG如何启用AI的数据</title>
-      <link>https://blog.bytebytego.com/p/how-rag-enables-ai-for-your-data</link>
-      <description>【Large Language Models like GPT-4 and Claude have transformed the way we interact with computers.】GPT-4和Claude等大型语言模型已经改变了我们与计算机互动的方式。</description>
-      <pubDate>Tue, 23 Sep 2025 15:31:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

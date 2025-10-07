@@ -4,7 +4,7 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
-      <title>【3 things you can do to get closer to five nines】您可以做的3件事使接近五个九</title>
+      <title>【3 things you can do to get closer to five nines】您可以做三件事来接近五个九</title>
       <link>https://www.gremlin.com/blog/3-things-you-can-do-to-get-closer-to-five-nines</link>
       <description>【3 proven practices to achieve 99.999% uptime. Learn how teams reach five nines through weekly testing, on-call rotations, and visibility.】3个实现的实践可实现99.999％的正常运行时间。通过每周的测试，每次旋转和可见性了解团队如何达到五个九个。</description>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
@@ -42,7 +42,7 @@
     <item>
       <title>【Measure your reliability risk, not your engineers】衡量您的可靠性风险，而不是工程师</title>
       <link>https://www.gremlin.com/blog/measure-your-reliability-risk-not-your-engineers</link>
-      <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应揭示风险，并使您的团队能够提高可靠性，而不是创造防御能力和责备游戏。</description>
+      <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应该发现风险并使您的团队能够提高可靠性，而不是制造防御性和指责游戏。</description>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -60,7 +60,7 @@
     <item>
       <title>【How to be prepared for cloud provider outages】如何为云提供商停电做好准备</title>
       <link>https://www.gremlin.com/blog/how-to-be-prepared-for-cloud-provider-outages</link>
-      <description>【Check out these testing best practices teams should follow to minimize the impact of cloud provider outages so they don’t catch you by surprise.】查看这些测试最佳实践团队应遵循，以最大程度地减少云提供商中断的影响，这样他们就不会惊讶地吸引您。</description>
+      <description>【Check out these testing best practices teams should follow to minimize the impact of cloud provider outages so they don’t catch you by surprise.】查看团队应遵循的这些测试最佳实践，以最大程度地减少云提供商中断的影响，这样他们就不会让您感到意外。</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>

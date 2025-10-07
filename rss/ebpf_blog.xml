@@ -4,13 +4,13 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
-      <title>【eBPF Foundation Announces Community &amp; Advocacy Fellowship Program】EBPF基金会宣布社区与倡导奖学金计划</title>
+      <title>【eBPF Foundation Announces Community &amp; Advocacy Fellowship Program】eBPF 基金会宣布社区和倡导奖学金计划</title>
       <link>https://ebpf.foundation/ebpf-foundation-announces-community-advocacy-fellowship-program/</link>
       <description>【The fellowship is a six-month grant for individuals who want to dedicate their time to growing and educating the eBPF community】奖学金是为期六个月的赠款</description>
       <pubDate>Thu, 14 Aug 2025 11:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Testing eBPF Program Compatibility Across Kernels with LVH and GitHub Actions】测试跨内核与LVH和GitHub动作的EBPF程序兼容性</title>
+      <title>【Testing eBPF Program Compatibility Across Kernels with LVH and GitHub Actions】使用 LVH 和 GitHub Actions 测试 eBPF 程序跨内核的兼容性</title>
       <link>https://ebpfchirp.substack.com/p/testing-ebpf-program-compatibility</link>
       <description>【GitHub Actions Meets Little VM Helper and eBPF】GitHub动作遇到了小VM助手和EBPF</description>
       <pubDate>Tue, 08 Jul 2025 17:00:00 +0000</pubDate>
@@ -24,7 +24,7 @@
     <item>
       <title>【Why Does My eBPF Program Work on One Kernel but Fail on Another?】为什么我的EBPF程序在一个内核上工作，而在另一个内核上失败？</title>
       <link>https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on</link>
-      <description>【Learn how to make eBPF programs portable across different Linux kernels using BPF CO-RE and BTF, and discover techniques for supporting systems without built-in BTF by embedding external BTF data.】了解如何使用BPF Co-RE和BTF使EBPF程序在不同的Linux内核上移植，并通过嵌入外部BTF数据来发现支持系统的技术，而无需内置BTF。</description>
+      <description>【Learn how to make eBPF programs portable across different Linux kernels using BPF CO-RE and BTF, and discover techniques for supporting systems without built-in BTF by embedding external BTF data.】了解如何使用 BPF CO-RE 和 BTF 使 eBPF 程序可在不同的 Linux 内核之间移植，并发现通过嵌入外部 BTF 数据来支持没有内置 BTF 的系统的技术。</description>
       <pubDate>Tue, 22 Apr 2025 09:55:00 +0000</pubDate>
     </item>
     <item>

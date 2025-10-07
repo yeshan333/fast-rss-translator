@@ -4,6 +4,24 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Changes to inline image representation in Outlook on the web and new Outlook for Windows】更改网络Outlook中的内联图像表示形式和Windows的新Outlook</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/changes-to-inline-images-in-outlook</link>
+      <description>【We’d like to inform you about an update to how inline images are represented in the HTML body of Outlook emails in Outlook on the web and the new Outlook for Windows. This change may impact how your add-in identifies and processes inline images when using the attachment ID. What’s changing? Previously, we represented inline imag】我们想通知您有关如何在网络Outlook和Windows的新Outlook中的HTML Outlook电子邮件中表示内联图像的更新。此更改可能会影响您的加载项在使用附件ID时如何识别和过程内联图像。发生什么变化？以前，我们代表内联图像</description>
+      <pubDate>Tue, 07 Oct 2025 01:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio Dev/Test Benefit Explained】Visual Studio Dev/Test益处解释了</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained</link>
+      <description>【Before joining Microsoft, I served as VP of Application Development at one of the largest temporary staffing companies in the United States. I’ll never forget the look on our CFO’s face when I told him we needed two to three additional cloud environments to support a large-scale modernization project. His】在加入微软之前，我曾在美国最大的临时人员配备公司之一担任应用程序开发副总裁。当我告诉他我们需要两个到三个额外的云环境来支持大规模的现代化项目时，我永远不会忘记CFO脸上的外观。他的</description>
+      <pubDate>Mon, 06 Oct 2025 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Code comments should apply to the state of the system at the point the comment &#34;executes&#34;】代码注释应适用于系统的状态，即注释“执行”</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655</link>
+      <description>【Comments inside the body of a function should apply to the state of the system at the point the comment &#34;executes&#34;. Here&#39;s an example of poor comment placement: // Widget is already vibrating, so we update the waveform in place. // Else the waveform parameters will be set when we start vibrating. if (waveformParameters !】在函数体内的注释应适用于系统“执行”时的系统状态。以下是评论不良的示例：//小部件已经在振动，因此我们更新了位置的波形。 //否则，当我们开始振动时，将设置波形参数。 if（waveformparameters！</description>
+      <pubDate>Mon, 06 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Roadmap for AI in Visual Studio (October)】Visual Studio的AI路线图（10月）</title>
       <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october</link>
       <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，该路线图概述了通过AI驱动的代理体验发展视觉工作室的下一步。我们每个月都打算提供更智能，更快，更直观的工具，以增强您的编码体验。免责声明：此处概述的项目代表了当月正在进行的工作。他们</description>
@@ -40,28 +58,10 @@
       <pubDate>Thu, 02 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Leveraging Fabric Eventhouse to Store Great Expectations Validation Results】利用Fabric Eventhouse存储良好的期望验证结果</title>
-      <link>https://devblogs.microsoft.com/ise/leveraging-fabric-eventhouse-to-store-great-expectations-validation-results</link>
-      <description>【In a previous post, we explored how to perform data validations with Great Expectations (GX) in Microsoft Fabric. We walked through how to set up the validation framework and ensure your data meets the quality standards expected. Now, in thi】在上一篇文章中，我们探索了如何在Microsoft Fabric中以良好的期望（GX）执行数据验证。我们浏览了如何设置验证框架，并确保您的数据符合预期的质量标准。现在，在蒂</description>
-      <pubDate>Thu, 02 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【What’s New in vcpkg (September 2025)】VCPKG的新功能（2025年9月）</title>
       <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2025</link>
       <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.09.17 registry release, the 2025-08-29 and】此博客文章总结了VCPKG软件包管理器的更改，作为2025.09.17注册表版本，2025-08-29和</description>
       <pubDate>Thu, 02 Oct 2025 05:29:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The $150 Secret Hiding in Plain Sight】$ 150的秘密隐藏在朴素的视线中</title>
-      <link>https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio</link>
-      <description>【Picture this: I’m standing in front of 400+ developers at Visual Studio Live! Redmond, right here on the Microsoft campus in Building 33, about to reveal what I call the hidden value of a Visual Studio subscription. I pull up a simple question on the screen:】图片：我站在Visual Studio Live的400多个开发人员面前！雷德蒙德（Redmond），就在33号建筑物的Microsoft校园里，即将揭示我所说的Visual Studio订阅的隐藏价值。我在屏幕上提起一个简单的问题：</description>
-      <pubDate>Wed, 01 Oct 2025 16:27:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer】引入Microsoft Agent Framework（预览）：使每个开发人员简单地使AI代理</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview</link>
-      <description>【Building AI agents shouldn&#39;t be rocket science. Yet many developers find themselves wrestling with complex orchestration logic, struggling to connect multiple AI models, or spending weeks building hosting infrastructure just to get a simple agent into production. What if building an AI agent could be as straightforward as creating a web API】建造AI代理不应是火箭科学。然而，许多开发人员发现自己以复杂的编排逻辑来搏斗，努力连接多个AI模型，或者花几周的时间建立托管基础架构，只是为了使一个简单的代理进入生产。如果构建AI代理与创建Web API一样直接</description>
-      <pubDate>Wed, 01 Oct 2025 14:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

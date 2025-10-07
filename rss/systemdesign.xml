@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【System Design Interview Question: Design Spotify】系统设计采访问题：设计Spotify</title>
+      <link>https://newsletter.systemdesign.one/p/spotify-system-design</link>
+      <description>【#93: System Design Interview (13 Minutes)】＃93：系统设计采访（13分钟）</description>
+      <pubDate>Mon, 06 Oct 2025 10:02:42 +0000</pubDate>
+    </item>
+    <item>
       <title>【API Versioning - A Deep Dive】API版本控制 - 深度潜水</title>
       <link>https://newsletter.systemdesign.one/p/api-versioning</link>
       <description>【#92: Understanding API Versioning Strategies (14 Minutes)】＃92：了解API版本控制策略（14分钟）</description>
@@ -19,11 +25,11 @@
     <item>
       <title>【5 Rate Limiting Strategies Explained, Simply 🚦】5所解释的速率限制策略，只是🚦</title>
       <link>https://newsletter.systemdesign.one/p/rate-limiting</link>
-      <description>【#90: Break Into Rate Limiting (5 Minutes)】＃90：限制速率（5分钟）</description>
+      <description>【#90: Break Into Rate Limiting (5 Minutes)】#90：突破速率限制（5 分钟）</description>
       <pubDate>Fri, 19 Sep 2025 18:20:54 +0000</pubDate>
     </item>
     <item>
-      <title>【How Sidecar Pattern Works ✨】边锋模式如何工作✨</title>
+      <title>【How Sidecar Pattern Works ✨】Sidecar 模式如何运作 ✨</title>
       <link>https://newsletter.systemdesign.one/p/sidecar-pattern</link>
       <description>【#89: Break Into Design Patterns (4 Minutes)】＃89：闯入设计模式（4分钟）</description>
       <pubDate>Thu, 18 Sep 2025 10:33:39 +0000</pubDate>
@@ -43,7 +49,7 @@
     <item>
       <title>【7 Best Practices for API Design 🔥】API设计的7种最佳实践🔥</title>
       <link>https://newsletter.systemdesign.one/p/best-practices-for-api-design</link>
-      <description>【#86: Break into API design (8 Minutes)】＃86：闯入API设计（8分钟）</description>
+      <description>【#86: Break into API design (8 Minutes)】#86：深入了解 API 设计（8 分钟）</description>
       <pubDate>Sun, 07 Sep 2025 11:00:37 +0000</pubDate>
     </item>
     <item>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/how-does-google-docs-work</link>
       <description>【#84: Break Into Google Docs Architecture (12 Minutes)】＃84：闯入Google Docs Architecture（12分钟）</description>
       <pubDate>Fri, 22 Aug 2025 11:50:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【HTTP Headers to Build 10X APIs 🔥】HTTP标头要构建10倍API🔥</title>
-      <link>https://newsletter.systemdesign.one/p/http-headers</link>
-      <description>【#83: Break Into HTTP Headers (15 Minutes)】＃83：闯入HTTP标头（15分钟）</description>
-      <pubDate>Tue, 19 Aug 2025 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
