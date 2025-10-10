@@ -5,64 +5,64 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【How OpenAI Uses Kubernetes And Apache Kafka for GenAI】Openai如何将Kubernetes和Apache Kafka用于Genai</title>
+      <title>【Domain Name System: The Internet’s Telephone Directory】域名系统：互联网的电话号码簿</title>
+      <link>https://blog.bytebytego.com/p/domain-name-system-the-internets</link>
+      <description>【In this article, we will look at the journey of a DNS query in detail, the various DNS records, and the role of Anycast in DNS.】在本文中，我们将详细了解 DNS 查询的过程、各种 DNS 记录以及 Anycast 在 DNS 中的作用。</description>
+      <pubDate>Thu, 09 Oct 2025 15:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Facebook’s Distributed Priority Queue Handles Trillions of Items】Facebook 的分布式优先级队列如何处理数万亿个项目</title>
+      <link>https://blog.bytebytego.com/p/how-facebooks-distributed-priority</link>
+      <description>【In this article, we look at how FOQS is structured, how it processes enqueues and dequeues, and how it maintains reliability.】在本文中，我们将了解 FOQS 的结构、它如何处理入队和出队以及它如何保持可靠性。</description>
+      <pubDate>Wed, 08 Oct 2025 15:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Flipkart Built a Highly Available MySQL Cluster for 150+ Million Users】Flipkart 如何为 1.5 亿以上用户构建高可用的 MySQL 集群</title>
+      <link>https://blog.bytebytego.com/p/how-flipkart-built-a-highly-available</link>
+      <description>【In this article, we will look at how Altair works under the hood, the technical decisions Flipkart made to balance availability and consistency, and the engineering trade-offs that come with running relational databases at a massive scale.】在本文中，我们将了解 Altair 的幕后工作原理、Flipkart 为平衡可用性和一致性而做出的技术决策，以及大规模运行关系数据库所带来的工程权衡。</description>
+      <pubDate>Tue, 07 Oct 2025 15:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How OpenAI Uses Kubernetes And Apache Kafka for GenAI】OpenAI 如何将 Kubernetes 和 Apache Kafka 用于 GenAI</title>
       <link>https://blog.bytebytego.com/p/how-openai-uses-kubernetes-and-apache</link>
-      <description>【In this article, we will understand how OpenAI built such a system and the challenges they faced.】在本文中，我们将了解Openai如何建立这样的系统以及它们面临的挑战。</description>
+      <description>【In this article, we will understand how OpenAI built such a system and the challenges they faced.】在这篇文章中，我们将了解 OpenAI 如何构建这样一个系统以及他们面临的挑战。</description>
       <pubDate>Mon, 06 Oct 2025 15:30:46 +0000</pubDate>
     </item>
     <item>
-      <title>【EP183: MCP vs API: what’s the difference?】EP183：MCP vs API：有什么区别？</title>
+      <title>【EP183: MCP vs API: what’s the difference?】EP183：MCP 与 API：有什么区别？</title>
       <link>https://blog.bytebytego.com/p/ep183-mcp-vs-api-whats-the-difference</link>
       <description>【APIs have been the backbone of software-to-software communication for decades.】几十年来，API 一直是软件间通信的支柱。</description>
       <pubDate>Sat, 04 Oct 2025 15:30:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Last Call: Enrollment for the AI Engineering Cohort Ends Today】上次通话：AI工程队列的注册今天结束</title>
+      <title>【Last Call: Enrollment for the AI Engineering Cohort Ends Today】最后的呼吁：人工智能工程队列的报名今天结束</title>
       <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering</link>
-      <description>【Our very first cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们成为AI工程师的第一个队列从一天开始。这是与畅销书作家阿里·阿米尼亚（Ali Aminian）合作创建的，由Bytebytego出版的实时，基于队列的课程。</description>
+      <description>【Our very first cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第一批“成为人工智能工程师”课程将在一天内开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
       <pubDate>Fri, 03 Oct 2025 14:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Service Discovery 101: The Phonebook for Distributed Systems】服务发现101：分布式系统电话簿</title>
+      <title>【Service Discovery 101: The Phonebook for Distributed Systems】服务发现 101：分布式系统的电话簿</title>
       <link>https://blog.bytebytego.com/p/service-discovery-101-the-phonebook</link>
-      <description>【How do all these services find and communicate with each other in this constantly shifting landscape?】在这种不断变化的景观中，所有这些服务如何找到并相互交流？</description>
+      <description>【How do all these services find and communicate with each other in this constantly shifting landscape?】在这个不断变化的环境中，所有这些服务如何相互找到并通信？</description>
       <pubDate>Thu, 02 Oct 2025 15:30:47 +0000</pubDate>
     </item>
     <item>
-      <title>【How Airbnb Runs Distributed Databases on Kubernetes at Scale】Airbnb如何大规模运行Kubernetes上的分布数据库</title>
+      <title>【How Airbnb Runs Distributed Databases on Kubernetes at Scale】Airbnb 如何在 Kubernetes 上大规模运行分布式数据库</title>
       <link>https://blog.bytebytego.com/p/how-airbnb-runs-distributed-databases</link>
-      <description>【In this article, we will look at how Airbnb implemented this design and the challenges they faced.】在本文中，我们将研究Airbnb如何实施这一设计及其面临的挑战。</description>
+      <description>【In this article, we will look at how Airbnb implemented this design and the challenges they faced.】在本文中，我们将了解 Airbnb 如何实施这一设计以及他们面临的挑战。</description>
       <pubDate>Wed, 01 Oct 2025 15:30:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Why Anthropic’s MCP is a Big Deal】为什么人类的MCP很重要</title>
+      <title>【Why Anthropic’s MCP is a Big Deal】为什么 Anthropic 的 MCP 很重要</title>
       <link>https://blog.bytebytego.com/p/why-anthropics-mcp-is-a-big-deal</link>
-      <description>【In this article, we will look at MCP in detail and explore what makes it such an important component in the AI landscape.】在本文中，我们将详细研究MCP，并探索使其成为AI景观中如此重要组成部分的原因。</description>
+      <description>【In this article, we will look at MCP in detail and explore what makes it such an important component in the AI landscape.】在本文中，我们将详细研究 MCP，并探讨是什么使它成为人工智能领域如此重要的组成部分。</description>
       <pubDate>Tue, 30 Sep 2025 15:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>【How Grab’s Migration from Go to Rust Cut Costs by 70%】Grab的迁移如何从生锈削减成本70％</title>
+      <title>【How Grab’s Migration from Go to Rust Cut Costs by 70%】Grab 从 Go 迁移到 Rust 如何将成本降低 70%</title>
       <link>https://blog.bytebytego.com/p/how-grabs-migration-from-go-to-rust</link>
-      <description>【Grab has long relied on Golang for most of its microservices. In this article, we look at how Grab migrated their counter service from Go to Rust, resulting in a 70% cost reduction.】Grab长期以来一直依赖Golang的大多数微服务。在本文中，我们研究了Grab如何从Rust迁移他们的柜台服务，从而降低了70％的成本。</description>
+      <description>【Grab has long relied on Golang for most of its microservices. In this article, we look at how Grab migrated their counter service from Go to Rust, resulting in a 70% cost reduction.】Grab 长期以来大部分微服务都依赖 Golang。在本文中，我们将了解 Grab 如何将其柜台服务从 Go 迁移到 Rust，从而降低了 70% 的成本。</description>
       <pubDate>Mon, 29 Sep 2025 15:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course】注册的最后机会|成为AI工程师|基于队列的课程</title>
-      <link>https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai</link>
-      <description>【Our very first cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们成为AI工程师的第一个队列在不到一周的时间内就开始了。这是与畅销书作家阿里·阿米尼亚（Ali Aminian）合作创建的，由Bytebytego出版的实时，基于队列的课程。</description>
-      <pubDate>Sun, 28 Sep 2025 15:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP182: Cookies vs Sessions】EP182：cookie vs sessions</title>
-      <link>https://blog.bytebytego.com/p/ep182-cookies-vs-sessions</link>
-      <description>【Every web app needs a way to remember users after they log in, and the way they manage this makes a big difference in performance, scalability, and security of that web application.】每个Web应用程序都需要一种方法来记住用户登录后，并且他们管理此操作的方式对该Web应用程序的性能，可扩展性和安全性有很大的影响。</description>
-      <pubDate>Sat, 27 Sep 2025 15:30:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GraphQL 101: API Approach Beyond REST】GraphQL 101：API接近休息</title>
-      <link>https://blog.bytebytego.com/p/graphql-101-api-approach-beyond-rest</link>
-      <description>【In this article, we will start with the basic concepts of GraphQL, covering how it works and why it has become so popular. From there, we will look at different ways GraphQL can be used as part of system architecture, from simple deployments to large-scale environments.】在本文中，我们将从 GraphQL 的基本概念开始，介绍它的工作原理以及它为何如此流行。从那里，我们将研究 GraphQL 作为系统架构一部分的不同方式，从简单的部署到大规模环境。</description>
-      <pubDate>Thu, 25 Sep 2025 15:31:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

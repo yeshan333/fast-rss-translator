@@ -4,64 +4,64 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Chaos Engineering works, but it has to scale】混沌工程有效，但必须规模化</title>
+      <link>https://www.gremlin.com/blog/chaos-engineering-works-but-it-has-to-scale</link>
+      <description>【Chaos Engineering effectively improves the reliability of systems, but it can run into snags when you try to scale. Build on Chaos Engineering with these key actions.】混沌工程有效地提高了系统的可靠性，但当您尝试扩展时，它可能会遇到障碍。通过这些关键行动以混沌工程为基础。</description>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【3 things you can do to get closer to five nines】您可以做三件事来接近五个九</title>
       <link>https://www.gremlin.com/blog/3-things-you-can-do-to-get-closer-to-five-nines</link>
-      <description>【3 proven practices to achieve 99.999% uptime. Learn how teams reach five nines through weekly testing, on-call rotations, and visibility.】3个实现的实践可实现99.999％的正常运行时间。通过每周的测试，每次旋转和可见性了解团队如何达到五个九个。</description>
+      <description>【3 proven practices to achieve 99.999% uptime. Learn how teams reach five nines through weekly testing, on-call rotations, and visibility.】3 个经过验证的实践可实现 99.999% 的正常运行时间。了解团队如何通过每周测试、待命轮换和可见性达到五个九。</description>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to get fast, easy insights with the Gremlin MCP Server】如何使用Gremlin MCP服务器获得快速，简单的见解</title>
+      <title>【How to get fast, easy insights with the Gremlin MCP Server】如何使用 Gremlin MCP 服务器快速、轻松地获得见解</title>
       <link>https://www.gremlin.com/blog/how-to-get-fast-easy-insights-with-the-gremlin-mcp-server</link>
-      <description>【Find out how to quickly and easily uncover new reliability insights by using the Gremlin MCP Server and your favorite LLM.】通过使用Gremlin MCP服务器和您喜欢的LLM快速，轻松地发现新的可靠性见解。</description>
+      <description>【Find out how to quickly and easily uncover new reliability insights by using the Gremlin MCP Server and your favorite LLM.】了解如何使用 Gremlin MCP 服务器和您最喜欢的法学硕士快速轻松地发现新的可靠性见解。</description>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Fix issues faster with Recommended Remediations】通过建议的补救措施更快地解决问题</title>
+      <title>【Fix issues faster with Recommended Remediations】使用建议的补救措施更快地解决问题</title>
       <link>https://www.gremlin.com/blog/fix-issues-faster-with-recommended-remediations</link>
-      <description>【Recommended Remediation speeds up teams with tailored suggestions to help you address reliability risks before they cause failures.】建议的补救措施加快了量身定制建议的团队，以帮助您在造成失败之前解决可靠性风险。</description>
+      <description>【Recommended Remediation speeds up teams with tailored suggestions to help you address reliability risks before they cause failures.】建议的补救措施通过量身定制的建议加快团队速度，帮助您在可靠性风险导致故障之前解决它们。</description>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Experiment Analysis uncovers the cause behind failures】实验分析如何发现失败背后的原因</title>
+      <title>【How Experiment Analysis uncovers the cause behind failures】实验分析如何揭示失败背后的原因</title>
       <link>https://www.gremlin.com/blog/how-experiment-analysis-uncovers-the-cause-behind-failures</link>
-      <description>【Using knowledge of your data and your systems, Experiment Analysis connects the cause with the effect to help you pinpoint the root problem faster.】使用数据和系统的知识，实验分析将原因与效果联系起来，以帮助您更快地查明根部问题。</description>
+      <description>【Using knowledge of your data and your systems, Experiment Analysis connects the cause with the effect to help you pinpoint the root problem faster.】利用您的数据和系统知识，实验分析将原因与结果联系起来，帮助您更快地查明根本问题。</description>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Reliability Intelligence: your reliability expert】可靠性情报：您的可靠性专家</title>
       <link>https://www.gremlin.com/blog/reliability-intelligence-your-reliability-expert</link>
-      <description>【Gremlin’s Reliability Intelligence combines Experiment Analysis, Recommended Remediation, and an MCP Server to help teams increase reliability faster than ever.】Gremlin的可靠性情报结合了实验分析，建议的补救和MCP服务器，以帮助团队比以往任何时候都更快地提高可靠性。</description>
+      <description>【Gremlin’s Reliability Intelligence combines Experiment Analysis, Recommended Remediation, and an MCP Server to help teams increase reliability faster than ever.】Gremlin 的可靠性智能结合了实验分析、建议修复和 MCP 服务器，可帮助团队比以往更快地提高可靠性。</description>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Lessons from Alaska’s outage: Redundant ≠ resilient】阿拉斯加停电的教训：冗余≠弹性</title>
+      <title>【Lessons from Alaska’s outage: Redundant ≠ resilient】阿拉斯加停电的教训：冗余≠有弹性</title>
       <link>https://www.gremlin.com/blog/lessons-from-alaskas-outage-redundant-resilient</link>
-      <description>【Redundancy is a core part of designing resilient architectures, but only if you build the right amount of redundancy. Find that sweet spot of redundancy with resilience testing.】冗余是设计弹性体系结构的核心部分，但前提是您构建适量的冗余。在弹性测试中找到冗余的最佳位置。</description>
+      <description>【Redundancy is a core part of designing resilient architectures, but only if you build the right amount of redundancy. Find that sweet spot of redundancy with resilience testing.】冗余是设计弹性架构的核心部分，但前提是您构建了适量的冗余。通过弹性测试找到冗余的最佳点。</description>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Measure your reliability risk, not your engineers】衡量您的可靠性风险，而不是工程师</title>
+      <title>【Measure your reliability risk, not your engineers】衡量您的可靠性风险，而不是您的工程师</title>
       <link>https://www.gremlin.com/blog/measure-your-reliability-risk-not-your-engineers</link>
       <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应该发现风险并使您的团队能够提高可靠性，而不是制造防御性和指责游戏。</description>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【4 Chaos Engineering recommendations from Gartner】Gartner的4个混乱工程建议</title>
+      <title>【4 Chaos Engineering recommendations from Gartner】Gartner 的 4 项混沌工程建议</title>
       <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
-      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner最近为基础设施平台发布了2025年的炒作周期。这是他们采用混乱工程的四个关键建议。</description>
+      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner 最近发布了 2025 年基础设施平台技术成熟度曲线。以下是他们针对采用混沌工程提出的四项关键建议。</description>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Insights to keep AI applications reliable】让AI应用程序可靠的见解</title>
+      <title>【Insights to keep AI applications reliable】确保人工智能应用程序可靠的见解</title>
       <link>https://www.gremlin.com/blog/insights-to-keep-ai-applications-reliable</link>
-      <description>【AI has become a massive investment for companies, but how do you keep AI applications reliable? Check out these insights from Gremlin, Nobl9, and Pagerduty to find out!】AI已成为公司的大量投资，但是您如何使AI应用程序可靠？从Gremlin，Nobl9和Pagerduty中查看这些见解，以找出答案！</description>
+      <description>【AI has become a massive investment for companies, but how do you keep AI applications reliable? Check out these insights from Gremlin, Nobl9, and Pagerduty to find out!】人工智能已成为企业的巨额投资，但如何保持人工智能应用的可靠性？看看 Gremlin、Nobl9 和 Pagerduty 的这些见解即可找到答案！</description>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to be prepared for cloud provider outages】如何为云提供商停电做好准备</title>
-      <link>https://www.gremlin.com/blog/how-to-be-prepared-for-cloud-provider-outages</link>
-      <description>【Check out these testing best practices teams should follow to minimize the impact of cloud provider outages so they don’t catch you by surprise.】查看团队应遵循的这些测试最佳实践，以最大程度地减少云提供商中断的影响，这样他们就不会让您感到意外。</description>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,49 +4,49 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
-      <title>AWS实时支付编排的现代化</title>
+      <title>AWS 上实时支付编排的现代化</title>
       <link>https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/</link>
       <description></description>
       <pubDate>Wed, 01 Oct 2025 23:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>建立有弹性的生成AI代理</title>
+      <title>构建有弹性的生成式人工智能代理</title>
       <link>https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/</link>
       <description></description>
       <pubDate>Tue, 30 Sep 2025 15:11:51 +0000</pubDate>
     </item>
     <item>
-      <title>可扩展的，弹性数据库和搜索解决方案，用于构建的LancedB和Amazon S3的1B+向量</title>
+      <title>基于 LanceDB 和 Amazon S3 构建的可扩展、弹性的数据库和搜索解决方案，适用于 1B+ 向量</title>
       <link>https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/</link>
       <description></description>
       <pubDate>Mon, 22 Sep 2025 17:15:44 +0000</pubDate>
     </item>
     <item>
-      <title>通过具有成本意识的AWS KMS关键策略简化多租户加密</title>
+      <title>通过具有成本意识的 AWS KMS 密钥策略简化多租户加密</title>
       <link>https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/</link>
       <description></description>
       <pubDate>Thu, 21 Aug 2025 21:54:51 +0000</pubDate>
     </item>
     <item>
-      <title>Commbank如何使他们的Commsec交易平台高度可用且在操作上有弹性</title>
+      <title>CommBank 如何使其 CommSec 交易平台具有高可用性和运营弹性</title>
       <link>https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/</link>
       <description></description>
       <pubDate>Tue, 19 Aug 2025 23:49:16 +0000</pubDate>
     </item>
     <item>
-      <title>Karrot如何在AWS上建立功能平台，第1部分：动机和功能服务</title>
+      <title>Karrot 如何在 AWS 上构建功能平台，第 1 部分：动机和功能服务</title>
       <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/</link>
       <description></description>
       <pubDate>Thu, 14 Aug 2025 15:16:29 +0000</pubDate>
     </item>
     <item>
-      <title>Karrot如何在AWS上构建功能平台，第2部分：功能摄入</title>
+      <title>Karrot 如何在 AWS 上构建功能平台，第 2 部分：功能摄取</title>
       <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/</link>
       <description></description>
       <pubDate>Thu, 14 Aug 2025 15:16:27 +0000</pubDate>
     </item>
     <item>
-      <title>使用VLLM深度学习容器在Amazon EKS上部署LLM</title>
+      <title>使用 vLLM 深度学习容器在 Amazon EKS 上部署 LLM</title>
       <link>https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/</link>
       <description></description>
       <pubDate>Thu, 14 Aug 2025 15:09:51 +0000</pubDate>
@@ -58,7 +58,7 @@
       <pubDate>Fri, 01 Aug 2025 15:33:28 +0000</pubDate>
     </item>
     <item>
-      <title>Zapier如何在AWS lambda上运行孤立的任务和升级功能</title>
+      <title>Zapier 如何在 AWS Lambda 上运行隔离任务并大规模升级功能</title>
       <link>https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/</link>
       <description></description>
       <pubDate>Fri, 25 Jul 2025 13:30:06 +0000</pubDate>

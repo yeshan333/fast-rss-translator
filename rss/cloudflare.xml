@@ -4,63 +4,63 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【How we found a bug in Go&#39;s arm64 compiler】我们如何发现 Go 的 arm64 编译器中的错误</title>
+      <link>https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/</link>
+      <description>【 84 million requests a second means even rare bugs appear often. We&#39;ll reveal how we discovered a race condition in the Go arm64 compiler and got it fixed. 】每秒 8400 万个请求意味着即使罕见的错误也经常出现。我们将揭示如何在 Go arm64 编译器中发现竞争条件并修复它。</description>
+      <pubDate>Wed, 08 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Payload on Workers: a full-fledged CMS, running entirely on Cloudflare’s stack】Workers 上的有效负载：成熟的 CMS，完全在 Cloudflare 堆栈上运行</title>
       <link>https://blog.cloudflare.com/payload-cms-workers/</link>
       <description>【 We demonstrate how the open-source Payload CMS was ported to run entirely on Cloudflare&#39;s developer platform. 】我们演示了如何将开源 Payload CMS 移植到完全在 Cloudflare 的开发者平台上运行。</description>
       <pubDate>Tue, 30 Sep 2025 15:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Nationwide Internet shutdown in Afghanistan extends localized disruptions】阿富汗的全国性互联网关闭扩展了本地破坏</title>
+      <title>【Nationwide Internet shutdown in Afghanistan extends localized disruptions】阿富汗全国互联网关闭扩大了局部中断</title>
       <link>https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/</link>
-      <description>【 On September 29, 2025, Internet connectivity was completely shut down across Afghanistan, impacting business, education, finance, and government services. 】2025年9月29日，互联网连通性在阿富汗完全关闭，影响了商业，教育，金融和政府服务。</description>
+      <description>【 On September 29, 2025, Internet connectivity was completely shut down across Afghanistan, impacting business, education, finance, and government services. 】2025 年 9 月 29 日，阿富汗各地的互联网连接完全关闭，影响了商业、教育、金融和政府服务。</description>
       <pubDate>Tue, 30 Sep 2025 10:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【15 years of helping build a better Internet: a look back at Birthday Week 2025】15年帮助建立更好的互联网：回顾2025年生日周</title>
+      <title>【15 years of helping build a better Internet: a look back at Birthday Week 2025】15 年来帮助建设更好的互联网：回顾 2025 年生日周</title>
       <link>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</link>
-      <description>【 Rust-powered core systems, post-quantum upgrades, developer access for students, PlanetScale integration, open-source partnerships, and our biggest internship program ever — 1,111 interns in 2026. 】由生锈的核心系统，Quantum后升级，学生的开发人员访问，Planetscale集成，开源合作伙伴关系以及我们有史以来最大的实习计划 -  2026年1111名实习生。</description>
+      <description>【 Rust-powered core systems, post-quantum upgrades, developer access for students, PlanetScale integration, open-source partnerships, and our biggest internship program ever — 1,111 interns in 2026. 】Rust 支持的核心系统、后量子升级、学生开发人员访问权限、PlanetScale 集成、开源合作伙伴关系以及我们有史以来最大的实习计划 - 2026 年将有 1,111 名实习生。</description>
       <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Monitoring AS-SETs and why they matter】监视ASTES以及它们重要的原因</title>
-      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
-      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监视其ASN的ASET成员资格的一些原因，而现在CloudFlare Radar可以提供帮助。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【An AI Index for all our customers】我们所有客户的AI指数</title>
-      <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
-      <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】CloudFlare将很快为您的域名创建AI优化的搜索索引，并揭示一组现成的标准API和包括MCP Server，LLMS.TXT和搜索API在内的现成标准API和工具。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare just got faster and more secure, powered by Rust】Cloudflare刚刚变得更快，更安全，由Rust提供动力</title>
+      <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
       <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
       <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click】介绍天文台和智能盾牌 - 查看世界如何看待您的网站，并在一次点击中更快地使其更快</title>
+      <title>【Monitoring AS-SETs and why they matter】监控 AS-SET 及其重要性</title>
+      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
+      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监控其 ASN 的 AS-SET 成员资格的一些原因，现在 Cloudflare Radar 可以提供帮助。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【An AI Index for all our customers】适合我们所有客户的人工智能指数</title>
+      <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
+      <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】Cloudflare 很快就会自动为您的域创建 AI 优化的搜索索引，并公开一组即用型标准 API 和工具，包括 MCP 服务器、LLMs.txt 和搜索 API。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click】推出 Observatory 和 Smart Shield — 了解世界如何看待您的网站，一键使其速度更快</title>
       <link>https://blog.cloudflare.com/introducing-observatory-and-smart-shield/</link>
       <description>【 We&#39;re announcing two enhancements to our Application Performance suite that&#39;ll show how the world sees your website, and make it faster with one click - available Cloudflare Dashboard! 】我们宣布对我们的应用程序性能套件进行两项增强，将向全世界展示您的网站，并一键使其速度更快 - 可用的 Cloudflare 仪表板！</description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing new regional Internet traffic and Certificate Transparency insights on Cloudflare Radar】在Cloudflare Radar上引入新的区域互联网流量和证书透明度见解</title>
-      <link>https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/</link>
-      <description>【 Cloudflare Radar now offers a Certificate Transparency dashboard for monitoring TLS certificate activity,  and new regional traffic insights for a sub-national perspective on Internet trends. 】CloudFlare Radar现在提供了一个证书透明度仪表板，用于监视TLS证书活动，以及新的区域交通见解，以对Internet趋势的次国家视角。</description>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Eliminating Cold Starts 2: shard and conquer】消除寒冷开始2：碎片和征服</title>
-      <link>https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/</link>
-      <description>【 We reduced Cloudflare Workers cold starts by 10x by optimistically routing to servers with already-loaded Workers. Learn how we did it here. 】我们将Cloudflare工人的冷速度降低了10倍，通过与已经负载工人的服务器进行乐观的路由。了解我们在这里做的。</description>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Code Mode: the better way to use MCP】代码模式：使用MCP的更好方法</title>
+      <title>【Code Mode: the better way to use MCP】代码模式：更好的使用MCP的方式</title>
       <link>https://blog.cloudflare.com/code-mode/</link>
-      <description>【 It turns out we&#39;ve all been using MCP wrong. Most agents today use MCP by exposing the &#34;tools&#34; directly to the LLM. 】事实证明，我们都在使用MCP错误。如今，大多数代理商通过将“工具”直接暴露于LLM来使用MCP。</description>
+      <description>【 It turns out we&#39;ve all been using MCP wrong. Most agents today use MCP by exposing the &#34;tools&#34; directly to the LLM. 】事实证明我们都错误地使用了 MCP。如今，大多数代理人通过直接向 LLM 公开“工具”来使用 MCP。</description>
+      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing new regional Internet traffic and Certificate Transparency insights on Cloudflare Radar】在 Cloudflare Radar 上引入新的区域互联网流量和证书透明度见解</title>
+      <link>https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/</link>
+      <description>【 Cloudflare Radar now offers a Certificate Transparency dashboard for monitoring TLS certificate activity,  and new regional traffic insights for a sub-national perspective on Internet trends. 】Cloudflare Radar 现在提供用于监控 TLS 证书活动的证书透明度仪表板，以及用于从地方角度了解互联网趋势的新区域流量见解。</description>
       <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Changes to inline image representation in Outlook on the web and new Outlook for Windows】更改网络Outlook中的内联图像表示形式和Windows的新Outlook</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/changes-to-inline-images-in-outlook</link>
-      <description>【We’d like to inform you about an update to how inline images are represented in the HTML body of Outlook emails in Outlook on the web and the new Outlook for Windows. This change may impact how your add-in identifies and processes inline images when using the attachment ID. What’s changing? Previously, we represented inline imag】我们想通知您有关如何在网络Outlook和Windows的新Outlook中的HTML Outlook电子邮件中表示内联图像的更新。此更改可能会影响您的加载项在使用附件ID时如何识别和过程内联图像。发生什么变化？以前，我们代表内联图像</description>
-      <pubDate>Tue, 07 Oct 2025 01:25:47 +0000</pubDate>
+      <title>【Go 1.25.2-1 and 1.24.8-1 Microsoft builds now available】Go 1.25.2-1 和 1.24.8-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-25-2-1-and-1-24-8-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Fri, 10 Oct 2025 01:20:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Dev/Test Benefit Explained】Visual Studio Dev/Test益处解释了</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained</link>
-      <description>【Before joining Microsoft, I served as VP of Application Development at one of the largest temporary staffing companies in the United States. I’ll never forget the look on our CFO’s face when I told him we needed two to three additional cloud environments to support a large-scale modernization project. His】在加入微软之前，我曾在美国最大的临时人员配备公司之一担任应用程序开发副总裁。当我告诉他我们需要两个到三个额外的云环境来支持大规模的现代化项目时，我永远不会忘记CFO脸上的外观。他的</description>
-      <pubDate>Mon, 06 Oct 2025 15:52:00 +0000</pubDate>
+      <title>【Complete Beginner&#39;s Guide to Vibe Coding an App in 5 Minutes】5 分钟内完成 Vibe 应用程序编码初学者指南</title>
+      <link>https://devblogs.microsoft.com/blog/complete-beginners-guide-to-vibe-coding-an-app-in-5-minutes</link>
+      <description>【Picture this: I&#39;m staring at a CSV file containing metrics from 492 episodes of my podcast, Merge Conflict. Years of data—listen counts, retention rates, performance metrics—all sitting there, waiting to tell a story. But I&#39;m not in the mood to spend days building dashboards and wrangling data.】想象一下：我正盯着一个 CSV 文件，其中包含我的播客“合并冲突”的 492 集的指标。多年的数据——收听次数、保留率、绩效指标——全部都放在那里，等待讲述一个故事。但我没有心情花几天时间构建仪表板和整理数据。</description>
+      <pubDate>Thu, 09 Oct 2025 18:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Code comments should apply to the state of the system at the point the comment &#34;executes&#34;】代码注释应适用于系统的状态，即注释“执行”</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655</link>
-      <description>【Comments inside the body of a function should apply to the state of the system at the point the comment &#34;executes&#34;. Here&#39;s an example of poor comment placement: // Widget is already vibrating, so we update the waveform in place. // Else the waveform parameters will be set when we start vibrating. if (waveformParameters !】在函数体内的注释应适用于系统“执行”时的系统状态。以下是评论不良的示例：//小部件已经在振动，因此我们更新了位置的波形。 //否则，当我们开始振动时，将设置波形参数。 if（waveformparameters！</description>
-      <pubDate>Mon, 06 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【September 2025 (version 1.105)】2025 年 9 月（版本 1.105）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/september-2025-(version-1.105)</link>
+      <description>【Learn what is new in the Visual Studio Code September 2025 Release (1.105). Read the full article】了解 Visual Studio Code 2025 年 9 月版本 (1.105) 中的新增功能。阅读全文</description>
+      <pubDate>Thu, 09 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Roadmap for AI in Visual Studio (October)】Visual Studio的AI路线图（10月）</title>
-      <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october</link>
-      <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，该路线图概述了通过AI驱动的代理体验发展视觉工作室的下一步。我们每个月都打算提供更智能，更快，更直观的工具，以增强您的编码体验。免责声明：此处概述的项目代表了当月正在进行的工作。他们</description>
-      <pubDate>Fri, 03 Oct 2025 19:29:09 +0000</pubDate>
+      <title>【September 2025 (version 1.105)】2025 年 9 月（版本 1.105）</title>
+      <link>https://devblogs.microsoft.com/external-blogs/september-2025-version-1-105</link>
+      <description>【Learn what is new in the Visual Studio Code September 2025 Release (1.105). Read the full article】了解 Visual Studio Code 2025 年 9 月版本 (1.105) 中的新增功能。阅读全文</description>
+      <pubDate>Thu, 09 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Can we get weak functions for static linking? The Visual C++ compiler says &#34;We have weak functions at home&#34;】我们可以获得静态链接的弱功能吗？视觉C ++编译器说：“我们在家中的功能较弱”</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251003-00/?p=111650</link>
-      <description>【The ELF object file has this thing called &#34;weak functions&#34;. These are functions present in a library that are used by the linker to resolve a symbol only if the main program doesn&#39;t provide a resolution for them. The Visual C++ compiler doesn&#39;t have &#34;weak functions&#34; in this sense, but that doesn&#39;t mean that equivalent functionality】精灵对象文件具有称为“弱函数”的东西。这些是库中存在的函数，仅当主程序无法为其提供分辨率时，链接器使用的函数才能解析符号。从这个意义上讲，Visual C ++编译器没有“弱功能”，但这并不意味着等效功能</description>
-      <pubDate>Fri, 03 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【The self-assignment principle for Windows Runtime properties applies to default values】Windows 运行时属性的自分配原则适用于默认值</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251009-00/?p=111664</link>
+      <description>【Last time, I introduced the self-assignment principle for Windows Runtime properties: Setting a property to its current value is legal and】上次，我介绍了 Windows 运行时属性的自分配原则：将属性设置为其当前值是合法的，并且</description>
+      <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From Lab to Live: A Blueprint for a Voice-Powered AI Sales Coach】从实验室到现场：语音动力AI销售教练的蓝图</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/from-lab-to-live-a-blueprint-for-a-voice-powered-ai-sales-coach</link>
-      <description>【Until recently, building real-time voice AI for production was challenging. Developers faced hurdles such as managing audio streams and ensuring low-latency performance. That landscape is changing. The】直到最近，建立实时声音AI进行生产还是具有挑战性的。开发人员面临诸如管理音频流和确保低延迟性能之类的障碍。景观正在发生变化。这</description>
-      <pubDate>Fri, 03 Oct 2025 06:47:00 +0000</pubDate>
+      <title>【Working with Git Submodules: Managing Dependencies Across Repositories】使用 Git 子模块：管理跨存储库的依赖关系</title>
+      <link>https://devblogs.microsoft.com/ise/git-submodules-and-dependencies</link>
+      <description>【In complex software projects, it’s common to split functionality across multiple repositories. One common scenario arises when your main project depends on outputs or components developed in another repository that&#39;s also evolving in parallel. Managing this dependency effectively—especially when only a specific part of the secondary reposi】在复杂的软件项目中，将功能划分到多个存储库是很常见的。当您的主项目依赖于另一个并行发展的存储库中开发的输出或组件时，就会出现一种常见情况。有效管理这种依赖关系——尤其是当只有辅助存储库的特定部分时</description>
+      <pubDate>Thu, 09 Oct 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【VS Live! Orlando – Your Ultimate Learning Adventure】VS Live！奥兰多 - 您的最终学习冒险</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025</link>
-      <description>【Imagine swapping stories with fellow developers over dinner as the Florida sun sets, then beginning the next morning with a stroll past the resort’s palm-lined walkways before catching your first session across】想象一下佛罗里达太阳的景点与其他开发人员在晚餐时交换故事，然后在第二天早上开始漫步，经过度假村的棕榈衬里人行道，然后抓住了您的第一届会议</description>
-      <pubDate>Thu, 02 Oct 2025 16:00:38 +0000</pubDate>
+      <title>【Preparing for the .NET 10 GC (DATAS)】准备 .NET 10 GC（数据）</title>
+      <link>https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc</link>
+      <description>【This article is cross-posted from Maoni&#39;s blog post original Medium article Preparing for the .NET 10 GC by permission. Preparing for the .NET 10 GC In .NET 9 we enabled DATAS by default. But .NET 9 is not an LTS relea】本文经许可交叉发布自 Maoni 的博文原创 Medium 文章《Preparing for the .NET 10 GC》。准备 .NET 10 GC 在 .NET 9 中，我们默认启用 DATAS。但 .NET 9 不是 LTS 版本</description>
+      <pubDate>Wed, 08 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (September 2025)】Azure SDK发布（2025年9月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2025</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的Azure SDK的关注！我们每月发布新功能，改进和错误修复。订阅我们的Azure SDK博客RSS feed，以便在有新版本时通知。您可以在我们的包装，代码和文档中找到链接</description>
-      <pubDate>Thu, 02 Oct 2025 15:00:17 +0000</pubDate>
+      <title>【Windows Runtime API design principles around read-write properties: Idempotence and self-assignment】围绕读写属性的 Windows 运行时 API 设计原则：幂等性和自分配</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251008-00/?p=111660</link>
+      <description>【Objects in the Windows Runtime can have properties, and those properties could be read-only or read-write. For read-write properties, there are a few general principles. Today we&#39;re going to look at this one: Setting a property to its current value is legal and has no effect.¹ For example: // C# o】Windows 运行时中的对象可以具有属性，并且这些属性可以是只读的或读写的。对于读写属性，有一些一般原则。今天我们来看看这个：将属性设置为其当前值是合法的，并且没有任何效果。 1 例如： // C# o</description>
+      <pubDate>Wed, 08 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The problem with inferring from a function call operator is that there may be more than one】从函数调用操作员推断出的问题是，可能有多个</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251002-00/?p=111647</link>
-      <description>【Some time ago, I wrote briefly on writing a helper class for generating a particular category of C callback wrappers around C++ methods. This particular】不久前，我简要撰写了为编写辅助课程的文章，用于在C ++方法上生成特定类别的C回调包装器。这个特别</description>
-      <pubDate>Thu, 02 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Semantic Kernel and Microsoft Agent Framework】语义内核和 Microsoft Agent 框架</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-microsoft-agent-framework</link>
+      <description>【Last week we announced Microsoft Agent Framework, you can find all the details: In the blog post here: Introduci】上周我们发布了 Microsoft Agent Framework，您可以找到所有详细信息：在博客文章中：Introduci</description>
+      <pubDate>Wed, 08 Oct 2025 06:51:06 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (September 2025)】VCPKG的新功能（2025年9月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2025</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.09.17 registry release, the 2025-08-29 and】此博客文章总结了VCPKG软件包管理器的更改，作为2025.09.17注册表版本，2025-08-29和</description>
-      <pubDate>Thu, 02 Oct 2025 05:29:34 +0000</pubDate>
+      <title>【Announcing a new OData.NET serializer】宣布推出新的 OData.NET 序列化器</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-a-new-odata-net-serializer</link>
+      <description>【One of the major, recurring complaints of the OData.NET libraries is the performance overhead of the serialization stack. We have done a lot of work to improve the serialization performance, but the existing architecture limits how far we can go. For this reason, we have started work on a new serialization stack for OData.NET libraries that ad】OData.NET 库反复出现的主要抱怨之一是序列化堆栈的性能开销。我们做了很多工作来提高序列化性能，但现有的架构限制了我们能走多远。出于这个原因，我们已经开始为 OData.NET 库开发一个新的序列化堆栈，该堆栈</description>
+      <pubDate>Wed, 08 Oct 2025 06:28:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
