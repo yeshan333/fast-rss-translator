@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Introducing REACT: Why We Built an Elite Incident Response Team】REACT 简介：为什么我们建立精英事件响应团队</title>
+      <link>https://blog.cloudflare.com/introducing-react-why-we-built-an-elite-incident-response-team/</link>
+      <description>【 We&#39;re launching Cloudforce One REACT, a team of expert security responders designed to eliminate the gap between perimeter defense and internal incident response. 】我们正在推出 Cloudforce One REACT，这是一支由专家安全响应人员组成的团队，旨在消除外围防御和内部事件响应之间的差距。</description>
+      <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How we found a bug in Go&#39;s arm64 compiler】我们如何发现 Go 的 arm64 编译器中的错误</title>
       <link>https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/</link>
       <description>【 84 million requests a second means even rare bugs appear often. We&#39;ll reveal how we discovered a race condition in the Go arm64 compiler and got it fixed. 】每秒 8400 万个请求意味着即使罕见的错误也经常出现。我们将揭示如何在 Go arm64 编译器中发现竞争条件并修复它。</description>
@@ -28,18 +34,6 @@
       <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
-      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
-      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Monitoring AS-SETs and why they matter】监控 AS-SET 及其重要性</title>
-      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
-      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监控其 ASN 的 AS-SET 成员资格的一些原因，现在 Cloudflare Radar 可以提供帮助。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【An AI Index for all our customers】适合我们所有客户的人工智能指数</title>
       <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
       <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】Cloudflare 很快就会自动为您的域创建 AI 优化的搜索索引，并公开一组即用型标准 API 和工具，包括 MCP 服务器、LLMs.txt 和搜索 API。</description>
@@ -52,10 +46,16 @@
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Code Mode: the better way to use MCP】代码模式：更好的使用MCP的方式</title>
-      <link>https://blog.cloudflare.com/code-mode/</link>
-      <description>【 It turns out we&#39;ve all been using MCP wrong. Most agents today use MCP by exposing the &#34;tools&#34; directly to the LLM. 】事实证明我们都错误地使用了 MCP。如今，大多数代理人通过直接向 LLM 公开“工具”来使用 MCP。</description>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
+      <title>【Monitoring AS-SETs and why they matter】监控 AS-SET 及其重要性</title>
+      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
+      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监控其 ASN 的 AS-SET 成员资格的一些原因，现在 Cloudflare Radar 可以提供帮助。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
+      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
+      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Introducing new regional Internet traffic and Certificate Transparency insights on Cloudflare Radar】在 Cloudflare Radar 上引入新的区域互联网流量和证书透明度见解</title>

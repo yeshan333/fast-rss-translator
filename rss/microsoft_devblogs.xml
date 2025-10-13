@@ -4,6 +4,18 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Python in Visual Studio Code - October 2025 Release】Visual Studio Code 中的 Python - 2025 年 10 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2025-release</link>
+      <description>【We&#39;re excited to announce that the October 2025 release of the Python extensions for Visual Studio Code are now available! This release includes the following announcements: Python Environments extension improvements Enhanced testing】我们很高兴地宣布，2025 年 10 月版的 Visual Studio Code Python 扩展现已推出！此版本包括以下公告： Python 环境扩展改进 增强测试</description>
+      <pubDate>Fri, 10 Oct 2025 17:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The self-assignment principle for Windows Runtime properties: Don&#39;t change behavior based on whether a property has been written to】Windows 运行时属性的自分配原则：不要根据属性是否已写入来更改行为</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251010-00/?p=111673</link>
+      <description>【For the past few days, I&#39;ve been investigating the self-assignment principle for Windows Runtime properties: Setting a property to its current value is legal and has no effect. One corollary to this was that】这几天，我一直在研究Windows运行时属性的自分配原理：将属性设置为其当前值是合法的，并且没有任何效果。由此得出的一个推论是</description>
+      <pubDate>Fri, 10 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Go 1.25.2-1 and 1.24.8-1 Microsoft builds now available】Go 1.25.2-1 和 1.24.8-1 Microsoft 版本现已推出</title>
       <link>https://devblogs.microsoft.com/go/go-1-25-2-1-and-1-24-8-1-microsoft-builds-now-available</link>
       <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
@@ -17,13 +29,13 @@
     </item>
     <item>
       <title>【September 2025 (version 1.105)】2025 年 9 月（版本 1.105）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/september-2025-(version-1.105)</link>
+      <link>https://devblogs.microsoft.com/external-blogs/september-2025-version-1-105</link>
       <description>【Learn what is new in the Visual Studio Code September 2025 Release (1.105). Read the full article】了解 Visual Studio Code 2025 年 9 月版本 (1.105) 中的新增功能。阅读全文</description>
       <pubDate>Thu, 09 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【September 2025 (version 1.105)】2025 年 9 月（版本 1.105）</title>
-      <link>https://devblogs.microsoft.com/external-blogs/september-2025-version-1-105</link>
+      <link>https://devblogs.microsoft.com/vscode-blog/september-2025-(version-1.105)</link>
       <description>【Learn what is new in the Visual Studio Code September 2025 Release (1.105). Read the full article】了解 Visual Studio Code 2025 年 9 月版本 (1.105) 中的新增功能。阅读全文</description>
       <pubDate>Thu, 09 Oct 2025 17:00:00 +0000</pubDate>
     </item>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20251008-00/?p=111660</link>
       <description>【Objects in the Windows Runtime can have properties, and those properties could be read-only or read-write. For read-write properties, there are a few general principles. Today we&#39;re going to look at this one: Setting a property to its current value is legal and has no effect.¹ For example: // C# o】Windows 运行时中的对象可以具有属性，并且这些属性可以是只读的或读写的。对于读写属性，有一些一般原则。今天我们来看看这个：将属性设置为其当前值是合法的，并且没有任何效果。 1 例如： // C# o</description>
       <pubDate>Wed, 08 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Kernel and Microsoft Agent Framework】语义内核和 Microsoft Agent 框架</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-and-microsoft-agent-framework</link>
-      <description>【Last week we announced Microsoft Agent Framework, you can find all the details: In the blog post here: Introduci】上周我们发布了 Microsoft Agent Framework，您可以找到所有详细信息：在博客文章中：Introduci</description>
-      <pubDate>Wed, 08 Oct 2025 06:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing a new OData.NET serializer】宣布推出新的 OData.NET 序列化器</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-a-new-odata-net-serializer</link>
-      <description>【One of the major, recurring complaints of the OData.NET libraries is the performance overhead of the serialization stack. We have done a lot of work to improve the serialization performance, but the existing architecture limits how far we can go. For this reason, we have started work on a new serialization stack for OData.NET libraries that ad】OData.NET 库反复出现的主要抱怨之一是序列化堆栈的性能开销。我们做了很多工作来提高序列化性能，但现有的架构限制了我们能走多远。出于这个原因，我们已经开始为 OData.NET 库开发一个新的序列化堆栈，该堆栈</description>
-      <pubDate>Wed, 08 Oct 2025 06:28:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

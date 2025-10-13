@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP184: API Vs SDK! 】EP184：API 与 SDK！</title>
+      <link>https://blog.bytebytego.com/p/ep184-api-vs-sdk</link>
+      <description>【API (Application Programming Interface) and SDK (Software Development Kit) are essential tools in the software development world, but they serve distinct purposes.】API（应用程序编程接口）和 SDK（软件开发工具包）是软件开发领域中必不可少的工具，但它们具有不同的用途。</description>
+      <pubDate>Sat, 11 Oct 2025 15:30:23 +0000</pubDate>
+    </item>
+    <item>
       <title>【Domain Name System: The Internet’s Telephone Directory】域名系统：互联网的电话号码簿</title>
       <link>https://blog.bytebytego.com/p/domain-name-system-the-internets</link>
       <description>【In this article, we will look at the journey of a DNS query in detail, the various DNS records, and the role of Anycast in DNS.】在本文中，我们将详细了解 DNS 查询的过程、各种 DNS 记录以及 Anycast 在 DNS 中的作用。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/why-anthropics-mcp-is-a-big-deal</link>
       <description>【In this article, we will look at MCP in detail and explore what makes it such an important component in the AI landscape.】在本文中，我们将详细研究 MCP，并探讨是什么使它成为人工智能领域如此重要的组成部分。</description>
       <pubDate>Tue, 30 Sep 2025 15:30:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Grab’s Migration from Go to Rust Cut Costs by 70%】Grab 从 Go 迁移到 Rust 如何将成本降低 70%</title>
-      <link>https://blog.bytebytego.com/p/how-grabs-migration-from-go-to-rust</link>
-      <description>【Grab has long relied on Golang for most of its microservices. In this article, we look at how Grab migrated their counter service from Go to Rust, resulting in a 70% cost reduction.】Grab 长期以来大部分微服务都依赖 Golang。在本文中，我们将了解 Grab 如何将其柜台服务从 Go 迁移到 Rust，从而降低了 70% 的成本。</description>
-      <pubDate>Mon, 29 Sep 2025 15:30:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
