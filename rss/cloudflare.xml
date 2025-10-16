@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Unpacking Cloudflare Workers CPU Performance Benchmarks】解开 Cloudflare Workers CPU 性能基准</title>
+      <link>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</link>
+      <description>【 Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations.  】Cloudflare 调查了 Workers 的 CPU 性能基准测试结果，发现并修复了基础设施、V8 垃圾收集和 OpenNext 优化中的问题。</description>
+      <pubDate>Tue, 14 Oct 2025 20:00:25 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing REACT: Why We Built an Elite Incident Response Team】REACT 简介：为什么我们建立精英事件响应团队</title>
       <link>https://blog.cloudflare.com/introducing-react-why-we-built-an-elite-incident-response-team/</link>
       <description>【 We&#39;re launching Cloudforce One REACT, a team of expert security responders designed to eliminate the gap between perimeter defense and internal incident response. 】我们正在推出 Cloudforce One REACT，这是一支由专家安全响应人员组成的团队，旨在消除外围防御和内部事件响应之间的差距。</description>
@@ -34,9 +40,9 @@
       <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【An AI Index for all our customers】适合我们所有客户的人工智能指数</title>
-      <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
-      <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】Cloudflare 很快就会自动为您的域创建 AI 优化的搜索索引，并公开一组即用型标准 API 和工具，包括 MCP 服务器、LLMs.txt 和搜索 API。</description>
+      <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
+      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
+      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,22 +52,16 @@
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【An AI Index for all our customers】适合我们所有客户的人工智能指数</title>
+      <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
+      <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】Cloudflare 很快就会自动为您的域创建 AI 优化的搜索索引，并公开一组即用型标准 API 和工具，包括 MCP 服务器、LLMs.txt 和搜索 API。</description>
+      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Monitoring AS-SETs and why they matter】监控 AS-SET 及其重要性</title>
       <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
       <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监控其 ASN 的 AS-SET 成员资格的一些原因，现在 Cloudflare Radar 可以提供帮助。</description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
-      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
-      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing new regional Internet traffic and Certificate Transparency insights on Cloudflare Radar】在 Cloudflare Radar 上引入新的区域互联网流量和证书透明度见解</title>
-      <link>https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/</link>
-      <description>【 Cloudflare Radar now offers a Certificate Transparency dashboard for monitoring TLS certificate activity,  and new regional traffic insights for a sub-national perspective on Internet trends. 】Cloudflare Radar 现在提供用于监控 TLS 证书活动的证书透明度仪表板，以及用于从地方角度了解互联网趋势的新区域流量见解。</description>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

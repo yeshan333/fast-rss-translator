@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Python in Visual Studio Code - October 2025 Release】Visual Studio Code 中的 Python - 2025 年 10 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2025-release</link>
-      <description>【We&#39;re excited to announce that the October 2025 release of the Python extensions for Visual Studio Code are now available! This release includes the following announcements: Python Environments extension improvements Enhanced testing】我们很高兴地宣布，2025 年 10 月版的 Visual Studio Code Python 扩展现已推出！此版本包括以下公告： Python 环境扩展改进 增强测试</description>
-      <pubDate>Fri, 10 Oct 2025 17:55:26 +0000</pubDate>
+      <title>【PowerToys 0.95 is here: new Light Switch utility, faster Command Palette, and Peek with Spacebar】PowerToys 0.95 现已推出：新的灯光开关实用程序、更快的命令面板以及带空格键的 Peek</title>
+      <link>https://devblogs.microsoft.com/commandline/powertoys-0-95-is-here-new-light-switch-utility-faster-command-palette-and-peek-with-spacebar</link>
+      <description>【】</description>
+      <pubDate>Wed, 15 Oct 2025 23:22:24 +0000</pubDate>
     </item>
     <item>
-      <title>【The self-assignment principle for Windows Runtime properties: Don&#39;t change behavior based on whether a property has been written to】Windows 运行时属性的自分配原则：不要根据属性是否已写入来更改行为</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251010-00/?p=111673</link>
-      <description>【For the past few days, I&#39;ve been investigating the self-assignment principle for Windows Runtime properties: Setting a property to its current value is legal and has no effect. One corollary to this was that】这几天，我一直在研究Windows运行时属性的自分配原理：将属性设置为其当前值是合法的，并且没有任何效果。由此得出的一个推论是</description>
-      <pubDate>Fri, 10 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Easily connect AI workloads to Azure Blob Storage with adlfs】使用 adlfs 轻松将 AI 工作负载连接到 Azure Blob 存储</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/easily-connect-ai-workloads-to-azure-blob-storage-with-adlfs</link>
+      <description>【Easily connect AI workloads to Azure Blob Storage with adlfs We&#39;re excited to announce the newest release of adlfs—a unified Pythonic file system interface to Azure Blob Storage and Azure Data Lake Storage. Microsoft works closely with the】使用 adlfs 轻松将 AI 工作负载连接到 Azure Blob 存储 我们很高兴地宣布推出最新版本的 adlfs - Azure Blob 存储和 Azure Data Lake Storage 的统一 Pythonic 文件系统接口。 Microsoft 与</description>
+      <pubDate>Wed, 15 Oct 2025 17:17:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.25.2-1 and 1.24.8-1 Microsoft builds now available】Go 1.25.2-1 和 1.24.8-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-2-1-and-1-24-8-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Fri, 10 Oct 2025 01:20:51 +0000</pubDate>
+      <title>【Why can you increment a reference count with relaxed semantics, but you have to decrement with release semantics?】为什么可以使用宽松语义来增加引用计数，但必须使用发布语义来减少引用计数？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251015-00/?p=111686</link>
+      <description>【When managing reference counts, there is an asymmetry between incrementing and decrementing: Incrementing the reference count can use relaxed semantics, but decrementing requires release semantics (and destroying requires acquire semantics). The asymmetry may strike you as odd, but maybe it shouldn&#39;t. After all, it&#39;s not surprising】在管理引用计数时，递增和递减之间存在不对称性：递增引用计数可以使用宽松语义，但递减需要释放语义（而销毁需要获取语义）。这种不对称性可能会让您觉得奇怪，但也许不应该。毕竟这并不奇怪</description>
+      <pubDate>Wed, 15 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Complete Beginner&#39;s Guide to Vibe Coding an App in 5 Minutes】5 分钟内完成 Vibe 应用程序编码初学者指南</title>
-      <link>https://devblogs.microsoft.com/blog/complete-beginners-guide-to-vibe-coding-an-app-in-5-minutes</link>
-      <description>【Picture this: I&#39;m staring at a CSV file containing metrics from 492 episodes of my podcast, Merge Conflict. Years of data—listen counts, retention rates, performance metrics—all sitting there, waiting to tell a story. But I&#39;m not in the mood to spend days building dashboards and wrangling data.】想象一下：我正盯着一个 CSV 文件，其中包含我的播客“合并冲突”的 492 集的指标。多年的数据——收听次数、保留率、绩效指标——全部都放在那里，等待讲述一个故事。但我没有心情花几天时间构建仪表板和整理数据。</description>
-      <pubDate>Thu, 09 Oct 2025 18:00:49 +0000</pubDate>
+      <title>【.NET and .NET Framework October 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 10 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for October 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of October 14, 2025. This update contains securi】欢迎使用我们 2025 年 10 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述： 安全性改进 .NET 和 .NET Framework 已使用截至 2025 年 10 月 14 日的最新更新进行了刷新。此更新包含 securi</description>
+      <pubDate>Tue, 14 Oct 2025 22:50:29 +0000</pubDate>
     </item>
     <item>
-      <title>【September 2025 (version 1.105)】2025 年 9 月（版本 1.105）</title>
-      <link>https://devblogs.microsoft.com/external-blogs/september-2025-version-1-105</link>
-      <description>【Learn what is new in the Visual Studio Code September 2025 Release (1.105). Read the full article】了解 Visual Studio Code 2025 年 9 月版本 (1.105) 中的新增功能。阅读全文</description>
-      <pubDate>Thu, 09 Oct 2025 17:00:00 +0000</pubDate>
+      <title>【Announcing .NET 10 Release Candidate 2】宣布 .NET 10 候选版本 2</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2</link>
+      <description>【.NET 10 Release Candidate 2 is now available. This is our second and final release candidate and it comes with a go-live support license so you can confidently use this release for your production applications ahead of general availability. This release of】.NET 10 候选版本 2 现已推出。这是我们的第二个也是最后一个候选版本，它附带上线支持许可证，因此您可以在正式发布之前自信地将该版本用于您的生产应用程序。本次发布的</description>
+      <pubDate>Tue, 14 Oct 2025 22:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>【September 2025 (version 1.105)】2025 年 9 月（版本 1.105）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/september-2025-(version-1.105)</link>
-      <description>【Learn what is new in the Visual Studio Code September 2025 Release (1.105). Read the full article】了解 Visual Studio Code 2025 年 9 月版本 (1.105) 中的新增功能。阅读全文</description>
-      <pubDate>Thu, 09 Oct 2025 17:00:00 +0000</pubDate>
+      <title>【Azure Developer CLI (azd) - October 2025】Azure 开发人员 CLI (azd) - 2025 年 10 月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2025</link>
+      <description>【Welcome to the October 2025 edition of the Azure Developer CLI (azd) release blog! This post covers releases 1.19.0 and 1.20.0. To share your feedback and questions, join the October release discussion on GitHub. This month brings game-changing features including】欢迎来到 2025 年 10 月版的 Azure 开发人员 CLI (azd) 发布博客！本文涵盖版本 1.19.0 和 1.20.0。要分享您的反馈和问题，请加入 GitHub 上的 10 月版本讨论。本月带来了改变游戏规则的功能，包括</description>
+      <pubDate>Tue, 14 Oct 2025 21:54:15 +0000</pubDate>
     </item>
     <item>
-      <title>【The self-assignment principle for Windows Runtime properties applies to default values】Windows 运行时属性的自分配原则适用于默认值</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251009-00/?p=111664</link>
-      <description>【Last time, I introduced the self-assignment principle for Windows Runtime properties: Setting a property to its current value is legal and】上次，我介绍了 Windows 运行时属性的自分配原则：将属性设置为其当前值是合法的，并且</description>
-      <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【The Developer’s Guide to Smarter Fine-tuning: Unlock custom AI for every business challenge】智能微调开发人员指南：解锁自定义 AI 应对每项业务挑战</title>
+      <link>https://devblogs.microsoft.com/foundry/the-developers-guide-to-smarter-fine-tuning</link>
+      <description>【】</description>
+      <pubDate>Tue, 14 Oct 2025 19:01:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Working with Git Submodules: Managing Dependencies Across Repositories】使用 Git 子模块：管理跨存储库的依赖关系</title>
-      <link>https://devblogs.microsoft.com/ise/git-submodules-and-dependencies</link>
-      <description>【In complex software projects, it’s common to split functionality across multiple repositories. One common scenario arises when your main project depends on outputs or components developed in another repository that&#39;s also evolving in parallel. Managing this dependency effectively—especially when only a specific part of the secondary reposi】在复杂的软件项目中，将功能划分到多个存储库是很常见的。当您的主项目依赖于另一个并行发展的存储库中开发的输出或组件时，就会出现一种常见情况。有效管理这种依赖关系——尤其是当只有辅助存储库的特定部分时</description>
-      <pubDate>Thu, 09 Oct 2025 07:00:00 +0000</pubDate>
+      <title>【Announcing the .NET Security Group】宣布 .NET 安全组</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group</link>
+      <description>【The .NET project is run by Microsoft and follows our security reporting and disclosure practices. We publish vulnerability fixes and disclosures most months on Patch Tuesday. Nothing about that is changing. We are announcin】.NET 项目由 Microsoft 运行，并遵循我们的安全报告和披露实践。我们大多数月份都会在补丁星期二发布漏洞修复和披露信息。这一切都没有改变。我们宣布</description>
+      <pubDate>Tue, 14 Oct 2025 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Preparing for the .NET 10 GC (DATAS)】准备 .NET 10 GC（数据）</title>
-      <link>https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc</link>
-      <description>【This article is cross-posted from Maoni&#39;s blog post original Medium article Preparing for the .NET 10 GC by permission. Preparing for the .NET 10 GC In .NET 9 we enabled DATAS by default. But .NET 9 is not an LTS relea】本文经许可交叉发布自 Maoni 的博文原创 Medium 文章《Preparing for the .NET 10 GC》。准备 .NET 10 GC 在 .NET 9 中，我们默认启用 DATAS。但 .NET 9 不是 LTS 版本</description>
-      <pubDate>Wed, 08 Oct 2025 17:00:00 +0000</pubDate>
+      <title>【Go 1.25.3-1 and 1.24.9-1 Microsoft builds now available】Go 1.25.3-1 和 1.24.9-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-25-3-1-and-1-24-9-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】Microsoft 版本的 Go 新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Tue, 14 Oct 2025 15:37:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows Runtime API design principles around read-write properties: Idempotence and self-assignment】围绕读写属性的 Windows 运行时 API 设计原则：幂等性和自分配</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251008-00/?p=111660</link>
-      <description>【Objects in the Windows Runtime can have properties, and those properties could be read-only or read-write. For read-write properties, there are a few general principles. Today we&#39;re going to look at this one: Setting a property to its current value is legal and has no effect.¹ For example: // C# o】Windows 运行时中的对象可以具有属性，并且这些属性可以是只读的或读写的。对于读写属性，有一些一般原则。今天我们来看看这个：将属性设置为其当前值是合法的，并且没有任何效果。 1 例如： // C# o</description>
-      <pubDate>Wed, 08 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Modernizing Authentication for Legacy Visual Studio Clients】现代化旧版 Visual Studio 客户端的身份验证</title>
+      <link>https://devblogs.microsoft.com/devops/modernizing-authentication-for-legacy-visual-studio-clients</link>
+      <description>【As part of our ongoing commitment to security and modernization, we’re updating outdated authentication mechanisms used by older versions of clients reliant on our older Visual Studio client libraries. For full details on all known impacted clients, refer to the official announcement we made in April 2024:】作为我们对安全性和现代化的持续承诺的一部分，我们正在更新依赖于旧版 Visual Studio 客户端库的旧版本客户端使用的过时身份验证机制。有关所有已知受影响客户的完整详细信息，请参阅我们于 2024 年 4 月发布的官方公告：</description>
+      <pubDate>Tue, 14 Oct 2025 15:28:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

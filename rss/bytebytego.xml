@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Salesforce Used AI To Reduce Test Failure Resolution Time By 30%】Salesforce 如何使用 AI 将测试失败解决时间缩短 30%</title>
+      <link>https://blog.bytebytego.com/p/how-salesforce-used-ai-to-reduce</link>
+      <description>【In this article, we will look at how Salesforce developed such a system and the key takeaways from their journey.】在本文中，我们将了解 Salesforce 如何开发这样的系统以及他们的旅程的关键要点。</description>
+      <pubDate>Tue, 14 Oct 2025 15:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP184: API Vs SDK! 】EP184：API 与 SDK！</title>
       <link>https://blog.bytebytego.com/p/ep184-api-vs-sdk</link>
       <description>【API (Application Programming Interface) and SDK (Software Development Kit) are essential tools in the software development world, but they serve distinct purposes.】API（应用程序编程接口）和 SDK（软件开发工具包）是软件开发领域中必不可少的工具，但它们具有不同的用途。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-airbnb-runs-distributed-databases</link>
       <description>【In this article, we will look at how Airbnb implemented this design and the challenges they faced.】在本文中，我们将了解 Airbnb 如何实施这一设计以及他们面临的挑战。</description>
       <pubDate>Wed, 01 Oct 2025 15:30:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why Anthropic’s MCP is a Big Deal】为什么 Anthropic 的 MCP 很重要</title>
-      <link>https://blog.bytebytego.com/p/why-anthropics-mcp-is-a-big-deal</link>
-      <description>【In this article, we will look at MCP in detail and explore what makes it such an important component in the AI landscape.】在本文中，我们将详细研究 MCP，并探讨是什么使它成为人工智能领域如此重要的组成部分。</description>
-      <pubDate>Tue, 30 Sep 2025 15:30:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【How Meta Serverless Handles 11.5 Million Function Calls per Second】Meta Serverless 如何处理每秒 1150 万次函数调用</title>
+      <link>https://newsletter.systemdesign.one/p/serverless-architecture</link>
+      <description>【#94: Break Into Serverless Architecture】#94：闯入无服务器架构</description>
+      <pubDate>Wed, 15 Oct 2025 10:02:46 +0000</pubDate>
+    </item>
+    <item>
       <title>【System Design Interview Question: Design Spotify】系统设计面试问题：设计 Spotify</title>
       <link>https://newsletter.systemdesign.one/p/spotify-system-design</link>
       <description>【#93: System Design Interview (13 Minutes)】#93：系统设计面试（13 分钟）</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/api-gateway-load-balancer-reverse-proxy</link>
       <description>【#85: Break Into Edge Architecture (4 Minutes)】#85：闯入边缘架构（4 分钟）</description>
       <pubDate>Fri, 29 Aug 2025 11:48:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Does Google Docs Work 🔥】Google 文档如何工作 🔥</title>
-      <link>https://newsletter.systemdesign.one/p/how-does-google-docs-work</link>
-      <description>【#84: Break Into Google Docs Architecture (12 Minutes)】#84：深入 Google 文档架构（12 分钟）</description>
-      <pubDate>Fri, 22 Aug 2025 11:50:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

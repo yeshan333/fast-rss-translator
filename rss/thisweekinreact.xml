@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #254: Next.js, Remix, Compiler, Async React, TanStack, Cloudflare, Hook Form, Conform | VirtualView, DevTools, Screens, Radon, Harness, Audio API, Uniwind, Nitro | Bun, Oxlint, Vite, View Transitions】本周 React #254：Next.js、Remix、编译器、Async React、TanStack、Cloudflare、Hook Form、Conform | VirtualView、DevTools、屏幕、Radon、Harness、音频 API、Uniwind、Nitro | Bun、Oxlint、Vite、视图过渡</title>
+      <link>https://thisweekinreact.com/newsletter/254</link>
+      <description>【Hi everyone\! Krzysztof and Kacper from Software Mansion here\! 👋】大家好\！ Software Mansion 的 Krzysztof 和 Kacper 在这里\！ 👋</description>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #253: React Compiler 1.0, React Foundation, ViewTransition, Fragment Refs, useEffectEvent, Activity | RN 0.82, Hermes V1, DOM APIs, Vega OS | Keyboard Controller, IAP, Skia | Prettier, Node.js, CSS, ESLint】本周 React #253：React Compiler 1.0、React Foundation、ViewTransition、Fragment Refs、useEffectEvent、Activity | RN 0.82、Hermes V1、DOM API、Vega 操作系统 |键盘控制器、IAP、Skia | Prettier、Node.js、CSS、ESLint</title>
       <link>https://thisweekinreact.com/newsletter/253</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/250</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #249: TanStack, Fast-Refresh, MDX, Storybook, nuqs, AI Elements, Three-Fiber | Expo, Legend List, Uniwind, New Arch, Rock, Screens, IAP, Glass, Sound, NavigationBar | Interop, Linting, Safari】本周 React #249：TanStack、快速刷新、MDX、Storybook、nuqs、AI Elements、三纤 | Expo、Legend List、Uniwind、New Arch、Rock、Screen、IAP、Glass、Sound、NavigationBar |互操作、Linting、Safari</title>
-      <link>https://thisweekinreact.com/newsletter/249</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
