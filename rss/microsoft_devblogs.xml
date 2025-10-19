@@ -4,6 +4,48 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Boost your Azure Cosmos DB Efficiency with Azure Advisor Insights】使用 Azure Advisor Insights 提高 Azure Cosmos DB 效率</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/boost-your-azure-cosmos-db-efficiency-with-azure-advisor-insights</link>
+      <description>【Azure Cosmos DB is】Azure Cosmos DB 是</description>
+      <pubDate>Fri, 17 Oct 2025 19:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Streamlined Setup, Stronger Guardrails for Microsoft Dev Box】简化的设置，为 Microsoft Dev Box 提供更强大的保护</title>
+      <link>https://devblogs.microsoft.com/develop-from-the-cloud/streamlined-setup-stronger-guardrails-for-microsoft-dev-box</link>
+      <description>【We’re excited to introduce a new capability that simplifies Dev Box setup—enabling platform engineers and project admins to specify images and SKUs directly when configuring Dev Box pools, without needing to create Dev Box definitions at the Dev Cent】我们很高兴推出一项简化 Dev Box 设置的新功能，使平台工程师和项目管理员能够在配置 Dev Box 池时直接指定映像和 SKU，而无需在开发中心创建 Dev Box 定义</description>
+      <pubDate>Fri, 17 Oct 2025 14:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using RAII to remedy a defect where not all code paths performed required exit actions, follow-up】使用 RAII 修复并非所有代码路径都执行所需退出操作的缺陷，后续</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251017-00/?p=111698</link>
+      <description>【Last time, we looked at a way to use the RAII design pattern (Resource Acquisition Is Initialization) to ensure that a function eventually got called on all code paths】上次，我们研究了一种使用 RAII 设计模式（资源获取即初始化）来确保最终在所有代码路径上调用函数的方法</description>
+      <pubDate>Fri, 17 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Exciting new capabilities and enhancements for M365 Developer Program - October 2025】M365 开发者计划令人兴奋的新功能和增强功能 - 2025 年 10 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/exciting-new-capabilities-and-enhancements-for-m365-developer-program-october-2025</link>
+      <description>【The Microsoft 365 Developer Program has long been a great resource for developers building solutions on the Microsoft 365 platform. Today, we’re thrilled to share some exciting updates that make onboarding easier, environments more ca】Microsoft 365 开发人员计划长期以来一直是在 Microsoft 365 平台上构建解决方案的开发人员的重要资源。今天，我们很高兴与大家分享一些令人兴奋的更新，这些更新使入门更容易、环境更轻松</description>
+      <pubDate>Thu, 16 Oct 2025 15:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【NASA&#39;s Harmonized Landsat and Sentinel-2 (HLS) Data Now Available on Microsoft&#39;s Planetary Computer】NASA 的统一 Landsat 和 Sentinel-2 (HLS) 数据现已在 Microsoft 行星计算机上提供</title>
+      <link>https://devblogs.microsoft.com/azuregov/nasa-hls-on-mpc</link>
+      <description>【NASA’s vast archive of Earth observation data has long been a cornerstone for scientific discovery, environmental monitoring, and global sustainability efforts. Now, Microsoft has made it even easier for researchers, developers, and decision-makers to access and utilize this critical resource. Through a collaboration with NASA, the H】NASA 庞大的地球观测数据档案长期以来一直是科学发现、环境监测和全球可持续发展努力的基石。现在，Microsoft 使研究人员、开发人员和决策者能够更轻松地访问和利用这一关键资源。通过与 NASA 的合作，H</description>
+      <pubDate>Thu, 16 Oct 2025 14:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using RAII to remedy a defect where not all code paths performed required exit actions】使用 RAII 来修复并非所有代码路径都执行所需退出操作的缺陷</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251016-00/?p=111691</link>
+      <description>【A team asked me to review their pull request that fixed a bug that was caused by failing to perform some required action along all code paths. Here&#39;s a simplified sketch: void MySpecialFeature::OnButtonClick() { try { auto file = PickFile(); if (!file) { DismissUI(); return;】一个团队要求我审查他们的拉取请求，该请求修复了由于未能在所有代码路径上执行某些所需操作而导致的错误。这是一个简化的草图： void MySpecialFeature::OnButtonClick() { try { auto file = PickFile(); if (!file) { DismissUI();返回;</description>
+      <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Managing secrets on Azure KeyVault with a Tagging strategy to perform automations】使用标记策略管理 Azure KeyVault 上的机密以执行自动化</title>
+      <link>https://devblogs.microsoft.com/ise/managing-azure-keyvault-secrets-with-tagging-strategy</link>
+      <description>【Introduction While Azure managed identities are the preferred authentication method to avoid storing secrets, organizations still need effective strategies for managing existing secrets in Azure KeyVault. For the purpose of managing secrets in KeyVault, there is a need to: Detail in plain language what the purpose of】简介 虽然 Azure 托管标识是避免存储机密的首选身份验证方法，但组织仍然需要有效的策略来管理 Azure KeyVault 中的现有机密。为了管理 KeyVault 中的机密，需要： 用通俗易懂的语言详细说明其目的是什么</description>
+      <pubDate>Thu, 16 Oct 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【PowerToys 0.95 is here: new Light Switch utility, faster Command Palette, and Peek with Spacebar】PowerToys 0.95 现已推出：新的灯光开关实用程序、更快的命令面板以及带空格键的 Peek</title>
       <link>https://devblogs.microsoft.com/commandline/powertoys-0-95-is-here-new-light-switch-utility-faster-command-palette-and-peek-with-spacebar</link>
       <description>【】</description>
@@ -20,48 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20251015-00/?p=111686</link>
       <description>【When managing reference counts, there is an asymmetry between incrementing and decrementing: Incrementing the reference count can use relaxed semantics, but decrementing requires release semantics (and destroying requires acquire semantics). The asymmetry may strike you as odd, but maybe it shouldn&#39;t. After all, it&#39;s not surprising】在管理引用计数时，递增和递减之间存在不对称性：递增引用计数可以使用宽松语义，但递减需要释放语义（而销毁需要获取语义）。这种不对称性可能会让您觉得奇怪，但也许不应该。毕竟这并不奇怪</description>
       <pubDate>Wed, 15 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework October 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 10 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for October 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of October 14, 2025. This update contains securi】欢迎使用我们 2025 年 10 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述： 安全性改进 .NET 和 .NET Framework 已使用截至 2025 年 10 月 14 日的最新更新进行了刷新。此更新包含 securi</description>
-      <pubDate>Tue, 14 Oct 2025 22:50:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing .NET 10 Release Candidate 2】宣布 .NET 10 候选版本 2</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2</link>
-      <description>【.NET 10 Release Candidate 2 is now available. This is our second and final release candidate and it comes with a go-live support license so you can confidently use this release for your production applications ahead of general availability. This release of】.NET 10 候选版本 2 现已推出。这是我们的第二个也是最后一个候选版本，它附带上线支持许可证，因此您可以在正式发布之前自信地将该版本用于您的生产应用程序。本次发布的</description>
-      <pubDate>Tue, 14 Oct 2025 22:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) - October 2025】Azure 开发人员 CLI (azd) - 2025 年 10 月</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2025</link>
-      <description>【Welcome to the October 2025 edition of the Azure Developer CLI (azd) release blog! This post covers releases 1.19.0 and 1.20.0. To share your feedback and questions, join the October release discussion on GitHub. This month brings game-changing features including】欢迎来到 2025 年 10 月版的 Azure 开发人员 CLI (azd) 发布博客！本文涵盖版本 1.19.0 和 1.20.0。要分享您的反馈和问题，请加入 GitHub 上的 10 月版本讨论。本月带来了改变游戏规则的功能，包括</description>
-      <pubDate>Tue, 14 Oct 2025 21:54:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Developer’s Guide to Smarter Fine-tuning: Unlock custom AI for every business challenge】智能微调开发人员指南：解锁自定义 AI 应对每项业务挑战</title>
-      <link>https://devblogs.microsoft.com/foundry/the-developers-guide-to-smarter-fine-tuning</link>
-      <description>【】</description>
-      <pubDate>Tue, 14 Oct 2025 19:01:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the .NET Security Group】宣布 .NET 安全组</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group</link>
-      <description>【The .NET project is run by Microsoft and follows our security reporting and disclosure practices. We publish vulnerability fixes and disclosures most months on Patch Tuesday. Nothing about that is changing. We are announcin】.NET 项目由 Microsoft 运行，并遵循我们的安全报告和披露实践。我们大多数月份都会在补丁星期二发布漏洞修复和披露信息。这一切都没有改变。我们宣布</description>
-      <pubDate>Tue, 14 Oct 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.25.3-1 and 1.24.9-1 Microsoft builds now available】Go 1.25.3-1 和 1.24.9-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-3-1-and-1-24-9-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】Microsoft 版本的 Go 新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Tue, 14 Oct 2025 15:37:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Modernizing Authentication for Legacy Visual Studio Clients】现代化旧版 Visual Studio 客户端的身份验证</title>
-      <link>https://devblogs.microsoft.com/devops/modernizing-authentication-for-legacy-visual-studio-clients</link>
-      <description>【As part of our ongoing commitment to security and modernization, we’re updating outdated authentication mechanisms used by older versions of clients reliant on our older Visual Studio client libraries. For full details on all known impacted clients, refer to the official announcement we made in April 2024:】作为我们对安全性和现代化的持续承诺的一部分，我们正在更新依赖于旧版 Visual Studio 客户端库的旧版本客户端使用的过时身份验证机制。有关所有已知受影响客户的完整详细信息，请参阅我们于 2024 年 4 月发布的官方公告：</description>
-      <pubDate>Tue, 14 Oct 2025 15:28:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

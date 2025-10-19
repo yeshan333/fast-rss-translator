@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Load Balancing Monitor Groups: Multi-Service Health Checks for Resilient Applications】负载平衡监控组：弹性应用程序的多服务运行状况检查</title>
+      <link>https://blog.cloudflare.com/load-balancing-monitor-groups-multi-service-health-checks-for-resilient/</link>
+      <description>【 Cloudflare Load Balancing now supports Monitor Groups, allowing you to combine multiple health monitors into a single, logical assessment.  】Cloudflare Load Balancing 现在支持监控组，允许您将多个运行状况监控器组合成单个逻辑评估。</description>
+      <pubDate>Fri, 17 Oct 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Improving the trustworthiness of Javascript on the Web】提高 Javascript 在 Web 上的可信度</title>
+      <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
+      <description>【 There&#39;s no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we co-authored that adds auditability to the web. 】当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。</description>
+      <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Unpacking Cloudflare Workers CPU Performance Benchmarks】解开 Cloudflare Workers CPU 性能基准</title>
       <link>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</link>
       <description>【 Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations.  】Cloudflare 调查了 Workers 的 CPU 性能基准测试结果，发现并修复了基础设施、V8 垃圾收集和 OpenNext 优化中的问题。</description>
@@ -49,18 +61,6 @@
       <title>【Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click】推出 Observatory 和 Smart Shield — 了解世界如何看待您的网站，一键使其速度更快</title>
       <link>https://blog.cloudflare.com/introducing-observatory-and-smart-shield/</link>
       <description>【 We&#39;re announcing two enhancements to our Application Performance suite that&#39;ll show how the world sees your website, and make it faster with one click - available Cloudflare Dashboard! 】我们宣布对我们的应用程序性能套件进行两项增强，将向全世界展示您的网站，并一键使其速度更快 - 可用的 Cloudflare 仪表板！</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【An AI Index for all our customers】适合我们所有客户的人工智能指数</title>
-      <link>https://blog.cloudflare.com/an-ai-index-for-all-our-customers/</link>
-      <description>【 Cloudflare will soon automatically create an AI-optimized search index for your domain, and expose a set of ready-to-use standard APIs and tools including an MCP server, LLMs.txt, and a search API. 】Cloudflare 很快就会自动为您的域创建 AI 优化的搜索索引，并公开一组即用型标准 API 和工具，包括 MCP 服务器、LLMs.txt 和搜索 API。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Monitoring AS-SETs and why they matter】监控 AS-SET 及其重要性</title>
-      <link>https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/</link>
-      <description>【 We will cover some of the reasons why operators need to monitor the AS-SET memberships for their ASN, and now Cloudflare Radar can help.  】我们将介绍运营商需要监控其 ASN 的 AS-SET 成员资格的一些原因，现在 Cloudflare Radar 可以提供帮助。</description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>

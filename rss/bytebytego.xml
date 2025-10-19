@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP185: Docker vs Kubernetes】EP185：Docker 与 Kubernetes</title>
+      <link>https://blog.bytebytego.com/p/ep185-docker-vs-kubernetes</link>
+      <description>【Docker is a container platform that lets you package applications with their dependencies and run them on a single machine. Here&amp;#8217;s how it works】Docker 是一个容器平台，可让您将应用程序及其依赖项打包并在单台计算机上运行它们。这是它的工作原理</description>
+      <pubDate>Sat, 18 Oct 2025 15:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide to Microservices Architecture for Building Scalable Systems】构建可扩展系统的微服务架构指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-microservices-architecture</link>
+      <description>【In this article, we will explore these patterns, the main components of production-ready microservices, and the practices that help organizations succeed with this architecture.】在本文中，我们将探讨这些模式、生产就绪型微服务的主要组件，以及帮助组织通过此架构取得成功的实践。</description>
+      <pubDate>Thu, 16 Oct 2025 15:30:29 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Salesforce Used AI To Reduce Test Failure Resolution Time By 30%】Salesforce 如何使用 AI 将测试失败解决时间缩短 30%</title>
       <link>https://blog.bytebytego.com/p/how-salesforce-used-ai-to-reduce</link>
       <description>【In this article, we will look at how Salesforce developed such a system and the key takeaways from their journey.】在本文中，我们将了解 Salesforce 如何开发这样的系统以及他们的旅程的关键要点。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering</link>
       <description>【Our very first cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第一批“成为人工智能工程师”课程将在一天内开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
       <pubDate>Fri, 03 Oct 2025 14:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Service Discovery 101: The Phonebook for Distributed Systems】服务发现 101：分布式系统的电话簿</title>
-      <link>https://blog.bytebytego.com/p/service-discovery-101-the-phonebook</link>
-      <description>【How do all these services find and communicate with each other in this constantly shifting landscape?】在这个不断变化的环境中，所有这些服务如何相互找到并通信？</description>
-      <pubDate>Thu, 02 Oct 2025 15:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Airbnb Runs Distributed Databases on Kubernetes at Scale】Airbnb 如何在 Kubernetes 上大规模运行分布式数据库</title>
-      <link>https://blog.bytebytego.com/p/how-airbnb-runs-distributed-databases</link>
-      <description>【In this article, we will look at how Airbnb implemented this design and the challenges they faced.】在本文中，我们将了解 Airbnb 如何实施这一设计以及他们面临的挑战。</description>
-      <pubDate>Wed, 01 Oct 2025 15:30:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
