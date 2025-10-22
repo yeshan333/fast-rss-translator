@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【How to test the reliability of a Point of Sale (POS) system】如何测试销售点 (POS) 系统的可靠性</title>
+      <link>https://www.gremlin.com/blog/how-to-test-the-reliability-of-a-point-of-sale-pos-system</link>
+      <description>【Find out how to use Gremlin and Chaos Engineering to make sure your Point of Sale system is reliable.】了解如何使用 Gremlin 和 Chaos Engineering 确保您的销售点系统可靠。</description>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Chaos Engineering works, but it has to scale】混沌工程有效，但必须规模化</title>
       <link>https://www.gremlin.com/blog/chaos-engineering-works-but-it-has-to-scale</link>
       <description>【Chaos Engineering effectively improves the reliability of systems, but it can run into snags when you try to scale. Build on Chaos Engineering with these key actions.】混沌工程有效地提高了系统的可靠性，但当您尝试扩展时，它可能会遇到障碍。通过这些关键行动以混沌工程为基础。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
       <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner 最近发布了 2025 年基础设施平台技术成熟度曲线。以下是他们针对采用混沌工程提出的四项关键建议。</description>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Insights to keep AI applications reliable】确保人工智能应用程序可靠的见解</title>
-      <link>https://www.gremlin.com/blog/insights-to-keep-ai-applications-reliable</link>
-      <description>【AI has become a massive investment for companies, but how do you keep AI applications reliable? Check out these insights from Gremlin, Nobl9, and Pagerduty to find out!】人工智能已成为企业的巨额投资，但如何保持人工智能应用的可靠性？看看 Gremlin、Nobl9 和 Pagerduty 的这些见解即可找到答案！</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

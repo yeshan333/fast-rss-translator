@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Pinterest Transfers Hundreds of Terabytes of Data With CDC】Pinterest 如何通过 CDC 传输数百 TB 的数据</title>
+      <link>https://blog.bytebytego.com/p/how-pinterest-transfers-hundreds</link>
+      <description>【Instead of building isolated solutions for each use case, Pinterest created a unified architecture that can support the entire company&amp;#8217;s data needs.】Pinterest 没有为每个用例构建独立的解决方案，而是创建了一个可以支持整个公司数据需求的统一架构。</description>
+      <pubDate>Tue, 21 Oct 2025 15:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What Actually Happens When You Press ‘Send’ to ChatGPT】当您按“发送”至 ChatGPT 时实际会发生什么</title>
+      <link>https://blog.bytebytego.com/p/what-actually-happens-when-you-press</link>
+      <description>【Behind this simple interface lies a powerful set of technologies.】这个简单的界面背后隐藏着一组强大的技术。</description>
+      <pubDate>Mon, 20 Oct 2025 17:08:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP185: Docker vs Kubernetes】EP185：Docker 与 Kubernetes</title>
       <link>https://blog.bytebytego.com/p/ep185-docker-vs-kubernetes</link>
       <description>【Docker is a container platform that lets you package applications with their dependencies and run them on a single machine. Here&amp;#8217;s how it works】Docker 是一个容器平台，可让您将应用程序及其依赖项打包并在单台计算机上运行它们。这是它的工作原理</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-openai-uses-kubernetes-and-apache</link>
       <description>【In this article, we will understand how OpenAI built such a system and the challenges they faced.】在这篇文章中，我们将了解 OpenAI 如何构建这样一个系统以及他们面临的挑战。</description>
       <pubDate>Mon, 06 Oct 2025 15:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP183: MCP vs API: what’s the difference?】EP183：MCP 与 API：有什么区别？</title>
-      <link>https://blog.bytebytego.com/p/ep183-mcp-vs-api-whats-the-difference</link>
-      <description>【APIs have been the backbone of software-to-software communication for decades.】几十年来，API 一直是软件间通信的支柱。</description>
-      <pubDate>Sat, 04 Oct 2025 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Last Call: Enrollment for the AI Engineering Cohort Ends Today】最后的呼吁：人工智能工程队列的报名今天结束</title>
-      <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering</link>
-      <description>【Our very first cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第一批“成为人工智能工程师”课程将在一天内开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
-      <pubDate>Fri, 03 Oct 2025 14:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

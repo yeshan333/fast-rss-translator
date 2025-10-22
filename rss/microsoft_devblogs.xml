@@ -4,6 +4,42 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users】现代化 Visual Studio 扩展兼容性：扩展开发人员和用户轻松迁移</title>
+      <link>https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users</link>
+      <description>【We have great news for extension users and developers: Visual Studio 2026 is introducing an extension compatibility model designed specifically to make your life easier. Our top priority is to ensure that your extensions continue to work seamlessly across Visual Studio releases - with no extra effort required from you. For users: exten】我们为扩展用户和开发人员带来了好消息：Visual Studio 2026 正在引入专门为让您的生活更轻松而设计的扩展兼容性模型。我们的首要任务是确保您的扩展继续在 Visual Studio 版本之间无缝工作 - 无需您付出额外的努力。对于用户：扩展</description>
+      <pubDate>Tue, 21 Oct 2025 14:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microspeak: The hockey stick on wheels】Microspeak：带轮子的曲棍球棒</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251021-00/?p=111710</link>
+      <description>【The &#34;hockey stick graph&#34; is a graph which shows slow initial growth, followed by a rapid linear increase. The resulting shape resembles a hockey stick, with the blade of the stick represented by the nearly-flat initial section, and the handle of the stick represented by the rapi】“曲棍球棒图”是显示缓慢的初始增长，随后快速线性增长的图。由此产生的形状类似于曲棍球棒，棒的刀片由几乎平坦的初始部分代表，棒的手柄由拉皮代表</description>
+      <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【“Cost Management” Is Now “Account Throughput” and It’s Moving】“成本管理”现在是“账户吞吐量”并且正在发生变化</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/cost-management-is-now-account-throughput</link>
+      <description>【We’ve made a small but important change in the Azure portal for Azure Cosmos DB to make it easier to manage your account-level throughput. The “Cost Management” section has been renamed to “Account Throughput” and can now be found under the Settings section of your Azure Cosmos DB】我们在 Azure Cosmos DB 的 Azure 门户中进行了一项小但重要的更改，以便更轻松地管理帐户级吞吐量。 “成本管理”部分已重命名为“帐户吞吐量”，现在可以在 Azure Cosmos DB 的“设置”部分下找到</description>
+      <pubDate>Tue, 21 Oct 2025 12:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What about the icons in pifmgr.dll?】pifmgr.dll 中的图标怎么样？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251020-00/?p=111706</link>
+      <description>【Some time ago, I discussed the intended uses of the icons in progman.exe and moricons.dll and we even looked at those icons (】前段时间，我讨论了 progman.exe 和 moricons.dll 中图标的预期用途，我们甚至查看了这些图标（</description>
+      <pubDate>Mon, 20 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing latest Azure Cosmos DB Python SDK: Powering the Future of AI with OpenAI】发布最新的 Azure Cosmos DB Python SDK：通过 OpenAI 为 AI 的未来提供动力</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/announcing-latest-azure-cosmos-db-python-sdk-powering-the-future-of-ai-with-openai</link>
+      <description>【We&#39;re thrilled to announce the stable release of Azure Cosmos DB Python SDK version 4.14.0! This release brings together months of innovation and collaboration, featuring ground-breaking capabilities that have been battle-tested in production environments. Many of these features were developed in c】我们很高兴地宣布 Azure Cosmos DB Python SDK 版本 4.14.0 稳定发布！此版本汇集了数月的创新和协作，具有经过生产环境考验的突破性功能。其中许多功能都是用 c 语言开发的</description>
+      <pubDate>Mon, 20 Oct 2025 12:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Developer&#39;s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry】在 Azure AI Foundry 上微调 GPT-4o 以进行图像分类的开发人员指南</title>
+      <link>https://devblogs.microsoft.com/foundry/a-developers-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry</link>
+      <description>【Whether you’re a machine learning practitioner, app developer, or just curious about the latest in AI, this guide shows how you can quickly boost image classification accuracy using cutting-edge Vision-Language Models (VLM) on Azure—no deep learning expertise required. In this walkthrough, you’ll see how to fine-tune GPT-4o on】无论您是机器学习从业者、应用程序开发人员，还是只是对人工智能的最新技术感到好奇，本指南都会向您展示如何使用 Azure 上最先进的视觉语言模型 (VLM) 快速提高图像分类的准确性，而无需深度学习专业知识。在本演练中，您将了解如何微调 GPT-4o</description>
+      <pubDate>Mon, 20 Oct 2025 07:11:50 +0000</pubDate>
+    </item>
+    <item>
       <title>【Boost your Azure Cosmos DB Efficiency with Azure Advisor Insights】使用 Azure Advisor Insights 提高 Azure Cosmos DB 效率</title>
       <link>https://devblogs.microsoft.com/cosmosdb/boost-your-azure-cosmos-db-efficiency-with-azure-advisor-insights</link>
       <description>【Azure Cosmos DB is】Azure Cosmos DB 是</description>
@@ -26,42 +62,6 @@
       <link>https://devblogs.microsoft.com/microsoft365dev/exciting-new-capabilities-and-enhancements-for-m365-developer-program-october-2025</link>
       <description>【The Microsoft 365 Developer Program has long been a great resource for developers building solutions on the Microsoft 365 platform. Today, we’re thrilled to share some exciting updates that make onboarding easier, environments more ca】Microsoft 365 开发人员计划长期以来一直是在 Microsoft 365 平台上构建解决方案的开发人员的重要资源。今天，我们很高兴与大家分享一些令人兴奋的更新，这些更新使入门更容易、环境更轻松</description>
       <pubDate>Thu, 16 Oct 2025 15:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【NASA&#39;s Harmonized Landsat and Sentinel-2 (HLS) Data Now Available on Microsoft&#39;s Planetary Computer】NASA 的统一 Landsat 和 Sentinel-2 (HLS) 数据现已在 Microsoft 行星计算机上提供</title>
-      <link>https://devblogs.microsoft.com/azuregov/nasa-hls-on-mpc</link>
-      <description>【NASA’s vast archive of Earth observation data has long been a cornerstone for scientific discovery, environmental monitoring, and global sustainability efforts. Now, Microsoft has made it even easier for researchers, developers, and decision-makers to access and utilize this critical resource. Through a collaboration with NASA, the H】NASA 庞大的地球观测数据档案长期以来一直是科学发现、环境监测和全球可持续发展努力的基石。现在，Microsoft 使研究人员、开发人员和决策者能够更轻松地访问和利用这一关键资源。通过与 NASA 的合作，H</description>
-      <pubDate>Thu, 16 Oct 2025 14:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using RAII to remedy a defect where not all code paths performed required exit actions】使用 RAII 来修复并非所有代码路径都执行所需退出操作的缺陷</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251016-00/?p=111691</link>
-      <description>【A team asked me to review their pull request that fixed a bug that was caused by failing to perform some required action along all code paths. Here&#39;s a simplified sketch: void MySpecialFeature::OnButtonClick() { try { auto file = PickFile(); if (!file) { DismissUI(); return;】一个团队要求我审查他们的拉取请求，该请求修复了由于未能在所有代码路径上执行某些所需操作而导致的错误。这是一个简化的草图： void MySpecialFeature::OnButtonClick() { try { auto file = PickFile(); if (!file) { DismissUI();返回;</description>
-      <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Managing secrets on Azure KeyVault with a Tagging strategy to perform automations】使用标记策略管理 Azure KeyVault 上的机密以执行自动化</title>
-      <link>https://devblogs.microsoft.com/ise/managing-azure-keyvault-secrets-with-tagging-strategy</link>
-      <description>【Introduction While Azure managed identities are the preferred authentication method to avoid storing secrets, organizations still need effective strategies for managing existing secrets in Azure KeyVault. For the purpose of managing secrets in KeyVault, there is a need to: Detail in plain language what the purpose of】简介 虽然 Azure 托管标识是避免存储机密的首选身份验证方法，但组织仍然需要有效的策略来管理 Azure KeyVault 中的现有机密。为了管理 KeyVault 中的机密，需要： 用通俗易懂的语言详细说明其目的是什么</description>
-      <pubDate>Thu, 16 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PowerToys 0.95 is here: new Light Switch utility, faster Command Palette, and Peek with Spacebar】PowerToys 0.95 现已推出：新的灯光开关实用程序、更快的命令面板以及带空格键的 Peek</title>
-      <link>https://devblogs.microsoft.com/commandline/powertoys-0-95-is-here-new-light-switch-utility-faster-command-palette-and-peek-with-spacebar</link>
-      <description>【】</description>
-      <pubDate>Wed, 15 Oct 2025 23:22:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Easily connect AI workloads to Azure Blob Storage with adlfs】使用 adlfs 轻松将 AI 工作负载连接到 Azure Blob 存储</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/easily-connect-ai-workloads-to-azure-blob-storage-with-adlfs</link>
-      <description>【Easily connect AI workloads to Azure Blob Storage with adlfs We&#39;re excited to announce the newest release of adlfs—a unified Pythonic file system interface to Azure Blob Storage and Azure Data Lake Storage. Microsoft works closely with the】使用 adlfs 轻松将 AI 工作负载连接到 Azure Blob 存储 我们很高兴地宣布推出最新版本的 adlfs - Azure Blob 存储和 Azure Data Lake Storage 的统一 Pythonic 文件系统接口。 Microsoft 与</description>
-      <pubDate>Wed, 15 Oct 2025 17:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why can you increment a reference count with relaxed semantics, but you have to decrement with release semantics?】为什么可以使用宽松语义来增加引用计数，但必须使用发布语义来减少引用计数？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251015-00/?p=111686</link>
-      <description>【When managing reference counts, there is an asymmetry between incrementing and decrementing: Incrementing the reference count can use relaxed semantics, but decrementing requires release semantics (and destroying requires acquire semantics). The asymmetry may strike you as odd, but maybe it shouldn&#39;t. After all, it&#39;s not surprising】在管理引用计数时，递增和递减之间存在不对称性：递增引用计数可以使用宽松语义，但递减需要释放语义（而销毁需要获取语义）。这种不对称性可能会让您觉得奇怪，但也许不应该。毕竟这并不奇怪</description>
-      <pubDate>Wed, 15 Oct 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

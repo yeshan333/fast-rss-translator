@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【A deep dive into BPF LPM trie performance and optimization】深入探讨 BPF LPM trie 性能和优化</title>
+      <link>https://blog.cloudflare.com/a-deep-dive-into-bpf-lpm-trie-performance-and-optimization/</link>
+      <description>【 This post explores the performance of BPF LPM tries, a critical data structure used for IP matching.  】这篇文章探讨了 BPF LPM 尝试的性能，这是一种用于 IP 匹配的关键数据结构。</description>
+      <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Load Balancing Monitor Groups: Multi-Service Health Checks for Resilient Applications】负载平衡监控组：弹性应用程序的多服务运行状况检查</title>
       <link>https://blog.cloudflare.com/load-balancing-monitor-groups-multi-service-health-checks-for-resilient/</link>
       <description>【 Cloudflare Load Balancing now supports Monitor Groups, allowing you to combine multiple health monitors into a single, logical assessment.  】Cloudflare Load Balancing 现在支持监控组，允许您将多个运行状况监控器组合成单个逻辑评估。</description>
@@ -12,7 +18,7 @@
     <item>
       <title>【Improving the trustworthiness of Javascript on the Web】提高 Javascript 在 Web 上的可信度</title>
       <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
-      <description>【 There&#39;s no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we co-authored that adds auditability to the web. 】当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。</description>
+      <description>【 There&#39;s no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we co-authored that adds auditability to the web. 】当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审核性。</description>
       <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -55,12 +61,6 @@
       <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
       <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
       <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click】推出 Observatory 和 Smart Shield — 了解世界如何看待您的网站，一键使其速度更快</title>
-      <link>https://blog.cloudflare.com/introducing-observatory-and-smart-shield/</link>
-      <description>【 We&#39;re announcing two enhancements to our Application Performance suite that&#39;ll show how the world sees your website, and make it faster with one click - available Cloudflare Dashboard! 】我们宣布对我们的应用程序性能套件进行两项增强，将向全世界展示您的网站，并一键使其速度更快 - 可用的 Cloudflare 仪表板！</description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>

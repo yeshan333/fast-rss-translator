@@ -5,6 +5,12 @@
     <description></description>
     <managingEditor> (PyCoder’s Weekly)</managingEditor>
     <item>
+      <title>【Issue #705: Lazy Imports, Descriptors, REPL Customization, and More (Oct. 21, 2025)】问题 #705：延迟导入、描述符、REPL 自定义等（2025 年 10 月 21 日）</title>
+      <link>https://pycoders.com/issues/705</link>
+      <description>【】</description>
+      <pubDate>Tue, 21 Oct 2025 19:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Issue #704: Python 3.14 Released and More (Oct. 14, 2025)】问题 #704：Python 3.14 发布及更多内容（2025 年 10 月 14 日）</title>
       <link>https://pycoders.com/issues/704</link>
       <description>【】</description>
@@ -15,12 +21,6 @@
       <link>https://pycoders.com/issues/703</link>
       <description>【】</description>
       <pubDate>Tue, 07 Oct 2025 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Issue #702: django.tasks, MCP, Asyncio Without the GIL, and More (Sept. 30, 2025)】问题 #702：django.tasks、MCP、没有 GIL 的 Asyncio 等（2025 年 9 月 30 日）</title>
-      <link>https://pycoders.com/issues/702</link>
-      <description>【】</description>
-      <pubDate>Tue, 30 Sep 2025 19:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
