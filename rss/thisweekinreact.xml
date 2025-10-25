@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #255: Next.js, RSC, shadcn, TanStack, 3D, Fumadocs | Solito, iOS header items, Expo, BottomTabs, MMKV, ImGui | Node.js, Vitest, Lighthouse】本周 React #255：Next.js、RSC、shadcn、TanStack、3D、Fumadocs | Solito、iOS 标题项、Expo、BottomTabs、MMKV、ImGui | Node.js、Vitest、灯塔</title>
+      <link>https://thisweekinreact.com/newsletter/255</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #254: Next.js, Remix, Compiler, Async React, TanStack, Cloudflare, Hook Form, Conform | VirtualView, DevTools, Screens, Radon, Harness, Audio API, Uniwind, Nitro | Bun, Oxlint, Vite, View Transitions】本周 React #254：Next.js、Remix、编译器、Async React、TanStack、Cloudflare、Hook Form、Conform | VirtualView、DevTools、屏幕、Radon、Harness、音频 API、Uniwind、Nitro | Bun、Oxlint、Vite、视图过渡</title>
       <link>https://thisweekinreact.com/newsletter/254</link>
       <description>【Hi everyone\! Krzysztof and Kacper from Software Mansion here\! 👋】大家好\！ Software Mansion 的 Krzysztof 和 Kacper 在这里\！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/251</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #250: Activity, React Router, CSS-in-JS, RSC, React-Query, useEffect | Expo, iOS blur, AI, Lynx, Squircle, DataList, Liquid Glass | TC39, pnpm, Bun, Browserslist, WebKit】本周 React #250：Activity、React Router、CSS-in-JS、RSC、React-Query、useEffect | Expo、iOS 模糊、AI、Lynx、Squircle、DataList、Liquid Glass | TC39、pnpm、Bun、浏览器列表、WebKit</title>
-      <link>https://thisweekinreact.com/newsletter/250</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

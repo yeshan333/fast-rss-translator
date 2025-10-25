@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【API Gateways 101: The Core of Modern API Management &amp; Security】API 网关 101：现代 API 管理和安全的核心</title>
+      <link>https://blog.bytebytego.com/p/api-gateways-101-the-core-of-modern</link>
+      <description>【In this article, we will look at API gateways in detail, along with their architecture and features.】在本文中，我们将详细介绍 API 网关及其架构和功能。</description>
+      <pubDate>Thu, 23 Oct 2025 15:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Memory Problem: Why LLMs Sometimes Forget Your Conversation】记忆问题：为什么法学硕士有时会忘记你的谈话</title>
+      <link>https://blog.bytebytego.com/p/the-memory-problem-why-llms-sometimes</link>
+      <description>【In this article, we will try to understand why LLMs don&amp;#8217;t actually remember anything in the traditional sense, what context windows are, and why they create hard limits on conversation length.】在本文中，我们将尝试理解为什么法学硕士实际上不记得传统意义上的任何东西，上下文窗口是什么，以及为什么它们对对话长度设置硬性限制。</description>
+      <pubDate>Wed, 22 Oct 2025 15:31:13 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Pinterest Transfers Hundreds of Terabytes of Data With CDC】Pinterest 如何通过 CDC 传输数百 TB 的数据</title>
       <link>https://blog.bytebytego.com/p/how-pinterest-transfers-hundreds</link>
       <description>【Instead of building isolated solutions for each use case, Pinterest created a unified architecture that can support the entire company&amp;#8217;s data needs.】Pinterest 没有为每个用例构建独立的解决方案，而是创建了一个可以支持整个公司数据需求的统一架构。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-facebooks-distributed-priority</link>
       <description>【In this article, we look at how FOQS is structured, how it processes enqueues and dequeues, and how it maintains reliability.】在本文中，我们将了解 FOQS 的结构、它如何处理入队和出队以及它如何保持可靠性。</description>
       <pubDate>Wed, 08 Oct 2025 15:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Flipkart Built a Highly Available MySQL Cluster for 150+ Million Users】Flipkart 如何为 1.5 亿以上用户构建高可用的 MySQL 集群</title>
-      <link>https://blog.bytebytego.com/p/how-flipkart-built-a-highly-available</link>
-      <description>【In this article, we will look at how Altair works under the hood, the technical decisions Flipkart made to balance availability and consistency, and the engineering trade-offs that come with running relational databases at a massive scale.】在本文中，我们将了解 Altair 的幕后工作原理、Flipkart 为平衡可用性和一致性而做出的技术决策，以及大规模运行关系数据库所带来的工程权衡。</description>
-      <pubDate>Tue, 07 Oct 2025 15:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How OpenAI Uses Kubernetes And Apache Kafka for GenAI】OpenAI 如何将 Kubernetes 和 Apache Kafka 用于 GenAI</title>
-      <link>https://blog.bytebytego.com/p/how-openai-uses-kubernetes-and-apache</link>
-      <description>【In this article, we will understand how OpenAI built such a system and the challenges they faced.】在这篇文章中，我们将了解 OpenAI 如何构建这样一个系统以及他们面临的挑战。</description>
-      <pubDate>Mon, 06 Oct 2025 15:30:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

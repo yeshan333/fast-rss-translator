@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【Stacked Diffs - Simply Explained】堆叠差异 - 简单解释</title>
+      <link>https://newsletter.systemdesign.one/p/stacked-diffs</link>
+      <description>【#95: A Code Review Workflow That Will Make You a 10X Software Engineer】#95：代码审查工作流程将使您成为 10 倍的软件工程师</description>
+      <pubDate>Fri, 24 Oct 2025 10:32:23 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Meta Serverless Handles 11.5 Million Function Calls per Second】Meta Serverless 如何处理每秒 1150 万次函数调用</title>
       <link>https://newsletter.systemdesign.one/p/serverless-architecture</link>
       <description>【#94: Break Into Serverless Architecture】#94：闯入无服务器架构</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/best-practices-for-api-design</link>
       <description>【#86: Break into API design (8 Minutes)】#86：深入了解 API 设计（8 分钟）</description>
       <pubDate>Sun, 07 Sep 2025 11:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Gateway vs Load Balancer vs Reverse Proxy 🌟】API 网关、负载均衡器、反向代理 🌟</title>
-      <link>https://newsletter.systemdesign.one/p/api-gateway-load-balancer-reverse-proxy</link>
-      <description>【#85: Break Into Edge Architecture (4 Minutes)】#85：闯入边缘架构（4 分钟）</description>
-      <pubDate>Fri, 29 Aug 2025 11:48:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

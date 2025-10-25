@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users】现代化 Visual Studio 扩展兼容性：扩展开发人员和用户轻松迁移</title>
-      <link>https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users</link>
-      <description>【We have great news for extension users and developers: Visual Studio 2026 is introducing an extension compatibility model designed specifically to make your life easier. Our top priority is to ensure that your extensions continue to work seamlessly across Visual Studio releases - with no extra effort required from you. For users: exten】我们为扩展用户和开发人员带来了好消息：Visual Studio 2026 正在引入专门为让您的生活更轻松而设计的扩展兼容性模型。我们的首要任务是确保您的扩展继续在 Visual Studio 版本之间无缝工作 - 无需您付出额外的努力。对于用户：扩展</description>
-      <pubDate>Tue, 21 Oct 2025 14:00:36 +0000</pubDate>
+      <title>【Your 6-Step Guide to Deploying a Website with GitHub Codespaces and Copilot agent mode】使用 GitHub Codespaces 和 Copilot 代理模式部署网站的 6 步指南</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/your-6-step-guide-to-deploying-a-website-with-github-codespaces-and-copilot-agent-mode</link>
+      <description>【👋everyone! Shree here. I&#39;m sure many of you have had a similar chat with someone you know】👋大家！什里在这里。我相信你们中的许多人都曾与认识的人进行过类似的聊天</description>
+      <pubDate>Fri, 24 Oct 2025 22:38:54 +0000</pubDate>
     </item>
     <item>
-      <title>【Microspeak: The hockey stick on wheels】Microspeak：带轮子的曲棍球棒</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251021-00/?p=111710</link>
-      <description>【The &#34;hockey stick graph&#34; is a graph which shows slow initial growth, followed by a rapid linear increase. The resulting shape resembles a hockey stick, with the blade of the stick represented by the nearly-flat initial section, and the handle of the stick represented by the rapi】“曲棍球棒图”是显示缓慢的初始增长，随后快速线性增长的图。由此产生的形状类似于曲棍球棒，棒的刀片由几乎平坦的初始部分代表，棒的手柄由拉皮代表</description>
-      <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【The early history of the Windows Runtime PropertyValue and why there is a PropertyType.Inspectable that is never used】Windows 运行时 PropertyValue 的早期历史以及为什么存在从未使用过的 PropertyType.Inspectable</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251024-00/?p=111725</link>
+      <description>【Some time ago, I mentioned that the Property­Value.Create­Inspectable method doesn&#39;t create a Property­Value】前段时间，我提到PropertyValue.CreateInspectable方法不会创建PropertyValue</description>
+      <pubDate>Fri, 24 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【“Cost Management” Is Now “Account Throughput” and It’s Moving】“成本管理”现在是“账户吞吐量”并且正在发生变化</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/cost-management-is-now-account-throughput</link>
-      <description>【We’ve made a small but important change in the Azure portal for Azure Cosmos DB to make it easier to manage your account-level throughput. The “Cost Management” section has been renamed to “Account Throughput” and can now be found under the Settings section of your Azure Cosmos DB】我们在 Azure Cosmos DB 的 Azure 门户中进行了一项小但重要的更改，以便更轻松地管理帐户级吞吐量。 “成本管理”部分已重命名为“帐户吞吐量”，现在可以在 Azure Cosmos DB 的“设置”部分下找到</description>
-      <pubDate>Tue, 21 Oct 2025 12:00:34 +0000</pubDate>
+      <title>【Announcing Sponsorship on NuGet.org】在 NuGet.org 上宣布赞助</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation</link>
+      <description>【Package maintainers are the backbone of the NuGet.org ecosystem, building and maintaining the packages we all rely on. Today we are excited to announce the new NuGet.org Sponsorship feature which makes it easier than ever for consumers to recognize and support the authors behind their favorite packages. With Sponsorship on NuG】包维护者是 NuGet.org 生态系统的支柱，负责构建和维护我们都依赖的包。今天，我们很高兴地宣布新的 NuGet.org 赞助功能，该功能使消费者比以往任何时候都更容易认识和支持他们喜爱的软件包背后的作者。获得 NuG 赞助</description>
+      <pubDate>Thu, 23 Oct 2025 22:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What about the icons in pifmgr.dll?】pifmgr.dll 中的图标怎么样？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251020-00/?p=111706</link>
-      <description>【Some time ago, I discussed the intended uses of the icons in progman.exe and moricons.dll and we even looked at those icons (】前段时间，我讨论了 progman.exe 和 moricons.dll 中图标的预期用途，我们甚至查看了这些图标（</description>
-      <pubDate>Mon, 20 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Upgrading to Microsoft Agent Framework in Your .NET AI Chat App】在 .NET AI 聊天应用程序中升级到 Microsoft Agent Framework</title>
+      <link>https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app</link>
+      <description>【The AI App Templates let you spin up a working chat application in minutes, complete with AI integration, custom data ingestion, and all the pieces you need to get started. It&#39;s a cool and solid foundation. But here&#39;s the thing: what if you want to go beyond basic chat? What if you want to build AI agents that can actually reason,】AI 应用程序模板可让您在几分钟内启动一个工作聊天应用程序，并完成 AI 集成、自定义数据摄取以及入门所需的所有部分。这是一个很酷且坚实的基础。但问题是：如果您想要超越基本聊天范围怎么办？如果你想构建能够真正推理的人工智能代理怎么办？</description>
+      <pubDate>Thu, 23 Oct 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing latest Azure Cosmos DB Python SDK: Powering the Future of AI with OpenAI】发布最新的 Azure Cosmos DB Python SDK：通过 OpenAI 为 AI 的未来提供动力</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/announcing-latest-azure-cosmos-db-python-sdk-powering-the-future-of-ai-with-openai</link>
-      <description>【We&#39;re thrilled to announce the stable release of Azure Cosmos DB Python SDK version 4.14.0! This release brings together months of innovation and collaboration, featuring ground-breaking capabilities that have been battle-tested in production environments. Many of these features were developed in c】我们很高兴地宣布 Azure Cosmos DB Python SDK 版本 4.14.0 稳定发布！此版本汇集了数月的创新和协作，具有经过生产环境考验的突破性功能。其中许多功能都是用 c 语言开发的</description>
-      <pubDate>Mon, 20 Oct 2025 12:00:18 +0000</pubDate>
+      <title>【Windows Runtime design principle: Properties can be set in any order】Windows运行时设计原则：属性可以按任意顺序设置</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251023-00/?p=111716</link>
+      <description>【One of the design principles of the Windows Runtime is that if an object has multiple writable properties, then you can set them in any order and the effect will be the same. For example, consider an object with three properties: Minimum, Maximum, and Value. Suppose the rule is that you must, a】Windows运行时的设计原则之一是，如果一个对象有多个可写属性，那么你可以按任意顺序设置它们，效果都是一样的。例如，考虑一个具有三个属性的对象：最小值、最大值和值。假设规则是你必须</description>
+      <pubDate>Thu, 23 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A Developer&#39;s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry】在 Azure AI Foundry 上微调 GPT-4o 以进行图像分类的开发人员指南</title>
-      <link>https://devblogs.microsoft.com/foundry/a-developers-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry</link>
-      <description>【Whether you’re a machine learning practitioner, app developer, or just curious about the latest in AI, this guide shows how you can quickly boost image classification accuracy using cutting-edge Vision-Language Models (VLM) on Azure—no deep learning expertise required. In this walkthrough, you’ll see how to fine-tune GPT-4o on】无论您是机器学习从业者、应用程序开发人员，还是只是对人工智能的最新技术感到好奇，本指南都会向您展示如何使用 Azure 上最先进的视觉语言模型 (VLM) 快速提高图像分类的准确性，而无需深度学习专业知识。在本演练中，您将了解如何微调 GPT-4o</description>
-      <pubDate>Mon, 20 Oct 2025 07:11:50 +0000</pubDate>
+      <title>【Unlocking Enterprise AI Complexity: Multi-Agent Orchestration with the Microsoft Agent Framework】解锁企业 AI 复杂性：使用 Microsoft Agent 框架进行多代理编排</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/unlocking-enterprise-ai-complexity-multi-agent-orchestration-with-the-microsoft-agent-framework</link>
+      <description>【The Architectural Imperative: Why Multi-Agent Orchestration is Essential In modern enterprise AI systems, the scope and complexity of real-world business ch】架构当务之急：为什么多代理编排至关重要 在现代企业人工智能系统中，现实世界业务流程的范围和复杂性</description>
+      <pubDate>Thu, 23 Oct 2025 08:09:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Boost your Azure Cosmos DB Efficiency with Azure Advisor Insights】使用 Azure Advisor Insights 提高 Azure Cosmos DB 效率</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/boost-your-azure-cosmos-db-efficiency-with-azure-advisor-insights</link>
-      <description>【Azure Cosmos DB is】Azure Cosmos DB 是</description>
-      <pubDate>Fri, 17 Oct 2025 19:51:02 +0000</pubDate>
+      <title>【Integration Testing with Testcontainers】使用测试容器进行集成测试</title>
+      <link>https://devblogs.microsoft.com/ise/testing-with-testcontainers</link>
+      <description>【Introduction Ever had to write tests that need a real database, and found yourself juggling local setups or dummy data? Testcontainers might just be your new best friend. In this article, we&#39;ll explore how Testcontainers can simplify integration testing by spinning up real services in Docker containers on-demand. We&#39;】简介 您是否曾经需要编写需要真实数据库的测试，并发现自己需要处理本地设置或虚拟数据？测试容器可能只是您最好的新朋友。在本文中，我们将探讨 Testcontainers 如何通过按需在 Docker 容器中启动真实服务来简化集成测试。我们&#39;</description>
+      <pubDate>Thu, 23 Oct 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Streamlined Setup, Stronger Guardrails for Microsoft Dev Box】简化的设置，为 Microsoft Dev Box 提供更强大的保护</title>
-      <link>https://devblogs.microsoft.com/develop-from-the-cloud/streamlined-setup-stronger-guardrails-for-microsoft-dev-box</link>
-      <description>【We’re excited to introduce a new capability that simplifies Dev Box setup—enabling platform engineers and project admins to specify images and SKUs directly when configuring Dev Box pools, without needing to create Dev Box definitions at the Dev Cent】我们很高兴推出一项简化 Dev Box 设置的新功能，使平台工程师和项目管理员能够在配置 Dev Box 池时直接指定映像和 SKU，而无需在开发中心创建 Dev Box 定义</description>
-      <pubDate>Fri, 17 Oct 2025 14:00:42 +0000</pubDate>
+      <title>【Bringing Context to Copilot: Azure Cosmos DB Best Practices, Right in Your VS Code Workspace】将上下文引入 Copilot：Azure Cosmos DB 最佳实践，就在 VS Code 工作区中</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/bringing-context-to-copilot-azure-cosmos-db-best-practices-right-in-your-vs-code-workspace</link>
+      <description>【Developers love GitHub Copilot for its instant, intelligent code suggestions. But what if those suggestions could also reflect your specific database and workload patterns? That’s now possible with a new feature in Azure Cosmos DB for VS Code.】开发人员喜欢 GitHub Copilot，因为它提供即时、智能的代码建议。但是，如果这些建议也可以反映您的特定数据库和工作负载模式呢？现在，通过 Azure Cosmos DB for VS Code 中的新功能可以实现这一点。</description>
+      <pubDate>Wed, 22 Oct 2025 18:26:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Using RAII to remedy a defect where not all code paths performed required exit actions, follow-up】使用 RAII 修复并非所有代码路径都执行所需退出操作的缺陷，后续</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251017-00/?p=111698</link>
-      <description>【Last time, we looked at a way to use the RAII design pattern (Resource Acquisition Is Initialization) to ensure that a function eventually got called on all code paths】上次，我们研究了一种使用 RAII 设计模式（资源获取即初始化）来确保最终在所有代码路径上调用函数的方法</description>
-      <pubDate>Fri, 17 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Introducing Planning in Visual Studio (Public Preview)】Visual Studio 中的规划简介（公共预览版）</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview</link>
+      <description>【Quick prompts are great for small fixes, but they fall short on big projects. You end up rewriting instructions, tweaking them constantly, and hoping the model stays on track. It gives Copilot a visible, structured path to follow, one that updates as it works and keeps you in control at every step. In Agent Mode, Copilot can now create plan】快速提示对于小修复来说非常有用，但对于大型项目来说却不够。您最终会重写指令，不断调整它们，并希望模型保持在正轨上。它为 Copilot 提供了一条可见的、结构化的路径，该路径会随着工作的进行而更新，并让您在每一步都处于掌控之中。在代理模式下，副驾驶现在可以创建计划</description>
+      <pubDate>Wed, 22 Oct 2025 15:54:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Exciting new capabilities and enhancements for M365 Developer Program - October 2025】M365 开发者计划令人兴奋的新功能和增强功能 - 2025 年 10 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/exciting-new-capabilities-and-enhancements-for-m365-developer-program-october-2025</link>
-      <description>【The Microsoft 365 Developer Program has long been a great resource for developers building solutions on the Microsoft 365 platform. Today, we’re thrilled to share some exciting updates that make onboarding easier, environments more ca】Microsoft 365 开发人员计划长期以来一直是在 Microsoft 365 平台上构建解决方案的开发人员的重要资源。今天，我们很高兴与大家分享一些令人兴奋的更新，这些更新使入门更容易、环境更轻松</description>
-      <pubDate>Thu, 16 Oct 2025 15:34:07 +0000</pubDate>
+      <title>【Build an AI Agentic RAG search application with React, SQL Azure and Azure Static Web Apps】使用 React、SQL Azure 和 Azure Static Web Apps 构建 AI Agentic RAG 搜索应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-sql/build-an-ai-agentic-rag-search-application-with-react-sql-azure-and-azure-static-web-apps</link>
+      <description>【Introduction Leveraging OpenAI for semantic searches on structured databases like Azure SQL enhances search accuracy and context-awareness, providing more relevant and insightful results. This example showcases the use of Azure SQL for storing and searching data with AI. By implementing the RAG pattern with Azure SQL, the sample e】简介 利用 OpenAI 对 Azure SQL 等结构化数据库进行语义搜索，可以提高搜索准确性和上下文感知能力，从而提供更相关、更有洞察力的结果。此示例展示了如何使用 Azure SQL 通过 AI 存储和搜索数据。通过使用 Azure SQL 实现 RAG 模式，示例 e</description>
+      <pubDate>Wed, 22 Oct 2025 15:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

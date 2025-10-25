@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Securing agentic commerce: helping AI Agents transact with Visa and Mastercard】确保代理商务安全：帮助人工智能代理与 Visa 和 Mastercard 进行交易</title>
+      <link>https://blog.cloudflare.com/secure-agentic-commerce/</link>
+      <description>【 Cloudflare is partnering with Visa and Mastercard to help secure the future of agentic commerce. 】Cloudflare 正在与 Visa 和 Mastercard 合作，帮助确保代理商务的未来。</description>
+      <pubDate>Fri, 24 Oct 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A deep dive into BPF LPM trie performance and optimization】深入探讨 BPF LPM trie 性能和优化</title>
       <link>https://blog.cloudflare.com/a-deep-dive-into-bpf-lpm-trie-performance-and-optimization/</link>
       <description>【 This post explores the performance of BPF LPM tries, a critical data structure used for IP matching.  】这篇文章探讨了 BPF LPM 尝试的性能，这是一种用于 IP 匹配的关键数据结构。</description>
@@ -18,7 +24,7 @@
     <item>
       <title>【Improving the trustworthiness of Javascript on the Web】提高 Javascript 在 Web 上的可信度</title>
       <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
-      <description>【 There&#39;s no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we co-authored that adds auditability to the web. 】当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审核性。</description>
+      <description>【 There&#39;s no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we co-authored that adds auditability to the web. 】当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。</description>
       <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</link>
       <description>【 Rust-powered core systems, post-quantum upgrades, developer access for students, PlanetScale integration, open-source partnerships, and our biggest internship program ever — 1,111 interns in 2026. 】Rust 支持的核心系统、后量子升级、学生开发人员访问权限、PlanetScale 集成、开源合作伙伴关系以及我们有史以来最大的实习计划 - 2026 年将有 1,111 名实习生。</description>
       <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare just got faster and more secure, powered by Rust】由 Rust 提供支持的 Cloudflare 变得更快、更安全</title>
-      <link>https://blog.cloudflare.com/20-percent-internet-upgrade/</link>
-      <description>【 We’ve replaced the original core system in Cloudflare with a new modular Rust-based proxy, replacing NGINX.  】我们用基于 Rust 的新模块化代理取代了 Cloudflare 中的原始核心系统，取代了 NGINX。</description>
-      <pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
