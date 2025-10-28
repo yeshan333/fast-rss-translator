@@ -4,6 +4,18 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Azure SDK Release (October 2025)】Azure SDK 版本（2025 年 10 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
+      <pubDate>Mon, 27 Oct 2025 18:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dubious security vulnerability: Denial of service by loading a very large file】可疑的安全漏洞：通过加载非常大的文件来拒绝服务</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251027-00/?p=111731</link>
+      <description>【A denial of service vulnerability report was filed against a program, let&#39;s call it Notepad. The actual text of the report was very hard to understand because the grammar was all messed up. I&#39;ll give the finder the benefit of the doubt on the assumption that they are not a native English speaker. Here&#39;s a cleaned-up version:】针对一个程序（我们称之为记事本）提交了拒绝服务漏洞报告。报告的实际文本很难理解，因为语法完全混乱。假设发现者的母语不是英语，我将给予他们无罪推论。这是一个清理后的版本：</description>
+      <pubDate>Mon, 27 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Your 6-Step Guide to Deploying a Website with GitHub Codespaces and Copilot agent mode】使用 GitHub Codespaces 和 Copilot 代理模式部署网站的 6 步指南</title>
       <link>https://devblogs.microsoft.com/all-things-azure/your-6-step-guide-to-deploying-a-website-with-github-codespaces-and-copilot-agent-mode</link>
       <description>【👋everyone! Shree here. I&#39;m sure many of you have had a similar chat with someone you know】👋大家！什里在这里。我相信你们中的许多人都曾与认识的人进行过类似的聊天</description>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/cosmosdb/bringing-context-to-copilot-azure-cosmos-db-best-practices-right-in-your-vs-code-workspace</link>
       <description>【Developers love GitHub Copilot for its instant, intelligent code suggestions. But what if those suggestions could also reflect your specific database and workload patterns? That’s now possible with a new feature in Azure Cosmos DB for VS Code.】开发人员喜欢 GitHub Copilot，因为它提供即时、智能的代码建议。但是，如果这些建议也可以反映您的特定数据库和工作负载模式呢？现在，通过 Azure Cosmos DB for VS Code 中的新功能可以实现这一点。</description>
       <pubDate>Wed, 22 Oct 2025 18:26:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Planning in Visual Studio (Public Preview)】Visual Studio 中的规划简介（公共预览版）</title>
-      <link>https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview</link>
-      <description>【Quick prompts are great for small fixes, but they fall short on big projects. You end up rewriting instructions, tweaking them constantly, and hoping the model stays on track. It gives Copilot a visible, structured path to follow, one that updates as it works and keeps you in control at every step. In Agent Mode, Copilot can now create plan】快速提示对于小修复来说非常有用，但对于大型项目来说却不够。您最终会重写指令，不断调整它们，并希望模型保持在正轨上。它为 Copilot 提供了一条可见的、结构化的路径，该路径会随着工作的进行而更新，并让您在每一步都处于掌控之中。在代理模式下，副驾驶现在可以创建计划</description>
-      <pubDate>Wed, 22 Oct 2025 15:54:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build an AI Agentic RAG search application with React, SQL Azure and Azure Static Web Apps】使用 React、SQL Azure 和 Azure Static Web Apps 构建 AI Agentic RAG 搜索应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-sql/build-an-ai-agentic-rag-search-application-with-react-sql-azure-and-azure-static-web-apps</link>
-      <description>【Introduction Leveraging OpenAI for semantic searches on structured databases like Azure SQL enhances search accuracy and context-awareness, providing more relevant and insightful results. This example showcases the use of Azure SQL for storing and searching data with AI. By implementing the RAG pattern with Azure SQL, the sample e】简介 利用 OpenAI 对 Azure SQL 等结构化数据库进行语义搜索，可以提高搜索准确性和上下文感知能力，从而提供更相关、更有洞察力的结果。此示例展示了如何使用 Azure SQL 通过 AI 存储和搜索数据。通过使用 Azure SQL 实现 RAG 模式，示例 e</description>
-      <pubDate>Wed, 22 Oct 2025 15:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

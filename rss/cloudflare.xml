@@ -4,6 +4,48 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【The tricky science of Internet measurement】互联网测量的棘手科学</title>
+      <link>https://blog.cloudflare.com/tricky-internet-measurement/</link>
+      <description>【 The Internet is one big open system composed of many closed boxes — which makes measuring the Internet difficult. In this post we explore Internet measurement as a science. 】互联网是一个由许多封闭盒子组成的大型开放系统，这使得衡量互联网变得困难。在这篇文章中，我们将互联网测量作为一门科学进行探索。</description>
+      <pubDate>Mon, 27 Oct 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Making the Internet observable: the evolution of Cloudflare Radar】让互联网变得可观察：Cloudflare Radar 的演变</title>
+      <link>https://blog.cloudflare.com/evolution-of-cloudflare-radar/</link>
+      <description>【 Cloudflare Radar has evolved significantly since its 2020 launch, offering deeper insights into Internet security, routing, and traffic with new tools and data that help anyone understand what&#39;s happening online. 】自 2020 年推出以来，Cloudflare Radar 已取得显着发展，通过新工具和数据提供对互联网安全、路由和流量的更深入见解，帮助任何人了解在线情况。</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【From .com to .anything: introducing Top-Level Domain (TLD) insights on Cloudflare Radar】从 .com 到 .anything：介绍有关 Cloudflare Radar 的顶级域名 (TLD) 见解</title>
+      <link>https://blog.cloudflare.com/introducing-tld-insights-on-cloudflare-radar/</link>
+      <description>【 Cloudflare Radar has launched a new Top-Level Domain (TLD) page, providing insights into TLD popularity, traffic, and security. The top-ranking TLD may come as a surprise. 】Cloudflare Radar 推出了新的顶级域名 (TLD) 页面，提供有关 TLD 受欢迎程度、流量和安全性的见解。排名最高的 TLD 可能会让人感到意外。</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Internet measurement, resilience, and transparency: blog takeover from Cloudflare Research and friends】互联网衡量、弹性和透明度：Cloudflare Research 及其朋友接管博客</title>
+      <link>https://blog.cloudflare.com/internet-measurement-resilience-transparency-week/</link>
+      <description>【 Coinciding with the ACM’s Internet Measurement Conference, the Cloudflare Research team is publishing a series of posts this week to share their research on building a more measurable, resilient, and transparent Internet. These posts will cover foundational concepts in Internet measurement, Internet resilience, cryptography, and networking.  】与 ACM 互联网测量会议同期，Cloudflare 研究团队本周发布了一系列帖子，分享他们关于构建更可测量、更有弹性和更透明的互联网的研究。这些帖子将涵盖互联网测量、互联网弹性、密码学​​和网络的基本概念。</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How does Cloudflare’s Speed Test really work?】Cloudflare 的速度测试到底如何运作？</title>
+      <link>https://blog.cloudflare.com/how-does-cloudflares-speed-test-really-work/</link>
+      <description>【 In this blog post we’ll discuss how Cloudflare thinks about measuring Internet quality, how our own Cloudflare speed test works, and our future plans for providing Internet measurement tools that help everyone build a better Internet. 】在这篇博文中，我们将讨论 Cloudflare 如何考虑测量互联网质量、我们自己的 Cloudflare 速度测试如何工作，以及我们未来提供互联网测量工具以帮助每个人构建更好的互联网的计划。</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Data at Cloudflare scale: some insights on measurement for 1,111 interns】Cloudflare 规模的数据：对 1,111 名实习生进行衡量的一些见解</title>
+      <link>https://blog.cloudflare.com/experience-of-data-at-scale/</link>
+      <description>【 While large cloud providers hold vast troves of passive network data, analyzing them is complicated. The scale, noise, and absence of definitive ground truth all create major hurdles. Yet by carefully quantifying these constraints and finding alternative forms of evidence, meaningful insights can still emerge. 】虽然大型云提供商拥有大量被动网络数据，但分析它们很复杂。规模、噪音和缺乏明确的事实真相都造成了主要障碍。然而，通过仔细量化这些限制并寻找替代形式的证据，仍然可以出现有意义的见解。</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Cloudflare’s client-side security made the npm supply chain attack a non-event】Cloudflare 的客户端安全性如何使 npm 供应链攻击不再发生</title>
+      <link>https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/</link>
+      <description>【 A recent npm supply chain attack compromised 18 popular packages. This post explains how Cloudflare’s graph-based machine learning model, which analyzes 3.5 billion scripts daily, was built to detect and block exactly this kind of threat automatically. 】最近的一次 npm 供应链攻击破坏了 18 个流行软件包。这篇文章解释了 Cloudflare 基于图形的机器学习模型（每天分析 35 亿个脚本）是如何构建的，以自动检测和阻止此类威胁。</description>
+      <pubDate>Fri, 24 Oct 2025 17:10:43 +0000</pubDate>
+    </item>
+    <item>
       <title>【Securing agentic commerce: helping AI Agents transact with Visa and Mastercard】确保代理商务安全：帮助人工智能代理与 Visa 和 Mastercard 进行交易</title>
       <link>https://blog.cloudflare.com/secure-agentic-commerce/</link>
       <description>【 Cloudflare is partnering with Visa and Mastercard to help secure the future of agentic commerce. 】Cloudflare 正在与 Visa 和 Mastercard 合作，帮助确保代理商务的未来。</description>
@@ -20,48 +62,6 @@
       <link>https://blog.cloudflare.com/load-balancing-monitor-groups-multi-service-health-checks-for-resilient/</link>
       <description>【 Cloudflare Load Balancing now supports Monitor Groups, allowing you to combine multiple health monitors into a single, logical assessment.  】Cloudflare Load Balancing 现在支持监控组，允许您将多个运行状况监控器组合成单个逻辑评估。</description>
       <pubDate>Fri, 17 Oct 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improving the trustworthiness of Javascript on the Web】提高 Javascript 在 Web 上的可信度</title>
-      <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
-      <description>【 There&#39;s no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we co-authored that adds auditability to the web. 】当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。</description>
-      <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unpacking Cloudflare Workers CPU Performance Benchmarks】解开 Cloudflare Workers CPU 性能基准</title>
-      <link>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</link>
-      <description>【 Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations.  】Cloudflare 调查了 Workers 的 CPU 性能基准测试结果，发现并修复了基础设施、V8 垃圾收集和 OpenNext 优化中的问题。</description>
-      <pubDate>Tue, 14 Oct 2025 20:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing REACT: Why We Built an Elite Incident Response Team】REACT 简介：为什么我们建立精英事件响应团队</title>
-      <link>https://blog.cloudflare.com/introducing-react-why-we-built-an-elite-incident-response-team/</link>
-      <description>【 We&#39;re launching Cloudforce One REACT, a team of expert security responders designed to eliminate the gap between perimeter defense and internal incident response. 】我们正在推出 Cloudforce One REACT，这是一支由专家安全响应人员组成的团队，旨在消除外围防御和内部事件响应之间的差距。</description>
-      <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How we found a bug in Go&#39;s arm64 compiler】我们如何发现 Go 的 arm64 编译器中的错误</title>
-      <link>https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/</link>
-      <description>【 84 million requests a second means even rare bugs appear often. We&#39;ll reveal how we discovered a race condition in the Go arm64 compiler and got it fixed. 】每秒 8400 万个请求意味着即使罕见的错误也经常出现。我们将揭示如何在 Go arm64 编译器中发现竞争条件并修复它。</description>
-      <pubDate>Wed, 08 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Payload on Workers: a full-fledged CMS, running entirely on Cloudflare’s stack】Workers 上的有效负载：成熟的 CMS，完全在 Cloudflare 堆栈上运行</title>
-      <link>https://blog.cloudflare.com/payload-cms-workers/</link>
-      <description>【 We demonstrate how the open-source Payload CMS was ported to run entirely on Cloudflare&#39;s developer platform. 】我们演示了如何将开源 Payload CMS 移植到完全在 Cloudflare 的开发者平台上运行。</description>
-      <pubDate>Tue, 30 Sep 2025 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Nationwide Internet shutdown in Afghanistan extends localized disruptions】阿富汗全国互联网关闭扩大了局部中断</title>
-      <link>https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/</link>
-      <description>【 On September 29, 2025, Internet connectivity was completely shut down across Afghanistan, impacting business, education, finance, and government services. 】2025 年 9 月 29 日，阿富汗各地的互联网连接完全关闭，影响了商业、教育、金融和政府服务。</description>
-      <pubDate>Tue, 30 Sep 2025 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【15 years of helping build a better Internet: a look back at Birthday Week 2025】15 年来帮助建设更好的互联网：回顾 2025 年生日周</title>
-      <link>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</link>
-      <description>【 Rust-powered core systems, post-quantum upgrades, developer access for students, PlanetScale integration, open-source partnerships, and our biggest internship program ever — 1,111 interns in 2026. 】Rust 支持的核心系统、后量子升级、学生开发人员访问权限、PlanetScale 集成、开源合作伙伴关系以及我们有史以来最大的实习计划 - 2026 年将有 1,111 名实习生。</description>
-      <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
