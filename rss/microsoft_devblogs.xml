@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Azure SDK Release (October 2025)】Azure SDK 版本（2025 年 10 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2025</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
-      <pubDate>Mon, 27 Oct 2025 18:59:41 +0000</pubDate>
+      <title>【Failures Happen in Cloud, but how Azure Cosmos DB keeps your Applications Online】云中经常发生故障，但 Azure Cosmos DB 如何使应用程序保持在线</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/failures-happen-in-cloud-but-how-azure-cosmos-db-keeps-your-applications-online</link>
+      <description>【The only thing that’s constant in distributed systems is failures. No cloud platform is immune to failures — from regional outages and transient network blips to human errors or hardware faults. What defines resiliency &amp;amp; reliability isn’t the absence of failure, but how systems anticipate, isolate, and recover from them. Here is a】分布式系统中唯一不变的就是失败。没有一个云平台能够免受故障的影响——从区域性中断和短暂的网络故障到人为错误或硬件故障。弹性和可靠性的定义不是没有故障，而是系统如何预测、隔离故障并从中恢复。这是一个</description>
+      <pubDate>Thu, 30 Oct 2025 20:40:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Dubious security vulnerability: Denial of service by loading a very large file】可疑的安全漏洞：通过加载非常大的文件来拒绝服务</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251027-00/?p=111731</link>
-      <description>【A denial of service vulnerability report was filed against a program, let&#39;s call it Notepad. The actual text of the report was very hard to understand because the grammar was all messed up. I&#39;ll give the finder the benefit of the doubt on the assumption that they are not a native English speaker. Here&#39;s a cleaned-up version:】针对一个程序（我们称之为记事本）提交了拒绝服务漏洞报告。报告的实际文本很难理解，因为语法完全混乱。假设发现者的母语不是英语，我将给予他们无罪推论。这是一个清理后的版本：</description>
-      <pubDate>Mon, 27 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Introducing the azd extension to configure GitHub Copilot coding agent integration with Azure】引入 azd 扩展来配置 GitHub Copilot 编码代理与 Azure 的集成</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-copilot-coding-agent-config</link>
+      <description>【This new azd extension makes it easy to use the GitHub Copilot coding agent with Azure Want Copilot to help you build apps in the cloud? This tool does all the boring setup work for you. Instead of spending hours figuring out permissions and security, you can get Copilot coding agent connected to your cloud resources i】这个新的 azd 扩展使您可以轻松地将 GitHub Copilot 编码代理与 Azure 结合使用 想要 Copilot 来帮助您在云中构建应用程序吗？该工具可以为您完成所有无聊的设置工作。您可以让 Copilot 编码代理连接到您的云资源，而无需花费数小时来确定权限和安全性。</description>
+      <pubDate>Thu, 30 Oct 2025 18:29:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Your 6-Step Guide to Deploying a Website with GitHub Codespaces and Copilot agent mode】使用 GitHub Codespaces 和 Copilot 代理模式部署网站的 6 步指南</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/your-6-step-guide-to-deploying-a-website-with-github-codespaces-and-copilot-agent-mode</link>
-      <description>【👋everyone! Shree here. I&#39;m sure many of you have had a similar chat with someone you know】👋大家！什里在这里。我相信你们中的许多人都曾与认识的人进行过类似的聊天</description>
-      <pubDate>Fri, 24 Oct 2025 22:38:54 +0000</pubDate>
+      <title>【Upgrading C++ Projects to Visual Studio 2026】将 C++ 项目升级到 Visual Studio 2026</title>
+      <link>https://devblogs.microsoft.com/cppblog/upgrading-c-projects-to-visual-studio-2026</link>
+      <description>【With Visual Studio 2026 version 18.0 getting closer to General Availability (GA), we want to share with you how you can upgrade your projects from your current versions of Visual Studio and the Microsoft C++ (MSVC) Build Tools to the latest versions.】随着 Visual Studio 2026 版本 18.0 距离正式发布 (GA) 越来越近，我们希望与您分享如何将项目从当前版本的 Visual Studio 和 Microsoft C++ (MSVC) 生成工具升级到最新版本。</description>
+      <pubDate>Thu, 30 Oct 2025 16:53:05 +0000</pubDate>
     </item>
     <item>
-      <title>【The early history of the Windows Runtime PropertyValue and why there is a PropertyType.Inspectable that is never used】Windows 运行时 PropertyValue 的早期历史以及为什么存在从未使用过的 PropertyType.Inspectable</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251024-00/?p=111725</link>
-      <description>【Some time ago, I mentioned that the Property­Value.Create­Inspectable method doesn&#39;t create a Property­Value】前段时间，我提到PropertyValue.CreateInspectable方法不会创建PropertyValue</description>
-      <pubDate>Fri, 24 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Trying to build a XAML tree in code throws a &#34;No installed components were detected&#34; exception】尝试在代码中构建 XAML 树会引发“未检测到已安装的组件”异常</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251030-00/?p=111746</link>
+      <description>【You might, for some reason, be building some XAML in code rather than markup. Starting with this XAML: &amp;lt;!-- XAML markup --&amp;gt; &amp;lt;Grid&amp;gt; &amp;lt;Grid.ColumnDefinitions&amp;gt; &amp;lt;ColumnDefinition Width=&#34;Auto&#34; /&amp;gt; &amp;lt;ColumnDefinition Width=&#34;Auto&#34; /&amp;gt; &amp;lt;/Grid.ColumnDefinitions&amp;gt; &amp;lt;/Grid&amp;gt;】由于某种原因，您可能会在代码中而不是标记中构建一些 XAML。从此 XAML 开始： &lt;!-- XAML 标记 --&gt; &lt;Grid&gt; &lt;Grid.ColumnDefinitions&gt; &lt;ColumnDefinition Width=&#34;Auto&#34; /&gt; &lt;ColumnDefinition Width=&#34;Auto&#34; /&gt; &lt;/Grid.ColumnDefinitions&gt; &lt;/Grid&gt;</description>
+      <pubDate>Thu, 30 Oct 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Sponsorship on NuGet.org】在 NuGet.org 上宣布赞助</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation</link>
-      <description>【Package maintainers are the backbone of the NuGet.org ecosystem, building and maintaining the packages we all rely on. Today we are excited to announce the new NuGet.org Sponsorship feature which makes it easier than ever for consumers to recognize and support the authors behind their favorite packages. With Sponsorship on NuG】包维护者是 NuGet.org 生态系统的支柱，负责构建和维护我们都依赖的包。今天，我们很高兴地宣布新的 NuGet.org 赞助功能，该功能使消费者比以往任何时候都更容易认识和支持他们喜爱的软件包背后的作者。获得 NuG 赞助</description>
-      <pubDate>Thu, 23 Oct 2025 22:18:00 +0000</pubDate>
+      <title>【SharePoint Framework (SPFx) roadmap update – October 2025】SharePoint 框架 (SPFx) 路线图更新 – 2025 年 10 月</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-october-2025</link>
+      <description>【We continue to be humbled by the incredible momentum of SharePoint Framework (SPFx) and the growth it is driving with our customers and partners. There are tens of millions of users across the world using custom SPFx solutions on a daily basis in Microsoft 365 – built by our customers and pa】SharePoint 框架 (SPFx) 令人难以置信的势头及其与我们的客户和合作伙伴共同推动的增长让我们继续感到谦卑。全球有数千万用户每天在 Microsoft 365 中使用自定义 SPFx 解决方案 – 由我们的客户和合作伙伴构建</description>
+      <pubDate>Thu, 30 Oct 2025 12:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Upgrading to Microsoft Agent Framework in Your .NET AI Chat App】在 .NET AI 聊天应用程序中升级到 Microsoft Agent Framework</title>
-      <link>https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app</link>
-      <description>【The AI App Templates let you spin up a working chat application in minutes, complete with AI integration, custom data ingestion, and all the pieces you need to get started. It&#39;s a cool and solid foundation. But here&#39;s the thing: what if you want to go beyond basic chat? What if you want to build AI agents that can actually reason,】AI 应用程序模板可让您在几分钟内启动一个工作聊天应用程序，并完成 AI 集成、自定义数据摄取以及入门所需的所有部分。这是一个很酷且坚实的基础。但问题是：如果您想要超越基本聊天范围怎么办？如果你想构建能够真正推理的人工智能代理怎么办？</description>
-      <pubDate>Thu, 23 Oct 2025 17:00:00 +0000</pubDate>
+      <title>【Visual Studio October Update – new models, memories, planning, and more】Visual Studio 十月更新 – 新模型、记忆、规划等</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-october-update</link>
+      <description>【The October 2025 update for Visual Studio 2022 (v17.14) is now available. In this month, we are bringing you improvements to model choices, agentic flows, and chat thread management. 】Visual Studio 2022 (v17.14) 的 2025 年 10 月更新现已推出。本月，我们将为您带来模型选择、代理流程和聊天线程管理方面的改进。 </description>
+      <pubDate>Thu, 30 Oct 2025 12:00:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows Runtime design principle: Properties can be set in any order】Windows运行时设计原则：属性可以按任意顺序设置</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251023-00/?p=111716</link>
-      <description>【One of the design principles of the Windows Runtime is that if an object has multiple writable properties, then you can set them in any order and the effect will be the same. For example, consider an object with three properties: Minimum, Maximum, and Value. Suppose the rule is that you must, a】Windows运行时的设计原则之一是，如果一个对象有多个可写属性，那么你可以按任意顺序设置它们，效果都是一样的。例如，考虑一个具有三个属性的对象：最小值、最大值和值。假设规则是你必须</description>
-      <pubDate>Thu, 23 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Dev Proxy v1.3 with exporting to HAR, LLM usage tracking, and enhanced permissions analysis】Dev Proxy v1.3，具有导出到 HAR、LLM 使用情况跟踪和增强的权限分析功能</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v1-3-with-exporting-to-har-llm-usage-tracking-and-enhanced-permissions-analysis</link>
+      <description>【We&#39;re thrilled to announce the release of Dev Proxy v1.3.0! This update introduces two powerful new plugins: HAR file generation for universal debugging and LLM usage tracking for cost optimization, along with enhanced permissions analysis and improved OpenAPI spec generation for complex testing scenarios. In this version: New】我们很高兴地宣布 Dev Proxy v1.3.0 发布！此更新引入了两个强大的新插件：用于通用调试的 HAR 文件生成和用于成本优化的 LLM 使用情况跟踪，以及用于复杂测试场景的增强的权限分析和改进的 OpenAPI 规范生成。在此版本中：新</description>
+      <pubDate>Thu, 30 Oct 2025 10:47:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Unlocking Enterprise AI Complexity: Multi-Agent Orchestration with the Microsoft Agent Framework】解锁企业 AI 复杂性：使用 Microsoft Agent 框架进行多代理编排</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/unlocking-enterprise-ai-complexity-multi-agent-orchestration-with-the-microsoft-agent-framework</link>
-      <description>【The Architectural Imperative: Why Multi-Agent Orchestration is Essential In modern enterprise AI systems, the scope and complexity of real-world business ch】架构当务之急：为什么多代理编排至关重要 在现代企业人工智能系统中，现实世界业务流程的范围和复杂性</description>
-      <pubDate>Thu, 23 Oct 2025 08:09:07 +0000</pubDate>
+      <title>【Java OpenJDK October 2025 Patch &amp; Security Update】Java OpenJDK 2025 年 10 月补丁和安全更新</title>
+      <link>https://devblogs.microsoft.com/java/java-openjdk-oct-2025-patch-security-update</link>
+      <description>【Hello Java customers! We are happy to announce the latest July 2025 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 25.0.1 OpenJDK 21.0.9 OpenJDK 17.0.17 OpenJDK 11.0.29】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2025 年 7 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 25.0.1 OpenJDK 21.0.9 OpenJDK 17.0.17 OpenJDK 11.0.29</description>
+      <pubDate>Wed, 29 Oct 2025 21:19:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Integration Testing with Testcontainers】使用测试容器进行集成测试</title>
-      <link>https://devblogs.microsoft.com/ise/testing-with-testcontainers</link>
-      <description>【Introduction Ever had to write tests that need a real database, and found yourself juggling local setups or dummy data? Testcontainers might just be your new best friend. In this article, we&#39;ll explore how Testcontainers can simplify integration testing by spinning up real services in Docker containers on-demand. We&#39;】简介 您是否曾经需要编写需要真实数据库的测试，并发现自己需要处理本地设置或虚拟数据？测试容器可能只是您最好的新朋友。在本文中，我们将探讨 Testcontainers 如何通过按需在 Docker 容器中启动真实服务来简化集成测试。我们&#39;</description>
-      <pubDate>Thu, 23 Oct 2025 07:00:00 +0000</pubDate>
+      <title>【Migrating from IDCRL authentication to modern authentication in SharePoint】在 SharePoint 中从 IDCRL 身份验证迁移到新式身份验证</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/migrating-from-idcrl-authentication-to-modern-authentication-in-sharepoint</link>
+      <description>【In the next few months, Microsoft will be removing the legacy authentication protocol known as IDCRL (Identity Client Run Time Library) in SharePoint and force calls to rely on OpenID connect and OAuth Protocols. Since 2018, regular sign-in for services such as OneDrive and SharePoint has always relied on the more secure OpenID Connect and OAu】在接下来的几个月中，Microsoft 将删除 SharePoint 中名为 IDCRL（身份客户端运行时库）的旧身份验证协议，并强制调用依赖 OpenID 连接和 OAuth 协议。自2018年以来，OneDrive和SharePoint等服务的定期登录始终依赖于更安全的OpenID Connect和OAu</description>
+      <pubDate>Wed, 29 Oct 2025 19:59:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Bringing Context to Copilot: Azure Cosmos DB Best Practices, Right in Your VS Code Workspace】将上下文引入 Copilot：Azure Cosmos DB 最佳实践，就在 VS Code 工作区中</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/bringing-context-to-copilot-azure-cosmos-db-best-practices-right-in-your-vs-code-workspace</link>
-      <description>【Developers love GitHub Copilot for its instant, intelligent code suggestions. But what if those suggestions could also reflect your specific database and workload patterns? That’s now possible with a new feature in Azure Cosmos DB for VS Code.】开发人员喜欢 GitHub Copilot，因为它提供即时、智能的代码建议。但是，如果这些建议也可以反映您的特定数据库和工作负载模式呢？现在，通过 Azure Cosmos DB for VS Code 中的新功能可以实现这一点。</description>
-      <pubDate>Wed, 22 Oct 2025 18:26:18 +0000</pubDate>
+      <title>【New GitHub Copilot capabilities for C++ developers: Upgrade MSVC, improve build performance, and refactor C++ code】面向 C++ 开发人员的新 GitHub Copilot 功能：升级 MSVC、提高构建性能并重构 C++ 代码</title>
+      <link>https://devblogs.microsoft.com/cppblog/new-github-copilot-capabilities-for-c-developers-upgrade-msvc-improve-build-performance-and-refactor-c-code</link>
+      <description>【[alert type=&#34;important&#34;]GitHub Copilot app modernization for C++, GitHub Copilot build performance for Windows, and C++ code editing tools for GitHub Copilot will be available soon in Private Preview. Join the waitlist for Private Preview today.[/alert] Yesterday at GitHub Universe, Gi】[alert type=&#34;important&#34;]适用于 C++ 的 GitHub Copilot 应用程序现代化、适用于 Windows 的 GitHub Copilot 构建性能以及适用于 GitHub Copilot 的 C++ 代码编辑工具即将在私人预览版中提供。今天加入私人预览的候补名单。[/alert] 昨天在 GitHub Universe，Gi</description>
+      <pubDate>Wed, 29 Oct 2025 16:06:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

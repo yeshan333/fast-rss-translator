@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【The tricky science of Internet measurement】互联网测量的棘手科学</title>
-      <link>https://blog.cloudflare.com/tricky-internet-measurement/</link>
-      <description>【 The Internet is one big open system composed of many closed boxes — which makes measuring the Internet difficult. In this post we explore Internet measurement as a science. 】互联网是一个由许多封闭盒子组成的大型开放系统，这使得衡量互联网变得困难。在这篇文章中，我们将互联网测量作为一门科学进行探索。</description>
-      <pubDate>Mon, 27 Oct 2025 13:00:00 +0000</pubDate>
+      <title>【Anonymous credentials: rate-limiting bots and agents without compromising privacy】匿名凭证：在不损害隐私的情况下限制机器人和代理的速率</title>
+      <link>https://blog.cloudflare.com/private-rate-limiting/</link>
+      <description>【 As AI agents change how the Internet is used, they create a challenge for security. We explore how Anonymous Credentials can rate limit agent traffic and block abuse without tracking users or compromising their privacy. 】随着人工智能代理改变互联网的使用方式，它们给安全带来了挑战。我们探讨匿名凭证如何在不跟踪用户或损害其隐私的情况下限制代理流量并阻止滥用。</description>
+      <pubDate>Thu, 30 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Making the Internet observable: the evolution of Cloudflare Radar】让互联网变得可观察：Cloudflare Radar 的演变</title>
-      <link>https://blog.cloudflare.com/evolution-of-cloudflare-radar/</link>
-      <description>【 Cloudflare Radar has evolved significantly since its 2020 launch, offering deeper insights into Internet security, routing, and traffic with new tools and data that help anyone understand what&#39;s happening online. 】自 2020 年推出以来，Cloudflare Radar 已取得显着发展，通过新工具和数据提供对互联网安全、路由和流量的更深入见解，帮助任何人了解在线情况。</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+      <title>【Policy, privacy and post-quantum: anonymous credentials for everyone】政策、隐私和后量子：每个人的匿名凭证</title>
+      <link>https://blog.cloudflare.com/pq-anonymous-credentials/</link>
+      <description>【 The world is adopting anonymous credentials for digital privacy, but these systems are vulnerable to quantum computers. This post explores the cryptographic challenges and promising research paths toward building new, quantum-resistant credentials from the ground up. 】世界正在采用匿名凭证来保护数字隐私，但这些系统很容易受到量子计算机的攻击。这篇文章探讨了密码学挑战和从头开始构建新的抗量子凭证的有前途的研究路径。</description>
+      <pubDate>Thu, 30 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From .com to .anything: introducing Top-Level Domain (TLD) insights on Cloudflare Radar】从 .com 到 .anything：介绍有关 Cloudflare Radar 的顶级域名 (TLD) 见解</title>
-      <link>https://blog.cloudflare.com/introducing-tld-insights-on-cloudflare-radar/</link>
-      <description>【 Cloudflare Radar has launched a new Top-Level Domain (TLD) page, providing insights into TLD popularity, traffic, and security. The top-ranking TLD may come as a surprise. 】Cloudflare Radar 推出了新的顶级域名 (TLD) 页面，提供有关 TLD 受欢迎程度、流量和安全性的见解。排名最高的 TLD 可能会让人感到意外。</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+      <title>【Defending QUIC from acknowledgement-based DDoS attacks】保护 QUIC 免受基于确认的 DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</link>
+      <description>【 We identified and patched two DDoS vulnerabilities in our QUIC implementation related to packet acknowledgements. Cloudflare customers were not affected. We examine the &#34;Optimistic ACK&#34; attack vector and our solution, which dynamically skips packet numbers to validate client behavior.  】我们在 QUIC 实现中发现并修复了两个与数据包确认相关的 DDoS 漏洞。 Cloudflare 客户没有受到影响。我们检查“乐观 ACK”攻击向量和我们的解决方案，该解决方案动态跳过数据包编号以验证客户端行为。 </description>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Internet measurement, resilience, and transparency: blog takeover from Cloudflare Research and friends】互联网衡量、弹性和透明度：Cloudflare Research 及其朋友接管博客</title>
-      <link>https://blog.cloudflare.com/internet-measurement-resilience-transparency-week/</link>
-      <description>【 Coinciding with the ACM’s Internet Measurement Conference, the Cloudflare Research team is publishing a series of posts this week to share their research on building a more measurable, resilient, and transparent Internet. These posts will cover foundational concepts in Internet measurement, Internet resilience, cryptography, and networking.  】与 ACM 互联网测量会议同期，Cloudflare 研究团队本周发布了一系列帖子，分享他们关于构建更可测量、更有弹性和更透明的互联网的研究。这些帖子将涵盖互联网测量、互联网弹性、密码学​​和网络的基本概念。</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+      <title>【One IP address, many users: detecting CGNAT to reduce collateral effects】一个IP地址，多个用户：检测CGNAT以减少附带影响</title>
+      <link>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</link>
+      <description>【 IPv4 scarcity drives widespread use of Carrier-Grade Network Address Translation, a practice in ISPs and mobile networks that places many users behind each IP address, along with their collected activity and volumes of traffic. We introduce the method we’ve developed to detect large-scale IP sharing globally and mitigate the issues that result.  】IPv4 的稀缺性推动了运营商级网络地址转换的广泛使用，这是 ISP 和移动网络中的一种做法，它将许多用户及其收集的活动和流量置于每个 IP 地址后面。我们介绍了我们开发的用于检测全球大规模 IP 共享并缓解由此产生的问题的方法。</description>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How does Cloudflare’s Speed Test really work?】Cloudflare 的速度测试到底如何运作？</title>
-      <link>https://blog.cloudflare.com/how-does-cloudflares-speed-test-really-work/</link>
-      <description>【 In this blog post we’ll discuss how Cloudflare thinks about measuring Internet quality, how our own Cloudflare speed test works, and our future plans for providing Internet measurement tools that help everyone build a better Internet. 】在这篇博文中，我们将讨论 Cloudflare 如何考虑测量互联网质量、我们自己的 Cloudflare 速度测试如何工作，以及我们未来提供互联网测量工具以帮助每个人构建更好的互联网的计划。</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+      <title>【So long, and thanks for all the fish: how to escape the Linux networking stack】这么久了，感谢所有的鱼：如何逃离 Linux 网络堆栈</title>
+      <link>https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/</link>
+      <description>【 Many products at Cloudflare aren’t possible without pushing the limits of network hardware and software to deliver improved performance, increased efficiency, or novel capabilities such as soft-unicast, our method for sharing IP subnets across data centers. Happily, most people do not need to know the intricacies of how your operating system handles network and Internet access in general. Yes, even most people within Cloudflare. But sometimes we try to push well beyond the design intentions of Linux’s networking stack. This is a story about one of those attempts. 】Cloudflare 的许多产品如果不突破网络硬件和软件的限制，就不可能提供改进的性能、更高的效率或新颖的功能，例如软单播（我们在数据中心之间共享 IP 子网的方法）。令人高兴的是，大多数人不需要了解操作系统如何处理网络和互联网访问的复杂性。是的，甚至 Cloudflare 内的大多数人也是如此。但有时我们试图远远超出 Linux 网络堆栈的设计意图。这是一个关于其中一次尝试的故事。</description>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Data at Cloudflare scale: some insights on measurement for 1,111 interns】Cloudflare 规模的数据：对 1,111 名实习生进行衡量的一些见解</title>
-      <link>https://blog.cloudflare.com/experience-of-data-at-scale/</link>
-      <description>【 While large cloud providers hold vast troves of passive network data, analyzing them is complicated. The scale, noise, and absence of definitive ground truth all create major hurdles. Yet by carefully quantifying these constraints and finding alternative forms of evidence, meaningful insights can still emerge. 】虽然大型云提供商拥有大量被动网络数据，但分析它们很复杂。规模、噪音和缺乏明确的事实真相都造成了主要障碍。然而，通过仔细量化这些限制并寻找替代形式的证据，仍然可以出现有意义的见解。</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+      <title>【Measuring characteristics of TCP connections at Internet scale】测量 Internet 规模的 TCP 连接特性</title>
+      <link>https://blog.cloudflare.com/measuring-network-connections-at-scale/</link>
+      <description>【 Researchers and practitioners have been studying connections almost as long as the Internet that supports them. Today, Cloudflare’s global network receives millions of connections per second. We explore various characteristics of TCP connections, including lifetimes, sizes, and more. 】研究人员和从业者对连接的研究几乎与支持连接的互联网一样长。如今，Cloudflare 的全球网络每秒接收数百万个连接。我们探索 TCP 连接的各种特征，包括生命周期、大小等。</description>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Cloudflare’s client-side security made the npm supply chain attack a non-event】Cloudflare 的客户端安全性如何使 npm 供应链攻击不再发生</title>
-      <link>https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/</link>
-      <description>【 A recent npm supply chain attack compromised 18 popular packages. This post explains how Cloudflare’s graph-based machine learning model, which analyzes 3.5 billion scripts daily, was built to detect and block exactly this kind of threat automatically. 】最近的一次 npm 供应链攻击破坏了 18 个流行软件包。这篇文章解释了 Cloudflare 基于图形的机器学习模型（每天分析 35 亿个脚本）是如何构建的，以自动检测和阻止此类威胁。</description>
-      <pubDate>Fri, 24 Oct 2025 17:10:43 +0000</pubDate>
+      <title>【How to build your own VPN, or: the history of WARP】如何建立自己的VPN，或者：WARP的历史</title>
+      <link>https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/</link>
+      <description>【 WARP’s initial implementation resembled a VPN that allows Internet access through it. Here’s how we built it – and how you can, too.  】WARP 的最初实现类似于允许通过它访问互联网的 VPN。以下是我们如何构建它——以及您也可以如何构建它。</description>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing agentic commerce: helping AI Agents transact with Visa and Mastercard】确保代理商务安全：帮助人工智能代理与 Visa 和 Mastercard 进行交易</title>
-      <link>https://blog.cloudflare.com/secure-agentic-commerce/</link>
-      <description>【 Cloudflare is partnering with Visa and Mastercard to help secure the future of agentic commerce. 】Cloudflare 正在与 Visa 和 Mastercard 合作，帮助确保代理商务的未来。</description>
-      <pubDate>Fri, 24 Oct 2025 13:00:00 +0000</pubDate>
+      <title>【Helping protect the 2025 Moldova elections】帮助保障摩尔多瓦 2025 年选举</title>
+      <link>https://blog.cloudflare.com/helping-protect-the-2025-moldova-elections/</link>
+      <description>【 Cloudflare mitigated a 12-hour DDoS attack against Moldova&#39;s Central Election Commission, blocking over 898 million malicious requests that peaked at 324,333 requests per second. This defense kept critical election infrastructure online and accessible for citizens during a critical parliamentary vote. 】Cloudflare 缓解了针对摩尔多瓦中央选举委员会的 12 小时 DDoS 攻击，阻止了超过 8.98 亿个恶意请求，峰值为每秒 324,333 个请求。这种防御措施使关键的选举基础设施保持在线，并在关键的议会投票期间可供公民访问。</description>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【A deep dive into BPF LPM trie performance and optimization】深入探讨 BPF LPM trie 性能和优化</title>
-      <link>https://blog.cloudflare.com/a-deep-dive-into-bpf-lpm-trie-performance-and-optimization/</link>
-      <description>【 This post explores the performance of BPF LPM tries, a critical data structure used for IP matching.  】这篇文章探讨了 BPF LPM 尝试的性能，这是一种用于 IP 匹配的关键数据结构。</description>
-      <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
+      <title>【State of the post-quantum Internet in 2025】2025 年后量子互联网的状况</title>
+      <link>https://blog.cloudflare.com/pq-2025/</link>
+      <description>【 Today over half of human-initiated traffic with Cloudflare is protected against harvest-now/decrypt-later with post-quantum encryption. What once was a cool science project, is the new security baseline for the Internet. We’re not done yet: in this blog post we’ll take measure where we are, what we expect for the coming years, and what you can do today. 】如今，超过一半的人为发起的 Cloudflare 流量都通过后量子加密来防止立即获取/稍后解密。曾经是一个很酷的科学项目，现在是互联网的新安全基线。我们还没有完成：在这篇博文中，我们将衡量我们的现状、我们对未来几年的期望以及您今天可以做什么。</description>
+      <pubDate>Tue, 28 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Load Balancing Monitor Groups: Multi-Service Health Checks for Resilient Applications】负载平衡监控组：弹性应用程序的多服务运行状况检查</title>
-      <link>https://blog.cloudflare.com/load-balancing-monitor-groups-multi-service-health-checks-for-resilient/</link>
-      <description>【 Cloudflare Load Balancing now supports Monitor Groups, allowing you to combine multiple health monitors into a single, logical assessment.  】Cloudflare Load Balancing 现在支持监控组，允许您将多个运行状况监控器组合成单个逻辑评估。</description>
-      <pubDate>Fri, 17 Oct 2025 06:00:00 +0000</pubDate>
+      <title>【Keeping the Internet fast and secure: introducing Merkle Tree Certificates】保持互联网快速安全：引入 Merkle 树证书</title>
+      <link>https://blog.cloudflare.com/bootstrap-mtc/</link>
+      <description>【 Cloudflare is launching an experiment with Chrome to evaluate fast, scalable, and quantum-ready Merkle Tree Certificates, all without degrading performance or changing WebPKI trust relationships. 】Cloudflare 正在使用 Chrome 启动一项实验，以评估快速、可扩展且量子就绪的 Merkle Tree 证书，所有这些都不会降低性能或改变 WebPKI 信任关系。</description>
+      <pubDate>Tue, 28 Oct 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
