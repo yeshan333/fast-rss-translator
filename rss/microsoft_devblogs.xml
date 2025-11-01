@@ -4,6 +4,48 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Behind the Universe demo: From prompt to production with VS Code, GitHub Copilot and the Microsoft Agent Framework】Universe 演示背后：使用 VS Code、GitHub Copilot 和 Microsoft Agent Framework 从提示到生产</title>
+      <link>https://devblogs.microsoft.com/blog/behind-the-universe-demo-with-vs-code-copilot-and-agent-framework</link>
+      <description>【At this year’s GitHub Universe, we set out to answer a simple question: What would it take to go from an idea to production in under 30 minutes – using only natural language, your editor, and AI? On stage, we built a cloud-native, intelligent app from scratch using】在今年的 GitHub Universe 上，我们着手回答一个简单的问题：仅使用自然语言、编辑器和人工智能，在 30 分钟内从一个想法转变为生产需要什么？在舞台上，我们使用以下方法从头开始构建了一个云原生智能应用程序</description>
+      <pubDate>Fri, 31 Oct 2025 19:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【💫 Welcome to Aspire: Your stack, streamlined】💫 欢迎来到 Aspire：您的堆栈，精简的</title>
+      <link>https://devblogs.microsoft.com/aspire/aspirepolyglot</link>
+      <description>【We’re excited to announce a new chapter for Aspire and a new home at aspire.dev. What started two years ago as an experiment to simplify distributed app development has become a thriving, community-driven, extensible, code-first pl】我们很高兴地宣布 Aspire 翻开了新篇章，并在 aspire.dev 上建立了新家。两年前开始的一个简化分布式应用程序开发的实验已经成为一个蓬勃发展的、社区驱动的、可扩展的、代码优先的平台。</description>
+      <pubDate>Fri, 31 Oct 2025 17:06:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Multi-region Expansion for Azure Deployments】Azure 部署的多区域扩展</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/multi-region-expansion-for-azure-deployments</link>
+      <description>【Why Financial Services Organizations Should Consider Expanding to Other Azure Regions for New Workloads As a Cloud Architect, I work closely with financial services organizations to help them unlock the full potential of Azure innovations. One of the most impactful strategies I r】为什么金融服务组织应考虑将新工作负载扩展到其他 Azure 区域 作为云架构师，我与金融服务组织密切合作，帮助他们释放 Azure 创新的全部潜力。我最有影响力的策略之一</description>
+      <pubDate>Fri, 31 Oct 2025 16:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft C++ Team at CppCon 2025: Trip Report】Microsoft C++ 团队参加 CppCon 2025：行程报告</title>
+      <link>https://devblogs.microsoft.com/cppblog/cppcon2025-trip-report</link>
+      <description>【Another year and another CppCon is all wrapped up! Microsoft was pleased to once again be an exhibitor and to have several of our employees present sessions at the conference. Here are my major takeaways from the keynotes, sessions, conversations, and the general vibe. AI tooling is finding a footing with the C++ community. The ne】又一年又一届 CppCon 圆满落幕！ Microsoft 很高兴再次成为参展商，并邀请我们的几位员工出席会议。以下是我从主题演讲、会议、对话和总体氛围中得到的主要收获。 AI 工具正在 C++ 社区中站稳脚跟。内</description>
+      <pubDate>Fri, 31 Oct 2025 15:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Join us at .NET Conf: Dive into the future of development with Visual Studio 2026】加入我们的 .NET Conf：使用 Visual Studio 2026 深入探讨开发的未来</title>
+      <link>https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026</link>
+      <description>【We&#39;re thrilled to invite you to one of the most exciting events in the .NET ecosystem: .NET Conf. It runs from November 11th through the 13th and you’re invited! This annual virtual conference is a must-attend for developers, architects, and enthusiasts looking t】我们很高兴邀请您参加 .NET 生态系统中最激动人心的活动之一：.NET Conf。活动时间为 11 月 11 日至 13 日，诚邀您！对于寻求技术的开发人员、架构师和爱好者来说，这个年度虚拟会议是必须参加的。</description>
+      <pubDate>Fri, 31 Oct 2025 14:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microspeak: turn into a pumpkin】Microspeak：变成南瓜</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251031-00/?p=111750</link>
+      <description>【The English idiom turn into a pumpkin comes from the fairy tale story of Cinderella, in which the protagonist&#39;s ragged clothes are magically transformed into an elegant gown and a pumpkin is transformed into a carriage, allowing her to attend a royal ball. She is warned that the magic wears off at midnight, upon which her clot】英语成语“turn into a Pump”源自童话故事《灰姑娘》，主角破烂的衣服神奇地变成了一件优雅的礼服，而南瓜则变成了一辆马车，让她能够参加皇家舞会。她被警告说魔法会在午夜消失，她的凝块就会消失。</description>
+      <pubDate>Fri, 31 Oct 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Tuning and Optimization of Speech-to-Text (STT), Text-to-Speech (TTS), and Custom Keyword Recognition in Azure Speech Services】Azure 语音服务中的语音转文本 (STT)、文本转语音 (TTS) 和自定义关键字识别的调整和优化</title>
+      <link>https://devblogs.microsoft.com/ise/azure-speech-to-text-optimization</link>
+      <description>【Introduction Optimizing Speech-to-Text (STT) and Text-to-Speech (TTS) is essential for developers building voice-enabled applications, as it enhances recognition accuracy and overall user experience. Additionally, custom keyword recognition enables hands-free activation for voice assistants. This blog outlines: Method】简介 优化语音转文本 (STT) 和文本转语音 (TTS) 对于开发人员构建支持语音的应用程序至关重要，因为它可以提高识别准确性和整体用户体验。此外，自定义关键字识别可以实现语音助手的免提激活。该博客概述了：方法</description>
+      <pubDate>Fri, 31 Oct 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Failures Happen in Cloud, but how Azure Cosmos DB keeps your Applications Online】云中经常发生故障，但 Azure Cosmos DB 如何使应用程序保持在线</title>
       <link>https://devblogs.microsoft.com/cosmosdb/failures-happen-in-cloud-but-how-azure-cosmos-db-keeps-your-applications-online</link>
       <description>【The only thing that’s constant in distributed systems is failures. No cloud platform is immune to failures — from regional outages and transient network blips to human errors or hardware faults. What defines resiliency &amp;amp; reliability isn’t the absence of failure, but how systems anticipate, isolate, and recover from them. Here is a】分布式系统中唯一不变的就是失败。没有一个云平台能够免受故障的影响——从区域性中断和短暂的网络故障到人为错误或硬件故障。弹性和可靠性的定义不是没有故障，而是系统如何预测、隔离故障并从中恢复。这是一个</description>
@@ -20,48 +62,6 @@
       <link>https://devblogs.microsoft.com/cppblog/upgrading-c-projects-to-visual-studio-2026</link>
       <description>【With Visual Studio 2026 version 18.0 getting closer to General Availability (GA), we want to share with you how you can upgrade your projects from your current versions of Visual Studio and the Microsoft C++ (MSVC) Build Tools to the latest versions.】随着 Visual Studio 2026 版本 18.0 距离正式发布 (GA) 越来越近，我们希望与您分享如何将项目从当前版本的 Visual Studio 和 Microsoft C++ (MSVC) 生成工具升级到最新版本。</description>
       <pubDate>Thu, 30 Oct 2025 16:53:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Trying to build a XAML tree in code throws a &#34;No installed components were detected&#34; exception】尝试在代码中构建 XAML 树会引发“未检测到已安装的组件”异常</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251030-00/?p=111746</link>
-      <description>【You might, for some reason, be building some XAML in code rather than markup. Starting with this XAML: &amp;lt;!-- XAML markup --&amp;gt; &amp;lt;Grid&amp;gt; &amp;lt;Grid.ColumnDefinitions&amp;gt; &amp;lt;ColumnDefinition Width=&#34;Auto&#34; /&amp;gt; &amp;lt;ColumnDefinition Width=&#34;Auto&#34; /&amp;gt; &amp;lt;/Grid.ColumnDefinitions&amp;gt; &amp;lt;/Grid&amp;gt;】由于某种原因，您可能会在代码中而不是标记中构建一些 XAML。从此 XAML 开始： &lt;!-- XAML 标记 --&gt; &lt;Grid&gt; &lt;Grid.ColumnDefinitions&gt; &lt;ColumnDefinition Width=&#34;Auto&#34; /&gt; &lt;ColumnDefinition Width=&#34;Auto&#34; /&gt; &lt;/Grid.ColumnDefinitions&gt; &lt;/Grid&gt;</description>
-      <pubDate>Thu, 30 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SharePoint Framework (SPFx) roadmap update – October 2025】SharePoint 框架 (SPFx) 路线图更新 – 2025 年 10 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-october-2025</link>
-      <description>【We continue to be humbled by the incredible momentum of SharePoint Framework (SPFx) and the growth it is driving with our customers and partners. There are tens of millions of users across the world using custom SPFx solutions on a daily basis in Microsoft 365 – built by our customers and pa】SharePoint 框架 (SPFx) 令人难以置信的势头及其与我们的客户和合作伙伴共同推动的增长让我们继续感到谦卑。全球有数千万用户每天在 Microsoft 365 中使用自定义 SPFx 解决方案 – 由我们的客户和合作伙伴构建</description>
-      <pubDate>Thu, 30 Oct 2025 12:34:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio October Update – new models, memories, planning, and more】Visual Studio 十月更新 – 新模型、记忆、规划等</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-october-update</link>
-      <description>【The October 2025 update for Visual Studio 2022 (v17.14) is now available. In this month, we are bringing you improvements to model choices, agentic flows, and chat thread management. 】Visual Studio 2022 (v17.14) 的 2025 年 10 月更新现已推出。本月，我们将为您带来模型选择、代理流程和聊天线程管理方面的改进。 </description>
-      <pubDate>Thu, 30 Oct 2025 12:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v1.3 with exporting to HAR, LLM usage tracking, and enhanced permissions analysis】Dev Proxy v1.3，具有导出到 HAR、LLM 使用情况跟踪和增强的权限分析功能</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v1-3-with-exporting-to-har-llm-usage-tracking-and-enhanced-permissions-analysis</link>
-      <description>【We&#39;re thrilled to announce the release of Dev Proxy v1.3.0! This update introduces two powerful new plugins: HAR file generation for universal debugging and LLM usage tracking for cost optimization, along with enhanced permissions analysis and improved OpenAPI spec generation for complex testing scenarios. In this version: New】我们很高兴地宣布 Dev Proxy v1.3.0 发布！此更新引入了两个强大的新插件：用于通用调试的 HAR 文件生成和用于成本优化的 LLM 使用情况跟踪，以及用于复杂测试场景的增强的权限分析和改进的 OpenAPI 规范生成。在此版本中：新</description>
-      <pubDate>Thu, 30 Oct 2025 10:47:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java OpenJDK October 2025 Patch &amp; Security Update】Java OpenJDK 2025 年 10 月补丁和安全更新</title>
-      <link>https://devblogs.microsoft.com/java/java-openjdk-oct-2025-patch-security-update</link>
-      <description>【Hello Java customers! We are happy to announce the latest July 2025 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 25.0.1 OpenJDK 21.0.9 OpenJDK 17.0.17 OpenJDK 11.0.29】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2025 年 7 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 25.0.1 OpenJDK 21.0.9 OpenJDK 17.0.17 OpenJDK 11.0.29</description>
-      <pubDate>Wed, 29 Oct 2025 21:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Migrating from IDCRL authentication to modern authentication in SharePoint】在 SharePoint 中从 IDCRL 身份验证迁移到新式身份验证</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/migrating-from-idcrl-authentication-to-modern-authentication-in-sharepoint</link>
-      <description>【In the next few months, Microsoft will be removing the legacy authentication protocol known as IDCRL (Identity Client Run Time Library) in SharePoint and force calls to rely on OpenID connect and OAuth Protocols. Since 2018, regular sign-in for services such as OneDrive and SharePoint has always relied on the more secure OpenID Connect and OAu】在接下来的几个月中，Microsoft 将删除 SharePoint 中名为 IDCRL（身份客户端运行时库）的旧身份验证协议，并强制调用依赖 OpenID 连接和 OAuth 协议。自2018年以来，OneDrive和SharePoint等服务的定期登录始终依赖于更安全的OpenID Connect和OAu</description>
-      <pubDate>Wed, 29 Oct 2025 19:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【New GitHub Copilot capabilities for C++ developers: Upgrade MSVC, improve build performance, and refactor C++ code】面向 C++ 开发人员的新 GitHub Copilot 功能：升级 MSVC、提高构建性能并重构 C++ 代码</title>
-      <link>https://devblogs.microsoft.com/cppblog/new-github-copilot-capabilities-for-c-developers-upgrade-msvc-improve-build-performance-and-refactor-c-code</link>
-      <description>【[alert type=&#34;important&#34;]GitHub Copilot app modernization for C++, GitHub Copilot build performance for Windows, and C++ code editing tools for GitHub Copilot will be available soon in Private Preview. Join the waitlist for Private Preview today.[/alert] Yesterday at GitHub Universe, Gi】[alert type=&#34;important&#34;]适用于 C++ 的 GitHub Copilot 应用程序现代化、适用于 Windows 的 GitHub Copilot 构建性能以及适用于 GitHub Copilot 的 C++ 代码编辑工具即将在私人预览版中提供。今天加入私人预览的候补名单。[/alert] 昨天在 GitHub Universe，Gi</description>
-      <pubDate>Wed, 29 Oct 2025 16:06:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
