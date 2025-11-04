@@ -4,9 +4,15 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Fresh insights from old data: corroborating reports of Turkmenistan IP unblocking and firewall testing】旧数据的新见解：证实土库曼斯坦 IP 解锁和防火墙测试的报告</title>
+      <link>https://blog.cloudflare.com/fresh-insights-from-old-data-corroborating-reports-of-turkmenistan-ip/</link>
+      <description>【 Cloudflare used historical data to investigate reports of potential new firewall tests in Turkmenistan. Shifts in TCP resets/timeouts across ASNs corroborate large-scale network control system changes.&#xA; 】Cloudflare 使用历史数据来调查土库曼斯坦潜在的新防火墙测试报告。 ASN 中 TCP 重置/超时的变化证实了大规模网络控制系统的变化。</description>
+      <pubDate>Mon, 03 Nov 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【BGP zombies and excessive path hunting】BGP 僵尸和过度路径搜索</title>
       <link>https://blog.cloudflare.com/going-bgp-zombie-hunting/</link>
-      <description>【 A BGP “zombie” is essentially a fancy name for a route that has become stuck in the Default-Free Zone (DFZ) of the Internet, potentially due to a missed or lost prefix withdrawal. &#xA;&#xA;In this post, we will walk through some situations where BGP zombies are more likely to rise from the dead and wreak havoc, how excessive path hunting can contribute to longer periods of impact, and some recommendations and follow-ups we have put together to make them less likely. &#xA; 】BGP“僵尸”本质上是一个奇特的名称，指的是一条陷入互联网默认自由区 (DFZ) 的路由，可能是由于错过或丢失了前缀撤销而导致的。 &#xA;&#xA;在这篇文章中，我们将介绍 BGP 僵尸更有可能死而复生并造成严重破坏的一些情况，过度的路径搜索如何导致更长的影响时间，以及我们为降低这种可能性而汇总的一些建议和后续措施。</description>
+      <description>【 A BGP “zombie” is essentially a route that has become stuck in the Default-Free Zone (DFZ) of the Internet, potentially due to a missed or lost prefix withdrawal. We’ll walk through some situations where BGP zombies are more likely to rise from the dead and wreak havoc.&#xA; 】BGP“僵尸”本质上是一条被困在互联网默认自由区 (DFZ) 中的路由，可能是由于错过或丢失了前缀撤销而导致的。我们将介绍一些 BGP 僵尸更有可能起死回生并造成严重破坏的情况。</description>
       <pubDate>Fri, 31 Oct 2025 15:30:00 +0000</pubDate>
     </item>
     <item>
@@ -40,27 +46,21 @@
       <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【So long, and thanks for all the fish: how to escape the Linux networking stack】这么久了，感谢所有的鱼：如何逃离 Linux 网络堆栈</title>
-      <link>https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/</link>
-      <description>【 Many products at Cloudflare aren’t possible without pushing the limits of network hardware and software to deliver improved performance, increased efficiency, or novel capabilities such as soft-unicast, our method for sharing IP subnets across data centers. Happily, most people do not need to know the intricacies of how your operating system handles network and Internet access in general. Yes, even most people within Cloudflare. But sometimes we try to push well beyond the design intentions of Linux’s networking stack. This is a story about one of those attempts. 】Cloudflare 的许多产品如果不突破网络硬件和软件的限制，就不可能提供改进的性能、更高的效率或新颖的功能，例如软单播（我们在数据中心之间共享 IP 子网的方法）。令人高兴的是，大多数人不需要了解操作系统如何处理网络和互联网访问的复杂性。是的，甚至 Cloudflare 内的大多数人也是如此。但有时我们试图远远超出 Linux 网络堆栈的设计意图。这是一个关于其中一次尝试的故事。</description>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【One IP address, many users: detecting CGNAT to reduce collateral effects】一个IP地址，多个用户：检测CGNAT以减少附带影响</title>
       <link>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</link>
       <description>【 IPv4 scarcity drives widespread use of Carrier-Grade Network Address Translation, a practice in ISPs and mobile networks that places many users behind each IP address, along with their collected activity and volumes of traffic. We introduce the method we’ve developed to detect large-scale IP sharing globally and mitigate the issues that result.  】IPv4 的稀缺性推动了运营商级网络地址转换的广泛使用，这是 ISP 和移动网络中的一种做法，它将许多用户及其收集的活动和流量置于每个 IP 地址后面。我们介绍了我们开发的用于检测全球大规模 IP 共享并缓解由此产生的问题的方法。</description>
       <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Measuring characteristics of TCP connections at Internet scale】测量 Internet 规模的 TCP 连接特性</title>
-      <link>https://blog.cloudflare.com/measuring-network-connections-at-scale/</link>
-      <description>【 Researchers and practitioners have been studying connections almost as long as the Internet that supports them. Today, Cloudflare’s global network receives millions of connections per second. We explore various characteristics of TCP connections, including lifetimes, sizes, and more. 】研究人员和从业者对连接的研究几乎与支持连接的互联网一样长。如今，Cloudflare 的全球网络每秒接收数百万个连接。我们探索 TCP 连接的各种特征，包括生命周期、大小等。</description>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Defending QUIC from acknowledgement-based DDoS attacks】保护 QUIC 免受基于确认的 DDoS 攻击</title>
       <link>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</link>
       <description>【 We identified and patched two DDoS vulnerabilities in our QUIC implementation related to packet acknowledgements. Cloudflare customers were not affected. We examine the &#34;Optimistic ACK&#34; attack vector and our solution, which dynamically skips packet numbers to validate client behavior.  】我们在 QUIC 实现中发现并修复了两个与数据包确认相关的 DDoS 漏洞。 Cloudflare 客户没有受到影响。我们检查“乐观 ACK”攻击向量和我们的解决方案，该解决方案动态跳过数据包编号以验证客户端行为。 </description>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Measuring characteristics of TCP connections at Internet scale】测量 Internet 规模的 TCP 连接特性</title>
+      <link>https://blog.cloudflare.com/measuring-network-connections-at-scale/</link>
+      <description>【 Researchers and practitioners have been studying connections almost as long as the Internet that supports them. Today, Cloudflare’s global network receives millions of connections per second. We explore various characteristics of TCP connections, including lifetimes, sizes, and more. 】研究人员和从业者对连接的研究几乎与支持连接的互联网一样长。如今，Cloudflare 的全球网络每秒接收数百万个连接。我们探索 TCP 连接的各种特征，包括生命周期、大小等。</description>
       <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>

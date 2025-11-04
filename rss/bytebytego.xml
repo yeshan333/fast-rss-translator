@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Perplexity Built an AI Google】Perplexity 如何打造人工智能 Google</title>
+      <link>https://blog.bytebytego.com/p/how-perplexity-built-an-ai-google</link>
+      <description>【In a decisive move, Perplexity abandoned four months of work on their original project to focus entirely on the challenge of building a true answer engine for the web.】作为一个决定性的举措，Perplexity 放弃了四个月的原始项目工作，完全专注于为网络构建真正的答案引擎的挑战。</description>
+      <pubDate>Mon, 03 Nov 2025 16:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP187: Why is DeepSeek-OCR such a BIG DEAL?】EP187：为什么 DeepSeek-OCR 如此重要？</title>
+      <link>https://blog.bytebytego.com/p/ep187-10-key-data-structures-we-use</link>
+      <description>【Over to you: Which additional data structures have we overlooked?】轮到你了：我们忽略了哪些额外的数据结构？</description>
+      <pubDate>Sat, 01 Nov 2025 15:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【🚀 New Launch: Become an AI Engineer | Learn by Doing | Cohort 2!】🚀 新发布：成为人工智能工程师 |边做边学 |第 2 组！</title>
       <link>https://blog.bytebytego.com/p/new-launch-become-an-ai-engineer</link>
       <description>【After the incredible success of our first cohort (almost 500 people attended), we are thrilled to announce the launch of Cohort 2 of Become an AI Engineer!】在我们的第一个队列取得令人难以置信的成功（近 500 人参加）之后，我们很高兴地宣布推出成为人工智能工程师的第二个队列！</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/the-memory-problem-why-llms-sometimes</link>
       <description>【In this article, we will try to understand why LLMs don&amp;#8217;t actually remember anything in the traditional sense, what context windows are, and why they create hard limits on conversation length.】在本文中，我们将尝试理解为什么法学硕士实际上不记得传统意义上的任何东西，上下文窗口是什么，以及为什么它们对对话长度设置硬性限制。</description>
       <pubDate>Wed, 22 Oct 2025 15:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Pinterest Transfers Hundreds of Terabytes of Data With CDC】Pinterest 如何通过 CDC 传输数百 TB 的数据</title>
-      <link>https://blog.bytebytego.com/p/how-pinterest-transfers-hundreds</link>
-      <description>【Instead of building isolated solutions for each use case, Pinterest created a unified architecture that can support the entire company&amp;#8217;s data needs.】Pinterest 没有为每个用例构建独立的解决方案，而是创建了一个可以支持整个公司数据需求的统一架构。</description>
-      <pubDate>Tue, 21 Oct 2025 15:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What Actually Happens When You Press ‘Send’ to ChatGPT】当您按“发送”至 ChatGPT 时实际会发生什么</title>
-      <link>https://blog.bytebytego.com/p/what-actually-happens-when-you-press</link>
-      <description>【Behind this simple interface lies a powerful set of technologies.】这个简单的界面背后隐藏着一组强大的技术。</description>
-      <pubDate>Mon, 20 Oct 2025 17:08:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

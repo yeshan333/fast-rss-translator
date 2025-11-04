@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #495】SRE 周刊第 #495 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-495/</link>
+      <description>【View on sreweekly.com I&amp;#8217;m back! Kidney donation was a fascinating and rewarding experience, and I encourage you to learn more. It&amp;#8217;s amazing how it&amp;#8217;s possible to fix one human with spare parts from another! I&amp;#8217;ll share more about my experience later, but for now: thank you to the many of you that reached out with [&amp;#8230;]】在 sreweekly.com 上查看 我回来了！肾脏捐赠是一次令人着迷且有益的经历，我鼓励您了解更多。令人惊奇的是如何可以用另一个人的备件来修复一个人！稍后我将分享更多关于我的经历，但现在：感谢你们中的许多人与[...]</description>
+      <pubDate>Mon, 03 Nov 2025 03:13:43 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #494】SRE 周刊第 #494 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-494/</link>
       <description>【View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I&amp;#8217;m on medical leave. If all goes to plan, I&amp;#8217;ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you&amp;#8217;re interested, I invite [&amp;#8230;]】在 sreweekly.com 上查看 在我休病假期间，《SRE Weekly》将在接下来的 6 周内暂停。如果一切按计划进行，我将在本周晚些时候为我所爱的人捐献一个肾脏，减少我的内部冗余，以帮助他们应对自己的内部肾脏事件。如果您有兴趣，我邀请[...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-491/</link>
       <description>【View on sreweekly.com A message from our sponsor, Spacelift: Infrastructure Security Virtual Event &amp;#8211; This Wednesday, August 27 Join the IaCConf community on August 27 for a free virtual event that dives into IaC security best practices and real-world stories. Hear from three speakers on: Taking a Platform Approach to Safer Infrastructure How Tagged, Vetted [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 Spacelift 的消息：基础设施安全虚拟活动 – 8 月 27 日星期三 8 月 27 日加入 IaCConf 社区，参加免费虚拟活动，深入探讨 IaC 安全最佳实践和真实故事。聆听三位​​演讲者的演讲：采用平台方法实现更安全的基础设施如何标记、审查 [...]</description>
       <pubDate>Mon, 25 Aug 2025 01:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #490】SRE 周刊第 #490 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-490/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Observe, Inc. 的消息：Observe 建立在可扩展、经济高效的数据湖之上，可大规模提供由 AI 驱动的可观测性。凭借其上下文感知知识图和 AI SRE，Observe 使 Capital One、Topgolf 和 Dialpad 每天能够获取数百 TB 的数据，并以极低的成本更快地解决问题。了解观察是如何[...]</description>
-      <pubDate>Mon, 18 Aug 2025 02:33:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

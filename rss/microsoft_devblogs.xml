@@ -4,6 +4,30 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【New developer resource page for Microsoft 365 interoperability and data portability】针对 Microsoft 365 互操作性和数据可移植性的新开发人员资源页面</title>
+      <link>https://devblogs.microsoft.com/blog/new-developer-resource-page-for-microsoft-365-interoperability-and-data-portability</link>
+      <description>【Microsoft has long provided interoperability information, interfaces, and tools to help our vibrant ecosystem of partners integrate their products 】Microsoft 长期以来一直提供互操作性信息、界面和工具，以帮助我们充满活力的合作伙伴生态系统集成他们的产品 </description>
+      <pubDate>Mon, 03 Nov 2025 20:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【New developer resource page for Microsoft 365 interoperability and data portability】针对 Microsoft 365 互操作性和数据可移植性的新开发人员资源页面</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/new-developer-resource-page-for-microsoft-365-interoperability-and-data-portability</link>
+      <description>【Microsoft has long provided interoperability information, interfaces, and tools to help our vibrant ecosystem of partners integrate their products 】Microsoft 长期以来一直提供互操作性信息、界面和工具，以帮助我们充满活力的合作伙伴生态系统集成他们的产品 </description>
+      <pubDate>Mon, 03 Nov 2025 20:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why does &lt;CODE&gt;SHFormat­Date­Time&lt;/CODE&gt; take an unaligned &lt;CODE&gt;FILETIME&lt;/CODE&gt;?】为什么 &lt;CODE&gt;SHFormatDateTime&lt;/CODE&gt; 采用未对齐的 &lt;CODE&gt;FILETIME&lt;/CODE&gt;？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251103-00/?p=111753</link>
+      <description>【I noted some time ago Windows requires that pointers be aligned unless explicitly permitted to be unaligned. I gave as an example of a function that explicitly permits unaligned po】我前段时间注意到 Windows 要求指针对齐，除非明确允许不对齐。我给出了一个明确允许未对齐 po 的函数的示例</description>
+      <pubDate>Mon, 03 Nov 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Accelerate Your Growth: Azure Cosmos DB Partner Acceleration Program】加速您的成长：Azure Cosmos DB 合作伙伴加速计划</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/accelerate-your-growth-azure-cosmos-db-partner-acceleration-program</link>
+      <description>【Accelerate Your Growth: Azure Cosmos DB Partner Acceleration Program Unlock 360° Success with the Cosmos DB Engineering Team Are you ready to elevate your cloud data practice and drive innovation for your customers? The Azure Cosmos DB Partner Acceleration Program—spearheaded by the Cosmos DB Engineering】加速您的成长：Azure Cosmos DB 合作伙伴加速计划与 Cosmos DB 工程团队一起解锁 360° 成功您准备好提升您的云数据实践并推动客户创新了吗？ Azure Cosmos DB 合作伙伴加速计划 — 由 Cosmos DB 工程牵头</description>
+      <pubDate>Mon, 03 Nov 2025 11:06:41 +0000</pubDate>
+    </item>
+    <item>
       <title>【Behind the Universe demo: From prompt to production with VS Code, GitHub Copilot and the Microsoft Agent Framework】Universe 演示背后：使用 VS Code、GitHub Copilot 和 Microsoft Agent Framework 从提示到生产</title>
       <link>https://devblogs.microsoft.com/blog/behind-the-universe-demo-with-vs-code-copilot-and-agent-framework</link>
       <description>【At this year’s GitHub Universe, we set out to answer a simple question: What would it take to go from an idea to production in under 30 minutes – using only natural language, your editor, and AI? On stage, we built a cloud-native, intelligent app from scratch using】在今年的 GitHub Universe 上，我们着手回答一个简单的问题：仅使用自然语言、编辑器和人工智能，在 30 分钟内从一个想法转变为生产需要什么？在舞台上，我们使用以下方法从头开始构建了一个云原生智能应用程序</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20251031-00/?p=111750</link>
       <description>【The English idiom turn into a pumpkin comes from the fairy tale story of Cinderella, in which the protagonist&#39;s ragged clothes are magically transformed into an elegant gown and a pumpkin is transformed into a carriage, allowing her to attend a royal ball. She is warned that the magic wears off at midnight, upon which her clot】英语成语“turn into a Pump”源自童话故事《灰姑娘》，主角破烂的衣服神奇地变成了一件优雅的礼服，而南瓜则变成了一辆马车，让她能够参加皇家舞会。她被警告说魔法会在午夜消失，她的凝块就会消失。</description>
       <pubDate>Fri, 31 Oct 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Tuning and Optimization of Speech-to-Text (STT), Text-to-Speech (TTS), and Custom Keyword Recognition in Azure Speech Services】Azure 语音服务中的语音转文本 (STT)、文本转语音 (TTS) 和自定义关键字识别的调整和优化</title>
-      <link>https://devblogs.microsoft.com/ise/azure-speech-to-text-optimization</link>
-      <description>【Introduction Optimizing Speech-to-Text (STT) and Text-to-Speech (TTS) is essential for developers building voice-enabled applications, as it enhances recognition accuracy and overall user experience. Additionally, custom keyword recognition enables hands-free activation for voice assistants. This blog outlines: Method】简介 优化语音转文本 (STT) 和文本转语音 (TTS) 对于开发人员构建支持语音的应用程序至关重要，因为它可以提高识别准确性和整体用户体验。此外，自定义关键字识别可以实现语音助手的免提激活。该博客概述了：方法</description>
-      <pubDate>Fri, 31 Oct 2025 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Failures Happen in Cloud, but how Azure Cosmos DB keeps your Applications Online】云中经常发生故障，但 Azure Cosmos DB 如何使应用程序保持在线</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/failures-happen-in-cloud-but-how-azure-cosmos-db-keeps-your-applications-online</link>
-      <description>【The only thing that’s constant in distributed systems is failures. No cloud platform is immune to failures — from regional outages and transient network blips to human errors or hardware faults. What defines resiliency &amp;amp; reliability isn’t the absence of failure, but how systems anticipate, isolate, and recover from them. Here is a】分布式系统中唯一不变的就是失败。没有一个云平台能够免受故障的影响——从区域性中断和短暂的网络故障到人为错误或硬件故障。弹性和可靠性的定义不是没有故障，而是系统如何预测、隔离故障并从中恢复。这是一个</description>
-      <pubDate>Thu, 30 Oct 2025 20:40:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing the azd extension to configure GitHub Copilot coding agent integration with Azure】引入 azd 扩展来配置 GitHub Copilot 编码代理与 Azure 的集成</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-copilot-coding-agent-config</link>
-      <description>【This new azd extension makes it easy to use the GitHub Copilot coding agent with Azure Want Copilot to help you build apps in the cloud? This tool does all the boring setup work for you. Instead of spending hours figuring out permissions and security, you can get Copilot coding agent connected to your cloud resources i】这个新的 azd 扩展使您可以轻松地将 GitHub Copilot 编码代理与 Azure 结合使用 想要 Copilot 来帮助您在云中构建应用程序吗？该工具可以为您完成所有无聊的设置工作。您可以让 Copilot 编码代理连接到您的云资源，而无需花费数小时来确定权限和安全性。</description>
-      <pubDate>Thu, 30 Oct 2025 18:29:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Upgrading C++ Projects to Visual Studio 2026】将 C++ 项目升级到 Visual Studio 2026</title>
-      <link>https://devblogs.microsoft.com/cppblog/upgrading-c-projects-to-visual-studio-2026</link>
-      <description>【With Visual Studio 2026 version 18.0 getting closer to General Availability (GA), we want to share with you how you can upgrade your projects from your current versions of Visual Studio and the Microsoft C++ (MSVC) Build Tools to the latest versions.】随着 Visual Studio 2026 版本 18.0 距离正式发布 (GA) 越来越近，我们希望与您分享如何将项目从当前版本的 Visual Studio 和 Microsoft C++ (MSVC) 生成工具升级到最新版本。</description>
-      <pubDate>Thu, 30 Oct 2025 16:53:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
