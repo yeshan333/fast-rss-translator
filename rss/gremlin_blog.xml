@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Gremlin’s KubeCon ‘25 reliability track】Gremlin 的 KubeCon ‘25 可靠性轨道</title>
+      <link>https://www.gremlin.com/blog/gremlins-kubecon-25-reliability-track</link>
+      <description>【Check out the Gremlin-curated unofficial track of reliability talks at KubeCon North America 2025.】查看 Gremlin 在 2025 年 KubeCon 北美会议上策划的非官方可靠性会谈。</description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How to test the reliability of a Point of Sale (POS) system】如何测试销售点 (POS) 系统的可靠性</title>
       <link>https://www.gremlin.com/blog/how-to-test-the-reliability-of-a-point-of-sale-pos-system</link>
       <description>【Find out how to use Gremlin and Chaos Engineering to make sure your Point of Sale system is reliable.】了解如何使用 Gremlin 和 Chaos Engineering 确保您的销售点系统可靠。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/measure-your-reliability-risk-not-your-engineers</link>
       <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应该发现风险并使您的团队能够提高可靠性，而不是制造防御性和指责游戏。</description>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【4 Chaos Engineering recommendations from Gartner】Gartner 的 4 项混沌工程建议</title>
-      <link>https://www.gremlin.com/blog/4-chaos-engineering-recommendations-from-gartner</link>
-      <description>【Gartner recently published their 2025 Hype Cycle for Infrastructure Platforms. Here are four key recommendations from them for adopting Chaos Engineering.】Gartner 最近发布了 2025 年基础设施平台技术成熟度曲线。以下是他们针对采用混沌工程提出的四项关键建议。</description>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

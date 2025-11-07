@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【How Workers VPC Services connects to your regional private networks from anywhere in the world】Workers VPC 服务如何从世界任何地方连接到您的区域专用网络</title>
+      <link>https://blog.cloudflare.com/workers-vpc-open-beta/</link>
+      <description>【 Workers VPC Services enter open beta today. We look under the hood to see how Workers VPC connects your globally-deployed Workers to your regional private networks by using Cloudflare&#39;s global network, while abstracting cross-cloud networking complexity. 】Workers VPC 服务今天进入公开测试版。我们深入了解 Workers VPC 如何使用 Cloudflare 的全球网络将全球部署的 Workers 连接到您的区域专用网络，同时抽象出跨云网络的复杂性。</description>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a better testing experience for Workflows, our durable execution engine for multi-step applications】为工作流程构建更好的测试体验，工作流程是我们针对多步骤应用程序的持久执行引擎</title>
+      <link>https://blog.cloudflare.com/better-testing-for-workflows/</link>
+      <description>【 End-to-end testing for Cloudflare Workflows was challenging. We&#39;re introducing first-class support for Workflows in cloudflare:test, enabling full introspection, mocking, and isolated, reliable tests for your most complex applications. 】Cloudflare Workflows 的端到端测试具有挑战性。我们在 cloudflare:test 中引入了对工作流程的一流支持，为您最复杂的应用程序提供全面的内省、模拟和独立、可靠的测试。</description>
+      <pubDate>Tue, 04 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Fresh insights from old data: corroborating reports of Turkmenistan IP unblocking and firewall testing】旧数据的新见解：证实土库曼斯坦 IP 解锁和防火墙测试的报告</title>
       <link>https://blog.cloudflare.com/fresh-insights-from-old-data-corroborating-reports-of-turkmenistan-ip/</link>
       <description>【 Cloudflare used historical data to investigate reports of potential new firewall tests in Turkmenistan. Shifts in TCP resets/timeouts across ASNs corroborate large-scale network control system changes.&#xA; 】Cloudflare 使用历史数据来调查土库曼斯坦潜在的新防火墙测试报告。 ASN 中 TCP 重置/超时的变化证实了大规模网络控制系统的变化。</description>
@@ -40,21 +52,9 @@
       <pubDate>Thu, 30 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to build your own VPN, or: the history of WARP】如何建立自己的VPN，或者：WARP的历史</title>
-      <link>https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/</link>
-      <description>【 WARP’s initial implementation resembled a VPN that allows Internet access through it. Here’s how we built it – and how you can, too.  】WARP 的最初实现类似于允许通过它访问互联网的 VPN。以下是我们如何构建它——以及您也可以如何构建它。</description>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【One IP address, many users: detecting CGNAT to reduce collateral effects】一个IP地址，多个用户：检测CGNAT以减少附带影响</title>
       <link>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</link>
       <description>【 IPv4 scarcity drives widespread use of Carrier-Grade Network Address Translation, a practice in ISPs and mobile networks that places many users behind each IP address, along with their collected activity and volumes of traffic. We introduce the method we’ve developed to detect large-scale IP sharing globally and mitigate the issues that result.  】IPv4 的稀缺性推动了运营商级网络地址转换的广泛使用，这是 ISP 和移动网络中的一种做法，它将许多用户及其收集的活动和流量置于每个 IP 地址后面。我们介绍了我们开发的用于检测全球大规模 IP 共享并缓解由此产生的问题的方法。</description>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Defending QUIC from acknowledgement-based DDoS attacks】保护 QUIC 免受基于确认的 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</link>
-      <description>【 We identified and patched two DDoS vulnerabilities in our QUIC implementation related to packet acknowledgements. Cloudflare customers were not affected. We examine the &#34;Optimistic ACK&#34; attack vector and our solution, which dynamically skips packet numbers to validate client behavior.  】我们在 QUIC 实现中发现并修复了两个与数据包确认相关的 DDoS 漏洞。 Cloudflare 客户没有受到影响。我们检查“乐观 ACK”攻击向量和我们的解决方案，该解决方案动态跳过数据包编号以验证客户端行为。 </description>
       <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
     </item>
     <item>

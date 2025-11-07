@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Top Strategies to Share Data Between Services】在服务之间共享数据的最佳策略</title>
+      <link>https://blog.bytebytego.com/p/top-strategies-to-share-data-between</link>
+      <description>【In this article, we explore these questions in depth. We investigate the difference between sharing a data source and sharing data, and examine the main strategies used to share data between services.】在本文中，我们将深入探讨这些问题。我们研究了共享数据源和共享数据之间的区别，并研究了用于在服务之间共享数据的主要策略。</description>
+      <pubDate>Thu, 06 Nov 2025 16:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Databricks Implemented Intelligent Kubernetes Load Balancing】Databricks 如何实现智能 Kubernetes 负载均衡</title>
+      <link>https://blog.bytebytego.com/p/how-databricks-implemented-intelligent</link>
+      <description>【The Databricks Engineering Team needed something smarter: a Layer 7, request-level load balancer that could react dynamically to real service conditions instead of relying on connection-level routing decisions.】Databricks 工程团队需要更智能的东西：第 7 层请求级负载均衡器，它可以对实际服务条件做出动态反应，而不是依赖于连接级路由决策。</description>
+      <pubDate>Wed, 05 Nov 2025 16:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Datadog Built a Custom Database to Ingest Billions of Metrics Per Second】Datadog 如何构建自定义数据库以每秒获取数十亿个指标</title>
+      <link>https://blog.bytebytego.com/p/how-datadog-built-a-custom-database</link>
+      <description>【This article analyzes the technical decisions and clever optimizations behind the database.】本文分析了数据库背后的技术决策和巧妙的优化。</description>
+      <pubDate>Tue, 04 Nov 2025 15:31:09 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Perplexity Built an AI Google】Perplexity 如何打造人工智能 Google</title>
       <link>https://blog.bytebytego.com/p/how-perplexity-built-an-ai-google</link>
       <description>【In a decisive move, Perplexity abandoned four months of work on their original project to focus entirely on the challenge of building a true answer engine for the web.】作为一个决定性的举措，Perplexity 放弃了四个月的原始项目工作，完全专注于为网络构建真正的答案引擎的挑战。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-nubank-built-an-in-house-logging</link>
       <description>【When a company grows rapidly, its technical systems are often pushed to their limits.】当一家公司快速发展时，其技术系统往往会被推到极限。</description>
       <pubDate>Mon, 27 Oct 2025 15:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP186: Latency vs. Throughput】EP186：延迟与吞吐量</title>
-      <link>https://blog.bytebytego.com/p/ep186-latency-vs-throughput</link>
-      <description>【Ever wondered why your app feels slow even when the bandwidth looks fine? Latency and throughput explain two very different stories of performance.】有没有想过为什么即使带宽看起来不错，您的应用程序仍然感觉很慢？延迟和吞吐量解释了两种截然不同的性能故事。</description>
-      <pubDate>Sat, 25 Oct 2025 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Gateways 101: The Core of Modern API Management &amp; Security】API 网关 101：现代 API 管理和安全的核心</title>
-      <link>https://blog.bytebytego.com/p/api-gateways-101-the-core-of-modern</link>
-      <description>【In this article, we will look at API gateways in detail, along with their architecture and features.】在本文中，我们将详细介绍 API 网关及其架构和功能。</description>
-      <pubDate>Thu, 23 Oct 2025 15:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Memory Problem: Why LLMs Sometimes Forget Your Conversation】记忆问题：为什么法学硕士有时会忘记你的谈话</title>
-      <link>https://blog.bytebytego.com/p/the-memory-problem-why-llms-sometimes</link>
-      <description>【In this article, we will try to understand why LLMs don&amp;#8217;t actually remember anything in the traditional sense, what context windows are, and why they create hard limits on conversation length.】在本文中，我们将尝试理解为什么法学硕士实际上不记得传统意义上的任何东西，上下文窗口是什么，以及为什么它们对对话长度设置硬性限制。</description>
-      <pubDate>Wed, 22 Oct 2025 15:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #257: Navigation API, PPR, directives, micro-frontends, i18n, Storybook, Immer | Godot, Uniwind, RCE, iOS filters, Windows, GPU, Hermes, Meta Quest | Node LTS, Safari, Rspack, Vite, SWC, Remix】本周 React #257：导航 API、PPR、指令、微前端、i18n、Storybook、Immer | Godot、Uniwind、RCE、iOS 过滤器、Windows、GPU、Hermes、Meta Quest |节点 LTS、Safari、Rspack、Vite、SWC、Remix</title>
+      <link>https://thisweekinreact.com/newsletter/257</link>
+      <description>【Hi everyone, Seb and Armand here\! 👋】大家好，这里是 Seb 和 Armand！ 👋</description>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #256: Next.js, directives, TanStack, Storybook, Waku, shadcn, Rari, Astro | Navigation, EAS, Expo Modules, Gesture Handler, Screens, Nitro, IAP | ArkType, Biome, Svelte, Hono】本周 React #256：Next.js、指令、TanStack、Storybook、Waku、shadcn、Rari、Astro |导航、EAS、Expo 模块、手势处理程序、屏幕、Nitro、IAP | ArkType、生物群系、Svelte、Hono</title>
       <link>https://thisweekinreact.com/newsletter/256</link>
       <description>【Hi everyone\! Filip and Krzysztof from Software Mansion here\! 👋】大家好\！来自 Software Mansion 的 Filip 和 Krzysztof 这里\！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/253</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #252: React 19.2, Activity, useEffectEvent, Compiler, Astro, StyleX, Docusaurus | Vega OS, Voltra, NativeScript, Expo Router, NativeWind, Lynx, Maestro | TC39, Temporal, Baseline, State Of JS, Supply Chain, MCP】本周 React #252：React 19.2、Activity、useEffectEvent、编译器、Astro、StyleX、Docusaurus | Vega OS、Voltra、NativeScript、Expo Router、NativeWind、Lynx、Maestro | TC39、时间、基线、JS 状态、供应链、MCP</title>
-      <link>https://thisweekinreact.com/newsletter/252</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

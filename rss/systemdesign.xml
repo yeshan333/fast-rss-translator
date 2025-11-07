@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【21 Git Commands for Software Engineers】软件工程师的 21 个 Git 命令</title>
+      <link>https://newsletter.systemdesign.one/p/commands-in-git</link>
+      <description>【#98: Git bisect, Git blame, Git stash and 18 others.】#98：Git bisect、Git Blame、Git stash 和其他 18 个。</description>
+      <pubDate>Thu, 06 Nov 2025 10:05:58 +0000</pubDate>
+    </item>
+    <item>
       <title>【Everything You Need to Know to Understand How LLMs Like ChatGPT Actually Work】了解 ChatGPT 等法学硕士实际运作方式所需了解的一切</title>
       <link>https://newsletter.systemdesign.one/p/llm-concepts</link>
       <description>【#97: Thirty-Three LLM Concepts Explained (Without Maths)】#97：三十三个法学硕士概念解释（无数学）</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/sidecar-pattern</link>
       <description>【#89: Break Into Design Patterns (4 Minutes)】#89：突破设计模式（4 分钟）</description>
       <pubDate>Thu, 18 Sep 2025 10:33:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【11 System Design Concepts Explained, Simply】11 个系统设计概念的简单解释</title>
-      <link>https://newsletter.systemdesign.one/p/11-system-design-concepts-explained</link>
-      <description>【#88: Break Into System Design (9 Minutes)】#88：深入系统设计（9 分钟）</description>
-      <pubDate>Tue, 16 Sep 2025 14:18:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【New developer resource page for Microsoft 365 interoperability and data portability】针对 Microsoft 365 互操作性和数据可移植性的新开发人员资源页面</title>
-      <link>https://devblogs.microsoft.com/blog/new-developer-resource-page-for-microsoft-365-interoperability-and-data-portability</link>
-      <description>【Microsoft has long provided interoperability information, interfaces, and tools to help our vibrant ecosystem of partners integrate their products 】Microsoft 长期以来一直提供互操作性信息、界面和工具，以帮助我们充满活力的合作伙伴生态系统集成他们的产品 </description>
-      <pubDate>Mon, 03 Nov 2025 20:00:19 +0000</pubDate>
+      <title>【Inside Visual Studio: Improving Open-Source Workflows with vcpkg】Visual Studio 内部：使用 vcpkg 改进开源工作流程</title>
+      <link>https://devblogs.microsoft.com/cppblog/inside-visual-studio-improving-open-source-workflows-with-vcpkg</link>
+      <description>【vcpkg, an open-source C/C++ package manager maintained by Microsoft, is increasingly recognized as a leading dependency management solution. As an enterprise-grade tool, it enables organizations to streamline library imports, reduce duplication, and support flexible, reproducible builds acros】vcpkg 是 Microsoft 维护的开源 C/C++ 包管理器，越来越被认为是领先的依赖管理解决方案。作为企业级工具，它使组织能够简化库导入、减少重复并支持灵活、可重复的构建 acros</description>
+      <pubDate>Thu, 06 Nov 2025 23:34:56 +0000</pubDate>
     </item>
     <item>
-      <title>【New developer resource page for Microsoft 365 interoperability and data portability】针对 Microsoft 365 互操作性和数据可移植性的新开发人员资源页面</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/new-developer-resource-page-for-microsoft-365-interoperability-and-data-portability</link>
-      <description>【Microsoft has long provided interoperability information, interfaces, and tools to help our vibrant ecosystem of partners integrate their products 】Microsoft 长期以来一直提供互操作性信息、界面和工具，以帮助我们充满活力的合作伙伴生态系统集成他们的产品 </description>
-      <pubDate>Mon, 03 Nov 2025 20:00:15 +0000</pubDate>
+      <title>【From Real-Time Analytics to AI: Your Azure Cosmos DB &amp; DocumentDB Agenda for Microsoft Ignite 2025】从实时分析到 AI：Microsoft Ignite 2025 的 Azure Cosmos DB 和 DocumentDB 议程</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmosdb-documentdb-agenda-microsoft-ignite-2025</link>
+      <description>【Microsoft Ignite 2025 is your opportunity to explore how Azure Cosmos DB, Cosmos DB in Microsoft Fabric, and DocumentDB power the next ge】Microsoft Ignite 2025 为您提供了探索 Azure Cosmos DB、Microsoft Fabric 中的 Cosmos DB 和 DocumentDB 如何为下一代提供动力的机会</description>
+      <pubDate>Thu, 06 Nov 2025 21:18:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does &lt;CODE&gt;SHFormat­Date­Time&lt;/CODE&gt; take an unaligned &lt;CODE&gt;FILETIME&lt;/CODE&gt;?】为什么 &lt;CODE&gt;SHFormatDateTime&lt;/CODE&gt; 采用未对齐的 &lt;CODE&gt;FILETIME&lt;/CODE&gt;？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251103-00/?p=111753</link>
-      <description>【I noted some time ago Windows requires that pointers be aligned unless explicitly permitted to be unaligned. I gave as an example of a function that explicitly permits unaligned po】我前段时间注意到 Windows 要求指针对齐，除非明确允许不对齐。我给出了一个明确允许未对齐 po 的函数的示例</description>
-      <pubDate>Mon, 03 Nov 2025 15:00:00 +0000</pubDate>
+      <title>【Troubleshooting recent MIDI issues in Windows 11 (and Windows 10)】解决 Windows 11（和 Windows 10）中最近的 MIDI 问题</title>
+      <link>https://devblogs.microsoft.com/windows-music-dev/troubleshooting-recent-midi-issues-in-windows-11</link>
+      <description>【If you are on Windows 11 (or Windows 10 for the UAD issue) and recently had either of these two issues, please read on: You use a Universal Audio (UAD) device and found that all or most of your MIDI devices are no longer recognized in your DAW in Windows 11 or Windows 10 You have a new MIDI 2.0 (UMP Data Format – mo】如果您使用的是 Windows 11（或针对 UAD 问题的 Windows 10）并且最近遇到了这两个问题中的任何一个，请继续阅读：您使用通用音频 (UAD) 设备，发现所有或大部分 MIDI 设备在 Windows 11 或 Windows 10 中的 DAW 中不再被识别您有一个新的 MIDI 2.0（UMP 数据格式 – mo）</description>
+      <pubDate>Thu, 06 Nov 2025 21:13:58 +0000</pubDate>
     </item>
     <item>
-      <title>【Accelerate Your Growth: Azure Cosmos DB Partner Acceleration Program】加速您的成长：Azure Cosmos DB 合作伙伴加速计划</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/accelerate-your-growth-azure-cosmos-db-partner-acceleration-program</link>
-      <description>【Accelerate Your Growth: Azure Cosmos DB Partner Acceleration Program Unlock 360° Success with the Cosmos DB Engineering Team Are you ready to elevate your cloud data practice and drive innovation for your customers? The Azure Cosmos DB Partner Acceleration Program—spearheaded by the Cosmos DB Engineering】加速您的成长：Azure Cosmos DB 合作伙伴加速计划与 Cosmos DB 工程团队一起解锁 360° 成功您准备好提升您的云数据实践并推动客户创新了吗？ Azure Cosmos DB 合作伙伴加速计划 — 由 Cosmos DB 工程牵头</description>
-      <pubDate>Mon, 03 Nov 2025 11:06:41 +0000</pubDate>
+      <title>【Non-recursively deleting a binary tree in constant space: Synthesizing the parent pointer】非递归删除常量空间中的二叉树：合成父指针</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251106-00/?p=111771</link>
+      <description>【Last time, we looked at a way to delete a binary tree non-recursively, assuming that we had parent pointers. But nodes in a classical binary tree does not remember t】上次，我们研究了一种非递归删除二叉树的方法，假设我们有父指针。但经典二叉树中的节点不记得 t</description>
+      <pubDate>Thu, 06 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Behind the Universe demo: From prompt to production with VS Code, GitHub Copilot and the Microsoft Agent Framework】Universe 演示背后：使用 VS Code、GitHub Copilot 和 Microsoft Agent Framework 从提示到生产</title>
-      <link>https://devblogs.microsoft.com/blog/behind-the-universe-demo-with-vs-code-copilot-and-agent-framework</link>
-      <description>【At this year’s GitHub Universe, we set out to answer a simple question: What would it take to go from an idea to production in under 30 minutes – using only natural language, your editor, and AI? On stage, we built a cloud-native, intelligent app from scratch using】在今年的 GitHub Universe 上，我们着手回答一个简单的问题：仅使用自然语言、编辑器和人工智能，在 30 分钟内从一个想法转变为生产需要什么？在舞台上，我们使用以下方法从头开始构建了一个云原生智能应用程序</description>
-      <pubDate>Fri, 31 Oct 2025 19:00:45 +0000</pubDate>
+      <title>【Open Source AI Editor: Second Milestone】开源人工智能编辑器：第二个里程碑</title>
+      <link>https://devblogs.microsoft.com/external-blogs/open-source-ai-editor-second-milestone</link>
+      <description>【Ghost text suggestions are now open source as part of the Copilot Chat extension - the second milestone in making VS Code an open source AI editor. Read the full article】Ghost 文本建议现已开源，作为 Copilot Chat 扩展的一部分 - 这是使 VS Code 成为开源 AI 编辑器的第二个里程碑。阅读全文</description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【💫 Welcome to Aspire: Your stack, streamlined】💫 欢迎来到 Aspire：您的堆栈，精简的</title>
-      <link>https://devblogs.microsoft.com/aspire/aspirepolyglot</link>
-      <description>【We’re excited to announce a new chapter for Aspire and a new home at aspire.dev. What started two years ago as an experiment to simplify distributed app development has become a thriving, community-driven, extensible, code-first pl】我们很高兴地宣布 Aspire 翻开了新篇章，并在 aspire.dev 上建立了新家。两年前开始的一个简化分布式应用程序开发的实验已经成为一个蓬勃发展的、社区驱动的、可扩展的、代码优先的平台。</description>
-      <pubDate>Fri, 31 Oct 2025 17:06:21 +0000</pubDate>
+      <title>【Open Source AI Editor: Second Milestone】开源人工智能编辑器：第二个里程碑</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/open-source-ai-editor:-second-milestone</link>
+      <description>【Ghost text suggestions are now open source as part of the Copilot Chat extension - the second milestone in making VS Code an open source AI editor. Read the full article】Ghost 文本建议现已开源，作为 Copilot Chat 扩展的一部分 - 这是使 VS Code 成为开源 AI 编辑器的第二个里程碑。阅读全文</description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Multi-region Expansion for Azure Deployments】Azure 部署的多区域扩展</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/multi-region-expansion-for-azure-deployments</link>
-      <description>【Why Financial Services Organizations Should Consider Expanding to Other Azure Regions for New Workloads As a Cloud Architect, I work closely with financial services organizations to help them unlock the full potential of Azure innovations. One of the most impactful strategies I r】为什么金融服务组织应考虑将新工作负载扩展到其他 Azure 区域 作为云架构师，我与金融服务组织密切合作，帮助他们释放 Azure 创新的全部潜力。我最有影响力的策略之一</description>
-      <pubDate>Fri, 31 Oct 2025 16:11:13 +0000</pubDate>
+      <title>【Roadmap for AI in Visual Studio (November)】Visual Studio 中的 AI 路线图（11 月）</title>
+      <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november</link>
+      <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，其中概述了通过人工智能驱动的代理体验发展 Visual Studio 的后续步骤。我们每个月都致力于提供更智能、更快速、更直观的工具来增强您的编码体验。免责声明：此处概述的项目代表本月正在进行的工作。他们</description>
+      <pubDate>Wed, 05 Nov 2025 19:32:56 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft C++ Team at CppCon 2025: Trip Report】Microsoft C++ 团队参加 CppCon 2025：行程报告</title>
-      <link>https://devblogs.microsoft.com/cppblog/cppcon2025-trip-report</link>
-      <description>【Another year and another CppCon is all wrapped up! Microsoft was pleased to once again be an exhibitor and to have several of our employees present sessions at the conference. Here are my major takeaways from the keynotes, sessions, conversations, and the general vibe. AI tooling is finding a footing with the C++ community. The ne】又一年又一届 CppCon 圆满落幕！ Microsoft 很高兴再次成为参展商，并邀请我们的几位员工出席会议。以下是我从主题演讲、会议、对话和总体氛围中得到的主要收获。 AI 工具正在 C++ 社区中站稳脚跟。内</description>
-      <pubDate>Fri, 31 Oct 2025 15:37:49 +0000</pubDate>
+      <title>【How Copilot Studio uses .NET and WebAssembly for performance and innovation】Copilot Studio 如何使用 .NET 和 WebAssembly 来实现性能和创新</title>
+      <link>https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm</link>
+      <description>【Microsoft Copilot Studio is at the forefront of conversational AI and automation, empowering organizations to build, customize, and manage intelligent copilots and bots for a wide range of enterprise scenarios. As the platform has evolved, so too have the t】Microsoft Copilot Studio 处于对话式 AI 和自动化领域的前沿，使组织能够为各种企业场景构建、定制和管理智能副驾驶和机器人。随着平台的发展，技术也在不断发展</description>
+      <pubDate>Wed, 05 Nov 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Join us at .NET Conf: Dive into the future of development with Visual Studio 2026】加入我们的 .NET Conf：使用 Visual Studio 2026 深入探讨开发的未来</title>
-      <link>https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026</link>
-      <description>【We&#39;re thrilled to invite you to one of the most exciting events in the .NET ecosystem: .NET Conf. It runs from November 11th through the 13th and you’re invited! This annual virtual conference is a must-attend for developers, architects, and enthusiasts looking t】我们很高兴邀请您参加 .NET 生态系统中最激动人心的活动之一：.NET Conf。活动时间为 11 月 11 日至 13 日，诚邀您！对于寻求技术的开发人员、架构师和爱好者来说，这个年度虚拟会议是必须参加的。</description>
-      <pubDate>Fri, 31 Oct 2025 14:00:54 +0000</pubDate>
+      <title>【Non-recursively deleting a binary tree in constant space: Traversal with parent pointers】非递归删除常量空间中的二叉树：用父指针遍历</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251105-00/?p=111765</link>
+      <description>【As a challenge, a colleague of mine told me to find a non-recursive constant-space algorithm for deleting a binary tree.¹ After a moment&#39;s thought, I was able to come up with an algorithm. It is often the case that solving a problem is easier once you are told that a solution exists. When I asked the Internet for a non-recu】作为一项挑战，我的一位同事告诉我找到一种用于删除二叉树的非递归常量空间算法。经过片刻的思考，我想出了一个算法。通常情况下，一旦您被告知存在解决方案，解决问题就会变得更容易。当我在网上询问非recu时</description>
+      <pubDate>Wed, 05 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microspeak: turn into a pumpkin】Microspeak：变成南瓜</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251031-00/?p=111750</link>
-      <description>【The English idiom turn into a pumpkin comes from the fairy tale story of Cinderella, in which the protagonist&#39;s ragged clothes are magically transformed into an elegant gown and a pumpkin is transformed into a carriage, allowing her to attend a royal ball. She is warned that the magic wears off at midnight, upon which her clot】英语成语“turn into a Pump”源自童话故事《灰姑娘》，主角破烂的衣服神奇地变成了一件优雅的礼服，而南瓜则变成了一辆马车，让她能够参加皇家舞会。她被警告说魔法会在午夜消失，她的凝块就会消失。</description>
-      <pubDate>Fri, 31 Oct 2025 14:00:00 +0000</pubDate>
+      <title>【Now Available: Sort Geospatial Query Results by ST_Distance in Azure Cosmos DB】现已推出：在 Azure Cosmos DB 中按 ST_Distance 对地理空间查询结果进行排序</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/now-available-sort-geospatial-query-results-by-st_distance-in-azure-cosmos-db</link>
+      <description>【Azure Cosmos DB’s geospatial capabilities just got even better! We&#39;re excited to announce that you can now sort query results by distance using an ORDER BY ST_DISTANCE(...) clause in the NoSQL query language while leveraging a spatial index. [video width=&#34;1920】Azure Cosmos DB 的地理空间功能变得更加出色！我们很高兴地宣布，您现在可以在利用空间索引的同时，使用 NoSQL 查询语言中的 ORDER BY ST_DISTANCE(...) 子句按距离对查询结果进行排序。 [视频宽度=1920</description>
+      <pubDate>Wed, 05 Nov 2025 12:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
