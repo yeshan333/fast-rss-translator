@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Reliability lessons from the 2025 AWS DynamoDB outage】2025 年 AWS DynamoDB 中断带来的可靠性教训</title>
+      <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-aws-dynamodb-outage</link>
+      <description>【In October 2025, Amazon DynamoDB had a massive outage that took down hundreds of systems. Find out what your team can do to minimize the impact of similar outages in the future.】2025 年 10 月，Amazon DynamoDB 发生大规模停机，导致数百个系统瘫痪。了解您的团队可以采取哪些措施来最大程度地减少未来类似中断的影响。</description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Gremlin’s KubeCon ‘25 reliability track】Gremlin 的 KubeCon ‘25 可靠性轨道</title>
       <link>https://www.gremlin.com/blog/gremlins-kubecon-25-reliability-track</link>
       <description>【Check out the Gremlin-curated unofficial track of reliability talks at KubeCon North America 2025.】查看 Gremlin 在 2025 年 KubeCon 北美会议上策划的非官方可靠性会谈。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/lessons-from-alaskas-outage-redundant-resilient</link>
       <description>【Redundancy is a core part of designing resilient architectures, but only if you build the right amount of redundancy. Find that sweet spot of redundancy with resilience testing.】冗余是设计弹性架构的核心部分，但前提是您构建了适量的冗余。通过弹性测试找到冗余的最佳点。</description>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Measure your reliability risk, not your engineers】衡量您的可靠性风险，而不是您的工程师</title>
-      <link>https://www.gremlin.com/blog/measure-your-reliability-risk-not-your-engineers</link>
-      <description>【Reliability metrics should uncover risks and enable your teams to improve reliability, not create defensiveness and blame games.】可靠性指标应该发现风险并使您的团队能够提高可靠性，而不是制造防御性和指责游戏。</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

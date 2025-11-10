@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP188: Servers You Should Know in Modern Systems】EP188：现代系统中您应该了解的服务器</title>
+      <link>https://blog.bytebytego.com/p/ep188-servers-you-should-know-in</link>
+      <description>【Servers You Should Know in Modern Systems】现代系统中您应该了解的服务器</description>
+      <pubDate>Sat, 08 Nov 2025 16:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Last Chance to Enroll | Become an AI Engineer | Cohort 2】最后报名机会 |成为一名人工智能工程师 |第 2 组</title>
+      <link>https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai-999</link>
+      <description>【After the incredible success of our first cohort, with nearly 500 participants, we&amp;#8217;re thrilled to announce the launch of Cohort 2 of Become an AI Engineer!】在我们的第一个队列取得了令人难以置信的成功（拥有近 500 名参与者）之后，我们很高兴地宣布推出成为人工智能工程师的第二个队列！</description>
+      <pubDate>Fri, 07 Nov 2025 16:30:37 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top Strategies to Share Data Between Services】在服务之间共享数据的最佳策略</title>
       <link>https://blog.bytebytego.com/p/top-strategies-to-share-data-between</link>
       <description>【In this article, we explore these questions in depth. We investigate the difference between sharing a data source and sharing data, and examine the main strategies used to share data between services.】在本文中，我们将深入探讨这些问题。我们研究了共享数据源和共享数据之间的区别，并研究了用于在服务之间共享数据的主要策略。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/what-are-ai-agents</link>
       <description>【In this article, we&amp;#8217;ll explore what AI agents really are, understand the key characteristics that define them, and examine the different types of agents ranging from simple to sophisticated.】在本文中，我们将探讨人工智能代理的真正含义，了解定义它们的关键特征，并研究从简单到复杂的不同类型的代理。</description>
       <pubDate>Wed, 29 Oct 2025 15:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Evolution of LinkedIn’s Generative AI Tech Stack】LinkedIn 生成式 AI 技术堆栈的演变</title>
-      <link>https://blog.bytebytego.com/p/the-evolution-of-linkedins-generative</link>
-      <description>【We&amp;#8217;ll explore how they transitioned from early feature experiments to a robust GenAI platform, and eventually to multi-agent systems capable of reasoning, planning, and collaborating at scale.】我们将探讨它们如何从早期的特征实验过渡到强大的 GenAI 平台，并最终过渡到能够大规模推理、规划和协作的多智能体系统。</description>
-      <pubDate>Tue, 28 Oct 2025 15:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Nubank Built an In-house Logging Platform for 1 Trillion Log Entries】Nubank 如何为 1 万亿条日志条目构建内部日志平台</title>
-      <link>https://blog.bytebytego.com/p/how-nubank-built-an-in-house-logging</link>
-      <description>【When a company grows rapidly, its technical systems are often pushed to their limits.】当一家公司快速发展时，其技术系统往往会被推到极限。</description>
-      <pubDate>Mon, 27 Oct 2025 15:30:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

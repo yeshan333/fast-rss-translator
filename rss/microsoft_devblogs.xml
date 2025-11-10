@@ -4,13 +4,43 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Windows MIDI Services and the 10-MIDI driver limit】Windows MIDI 服务和 10-MIDI 驱动程序限制</title>
+      <link>https://devblogs.microsoft.com/windows-music-dev/windows-midi-services-and-the-10-midi-driver-limit</link>
+      <description>【The USB MIDI 1.0 specification was released in the late 90s around the same time that PCs were starting to move from rectangular beige boxes to things like fake-silvered bulbous plastic shapes. At this point, some of the code in Windows to support USB MIDI 1.0 has become intergenerational – it&#39;s certainly older than my teenagers here at h】USB MIDI 1.0 规范于 20 世纪 90 年代末发布，大约在同一时间，个人电脑开始从矩形米色盒子转向假银色球状塑料形状。此时，Windows 中支持 USB MIDI 1.0 的一些代码已经成为代际代码——它肯定比我在 h 的十几岁孩子还要老。</description>
+      <pubDate>Fri, 07 Nov 2025 22:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.25.4-2 and 1.24.10-1 Microsoft builds now available】Go 1.25.4-2 和 1.24.10-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-25-4-2-and-1-24-10-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】Microsoft 版本的 Go 新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Fri, 07 Nov 2025 18:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【IntelePeer supercharges its agentic AI platform with Azure Cosmos DB】IntelePeer 使用 Azure Cosmos DB 增强其代理 AI 平台</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/intelepeer-supercharges-its-agentic-ai-platform-with-azure-cosmos-db</link>
+      <description>【Reducing latency by 50% and scaling intelligent CX for SMBs This article was co-authored by Sergey Galchenko, Chief Technology Officer, IntelePeer, and Subhash Ramamoorthi, Director, IntelePeer AI Hub. Don’t miss: Discover how IntelePeer enhances agent intelligence and powers their multi-agent】将延迟减少 50% 并扩展中小型企业的智能 CX 本文由 IntelePeer 首席技术官 Sergey Galchenko 和 IntelePeer AI Hub 总监 Subhash Ramamoorthi 共同撰写。不要错过：了解 IntelePeer 如何增强代理智能并为其多代理提供支持</description>
+      <pubDate>Fri, 07 Nov 2025 17:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Non-recursively deleting a binary tree in constant space: Restructuring the tree】在常量空间中非递归删除二叉树：重构树</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251107-00/?p=111774</link>
+      <description>【We&#39;ve been looking at non-recursive algorithms for deleting the nodes of a binary tree. The previous algorithm performed a postorder traversal, cleverly repurposing】我们一直在研究用于删除二叉树节点的非递归算法。之前的算法执行了后序遍历，巧妙地重新利用</description>
+      <pubDate>Fri, 07 Nov 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Patterns for Building a Scalable Multi-Agent System】构建可扩展的多代理系统的模式</title>
+      <link>https://devblogs.microsoft.com/ise/multi-agent-systems-at-scale</link>
+      <description>【Introduction LLMs are enabling a new generation of multi-agent systems that tackle complex, multi-step tasks. Moving from prototype to production is hard—especially when orchestrating dozens or hundreds of specialized agents. Commercial viability depends on intentional design, scalability, latency control, and predictable outcomes.】简介 法学硕士正在支持新一代多智能体系统，以解决复杂的多步骤任务。从原型转向生产是很困难的，尤其是在协调数十或数百个专业代理时。商业可行性取决于有意的设计、可扩展性、延迟控制和可预测的结果。</description>
+      <pubDate>Fri, 07 Nov 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Inside Visual Studio: Improving Open-Source Workflows with vcpkg】Visual Studio 内部：使用 vcpkg 改进开源工作流程</title>
       <link>https://devblogs.microsoft.com/cppblog/inside-visual-studio-improving-open-source-workflows-with-vcpkg</link>
       <description>【vcpkg, an open-source C/C++ package manager maintained by Microsoft, is increasingly recognized as a leading dependency management solution. As an enterprise-grade tool, it enables organizations to streamline library imports, reduce duplication, and support flexible, reproducible builds acros】vcpkg 是 Microsoft 维护的开源 C/C++ 包管理器，越来越被认为是领先的依赖管理解决方案。作为企业级工具，它使组织能够简化库导入、减少重复并支持灵活、可重复的构建 acros</description>
       <pubDate>Thu, 06 Nov 2025 23:34:56 +0000</pubDate>
     </item>
     <item>
-      <title>【From Real-Time Analytics to AI: Your Azure Cosmos DB &amp; DocumentDB Agenda for Microsoft Ignite 2025】从实时分析到 AI：Microsoft Ignite 2025 的 Azure Cosmos DB 和 DocumentDB 议程</title>
+      <title>【From Real-Time Analytics to AI: Your Azure Cosmos DB &amp; DocumentDB Agenda for Microsoft Ignite 2025】从实时分析到 AI：Microsoft Ignite 2025 年 Azure Cosmos DB 和 DocumentDB 议程</title>
       <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmosdb-documentdb-agenda-microsoft-ignite-2025</link>
       <description>【Microsoft Ignite 2025 is your opportunity to explore how Azure Cosmos DB, Cosmos DB in Microsoft Fabric, and DocumentDB power the next ge】Microsoft Ignite 2025 为您提供了探索 Azure Cosmos DB、Microsoft Fabric 中的 Cosmos DB 和 DocumentDB 如何为下一代提供动力的机会</description>
       <pubDate>Thu, 06 Nov 2025 21:18:51 +0000</pubDate>
@@ -29,39 +59,9 @@
     </item>
     <item>
       <title>【Open Source AI Editor: Second Milestone】开源人工智能编辑器：第二个里程碑</title>
-      <link>https://devblogs.microsoft.com/external-blogs/open-source-ai-editor-second-milestone</link>
-      <description>【Ghost text suggestions are now open source as part of the Copilot Chat extension - the second milestone in making VS Code an open source AI editor. Read the full article】Ghost 文本建议现已开源，作为 Copilot Chat 扩展的一部分 - 这是使 VS Code 成为开源 AI 编辑器的第二个里程碑。阅读全文</description>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Open Source AI Editor: Second Milestone】开源人工智能编辑器：第二个里程碑</title>
       <link>https://devblogs.microsoft.com/vscode-blog/open-source-ai-editor:-second-milestone</link>
       <description>【Ghost text suggestions are now open source as part of the Copilot Chat extension - the second milestone in making VS Code an open source AI editor. Read the full article】Ghost 文本建议现已开源，作为 Copilot Chat 扩展的一部分 - 这是使 VS Code 成为开源 AI 编辑器的第二个里程碑。阅读全文</description>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Roadmap for AI in Visual Studio (November)】Visual Studio 中的 AI 路线图（11 月）</title>
-      <link>https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november</link>
-      <description>【Today, we’re excited to share our public roadmap, which outlines the next steps in evolving Visual Studio with AI-powered agentic experiences. With every month, we aim to deliver smarter, faster, and more intuitive tools that enhance your coding experience. Disclaimer: The items outlined here represent ongoing work for the month. They】今天，我们很高兴分享我们的公共路线图，其中概述了通过人工智能驱动的代理体验发展 Visual Studio 的后续步骤。我们每个月都致力于提供更智能、更快速、更直观的工具来增强您的编码体验。免责声明：此处概述的项目代表本月正在进行的工作。他们</description>
-      <pubDate>Wed, 05 Nov 2025 19:32:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Copilot Studio uses .NET and WebAssembly for performance and innovation】Copilot Studio 如何使用 .NET 和 WebAssembly 来实现性能和创新</title>
-      <link>https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm</link>
-      <description>【Microsoft Copilot Studio is at the forefront of conversational AI and automation, empowering organizations to build, customize, and manage intelligent copilots and bots for a wide range of enterprise scenarios. As the platform has evolved, so too have the t】Microsoft Copilot Studio 处于对话式 AI 和自动化领域的前沿，使组织能够为各种企业场景构建、定制和管理智能副驾驶和机器人。随着平台的发展，技术也在不断发展</description>
-      <pubDate>Wed, 05 Nov 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Non-recursively deleting a binary tree in constant space: Traversal with parent pointers】非递归删除常量空间中的二叉树：用父指针遍历</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251105-00/?p=111765</link>
-      <description>【As a challenge, a colleague of mine told me to find a non-recursive constant-space algorithm for deleting a binary tree.¹ After a moment&#39;s thought, I was able to come up with an algorithm. It is often the case that solving a problem is easier once you are told that a solution exists. When I asked the Internet for a non-recu】作为一项挑战，我的一位同事告诉我找到一种用于删除二叉树的非递归常量空间算法。经过片刻的思考，我想出了一个算法。通常情况下，一旦您被告知存在解决方案，解决问题就会变得更容易。当我在网上询问非recu时</description>
-      <pubDate>Wed, 05 Nov 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Now Available: Sort Geospatial Query Results by ST_Distance in Azure Cosmos DB】现已推出：在 Azure Cosmos DB 中按 ST_Distance 对地理空间查询结果进行排序</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/now-available-sort-geospatial-query-results-by-st_distance-in-azure-cosmos-db</link>
-      <description>【Azure Cosmos DB’s geospatial capabilities just got even better! We&#39;re excited to announce that you can now sort query results by distance using an ORDER BY ST_DISTANCE(...) clause in the NoSQL query language while leveraging a spatial index. [video width=&#34;1920】Azure Cosmos DB 的地理空间功能变得更加出色！我们很高兴地宣布，您现在可以在利用空间索引的同时，使用 NoSQL 查询语言中的 ORDER BY ST_DISTANCE(...) 子句按距离对查询结果进行排序。 [视频宽度=1920</description>
-      <pubDate>Wed, 05 Nov 2025 12:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
