@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【21 Frontend System Design Concepts for Software Engineers】软件工程师的 21 个前端系统设计概念</title>
+      <link>https://newsletter.systemdesign.one/p/frontend-system-design</link>
+      <description>【#99: A practical guide to building fast, scalable, and reliable web apps】#99：构建快速、可扩展且可靠的 Web 应用程序的实用指南</description>
+      <pubDate>Tue, 11 Nov 2025 09:58:42 +0000</pubDate>
+    </item>
+    <item>
       <title>【21 Git Commands for Software Engineers】软件工程师的 21 个 Git 命令</title>
       <link>https://newsletter.systemdesign.one/p/commands-in-git</link>
       <description>【#98: Git bisect, Git blame, Git stash and 18 others.】#98：Git bisect、Git Blame、Git stash 和其他 18 个。</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/rate-limiting</link>
       <description>【#90: Break Into Rate Limiting (5 Minutes)】#90：突破速率限制（5 分钟）</description>
       <pubDate>Fri, 19 Sep 2025 18:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Sidecar Pattern Works ✨】Sidecar 模式如何运作 ✨</title>
-      <link>https://newsletter.systemdesign.one/p/sidecar-pattern</link>
-      <description>【#89: Break Into Design Patterns (4 Minutes)】#89：突破设计模式（4 分钟）</description>
-      <pubDate>Thu, 18 Sep 2025 10:33:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

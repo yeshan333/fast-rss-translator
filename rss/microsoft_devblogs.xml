@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Windows MIDI Services and the 10-MIDI driver limit】Windows MIDI 服务和 10-MIDI 驱动程序限制</title>
-      <link>https://devblogs.microsoft.com/windows-music-dev/windows-midi-services-and-the-10-midi-driver-limit</link>
-      <description>【The USB MIDI 1.0 specification was released in the late 90s around the same time that PCs were starting to move from rectangular beige boxes to things like fake-silvered bulbous plastic shapes. At this point, some of the code in Windows to support USB MIDI 1.0 has become intergenerational – it&#39;s certainly older than my teenagers here at h】USB MIDI 1.0 规范于 20 世纪 90 年代末发布，大约在同一时间，个人电脑开始从矩形米色盒子转向假银色球状塑料形状。此时，Windows 中支持 USB MIDI 1.0 的一些代码已经成为代际代码——它肯定比我在 h 的十几岁孩子还要老。</description>
-      <pubDate>Fri, 07 Nov 2025 22:04:05 +0000</pubDate>
+      <title>【Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions】Azure AI Foundry 会议指南 @ Microsoft Ignite：必看的开发人员会议</title>
+      <link>https://devblogs.microsoft.com/foundry/ignitedevsessions</link>
+      <description>【Microsoft Ignite 2025 is the ultimate opportunity for developers to dive deep into what’s new with Azure AI Foundry. We curated the top sessions designed for hands-on learning, practical demos, and expert insights. Whether you’re】Microsoft Ignite 2025 是开发人员深入了解 Azure AI Foundry 新增功能的绝佳机会。我们策划了专为实践学习、实际演示和专家见解而设计的顶级会议。无论你是</description>
+      <pubDate>Wed, 12 Nov 2025 20:00:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.25.4-2 and 1.24.10-1 Microsoft builds now available】Go 1.25.4-2 和 1.24.10-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-4-2-and-1-24-10-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】Microsoft 版本的 Go 新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Fri, 07 Nov 2025 18:27:59 +0000</pubDate>
+      <title>【Introducing Copilot auto model selection (preview)】Copilot 自动模型选择简介（预览版）</title>
+      <link>https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview</link>
+      <description>【Faster responses, a lower chance of rate limiting, and 10% off premium requests for paid users - auto picks the best available model for each request based on current capacity and performance. With auto, you don&#39;t need to choose a specific model. Copilot automatical】更快的响应、更低的速率限制机会以及付费用户 10% 的高级请求折扣 - 根据当前容量和性能自动为每个请求选择最佳可用模型。使用汽车，您无需选择特定型号。副驾驶自动</description>
+      <pubDate>Wed, 12 Nov 2025 17:38:43 +0000</pubDate>
     </item>
     <item>
-      <title>【IntelePeer supercharges its agentic AI platform with Azure Cosmos DB】IntelePeer 使用 Azure Cosmos DB 增强其代理 AI 平台</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/intelepeer-supercharges-its-agentic-ai-platform-with-azure-cosmos-db</link>
-      <description>【Reducing latency by 50% and scaling intelligent CX for SMBs This article was co-authored by Sergey Galchenko, Chief Technology Officer, IntelePeer, and Subhash Ramamoorthi, Director, IntelePeer AI Hub. Don’t miss: Discover how IntelePeer enhances agent intelligence and powers their multi-agent】将延迟减少 50% 并扩展中小型企业的智能 CX 本文由 IntelePeer 首席技术官 Sergey Galchenko 和 IntelePeer AI Hub 总监 Subhash Ramamoorthi 共同撰写。不要错过：了解 IntelePeer 如何增强代理智能并为其多代理提供支持</description>
-      <pubDate>Fri, 07 Nov 2025 17:10:00 +0000</pubDate>
+      <title>【Perform wide-sweeping refactors using C++ code editing tools for GitHub Copilot】使用 GitHub Copilot 的 C++ 代码编辑工具执行广泛的重构</title>
+      <link>https://devblogs.microsoft.com/cppblog/perform-wide-sweeping-refactors-using-c-code-editing-tools-for-github-copilot</link>
+      <description>【[cta-button text=&#34;Sign up for our Private Preview&#34; url=&#34;https://aka.ms/code-editing-tools-private-preview&#34; color=&#34;btn-primary&#34; align=&#34;center&#34;] Refactoring a C++ codebase can often require tracking updates across various sections of multiple files to ensure accuracy and relevancy.  Historically, developers have relied on manual searches acr】[cta-button text=&#34;注册我们的私人预览版&#34; url=&#34;https://aka.ms/code-editing-tools-private-preview&#34; color=&#34;btn-primary&#34;align=&#34;center&#34;] 重构 C++ 代码库通常需要跟踪多个文件的各个部分的更新，以确保准确性和相关性。  从历史上看，开发人员一直依赖手动搜索 acr</description>
+      <pubDate>Wed, 12 Nov 2025 17:31:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Non-recursively deleting a binary tree in constant space: Restructuring the tree】在常量空间中非递归删除二叉树：重构树</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251107-00/?p=111774</link>
-      <description>【We&#39;ve been looking at non-recursive algorithms for deleting the nodes of a binary tree. The previous algorithm performed a postorder traversal, cleverly repurposing】我们一直在研究用于删除二叉树节点的非递归算法。之前的算法执行了后序遍历，巧妙地重新利用</description>
-      <pubDate>Fri, 07 Nov 2025 15:00:00 +0000</pubDate>
+      <title>【Optimize Your C++ Build Times with GitHub Copilot】使用 GitHub Copilot 优化您的 C++ 构建时间</title>
+      <link>https://devblogs.microsoft.com/cppblog/optimize-your-c-build-times-with-github-copilot</link>
+      <description>【Long build times are one of the top pain points for C++ projects. If you’ve ever waited too long for a C++ build to finish, you know how much it can slow down your productivity. In past years, we introduced C++ Build Insights to help you analyze traces and find bottlenecks. However, we know that】构建时间长是 C++ 项目的最大痛点之一。如果您曾经等待 C++ 构建完成太长时间，您就会知道它会降低您的工作效率。在过去几年中，我们引入了 C++ Build Insights 来帮助您分析跟踪并查找瓶颈。然而，我们知道</description>
+      <pubDate>Wed, 12 Nov 2025 17:12:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Patterns for Building a Scalable Multi-Agent System】构建可扩展的多代理系统的模式</title>
-      <link>https://devblogs.microsoft.com/ise/multi-agent-systems-at-scale</link>
-      <description>【Introduction LLMs are enabling a new generation of multi-agent systems that tackle complex, multi-step tasks. Moving from prototype to production is hard—especially when orchestrating dozens or hundreds of specialized agents. Commercial viability depends on intentional design, scalability, latency control, and predictable outcomes.】简介 法学硕士正在支持新一代多智能体系统，以解决复杂的多步骤任务。从原型转向生产是很困难的，尤其是在协调数十或数百个专业代理时。商业可行性取决于有意的设计、可扩展性、延迟控制和可预测的结果。</description>
-      <pubDate>Fri, 07 Nov 2025 08:00:00 +0000</pubDate>
+      <title>【Fix build issues using GitHub Copilot after upgrading MSVC Build Tools】升级 MSVC 构建工具后使用 GitHub Copilot 修复构建问题</title>
+      <link>https://devblogs.microsoft.com/cppblog/app-modernization-cpp-private-preview</link>
+      <description>【[cta-button text=&#34;Sign up for the Private Preview waitlist&#34; url=&#34;https://www.surveymonkey.com/r/C2S6NV3&#34; color=&#34;btn-primary&#34; align=&#34;center&#34;] A few problems have reared their heads at every company where I’ve worked on C++ as a Software Engineer over the past 20 years. For the most part, those problems have nothing to do with the language】[cta-button text=&#34;Sign up for the Private Preview waitlist&#34; url=&#34;https://www.surveymonkey.com/r/C2S6NV3&#34; color=&#34;btn-primary&#34;align=&#34;center&#34;] 在过去 20 年里，我作为软件工程师从事 C++ 工作的每一家公司都出现了一些问题。大多数情况下，这些问题与语言无关</description>
+      <pubDate>Wed, 12 Nov 2025 17:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside Visual Studio: Improving Open-Source Workflows with vcpkg】Visual Studio 内部：使用 vcpkg 改进开源工作流程</title>
-      <link>https://devblogs.microsoft.com/cppblog/inside-visual-studio-improving-open-source-workflows-with-vcpkg</link>
-      <description>【vcpkg, an open-source C/C++ package manager maintained by Microsoft, is increasingly recognized as a leading dependency management solution. As an enterprise-grade tool, it enables organizations to streamline library imports, reduce duplication, and support flexible, reproducible builds acros】vcpkg 是 Microsoft 维护的开源 C/C++ 包管理器，越来越被认为是领先的依赖管理解决方案。作为企业级工具，它使组织能够简化库导入、减少重复并支持灵活、可重复的构建 acros</description>
-      <pubDate>Thu, 06 Nov 2025 23:34:56 +0000</pubDate>
+      <title>【October 2025 (version 1.106)】2025 年 10 月（版本 1.106）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/october-2025-(version-1.106)</link>
+      <description>【Learn what is new in the Visual Studio Code October 2025 Release (1.106). Read the full article】了解 Visual Studio Code 2025 年 10 月版 (1.106) 中的新增功能。阅读全文</description>
+      <pubDate>Wed, 12 Nov 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From Real-Time Analytics to AI: Your Azure Cosmos DB &amp; DocumentDB Agenda for Microsoft Ignite 2025】从实时分析到 AI：Microsoft Ignite 2025 年 Azure Cosmos DB 和 DocumentDB 议程</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmosdb-documentdb-agenda-microsoft-ignite-2025</link>
-      <description>【Microsoft Ignite 2025 is your opportunity to explore how Azure Cosmos DB, Cosmos DB in Microsoft Fabric, and DocumentDB power the next ge】Microsoft Ignite 2025 为您提供了探索 Azure Cosmos DB、Microsoft Fabric 中的 Cosmos DB 和 DocumentDB 如何为下一代提供动力的机会</description>
-      <pubDate>Thu, 06 Nov 2025 21:18:51 +0000</pubDate>
+      <title>【Non-recursively deleting a binary tree in constant space: Rotating the tree】非递归删除常量空间中的二叉树：旋转树</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251112-00/?p=111784</link>
+      <description>【Another algorithm for non-recursively deleting the nodes of a binary tree comes from boost. Reading library code is a bit cumbersome because library code tries to be generic, but if you unwind the traits classes, you ge】另一种非递归删除二叉树节点的算法来自 boost。阅读库代码有点麻烦，因为库代码试图通用，但如果您展开特征类，您就会得到</description>
+      <pubDate>Wed, 12 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Troubleshooting recent MIDI issues in Windows 11 (and Windows 10)】解决 Windows 11（和 Windows 10）中最近的 MIDI 问题</title>
-      <link>https://devblogs.microsoft.com/windows-music-dev/troubleshooting-recent-midi-issues-in-windows-11</link>
-      <description>【If you are on Windows 11 (or Windows 10 for the UAD issue) and recently had either of these two issues, please read on: You use a Universal Audio (UAD) device and found that all or most of your MIDI devices are no longer recognized in your DAW in Windows 11 or Windows 10 You have a new MIDI 2.0 (UMP Data Format – mo】如果您使用的是 Windows 11（或针对 UAD 问题的 Windows 10）并且最近遇到了这两个问题中的任何一个，请继续阅读：您使用通用音频 (UAD) 设备，发现所有或大部分 MIDI 设备在 Windows 11 或 Windows 10 中的 DAW 中不再被识别您有一个新的 MIDI 2.0（UMP 数据格式 – mo）</description>
-      <pubDate>Thu, 06 Nov 2025 21:13:58 +0000</pubDate>
+      <title>【Fall 2025 Windows Musician Technology and Arm64 Update】2025 年秋季 Windows Musician 技术和 Arm64 更新</title>
+      <link>https://devblogs.microsoft.com/windows-music-dev/fall-2025-windows-musician-technology-and-arm64-update</link>
+      <description>【It&#39;s no surprise that Arm64 PCs hit a sweet spot for music creation and live performance. They are thin and light, have excellent battery life (I used a Surface Laptop 7 at the entire NAMM show and never had to charge it despite giving presentations and demos), great screens, USB-4 ports that support Thunderbolt 3, and are super quiet. They】毫不奇怪，Arm64 PC 非常适合音乐创作和现场表演。它们轻薄、电池续航时间长（我在整个 NAMM 展会上使用了 Surface Laptop 7，尽管进行了演示和演示，但从未需要充电）、出色的屏幕、支持 Thunderbolt 3 的 USB-4 端口，并且超级安静。他们</description>
+      <pubDate>Wed, 12 Nov 2025 11:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>【Non-recursively deleting a binary tree in constant space: Synthesizing the parent pointer】非递归删除常量空间中的二叉树：合成父指针</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251106-00/?p=111771</link>
-      <description>【Last time, we looked at a way to delete a binary tree non-recursively, assuming that we had parent pointers. But nodes in a classical binary tree does not remember t】上次，我们研究了一种非递归删除二叉树的方法，假设我们有父指针。但经典二叉树中的节点不记得 t</description>
-      <pubDate>Thu, 06 Nov 2025 15:00:00 +0000</pubDate>
+      <title>【What’s New for C++ Developers in Visual Studio 2026 version 18.0】Visual Studio 2026 版本 18.0 中 C++ 开发人员的新增功能</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2026-version-18-0</link>
+      <description>【Get ready to level up your C++ productivity, because Visual Studio 2026 version 18.0 is now generally available! You can take advantage of the new features, bug fixes, and performance improvements in your production environment.】准备好提高您的 C++ 生产力吧，因为 Visual Studio 2026 版本 18.0 现已全面发布！您可以在生产环境中利用新功能、错误修复和性能改进。</description>
+      <pubDate>Tue, 11 Nov 2025 20:19:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Open Source AI Editor: Second Milestone】开源人工智能编辑器：第二个里程碑</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/open-source-ai-editor:-second-milestone</link>
-      <description>【Ghost text suggestions are now open source as part of the Copilot Chat extension - the second milestone in making VS Code an open source AI editor. Read the full article】Ghost 文本建议现已开源，作为 Copilot Chat 扩展的一部分 - 这是使 VS Code 成为开源 AI 编辑器的第二个里程碑。阅读全文</description>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <title>【Aspire 13 - Aspireify anything】Aspire 13 - 渴望一切</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire13</link>
+      <description>【Major release, major features Aspire 13 is here and it&#39;s - you guessed it - the biggest release yet. We are so excited to share the next major iteration of Aspire with you all, because it&#39;s packed with features that streamline the existing Aspire experience that you all know and love. From complete process overhauls like asp】主要版本、主要功能 Aspire 13 现已发布，您猜对了，它是迄今为止最大的版本。我们很高兴与大家分享 Aspire 的下一个主要版本，因为它包含了一些功能，可以简化你们都知道和喜爱的现有 Aspire 体验。从像asp这样的完整流程大修</description>
+      <pubDate>Tue, 11 Nov 2025 18:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

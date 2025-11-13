@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Tinder Decomposed Its iOS Monolith App Handling 70M Users】Tinder 如何分解其处理 7000 万用户的 iOS 整体应用程序</title>
+      <link>https://blog.bytebytego.com/p/how-tinder-decomposed-its-ios-monolith</link>
+      <description>【In Tinder&amp;#8217;s case, deep inter-dependencies between those targets stretched what engineers call the critical path, which is the longest chain of dependent tasks that determines how long a build takes.】在 Tinder 的例子中，这些目标之间的深层相互依赖性延伸了工程师所说的关键路径，这是决定构建需要多长时间的最长的依赖任务链。</description>
+      <pubDate>Wed, 12 Nov 2025 16:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Spotify Built Its Data Platform To Understand 1.4 Trillion Data Points】Spotify 如何构建其数据平台来理解 1.4 万亿个数据点</title>
+      <link>https://blog.bytebytego.com/p/how-spotify-built-its-data-platform</link>
+      <description>【This evolution happened organically as Spotify&amp;#8217;s products matured. With each new feature and business need, new data requirements emerged.】随着 Spotify 产品的成熟，这种演变自然发生。随着每一个新功能和业务需求的出现，新的数据需求也随之出现。</description>
+      <pubDate>Tue, 11 Nov 2025 16:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Built a Conversational AI Agent For Financial Analysis】Uber 如何构建用于财务分析的对话式人工智能代理</title>
+      <link>https://blog.bytebytego.com/p/how-uber-built-a-conversational-ai</link>
+      <description>【Finch is designed to bring financial intelligence directly into Slack, the communication platform already used by the company&amp;#8217;s teams.】Finch 旨在将金融情报直接引入 Slack（该公司团队已经使用的通信平台）。</description>
+      <pubDate>Mon, 10 Nov 2025 16:31:11 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP188: Servers You Should Know in Modern Systems】EP188：现代系统中您应该了解的服务器</title>
       <link>https://blog.bytebytego.com/p/ep188-servers-you-should-know-in</link>
       <description>【Servers You Should Know in Modern Systems】现代系统中您应该了解的服务器</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep187-10-key-data-structures-we-use</link>
       <description>【Over to you: Which additional data structures have we overlooked?】轮到你了：我们忽略了哪些额外的数据结构？</description>
       <pubDate>Sat, 01 Nov 2025 15:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【🚀 New Launch: Become an AI Engineer | Learn by Doing | Cohort 2!】🚀 新发布：成为人工智能工程师 |边做边学 |第 2 组！</title>
-      <link>https://blog.bytebytego.com/p/new-launch-become-an-ai-engineer</link>
-      <description>【After the incredible success of our first cohort (almost 500 people attended), we are thrilled to announce the launch of Cohort 2 of Become an AI Engineer!】在我们的第一个队列取得令人难以置信的成功（近 500 人参加）之后，我们很高兴地宣布推出成为人工智能工程师的第二个队列！</description>
-      <pubDate>Fri, 31 Oct 2025 15:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top Service-to-Service Communication Patterns】最重要的服务间通信模式</title>
-      <link>https://blog.bytebytego.com/p/top-service-to-service-communication</link>
-      <description>【In this article, we will look at the key service-to-service communication patterns along with their advantages and disadvantages.】在本文中，我们将研究关键的服务间通信模式及其优点和缺点。</description>
-      <pubDate>Thu, 30 Oct 2025 04:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What are AI Agents?】什么是人工智能代理？</title>
-      <link>https://blog.bytebytego.com/p/what-are-ai-agents</link>
-      <description>【In this article, we&amp;#8217;ll explore what AI agents really are, understand the key characteristics that define them, and examine the different types of agents ranging from simple to sophisticated.】在本文中，我们将探讨人工智能代理的真正含义，了解定义它们的关键特征，并研究从简单到复杂的不同类型的代理。</description>
-      <pubDate>Wed, 29 Oct 2025 15:30:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

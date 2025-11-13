@@ -4,21 +4,33 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Connecting to production: the architecture of remote bindings】连接到生产：远程绑定的架构</title>
+      <link>https://blog.cloudflare.com/connecting-to-production-the-architecture-of-remote-bindings/</link>
+      <description>【 Remote bindings allow you to connect your local Worker code to deployed Cloudflare resources like R2 and D1. Come along on the technical journey of how we built this feature to create a seamless local development experience. 】远程绑定允许您将本地 Worker 代码连接到已部署的 Cloudflare 资源（例如 R2 和 D1）。跟随我们的技术之旅，了解我们如何构建此功能以创建无缝的本地开发体验。</description>
+      <pubDate>Wed, 12 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A closer look at Python Workflows, now in beta】仔细研究 Python 工作流程，现在处于测试阶段</title>
+      <link>https://blog.cloudflare.com/python-workflows/</link>
+      <description>【 Cloudflare Workflows, our durable execution engine for running multi-step applications, now supports Python. That means less friction, more possibilities, and another reason to build on Cloudflare. 】Cloudflare Workflows 是我们用于运行多步骤应用程序的持久执行引擎，现在支持 Python。这意味着更少的摩擦、更多的可能性，也是在 Cloudflare 上构建的另一个原因。</description>
+      <pubDate>Mon, 10 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【DIY BYOIP: a new way to Bring Your Own IP prefixes to Cloudflare】DIY BYOIP：将您自己的 IP 前缀引入 Cloudflare 的新方法</title>
       <link>https://blog.cloudflare.com/diy-byoip/</link>
       <description>【 Announcing a new self-serve API for Bring Your Own IP (BYOIP), giving customers unprecedented control and flexibility to onboard, manage, and use their own IP prefixes with Cloudflare&#39;s services. 】宣布推出用于自带 IP (BYOIP) 的新自助服务 API，为客户提供前所未有的控制力和灵活性，让他们能够通过 Cloudflare 的服务加入、管理和使用自己的 IP 前缀。</description>
       <pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Extract audio from your videos with Cloudflare Stream】使用 Cloudflare Stream 从视频中提取音频</title>
-      <link>https://blog.cloudflare.com/extract-audio-from-your-videos-with-cloudflare-stream/</link>
-      <description>【 Cloudflare Stream provides a unified platform for video storage, encoding, and delivery. We are now enabling developers to seamlessly extract audio from videos. 】Cloudflare Stream 提供了一个用于视频存储、编码和传输的统一平台。我们现在使开发人员能够从视频中无缝提取音频。</description>
-      <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Async QUIC and HTTP/3 made easy: tokio-quiche is now open-source】异步 QUIC 和 HTTP/3 变得简单：tokio-quiche 现已开源</title>
       <link>https://blog.cloudflare.com/async-quic-and-http-3-made-easy-tokio-quiche-is-now-open-source/</link>
       <description>【 We’re excited to announce the open sourcing of tokio-quiche, our async QUIC library built on quiche and tokio. Relied upon in our services such as iCloud Private Relay and our next-generation Oxy-based proxies, tokio-quiche handles millions of HTTP/3 requests per second with low latency and high throughput.  】我们很高兴地宣布 tokio-quiche 开源，这是我们基于 quiche 和 tokio 构建的异步 QUIC 库。依赖于我们的 iCloud Private Relay 和下一代基于 Oxy 的代理等服务，tokio-quiche 每秒可处理数百万个 HTTP/3 请求，并且具有低延迟和高吞吐量。</description>
+      <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Extract audio from your videos with Cloudflare Stream】使用 Cloudflare Stream 从视频中提取音频</title>
+      <link>https://blog.cloudflare.com/extract-audio-from-your-videos-with-cloudflare-stream/</link>
+      <description>【 Cloudflare Stream provides a unified platform for video storage, encoding, and delivery. We are now enabling developers to seamlessly extract audio from videos. 】Cloudflare Stream 提供了一个用于视频存储、编码和传输的统一平台。我们现在使开发人员能够从视频中无缝提取音频。</description>
       <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/go-and-enhance-your-calm/</link>
       <description>【 HTTP/2 implementations often respond to suspected attacks by closing the connection with an ENHANCE_YOUR_CALM error code. Learn how a common pattern of using Go&#39;s HTTP/2 client can lead to unintended errors and the solution to avoiding them. 】HTTP/2 实现通常通过使用 ENHANCE_YOUR_CALM 错误代码关闭连接来响应可疑的攻击。了解使用 Go 的 HTTP/2 客户端的常见模式如何导致意外错误以及避免这些错误的解决方案。</description>
       <pubDate>Fri, 31 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Beyond IP lists: a registry format for bots and agents】超越 IP 列表：机器人和代理的注册表格式</title>
-      <link>https://blog.cloudflare.com/agent-registry/</link>
-      <description>【 We propose an open registry format for Web Bot Auth to move beyond IP-based identity. This allows any origin to discover and verify cryptographic keys for bots, fostering a decentralized and more trustworthy ecosystem. 】我们为 Web Bot Auth 提出了一种开放的注册表格式，以超越基于 IP 的身份。这使得任何来源都可以发现和验证机器人的加密密钥，从而培育一个去中心化且更值得信赖的生态系统。</description>
-      <pubDate>Thu, 30 Oct 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Anonymous credentials: rate-limiting bots and agents without compromising privacy】匿名凭证：在不损害隐私的情况下限制机器人和代理的速率</title>
-      <link>https://blog.cloudflare.com/private-rate-limiting/</link>
-      <description>【 As AI agents change how the Internet is used, they create a challenge for security. We explore how Anonymous Credentials can rate limit agent traffic and block abuse without tracking users or compromising their privacy. 】随着人工智能代理改变互联网的使用方式，它们给安全带来了挑战。我们探讨匿名凭证如何在不跟踪用户或损害其隐私的情况下限制代理流量并阻止滥用。</description>
-      <pubDate>Thu, 30 Oct 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
