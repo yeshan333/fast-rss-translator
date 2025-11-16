@@ -4,16 +4,52 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions】Azure AI Foundry 会议指南 @ Microsoft Ignite：必看的开发人员会议</title>
-      <link>https://devblogs.microsoft.com/foundry/ignitedevsessions</link>
-      <description>【Microsoft Ignite 2025 is the ultimate opportunity for developers to dive deep into what’s new with Azure AI Foundry. We curated the top sessions designed for hands-on learning, practical demos, and expert insights. Whether you’re】Microsoft Ignite 2025 是开发人员深入了解 Azure AI Foundry 新增功能的绝佳机会。我们策划了专为实践学习、实际演示和专家见解而设计的顶级会议。无论你是</description>
-      <pubDate>Wed, 12 Nov 2025 20:00:12 +0000</pubDate>
+      <title>【I can use &lt;CODE&gt;WM_&lt;WBR&gt;COPY&lt;WBR&gt;DATA&lt;/CODE&gt; to send a block of data to another window, but how does it send data back?】我可以使用 &lt;CODE&gt;WM_&lt;WBR&gt;COPY&lt;WBR&gt;DATA&lt;/CODE&gt; 将数据块发送到另一个窗口，但它如何将数据发送回？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251114-00/?p=111792</link>
+      <description>【The WM_COPY­DATA message can be used to send a blob of data from one window to another. The window manager does the work of copying the data from the sending process to the receiving process, but how does the receiving process send data back? If the only information that needs to come back is a success/failure,】WM_COPYDATA 消息可用于将大量数据从一个窗口发送到另一个窗口。窗口管理器所做的工作就是将数据从发送进程复制到接收进程，但是接收进程如何将数据发送回来呢？如果唯一需要返回的信息是成功/失败，</description>
+      <pubDate>Fri, 14 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Copilot auto model selection (preview)】Copilot 自动模型选择简介（预览版）</title>
-      <link>https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview</link>
-      <description>【Faster responses, a lower chance of rate limiting, and 10% off premium requests for paid users - auto picks the best available model for each request based on current capacity and performance. With auto, you don&#39;t need to choose a specific model. Copilot automatical】更快的响应、更低的速率限制机会以及付费用户 10% 的高级请求折扣 - 根据当前容量和性能自动为每个请求选择最佳可用模型。使用汽车，您无需选择特定型号。副驾驶自动</description>
-      <pubDate>Wed, 12 Nov 2025 17:38:43 +0000</pubDate>
+      <title>【Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows】Azure MCP 服务器现已内置于 Visual Studio 2026：代理工作流的新时代</title>
+      <link>https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows</link>
+      <description>【Managing cloud resources often means juggling multiple tools, writing custom scripts, and switching contexts between your IDE and cloud management portals. These extra steps slow development and make it harder to build intelligent, secure applications efficiently. We’re excited to announce that】管理云资源通常意味着使用多种工具、编写自定义脚本以及在 IDE 和云管理门户之间切换上下文。这些额外的步骤会减慢开发速度，并使高效构建智能、安全的应用程序变得更加困难。我们很高兴地宣布</description>
+      <pubDate>Fri, 14 Nov 2025 14:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Tutorial Videos: Setting up GitHub Copilot for your Company】教程视频：为您的公司设置 GitHub Copilot</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/tutorial-videos-setting-up-github-copilot-for-your-company</link>
+      <description>【This guide shares a series of videos that walk you through setting up GitHub and GitHub Copilot end-to-end for your company. These are especially useful for organizations starting from scratch who want to leverage GitHub Copilot and are looking to get started. These videos were recorded as of October 2025.】本指南分享了一系列视频，引导您为您的公司完成端到端设置 GitHub 和 GitHub Copilot。这些对于从头开始、想要利用 GitHub Copilot 并希望开始使用的组织特别有用。这些视频是截至 2025 年 10 月录制的。</description>
+      <pubDate>Fri, 14 Nov 2025 11:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【OpenAPI.NET: The Biggest Update Ever】OpenAPI.NET：有史以来最大的更新</title>
+      <link>https://devblogs.microsoft.com/openapi/openapi-net-release-announcements</link>
+      <description>【Announcing the Biggest Update Ever: OpenAPI.NET v2 &amp;amp; v3 We are excited to announce two major releases of the OpenAPI.NET library—the most significant update since its launch in 2018. These updates ensure developers can build and document modern, interoperable APIs with the latest OpenAPI specifications.】宣布有史以来最大的更新：OpenAPI.NET v2 和 v3 我们很高兴地宣布 OpenAPI.NET 库的两个主要版本，这是自 2018 年推出以来最重要的更新。这些更新确保开发人员可以使用最新的 OpenAPI 规范构建和记录现代的、可互操作的 API。</description>
+      <pubDate>Thu, 13 Nov 2025 20:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python in Visual Studio Code - November 2025 Release】Visual Studio Code 中的 Python - 2025 年 11 月发布</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2025-release</link>
+      <description>【We&#39;re excited to announce that the November 2025 release of the Python extension for Visual Studio Code is now available! This release includes the following announcements: Add Copilot Hover Summaries as docstring Localized Copilot Ho】我们很高兴地宣布，2025 年 11 月发布的 Visual Studio Code Python 扩展现已推出！此版本包括以下公告： 添加 Copilot 悬停摘要作为文档字符串 本地化的 Copilot Ho</description>
+      <pubDate>Thu, 13 Nov 2025 18:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A first look at the all‑new UX in Visual Studio 2026】抢先一睹 Visual Studio 2026 中的全新 UX</title>
+      <link>https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026</link>
+      <description>【Visual Studio 2026 introduces a refreshed user experience, thoughtfully crafted for clarity, accessibility, and a clean interface that feels right at home on Windows. This update is the result of extensive collaboration with developers and incorporates valuable feedback from the community. We’ve improved typography, iconography, and the over】Visual Studio 2026 引入了全新的用户体验，经过精心设计，清晰度、可访问性和干净的界面在 Windows 上感觉就像在家里一样。此更新是与开发人员广泛合作的结果，并纳入了社区的宝贵反馈。我们改进了版式、图像等等</description>
+      <pubDate>Thu, 13 Nov 2025 15:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Could we use CTAD to simplify the use of WRL&#39;s Callback function?】我们是否可以使用CTAD来简化WRL的Callback函数的使用？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251113-00/?p=111787</link>
+      <description>【Commenter Bwmat asked, &#34;Can CTAD avoid the need for the lengthy type name in the last example?&#34; This was in response to the rather lengthy type in the explicit specialization void MyClass::RegisterCompletion(ABI::IAsy】评论者 Bwmat 问道：“CTAD 能否避免上一个示例中使用冗长的类型名称？”这是为了响应显式专业化 void MyClass::RegisterCompletion(ABI::IAsy</description>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Ensuring Seamless User Experience in Modernization Projects with AI‑Generated Stagehand and Playwright UI Tests】通过人工智能生成的舞台工作人员和剧作家 UI 测试确保现代化项目中的无缝用户体验</title>
+      <link>https://devblogs.microsoft.com/ise/app-modernization-llm-driven-ui-tests-hve</link>
+      <description>【When modernizing legacy systems, the user interface often becomes the make-or-break factor for project success. While backend improvements matter, users interact with the frontend and that&#39;s where trust is built or broken. Using AI‑generated tools like Stagehand with Microsoft&#39;s Playwright helps ensure a smooth user experience during moderni】在对遗留系统进行现代化改造时，用户界面通常成为项目成功与否的决定因素。虽然后端改进很重要，但用户与前端交互是建立或破坏信任的地方。将 Stagehand 等人工智能生成的工具与 Microsoft 的 Playwright 结合使用，有助于确保现代剧中流畅的用户体验</description>
+      <pubDate>Thu, 13 Nov 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Perform wide-sweeping refactors using C++ code editing tools for GitHub Copilot】使用 GitHub Copilot 的 C++ 代码编辑工具执行广泛的重构</title>
@@ -26,42 +62,6 @@
       <link>https://devblogs.microsoft.com/cppblog/optimize-your-c-build-times-with-github-copilot</link>
       <description>【Long build times are one of the top pain points for C++ projects. If you’ve ever waited too long for a C++ build to finish, you know how much it can slow down your productivity. In past years, we introduced C++ Build Insights to help you analyze traces and find bottlenecks. However, we know that】构建时间长是 C++ 项目的最大痛点之一。如果您曾经等待 C++ 构建完成太长时间，您就会知道它会降低您的工作效率。在过去几年中，我们引入了 C++ Build Insights 来帮助您分析跟踪并查找瓶颈。然而，我们知道</description>
       <pubDate>Wed, 12 Nov 2025 17:12:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fix build issues using GitHub Copilot after upgrading MSVC Build Tools】升级 MSVC 构建工具后使用 GitHub Copilot 修复构建问题</title>
-      <link>https://devblogs.microsoft.com/cppblog/app-modernization-cpp-private-preview</link>
-      <description>【[cta-button text=&#34;Sign up for the Private Preview waitlist&#34; url=&#34;https://www.surveymonkey.com/r/C2S6NV3&#34; color=&#34;btn-primary&#34; align=&#34;center&#34;] A few problems have reared their heads at every company where I’ve worked on C++ as a Software Engineer over the past 20 years. For the most part, those problems have nothing to do with the language】[cta-button text=&#34;Sign up for the Private Preview waitlist&#34; url=&#34;https://www.surveymonkey.com/r/C2S6NV3&#34; color=&#34;btn-primary&#34;align=&#34;center&#34;] 在过去 20 年里，我作为软件工程师从事 C++ 工作的每一家公司都出现了一些问题。大多数情况下，这些问题与语言无关</description>
-      <pubDate>Wed, 12 Nov 2025 17:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【October 2025 (version 1.106)】2025 年 10 月（版本 1.106）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/october-2025-(version-1.106)</link>
-      <description>【Learn what is new in the Visual Studio Code October 2025 Release (1.106). Read the full article】了解 Visual Studio Code 2025 年 10 月版 (1.106) 中的新增功能。阅读全文</description>
-      <pubDate>Wed, 12 Nov 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Non-recursively deleting a binary tree in constant space: Rotating the tree】非递归删除常量空间中的二叉树：旋转树</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251112-00/?p=111784</link>
-      <description>【Another algorithm for non-recursively deleting the nodes of a binary tree comes from boost. Reading library code is a bit cumbersome because library code tries to be generic, but if you unwind the traits classes, you ge】另一种非递归删除二叉树节点的算法来自 boost。阅读库代码有点麻烦，因为库代码试图通用，但如果您展开特征类，您就会得到</description>
-      <pubDate>Wed, 12 Nov 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fall 2025 Windows Musician Technology and Arm64 Update】2025 年秋季 Windows Musician 技术和 Arm64 更新</title>
-      <link>https://devblogs.microsoft.com/windows-music-dev/fall-2025-windows-musician-technology-and-arm64-update</link>
-      <description>【It&#39;s no surprise that Arm64 PCs hit a sweet spot for music creation and live performance. They are thin and light, have excellent battery life (I used a Surface Laptop 7 at the entire NAMM show and never had to charge it despite giving presentations and demos), great screens, USB-4 ports that support Thunderbolt 3, and are super quiet. They】毫不奇怪，Arm64 PC 非常适合音乐创作和现场表演。它们轻薄、电池续航时间长（我在整个 NAMM 展会上使用了 Surface Laptop 7，尽管进行了演示和演示，但从未需要充电）、出色的屏幕、支持 Thunderbolt 3 的 USB-4 端口，并且超级安静。他们</description>
-      <pubDate>Wed, 12 Nov 2025 11:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s New for C++ Developers in Visual Studio 2026 version 18.0】Visual Studio 2026 版本 18.0 中 C++ 开发人员的新增功能</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2026-version-18-0</link>
-      <description>【Get ready to level up your C++ productivity, because Visual Studio 2026 version 18.0 is now generally available! You can take advantage of the new features, bug fixes, and performance improvements in your production environment.】准备好提高您的 C++ 生产力吧，因为 Visual Studio 2026 版本 18.0 现已全面发布！您可以在生产环境中利用新功能、错误修复和性能改进。</description>
-      <pubDate>Tue, 11 Nov 2025 20:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Aspire 13 - Aspireify anything】Aspire 13 - 渴望一切</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire13</link>
-      <description>【Major release, major features Aspire 13 is here and it&#39;s - you guessed it - the biggest release yet. We are so excited to share the next major iteration of Aspire with you all, because it&#39;s packed with features that streamline the existing Aspire experience that you all know and love. From complete process overhauls like asp】主要版本、主要功能 Aspire 13 现已发布，您猜对了，它是迄今为止最大的版本。我们很高兴与大家分享 Aspire 的下一个主要版本，因为它包含了一些功能，可以简化你们都知道和喜爱的现有 Aspire 体验。从像asp这样的完整流程大修</description>
-      <pubDate>Tue, 11 Nov 2025 18:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

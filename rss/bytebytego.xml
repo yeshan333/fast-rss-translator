@@ -5,9 +5,21 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP189: How to Design Good APIs】EP189：如何设计好的 API</title>
+      <link>https://blog.bytebytego.com/p/ep189-how-to-design-good-apis</link>
+      <description>【A well-designed API feels invisible, it just works. Behind that simplicity lies a set of consistent design principles that make APIs predictable, secure, and scalable.】设计良好的 API 让人感觉看不见，但它确实有效。这种简单性背后隐藏着一组一致的设计原则，使 API 具有可预测性、安全性和可扩展性。</description>
+      <pubDate>Sat, 15 Nov 2025 16:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Scalability Patterns for Modern Distributed Systems】现代分布式系统的可扩展性模式</title>
+      <link>https://blog.bytebytego.com/p/scalability-patterns-for-modern-distributed</link>
+      <description>【In this article, we will look at the top scalability patterns and their pros and cons.】在本文中，我们将了解最重要的可扩展性模式及其优缺点。</description>
+      <pubDate>Thu, 13 Nov 2025 16:30:22 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Tinder Decomposed Its iOS Monolith App Handling 70M Users】Tinder 如何分解其处理 7000 万用户的 iOS 整体应用程序</title>
       <link>https://blog.bytebytego.com/p/how-tinder-decomposed-its-ios-monolith</link>
-      <description>【In Tinder&amp;#8217;s case, deep inter-dependencies between those targets stretched what engineers call the critical path, which is the longest chain of dependent tasks that determines how long a build takes.】在 Tinder 的例子中，这些目标之间的深层相互依赖性延伸了工程师所说的关键路径，这是决定构建需要多长时间的最长的依赖任务链。</description>
+      <description>【In Tinder&amp;#8217;s case, deep inter-dependencies between those targets stretched what engineers call the critical path, which is the longest chain of dependent tasks that determines how long a build takes.】在 Tinder 的案例中，这些目标之间的深层相互依赖性延伸了工程师所说的关键路径，这是决定构建需要多长时间的最长的依赖任务链。</description>
       <pubDate>Wed, 12 Nov 2025 16:30:47 +0000</pubDate>
     </item>
     <item>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-datadog-built-a-custom-database</link>
       <description>【This article analyzes the technical decisions and clever optimizations behind the database.】本文分析了数据库背后的技术决策和巧妙的优化。</description>
       <pubDate>Tue, 04 Nov 2025 15:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Perplexity Built an AI Google】Perplexity 如何打造人工智能 Google</title>
-      <link>https://blog.bytebytego.com/p/how-perplexity-built-an-ai-google</link>
-      <description>【In a decisive move, Perplexity abandoned four months of work on their original project to focus entirely on the challenge of building a true answer engine for the web.】作为一个决定性的举措，Perplexity 放弃了四个月的原始项目工作，完全专注于为网络构建真正的答案引擎的挑战。</description>
-      <pubDate>Mon, 03 Nov 2025 16:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP187: Why is DeepSeek-OCR such a BIG DEAL?】EP187：为什么 DeepSeek-OCR 如此重要？</title>
-      <link>https://blog.bytebytego.com/p/ep187-10-key-data-structures-we-use</link>
-      <description>【Over to you: Which additional data structures have we overlooked?】轮到你了：我们忽略了哪些额外的数据结构？</description>
-      <pubDate>Sat, 01 Nov 2025 15:30:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

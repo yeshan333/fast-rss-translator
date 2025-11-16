@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【I Studied How Top 0.1% Engineering Teams Do Code Reviews】我研究了顶尖 0.1% 的工程团队如何进行代码审查</title>
+      <link>https://newsletter.systemdesign.one/p/code-review-best-practices</link>
+      <description>【#100: Here Is What I Learned&amp;#8230;】＃100：这是我学到的……</description>
+      <pubDate>Sat, 15 Nov 2025 09:35:39 +0000</pubDate>
+    </item>
+    <item>
       <title>【21 Frontend System Design Concepts for Software Engineers】软件工程师的 21 个前端系统设计概念</title>
       <link>https://newsletter.systemdesign.one/p/frontend-system-design</link>
       <description>【#99: A practical guide to building fast, scalable, and reliable web apps】#99：构建快速、可扩展且可靠的 Web 应用程序的实用指南</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/how-kafka-works</link>
       <description>【#91: Learn Everything About Apache Kafka&amp;#8217;s Architecture, Including Brokers, KRaft, Topic Partitions, Tiered Storage, Exactly Once, Kafka Connect, Kafka Schema Registry and Kafka Streams】#91：了解有关 Apache Kafka 架构的所有内容，包括代理、KRaft、主题分区、分层存储、Exactly Once、Kafka Connect、Kafka Schema 注册表和 Kafka Streams</description>
       <pubDate>Thu, 25 Sep 2025 11:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【5 Rate Limiting Strategies Explained, Simply 🚦】5 种速率限制策略简单解释🚦</title>
-      <link>https://newsletter.systemdesign.one/p/rate-limiting</link>
-      <description>【#90: Break Into Rate Limiting (5 Minutes)】#90：突破速率限制（5 分钟）</description>
-      <pubDate>Fri, 19 Sep 2025 18:20:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
