@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Cloudflare outage on November 18, 2025】Cloudflare 于 2025 年 11 月 18 日中断</title>
+      <link>https://blog.cloudflare.com/18-november-2025-outage/</link>
+      <description>【 Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected. &#xA; 】Cloudflare 于 2025 年 11 月 18 日发生服务中断。此次中断是由机器人管理功能文件的生成逻辑错误引发的，导致许多 Clo​​udflare 服务受到影响。</description>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Replicate is joining Cloudflare】Replicate 正在加入 Cloudflare</title>
+      <link>https://blog.cloudflare.com/replicate-joins-cloudflare/</link>
+      <description>【 Bringing Replicate’s tools into Cloudflare will continue to make our Workers Platform the best place on the Internet to build and deploy any AI or agentic workflow.&#xA; 】将 Replicate 的工具引入 Cloudflare 将继续使我们的 Workers Platform 成为互联网上构建和部署任何 AI 或代理工作流程的最佳场所。</description>
+      <pubDate>Mon, 17 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Finding the grain of sand in a heap of Salt】在盐堆中寻找沙粒</title>
+      <link>https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/</link>
+      <description>【 We explore the fundamentals of Saltstack and how we use it at Cloudflare. We also explain how we built the infrastructure to reduce release delays due to Salt failures on the edge by over 5%.  】我们探索 Saltstack 的基础知识以及如何在 Cloudflare 中使用它。我们还解释了我们如何构建基础设施，以将由于边缘 Salt 故障而导致的发布延迟减少 5% 以上。</description>
+      <pubDate>Thu, 13 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Connecting to production: the architecture of remote bindings】连接到生产：远程绑定的架构</title>
       <link>https://blog.cloudflare.com/connecting-to-production-the-architecture-of-remote-bindings/</link>
       <description>【 Remote bindings allow you to connect your local Worker code to deployed Cloudflare resources like R2 and D1. Come along on the technical journey of how we built this feature to create a seamless local development experience. 】远程绑定允许您将本地 Worker 代码连接到已部署的 Cloudflare 资源（例如 R2 和 D1）。跟随我们的技术之旅，了解我们如何构建此功能以创建无缝的本地开发体验。</description>
@@ -22,15 +40,15 @@
       <pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Extract audio from your videos with Cloudflare Stream】使用 Cloudflare Stream 从视频中提取音频</title>
-      <link>https://blog.cloudflare.com/extract-audio-from-your-videos-with-cloudflare-stream/</link>
-      <description>【 Cloudflare Stream provides a unified platform for video storage, encoding, and delivery. We are now enabling developers to seamlessly extract audio from videos. 】Cloudflare Stream 提供了一个用于视频存储、编码和传输的统一平台。我们现在使开发人员能够从视频中无缝提取音频。</description>
-      <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Async QUIC and HTTP/3 made easy: tokio-quiche is now open-source】异步 QUIC 和 HTTP/3 变得简单：tokio-quiche 现已开源</title>
       <link>https://blog.cloudflare.com/async-quic-and-http-3-made-easy-tokio-quiche-is-now-open-source/</link>
       <description>【 We’re excited to announce the open sourcing of tokio-quiche, our async QUIC library built on quiche and tokio. Relied upon in our services such as iCloud Private Relay and our next-generation Oxy-based proxies, tokio-quiche handles millions of HTTP/3 requests per second with low latency and high throughput.  】我们很高兴地宣布 tokio-quiche 开源，这是我们基于 quiche 和 tokio 构建的异步 QUIC 库。依赖于我们的 iCloud Private Relay 和下一代基于 Oxy 的代理等服务，tokio-quiche 每秒可处理数百万个 HTTP/3 请求，并且具有低延迟和高吞吐量。</description>
+      <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Extract audio from your videos with Cloudflare Stream】使用 Cloudflare Stream 从视频中提取音频</title>
+      <link>https://blog.cloudflare.com/extract-audio-from-your-videos-with-cloudflare-stream/</link>
+      <description>【 Cloudflare Stream provides a unified platform for video storage, encoding, and delivery. We are now enabling developers to seamlessly extract audio from videos. 】Cloudflare Stream 提供了一个用于视频存储、编码和传输的统一平台。我们现在使开发人员能够从视频中无缝提取音频。</description>
       <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/better-testing-for-workflows/</link>
       <description>【 End-to-end testing for Cloudflare Workflows was challenging. We&#39;re introducing first-class support for Workflows in cloudflare:test, enabling full introspection, mocking, and isolated, reliable tests for your most complex applications. 】Cloudflare Workflows 的端到端测试具有挑战性。我们在 cloudflare:test 中引入了对工作流程的一流支持，为您最复杂的应用程序提供全面的内省、模拟和独立、可靠的测试。</description>
       <pubDate>Tue, 04 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fresh insights from old data: corroborating reports of Turkmenistan IP unblocking and firewall testing】旧数据的新见解：证实土库曼斯坦 IP 解锁和防火墙测试的报告</title>
-      <link>https://blog.cloudflare.com/fresh-insights-from-old-data-corroborating-reports-of-turkmenistan-ip/</link>
-      <description>【 Cloudflare used historical data to investigate reports of potential new firewall tests in Turkmenistan. Shifts in TCP resets/timeouts across ASNs corroborate large-scale network control system changes.&#xA; 】Cloudflare 使用历史数据来调查土库曼斯坦潜在的新防火墙测试报告。 ASN 中 TCP 重置/超时的变化证实了大规模网络控制系统的变化。</description>
-      <pubDate>Mon, 03 Nov 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【BGP zombies and excessive path hunting】BGP 僵尸和过度路径搜索</title>
-      <link>https://blog.cloudflare.com/going-bgp-zombie-hunting/</link>
-      <description>【 A BGP “zombie” is essentially a route that has become stuck in the Default-Free Zone (DFZ) of the Internet, potentially due to a missed or lost prefix withdrawal. We’ll walk through some situations where BGP zombies are more likely to rise from the dead and wreak havoc.&#xA; 】BGP“僵尸”本质上是一条被困在互联网默认自由区 (DFZ) 中的路由，可能是由于错过或丢失了前缀撤销而导致的。我们将介绍一些 BGP 僵尸更有可能起死回生并造成严重破坏的情况。</description>
-      <pubDate>Fri, 31 Oct 2025 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go and enhance your calm: demolishing an HTTP/2 interop problem】去增强你的冷静：解决 HTTP/2 互操作问题</title>
-      <link>https://blog.cloudflare.com/go-and-enhance-your-calm/</link>
-      <description>【 HTTP/2 implementations often respond to suspected attacks by closing the connection with an ENHANCE_YOUR_CALM error code. Learn how a common pattern of using Go&#39;s HTTP/2 client can lead to unintended errors and the solution to avoiding them. 】HTTP/2 实现通常通过使用 ENHANCE_YOUR_CALM 错误代码关闭连接来响应可疑的攻击。了解使用 Go 的 HTTP/2 客户端的常见模式如何导致意外错误以及避免这些错误的解决方案。</description>
-      <pubDate>Fri, 31 Oct 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

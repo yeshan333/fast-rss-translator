@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Reliability lessons from the 2025 Microsoft Azure Front Door outage】2025 年 Microsoft Azure Front Door 故障带来的可靠性教训</title>
+      <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-microsoft-azure-front-door-outage</link>
+      <description>【In October 2025, Microsoft Azure Front Door and Content Delivery Network suffered a global outage. Find out what your team can do to minimize the impact of similar outages in the future.】2025 年 10 月，Microsoft Azure Front Door 和内容交付网络遭遇全球中断。了解您的团队可以采取哪些措施来最大程度地减少未来类似中断的影响。</description>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Gremlin’s unofficial Microsoft Ignite 2025 reliability track】Gremlin 的非官方 Microsoft Ignite 2025 可靠性跟踪</title>
       <link>https://www.gremlin.com/blog/gremlins-unofficial-microsoft-ignite-2025-reliability-track</link>
       <description>【Check out the Gremlin-curated unofficial track of reliability talks at Microsoft Ignite 2025.】查看 Gremlin 在 Microsoft Ignite 2025 上策划的非官方可靠性会谈。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/fix-issues-faster-with-recommended-remediations</link>
       <description>【Recommended Remediation speeds up teams with tailored suggestions to help you address reliability risks before they cause failures.】建议的补救措施通过量身定制的建议加快团队速度，帮助您在可靠性风险导致故障之前解决它们。</description>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Experiment Analysis uncovers the cause behind failures】实验分析如何揭示失败背后的原因</title>
-      <link>https://www.gremlin.com/blog/how-experiment-analysis-uncovers-the-cause-behind-failures</link>
-      <description>【Using knowledge of your data and your systems, Experiment Analysis connects the cause with the effect to help you pinpoint the root problem faster.】利用您的数据和系统知识，实验分析将原因与结果联系起来，帮助您更快地查明根本问题。</description>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

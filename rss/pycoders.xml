@@ -5,6 +5,12 @@
     <description></description>
     <managingEditor> (PyCoder’s Weekly)</managingEditor>
     <item>
+      <title>【Issue #709: deepcopy(), JIT, REPL Tricks, and More (Nov. 18, 2025)】问题 #709：deepcopy()、JIT、REPL 技巧等（2025 年 11 月 18 日）</title>
+      <link>https://pycoders.com/issues/709</link>
+      <description>【】</description>
+      <pubDate>Tue, 18 Nov 2025 19:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Issue #708: Debugging Live Code, NiceGUI, Textual, and More (Nov. 11, 2025)】问题 #708：调试实时代码、NiceGUI、文本等（2025 年 11 月 11 日）</title>
       <link>https://pycoders.com/issues/708</link>
       <description>【】</description>
@@ -15,12 +21,6 @@
       <link>https://pycoders.com/issues/707</link>
       <description>【】</description>
       <pubDate>Tue, 04 Nov 2025 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Issue #706: Quasars, Faking Data, GIL-free Web, and More (Oct. 28, 2025)】问题 #706：类星体、伪造数据、无 GIL 的网络等（2025 年 10 月 28 日）</title>
-      <link>https://pycoders.com/issues/706</link>
-      <description>【】</description>
-      <pubDate>Tue, 28 Oct 2025 19:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
