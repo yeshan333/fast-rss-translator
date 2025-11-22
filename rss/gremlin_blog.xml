@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Reliability lessons from the 2025 Cloudflare outage】2025 年 Cloudflare 中断带来的可靠性教训</title>
+      <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-cloudflare-outage</link>
+      <description>【In November 2025, a misconfigured Cloudflare service led to a partial outage. Learn what happened, and what you can do to reduce the impact of similar outages.】2025 年 11 月，Cloudflare 服务配置错误导致部分中断。了解发生了什么，以及您可以采取哪些措施来减少类似中断的影响。</description>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Reliability lessons from the 2025 Microsoft Azure Front Door outage】2025 年 Microsoft Azure Front Door 故障带来的可靠性教训</title>
       <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-microsoft-azure-front-door-outage</link>
       <description>【In October 2025, Microsoft Azure Front Door and Content Delivery Network suffered a global outage. Find out what your team can do to minimize the impact of similar outages in the future.】2025 年 10 月，Microsoft Azure Front Door 和内容交付网络遭遇全球中断。了解您的团队可以采取哪些措施来最大程度地减少未来类似中断的影响。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/how-to-get-fast-easy-insights-with-the-gremlin-mcp-server</link>
       <description>【Find out how to quickly and easily uncover new reliability insights by using the Gremlin MCP Server and your favorite LLM.】了解如何使用 Gremlin MCP 服务器和您最喜欢的法学硕士快速轻松地发现新的可靠性见解。</description>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fix issues faster with Recommended Remediations】使用建议的补救措施更快地解决问题</title>
-      <link>https://www.gremlin.com/blog/fix-issues-faster-with-recommended-remediations</link>
-      <description>【Recommended Remediation speeds up teams with tailored suggestions to help you address reliability risks before they cause failures.】建议的补救措施通过量身定制的建议加快团队速度，帮助您在可靠性风险导致故障之前解决它们。</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

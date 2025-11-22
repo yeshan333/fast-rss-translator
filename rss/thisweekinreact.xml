@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools, React Grab, Base UI, Waku, StyleX | Yoga CSS Grid, Radon, Brownfield, Detox, Bootsplash | TC39, Browserslist, Linters, Prisma】本周 React #259：React 状态、Promise 子类、Next.js、RSC、JSX 工具、React Grab、Base UI、Waku、StyleX | Yoga CSS Grid、Radon、Brownfield、Detox、Bootsplash | TC39、浏览器列表、Linter、Prisma</title>
+      <link>https://thisweekinreact.com/newsletter/259</link>
+      <description>【Hi everyone, Seb here\! 👋】大家好，这里是Seb\！ 👋</description>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #258: TanStack, Next.js, ImGui, next-intl, React-Email, Ink, React Router | Valdi, IntersectionObserver, Nitro, Radon, Lynx, WebGPU, Audio | TC39, Node, Web Animations, TypeScript, pnpm】本周 React #258：TanStack、Next.js、ImGui、next-intl、React-Email、Ink、React Router | Valdi、IntersectionObserver、Nitro、Radon、Lynx、WebGPU、音频 | TC39、节点、网页动画、TypeScript、pnpm</title>
       <link>https://thisweekinreact.com/newsletter/258</link>
       <description>【Hi everyone, Seb here\! 👋】大家好，这里是Seb\！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/255</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #254: Next.js, Remix, Compiler, Async React, TanStack, Cloudflare, Hook Form, Conform | VirtualView, DevTools, Screens, Radon, Harness, Audio API, Uniwind, Nitro | Bun, Oxlint, Vite, View Transitions】本周 React #254：Next.js、Remix、编译器、Async React、TanStack、Cloudflare、Hook Form、Conform | VirtualView、DevTools、屏幕、Radon、Harness、音频 API、Uniwind、Nitro | Bun、Oxlint、Vite、视图过渡</title>
-      <link>https://thisweekinreact.com/newsletter/254</link>
-      <description>【Hi everyone\! Krzysztof and Kacper from Software Mansion here\! 👋】大家好\！ Software Mansion 的 Krzysztof 和 Kacper 在这里\！ 👋</description>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

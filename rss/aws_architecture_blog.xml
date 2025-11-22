@@ -4,6 +4,30 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>使用 Amazon API Gateway 构建通往 Amazon Bedrock 的 AI 网关</title>
+      <link>https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/</link>
+      <description></description>
+      <pubDate>Wed, 19 Nov 2025 23:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>卓越 AI 架构：AWS 在 re:Invent 2025 上推出三款架构完善的镜头</title>
+      <link>https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/</link>
+      <description></description>
+      <pubDate>Wed, 19 Nov 2025 19:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>宣布更新的 AWS Well-Architected Generative AI Lens</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-generative-ai-lens/</link>
+      <description></description>
+      <pubDate>Wed, 19 Nov 2025 19:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>宣布更新的 AWS Well-Architected Machine Learning Lens</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/</link>
+      <description></description>
+      <pubDate>Wed, 19 Nov 2025 19:36:25 +0000</pubDate>
+    </item>
+    <item>
       <title>使用 Amazon MQ 和 AWS App Runner 构建基于优先级的消息处理</title>
       <link>https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/</link>
       <description></description>
@@ -38,30 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/</link>
       <description></description>
       <pubDate>Mon, 22 Sep 2025 17:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>通过具有成本意识的 AWS KMS 密钥策略简化多租户加密</title>
-      <link>https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/</link>
-      <description></description>
-      <pubDate>Thu, 21 Aug 2025 21:54:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>CommBank 如何使其 CommSec 交易平台具有高可用性和运营弹性</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/</link>
-      <description></description>
-      <pubDate>Tue, 19 Aug 2025 23:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karrot 如何在 AWS 上构建功能平台，第 1 部分：动机和功能服务</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/</link>
-      <description></description>
-      <pubDate>Thu, 14 Aug 2025 15:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karrot 如何在 AWS 上构建功能平台，第 2 部分：功能提取</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/</link>
-      <description></description>
-      <pubDate>Thu, 14 Aug 2025 15:16:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

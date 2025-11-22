@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【New T-SQL AI Features are now in Public Preview for Azure SQL and SQL database in Microsoft Fabric】Microsoft Fabric 中的 Azure SQL 和 SQL 数据库的新 T-SQL AI 功能现已推出公共预览版</title>
-      <link>https://devblogs.microsoft.com/azure-sql/ai-functions-public-preview-azure-sql</link>
-      <description>【At the start of this year, we released a new set of T-SQL AI features for embedding your relational data for AI applications. Today, we have brought those features to Azure SQL and SQL database in Microsoft Fabric. This post will help you get started usi】今年年初，我们发布了一组新的 T-SQL AI 功能，用于嵌入 AI 应用程序的关系数据。今天，我们将这些功能引入了 Microsoft Fabric 中的 Azure SQL 和 SQL 数据库。这篇文章将帮助您开始使用</description>
-      <pubDate>Tue, 18 Nov 2025 21:00:20 +0000</pubDate>
+      <title>【Announcing OData .NET (ODL) 9 Preview 3 Release】宣布发布 OData .NET (ODL) 9 预览版 3</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-odl-9-preview-3-release</link>
+      <description>【We’re happy to announce that OData .NET (ODL) 9 Preview 3 has been officially released and is available on NuGet: Microsoft.OData.Core 9.0.0 Preview 3】我们很高兴地宣布 OData .NET (ODL) 9 Preview 3 已正式发布并可在 NuGet 上使用：Microsoft.OData.Core 9.0.0 Preview 3</description>
+      <pubDate>Fri, 21 Nov 2025 20:33:23 +0000</pubDate>
     </item>
     <item>
-      <title>【A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode】使用 GitHub Copilot 代理模式实现 .NET 应用程序现代化的分步指南</title>
-      <link>https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode</link>
-      <description>【Upgrading an old .NET app doesn’t have to mean chasing broken builds and cryptic errors. Yet for many developers, a simple version bump turns into hours of dependency conflicts and manual fixes. Modernization isn’t just about staying current. Older frameworks can introduce security risks, slow performance, and block cloud adoptio】升级旧的 .NET 应用程序并不一定意味着要追寻损坏的构建和神秘的错误。然而对于许多开发人员来说，一个简单的版本升级就会变成数小时的依赖冲突和手动修复。现代化不仅仅是保持与时俱进。较旧的框架可能会带来安全风险、性能下降和块云采用</description>
-      <pubDate>Tue, 18 Nov 2025 18:05:00 +0000</pubDate>
+      <title>【Ignite 2025: A Developer’s Guide to Building Agents for Microsoft 365】Ignite 2025：为 Microsoft 365 构建代理的开发人员指南</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/ignite-2025-a-developers-guide-to-building-agents-for-microsoft-365</link>
+      <description>【Ignite 2025 brought many innovations for developers building agents for Microsoft 365. From new capabilities in Declarative Agents and Custom Engine Agents to the introduction of Microsoft Agent 365, the platform now enables organizations to arch】Ignite 2025 为开发人员构建 Microsoft 365 代理带来了许多创新。从声明式代理和自定义引擎代理的新功能到 Microsoft Agent 365 的引入，该平台现在使组织能够构建</description>
+      <pubDate>Fri, 21 Nov 2025 18:46:58 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure DevOps and GitHub Repositories — Next Steps in the Path to Agentic AI】Azure DevOps 和 GitHub 存储库 — 迈向代理 AI 的后续步骤</title>
-      <link>https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai</link>
-      <description>【In May, we talked about the evolution of GitHub Copilot from a coding assistant into an AI powered peer programmer. Since then, GitHub has taken a major step forward - becoming an open platform for agentic devel】五月份，我们讨论了 GitHub Copilot 从编码助手到人工智能驱动的同行程序员的演变。自此，GitHub向前迈出了一大步——成为代理开发的开放平台</description>
-      <pubDate>Tue, 18 Nov 2025 17:21:58 +0000</pubDate>
+      <title>【Maybe somebody can explain to me how weak references solve the ODR problem】也许有人可以向我解释弱引用如何解决 ODR 问题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251121-00/?p=111807</link>
+      <description>【Some time ago, I proposed Using type aliasing to avoid the ODR problem with conditional compilation. A Reddit thread claimed that &#34;】前段时间，我提出使用类型别名来避免条件编译的 ODR 问题。 Reddit 的一个帖子声称“</description>
+      <pubDate>Fri, 21 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Microsoft Teams SDK (Formerly the Teams AI Library)】宣布推出 Microsoft Teams SDK（以前称为 Teams AI 库）</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-updated-teams-ai-library-and-mcp-support</link>
-      <description>【[alert type=&#34;important&#34; heading=&#34;UPDATE November 17: We&#39;re excited to announce that the Teams AI Library is now called the Microsoft Teams SDK.&#34;]The Teams SDK, now generally available in C# and JavaScript and in public preview for Python, remains a developer’s one-stop-shop to build anything, including conversational agents, for Micros】[alert type =“important”heading =“11 月 17 日更新：我们很高兴地宣布 Teams AI 库现在称为 Microsoft Teams SDK。”]Teams SDK 目前已在 C# 和 JavaScript 版本中普遍提供，并在 Python 中提供公共预览版，仍然是开发人员为 Micros 构建任何内容（包括对话代理）的一站式商店</description>
-      <pubDate>Tue, 18 Nov 2025 17:00:57 +0000</pubDate>
+      <title>【Reinventing how .NET Builds and Ships (Again)】（再次）重塑 .NET 的构建和发布方式</title>
+      <link>https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again</link>
+      <description>【After I wrote my last post on how .NET builds and ships, I was cautiously optimistic that I wouldn&#39;t be writing another one. Or at least not another one about how we build and ship. That problem was done and dusted. .NET had done it! We&#39;d struck a】在写完关于 .NET 如何构建和发布的上一篇文章后，我对自己不会再写一篇持谨慎乐观的态度。或者至少不是关于我们如何构建和运输的另一篇文章。这个问题已经解决并尘埃落定了。 .NET 做到了！我们击中了一个</description>
+      <pubDate>Thu, 20 Nov 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Spend Less Time Upgrading, More Time Coding in Visual Studio 2026】在 Visual Studio 2026 中花更少的时间升级，更多的时间编码</title>
-      <link>https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026</link>
-      <description>【In the past, moving to the next major version of Visual Studio could take hours, sometimes days, to recreate your dev environment the way you like it. Visual Studio 2026 makes it easier than ever to stay current with the latest productivity features, performance improvements, and security fixes all without disrupting your flow. With the new Vi】过去，迁移到 Visual Studio 的下一个主要版本可能需要数小时甚至数天的时间才能按照您喜欢的方式重新创建开发环境。 Visual Studio 2026 让您比以往更轻松地掌握最新的生产力功能、性能改进和安全修复，而无需中断您的流程。有了新的 Vi</description>
-      <pubDate>Tue, 18 Nov 2025 17:00:27 +0000</pubDate>
+      <title>【Microsoft 365 Copilot APIs: What’s New and What’s Next】Microsoft 365 Copilot API：新增功能和下一步发展</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-whats-new-and-whats-next</link>
+      <description>【At Build 2025, we introduced the Microsoft 365 Copilot APIs to help developers bring grounded AI into their solutions without rebuilding indexes or compromising security. The response has been encouraging, and your fee】在 Build 2025 上，我们推出了 Microsoft 365 Copilot API，以帮助开发人员将基础 AI 引入其解决方案，而无需重建索引或损害安全性。反响令人鼓舞，您的费用</description>
+      <pubDate>Thu, 20 Nov 2025 17:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>【From Innovation to Enterprise Trust with Microsoft Agent 365】使用 Microsoft Agent 365 从创新到企业信任</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/from-innovation-to-enterprise-trust-with-microsoft-agent-365</link>
-      <description>【The bridge between agent innovation and enterprise readiness  While teams can build an agent in just a few days, deployin】代理创新和企业准备就绪之间的桥梁虽然团队可以在短短几天内构建代理，但部署</description>
-      <pubDate>Tue, 18 Nov 2025 17:00:21 +0000</pubDate>
+      <title>【Develop Faster with VS Code for the Web – Azure: Your Browser-Based Dev Environment】使用 VS Code for the Web 加快开发速度 – Azure：基于浏览器的开发环境</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/get-started-with-vs-code-for-the-web</link>
+      <description>【Developers can now move from idea to Azure-ready code in minutes with VS Code for the Web – Azure. This browser-based environment removes setup time, reduces friction, and gives you immediate access to pre-configured run】现在，开发人员可以使用 VS Code for the Web – Azure 在几分钟内从想法转变为 Azure 就绪代码。这种基于浏览器的环境消除了设置时间，减少了摩擦，并让您可以立即访问预配置的运行</description>
+      <pubDate>Thu, 20 Nov 2025 16:40:49 +0000</pubDate>
     </item>
     <item>
-      <title>【MSSQL Extension for VS Code: GitHub Copilot Chat GA and New Public Previews for Edit Data, Data-tier Application, and more】VS Code 的 MSSQL 扩展：GitHub Copilot Chat GA 和用于编辑数据、数据层应用程序等的新公共预览版</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-copilot-ga-edit-data</link>
-      <description>【The MSSQL Extension for VS Code continues to evolve, delivering features that make SQL development more integrated, more consistent, and more developer-friendly. In version v1.37.0, we’re announcing the Public Preview of Edit Data,】VS Code 的 MSSQL 扩展不断发展，提供的功能使 SQL 开发更加集成、更加一致且对开发人员更加友好。在 v1.37.0 版本中，我们宣布推出编辑数据的公共预览版，</description>
-      <pubDate>Tue, 18 Nov 2025 17:00:08 +0000</pubDate>
+      <title>【From Complexity to Simplicity: Intelligent JVM Optimizations on Azure】从复杂到简单：Azure 上的智能 JVM 优化</title>
+      <link>https://devblogs.microsoft.com/java/from-complexity-to-simplicity-intelligent-jvm-optimizations-on-azure</link>
+      <description>【Introduction As cloud-native architectures scale across thousands of containers and virtual machines, Java performance tuning has become more distributed, complex, and error-prone than ever. As highlighted in our public preview announcement, traditional JVM optimization relied on ex】简介 随着云原生架构扩展到数千个容器和虚拟机，Java 性能调优变得比以往更加分布式、复杂且容易出错。正如我们的公开预览版公告中所强调的那样，传统的 JVM 优化依赖于 ex</description>
+      <pubDate>Thu, 20 Nov 2025 16:34:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Major New Agentic Capabilities for GitHub Copilot in JetBrains and Eclipse】在 JetBrains 和 Eclipse 中引入 GitHub Copilot 的主要新代理功能</title>
-      <link>https://devblogs.microsoft.com/java/new-agentic-capabilities-for-github-copilot-in-jetbrains-and-eclipse</link>
-      <description>【GitHub Copilot is taking a major step forward with expanded, deeply integrated support for JetBrains and Eclipse — bringing a new generation of agentic, intelligent capabilities directly into your favorite Java IDEs. This release strengthens Copilot’s cross-IDE experience, unifies agentic workflows, and unlocks m】GitHub Copilot 向前迈出了一大步，扩展了对 JetBrains 和 Eclipse 的深度集成支持，将新一代的代理智能功能直接引入您最喜欢的 Java IDE 中。此版本增强了 Copilot 的跨 IDE 体验，统一了代理工作流程，并解锁了更多功能</description>
-      <pubDate>Tue, 18 Nov 2025 16:11:56 +0000</pubDate>
+      <title>【Announcing the Public Preview of Azure Command Launcher for Java】宣布推出适用于 Java 的 Azure 命令启动器的公共预览版</title>
+      <link>https://devblogs.microsoft.com/java/announcing-the-public-preview-of-azure-command-launcher-for-java</link>
+      <description>【Today we are announcing the Public Preview of the Azure Command Launcher for Java, a new tool that helps developers, SREs, and infrastructure teams standardize and automate JVM configuration on Azure. The goal is to simplify tuning practices and reduce resource waste across Java workloads.】今天，我们宣布推出适用于 Java 的 Azure 命令启动器的公共预览版，这是一款新工具，可帮助开发人员、SRE 和基础架构团队在 Azure 上标准化和自动化 JVM 配置。目标是简化调优实践并减少 Java 工作负载的资源浪费。</description>
+      <pubDate>Thu, 20 Nov 2025 16:33:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Public preview of vector indexing in Azure SQL DB, Azure SQL MI, and SQL database in Microsoft Fabric】Azure SQL DB、Azure SQL MI 和 Microsoft Fabric 中的 SQL 数据库中的矢量索引的公开预览版</title>
-      <link>https://devblogs.microsoft.com/azure-sql/public-preview-of-vector-indexing-in-azure-sql-db-azure-sql-mi-and-sql-database-in-microsoft-fabric</link>
-      <description>【We are happy to share that DiskANN vector indexing is now in public preview across Azure SQL Database, Azure SQL Managed Instance, and SQL database in Microsoft Fabric. DiskANN is a cutting-edge algorithm for efficient vector similarity search, making it ideal for powering recommendation systems】我们很高兴与大家分享，DiskANN 矢量索引现已在 Azure SQL 数据库、Azure SQL 托管实例和 Microsoft Fabric 中的 SQL 数据库中提供公共预览版。 DiskANN 是一种用于高效向量相似性搜索的尖端算法，非常适合为推荐系统提供动力</description>
-      <pubDate>Tue, 18 Nov 2025 16:05:30 +0000</pubDate>
+      <title>【Foundry Local comes to Android—plus on-device speech, on-prem support, and a simpler SDK】Foundry Local 登陆 Android，加上设备上语音、本地支持和更简单的 SDK</title>
+      <link>https://devblogs.microsoft.com/foundry/foundry-local-comes-to-android</link>
+      <description>【Today, we’re introducing a powerful new way to bring AI directly to your mobile apps: Foundry Local on Android. Starting now, you can build Android applications that run AI on-device—no cloud round trips required. Sign up for the gated preview here: https://aka.m】今天，我们推出了一种将 AI 直接引入您的移动应用的强大新方法：Android 上的 Foundry Local。从现在开始，您可以构建在设备上运行 AI 的 Android 应用程序，无需云往返。在此处注册门禁预览：https://aka.m</description>
+      <pubDate>Thu, 20 Nov 2025 16:30:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Extension for VS Code Now Generally Available】适用于 VS Code 的 Azure Cosmos DB 扩展现已正式推出</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-extension-for-vs-code-now-generally-available</link>
-      <description>【We’re thrilled to announce the general availability (GA) of the Azure Cosmos DB extension for Visual Studio Code! This powerful extension brings enterprise-grade database management directly into your development environment, making it easi】我们很高兴地宣布适用于 Visual Studio Code 的 Azure Cosmos DB 扩展全面可用 (GA)！这个强大的扩展将企业级数据库管理直接带入您的开发环境，使其变得轻松</description>
-      <pubDate>Tue, 18 Nov 2025 16:00:47 +0000</pubDate>
+      <title>【Azure DevOps to GitHub migration Playbook: Unlocking Agentic DevOps】Azure DevOps 到 GitHub 迁移手册：解锁 Agentic DevOps</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/azure-devops-to-github-migration-playbook-unlocking-agentic-devops</link>
+      <description>【Azure DevOps or GitHub Enterprise ? Today, in the Microsoft ecosystem, two Software Development Lifecycle management platforms coexist: - Azure DevOps is designed from the ground up for enterprise with advanced planning features through Azure Boards, build and release automation with Azure Pipelines, and a unique】Azure DevOps 还是 GitHub Enterprise？如今，在 Microsoft 生态系统中，两个软件开发生命周期管理平台共存： - Azure DevOps 是为企业从头开始设计的，通过 Azure Boards 提供高级规划功能，使用 Azure Pipelines 构建和发布自动化，以及独特的</description>
+      <pubDate>Thu, 20 Nov 2025 11:03:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
