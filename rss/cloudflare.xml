@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Get better visibility for the WAF with payload logging】通过有效负载日志记录获得 WAF 的更好可见性</title>
+      <link>https://blog.cloudflare.com/waf-payload-logging/</link>
+      <description>【 The WAF provides ways for our customers to gain insight into why it takes certain actions. The more granular and precise the insight, the more reproducible and understandable it is. Revamped payload logging is one such method.  】WAF 为我们的客户提供了深入了解其采取某些操作的原因的方法。洞察力越细致、越精确，它的可重复性和可理解性就越高。改进的有效负载日志记录就是其中一种方法。</description>
+      <pubDate>Mon, 24 Nov 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare outage on November 18, 2025】Cloudflare 于 2025 年 11 月 18 日中断</title>
       <link>https://blog.cloudflare.com/18-november-2025-outage/</link>
       <description>【 Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected. &#xA; 】Cloudflare 于 2025 年 11 月 18 日发生服务中断。此次中断是由机器人管理功能文件的生成逻辑错误引发的，导致许多 Clo​​udflare 服务受到影响。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/workers-vpc-open-beta/</link>
       <description>【 Workers VPC Services enter open beta today. We look under the hood to see how Workers VPC connects your globally-deployed Workers to your regional private networks by using Cloudflare&#39;s global network, while abstracting cross-cloud networking complexity. 】Workers VPC 服务今天进入公开测试版。我们深入了解 Workers VPC 如何使用 Cloudflare 的全球网络将全球部署的 Workers 连接到您的区域专用网络，同时抽象出跨云网络的复杂性。</description>
       <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a better testing experience for Workflows, our durable execution engine for multi-step applications】为工作流程构建更好的测试体验，工作流程是我们针对多步骤应用程序的持久执行引擎</title>
-      <link>https://blog.cloudflare.com/better-testing-for-workflows/</link>
-      <description>【 End-to-end testing for Cloudflare Workflows was challenging. We&#39;re introducing first-class support for Workflows in cloudflare:test, enabling full introspection, mocking, and isolated, reliable tests for your most complex applications. 】Cloudflare Workflows 的端到端测试具有挑战性。我们在 cloudflare:test 中引入了对工作流程的一流支持，为您最复杂的应用程序提供全面的内省、模拟和独立、可靠的测试。</description>
-      <pubDate>Tue, 04 Nov 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

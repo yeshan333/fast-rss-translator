@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Zalando Delivers Real-Time Insights to Its Partners Brands】Zalando 如何为其合作伙伴品牌提供实时洞察</title>
+      <link>https://blog.bytebytego.com/p/how-zalando-delivers-real-time-insights</link>
+      <description>【Zalando&amp;#8217;s Partner Tech division, responsible for data sharing and collaboration with partners, found itself managing a fragmented and inefficient process.】Zalando 的合作伙伴技术部门负责与合作伙伴的数据共享和协作，但发现自己管理着一个分散且低效的流程。</description>
+      <pubDate>Mon, 24 Nov 2025 16:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP190: Cloudflare vs. AWS vs. Azure】EP190：Cloudflare 与 AWS 与 Azure</title>
+      <link>https://blog.bytebytego.com/p/ep190-cloudflare-vs-aws-vs-azure</link>
+      <description>【Cloudflare is much more than just a CDN and DDoS protection service. Let&amp;#8217;s do a quick comparison of Cloudflare, AWS, and Azure.】Cloudflare 不仅仅是 CDN 和 DDoS 保护服务。让我们快速比较一下 Cloudflare、AWS 和 Azure。</description>
+      <pubDate>Sat, 22 Nov 2025 16:30:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top Strategies to Build High Availability Systems】构建高可用性系统的最佳策略</title>
       <link>https://blog.bytebytego.com/p/top-strategies-to-build-high-availability</link>
       <description>【In this article, we will understand what availability means and look at some of the most popular strategies to achieve high availability.】在本文中，我们将了解可用性的含义，并了解一些最流行的实现高可用性的策略。</description>
@@ -37,7 +49,7 @@
     <item>
       <title>【How Tinder Decomposed Its iOS Monolith App Handling 70M Users】Tinder 如何分解其处理 7000 万用户的 iOS 整体应用程序</title>
       <link>https://blog.bytebytego.com/p/how-tinder-decomposed-its-ios-monolith</link>
-      <description>【In Tinder&amp;#8217;s case, deep inter-dependencies between those targets stretched what engineers call the critical path, which is the longest chain of dependent tasks that determines how long a build takes.】在 Tinder 的例子中，这些目标之间的深层相互依赖性延伸了工程师所说的关键路径，这是决定构建需要多长时间的最长的依赖任务链。</description>
+      <description>【In Tinder&amp;#8217;s case, deep inter-dependencies between those targets stretched what engineers call the critical path, which is the longest chain of dependent tasks that determines how long a build takes.】在 Tinder 的案例中，这些目标之间的深层相互依赖性延伸了工程师所说的关键路径，这是决定构建需要多长时间的最长的依赖任务链。</description>
       <pubDate>Wed, 12 Nov 2025 16:30:47 +0000</pubDate>
     </item>
     <item>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-uber-built-a-conversational-ai</link>
       <description>【Finch is designed to bring financial intelligence directly into Slack, the communication platform already used by the company&amp;#8217;s teams.】Finch 旨在将金融情报直接引入 Slack（该公司团队已经使用的通信平台）。</description>
       <pubDate>Mon, 10 Nov 2025 16:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP188: Servers You Should Know in Modern Systems】EP188：现代系统中您应该了解的服务器</title>
-      <link>https://blog.bytebytego.com/p/ep188-servers-you-should-know-in</link>
-      <description>【Servers You Should Know in Modern Systems】现代系统中您应该了解的服务器</description>
-      <pubDate>Sat, 08 Nov 2025 16:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Last Chance to Enroll | Become an AI Engineer | Cohort 2】最后报名机会 |成为一名人工智能工程师 |第 2 组</title>
-      <link>https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai-999</link>
-      <description>【After the incredible success of our first cohort, with nearly 500 participants, we&amp;#8217;re thrilled to announce the launch of Cohort 2 of Become an AI Engineer!】在我们的第一个队列取得了令人难以置信的成功（拥有近 500 名参与者）之后，我们很高兴地宣布推出成为人工智能工程师的第二个队列！</description>
-      <pubDate>Fri, 07 Nov 2025 16:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

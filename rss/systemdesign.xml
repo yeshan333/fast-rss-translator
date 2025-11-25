@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【A Systematic Breakdown of 15 Cloud Architecture Pitfalls】系统剖析 15 个云架构陷阱</title>
+      <link>https://newsletter.systemdesign.one/p/cloud-system-design</link>
+      <description>【#102: An Analytical Look at Common Cloud Design Mistakes】#102：常见云设计错误的分析</description>
+      <pubDate>Sun, 23 Nov 2025 14:03:58 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Stock Exchange Works】证券交易所如何运作</title>
       <link>https://newsletter.systemdesign.one/p/stock-exchange-system-design</link>
       <description>【#101: Stock Exchange System Design - Part 1】#101：证券交易所系统设计 - 第 1 部分</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/spotify-system-design</link>
       <description>【#93: System Design Interview (13 Minutes)】#93：系统设计面试（13 分钟）</description>
       <pubDate>Mon, 06 Oct 2025 10:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【API Versioning - A Deep Dive】API 版本控制 - 深入探讨</title>
-      <link>https://newsletter.systemdesign.one/p/api-versioning</link>
-      <description>【#92: Understanding API Versioning Strategies (14 Minutes)】#92：了解 API 版本控制策略（14 分钟）</description>
-      <pubDate>Tue, 30 Sep 2025 11:43:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

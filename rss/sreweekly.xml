@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #498】SRE 周刊第 #498 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-498/</link>
+      <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps. Costory automatically explains why your cloud costs change, and reports it straight to Slack. Built for SREs who want to code, not wrestle with spreadsheets. Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io Cloudflare outage [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有报名参加 FinOps。 Costory 会自动解释您的云成本变化的原因，并将其直接报告给 Slack。专为想要编码而不是与电子表格纠缠的 SRE 构建。现已在 AWS 和 GCP 市场上推出。在 costory.io 开始免费试用 Cloudflare 中断 [...]</description>
+      <pubDate>Mon, 24 Nov 2025 03:38:41 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #497】SRE 周刊第 #497 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-497/</link>
       <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io To vibe or not to [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有注册进行 FinOps。Costory 会自动解释您的云成本变化的原因，并直接向 Slack 报告。专为想要编码而不是与电子表格搏斗的 SRE 构建。现在在 AWS 和 GCP Marketplaces 上。在 costory.io 开始免费试用 是否振动 [...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-494/</link>
       <description>【View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I&amp;#8217;m on medical leave. If all goes to plan, I&amp;#8217;ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you&amp;#8217;re interested, I invite [&amp;#8230;]】在 sreweekly.com 上查看 在我休病假期间，《SRE Weekly》将在接下来的 6 周内暂停。如果一切按计划进行，我将在本周晚些时候为我所爱的人捐献一个肾脏，减少我的内部冗余，以帮助他们应对自己的内部肾脏事件。如果您有兴趣，我邀请[...]</description>
       <pubDate>Mon, 15 Sep 2025 01:49:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #493】SRE 周刊第 #493 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-493/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Shipfox: Shipfox supercharges GitHub Actions &amp;#8211; no workflow changes, 30-min setup. 2x faster builds with better CPU, faster disks &amp;#38; high-throughput caching 75% lower costs with shorter jobs and better price-per-performance Full CI observability with test/job speed and reliability 👉 See how it works: https://www.shipfox.io?utm_source=SREWeekly&amp;#38;utm_campaign=issue493 Reverse Proxy [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Shipfox 的消息：Shipfox 增强了 GitHub Actions – 无需更改工作流程，只需 30 分钟即可完成设置。借助更好的 CPU、更快的磁盘和高吞吐量缓存，构建速度提高 2 倍 通过更短的作业和更好的性价比，将成本降低 75% 具有测试/作业速度和可靠性的完整 CI 可观察性 👉 了解它是如何工作的：https://www.shipfox.io?utm_source=SREWeekly&amp;utm_campaign=issue493 反向代理 [...]</description>
-      <pubDate>Mon, 08 Sep 2025 01:59:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
