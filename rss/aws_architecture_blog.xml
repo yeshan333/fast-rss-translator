@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>使用 AWS 网络防火墙保护 Amazon Elastic VMware Service (Amazon EVS)</title>
+      <link>https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/</link>
+      <description></description>
+      <pubDate>Wed, 26 Nov 2025 16:22:03 +0000</pubDate>
+    </item>
+    <item>
       <title>使用 Amazon API Gateway 构建通往 Amazon Bedrock 的 AI 网关</title>
       <link>https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/</link>
       <description></description>
       <pubDate>Tue, 30 Sep 2025 15:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于 LanceDB 和 Amazon S3 构建的可扩展、弹性的数据库和搜索解决方案，适用于 1B+ 向量</title>
-      <link>https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/</link>
-      <description></description>
-      <pubDate>Mon, 22 Sep 2025 17:15:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,58 +10,58 @@
       <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【MSSQL Extension for VS Code: Introducing Edit Data (Public Preview)】VS Code 的 MSSQL 扩展：引入编辑数据（公共预览版）</title>
-      <link>https://devblogs.microsoft.com/azure-sql/vscode-mssql-edit-data</link>
-      <description>【Overview Working with table data is an essential part of database development — whether you’re validating behavior, debugging issues, or quickly seeding data. But switching between tools or writing repetitive T-SQL statements can slow down your workflow.】概述 使用表数据是数据库开发的重要组成部分 - 无论您是要验证行为、调试问题还是快速播种数据。但在工具之间切换或编写重复的 T-SQL 语句可能会减慢您的工作流程。</description>
-      <pubDate>Mon, 24 Nov 2025 17:00:36 +0000</pubDate>
+      <title>【Message-only windows are for messaging, not as a convenient victim for hosting UI】仅消息窗口用于消息传递，而不是作为托管 UI 的方便牺牲品</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251127-00/?p=111817</link>
+      <description>【A customer wanted to show a dialog box, but they didn&#39;t want it to be attached to any of their existing windows because it was a general dialog that applied to all of their windows. So they had a great idea: Their program already had a message-only window, so they figured, &#34;Hey, I already have this garbage window I can use as the owner of s】客户想要显示一个对话框，但他们不希望将其附加到任何现有窗口，因为这是一个适用于所有窗口的通用对话框。所以他们有了一个好主意：他们的程序已经有了一个仅显示消息的窗口，所以他们想，“嘿，我已经有了这个垃圾窗口，我可以将其用作 s 的所有者</description>
+      <pubDate>Thu, 27 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【New release cadence and support lifecycle for Microsoft C++ Build Tools】Microsoft C++ 构建工具的新发布节奏和支持生命周期</title>
-      <link>https://devblogs.microsoft.com/cppblog/new-release-cadence-and-support-lifecycle-for-msvc-build-tools</link>
-      <description>【Starting with Visual Studio 2026, we are introducing a new support lifecycle for the Microsoft C++ (MSVC) Build Tools. We are also updating the MSVC release cadence. As Visual Studio moves to a Modern】从 Visual Studio 2026 开始，我们将为 Microsoft C++ (MSVC) 构建工具引入新的支持生命周期。我们还在更新 MSVC 发布节奏。随着 Visual Studio 转向现代</description>
-      <pubDate>Mon, 24 Nov 2025 15:00:25 +0000</pubDate>
+      <title>【Visualizing GitHub Audit Log in Microsoft Defender】在 Microsoft Defender 中可视化 GitHub 审核日志</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/visualizing-github-audit-log-in-microsoft-defender</link>
+      <description>【[alert type=&#34;tip&#34; heading=&#34;Tips&#34;]In today’s rapidly evolving DevSecOps landscape, the need for real-time v】[alert type=&#34;tip&#34; header=&#34;Tips&#34;]在当今快速发展的 DevSecOps 环境中，需要实时监控</description>
+      <pubDate>Thu, 27 Nov 2025 07:13:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio – Built for the Speed of Modern Development】Visual Studio – 专为现代开发速度而打造</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development</link>
-      <description>【The release of Visual Studio 2026 two weeks ago marks the next evolution in Microsoft’s 50-year commitment to deliver the tools that developers love and enterprises trust, built to move at the pace of modern development. Software development is moving faster than ever, and Visual Studio is evolving right along with you. Today, we’re ann】两周前发布的 Visual Studio 2026 标志着 Microsoft 50 年来致力于提供开发人员喜爱和企业信任的工具的下一步发展，这些工具旨在跟上现代开发的步伐。软件开发的发展速度比以往任何时候都快，Visual Studio 也在与您一起发展。今天，我们是安</description>
-      <pubDate>Mon, 24 Nov 2025 15:00:06 +0000</pubDate>
+      <title>【.NET Day on Agentic Modernization Coming Soon】.NET 代理现代化日即将到来</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon</link>
+      <description>【Join us on December 9, 2025 between 9AM-1PM Pacific for .NET Day of Agentic Modernization! This is a free, one-day virtual event focused on the latest tooling, techniques, and guidance for modernizing your .NET applications. Whether you&#39;re upgrading legacy code, preparing for cloud workloads,】请于 2025 年 12 月 9 日上午 9 点至下午 1 点（太平洋时间）参加 .NET Agentic 现代化日！这是一个免费的、为期一天的虚拟活动，重点关注用于实现 .NET 应用程序现代化的最新工具、技术和指南。无论您是升级遗留代码、为云工作负载做准备，</description>
+      <pubDate>Wed, 26 Nov 2025 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why does XAML break down when I have an element that is half a billion pixels tall?】当我有一个 5 亿像素高的元素时，为什么 XAML 会崩溃？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251124-00/?p=111811</link>
-      <description>【A customer reported that their program encountered rendering problems when they created elements that were a half billion pixels tall, and they wondered why this was happening. A half billion pixels is an awful lot of pixels. At 96 pixels per inch, that gives you an element whose height is over 82 miles (132 km). There is no monitor】一位客户报告说，他们的程序在创建 5 亿像素高的元素时遇到了渲染问题，他们想知道为什么会发生这种情况。五亿像素是一个非常多的像素。如果采用每英寸 96 像素，则元素的高度将超过 82 英里（132 公里）。没有监视器</description>
-      <pubDate>Mon, 24 Nov 2025 15:00:00 +0000</pubDate>
+      <title>【At what point in the Windows development cycle is it too late to change the text of a translatable string?】在 Windows 开发周期的哪个阶段更改可翻译字符串的文本为时已晚？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251126-00/?p=111815</link>
+      <description>【Back in 2009, I noted that the &#34;Prevent windows from being automatically arranged when moved to the edge of the screen&#34; check box is a dreaded】早在 2009 年，我就注意到“移动到屏幕边缘时防止窗口自动排列”复选框是一个可怕的选项</description>
+      <pubDate>Wed, 26 Nov 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【SharePoint Site Creation in Microsoft Graph】在 Microsoft Graph 中创建 SharePoint 网站</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/sharepoint-site-creation-in-microsoft-graph</link>
-      <description>【The SharePoint team is excited to (finally) bring Site Collection creation to Graph! Starting in Microsoft Graph beta you can now create new site collections! But that’s not all! Creating site collections through older APIs required that your application have Si】SharePoint 团队很高兴（最终）将网站集创建引入 Graph！从 Microsoft Graph Beta 版开始，您现在可以创建新的网站集！但这还不是全部！通过旧版 API 创建网站集要求您的应用程序具有 Si</description>
-      <pubDate>Mon, 24 Nov 2025 11:51:13 +0000</pubDate>
+      <title>【Announcing OData Model Builder 3.0.0 Preview 1 Release】宣布推出 OData Model Builder 3.0.0 预览版 1</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-odata-model-builder-3-0-0-preview-1-release</link>
+      <description>【We&#39;re excited to announce that OData Model Builder 3.0.0 Preview 1 has been officially released and is available on NuGet: Microsoft.OData.ModelBuilder 3.0.0 Preview 1 This is a major release that brings the libr】我们很高兴地宣布，OData Model Builder 3.0.0 Preview 1 已正式发布，并可在 NuGet 上使用： Microsoft.OData.ModelBuilder 3.0.0 Preview 1 这是一个主要版本，带来了 libr</description>
+      <pubDate>Wed, 26 Nov 2025 08:21:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing OData .NET (ODL) 9 Preview 3 Release】宣布发布 OData .NET (ODL) 9 预览版 3</title>
-      <link>https://devblogs.microsoft.com/odata/announcing-odata-net-odl-9-preview-3-release</link>
-      <description>【We’re happy to announce that OData .NET (ODL) 9 Preview 3 has been officially released and is available on NuGet: Microsoft.OData.Core 9.0.0 Preview 3】我们很高兴地宣布 OData .NET (ODL) 9 Preview 3 已正式发布并可在 NuGet 上使用：Microsoft.OData.Core 9.0.0 Preview 3</description>
-      <pubDate>Fri, 21 Nov 2025 20:33:23 +0000</pubDate>
+      <title>【Azure SDK Release (November 2025)】Azure SDK 版本（2025 年 11 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-november-2025</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
+      <pubDate>Tue, 25 Nov 2025 22:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Ignite 2025: A Developer’s Guide to Building Agents for Microsoft 365】Ignite 2025：为 Microsoft 365 构建代理的开发人员指南</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/ignite-2025-a-developers-guide-to-building-agents-for-microsoft-365</link>
-      <description>【Ignite 2025 brought many innovations for developers building agents for Microsoft 365. From new capabilities in Declarative Agents and Custom Engine Agents to the introduction of Microsoft Agent 365, the platform now enables organizations to arch】Ignite 2025 为开发人员构建 Microsoft 365 代理带来了许多创新。从声明式代理和自定义引擎代理的新功能到 Microsoft Agent 365 的引入，该平台现在使组织能够构建</description>
-      <pubDate>Fri, 21 Nov 2025 18:46:58 +0000</pubDate>
+      <title>【Manage Containers the Easy Way: Copilot + VS Code】轻松管理容器：Copilot + VS Code</title>
+      <link>https://devblogs.microsoft.com/blog/manage-containers-the-easy-way-copilot-vs-code</link>
+      <description>【Managing containers can be one of the most repetitive parts of modern development. Between remembering CLI commands, switching contexts, and digging through logs, it’s easy to lose focus on the actual code you’re building. The latest release of the VS Code Container Tools extension changes that by putting Copilot directly】管理容器可能是现代开发中最重复的部分之一。在记住 CLI 命令、切换上下文和挖掘日志之间，很容易失去对正在构建的实际代码的关注。最新版本的 VS Code 容器工具扩展改变了这一点，直接将 Copilot</description>
+      <pubDate>Tue, 25 Nov 2025 22:51:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Maybe somebody can explain to me how weak references solve the ODR problem】也许有人可以向我解释弱引用如何解决 ODR 问题</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251121-00/?p=111807</link>
-      <description>【Some time ago, I proposed Using type aliasing to avoid the ODR problem with conditional compilation. A Reddit thread claimed that &#34;】前段时间，我提出使用类型别名来避免条件编译的 ODR 问题。 Reddit 的一个帖子声称“</description>
-      <pubDate>Fri, 21 Nov 2025 15:00:00 +0000</pubDate>
+      <title>【Celebrating Community Contributions in Aspire 13】庆祝 Aspire 13 中的社区贡献</title>
+      <link>https://devblogs.microsoft.com/aspire/thanksgiving-contributions</link>
+      <description>【Aspire 13.0 marks a major milestone, not just for the product, but for the vibrant community that helped shape it. This release includes meaningful contributions from community members across features, integrations, tooling, and documentation. We wanted to highlight some standout PRs from this release as a way to say thanks, and hopefully i】Aspire 13.0 标志着一个重要的里程碑，不仅对于该产品而言，而且对于帮助塑造该产品的充满活力的社区而言也是如此。此版本包含社区成员在功能、集成、工具和文档方面做出的有意义的贡献。我们想重点介绍此版本中的一些出色的 PR，以表示感谢，希望我能</description>
+      <pubDate>Tue, 25 Nov 2025 20:22:38 +0000</pubDate>
     </item>
     <item>
-      <title>【Develop Faster with VS Code for the Web – Azure: Your Browser-Based Dev Environment】使用 VS Code for the Web 加快开发速度 – Azure：基于浏览器的开发环境</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/get-started-with-vs-code-for-the-web</link>
-      <description>【Developers can now move from idea to Azure-ready code in minutes with VS Code for the Web – Azure. This browser-based environment removes setup time, reduces friction, and gives you immediate access to pre-configured run】现在，开发人员可以使用 VS Code for the Web – Azure 在几分钟内从想法转变为 Azure 就绪代码。这种基于浏览器的环境消除了设置时间，减少了摩擦，并让您可以立即访问预配置的运行</description>
-      <pubDate>Thu, 20 Nov 2025 16:40:49 +0000</pubDate>
+      <title>【Introducing Memory in Foundry Agent Service】在 Foundry Agent 服务中引入内存</title>
+      <link>https://devblogs.microsoft.com/foundry/introducing-memory-in-foundry-agent-service</link>
+      <description>【Give your agents the power to remember  Imagine your agent never asks the same question twice. Until now, most agents hav】赋予您的客服人员记住的能力想象一下，您的客服人员永远不会问同一个问题两次。到目前为止，大多数代理商都已</description>
+      <pubDate>Tue, 25 Nov 2025 16:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

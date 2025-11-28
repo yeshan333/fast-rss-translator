@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #260: TanStack, Actions, Immer, RTK, Streamdown, XState Store, ReScript, HTML streaming | Vercel v0, Worklets, Skia, Tailwind, Native Stack, Gifted Chat, Enriched | TC39, Playwright, Bun, Astro, Better Auth】本周 React #260：TanStack、Actions、Immer、RTK、Streamdown、XState Store、ReScript、HTML 流 | Vercel v0、Worklets、Skia、Tailwind、Native Stack、Gifted Chat、Enriched | TC39、剧作家、Bun、Astro、Better Auth</title>
+      <link>https://thisweekinreact.com/newsletter/260</link>
+      <description>【Hi everyone! Kacper and Tymek from Software Mansion here! 👋】大家好！来自 Software Mansion 的 Kacper 和 Tymek 在这里！ 👋</description>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools, React Grab, Base UI, Waku, StyleX | Yoga CSS Grid, Radon, Brownfield, Detox, Bootsplash | TC39, Browserslist, Linters, Prisma】本周 React #259：React 状态、Promise 子类、Next.js、RSC、JSX 工具、React Grab、Base UI、Waku、StyleX | Yoga CSS Grid、Radon、Brownfield、Detox、Bootsplash | TC39、浏览器列表、Linter、Prisma</title>
       <link>https://thisweekinreact.com/newsletter/259</link>
       <description>【Hi everyone, Seb here\! 👋】大家好，这里是Seb\！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/256</link>
       <description>【Hi everyone\! Filip and Krzysztof from Software Mansion here\! 👋】大家好\！来自 Software Mansion 的 Filip 和 Krzysztof 这里\！ 👋</description>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #255: Next.js, RSC, shadcn, TanStack, 3D, Fumadocs | Solito, iOS header items, Expo, BottomTabs, MMKV, ImGui | Node.js, Vitest, Lighthouse】本周 React #255：Next.js、RSC、shadcn、TanStack、3D、Fumadocs | Solito、iOS 标题项、Expo、BottomTabs、MMKV、ImGui | Node.js、Vitest、灯塔</title>
-      <link>https://thisweekinreact.com/newsletter/255</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

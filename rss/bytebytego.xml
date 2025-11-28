@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Saga Pattern Demystified: Orchestration vs Choreography】传奇模式揭秘：编排与编排</title>
+      <link>https://blog.bytebytego.com/p/saga-pattern-demystified-orchestration</link>
+      <description>【In this article, we will look at how the Saga pattern works and the pros and cons of various approaches to implement this pattern.】在本文中，我们将了解 Saga 模式的工作原理以及实现该模式的各种方法的优缺点。</description>
+      <pubDate>Thu, 27 Nov 2025 16:30:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Zalando Delivers Real-Time Insights to Its Partners Brands】Zalando 如何为其合作伙伴品牌提供实时洞察</title>
       <link>https://blog.bytebytego.com/p/how-zalando-delivers-real-time-insights</link>
       <description>【Zalando&amp;#8217;s Partner Tech division, responsible for data sharing and collaboration with partners, found itself managing a fragmented and inefficient process.】Zalando 的合作伙伴技术部门负责与合作伙伴的数据共享和协作，但发现自己管理着一个分散且低效的流程。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-spotify-built-its-data-platform</link>
       <description>【This evolution happened organically as Spotify&amp;#8217;s products matured. With each new feature and business need, new data requirements emerged.】随着 Spotify 产品的成熟，这种演变自然发生。随着每一个新功能和业务需求的出现，新的数据需求也随之出现。</description>
       <pubDate>Tue, 11 Nov 2025 16:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Built a Conversational AI Agent For Financial Analysis】Uber 如何构建用于财务分析的对话式人工智能代理</title>
-      <link>https://blog.bytebytego.com/p/how-uber-built-a-conversational-ai</link>
-      <description>【Finch is designed to bring financial intelligence directly into Slack, the communication platform already used by the company&amp;#8217;s teams.】Finch 旨在将金融情报直接引入 Slack（该公司团队已经使用的通信平台）。</description>
-      <pubDate>Mon, 10 Nov 2025 16:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

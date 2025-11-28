@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Partnering with Black Forest Labs to bring FLUX.2 [dev] to Workers AI】与 Black Forest Labs 合作将 FLUX.2 [dev] 引入 Workers AI</title>
+      <link>https://blog.cloudflare.com/flux-2-workers-ai/</link>
+      <description>【 FLUX.2 [dev] by Black Forest Labs is now on Workers AI! This advanced open-weight image model offers superior photorealism, multi-reference inputs, and granular control with JSON prompting. 】Black Forest Labs 的 FLUX.2 [dev] 现已在 Workers AI 上发布！这种先进的开放权重图像模型提供卓越的照片级真实感、多参考输入以及带 JSON 提示的精细控制。</description>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Get better visibility for the WAF with payload logging】通过有效负载日志记录获得 WAF 的更好可见性</title>
       <link>https://blog.cloudflare.com/waf-payload-logging/</link>
       <description>【 The WAF provides ways for our customers to gain insight into why it takes certain actions. The more granular and precise the insight, the more reproducible and understandable it is. Revamped payload logging is one such method.  】WAF 为我们的客户提供了深入了解其采取某些操作的原因的方法。洞察力越细致、越精确，它的可重复性和可理解性就越高。改进的有效负载日志记录就是其中一种方法。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/async-quic-and-http-3-made-easy-tokio-quiche-is-now-open-source/</link>
       <description>【 We’re excited to announce the open sourcing of tokio-quiche, our async QUIC library built on quiche and tokio. Relied upon in our services such as iCloud Private Relay and our next-generation Oxy-based proxies, tokio-quiche handles millions of HTTP/3 requests per second with low latency and high throughput.  】我们很高兴地宣布 tokio-quiche 开源，这是我们基于 quiche 和 tokio 构建的异步 QUIC 库。依赖于我们的 iCloud Private Relay 和下一代基于 Oxy 的代理等服务，tokio-quiche 每秒可处理数百万个 HTTP/3 请求，并且具有低延迟和高吞吐量。</description>
       <pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Workers VPC Services connects to your regional private networks from anywhere in the world】Workers VPC 服务如何从世界任何地方连接到您的区域专用网络</title>
-      <link>https://blog.cloudflare.com/workers-vpc-open-beta/</link>
-      <description>【 Workers VPC Services enter open beta today. We look under the hood to see how Workers VPC connects your globally-deployed Workers to your regional private networks by using Cloudflare&#39;s global network, while abstracting cross-cloud networking complexity. 】Workers VPC 服务今天进入公开测试版。我们深入了解 Workers VPC 如何使用 Cloudflare 的全球网络将全球部署的 Workers 连接到您的区域专用网络，同时抽象出跨云网络的复杂性。</description>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
