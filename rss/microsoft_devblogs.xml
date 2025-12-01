@@ -10,6 +10,18 @@
       <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【How can I have a Win32 drop-down combo box with a read-only edit control?】如何拥有带有只读编辑控件的 Win32 下拉组合框？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251128-00/?p=111820</link>
+      <description>【A customer was writing a Win32 program and was looking for something like a combo box, in that it gave the user a choice among various fixed options, but sometimes the program would come up with a new option that wasn&#39;t on the list, and it would want to show that as the selection. On the other hand, the customer didn&#39;t want to give the user】一位客户正在编写一个 Win32 程序，并且正在寻找类似组合框的东西，因为它让用户可以在各种固定选项中进行选择，但有时该程序会提出一个不在列表中的新选项，并且它希望将其显示为选择。另一方面，客户又不想给用户</description>
+      <pubDate>Fri, 28 Nov 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing ASP.NET Core OData 10.0.0 Preview 1】发布 ASP.NET Core OData 10.0.0 预览版 1</title>
+      <link>https://devblogs.microsoft.com/odata/announcing-asp-net-core-odata-10-0-0-preview-1</link>
+      <description>【We&#39;re thrilled to announce the release of ASP.NET Core OData 10.0.0 Preview 1, a major modernization update that embraces .NET&#39;s native System.DateOnly and System.TimeOnly types! This release upgrades to .NET 10.0 and replaces OData&#39;s proprietary Edm.Date and Edm.TimeOfDay CL】我们很高兴地宣布发布 ASP.NET Core OData 10.0.0 Preview 1，这是一个包含 .NET 原生 System.DateOnly 和 System.TimeOnly 类型的重大现代化更新！此版本升级到 .NET 10.0 并取代 OData 专有的 Edm.Date 和 Edm.TimeOfDay CL</description>
+      <pubDate>Fri, 28 Nov 2025 06:53:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【Message-only windows are for messaging, not as a convenient victim for hosting UI】仅消息窗口用于消息传递，而不是作为托管 UI 的方便牺牲品</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20251127-00/?p=111817</link>
       <description>【A customer wanted to show a dialog box, but they didn&#39;t want it to be attached to any of their existing windows because it was a general dialog that applied to all of their windows. So they had a great idea: Their program already had a message-only window, so they figured, &#34;Hey, I already have this garbage window I can use as the owner of s】客户想要显示一个对话框，但他们不希望将其附加到任何现有窗口，因为这是一个适用于所有窗口的通用对话框。所以他们有了一个好主意：他们的程序已经有了一个仅显示消息的窗口，所以他们想，“嘿，我已经有了这个垃圾窗口，我可以将其用作 s 的所有者</description>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/blog/manage-containers-the-easy-way-copilot-vs-code</link>
       <description>【Managing containers can be one of the most repetitive parts of modern development. Between remembering CLI commands, switching contexts, and digging through logs, it’s easy to lose focus on the actual code you’re building. The latest release of the VS Code Container Tools extension changes that by putting Copilot directly】管理容器可能是现代开发中最重复的部分之一。在记住 CLI 命令、切换上下文和挖掘日志之间，很容易失去对正在构建的实际代码的关注。最新版本的 VS Code 容器工具扩展改变了这一点，直接将 Copilot</description>
       <pubDate>Tue, 25 Nov 2025 22:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Celebrating Community Contributions in Aspire 13】庆祝 Aspire 13 中的社区贡献</title>
-      <link>https://devblogs.microsoft.com/aspire/thanksgiving-contributions</link>
-      <description>【Aspire 13.0 marks a major milestone, not just for the product, but for the vibrant community that helped shape it. This release includes meaningful contributions from community members across features, integrations, tooling, and documentation. We wanted to highlight some standout PRs from this release as a way to say thanks, and hopefully i】Aspire 13.0 标志着一个重要的里程碑，不仅对于该产品而言，而且对于帮助塑造该产品的充满活力的社区而言也是如此。此版本包含社区成员在功能、集成、工具和文档方面做出的有意义的贡献。我们想重点介绍此版本中的一些出色的 PR，以表示感谢，希望我能</description>
-      <pubDate>Tue, 25 Nov 2025 20:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Memory in Foundry Agent Service】在 Foundry Agent 服务中引入内存</title>
-      <link>https://devblogs.microsoft.com/foundry/introducing-memory-in-foundry-agent-service</link>
-      <description>【Give your agents the power to remember  Imagine your agent never asks the same question twice. Until now, most agents hav】赋予您的客服人员记住的能力想象一下，您的客服人员永远不会问同一个问题两次。到目前为止，大多数代理商都已</description>
-      <pubDate>Tue, 25 Nov 2025 16:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
