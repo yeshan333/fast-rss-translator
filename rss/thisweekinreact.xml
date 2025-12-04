@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #261: RSC vulnerability, Activity, ViewTransition, React Router, Sonner, Cedar, Storybook, Conform | RNRepo, Nitro Modules, Keyboard Controller, SET, Sheets, deep links | tsgo, Bun, WebGPU, Vite, oxfmt, Valibot】本周 React #261：RSC 漏洞、Activity、ViewTransition、React Router、Sonner、Cedar、Storybook、Conform | RNRepo、Nitro 模块、键盘控制器、SET、表格、深层链接 | tsgo、Bun、WebGPU、Vite、oxfmt、Valibot</title>
+      <link>https://thisweekinreact.com/newsletter/261</link>
+      <description>【Hi everyone\!】大家好\！</description>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #260: TanStack, Actions, Immer, RTK, Streamdown, XState Store, ReScript, HTML streaming | Vercel v0, Worklets, Skia, Tailwind, Native Stack, Gifted Chat, Enriched | TC39, Playwright, Bun, Astro, Better Auth】本周 React #260：TanStack、Actions、Immer、RTK、Streamdown、XState Store、ReScript、HTML 流 | Vercel v0、Worklets、Skia、Tailwind、Native Stack、Gifted Chat、Enriched | TC39、剧作家、Bun、Astro、Better Auth</title>
       <link>https://thisweekinreact.com/newsletter/260</link>
       <description>【Hi everyone! Kacper and Tymek from Software Mansion here! 👋】大家好！来自 Software Mansion 的 Kacper 和 Tymek 在这里！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/257</link>
       <description>【Hi everyone, Seb and Armand here\! 👋】大家好，这里是 Seb 和 Armand！ 👋</description>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #256: Next.js, directives, TanStack, Storybook, Waku, shadcn, Rari, Astro | Navigation, EAS, Expo Modules, Gesture Handler, Screens, Nitro, IAP | ArkType, Biome, Svelte, Hono】本周 React #256：Next.js、指令、TanStack、Storybook、Waku、shadcn、Rari、Astro |导航、EAS、Expo 模块、手势处理程序、屏幕、Nitro、IAP | ArkType、生物群系、Svelte、Hono</title>
-      <link>https://thisweekinreact.com/newsletter/256</link>
-      <description>【Hi everyone\! Filip and Krzysztof from Software Mansion here\! 👋】大家好\！来自 Software Mansion 的 Filip 和 Krzysztof 这里\！ 👋</description>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

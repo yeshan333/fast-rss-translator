@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Meta Uses AI Agents for Data Warehouse Access and Security】Meta 如何使用 AI 代理实现数据仓库访问和安全</title>
+      <link>https://blog.bytebytego.com/p/how-meta-uses-ai-agents-for-data</link>
+      <description>【In this article, we look at how Meta redesigned their data warehouse architecture to work with both humans and agents.】在本文中，我们将了解 Meta 如何重新设计其数据仓库架构以与人类和代理一起工作。</description>
+      <pubDate>Wed, 03 Dec 2025 16:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Netflix Built a Distributed Write Ahead Log For Its Data Platform】Netflix 如何为其数据平台构建分布式预写日志</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-write</link>
+      <description>【Netflix&amp;#8217;s engineering team faced several recurring issues that threatened the reliability of their data.】Netflix 的工程团队面临着几个反复出现的问题，这些问题威胁到了他们的数据的可靠性。</description>
+      <pubDate>Tue, 02 Dec 2025 16:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LLMs Learn from the Internet: The Training Process】法学硕士如何从互联网学习：培训过程</title>
+      <link>https://blog.bytebytego.com/p/how-llms-learn-from-the-internet</link>
+      <description>【In this article, we will walk through the complete journey of how LLMs are trained, from the initial collection of raw data to the final conversational assistant.】在本文中，我们将介绍法学硕士的培训完整过程，从最初的原始数据收集到最终的对话助理。</description>
+      <pubDate>Mon, 01 Dec 2025 16:30:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【Last Call: All in One Interview Prep Black Friday Sale Ends Today】最后一次通话：一体化面试准备黑色星期五促销今天结束</title>
       <link>https://blog.bytebytego.com/p/last-call-all-in-one-interview-prep</link>
       <description>【Yearly Black Friday sale Ends Today! Use code BF2025 at checkout to get 30% off the all-in-one interview prep online courses.】一年一度的黑色星期五促销今天结束！结帐时使用代码 BF2025 即可获得一体化面试准备在线课程 30% 的折扣。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/top-strategies-to-build-high-availability</link>
       <description>【In this article, we will understand what availability means and look at some of the most popular strategies to achieve high availability.】在本文中，我们将了解可用性的含义，并了解一些最流行的实现高可用性的策略。</description>
       <pubDate>Thu, 20 Nov 2025 16:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Disney Hotstar (now JioHotstar) Scaled Its Infra for 60 Million Concurrent Users】Disney Hotstar（现为 JioHotstar）如何为 6000 万并发用户扩展基础设施</title>
-      <link>https://blog.bytebytego.com/p/how-disney-hotstar-now-jiohotstar</link>
-      <description>【In this article, we look at how the Disney+ Hotstar engineering team achieved that scale and the challenges they faced.】在本文中，我们将了解 Disney+ Hotstar 工程团队如何实现这一规模以及他们面临的挑战。</description>
-      <pubDate>Tue, 18 Nov 2025 16:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Grab Built an AI Foundation Model To Understand Customers Better】Grab 如何构建 AI 基础模型以更好地了解客户</title>
-      <link>https://blog.bytebytego.com/p/how-grab-built-an-ai-foundation-model</link>
-      <description>【In this article, we look at how Grab developed this foundational model and the challenges it faced.】在本文中，我们将了解 Grab 如何开发这一基础模型及其面临的挑战。</description>
-      <pubDate>Mon, 17 Nov 2025 16:30:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP189: How to Design Good APIs】EP189：如何设计好的 API</title>
-      <link>https://blog.bytebytego.com/p/ep189-how-to-design-good-apis</link>
-      <description>【A well-designed API feels invisible, it just works. Behind that simplicity lies a set of consistent design principles that make APIs predictable, secure, and scalable.】设计良好的 API 让人感觉看不见，但它确实有效。这种简单性背后隐藏着一组一致的设计原则，使 API 具有可预测性、安全性和可扩展性。</description>
-      <pubDate>Sat, 15 Nov 2025 16:30:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

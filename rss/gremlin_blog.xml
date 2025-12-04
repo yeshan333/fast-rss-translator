@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Gremlin’s unofficial reliability track for Gartner IOCS 2025】Gremlin 的 Gartner IOCS 2025 非官方可靠性跟踪</title>
+      <link>https://www.gremlin.com/blog/gremlins-unofficial-reliability-track-for-gartner-iocs-2025</link>
+      <description>【Check out the Gremlin-curated unofficial track of reliability talks at Gartner IOCS 2025.】查看 Gremlin 在 Gartner IOCS 2025 上策划的非官方可靠性会谈。</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Reliability lessons from the 2025 Cloudflare outage】2025 年 Cloudflare 中断带来的可靠性教训</title>
       <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-cloudflare-outage</link>
       <description>【In November 2025, a misconfigured Cloudflare service led to a partial outage. Learn what happened, and what you can do to reduce the impact of similar outages.】2025 年 11 月，Cloudflare 服务配置错误导致部分中断。了解发生了什么，以及您可以采取哪些措施来减少类似中断的影响。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/3-things-you-can-do-to-get-closer-to-five-nines</link>
       <description>【3 proven practices to achieve 99.999% uptime. Learn how teams reach five nines through weekly testing, on-call rotations, and visibility.】3 个经过验证的实践可实现 99.999% 的正常运行时间。了解团队如何通过每周测试、待命轮换和可见性达到五个九。</description>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to get fast, easy insights with the Gremlin MCP Server】如何使用 Gremlin MCP 服务器快速、轻松地获得见解</title>
-      <link>https://www.gremlin.com/blog/how-to-get-fast-easy-insights-with-the-gremlin-mcp-server</link>
-      <description>【Find out how to quickly and easily uncover new reliability insights by using the Gremlin MCP Server and your favorite LLM.】了解如何使用 Gremlin MCP 服务器和您最喜欢的法学硕士快速轻松地发现新的可靠性见解。</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
