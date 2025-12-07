@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Cloudflare outage on December 5, 2025】Cloudflare 于 2025 年 12 月 5 日中断</title>
+      <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
+      <description>【 Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components. 】Cloudflare 于 2025 年 12 月 5 日经历了严重的流量中断，大约从世界标准时间 8:47 开始。事件持续了大约25分钟才得到解决。对于这对我们的客户和互联网造成的影响，我们深表歉意。该事件不是由攻击引起的，而是由于应用配置更改来尝试缓解最近影响 React Server 组件的全行业漏洞。</description>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare WAF proactively protects against React vulnerability】Cloudflare WAF 主动防御 React 漏洞</title>
       <link>https://blog.cloudflare.com/waf-rules-react-vulnerability/</link>
       <description>【 Cloudflare offers protection against a new high profile vulnerability for React Server Components: CVE-2025-55182. All WAF customers are automatically protected as long as the WAF is deployed. 】Cloudflare 为 React 服务器组件提供针对新的备受瞩目的漏洞的保护：CVE-2025-55182。只要部署了WAF，所有WAF客户都会自动受到保护。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/connecting-to-production-the-architecture-of-remote-bindings/</link>
       <description>【 Remote bindings allow you to connect your local Worker code to deployed Cloudflare resources like R2 and D1. Come along on the technical journey of how we built this feature to create a seamless local development experience. 】远程绑定允许您将本地 Worker 代码连接到已部署的 Cloudflare 资源（例如 R2 和 D1）。跟随我们的技术之旅，了解我们如何构建此功能以创建无缝的本地开发体验。</description>
       <pubDate>Wed, 12 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A closer look at Python Workflows, now in beta】仔细研究 Python 工作流程，现在处于测试阶段</title>
-      <link>https://blog.cloudflare.com/python-workflows/</link>
-      <description>【 Cloudflare Workflows, our durable execution engine for running multi-step applications, now supports Python. That means less friction, more possibilities, and another reason to build on Cloudflare. 】Cloudflare Workflows 是我们用于运行多步骤应用程序的持久执行引擎，现在支持 Python。这意味着更少的摩擦、更多的可能性，也是在 Cloudflare 上构建的另一个原因。</description>
-      <pubDate>Mon, 10 Nov 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
