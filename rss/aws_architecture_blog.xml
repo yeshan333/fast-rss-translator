@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>她的架构师：为 AWS 的创新解决方案带来独特的视角</title>
+      <link>https://aws.amazon.com/blogs/architecture/she-architects-bringing-unique-perspectives-to-innovative-solutions-at-aws/</link>
+      <description></description>
+      <pubDate>Mon, 08 Dec 2025 16:37:15 +0000</pubDate>
+    </item>
+    <item>
       <title>使用 AWS 网络防火墙保护 Amazon Elastic VMware Service (Amazon EVS)</title>
       <link>https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/</link>
       <description></description>
       <pubDate>Wed, 01 Oct 2025 23:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>构建有弹性的生成式人工智能代理</title>
-      <link>https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/</link>
-      <description></description>
-      <pubDate>Tue, 30 Sep 2025 15:11:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

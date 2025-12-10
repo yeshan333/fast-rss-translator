@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code】在企业规模上左移：我们如何通过基础设施即代码来管理 Cloudflare</title>
+      <link>https://blog.cloudflare.com/shift-left-enterprise-scale/</link>
+      <description>【 Cloudflare has shifted to Infrastructure as Code and policy enforcement to manage internal Cloudflare accounts. This new architecture uses Terraform, custom tooling, and Open Policy Agent to enforce security baselines and increase engineering velocity. 】Cloudflare 已转向基础设施即代码和策略执行来管理内部 Cloudflare 帐户。这种新架构使用 Terraform、自定义工具和开放策略代理来实施安全基线并提高工程速度。</description>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python Workers redux: fast cold starts, packages, and a uv-first workflow】Python Workers redux：快速冷启动、包和 uv 优先工作流程</title>
+      <link>https://blog.cloudflare.com/python-workers-advancements/</link>
+      <description>【 Recent advancements in Cloudflare Python Workers means fast cold starts, comprehensive package support, and a great developer experience. We explain how they were achieved and show how Python can be used to build serverless applications on Cloudflare. 】Cloudflare Python Workers 的最新进展意味着快速冷启动、全面的软件包支持和出色的开发人员体验。我们解释了它们是如何实现的，并展示了如何使用 Python 在 Cloudflare 上构建无服务器应用程序。</description>
+      <pubDate>Mon, 08 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare outage on December 5, 2025】Cloudflare 于 2025 年 12 月 5 日中断</title>
       <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
       <description>【 Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components. 】Cloudflare 于 2025 年 12 月 5 日经历了严重的流量中断，大约从世界标准时间 8:47 开始。事件持续了大约25分钟才得到解决。对于这对我们的客户和互联网造成的影响，我们深表歉意。该事件不是由攻击引起的，而是由于应用配置更改来尝试缓解最近影响 React Server 组件的全行业漏洞。</description>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/replicate-joins-cloudflare/</link>
       <description>【 Bringing Replicate’s tools into Cloudflare will continue to make our Workers Platform the best place on the Internet to build and deploy any AI or agentic workflow.&#xA; 】将 Replicate 的工具引入 Cloudflare 将继续使我们的 Workers Platform 成为互联网上构建和部署任何 AI 或代理工作流程的最佳场所。</description>
       <pubDate>Mon, 17 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Finding the grain of sand in a heap of Salt】在盐堆中寻找沙粒</title>
-      <link>https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/</link>
-      <description>【 We explore the fundamentals of Saltstack and how we use it at Cloudflare. We also explain how we built the infrastructure to reduce release delays due to Salt failures on the edge by over 5%.  】我们探索 Saltstack 的基础知识以及如何在 Cloudflare 中使用它。我们还解释了我们如何构建基础设施，以将由于边缘 Salt 故障而导致的发布延迟减少 5% 以上。</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Connecting to production: the architecture of remote bindings】连接到生产：远程绑定的架构</title>
-      <link>https://blog.cloudflare.com/connecting-to-production-the-architecture-of-remote-bindings/</link>
-      <description>【 Remote bindings allow you to connect your local Worker code to deployed Cloudflare resources like R2 and D1. Come along on the technical journey of how we built this feature to create a seamless local development experience. 】远程绑定允许您将本地 Worker 代码连接到已部署的 Cloudflare 资源（例如 R2 和 D1）。跟随我们的技术之旅，了解我们如何构建此功能以创建无缝的本地开发体验。</description>
-      <pubDate>Wed, 12 Nov 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

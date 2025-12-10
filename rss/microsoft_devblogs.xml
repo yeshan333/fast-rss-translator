@@ -10,58 +10,58 @@
       <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Foundry MCP Server (preview) in the cloud, speeding up AI development with Microsoft Foundry】宣布推出云端 Foundry MCP 服务器（预览版），利用 Microsoft Foundry 加速 AI 开发</title>
-      <link>https://devblogs.microsoft.com/foundry/announcing-foundry-mcp-server-preview-speeding-up-ai-dev-with-microsoft-foundry</link>
-      <description>【MCP (Model Context Protocol) is a standard protocol that enables AI agents to securely connect with apps, data, and systems, supporting easy interoperability and seamless platform expansion. At Ignite, Microsoft Foundry introduced Foundry Too】MCP（模型上下文协议）是一种标准协议，使人工智能代理能够安全地连接应用程序、数据和系统，支持轻松的互操作性和无缝平台扩展。在 Ignite 大会上，Microsoft Foundry 推出了 Foundry Too</description>
-      <pubDate>Wed, 03 Dec 2025 19:15:11 +0000</pubDate>
+      <title>【Announcing Azure DevOps Server General Availability】宣布 Azure DevOps 服务器全面可用</title>
+      <link>https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability</link>
+      <description>【We’re thrilled to announce that Azure DevOps Server is now generally available (GA)! This release marks the transition from the Release Candidate (RC) phase to full production readiness, delivering enterprise-grade DevOps capabilities fo】我们很高兴地宣布 Azure DevOps Server 现已全面可用 (GA)！此版本标志着从发布候选 (RC) 阶段到全面生产准备阶段的过渡，为企业提供企业级 DevOps 功能</description>
+      <pubDate>Tue, 09 Dec 2025 20:39:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Data Ingestion Building Blocks (Preview)】介绍数据摄取构建块（预览版）</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview</link>
-      <description>【When building AI applications, context is key. AI models have a knowledge cutoff and do not have access to your personal or company data by default. To generate high-quality answers, AI apps need two things: Access to high-quality data The ability to surface the right information at the right time】在构建人工智能应用程序时，上下文是关键。 AI 模型存在知识限制，默认情况下无法访问您的个人或公司数据。为了生成高质量的答案，人工智能应用程序需要满足两个条件： 访问高质量的数据 能够在正确的时间呈现正确的信息</description>
-      <pubDate>Wed, 03 Dec 2025 18:05:00 +0000</pubDate>
+      <title>【.NET and .NET Framework December 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 12 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for December 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Update Overview .NET and .NET Framework has been refreshed with the latest update as of December 09, 2025. This update contains non-securi】欢迎使用我们 2025 年 12 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述：更新概述 .NET 和 .NET Framework 已使用截至 2025 年 12 月 9 日的最新更新进行了刷新。此更新包含非安全内容</description>
+      <pubDate>Tue, 09 Dec 2025 18:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more】Visual Studio 11 月更新 – Visual Studio 2026、云代理预览版等</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more</link>
-      <description>【】</description>
-      <pubDate>Wed, 03 Dec 2025 16:00:24 +0000</pubDate>
+      <title>【Blue-green deployment in Azure Container Apps using Azure Developer CLI】使用 Azure 开发人员 CLI 在 Azure 容器应用程序中进行蓝绿部署</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-blue-green-aca-deployment</link>
+      <description>【Blue-green deployment in Azure Container Apps using Azure Developer CLI If you follow the Azure Developer CLI blog posts, you already know that Azure Container Apps (ACA) support in Azure Developer CLI (azd) is GA. We want azd to be production-ready—you should be a】使用 Azure 开发人员 CLI 在 Azure 容器应用中进行蓝绿部署 如果您关注 Azure 开发人员 CLI 博客文章，您已经知道 Azure 开发人员 CLI (azd) 中的 Azure 容器应用 (ACA) 支持已正式发布。我们希望 azd 做好生产准备——您应该是</description>
+      <pubDate>Tue, 09 Dec 2025 18:34:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Why changing keyboard shortcuts in Visual Studio isn’t as simple as it seems】为什么在 Visual Studio 中更改键盘快捷键并不像看起来那么简单</title>
-      <link>https://devblogs.microsoft.com/visualstudio/why-changing-keyboard-shortcuts-in-visual-studio-isnt-as-simple-as-it-seems</link>
-      <description>【A straight look at what’s behind the keys We’ve all tried unlearning a keyboard shortcut - it feels like forgetting how to breathe. Muscle memory doesn’t mess around. We wrestle with this every time someone suggest a “quick” shortcut change. It’s not just editing a keybinding but navigating a history that makes Visual Stu】直视按键背后的内容我们都尝试过忘记键盘快捷键 - 感觉就像忘记了如何呼吸。肌肉记忆不会乱七八糟。每当有人建议“快速”改变捷径时，我们都会陷入困境。这不仅仅是编辑键绑定，而是浏览历史记录，这使得 Visual Stu</description>
-      <pubDate>Wed, 03 Dec 2025 15:00:13 +0000</pubDate>
+      <title>【Implementing Cross-Platform In-App Billing in .NET MAUI Applications】在 .NET MAUI 应用程序中实现跨平台应用内计费</title>
+      <link>https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui</link>
+      <description>【With the discontinuation of the popular InAppBillingPlugin, many .NET MAUI developers have been looking for guidance on implementing in-app purchases in their applications. Today, we&#39;re sharing a comprehensive sample that demonstrates how to implement cross-platform billing】随着流行的 InAppBillingPlugin 的停止，许多 .NET MAUI 开发人员一直在寻找有关在其应用程序中实现应用内购买的指导。今天，我们分享一个全面的示例，演示如何实现跨平台计费</description>
+      <pubDate>Tue, 09 Dec 2025 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How do I check whether the user has permission to create files in a directory?】如何检查用户是否有权限在目录中创建文件？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251203-00/?p=111836</link>
-      <description>【A customer wanted to accept a directory entered by the user and verify that the user has permission to create files in that folder. The directory itself might not even be on a local hard drive; it could be a DVD or a remote network volume. They tried calling Get­File­Attributes, but all they were told was that it was a direct】客户想要接受用户输入的目录并验证用户是否有权在该文件夹中创建文件。该目录本身甚至可能不在本地硬盘上；它可以是 DVD 或远程网络卷。他们尝试调用 GetFileAttributes，但他们只被告知这是一个直接的</description>
-      <pubDate>Wed, 03 Dec 2025 15:00:00 +0000</pubDate>
+      <title>【Previewing the JavaScript/TypeScript Modernizer for VS Code Insiders】为 VS Code Insider 预览 JavaScript/TypeScript Modernizer</title>
+      <link>https://devblogs.microsoft.com/blog/jsts-modernizer-preview</link>
+      <description>【Previewing the JavaScript/TypeScript Modernizer for VS Code Insiders Keeping JavaScript/TypeScript projects up-to-date can be a challenge, especially when it’s time to upgrade a bunch of npm packages or adopt the latest frameworks. We’ve heard from many JS/TS developers that modernizing an older app (upgrading de】为 VS Code Insider 预览 JavaScript/TypeScript Modernizer 保持 JavaScript/TypeScript 项目最新可能是一项挑战，特别是当需要升级一堆 npm 包或采用最新框架时。我们从许多 JS/TS 开发人员那里听说，对旧应用程序进行现代化改造（升级 de</description>
+      <pubDate>Tue, 09 Dec 2025 17:41:29 +0000</pubDate>
     </item>
     <item>
-      <title>【Pipe dreams to pipeline realities: an Aspire Pipelines story】从梦想到管道现实：Aspire Pipelines 的故事</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-pipelines</link>
-      <description>【Liked this blog post? It was originally posted on Safia Abdalla&#39;s blog, https://blog.safia.rocks/, check out more content there! OK, sit down folks, because this one is gonna be a long one. This is the all-encompassing blog post about the thing I&#39;v】喜欢这篇博文吗？它最初发布在 Safia Abdalla 的博客上，https://blog.safia.rocks/，查看更多内容！好吧，各位坐下，因为这会是一篇很长的文章。这是关于我的事情的包罗万象的博客文章</description>
-      <pubDate>Wed, 03 Dec 2025 14:00:23 +0000</pubDate>
+      <title>【How does Windows synthesize &lt;CODE&gt;CF_&lt;WBR&gt;UNICODE­TEXT&lt;/CODE&gt; from &lt;CODE&gt;CF_&lt;WBR&gt;TEXT&lt;/CODE&gt; and vice versa?】Windows 如何从 &lt;CODE&gt;CF_&lt;WBR&gt;TEXT&lt;/CODE&gt; 合成 &lt;CODE&gt;CF_&lt;WBR&gt;UNICODETEXT&lt;/CODE&gt;，反之亦然？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854</link>
+      <description>【Last time, we started our exploration of how Windows synthesizes text clipboard formats by looking at the conversion between CF_OEM­TEXT and CF_TEXT】上次，我们通过查看 CF_OEMTEXT 和 CF_TEXT 之间的转换来开始探索 Windows 如何合成文本剪贴板格式</description>
+      <pubDate>Tue, 09 Dec 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.25.5-1 and 1.24.11-1 Microsoft builds now available】Go 1.25.5-1 和 1.24.11-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-5-1-and-1-24-11-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Wed, 03 Dec 2025 04:28:00 +0000</pubDate>
+      <title>【Announcing Microsoft Entra PowerShell v1.1.0】宣布推出 Microsoft Entra PowerShell v1.1.0</title>
+      <link>https://devblogs.microsoft.com/entrapowershell/announcing-microsoft-entra-powershell-v1-1-0</link>
+      <description>【We’re thrilled to introduce Microsoft Entra PowerShell v1.1.0 available on PowerShell Gallery. The headline feature is No more version pinning to Microsoft Graph PowerShell v2.25.0. You can now use the latest Graph modules wi】我们很高兴在 PowerShell Gallery 上推出 Microsoft Entra PowerShell v1.1.0。标题功能是不再有版本固定到 Microsoft Graph PowerShell v2.25.0。您现在可以使用最新的图形模块</description>
+      <pubDate>Tue, 09 Dec 2025 07:17:39 +0000</pubDate>
     </item>
     <item>
-      <title>【⭐Upcoming Virtual Event⭐ AI Dev Days, Level-Up Your AI Skills with Microsoft Reactor】⭐即将举行的虚拟活动⭐ AI 开发日，使用 Microsoft Reactor 提升您的 AI 技能</title>
-      <link>https://devblogs.microsoft.com/foundry/ai-dev-days-december-2025</link>
-      <description>【】</description>
-      <pubDate>Wed, 03 Dec 2025 03:15:13 +0000</pubDate>
+      <title>【Entra PowerShell Now Supports Latest Microsoft Graph PowerShell Versions】Entra PowerShell 现在支持最新的 Microsoft Graph PowerShell 版本</title>
+      <link>https://devblogs.microsoft.com/entrapowershell/entra-powershell-now-supports-latest-microsoft-graph-powershell-versions</link>
+      <description>【We’ve heard you and we’ve made it happen! One of the most requested changes from our community has been greater flexibility when working with Microsoft Graph PowerShell. Previously, Entra PowerShell pinned its dependency to Microsoft Graph PowerShell v2.25, which limited customers from leveraging】我们听到了您的声音，我们已经实现了这一目标！我们社区最需要的更改之一是使用 Microsoft Graph PowerShell 时具有更大的灵活性。此前，Entra PowerShell 将其依赖关系固定为 Microsoft Graph PowerShell v2.25，这限制了客户利用</description>
+      <pubDate>Tue, 09 Dec 2025 06:35:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing the VS Code Insiders Podcast】VS Code Insider 播客简介</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/introducing-the-vs-code-insiders-podcast</link>
-      <description>【The VS Code Insiders Podcast is your insider&#39;s guide to the features, decisions, and people shaping the future of Visual Studio Code. Read the full article】VS Code 内部人士播客是您的内部人士指南，了解塑造 Visual Studio Code 未来的功能、决策和人员。阅读全文</description>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <title>【Long-term data retention up to 10 years: Announcing Private Preview of Azure Backup for Azure Cosmos DB】数据长期保留长达 10 年：宣布推出 Azure Cosmos DB 备份专用预览版</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/cosmos-db-ltr-immutability</link>
+      <description>【Azure Backup for Azure Cosmos DB is a new option that lets you securely protect and recover your Azure Cosmos DB data for compliance, audit, and ransomware protection scenarios. It leverages Azure Backup’s vault isolation and Azure Cosmos DB’s native backup streams to deliver scalable, long-term data protection that meets regulatory requir】适用于 Azure Cosmos DB 的 Azure 备份是一个新选项，可让你安全地保护和恢复 Azure Cosmos DB 数据，以实现合规性、审核和勒索软件保护方案。它利用 Azure Backup 的保管库隔离和 Azure Cosmos DB 的本机备份流来提供满足监管要求的可扩展的长期数据保护</description>
+      <pubDate>Mon, 08 Dec 2025 20:45:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

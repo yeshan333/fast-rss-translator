@@ -4,6 +4,12 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
+      <title>【Scaling real-time file monitoring with eBPF: How we filtered billions of kernel events per minute】使用 eBPF 扩展实时文件监控：我们如何每分钟过滤数十亿个内核事件</title>
+      <link>https://ebpfchirp.substack.com/p/testing-ebpf-program-compatibility</link>
+      <description>【Building file integrity monitoring on top of eBPF at Datadog】在 Datadog 的 eBPF 之上构建文件完整性监控</description>
+      <pubDate>Tue, 18 Nov 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【eBPF Foundation Announces Community &amp; Advocacy Fellowship Program】eBPF 基金会宣布社区和倡导奖学金计划</title>
       <link>https://ebpf.foundation/ebpf-foundation-announces-community-advocacy-fellowship-program/</link>
       <description>【The fellowship is a six-month grant for individuals who want to dedicate their time to growing and educating the eBPF community】该奖学金是为那些想要将时间投入到发展和教育 eBPF 社区的个人提供的为期六个月的资助</description>
@@ -56,12 +62,6 @@
       <link>https://thenewstack.io/ebpf-in-2025-bigger-than-the-crowdstrike-outage/</link>
       <description>【 In 2025 eBPF adoption will expand rapidly and other predictions】2025 年 eBPF 的采用将迅速扩大以及其他预测</description>
       <pubDate>Wed, 01 Jan 2025 12:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【P99Conf: How eBPF Could Make Faster Database Systems】P99Conf：eBPF 如何打造更快的数据库系统</title>
-      <link>https://thenewstack.io/p99conf-how-ebpf-could-make-faster-database-systems/</link>
-      <description>【Learn about BPF-DB, an in-memory key-value data store that can be planted within the OS kernel itself via eBPF, thereby routing around the restrictions and limitations of an OS’s user space, or the space in memory where a program is typically run】了解 BPF-DB，这是一种内存中键值数据存储，可以通过 eBPF 植入操作系统内核本身，从而绕过操作系统用户空间或通常运行程序的内存空间的约束和限制</description>
-      <pubDate>Sun, 27 Oct 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
