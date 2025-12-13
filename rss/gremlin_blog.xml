@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【How to use Gremlin’s Reliability Report】如何使用 Gremlin 的可靠性报告</title>
+      <link>https://www.gremlin.com/blog/how-to-use-gremlins-reliability-report</link>
+      <description>【Find out how our Reliability Report gives you visibility into your system’s reliability—and how Gremlin uses it to improve reliability.】了解我们的可靠性报告如何让您了解系统的可靠性，以及 Gremlin 如何利用它来提高可靠性。</description>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Gremlin’s unofficial reliability track for Gartner IOCS 2025】Gremlin 的 Gartner IOCS 2025 非官方可靠性跟踪</title>
       <link>https://www.gremlin.com/blog/gremlins-unofficial-reliability-track-for-gartner-iocs-2025</link>
       <description>【Check out the Gremlin-curated unofficial track of reliability talks at Gartner IOCS 2025.】查看 Gremlin 在 Gartner IOCS 2025 上策划的非官方可靠性会谈。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/chaos-engineering-works-but-it-has-to-scale</link>
       <description>【Chaos Engineering effectively improves the reliability of systems, but it can run into snags when you try to scale. Build on Chaos Engineering with these key actions.】混沌工程有效地提高了系统的可靠性，但当您尝试扩展时，它可能会遇到障碍。通过这些关键行动以混沌工程为基础。</description>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【3 things you can do to get closer to five nines】您可以做三件事来接近五个九</title>
-      <link>https://www.gremlin.com/blog/3-things-you-can-do-to-get-closer-to-five-nines</link>
-      <description>【3 proven practices to achieve 99.999% uptime. Learn how teams reach five nines through weekly testing, on-call rotations, and visibility.】3 个经过验证的实践可实现 99.999% 的正常运行时间。了解团队如何通过每周测试、待命轮换和可见性达到五个九。</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #262: React2Shell, Fate, TanStack AI, React Grab, Formisch, Base UI | React Native 0.83, Reanimated 4.2, State of RN, Refined, Crypto, Worklets, Sheet Navigator | CSS, Temporal, Supply Chain, Firefox】本周 React #262：React2Shell、Fate、TanStack AI、React Grab、Formisch、Base UI | React Native 0.83、Reanimated 4.2、RN 状态、Refined、Crypto、Worklets、Sheet Navigator | CSS、时态、供应链、Firefox</title>
+      <link>https://thisweekinreact.com/newsletter/262</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #261: RSC vulnerability, Activity, ViewTransition, React Router, Sonner, Cedar, Storybook, Conform | RNRepo, Nitro Modules, Keyboard Controller, SET, Sheets, deep links | tsgo, Bun, WebGPU, Vite, oxfmt, Valibot】本周 React #261：RSC 漏洞、Activity、ViewTransition、React Router、Sonner、Cedar、Storybook、Conform | RNRepo、Nitro 模块、键盘控制器、SET、表格、深层链接 | tsgo、Bun、WebGPU、Vite、oxfmt、Valibot</title>
       <link>https://thisweekinreact.com/newsletter/261</link>
       <description>【Hi everyone\!】大家好\！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/258</link>
       <description>【Hi everyone, Seb here\! 👋】大家好，这里是Seb\！ 👋</description>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #257: Navigation API, PPR, directives, micro-frontends, i18n, Storybook, Immer | Godot, Uniwind, RCE, iOS filters, Windows, GPU, Hermes, Meta Quest | Node LTS, Safari, Rspack, Vite, SWC, Remix】本周 React #257：导航 API、PPR、指令、微前端、i18n、Storybook、Immer | Godot、Uniwind、RCE、iOS 过滤器、Windows、GPU、Hermes、Meta Quest |节点 LTS、Safari、Rspack、Vite、SWC、Remix</title>
-      <link>https://thisweekinreact.com/newsletter/257</link>
-      <description>【Hi everyone, Seb and Armand here\! 👋】大家好，这里是 Seb 和 Armand！ 👋</description>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

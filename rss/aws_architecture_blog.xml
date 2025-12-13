@@ -4,6 +4,18 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>为云应用程序构建对话式可观察性</title>
+      <link>https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/</link>
+      <description></description>
+      <pubDate>Thu, 11 Dec 2025 15:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>巴斯夫农业解决方案如何通过使用亚马逊管理区块链对棉花价值链进行代币化来推动可追溯性和气​​候行动</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/</link>
+      <description></description>
+      <pubDate>Wed, 10 Dec 2025 17:41:52 +0000</pubDate>
+    </item>
+    <item>
       <title>她的架构师：为 AWS 的创新解决方案带来独特的视角</title>
       <link>https://aws.amazon.com/blogs/architecture/she-architects-bringing-unique-perspectives-to-innovative-solutions-at-aws/</link>
       <description></description>
@@ -50,18 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/</link>
       <description></description>
       <pubDate>Fri, 14 Nov 2025 18:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>BASF Digital Farming 在 Amazon EKS 上构建基于 STAC 的解决方案</title>
-      <link>https://aws.amazon.com/blogs/architecture/basf-digital-farming-builds-a-stac-based-solution-on-amazon-eks/</link>
-      <description></description>
-      <pubDate>Wed, 22 Oct 2025 16:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS 上实时支付编排的现代化</title>
-      <link>https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/</link>
-      <description></description>
-      <pubDate>Wed, 01 Oct 2025 23:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How OpenAI, Gemini, and Claude Use Agents to Power Deep Research】OpenAI、Gemini 和 Claude 如何使用代理来推动深度研究</title>
+      <link>https://blog.bytebytego.com/p/how-openai-gemini-and-claude-use</link>
+      <description>【We will walk through the architecture that enables Deep Research, how different LLMs implement it, how agents coordinate with one another, and how the final report is synthesized and validated before being delivered to the user.】我们将介绍支持深度研究的架构、不同的法学硕士如何实施它、代理如何相互协调，以及最终报告在交付给用户之前如何合成和验证。</description>
+      <pubDate>Fri, 12 Dec 2025 16:30:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Must-Know System Performance Strategies】必须了解的系统性能策略</title>
+      <link>https://blog.bytebytego.com/p/must-know-system-performance-strategies</link>
+      <description>【In this article, we will look at system performance in detail, understand how it can be measured, and investigate key strategies that can be used to improve the performance of a system on different levels.】在本文中，我们将详细研究系统性能，了解如何测量它，并研究可用于在不同级别提高系统性能的关键策略。</description>
+      <pubDate>Thu, 11 Dec 2025 16:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The $250 Million Paper】价值 2.5 亿美元的论文</title>
+      <link>https://blog.bytebytego.com/p/the-250-million-paper</link>
+      <description>【This article explains what Molmo is, why it matters, and how it solves a long-standing problem in vision language modeling.】本文解释了 Molmo 是什么、它为何重要以及它如何解决视觉语言建模中长期存在的问题。</description>
+      <pubDate>Wed, 10 Dec 2025 16:30:49 +0000</pubDate>
+    </item>
+    <item>
       <title>【Dropbox Multimedia Search: Making File Search More Useful】Dropbox 多媒体搜索：使文件搜索更有用</title>
       <link>https://blog.bytebytego.com/p/dropbox-multimedia-search-making</link>
       <description>【In this article, we&amp;#8217;ll explore how the Dropbox engineering team implemented multimedia search features and the technical challenges they faced along the way.】在本文中，我们将探讨 Dropbox 工程团队如何实现多媒体搜索功能以及他们在此过程中面临的技术挑战。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-write</link>
       <description>【Netflix&amp;#8217;s engineering team faced several recurring issues that threatened the reliability of their data.】Netflix 的工程团队面临着几个反复出现的问题，这些问题威胁到了他们的数据的可靠性。</description>
       <pubDate>Tue, 02 Dec 2025 16:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LLMs Learn from the Internet: The Training Process】法学硕士如何从互联网学习：培训过程</title>
-      <link>https://blog.bytebytego.com/p/how-llms-learn-from-the-internet</link>
-      <description>【In this article, we will walk through the complete journey of how LLMs are trained, from the initial collection of raw data to the final conversational assistant.】在本文中，我们将介绍法学硕士的培训完整过程，从最初的原始数据收集到最终的对话助理。</description>
-      <pubDate>Mon, 01 Dec 2025 16:30:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Last Call: All in One Interview Prep Black Friday Sale Ends Today】最后一次通话：一体化面试准备黑色星期五促销今天结束</title>
-      <link>https://blog.bytebytego.com/p/last-call-all-in-one-interview-prep</link>
-      <description>【Yearly Black Friday sale Ends Today! Use code BF2025 at checkout to get 30% off the all-in-one interview prep online courses.】一年一度的黑色星期五促销今天结束！结帐时使用代码 BF2025 即可获得一体化面试准备在线课程 30% 的折扣。</description>
-      <pubDate>Sun, 30 Nov 2025 16:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP191: Virtualization vs. Containerization】EP191：虚拟化与容器化</title>
-      <link>https://blog.bytebytego.com/p/ep191-virtualization-vs-containerization</link>
-      <description>【Before containers simplified deployment, virtualization changed how we used hardware. Both isolate workloads, but they do it differently.】在容器简化部署之前，虚拟化改变了我们使用硬件的方式。两者都隔离工作负载，但做法不同。</description>
-      <pubDate>Sat, 29 Nov 2025 16:30:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

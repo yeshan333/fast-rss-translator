@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【Design Stock Exchange - A Deep Dive】设计股票交易所 - 深入探讨</title>
+      <link>https://newsletter.systemdesign.one/p/system-design-stock-exchange</link>
+      <description>【#107: System Design Stock Exchange - Part 3】#107：证券交易所系统设计 - 第 3 部分</description>
+      <pubDate>Thu, 11 Dec 2025 09:01:10 +0000</pubDate>
+    </item>
+    <item>
       <title>【System Design Interview: Design WhatsApp】系统设计访谈：设计 WhatsApp</title>
       <link>https://newsletter.systemdesign.one/p/whatsapp-system-design</link>
       <description>【#106: System Design Interview - Part 1】#106：系统设计面试 - 第 1 部分</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/commands-in-git</link>
       <description>【#98: Git bisect, Git blame, Git stash and 18 others.】#98：Git bisect、Git Blame、Git stash 和其他 18 个。</description>
       <pubDate>Thu, 06 Nov 2025 10:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Everything You Need to Know to Understand How LLMs Like ChatGPT Actually Work】了解 ChatGPT 等法学硕士实际运作方式所需了解的一切</title>
-      <link>https://newsletter.systemdesign.one/p/llm-concepts</link>
-      <description>【#97: Thirty-Three LLM Concepts Explained (Without Maths)】#97：三十三个法学硕士概念解释（无数学）</description>
-      <pubDate>Mon, 03 Nov 2025 10:30:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

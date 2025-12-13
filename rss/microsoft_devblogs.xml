@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【November 2025 Insiders (version 1.107)】2025 年 11 月 Insider（版本 1.107）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/november-2025-insiders-(version-1.107)</link>
-      <description>【Learn what is new in the Visual Studio Code November 2025 Release (1.107). Read the full article】了解 Visual Studio Code 2025 年 11 月版本 (1.107) 中的新增功能。阅读全文</description>
+      <title>【Resolving an ambiguity in the Windows clipboard automated text conversion table】解决 Windows 剪贴板自动文本转换表中的歧义</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251212-05/?p=111862</link>
+      <description>【Last time, we encountered a mystery where the synthesis of CF_OEM­TEXT from CF_TEXT did not use Ansi­To­Oem.】上次，我们遇到了一个谜团，从CF_TEXT合成CF_OEMTEXT没有使用AnsiToOem。</description>
+      <pubDate>Fri, 12 Dec 2025 16:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Retirement of Global Personal Access Tokens in Azure DevOps】Azure DevOps 中全局个人访问令牌的停用</title>
+      <link>https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops</link>
+      <description>【In the new year, we’ll be retiring the Global Personal Access Token (PAT) type in Azure DevOps. Global PATs allow users to authenticate across all accessible organizations. While this can feel convenient, a single credential with broad reach creates a concentrated security risk — especially as a user’s access】新的一年，我们将在 Azure DevOps 中停用全局个人访问令牌 (PAT) 类型。全局 PAT 允许用户在所有可访问的组织中进行身份验证。虽然这感觉很方便，但具有广泛影响力的单一凭证会带来集中的安全风险——尤其是当用户访问时</description>
+      <pubDate>Fri, 12 Dec 2025 14:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Studying the various locale mismatch scenarios in Windows clipboard text format synthesis】研究Windows剪贴板文本格式合成中的各种区域设置不匹配场景</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858</link>
+      <description>【So far, we&#39;ve learned that the conversion between Unicode and the 8-bit ANSI and OEM code pages is performed with the assistance of the CF_LOCALE clipboard format, which itself c】到目前为止，我们已经了解到 Unicode 与 8 位 ANSI 和 OEM 代码页之间的转换是在 CF_LOCALE 剪贴板格式的帮助下执行的，该格式本身就是 c</description>
+      <pubDate>Thu, 11 Dec 2025 18:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Making Windows Terminal awesome with GitHub Copilot CLI】使用 GitHub Copilot CLI 让 Windows 终端变得更加出色</title>
+      <link>https://devblogs.microsoft.com/blog/making-windows-terminal-awesome-with-github-copilot-cli</link>
+      <description>【As someone who lives and breathes in the command line, I love making my terminal feel like home. Windows Terminal is full of personalization options that really allow for a custom experience. Additionally, I can stay within my terminal for my development with GitHub Copilot with the GitHub Copilot CLI. Let&#39;s walk through how you can trick out】作为一个在命令行中生活和呼吸的人，我喜欢让我的终端感觉像家一样。 Windows Terminal 充满了个性化选项，可以真正实现自定义体验。此外，我可以通过 GitHub Copilot CLI 留在终端中使用 GitHub Copilot 进行开发。让我们来看看如何欺骗</description>
+      <pubDate>Thu, 11 Dec 2025 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aspire Integrations, Batteries Included】Aspire 集成，包含电池</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-integrations-batteries-included</link>
+      <description>【Aspire Integrations: Batteries included Modern applications depend on many external services: databases, caches, message brokers, storage layers, observability tools, and sometimes AI systems. Each of these brings its own rules for configuration, connection strings, environment variables, authentication, and deployment. Setting al】Aspire 集成：包含电池现代应用程序依赖于许多外部服务：数据库、缓存、消息代理、存储层、可观察性工具，有时还包括人工智能系统。其中每一个都有自己的配置、连接字符串、环境变量、身份验证和部署规则。设置全部</description>
+      <pubDate>Thu, 11 Dec 2025 15:34:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB vNext Emulator: Query and Observability Enhancements】Azure Cosmos DB vNext 模拟器：查询和可观察性增强</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vnext-emulator-query-and-observability-enhancements</link>
+      <description>【The Azure Cosmos DB Linux-based vNext emulator (preview) is a local version of the Azure Cosmos DB service that runs as a Docker container on Linux, macOS, and Windows. It provides a cost-effective way to develop and test applications locally without requiring an Azure】基于 Linux 的 Azure Cosmos DB vNext 模拟器（预览版）是 Azure Cosmos DB 服务的本地版本，在 Linux、macOS 和 Windows 上作为 Docker 容器运行。它提供了一种经济高效的方式来在本地开发和测试应用程序，而无需 Azure</description>
+      <pubDate>Thu, 11 Dec 2025 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB : Becoming a Search-Native Database】Azure Cosmos DB：成为搜索本机数据库</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-becoming-a-search-native-database</link>
+      <description>【For years, “Database” and “Search systems&#34; (think Elastic Search) lived in separate worlds. While both Databases and Search Systems operate in the same domain (storing, indexing and querying data), they prioritized different aspects. OLTP Databases prioritized Structured and Semi-structured data】多年来，“数据库”和“搜索系统”（想想弹性搜索）生活在不同的世界。虽然数据库和搜索系统在同一域中运行（存储、索引和查询数据），但它们优先考虑不同的方面。 OLTP 数据库优先考虑结构化和半结构化数据</description>
+      <pubDate>Thu, 11 Dec 2025 01:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【General Availability of SharePoint Framework 1.22 - A Major Refresh of the Build &amp; Tooling Experience】SharePoint 框架 1.22 正式发布 - 构建和工具体验的重大更新</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/general-availability-of-sharepoint-framework-1-22-a-major-refresh-of-the-build-tooling-experience</link>
+      <description>【We are excited to announce general availability of the SharePoint Framework (SPFx) 1.22 – with a focus on refreshing the build and toolchain areas. SharePoint Framework is the easiest and the most widely used model to build your enterprise solutions for Microsoft 365 with automatic single s】我们很高兴地宣布 SharePoint Framework (SPFx) 1.22 全面上市 - 重点是更新构建和工具链领域。 SharePoint 框架是使用自动单点构建 Microsoft 365 企业解决方案的最简单且使用最广泛的模型</description>
+      <pubDate>Wed, 10 Dec 2025 22:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【November 2025 (version 1.107)】2025 年 11 月（版本 1.107）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/november-2025-(version-1.107)</link>
+      <description>【What&#39;s new in the Visual Studio Code November 2025 Release (1.107). Read the full article】Visual Studio Code 2025 年 11 月版本 (1.107) 中的新增功能。阅读全文</description>
       <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Azure DevOps Server General Availability】宣布 Azure DevOps 服务器全面可用</title>
-      <link>https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability</link>
-      <description>【We’re thrilled to announce that Azure DevOps Server is now generally available (GA)! This release marks the transition from the Release Candidate (RC) phase to full production readiness, delivering enterprise-grade DevOps capabilities fo】我们很高兴地宣布 Azure DevOps Server 现已全面可用 (GA)！此版本标志着从发布候选 (RC) 阶段到全面生产准备阶段的过渡，为企业提供企业级 DevOps 功能</description>
-      <pubDate>Tue, 09 Dec 2025 20:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework December 2025 servicing releases updates】.NET 和 .NET Framework 2025 年 12 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for December 2025. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Update Overview .NET and .NET Framework has been refreshed with the latest update as of December 09, 2025. This update contains non-securi】欢迎使用我们 2025 年 12 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述：更新概述 .NET 和 .NET Framework 已使用截至 2025 年 12 月 9 日的最新更新进行了刷新。此更新包含非安全内容</description>
-      <pubDate>Tue, 09 Dec 2025 18:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Blue-green deployment in Azure Container Apps using Azure Developer CLI】使用 Azure 开发人员 CLI 在 Azure 容器应用程序中进行蓝绿部署</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-blue-green-aca-deployment</link>
-      <description>【Blue-green deployment in Azure Container Apps using Azure Developer CLI If you follow the Azure Developer CLI blog posts, you already know that Azure Container Apps (ACA) support in Azure Developer CLI (azd) is GA. We want azd to be production-ready—you should be a】使用 Azure 开发人员 CLI 在 Azure 容器应用中进行蓝绿部署 如果您关注 Azure 开发人员 CLI 博客文章，您已经知道 Azure 开发人员 CLI (azd) 中的 Azure 容器应用 (ACA) 支持已正式发布。我们希望 azd 做好生产准备——您应该是</description>
-      <pubDate>Tue, 09 Dec 2025 18:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Implementing Cross-Platform In-App Billing in .NET MAUI Applications】在 .NET MAUI 应用程序中实现跨平台应用内计费</title>
-      <link>https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui</link>
-      <description>【With the discontinuation of the popular InAppBillingPlugin, many .NET MAUI developers have been looking for guidance on implementing in-app purchases in their applications. Today, we&#39;re sharing a comprehensive sample that demonstrates how to implement cross-platform billing】随着流行的 InAppBillingPlugin 的停止，许多 .NET MAUI 开发人员一直在寻找有关在其应用程序中实现应用内购买的指导。今天，我们分享一个全面的示例，演示如何实现跨平台计费</description>
-      <pubDate>Tue, 09 Dec 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Previewing the JavaScript/TypeScript Modernizer for VS Code Insiders】为 VS Code Insider 预览 JavaScript/TypeScript Modernizer</title>
-      <link>https://devblogs.microsoft.com/blog/jsts-modernizer-preview</link>
-      <description>【Previewing the JavaScript/TypeScript Modernizer for VS Code Insiders Keeping JavaScript/TypeScript projects up-to-date can be a challenge, especially when it’s time to upgrade a bunch of npm packages or adopt the latest frameworks. We’ve heard from many JS/TS developers that modernizing an older app (upgrading de】为 VS Code Insider 预览 JavaScript/TypeScript Modernizer 保持 JavaScript/TypeScript 项目最新可能是一项挑战，特别是当需要升级一堆 npm 包或采用最新框架时。我们从许多 JS/TS 开发人员那里听说，对旧应用程序进行现代化改造（升级 de</description>
-      <pubDate>Tue, 09 Dec 2025 17:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How does Windows synthesize &lt;CODE&gt;CF_&lt;WBR&gt;UNICODE­TEXT&lt;/CODE&gt; from &lt;CODE&gt;CF_&lt;WBR&gt;TEXT&lt;/CODE&gt; and vice versa?】Windows 如何从 &lt;CODE&gt;CF_&lt;WBR&gt;TEXT&lt;/CODE&gt; 合成 &lt;CODE&gt;CF_&lt;WBR&gt;UNICODETEXT&lt;/CODE&gt;，反之亦然？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854</link>
-      <description>【Last time, we started our exploration of how Windows synthesizes text clipboard formats by looking at the conversion between CF_OEM­TEXT and CF_TEXT】上次，我们通过查看 CF_OEMTEXT 和 CF_TEXT 之间的转换来开始探索 Windows 如何合成文本剪贴板格式</description>
-      <pubDate>Tue, 09 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Microsoft Entra PowerShell v1.1.0】宣布推出 Microsoft Entra PowerShell v1.1.0</title>
-      <link>https://devblogs.microsoft.com/entrapowershell/announcing-microsoft-entra-powershell-v1-1-0</link>
-      <description>【We’re thrilled to introduce Microsoft Entra PowerShell v1.1.0 available on PowerShell Gallery. The headline feature is No more version pinning to Microsoft Graph PowerShell v2.25.0. You can now use the latest Graph modules wi】我们很高兴在 PowerShell Gallery 上推出 Microsoft Entra PowerShell v1.1.0。标题功能是不再有版本固定到 Microsoft Graph PowerShell v2.25.0。您现在可以使用最新的图形模块</description>
-      <pubDate>Tue, 09 Dec 2025 07:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Entra PowerShell Now Supports Latest Microsoft Graph PowerShell Versions】Entra PowerShell 现在支持最新的 Microsoft Graph PowerShell 版本</title>
-      <link>https://devblogs.microsoft.com/entrapowershell/entra-powershell-now-supports-latest-microsoft-graph-powershell-versions</link>
-      <description>【We’ve heard you and we’ve made it happen! One of the most requested changes from our community has been greater flexibility when working with Microsoft Graph PowerShell. Previously, Entra PowerShell pinned its dependency to Microsoft Graph PowerShell v2.25, which limited customers from leveraging】我们听到了您的声音，我们已经实现了这一目标！我们社区最需要的更改之一是使用 Microsoft Graph PowerShell 时具有更大的灵活性。此前，Entra PowerShell 将其依赖关系固定为 Microsoft Graph PowerShell v2.25，这限制了客户利用</description>
-      <pubDate>Tue, 09 Dec 2025 06:35:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Long-term data retention up to 10 years: Announcing Private Preview of Azure Backup for Azure Cosmos DB】数据长期保留长达 10 年：宣布推出 Azure Cosmos DB 备份专用预览版</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/cosmos-db-ltr-immutability</link>
-      <description>【Azure Backup for Azure Cosmos DB is a new option that lets you securely protect and recover your Azure Cosmos DB data for compliance, audit, and ransomware protection scenarios. It leverages Azure Backup’s vault isolation and Azure Cosmos DB’s native backup streams to deliver scalable, long-term data protection that meets regulatory requir】适用于 Azure Cosmos DB 的 Azure 备份是一个新选项，可让你安全地保护和恢复 Azure Cosmos DB 数据，以实现合规性、审核和勒索软件保护方案。它利用 Azure Backup 的保管库隔离和 Azure Cosmos DB 的本机备份流来提供满足监管要求的可扩展的长期数据保护</description>
-      <pubDate>Mon, 08 Dec 2025 20:45:27 +0000</pubDate>
+      <title>【November 2025 (version 1.107)】2025 年 11 月（版本 1.107）</title>
+      <link>https://devblogs.microsoft.com/external-blogs/november-2025-insiders-version-1-107</link>
+      <description>【What&#39;s new in the Visual Studio Code November 2025 Release (1.107). Read the full article】Visual Studio Code 2025 年 11 月版本 (1.107) 中的新增功能。阅读全文</description>
+      <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
