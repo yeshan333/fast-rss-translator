@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Top AI Agentic Workflow Patterns】顶级 AI 代理工作流程模式</title>
+      <link>https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns</link>
+      <description>【In this article, we will look at the most popular agentic workflow patterns and how they work.】在本文中，我们将了解最流行的代理工作流模式及其工作原理。</description>
+      <pubDate>Mon, 15 Dec 2025 16:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP193: Database Types You Should Know in 2025】EP193：2025 年您应该了解的数据库类型</title>
+      <link>https://blog.bytebytego.com/p/ep193-database-types-you-should-know</link>
+      <description>【There&amp;#8217;s no such thing as a one-size-fits-all database anymore.】不再有“一刀切”的数据库了。</description>
+      <pubDate>Sat, 13 Dec 2025 16:30:43 +0000</pubDate>
+    </item>
+    <item>
       <title>【How OpenAI, Gemini, and Claude Use Agents to Power Deep Research】OpenAI、Gemini 和 Claude 如何使用代理来推动深度研究</title>
       <link>https://blog.bytebytego.com/p/how-openai-gemini-and-claude-use</link>
       <description>【We will walk through the architecture that enables Deep Research, how different LLMs implement it, how agents coordinate with one another, and how the final report is synthesized and validated before being delivered to the user.】我们将介绍支持深度研究的架构、不同的法学硕士如何实施它、代理如何相互协调，以及最终报告在交付给用户之前如何合成和验证。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/a-guide-to-service-mesh-architectural</link>
       <description>【In this article, we will explore the reasons behind the existence of service mesh, its inner workings, and how to determine if it is the right tool for our specific needs.】在本文中，我们将探讨服务网格存在背后的原因、其内部工作原理，以及如何确定它是否是满足我们特定需求的正确工具。</description>
       <pubDate>Thu, 04 Dec 2025 16:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Meta Uses AI Agents for Data Warehouse Access and Security】Meta 如何使用 AI 代理实现数据仓库访问和安全</title>
-      <link>https://blog.bytebytego.com/p/how-meta-uses-ai-agents-for-data</link>
-      <description>【In this article, we look at how Meta redesigned their data warehouse architecture to work with both humans and agents.】在本文中，我们将了解 Meta 如何重新设计其数据仓库架构以与人类和代理一起工作。</description>
-      <pubDate>Wed, 03 Dec 2025 16:23:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Built a Distributed Write Ahead Log For Its Data Platform】Netflix 如何为其数据平台构建分布式预写日志</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-built-a-distributed-write</link>
-      <description>【Netflix&amp;#8217;s engineering team faced several recurring issues that threatened the reliability of their data.】Netflix 的工程团队面临着几个反复出现的问题，这些问题威胁到了他们的数据的可靠性。</description>
-      <pubDate>Tue, 02 Dec 2025 16:30:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

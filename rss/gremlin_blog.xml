@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Gremlin Release Roundup 2025: Reliability across AI, on-prem, and applications】Gremlin 2025 年发布综述：跨 AI、本地和应用程序的可靠性</title>
+      <link>https://www.gremlin.com/blog/release-roundup-2025</link>
+      <description>【This year’s release roundup covers our new on-prem offering, new Failure Flags features, intelligent analysis of failed experiments, and much more.】今年的发布综述涵盖了我们新的本地产品、新的故障标志功能、失败实验的智能分析等等。</description>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How to use Gremlin’s Reliability Report】如何使用 Gremlin 的可靠性报告</title>
       <link>https://www.gremlin.com/blog/how-to-use-gremlins-reliability-report</link>
       <description>【Find out how our Reliability Report gives you visibility into your system’s reliability—and how Gremlin uses it to improve reliability.】了解我们的可靠性报告如何让您了解系统的可靠性，以及 Gremlin 如何利用它来提高可靠性。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/how-to-test-the-reliability-of-a-point-of-sale-pos-system</link>
       <description>【Find out how to use Gremlin and Chaos Engineering to make sure your Point of Sale system is reliable.】了解如何使用 Gremlin 和 Chaos Engineering 确保您的销售点系统可靠。</description>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Chaos Engineering works, but it has to scale】混沌工程有效，但必须规模化</title>
-      <link>https://www.gremlin.com/blog/chaos-engineering-works-but-it-has-to-scale</link>
-      <description>【Chaos Engineering effectively improves the reliability of systems, but it can run into snags when you try to scale. Build on Chaos Engineering with these key actions.】混沌工程有效地提高了系统的可靠性，但当您尝试扩展时，它可能会遇到障碍。通过这些关键行动以混沌工程为基础。</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

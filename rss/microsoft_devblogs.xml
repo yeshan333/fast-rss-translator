@@ -4,6 +4,36 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Build declarative agents for Microsoft 365 Copilot with MCP】使用 MCP 为 Microsoft 365 Copilot 构建声明式代理</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/build-declarative-agents-for-microsoft-365-copilot-with-mcp</link>
+      <description>【The Model Context Protocol (MCP) is revolutionizing AI by providing a universal integration standard for the external systems, unlocking unprecedented capabilities, transforming how AI models access and utilize real-time data.】模型上下文协议 (MCP) 为外部系统提供通用集成标准，释放前所未有的功能，改变人工智能模型访问和利用实时数据的方式，从而彻底改变了人工智能。</description>
+      <pubDate>Mon, 15 Dec 2025 19:28:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to Build iOS Widgets with .NET MAUI】如何使用 .NET MAUI 构建 iOS 小部件</title>
+      <link>https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui</link>
+      <description>【This is a guest blog from Toine de Boer. I&#39;m a .NET developer primarily focused on .NET MAUI to ASP.NET backend services. Because I recently have worked a lot with Widgets and encountered many obstacles and very limited documentation in the initial phas】这是 Toine de Boer 的客座博客。我是一名 .NET 开发人员，主要关注 .NET MAUI 到 ASP.NET 后端服务。因为我最近与 Widgets 进行了很多工作，并且在初始阶段遇到了许多障碍和非常有限的文档</description>
+      <pubDate>Mon, 15 Dec 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Behind the scenes of the Visual Studio feedback system】Visual Studio 反馈系统的幕后故事</title>
+      <link>https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system</link>
+      <description>【Here on the Visual Studio team, our top priority is making your coding experience smoother and more enjoyable. And that begins with truly listening to your feedback. We understand that sometimes sharing your thoughts can feel like tossing bug reports and suggestions into a black hole. It doesn’t feel good, and we get it. But here’s the】在 Visual Studio 团队中，我们的首要任务是让您的编码体验更顺畅、更愉快。这首先要真正倾听您的反馈。我们理解，有时分享您的想法就像将错误报告和建议扔进黑洞。感觉不太好，我们明白了。但这里是</description>
+      <pubDate>Mon, 15 Dec 2025 15:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Misunderstanding what the Cricket Celebration Bowl is】误解板球庆祝碗是什么</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251215-01/?p=111871</link>
+      <description>【Apparently, late last week was an event known as the Cricket Celebration Bowl. I thought to myself, &#34;The Cricket Celebration Bowl sounds like the name of the least popular item on the Panera menu.&#34; And no, it&#39;s not a cricket match either.】显然，上周晚些时候举办了一场名为“板球庆祝碗”的活动。我心里想，“板球庆典碗听起来像是帕尼拉菜单上最不受欢迎的菜品的名字。”不，这也不是板球比赛。</description>
+      <pubDate>Mon, 15 Dec 2025 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Windows clipboard automatic text conversion algorithm is path-dependent】Windows剪贴板自动文本转换算法是路径相关的</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251215-00/?p=111869</link>
+      <description>【We closed last time with this table: To get First try】上次我们用这张桌子结束了：第一次尝试</description>
+      <pubDate>Mon, 15 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Resolving an ambiguity in the Windows clipboard automated text conversion table】解决 Windows 剪贴板自动文本转换表中的歧义</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20251212-05/?p=111862</link>
       <description>【Last time, we encountered a mystery where the synthesis of CF_OEM­TEXT from CF_TEXT did not use Ansi­To­Oem.】上次，我们遇到了一个谜团，从CF_TEXT合成CF_OEMTEXT没有使用AnsiToOem。</description>
@@ -32,36 +62,6 @@
       <link>https://devblogs.microsoft.com/aspire/aspire-integrations-batteries-included</link>
       <description>【Aspire Integrations: Batteries included Modern applications depend on many external services: databases, caches, message brokers, storage layers, observability tools, and sometimes AI systems. Each of these brings its own rules for configuration, connection strings, environment variables, authentication, and deployment. Setting al】Aspire 集成：包含电池现代应用程序依赖于许多外部服务：数据库、缓存、消息代理、存储层、可观察性工具，有时还包括人工智能系统。其中每一个都有自己的配置、连接字符串、环境变量、身份验证和部署规则。设置全部</description>
       <pubDate>Thu, 11 Dec 2025 15:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Cosmos DB vNext Emulator: Query and Observability Enhancements】Azure Cosmos DB vNext 模拟器：查询和可观察性增强</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vnext-emulator-query-and-observability-enhancements</link>
-      <description>【The Azure Cosmos DB Linux-based vNext emulator (preview) is a local version of the Azure Cosmos DB service that runs as a Docker container on Linux, macOS, and Windows. It provides a cost-effective way to develop and test applications locally without requiring an Azure】基于 Linux 的 Azure Cosmos DB vNext 模拟器（预览版）是 Azure Cosmos DB 服务的本地版本，在 Linux、macOS 和 Windows 上作为 Docker 容器运行。它提供了一种经济高效的方式来在本地开发和测试应用程序，而无需 Azure</description>
-      <pubDate>Thu, 11 Dec 2025 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Cosmos DB : Becoming a Search-Native Database】Azure Cosmos DB：成为搜索本机数据库</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-becoming-a-search-native-database</link>
-      <description>【For years, “Database” and “Search systems&#34; (think Elastic Search) lived in separate worlds. While both Databases and Search Systems operate in the same domain (storing, indexing and querying data), they prioritized different aspects. OLTP Databases prioritized Structured and Semi-structured data】多年来，“数据库”和“搜索系统”（想想弹性搜索）生活在不同的世界。虽然数据库和搜索系统在同一域中运行（存储、索引和查询数据），但它们优先考虑不同的方面。 OLTP 数据库优先考虑结构化和半结构化数据</description>
-      <pubDate>Thu, 11 Dec 2025 01:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【General Availability of SharePoint Framework 1.22 - A Major Refresh of the Build &amp; Tooling Experience】SharePoint 框架 1.22 正式发布 - 构建和工具体验的重大更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/general-availability-of-sharepoint-framework-1-22-a-major-refresh-of-the-build-tooling-experience</link>
-      <description>【We are excited to announce general availability of the SharePoint Framework (SPFx) 1.22 – with a focus on refreshing the build and toolchain areas. SharePoint Framework is the easiest and the most widely used model to build your enterprise solutions for Microsoft 365 with automatic single s】我们很高兴地宣布 SharePoint Framework (SPFx) 1.22 全面上市 - 重点是更新构建和工具链领域。 SharePoint 框架是使用自动单点构建 Microsoft 365 企业解决方案的最简单且使用最广泛的模型</description>
-      <pubDate>Wed, 10 Dec 2025 22:44:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【November 2025 (version 1.107)】2025 年 11 月（版本 1.107）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/november-2025-(version-1.107)</link>
-      <description>【What&#39;s new in the Visual Studio Code November 2025 Release (1.107). Read the full article】Visual Studio Code 2025 年 11 月版本 (1.107) 中的新增功能。阅读全文</description>
-      <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【November 2025 (version 1.107)】2025 年 11 月（版本 1.107）</title>
-      <link>https://devblogs.microsoft.com/external-blogs/november-2025-insiders-version-1-107</link>
-      <description>【What&#39;s new in the Visual Studio Code November 2025 Release (1.107). Read the full article】Visual Studio Code 2025 年 11 月版本 (1.107) 中的新增功能。阅读全文</description>
-      <pubDate>Wed, 10 Dec 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
