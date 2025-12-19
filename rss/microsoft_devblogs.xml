@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Build declarative agents for Microsoft 365 Copilot with MCP】使用 MCP 为 Microsoft 365 Copilot 构建声明式代理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/build-declarative-agents-for-microsoft-365-copilot-with-mcp</link>
-      <description>【The Model Context Protocol (MCP) is revolutionizing AI by providing a universal integration standard for the external systems, unlocking unprecedented capabilities, transforming how AI models access and utilize real-time data.】模型上下文协议 (MCP) 为外部系统提供通用集成标准，释放前所未有的功能，改变人工智能模型访问和利用实时数据的方式，从而彻底改变了人工智能。</description>
-      <pubDate>Mon, 15 Dec 2025 19:28:28 +0000</pubDate>
+      <title>【AI Coding Agents and Domain-Specific Languages: Challenges and Practical Mitigation Strategies】人工智能编码代理和特定领域语言：挑战和实际缓解策略</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/ai-coding-agents-domain-specific-languages</link>
+      <description>【1. Introduction AI coding agents/assistants such as GitHub Copilot have become common in modern software engineering workflows. Their strengths—rapid pattern completion, context-aware suggestions, and the ability to learn style from local code—stem from broad training on large corpora of public, general-purpose code. They perf】1. 简介 GitHub Copilot 等人工智能编码代理/助手在现代软件工程工作流程中已经变得很常见。他们的优势——快速模式完成、上下文感知建议以及从本地代码学习风格的能力——源于对大型公共通用代码语料库的广泛培训。他们表现</description>
+      <pubDate>Thu, 18 Dec 2025 18:36:17 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Build iOS Widgets with .NET MAUI】如何使用 .NET MAUI 构建 iOS 小部件</title>
-      <link>https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui</link>
-      <description>【This is a guest blog from Toine de Boer. I&#39;m a .NET developer primarily focused on .NET MAUI to ASP.NET backend services. Because I recently have worked a lot with Widgets and encountered many obstacles and very limited documentation in the initial phas】这是 Toine de Boer 的客座博客。我是一名 .NET 开发人员，主要关注 .NET MAUI 到 ASP.NET 后端服务。因为我最近与 Widgets 进行了很多工作，并且在初始阶段遇到了许多障碍和非常有限的文档</description>
-      <pubDate>Mon, 15 Dec 2025 18:05:00 +0000</pubDate>
+      <title>【Concluding thoughts on our deep dive into Windows clipboard text conversion】关于我们深入研究 Windows 剪贴板文本转换的总结性想法</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251218-00/?p=111882</link>
+      <description>【For the past few articles (starting with conversion between CF_OEM­TEXT and CF_TEXT), we&#39;ve been looking at how Windows performs text conversion】在过去的几篇文章中（从CF_OEMTEXT和CF_TEXT之间的转换开始），我们一直在研究Windows如何执行文本转换</description>
+      <pubDate>Thu, 18 Dec 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Behind the scenes of the Visual Studio feedback system】Visual Studio 反馈系统的幕后故事</title>
-      <link>https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system</link>
-      <description>【Here on the Visual Studio team, our top priority is making your coding experience smoother and more enjoyable. And that begins with truly listening to your feedback. We understand that sometimes sharing your thoughts can feel like tossing bug reports and suggestions into a black hole. It doesn’t feel good, and we get it. But here’s the】在 Visual Studio 团队中，我们的首要任务是让您的编码体验更顺畅、更愉快。这首先要真正倾听您的反馈。我们理解，有时分享您的想法就像将错误报告和建议扔进黑洞。感觉不太好，我们明白了。但这里是</description>
-      <pubDate>Mon, 15 Dec 2025 15:00:33 +0000</pubDate>
+      <title>【Introducing the Copilot Studio + Azure AI Search Solution】隆重推出 Copilot Studio + Azure AI 搜索解决方案</title>
+      <link>https://devblogs.microsoft.com/ise/mcs-azure-ai-search-intro</link>
+      <description>【Introduction: The Challenge In the early days of Microsoft Copilot Studio, our team noticed a recurring pattern. Across customer engagements, organizations were consistently struggling to integrate copilots with Azure AI Search. Organizations were consistently struggling to integrate copilot with Azure AI Search - not because either】简介：挑战 在 Microsoft Copilot Studio 的早期，我们的团队注意到了一种反复出现的模式。在客户参与过程中，组织一直在努力将 copilot 与 Azure AI 搜索集成。组织一直在努力将 copilot 与 Azure AI 搜索集成 - 不是因为</description>
+      <pubDate>Thu, 18 Dec 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Misunderstanding what the Cricket Celebration Bowl is】误解板球庆祝碗是什么</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251215-01/?p=111871</link>
-      <description>【Apparently, late last week was an event known as the Cricket Celebration Bowl. I thought to myself, &#34;The Cricket Celebration Bowl sounds like the name of the least popular item on the Panera menu.&#34; And no, it&#39;s not a cricket match either.】显然，上周晚些时候举办了一场名为“板球庆祝碗”的活动。我心里想，“板球庆典碗听起来像是帕尼拉菜单上最不受欢迎的菜品的名字。”不，这也不是板球比赛。</description>
-      <pubDate>Mon, 15 Dec 2025 15:00:01 +0000</pubDate>
+      <title>【Unlock the power of distributed graph databases with JanusGraph and Azure Apache Cassandra】使用 JanusGraph 和 Azure Apache Cassandra 释放分布式图形数据库的强大功能</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/janusgraph-azure-cassandra-graph-databases</link>
+      <description>【Connecting the Dots: How Graph Databases Drive Innova】连接点：图数据库如何推动 Innova</description>
+      <pubDate>Wed, 17 Dec 2025 18:37:45 +0000</pubDate>
     </item>
     <item>
-      <title>【The Windows clipboard automatic text conversion algorithm is path-dependent】Windows剪贴板自动文本转换算法是路径相关的</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251215-00/?p=111869</link>
-      <description>【We closed last time with this table: To get First try】上次我们用这张桌子结束了：第一次尝试</description>
-      <pubDate>Mon, 15 Dec 2025 15:00:00 +0000</pubDate>
+      <title>【Celebrating 10 Years of DirectX 12】庆祝 DirectX 12 十周年</title>
+      <link>https://devblogs.microsoft.com/directx/celebrating-10-years-of-directx-12</link>
+      <description>【DirectX12 shipped in 2015 with a simple goal: give developers more control so games run faster, look better, and scale across Windows PC and console. Over the last decade, DirectX 12 delivered on that promise. We added features and made it easier for developers to focus on gameplay &amp;amp; graphics by providing more flexibility and achievable pe】DirectX12 于 2015 年发布，其目标很简单：为开发人员提供更多控制权，让游戏运行得更快、看起来更好，并可在 Windows PC 和游戏机上扩展。在过去十年中，DirectX 12 兑现了这一承诺。我们添加了功能，并通过提供更大的灵活性和可实现的性能，使开发人员更容易专注于游戏和图形</description>
+      <pubDate>Wed, 17 Dec 2025 16:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>【Resolving an ambiguity in the Windows clipboard automated text conversion table】解决 Windows 剪贴板自动文本转换表中的歧义</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251212-05/?p=111862</link>
-      <description>【Last time, we encountered a mystery where the synthesis of CF_OEM­TEXT from CF_TEXT did not use Ansi­To­Oem.】上次，我们遇到了一个谜团，从CF_TEXT合成CF_OEMTEXT没有使用AnsiToOem。</description>
-      <pubDate>Fri, 12 Dec 2025 16:58:05 +0000</pubDate>
+      <title>【Aspire 13.1 - Our holiday gift to you】Aspire 13.1 - 我们送给您的节日礼物</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift</link>
+      <description>【Aspire 13.1 - Our holiday gift to you 🎁 Before we head off for the holidays, we wanted to leave you with one more release. Aspire 13.1 is packed with improvements to make your AI coding assistants first-class citizens in your development workflow, along with CLI enhancements, dashboard refinements, and streamlined Azure deploym】Aspire 13.1 - 我们送给您的节日礼物 🎁 在我们出发去度假之前，我们想再给您带来一个版本。 Aspire 13.1 进行了多项改进，使您的 AI 编码助手成为开发工作流程中的一等公民，同时还提供了 CLI 增强功能、仪表板改进和简化的 Azure 部署</description>
+      <pubDate>Wed, 17 Dec 2025 15:40:47 +0000</pubDate>
     </item>
     <item>
-      <title>【Retirement of Global Personal Access Tokens in Azure DevOps】Azure DevOps 中全局个人访问令牌的停用</title>
-      <link>https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops</link>
-      <description>【In the new year, we’ll be retiring the Global Personal Access Token (PAT) type in Azure DevOps. Global PATs allow users to authenticate across all accessible organizations. While this can feel convenient, a single credential with broad reach creates a concentrated security risk — especially as a user’s access】新的一年，我们将在 Azure DevOps 中停用全局个人访问令牌 (PAT) 类型。全局 PAT 允许用户在所有可访问的组织中进行身份验证。虽然这感觉很方便，但具有广泛影响力的单一凭证会带来集中的安全风险——尤其是当用户访问时</description>
-      <pubDate>Fri, 12 Dec 2025 14:15:06 +0000</pubDate>
+      <title>【Deducing the consequences of Windows clipboard text formats on UTF-8】推断 Windows 剪贴板文本格式对 UTF-8 的影响</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251217-00/?p=111880</link>
+      <description>【We&#39;ve been looking at how Windows performs automatic conversion between the three text formats CF_TEXT, CF_OEM­TEXT, and CF_UNICODE­TEXT. The use of UTF-8 as the 8-bit character set is growing in popularity, and】我们一直在研究 Windows 如何在 CF_TEXT、CF_OEMTEXT 和 CF_UNICODETEXT 三种文本格式之间执行自动转换。使用 UTF-8 作为 8 位字符集越来越受欢迎，并且</description>
+      <pubDate>Wed, 17 Dec 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Studying the various locale mismatch scenarios in Windows clipboard text format synthesis】研究Windows剪贴板文本格式合成中的各种区域设置不匹配场景</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858</link>
-      <description>【So far, we&#39;ve learned that the conversion between Unicode and the 8-bit ANSI and OEM code pages is performed with the assistance of the CF_LOCALE clipboard format, which itself c】到目前为止，我们已经了解到 Unicode 与 8 位 ANSI 和 OEM 代码页之间的转换是在 CF_LOCALE 剪贴板格式的帮助下执行的，该格式本身就是 c</description>
-      <pubDate>Thu, 11 Dec 2025 18:19:37 +0000</pubDate>
+      <title>【Unlock your email potential with Schema.org】使用 Schema.org 释放您的电子邮件潜力</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/unlock-your-email-potential-with-schema-org</link>
+      <description>【Email is a key part of how people get things done, whether it’s booking a reservation, confirming a package delivery, or managing a cab reservation. But as inboxes become increasingly cluttered, important transactional information often gets buried. Users are forced to open multip】电子邮件是人们完成工作的关键部分，无论是预订、确认包裹递送还是管理出租车预订。但随着收件箱变得越来越混乱，重要的交易信息常常被埋没。用户被迫打开多</description>
+      <pubDate>Wed, 17 Dec 2025 06:58:11 +0000</pubDate>
     </item>
     <item>
-      <title>【Making Windows Terminal awesome with GitHub Copilot CLI】使用 GitHub Copilot CLI 让 Windows 终端变得更加出色</title>
-      <link>https://devblogs.microsoft.com/blog/making-windows-terminal-awesome-with-github-copilot-cli</link>
-      <description>【As someone who lives and breathes in the command line, I love making my terminal feel like home. Windows Terminal is full of personalization options that really allow for a custom experience. Additionally, I can stay within my terminal for my development with GitHub Copilot with the GitHub Copilot CLI. Let&#39;s walk through how you can trick out】作为一个在命令行中生活和呼吸的人，我喜欢让我的终端感觉像家一样。 Windows Terminal 充满了个性化选项，可以真正实现自定义体验。此外，我可以通过 GitHub Copilot CLI 留在终端中使用 GitHub Copilot 进行开发。让我们来看看如何欺骗</description>
-      <pubDate>Thu, 11 Dec 2025 17:00:28 +0000</pubDate>
+      <title>【Beyond Ergonomics: How the Azure Command Launcher for Java Improves GC Stability and Throughput on Azure VMs】超越人体工程学：适用于 Java 的 Azure 命令启动器如何提高 Azure VM 上的 GC 稳定性和吞吐量</title>
+      <link>https://devblogs.microsoft.com/java/beyond-ergonomics-how-the-azure-command-launcher-for-java-improves-gc-stability-and-throughput-on-azure-vms</link>
+      <description>【In our previous blog we introduced Azure Command Launcher for Java (jaz) —a safe, resource-aware way to launch the JVM without hand-tuning dozens of flags. This follow-up shares performance results, focusing on】在我们之前的博客中，我们介绍了适用于 Java 的 Azure 命令启动器 (jaz) — 一种安全的、资源感知的方式来启动 JVM，无需手动调整数十个标志。本次后续分享业绩结果，重点关注</description>
+      <pubDate>Tue, 16 Dec 2025 19:17:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Aspire Integrations, Batteries Included】Aspire 集成，包含电池</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-integrations-batteries-included</link>
-      <description>【Aspire Integrations: Batteries included Modern applications depend on many external services: databases, caches, message brokers, storage layers, observability tools, and sometimes AI systems. Each of these brings its own rules for configuration, connection strings, environment variables, authentication, and deployment. Setting al】Aspire 集成：包含电池现代应用程序依赖于许多外部服务：数据库、缓存、消息代理、存储层、可观察性工具，有时还包括人工智能系统。其中每一个都有自己的配置、连接字符串、环境变量、身份验证和部署规则。设置全部</description>
-      <pubDate>Thu, 11 Dec 2025 15:34:16 +0000</pubDate>
+      <title>【C++ code editing tools for GitHub Copilot: now in Public Preview】GitHub Copilot 的 C++ 代码编辑工具：现已提供公共预览版</title>
+      <link>https://devblogs.microsoft.com/cppblog/c-code-editing-tools-for-github-copilot-now-in-public-preview</link>
+      <description>【In November, we introduced C++ code editing tools for GitHub Copilot as a Private Preview, focusing on partnering with customers to tackle one of the common, taxing challenges for C++ development: refactoring at s】11 月，我们为 GitHub Copilot 推出了 C++ 代码编辑工具作为私人预览版，重点是与客户合作解决 C++ 开发中常见的艰巨挑战之一：重构</description>
+      <pubDate>Tue, 16 Dec 2025 18:25:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【A Guide to Retry Pattern in Distributed Systems】分布式系统中的重试模式指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-retry-pattern-in-distributed</link>
+      <description>【In this article, we will explore the retry pattern in depth, understand when and how to use it safely and effectively.】在本文中，我们将深入探讨重试模式，了解何时以及如何安全有效地使用它。</description>
+      <pubDate>Thu, 18 Dec 2025 16:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Meta Built a New AI-Powered Ads Model for 5% Better Conversions】Meta 如何构建新的 AI 驱动的广告模型以提高 5% 的转化率</title>
+      <link>https://blog.bytebytego.com/p/how-meta-built-a-new-ai-powered-ads</link>
+      <description>【In this article, we look at how the Meta engineering team built GEM and the challenges they overcame.】在本文中，我们将了解 Meta 工程团队如何构建 GEM 以及他们克服的挑战。</description>
+      <pubDate>Wed, 17 Dec 2025 16:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LinkedIn Built an AI-Powered Hiring Assistant】LinkedIn 如何构建人工智能驱动的招聘助理</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-built-an-ai-powered</link>
+      <description>【In this article, we will look at the architecture and technical building blocks of LinkedIn&amp;#8217;s Hiring Assistant.】在本文中，我们将了解 LinkedIn 招聘助手的架构和技术构建模块。</description>
+      <pubDate>Tue, 16 Dec 2025 16:30:58 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top AI Agentic Workflow Patterns】顶级 AI 代理工作流程模式</title>
       <link>https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns</link>
       <description>【In this article, we will look at the most popular agentic workflow patterns and how they work.】在本文中，我们将了解最流行的代理工作流模式及其工作原理。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-reddit-migrated-comments-functionality</link>
       <description>【In this article, we will look at how Reddit carried out this migration and the challenges it faced.】在本文中，我们将了解 Reddit 如何进行此迁移以及它面临的挑战。</description>
       <pubDate>Sun, 07 Dec 2025 16:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP192: What is a REST API?】EP192：什么是 REST API？</title>
-      <link>https://blog.bytebytego.com/p/ep192-what-is-a-rest-api</link>
-      <description>【REST (Representational State Transfer) is an architectural style for building APIs that use HTTP for communication. To be considered RESTful, an API should follow six key constraints:】REST（表述性状态传输）是一种用于构建使用 HTTP 进行通信的 API 的架构风格。要被视为 RESTful，API 应遵循六个关键约束：</description>
-      <pubDate>Sat, 06 Dec 2025 16:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How DoorDash Moved to a Service Mesh to Handle 80M Requests/Second】DoorDash 如何迁移到服务网格以每秒处理 80M 请求</title>
-      <link>https://blog.bytebytego.com/p/how-doordash-moved-to-a-service-mesh</link>
-      <description>【In this article, we will look at how DoorDash&amp;#8217;s infrastructure team went through this journey and the difficulties they faced.】在本文中，我们将了解 DoorDash 的基础设施团队如何经历这一历程以及他们面临的困难。</description>
-      <pubDate>Fri, 05 Dec 2025 16:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Service Mesh Architectural Pattern】服务网格架构模式指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-service-mesh-architectural</link>
-      <description>【In this article, we will explore the reasons behind the existence of service mesh, its inner workings, and how to determine if it is the right tool for our specific needs.】在本文中，我们将探讨服务网格存在背后的原因、其内部工作原理，以及如何确定它是否是满足我们特定需求的正确工具。</description>
-      <pubDate>Thu, 04 Dec 2025 16:31:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

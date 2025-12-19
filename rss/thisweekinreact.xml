@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #263: DoS, RSC Explorer, Base UI, shadcn, Blender, TanStack, Format.js | Hermes, Screens, Survey, React Navigation, ZoomGrid, Radon, TrueSheet, PagerView, Nitro | Node.js, TypeScript, Safari, State of HTML】本周 React #263：DoS、RSC Explorer、Base UI、shadcn、Blender、TanStack、Format.js | Hermes、屏幕、调查、React 导航、ZoomGrid、Radon、TrueSheet、PagerView、Nitro | Node.js、TypeScript、Safari、HTML 状态</title>
+      <link>https://thisweekinreact.com/newsletter/263</link>
+      <description>【Hi everyone\! Filip and Krzysztof from Software Mansion here\! 👋】大家好\！来自 Software Mansion 的 Filip 和 Krzysztof 这里\！ 👋</description>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #262: React2Shell, Fate, TanStack AI, React Grab, Formisch, Base UI | React Native 0.83, Reanimated 4.2, State of RN, Refined, Crypto, Worklets, Sheet Navigator | CSS, Temporal, Supply Chain, Firefox】本周 React #262：React2Shell、Fate、TanStack AI、React Grab、Formisch、Base UI | React Native 0.83、Reanimated 4.2、RN 状态、Refined、Crypto、Worklets、Sheet Navigator | CSS、时态、供应链、Firefox</title>
       <link>https://thisweekinreact.com/newsletter/262</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/259</link>
       <description>【Hi everyone, Seb here\! 👋】大家好，这里是Seb\！ 👋</description>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #258: TanStack, Next.js, ImGui, next-intl, React-Email, Ink, React Router | Valdi, IntersectionObserver, Nitro, Radon, Lynx, WebGPU, Audio | TC39, Node, Web Animations, TypeScript, pnpm】本周 React #258：TanStack、Next.js、ImGui、next-intl、React-Email、Ink、React Router | Valdi、IntersectionObserver、Nitro、Radon、Lynx、WebGPU、音频 | TC39、节点、网页动画、TypeScript、pnpm</title>
-      <link>https://thisweekinreact.com/newsletter/258</link>
-      <description>【Hi everyone, Seb here\! 👋】大家好，这里是Seb\！ 👋</description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

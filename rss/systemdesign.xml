@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【System Design Question: Design WhatsApp】系统设计问题：设计 WhatsApp</title>
+      <link>https://newsletter.systemdesign.one/p/design-a-chat-system</link>
+      <description>【#108: System Design Interview - Part 2】#108：系统设计面试 - 第 2 部分</description>
+      <pubDate>Tue, 16 Dec 2025 09:30:33 +0000</pubDate>
+    </item>
+    <item>
       <title>【Design Stock Exchange - A Deep Dive】设计股票交易所 - 深入探讨</title>
       <link>https://newsletter.systemdesign.one/p/system-design-stock-exchange</link>
       <description>【#107: System Design Stock Exchange - Part 3】#107：证券交易所系统设计 - 第 3 部分</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/frontend-system-design</link>
       <description>【#99: A practical guide to building fast, scalable, and reliable web apps】#99：构建快速、可扩展且可靠的 Web 应用程序的实用指南</description>
       <pubDate>Tue, 11 Nov 2025 09:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【21 Git Commands for Software Engineers】软件工程师的 21 个 Git 命令</title>
-      <link>https://newsletter.systemdesign.one/p/commands-in-git</link>
-      <description>【#98: Git bisect, Git blame, Git stash and 18 others.】#98：Git bisect、Git Blame、Git stash 和其他 18 个。</description>
-      <pubDate>Thu, 06 Nov 2025 10:05:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,15 +4,21 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks】2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
-      <description>【 We present our 6th annual review of Internet trends and patterns observed across the globe, revealing the disruptions, advances and metrics that defined 2025.  】我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。</description>
-      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
+      <title>【Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL】宣布支持 R2 SQL 中的 GROUP BY、SUM 和其他聚合查询</title>
+      <link>https://blog.cloudflare.com/r2-sql-aggregations/</link>
+      <description>【 Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog. 】Cloudflare 的 R2 SQL（分布式查询引擎）现在支持聚合。探索我们如何构建分布式 GROUP BY 执行，使用分散-聚集和改组策略直接在 R2 数据目录上运行分析。</description>
+      <pubDate>Thu, 18 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【ChatGPT&#39;s rivals, Kwai&#39;s quiet rise: the top Internet services of 2025】ChatGPT的竞争对手，快手悄然崛起：2025年顶级互联网服务</title>
       <link>https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/</link>
       <description>【 AI competition intensified in 2025 as ChatGPT gained strong challengers. Instagram climbed, X declined, and platforms like Shopee, Temu, and Kwai reshaped global Internet usage. Our 2025 DNS data shows how Internet patterns evolved. 】2025年，人工智能竞争更加激烈，ChatGPT迎来了强有力的挑战者。 Instagram 上升，X 下降，Shopee、Temu 和 Kwai 等平台重塑了全球互联网使用情况。我们的 2025 年 DNS 数据显示了互联网模式的演变。</description>
+      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks】2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
+      <description>【 We present our 6th annual review of Internet trends and patterns observed across the globe, revealing the disruptions, advances and metrics that defined 2025.  】我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。</description>
       <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -22,7 +28,7 @@
       <pubDate>Thu, 11 Dec 2025 16:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code】企业规模左移：我们如何通过基础设施即代码来管理 Cloudflare</title>
+      <title>【Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code】在企业规模上左移：我们如何通过基础设施即代码来管理 Cloudflare</title>
       <link>https://blog.cloudflare.com/shift-left-enterprise-scale/</link>
       <description>【 Cloudflare has shifted to Infrastructure as Code and policy enforcement to manage internal Cloudflare accounts. This new architecture uses Terraform, custom tooling, and Open Policy Agent to enforce security baselines and increase engineering velocity. 】Cloudflare 已转向基础设施即代码和策略执行来管理内部 Cloudflare 帐户。这种新架构使用 Terraform、自定义工具和开放策略代理来实施安全基线并提高工程速度。</description>
       <pubDate>Tue, 09 Dec 2025 06:00:00 +0000</pubDate>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/why-replicate-joining-cloudflare/</link>
       <description>【 Today, we’re excited to announce that Replicate is officially part of Cloudflare. We wanted to share a bit about our journey and why we made this decision.  】今天，我们很高兴地宣布 Replicate 正式成为 Cloudflare 的一部分。我们想分享一些关于我们的旅程以及我们做出这个决定的原因。</description>
       <pubDate>Mon, 01 Dec 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Partnering with Black Forest Labs to bring FLUX.2 [dev] to Workers AI】与 Black Forest Labs 合作将 FLUX.2 [dev] 引入 Workers AI</title>
-      <link>https://blog.cloudflare.com/flux-2-workers-ai/</link>
-      <description>【 FLUX.2 [dev] by Black Forest Labs is now on Workers AI! This advanced open-weight image model offers superior photorealism, multi-reference inputs, and granular control with JSON prompting. 】Black Forest Labs 的 FLUX.2 [dev] 现已在 Workers AI 上发布！这种先进的开放权重图像模型提供卓越的照片级真实感、多参考输入以及带 JSON 提示的精细控制。</description>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
