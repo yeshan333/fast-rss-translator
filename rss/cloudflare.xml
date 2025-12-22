@@ -4,21 +4,33 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Code Orange: Fail Small — Our resilience plan following recent incidents】橙色代码：小失败——我们在最近发生的事件后的恢复计划</title>
+      <link>https://blog.cloudflare.com/fail-small-resilience-plan/</link>
+      <description>【 We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again. 】我们宣布了“橙色代码：小规模失败”，让 Cloudflare 的每个人都专注于一组高优先级工作流，其目标很简单：确保我们最近两次全球中断的原因不再发生。</description>
+      <pubDate>Fri, 19 Dec 2025 22:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Innovating to address streaming abuse — and our latest transparency report】创新解决流媒体滥用问题——以及我们最新的透明度报告</title>
+      <link>https://blog.cloudflare.com/h1-2025-transparency-report/</link>
+      <description>【 Cloudflare&#39;s H1 2025 Transparency Report is here. We discuss our principles on content blocking and our innovative approach to combating unauthorized streaming and copyright abuse. 】Cloudflare 的 2025 年上半年透明度报告位于此处。我们讨论了内容屏蔽的原则以及打击未经授权的流媒体和版权滥用的创新方法。</description>
+      <pubDate>Fri, 19 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL】宣布支持 R2 SQL 中的 GROUP BY、SUM 和其他聚合查询</title>
       <link>https://blog.cloudflare.com/r2-sql-aggregations/</link>
       <description>【 Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog. 】Cloudflare 的 R2 SQL（分布式查询引擎）现在支持聚合。探索我们如何构建分布式 GROUP BY 执行，使用分散-聚集和改组策略直接在 R2 数据目录上运行分析。</description>
       <pubDate>Thu, 18 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【ChatGPT&#39;s rivals, Kwai&#39;s quiet rise: the top Internet services of 2025】ChatGPT的竞争对手，快手悄然崛起：2025年顶级互联网服务</title>
-      <link>https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/</link>
-      <description>【 AI competition intensified in 2025 as ChatGPT gained strong challengers. Instagram climbed, X declined, and platforms like Shopee, Temu, and Kwai reshaped global Internet usage. Our 2025 DNS data shows how Internet patterns evolved. 】2025年，人工智能竞争更加激烈，ChatGPT迎来了强有力的挑战者。 Instagram 上升，X 下降，Shopee、Temu 和 Kwai 等平台重塑了全球互联网使用情况。我们的 2025 年 DNS 数据显示了互联网模式的演变。</description>
-      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks】2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
       <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
       <description>【 We present our 6th annual review of Internet trends and patterns observed across the globe, revealing the disruptions, advances and metrics that defined 2025.  】我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。</description>
+      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ChatGPT&#39;s rivals, Kwai&#39;s quiet rise: the top Internet services of 2025】ChatGPT的竞争对手，快手悄然崛起：2025年顶级互联网服务</title>
+      <link>https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/</link>
+      <description>【 AI competition intensified in 2025 as ChatGPT gained strong challengers. Instagram climbed, X declined, and platforms like Shopee, Temu, and Kwai reshaped global Internet usage. Our 2025 DNS data shows how Internet patterns evolved. 】2025年，人工智能竞争更加激烈，ChatGPT迎来了强有力的挑战者。 Instagram 上升，X 下降，Shopee、Temu 和 Kwai 等平台重塑了全球互联网使用情况。我们的 2025 年 DNS 数据显示了互联网模式的演变。</description>
       <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -28,7 +40,7 @@
       <pubDate>Thu, 11 Dec 2025 16:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code】在企业规模上左移：我们如何通过基础设施即代码来管理 Cloudflare</title>
+      <title>【Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code】企业规模左移：我们如何通过基础设施即代码来管理 Cloudflare</title>
       <link>https://blog.cloudflare.com/shift-left-enterprise-scale/</link>
       <description>【 Cloudflare has shifted to Infrastructure as Code and policy enforcement to manage internal Cloudflare accounts. This new architecture uses Terraform, custom tooling, and Open Policy Agent to enforce security baselines and increase engineering velocity. 】Cloudflare 已转向基础设施即代码和策略执行来管理内部 Cloudflare 帐户。这种新架构使用 Terraform、自定义工具和开放策略代理来实施安全基线并提高工程速度。</description>
       <pubDate>Tue, 09 Dec 2025 06:00:00 +0000</pubDate>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/waf-rules-react-vulnerability/</link>
       <description>【 Cloudflare offers protection against a new high profile vulnerability for React Server Components: CVE-2025-55182. All WAF customers are automatically protected as long as the WAF is deployed. 】Cloudflare 为 React 服务器组件提供针对新的备受瞩目的漏洞的保护：CVE-2025-55182。只要部署了WAF，所有WAF客户都会自动受到保护。</description>
       <pubDate>Wed, 03 Dec 2025 14:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare&#39;s 2025 Q3 DDoS threat report -- including Aisuru, the apex of botnets】Cloudflare 的 2025 年第三季度 DDoS 威胁报告 - 包括僵尸网络的顶峰 Aisuru</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-2025-q3/</link>
-      <description>【 Welcome to the 23rd edition of Cloudflare’s Quarterly DDoS Threat Report. This report offers a comprehensive analysis of the evolving threat landscape of Distributed Denial of Service (DDoS) attacks based on data from the Cloudflare network. In this edition, we focus on the third quarter of 2025. 】欢迎阅读第 23 版 Cloudflare 季度 DDoS 威胁报告。本报告基于 Cloudflare 网络的数据，对分布式拒绝服务 (DDoS) 攻击不断演变的威胁形势进行了全面分析。在本期中，我们重点关注 2025 年第三季度。</description>
-      <pubDate>Wed, 03 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why Replicate is joining Cloudflare】为什么 Replicate 加入 Cloudflare</title>
-      <link>https://blog.cloudflare.com/why-replicate-joining-cloudflare/</link>
-      <description>【 Today, we’re excited to announce that Replicate is officially part of Cloudflare. We wanted to share a bit about our journey and why we made this decision.  】今天，我们很高兴地宣布 Replicate 正式成为 Cloudflare 的一部分。我们想分享一些关于我们的旅程以及我们做出这个决定的原因。</description>
-      <pubDate>Mon, 01 Dec 2025 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,30 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Azure Developer CLI (azd) Dec 2025 - Extensions Enhancements, Foundry Rebranding, and Azure Pipelines Improvements】Azure 开发人员 CLI (azd) 2025 年 12 月 - 扩展增强、Foundry 品牌重塑和 Azure Pipelines 改进</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-december-2025</link>
+      <description>【Welcome to the December 2025 edition of the Azure Developer CLI (azd) release blog—our final release of the year! This post covers releases 1.22.0 through 1.22.5, wrapping up 2025. To share your feedback and questions, join the December release discussion on GitHub.】欢迎来到 2025 年 12 月版的 Azure 开发人员 CLI (azd) 发布博客 - 我们今年的最后一个版本！本文涵盖 1.22.0 至 1.22.5 版本，截至 2025 年。要分享您的反馈和问题，请加入 GitHub 上的 12 月版本讨论。</description>
+      <pubDate>Fri, 19 Dec 2025 19:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Work item linking for Advanced Security alerts now available】高级安全警报的工作项链接现已可用</title>
+      <link>https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available</link>
+      <description>【Security vulnerabilities don&#39;t fix themselves. Someone needs to track them, prioritize them, and actually ship the fix. If you&#39;ve ever tried to manage security alerts alongside your regular sprint work, though, you know the friction: you&#39;re looking at an alert in one tab, switching to your backlog in another, trying to remember which vulner】安全漏洞不会自行修复。需要有人跟踪它们，确定它们的优先级，并实际交付修复程序。不过，如果您曾经尝试在常规冲刺工作的同时管理安全警报，那么您就会知道其中的摩擦：您在一个选项卡中查看警报，然后切换到另一个选项卡中的积压工作，并试图记住哪个漏洞</description>
+      <pubDate>Fri, 19 Dec 2025 18:24:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A shortcut gives me a weird path for a program shortcut that doesn&#39;t point to the executable, so what is it?】快捷方式为我提供了一个不指向可执行文件的程序快捷方式的奇怪路径，那么它是什么？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251219-00/?p=111885</link>
+      <description>【Say you have a shortcut file and you want to see what its target is. The natural thing to do is to call IShellLink::GetPath, which returns S_FALSE if the shortcut does not target a path, or returns S_OK and a path to the target. But for some shortcuts, it returns S_OK but produces a】假设您有一个快捷方式文件，并且您想查看其目标是什么。自然的做法是调用 IShellLink::GetPath，如果快捷方式不以路径为目标，则返回 S_FALSE，或者返回 S_OK 和目标路径。但对于某些快捷方式，它返回 S_OK 但会生成</description>
+      <pubDate>Fri, 19 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s new in Microsoft Foundry | October and November 2025】Microsoft Foundry 的新增功能 | 2025 年 10 月和 11 月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-oct-nov-2025</link>
+      <description>【TL;DR Move from prototype to production in hours, not weeks: The new Microsoft Agent Framework and Hosted Agents let you build, test, and deploy multi-agent AI systems with enterprise-grade security—no Kubernetes or container headaches. Orchestrate any model, anywhere: Model】TL;DR 在数小时而不是数周内从原型转向生产：新的 Microsoft 代理框架和托管代理可让您构建、测试和部署具有企业级安全性的多代理 AI 系统，而无需遇到 Kubernetes 或容器问题。随时随地编排任何模型：模型</description>
+      <pubDate>Fri, 19 Dec 2025 04:55:08 +0000</pubDate>
+    </item>
+    <item>
       <title>【AI Coding Agents and Domain-Specific Languages: Challenges and Practical Mitigation Strategies】人工智能编码代理和特定领域语言：挑战和实际缓解策略</title>
       <link>https://devblogs.microsoft.com/all-things-azure/ai-coding-agents-domain-specific-languages</link>
       <description>【1. Introduction AI coding agents/assistants such as GitHub Copilot have become common in modern software engineering workflows. Their strengths—rapid pattern completion, context-aware suggestions, and the ability to learn style from local code—stem from broad training on large corpora of public, general-purpose code. They perf】1. 简介 GitHub Copilot 等人工智能编码代理/助手在现代软件工程工作流程中已经变得很常见。他们的优势——快速模式完成、上下文感知建议以及从本地代码学习风格的能力——源于对大型公共通用代码语料库的广泛培训。他们表现</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift</link>
       <description>【Aspire 13.1 - Our holiday gift to you 🎁 Before we head off for the holidays, we wanted to leave you with one more release. Aspire 13.1 is packed with improvements to make your AI coding assistants first-class citizens in your development workflow, along with CLI enhancements, dashboard refinements, and streamlined Azure deploym】Aspire 13.1 - 我们送给您的节日礼物 🎁 在我们出发去度假之前，我们想再给您带来一个版本。 Aspire 13.1 进行了多项改进，使您的 AI 编码助手成为开发工作流程中的一等公民，同时还提供了 CLI 增强功能、仪表板改进和简化的 Azure 部署</description>
       <pubDate>Wed, 17 Dec 2025 15:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Deducing the consequences of Windows clipboard text formats on UTF-8】推断 Windows 剪贴板文本格式对 UTF-8 的影响</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251217-00/?p=111880</link>
-      <description>【We&#39;ve been looking at how Windows performs automatic conversion between the three text formats CF_TEXT, CF_OEM­TEXT, and CF_UNICODE­TEXT. The use of UTF-8 as the 8-bit character set is growing in popularity, and】我们一直在研究 Windows 如何在 CF_TEXT、CF_OEMTEXT 和 CF_UNICODETEXT 三种文本格式之间执行自动转换。使用 UTF-8 作为 8 位字符集越来越受欢迎，并且</description>
-      <pubDate>Wed, 17 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlock your email potential with Schema.org】使用 Schema.org 释放您的电子邮件潜力</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/unlock-your-email-potential-with-schema-org</link>
-      <description>【Email is a key part of how people get things done, whether it’s booking a reservation, confirming a package delivery, or managing a cab reservation. But as inboxes become increasingly cluttered, important transactional information often gets buried. Users are forced to open multip】电子邮件是人们完成工作的关键部分，无论是预订、确认包裹递送还是管理出租车预订。但随着收件箱变得越来越混乱，重要的交易信息常常被埋没。用户被迫打开多</description>
-      <pubDate>Wed, 17 Dec 2025 06:58:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Beyond Ergonomics: How the Azure Command Launcher for Java Improves GC Stability and Throughput on Azure VMs】超越人体工程学：适用于 Java 的 Azure 命令启动器如何提高 Azure VM 上的 GC 稳定性和吞吐量</title>
-      <link>https://devblogs.microsoft.com/java/beyond-ergonomics-how-the-azure-command-launcher-for-java-improves-gc-stability-and-throughput-on-azure-vms</link>
-      <description>【In our previous blog we introduced Azure Command Launcher for Java (jaz) —a safe, resource-aware way to launch the JVM without hand-tuning dozens of flags. This follow-up shares performance results, focusing on】在我们之前的博客中，我们介绍了适用于 Java 的 Azure 命令启动器 (jaz) — 一种安全的、资源感知的方式来启动 JVM，无需手动调整数十个标志。本次后续分享业绩结果，重点关注</description>
-      <pubDate>Tue, 16 Dec 2025 19:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【C++ code editing tools for GitHub Copilot: now in Public Preview】GitHub Copilot 的 C++ 代码编辑工具：现已提供公共预览版</title>
-      <link>https://devblogs.microsoft.com/cppblog/c-code-editing-tools-for-github-copilot-now-in-public-preview</link>
-      <description>【In November, we introduced C++ code editing tools for GitHub Copilot as a Private Preview, focusing on partnering with customers to tackle one of the common, taxing challenges for C++ development: refactoring at s】11 月，我们为 GitHub Copilot 推出了 C++ 代码编辑工具作为私人预览版，重点是与客户合作解决 C++ 开发中常见的艰巨挑战之一：重构</description>
-      <pubDate>Tue, 16 Dec 2025 18:25:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP194: Evolution of HTTP】EP194：HTTP 的演变</title>
+      <link>https://blog.bytebytego.com/p/ep194-evolution-of-http</link>
+      <description>【The Hypertext Transfer Protocol (HTTP) has evolved over the years to meet the needs of modern applications, from simple text delivery to high-performance, real-time experiences.】超文本传输​​协议 (HTTP) 多年来不断发展，以满足现代应用程序的需求，从简单的文本传输到高性能、实时体验。</description>
+      <pubDate>Sat, 20 Dec 2025 16:31:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Guide to Retry Pattern in Distributed Systems】分布式系统中的重试模式指南</title>
       <link>https://blog.bytebytego.com/p/a-guide-to-retry-pattern-in-distributed</link>
       <description>【In this article, we will explore the retry pattern in depth, understand when and how to use it safely and effectively.】在本文中，我们将深入探讨重试模式，了解何时以及如何安全有效地使用它。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/dropbox-multimedia-search-making</link>
       <description>【In this article, we&amp;#8217;ll explore how the Dropbox engineering team implemented multimedia search features and the technical challenges they faced along the way.】在本文中，我们将探讨 Dropbox 工程团队如何实现多媒体搜索功能以及他们在此过程中面临的技术挑战。</description>
       <pubDate>Tue, 09 Dec 2025 16:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Reddit Migrated Comments Functionality from Python to Go】Reddit 如何将评论功能从 Python 迁移到 Go</title>
-      <link>https://blog.bytebytego.com/p/how-reddit-migrated-comments-functionality</link>
-      <description>【In this article, we will look at how Reddit carried out this migration and the challenges it faced.】在本文中，我们将了解 Reddit 如何进行此迁移以及它面临的挑战。</description>
-      <pubDate>Sun, 07 Dec 2025 16:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

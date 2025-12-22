@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【How to test application resiliency by simulating the Cloudflare December 2025 outage】如何通过模拟 Cloudflare 2025 年 12 月中断来测试应用程序弹性</title>
+      <link>https://www.gremlin.com/blog/how-to-test-application-resiliency-by-simulating-the-cloudflare-december-2025-outage</link>
+      <description>【Use Gremlin Failure Flags to safely simulate 500 error codes and test resiliency to outages, like the December 5th Cloudflare incident.】使用 Gremlin Failure Flags 安全地模拟 500 个错误代码并测试对中断的恢复能力，例如 12 月 5 日的 Cloudflare 事件。</description>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Gremlin Release Roundup 2025: Reliability across AI, on-prem, and applications】Gremlin 2025 年发布综述：跨 AI、本地和应用程序的可靠性</title>
       <link>https://www.gremlin.com/blog/release-roundup-2025</link>
       <description>【This year’s release roundup covers our new on-prem offering, new Failure Flags features, intelligent analysis of failed experiments, and much more.】今年的发布综述涵盖了我们新的本地产品、新的故障标志功能、失败实验的智能分析等等。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/gremlins-kubecon-25-reliability-track</link>
       <description>【Check out the Gremlin-curated unofficial track of reliability talks at KubeCon North America 2025.】查看 Gremlin 在 2025 年 KubeCon 北美会议上策划的非官方可靠性会谈。</description>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to test the reliability of a Point of Sale (POS) system】如何测试销售点 (POS) 系统的可靠性</title>
-      <link>https://www.gremlin.com/blog/how-to-test-the-reliability-of-a-point-of-sale-pos-system</link>
-      <description>【Find out how to use Gremlin and Chaos Engineering to make sure your Point of Sale system is reliable.】了解如何使用 Gremlin 和 Chaos Engineering 确保您的销售点系统可靠。</description>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

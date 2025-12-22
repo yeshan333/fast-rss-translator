@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #502】SRE 周刊第 #502 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-502/</link>
+      <description>【View on sreweekly.com Eliminating Cold Starts 2: shard and conquer Cloudflare reduced their cold-start rate for Workers requests through sharding and consistent hashing, with an interesting solution for load shedding. &amp;#160;&amp;#160;Harris Hancock &amp;#8212; Cloudflare Monitoring &amp;#038; Observability: Using Logs, Metrics, Traces, and Alerts to Understand System Failures I appreciate the way this article also shares [&amp;#8230;]】查看 sreweekly.com 消除冷启动 2：分片并征服 Cloudflare 通过分片和一致散列降低了 Workers 请求的冷启动率，并采用了有趣的负载卸载解决方案。   Harris Hancock — Cloudflare 监控和可观察性：使用日志、指标、跟踪和警报来了解系统故障 我很欣赏这篇文章也分享的方式 [...]</description>
+      <pubDate>Mon, 22 Dec 2025 03:13:23 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #501】SRE 周刊第 #501 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-501/</link>
       <description>【View on sreweekly.com A message from our sponsor, Depot: &amp;#8220;Waiting for a runner&amp;#8221; but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot&amp;#8217;s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation &amp;#8211; Part 1 A thoughtful evaluation of [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Depot 的消息：“正在等待跑步者”，但跑步者在线？ Depot 调试了三个症状误导工程师的案例。工作流权限、Azure 身份验证和 Dependabot 的安全上下文都导致了看似基础设施问题的故障。人工智能和自动化的讽刺 – 第 1 部分 对 [...] 的深思熟虑的评估</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-498/</link>
       <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps. Costory automatically explains why your cloud costs change, and reports it straight to Slack. Built for SREs who want to code, not wrestle with spreadsheets. Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io Cloudflare outage [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有报名参加 FinOps。 Costory 会自动解释您的云成本变化的原因，并将其直接报告给 Slack。专为想要编码而不是与电子表格纠缠的 SRE 构建。现已在 AWS 和 GCP 市场上推出。在 costory.io 开始免费试用 Cloudflare 中断 [...]</description>
       <pubDate>Mon, 24 Nov 2025 03:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #497】SRE 周刊第 #497 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-497/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io To vibe or not to [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有注册进行 FinOps。Costory 会自动解释您的云成本变化的原因，并直接向 Slack 报告。专为想要编码而不是与电子表格搏斗的 SRE 构建。现在在 AWS 和 GCP Marketplaces 上。在 costory.io 开始免费试用 是否振动 [...]</description>
-      <pubDate>Mon, 17 Nov 2025 03:35:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
