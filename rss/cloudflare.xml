@@ -4,7 +4,13 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Code Orange: Fail Small — Our resilience plan following recent incidents】橙色代码：小失败——我们在最近发生的事件后的恢复计划</title>
+      <title>【How Workers powers our internal maintenance scheduling pipeline】Workers 如何为我们的内部维护计划流程提供动力</title>
+      <link>https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/</link>
+      <description>【 Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines. 】全球网络上的物理数据中心维护存在风险。我们在 Workers 上构建了一个维护调度程序，以安全地计划中断性操作，同时通过多个数据源和指标管道之上的图形界面查看基础设施的状态来解决扩展挑战。</description>
+      <pubDate>Mon, 22 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Code Orange: Fail Small — our resilience plan following recent incidents】橙色代码：小失败——我们在最近发生的事件后的恢复计划</title>
       <link>https://blog.cloudflare.com/fail-small-resilience-plan/</link>
       <description>【 We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again. 】我们宣布了“橙色代码：小规模失败”，让 Cloudflare 的每个人都专注于一组高优先级工作流，其目标很简单：确保我们最近两次全球中断的原因不再发生。</description>
       <pubDate>Fri, 19 Dec 2025 22:35:30 +0000</pubDate>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
       <description>【 Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components. 】Cloudflare 于 2025 年 12 月 5 日经历了严重的流量中断，大约从世界标准时间 8:47 开始。事件持续了大约25分钟才得到解决。对于这对我们的客户和互联网造成的影响，我们深表歉意。该事件不是由攻击引起的，而是由于应用配置更改来尝试缓解最近影响 React Server 组件的全行业漏洞。</description>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare WAF proactively protects against React vulnerability】Cloudflare WAF 主动防御 React 漏洞</title>
-      <link>https://blog.cloudflare.com/waf-rules-react-vulnerability/</link>
-      <description>【 Cloudflare offers protection against a new high profile vulnerability for React Server Components: CVE-2025-55182. All WAF customers are automatically protected as long as the WAF is deployed. 】Cloudflare 为 React 服务器组件提供针对新的备受瞩目的漏洞的保护：CVE-2025-55182。只要部署了WAF，所有WAF客户都会自动受到保护。</description>
-      <pubDate>Wed, 03 Dec 2025 14:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
