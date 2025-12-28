@@ -4,6 +4,24 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Why are we worried about memory access semantics? Full barriers should be enough for anybody】为什么我们担心内存访问语义？完整的障碍对任何人来说都应该足够了</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919</link>
+      <description>【Commenter Shawn wondered why we are so worried about memory access semantics. Back in my day, we just used full barriers everywhere, and I didn&#39;t hear nobody complainin&#39;.】评论者肖恩想知道为什么我们如此担心内存访问语义。在我那个时代，我们只是到处都使用了完整的屏障，而且我没有听到任何人抱怨。</description>
+      <pubDate>Fri, 26 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Reading the fine print, episode 4: Holiday promotions】阅读细则，第 4 集：假日促销</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251225-01/?p=111916</link>
+      <description>【I ran across a promotion from a hotel. Join us for the holidays with this promotion code. But if you read down to the fine print, it also says Limited number of rooms available for each date. May not be valid during holiday】我偶然发现了一家酒店的促销活动。使用此促销代码加入我们的假期。但如果您仔细阅读细则，它还会显示每个日期的可用房间数量有限。节假日期间可能无效</description>
+      <pubDate>Thu, 25 Dec 2025 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why is the last letter of my string not making it to the clipboard?】为什么我的字符串的最后一个字母没有进入剪贴板？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251225-00/?p=111914</link>
+      <description>【Just to see what happens, a customer called Set­ClipboardData(CF_TEXT) and passed a memory block that was intentionally not null-terminated. They found that when they subsequently pasted the string (say, into Notepad), the last character didn&#39;t get pasted. As a second experiment, they over-allocated the buffer b】为了看看会发生什么，一位客户调用 SetClipboardData(CF_TEXT) 并传递了一个故意不以 null 终止的内存块。他们发现，当他们随后粘贴字符串（例如，粘贴到记事本中）时，最后一个字符没有被粘贴。作为第二个实验，他们过度分配了缓冲区 b</description>
+      <pubDate>Thu, 25 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Why does my &lt;KBD&gt;Ctrl&lt;/KBD&gt;+&lt;KBD&gt;M&lt;/KBD&gt; accelerator key activate when I press the &lt;KBD&gt;Enter&lt;/KBD&gt; key?】为什么当我按 &lt;KBD&gt;Enter&lt;/KBD&gt; 键时，我的 &lt;KBD&gt;Ctrl&lt;/KBD&gt;+&lt;KBD&gt;M&lt;/KBD&gt; 加速键会激活？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20251224-00/?p=111908</link>
       <description>【A customer didn&#39;t understand why their Win32 accelerator key for Ctrl+M was triggering spuriously. Specifically, it was triggering when the user hit the Enter key, which is nothing like the Ctrl+M two-key combination. They defined their accelerator table like this: IDA】客户不明白为什么他们的 Ctrl+M 的 Win32 加速键会被错误地触发。具体来说，它是在用户按下 Enter 键时触发的，这与 Ctrl+M 两键组合完全不同。他们这样定义加速器表：IDA</description>
@@ -44,24 +62,6 @@
       <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-december-2025</link>
       <description>【Welcome to the December 2025 edition of the Azure Developer CLI (azd) release blog—our final release of the year! This post covers releases 1.22.0 through 1.22.5, wrapping up 2025. To share your feedback and questions, join the December release discussion on GitHub.】欢迎来到 2025 年 12 月版的 Azure 开发人员 CLI (azd) 发布博客 - 我们今年的最后一个版本！本文涵盖 1.22.0 至 1.22.5 版本，截至 2025 年。要分享您的反馈和问题，请加入 GitHub 上的 12 月版本讨论。</description>
       <pubDate>Fri, 19 Dec 2025 19:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Work item linking for Advanced Security alerts now available】高级安全警报的工作项链接现已可用</title>
-      <link>https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available</link>
-      <description>【Security vulnerabilities don&#39;t fix themselves. Someone needs to track them, prioritize them, and actually ship the fix. If you&#39;ve ever tried to manage security alerts alongside your regular sprint work, though, you know the friction: you&#39;re looking at an alert in one tab, switching to your backlog in another, trying to remember which vulner】安全漏洞不会自行修复。需要有人跟踪它们，确定它们的优先级，并实际交付修复程序。不过，如果您曾经尝试在常规冲刺工作的同时管理安全警报，那么您就会知道其中的摩擦：您在一个选项卡中查看警报，然后切换到另一个选项卡中的积压工作，并试图记住哪个漏洞</description>
-      <pubDate>Fri, 19 Dec 2025 18:24:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A shortcut gives me a weird path for a program shortcut that doesn&#39;t point to the executable, so what is it?】快捷方式为我提供了一个不指向可执行文件的程序快捷方式的奇怪路径，那么它是什么？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251219-00/?p=111885</link>
-      <description>【Say you have a shortcut file and you want to see what its target is. The natural thing to do is to call IShellLink::GetPath, which returns S_FALSE if the shortcut does not target a path, or returns S_OK and a path to the target. But for some shortcuts, it returns S_OK but produces a】假设您有一个快捷方式文件，并且您想查看其目标是什么。自然的做法是调用 IShellLink::GetPath，如果快捷方式不以路径为目标，则返回 S_FALSE，或者返回 S_OK 和目标路径。但对于某些快捷方式，它返回 S_OK 但会生成</description>
-      <pubDate>Fri, 19 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s new in Microsoft Foundry | October and November 2025】Microsoft Foundry 的新增功能 | 2025 年 10 月和 11 月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-oct-nov-2025</link>
-      <description>【TL;DR Move from prototype to production in hours, not weeks: The new Microsoft Agent Framework and Hosted Agents let you build, test, and deploy multi-agent AI systems with enterprise-grade security—no Kubernetes or container headaches. Orchestrate any model, anywhere: Model】TL;DR 在数小时而不是数周内从原型转向生产：新的 Microsoft 代理框架和托管代理可让您构建、测试和部署具有企业级安全性的多代理 AI 系统，而无需遇到 Kubernetes 或容器问题。随时随地编排任何模型：模型</description>
-      <pubDate>Fri, 19 Dec 2025 04:55:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

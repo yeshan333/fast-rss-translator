@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP195: Common Network Protocols Every Engineer Should Know】EP195：每个工程师都应该知道的通用网络协议</title>
+      <link>https://blog.bytebytego.com/p/ep195-common-network-protocols-every</link>
+      <description>【Every click, message, and API call on the internet relies on network protocols. They define how data moves, who can talk, and how securely it all happens.】互联网上的每一次点击、消息和 API 调用都依赖于网络协议。他们定义了数据如何移动、谁可以说话以及这一切发生的安全程度。</description>
+      <pubDate>Sat, 27 Dec 2025 16:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【🚀 Learn AI in the New Year: Become an AI Engineer Cohort 3 Now Open】🚀 新年学习人工智能：成为人工智能工程师第三期现已开放</title>
+      <link>https://blog.bytebytego.com/p/learn-ai-in-the-new-year-become-an</link>
+      <description>【After the amazing success of Cohorts 1 and 2 (with close to 1,000 engineers joining and building real AI skills), we are excited to announce the launch of Cohort 3 of Become an AI Engineer!】继第 1 期和第 2 期取得惊人成功（近 1,000 名工程师加入并培养真正的 AI 技能）之后，我们很高兴地宣布推出“成为 AI 工程师”第 3 期！</description>
+      <pubDate>Fri, 26 Dec 2025 16:30:42 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Shopify Prepares for Black Friday】Shopify 如何准备黑色星期五</title>
       <link>https://blog.bytebytego.com/p/how-shopify-prepares-for-black-friday</link>
       <description>【In this article, we will look at how Shopify prepared for success during the Super Bowl of commerce.】在本文中，我们将了解 Shopify 如何为商业超级碗期间的成功做好准备。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep193-database-types-you-should-know</link>
       <description>【There&amp;#8217;s no such thing as a one-size-fits-all database anymore.】不再有“一刀切”的数据库了。</description>
       <pubDate>Sat, 13 Dec 2025 16:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How OpenAI, Gemini, and Claude Use Agents to Power Deep Research】OpenAI、Gemini 和 Claude 如何使用代理来推动深度研究</title>
-      <link>https://blog.bytebytego.com/p/how-openai-gemini-and-claude-use</link>
-      <description>【We will walk through the architecture that enables Deep Research, how different LLMs implement it, how agents coordinate with one another, and how the final report is synthesized and validated before being delivered to the user.】我们将介绍支持深度研究的架构、不同的法学硕士如何实施它、代理如何相互协调，以及最终报告在交付给用户之前如何合成和验证。</description>
-      <pubDate>Fri, 12 Dec 2025 16:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Must-Know System Performance Strategies】必须了解的系统性能策略</title>
-      <link>https://blog.bytebytego.com/p/must-know-system-performance-strategies</link>
-      <description>【In this article, we will look at system performance in detail, understand how it can be measured, and investigate key strategies that can be used to improve the performance of a system on different levels.】在本文中，我们将详细研究系统性能，了解如何测量它，并研究可用于在不同级别提高系统性能的关键策略。</description>
-      <pubDate>Thu, 11 Dec 2025 16:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
