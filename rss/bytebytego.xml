@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【OpenAI CLIP: The Model That Learnt Zero-Shot Image Recognition Using Text】OpenAI CLIP：使用文本学习零样本图像识别的模型</title>
+      <link>https://blog.bytebytego.com/p/openai-clip-the-model-that-learnt</link>
+      <description>【In this article, we will look at how CLIP works and the problems it tries to solve.】在本文中，我们将了解 CLIP 的工作原理以及它试图解决的问题。</description>
+      <pubDate>Mon, 29 Dec 2025 16:30:45 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP195: Common Network Protocols Every Engineer Should Know】EP195：每个工程师都应该知道的通用网络协议</title>
       <link>https://blog.bytebytego.com/p/ep195-common-network-protocols-every</link>
       <description>【Every click, message, and API call on the internet relies on network protocols. They define how data moves, who can talk, and how securely it all happens.】互联网上的每一次点击、消息和 API 调用都依赖于网络协议。他们定义了数据如何移动、谁可以说话以及这一切发生的安全程度。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns</link>
       <description>【In this article, we will look at the most popular agentic workflow patterns and how they work.】在本文中，我们将了解最流行的代理工作流模式及其工作原理。</description>
       <pubDate>Mon, 15 Dec 2025 16:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP193: Database Types You Should Know in 2025】EP193：2025 年您应该了解的数据库类型</title>
-      <link>https://blog.bytebytego.com/p/ep193-database-types-you-should-know</link>
-      <description>【There&amp;#8217;s no such thing as a one-size-fits-all database anymore.】不再有“一刀切”的数据库了。</description>
-      <pubDate>Sat, 13 Dec 2025 16:30:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

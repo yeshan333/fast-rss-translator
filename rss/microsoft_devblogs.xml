@@ -4,6 +4,30 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Top .NET Blog Posts of 2025】2025 年热门 .NET 博客文章</title>
+      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025</link>
+      <description>【2025 was a big year for .NET developers. We kicked things off with early .NET 10 previews, kept momentum with steady tooling and runtime improvements, and wrapped it all up with the launch of .NET 10 in November. 🚀 .NET 10 .NET 10 was the headline event of the year: the latest Long Term Support (L】2025 年对于 .NET 开发人员来说是重要的一年。我们从早期的 .NET 10 预览版开始，通过稳定的工具和运行时改进保持势头，并在 11 月份推出 .NET 10 时结束这一切。 🚀 .NET 10 .NET 10 是今年的头条事件：最新的长期支持 (L</description>
+      <pubDate>Tue, 30 Dec 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Additional notes on color-keyed overlays as a way of doing smooth video rendering】关于颜色键控叠加作为平滑视频渲染方式的附加说明</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251230-00/?p=111944</link>
+      <description>【A little while ago, I wrote about the use of color-keyed overlays to render video smoothly. The idea is that the CPU itself p】不久前，我写了一篇关于使用颜色键控叠加来平滑渲染视频的文章。这个想法是CPU本身p</description>
+      <pubDate>Tue, 30 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Gävle Goat (Gävlebocken) succumbs in 2025 to a new menace】耶夫勒山羊 (Gävlebocken) 将于 2025 年屈服于新的威胁</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251229-01/?p=111929</link>
+      <description>【Regular readers of this blog may remember the giant traditional Swedish Yule Goat erected annually in the Swedish town of Gävle. The Gävle Goat (】本博客的常客可能还记得每年在瑞典耶夫勒镇竖立的巨型传统瑞典圣诞山羊。耶夫勒山羊（</description>
+      <pubDate>Mon, 29 Dec 2025 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I detect that the system is running low on memory? Or that my job is running low on memory?】如何检测系统内存不足？或者我的工作内存不足？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251229-00/?p=111927</link>
+      <description>【A customer wanted to write a process that could detect that it is nearing its job memory limit. Now, if you were asking about system memory limits rather than job memory limits, you would use the Create­Memory­Resource­Notification to create a &#34;low memory&#34; notification. As noted in the documentation, this notificatio】一位客户想要编写一个可以检测是否接近其作业内存限制的进程。现在，如果您询问系统内存限制而不是作业内存限制，则可以使用 CreateMemoryResourceNotification 创建“内存不足”通知。正如文档中所述，此通知</description>
+      <pubDate>Mon, 29 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Why are we worried about memory access semantics? Full barriers should be enough for anybody】为什么我们担心内存访问语义？完整的障碍对任何人来说都应该足够了</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919</link>
       <description>【Commenter Shawn wondered why we are so worried about memory access semantics. Back in my day, we just used full barriers everywhere, and I didn&#39;t hear nobody complainin&#39;.】评论者肖恩想知道为什么我们如此担心内存访问语义。在我那个时代，我们只是到处都使用了完整的屏障，而且我没有听到任何人抱怨。</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-december-2025</link>
       <description>【As we close out 2025, we want to pause and reflect on what has been an extraordinary year for the SharePoint Framework (SPFx). We continue to be humbled by the momentum of the platform and the scale of impact it enables across Microsoft 365. Tens of millions of users】在 2025 年即将结束之际，我们想停下来思考一下对于 SharePoint 框架 (SPFx) 来说是不平凡的一年。我们继续对该平台的势头及其在 Microsoft 365 中产生的影响规模感到谦卑。数千万用户</description>
       <pubDate>Tue, 23 Dec 2025 14:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How AI fixed my procrastination】人工智能如何解决我的拖延症</title>
-      <link>https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination</link>
-      <description>【I struggled to get started. For ages, I kept putting off building this website, creating a new programming language for Visual Studio, and coming up with fresh color themes. Each project looked overwhelming, and I couldn’t find the time or motivation to jump in. It all just felt like too much at once. But when a national holiday gave me a】我很难开始。多年来，我一直推迟构建这个网站、为 Visual Studio 创建新的编程语言以及提出新的颜色主题。每个项目看起来都让人不知所措，我找不到时间或动力去投入。这一切感觉一下子太多了。但当国庆节给了我一个</description>
-      <pubDate>Mon, 22 Dec 2025 15:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【All the other cool languages have &lt;CODE&gt;try&lt;/CODE&gt;...&lt;CODE&gt;finally&lt;/CODE&gt;. C++ says &#34;We have &lt;CODE&gt;try&lt;/CODE&gt;...&lt;CODE&gt;finally&lt;/CODE&gt; at home.&#34;】所有其他很酷的语言都有&lt;code&gt;尝试&lt;/code&gt;...&lt;code&gt;最后&lt;/code&gt;。 C++ 说“我们已经&lt;CODE&gt;尝试了&lt;/CODE&gt;...&lt;CODE&gt;终于&lt;/CODE&gt;在家了。”</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890</link>
-      <description>【Many languages¹ that have exceptions also have a finally clause, so you can write try { ⟦ stuff ⟧ } finally { always(); } A quick checks shows that this control structure exists in Java, C#, Python, JavaScript, but not C++. C++ says, &#34;We have try...finally at home.&#34;】许多有异常的语言 1 也有一个 finally 子句，所以你可以写 try { ⟦ stuff ⟧ }finally {always();快速检查表明该控制结构存在于 Java、C#、Python、JavaScript 中，但不存在于 C++ 中。 C++ 说：“我们已经尝试过了……终于到家了。”</description>
-      <pubDate>Mon, 22 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The New Test Run Hub is Going Generally Available!】新的测试运行中心即将全面上线！</title>
-      <link>https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available</link>
-      <description>【Delivering high-quality software requires clarity, speed, and collaboration. That’s why we introduced the New Test Run Hub in Azure Test Plans. A modern, streamlined experience designed to make test execution and analysis fast and】交付高质量的软件需要清晰度、速度和协作。这就是我们在 Azure 测试计划中引入新测试运行中心的原因。现代化、简化的体验，旨在使测试执行和分析快速且可靠</description>
-      <pubDate>Mon, 22 Dec 2025 13:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) Dec 2025 - Extensions Enhancements, Foundry Rebranding, and Azure Pipelines Improvements】Azure 开发人员 CLI (azd) 2025 年 12 月 - 扩展增强、Foundry 品牌重塑和 Azure Pipelines 改进</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-december-2025</link>
-      <description>【Welcome to the December 2025 edition of the Azure Developer CLI (azd) release blog—our final release of the year! This post covers releases 1.22.0 through 1.22.5, wrapping up 2025. To share your feedback and questions, join the December release discussion on GitHub.】欢迎来到 2025 年 12 月版的 Azure 开发人员 CLI (azd) 发布博客 - 我们今年的最后一个版本！本文涵盖 1.22.0 至 1.22.5 版本，截至 2025 年。要分享您的反馈和问题，请加入 GitHub 上的 12 月版本讨论。</description>
-      <pubDate>Fri, 19 Dec 2025 19:57:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

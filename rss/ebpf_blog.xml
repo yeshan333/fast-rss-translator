@@ -4,6 +4,12 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
+      <title>【The eBPF Foundation’s 2025 Year in Review】eBPF 基金会 2025 年回顾</title>
+      <link>https://ebpf.foundation/the-ebpf-foundations-2025-year-in-review/</link>
+      <description>【Funding everything from academic research to conferences to fellowships】资助从学术研究到会议再到奖学金的一切</description>
+      <pubDate>Thu, 18 Dec 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Scaling real-time file monitoring with eBPF: How we filtered billions of kernel events per minute】使用 eBPF 扩展实时文件监控：我们如何每分钟过滤数十亿个内核事件</title>
       <link>https://ebpfchirp.substack.com/p/testing-ebpf-program-compatibility</link>
       <description>【Building file integrity monitoring on top of eBPF at Datadog】在 Datadog 的 eBPF 之上构建文件完整性监控</description>
@@ -56,12 +62,6 @@
       <link>https://ebpfchirp.substack.com/p/tracepoints-kprobes-or-fprobes-which</link>
       <description>【Tracing programs like kprobes, fprobes, and tracepoints are very popular, but their overlapping functionality can make choosing the right one confusing.】kprobes、fprobes 和tracepoint 等跟踪程序非常流行，但它们的重叠功能可能会让选择正确的程序变得混乱。</description>
       <pubDate>Sat, 04 Jan 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【eBPF in 2025 - Bigger Than the CrowdStrike Outage】2025 年的 eBPF - 比 CrowdStrike 中断更大</title>
-      <link>https://thenewstack.io/ebpf-in-2025-bigger-than-the-crowdstrike-outage/</link>
-      <description>【 In 2025 eBPF adoption will expand rapidly and other predictions】2025 年 eBPF 的采用将迅速扩大以及其他预测</description>
-      <pubDate>Wed, 01 Jan 2025 12:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
