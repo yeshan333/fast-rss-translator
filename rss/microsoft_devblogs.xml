@@ -4,6 +4,30 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Java at Microsoft: 2025 Year in Review】微软的 Java：2025 年回顾</title>
+      <link>https://devblogs.microsoft.com/java/java-at-microsoft-2025-year-in-review</link>
+      <description>【A breakthrough year for modernization, AI‑assisted development, Agentic AI development, and platform innovation 2025 was one of the most significant years yet for Java at Microsoft. From the arrival of OpenJDK 25 as the newest Long‑Term Su】现代化、AI 辅助开发、Agentic AI 开发和平台创新的突破性一年 2025 年是 Microsoft Java 迄今为止最重要的一年。从 OpenJDK25 作为最新的长期 Su 的到来开始</description>
+      <pubDate>Wed, 31 Dec 2025 18:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Top .NET Videos &amp; Live Streams of 2025】2025 年热门 .NET 视频和直播</title>
+      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025</link>
+      <description>【It has been an absolutely outstanding year of content for .NET from creators around the globe sharing their passion for .NET and the .NET team giving insight into the latest and greatest in the world of .NET. From events, live streams, and plenty of on-demand content dropping on the .NET YouTube nea】对于 .NET 来说，今年绝对是出色的一年，来自全球各地的创作者分享了他们对 .NET 的热情，.NET 团队则深入了解了 .NET 世界的最新、最伟大的内容。来自活动、直播以及 .NET YouTube 上的大量点播内容</description>
+      <pubDate>Wed, 31 Dec 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2025 year-end link clearance】2025年终链接通关</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251231-01/?p=111952</link>
+      <description>【Closing the door on another year. Here are some random links. Mesmerizing: Wintergatan - Marble Machine, a musical instrument that uses 2000 marbles. It&#39;s like that】又一年的大门关上了。这是一些随机链接。令人着迷：Wintergatan - 弹珠机，一种使用 2000 个弹珠的乐器。就是这样</description>
+      <pubDate>Wed, 31 Dec 2025 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Understanding and mitigating a stack overflow in our task sequencer】了解并减轻任务排序器中的堆栈溢出</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20251231-00/?p=111950</link>
+      <description>【A customer was using the v2 task_sequencer class we developed some time ago. (Here&#39;s the】一位客户正在使用我们前段时间开发的 v2 task_sequencer 类。 （这是</description>
+      <pubDate>Wed, 31 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top .NET Blog Posts of 2025】2025 年热门 .NET 博客文章</title>
       <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025</link>
       <description>【2025 was a big year for .NET developers. We kicked things off with early .NET 10 previews, kept momentum with steady tooling and runtime improvements, and wrapped it all up with the launch of .NET 10 in November. 🚀 .NET 10 .NET 10 was the headline event of the year: the latest Long Term Support (L】2025 年对于 .NET 开发人员来说是重要的一年。我们从早期的 .NET 10 预览版开始，通过稳定的工具和运行时改进保持势头，并在 11 月份推出 .NET 10 时结束这一切。 🚀 .NET 10 .NET 10 是今年的头条事件：最新的长期支持 (L</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20251225-01/?p=111916</link>
       <description>【I ran across a promotion from a hotel. Join us for the holidays with this promotion code. But if you read down to the fine print, it also says Limited number of rooms available for each date. May not be valid during holiday】我偶然发现了一家酒店的促销活动。使用此促销代码加入我们的假期。但如果您仔细阅读细则，它还会显示每个日期的可用房间数量有限。节假日期间可能无效</description>
       <pubDate>Thu, 25 Dec 2025 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why is the last letter of my string not making it to the clipboard?】为什么我的字符串的最后一个字母没有进入剪贴板？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251225-00/?p=111914</link>
-      <description>【Just to see what happens, a customer called Set­ClipboardData(CF_TEXT) and passed a memory block that was intentionally not null-terminated. They found that when they subsequently pasted the string (say, into Notepad), the last character didn&#39;t get pasted. As a second experiment, they over-allocated the buffer b】为了看看会发生什么，一位客户调用 SetClipboardData(CF_TEXT) 并传递了一个故意不以 null 终止的内存块。他们发现，当他们随后粘贴字符串（例如，粘贴到记事本中）时，最后一个字符没有被粘贴。作为第二个实验，他们过度分配了缓冲区 b</description>
-      <pubDate>Thu, 25 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why does my &lt;KBD&gt;Ctrl&lt;/KBD&gt;+&lt;KBD&gt;M&lt;/KBD&gt; accelerator key activate when I press the &lt;KBD&gt;Enter&lt;/KBD&gt; key?】为什么当我按 &lt;KBD&gt;Enter&lt;/KBD&gt; 键时，我的 &lt;KBD&gt;Ctrl&lt;/KBD&gt;+&lt;KBD&gt;M&lt;/KBD&gt; 加速键会激活？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251224-00/?p=111908</link>
-      <description>【A customer didn&#39;t understand why their Win32 accelerator key for Ctrl+M was triggering spuriously. Specifically, it was triggering when the user hit the Enter key, which is nothing like the Ctrl+M two-key combination. They defined their accelerator table like this: IDA】客户不明白为什么他们的 Ctrl+M 的 Win32 加速键会被错误地触发。具体来说，它是在用户按下 Enter 键时触发的，这与 Ctrl+M 两键组合完全不同。他们这样定义加速器表：IDA</description>
-      <pubDate>Wed, 24 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【When irate product support customers demand to speak to Bill Gates】当愤怒的产品支持客户要求与比尔·盖茨交谈时</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896</link>
-      <description>【A colleague of mine who used to work in product support told me that they had a procedure if a customer became irate and demanded to speak with Bill Gates. (This was, of course, back in the days when Bill Gates still ran the company.) The product support technician would apologize for not resolving the problem to the customer&#39;s sati】我的一位曾经在产品支持部门工作的同事告诉我，如果客户生气并要求与比尔·盖茨交谈，他们有一套程序。 （当然，这是在比尔盖茨仍在经营公司的时代。）产品支持技术人员会因为没有解决客户满意的问题而道歉。</description>
-      <pubDate>Tue, 23 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SharePoint Framework (SPFx) roadmap update – December 2025】SharePoint 框架 (SPFx) 路线图更新 – 2025 年 12 月</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-december-2025</link>
-      <description>【As we close out 2025, we want to pause and reflect on what has been an extraordinary year for the SharePoint Framework (SPFx). We continue to be humbled by the momentum of the platform and the scale of impact it enables across Microsoft 365. Tens of millions of users】在 2025 年即将结束之际，我们想停下来思考一下对于 SharePoint 框架 (SPFx) 来说是不平凡的一年。我们继续对该平台的势头及其在 Microsoft 365 中产生的影响规模感到谦卑。数千万用户</description>
-      <pubDate>Tue, 23 Dec 2025 14:53:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
