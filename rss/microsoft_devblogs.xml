@@ -4,6 +4,18 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【How can you swap two adjacent blocks of memory using only forward iterators?】如何仅使用前向迭代器交换两个相邻的内存块？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260102-00/?p=111958</link>
+      <description>【Last time, we noted that the std::rotate function requires only forward iterators. The algorithm we explored last time involved a clever sequence of reversals, but reversals require bidirectional iterators (one to iterator forward from the beginning and another to iterate backward from the end).】上次，我们注意到 std::rotate 函数只需要前向迭代器。我们上次探索的算法涉及巧妙的反转序列，但反转需要双向迭代器（一个从头向前迭代，另一个从末尾向后迭代）。</description>
+      <pubDate>Fri, 02 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Swapping two blocks of memory that reside inside a larger block, in constant memory】交换常量内存中驻留在较大块内的两个内存块</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955</link>
+      <description>【Suppose you have a large block of memory, and you want to swap two blocks that reside inside that large block. For concreteness, say you have a block of memory of the form A1, A2, B1, B2, C1, C2, D1, D2, D3, E1, and you want to swap the B&#39;s and D&#39;s, producing A1, A2, D1, D2, D3, C1, C2, B1, B2, E1.】假设您有一个大内存块，并且您想要交换驻留在该大块内的两个块。具体来说，假设您有一个 A1、A2、B1、B2、C1、C2、D1、D2、D3、E1 形式的内存块，并且您想要交换 B 和 D，生成 A1、A2、D1、D2、D3、C1、C2、B1、B2、E1。</description>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Java at Microsoft: 2025 Year in Review】微软的 Java：2025 年回顾</title>
       <link>https://devblogs.microsoft.com/java/java-at-microsoft-2025-year-in-review</link>
       <description>【A breakthrough year for modernization, AI‑assisted development, Agentic AI development, and platform innovation 2025 was one of the most significant years yet for Java at Microsoft. From the arrival of OpenJDK 25 as the newest Long‑Term Su】现代化、AI 辅助开发、Agentic AI 开发和平台创新的突破性一年 2025 年是 Microsoft Java 迄今为止最重要的一年。从 OpenJDK25 作为最新的长期 Su 的到来开始</description>
@@ -50,18 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20251229-00/?p=111927</link>
       <description>【A customer wanted to write a process that could detect that it is nearing its job memory limit. Now, if you were asking about system memory limits rather than job memory limits, you would use the Create­Memory­Resource­Notification to create a &#34;low memory&#34; notification. As noted in the documentation, this notificatio】一位客户想要编写一个可以检测是否接近其作业内存限制的进程。现在，如果您询问系统内存限制而不是作业内存限制，则可以使用 CreateMemoryResourceNotification 创建“内存不足”通知。正如文档中所述，此通知</description>
       <pubDate>Mon, 29 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why are we worried about memory access semantics? Full barriers should be enough for anybody】为什么我们担心内存访问语义？完整的障碍对任何人来说都应该足够了</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919</link>
-      <description>【Commenter Shawn wondered why we are so worried about memory access semantics. Back in my day, we just used full barriers everywhere, and I didn&#39;t hear nobody complainin&#39;.】评论者肖恩想知道为什么我们如此担心内存访问语义。在我那个时代，我们只是到处都使用了完整的屏障，而且我没有听到任何人抱怨。</description>
-      <pubDate>Fri, 26 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reading the fine print, episode 4: Holiday promotions】阅读细则，第 4 集：假日促销</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251225-01/?p=111916</link>
-      <description>【I ran across a promotion from a hotel. Join us for the holidays with this promotion code. But if you read down to the fine print, it also says Limited number of rooms available for each date. May not be valid during holiday】我偶然发现了一家酒店的促销活动。使用此促销代码加入我们的假期。但如果您仔细阅读细则，它还会显示每个日期的可用房间数量有限。节假日期间可能无效</description>
-      <pubDate>Thu, 25 Dec 2025 15:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

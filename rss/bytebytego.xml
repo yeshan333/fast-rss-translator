@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP196: Cloud Load Balancer Cheat Sheet】EP196：云负载均衡器备忘单</title>
+      <link>https://blog.bytebytego.com/p/ep196-cloud-load-balancer-cheat-sheet</link>
+      <description>【Efficient load balancing is vital for optimizing the performance and availability of your applications in the cloud.】高效的负载平衡对于优化云中应用程序的性能和可用性至关重要。</description>
+      <pubDate>Sat, 03 Jan 2026 16:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Message Brokers 101: Storage, Replication, and Delivery Guarantees】消息代理 101：存储、复制和交付保证</title>
+      <link>https://blog.bytebytego.com/p/message-brokers-101-storage-replication</link>
+      <description>【A message broker is a middleware system that facilitates asynchronous communication between applications and services using messages.】消息代理是一种中间件系统，它可以使用消息促进应用程序和服务之间的异步通信。</description>
+      <pubDate>Thu, 01 Jan 2026 16:33:32 +0000</pubDate>
+    </item>
+    <item>
       <title>【OpenAI CLIP: The Model That Learnt Zero-Shot Image Recognition Using Text】OpenAI CLIP：使用文本学习零样本图像识别的模型</title>
       <link>https://blog.bytebytego.com/p/openai-clip-the-model-that-learnt</link>
       <description>【In this article, we will look at how CLIP works and the problems it tries to solve.】在本文中，我们将了解 CLIP 的工作原理以及它试图解决的问题。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-meta-built-a-new-ai-powered-ads</link>
       <description>【In this article, we look at how the Meta engineering team built GEM and the challenges they overcame.】在本文中，我们将了解 Meta 工程团队如何构建 GEM 以及他们克服的挑战。</description>
       <pubDate>Wed, 17 Dec 2025 16:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LinkedIn Built an AI-Powered Hiring Assistant】LinkedIn 如何构建人工智能驱动的招聘助理</title>
-      <link>https://blog.bytebytego.com/p/how-linkedin-built-an-ai-powered</link>
-      <description>【In this article, we will look at the architecture and technical building blocks of LinkedIn&amp;#8217;s Hiring Assistant.】在本文中，我们将了解 LinkedIn 招聘助手的架构和技术构建模块。</description>
-      <pubDate>Tue, 16 Dec 2025 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top AI Agentic Workflow Patterns】顶级 AI 代理工作流程模式</title>
-      <link>https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns</link>
-      <description>【In this article, we will look at the most popular agentic workflow patterns and how they work.】在本文中，我们将了解最流行的代理工作流模式及其工作原理。</description>
-      <pubDate>Mon, 15 Dec 2025 16:31:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
