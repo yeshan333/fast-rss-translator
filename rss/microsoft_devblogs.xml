@@ -4,6 +4,48 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【XAML Studio is now Open Sourced】XAML Studio 现已开源</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/xaml-studio-is-now-open-sourced</link>
+      <description>【XAML Studio Open Sourced It&#39;s been over 8 years since what became XAML Studio was started. And from nearly the beginning, it was always envisioned as an open-source project… So, it&#39;s with great pleasure that I&#39;m happy to announce that day has finally come!】XAML Studio 开源 自 XAML Studio 启动以来，已经有 8 年多了。几乎从一开始，它就一直被设想为一个开源项目……所以，我很高兴地宣布这一天终于到来了！</description>
+      <pubDate>Tue, 06 Jan 2026 19:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Semantic Reranking with Azure SQL, SQL Server 2025 and Cohere Rerank models】使用 Azure SQL、SQL Server 2025 和 Cohere Rerank 模型进行语义重新排名</title>
+      <link>https://devblogs.microsoft.com/azure-sql/semantic-reranking-with-azure-sql-sql-server-2025-and-cohere-rerank-models</link>
+      <description>【Supporting re‑ranking has been one of the most common requests lately. While not always essential, it can be a valuable addition to a solution when you want to improve the precision of your results. Unfortunately, there isn’t a universal, standardized API for a “re‑rank” call across providers, so the most reliable approach today is t】支持重新排名是最近最常见的请求之一。虽然并不总是必要的，但当您想要提高结果的精度时，它可以成为解决方案的宝贵补充。不幸的是，没有一个通用的、标准化的 API 用于跨提供商的“重新排序”调用，因此当今最可靠的方法是</description>
+      <pubDate>Tue, 06 Jan 2026 17:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Azure Cosmos DB Powers ARM’s Federated Future: Scaling for the Next Billion Requests】Azure Cosmos DB 如何为 ARM 的联合未来提供动力：扩展以应对下一个十亿请求</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/how-azure-cosmos-db-powers-arms-federated-future-scaling-for-the-next-billion-requests</link>
+      <description>【The Cloud at Hyperscale: ARM’s Mission and Growth Azure Resource Manager (ARM) is the backbone of Azure’s resource provisioning and management, orchestrating billions of daily requests from customers around the globe. ARM manages all resources for Azure: VMs, Storage, Databases, etc. As Azure’s reach expands and custo】超大规模云：ARM 的使命和发展 Azure 资源管理器 (ARM) 是 Azure 资源配置和管理的支柱，负责协调来自全球客户的数十亿个日常请求。 ARM 管理 Azure 的所有资源：虚拟机、存储、数据库等。随着 Azure 的覆盖范围不断扩大和定制化</description>
+      <pubDate>Tue, 06 Jan 2026 15:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Swapping two blocks of memory that reside inside a larger block, in constant memory, refinement】交换驻留在较大块内的两个内存块，在常量内存中，细化</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260106-00/?p=111968</link>
+      <description>【Commenter Neil Rashbrook pointed out that my original rotation-based algorithm for swapping two blocks of memory inside a larger block did too much rotating. My solution had three rotations, but Neil was able to get it down to】评论者 Neil Rashbrook 指出，我最初用于在较大块内交换两个内存块的基于旋转的算法做了太多旋转。我的解决方案进行了三次旋转，但尼尔能够将其简化为</description>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Generative AI with Large Language Models in C# in 2026】2026 年使用 C# 大型语言模型的生成式 AI</title>
+      <link>https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp</link>
+      <description>【Generative AI became the fastest‑growing consumer technology in history, surpassing Instagram and TikTok, reaching 100 million users in under two months. At the end of 2022, OpenAI released a free preview of GPT‑3.5, delivered as a conversational chat client: ChatGPT. The model was fine‑tuned using Reinforcement Learning from Human Feedb】生成式人工智能成为历史上增长最快的消费技术，超越了 Instagram 和 TikTok，在不到两个月的时间里就拥有了 1 亿用户。 2022 年底，OpenAI 发布了 GPT-3.5 的免费预览版，作为对话式聊天客户端提供：ChatGPT。该模型使用来自 Human Feedb 的强化学习进行了微调</description>
+      <pubDate>Mon, 05 Jan 2026 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can you swap two non-adjacent blocks of memory using only forward iterators?】如何仅使用前向迭代器交换两个不相邻的内存块？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260105-00/?p=111962</link>
+      <description>【Last time, we looked at how you can swap two adjacent blocks of memory using only forward iterators and noted that we can try to use the same trick to develop a forward-only sol】上次，我们研究了如何仅使用前向迭代器交换两个相邻的内存块，并指出我们可以尝试使用相同的技巧来开发仅前向 sol</description>
+      <pubDate>Mon, 05 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Welcome to 2026, A Growth Year for All of Us】欢迎来到 2026 年，我们所有人的成长之年</title>
+      <link>https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026</link>
+      <description>【I always enjoy the quiet stretch between Christmas and New Year’s. It’s one of the few moments in the year when things slow down just enough to reflect on what actually resonated. While many of us were unplugging, our digital team was doing the opposite, editing and】我总是喜欢圣诞节和新年之间的安静时光。这是一年中为数不多的几个时刻之一，事情放慢了足以反思真正引起共鸣的事情。当我们许多人都在拔掉电源时，我们的数字团队却在做相反的事情，编辑和</description>
+      <pubDate>Mon, 05 Jan 2026 14:29:43 +0000</pubDate>
+    </item>
+    <item>
       <title>【How can you swap two adjacent blocks of memory using only forward iterators?】如何仅使用前向迭代器交换两个相邻的内存块？</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260102-00/?p=111958</link>
       <description>【Last time, we noted that the std::rotate function requires only forward iterators. The algorithm we explored last time involved a clever sequence of reversals, but reversals require bidirectional iterators (one to iterator forward from the beginning and another to iterate backward from the end).】上次，我们注意到 std::rotate 函数只需要前向迭代器。我们上次探索的算法涉及巧妙的反转序列，但反转需要双向迭代器（一个从头向前迭代，另一个从末尾向后迭代）。</description>
@@ -20,48 +62,6 @@
       <link>https://devblogs.microsoft.com/java/java-at-microsoft-2025-year-in-review</link>
       <description>【A breakthrough year for modernization, AI‑assisted development, Agentic AI development, and platform innovation 2025 was one of the most significant years yet for Java at Microsoft. From the arrival of OpenJDK 25 as the newest Long‑Term Su】现代化、AI 辅助开发、Agentic AI 开发和平台创新的突破性一年 2025 年是 Microsoft Java 迄今为止最重要的一年。从 OpenJDK25 作为最新的长期 Su 的到来开始</description>
       <pubDate>Wed, 31 Dec 2025 18:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top .NET Videos &amp; Live Streams of 2025】2025 年热门 .NET 视频和直播</title>
-      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025</link>
-      <description>【It has been an absolutely outstanding year of content for .NET from creators around the globe sharing their passion for .NET and the .NET team giving insight into the latest and greatest in the world of .NET. From events, live streams, and plenty of on-demand content dropping on the .NET YouTube nea】对于 .NET 来说，今年绝对是出色的一年，来自全球各地的创作者分享了他们对 .NET 的热情，.NET 团队则深入了解了 .NET 世界的最新、最伟大的内容。来自活动、直播以及 .NET YouTube 上的大量点播内容</description>
-      <pubDate>Wed, 31 Dec 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【2025 year-end link clearance】2025年终链接通关</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251231-01/?p=111952</link>
-      <description>【Closing the door on another year. Here are some random links. Mesmerizing: Wintergatan - Marble Machine, a musical instrument that uses 2000 marbles. It&#39;s like that】又一年的大门关上了。这是一些随机链接。令人着迷：Wintergatan - 弹珠机，一种使用 2000 个弹珠的乐器。就是这样</description>
-      <pubDate>Wed, 31 Dec 2025 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Understanding and mitigating a stack overflow in our task sequencer】了解并减轻任务排序器中的堆栈溢出</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251231-00/?p=111950</link>
-      <description>【A customer was using the v2 task_sequencer class we developed some time ago. (Here&#39;s the】一位客户正在使用我们前段时间开发的 v2 task_sequencer 类。 （这是</description>
-      <pubDate>Wed, 31 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top .NET Blog Posts of 2025】2025 年热门 .NET 博客文章</title>
-      <link>https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025</link>
-      <description>【2025 was a big year for .NET developers. We kicked things off with early .NET 10 previews, kept momentum with steady tooling and runtime improvements, and wrapped it all up with the launch of .NET 10 in November. 🚀 .NET 10 .NET 10 was the headline event of the year: the latest Long Term Support (L】2025 年对于 .NET 开发人员来说是重要的一年。我们从早期的 .NET 10 预览版开始，通过稳定的工具和运行时改进保持势头，并在 11 月份推出 .NET 10 时结束这一切。 🚀 .NET 10 .NET 10 是今年的头条事件：最新的长期支持 (L</description>
-      <pubDate>Tue, 30 Dec 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Additional notes on color-keyed overlays as a way of doing smooth video rendering】关于颜色键控叠加作为平滑视频渲染方式的附加说明</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251230-00/?p=111944</link>
-      <description>【A little while ago, I wrote about the use of color-keyed overlays to render video smoothly. The idea is that the CPU itself p】不久前，我写了一篇关于使用颜色键控叠加来平滑渲染视频的文章。这个想法是CPU本身p</description>
-      <pubDate>Tue, 30 Dec 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Gävle Goat (Gävlebocken) succumbs in 2025 to a new menace】耶夫勒山羊 (Gävlebocken) 将于 2025 年屈服于新的威胁</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251229-01/?p=111929</link>
-      <description>【Regular readers of this blog may remember the giant traditional Swedish Yule Goat erected annually in the Swedish town of Gävle. The Gävle Goat (】本博客的常客可能还记得每年在瑞典耶夫勒镇竖立的巨型传统瑞典圣诞山羊。耶夫勒山羊（</description>
-      <pubDate>Mon, 29 Dec 2025 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I detect that the system is running low on memory? Or that my job is running low on memory?】如何检测系统内存不足？或者我的工作内存不足？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251229-00/?p=111927</link>
-      <description>【A customer wanted to write a process that could detect that it is nearing its job memory limit. Now, if you were asking about system memory limits rather than job memory limits, you would use the Create­Memory­Resource­Notification to create a &#34;low memory&#34; notification. As noted in the documentation, this notificatio】一位客户想要编写一个可以检测是否接近其作业内存限制的进程。现在，如果您询问系统内存限制而不是作业内存限制，则可以使用 CreateMemoryResourceNotification 创建“内存不足”通知。正如文档中所述，此通知</description>
-      <pubDate>Mon, 29 Dec 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

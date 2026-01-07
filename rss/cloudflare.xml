@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【A closer look at a BGP anomaly in Venezuela】仔细观察委内瑞拉的 BGP 异常</title>
+      <link>https://blog.cloudflare.com/bgp-route-leak-venezuela/</link>
+      <description>【 There has been speculation about the cause of a BGP anomaly observed in Venezuela on January 2. We take a look at BGP route leaks, and dive into what the data suggests caused the anomaly in question. 】人们对 1 月 2 日在委内瑞拉观察到的 BGP 异常的原因进行了猜测。我们研究了 BGP 路由泄漏，并深入研究了数据表明是什么导致了相关异常。</description>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Workers powers our internal maintenance scheduling pipeline】Workers 如何为我们的内部维护计划流程提供动力</title>
       <link>https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/</link>
       <description>【 Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines. 】全球网络上的物理数据中心维护存在风险。我们在 Workers 上构建了一个维护调度程序，以安全地计划中断性操作，同时通过多个数据源和指标管道之上的图形界面查看基础设施的状态来解决扩展挑战。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/python-workers-advancements/</link>
       <description>【 Recent advancements in Cloudflare Python Workers means fast cold starts, comprehensive package support, and a great developer experience. We explain how they were achieved and show how Python can be used to build serverless applications on Cloudflare. 】Cloudflare Python Workers 的最新进展意味着快速冷启动、全面的软件包支持和出色的开发人员体验。我们解释了它们是如何实现的，并展示了如何使用 Python 在 Cloudflare 上构建无服务器应用程序。</description>
       <pubDate>Mon, 08 Dec 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Cloudflare outage on December 5, 2025】Cloudflare 于 2025 年 12 月 5 日中断</title>
-      <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
-      <description>【 Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components. 】Cloudflare 于 2025 年 12 月 5 日经历了严重的流量中断，大约从世界标准时间 8:47 开始。事件持续了大约25分钟才得到解决。对于这对我们的客户和互联网造成的影响，我们深表歉意。该事件不是由攻击引起的，而是由于应用配置更改来尝试缓解最近影响 React Server 组件的全行业漏洞。</description>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

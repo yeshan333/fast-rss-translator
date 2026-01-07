@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How AI Transformed Database Debugging at Databricks】AI 如何改变 Databricks 的数据库调试</title>
+      <link>https://blog.bytebytego.com/p/how-ai-transformed-database-debugging</link>
+      <description>【In this article, we will look at how the Databricks engineering team built this platform and the challenges faced along the way.】在本文中，我们将了解 Databricks 工程团队如何构建这个平台以及在此过程中面临的挑战。</description>
+      <pubDate>Tue, 06 Jan 2026 16:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Google’s Tensor Processing Unit (TPU) Works?】谷歌的张量处理单元（TPU）是如何工作的？</title>
+      <link>https://blog.bytebytego.com/p/how-googles-tensor-processing-unit</link>
+      <description>【In this article, we look at why Google built custom silicon, and how it works, revealing the physical constraints and engineering trade-offs they had to make.】在本文中，我们将探讨谷歌为何构建定制芯片及其工作原理，揭示他们必须做出的物理限制和工程权衡。</description>
+      <pubDate>Mon, 05 Jan 2026 16:31:12 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP196: Cloud Load Balancer Cheat Sheet】EP196：云负载均衡器备忘单</title>
       <link>https://blog.bytebytego.com/p/ep196-cloud-load-balancer-cheat-sheet</link>
       <description>【Efficient load balancing is vital for optimizing the performance and availability of your applications in the cloud.】高效的负载平衡对于优化云中应用程序的性能和可用性至关重要。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep194-evolution-of-http</link>
       <description>【The Hypertext Transfer Protocol (HTTP) has evolved over the years to meet the needs of modern applications, from simple text delivery to high-performance, real-time experiences.】超文本传输​​协议 (HTTP) 多年来不断发展，以满足现代应用程序的需求，从简单的文本传输到高性能、实时体验。</description>
       <pubDate>Sat, 20 Dec 2025 16:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Retry Pattern in Distributed Systems】分布式系统中的重试模式指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-retry-pattern-in-distributed</link>
-      <description>【In this article, we will explore the retry pattern in depth, understand when and how to use it safely and effectively.】在本文中，我们将深入探讨重试模式，了解何时以及如何安全有效地使用它。</description>
-      <pubDate>Thu, 18 Dec 2025 16:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Meta Built a New AI-Powered Ads Model for 5% Better Conversions】Meta 如何构建新的 AI 驱动的广告模型以提高 5% 的转化率</title>
-      <link>https://blog.bytebytego.com/p/how-meta-built-a-new-ai-powered-ads</link>
-      <description>【In this article, we look at how the Meta engineering team built GEM and the challenges they overcame.】在本文中，我们将了解 Meta 工程团队如何构建 GEM 以及他们克服的挑战。</description>
-      <pubDate>Wed, 17 Dec 2025 16:30:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

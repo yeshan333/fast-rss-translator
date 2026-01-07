@@ -4,6 +4,12 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
+      <title>【Community Built! Results from eBPF Summit: Hackathon Edition 2025】社区建设！ eBPF 峰会结果：2025 年黑客马拉松版</title>
+      <link>https://isovalent.com/blog/post/ebpf-summit-hackathon-edition-2025/</link>
+      <description>【Read about the winning projects of the hackathon and the new eBPF trends!】了解黑客马拉松的获奖项目和新的 eBPF 趋势！</description>
+      <pubDate>Tue, 06 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【The eBPF Foundation’s 2025 Year in Review】eBPF 基金会 2025 年回顾</title>
       <link>https://ebpf.foundation/the-ebpf-foundations-2025-year-in-review/</link>
       <description>【Funding everything from academic research to conferences to fellowships】资助从学术研究到会议再到奖学金的一切</description>
@@ -56,12 +62,6 @@
       <link>https://ebpf.foundation/case-study-polar-signals-uses-ebpf-to-monitor-internal-cross-zone-network-traffic-on-kubernetes-reducing-these-operating-costs-by-50/</link>
       <description>【Polar Signals developed kubezonnet, an open source project designed to monitor and measure cross-zone network traffic in Kubernetes clusters. The solution leverages eBPF to trace network packets and aggregate traffic data.】Polar Signals 开发了 kubezonnet，这是一个开源项目，旨在监控和测量 Kubernetes 集群中的跨区域网络流量。该解决方案利用 eBPF 来跟踪网络数据包并聚合流量数据。</description>
       <pubDate>Thu, 16 Jan 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Tracepoints, Kprobes, or Fprobes: Which One Should You Choose?】Tracepoints、Kprobes 或 Fprobes：您应该选择哪一个？</title>
-      <link>https://ebpfchirp.substack.com/p/tracepoints-kprobes-or-fprobes-which</link>
-      <description>【Tracing programs like kprobes, fprobes, and tracepoints are very popular, but their overlapping functionality can make choosing the right one confusing.】kprobes、fprobes 和tracepoint 等跟踪程序非常流行，但它们的重叠功能可能会让选择正确的程序变得混乱。</description>
-      <pubDate>Sat, 04 Jan 2025 09:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

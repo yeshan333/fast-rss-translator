@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #504】SRE 周刊第 504 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-504/</link>
+      <description>【View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare&amp;#8217;s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction [&amp;#8230;]】查看 sreweekly.com 在一堆盐中寻找沙粒 Salt 是 Cloudflare 的配置管理工具。当您在 15 分钟内对数千台服务器进行数百次更改的峰值时，如何找到配置管理失败的根本原因？这样做的结果是减少了[…]</description>
+      <pubDate>Mon, 05 Jan 2026 01:51:34 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #503】SRE 周刊第 #503 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-503/</link>
       <description>【View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood. &amp;#160;&amp;#160;RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to [&amp;#8230;]】在 sreweekly.com 上查看 基础设施即代码中的抽象债务 抽象旨在封装复杂性，但如果做得不好，就会产生不透明性，导致无法了解幕后实际发生的情况。   RoseSecurity 事件数据和统计过程控制的乐趣本文使用公开可用的事件数据和开源工具来 [...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-500/</link>
       <description>【View on sreweekly.com A message from our sponsor, Depot: Stop hunting through GitHub Actions logs. Depot now offers powerful CI log search across all your repositories and workflows. With smart filtering by timeframe, runner type, and keywords, you’ll have all the information at your fingertips to debug faster. Wow, five hundred issues! I sent the [&amp;#8230;]】在 sreweekly.com 上查看来自我们的赞助商 Depot 的消息：停止通过 GitHub Actions 日志进行搜索。 Depot 现在提供跨所有存储库和工作流程的强大 CI 日志搜索。通过按时间范围、跑步者类型和关键字进行智能过滤，您将掌握所有信息，以便更快地进行调试。哇，五百个问题！我发送了[...]</description>
       <pubDate>Mon, 08 Dec 2025 02:05:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #499】SRE 周刊第 #499 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-499/</link>
-      <description>【View on sreweekly.com Fix-mas Countdown The folks at Uptime Labs and Advanced Capacity Labs have announced an advent calendar for this December. Note: In order to take part, you&amp;#8217;ll need to provide an email address to subscribe. I gave that some serious thought before including this here, but ultimately, I have a lot of trust [&amp;#8230;]】请在 sreweekly.com 上查看 Fix-mas 倒计时 Uptime Labs 和 Advanced Capacity Labs 的人员宣布​​了今年 12 月的降临日历。注意：为了参加，您需要提供一个电子邮件地址来订阅。在将其放在这里之前，我认真考虑过这一点，但最终，我非常信任 [...]</description>
-      <pubDate>Mon, 01 Dec 2025 02:56:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
