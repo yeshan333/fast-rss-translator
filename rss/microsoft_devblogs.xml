@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Using Active Accessibility to find out where the focus item is】使用 Active Accessibility 找出焦点项目在哪里</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260109-00/?p=111976</link>
+      <description>【Last time, we learned how to use Active Accessibility to find the caret, but what if the focus is not on an edit control? In that case, we want to find the focus object. GUITHREA】上次，我们学习了如何使用 Active Accessibility 来查找插入符，但是如果焦点不在编辑控件上怎么办？在这种情况下，我们想要找到焦点对象。吉斯瑞亚</description>
+      <pubDate>Fri, 09 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Scaling AI Agents with Aspire: The Missing Isolation Layer for Parallel Development】使用 Aspire 扩展 AI 代理：并行开发中缺少的隔离层</title>
+      <link>https://devblogs.microsoft.com/aspire/scaling-ai-agents-with-aspire-isolation</link>
+      <description>【Liked this blog post? It was originally posted on Tamir Dresher&#39;s blog, https://www.tamirdresher.com/, check out more content there! In my】喜欢这篇博文吗？它最初发布在 Tamir Dresher 的博客上，https://www.tamirdresher.com/，查看更多内容！在我的</description>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【December 2025 (version 1.108)】2025 年 12 月（版本 1.108）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/december-2025-(version-1.108)</link>
+      <description>【Learn what is new in the Visual Studio Code December 2025 Release (1.108). Read the full article】了解 Visual Studio Code 2025 年 12 月版本 (1.108) 中的新增功能。阅读全文</description>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Using Active Accessibility to find out where the Windows caret is】使用 Active Accessibility 找出 Windows 插入符号的位置</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260108-00/?p=111973</link>
+      <description>【Last time, we learned how to query the global caret position, but we found that it works only for programs that use the system caret. Fancy programs think that the system caret is old and stodgy and prefer t】上次，我们学习了如何查询全局插入符位置，但我们发现它仅适用于使用系统插入符的程序。花哨的程序认为系统插入符是旧的、古板的，并且更喜欢</description>
+      <pubDate>Thu, 08 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider】安全且智能：MongoDB EF Core Provider 中的可查询加密和矢量搜索</title>
+      <link>https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search</link>
+      <description>【This is a guest post by Rishit Bhatia and Luce Carter. Rishit is a Senior Product Manager at MongoDB focusing on the .NET Developer Experience and worked hands-on with C# for many years before moving into Product Management. Luce is a Senior Developer Advocate at MongoDB, Microsoft MVP, and lover of code, sunshine, and learning. Th】这是 Rishit Bhatia 和 Luce Carter 的客座文章。 Rishit 是 MongoDB 的高级产品经理，专注于 .NET 开发人员体验，在进入产品管理领域之前，他在 C# 方面进行了多年的实践工作。 Luce 是 MongoDB 的高级开发人员倡导者、Microsoft MVP，也是代码、阳光和学习的爱好者。钍</description>
+      <pubDate>Wed, 07 Jan 2026 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Public Preview: Cosmos DB Mirroring in Microsoft Fabric with Private Endpoints】公开预览：Microsoft Fabric 中具有私有端点的 Cosmos DB 镜像</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/cosmos-db-mirroring-private-endpoints</link>
+      <description>【We are very excited to announce the public preview for private endpoint support for Azure Cosmos DB Mirroring with Microsoft Fabric mirroring. This feature】我们非常高兴地宣布推出对 Azure Cosmos DB 镜像和 Microsoft Fabric 镜像的私有终结点支持的公共预览版。此功能</description>
+      <pubDate>Wed, 07 Jan 2026 18:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Realities of Application Modernization with Agentic AI (Early 2026)】利用代理 AI 实现应用程序现代化的现实（2026 年初）</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/the-realities-of-application-modernization-with-agentic-ai-early-2026</link>
+      <description>【How to read this article This article is a reflection based on hands-on experience and is written for engineers and technical leaders who are facing a new application moder】如何阅读本文本文是基于实践经验的反思，是为面临新应用模式的工程师和技术领导者撰写的</description>
+      <pubDate>Wed, 07 Jan 2026 16:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build AI Tooling in Go with the MCP SDK – Connecting AI Apps to Databases】使用 MCP SDK 在 Go 中构建 AI 工具 – 将 AI 应用程序连接到数据库</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/build-ai-tooling-in-go-with-the-mcp-sdk-connecting-ai-apps-to-databases</link>
+      <description>【A hands‑on walkthrough of building MCP servers that can plug AI applications into Azure Cosmos DB The 】构建可将 AI 应用程序插入 Azure Cosmos DB 的 MCP 服务器的实践演练 </description>
+      <pubDate>Wed, 07 Jan 2026 16:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I find out where the Windows caret is?】如何找到 Windows 插入符号的位置？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260107-00/?p=111971</link>
+      <description>【A customer was looking for a way to find the location of the caret (the blinking line that indicates where the next character will be inserted). They tried Get­Caret­Pos, but it always failed. Most window manager state functions that were global in 16-bit Windows became per-thread in 32-bit Windows, as part of the con】一位客户正在寻找一种方法来查找插入符的位置（指示下一个字符将插入的位置的闪烁线）。他们尝试了 GetCaretPos，但总是失败。大多数在 16 位 Windows 中全局的窗口管理器状态函数在 32 位 Windows 中变成了每个线程，作为 con 的一部分</description>
+      <pubDate>Wed, 07 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【XAML Studio is now Open Sourced】XAML Studio 现已开源</title>
       <link>https://devblogs.microsoft.com/ifdef-windows/xaml-studio-is-now-open-sourced</link>
       <description>【XAML Studio Open Sourced It&#39;s been over 8 years since what became XAML Studio was started. And from nearly the beginning, it was always envisioned as an open-source project… So, it&#39;s with great pleasure that I&#39;m happy to announce that day has finally come!】XAML Studio 开源 自 XAML Studio 启动以来，已经有 8 年多了。几乎从一开始，它就一直被设想为一个开源项目……所以，我很高兴地宣布这一天终于到来了！</description>
       <pubDate>Tue, 06 Jan 2026 19:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Semantic Reranking with Azure SQL, SQL Server 2025 and Cohere Rerank models】使用 Azure SQL、SQL Server 2025 和 Cohere Rerank 模型进行语义重新排名</title>
-      <link>https://devblogs.microsoft.com/azure-sql/semantic-reranking-with-azure-sql-sql-server-2025-and-cohere-rerank-models</link>
-      <description>【Supporting re‑ranking has been one of the most common requests lately. While not always essential, it can be a valuable addition to a solution when you want to improve the precision of your results. Unfortunately, there isn’t a universal, standardized API for a “re‑rank” call across providers, so the most reliable approach today is t】支持重新排名是最近最常见的请求之一。虽然并不总是必要的，但当您想要提高结果的精度时，它可以成为解决方案的宝贵补充。不幸的是，没有一个通用的、标准化的 API 用于跨提供商的“重新排序”调用，因此当今最可靠的方法是</description>
-      <pubDate>Tue, 06 Jan 2026 17:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Azure Cosmos DB Powers ARM’s Federated Future: Scaling for the Next Billion Requests】Azure Cosmos DB 如何为 ARM 的联合未来提供动力：扩展以应对下一个十亿请求</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/how-azure-cosmos-db-powers-arms-federated-future-scaling-for-the-next-billion-requests</link>
-      <description>【The Cloud at Hyperscale: ARM’s Mission and Growth Azure Resource Manager (ARM) is the backbone of Azure’s resource provisioning and management, orchestrating billions of daily requests from customers around the globe. ARM manages all resources for Azure: VMs, Storage, Databases, etc. As Azure’s reach expands and custo】超大规模云：ARM 的使命和发展 Azure 资源管理器 (ARM) 是 Azure 资源配置和管理的支柱，负责协调来自全球客户的数十亿个日常请求。 ARM 管理 Azure 的所有资源：虚拟机、存储、数据库等。随着 Azure 的覆盖范围不断扩大和定制化</description>
-      <pubDate>Tue, 06 Jan 2026 15:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Swapping two blocks of memory that reside inside a larger block, in constant memory, refinement】交换驻留在较大块内的两个内存块，在常量内存中，细化</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260106-00/?p=111968</link>
-      <description>【Commenter Neil Rashbrook pointed out that my original rotation-based algorithm for swapping two blocks of memory inside a larger block did too much rotating. My solution had three rotations, but Neil was able to get it down to】评论者 Neil Rashbrook 指出，我最初用于在较大块内交换两个内存块的基于旋转的算法做了太多旋转。我的解决方案进行了三次旋转，但尼尔能够将其简化为</description>
-      <pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Generative AI with Large Language Models in C# in 2026】2026 年使用 C# 大型语言模型的生成式 AI</title>
-      <link>https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp</link>
-      <description>【Generative AI became the fastest‑growing consumer technology in history, surpassing Instagram and TikTok, reaching 100 million users in under two months. At the end of 2022, OpenAI released a free preview of GPT‑3.5, delivered as a conversational chat client: ChatGPT. The model was fine‑tuned using Reinforcement Learning from Human Feedb】生成式人工智能成为历史上增长最快的消费技术，超越了 Instagram 和 TikTok，在不到两个月的时间里就拥有了 1 亿用户。 2022 年底，OpenAI 发布了 GPT-3.5 的免费预览版，作为对话式聊天客户端提供：ChatGPT。该模型使用来自 Human Feedb 的强化学习进行了微调</description>
-      <pubDate>Mon, 05 Jan 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can you swap two non-adjacent blocks of memory using only forward iterators?】如何仅使用前向迭代器交换两个不相邻的内存块？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260105-00/?p=111962</link>
-      <description>【Last time, we looked at how you can swap two adjacent blocks of memory using only forward iterators and noted that we can try to use the same trick to develop a forward-only sol】上次，我们研究了如何仅使用前向迭代器交换两个相邻的内存块，并指出我们可以尝试使用相同的技巧来开发仅前向 sol</description>
-      <pubDate>Mon, 05 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Welcome to 2026, A Growth Year for All of Us】欢迎来到 2026 年，我们所有人的成长之年</title>
-      <link>https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026</link>
-      <description>【I always enjoy the quiet stretch between Christmas and New Year’s. It’s one of the few moments in the year when things slow down just enough to reflect on what actually resonated. While many of us were unplugging, our digital team was doing the opposite, editing and】我总是喜欢圣诞节和新年之间的安静时光。这是一年中为数不多的几个时刻之一，事情放慢了足以反思真正引起共鸣的事情。当我们许多人都在拔掉电源时，我们的数字团队却在做相反的事情，编辑和</description>
-      <pubDate>Mon, 05 Jan 2026 14:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can you swap two adjacent blocks of memory using only forward iterators?】如何仅使用前向迭代器交换两个相邻的内存块？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260102-00/?p=111958</link>
-      <description>【Last time, we noted that the std::rotate function requires only forward iterators. The algorithm we explored last time involved a clever sequence of reversals, but reversals require bidirectional iterators (one to iterator forward from the beginning and another to iterate backward from the end).】上次，我们注意到 std::rotate 函数只需要前向迭代器。我们上次探索的算法涉及巧妙的反转序列，但反转需要双向迭代器（一个从头向前迭代，另一个从末尾向后迭代）。</description>
-      <pubDate>Fri, 02 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Swapping two blocks of memory that reside inside a larger block, in constant memory】交换常量内存中驻留在较大块内的两个内存块</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955</link>
-      <description>【Suppose you have a large block of memory, and you want to swap two blocks that reside inside that large block. For concreteness, say you have a block of memory of the form A1, A2, B1, B2, C1, C2, D1, D2, D3, E1, and you want to swap the B&#39;s and D&#39;s, producing A1, A2, D1, D2, D3, C1, C2, B1, B2, E1.】假设您有一个大内存块，并且您想要交换驻留在该大块内的两个块。具体来说，假设您有一个 A1、A2、B1、B2、C1、C2、D1、D2、D3、E1 形式的内存块，并且您想要交换 B 和 D，生成 A1、A2、D1、D2、D3、C1、C2、B1、B2、E1。</description>
-      <pubDate>Thu, 01 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Java at Microsoft: 2025 Year in Review】微软的 Java：2025 年回顾</title>
-      <link>https://devblogs.microsoft.com/java/java-at-microsoft-2025-year-in-review</link>
-      <description>【A breakthrough year for modernization, AI‑assisted development, Agentic AI development, and platform innovation 2025 was one of the most significant years yet for Java at Microsoft. From the arrival of OpenJDK 25 as the newest Long‑Term Su】现代化、AI 辅助开发、Agentic AI 开发和平台创新的突破性一年 2025 年是 Microsoft Java 迄今为止最重要的一年。从 OpenJDK25 作为最新的长期 Su 的到来开始</description>
-      <pubDate>Wed, 31 Dec 2025 18:28:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

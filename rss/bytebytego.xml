@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Must-Know Message Broker Patterns】必须了解的消息代理模式</title>
+      <link>https://blog.bytebytego.com/p/must-know-message-broker-patterns</link>
+      <description>【In this article, we will look at each of these patterns in detail and understand the scenarios where they help the most.】在本文中，我们将详细研究每种模式并了解它们最有帮助的场景。</description>
+      <pubDate>Thu, 08 Jan 2026 16:30:49 +0000</pubDate>
+    </item>
+    <item>
       <title>【How AI Transformed Database Debugging at Databricks】AI 如何改变 Databricks 的数据库调试</title>
       <link>https://blog.bytebytego.com/p/how-ai-transformed-database-debugging</link>
       <description>【In this article, we will look at how the Databricks engineering team built this platform and the challenges faced along the way.】在本文中，我们将了解 Databricks 工程团队如何构建这个平台以及在此过程中面临的挑战。</description>
@@ -25,7 +31,7 @@
     <item>
       <title>【Message Brokers 101: Storage, Replication, and Delivery Guarantees】消息代理 101：存储、复制和交付保证</title>
       <link>https://blog.bytebytego.com/p/message-brokers-101-storage-replication</link>
-      <description>【A message broker is a middleware system that facilitates asynchronous communication between applications and services using messages.】消息代理是一种中间件系统，它可以使用消息促进应用程序和服务之间的异步通信。</description>
+      <description>【A message broker is a middleware system that facilitates asynchronous communication between applications and services using messages.】消息代理是一种中间件系统，它有助于使用消息在应用程序和服务之间进行异步通信。</description>
       <pubDate>Thu, 01 Jan 2026 16:33:32 +0000</pubDate>
     </item>
     <item>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/multimodal-llms-basics-how-llms-process</link>
       <description>【For a long time, AI systems were specialists confined to a single sense.】长期以来，人工智能系统都是局限于单一感官的专家。</description>
       <pubDate>Mon, 22 Dec 2025 16:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP194: Evolution of HTTP】EP194：HTTP 的演变</title>
-      <link>https://blog.bytebytego.com/p/ep194-evolution-of-http</link>
-      <description>【The Hypertext Transfer Protocol (HTTP) has evolved over the years to meet the needs of modern applications, from simple text delivery to high-performance, real-time experiences.】超文本传输​​协议 (HTTP) 多年来不断发展，以满足现代应用程序的需求，从简单的文本传输到高性能、实时体验。</description>
-      <pubDate>Sat, 20 Dec 2025 16:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
