@@ -4,21 +4,51 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【January 2026 Insiders (version 1.109)】2026 年 1 月 Insider（版本 1.109）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/january-2026-insiders-(version-1.109)</link>
+      <description>【Learn what is new in the Visual Studio Code January 2026 Release (1.109). Read the full article】了解 Visual Studio Code 2026 年 1 月版本 (1.109) 中的新增功能。阅读全文</description>
+      <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to Build Android Widgets with .NET MAUI】如何使用 .NET MAUI 构建 Android 小部件</title>
+      <link>https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui</link>
+      <description>【This is a guest blog from Toine de Boer. This blog takes a look at the Android side of the interactive widget created in the previous blog on iOS Widgets. Android is gen】这是 Toine de Boer 的客座博客。本博客介绍了上一篇关于 iOS Widgets 的博客中创建的交互式小部件的 Android 端。安卓是一代</description>
+      <pubDate>Mon, 12 Jan 2026 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aspire for JavaScript developers】Aspire JavaScript 开发者</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-for-javascript-developers</link>
+      <description>【Remember when Aspire was just for .NET folks? Yeah, those days are over. With Aspire 13, JavaScript and TypeScript developers get to join the party—and I&#39;m not talking about some half-baked afterthought integration. This is first-class, full-featured support for orchestrating your JavaScript apps in distributed systems. [alert typ】还记得 Aspire 只适合 .NET 用户吗？是的，那些日子已经结束了。借助 Aspire 13，JavaScript 和 TypeScript 开发人员可以加入这个行列，我并不是在谈论一些不成熟的事后集成。这是对在分布式系统中编排 JavaScript 应用程序的一流的全功能支持。 [警报类型</description>
+      <pubDate>Mon, 12 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How We Synchronize .NET&#39;s Virtual Monorepo】我们如何同步 .NET 的虚拟 Monorepo</title>
+      <link>https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo</link>
+      <description>【In our previous post &#34;Reinventing how .NET Builds and Ships&#34;, Matt covered our recent overhaul of .NET&#39;s building and shipping processes. A key part of this multi-year effort, which we called Unified Build, is the introduction of the Vi】在我们之前的文章“重新定义 .NET 的构建和交付方式”中，Matt 介绍了我们最近对 .NET 的构建和交付流程的彻底改革。这项多年努力的关键部分（我们称之为“统一构建”）是 Vi 的引入</description>
+      <pubDate>Mon, 12 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Clipping the focus item when looking for its on-screen location】在寻找焦点项目在屏幕上的位置时剪切焦点项目</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260112-00/?p=111980</link>
+      <description>【Last time, we used Active Accessibility to locate the focus item, but I noted that there was a quirk. The quirk is that the focus item might be clipped. For example, if you ta】上次，我们使用主动辅助功能来定位焦点项目，但我注意到有一个怪癖。奇怪的是焦点项目可能会被剪掉。例如，如果您</description>
+      <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Using Active Accessibility to find out where the focus item is】使用 Active Accessibility 找出焦点项目在哪里</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260109-00/?p=111976</link>
       <description>【Last time, we learned how to use Active Accessibility to find the caret, but what if the focus is not on an edit control? In that case, we want to find the focus object. GUITHREA】上次，我们学习了如何使用 Active Accessibility 来查找插入符，但是如果焦点不在编辑控件上怎么办？在这种情况下，我们想要找到焦点对象。吉斯瑞亚</description>
       <pubDate>Fri, 09 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Scaling AI Agents with Aspire: The Missing Isolation Layer for Parallel Development】使用 Aspire 扩展 AI 代理：并行开发中缺少的隔离层</title>
-      <link>https://devblogs.microsoft.com/aspire/scaling-ai-agents-with-aspire-isolation</link>
-      <description>【Liked this blog post? It was originally posted on Tamir Dresher&#39;s blog, https://www.tamirdresher.com/, check out more content there! In my】喜欢这篇博文吗？它最初发布在 Tamir Dresher 的博客上，https://www.tamirdresher.com/，查看更多内容！在我的</description>
-      <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【December 2025 (version 1.108)】2025 年 12 月（版本 1.108）</title>
       <link>https://devblogs.microsoft.com/vscode-blog/december-2025-(version-1.108)</link>
       <description>【Learn what is new in the Visual Studio Code December 2025 Release (1.108). Read the full article】了解 Visual Studio Code 2025 年 12 月版本 (1.108) 中的新增功能。阅读全文</description>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Scaling AI Agents with Aspire: The Missing Isolation Layer for Parallel Development】使用 Aspire 扩展 AI 代理：并行开发中缺少的隔离层</title>
+      <link>https://devblogs.microsoft.com/aspire/scaling-ai-agents-with-aspire-isolation</link>
+      <description>【Liked this blog post? It was originally posted on Tamir Dresher&#39;s blog, https://www.tamirdresher.com/, check out more content there! In my】喜欢这篇博文吗？它最初发布在 Tamir Dresher 的博客上，https://www.tamirdresher.com/，查看更多内容！在我的</description>
       <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
@@ -28,40 +58,10 @@
       <pubDate>Thu, 08 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider】安全且智能：MongoDB EF Core Provider 中的可查询加密和矢量搜索</title>
-      <link>https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search</link>
-      <description>【This is a guest post by Rishit Bhatia and Luce Carter. Rishit is a Senior Product Manager at MongoDB focusing on the .NET Developer Experience and worked hands-on with C# for many years before moving into Product Management. Luce is a Senior Developer Advocate at MongoDB, Microsoft MVP, and lover of code, sunshine, and learning. Th】这是 Rishit Bhatia 和 Luce Carter 的客座文章。 Rishit 是 MongoDB 的高级产品经理，专注于 .NET 开发人员体验，在进入产品管理领域之前，他在 C# 方面进行了多年的实践工作。 Luce 是 MongoDB 的高级开发人员倡导者、Microsoft MVP，也是代码、阳光和学习的爱好者。钍</description>
-      <pubDate>Wed, 07 Jan 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Public Preview: Cosmos DB Mirroring in Microsoft Fabric with Private Endpoints】公开预览：Microsoft Fabric 中具有私有端点的 Cosmos DB 镜像</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/cosmos-db-mirroring-private-endpoints</link>
-      <description>【We are very excited to announce the public preview for private endpoint support for Azure Cosmos DB Mirroring with Microsoft Fabric mirroring. This feature】我们非常高兴地宣布推出对 Azure Cosmos DB 镜像和 Microsoft Fabric 镜像的私有终结点支持的公共预览版。此功能</description>
-      <pubDate>Wed, 07 Jan 2026 18:00:09 +0000</pubDate>
-    </item>
-    <item>
       <title>【The Realities of Application Modernization with Agentic AI (Early 2026)】利用代理 AI 实现应用程序现代化的现实（2026 年初）</title>
       <link>https://devblogs.microsoft.com/all-things-azure/the-realities-of-application-modernization-with-agentic-ai-early-2026</link>
       <description>【How to read this article This article is a reflection based on hands-on experience and is written for engineers and technical leaders who are facing a new application moder】如何阅读本文本文是基于实践经验的反思，是为面临新应用模式的工程师和技术领导者撰写的</description>
       <pubDate>Wed, 07 Jan 2026 16:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Build AI Tooling in Go with the MCP SDK – Connecting AI Apps to Databases】使用 MCP SDK 在 Go 中构建 AI 工具 – 将 AI 应用程序连接到数据库</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/build-ai-tooling-in-go-with-the-mcp-sdk-connecting-ai-apps-to-databases</link>
-      <description>【A hands‑on walkthrough of building MCP servers that can plug AI applications into Azure Cosmos DB The 】构建可将 AI 应用程序插入 Azure Cosmos DB 的 MCP 服务器的实践演练 </description>
-      <pubDate>Wed, 07 Jan 2026 16:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I find out where the Windows caret is?】如何找到 Windows 插入符号的位置？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260107-00/?p=111971</link>
-      <description>【A customer was looking for a way to find the location of the caret (the blinking line that indicates where the next character will be inserted). They tried Get­Caret­Pos, but it always failed. Most window manager state functions that were global in 16-bit Windows became per-thread in 32-bit Windows, as part of the con】一位客户正在寻找一种方法来查找插入符的位置（指示下一个字符将插入的位置的闪烁线）。他们尝试了 GetCaretPos，但总是失败。大多数在 16 位 Windows 中全局的窗口管理器状态函数在 32 位 Windows 中变成了每个线程，作为 con 的一部分</description>
-      <pubDate>Wed, 07 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【XAML Studio is now Open Sourced】XAML Studio 现已开源</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/xaml-studio-is-now-open-sourced</link>
-      <description>【XAML Studio Open Sourced It&#39;s been over 8 years since what became XAML Studio was started. And from nearly the beginning, it was always envisioned as an open-source project… So, it&#39;s with great pleasure that I&#39;m happy to announce that day has finally come!】XAML Studio 开源 自 XAML Studio 启动以来，已经有 8 年多了。几乎从一开始，它就一直被设想为一个开源项目……所以，我很高兴地宣布这一天终于到来了！</description>
-      <pubDate>Tue, 06 Jan 2026 19:10:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

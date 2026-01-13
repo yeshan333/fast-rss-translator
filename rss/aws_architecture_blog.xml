@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>Salesforce 如何在其 1,000 个 EKS 集群中从 Cluster Autoscaler 迁移到 Karpenter</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/</link>
+      <description></description>
+      <pubDate>Mon, 12 Jan 2026 20:03:32 +0000</pubDate>
+    </item>
+    <item>
       <title>为云应用程序构建对话式可观察性</title>
       <link>https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/</link>
       <description></description>
       <pubDate>Tue, 18 Nov 2025 16:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>行前须知 – AWS re:Invent 2025 架构完善和云优化会议指南</title>
-      <link>https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/</link>
-      <description></description>
-      <pubDate>Fri, 14 Nov 2025 18:11:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

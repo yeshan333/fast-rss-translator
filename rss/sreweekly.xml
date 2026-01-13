@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #505】SRE 周刊第 #505 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-505/</link>
+      <description>【View on sreweekly.com A message from our sponsor, Hopp: Paging at 2am? 🚨 Make incident triage feel like you’re at the same keyboard with Hopp. crisp, readable screen-sharing no more &amp;#8220;can you zoom in?&amp;#8221; click + type together bring the incident bridge into one session Start pair programming: https://www.gethopp.app/?via=sreweekly 2013–09–17 Outage Postmortem An incident write-up [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Hopp 的消息：凌晨 2 点寻呼？ 🚨 让事件分类感觉就像您与 Hopp 在同一个键盘上一样。清晰易读的屏幕共享不再需要“你能放大吗？”单击 + 一起键入将事件桥纳入一个会话开始结对编程：https://www.gethop.app/?via=sreweekly 2013–09–17 停电事后分析事件记录 [...]</description>
+      <pubDate>Mon, 12 Jan 2026 01:42:38 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #504】SRE 周刊第 504 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-504/</link>
       <description>【View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare&amp;#8217;s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction [&amp;#8230;]】查看 sreweekly.com 在一堆盐中寻找沙粒 Salt 是 Cloudflare 的配置管理工具。当您在 15 分钟内对数千台服务器进行数百次更改的峰值时，如何找到配置管理失败的根本原因？这样做的结果是减少了[…]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-501/</link>
       <description>【View on sreweekly.com A message from our sponsor, Depot: &amp;#8220;Waiting for a runner&amp;#8221; but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot&amp;#8217;s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation &amp;#8211; Part 1 A thoughtful evaluation of [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Depot 的消息：“正在等待跑步者”，但跑步者在线？ Depot 调试了三个症状误导工程师的案例。工作流权限、Azure 身份验证和 Dependabot 的安全上下文都导致了看似基础设施问题的故障。人工智能和自动化的讽刺 – 第 1 部分 对 [...] 的深思熟虑的评估</description>
       <pubDate>Mon, 15 Dec 2025 03:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #500】SRE 周刊第 500 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-500/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Depot: Stop hunting through GitHub Actions logs. Depot now offers powerful CI log search across all your repositories and workflows. With smart filtering by timeframe, runner type, and keywords, you’ll have all the information at your fingertips to debug faster. Wow, five hundred issues! I sent the [&amp;#8230;]】在 sreweekly.com 上查看来自我们的赞助商 Depot 的消息：停止通过 GitHub Actions 日志进行搜索。 Depot 现在提供跨所有存储库和工作流程的强大 CI 日志搜索。通过按时间范围、跑步者类型和关键字进行智能过滤，您将掌握所有信息，以便更快地进行调试。哇，五百个问题！我发送了[...]</description>
-      <pubDate>Mon, 08 Dec 2025 02:05:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
