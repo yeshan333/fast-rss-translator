@@ -4,13 +4,31 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Human Native is joining Cloudflare】Human Native 即将加入 Cloudflare</title>
+      <link>https://blog.cloudflare.com/human-native-joins-cloudflare/</link>
+      <description>【 Cloudflare acquires Human Native, an AI data marketplace specialising in transforming content into searchable and useful data, to accelerate work building new economic models for the Internet. 】Cloudflare 收购了 Human Native，这是一个专门将内容转换为可搜索且有用的数据的人工智能数据市场，以加快构建互联网新经济模型的工作。</description>
+      <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What came first: the CNAME or the A record?】哪个先出现：CNAME 还是 A 记录？</title>
+      <link>https://blog.cloudflare.com/cname-a-record-order-dns-standards/</link>
+      <description>【 A recent change to 1.1.1.1 accidentally altered the order of CNAME records in DNS responses, breaking resolution for some clients. This post explores the technical root cause, examines the source code of affected resolvers, and dives into the inherent ambiguities of the DNS RFCs.   】最近对 1.1.1.1 的更改意外更改了 DNS 响应中 CNAME 记录的顺序，从而破坏了某些客户端的解析。这篇文章探讨了技术根本原因，检查了受影响解析器的源代码，并深入探讨了 DNS RFC 固有的模糊性。</description>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What we know about Iran’s Internet shutdown】我们对伊朗互联网关闭的了解</title>
+      <link>https://blog.cloudflare.com/iran-protests-internet-shutdown/</link>
+      <description>【 Cloudflare Radar data shows Internet traffic from Iran has effectively dropped to zero since January 8, signaling a complete shutdown in the country and disconnection from the global Internet.  &#xA; 】Cloudflare Radar 数据显示，自 1 月 8 日以来，来自伊朗的互联网流量实际上已降至零，这表明该国已完全关闭并与全球互联网断开连接。</description>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A closer look at a BGP anomaly in Venezuela】仔细观察委内瑞拉的 BGP 异常</title>
       <link>https://blog.cloudflare.com/bgp-route-leak-venezuela/</link>
       <description>【 There has been speculation about the cause of a BGP anomaly observed in Venezuela on January 2. We take a look at BGP route leaks, and dive into what the data suggests caused the anomaly in question. 】人们对 1 月 2 日在委内瑞拉观察到的 BGP 异常的原因进行了猜测。我们研究了 BGP 路由泄漏，并深入研究了数据表明是什么导致了相关异常。</description>
       <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Workers powers our internal maintenance scheduling pipeline】Workers 如何为我们的内部维护计划流程提供支持</title>
+      <title>【How Workers powers our internal maintenance scheduling pipeline】Workers 如何为我们的内部维护计划流程提供动力</title>
       <link>https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/</link>
       <description>【 Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines. 】全球网络上的物理数据中心维护存在风险。我们在 Workers 上构建了一个维护调度程序，以安全地计划中断性操作，同时通过多个数据源和指标管道之上的图形界面查看基础设施的状态来解决扩展挑战。</description>
       <pubDate>Mon, 22 Dec 2025 14:00:00 +0000</pubDate>
@@ -34,34 +52,16 @@
       <pubDate>Thu, 18 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【ChatGPT&#39;s rivals, Kwai&#39;s quiet rise: the top Internet services of 2025】ChatGPT的竞争对手，快手悄然崛起：2025年顶级互联网服务</title>
-      <link>https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/</link>
-      <description>【 AI competition intensified in 2025 as ChatGPT gained strong challengers. Instagram climbed, X declined, and platforms like Shopee, Temu, and Kwai reshaped global Internet usage. Our 2025 DNS data shows how Internet patterns evolved. 】2025年，人工智能竞争更加激烈，ChatGPT迎来了强有力的挑战者。 Instagram 上升，X 下降，Shopee、Temu 和 Kwai 等平台重塑了全球互联网使用情况。我们的 2025 年 DNS 数据显示了互联网模式的演变。</description>
-      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks】2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
       <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
       <description>【 We present our 6th annual review of Internet trends and patterns observed across the globe, revealing the disruptions, advances and metrics that defined 2025.  】我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。</description>
       <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【React2Shell and related RSC vulnerabilities threat brief: early exploitation activity and threat actor techniques】React2Shell 和相关 RSC 漏洞威胁简介：早期利用活动和威胁行为者技术</title>
-      <link>https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/</link>
-      <description>【 Early activity indicates that threat actors quickly integrated this vulnerability into their scanning and reconnaissance routines and targeted critical infrastructure including nuclear fuel, uranium and rare earth elements. We outline the tactics they appear to be using and how Cloudflare is protecting customers.  】早期活动表明，威胁行为者迅速将此漏洞整合到他们的扫描和侦察程序中，并瞄准了包括核燃料、铀和稀土元素在内的关键基础设施。我们概述了他们似乎正在使用的策略以及 Cloudflare 如何保护客户。</description>
-      <pubDate>Thu, 11 Dec 2025 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code】企业规模左移：我们如何通过基础设施即代码来管理 Cloudflare</title>
-      <link>https://blog.cloudflare.com/shift-left-enterprise-scale/</link>
-      <description>【 Cloudflare has shifted to Infrastructure as Code and policy enforcement to manage internal Cloudflare accounts. This new architecture uses Terraform, custom tooling, and Open Policy Agent to enforce security baselines and increase engineering velocity. 】Cloudflare 已转向基础设施即代码和策略执行来管理内部 Cloudflare 帐户。这种新架构使用 Terraform、自定义工具和开放策略代理来实施安全基线并提高工程速度。</description>
-      <pubDate>Tue, 09 Dec 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python Workers redux: fast cold starts, packages, and a uv-first workflow】Python Workers redux：快速冷启动、包和 uv 优先工作流程</title>
-      <link>https://blog.cloudflare.com/python-workers-advancements/</link>
-      <description>【 Recent advancements in Cloudflare Python Workers means fast cold starts, comprehensive package support, and a great developer experience. We explain how they were achieved and show how Python can be used to build serverless applications on Cloudflare. 】Cloudflare Python Workers 的最新进展意味着快速冷启动、全面的软件包支持和出色的开发人员体验。我们解释了它们是如何实现的，并展示了如何使用 Python 在 Cloudflare 上构建无服务器应用程序。</description>
-      <pubDate>Mon, 08 Dec 2025 06:00:00 +0000</pubDate>
+      <title>【ChatGPT&#39;s rivals, Kwai&#39;s quiet rise: the top Internet services of 2025】ChatGPT的竞争对手，快手悄然崛起：2025年顶级互联网服务</title>
+      <link>https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/</link>
+      <description>【 AI competition intensified in 2025 as ChatGPT gained strong challengers. Instagram climbed, X declined, and platforms like Shopee, Temu, and Kwai reshaped global Internet usage. Our 2025 DNS data shows how Internet patterns evolved. 】2025年，人工智能竞争更加激烈，ChatGPT迎来了强有力的挑战者。 Instagram 上升，X 下降，Shopee、Temu 和 Kwai 等平台重塑了全球互联网使用情况。我们的 2025 年 DNS 数据显示了互联网模式的演变。</description>
+      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

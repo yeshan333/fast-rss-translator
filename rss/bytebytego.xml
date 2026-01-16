@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【A Guide to Database Sharding】数据库分片指南</title>
+      <link>https://blog.bytebytego.com/p/must-know-message-broker-patterns-4c4</link>
+      <description>【In this article, we will learn about database sharding in more detail. We will understand what it is, why it matters, how different approaches work, and what key considerations are important when implementing it.】在本文中，我们将更详细地了解数据库分片。我们将了解它是什么、为什么它很重要、不同的方法如何运作以及实施它时需要考虑哪些关键因素。</description>
+      <pubDate>Thu, 15 Jan 2026 16:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Uber Serves over 150 Million Reads per Second from Integrated Cache】Uber 如何通过集成缓存提供每秒超过 1.5 亿次的读取</title>
+      <link>https://blog.bytebytego.com/p/how-uber-serves-over-150-million</link>
+      <description>【In this article, we break down how Uber built this system, the challenges they faced, and the innovative solutions they developed.】在本文中，我们将详细介绍 Uber 如何构建该系统、他们面临的挑战以及他们开发的创新解决方案。</description>
+      <pubDate>Wed, 14 Jan 2026 16:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Lyft Built an ML Platform That Serves Millions of Predictions Per Second】Lyft 如何构建每秒可提供数百万次预测的机器学习平台</title>
+      <link>https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that</link>
+      <description>【In this article, we will look at how Lyft built this platform and the architecture behind it.】在本文中，我们将了解 Lyft 如何构建这个平台及其背后的架构。</description>
+      <pubDate>Tue, 13 Jan 2026 16:30:57 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Guide to LLM Evals】LLM 评估指南</title>
       <link>https://blog.bytebytego.com/p/a-guide-to-llm-evals</link>
       <description>【In this article, we&amp;#8217;ll explore why LLM evaluation is challenging, the different types of evaluations available, key concepts to understand, and practical guidance on setting up an evaluation process.】在本文中，我们将探讨为什么法学硕士评估具有挑战性、可用的不同类型的评估、需要理解的关键概念以及建立评估流程的实用指南。</description>
@@ -43,26 +61,8 @@
     <item>
       <title>【Message Brokers 101: Storage, Replication, and Delivery Guarantees】消息代理 101：存储、复制和交付保证</title>
       <link>https://blog.bytebytego.com/p/message-brokers-101-storage-replication</link>
-      <description>【A message broker is a middleware system that facilitates asynchronous communication between applications and services using messages.】消息代理是一种中间件系统，它有助于使用消息在应用程序和服务之间进行异步通信。</description>
+      <description>【A message broker is a middleware system that facilitates asynchronous communication between applications and services using messages.】消息代理是一种中间件系统，它可以使用消息促进应用程序和服务之间的异步通信。</description>
       <pubDate>Thu, 01 Jan 2026 16:33:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【OpenAI CLIP: The Model That Learnt Zero-Shot Image Recognition Using Text】OpenAI CLIP：使用文本学习零样本图像识别的模型</title>
-      <link>https://blog.bytebytego.com/p/openai-clip-the-model-that-learnt</link>
-      <description>【In this article, we will look at how CLIP works and the problems it tries to solve.】在本文中，我们将了解 CLIP 的工作原理以及它试图解决的问题。</description>
-      <pubDate>Mon, 29 Dec 2025 16:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP195: Common Network Protocols Every Engineer Should Know】EP195：每个工程师都应该知道的通用网络协议</title>
-      <link>https://blog.bytebytego.com/p/ep195-common-network-protocols-every</link>
-      <description>【Every click, message, and API call on the internet relies on network protocols. They define how data moves, who can talk, and how securely it all happens.】互联网上的每一次点击、消息和 API 调用都依赖于网络协议。他们定义了数据如何移动、谁可以说话以及这一切发生的安全程度。</description>
-      <pubDate>Sat, 27 Dec 2025 16:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【🚀 Learn AI in the New Year: Become an AI Engineer Cohort 3 Now Open】🚀 新年学习人工智能：成为人工智能工程师第三期现已开放</title>
-      <link>https://blog.bytebytego.com/p/learn-ai-in-the-new-year-become-an</link>
-      <description>【After the amazing success of Cohorts 1 and 2 (with close to 1,000 engineers joining and building real AI skills), we are excited to announce the launch of Cohort 3 of Become an AI Engineer!】继第 1 期和第 2 期取得惊人成功（近 1,000 名工程师加入并培养真正的 AI 技能）之后，我们很高兴地宣布推出“成为 AI 工程师”第 3 期！</description>
-      <pubDate>Fri, 26 Dec 2025 16:30:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

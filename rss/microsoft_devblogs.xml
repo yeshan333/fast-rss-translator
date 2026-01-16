@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Build Android Widgets with .NET MAUI】如何使用 .NET MAUI 构建 Android 小部件</title>
-      <link>https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui</link>
-      <description>【This is a guest blog from Toine de Boer. This blog takes a look at the Android side of the interactive widget created in the previous blog on iOS Widgets. Android is gen】这是 Toine de Boer 的客座博客。本博客介绍了上一篇关于 iOS Widgets 的博客中创建的交互式小部件的 Android 端。安卓是一代</description>
-      <pubDate>Mon, 12 Jan 2026 18:05:00 +0000</pubDate>
+      <title>【Announcing GPT-5.2 Availability in Azure for U.S. Government Secret and Top Secret Clouds】宣布 Azure 中适用于美国政府机密和绝密云的 GPT-5.2</title>
+      <link>https://devblogs.microsoft.com/azuregov/advancing-ai-capabilities-in-azure-for-u-s-government-secret-and-top-secret-clouds</link>
+      <description>【Today, we are excited to announce that GPT-5.2, Azure OpenAI’s newest frontier reasoning model, is available in Microsoft Azure for U.S. Government Secret and Top Secret cloud environments. This release marks another significant milestone in our mission to b】今天，我们很高兴地宣布，Azure OpenAI 的最新前沿推理模型 GPT-5.2 已在 Microsoft Azure 中用于美国政府机密和绝密云环境。此版本标志着我们使命的另一个重要里程碑</description>
+      <pubDate>Thu, 15 Jan 2026 18:52:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Aspire for JavaScript developers】Aspire JavaScript 开发者</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-for-javascript-developers</link>
-      <description>【Remember when Aspire was just for .NET folks? Yeah, those days are over. With Aspire 13, JavaScript and TypeScript developers get to join the party—and I&#39;m not talking about some half-baked afterthought integration. This is first-class, full-featured support for orchestrating your JavaScript apps in distributed systems. [alert typ】还记得 Aspire 只适合 .NET 用户吗？是的，那些日子已经结束了。借助 Aspire 13，JavaScript 和 TypeScript 开发人员可以加入这个行列，我并不是在谈论一些不成熟的事后集成。这是对在分布式系统中编排 JavaScript 应用程序的一流的全功能支持。 [警报类型</description>
-      <pubDate>Mon, 12 Jan 2026 17:00:00 +0000</pubDate>
+      <title>【When programs assume that the system will never change, episode 4: Stealing strings】当程序假设系统永远不会改变时，第 4 集：窃取字符串</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260115-00/?p=111988</link>
+      <description>【A customer had a program that automated a workflow, and one of the steps was to run a console program that came with Windows, and that console program printed a confirmation prompt &#34;Are you sure (Y/N)?&#34;. They wanted to programmatically say Yes, but since the customer had employees around the world, they couldn&#39;t hard code the lette】一位客户有一个自动化工作流程的程序，其中一个步骤是运行 Windows 附带的控制台程序，该控制台程序打印一条确认提示“您确定 (Y/N) 吗？”。他们想以编程方式说“是”，但由于客户在世界各地都有员工，他们无法对字母进行硬编码</description>
+      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How We Synchronize .NET&#39;s Virtual Monorepo】我们如何同步 .NET 的虚拟 Monorepo</title>
-      <link>https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo</link>
-      <description>【In our previous post &#34;Reinventing how .NET Builds and Ships&#34;, Matt covered our recent overhaul of .NET&#39;s building and shipping processes. A key part of this multi-year effort, which we called Unified Build, is the introduction of the Vi】在我们之前的文章“重新定义 .NET 的构建和交付方式”中，Matt 介绍了我们最近对 .NET 的构建和交付流程的彻底改革。这项多年努力的关键部分（我们称之为“统一构建”）是 Vi 的引入</description>
-      <pubDate>Mon, 12 Jan 2026 17:00:00 +0000</pubDate>
+      <title>【Announcing Microsoft Entra PowerShell v1.2.0】宣布推出 Microsoft Entra PowerShell v1.2.0</title>
+      <link>https://devblogs.microsoft.com/entrapowershell/announcing-microsoft-entra-powershell-v1-2-0</link>
+      <description>【We are excited to introduce Microsoft Entra PowerShell v1.2.0, a major update that delivers full support for Agent Identity Blueprints, expanded application configuration capabilities, and modernized invitation APIs aligned with Microsoft Graph】我们很高兴推出 Microsoft Entra PowerShell v1.2.0，这是一项重大更新，提供对代理身份蓝图的全面支持、扩展的应用程序配置功能以及与 Microsoft Graph 一致的现代化邀请 API</description>
+      <pubDate>Thu, 15 Jan 2026 13:37:42 +0000</pubDate>
     </item>
     <item>
-      <title>【Clipping the focus item when looking for its on-screen location】在寻找焦点项目在屏幕上的位置时剪切焦点项目</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260112-00/?p=111980</link>
-      <description>【Last time, we used Active Accessibility to locate the focus item, but I noted that there was a quirk. The quirk is that the focus item might be clipped. For example, if you ta】上次，我们使用主动辅助功能来定位焦点项目，但我注意到有一个怪癖。奇怪的是焦点项目可能会被剪掉。例如，如果您</description>
-      <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Copilot Memories】副驾驶回忆</title>
+      <link>https://devblogs.microsoft.com/visualstudio/copilot-memories</link>
+      <description>【Are you wasting time reviewing code for nits on code standards, project preferences, or important contribution guidelines?】您是否在浪费时间审查代码以了解代码标准、项目偏好或重要的贡献指南？</description>
+      <pubDate>Thu, 15 Jan 2026 13:00:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Using Active Accessibility to find out where the focus item is】使用 Active Accessibility 找出焦点项目在哪里</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260109-00/?p=111976</link>
-      <description>【Last time, we learned how to use Active Accessibility to find the caret, but what if the focus is not on an edit control? In that case, we want to find the focus object. GUITHREA】上次，我们学习了如何使用 Active Accessibility 来查找插入符，但是如果焦点不在编辑控件上怎么办？在这种情况下，我们想要找到焦点对象。吉斯瑞亚</description>
-      <pubDate>Fri, 09 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Azure Cosmos DB Conf 2026 — Call for Proposals Is Now Open】Azure Cosmos DB Conf 2026 — 提案征集现已开放</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2026-call-for-proposals-is-open</link>
+      <description>【Every production system has a story behind it. The scaling limit you didn’】每个生产系统背后都有一个故事。你没有的缩放限制</description>
+      <pubDate>Thu, 15 Jan 2026 08:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>【December 2025 (version 1.108)】2025 年 12 月（版本 1.108）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/december-2025-(version-1.108)</link>
-      <description>【Learn what is new in the Visual Studio Code December 2025 Release (1.108). Read the full article】了解 Visual Studio Code 2025 年 12 月版本 (1.108) 中的新增功能。阅读全文</description>
-      <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
+      <title>【Building docfind: Fast Client-Side Search with Rust and WebAssembly】构建 docfind：使用 Rust 和 WebAssembly 进行快速客户端搜索</title>
+      <link>https://devblogs.microsoft.com/external-blogs/building-docfind-fast-client-side-search-with-rust-and-webassembly</link>
+      <description>【How we built docfind, a high-performance client-side search engine using Rust and WebAssembly, and how GitHub Copilot accelerated development. Read the full article】我们如何使用 Rust 和 WebAssembly 构建 docfind（一个高性能客户端搜索引擎），以及 GitHub Copilot 如何加速开发。阅读全文</description>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Scaling AI Agents with Aspire: The Missing Isolation Layer for Parallel Development】使用 Aspire 扩展 AI 代理：并行开发中缺少的隔离层</title>
-      <link>https://devblogs.microsoft.com/aspire/scaling-ai-agents-with-aspire-isolation</link>
-      <description>【Liked this blog post? It was originally posted on Tamir Dresher&#39;s blog, https://www.tamirdresher.com/, check out more content there! In my】喜欢这篇博文吗？它最初发布在 Tamir Dresher 的博客上，https://www.tamirdresher.com/，查看更多内容！在我的</description>
-      <pubDate>Thu, 08 Jan 2026 17:00:00 +0000</pubDate>
+      <title>【Building docfind: Fast Client-Side Search with Rust and WebAssembly】构建 docfind：使用 Rust 和 WebAssembly 进行快速客户端搜索</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/building-docfind:-fast-client-side-search-with-rust-and-webassembly</link>
+      <description>【How we built docfind, a high-performance client-side search engine using Rust and WebAssembly, and how GitHub Copilot accelerated development. Read the full article】我们如何使用 Rust 和 WebAssembly 构建 docfind（一个高性能客户端搜索引擎），以及 GitHub Copilot 如何加速开发。阅读全文</description>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Using Active Accessibility to find out where the Windows caret is】使用 Active Accessibility 找出 Windows 插入符号的位置</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260108-00/?p=111973</link>
-      <description>【Last time, we learned how to query the global caret position, but we found that it works only for programs that use the system caret. Fancy programs think that the system caret is old and stodgy and prefer t】上次，我们学习了如何查询全局插入符位置，但我们发现它仅适用于使用系统插入符的程序。花哨的程序认为系统插入符是旧的、古板的，并且更喜欢</description>
-      <pubDate>Thu, 08 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Copilot Studio Extension for Visual Studio Code Is Now Generally Available】适用于 Visual Studio Code 的 Copilot Studio 扩展现已全面推出</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/copilot-studio-extension-for-visual-studio-code-is-now-generally-available</link>
+      <description>【If you build agents with the Copilot Studio extension for Visual Studio Code, you already know the fastest way to iterate is to treat your agent like software: version it, review changes, and promote it through environments with confidence. Today, the Microsoft Copilot Studio extension fo】如果您使用 Visual Studio Code 的 Copilot Studio 扩展构建代理，您已经知道最快的迭代方法是将代理视为软件：对其进行版本控制、审查更改并自信地在环境中推广它。今天，Microsoft Copilot Studio 扩展适用于</description>
+      <pubDate>Wed, 14 Jan 2026 19:04:46 +0000</pubDate>
     </item>
     <item>
-      <title>【The Realities of Application Modernization with Agentic AI (Early 2026)】利用代理 AI 实现应用程序现代化的现实（2026 年初）</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/the-realities-of-application-modernization-with-agentic-ai-early-2026</link>
-      <description>【How to read this article This article is a reflection based on hands-on experience and is written for engineers and technical leaders who are facing a new application moder】如何阅读本文本文是基于实践经验的反思，是为面临新应用模式的工程师和技术领导者撰写的</description>
-      <pubDate>Wed, 07 Jan 2026 16:06:35 +0000</pubDate>
+      <title>【Announcing Agent Academy: Operative】宣布特工学院：特工</title>
+      <link>https://devblogs.microsoft.com/powerplatform/announcing-agent-academy-operative</link>
+      <description>【Earlier this year, we launched Agent Academy: Recruit, a foundational learning path designed to help makers and developers get started with building agents in Copilot Studio. The response exceeded our expectations. Since launch, thousands of learners have worked through the Recruit】今年早些时候，我们推出了 Agent Academy：Recruit，这是一个基础学习路径，旨在帮助创客和开发人员开始在 Copilot Studio 中构建代理。反响超出了我们的预期。自推出以来，已有数千名学员通过 Recruit 进行了工作</description>
+      <pubDate>Wed, 14 Jan 2026 18:45:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
