@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP198: Best Resources to Learn AI in 2026】EP198：2026 年学习人工智能的最佳资源</title>
+      <link>https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai</link>
+      <description>【The AI resources can be divided into different types such as】AI资源可以分为不同类型，例如</description>
+      <pubDate>Sat, 17 Jan 2026 16:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Last Call: Enrollment for the AI Engineering Cohort 3 Ends Today】最后通知：人工智能工程第三期的报名今天结束</title>
+      <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering-f1a</link>
+      <description>【Our third cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第三批“成为人工智能工程师”课程将在一天后开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
+      <pubDate>Fri, 16 Jan 2026 16:30:56 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Guide to Database Sharding】数据库分片指南</title>
       <link>https://blog.bytebytego.com/p/must-know-message-broker-patterns-4c4</link>
       <description>【In this article, we will learn about database sharding in more detail. We will understand what it is, why it matters, how different approaches work, and what key considerations are important when implementing it.】在本文中，我们将更详细地了解数据库分片。我们将了解它是什么、为什么它很重要、不同的方法如何运作以及实施它时需要考虑哪些关键因素。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-googles-tensor-processing-unit</link>
       <description>【In this article, we look at why Google built custom silicon, and how it works, revealing the physical constraints and engineering trade-offs they had to make.】在本文中，我们将探讨谷歌为何构建定制芯片及其工作原理，揭示他们必须做出的物理限制和工程权衡。</description>
       <pubDate>Mon, 05 Jan 2026 16:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP196: Cloud Load Balancer Cheat Sheet】EP196：云负载均衡器备忘单</title>
-      <link>https://blog.bytebytego.com/p/ep196-cloud-load-balancer-cheat-sheet</link>
-      <description>【Efficient load balancing is vital for optimizing the performance and availability of your applications in the cloud.】高效的负载平衡对于优化云中应用程序的性能和可用性至关重要。</description>
-      <pubDate>Sat, 03 Jan 2026 16:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Message Brokers 101: Storage, Replication, and Delivery Guarantees】消息代理 101：存储、复制和交付保证</title>
-      <link>https://blog.bytebytego.com/p/message-brokers-101-storage-replication</link>
-      <description>【A message broker is a middleware system that facilitates asynchronous communication between applications and services using messages.】消息代理是一种中间件系统，它可以使用消息促进应用程序和服务之间的异步通信。</description>
-      <pubDate>Thu, 01 Jan 2026 16:33:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

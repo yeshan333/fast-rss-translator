@@ -10,6 +10,30 @@
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【What&#39;s new with Azure Repos?】Azure Repos 有哪些新功能？</title>
+      <link>https://devblogs.microsoft.com/devops/whats-new-with-azure-repos</link>
+      <description>【We thought it was a good time to check in and highlight some of the work happening in Azure Repos. In this post, we’ve covered several recent improvements, along with a preview of features that are coming soon. To stay up to date, be sure to visit the】我们认为现在是检查并重点介绍 Azure Repos 中发生的一些工作的好时机。在这篇文章中，我们介绍了最近的几项改进，以及即将推出的功能预览。要了解最新信息，请务必访问</description>
+      <pubDate>Fri, 16 Jan 2026 19:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I get the tab index number from a dialog box control?】如何从对话框控件中获取选项卡索引号？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260116-00/?p=111991</link>
+      <description>【A customer wanted to retrieve the TabIndex of a dialog box control. They were able to get its class name and】客户想要检索对话框控件的 TabIndex。他们能够得到它的类名并且</description>
+      <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Part 1: Building Your First Serverless HTTP API on Azure with Azure Functions &amp; FastAPI】第 1 部分：使用 Azure Functions 和 FastAPI 在 Azure 上构建第一个无服务器 HTTP API</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/building-your-first-serverless-http-api-on-azure-with-azure-functions-fastapi</link>
+      <description>【Introduction  This post is Part 1 of the series Serverless Application Development with Azure Functions and Az】简介 本文是使用 Azure Functions 和 Az 进行无服务器应用程序开发系列的第 1 部分</description>
+      <pubDate>Fri, 16 Jan 2026 12:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Evaluate Small Language Model Function Calling using the Azure AI Evaluation SDK】使用 Azure AI 评估 SDK 评估小语言模型函数调用</title>
+      <link>https://devblogs.microsoft.com/ise/slm-function-calling-with-azure-ai-evaluation-sdk</link>
+      <description>【Introduction In recent years, Small Language Models (SLMs) have become increasingly important. SLMs are language models with far fewer parameters and use significantly fewer resources than their Large Language Model (LLM) counterparts, while still achieving comparable performance in specific tasks. SLMs are ideal for environments wh】简介 近年来，小语言模型（SLM）变得越来越重要。 SLM 是参数少得多的语言模型，比大型语言模型 (LLM) 模型使用的资源少得多，同时在特定任务中仍能实现相当的性能。 SLM 非常适合以下环境：</description>
+      <pubDate>Fri, 16 Jan 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing GPT-5.2 Availability in Azure for U.S. Government Secret and Top Secret Clouds】宣布 Azure 中适用于美国政府机密和绝密云的 GPT-5.2</title>
       <link>https://devblogs.microsoft.com/azuregov/advancing-ai-capabilities-in-azure-for-u-s-government-secret-and-top-secret-clouds</link>
       <description>【Today, we are excited to announce that GPT-5.2, Azure OpenAI’s newest frontier reasoning model, is available in Microsoft Azure for U.S. Government Secret and Top Secret cloud environments. This release marks another significant milestone in our mission to b】今天，我们很高兴地宣布，Azure OpenAI 的最新前沿推理模型 GPT-5.2 已在 Microsoft Azure 中用于美国政府机密和绝密云环境。此版本标志着我们使命的另一个重要里程碑</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2026-call-for-proposals-is-open</link>
       <description>【Every production system has a story behind it. The scaling limit you didn’】每个生产系统背后都有一个故事。你没有的缩放限制</description>
       <pubDate>Thu, 15 Jan 2026 08:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building docfind: Fast Client-Side Search with Rust and WebAssembly】构建 docfind：使用 Rust 和 WebAssembly 进行快速客户端搜索</title>
-      <link>https://devblogs.microsoft.com/external-blogs/building-docfind-fast-client-side-search-with-rust-and-webassembly</link>
-      <description>【How we built docfind, a high-performance client-side search engine using Rust and WebAssembly, and how GitHub Copilot accelerated development. Read the full article】我们如何使用 Rust 和 WebAssembly 构建 docfind（一个高性能客户端搜索引擎），以及 GitHub Copilot 如何加速开发。阅读全文</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building docfind: Fast Client-Side Search with Rust and WebAssembly】构建 docfind：使用 Rust 和 WebAssembly 进行快速客户端搜索</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/building-docfind:-fast-client-side-search-with-rust-and-webassembly</link>
-      <description>【How we built docfind, a high-performance client-side search engine using Rust and WebAssembly, and how GitHub Copilot accelerated development. Read the full article】我们如何使用 Rust 和 WebAssembly 构建 docfind（一个高性能客户端搜索引擎），以及 GitHub Copilot 如何加速开发。阅读全文</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Copilot Studio Extension for Visual Studio Code Is Now Generally Available】适用于 Visual Studio Code 的 Copilot Studio 扩展现已全面推出</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/copilot-studio-extension-for-visual-studio-code-is-now-generally-available</link>
-      <description>【If you build agents with the Copilot Studio extension for Visual Studio Code, you already know the fastest way to iterate is to treat your agent like software: version it, review changes, and promote it through environments with confidence. Today, the Microsoft Copilot Studio extension fo】如果您使用 Visual Studio Code 的 Copilot Studio 扩展构建代理，您已经知道最快的迭代方法是将代理视为软件：对其进行版本控制、审查更改并自信地在环境中推广它。今天，Microsoft Copilot Studio 扩展适用于</description>
-      <pubDate>Wed, 14 Jan 2026 19:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Agent Academy: Operative】宣布特工学院：特工</title>
-      <link>https://devblogs.microsoft.com/powerplatform/announcing-agent-academy-operative</link>
-      <description>【Earlier this year, we launched Agent Academy: Recruit, a foundational learning path designed to help makers and developers get started with building agents in Copilot Studio. The response exceeded our expectations. Since launch, thousands of learners have worked through the Recruit】今年早些时候，我们推出了 Agent Academy：Recruit，这是一个基础学习路径，旨在帮助创客和开发人员开始在 Copilot Studio 中构建代理。反响超出了我们的预期。自推出以来，已有数千名学员通过 Recruit 进行了工作</description>
-      <pubDate>Wed, 14 Jan 2026 18:45:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
