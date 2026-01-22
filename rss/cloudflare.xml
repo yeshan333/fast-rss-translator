@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【How we mitigated a vulnerability in Cloudflare’s ACME validation logic】我们如何缓解 Cloudflare ACME 验证逻辑中的漏洞</title>
+      <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
+      <description>【 A vulnerability was recently identified in Cloudflare’s automation of certificate validation. Here we explain the vulnerability and outline the steps we’ve taken to mitigate it.  】最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。</description>
+      <pubDate>Mon, 19 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Astro is joining Cloudflare】Astro 即将加入 Cloudflare</title>
       <link>https://blog.cloudflare.com/astro-joins-cloudflare/</link>
       <description>【 The Astro Technology Company team — the creators of the Astro web framework — is joining Cloudflare. We’re doubling down on making Astro the best framework for content-driven websites, today and in the years to come. 】Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/r2-sql-aggregations/</link>
       <description>【 Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog. 】Cloudflare 的 R2 SQL（分布式查询引擎）现在支持聚合。探索我们如何构建分布式 GROUP BY 执行，使用分散-聚集和改组策略直接在 R2 数据目录上运行分析。</description>
       <pubDate>Thu, 18 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks】2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
-      <description>【 We present our 6th annual review of Internet trends and patterns observed across the globe, revealing the disruptions, advances and metrics that defined 2025.  】我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。</description>
-      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

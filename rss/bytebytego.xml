@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Netflix Built a Real-Time Distributed Graph for Internet Scale】Netflix 如何构建适合互联网规模的实时分布式图</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed</link>
+      <description>【Disclaimer: This post is based on publicly shared details from the Netflix Engineering Team. Please comment if you notice any inaccuracies.】免责声明：本文基于 Netflix 工程团队公开分享的详细信息。如果您发现任何不准确之处，请发表评论。</description>
+      <pubDate>Wed, 21 Jan 2026 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Pinterest Built An Async Compute Platform for Billions of Task Executions】Pinterest 如何构建用于数十亿任务执行的异步计算平台</title>
+      <link>https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute</link>
+      <description>【When Pinterest&amp;#8217;s engineering team built their asynchronous job processing platform called Pinlater a few years ago, it seemed like a solid solution for handling background tasks at scale.】几年前，当 Pinterest 的工程团队构建名为 Pinlater 的异步作业处理平台时，它似乎是大规模处理后台任务的可靠解决方案。</description>
+      <pubDate>Tue, 20 Jan 2026 16:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why AI Needs GPUs and TPUs: The Hardware Behind LLMs】为什么人工智能需要 GPU 和 TPU：法学硕士背后的硬件</title>
+      <link>https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware</link>
+      <description>【In this article, we will look at how GPUs and TPUs help build modern LLMs and the architecture behind them.】在本文中，我们将了解 GPU 和 TPU 如何帮助构建现代法学硕士及其背后的架构。</description>
+      <pubDate>Mon, 19 Jan 2026 16:30:29 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP198: Best Resources to Learn AI in 2026】EP198：2026 年学习人工智能的最佳资源</title>
       <link>https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai</link>
       <description>【The AI resources can be divided into different types such as】AI资源可以分为不同类型，例如</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers</link>
       <description>【Which architectural concept will you add to the list?】您会将哪种建筑概念添加到列表中？</description>
       <pubDate>Sat, 10 Jan 2026 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Must-Know Message Broker Patterns】必须了解的消息代理模式</title>
-      <link>https://blog.bytebytego.com/p/must-know-message-broker-patterns</link>
-      <description>【In this article, we will look at each of these patterns in detail and understand the scenarios where they help the most.】在本文中，我们将详细研究每种模式并了解它们最有帮助的场景。</description>
-      <pubDate>Thu, 08 Jan 2026 16:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How AI Transformed Database Debugging at Databricks】AI 如何改变 Databricks 的数据库调试</title>
-      <link>https://blog.bytebytego.com/p/how-ai-transformed-database-debugging</link>
-      <description>【In this article, we will look at how the Databricks engineering team built this platform and the challenges faced along the way.】在本文中，我们将了解 Databricks 工程团队如何构建这个平台以及在此过程中面临的挑战。</description>
-      <pubDate>Tue, 06 Jan 2026 16:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Google’s Tensor Processing Unit (TPU) Works?】谷歌的张量处理单元（TPU）是如何工作的？</title>
-      <link>https://blog.bytebytego.com/p/how-googles-tensor-processing-unit</link>
-      <description>【In this article, we look at why Google built custom silicon, and how it works, revealing the physical constraints and engineering trade-offs they had to make.】在本文中，我们将探讨谷歌为何构建定制芯片及其工作原理，揭示他们必须做出的物理限制和工程权衡。</description>
-      <pubDate>Mon, 05 Jan 2026 16:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

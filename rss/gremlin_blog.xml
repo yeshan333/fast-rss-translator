@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Reliability Resolutions: How to build effective reliability programs that won’t fade away】可靠性解决方案：如何建立不会消失的有效可靠性计划</title>
+      <link>https://www.gremlin.com/blog/how-to-build-effective-reliability-programs-that-wont-fade-away</link>
+      <description>【We’re already almost through January. How are your reliability resolutions faring? Check out these key questions to help you follow-through and build an effective reliability program.】我们已经快过一月了。您的可靠性决议进展如何？查看这些关键问题，以帮助您跟进并建立有效的可靠性计划。</description>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How to test application resiliency by simulating the Cloudflare December 2025 outage】如何通过模拟 Cloudflare 2025 年 12 月中断来测试应用程序弹性</title>
       <link>https://www.gremlin.com/blog/how-to-test-application-resiliency-by-simulating-the-cloudflare-december-2025-outage</link>
       <description>【Use Gremlin Failure Flags to safely simulate 500 error codes and test resiliency to outages, like the December 5th Cloudflare incident.】使用 Gremlin Failure Flags 安全地模拟 500 个错误代码并测试对中断的恢复能力，例如 12 月 5 日的 Cloudflare 事件。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-aws-dynamodb-outage</link>
       <description>【In October 2025, Amazon DynamoDB had a massive outage that took down hundreds of systems. Find out what your team can do to minimize the impact of similar outages in the future.】2025 年 10 月，Amazon DynamoDB 发生大规模停机，导致数百个系统瘫痪。了解您的团队可以采取哪些措施来最大程度地减少未来类似中断的影响。</description>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Gremlin’s KubeCon ‘25 reliability track】Gremlin 的 KubeCon ‘25 可靠性轨道</title>
-      <link>https://www.gremlin.com/blog/gremlins-kubecon-25-reliability-track</link>
-      <description>【Check out the Gremlin-curated unofficial track of reliability talks at KubeCon North America 2025.】查看 Gremlin 在 2025 年 KubeCon 北美会议上策划的非官方可靠性会谈。</description>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

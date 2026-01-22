@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【React Hebdo #265: React Skills, json-render, ViewTransition, Base UI, shadcn, Store, MDX, GTK | RN Windows/macOS/Harmony, Brownie, Enriched, Navigation, Teleport, Nitro | TC39, Astro, jQuery, Node.js】React Hebdo #265：React 技能、json-render、ViewTransition、基本 UI、shadcn、Store、MDX、GTK | RN Windows/macOS/Harmony、布朗尼、丰富、导航、传送、硝基 | TC39、Astro、jQuery、Node.js</title>
+      <link>https://thisweekinreact.com/newsletter/265</link>
+      <description>【Hi everyone!】大家好！</description>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #264: Next.js, Immer, React Router, Waku, Ant, React Conf, | Voltra, 0.84 RC, Hermes, RNSec, Galeria, Nitro, Radon, Facetpack, Rock, Haptics | Chrome, Astro, Turborepo, Rspack, Rising Stars】本周 React #264：Next.js、Immer、React Router、Waku、Ant、React Conf、| Voltra、0.84 RC、Hermes、RNSec、Galeria、Nitro、Radon、Facetpack、Rock、Haptics | Chrome、Astro、Turborepo、Rspack、新星</title>
       <link>https://thisweekinreact.com/newsletter/264</link>
       <description>【Hi everyone\! Kacper and Filip from Software Mansion here\! 👋】大家好\！来自 Software Mansion 的 Kacper 和 Filip 在这里\！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/261</link>
       <description>【Hi everyone\!】大家好\！</description>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #260: TanStack, Actions, Immer, RTK, Streamdown, XState Store, ReScript, HTML streaming | Vercel v0, Worklets, Skia, Tailwind, Native Stack, Gifted Chat, Enriched | TC39, Playwright, Bun, Astro, Better Auth】本周 React #260：TanStack、Actions、Immer、RTK、Streamdown、XState Store、ReScript、HTML 流 | Vercel v0、Worklets、Skia、Tailwind、Native Stack、Gifted Chat、Enriched | TC39、剧作家、Bun、Astro、Better Auth</title>
-      <link>https://thisweekinreact.com/newsletter/260</link>
-      <description>【Hi everyone! Kacper and Tymek from Software Mansion here! 👋】大家好！来自 Software Mansion 的 Kacper 和 Tymek 在这里！ 👋</description>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

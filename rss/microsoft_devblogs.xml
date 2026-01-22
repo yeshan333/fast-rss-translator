@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new with Azure Repos?】Azure Repos 有哪些新功能？</title>
-      <link>https://devblogs.microsoft.com/devops/whats-new-with-azure-repos</link>
-      <description>【We thought it was a good time to check in and highlight some of the work happening in Azure Repos. In this post, we’ve covered several recent improvements, along with a preview of features that are coming soon. To stay up to date, be sure to visit the】我们认为现在是检查并重点介绍 Azure Repos 中发生的一些工作的好时机。在这篇文章中，我们介绍了最近的几项改进，以及即将推出的功能预览。要了解最新信息，请务必访问</description>
-      <pubDate>Fri, 16 Jan 2026 19:34:04 +0000</pubDate>
+      <title>【Now in Public Preview: GitHub Copilot build performance for Windows】现已推出公共预览版：Windows 的 GitHub Copilot 构建性能</title>
+      <link>https://devblogs.microsoft.com/cppblog/now-in-public-preview-github-copilot-build-performance-for-windows</link>
+      <description>【Last year, we launched our new GitHub Copilot build performance capabilities in Private Preview. With help from our fantastic C++ community, we gathered insights and addressed key feedback. We’re happy to share that GitHub Copilot build performance for Windows is now in Public Preview. Today, all C++ developers can try out the new capabiliti】去年，我们在私人预览版中推出了新的 GitHub Copilot 构建性能功能。在我们出色的 C++ 社区的帮助下，我们收集了见解并解决了关键反馈。我们很高兴与大家分享，适用于 Windows 的 GitHub Copilot 构建性能现已推出公共预览版。今天，所有 C++ 开发人员都可以尝试新功能</description>
+      <pubDate>Wed, 21 Jan 2026 18:17:56 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I get the tab index number from a dialog box control?】如何从对话框控件中获取选项卡索引号？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260116-00/?p=111991</link>
-      <description>【A customer wanted to retrieve the TabIndex of a dialog box control. They were able to get its class name and】客户想要检索对话框控件的 TabIndex。他们能够得到它的类名并且</description>
-      <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【On the proper usage of a custom Win32 dialog class】浅谈自定义Win32对话框类的正确使用</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260121-00/?p=112002</link>
+      <description>【Some time ago, I discussed custom dialog classes. You can specify that a dialog template use your custom dialog class by putting the custom class&#39;s name in the CLASS statement of the dialog template. A c】前段时间，我讨论了自定义对话框类。您可以通过将自定义类的名称放入对话框模板的 CLASS 语句中来指定对话框模板使用您的自定义对话框类。交流</description>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Part 1: Building Your First Serverless HTTP API on Azure with Azure Functions &amp; FastAPI】第 1 部分：使用 Azure Functions 和 FastAPI 在 Azure 上构建第一个无服务器 HTTP API</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/building-your-first-serverless-http-api-on-azure-with-azure-functions-fastapi</link>
-      <description>【Introduction  This post is Part 1 of the series Serverless Application Development with Azure Functions and Az】简介 本文是使用 Azure Functions 和 Az 进行无服务器应用程序开发系列的第 1 部分</description>
-      <pubDate>Fri, 16 Jan 2026 12:00:19 +0000</pubDate>
+      <title>【Context-Driven Development: Agent Skills for Microsoft Foundry and Azure】上下文驱动开发：Microsoft Foundry 和 Azure 的代理技能</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/context-driven-development-agent-skills-for-microsoft-foundry-and-azure</link>
+      <description>【Code will be generated, not written. Working with 100+ companies, I have seen this firsthand: most enterprise workloads taking dependencies on AI SDKs are usually net-new microservices. Hardly anyone has Windows-scale codebases for their new AI features. This is modular, greenfield work. Perfect for coding agents. The catch? Out-of-the-box】代码将被生成，而不是被编写。我与 100 多家公司合作，亲眼目睹了这一点：大多数依赖 AI SDK 的企业工作负载通常是全新的微服务。几乎没有人拥有用于新 AI 功能的 Windows 规模代码库。这是模块化的、全新的工作。非常适合编码代理。收获是什么？开箱即用</description>
+      <pubDate>Wed, 21 Jan 2026 13:57:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Evaluate Small Language Model Function Calling using the Azure AI Evaluation SDK】使用 Azure AI 评估 SDK 评估小语言模型函数调用</title>
-      <link>https://devblogs.microsoft.com/ise/slm-function-calling-with-azure-ai-evaluation-sdk</link>
-      <description>【Introduction In recent years, Small Language Models (SLMs) have become increasingly important. SLMs are language models with far fewer parameters and use significantly fewer resources than their Large Language Model (LLM) counterparts, while still achieving comparable performance in specific tasks. SLMs are ideal for environments wh】简介 近年来，小语言模型（SLM）变得越来越重要。 SLM 是参数少得多的语言模型，比大型语言模型 (LLM) 模型使用的资源少得多，同时在特定任务中仍能实现相当的性能。 SLM 非常适合以下环境：</description>
-      <pubDate>Fri, 16 Jan 2026 08:00:00 +0000</pubDate>
+      <title>【Introducing Azure Performance Diagnostics Tool for Java: Automated Java Performance Analysis in Kubernetes via Azure SRE Agent】推出适用于 Java 的 Azure 性能诊断工具：通过 Azure SRE 代理在 Kubernetes 中进行自动化 Java 性能分析</title>
+      <link>https://devblogs.microsoft.com/java/introducing-azure-performance-diagnostics-tool-for-java-automated-java-performance-analysis-in-kubernetes-via-azure-sre-agent</link>
+      <description>【We&#39;re excited to announce that the Azure Performance Diagnostics Tool for Java is now available for preview as part of the Azure SRE Agent platform, bringing intelligent, automated Java performance diagnoses. Currently supporting Java workloads deployed to Azure Kubernetes S】我们很高兴地宣布，适用于 Java 的 Azure 性能诊断工具现在可以作为 Azure SRE 代理平台的一部分进行预览，从而带来智能、自动化的 Java 性能诊断。目前支持部署到 Azure Kubernetes S 的 Java 工作负载</description>
+      <pubDate>Tue, 20 Jan 2026 22:03:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing GPT-5.2 Availability in Azure for U.S. Government Secret and Top Secret Clouds】宣布 Azure 中适用于美国政府机密和绝密云的 GPT-5.2</title>
-      <link>https://devblogs.microsoft.com/azuregov/advancing-ai-capabilities-in-azure-for-u-s-government-secret-and-top-secret-clouds</link>
-      <description>【Today, we are excited to announce that GPT-5.2, Azure OpenAI’s newest frontier reasoning model, is available in Microsoft Azure for U.S. Government Secret and Top Secret cloud environments. This release marks another significant milestone in our mission to b】今天，我们很高兴地宣布，Azure OpenAI 的最新前沿推理模型 GPT-5.2 已在 Microsoft Azure 中用于美国政府机密和绝密云环境。此版本标志着我们使命的另一个重要里程碑</description>
-      <pubDate>Thu, 15 Jan 2026 18:52:42 +0000</pubDate>
+      <title>【PIX 2601.15 - new Intel plugin, many buffer viewer improvements, and more】PIX 2601.15 - 新的 Intel 插件、许多缓冲区查看器改进等等</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2601-15</link>
+      <description>【Today we released PIX version 2601.15, which can be downloaded here. This release includes everything in the previous 2509.25 release, plus: A new Intel plugin with many new featu】今天我们发布了 PIX 版本 2601.15，可以在这里下载。此版本包含之前 2509.25 版本中的所有内容，此外还有： 具有许多新功能的新 Intel 插件</description>
+      <pubDate>Tue, 20 Jan 2026 17:10:51 +0000</pubDate>
     </item>
     <item>
-      <title>【When programs assume that the system will never change, episode 4: Stealing strings】当程序假设系统永远不会改变时，第 4 集：窃取字符串</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260115-00/?p=111988</link>
-      <description>【A customer had a program that automated a workflow, and one of the steps was to run a console program that came with Windows, and that console program printed a confirmation prompt &#34;Are you sure (Y/N)?&#34;. They wanted to programmatically say Yes, but since the customer had employees around the world, they couldn&#39;t hard code the lette】一位客户有一个自动化工作流程的程序，其中一个步骤是运行 Windows 附带的控制台程序，该控制台程序打印一条确认提示“您确定 (Y/N) 吗？”。他们想以编程方式说“是”，但由于客户在世界各地都有员工，他们无法对字母进行硬编码</description>
-      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Go 1.25.6-1 and 1.24.12-1 Microsoft builds now available】Go 1.25.6-1 和 1.24.12-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-25-6-1-and-1-24-12-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Tue, 20 Jan 2026 16:50:51 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Microsoft Entra PowerShell v1.2.0】宣布推出 Microsoft Entra PowerShell v1.2.0</title>
-      <link>https://devblogs.microsoft.com/entrapowershell/announcing-microsoft-entra-powershell-v1-2-0</link>
-      <description>【We are excited to introduce Microsoft Entra PowerShell v1.2.0, a major update that delivers full support for Agent Identity Blueprints, expanded application configuration capabilities, and modernized invitation APIs aligned with Microsoft Graph】我们很高兴推出 Microsoft Entra PowerShell v1.2.0，这是一项重大更新，提供对代理身份蓝图的全面支持、扩展的应用程序配置功能以及与 Microsoft Graph 一致的现代化邀请 API</description>
-      <pubDate>Thu, 15 Jan 2026 13:37:42 +0000</pubDate>
+      <title>【Microspeak: On fire, putting out fires】Microspeak：着火了，灭火</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260120-00/?p=111998</link>
+      <description>【Remember, Microspeak is not necessarily jargon exclusive to Microsoft, but it&#39;s jargon that you need to know if you work at Microsoft. When something has gone horribly wrong and requires immediate attention, one way to describe it is to say that it is on fire. The obvious metaphor here is that the situation is so severe that】请记住，Microspeak 不一定是 Microsoft 专有的术语，但它是您在 Microsoft 工作时需要了解的术语。当某件事发生严重错误并需要立即关注时，描述它的一种方法是说它着火了。这里明显的隐喻是，形势如此严峻，以至于</description>
+      <pubDate>Tue, 20 Jan 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Copilot Memories】副驾驶回忆</title>
-      <link>https://devblogs.microsoft.com/visualstudio/copilot-memories</link>
-      <description>【Are you wasting time reviewing code for nits on code standards, project preferences, or important contribution guidelines?】您是否在浪费时间审查代码以了解代码标准、项目偏好或重要的贡献指南？</description>
-      <pubDate>Thu, 15 Jan 2026 13:00:33 +0000</pubDate>
+      <title>【PowerToys 0.97 is here: a big Command Palette update and a new mouse utility】PowerToys 0.97 现已推出：命令面板大更新和新的鼠标实用程序</title>
+      <link>https://devblogs.microsoft.com/commandline/powertoys-0-97-is-here-a-big-command-palette-update-and-a-new-mouse-utility</link>
+      <description>【】</description>
+      <pubDate>Tue, 20 Jan 2026 11:22:46 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Conf 2026 — Call for Proposals Is Now Open】Azure Cosmos DB Conf 2026 — 提案征集现已开放</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2026-call-for-proposals-is-open</link>
-      <description>【Every production system has a story behind it. The scaling limit you didn’】每个生产系统背后都有一个故事。你没有的缩放限制</description>
-      <pubDate>Thu, 15 Jan 2026 08:00:24 +0000</pubDate>
+      <title>【Azure Boards additional field filters (private preview)】Azure Boards 附加字段筛选器（私人预览版）</title>
+      <link>https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview</link>
+      <description>【We’re excited to announce a limited private preview that introduces the ability to add additional fields as filters on both the backlog and Kanban boards. This feature has been a long-standing request from the developer com】我们很高兴地宣布推出有限的私人预览版，该预览版引入了在待办事项列表和看板板上添加其他字段作为过滤器的功能。此功能是开发者委员会长期以来的要求</description>
+      <pubDate>Mon, 19 Jan 2026 20:22:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
