@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Route leak incident on January 22, 2026】2026年1月22日路由泄露事件</title>
+      <link>https://blog.cloudflare.com/route-leak-incident-january-22-2026/</link>
+      <description>【 An automated routing policy configuration error caused us to leak some Border Gateway Protocol prefixes unintentionally from a router at our Miami data center. We discuss the impact and the changes we are implementing as a result. 】自动路由策略配置错误导致我们无意中从迈阿密数据中心的路由器泄漏了一些边界网关协议前缀。我们讨论了影响以及我们正在实施的变革。</description>
+      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How we mitigated a vulnerability in Cloudflare’s ACME validation logic】我们如何缓解 Cloudflare ACME 验证逻辑中的漏洞</title>
       <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
       <description>【 A vulnerability was recently identified in Cloudflare’s automation of certificate validation. Here we explain the vulnerability and outline the steps we’ve taken to mitigate it.  】最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/h1-2025-transparency-report/</link>
       <description>【 Cloudflare&#39;s H1 2025 Transparency Report is here. We discuss our principles on content blocking and our innovative approach to combating unauthorized streaming and copyright abuse. 】Cloudflare 的 2025 年上半年透明度报告位于此处。我们讨论了内容屏蔽的原则以及打击未经授权的流媒体和版权滥用的创新方法。</description>
       <pubDate>Fri, 19 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL】宣布支持 R2 SQL 中的 GROUP BY、SUM 和其他聚合查询</title>
-      <link>https://blog.cloudflare.com/r2-sql-aggregations/</link>
-      <description>【 Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog. 】Cloudflare 的 R2 SQL（分布式查询引擎）现在支持聚合。探索我们如何构建分布式 GROUP BY 执行，使用分散-聚集和改组策略直接在 R2 数据目录上运行分析。</description>
-      <pubDate>Thu, 18 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

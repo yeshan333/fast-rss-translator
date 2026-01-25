@@ -10,6 +10,42 @@
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Azure Cosmos DB TV Recap: Supercharging AI Agents with the Azure Cosmos DB MCP Toolkit (Ep. 110)】Azure Cosmos DB TV 回顾：使用 Azure Cosmos DB MCP 工具包增强 AI 代理能力（第 110 集）</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-ep-110-mcp-toolkit-ai-agents</link>
+      <description>【In Episode 110 of Azure Cosmos DB TV, host Mark Brown is joined by Sajeetharan Sinnathurai to explore how the Azure Cosmos DB MCP Toolkit is changing the way developers build, deploy, and scale AI age】在 Azure Cosmos DB TV 第 110 集中，主持人 Mark Brown 与 Sajeetharan Sinnathurai 一起探讨 Azure Cosmos DB MCP 工具包如何改变开发人员构建、部署和扩展 AI 时代的方式</description>
+      <pubDate>Fri, 23 Jan 2026 16:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bringing work context to your code in GitHub Copilot】将工作上下文引入 GitHub Copilot 中的代码</title>
+      <link>https://devblogs.microsoft.com/blog/bringing-work-context-to-your-code-in-github-copilot</link>
+      <description>【This week we shipped the GitHub Copilot SDK which takes the agent loop from the Copilot CLI and makes it easy to embed in other applications. We’ve been using, improving, and extending Copilot CLI for the last few months and】本周我们发布了 GitHub Copilot SDK，它从 Copilot CLI 中获取代理循环，并使其可以轻松嵌入到其他应用程序中。过去几个月我们一直在使用、改进和扩展 Copilot CLI，</description>
+      <pubDate>Fri, 23 Jan 2026 15:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C++ has &lt;CODE&gt;scope_exit&lt;/CODE&gt; for running code at scope exit. C# says &#34;We have &lt;CODE&gt;scope_exit&lt;/CODE&gt; at home.&#34;】C++ 有 &lt;CODE&gt;scope_exit&lt;/CODE&gt; 用于在作用域退出处运行代码。 C# 说“我们家里有 &lt;CODE&gt;scope_exit&lt;/CODE&gt;”。</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260123-00/?p=112008</link>
+      <description>【The Windows Implementation Library (commonly known as wil) provides a helper called scope_exit which creates and returns an RAII object whose destructor runs the lambda you specify. This helper】Windows 实现库（通常称为 wil）提供了一个名为scope_exit 的帮助程序，它创建并返回一个 RAII 对象，该对象的析构函数运行您指定的 lambda。这个帮手</description>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bridging Local Development and Cloud Evaluation: Using Microsoft Devtunnels with Azure Machine Learning】连接本地开发和云评估：将 Microsoft Devtunnels 与 Azure 机器学习结合使用</title>
+      <link>https://devblogs.microsoft.com/ise/bridging-local-development-cloud-evaluation-devtunnels-azure-ml</link>
+      <description>【Introduction Picture this scenario: you&#39;ve implemented a critical fix in your AI service and want to validate it against your comprehensive evaluation dataset. However, the prospect of deploying to Azure for a quick test creates an unwelcome delay in your development cycle. This challenge is common among AI developers. When develo】简介 想象一下这样的场景：您已经在 AI 服务中实施了关键修复，并希望根据综合评估数据集对其进行验证。然而，部署到 Azure 进行快速测试的前景会导致开发周期出现令人不快的延迟。这一挑战在人工智能开发人员中很常见。开发时</description>
+      <pubDate>Fri, 23 Jan 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing the Azure Cosmos DB Agent Kit: Your AI Pair Programmer Just Got Smarter】Azure Cosmos DB 代理套件简介：您的 AI Pair 程序员变得更聪明</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-agent-kit-ai-coding-assistants</link>
+      <description>【The Azure Cosmos DB Agent Kit is an open-source collection of skills that teaches your AI coding assistant (GitHub Copilot, Claude Code, Gemini CLI) expert-level Azure Cosmos DB best practices. Install with one command, get production-ready g】Azure Cosmos DB 代理工具包是一个开源技能集合，可向您的 AI 编码助手（GitHub Copilot、Claude Code、Gemini CLI）传授专家级 Azure Cosmos DB 最佳实践。使用一个命令进行安装，即可投入生产</description>
+      <pubDate>Thu, 22 Jan 2026 17:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A simple helper function for attaching a progress handler to a Windows Runtime IAsync­Action­With­Progress or IAsync­Operation­With­Progress】一个简单的辅助函数，用于将进度处理程序附加到 Windows 运行时 IAsyncActionWithProgress 或 IAsyncOperationWithProgress</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260122-00/?p=112005</link>
+      <description>【The Windows Runtime has interfaces IAsync­Action and IAsync­Operation&amp;lt;T&amp;gt; which represent asynchronous activity: The function starts the work and returns immediately, and then it calls you back when the work completes. Most language projections allow you to treat these as coroutines, so you can await】Windows 运行时具有代表异步活动的接口 IAsyncAction 和 IAsyncOperation&lt;T&gt;：该函数启动工作并立即返回，然后在工作完成时回调您。大多数语言投影允许您将它们视为协程，因此您可以等待</description>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Now in Public Preview: GitHub Copilot build performance for Windows】现已推出公共预览版：Windows 的 GitHub Copilot 构建性能</title>
       <link>https://devblogs.microsoft.com/cppblog/now-in-public-preview-github-copilot-build-performance-for-windows</link>
       <description>【Last year, we launched our new GitHub Copilot build performance capabilities in Private Preview. With help from our fantastic C++ community, we gathered insights and addressed key feedback. We’re happy to share that GitHub Copilot build performance for Windows is now in Public Preview. Today, all C++ developers can try out the new capabiliti】去年，我们在私人预览版中推出了新的 GitHub Copilot 构建性能功能。在我们出色的 C++ 社区的帮助下，我们收集了见解并解决了关键反馈。我们很高兴与大家分享，适用于 Windows 的 GitHub Copilot 构建性能现已推出公共预览版。今天，所有 C++ 开发人员都可以尝试新功能</description>
@@ -26,42 +62,6 @@
       <link>https://devblogs.microsoft.com/all-things-azure/context-driven-development-agent-skills-for-microsoft-foundry-and-azure</link>
       <description>【Code will be generated, not written. Working with 100+ companies, I have seen this firsthand: most enterprise workloads taking dependencies on AI SDKs are usually net-new microservices. Hardly anyone has Windows-scale codebases for their new AI features. This is modular, greenfield work. Perfect for coding agents. The catch? Out-of-the-box】代码将被生成，而不是被编写。我与 100 多家公司合作，亲眼目睹了这一点：大多数依赖 AI SDK 的企业工作负载通常是全新的微服务。几乎没有人拥有用于新 AI 功能的 Windows 规模代码库。这是模块化的、全新的工作。非常适合编码代理。收获是什么？开箱即用</description>
       <pubDate>Wed, 21 Jan 2026 13:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Azure Performance Diagnostics Tool for Java: Automated Java Performance Analysis in Kubernetes via Azure SRE Agent】推出适用于 Java 的 Azure 性能诊断工具：通过 Azure SRE 代理在 Kubernetes 中进行自动化 Java 性能分析</title>
-      <link>https://devblogs.microsoft.com/java/introducing-azure-performance-diagnostics-tool-for-java-automated-java-performance-analysis-in-kubernetes-via-azure-sre-agent</link>
-      <description>【We&#39;re excited to announce that the Azure Performance Diagnostics Tool for Java is now available for preview as part of the Azure SRE Agent platform, bringing intelligent, automated Java performance diagnoses. Currently supporting Java workloads deployed to Azure Kubernetes S】我们很高兴地宣布，适用于 Java 的 Azure 性能诊断工具现在可以作为 Azure SRE 代理平台的一部分进行预览，从而带来智能、自动化的 Java 性能诊断。目前支持部署到 Azure Kubernetes S 的 Java 工作负载</description>
-      <pubDate>Tue, 20 Jan 2026 22:03:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PIX 2601.15 - new Intel plugin, many buffer viewer improvements, and more】PIX 2601.15 - 新的 Intel 插件、许多缓冲区查看器改进等等</title>
-      <link>https://devblogs.microsoft.com/pix/pix-2601-15</link>
-      <description>【Today we released PIX version 2601.15, which can be downloaded here. This release includes everything in the previous 2509.25 release, plus: A new Intel plugin with many new featu】今天我们发布了 PIX 版本 2601.15，可以在这里下载。此版本包含之前 2509.25 版本中的所有内容，此外还有： 具有许多新功能的新 Intel 插件</description>
-      <pubDate>Tue, 20 Jan 2026 17:10:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.25.6-1 and 1.24.12-1 Microsoft builds now available】Go 1.25.6-1 和 1.24.12-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-6-1-and-1-24-12-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Tue, 20 Jan 2026 16:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microspeak: On fire, putting out fires】Microspeak：着火了，灭火</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260120-00/?p=111998</link>
-      <description>【Remember, Microspeak is not necessarily jargon exclusive to Microsoft, but it&#39;s jargon that you need to know if you work at Microsoft. When something has gone horribly wrong and requires immediate attention, one way to describe it is to say that it is on fire. The obvious metaphor here is that the situation is so severe that】请记住，Microspeak 不一定是 Microsoft 专有的术语，但它是您在 Microsoft 工作时需要了解的术语。当某件事发生严重错误并需要立即关注时，描述它的一种方法是说它着火了。这里明显的隐喻是，形势如此严峻，以至于</description>
-      <pubDate>Tue, 20 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【PowerToys 0.97 is here: a big Command Palette update and a new mouse utility】PowerToys 0.97 现已推出：命令面板大更新和新的鼠标实用程序</title>
-      <link>https://devblogs.microsoft.com/commandline/powertoys-0-97-is-here-a-big-command-palette-update-and-a-new-mouse-utility</link>
-      <description>【】</description>
-      <pubDate>Tue, 20 Jan 2026 11:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Boards additional field filters (private preview)】Azure Boards 附加字段筛选器（私人预览版）</title>
-      <link>https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview</link>
-      <description>【We’re excited to announce a limited private preview that introduces the ability to add additional fields as filters on both the backlog and Kanban boards. This feature has been a long-standing request from the developer com】我们很高兴地宣布推出有限的私人预览版，该预览版引入了在待办事项列表和看板板上添加其他字段作为过滤器的功能。此功能是开发者委员会长期以来的要求</description>
-      <pubDate>Mon, 19 Jan 2026 20:22:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

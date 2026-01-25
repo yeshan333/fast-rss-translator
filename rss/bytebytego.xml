@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP199: Behind the Scenes: What Happens When You Enter Google.com】EP199：幕后花絮：进入 Google.com 后会发生什么</title>
+      <link>https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens</link>
+      <description>【Most of us hit Enter and expect the page to load instantly, but under the hood, a surprisingly intricate chain of events fires off in milliseconds.】我们大多数人按下 Enter 并期望页面立即加载，但在幕后，一系列令人惊讶的复杂事件在几毫秒内触发。</description>
+      <pubDate>Sat, 24 Jan 2026 16:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【We are hiring at ByteByteGo】我们正在 ByteByteGo 招聘</title>
+      <link>https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego</link>
+      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能群体）。</description>
+      <pubDate>Fri, 23 Jan 2026 16:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Must-Know Fundamentals of Distributed Systems】分布式系统必须了解的基础知识</title>
+      <link>https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed</link>
+      <description>【In this article, we will look at five foundational topics around distributed systems: how computers communicate across networks, the protocols enabling reliable communication, how remote procedure calls abstract complexity, strategies for handling failures, and why time synchronization presents unique challenges.】在本文中，我们将研究围绕分布式系统的五个基本主题：计算机如何跨网络通信、实现可靠通信的协议、远程过程如何调用抽象复杂性、处理故障的策略以及为什么时间同步会带来独特的挑战。</description>
+      <pubDate>Thu, 22 Jan 2026 16:31:09 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Netflix Built a Real-Time Distributed Graph for Internet Scale】Netflix 如何构建适合互联网规模的实时分布式图</title>
       <link>https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed</link>
       <description>【Disclaimer: This post is based on publicly shared details from the Netflix Engineering Team. Please comment if you notice any inaccuracies.】免责声明：本文基于 Netflix 工程团队公开分享的详细信息。如果您发现任何不准确之处，请发表评论。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-uber-serves-over-150-million</link>
       <description>【In this article, we break down how Uber built this system, the challenges they faced, and the innovative solutions they developed.】在本文中，我们将详细介绍 Uber 如何构建该系统、他们面临的挑战以及他们开发的创新解决方案。</description>
       <pubDate>Wed, 14 Jan 2026 16:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Lyft Built an ML Platform That Serves Millions of Predictions Per Second】Lyft 如何构建每秒可提供数百万次预测的机器学习平台</title>
-      <link>https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that</link>
-      <description>【In this article, we will look at how Lyft built this platform and the architecture behind it.】在本文中，我们将了解 Lyft 如何构建这个平台及其背后的架构。</description>
-      <pubDate>Tue, 13 Jan 2026 16:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to LLM Evals】LLM 评估指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-llm-evals</link>
-      <description>【In this article, we&amp;#8217;ll explore why LLM evaluation is challenging, the different types of evaluations available, key concepts to understand, and practical guidance on setting up an evaluation process.】在本文中，我们将探讨为什么法学硕士评估具有挑战性、可用的不同类型的评估、需要理解的关键概念以及建立评估流程的实用指南。</description>
-      <pubDate>Mon, 12 Jan 2026 16:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP197: 12 Architectural Concepts Developers Should Know】EP197：开发人员应该了解的 12 个架构概念</title>
-      <link>https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers</link>
-      <description>【Which architectural concept will you add to the list?】您会将哪种建筑概念添加到列表中？</description>
-      <pubDate>Sat, 10 Jan 2026 16:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
