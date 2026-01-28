@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #507】SRE 周刊第 #507 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-507/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：incident.io 存在于 Slack 和 Microsoft Teams 中，将紧急情况分解为可行的解决步骤。警报自动创建渠道，对正确的人员进行 ping 操作，实时记录操作，并生成具有完整上下文的事后分析。当您破坏事物时快速行动，并在您的团队已经使用的工具中保持井然有序[...]</description>
+      <pubDate>Mon, 26 Jan 2026 02:18:41 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #506】SRE 周刊第 506 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-506/</link>
       <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io What came first- the CNAME [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有注册进行 FinOps。Costory 会自动解释您的云成本变化的原因，并直接向 Slack 报告。专为想要编码而不是与电子表格搏斗的 SRE 构建。现在在 AWS 和 GCP Marketplaces 上。在 costory.io 开始免费试用 首先出现的是 CNAME [...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-503/</link>
       <description>【View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood. &amp;#160;&amp;#160;RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to [&amp;#8230;]】在 sreweekly.com 上查看 基础设施即代码中的抽象债务 抽象旨在封装复杂性，但如果做得不好，就会产生不透明性，导致无法了解幕后实际发生的情况。   RoseSecurity 事件数据和统计过程控制的乐趣本文使用公开可用的事件数据和开源工具来 [...]</description>
       <pubDate>Mon, 29 Dec 2025 02:46:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #502】SRE 周刊第 #502 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-502/</link>
-      <description>【View on sreweekly.com Eliminating Cold Starts 2: shard and conquer Cloudflare reduced their cold-start rate for Workers requests through sharding and consistent hashing, with an interesting solution for load shedding. &amp;#160;&amp;#160;Harris Hancock &amp;#8212; Cloudflare Monitoring &amp;#038; Observability: Using Logs, Metrics, Traces, and Alerts to Understand System Failures I appreciate the way this article also shares [&amp;#8230;]】查看 sreweekly.com 消除冷启动 2：分片并征服 Cloudflare 通过分片和一致散列降低了 Workers 请求的冷启动率，并采用了有趣的负载卸载解决方案。   Harris Hancock — Cloudflare 监控和可观察性：使用日志、指标、跟踪和警报来了解系统故障 我很欣赏这篇文章也分享的方式 [...]</description>
-      <pubDate>Mon, 22 Dec 2025 03:13:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Building a serverless, post-quantum Matrix homeserver】构建无服务器、后量子 Matrix 家庭服务器</title>
+      <link>https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</link>
+      <description>【 As a proof of concept, we built a Matrix homeserver to Cloudflare Workers — delivering encrypted messaging at the edge with automatic post-quantum cryptography. 】作为概念验证，我们为 Cloudflare Workers 构建了一个 Matrix 家庭服务器 - 使用自动后量子加密技术在边缘提供加密消息传递。</description>
+      <pubDate>Tue, 27 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cable cuts, storms, and DNS: a look at Internet disruptions in Q4 2025】电缆切断、风暴和 DNS：2025 年第四季度互联网中断一览</title>
+      <link>https://blog.cloudflare.com/q4-2025-internet-disruption-summary/</link>
+      <description>【 The last quarter of 2025 brought several notable disruptions to Internet connectivity. Cloudflare Radar data reveals the impact of cable cuts, power outages, extreme weather, technical problems, and more. 】2025 年最后一个季度的互联网连接出现了几次明显的中断。 Cloudflare Radar 数据揭示了电缆切断、停电、极端天气、技术问题等的影响。</description>
+      <pubDate>Mon, 26 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Route leak incident on January 22, 2026】2026年1月22日路由泄露事件</title>
       <link>https://blog.cloudflare.com/route-leak-incident-january-22-2026/</link>
       <description>【 An automated routing policy configuration error caused us to leak some Border Gateway Protocol prefixes unintentionally from a router at our Miami data center. We discuss the impact and the changes we are implementing as a result. 】自动路由策略配置错误导致我们无意中从迈阿密数据中心的路由器泄漏了一些边界网关协议前缀。我们讨论了影响以及我们正在实施的变革。</description>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/</link>
       <description>【 Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines. 】全球网络上的物理数据中心维护存在风险。我们在 Workers 上构建了一个维护调度程序，以安全地计划中断性操作，同时通过多个数据源和指标管道之上的图形界面查看基础设施的状态来解决扩展挑战。</description>
       <pubDate>Mon, 22 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Code Orange: Fail Small — our resilience plan following recent incidents】橙色代码：小失败——我们在最近发生的事件后的恢复计划</title>
-      <link>https://blog.cloudflare.com/fail-small-resilience-plan/</link>
-      <description>【 We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again. 】我们宣布了“橙色代码：小规模失败”，让 Cloudflare 的每个人都专注于一组高优先级工作流，其目标很简单：确保我们最近两次全球中断的原因不再发生。</description>
-      <pubDate>Fri, 19 Dec 2025 22:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Innovating to address streaming abuse — and our latest transparency report】创新解决流媒体滥用问题——以及我们最新的透明度报告</title>
-      <link>https://blog.cloudflare.com/h1-2025-transparency-report/</link>
-      <description>【 Cloudflare&#39;s H1 2025 Transparency Report is here. We discuss our principles on content blocking and our innovative approach to combating unauthorized streaming and copyright abuse. 】Cloudflare 的 2025 年上半年透明度报告位于此处。我们讨论了内容屏蔽的原则以及打击未经授权的流媒体和版权滥用的创新方法。</description>
-      <pubDate>Fri, 19 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
