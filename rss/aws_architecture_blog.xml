@@ -4,6 +4,24 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>主权故障转移 – 使用 AWS 欧洲主权云设计数字主权</title>
+      <link>https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/</link>
+      <description></description>
+      <pubDate>Fri, 30 Jan 2026 19:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>宣布推出 AWS 数字主权架构完善的镜头</title>
+      <link>https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/</link>
+      <description></description>
+      <pubDate>Fri, 30 Jan 2026 00:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artera 如何使用 AWS 增强前列腺癌诊断</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/</link>
+      <description></description>
+      <pubDate>Thu, 29 Jan 2026 17:06:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Salesforce 如何在其 1,000 个 EKS 集群中从 Cluster Autoscaler 迁移到 Karpenter</title>
       <link>https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/</link>
       <description></description>
@@ -44,24 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/</link>
       <description></description>
       <pubDate>Wed, 19 Nov 2025 19:36:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>宣布更新的 AWS Well-Architected Generative AI Lens</title>
-      <link>https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-generative-ai-lens/</link>
-      <description></description>
-      <pubDate>Wed, 19 Nov 2025 19:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>宣布更新的 AWS Well-Architected Machine Learning Lens</title>
-      <link>https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/</link>
-      <description></description>
-      <pubDate>Wed, 19 Nov 2025 19:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 Amazon MQ 和 AWS App Runner 构建基于优先级的消息处理</title>
-      <link>https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/</link>
-      <description></description>
-      <pubDate>Tue, 18 Nov 2025 16:39:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,18 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【System Design Interview: Design YouTube】系统设计访谈：设计 YouTube</title>
+      <link>https://newsletter.systemdesign.one/p/youtube-system-design</link>
+      <description>【#117: System Design Interview】＃117：系统设计面试</description>
+      <pubDate>Thu, 29 Jan 2026 11:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How ChatGPT&#39;s New Marketplace Actually Works】ChatGPT 的新市场实际上是如何运作的</title>
+      <link>https://newsletter.systemdesign.one/p/apps-in-chatgpt</link>
+      <description>【#116: Apps in ChatGPT (Turning Conversations Into Interactive Workflows)】#116：ChatGPT 中的应用程序（将对话转变为交互式工作流程）</description>
+      <pubDate>Wed, 28 Jan 2026 10:31:06 +0000</pubDate>
+    </item>
+    <item>
       <title>【The Entire Computer Science Stack, Explained In 51 Images】51 张图片解释了整个计算机科学堆栈</title>
       <link>https://newsletter.systemdesign.one/p/computer-science-101</link>
       <description>【#115: Fifty-one visuals that show how everything connects in computer science from the ground up】#115：五十一个视觉效果展示了计算机科学中的一切如何从头开始相互联系</description>
@@ -51,18 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/design-a-chat-system</link>
       <description>【#108: System Design Interview - Part 2】#108：系统设计面试 - 第 2 部分</description>
       <pubDate>Tue, 16 Dec 2025 09:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Design Stock Exchange - A Deep Dive】设计股票交易所 - 深入探讨</title>
-      <link>https://newsletter.systemdesign.one/p/system-design-stock-exchange</link>
-      <description>【#107: System Design Stock Exchange - Part 3】#107：证券交易所系统设计 - 第 3 部分</description>
-      <pubDate>Thu, 11 Dec 2025 09:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【System Design Interview: Design WhatsApp】系统设计访谈：设计 WhatsApp</title>
-      <link>https://newsletter.systemdesign.one/p/whatsapp-system-design</link>
-      <description>【#106: System Design Interview - Part 1】#106：系统设计面试 - 第 1 部分</description>
-      <pubDate>Mon, 08 Dec 2025 16:03:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

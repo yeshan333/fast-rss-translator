@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Google’s AI advantage: why crawler separation is the only path to a fair Internet】谷歌的AI优势：为什么爬虫分离是通往公平互联网的唯一途径</title>
+      <link>https://blog.cloudflare.com/uk-google-ai-crawler-policy/</link>
+      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的两用爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
+      <pubDate>Fri, 30 Jan 2026 17:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building vertical microfrontends on Cloudflare’s platform】在 Cloudflare 平台上构建垂直微前端</title>
+      <link>https://blog.cloudflare.com/vertical-microfrontends/</link>
+      <description>【 Deploy multiple Workers under a single domain with the ability to make them feel like single-page applications. We take a look at how service bindings enable URL path routing to multiple projects. 】在单个域下部署多个 Worker，能够使它们感觉像单页应用程序。我们来看看服务绑定如何启用 URL 路径路由到多个项目。</description>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Moltworker: a self-hosted personal AI agent, minus the minis】Moltworker 简介：一个自托管的个人人工智能代理，减去迷你</title>
+      <link>https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/</link>
+      <description>【 Moltworker is a middleware Worker and adapted scripts that allows running OpenClaw (formerly Moltbot, formerly Clawdbot) on Cloudflare&#39;s Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware. 】Moltworker 是一个中间件 Worker 和改编脚本，允许在 Cloudflare 的 Sandbox SDK 和我们的开发者平台 API 上运行 OpenClaw（以前称为 Moltbot、以前称为 Clawdbot）。因此，您可以自行托管人工智能个人助理——无需任何新硬件。</description>
+      <pubDate>Thu, 29 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Building a serverless, post-quantum Matrix homeserver】构建无服务器、后量子 Matrix 家庭服务器</title>
       <link>https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</link>
       <description>【 As a proof of concept, we built a Matrix homeserver to Cloudflare Workers — delivering encrypted messaging at the edge with automatic post-quantum cryptography. 】作为概念验证，我们为 Cloudflare Workers 构建了一个 Matrix 家庭服务器 - 使用自动后量子加密技术在边缘提供加密消息传递。</description>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/cname-a-record-order-dns-standards/</link>
       <description>【 A recent change to 1.1.1.1 accidentally altered the order of CNAME records in DNS responses, breaking resolution for some clients. This post explores the technical root cause, examines the source code of affected resolvers, and dives into the inherent ambiguities of the DNS RFCs.   】最近对 1.1.1.1 的更改意外更改了 DNS 响应中 CNAME 记录的顺序，从而破坏了某些客户端的解析。这篇文章探讨了技术根本原因，检查了受影响解析器的源代码，并深入探讨了 DNS RFC 固有的模糊性。</description>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What we know about Iran’s Internet shutdown】我们对伊朗互联网关闭的了解</title>
-      <link>https://blog.cloudflare.com/iran-protests-internet-shutdown/</link>
-      <description>【 Cloudflare Radar data shows Internet traffic from Iran has effectively dropped to zero since January 8, signaling a complete shutdown in the country and disconnection from the global Internet.  &#xA; 】Cloudflare Radar 数据显示，自 1 月 8 日以来，来自伊朗的互联网流量实际上已降至零，这表明该国已完全关闭并与全球互联网断开连接。</description>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A closer look at a BGP anomaly in Venezuela】仔细观察委内瑞拉的 BGP 异常</title>
-      <link>https://blog.cloudflare.com/bgp-route-leak-venezuela/</link>
-      <description>【 There has been speculation about the cause of a BGP anomaly observed in Venezuela on January 2. We take a look at BGP route leaks, and dive into what the data suggests caused the anomaly in question. 】人们对 1 月 2 日在委内瑞拉观察到的 BGP 异常的原因进行了猜测。我们研究了 BGP 路由泄漏，并深入研究了数据表明是什么导致了相关异常。</description>
-      <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Workers powers our internal maintenance scheduling pipeline】Workers 如何为我们的内部维护计划流程提供支持</title>
-      <link>https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/</link>
-      <description>【 Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines. 】全球网络上的物理数据中心维护存在风险。我们在 Workers 上构建了一个维护调度程序，以安全地计划中断性操作，同时通过多个数据源和指标管道之上的图形界面查看基础设施的状态来解决扩展挑战。</description>
-      <pubDate>Mon, 22 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

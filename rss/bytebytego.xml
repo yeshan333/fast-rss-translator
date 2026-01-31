@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How to Scale An API】如何扩展 API</title>
+      <link>https://blog.bytebytego.com/p/how-to-scale-an-api</link>
+      <description>【In this article, we will learn how to scale APIs effectively using different strategies.】在本文中，我们将学习如何使用不同的策略有效地扩展 API。</description>
+      <pubDate>Thu, 29 Jan 2026 16:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to Write High-Performance Code】如何编写高性能代码</title>
+      <link>https://blog.bytebytego.com/p/how-to-write-high-performance-code</link>
+      <description>【This article is about that critical 3%, where we&amp;#8217;ll explore how to estimate performance impact, when to measure, what to look for, and practical techniques that work across different programming languages.】本文讨论的是关键的 3%，我们将探讨如何估计性能影响、何时测量、要寻找什么以及跨不同编程语言的实用技术。</description>
+      <pubDate>Wed, 28 Jan 2026 16:30:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Google Manages Trillions of Authorizations with Zanzibar】Google 如何管理桑给巴尔数万亿的授权</title>
       <link>https://blog.bytebytego.com/p/how-google-manages-trillions-of-authorizations</link>
       <description>【In this article, we will look at the high-level architecture of Zanzibar and understand the valuable lessons it provides for building large-scale systems, particularly around the challenges of distributed authorization.】在本文中，我们将研究 Zanzibar 的高级架构，并了解它为构建大型系统提供的宝贵经验，特别是围绕分布式授权的挑战。</description>
@@ -25,7 +37,7 @@
     <item>
       <title>【We are hiring at ByteByteGo】我们正在 ByteByteGo 招聘</title>
       <link>https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego</link>
-      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能队列）。</description>
+      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能群体）。</description>
       <pubDate>Fri, 23 Jan 2026 16:31:08 +0000</pubDate>
     </item>
     <item>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware</link>
       <description>【In this article, we will look at how GPUs and TPUs help build modern LLMs and the architecture behind them.】在本文中，我们将了解 GPU 和 TPU 如何帮助构建现代法学硕士及其背后的架构。</description>
       <pubDate>Mon, 19 Jan 2026 16:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP198: Best Resources to Learn AI in 2026】EP198：2026 年学习人工智能的最佳资源</title>
-      <link>https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai</link>
-      <description>【The AI resources can be divided into different types such as】AI资源可以分为不同类型，例如</description>
-      <pubDate>Sat, 17 Jan 2026 16:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Last Call: Enrollment for the AI Engineering Cohort 3 Ends Today】最后通知：人工智能工程第三期的报名今天结束</title>
-      <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering-f1a</link>
-      <description>【Our third cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第三批“成为人工智能工程师”课程将在一天后开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
-      <pubDate>Fri, 16 Jan 2026 16:30:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
