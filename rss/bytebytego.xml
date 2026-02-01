@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP200: HTTP/2 over TCP vs HTTP/3 over QUIC】EP200：基于 TCP 的 HTTP/2 与基于 QUIC 的 HTTP/3</title>
+      <link>https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over</link>
+      <description>【HTTP/2 vs HTTP/3 looks like an HTTP upgrade. It&amp;#8217;s actually a transport-layer rethink.】HTTP/2 与 HTTP/3 看起来像是 HTTP 的升级。这实际上是传输层的重新思考。</description>
+      <pubDate>Sat, 31 Jan 2026 16:31:08 +0000</pubDate>
+    </item>
+    <item>
       <title>【How to Scale An API】如何扩展 API</title>
       <link>https://blog.bytebytego.com/p/how-to-scale-an-api</link>
       <description>【In this article, we will learn how to scale APIs effectively using different strategies.】在本文中，我们将学习如何使用不同的策略有效地扩展 API。</description>
@@ -37,7 +43,7 @@
     <item>
       <title>【We are hiring at ByteByteGo】我们正在 ByteByteGo 招聘</title>
       <link>https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego</link>
-      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能群体）。</description>
+      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能队列）。</description>
       <pubDate>Fri, 23 Jan 2026 16:31:08 +0000</pubDate>
     </item>
     <item>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute</link>
       <description>【When Pinterest&amp;#8217;s engineering team built their asynchronous job processing platform called Pinlater a few years ago, it seemed like a solid solution for handling background tasks at scale.】几年前，当 Pinterest 的工程团队构建名为 Pinlater 的异步作业处理平台时，它似乎是大规模处理后台任务的可靠解决方案。</description>
       <pubDate>Tue, 20 Jan 2026 16:31:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why AI Needs GPUs and TPUs: The Hardware Behind LLMs】为什么人工智能需要 GPU 和 TPU：法学硕士背后的硬件</title>
-      <link>https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware</link>
-      <description>【In this article, we will look at how GPUs and TPUs help build modern LLMs and the architecture behind them.】在本文中，我们将了解 GPU 和 TPU 如何帮助构建现代法学硕士及其背后的架构。</description>
-      <pubDate>Mon, 19 Jan 2026 16:30:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
