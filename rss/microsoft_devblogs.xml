@@ -10,6 +10,48 @@
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Deprecation notice: Teams Live Events meeting creation via Microsoft Graph】弃用通知：通过 Microsoft Graph 创建 Teams Live Events 会议</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/deprecation-notice-teams-live-events-meeting-creation-via-microsoft-graph</link>
+      <description>【We’re announcing an important change for developers using Microsoft Graph APIs to create Teams Live Events. Starting March 31, 2026, the beta endpoint will no longer support the isBroadcast property of the on】我们宣布针对使用 Microsoft Graph API 创建 Teams Live Events 的开发人员进行一项重要更改。从 2026 年 3 月 31 日开始，Beta 端点将不再支持 on 的 isBroadcast 属性</description>
+      <pubDate>Tue, 03 Feb 2026 16:55:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Part 2: Building a Python CRUD API with Azure Functions and Azure Cosmos DB】第 2 部分：使用 Azure Functions 和 Azure Cosmos DB 构建 Python CRUD API</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/part-2-building-a-python-crud-api-with-azure-functions-and-azure-cosmos-db</link>
+      <description>【Series: Building Serverless Applications with Azure Functions and Azure Cosmos DB In the first post of this series, we focused on establishing the fundamentals of serverless architectur】系列：使用 Azure Functions 和 Azure Cosmos DB 构建无服务器应用程序 在本系列的第一篇文章中，我们重点介绍了无服务器架构的基础知识</description>
+      <pubDate>Tue, 03 Feb 2026 15:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Performance improvements to MEF-based editor productivity extensions】基于 MEF 的编辑器生产力扩展的性能改进</title>
+      <link>https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions</link>
+      <description>【If you use editor productivity extensions for Visual Studio 2026, there&#39;s good news—they can now load faster! Extension developers with existing MEF-based editor productivity extensions should read this blog to learn about recent changes and how they might be affected. 】如果您使用 Visual Studio 2026 的编辑器生产力扩展，那么有个好消息 - 它们现在可以更快地加载！拥有现有基于 MEF 的编辑器生产力扩展的扩展开发人员应该阅读此博客，以了解最近的更改以及它们可能受到的影响。 </description>
+      <pubDate>Tue, 03 Feb 2026 15:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Some small stories about the giant satellite dish antenna that was behind Microsoft Building 11】关于微软 11 号楼背后的巨型卫星天线的一些小故事</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260203-00/?p=112035</link>
+      <description>【Back in the day, if you wandered into the parking area behind Building 11 on the original Redmond Microsoft campus, you would find a very large satellite dish antenna. This antenna was used for receiving video signals, such as cable television feeds for distribution to the Redmond campus. One purpose was to provide cable TV service for inte】以前，如果您漫步走进原雷蒙德微软园区 11 号楼后面的停车场，您会发现一个非常大的碟形卫星天线。该天线用于接收视频信号，例如分发到雷德蒙德园区的有线电视信号。目的之一是为国际互联网提供有线电视服务</description>
+      <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Java OpenJDK January 2026 Patch &amp; Security Update】Java OpenJDK 2026 年 1 月补丁和安全更新</title>
+      <link>https://devblogs.microsoft.com/java/java-openjdk-january-2026-patch-security-update</link>
+      <description>【Hello Java customers! We are happy to announce the latest January 2026 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 25.0.2 OpenJDK 21.0.10 OpenJDK 17.0.18 OpenJDK 11.0.30】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2026 年 1 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 25.0.2 OpenJDK 21.0.10 OpenJDK 17.0.18 OpenJDK 11.0.30</description>
+      <pubDate>Mon, 02 Feb 2026 23:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Cosmos DB Data Explorer now supports Dark Mode】Azure Cosmos DB 数据资源管理器现在支持深色模式</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-data-explorer-now-supports-dark-mode</link>
+      <description>【If you spend time in the Azure Portal’s using Azure Cosmos DB Data Explorer, you know it’s a “lots of screens, lots of tabs, lots of work happening” kind of place. So I’m excited to share a small upgrade that makes a big difference: Dark Mode is now supported in Cosmos DB Data Explorer.】如果您使用 Azure Cosmos DB 数据资源管理器在 Azure 门户中花费时间，您就会知道这是一个“有很多屏幕、很多选项卡、发生大量工作”的地方。因此，我很高兴与大家分享一个带来重大改变的小升级：Cosmos DB 数据资源管理器现在支持深色模式。</description>
+      <pubDate>Mon, 02 Feb 2026 20:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Studying compiler error messages closely: Input file paths】仔细研究编译器错误消息：输入文件路径</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260202-00/?p=112027</link>
+      <description>【A colleague was working in a project that used a number of data files to configure how the program worked. They wanted one portion of the configuration file to be included only if a particular build flag was set. Let&#39;s say that the configuration file is C:\repos\contoso\config\Contoso.config. &amp;】一位同事正在从事一个项目，该项目使用多个数据文件来配置程序的工作方式。他们希望仅在设置了特定构建标志时才包含配置文件的一部分。假设配置文件是 C:\repos\contoso\config\Contoso.config。 &amp;</description>
+      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Build AI Agents with Claude Agent SDK and Microsoft Agent Framework】使用 Claude Agent SDK 和 Microsoft Agent 框架构建 AI 代理</title>
       <link>https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-claude-agent-sdk-and-microsoft-agent-framework</link>
       <description>【Microsoft Agent Framework now integrates with the Claude Agent SDK, enabling you to build AI agents powered by Claude&#39;s full agentic capabilities. This integration brings together the Agent Framework&#39;s consistent agent abstraction with Claude&#39;s powerful features, including fil】Microsoft Agent Framework 现在与 Claude Agent SDK 集成，使您能够构建由 Claude 完整代理功能支持的 AI 代理。这种集成将代理框架的一致代理抽象与 Claude 的强大功能结合在一起，包括 fil</description>
@@ -20,48 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20260130-00/?p=112025</link>
       <description>【When I described how Safe­Array­Add­Ref keeps its reference count in a side table, commenter Koro Unhallowed wondered】当我描述 SafeArrayAddRef 如何将其引用计数保存在侧表中时，评论者 Koro Unhallowed 表示想知道</description>
       <pubDate>Fri, 30 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Developer CLI (azd) - January 2026: Configuration &amp; Performance】Azure 开发人员 CLI (azd) - 2026 年 1 月：配置和性能</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-january-2026</link>
-      <description>【Welcome to the round up of the azd releases in January 2026! This blog post (covers release versions 1.23.0, 1.23.1,】欢迎来到 2026 年 1 月 azd 版本汇总！这篇博文（涵盖发行版本 1.23.0、1.23.1、</description>
-      <pubDate>Fri, 30 Jan 2026 10:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure SDK Release (January 2026)】Azure SDK 版本（2026 年 1 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-january-2026</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
-      <pubDate>Thu, 29 Jan 2026 22:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Cosmos DB TV Recap - From Burger to Bots – Agentic Apps with Cosmos DB and LangChain.js | Ep. 111】Azure Cosmos DB TV 回顾 - 从汉堡到机器人 – 使用 Cosmos DB 和 LangChain.js 的代理应用程序 | EP。 111</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-recap-from-burger-to-bots-agentic-apps-with-cosmos-db-and-langchain-js-ep-111</link>
-      <description>【In Episode 111 of Azure Cosmos DB TV, host Mark Brown is joined by Yohan Lasorsa to explore how developers can build agent-powered applications using a fully serverless architecture. This episode focuses on a practical, end-to-end exa】在 Azure Cosmos DB TV 第 111 集中，主持人 Mark Brown 与 Yohan Lasorsa 一起探索开发人员如何使用完全无服务器架构构建代理驱动的应用程序。本集重点介绍实用的端到端考试</description>
-      <pubDate>Thu, 29 Jan 2026 15:29:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I retain access to the data in a &lt;CODE&gt;SAFEARRAY&lt;/CODE&gt; after my method returns?】在我的方法返回后，如何保留对 &lt;CODE&gt;SAFEARRAY&lt;/CODE&gt; 中数据的访问权限？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260129-00/?p=112023</link>
-      <description>【The original problem our customer had was that the data in a SAFEARRAY disappeared even though they had called Safe­Array­Add­Ref. We learned why this is the case,】我们的客户最初遇到的问题是，即使他们调用了 SafeArrayAddRef，SAFEARRAY 中的数据也消失了。我们了解了为什么会出现这种情况，</description>
-      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Dev Proxy v2.1 with configuration hot reload and stdio proxying】Dev Proxy v2.1 具有配置热重载和 stdio 代理</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v2-1-with-configuration-hot-reload-and-stdio-proxying</link>
-      <description>【We&#39;re excited to announce the release of Dev Proxy v2.1.0! This release brings two major productivity features that developers have been asking for: automatic configuration hot reload and stdio traffic proxying - perfect for testing MCP servers and other stdio-based tools. In this version:】我们很高兴地宣布 Dev Proxy v2.1.0 发布！ 此版本带来了开发人员一直要求的两项主要生产力功能：自动配置热重载和 stdio 流量代理 - 非常适合测试 MCP 服务器和其他基于 stdio 的工具。在此版本中：</description>
-      <pubDate>Thu, 29 Jan 2026 12:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing the Microsoft Graph User Configuration API (preview)】Microsoft Graph 用户配置 API 简介（预览版）</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-user-configuration-api-preview</link>
-      <description>【We’re excited to announce the public preview of the User Configuration API in the Microsoft Graph beta endpoint. The User Configuration API is a new set of endpoints that you can use to create, read, update, and delete user configuration objects in Exchange Online mail folders.  User configuration objects—also】我们很高兴地宣布在 Microsoft Graph beta 端点中推出用户配置 API 的公共预览版。用户配置 API 是一组新的终结点，可用于在 Exchange Online 邮件文件夹中创建、读取、更新和删除用户配置对象。  用户配置对象——还有</description>
-      <pubDate>Wed, 28 Jan 2026 18:59:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Diagnosing instability in production-scale agent reinforcement learning】诊断生产规模代理强化学习中的不稳定性</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/diagnosing-instability-in-production-scale-agent-rl</link>
-      <description>【On January 28, 2026, Hugging Face announced that they have upstreamed the Post-Training Toolkit into TRL as a first-party integration, making these diagnostics directly usable in production RL and agent post-training pipelines. This enables closed-loop monitoring and control patterns that are increasingly necessary for】2026 年 1 月 28 日，Hugging Face 宣布他们已将训练后工具包作为第一方集成上游到 TRL 中，使这些诊断可直接在生产 RL 和代理训练后管道中使用。这使得闭环监控和控制模式变得越来越必要</description>
-      <pubDate>Wed, 28 Jan 2026 18:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Announcing Disaster Recovery Testing】宣布灾难恢复测试</title>
+      <link>https://www.gremlin.com/blog/announcing-disaster-recovery-testing</link>
+      <description>【Gremlin announces Disaster Recovery Testing for validating region failover processes, disaster recovery plans, incident response procedures, and more.】Gremlin 宣布推出灾难恢复测试，用于验证区域故障转移流程、灾难恢复计划、事件响应程序等。</description>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Reliability Resolutions: How to build effective reliability programs that won’t fade away】可靠性解决方案：如何建立不会消失的有效可靠性计划</title>
       <link>https://www.gremlin.com/blog/how-to-build-effective-reliability-programs-that-wont-fade-away</link>
       <description>【We’re already almost through January. How are your reliability resolutions faring? Check out these key questions to help you follow-through and build an effective reliability program.】我们已经快过一月了。您的可靠性决议进展如何？查看这些关键问题，以帮助您跟进并建立有效的可靠性计划。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/improve-kubernetes-reliability-faster-with-gremlin-and-dynatrace</link>
       <description>【It’s easier than ever to start testing Kubernetes with Dynatrace and Gremlin. The new strategic integration automatically discovers objects to make testing set up simple and fast.】使用 Dynatrace 和 Gremlin 开始测试 Kubernetes 比以往任何时候都更容易。新的战略集成会自动发现对象，使测试设置变得简单而快速。</description>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reliability lessons from the 2025 AWS DynamoDB outage】2025 年 AWS DynamoDB 中断带来的可靠性教训</title>
-      <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-aws-dynamodb-outage</link>
-      <description>【In October 2025, Amazon DynamoDB had a massive outage that took down hundreds of systems. Find out what your team can do to minimize the impact of similar outages in the future.】2025 年 10 月，Amazon DynamoDB 发生大规模停机，导致数百个系统瘫痪。了解您的团队可以采取哪些措施来最大程度地减少未来类似中断的影响。</description>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,9 +4,15 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Improve global upload performance with R2 Local Uploads】使用 R2 本地上传提高全局上传性能</title>
+      <link>https://blog.cloudflare.com/r2-local-uploads/</link>
+      <description>【 Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.  】R2 上的本地上传可将上传请求持续时间缩短高达 75%。它将对象数据写入附近的位置并将其异步复制到您的存储桶，同时数据立即可用。</description>
+      <pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Google’s AI advantage: why crawler separation is the only path to a fair Internet】谷歌的AI优势：为什么爬虫分离是通往公平互联网的唯一途径</title>
       <link>https://blog.cloudflare.com/uk-google-ai-crawler-policy/</link>
-      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的双用途爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
+      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的两用爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
       <pubDate>Fri, 30 Jan 2026 17:01:04 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/human-native-joins-cloudflare/</link>
       <description>【 Cloudflare acquires Human Native, an AI data marketplace specialising in transforming content into searchable and useful data, to accelerate work building new economic models for the Internet. 】Cloudflare 收购了 Human Native，这是一个专门将内容转换为可搜索且有用的数据的人工智能数据市场，以加快构建互联网新经济模型的工作。</description>
       <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What came first: the CNAME or the A record?】哪个先出现：CNAME 还是 A 记录？</title>
-      <link>https://blog.cloudflare.com/cname-a-record-order-dns-standards/</link>
-      <description>【 A recent change to 1.1.1.1 accidentally altered the order of CNAME records in DNS responses, breaking resolution for some clients. This post explores the technical root cause, examines the source code of affected resolvers, and dives into the inherent ambiguities of the DNS RFCs.   】最近对 1.1.1.1 的更改意外更改了 DNS 响应中 CNAME 记录的顺序，从而破坏了某些客户端的解析。这篇文章探讨了技术根本原因，检查了受影响解析器的源代码，并深入探讨了 DNS RFC 固有的模糊性。</description>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

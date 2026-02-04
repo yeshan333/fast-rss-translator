@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #508】SRE 周刊第 #508 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-508/</link>
+      <description>【View on sreweekly.com SRE Weekly will be going on hiatus for 6 weeks, while I&amp;#8217;m on leave caring for my partner after her kidney transplant surgery this week. It&amp;#8217;s incredible that the National Kidney Registry&amp;#8217;s Paired Exchange program allowed me to donate a kidney to help her even though we don&amp;#8217;t have matching blood types! [&amp;#8230;]】在 sreweekly.com 上查看 SRE Weekly 将暂停 6 周，而本周我将休假照顾我的伴侣，她接受了肾移植手术。令人难以置信的是，国家肾脏登记处的配对交换计划允许我捐献肾脏来帮助她，尽管我们的血型不匹配！ […]</description>
+      <pubDate>Mon, 02 Feb 2026 04:01:13 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #507】SRE 周刊第 #507 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-507/</link>
       <description>【View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：incident.io 存在于 Slack 和 Microsoft Teams 中，将紧急情况分解为可行的解决步骤。警报自动创建渠道，对正确的人员进行 ping 操作，实时记录操作，并生成具有完整上下文的事后分析。当您破坏事物时快速行动，并在您的团队已经使用的工具中保持井然有序[...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-504/</link>
       <description>【View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare&amp;#8217;s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction [&amp;#8230;]】查看 sreweekly.com 在一堆盐中寻找沙粒 Salt 是 Cloudflare 的配置管理工具。当您在 15 分钟内对数千台服务器进行数百次更改的峰值时，如何找到配置管理失败的根本原因？这样做的结果是减少了[…]</description>
       <pubDate>Mon, 05 Jan 2026 01:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #503】SRE 周刊第 #503 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-503/</link>
-      <description>【View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood. &amp;#160;&amp;#160;RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to [&amp;#8230;]】在 sreweekly.com 上查看 基础设施即代码中的抽象债务 抽象旨在封装复杂性，但如果做得不好，就会产生不透明性，导致无法了解幕后实际发生的情况。   RoseSecurity 事件数据和统计过程控制的乐趣本文使用公开可用的事件数据和开源工具来 [...]</description>
-      <pubDate>Mon, 29 Dec 2025 02:46:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
