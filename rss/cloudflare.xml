@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【2025 Q4 DDoS threat report: A record-setting 31.4 Tbps attack caps a year of massive DDoS assaults】2025 年第 4 季度 DDoS 威胁报告：创纪录的 31.4 Tbps 攻击终结了这一年的大规模 DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-2025-q4/</link>
+      <description>【 The number of DDoS attacks more than doubled in 2025. The network layer is under particular threat as hyper-volumetric attacks grew 700%. 】2025 年，DDoS 攻击数量增加了一倍多。随着超容量攻击增长 700%，网络层受到特别威胁。</description>
+      <pubDate>Thu, 05 Feb 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Improve global upload performance with R2 Local Uploads】使用 R2 本地上传提高全局上传性能</title>
       <link>https://blog.cloudflare.com/r2-local-uploads/</link>
       <description>【 Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.  】R2 上的本地上传可将上传请求持续时间缩短高达 75%。它将对象数据写入附近的位置并将其异步复制到您的存储桶，同时数据立即可用。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/astro-joins-cloudflare/</link>
       <description>【 The Astro Technology Company team — the creators of the Astro web framework — is joining Cloudflare. We’re doubling down on making Astro the best framework for content-driven websites, today and in the years to come. 】Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。</description>
       <pubDate>Fri, 16 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Human Native is joining Cloudflare】Human Native 即将加入 Cloudflare</title>
-      <link>https://blog.cloudflare.com/human-native-joins-cloudflare/</link>
-      <description>【 Cloudflare acquires Human Native, an AI data marketplace specialising in transforming content into searchable and useful data, to accelerate work building new economic models for the Internet. 】Cloudflare 收购了 Human Native，这是一个专门将内容转换为可搜索且有用的数据的人工智能数据市场，以加快构建互联网新经济模型的工作。</description>
-      <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

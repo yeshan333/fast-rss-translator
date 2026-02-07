@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【[Subscriber Exclusive] Become an AI Engineer - Cohort 4】[订阅者独家] 成为人工智能工程师 - 第 4 组</title>
+      <link>https://blog.bytebytego.com/p/subscriber-exclusive-become-an-ai</link>
+      <description>【Because you&amp;#8217;re part of this newsletter community, you get an exclusive discount not available anywhere else.】因为您是该时事通讯社区的一员，所以您可以获得其他地方所没有的独家折扣。</description>
+      <pubDate>Fri, 06 Feb 2026 16:31:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Top Authentication Techniques to Build Secure Applications】构建安全应用程序的顶级身份验证技术</title>
+      <link>https://blog.bytebytego.com/p/top-authentication-techniques-to</link>
+      <description>【In this article, we&amp;#8217;ll explore multiple authentication techniques used in applications and understand their advantages and disadvantages.】在本文中，我们将探讨应用程序中使用的多种身份验证技术，并了解它们的优点和缺点。</description>
+      <pubDate>Thu, 05 Feb 2026 16:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide to Effective Prompt Engineering】有效的即时工程指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-effective-prompt-engineering</link>
+      <description>【In this article, we will explore different prompting approaches, from simple zero-shot instructions to advanced chain-of-thought reasoning.】在本文中，我们将探索不同的提示方法，从简单的零样本指令到高级的思维链推理。</description>
+      <pubDate>Wed, 04 Feb 2026 16:32:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Grab Built a Vision LLM to Scan Images】Grab 如何构建视觉法学硕士来扫描图像</title>
       <link>https://blog.bytebytego.com/p/how-grab-built-a-vision-llm-to-scan</link>
       <description>【While powerful proprietary Large Language Models (LLMs) were available, they often failed to adequately understand Southeast Asian languages, produced errors and hallucinations, and suffered from high latency.】虽然强大的专有大型语言模型 (LLM) 可用，但它们常常无法充分理解东南亚语言，产生错误和幻觉，并且存在高延迟。</description>
@@ -23,7 +41,7 @@
       <pubDate>Sat, 31 Jan 2026 16:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Scale An API】如何扩展 API</title>
+      <title>【How to Scale An API】How to Scale An API</title>
       <link>https://blog.bytebytego.com/p/how-to-scale-an-api</link>
       <description>【In this article, we will learn how to scale APIs effectively using different strategies.】在本文中，我们将学习如何使用不同的策略有效地扩展 API。</description>
       <pubDate>Thu, 29 Jan 2026 16:30:59 +0000</pubDate>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent</link>
       <description>【Cursor&amp;#8217;s engineering team has shared technical details and challenges from building Composer and shipping their coding agent into production. This article breaks down those engineering challenges and how they solved them.】Cursor 的工程团队分享了构建 Composer 并将其编码代理投入生产的技术细节和挑战。本文详细介绍了这些工程挑战以及它们是如何解决的。</description>
       <pubDate>Mon, 26 Jan 2026 16:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP199: Behind the Scenes: What Happens When You Enter Google.com】EP199：幕后花絮：进入 Google.com 后会发生什么</title>
-      <link>https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens</link>
-      <description>【Most of us hit Enter and expect the page to load instantly, but under the hood, a surprisingly intricate chain of events fires off in milliseconds.】我们大多数人按下 Enter 并期望页面立即加载，但在幕后，一系列令人惊讶的复杂事件在几毫秒内触发。</description>
-      <pubDate>Sat, 24 Jan 2026 16:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【We are hiring at ByteByteGo】我们正在 ByteByteGo 招聘</title>
-      <link>https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego</link>
-      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能群体）。</description>
-      <pubDate>Fri, 23 Jan 2026 16:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Must-Know Fundamentals of Distributed Systems】分布式系统必须了解的基础知识</title>
-      <link>https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed</link>
-      <description>【In this article, we will look at five foundational topics around distributed systems: how computers communicate across networks, the protocols enabling reliable communication, how remote procedure calls abstract complexity, strategies for handling failures, and why time synchronization presents unique challenges.】在本文中，我们将研究围绕分布式系统的五个基本主题：计算机如何跨网络通信、实现可靠通信的协议、远程过程如何调用抽象复杂性、处理故障的策略以及为什么时间同步会带来独特的挑战。</description>
-      <pubDate>Thu, 22 Jan 2026 16:31:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

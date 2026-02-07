@@ -4,6 +4,18 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>Convera 如何使用 Amazon Verified Permissions 构建细粒度 API 授权</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/</link>
+      <description></description>
+      <pubDate>Thu, 05 Feb 2026 21:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>掌控毫秒延迟和数百万个事件：Amazon Key Suite 背后的事件驱动架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/</link>
+      <description></description>
+      <pubDate>Wed, 04 Feb 2026 15:53:39 +0000</pubDate>
+    </item>
+    <item>
       <title>主权故障转移 – 使用 AWS 欧洲主权云设计数字主权</title>
       <link>https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/</link>
       <description></description>
@@ -50,18 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/</link>
       <description></description>
       <pubDate>Wed, 26 Nov 2025 16:22:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 Amazon API Gateway 构建通往 Amazon Bedrock 的 AI 网关</title>
-      <link>https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/</link>
-      <description></description>
-      <pubDate>Wed, 19 Nov 2025 23:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>卓越 AI 架构：AWS 在 re:Invent 2025 上推出三款架构完善的镜头</title>
-      <link>https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/</link>
-      <description></description>
-      <pubDate>Wed, 19 Nov 2025 19:36:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

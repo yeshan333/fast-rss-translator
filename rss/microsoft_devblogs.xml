@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【January 2026 Insiders (version 1.109)】2026 年 1 月 Insider（版本 1.109）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/january-2026-insiders-(version-1.109)</link>
-      <description>【Learn what is new in the Visual Studio Code January 2026 Release (1.109). Read the full article】了解 Visual Studio Code 2026 年 1 月版本 (1.109) 中的新增功能。阅读全文</description>
-      <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
+      <title>【February 2026 Insiders (version 1.110)】2026 年 2 月 Insider（版本 1.110）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/february-2026-insiders-(version-1.110)</link>
+      <description>【Learn what is new in the Visual Studio Code February 2026 Release (1.110). Read the full article】了解 Visual Studio Code 2026 年 2 月版本 (1.110) 中的新增功能。阅读全文</description>
+      <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Deprecation notice: Teams Live Events meeting creation via Microsoft Graph】弃用通知：通过 Microsoft Graph 创建 Teams Live Events 会议</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/deprecation-notice-teams-live-events-meeting-creation-via-microsoft-graph</link>
-      <description>【We’re announcing an important change for developers using Microsoft Graph APIs to create Teams Live Events. Starting March 31, 2026, the beta endpoint will no longer support the isBroadcast property of the on】我们宣布针对使用 Microsoft Graph API 创建 Teams Live Events 的开发人员进行一项重要更改。从 2026 年 3 月 31 日开始，Beta 端点将不再支持 on 的 isBroadcast 属性</description>
-      <pubDate>Tue, 03 Feb 2026 16:55:49 +0000</pubDate>
+      <title>【Mastering User Settings in SharePoint Framework】掌握 SharePoint 框架中的用户设置</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/mastering-user-settings-in-sharepoint-framework</link>
+      <description>【User preferences and settings are fundamental components of modern web applications. When developing SharePoint Framework (SPFx) solutions, the ability to store and manage user-specific configurations across devices and sessions becomes crucial for delivering personalized experiences. This article explores a robust, enterprise-ready pattern fo】用户偏好和设置是现代 Web 应用程序的基本组成部分。开发 SharePoint 框架 (SPFx) 解决方案时，跨设备和会话存储和管理用户特定配置的能力对于提供个性化体验至关重要。本文探讨了一种强大的、企业级的模式</description>
+      <pubDate>Sat, 07 Feb 2026 01:17:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Part 2: Building a Python CRUD API with Azure Functions and Azure Cosmos DB】第 2 部分：使用 Azure Functions 和 Azure Cosmos DB 构建 Python CRUD API</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/part-2-building-a-python-crud-api-with-azure-functions-and-azure-cosmos-db</link>
-      <description>【Series: Building Serverless Applications with Azure Functions and Azure Cosmos DB In the first post of this series, we focused on establishing the fundamentals of serverless architectur】系列：使用 Azure Functions 和 Azure Cosmos DB 构建无服务器应用程序 在本系列的第一篇文章中，我们重点介绍了无服务器架构的基础知识</description>
-      <pubDate>Tue, 03 Feb 2026 15:10:30 +0000</pubDate>
+      <title>【What’s New in vcpkg (Nov 2025 - Jan 2026)】vcpkg 的新增功能（2025 年 11 月 - 2026 年 1 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-nov-2025-jan-2026</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.12.12 and 2026.01.16 registry releases and the】本文总结了作为 2025.12.12 和 2026.01.16 注册表版本的一部分的 vcpkg 包管理器的更改以及</description>
+      <pubDate>Fri, 06 Feb 2026 21:01:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Performance improvements to MEF-based editor productivity extensions】基于 MEF 的编辑器生产力扩展的性能改进</title>
-      <link>https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions</link>
-      <description>【If you use editor productivity extensions for Visual Studio 2026, there&#39;s good news—they can now load faster! Extension developers with existing MEF-based editor productivity extensions should read this blog to learn about recent changes and how they might be affected. 】如果您使用 Visual Studio 2026 的编辑器生产力扩展，那么有个好消息 - 它们现在可以更快地加载！拥有现有基于 MEF 的编辑器生产力扩展的扩展开发人员应该阅读此博客，以了解最近的更改以及它们可能受到的影响。 </description>
-      <pubDate>Tue, 03 Feb 2026 15:00:21 +0000</pubDate>
+      <title>【Building an AI Skills Executor in .NET: Bringing Anthropic&#39;s Agent Pattern to the Microsoft Ecosystem】在 .NET 中构建 AI 技能执行器：将 Anthropic 的代理模式引入 Microsoft 生态系统</title>
+      <link>https://devblogs.microsoft.com/foundry/dotnet-ai-skills-executor-azure-openai-mcp</link>
+      <description>【When Anthropic released their Agent Skills framework, they published a blueprint for how enterprise organizations should structure AI agent capabilities. The pattern is straightforward: package procedural knowledge into composable skills that AI agents can discover and apply contextually. Microsoft, OpenAI, Cursor, and others have already adop】当 Anthropic 发布他们的代理技能框架时，他们发布了企业组织应如何构建人工智能代理功能的蓝图。该模式很简单：将程序知识打包成人工智能代理可以发现并根据上下文应用的可组合技能。 Microsoft、OpenAI、Cursor 等公司已经采用</description>
+      <pubDate>Fri, 06 Feb 2026 19:11:04 +0000</pubDate>
     </item>
     <item>
-      <title>【Some small stories about the giant satellite dish antenna that was behind Microsoft Building 11】关于微软 11 号楼背后的巨型卫星天线的一些小故事</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260203-00/?p=112035</link>
-      <description>【Back in the day, if you wandered into the parking area behind Building 11 on the original Redmond Microsoft campus, you would find a very large satellite dish antenna. This antenna was used for receiving video signals, such as cable television feeds for distribution to the Redmond campus. One purpose was to provide cable TV service for inte】以前，如果您漫步走进原雷蒙德微软园区 11 号楼后面的停车场，您会发现一个非常大的碟形卫星天线。该天线用于接收视频信号，例如分发到雷德蒙德园区的有线电视信号。目的之一是为国际互联网提供有线电视服务</description>
-      <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Masking Sensitive Data in Azure SQL】屏蔽 Azure SQL 中的敏感数据</title>
+      <link>https://devblogs.microsoft.com/azure-sql/mask-data-in-azure-sql</link>
+      <description>【Applications often need access to data without needing access to everything. Social Security numbers, email addresses, and phone numbers are common examples. Storing them is required. Exposing them broadly is not. This is especially valuable when exposing a database to an AI agent through MCP servers like SQL MCP Server, where safety and re】应用程序通常需要访问数据而不需要访问所有内容。社会安全号码、电子邮件地址和电话号码是常见的例子。需要存储它们。广泛地曝光它们则不然。当通过 MCP 服务器（例如 SQL MCP Server）将数据库暴露给 AI 代理时，这一点尤其有价值，其中安全性和可靠性</description>
+      <pubDate>Fri, 06 Feb 2026 16:21:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Java OpenJDK January 2026 Patch &amp; Security Update】Java OpenJDK 2026 年 1 月补丁和安全更新</title>
-      <link>https://devblogs.microsoft.com/java/java-openjdk-january-2026-patch-security-update</link>
-      <description>【Hello Java customers! We are happy to announce the latest January 2026 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 25.0.2 OpenJDK 21.0.10 OpenJDK 17.0.18 OpenJDK 11.0.30】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2026 年 1 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 25.0.2 OpenJDK 21.0.10 OpenJDK 17.0.18 OpenJDK 11.0.30</description>
-      <pubDate>Mon, 02 Feb 2026 23:40:33 +0000</pubDate>
+      <title>【How can I prevent the user from changing the widths of ListView columns in version 5 of the common controls?, part 2】如何防止用户更改公共控件版本 5 中 ListView 列的宽度？，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260206-00/?p=112045</link>
+      <description>【Last time, we had figured out how to prevent the version 5 ListView Win32 common control from resizing columns, but we noticed that the cursor st】上次，我们已经弄清楚如何防止版本 5 ListView Win32 公共控件调整列大小，但我们注意到光标已停止</description>
+      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Data Explorer now supports Dark Mode】Azure Cosmos DB 数据资源管理器现在支持深色模式</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-data-explorer-now-supports-dark-mode</link>
-      <description>【If you spend time in the Azure Portal’s using Azure Cosmos DB Data Explorer, you know it’s a “lots of screens, lots of tabs, lots of work happening” kind of place. So I’m excited to share a small upgrade that makes a big difference: Dark Mode is now supported in Cosmos DB Data Explorer.】如果您使用 Azure Cosmos DB 数据资源管理器在 Azure 门户中花费时间，您就会知道这是一个“有很多屏幕、很多选项卡、发生大量工作”的地方。因此，我很高兴与大家分享一个带来重大改变的小升级：Cosmos DB 数据资源管理器现在支持深色模式。</description>
-      <pubDate>Mon, 02 Feb 2026 20:00:27 +0000</pubDate>
+      <title>【Enable Soft Delete in Azure SQL】在 Azure SQL 中启用软删除</title>
+      <link>https://devblogs.microsoft.com/azure-sql/soft-delete-in-azure-sql</link>
+      <description>【Sometimes applications need to remove data without actually losing it. Soft delete keeps rows in the database while making them invisible to normal application access. This is especially valuable when exposing a database to an AI agent through MCP servers like SQL MCP Server, where safety and reversibility matter. Lea】有时应用程序需要删除数据而不实际丢失数据。软删除将行保留在数据库中，同时使它们对正常应用程序访问不可见。当通过 SQL MCP Server 等 MCP 服务器向 AI 代理公开数据库时，这一点尤其有价值，因为安全性和可逆性很重要。莉亚</description>
+      <pubDate>Fri, 06 Feb 2026 00:47:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Studying compiler error messages closely: Input file paths】仔细研究编译器错误消息：输入文件路径</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260202-00/?p=112027</link>
-      <description>【A colleague was working in a project that used a number of data files to configure how the program worked. They wanted one portion of the configuration file to be included only if a particular build flag was set. Let&#39;s say that the configuration file is C:\repos\contoso\config\Contoso.config. &amp;】一位同事正在从事一个项目，该项目使用多个数据文件来配置程序的工作方式。他们希望仅在设置了特定构建标志时才包含配置文件的一部分。假设配置文件是 C:\repos\contoso\config\Contoso.config。 &amp;</description>
-      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Securing Aspire Apps with Microsoft Entra ID】使用 Microsoft Entra ID 保护 Aspire 应用程序</title>
+      <link>https://devblogs.microsoft.com/aspire/securing-dotnet-aspire-apps-with-microsoft-entra-id</link>
+      <description>【[alert type=&#34;important&#34; heading=&#34;About the Author&#34;]This is a guest post from Jean-Marc Prieur from Microsoft&#39;s 1ES (One Engineering System) team. We help reduce developer toil across Microsoft by making it easy to build services that are secure and compliant from the start, for instance with Aspire and Entra ID.[/alert] TL;D】[alert type =“important”heading =“关于作者”]这是来自 Microsoft 1ES（单一工程系统）团队的 Jean-Marc Prieur 的客座文章。我们从一开始就可以轻松构建安全且合规的服务，例如使用 Aspire 和 Entra ID，从而帮助减少整个 Microsoft 开发人员的辛苦工作。[/alert] TL;D</description>
+      <pubDate>Thu, 05 Feb 2026 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Build AI Agents with Claude Agent SDK and Microsoft Agent Framework】使用 Claude Agent SDK 和 Microsoft Agent 框架构建 AI 代理</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-claude-agent-sdk-and-microsoft-agent-framework</link>
-      <description>【Microsoft Agent Framework now integrates with the Claude Agent SDK, enabling you to build AI agents powered by Claude&#39;s full agentic capabilities. This integration brings together the Agent Framework&#39;s consistent agent abstraction with Claude&#39;s powerful features, including fil】Microsoft Agent Framework 现在与 Claude Agent SDK 集成，使您能够构建由 Claude 完整代理功能支持的 AI 代理。这种集成将代理框架的一致代理抽象与 Claude 的强大功能结合在一起，包括 fil</description>
-      <pubDate>Fri, 30 Jan 2026 19:21:49 +0000</pubDate>
+      <title>【.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows】.NET Framework 3.5 在新版本的 Windows 中转向独立部署</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows</link>
+      <description>【The deployment model of .NET Framework 3.5 for future versions of Windows is changing. Starting with Windows 11 Insider Preview Build 27965, .NET Framework 3.5 must be obtained as a standalone installer and is no longer included as an optional Windows component. .NET Framework 3.5 is now available as a standalone installer for legacy】Windows 未来版本的 .NET Framework 3.5 部署模型正在发生变化。从 Windows 11 Insider Preview Build 27965 开始，.NET Framework 3.5 必须作为独立安装程序获取，并且不再作为可选 Windows 组件包含在内。 .NET Framework 3.5 现在可作为旧版本的独立安装程序</description>
+      <pubDate>Thu, 05 Feb 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why not store the &lt;CODE&gt;SAFEARRAY&lt;/CODE&gt; reference count as a hidden allocation next to the &lt;CODE&gt;SAFEARRAY&lt;/CODE&gt;?】为什么不将 &lt;code&gt;SAFEARRAY&lt;/code&gt; 引用计数存储为 &lt;code&gt;SAFEARRAY&lt;/code&gt; 旁边的隐藏分配？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260130-00/?p=112025</link>
-      <description>【When I described how Safe­Array­Add­Ref keeps its reference count in a side table, commenter Koro Unhallowed wondered】当我描述 SafeArrayAddRef 如何将其引用计数保存在侧表中时，评论者 Koro Unhallowed 表示想知道</description>
-      <pubDate>Fri, 30 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Go 1.25.7-1 and 1.24.13-1 Microsoft builds now available】Go 1.25.7-1 和 1.24.13-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-25-7-1-and-1-24-13-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Thu, 05 Feb 2026 17:38:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
