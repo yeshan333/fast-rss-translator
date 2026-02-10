@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Yelp Built “Yelp Assistant”】Yelp 如何构建“Yelp 助手”</title>
+      <link>https://blog.bytebytego.com/p/how-yelp-built-yelp-assistant</link>
+      <description>【This article walks through what it takes to ship a production-ready AI assistant using Yelp Assistant on business pages as a concrete case study.】本文作为具体案例研究，介绍了如何在业务页面上使用 Yelp Assistant 来发布可投入生产的 AI 助手。</description>
+      <pubDate>Mon, 09 Feb 2026 16:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP201: The Evolution of AI in Software Development】EP201：人工智能在软件开发中的演变</title>
+      <link>https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software</link>
+      <description>【AI has fundamentally changed how engineers code. This shift can be described in three waves.】人工智能从根本上改变了工程师的编码方式。这种转变可以用三个浪潮来描述。</description>
+      <pubDate>Sat, 07 Feb 2026 16:30:23 +0000</pubDate>
+    </item>
+    <item>
       <title>【[Subscriber Exclusive] Become an AI Engineer - Cohort 4】[订阅者独家] 成为人工智能工程师 - 第 4 组</title>
       <link>https://blog.bytebytego.com/p/subscriber-exclusive-become-an-ai</link>
       <description>【Because you&amp;#8217;re part of this newsletter community, you get an exclusive discount not available anywhere else.】因为您是该时事通讯社区的一员，所以您可以获得其他地方所没有的独家折扣。</description>
@@ -41,7 +53,7 @@
       <pubDate>Sat, 31 Jan 2026 16:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【How to Scale An API】How to Scale An API</title>
+      <title>【How to Scale An API】如何扩展 API</title>
       <link>https://blog.bytebytego.com/p/how-to-scale-an-api</link>
       <description>【In this article, we will learn how to scale APIs effectively using different strategies.】在本文中，我们将学习如何使用不同的策略有效地扩展 API。</description>
       <pubDate>Thu, 29 Jan 2026 16:30:59 +0000</pubDate>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-to-write-high-performance-code</link>
       <description>【This article is about that critical 3%, where we&amp;#8217;ll explore how to estimate performance impact, when to measure, what to look for, and practical techniques that work across different programming languages.】本文讨论的是关键的 3%，我们将探讨如何估计性能影响、何时测量、要寻找什么以及跨不同编程语言的实用技术。</description>
       <pubDate>Wed, 28 Jan 2026 16:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Google Manages Trillions of Authorizations with Zanzibar】Google 如何管理桑给巴尔数万亿的授权</title>
-      <link>https://blog.bytebytego.com/p/how-google-manages-trillions-of-authorizations</link>
-      <description>【In this article, we will look at the high-level architecture of Zanzibar and understand the valuable lessons it provides for building large-scale systems, particularly around the challenges of distributed authorization.】在本文中，我们将研究 Zanzibar 的高级架构，并了解它为构建大型系统提供的宝贵经验，特别是围绕分布式授权的挑战。</description>
-      <pubDate>Tue, 27 Jan 2026 16:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cursor Shipped its Coding Agent to Production】Cursor 如何将其编码代理交付生产</title>
-      <link>https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent</link>
-      <description>【Cursor&amp;#8217;s engineering team has shared technical details and challenges from building Composer and shipping their coding agent into production. This article breaks down those engineering challenges and how they solved them.】Cursor 的工程团队分享了构建 Composer 并将其编码代理投入生产的技术细节和挑战。本文详细介绍了这些工程挑战以及它们是如何解决的。</description>
-      <pubDate>Mon, 26 Jan 2026 16:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

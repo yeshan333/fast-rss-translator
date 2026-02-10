@@ -10,6 +10,18 @@
       <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Time Travel in Azure SQL with Temporal Tables】使用时态表在 Azure SQL 中进行时间旅行</title>
+      <link>https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables</link>
+      <description>【Applications often need to know what data looked like before. Who changed it, when it changed, and what the previous values were. Rebuilding that history in application code is tedious and error prone. This is especially valuable when exposing a database to an AI agent through MCP servers like SQL MCP Server, where information discovery mat】应用程序通常需要知道数据以前是什么样子。谁改变了它，什么时候改变的，以前的值是什么。在应用程序代码中重建历史记录既乏味又容易出错。当通过 MCP 服务器（例如 SQL MCP Server）向 AI 代理公开数据库时，这一点尤其有价值，其中信息发现很重要</description>
+      <pubDate>Mon, 09 Feb 2026 17:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What should I do if a wait call reports &lt;CODE&gt;WAIT_&lt;WBR&gt;ABANDONED&lt;/CODE&gt;?】如果等待呼叫报告 &lt;CODE&gt;WAIT_&lt;WBR&gt;ABANDONED&lt;/CODE&gt;，我该怎么办？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260209-00/?p=112049</link>
+      <description>【If you call a wait function like Wait­For­Single­Object and receive the code WAIT_ABANDONED, what does it mean and what should you do? The documentation says that WAIT_ABANDONED means that you successfully claimed a mutex, but the thread that previously owned the mutex failed t】如果您调用 WaitForSingleObject 等等待函数并收到代码 WAIT_ABANDONED，这意味着什么以及您应该做什么？文档说 WAIT_ABANDONED 意味着你成功声明了一个互斥锁，但是之前拥有该互斥锁的线程失败了</description>
+      <pubDate>Mon, 09 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Mastering User Settings in SharePoint Framework】掌握 SharePoint 框架中的用户设置</title>
       <link>https://devblogs.microsoft.com/microsoft365dev/mastering-user-settings-in-sharepoint-framework</link>
       <description>【User preferences and settings are fundamental components of modern web applications. When developing SharePoint Framework (SPFx) solutions, the ability to store and manage user-specific configurations across devices and sessions becomes crucial for delivering personalized experiences. This article explores a robust, enterprise-ready pattern fo】用户偏好和设置是现代 Web 应用程序的基本组成部分。开发 SharePoint 框架 (SPFx) 解决方案时，跨设备和会话存储和管理用户特定配置的能力对于提供个性化体验至关重要。本文探讨了一种强大的、企业级的模式</description>
@@ -48,20 +60,8 @@
     <item>
       <title>【Securing Aspire Apps with Microsoft Entra ID】使用 Microsoft Entra ID 保护 Aspire 应用程序</title>
       <link>https://devblogs.microsoft.com/aspire/securing-dotnet-aspire-apps-with-microsoft-entra-id</link>
-      <description>【[alert type=&#34;important&#34; heading=&#34;About the Author&#34;]This is a guest post from Jean-Marc Prieur from Microsoft&#39;s 1ES (One Engineering System) team. We help reduce developer toil across Microsoft by making it easy to build services that are secure and compliant from the start, for instance with Aspire and Entra ID.[/alert] TL;D】[alert type =“important”heading =“关于作者”]这是来自 Microsoft 1ES（单一工程系统）团队的 Jean-Marc Prieur 的客座文章。我们从一开始就可以轻松构建安全且合规的服务，例如使用 Aspire 和 Entra ID，从而帮助减少整个 Microsoft 开发人员的辛苦工作。[/alert] TL;D</description>
+      <description>【[alert type=&#34;important&#34; heading=&#34;About the Author&#34;]This is a guest post from Jean-Marc Prieur from Microsoft&#39;s 1ES (One Engineering System) team. We help reduce developer toil across Microsoft by making it easy to build services that are secure and compliant from the start, for instance with Aspire and Entra ID.[/alert] TL;D】[alert type =“important”heading =“关于作者”]这是来自 Microsoft 1ES（单一工程系统）团队的 Jean-Marc Prieur 的客座帖子。我们从一开始就可以轻松构建安全且合规的服务，例如使用 Aspire 和 Entra ID，从而帮助减少整个 Microsoft 开发人员的辛苦工作。[/alert] TL;D</description>
       <pubDate>Thu, 05 Feb 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows】.NET Framework 3.5 在新版本的 Windows 中转向独立部署</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows</link>
-      <description>【The deployment model of .NET Framework 3.5 for future versions of Windows is changing. Starting with Windows 11 Insider Preview Build 27965, .NET Framework 3.5 must be obtained as a standalone installer and is no longer included as an optional Windows component. .NET Framework 3.5 is now available as a standalone installer for legacy】Windows 未来版本的 .NET Framework 3.5 部署模型正在发生变化。从 Windows 11 Insider Preview Build 27965 开始，.NET Framework 3.5 必须作为独立安装程序获取，并且不再作为可选 Windows 组件包含在内。 .NET Framework 3.5 现在可作为旧版本的独立安装程序</description>
-      <pubDate>Thu, 05 Feb 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.25.7-1 and 1.24.13-1 Microsoft builds now available】Go 1.25.7-1 和 1.24.13-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-25-7-1-and-1-24-13-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Thu, 05 Feb 2026 17:38:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
