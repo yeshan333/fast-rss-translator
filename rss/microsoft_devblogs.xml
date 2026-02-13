@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Time Travel in Azure SQL with Temporal Tables】使用时态表在 Azure SQL 中进行时间旅行</title>
-      <link>https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables</link>
-      <description>【Applications often need to know what data looked like before. Who changed it, when it changed, and what the previous values were. Rebuilding that history in application code is tedious and error prone. This is especially valuable when exposing a database to an AI agent through MCP servers like SQL MCP Server, where information discovery mat】应用程序通常需要知道数据以前是什么样子。谁改变了它，什么时候改变的，以前的值是什么。在应用程序代码中重建历史记录既乏味又容易出错。当通过 MCP 服务器（例如 SQL MCP Server）向 AI 代理公开数据库时，这一点尤其有价值，其中信息发现很重要</description>
-      <pubDate>Mon, 09 Feb 2026 17:34:56 +0000</pubDate>
+      <title>【Microsoft at DevNexus 2026: Practical AI for Real-World Java Development】Microsoft 在 DevNexus 2026 上：用于现实世界 Java 开发的实用 AI</title>
+      <link>https://devblogs.microsoft.com/java/microsoft-at-devnexus-2026-practical-ai-for-real-world-java-development</link>
+      <description>【Java developers face a tough trifecta: keeping mission-critical systems running, modernizing legacy apps, and weaving AI into real engineering workflows, all without increasing risk. At DevNexus 2026, the Microsoft Java team is tackling these challenges head-on. 】Java 开发人员面临着严峻的三重挑战：保持关键任务系统运行、对遗留应用程序进行现代化改造以及将人工智能融入到实际的工程工作流程中，所有这些都不会增加风险。在 DevNexus 2026 上，Microsoft Java 团队正在正面应对这些挑战。 </description>
+      <pubDate>Thu, 12 Feb 2026 21:01:50 +0000</pubDate>
     </item>
     <item>
-      <title>【What should I do if a wait call reports &lt;CODE&gt;WAIT_&lt;WBR&gt;ABANDONED&lt;/CODE&gt;?】如果等待呼叫报告 &lt;CODE&gt;WAIT_&lt;WBR&gt;ABANDONED&lt;/CODE&gt;，我该怎么办？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260209-00/?p=112049</link>
-      <description>【If you call a wait function like Wait­For­Single­Object and receive the code WAIT_ABANDONED, what does it mean and what should you do? The documentation says that WAIT_ABANDONED means that you successfully claimed a mutex, but the thread that previously owned the mutex failed t】如果您调用 WaitForSingleObject 等等待函数并收到代码 WAIT_ABANDONED，这意味着什么以及您应该做什么？文档说 WAIT_ABANDONED 意味着你成功声明了一个互斥锁，但是之前拥有该互斥锁的线程失败了</description>
-      <pubDate>Mon, 09 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Handling Legacy User Settings in SharePoint Framework】处理 SharePoint 框架中的旧用户设置</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/handling-legacy-user-settings-in-sharepoint-framework</link>
+      <description>【Introduction The SharePoint Framework (SPFx) has undergone some important changes in how it handles Entra ID app registration and security models. Here you can find additional details about what w】简介 SharePoint 框架 (SPFx) 在处理 Entra ID 应用程序注册和安全模型的方式方面发生了一些重要变化。在这里您可以找到有关 w 的更多详细信息</description>
+      <pubDate>Thu, 12 Feb 2026 18:25:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Mastering User Settings in SharePoint Framework】掌握 SharePoint 框架中的用户设置</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/mastering-user-settings-in-sharepoint-framework</link>
-      <description>【User preferences and settings are fundamental components of modern web applications. When developing SharePoint Framework (SPFx) solutions, the ability to store and manage user-specific configurations across devices and sessions becomes crucial for delivering personalized experiences. This article explores a robust, enterprise-ready pattern fo】用户偏好和设置是现代 Web 应用程序的基本组成部分。开发 SharePoint 框架 (SPFx) 解决方案时，跨设备和会话存储和管理用户特定配置的能力对于提供个性化体验至关重要。本文探讨了一种强大的、企业级的模式</description>
-      <pubDate>Sat, 07 Feb 2026 01:17:15 +0000</pubDate>
+      <title>【Build Intelligent Apps with SQL: Join the SQL + AI Datathon】使用 SQL 构建智能应用程序：加入 SQL + AI Datathon</title>
+      <link>https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon</link>
+      <description>【T】时间</description>
+      <pubDate>Thu, 12 Feb 2026 17:35:41 +0000</pubDate>
     </item>
     <item>
-      <title>【What’s New in vcpkg (Nov 2025 - Jan 2026)】vcpkg 的新增功能（2025 年 11 月 - 2026 年 1 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-nov-2025-jan-2026</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2025.12.12 and 2026.01.16 registry releases and the】本文总结了作为 2025.12.12 和 2026.01.16 注册表版本的一部分的 vcpkg 包管理器的更改以及</description>
-      <pubDate>Fri, 06 Feb 2026 21:01:50 +0000</pubDate>
+      <title>【How can I distinguish between the numeric keypad 0 and the top-row 0 in the &lt;CODE&gt;WM_&lt;WBR&gt;KEY­DOWN&lt;/CODE&gt; message?】如何区分 &lt;CODE&gt;WM_&lt;WBR&gt;KEYDOWN&lt;/CODE&gt; 消息中的数字键盘 0 和顶行 0？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260212-00/?p=112059</link>
+      <description>【A customer wanted to know how to distinguish between the numeric keypad 0 and the top-row 0 in the WM_KEY­DOWN message. And while we&#39;re at it, let&#39;s also distinguish between the numeric keypad 0 and the Ins key. We start with this table of what you get in the WM_KEY­DOWN message w】客户想知道如何区分WM_KEYDOWN消息中的数字键盘0和顶行0。在我们讨论这个问题的同时，我们还要区分数字键盘 0 和 Ins 键。我们从这张表开始，列出了您在 WM_KEYDOWN 消息中得到的内容</description>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building an AI Skills Executor in .NET: Bringing Anthropic&#39;s Agent Pattern to the Microsoft Ecosystem】在 .NET 中构建 AI 技能执行器：将 Anthropic 的代理模式引入 Microsoft 生态系统</title>
-      <link>https://devblogs.microsoft.com/foundry/dotnet-ai-skills-executor-azure-openai-mcp</link>
-      <description>【When Anthropic released their Agent Skills framework, they published a blueprint for how enterprise organizations should structure AI agent capabilities. The pattern is straightforward: package procedural knowledge into composable skills that AI agents can discover and apply contextually. Microsoft, OpenAI, Cursor, and others have already adop】当 Anthropic 发布他们的代理技能框架时，他们发布了企业组织应如何构建人工智能代理功能的蓝图。该模式很简单：将程序知识打包成人工智能代理可以发现并根据上下文应用的可组合技能。 Microsoft、OpenAI、Cursor 等公司已经采用</description>
-      <pubDate>Fri, 06 Feb 2026 19:11:04 +0000</pubDate>
+      <title>【How we built the Microsoft Learn MCP Server】我们如何构建 Microsoft Learn MCP 服务器</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server</link>
+      <description>【When we launched the Microsoft Learn Model Context Protocol (MCP) Server in June 2025, our goal was simple: make it effortless for AI agents to use trusted, up-to-date Microsoft Learn documentation. GitHub Copilot and other agents are increasingly comm】当我们于 2025 年 6 月推出 Microsoft Learn 模型上下文协议 (MCP) 服务器时，我们的目标很简单：让 AI 代理轻松使用值得信赖的最新 Microsoft Learn 文档。 GitHub Copilot 和其他代理越来越多地交流</description>
+      <pubDate>Wed, 11 Feb 2026 19:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Masking Sensitive Data in Azure SQL】屏蔽 Azure SQL 中的敏感数据</title>
-      <link>https://devblogs.microsoft.com/azure-sql/mask-data-in-azure-sql</link>
-      <description>【Applications often need access to data without needing access to everything. Social Security numbers, email addresses, and phone numbers are common examples. Storing them is required. Exposing them broadly is not. This is especially valuable when exposing a database to an AI agent through MCP servers like SQL MCP Server, where safety and re】应用程序通常需要访问数据而不需要访问所有内容。社会安全号码、电子邮件地址和电话号码是常见的例子。需要存储它们。广泛地曝光它们则不然。当通过 MCP 服务器（例如 SQL MCP Server）将数据库暴露给 AI 代理时，这一点尤其有价值，其中安全性和可靠性</description>
-      <pubDate>Fri, 06 Feb 2026 16:21:44 +0000</pubDate>
+      <title>【Announcing TypeScript 6.0 Beta】宣布推出 TypeScript 6.0 Beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta</link>
+      <description>【Today we are announcing the beta release of TypeScript 6.0! To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta TypeScript 6.0 is a unique release in that we intend f】今天我们宣布 TypeScript 6.0 测试版发布！要开始使用 Beta 版，您可以使用以下命令通过 npm 获取它： npm install -D typescript@beta TypeScript 6.0 是一个独特的版本，我们打算</description>
+      <pubDate>Wed, 11 Feb 2026 18:50:26 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I prevent the user from changing the widths of ListView columns in version 5 of the common controls?, part 2】如何防止用户更改公共控件版本 5 中 ListView 列的宽度？，第 2 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260206-00/?p=112045</link>
-      <description>【Last time, we had figured out how to prevent the version 5 ListView Win32 common control from resizing columns, but we noticed that the cursor st】上次，我们已经弄清楚如何防止版本 5 ListView Win32 公共控件调整列大小，但我们注意到光标已停止</description>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026】.NET 的 GitHub Copilot 测试将 AI 驱动的单元测试引入 Visual Studio 2026</title>
+      <link>https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio</link>
+      <description>【GitHub Copilot testing for .NET makes it dramatically faster and more convenient to generate high-quality unit tests without leaving your code. Today, we’re excited to announce that this capability is now generally available in Visual Studio 2026 v18.3. This release brings】适用于 .NET 的 GitHub Copilot 测试使您可以更快、更方便地生成高质量的单元测试，而无需留下代码。今天，我们很高兴地宣布，此功能现已在 Visual Studio 2026 v18.3 中全面可用。此次发布带来了</description>
+      <pubDate>Wed, 11 Feb 2026 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Enable Soft Delete in Azure SQL】在 Azure SQL 中启用软删除</title>
-      <link>https://devblogs.microsoft.com/azure-sql/soft-delete-in-azure-sql</link>
-      <description>【Sometimes applications need to remove data without actually losing it. Soft delete keeps rows in the database while making them invisible to normal application access. This is especially valuable when exposing a database to an AI agent through MCP servers like SQL MCP Server, where safety and reversibility matter. Lea】有时应用程序需要删除数据而不实际丢失数据。软删除将行保留在数据库中，同时使它们对正常应用程序访问不可见。当通过 SQL MCP Server 等 MCP 服务器向 AI 代理公开数据库时，这一点尤其有价值，因为安全性和可逆性很重要。莉亚</description>
-      <pubDate>Fri, 06 Feb 2026 00:47:59 +0000</pubDate>
+      <title>【Beyond the Prompt - Why and How to Fine-tune Your Own Models】超越提示 - 为什么以及如何微调您自己的模型</title>
+      <link>https://devblogs.microsoft.com/foundry/beyond-the-prompt-why-and-how-to-fine-tune-your-own-models</link>
+      <description>【Large Language Models (LLMs) have reached a point where general intelligence is no longer the bottleneck. The real challenge in enterprise AI systems behavioral alignment ensuring models that produce consistent, reliable, policy-compliant outputs on a scale. Prompt engineering and Retrieval-Augmented Generation (RAG) are powerful but they do n】大型语言模型（LLM）已经达到了通用智能不再是瓶颈的地步。企业人工智能系统行为一致性的真正挑战是确保模型能够大规模地产生一致、可靠、符合政策的输出。即时工程和检索增强生成 (RAG) 很强大，但它们并没有</description>
+      <pubDate>Wed, 11 Feb 2026 17:29:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing Aspire Apps with Microsoft Entra ID】使用 Microsoft Entra ID 保护 Aspire 应用程序</title>
-      <link>https://devblogs.microsoft.com/aspire/securing-dotnet-aspire-apps-with-microsoft-entra-id</link>
-      <description>【[alert type=&#34;important&#34; heading=&#34;About the Author&#34;]This is a guest post from Jean-Marc Prieur from Microsoft&#39;s 1ES (One Engineering System) team. We help reduce developer toil across Microsoft by making it easy to build services that are secure and compliant from the start, for instance with Aspire and Entra ID.[/alert] TL;D】[alert type =“important”heading =“关于作者”]这是来自 Microsoft 1ES（单一工程系统）团队的 Jean-Marc Prieur 的客座帖子。我们从一开始就可以轻松构建安全且合规的服务，例如使用 Aspire 和 Entra ID，从而帮助减少整个 Microsoft 开发人员的辛苦工作。[/alert] TL;D</description>
-      <pubDate>Thu, 05 Feb 2026 18:05:00 +0000</pubDate>
+      <title>【Unlock language-specific rich symbol context using new find_symbol tool】使用新的 find_symbol 工具解锁特定于语言的丰富符号上下文</title>
+      <link>https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool</link>
+      <description>【Refactoring at scale is a time-consuming and error-prone process for developers. In large codebases, developers have relied on manual searches and incremental edits across multiple files to accomplish these tasks. Modern development workflows depend on fast and accurate code navigation to avoid these pitfalls. When developers refactor exist】对于开发人员来说，大规模重构是一个耗时且容易出错的过程。在大型代码库中，开发人员依靠手动搜索和跨多个文件的增量编辑来完成这些任务。现代开发工作流程依赖于快速准确的代码导航来避免这些陷阱。当开发者重构存在时</description>
+      <pubDate>Wed, 11 Feb 2026 15:29:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Must-Know Software Architecture Patterns】必须了解的软件架构模式</title>
+      <link>https://blog.bytebytego.com/p/must-know-software-architecture-patterns</link>
+      <description>【In this article, we will explore the essential architecture patterns that every software engineer should understand.】在本文中，我们将探讨每个软件工程师都应该理解的基本架构模式。</description>
+      <pubDate>Thu, 12 Feb 2026 16:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Architecture Behind Atlas: OpenAI’s New ChatGPT-based Browser】Atlas 背后的架构：OpenAI 全新的基于 ChatGPT 的浏览器</title>
+      <link>https://blog.bytebytego.com/p/the-architecture-behind-atlas-openais</link>
+      <description>【In this article, we learn how the OpenAI Engineering Team built OWL and the technical challenges they faced around rendering and inter-process communication.】在本文中，我们了解 OpenAI 工程团队如何构建 OWL 以及他们在渲染和进程间通信方面面临的技术挑战。</description>
+      <pubDate>Wed, 11 Feb 2026 16:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LinkedIn Built a Next-Gen Service Discovery for 1000s of Services】LinkedIn 如何为数千项服务构建下一代服务发现</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-built-a-next-gen-service</link>
+      <description>【In this article, we learn how LinkedIn built and rolled out Next-Gen Service Discovery, a scalable control plane supporting app containers in multiple programming languages.】在本文中，我们将了解 LinkedIn 如何构建和推出下一代服务发现，这是一个支持多种编程语言的应用程序容器的可扩展控制平面。</description>
+      <pubDate>Tue, 10 Feb 2026 16:30:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Yelp Built “Yelp Assistant”】Yelp 如何构建“Yelp 助手”</title>
       <link>https://blog.bytebytego.com/p/how-yelp-built-yelp-assistant</link>
       <description>【This article walks through what it takes to ship a production-ready AI assistant using Yelp Assistant on business pages as a concrete case study.】本文作为具体案例研究，介绍了如何在业务页面上使用 Yelp Assistant 来发布可投入生产的 AI 助手。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-transformers-architecture-powers</link>
       <description>【In this article, we will look at how the transformer architecture works in a step-by-step manner.】在本文中，我们将逐步了解变压器架构的工作原理。</description>
       <pubDate>Mon, 02 Feb 2026 16:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP200: HTTP/2 over TCP vs HTTP/3 over QUIC】EP200：基于 TCP 的 HTTP/2 与基于 QUIC 的 HTTP/3</title>
-      <link>https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over</link>
-      <description>【HTTP/2 vs HTTP/3 looks like an HTTP upgrade. It&amp;#8217;s actually a transport-layer rethink.】HTTP/2 与 HTTP/3 看起来像是 HTTP 的升级。这实际上是传输层的重新思考。</description>
-      <pubDate>Sat, 31 Jan 2026 16:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to Scale An API】如何扩展 API</title>
-      <link>https://blog.bytebytego.com/p/how-to-scale-an-api</link>
-      <description>【In this article, we will learn how to scale APIs effectively using different strategies.】在本文中，我们将学习如何使用不同的策略有效地扩展 API。</description>
-      <pubDate>Thu, 29 Jan 2026 16:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to Write High-Performance Code】如何编写高性能代码</title>
-      <link>https://blog.bytebytego.com/p/how-to-write-high-performance-code</link>
-      <description>【This article is about that critical 3%, where we&amp;#8217;ll explore how to estimate performance impact, when to measure, what to look for, and practical techniques that work across different programming languages.】本文讨论的是关键的 3%，我们将探讨如何估计性能影响、何时测量、要寻找什么以及跨不同编程语言的实用技术。</description>
-      <pubDate>Wed, 28 Jan 2026 16:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

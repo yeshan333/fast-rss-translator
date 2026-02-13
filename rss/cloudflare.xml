@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Introducing Markdown for Agents】为代理商推出 Markdown</title>
+      <link>https://blog.cloudflare.com/markdown-for-agents/</link>
+      <description>【 The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class citizens. Markdown for Agents automatically converts any HTML page requested from our network to markdown. 】在线发现内容的方式正在发生转变，从传统的搜索引擎转向需要来自为人类构建的网络的结构化数据的人工智能代理。现在不仅要考虑人类访客，还要开始将特工视为一等公民。 Markdown for Agents 会自动将从我们网络请求的任何 HTML 页面转换为 Markdown。</description>
+      <pubDate>Thu, 12 Feb 2026 14:03:12 +0000</pubDate>
+    </item>
+    <item>
       <title>【2025 Q4 DDoS threat report: A record-setting 31.4 Tbps attack caps a year of massive DDoS assaults】2025 年第 4 季度 DDoS 威胁报告：创纪录的 31.4 Tbps 攻击终结了这一年的大规模 DDoS 攻击</title>
       <link>https://blog.cloudflare.com/ddos-threat-report-2025-q4/</link>
       <description>【 The number of DDoS attacks more than doubled in 2025. The network layer is under particular threat as hyper-volumetric attacks grew 700%. 】2025 年，DDoS 攻击数量增加了一倍多。随着超容量攻击增长 700%，网络层受到特别威胁。</description>
@@ -18,7 +24,7 @@
     <item>
       <title>【Google’s AI advantage: why crawler separation is the only path to a fair Internet】谷歌的AI优势：为什么爬虫分离是通往公平互联网的唯一途径</title>
       <link>https://blog.cloudflare.com/uk-google-ai-crawler-policy/</link>
-      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的两用爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
+      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的双用途爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
       <pubDate>Fri, 30 Jan 2026 17:01:04 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
       <description>【 A vulnerability was recently identified in Cloudflare’s automation of certificate validation. Here we explain the vulnerability and outline the steps we’ve taken to mitigate it.  】最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。</description>
       <pubDate>Mon, 19 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Astro is joining Cloudflare】Astro 即将加入 Cloudflare</title>
-      <link>https://blog.cloudflare.com/astro-joins-cloudflare/</link>
-      <description>【 The Astro Technology Company team — the creators of the Astro web framework — is joining Cloudflare. We’re doubling down on making Astro the best framework for content-driven websites, today and in the years to come. 】Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。</description>
-      <pubDate>Fri, 16 Jan 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
