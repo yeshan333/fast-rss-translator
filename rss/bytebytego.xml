@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP202: MCP vs RAG vs AI Agents】EP202：MCP vs RAG vs AI 代理</title>
+      <link>https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents</link>
+      <description>【Everyone is talking about MCP, RAG, and AI Agents. Most people are still mixing them up.】每个人都在谈论 MCP、RAG 和 AI Agent。大多数人仍然把它们搞混了。</description>
+      <pubDate>Sat, 14 Feb 2026 16:30:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【Must-Know Software Architecture Patterns】必须了解的软件架构模式</title>
       <link>https://blog.bytebytego.com/p/must-know-software-architecture-patterns</link>
       <description>【In this article, we will explore the essential architecture patterns that every software engineer should understand.】在本文中，我们将探讨每个软件工程师都应该理解的基本架构模式。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-grab-built-a-vision-llm-to-scan</link>
       <description>【While powerful proprietary Large Language Models (LLMs) were available, they often failed to adequately understand Southeast Asian languages, produced errors and hallucinations, and suffered from high latency.】虽然强大的专有大型语言模型 (LLM) 可用，但它们常常无法充分理解东南亚语言，产生错误和幻觉，并且存在高延迟。</description>
       <pubDate>Tue, 03 Feb 2026 16:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Transformers Architecture Powers Modern LLMs】Transformers 架构如何为现代法学硕士提供动力</title>
-      <link>https://blog.bytebytego.com/p/how-transformers-architecture-powers</link>
-      <description>【In this article, we will look at how the transformer architecture works in a step-by-step manner.】在本文中，我们将逐步了解变压器架构的工作原理。</description>
-      <pubDate>Mon, 02 Feb 2026 16:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,16 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare】通过 ecdysis 摆脱旧代码：Cloudflare 的 Rust 服务优雅重启</title>
+      <link>https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/</link>
+      <description>【 ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source. 】ecdysis 是一个 Rust 库，可实现网络服务的零停机升级。五年来保护了 Cloudflare 的数百万个连接，现在它已开源。</description>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing Markdown for Agents】为代理商推出 Markdown</title>
       <link>https://blog.cloudflare.com/markdown-for-agents/</link>
       <description>【 The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class citizens. Markdown for Agents automatically converts any HTML page requested from our network to markdown. 】在线发现内容的方式正在发生转变，从传统的搜索引擎转向需要来自为人类构建的网络的结构化数据的人工智能代理。现在不仅要考虑人类访客，还要开始将特工视为一等公民。 Markdown for Agents 会自动将从我们网络请求的任何 HTML 页面转换为 Markdown。</description>
-      <pubDate>Thu, 12 Feb 2026 14:03:12 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 14:03:00 +0000</pubDate>
     </item>
     <item>
       <title>【2025 Q4 DDoS threat report: A record-setting 31.4 Tbps attack caps a year of massive DDoS assaults】2025 年第 4 季度 DDoS 威胁报告：创纪录的 31.4 Tbps 攻击终结了这一年的大规模 DDoS 攻击</title>
@@ -24,7 +30,7 @@
     <item>
       <title>【Google’s AI advantage: why crawler separation is the only path to a fair Internet】谷歌的AI优势：为什么爬虫分离是通往公平互联网的唯一途径</title>
       <link>https://blog.cloudflare.com/uk-google-ai-crawler-policy/</link>
-      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的双用途爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
+      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的两用爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
       <pubDate>Fri, 30 Jan 2026 17:01:04 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/route-leak-incident-january-22-2026/</link>
       <description>【 An automated routing policy configuration error caused us to leak some Border Gateway Protocol prefixes unintentionally from a router at our Miami data center. We discuss the impact and the changes we are implementing as a result. 】自动路由策略配置错误导致我们无意中从迈阿密数据中心的路由器泄漏了一些边界网关协议前缀。我们讨论了影响以及我们正在实施的变革。</description>
       <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How we mitigated a vulnerability in Cloudflare’s ACME validation logic】我们如何缓解 Cloudflare ACME 验证逻辑中的漏洞</title>
-      <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
-      <description>【 A vulnerability was recently identified in Cloudflare’s automation of certificate validation. Here we explain the vulnerability and outline the steps we’ve taken to mitigate it.  】最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。</description>
-      <pubDate>Mon, 19 Jan 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

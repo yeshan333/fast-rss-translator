@@ -10,6 +10,24 @@
       <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【DPO Fine-Tuning Using Microsoft Foundry SDK】使用 Microsoft Foundry SDK 进行 DPO 微调</title>
+      <link>https://devblogs.microsoft.com/foundry/dpo-fine-tuning-using-microsoft-foundry-sdk</link>
+      <description>【In the rapidly evolving landscape of large language models (LLMs), achieving precise control over model behavior while maintaining quality has become a critical challenge. While models like GPT-4 demonstrate impressive capabilities, ensuring their outputs align with human preferences—whether for safety, helpfulness, or style—requires sophi】在快速发展的大型语言模型 (LLM) 领域，在保持质量的同时实现对模型行为的精确控制已成为一项关键挑战。虽然像 GPT-4 这样的模型展示了令人印象深刻的功能，但确保它们的输出符合人类偏好（无论是安全性、有用性还是风格）需要复杂的设计</description>
+      <pubDate>Fri, 13 Feb 2026 23:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.26.0-1 Microsoft build now available】Go 1.26.0-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-26-0-1-microsoft-build-now-available</link>
+      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】Microsoft 版本的 Go 新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Fri, 13 Feb 2026 17:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How can I distinguish between the numeric keypad 0 and the top-row 0 in the &lt;CODE&gt;WM_&lt;WBR&gt;CHAR&lt;/CODE&gt; message?】如何区分 &lt;CODE&gt;WM_&lt;WBR&gt;CHAR&lt;/CODE&gt; 消息中的数字键盘 0 和顶行 0？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260213-00/?p=112062</link>
+      <description>【Last time, we looked at how to distinguish the numeric keypad 0 and the top-row 0 in the WM_KEY­DOWN message. We may as well look at th】上次我们研究了如何区分 WM_KEYDOWN 消息中的数字键盘 0 和顶行 0。我们不妨看看</description>
+      <pubDate>Fri, 13 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Microsoft at DevNexus 2026: Practical AI for Real-World Java Development】Microsoft 在 DevNexus 2026 上：用于现实世界 Java 开发的实用 AI</title>
       <link>https://devblogs.microsoft.com/java/microsoft-at-devnexus-2026-practical-ai-for-real-world-java-development</link>
       <description>【Java developers face a tough trifecta: keeping mission-critical systems running, modernizing legacy apps, and weaving AI into real engineering workflows, all without increasing risk. At DevNexus 2026, the Microsoft Java team is tackling these challenges head-on. 】Java 开发人员面临着严峻的三重挑战：保持关键任务系统运行、对遗留应用程序进行现代化改造以及将人工智能融入到实际的工程工作流程中，所有这些都不会增加风险。在 DevNexus 2026 上，Microsoft Java 团队正在正面应对这些挑战。 </description>
@@ -44,24 +62,6 @@
       <link>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta</link>
       <description>【Today we are announcing the beta release of TypeScript 6.0! To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta TypeScript 6.0 is a unique release in that we intend f】今天我们宣布 TypeScript 6.0 测试版发布！要开始使用 Beta 版，您可以使用以下命令通过 npm 获取它： npm install -D typescript@beta TypeScript 6.0 是一个独特的版本，我们打算</description>
       <pubDate>Wed, 11 Feb 2026 18:50:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026】.NET 的 GitHub Copilot 测试将 AI 驱动的单元测试引入 Visual Studio 2026</title>
-      <link>https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio</link>
-      <description>【GitHub Copilot testing for .NET makes it dramatically faster and more convenient to generate high-quality unit tests without leaving your code. Today, we’re excited to announce that this capability is now generally available in Visual Studio 2026 v18.3. This release brings】适用于 .NET 的 GitHub Copilot 测试使您可以更快、更方便地生成高质量的单元测试，而无需留下代码。今天，我们很高兴地宣布，此功能现已在 Visual Studio 2026 v18.3 中全面可用。此次发布带来了</description>
-      <pubDate>Wed, 11 Feb 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Beyond the Prompt - Why and How to Fine-tune Your Own Models】超越提示 - 为什么以及如何微调您自己的模型</title>
-      <link>https://devblogs.microsoft.com/foundry/beyond-the-prompt-why-and-how-to-fine-tune-your-own-models</link>
-      <description>【Large Language Models (LLMs) have reached a point where general intelligence is no longer the bottleneck. The real challenge in enterprise AI systems behavioral alignment ensuring models that produce consistent, reliable, policy-compliant outputs on a scale. Prompt engineering and Retrieval-Augmented Generation (RAG) are powerful but they do n】大型语言模型（LLM）已经达到了通用智能不再是瓶颈的地步。企业人工智能系统行为一致性的真正挑战是确保模型能够大规模地产生一致、可靠、符合政策的输出。即时工程和检索增强生成 (RAG) 很强大，但它们并没有</description>
-      <pubDate>Wed, 11 Feb 2026 17:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlock language-specific rich symbol context using new find_symbol tool】使用新的 find_symbol 工具解锁特定于语言的丰富符号上下文</title>
-      <link>https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool</link>
-      <description>【Refactoring at scale is a time-consuming and error-prone process for developers. In large codebases, developers have relied on manual searches and incremental edits across multiple files to accomplish these tasks. Modern development workflows depend on fast and accurate code navigation to avoid these pitfalls. When developers refactor exist】对于开发人员来说，大规模重构是一个耗时且容易出错的过程。在大型代码库中，开发人员依靠手动搜索和跨多个文件的增量编辑来完成这些任务。现代开发工作流程依赖于快速准确的代码导航来避免这些陷阱。当开发者重构存在时</description>
-      <pubDate>Wed, 11 Feb 2026 15:29:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
