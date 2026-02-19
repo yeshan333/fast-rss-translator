@@ -22,12 +22,6 @@
       <pubDate>Fri, 30 Jan 2026 19:09:35 +0000</pubDate>
     </item>
     <item>
-      <title>宣布推出 AWS 数字主权架构完善的镜头</title>
-      <link>https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/</link>
-      <description></description>
-      <pubDate>Fri, 30 Jan 2026 00:10:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Artera 如何使用 AWS 增强前列腺癌诊断</title>
       <link>https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/</link>
       <description></description>
@@ -62,6 +56,12 @@
       <link>https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/</link>
       <description></description>
       <pubDate>Wed, 26 Nov 2025 16:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用 Amazon API Gateway 构建通往 Amazon Bedrock 的 AI 网关</title>
+      <link>https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/</link>
+      <description></description>
+      <pubDate>Wed, 19 Nov 2025 23:33:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

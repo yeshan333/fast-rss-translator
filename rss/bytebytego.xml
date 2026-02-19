@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【The First 10-Year Evolution of Stripe’s Payments API】Stripe 支付 API 的第一个 10 年演变</title>
+      <link>https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes</link>
+      <description>【In this article, we look at how Stripe&amp;#8217;s payment APIs evolved over the years, the technical challenges they faced, and the engineering decisions that shaped modern payment processing.】在本文中，我们将了解 Stripe 的支付 API 多年来如何发展、它们面临的技术挑战以及塑造现代支付处理的工程决策。</description>
+      <pubDate>Wed, 18 Feb 2026 16:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Cloudflare Eliminates Cold Starts for Serverless Workers】Cloudflare 如何消除无服务器工作人员的冷启动</title>
+      <link>https://blog.bytebytego.com/p/how-cloudflare-eliminates-cold-starts</link>
+      <description>【Cut Code Review Time &amp; Bugs in Half (Sponsored)】将代码审查时间和错误减少一半（赞助）</description>
+      <pubDate>Tue, 17 Feb 2026 16:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How OpenAI Scaled to 800 Million Users With Postgres】OpenAI 如何利用 Postgres 扩展到 8 亿用户</title>
+      <link>https://blog.bytebytego.com/p/how-openai-scaled-to-800-million</link>
+      <description>【In this article, we will look at the challenges OpenAI faced while scaling Postgres and how the team handled the various scenarios.】在本文中，我们将探讨 OpenAI 在扩展 Postgres 时面临的挑战以及团队如何处理各种场景。</description>
+      <pubDate>Mon, 16 Feb 2026 16:30:36 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP202: MCP vs RAG vs AI Agents】EP202：MCP vs RAG vs AI 代理</title>
       <link>https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents</link>
       <description>【Everyone is talking about MCP, RAG, and AI Agents. Most people are still mixing them up.】每个人都在谈论 MCP、RAG 和 AI Agent。大多数人仍然把它们搞混了。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/subscriber-exclusive-become-an-ai</link>
       <description>【Because you&amp;#8217;re part of this newsletter community, you get an exclusive discount not available anywhere else.】因为您是该时事通讯社区的一员，所以您可以获得其他地方所没有的独家折扣。</description>
       <pubDate>Fri, 06 Feb 2026 16:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top Authentication Techniques to Build Secure Applications】构建安全应用程序的顶级身份验证技术</title>
-      <link>https://blog.bytebytego.com/p/top-authentication-techniques-to</link>
-      <description>【In this article, we&amp;#8217;ll explore multiple authentication techniques used in applications and understand their advantages and disadvantages.】在本文中，我们将探讨应用程序中使用的多种身份验证技术，并了解它们的优点和缺点。</description>
-      <pubDate>Thu, 05 Feb 2026 16:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Effective Prompt Engineering】有效的即时工程指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-effective-prompt-engineering</link>
-      <description>【In this article, we will explore different prompting approaches, from simple zero-shot instructions to advanced chain-of-thought reasoning.】在本文中，我们将探索不同的提示方法，从简单的零样本指令到高级的思维链推理。</description>
-      <pubDate>Wed, 04 Feb 2026 16:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Grab Built a Vision LLM to Scan Images】Grab 如何构建视觉法学硕士来扫描图像</title>
-      <link>https://blog.bytebytego.com/p/how-grab-built-a-vision-llm-to-scan</link>
-      <description>【While powerful proprietary Large Language Models (LLMs) were available, they often failed to adequately understand Southeast Asian languages, produced errors and hallucinations, and suffered from high latency.】虽然强大的专有大型语言模型 (LLM) 可用，但它们常常无法充分理解东南亚语言，产生错误和幻觉，并且存在高延迟。</description>
-      <pubDate>Tue, 03 Feb 2026 16:30:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

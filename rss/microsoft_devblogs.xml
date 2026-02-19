@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【DPO Fine-Tuning Using Microsoft Foundry SDK】使用 Microsoft Foundry SDK 进行 DPO 微调</title>
-      <link>https://devblogs.microsoft.com/foundry/dpo-fine-tuning-using-microsoft-foundry-sdk</link>
-      <description>【In the rapidly evolving landscape of large language models (LLMs), achieving precise control over model behavior while maintaining quality has become a critical challenge. While models like GPT-4 demonstrate impressive capabilities, ensuring their outputs align with human preferences—whether for safety, helpfulness, or style—requires sophi】在快速发展的大型语言模型 (LLM) 领域，在保持质量的同时实现对模型行为的精确控制已成为一项关键挑战。虽然像 GPT-4 这样的模型展示了令人印象深刻的功能，但确保它们的输出符合人类偏好（无论是安全性、有用性还是风格）需要复杂的设计</description>
-      <pubDate>Fri, 13 Feb 2026 23:13:44 +0000</pubDate>
+      <title>【Microsoft C++ (MSVC) Build Tools v14.51 Preview Released: How to Opt In】Microsoft C++ (MSVC) 构建工具 v14.51 预览版已发布：如何选择加入</title>
+      <link>https://devblogs.microsoft.com/cppblog/microsoft-c-msvc-build-tools-v14-51-preview-released-how-to-opt-in</link>
+      <description>【Today we are releasing the first preview of the Microsoft C++ (MSVC) Build Tools version 14.51. This update, shipping in the latest Visual Studio 2026 version 18.4 Insiders release, introduces many C++23 conformance changes, bug fixes, and runtime performance improvements. Check out the】今天，我们发布了 Microsoft C++ (MSVC) 构建工具版本 14.51 的第一个预览版。此更新在最新的 Visual Studio 2026 版本 18.4 Insiders 版本中发布，引入了许多 C++23 一致性更改、错误修复和运行时性能改进。查看</description>
+      <pubDate>Thu, 19 Feb 2026 02:37:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.26.0-1 Microsoft build now available】Go 1.26.0-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-26-0-1-microsoft-build-now-available</link>
-      <description>【A new release of the Microsoft build of Go is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】Microsoft 版本的 Go 新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Fri, 13 Feb 2026 17:59:15 +0000</pubDate>
+      <title>【What&#39;s new in Microsoft Foundry | Dec 2025 &amp; Jan 2026】Microsoft Foundry 的新增功能 | 2025 年 12 月 &amp; 2026 年 1 月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-dec-2025-jan-2026</link>
+      <description>【Author&#39;s note: So.. it has been a bit. I have to level with you — I returned from paternity leave in January and between Microsoft Ignite 2025 and present day, things have changed a lot. Without further adieu, here is your monthly (late) drop for all things new with Microsoft Foundry. Expect following ed】作者注：所以..已经有点了。我必须坦白地告诉你——我在一月份休完陪产假回来，从 Microsoft Ignite 2025 到今天，事情发生了很大变化。言归正传，以下是每月（较晚）发布的 Microsoft Foundry 的所有新内容。期待以下编辑</description>
+      <pubDate>Thu, 19 Feb 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I distinguish between the numeric keypad 0 and the top-row 0 in the &lt;CODE&gt;WM_&lt;WBR&gt;CHAR&lt;/CODE&gt; message?】如何区分 &lt;CODE&gt;WM_&lt;WBR&gt;CHAR&lt;/CODE&gt; 消息中的数字键盘 0 和顶行 0？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260213-00/?p=112062</link>
-      <description>【Last time, we looked at how to distinguish the numeric keypad 0 and the top-row 0 in the WM_KEY­DOWN message. We may as well look at th】上次我们研究了如何区分 WM_KEYDOWN 消息中的数字键盘 0 和顶行 0。我们不妨看看</description>
-      <pubDate>Fri, 13 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Python Environments Extension for VS Code】VS Code 的 Python 环境扩展</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2026-release</link>
+      <description>【Introducing the Python Environments Extension for VS Code Python development in VS Code now has a unified, streamlined workflow for managing environments, interpreters, and packages. The Python Environments extension brings consistency and clarity to a part of Python development that has historically been fragmented】引入 VS Code 的 Python 环境扩展 VS Code 中的 Python 开发现在拥有统一、简化的工作流程，用于管理环境、解释器和包。 Python 环境扩展为历史上支离破碎的 Python 开发部分带来了一致性和清晰度</description>
+      <pubDate>Wed, 18 Feb 2026 22:00:22 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft at DevNexus 2026: Practical AI for Real-World Java Development】Microsoft 在 DevNexus 2026 上：用于现实世界 Java 开发的实用 AI</title>
-      <link>https://devblogs.microsoft.com/java/microsoft-at-devnexus-2026-practical-ai-for-real-world-java-development</link>
-      <description>【Java developers face a tough trifecta: keeping mission-critical systems running, modernizing legacy apps, and weaving AI into real engineering workflows, all without increasing risk. At DevNexus 2026, the Microsoft Java team is tackling these challenges head-on. 】Java 开发人员面临着严峻的三重挑战：保持关键任务系统运行、对遗留应用程序进行现代化改造以及将人工智能融入到实际的工程工作流程中，所有这些都不会增加风险。在 DevNexus 2026 上，Microsoft Java 团队正在正面应对这些挑战。 </description>
-      <pubDate>Thu, 12 Feb 2026 21:01:50 +0000</pubDate>
+      <title>【Federating Databases with Data API Builder Chaining】使用 Data API Builder 链接联合数据库</title>
+      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining</link>
+      <description>【For decades, DBAs relied on linked servers to stitch data together. If you needed data from two places, you wired them up and moved on. It worked. It was straightforward. It felt native to SQL. But what if linked servers are not an option? What if policy blocks them? What if one of the systems is not SQL or lives in another cloud? H】几十年来，DBA 依靠链接服务器将数据拼接在一起。如果您需要来自两个地方的数据，您可以将它们连接起来并继续。它起作用了。这很简单。它感觉是 SQL 原生的。但是如果链接服务器不可行怎么办？如果政策阻止他们怎么办？如果其中一个系统不是 SQL 或者位于另一个云中怎么办？ H</description>
+      <pubDate>Wed, 18 Feb 2026 17:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>【Handling Legacy User Settings in SharePoint Framework】处理 SharePoint 框架中的旧用户设置</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/handling-legacy-user-settings-in-sharepoint-framework</link>
-      <description>【Introduction The SharePoint Framework (SPFx) has undergone some important changes in how it handles Entra ID app registration and security models. Here you can find additional details about what w】简介 SharePoint 框架 (SPFx) 在处理 Entra ID 应用程序注册和安全模型的方式方面发生了一些重要变化。在这里您可以找到有关 w 的更多详细信息</description>
-      <pubDate>Thu, 12 Feb 2026 18:25:13 +0000</pubDate>
+      <title>【TFVC Remove Existing Obsolete Policies ASAP】TFVC 尽快删除现有的过时政策</title>
+      <link>https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap</link>
+      <description>【In April 2025, we announced the deprecation schedule for legacy TFVC check-in policies. This change was required due to limitations in how those policies were previously implemented and stored. The old policies have been marked as obsolete, and you can replac】2025 年 4 月，我们宣布了旧版 TFVC 签入政策的弃用时间表。由于之前实施和存储这些策略的方式存在限制，因此需要进行此更改。旧策略已被标记为过时，您可以更换</description>
+      <pubDate>Wed, 18 Feb 2026 16:35:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Build Intelligent Apps with SQL: Join the SQL + AI Datathon】使用 SQL 构建智能应用程序：加入 SQL + AI Datathon</title>
-      <link>https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon</link>
-      <description>【T】时间</description>
-      <pubDate>Thu, 12 Feb 2026 17:35:41 +0000</pubDate>
+      <title>【Could &lt;CODE&gt;Write­Process­Memory&lt;/CODE&gt; be made faster by avoiding the intermediate buffer?】通过避免中间缓冲区可以使 &lt;CODE&gt;WriteProcessMemory&lt;/CODE&gt; 更快吗？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260218-00/?p=112069</link>
+      <description>【A little while ago, we wondered whether Write­Process­Memory was faster than shared memory for transferring data between two processes, and th】不久前，我们想知道在两个进程之间传输数据时，WriteProcessMemory 是否比共享内存更快，并且</description>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I distinguish between the numeric keypad 0 and the top-row 0 in the &lt;CODE&gt;WM_&lt;WBR&gt;KEY­DOWN&lt;/CODE&gt; message?】如何区分 &lt;CODE&gt;WM_&lt;WBR&gt;KEYDOWN&lt;/CODE&gt; 消息中的数字键盘 0 和顶行 0？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260212-00/?p=112059</link>
-      <description>【A customer wanted to know how to distinguish between the numeric keypad 0 and the top-row 0 in the WM_KEY­DOWN message. And while we&#39;re at it, let&#39;s also distinguish between the numeric keypad 0 and the Ins key. We start with this table of what you get in the WM_KEY­DOWN message w】客户想知道如何区分WM_KEYDOWN消息中的数字键盘0和顶行0。在我们讨论这个问题的同时，我们还要区分数字键盘 0 和 Ins 键。我们从这张表开始，列出了您在 WM_KEYDOWN 消息中得到的内容</description>
-      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【PowerShell, OpenSSH, and DSC team investments for 2026】2026 年 PowerShell、OpenSSH 和 DSC 团队投资</title>
+      <link>https://devblogs.microsoft.com/powershell/powershell-openssh-and-dsc-team-investments-for-2026</link>
+      <description>【Team investments for 2026 As is tradition, we are publishing our planned team investments for the year. This is based on our current understanding of customer and community needs, but is subject to change based on emerging priorities throughout the year. Community thanks! Before we dive into the planned investments, I wa】2026 年团队投资 按照惯例，我们将公布今年的团队投资计划。这是基于我们目前对客户和社区需求的理解，但可能会根据全年出现的优先事项而发生变化。社区感谢！在我们深入研究计划投资之前，我</description>
+      <pubDate>Tue, 17 Feb 2026 19:21:34 +0000</pubDate>
     </item>
     <item>
-      <title>【How we built the Microsoft Learn MCP Server】我们如何构建 Microsoft Learn MCP 服务器</title>
-      <link>https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server</link>
-      <description>【When we launched the Microsoft Learn Model Context Protocol (MCP) Server in June 2025, our goal was simple: make it effortless for AI agents to use trusted, up-to-date Microsoft Learn documentation. GitHub Copilot and other agents are increasingly comm】当我们于 2025 年 6 月推出 Microsoft Learn 模型上下文协议 (MCP) 服务器时，我们的目标很简单：让 AI 代理轻松使用值得信赖的最新 Microsoft Learn 文档。 GitHub Copilot 和其他代理越来越多地交流</description>
-      <pubDate>Wed, 11 Feb 2026 19:23:31 +0000</pubDate>
+      <title>【JMESPath support comes to azd JSON output】azd JSON 输出支持 JMESPath</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azd-jmespath-query-support</link>
+      <description>【JMESPath support comes to azd JSON output Now you can filter and transform azd JSON output using JMESPath queries What&#39;s new? The Azure Developer CLI (azd) now supports JMESPath queries on JSON output, including error messages. Pass --query】azd JSON 输出支持 JMESPath 现在您可以使用 JMESPath 查询过滤和转换 azd JSON 输出 有什么新功能？ Azure 开发人员 CLI (azd) 现在支持对 JSON 输出（包括错误消息）进行 JMESPath 查询。通过--查询</description>
+      <pubDate>Tue, 17 Feb 2026 18:19:18 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 6.0 Beta】宣布推出 TypeScript 6.0 Beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta</link>
-      <description>【Today we are announcing the beta release of TypeScript 6.0! To get started using the beta, you can get it through npm with the following command: npm install -D typescript@beta TypeScript 6.0 is a unique release in that we intend f】今天我们宣布 TypeScript 6.0 测试版发布！要开始使用 Beta 版，您可以使用以下命令通过 npm 获取它： npm install -D typescript@beta TypeScript 6.0 是一个独特的版本，我们打算</description>
-      <pubDate>Wed, 11 Feb 2026 18:50:26 +0000</pubDate>
+      <title>【Dear Copilot, can you help me with SQL?】亲爱的 Copilot，你能帮我解决 SQL 问题吗？</title>
+      <link>https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql</link>
+      <description>【Perhaps we missed it at first, but Copilot is more than comfortable with SQL. This goes beyond autocomplete. This is moving from nothing to a working database without leaving our tools. Have we really arrived? Yes, sort of. For database engineers and app engineers alike, we have crossed an important line. Making us more productive i】也许我们一开始就忽略了这一点，但 Copilot 对 SQL 非常熟悉。这超出了自动完成的范围。这就是在不离开我们的工具的情况下从无到有的数据库转变为可工作的数据库。我们真的到了吗？是的，有点像。对于数据库工程师和应用程序工程师来说，我们已经跨越了一条重要的界限。让我们更有生产力</description>
+      <pubDate>Tue, 17 Feb 2026 17:00:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
