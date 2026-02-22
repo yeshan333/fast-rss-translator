@@ -5,6 +5,18 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【System Design Interview: Design Web Crawler and Search Engine】系统设计面试：设计网络爬虫和搜索引擎</title>
+      <link>https://newsletter.systemdesign.one/p/web-crawler-system-design</link>
+      <description>【#124: System Design Interview】＃124：系统设计面试</description>
+      <pubDate>Sat, 21 Feb 2026 11:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Timsort Algorithm - A Deep Dive】Timsort 算法 - 深入探讨</title>
+      <link>https://newsletter.systemdesign.one/p/timsort-algorithm</link>
+      <description>【#123: The Fastest Real-World Sorting Algorithm】#123：现实世界中最快的排序算法</description>
+      <pubDate>Thu, 19 Feb 2026 11:20:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【I struggled with system design until I learned these 114 concepts】我在系统设计上很挣扎，直到我学会了这 114 个概念</title>
       <link>https://newsletter.systemdesign.one/p/system-design-core-concepts</link>
       <description>【#122: Part 2 - websockets, gateway, distributed cache, and 35 others.】#122：第 2 部分 - websockets、网关、分布式缓存和其他 35 个。</description>
@@ -51,18 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/computer-science-101</link>
       <description>【#115: Fifty-one visuals that show how everything connects in computer science from the ground up】#115：五十一个视觉效果展示了计算机科学中的一切如何从头开始相互联系</description>
       <pubDate>Sat, 24 Jan 2026 10:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Payment System Handles 30 Million Transactions Per Day】Uber 支付系统如何处理每天 3000 万笔交易</title>
-      <link>https://newsletter.systemdesign.one/p/payment-system-design</link>
-      <description>【#114: Payment System Design - Part 1】#114：支付系统设计 - 第 1 部分</description>
-      <pubDate>Tue, 20 Jan 2026 11:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【System Design Interview: Design Airbnb】系统设计访谈：设计 Airbnb</title>
-      <link>https://newsletter.systemdesign.one/p/airbnb-system-design</link>
-      <description>【#113: System Design Interview】＃113：系统设计面试</description>
-      <pubDate>Thu, 15 Jan 2026 10:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

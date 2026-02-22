@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft C++ (MSVC) Build Tools v14.51 Preview Released: How to Opt In】Microsoft C++ (MSVC) 构建工具 v14.51 预览版已发布：如何选择加入</title>
-      <link>https://devblogs.microsoft.com/cppblog/microsoft-c-msvc-build-tools-v14-51-preview-released-how-to-opt-in</link>
-      <description>【Today we are releasing the first preview of the Microsoft C++ (MSVC) Build Tools version 14.51. This update, shipping in the latest Visual Studio 2026 version 18.4 Insiders release, introduces many C++23 conformance changes, bug fixes, and runtime performance improvements. Check out the】今天，我们发布了 Microsoft C++ (MSVC) 构建工具版本 14.51 的第一个预览版。此更新在最新的 Visual Studio 2026 版本 18.4 Insiders 版本中发布，引入了许多 C++23 一致性更改、错误修复和运行时性能改进。查看</description>
-      <pubDate>Thu, 19 Feb 2026 02:37:48 +0000</pubDate>
+      <title>【Light up Multiple Databases with a Single API with Data API builder&#39;s multi-source configuration】通过数据 API 构建器的多源配置，通过单个 API 点亮多个数据库</title>
+      <link>https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder</link>
+      <description>【Data API builder (DAB) supports multi-source configurations Data API builder (DAB) connects to your database with a safe REST or GraphQL endpoint. But DAB is not limited to just one database. Using a multi-source configuration, you can connect to more than one database simultaneously. Learn more about Data A】数据 API 构建器 (DAB) 支持多源配置 数据 API 构建器 (DAB) 使用安全的 REST 或 GraphQL 端点连接到您的数据库。但 DAB 并不仅限于一种数据库。使用多源配置，您可以同时连接到多个数据库。了解有关数据 A 的更多信息</description>
+      <pubDate>Fri, 20 Feb 2026 17:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new in Microsoft Foundry | Dec 2025 &amp; Jan 2026】Microsoft Foundry 的新增功能 | 2025 年 12 月 &amp; 2026 年 1 月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-dec-2025-jan-2026</link>
-      <description>【Author&#39;s note: So.. it has been a bit. I have to level with you — I returned from paternity leave in January and between Microsoft Ignite 2025 and present day, things have changed a lot. Without further adieu, here is your monthly (late) drop for all things new with Microsoft Foundry. Expect following ed】作者注：所以..已经有点了。我必须坦白地告诉你——我在一月份休完陪产假回来，从 Microsoft Ignite 2025 到今天，事情发生了很大变化。言归正传，以下是每月（较晚）发布的 Microsoft Foundry 的所有新内容。期待以下编辑</description>
-      <pubDate>Thu, 19 Feb 2026 01:01:09 +0000</pubDate>
+      <title>【The 2026/2027 Seattle Symphony subscription season at a glance】2026/2027 西雅图交响乐团订阅季一览</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076</link>
+      <description>【For two decades, I&#39;ve】二十年来，我</description>
+      <pubDate>Fri, 20 Feb 2026 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>【Python Environments Extension for VS Code】VS Code 的 Python 环境扩展</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2026-release</link>
-      <description>【Introducing the Python Environments Extension for VS Code Python development in VS Code now has a unified, streamlined workflow for managing environments, interpreters, and packages. The Python Environments extension brings consistency and clarity to a part of Python development that has historically been fragmented】引入 VS Code 的 Python 环境扩展 VS Code 中的 Python 开发现在拥有统一、简化的工作流程，用于管理环境、解释器和包。 Python 环境扩展为历史上支离破碎的 Python 开发部分带来了一致性和清晰度</description>
-      <pubDate>Wed, 18 Feb 2026 22:00:22 +0000</pubDate>
+      <title>【Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt】自定义对话框管理器自行关闭的方式：检测 ESC 键，第一次（失败）尝试</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074</link>
+      <description>【Suppose you want to distinguish between dismissing a dialog by pressing ESC and dismissing a dialog by clicking the Close button. One suggestion I saw was to call Get­Async­Key­State(VK_ESCAPE) to check whether the ESC is down. In general, any time you see Get­Async­Key­St】假设您想要区分通过按 ESC 关闭对话框和通过单击“关闭”按钮关闭对话框。我看到的一个建议是调用 GetAsyncKeyState(VK_ESCAPE) 来检查 ESC 是否已关闭。一般来说，任何时候您看到 GetAsyncKeySt</description>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Federating Databases with Data API Builder Chaining】使用 Data API Builder 链接联合数据库</title>
-      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining</link>
-      <description>【For decades, DBAs relied on linked servers to stitch data together. If you needed data from two places, you wired them up and moved on. It worked. It was straightforward. It felt native to SQL. But what if linked servers are not an option? What if policy blocks them? What if one of the systems is not SQL or lives in another cloud? H】几十年来，DBA 依靠链接服务器将数据拼接在一起。如果您需要来自两个地方的数据，您可以将它们连接起来并继续。它起作用了。这很简单。它感觉是 SQL 原生的。但是如果链接服务器不可行怎么办？如果政策阻止他们怎么办？如果其中一个系统不是 SQL 或者位于另一个云中怎么办？ H</description>
-      <pubDate>Wed, 18 Feb 2026 17:00:17 +0000</pubDate>
+      <title>【Using Codes to Increase Adherence to Prompts】使用代码来提高对提示的遵守程度</title>
+      <link>https://devblogs.microsoft.com/ise/using-codes-to-increase-adherence-to-prompts</link>
+      <description>【Introduction: The Problem Agentic systems have some discretion in the parameters they send to tooling, but there are cases, such as experimentation, when you need 100% adherence to a set of parameters. In practice, this tension exists because modern LLM-based agents are optimized for semantic correctness and helpfulness, not for s】简介：问题代理系统在发送给工具的参数方面有一定的自由裁量权，但在某些情况下，例如实验，您需要 100% 遵守一组参数。在实践中，这种张力的存在是因为现代基于 LLM 的代理针对语义正确性和有用性进行了优化，而不是针对s</description>
+      <pubDate>Fri, 20 Feb 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【TFVC Remove Existing Obsolete Policies ASAP】TFVC 尽快删除现有的过时政策</title>
-      <link>https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap</link>
-      <description>【In April 2025, we announced the deprecation schedule for legacy TFVC check-in policies. This change was required due to limitations in how those policies were previously implemented and stored. The old policies have been marked as obsolete, and you can replac】2025 年 4 月，我们宣布了旧版 TFVC 签入政策的弃用时间表。由于之前实施和存储这些策略的方式存在限制，因此需要进行此更改。旧策略已被标记为过时，您可以更换</description>
-      <pubDate>Wed, 18 Feb 2026 16:35:23 +0000</pubDate>
+      <title>【Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate】将您的语义内核和 AutoGen 项目迁移到 Microsoft Agent Framework 候选版本</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate</link>
+      <description>【We&#39;re thrilled to announce that Microsoft Agent Framework has reached Release Candidate status for both .NET and】我们很高兴地宣布 Microsoft Agent Framework 已达到 .NET 和 .NET 的候选版本状态</description>
+      <pubDate>Fri, 20 Feb 2026 05:52:57 +0000</pubDate>
     </item>
     <item>
-      <title>【Could &lt;CODE&gt;Write­Process­Memory&lt;/CODE&gt; be made faster by avoiding the intermediate buffer?】通过避免中间缓冲区可以使 &lt;CODE&gt;WriteProcessMemory&lt;/CODE&gt; 更快吗？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260218-00/?p=112069</link>
-      <description>【A little while ago, we wondered whether Write­Process­Memory was faster than shared memory for transferring data between two processes, and th】不久前，我们想知道在两个进程之间传输数据时，WriteProcessMemory 是否比共享内存更快，并且</description>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Microsoft Agent Framework Reaches Release Candidate】Microsoft Agent 框架发布候选版本</title>
+      <link>https://devblogs.microsoft.com/foundry/microsoft-agent-framework-reaches-release-candidate</link>
+      <description>【We&#39;re happy to announce that Microsoft Agent Framework is now in Release Candidate status for both .NET and Python. Release Candidate is an important milestone on the road to General Availability — it means the A】我们很高兴地宣布，Microsoft Agent Framework 现在处于 .NET 和 Python 的候选版本状态。候选版本是通用化道路上的一个重要里程碑——它意味着 A</description>
+      <pubDate>Fri, 20 Feb 2026 05:51:29 +0000</pubDate>
     </item>
     <item>
-      <title>【PowerShell, OpenSSH, and DSC team investments for 2026】2026 年 PowerShell、OpenSSH 和 DSC 团队投资</title>
-      <link>https://devblogs.microsoft.com/powershell/powershell-openssh-and-dsc-team-investments-for-2026</link>
-      <description>【Team investments for 2026 As is tradition, we are publishing our planned team investments for the year. This is based on our current understanding of customer and community needs, but is subject to change based on emerging priorities throughout the year. Community thanks! Before we dive into the planned investments, I wa】2026 年团队投资 按照惯例，我们将公布今年的团队投资计划。这是基于我们目前对客户和社区需求的理解，但可能会根据全年出现的优先事项而发生变化。社区感谢！在我们深入研究计划投资之前，我</description>
-      <pubDate>Tue, 17 Feb 2026 19:21:34 +0000</pubDate>
+      <title>【Custom Agents in Visual Studio: Built in and Build-Your-Own agents】Visual Studio 中的自定义代理：内置和构建您自己的代理</title>
+      <link>https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents</link>
+      <description>【Agents in Visual Studio now go beyond a single general-purpose assistant. We&#39;re shipping a set of curated preset agents that tap into deep IDE capabilities; debugging, profiling, testing alongside a framework for building your own custom agents tailored to how your team works. Built in agents Each preset agent is designed around a s】Visual Studio 中的代理现在不再是单一的通用助手。我们正在提供一组精心设计的预设代理，可利用深度 IDE 功能；调试、分析、测试以及框架，用于构建适合您团队工作方式的自定义代理。内置代理 每个预设代理都是围绕一个 s 设计的</description>
+      <pubDate>Thu, 19 Feb 2026 21:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>【JMESPath support comes to azd JSON output】azd JSON 输出支持 JMESPath</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-jmespath-query-support</link>
-      <description>【JMESPath support comes to azd JSON output Now you can filter and transform azd JSON output using JMESPath queries What&#39;s new? The Azure Developer CLI (azd) now supports JMESPath queries on JSON output, including error messages. Pass --query】azd JSON 输出支持 JMESPath 现在您可以使用 JMESPath 查询过滤和转换 azd JSON 输出 有什么新功能？ Azure 开发人员 CLI (azd) 现在支持对 JSON 输出（包括错误消息）进行 JMESPath 查询。通过--查询</description>
-      <pubDate>Tue, 17 Feb 2026 18:19:18 +0000</pubDate>
+      <title>【C++ symbol context and CMake build configuration awareness for GitHub Copilot in VS Code】VS Code 中 GitHub Copilot 的 C++ 符号上下文和 CMake 构建配置感知</title>
+      <link>https://devblogs.microsoft.com/cppblog/c-symbol-context-and-cmake-build-configuration-awareness-for-github-copilot-in-vs-code</link>
+      <description>【C++ code navigation and build system tooling play an important role in the developer inner-loop. Code navigation tooling provides a precise, semantic understanding of your codebase, while build system tooling helps you express build configurations and variants for reproducible builds. In the VS Code ecosystem, these powerful capabilities are a】C++ 代码导航和构建系统工具在开发人员内循环中发挥着重要作用。代码导航工具提供对代码库的精确语义理解，而构建系统工具可帮助您表达可重现构建的构建配置和变体。在 VS Code 生态系统中，这些强大的功能是</description>
+      <pubDate>Thu, 19 Feb 2026 16:13:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Dear Copilot, can you help me with SQL?】亲爱的 Copilot，你能帮我解决 SQL 问题吗？</title>
-      <link>https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql</link>
-      <description>【Perhaps we missed it at first, but Copilot is more than comfortable with SQL. This goes beyond autocomplete. This is moving from nothing to a working database without leaving our tools. Have we really arrived? Yes, sort of. For database engineers and app engineers alike, we have crossed an important line. Making us more productive i】也许我们一开始就忽略了这一点，但 Copilot 对 SQL 非常熟悉。这超出了自动完成的范围。这就是在不离开我们的工具的情况下从无到有的数据库转变为可工作的数据库。我们真的到了吗？是的，有点像。对于数据库工程师和应用程序工程师来说，我们已经跨越了一条重要的界限。让我们更有生产力</description>
-      <pubDate>Tue, 17 Feb 2026 17:00:59 +0000</pubDate>
+      <title>【Exploring the signals the dialog manager uses for dismissing a dialog】探索对话框管理器用于关闭对话框的信号</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072</link>
+      <description>【There are a few different built-in ways to close a dialog box in the classic Windows dialog manager. Let&#39;s run them down. First, there&#39;s hitting the ESC key. The ESC key, as with all keyboard navigation, is handled by the Is­Dialog­Message function. Assuming that the dialog control with f】在经典的 Windows 对话框管理器中，有几种不同的内置方法可以关闭对话框。让我们把他们打倒吧。首先，按下 ESC 键。与所有键盘导航一样，ESC 键由 IsDialogMessage 函数处理。假设对话框控件带有f</description>
+      <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

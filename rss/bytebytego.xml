@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP203: RabbitMQ vs Kafka vs Pulsar】EP203：RabbitMQ、Kafka、Pulsar</title>
+      <link>https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar</link>
+      <description>【RabbitMQ, Kafka, and Pulsar all move messages, but they solve very different problems under the hood.】RabbitMQ、Kafka 和 Pulsar 都会移动消息，但它们在底层解决的问题却截然不同。</description>
+      <pubDate>Sat, 21 Feb 2026 16:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4】最后报名：成为人工智能工程师 - 第 4 组</title>
+      <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an</link>
+      <description>【Enrollment for our upcoming Become an AI Engineer - Cohort 4 is closing soon, and classes officially begin on February 21.】我们即将推出的“成为人工智能工程师 - 第 4 组”的报名即将结束，课程将于 2 月 21 日正式开始。</description>
+      <pubDate>Fri, 20 Feb 2026 16:31:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Eventual Consistency: The Key Trade-Off Behind Modern Databases】最终一致性：现代数据库背后的关键权衡</title>
+      <link>https://blog.bytebytego.com/p/eventual-consistency-the-key-trade</link>
+      <description>【In this article, we will look at what eventual consistency is, why it exists, how to control it, and how to handle the challenges it creates.】在本文中，我们将了解什么是最终一致性、它为何存在、如何控制它以及如何应对它带来的挑战。</description>
+      <pubDate>Thu, 19 Feb 2026 16:30:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【The First 10-Year Evolution of Stripe’s Payments API】Stripe 支付 API 的第一个 10 年演变</title>
       <link>https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes</link>
       <description>【In this article, we look at how Stripe&amp;#8217;s payment APIs evolved over the years, the technical challenges they faced, and the engineering decisions that shaped modern payment processing.】在本文中，我们将了解 Stripe 的支付 API 多年来如何发展、它们面临的技术挑战以及塑造现代支付处理的工程决策。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-linkedin-built-a-next-gen-service</link>
       <description>【In this article, we learn how LinkedIn built and rolled out Next-Gen Service Discovery, a scalable control plane supporting app containers in multiple programming languages.】在本文中，我们将了解 LinkedIn 如何构建和推出下一代服务发现，这是一个支持多种编程语言的应用程序容器的可扩展控制平面。</description>
       <pubDate>Tue, 10 Feb 2026 16:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Yelp Built “Yelp Assistant”】Yelp 如何构建“Yelp 助手”</title>
-      <link>https://blog.bytebytego.com/p/how-yelp-built-yelp-assistant</link>
-      <description>【This article walks through what it takes to ship a production-ready AI assistant using Yelp Assistant on business pages as a concrete case study.】本文作为具体案例研究，介绍了如何在业务页面上使用 Yelp Assistant 来发布可投入生产的 AI 助手。</description>
-      <pubDate>Mon, 09 Feb 2026 16:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP201: The Evolution of AI in Software Development】EP201：人工智能在软件开发中的演变</title>
-      <link>https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software</link>
-      <description>【AI has fundamentally changed how engineers code. This shift can be described in three waves.】人工智能从根本上改变了工程师的编码方式。这种转变可以用三个浪潮来描述。</description>
-      <pubDate>Sat, 07 Feb 2026 16:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【[Subscriber Exclusive] Become an AI Engineer - Cohort 4】[订阅者独家] 成为人工智能工程师 - 第 4 组</title>
-      <link>https://blog.bytebytego.com/p/subscriber-exclusive-become-an-ai</link>
-      <description>【Because you&amp;#8217;re part of this newsletter community, you get an exclusive discount not available anywhere else.】因为您是该时事通讯社区的一员，所以您可以获得其他地方所没有的独家折扣。</description>
-      <pubDate>Fri, 06 Feb 2026 16:31:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
