@@ -4,6 +4,18 @@
     <link></link>
     <description>eBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading a kernel module.</description>
     <item>
+      <title>【How Nutanix AHV Uses eBPF for vNIC-IP Mapping】Nutanix AHV 如何使用 eBPF 进行 vNIC-IP 映射</title>
+      <link>https://www.nutanix.com/tech-center/blog/how-nutanix-ahv-uses-ebpf-for-vnic-ip-mapping</link>
+      <description>【Nutanix AVH leverages eBPF and Ring Buffer for timely and accurate vNIC-to-IP association】Nutanix AVH 利用 eBPF 和环形缓冲区实现及时、准确的 vNIC 到 IP 关联</description>
+      <pubDate>Thu, 29 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Hardening eBPF for runtime security: Lessons from Datadog Workload Protection】强化 eBPF 以实现运行时安全：Datadog 工作负载保护的经验教训</title>
+      <link>https://www.datadoghq.com/blog/engineering/ebpf-workload-protection-lessons/</link>
+      <description>【Why Datadog chose eBPF for Workload Protection and lessons learned from implementation】为什么 Datadog 选择 eBPF 进行工作负载保护以及实施过程中吸取的经验教训</description>
+      <pubDate>Wed, 07 Jan 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Community Built! Results from eBPF Summit: Hackathon Edition 2025】社区建设！ eBPF 峰会结果：2025 年黑客马拉松版</title>
       <link>https://isovalent.com/blog/post/ebpf-summit-hackathon-edition-2025/</link>
       <description>【Read about the winning projects of the hackathon and the new eBPF trends!】了解黑客马拉松的获奖项目和新的 eBPF 趋势！</description>
@@ -50,18 +62,6 @@
       <link>https://ebpf.io/blog/support-for-tolkien-ring</link>
       <description>【eBPF revives Tolkien Ring, proving even ancient networks can be rebuilt better】eBPF 复兴了托尔金环，证明即使是古老的网络也可以更好地重建</description>
       <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What If CI/CD Pipelines Had Built-in Security and Observability with eBPF?】如果 CI/CD 管道通过 eBPF 具有内置安全性和可观察性会怎样？</title>
-      <link>https://ebpfchirp.substack.com/p/what-if-cicd-pipelines-had-built</link>
-      <description>【Learn how eBPF can add real-time security and observability to CI/CD pipelines like GitHub Actions, helping detect exploits and optimize workflows execution time.】了解 eBPF 如何为 GitHub Actions 等 CI/CD 管道添加实时安全性和可观察性，帮助检测漏洞并优化工作流程执行时间。</description>
-      <pubDate>Thu, 27 Mar 2025 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Case Study: Polar Signals Uses eBPF to Monitor Internal Cross-Zone Network Traffic on Kubernetes, Reducing These Operating Costs by 50%】案例研究：Polar Signals 使用 eBPF 监控 Kubernetes 上的内部跨区域网络流量，将运营成本降低 50%</title>
-      <link>https://ebpf.foundation/case-study-polar-signals-uses-ebpf-to-monitor-internal-cross-zone-network-traffic-on-kubernetes-reducing-these-operating-costs-by-50/</link>
-      <description>【Polar Signals developed kubezonnet, an open source project designed to monitor and measure cross-zone network traffic in Kubernetes clusters. The solution leverages eBPF to trace network packets and aggregate traffic data.】Polar Signals 开发了 kubezonnet，这是一个开源项目，旨在监控和测量 Kubernetes 集群中的跨区域网络流量。该解决方案利用 eBPF 来跟踪网络数据包并聚合流量数据。</description>
-      <pubDate>Thu, 16 Jan 2025 09:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

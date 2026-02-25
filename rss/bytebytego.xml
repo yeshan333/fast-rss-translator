@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Uber Reinvented Access Control for Microservices】Uber 如何重塑微服务的访问控制</title>
+      <link>https://blog.bytebytego.com/p/how-uber-reinvented-access-control</link>
+      <description>【In this article, we will look at how the Uber engineering team built Charter and the challenges they faced.】在本文中，我们将了解 Uber 工程团队如何构建 Charter 以及他们面临的挑战。</description>
+      <pubDate>Tue, 24 Feb 2026 16:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Large Language Models Learn】大型语言模型如何学习</title>
+      <link>https://blog.bytebytego.com/p/how-large-language-models-learn</link>
+      <description>【In this article, we&amp;#8217;ll explore three core concepts that have a key impact on the working of LLM】在本文中，我们将探讨对法学硕士的工作产生关键影响的三个核心概念</description>
+      <pubDate>Mon, 23 Feb 2026 16:30:39 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP203: RabbitMQ vs Kafka vs Pulsar】EP203：RabbitMQ、Kafka、Pulsar</title>
       <link>https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar</link>
       <description>【RabbitMQ, Kafka, and Pulsar all move messages, but they solve very different problems under the hood.】RabbitMQ、Kafka 和 Pulsar 都会移动消息，但它们在底层解决的问题却截然不同。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/must-know-software-architecture-patterns</link>
       <description>【In this article, we will explore the essential architecture patterns that every software engineer should understand.】在本文中，我们将探讨每个软件工程师都应该理解的基本架构模式。</description>
       <pubDate>Thu, 12 Feb 2026 16:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Architecture Behind Atlas: OpenAI’s New ChatGPT-based Browser】Atlas 背后的架构：OpenAI 全新的基于 ChatGPT 的浏览器</title>
-      <link>https://blog.bytebytego.com/p/the-architecture-behind-atlas-openais</link>
-      <description>【In this article, we learn how the OpenAI Engineering Team built OWL and the technical challenges they faced around rendering and inter-process communication.】在本文中，我们了解 OpenAI 工程团队如何构建 OWL 以及他们在渲染和进程间通信方面面临的技术挑战。</description>
-      <pubDate>Wed, 11 Feb 2026 16:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How LinkedIn Built a Next-Gen Service Discovery for 1000s of Services】LinkedIn 如何为数千项服务构建下一代服务发现</title>
-      <link>https://blog.bytebytego.com/p/how-linkedin-built-a-next-gen-service</link>
-      <description>【In this article, we learn how LinkedIn built and rolled out Next-Gen Service Discovery, a scalable control plane supporting app containers in multiple programming languages.】在本文中，我们将了解 LinkedIn 如何构建和推出下一代服务发现，这是一个支持多种编程语言的应用程序容器的可扩展控制平面。</description>
-      <pubDate>Tue, 10 Feb 2026 16:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
