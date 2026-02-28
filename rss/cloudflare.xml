@@ -4,6 +4,36 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Toxic combinations: when small signals add up to a security incident】有毒组合：当小信号累积起来导致安全事件时</title>
+      <link>https://blog.cloudflare.com/toxic-combinations-security/</link>
+      <description>【 Minor misconfigurations or request anomalies often seem harmless in isolation. But when these small signals converge, they can trigger a security incident known as a toxic combination. Here’s how to spot the signs.  】轻微的配置错误或请求异常通常看起来是无害的。但当这些小信号汇聚在一起时，它们可能会引发被称为有毒组合的安全事件。以下是如何发现这些迹象。</description>
+      <pubDate>Fri, 27 Feb 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ASPA: making Internet routing more secure】ASPA：使互联网路由更加安全</title>
+      <link>https://blog.cloudflare.com/aspa-secure-internet/</link>
+      <description>【 ASPA is the cryptographic upgrade for BGP that helps prevent route leaks by verifying the path network traffic takes. New features in Cloudflare Radar make tracking its adoption easy. 】ASPA 是 BGP 的加密升级，可通过验证网络流量所采用的路径来帮助防止路由泄漏。 Cloudflare Radar 的新功能使跟踪其采用情况变得容易。</description>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【We deserve a better streams API for JavaScript】我们应该有一个更好的 JavaScript 流 API</title>
+      <link>https://blog.cloudflare.com/a-better-web-streams-api/</link>
+      <description>【 The Web streams API has become ubiquitous in JavaScript runtimes but was designed for a different era. Here&#39;s what a modern streaming API could (should?) look like. 】Web 流 API 在 JavaScript 运行时中已经无处不在，但它是为不同的时代而设计的。这是现代流 API 可能（应该？）的样子。</description>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Bringing more transparency to post-quantum usage, encrypted messaging, and routing security】为后量子使用、加密消息传递和路由安全带来更多透明度</title>
+      <link>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</link>
+      <description>【 Cloudflare Radar has added new tools for monitoring PQ adoption, KT logs for messaging, and ASPA routing records to track the Internet&#39;s migration toward more secure encryption and routing standards.  】Cloudflare Radar 添加了用于监控 PQ 采用情况的新工具、用于消息传递的 KT 日志以及 ASPA 路由记录，以跟踪互联网向更安全的加密和路由标准的迁移。</description>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages】互联网上最常见的用户界面？重新设计十字转门和挑战页面</title>
+      <link>https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/</link>
+      <description>【 We serve 7.6 billion challenges daily. Here’s how we used research, AAA accessibility standards, and a unified architecture to redesign the Internet’s most-seen user interface. 】我们每天应对 76 亿个挑战。以下是我们如何利用研究、AAA 可访问性标准和统一架构来重新设计互联网最常见的用户界面。</description>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【How we rebuilt Next.js with AI in one week】我们如何在一周内用 AI 重建 Next.js</title>
       <link>https://blog.cloudflare.com/vinext/</link>
       <description>【 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command. 】一位工程师使用 AI 在一周内在 Vite 上重建了 Next.js。 vinext 的构建速度提高了 4 倍，生成的捆绑包体积缩小了 57%，并通过单个命令部署到 Cloudflare Workers。</description>
@@ -24,7 +54,7 @@
     <item>
       <title>【Code Mode: give agents an entire API in 1,000 tokens】代码模式：以 1,000 个代币为代理提供完整的 API</title>
       <link>https://blog.cloudflare.com/code-mode-mcp/</link>
-      <description>【 The Cloudflare API has over 2,500 endpoints. Exposing each one as an MCP tool would consume over 2 million tokens. With Code Mode, we collapsed all of it into two tools and roughly 1,000 tokens of context.&#xA; 】Cloudflare API 拥有超过 2,500 个端点。将每个工具公开为 MCP 工具将消耗超过 200 万个代币。通过代码模式，我们将所有内容折叠成两个工具和大约 1,000 个上下文标记。</description>
+      <description>【 The Cloudflare API has over 2,500 endpoints. Exposing each one as an MCP tool would consume over 2 million tokens. With Code Mode, we collapsed all of it into two tools and roughly 1,000 tokens of context. 】Cloudflare API 拥有超过 2,500 个端点。将每个工具公开为 MCP 工具将消耗超过 200 万个代币。通过代码模式，我们将所有内容折叠成两个工具和大约 1,000 个上下文标记。</description>
       <pubDate>Fri, 20 Feb 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
@@ -32,36 +62,6 @@
       <link>https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/</link>
       <description>【 ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source. 】ecdysis 是一个 Rust 库，可实现网络服务的零停机升级。五年来保护了 Cloudflare 的数百万个连接，现在它已开源。</description>
       <pubDate>Fri, 13 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Markdown for Agents】为代理商推出 Markdown</title>
-      <link>https://blog.cloudflare.com/markdown-for-agents/</link>
-      <description>【 The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class citizens. Markdown for Agents automatically converts any HTML page requested from our network to markdown. 】在线发现内容的方式正在发生转变，从传统的搜索引擎转向需要来自为人类构建的网络的结构化数据的人工智能代理。现在不仅要考虑人类访客，还要开始将特工视为一等公民。 Markdown for Agents 会自动将从我们网络请求的任何 HTML 页面转换为 Markdown。</description>
-      <pubDate>Thu, 12 Feb 2026 14:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【2025 Q4 DDoS threat report: A record-setting 31.4 Tbps attack caps a year of massive DDoS assaults】2025 年第 4 季度 DDoS 威胁报告：创纪录的 31.4 Tbps 攻击终结了这一年的大规模 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/ddos-threat-report-2025-q4/</link>
-      <description>【 The number of DDoS attacks more than doubled in 2025. The network layer is under particular threat as hyper-volumetric attacks grew 700%. 】2025 年，DDoS 攻击数量增加了一倍多。随着超容量攻击增长 700%，网络层受到特别威胁。</description>
-      <pubDate>Thu, 05 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improve global upload performance with R2 Local Uploads】使用 R2 本地上传提高全局上传性能</title>
-      <link>https://blog.cloudflare.com/r2-local-uploads/</link>
-      <description>【 Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.  】R2 上的本地上传可将上传请求持续时间缩短高达 75%。它将对象数据写入附近的位置并将其异步复制到您的存储桶，同时数据立即可用。</description>
-      <pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Google’s AI advantage: why crawler separation is the only path to a fair Internet】谷歌的AI优势：为什么爬虫分离是通往公平互联网的唯一途径</title>
-      <link>https://blog.cloudflare.com/uk-google-ai-crawler-policy/</link>
-      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的两用爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
-      <pubDate>Fri, 30 Jan 2026 17:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building vertical microfrontends on Cloudflare’s platform】在 Cloudflare 平台上构建垂直微前端</title>
-      <link>https://blog.cloudflare.com/vertical-microfrontends/</link>
-      <description>【 Deploy multiple Workers under a single domain with the ability to make them feel like single-page applications. We take a look at how service bindings enable URL path routing to multiple projects. 】在单个域下部署多个 Worker，能够使它们感觉像单页应用程序。我们来看看服务绑定如何启用 URL 路径路由到多个项目。</description>
-      <pubDate>Fri, 30 Jan 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

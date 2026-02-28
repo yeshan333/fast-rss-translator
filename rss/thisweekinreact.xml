@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #270: Next.js, React Router, TanStack, Ink, Async, AI | Hermes, React Navigation, CSS Grid, Maestro, QuickPush, Screens, Expo Skills, Async Storage | Node, Oxfmt, TypeScript, Border Shape, Sprites】本周 React #270：Next.js、React Router、TanStack、Ink、异步、AI | Hermes、React 导航、CSS 网格、Maestro、QuickPush、屏幕、Expo 技能、异步存储 |节点、Oxfmt、TypeScript、边框形状、精灵</title>
+      <link>https://thisweekinreact.com/newsletter/270</link>
+      <description>【Hello everyone, Krzysztof and Kacper from Software Mansion here 👋】大家好，这里是 Software Mansion 的 Krzysztof 和 Kacper 👋</description>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #269: State of React, TanStack, Next.js, Tailwind, Base UI, Doctor | Hermes, Sparkling, Yoga, Enriched, Voltra, AI | Interop, Electrobun, Module Federation, Biome, pnpm】本周 React #269：React 状态、TanStack、Next.js、Tailwind、Base UI、Doctor | Hermes、Sparkling、Yoga、Enriched、Voltra、AI | Interop、Electrobun、模块联盟、Biome、pnpm</title>
       <link>https://thisweekinreact.com/newsletter/269</link>
       <description>【Hi everyone!】大家好！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/266</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #265: React Skills, json-render, ViewTransition, Base UI, shadcn, Store, Apollo, MDX, GTK | RN Windows/macOS/Harmony, Brownie, Enriched, Navigation, Teleport, Nitro | TC39, Astro, jQuery, Node.js】本周 React #265：React 技能、json-render、ViewTransition、Base UI、shadcn、Store、Apollo、MDX、GTK | RN Windows/macOS/Harmony、布朗尼、丰富、导航、传送、硝基 | TC39、Astro、jQuery、Node.js</title>
-      <link>https://thisweekinreact.com/newsletter/265</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

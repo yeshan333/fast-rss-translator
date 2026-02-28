@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Strong Consistency In Databases: Promises and Costs】数据库的强一致性：承诺和成本</title>
+      <link>https://blog.bytebytego.com/p/strong-consistency-in-databases-promises</link>
+      <description>【In this article, we will look at what strong consistency actually means, how systems deliver it, and what it really costs.】在本文中，我们将了解强一致性的实际含义、系统如何实现它以及它的真正成本。</description>
+      <pubDate>Thu, 26 Feb 2026 16:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Algorithm That Powers Your X (Twitter) Post】为您的 X (Twitter) 帖子提供支持的算法</title>
+      <link>https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x</link>
+      <description>【In this article, we will look at what the algorithm does, how its components fit together, and why the xAI Engineering Team made the design choices they did.】在本文中，我们将了解该算法的作用、其组件如何组合在一起，以及 xAI 工程团队为何做出这样的设计选择。</description>
+      <pubDate>Wed, 25 Feb 2026 16:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Uber Reinvented Access Control for Microservices】Uber 如何重塑微服务的访问控制</title>
       <link>https://blog.bytebytego.com/p/how-uber-reinvented-access-control</link>
       <description>【In this article, we will look at how the Uber engineering team built Charter and the challenges they faced.】在本文中，我们将了解 Uber 工程团队如何构建 Charter 以及他们面临的挑战。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-openai-scaled-to-800-million</link>
       <description>【In this article, we will look at the challenges OpenAI faced while scaling Postgres and how the team handled the various scenarios.】在本文中，我们将探讨 OpenAI 在扩展 Postgres 时面临的挑战以及团队如何处理各种场景。</description>
       <pubDate>Mon, 16 Feb 2026 16:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP202: MCP vs RAG vs AI Agents】EP202：MCP vs RAG vs AI 代理</title>
-      <link>https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents</link>
-      <description>【Everyone is talking about MCP, RAG, and AI Agents. Most people are still mixing them up.】每个人都在谈论 MCP、RAG 和 AI Agent。大多数人仍然把它们搞混了。</description>
-      <pubDate>Sat, 14 Feb 2026 16:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Must-Know Software Architecture Patterns】必须了解的软件架构模式</title>
-      <link>https://blog.bytebytego.com/p/must-know-software-architecture-patterns</link>
-      <description>【In this article, we will explore the essential architecture patterns that every software engineer should understand.】在本文中，我们将探讨每个软件工程师都应该理解的基本架构模式。</description>
-      <pubDate>Thu, 12 Feb 2026 16:30:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

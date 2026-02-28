@@ -4,6 +4,18 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>桑坦德银行的数字化转型：平台工程如何彻底改变云基础设施</title>
+      <link>https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/</link>
+      <description></description>
+      <pubDate>Thu, 26 Feb 2026 17:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>6,000 个 AWS 账户、三人、一个平台：经验教训</title>
+      <link>https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/</link>
+      <description></description>
+      <pubDate>Wed, 25 Feb 2026 19:47:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Convera 如何使用 Amazon Verified Permissions 构建细粒度 API 授权</title>
       <link>https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/</link>
       <description></description>
@@ -50,18 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/she-architects-bringing-unique-perspectives-to-innovative-solutions-at-aws/</link>
       <description></description>
       <pubDate>Mon, 08 Dec 2025 16:37:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 AWS 网络防火墙保护 Amazon Elastic VMware Service (Amazon EVS)</title>
-      <link>https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/</link>
-      <description></description>
-      <pubDate>Wed, 26 Nov 2025 16:22:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用 Amazon API Gateway 构建通往 Amazon Bedrock 的 AI 网关</title>
-      <link>https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/</link>
-      <description></description>
-      <pubDate>Wed, 19 Nov 2025 23:33:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

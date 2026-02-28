@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The Dongle Died at Midnight – WinForms Agent Saved my German Mom&#39;s Business Trip】加密狗半夜死机 – WinForms 代理拯救了我德国妈妈的商务旅行</title>
-      <link>https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight</link>
-      <description>【An 82-year-old German industrial engineer, a 22-year-old UI framework, and an AI that finally understands WinForms Designer serialization walk into a hotel room at midnight. There&#39;s no punchline. Just a dead dongle and a dead ... line. Well, I admit, it&#39;s sort of hard to believe, but how these three are connected is really no joke. But let&#39;s c】一名 82 岁的德国工业工程师、一个 22 岁的 UI 框架和一个终于理解 WinForms Designer 序列化的 AI 于午夜走进酒店房间。没有什么亮点。只是一个死了的加密狗和一条死了的……线路。好吧，我承认，这有点难以置信，但这三者之间的联系确实不是开玩笑。但让我们</description>
-      <pubDate>Tue, 24 Feb 2026 23:00:00 +0000</pubDate>
+      <title>【Updates to Team Calendar extension】团队日历扩展更新</title>
+      <link>https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension</link>
+      <description>【We are excited to release a new update to the Team Calendar extension. This update includes a series of visual refinements across the extension, introducing a more consistent design language, smoother transitions when expanding and collapsing】我们很高兴发布团队日历扩展的新更新。此更新包括整个扩展中的一系列视觉改进，引入了更一致的设计语言，展开和折叠时的过渡更平滑</description>
+      <pubDate>Fri, 27 Feb 2026 18:30:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio February Update】Visual Studio 二月更新</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-february-update</link>
-      <description>【This month’s Visual Studio update continues our focus on helping you move faster and stay in flow, with practical improvements across AI assistance, debugging, testing, and modernization. Building on the momentum from January’s editor updates, the February release brings smarter diagnostics and targeted support for real world development s】本月的 Visual Studio 更新继续致力于帮助您更快地前进并保持流畅，并在 AI 辅助、调试、测试和现代化方面进行了实际改进。凭借一月份编辑器更新的势头，二月份的版本为现实世界的开发带来了更智能的诊断和有针对性的支持</description>
-      <pubDate>Tue, 24 Feb 2026 22:16:30 +0000</pubDate>
+      <title>【Engineering and algorithmic interventions for multimodal post-training at Microsoft scale】Microsoft 规模的多模式后期培训的工程和算法干预</title>
+      <link>https://devblogs.microsoft.com/engineering-at-microsoft/engineering-and-algorithmic-interventions-for-multimodal-post-training-at-microsoft-scale</link>
+      <description>【Aditya Challapally leads post-training research and infrastructure for Copilot agent capabilities that process millions of multimodal interactions. This post builds on the diagnostics from D】Aditya Challapally 负责 Copilot 代理功能的培训后研究和基础设施，可处理数百万次多模式交互。这篇文章建立在 D 的诊断基础上</description>
+      <pubDate>Fri, 27 Feb 2026 18:05:59 +0000</pubDate>
     </item>
     <item>
-      <title>【Improved Python (PyPi/uvx) support in Azure MCP Server】改进了 Azure MCP 服务器中的 Python (PyPi/uvx) 支持</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-better-python-support</link>
-      <description>【We&#39;re excited to announce improved Python support for the Azure Model Context Protocol (MCP) Server! Python developers can now install and run Azure MCP Server directly from PyPI using familiar tools like uvx and pip. Whether you&#39;re】我们很高兴地宣布改进了对 Azure 模型上下文协议 (MCP) 服务器的 Python 支持！ Python 开发人员现在可以使用 uvx 和 pip 等熟悉的工具直接从 PyPI 安装和运行 Azure MCP Server。无论你是</description>
-      <pubDate>Tue, 24 Feb 2026 16:00:21 +0000</pubDate>
+      <title>【Intercepting messages inside &lt;CODE&gt;Is­Dialog­Message&lt;/CODE&gt;, fine-tuning the message filter】拦截&lt;CODE&gt;IsDialogMessage&lt;/CODE&gt;内部的消息，微调消息过滤器</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
+      <description>【Last time, we used a MSGF_DIALOG­BOX message filter to hook into the Is­Dialog­Message so that we had the option to grab the ESC】上次，我们使用 MSGF_DIALOGBOX 消息过滤器来挂钩 IsDialogMessage，以便我们可以选择获取 ESC</description>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customizing the ways the dialog manager dismisses itself: Isolating the Close pathway】自定义对话框管理器自行关闭的方式：隔离关闭路径</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082</link>
-      <description>【We started by exploring the signals the dialog manager uses for dismissing a dialog. Now we can use that information to customize the dismiss behavior. Let&#39;s start with a diagr】我们首先探索对话框管理器用于关闭对话框的信号。现在我们可以使用该信息来自定义关闭行为。让我们从一张图表开始</description>
-      <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【JCON Europe 2026: Java Modernization, Performance, and AI】JCON Europe 2026：Java 现代化、性能和人工智能</title>
+      <link>https://devblogs.microsoft.com/java/jcon-europe-2026-java-modernization-performance-and-ai</link>
+      <description>【Java is the backbone of enterprise software engineering, and the conversations happening around it right now are the most exciting they&#39;ve been in years. From AI-assisted development workflows to Kubernetes performance tuning, the community is moving fast - and】Java 是企业软件工程的支柱，目前围绕它进行的讨论是多年来最令人兴奋的。从人工智能辅助开发工作流程到 Kubernetes 性能调整，社区正在快速发展 - 而且</description>
+      <pubDate>Fri, 27 Feb 2026 12:00:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Use Windows on-device AI in your Electron app】在您的 Electron 应用程序中使用 Windows 设备上的 AI</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/use-windows-on-device-ai-in-your-electron-app</link>
-      <description>【Last year we published AI Dev Gallery, an open-source app full of interactive Windows AI examples. A common follow-up question from Electron developers has been: “How can we build similar on-device AI experiences in our Electron】去年，我们发布了 AI Dev Gallery，这是一款充满交互式 Windows AI 示例的开源应用程序。 Electron 开发人员常见的后续问题是：“我们如何在 Electron 中构建类似的设备上人工智能体验？</description>
-      <pubDate>Mon, 23 Feb 2026 18:18:25 +0000</pubDate>
+      <title>【Azure DocumentDB: A Fully Managed MongoDB-Compatible Database】Azure DocumentDB：完全托管的 MongoDB 兼容数据库</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-documentdb-mongodb-compatible</link>
+      <description>【Running MongoDB at scale eventually forces a trade-off: invest heavily in managing your own infrastructure or move to a managed service and risk losing the compatibility and portability your team depends on. 】大规模运行 MongoDB 最终会迫使您做出权衡：大力投资管理您自己的基础设施，或者迁移到托管服务，并冒着失去团队所依赖的兼容性和可移植性的风险。 </description>
+      <pubDate>Fri, 27 Feb 2026 00:58:03 +0000</pubDate>
     </item>
     <item>
-      <title>【Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, second (failed) attempt】自定义对话框管理器自行关闭的方式：检测 ESC 键，第二次（失败）尝试</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260223-00/?p=112080</link>
-      <description>【Last time, we saw that Get­Async­Key­State is not the way to detect whether the ESC key was down at the time the current input】上次我们看到 GetAsyncKeyState 并不是检测当前输入时 ESC 键是否按下的方法</description>
-      <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Announcing Shader Model 6.9 Retail and New D3D12 Improvements】宣布推出 Shader Model 6.9 零售版和新的 D3D12 改进</title>
+      <link>https://devblogs.microsoft.com/directx/shader-model-6-9-retail-and-more</link>
+      <description>【Today, we are pleased to announce that Shader Model 6.9 and other features have been officially released with Agility SDK 1.619 and complementary DXC 1.9.2602.16. Many of these features have been in preview status since 2025. Simultaneously, we are releasing a handful】今天，我们很高兴地宣布，Shader Model 6.9 和其他功能已随 Agility SDK 1.619 和补充的 DXC 1.9.2602.16 正式发布。自 2025 年以来，其中许多功能一直处于预览状态。同时，我们正在发布一些功能</description>
+      <pubDate>Thu, 26 Feb 2026 18:05:50 +0000</pubDate>
     </item>
     <item>
-      <title>【Light up Multiple Databases with a Single API with Data API builder&#39;s multi-source configuration】通过数据 API 构建器的多源配置，通过单个 API 点亮多个数据库</title>
-      <link>https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder</link>
-      <description>【Data API builder (DAB) supports multi-source configurations Data API builder (DAB) connects to your database with a safe REST or GraphQL endpoint. But DAB is not limited to just one database. Using a multi-source configuration, you can connect to more than one database simultaneously. Learn more about Data A】数据 API 构建器 (DAB) 支持多源配置 数据 API 构建器 (DAB) 使用安全的 REST 或 GraphQL 端点连接到您的数据库。但 DAB 并不仅限于一种数据库。使用多源配置，您可以同时连接到多个数据库。了解有关数据 A 的更多信息</description>
-      <pubDate>Fri, 20 Feb 2026 17:30:27 +0000</pubDate>
+      <title>【PIX 2602.25 and 2602.25-preview - support for new D3D features and misc quality-of-life improvements】PIX 2602.25 和 2602.25-preview - 支持新的 D3D 功能和其他生活质量改进</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2602-25</link>
+      <description>【Today we released PIX 2602.25 and 2602.25-preview, which can be downloaded here. These releases include everything in the previous 2601.15 release, plus: 2602.25: includes support for all of】今天我们发布了 PIX 2602.25 和 2602.25 预览版，可以在此处下载。这些版本包括先前 2601.15 版本中的所有内容，此外： 2602.25：包括对所有</description>
+      <pubDate>Thu, 26 Feb 2026 18:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【The 2026/2027 Seattle Symphony subscription season at a glance】2026/2027 西雅图交响乐团订阅季一览</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076</link>
-      <description>【For two decades, I&#39;ve】二十年来，我</description>
-      <pubDate>Fri, 20 Feb 2026 15:00:01 +0000</pubDate>
+      <title>【Vector Data in .NET - Building Blocks for AI Part 2】.NET 中的矢量数据 - AI 构建块第 2 部分</title>
+      <link>https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2</link>
+      <description>【Welcome back to the building blocks for AI in .NET series! In part one, we explored Microsoft Extensions for AI (MEAI) and how it provides a unified interface for working with large language models. Today, we&#39;re diving into the second b】欢迎回到 .NET 中的 AI 构建块系列！在第一部分中，我们探讨了 Microsoft Extensions for AI (MEAI) 以及它如何提供用于处理大型语言模型的统一界面。今天我们要进入第二个b</description>
+      <pubDate>Thu, 26 Feb 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt】自定义对话框管理器自行关闭的方式：检测 ESC 键，第一次（失败）尝试</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074</link>
-      <description>【Suppose you want to distinguish between dismissing a dialog by pressing ESC and dismissing a dialog by clicking the Close button. One suggestion I saw was to call Get­Async­Key­State(VK_ESCAPE) to check whether the ESC is down. In general, any time you see Get­Async­Key­St】假设您想要区分通过按 ESC 关闭对话框和通过单击“关闭”按钮关闭对话框。我看到的一个建议是调用 GetAsyncKeyState(VK_ESCAPE) 来检查 ESC 是否已关闭。一般来说，任何时候您看到 GetAsyncKeySt</description>
-      <pubDate>Fri, 20 Feb 2026 15:00:00 +0000</pubDate>
+      <title>【Measuring actual AI Impact for Engineering with Apache DevLake】使用 Apache DevLake 衡量 AI 对工程的实际影响</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/measuring-actual-ai-impact-for-engineering-with-apache-devlake</link>
+      <description>【If you want to skip the explain and get started super quick with adoption + impact insights, use gh-devlake to deploy a GitHub Copilot impact dashboard in a few CLI commands. So! You&#39;ve rolled out GitHub Copilot to your engineering teams. You&#39;ve got the built-in dashbo】如果您想跳过解释并快速开始了解采用率 + 影响洞察，请使用 gh-devlake 在几个 CLI 命令中部署 GitHub Copilot 影响仪表板。所以！您已向您的工程团队推出了 GitHub Copilot。你有内置的仪表板</description>
+      <pubDate>Thu, 26 Feb 2026 10:06:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
