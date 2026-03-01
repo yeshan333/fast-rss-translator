@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP204: 11 Ways To Use AI To Increase Your Productivity】EP204：使用人工智能提高生产力的 11 种方法</title>
+      <link>https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase</link>
+      <description>【AI is changing how we work. People who use AI get more done in less time. You do not need to code. You need to know which tool to use and when.】人工智能正在改变我们的工作方式。使用人工智能的人可以在更短的时间内完成更多的工作。您不需要编码。您需要知道使用哪种工具以及何时使用。</description>
+      <pubDate>Sat, 28 Feb 2026 16:30:26 +0000</pubDate>
+    </item>
+    <item>
       <title>【Strong Consistency In Databases: Promises and Costs】数据库的强一致性：承诺和成本</title>
       <link>https://blog.bytebytego.com/p/strong-consistency-in-databases-promises</link>
       <description>【In this article, we will look at what strong consistency actually means, how systems deliver it, and what it really costs.】在本文中，我们将了解强一致性的实际含义、系统如何实现它以及它的真正成本。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-cloudflare-eliminates-cold-starts</link>
       <description>【Cut Code Review Time &amp; Bugs in Half (Sponsored)】将代码审查时间和错误减少一半（赞助）</description>
       <pubDate>Tue, 17 Feb 2026 16:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How OpenAI Scaled to 800 Million Users With Postgres】OpenAI 如何利用 Postgres 扩展到 8 亿用户</title>
-      <link>https://blog.bytebytego.com/p/how-openai-scaled-to-800-million</link>
-      <description>【In this article, we will look at the challenges OpenAI faced while scaling Postgres and how the team handled the various scenarios.】在本文中，我们将探讨 OpenAI 在扩展 Postgres 时面临的挑战以及团队如何处理各种场景。</description>
-      <pubDate>Mon, 16 Feb 2026 16:30:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
