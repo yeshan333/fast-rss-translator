@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【Context Engineering vs Prompt Engineering】情境工程与即时工程</title>
+      <link>https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering</link>
+      <description>【#127: A Developer&amp;#8217;s Guide to Writing Better Prompts and Building Better Context】#127：编写更好的提示和构建更好的上下文的开发人员指南</description>
+      <pubDate>Tue, 03 Mar 2026 09:33:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Crash Course on High Availability】高可用性速成课程</title>
       <link>https://newsletter.systemdesign.one/p/what-is-high-availability</link>
       <description>【#126: What Is High Availability】#126：什么是高可用性</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/what-is-a-message-queue</link>
       <description>【#118: What Is a Message Queue?】#118：什么是消息队列？</description>
       <pubDate>Sat, 31 Jan 2026 12:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【System Design Interview: Design YouTube】系统设计访谈：设计 YouTube</title>
-      <link>https://newsletter.systemdesign.one/p/youtube-system-design</link>
-      <description>【#117: System Design Interview】＃117：系统设计面试</description>
-      <pubDate>Thu, 29 Jan 2026 11:30:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

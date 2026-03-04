@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>隐藏的价格标签：使用 AWS 架构完善的框架揭示云架构中的隐藏成本</title>
+      <link>https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/</link>
+      <description></description>
+      <pubDate>Tue, 03 Mar 2026 16:08:00 +0000</pubDate>
+    </item>
+    <item>
       <title>桑坦德银行的数字化转型：平台工程如何彻底改变云基础设施</title>
       <link>https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/</link>
       <description></description>
       <pubDate>Wed, 10 Dec 2025 17:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>她的架构师：为 AWS 的创新解决方案带来独特的视角</title>
-      <link>https://aws.amazon.com/blogs/architecture/she-architects-bringing-unique-perspectives-to-innovative-solutions-at-aws/</link>
-      <description></description>
-      <pubDate>Mon, 08 Dec 2025 16:37:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

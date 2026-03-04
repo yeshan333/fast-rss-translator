@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Agoda Built a Single Source of Truth for Financial Data】Agoda 如何构建财务数据的单一真实来源</title>
+      <link>https://blog.bytebytego.com/p/how-agoda-built-a-single-source-of</link>
+      <description>【In this article, we will look at how the Agoda engineering team built a single source of truth for its financial data and the challenges encountered.】在本文中，我们将了解 Agoda 工程团队如何为其财务数据构建单一事实来源以及遇到的挑战。</description>
+      <pubDate>Tue, 03 Mar 2026 16:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Architecture Behind Open-Source LLMs】开源法学硕士背后的架构</title>
+      <link>https://blog.bytebytego.com/p/the-architecture-behind-open-source</link>
+      <description>【In this article, we will cover various open-source models and the engineering bets that define each one.】在本文中，我们将介绍各种开源模型以及定义每个模型的工程赌注。</description>
+      <pubDate>Mon, 02 Mar 2026 16:30:50 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP204: 11 Ways To Use AI To Increase Your Productivity】EP204：使用人工智能提高生产力的 11 种方法</title>
       <link>https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase</link>
       <description>【AI is changing how we work. People who use AI get more done in less time. You do not need to code. You need to know which tool to use and when.】人工智能正在改变我们的工作方式。使用人工智能的人可以在更短的时间内完成更多的工作。您不需要编码。您需要知道使用哪种工具以及何时使用。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/eventual-consistency-the-key-trade</link>
       <description>【In this article, we will look at what eventual consistency is, why it exists, how to control it, and how to handle the challenges it creates.】在本文中，我们将了解什么是最终一致性、它为何存在、如何控制它以及如何应对它带来的挑战。</description>
       <pubDate>Thu, 19 Feb 2026 16:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The First 10-Year Evolution of Stripe’s Payments API】Stripe 支付 API 的第一个 10 年演变</title>
-      <link>https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes</link>
-      <description>【In this article, we look at how Stripe&amp;#8217;s payment APIs evolved over the years, the technical challenges they faced, and the engineering decisions that shaped modern payment processing.】在本文中，我们将了解 Stripe 的支付 API 多年来如何发展、它们面临的技术挑战以及塑造现代支付处理的工程决策。</description>
-      <pubDate>Wed, 18 Feb 2026 16:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cloudflare Eliminates Cold Starts for Serverless Workers】Cloudflare 如何消除无服务器工作人员的冷启动</title>
-      <link>https://blog.bytebytego.com/p/how-cloudflare-eliminates-cold-starts</link>
-      <description>【Cut Code Review Time &amp; Bugs in Half (Sponsored)】将代码审查时间和错误减少一半（赞助）</description>
-      <pubDate>Tue, 17 Feb 2026 16:31:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
