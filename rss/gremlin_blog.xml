@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【How Gremlin makes disaster recovery testing easier and faster】Gremlin 如何使灾难恢复测试变得更轻松、更快</title>
+      <link>https://www.gremlin.com/blog/how-gremlin-makes-disaster-recovery-testing-easier-and-faster</link>
+      <description>【Gremlin’s Disaster Recovery Testing makes it easy to run zone evacuations, region failovers, and more for a fraction of the lift of traditional disaster recovery testing.】Gremlin 的灾难恢复测试可以轻松运行区域疏散、区域故障转移等，而其提升量仅为传统灾难恢复测试的一小部分。</description>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Announcing Disaster Recovery Testing】宣布灾难恢复测试</title>
       <link>https://www.gremlin.com/blog/announcing-disaster-recovery-testing</link>
       <description>【Gremlin announces Disaster Recovery Testing for validating region failover processes, disaster recovery plans, incident response procedures, and more.】Gremlin 宣布推出灾难恢复测试，用于验证区域故障转移流程、灾难恢复计划、事件响应程序等。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/gremlins-unofficial-microsoft-ignite-2025-reliability-track</link>
       <description>【Check out the Gremlin-curated unofficial track of reliability talks at Microsoft Ignite 2025.】查看 Gremlin 在 Microsoft Ignite 2025 上策划的非官方可靠性会谈。</description>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Improve Kubernetes reliability faster with Gremlin and Dynatrace】使用 Gremlin 和 Dynatrace 更快地提高 Kubernetes 可靠性</title>
-      <link>https://www.gremlin.com/blog/improve-kubernetes-reliability-faster-with-gremlin-and-dynatrace</link>
-      <description>【It’s easier than ever to start testing Kubernetes with Dynatrace and Gremlin. The new strategic integration automatically discovers objects to make testing set up simple and fast.】使用 Dynatrace 和 Gremlin 开始测试 Kubernetes 比以往任何时候都更容易。新的战略集成会自动发现对象，使测试设置变得简单而快速。</description>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

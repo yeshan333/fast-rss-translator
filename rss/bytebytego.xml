@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How to Build High Throughput Systems】如何构建高吞吐量系统</title>
+      <link>https://blog.bytebytego.com/p/how-to-build-high-throughput-systems</link>
+      <description>【In this article, we will go through the fundamental concepts and practical strategies for building systems that can handle high volumes of work without breaking down under pressure.】在本文中，我们将介绍构建可以处理大量工作而不会在压力下崩溃的系统的基本概念和实用策略。</description>
+      <pubDate>Thu, 05 Mar 2026 16:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What’s Next in AI: Five Trends to Watch in 2026】人工智能的下一步发展：2026 年值得关注的五个趋势</title>
+      <link>https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch</link>
+      <description>【This article covers five key trends that will likely shape how teams build with AI this year.】本文涵盖了可能影响今年团队如何利用人工智能进行构建的五个关键趋势。</description>
+      <pubDate>Wed, 04 Mar 2026 16:30:49 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Agoda Built a Single Source of Truth for Financial Data】Agoda 如何构建财务数据的单一真实来源</title>
       <link>https://blog.bytebytego.com/p/how-agoda-built-a-single-source-of</link>
       <description>【In this article, we will look at how the Agoda engineering team built a single source of truth for its financial data and the challenges encountered.】在本文中，我们将了解 Agoda 工程团队如何为其财务数据构建单一事实来源以及遇到的挑战。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar</link>
       <description>【RabbitMQ, Kafka, and Pulsar all move messages, but they solve very different problems under the hood.】RabbitMQ、Kafka 和 Pulsar 都会移动消息，但它们在底层解决的问题却截然不同。</description>
       <pubDate>Sat, 21 Feb 2026 16:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4】最后报名：成为人工智能工程师 - 第 4 组</title>
-      <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an</link>
-      <description>【Enrollment for our upcoming Become an AI Engineer - Cohort 4 is closing soon, and classes officially begin on February 21.】我们即将推出的“成为人工智能工程师 - 第 4 组”的报名即将结束，课程将于 2 月 21 日正式开始。</description>
-      <pubDate>Fri, 20 Feb 2026 16:31:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Eventual Consistency: The Key Trade-Off Behind Modern Databases】最终一致性：现代数据库背后的关键权衡</title>
-      <link>https://blog.bytebytego.com/p/eventual-consistency-the-key-trade</link>
-      <description>【In this article, we will look at what eventual consistency is, why it exists, how to control it, and how to handle the challenges it creates.】在本文中，我们将了解什么是最终一致性、它为何存在、如何控制它以及如何应对它带来的挑战。</description>
-      <pubDate>Thu, 19 Feb 2026 16:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

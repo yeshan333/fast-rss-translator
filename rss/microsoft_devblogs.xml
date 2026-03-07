@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【February 2026 Insiders (version 1.110)】2026 年 2 月 Insider（版本 1.110）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/february-2026-insiders-(version-1.110)</link>
-      <description>【Learn what is new in the Visual Studio Code February 2026 Release (1.110). Read the full article】了解 Visual Studio Code 2026 年 2 月版本 (1.110) 中的新增功能。阅读全文</description>
-      <pubDate>Wed, 04 Mar 2026 17:00:00 +0000</pubDate>
+      <title>【Insiders (version 1.111)】内部人员（版本 1.111）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/insiders-(version-1.111)</link>
+      <description>【Learn what is new in Visual Studio Code 1.111 (Insiders) Read the full article】了解 Visual Studio Code 1.111 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Developer CLI (azd): One command to swap Azure App Service slots】Azure 开发人员 CLI (azd)：交换 Azure 应用服务插槽的一条命令</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-appservice-swap</link>
-      <description>【Swap deployment slots from your terminal—azd already knows your app. Azure App Service deployment slots let you stage changes and swap them into production with zero downtime. With azd, you can】从您的终端交换部署槽 - azd 已经知道您的应用程序。 Azure 应用服务部署槽允许您暂存更改并将其交换到生产环境中，且停机时间为零。使用 azd，您可以</description>
-      <pubDate>Tue, 03 Mar 2026 21:10:01 +0000</pubDate>
+      <title>【What&#39;s new in Microsoft Foundry | February 2026】Microsoft Foundry 的新增功能 | 2026 年 2 月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-feb-2026</link>
+      <description>【TL;DR Claude Opus 4.6 + Sonnet 4.6: Anthropic&#39;s frontier models arrive in Foundry with 1M-token context (beta), adaptive thinking, and context compaction — Opus for deep reasoning, Sonnet for cost-efficient scale. GPT-Realtime-1.5 &amp;amp; GPT-Audio-1.5: Next-gen audio models w】TL;DR Claude Opus 4.6 + Sonnet 4.6：Anthropic 的前沿模型抵达 Foundry，具有 1M 代币上下文（测试版）、自适应思维和上下文压缩——Opus 用于深度推理，Sonnet 用于经济高效的规模。 GPT-Realtime-1.5 和 GPT-Audio-1.5：下一代音频模型</description>
+      <pubDate>Fri, 06 Mar 2026 23:08:31 +0000</pubDate>
     </item>
     <item>
-      <title>【Just for fun: A survey of write protect notches on floppy disks and other media】只是为了好玩：软盘和其他介质上的写保护槽口的调查</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104</link>
-      <description>【As you may have noticed, sometimes I waste time】正如你可能已经注意到的，有时我浪费时间</description>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <title>【Prepare your add-in for Outlook ribbon improvements】准备加载项以改进 Outlook 功能区</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/prepare-your-addin-for-outlook-ribbon-improvements</link>
+      <description>【We’re improving how add-ins appear on the ribbon in Outlook on the web and the new Outlook on Windows. These Outlook ribbon updates make add-ins easier to find and align the experience across Outlook clients. Improvements include: Showing the group name specified in your manifest for the add-in’s ribbon button (instead of the】我们正在改进加载项在 Outlook 网页版和新的 Windows 版 Outlook 功能区上的显示方式。这些 Outlook 功能区更新使加载项更易于查找并在 Outlook 客户端之间调整体验。改进包括： 显示在清单中为加载项的功能区按钮指定的组名称（而不是</description>
+      <pubDate>Fri, 06 Mar 2026 21:43:22 +0000</pubDate>
     </item>
     <item>
-      <title>【What questions will you ask your data agent?】您会问您的数据代理哪些问题？</title>
-      <link>https://devblogs.microsoft.com/azure-sql/data-api-builder-mcp-questions</link>
-      <description>【Since release 1.7, Data API builder (DAB) has had MCP support to securely provide agents access to your production data. To support small and massive databases, DAB consolidates operations into five, shared MCP tools that safely Create, Read, Update, and Delete. These are specifically designed to reduce token context window consumption.】自版本 1.7 以来，数据 API 构建器 (DAB) 已获得 MCP 支持，可以安全地为代理提供对生产数据的访问。为了支持小型和大型数据库，DAB 将操作整合到五个共享的 MCP 工具中，可以安全地创建、读取、更新和删除。这些是专门为减少令牌上下文窗口消耗而设计的。</description>
-      <pubDate>Mon, 02 Mar 2026 21:18:18 +0000</pubDate>
+      <title>【Announcing TypeScript 6.0 RC】宣布推出 TypeScript 6.0 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc</link>
+      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 6.0! To get started using the RC, you can get it through npm with the following command: npm install -D typescript@rc TypeScript 6.0 is a unique release in t】今天，我们很高兴地宣布 TypeScript 6.0 的候选版本 (RC)！要开始使用 RC，您可以使用以下命令通过 npm 获取它： npm install -D typescript@rc TypeScript 6.0 是 t 中的唯一版本</description>
+      <pubDate>Fri, 06 Mar 2026 19:13:14 +0000</pubDate>
     </item>
     <item>
-      <title>【What sort of horrible things happen if my dialog has a non-button with the control ID of &lt;CODE&gt;IDCANCEL&lt;/CODE&gt;?】如果我的对话框有一个控件 ID 为 &lt;CODE&gt;IDCANCEL&lt;/CODE&gt; 的非按钮，会发生什么可怕的事情？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098</link>
-      <description>【I noted in the bonus chatter that if you have a control whose ID is IDCANCEL, it had better be a button if you know what&#39;s good for you. Shawn Keene doesn&#39;t know what&#39;s go】我在奖金闲谈中指出，如果您有一个 ID 为 IDCANCEL 的控件，那么如果您知道什么对您有好处，那么它最好是一个按钮。肖恩·基恩不知道发生了什么</description>
-      <pubDate>Mon, 02 Mar 2026 20:55:53 +0000</pubDate>
+      <title>【Go 1.26.1-1 and 1.25.8-1 Microsoft builds now available】Go 1.26.1-1 和 1.25.8-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-26-1-1-and-1-25-8-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Fri, 06 Mar 2026 16:23:15 +0000</pubDate>
     </item>
     <item>
-      <title>【The JavaScript AI Build-a-thon Season 2 starts today!】JavaScript AI 构建马拉松第二季今天开始！</title>
-      <link>https://devblogs.microsoft.com/blog/the-javascript-ai-build-a-thon-season-2-starts-today</link>
-      <description>【Most applications used by millions of people every single day are powered by JavaScript/TypeScript. But when it comes to AI, most learning resources and code samples assume you&#39;re working in Python and will leave you trying to stitch scattered tutorials together to build AI into your stack. The JavaScript AI Build-a-thon 】每天有数百万人使用的大多数应用程序都是由 JavaScript/TypeScript 提供支持的。但当谈到人工智能时，大多数学习资源和代码示例都假设您正在使用 Python，并且会让您尝试将分散的教程拼接在一起，以将人工智能构建到您的堆栈中。 JavaScript AI 构建马拉松 </description>
-      <pubDate>Mon, 02 Mar 2026 20:00:39 +0000</pubDate>
+      <title>【When &lt;CODE&gt;Read­Directory­ChangesW&lt;/CODE&gt; reports that a deletion occurred, how can I learn more about the deleted thing?】当 &lt;CODE&gt;ReadDirectoryChangesW&lt;/CODE&gt; 报告发生删除时，我如何了解有关已删除内容的更多信息？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
+      <description>【A customer was using Read­Directory­ChangesW to monitor changes to a directory. However, they ran into a problem when they received a FILE_ACTION_REMOVED notification: Since the notification is raised when the item is deleted, they can&#39;t do a Get­File­AttributesEx to find out whether】客户正在使用 ReadDirectoryChangesW 来监视目录的更改。但是，当他们收到 FILE_ACTION_REMOVED 通知时，他们遇到了问题：由于删除项目时会引发通知，因此他们无法执行 GetFileAttributesEx 来查明是否</description>
+      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows App Development CLI v0.2: .NET support, manifest placeholders, &#34;winapp store&#34; and more!】Windows 应用程序开发 CLI v0.2：.NET 支持、清单占位符、“winapp store”等等！</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/windows-app-development-cli-v0-2-net-support-manifest-placeholders-winapp-store-and-more</link>
-      <description>【】</description>
-      <pubDate>Mon, 02 Mar 2026 19:22:45 +0000</pubDate>
+      <title>【Using Agents to Setup Experiments】使用代理设置实验</title>
+      <link>https://devblogs.microsoft.com/ise/using-agents-to-setup-experiments</link>
+      <description>【Introduction: The Problem In a recent engagement, our team faced a complex challenge. Setting up a machine learning experiment required a long sequence of manual steps. None were individually hard, but together they created a fragile, error‑prone workflow. For example: – Users needed to provide key metadata (experiment name, hy】简介：问题 在最近的一次合作中，我们的团队面临着复杂的挑战。设置机器学习实验需要一系列手动步骤。单独来看，这些工作流程并不困难，但它们一起创建了一个脆弱且容易出错的工作流程。例如： – 用户需要提供关键元数据（实验名称、hy</description>
+      <pubDate>Fri, 06 Mar 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot Dev Days: Build faster with GitHub Copilot CLI, in VS Code &amp; Visual Studio, and beyond!】GitHub Copilot 开发日：使用 GitHub Copilot CLI、VS Code 和 Visual Studio 等更快地构建！</title>
-      <link>https://devblogs.microsoft.com/blog/github-copilot-dev-days</link>
-      <description>【Modern software development is moving fast—and AI is now a practical part of how Microsoft developers design, build, and ship applications e】现代软件开发正在快速发展，人工智能现在已成为 Microsoft 开发人员设计、构建和发布应用程序的实用部分。</description>
-      <pubDate>Mon, 02 Mar 2026 18:00:36 +0000</pubDate>
+      <title>【Windows Terminal Preview 1.25 Release】Windows 终端预览版 1.25 发布</title>
+      <link>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-25-release</link>
+      <description>【We briefly paused our quarterly release cycle to focus on reliability and performance, but now we&#39;re back with Windows Terminal 1.25! We are also updating Windows Terminal stable to version 1.24, which will include all of the features from】我们短暂暂停了季度发布周期，以专注于可靠性和性能，但现在我们又带着 Windows Terminal 1.25 回来了！我们还将 Windows Terminal 稳定版更新至 1.24 版，其中包含来自</description>
+      <pubDate>Thu, 05 Mar 2026 22:28:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework】通过 Microsoft Agent Framework 中的代理技能为您的代理提供领域专业知识</title>
-      <link>https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework</link>
-      <description>【You can now equip your Microsoft Agent Framework agents with portable, reusable skill packages that provide domain expertise on demand — without changing a single line of your agent&#39;s core instructions. With the new FileAgentSkillsProvider, available for both .NET and Python, your agents can discover and load】现在，您可以为您的 Microsoft Agent Framework 代理配备可移植、可重用的技能包，这些技能包可按需提供领域专业知识，而无需更改代理的核心指令的一行。借助适用于 .NET 和 Python 的新 FileAgentSkillsProvider，您的代理可以发现并加载</description>
-      <pubDate>Mon, 02 Mar 2026 16:46:27 +0000</pubDate>
+      <title>【Release v1.0 of the official MCP C# SDK】发布官方MCP C# SDK v1.0</title>
+      <link>https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk</link>
+      <description>【The Model Context Protocol (MCP) C# SDK has reached its v1.0 milestone, bringing full support for the 2025-11-25 version of the MCP Specifi】模型上下文协议 (MCP) C# SDK 已达到 v1.0 里程碑，全面支持 2025 年 11 月 25 日版本的 MCP 规范</description>
+      <pubDate>Thu, 05 Mar 2026 18:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Updates to Team Calendar extension】团队日历扩展更新</title>
-      <link>https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension</link>
-      <description>【We are excited to release a new update to the Team Calendar extension. This update includes a series of visual refinements across the extension, introducing a more consistent design language, smoother transitions when expanding and collapsing】我们很高兴发布团队日历扩展的新更新。此更新包括整个扩展中的一系列视觉改进，引入了更一致的设计语言，展开和折叠时的过渡更平滑</description>
-      <pubDate>Fri, 27 Feb 2026 18:30:30 +0000</pubDate>
+      <title>【Visual Studio at GDC Festival of Gaming 2026】Visual Studio 出席 2026 年 GDC 游戏节</title>
+      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-gdc-festival-of-gaming-2026</link>
+      <description>【Join us at GDC Festival of Gaming 2026 for a deep dive into Visual Studio, GitHub Copilot, PowerToys, and the Windows tools that speed up your daily dev workflow. We&#39;ll show how these tools work together to boost】欢迎参加 2026 年 GDC 游戏节，深入了解 Visual Studio、GitHub Copilot、PowerToys 以及可加快日常开发工作流程的 Windows 工具。我们将展示这些工具如何协同工作以促进</description>
+      <pubDate>Thu, 05 Mar 2026 17:16:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

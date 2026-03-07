@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【From the endpoint to the prompt: a unified data security vision in Cloudflare One】从端点到提示：Cloudflare One 中的统一数据安全愿景</title>
+      <link>https://blog.cloudflare.com/unified-data-security/</link>
+      <description>【 Cloudflare One unifies data security from endpoint to prompt: RDP clipboard controls, operation-mapped logs, on-device DLP, and Microsoft 365 Copilot scanning via API CASB. 】Cloudflare One 统一了从端点到提示的数据安全性：RDP 剪贴板控件、操作映射日志、设备上 DLP 以及通过 API CASB 进行的 Microsoft 365 Copilot 扫描。</description>
+      <pubDate>Fri, 06 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Ending the &#34;silent drop&#34;: how Dynamic Path MTU Discovery makes the Cloudflare One Client more resilient】结束“无声丢弃”：动态路径 MTU 发现如何使 Cloudflare One Client 更具弹性</title>
+      <link>https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/</link>
+      <description>【 The Cloudflare One Client now features the ability to actively probe and adjust packet sizes. This update eliminates the problems caused by tunnel layering and MTU differences, providing more stability and resiliency.  】Cloudflare One Client 现在能够主动探测和调整数据包大小。此更新消除了隧道分层和 MTU 差异引起的问题，提供了更高的稳定性和弹性。 </description>
+      <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Automatic Return Routing solves IP overlap】自动返回路由如何解决 IP 重叠问题</title>
+      <link>https://blog.cloudflare.com/automatic-return-routing-ip-overlap/</link>
+      <description>【 Automatic Return Routing (ARR) solves the common enterprise challenge of overlapping private IP addresses by using stateful flow tracking instead of traditional routing tables. This userspace-driven approach ensures return traffic reaches the correct origin tunnel without manual NAT or VRF configuration. 】自动返回路由 (ARR) 通过使用状态流跟踪而不是传统路由表，解决了私有 IP 地址重叠的常见企业挑战。这种用户空间驱动的方法可确保返回流量到达正确的原始隧道，而无需手动 NAT 或 VRF 配置。</description>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A QUICker SASE client: re-building Proxy Mode】QUICker SASE 客户端：重建代理模式</title>
+      <link>https://blog.cloudflare.com/faster-sase-proxy-mode-quic/</link>
+      <description>【 By transitioning the Cloudflare One Client to use QUIC streams for Proxy Mode, we eliminated the overhead of user-space TCP stacks, resulting in a 2x increase in throughput and significant latency reduction for end users.  】通过将 Cloudflare One Client 转换为使用 QUIC 流进行代理模式，我们消除了用户空间 TCP 堆栈的开销，从而使最终用户的吞吐量增加了 2 倍，并显着减少了延迟。</description>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Always-on detections: eliminating the WAF “log versus block” trade-off】始终在线检测：消除 WAF“日志与块”的权衡</title>
+      <link>https://blog.cloudflare.com/attack-signature-detection/</link>
+      <description>【 Cloudflare is introducing Attack Signature Detection and Full-Transaction Detection to provide continuous, high-fidelity security insights without the manual tuning of traditional WAFs. By correlating request payloads with server responses, we can now identify successful exploits and data exfiltration while minimizing false positives. 】Cloudflare 引入了攻击签名检测和全事务检测，以提供持续、高保真的安全洞察，而无需手动调整传统 WAF。通过将请求负载与服务器响应相关联，我们现在可以识别成功的漏洞利用和数据泄露，同时最大限度地减少误报。</description>
+      <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Mind the gap: new tools for continuous enforcement from boot to login】注意差距：从启动到登录持续执行的新工具</title>
+      <link>https://blog.cloudflare.com/mandatory-authentication-mfa/</link>
+      <description>【 Cloudflare’s mandatory authentication and independent MFA protect organizations by ensuring continuous enforcement, from the moment a machine boots until sensitive resources are accessed. 】Cloudflare 的强制身份验证和独立的 MFA 通过确保从计算机启动到访问敏感资源的持续执行来保护组织。</description>
+      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Defeating the deepfake: stopping laptop farms and insider threats】击败深度造假：阻止笔记本电脑农场和内部威胁</title>
+      <link>https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/</link>
+      <description>【 Cloudflare One is partnering with Nametag to combat laptop farms and AI-enhanced identity fraud by requiring identity verification during employee onboarding and via continuous authentication. 】Cloudflare One 正在与 Nametag 合作，通过在员工入职期间要求身份验证和持续身份验证来打击笔记本电脑农场和人工智能增强的身份欺诈。</description>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Stop reacting to breaches and start preventing them with User Risk Scoring】停止对违规行为做出反应，并开始通过用户风险评分来预防违规行为</title>
+      <link>https://blog.cloudflare.com/adaptive-access-user-risk-scoring/</link>
+      <description>【 Cloudflare One now incorporates dynamic User Risk Scores into Access policies to enable automated, adaptive security responses. This update allows teams to move beyond binary &#34;allow/deny&#34; rules by evaluating continuous behavior signals from both internal and third-party sources. 】Cloudflare One 现在将动态用户风险评分纳入访问策略中，以实现自动化、自适应安全响应。此更新允许团队通过评估来自内部和第三方来源的连续行为信号来超越二元“允许/拒绝”规则。</description>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Moving from license plates to badges: the Gateway Authorization Proxy】从车牌转向徽章：网关授权代理</title>
+      <link>https://blog.cloudflare.com/gateway-authorization-proxy-identity-aware-policies/</link>
+      <description>【 Cloudflare’s Gateway Authorization Proxy adds support for identity-aware policies for clientless devices, securing virtual desktops, and guest networks without a device client. 】Cloudflare 的网关授权代理增加了对无客户端设备的身份感知策略的支持，保护虚拟桌面和无需设备客户端的访客网络。</description>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing the 2026 Cloudflare Threat Report】2026 年 Cloudflare 威胁报告简介</title>
       <link>https://blog.cloudflare.com/2026-threat-report/</link>
       <description>【 There has been a fundamental shift toward industrialized cyber threats, highlighted by a record 31.4 Tbps DDoS attack and sophisticated session token theft. Our new report examines how nation-states and criminal actors have moved beyond traditional exploits to &#34;living off the XaaS&#34; within legitimate enterprise logic. 】工业化网络威胁已发生根本性转变，其中最突出的是创纪录的 31.4 Tbps DDoS 攻击和复杂的会话令牌盗窃。我们的新报告探讨了民族国家和犯罪分子如何超越传统的利用方式，在合法的企业逻辑中“依靠 XaaS 生存”。</description>
       <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Evolving Cloudflare’s Threat Intelligence Platform: actionable, scalable, and ETL-less】不断发展的 Cloudflare 威胁情报平台：可操作、可扩展且无需 ETL</title>
-      <link>https://blog.cloudflare.com/cloudflare-threat-intelligence-platform/</link>
-      <description>【 Stop managing ETL pipelines and start threat hunting. Introducing new visualization, automation, and enrichment tools in the Cloudflare Threat Intelligence Platform to turn massive telemetry into instant security posture.  】停止管理 ETL 管道并开始威胁搜寻。在 Cloudflare 威胁情报平台中引入新的可视化、自动化和丰富工具，将大量遥测数据转化为即时安全态势。</description>
-      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Cloudy translates complex security into human action】Cloudy 如何将复杂的安全性转化为人类行动</title>
-      <link>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</link>
-      <description>【 Cloudy is our LLM-powered explanation layer built directly into Cloudflare One. Its explanations, now part of Phishnet and API CASB, can improve user decisions and SOC efficiency. 】Cloudy 是由 LLM 支持的解释层，直接内置于 Cloudflare One 中。其解释现已成为 Phishnet 和 API CASB 的一部分，可以改善用户决策和 SOC 效率。</description>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【From reactive to proactive: closing the phishing gap with LLMs】从被动到主动：缩小与法学硕士的网络钓鱼差距</title>
-      <link>https://blog.cloudflare.com/email-security-phishing-gap-llm/</link>
-      <description>【 Email security is a constant arms race. Like WWII engineers reinforcing only the planes that returned, survivorship bias hides real gaps. But LLMs can help us find the invisible weaknesses. 】电子邮件安全是一场持续的军备竞赛。就像二战工程师只加固返回的飞机一样，幸存者偏差掩盖了真正的差距。但法学硕士可以帮助我们发现看不见的弱点。</description>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【See risk, fix risk: introducing Remediation in Cloudflare CASB】查看风险，修复风险：在 Cloudflare CASB 中引入修复</title>
-      <link>https://blog.cloudflare.com/remediation-in-cloudflare-casb/</link>
-      <description>【 Cloudflare CASB Remediation lets security teams go beyond visibility to fix risky file sharing in Microsoft 365 and Google Workspace directly from Cloudflare One, all in just a few clicks. 】Cloudflare CASB Remediation 让安全团队能够超越可见性，直接从 Cloudflare One 修复 Microsoft 365 和 Google Workspace 中存在风险的文件共享，只需点击几下即可完成所有操作。</description>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Modernizing with agile SASE: a Cloudflare One blog takeover】使用敏捷 SASE 实现现代化：Cloudflare One 博客接管</title>
-      <link>https://blog.cloudflare.com/modernize-agile-sase/</link>
-      <description>【 In 2026, agile SASE is the engine for modernization. Discover how Cloudflare One secures humans, devices, and AI agents on a single, programmable connectivity cloud. 】2026 年，敏捷 SASE 成为现代化的引擎。了解 Cloudflare One 如何在单个可编程连接云上保护人员、设备和 AI 代理的安全。</description>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The truly programmable SASE platform】真正可编程的 SASE 平台</title>
-      <link>https://blog.cloudflare.com/programmable-sase/</link>
-      <description>【 As the only SASE platform with a native developer stack, we’re giving you the tools to build custom, real-time security logic and integrations directly at the edge. 】作为唯一具有本机开发人员堆栈的 SASE 平台，我们为您提供直接在边缘构建自定义实时安全逻辑和集成的工具。</description>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Beyond the blank slate: how Cloudflare accelerates your Zero Trust journey】超越空白：Cloudflare 如何加速您的零信任之旅</title>
-      <link>https://blog.cloudflare.com/cloudflare-one-onboarding-project-helix/</link>
-      <description>【 Project Helix simplifies and accelerates the onboarding process for Cloudflare One. By using automation and Terraform templates, this tool allows customers to quickly deploy a comprehensive, best-practice configuration in minutes. 】Project Helix 简化并加速了 Cloudflare One 的入职流程。通过使用自动化和 Terraform 模板，该工具允许客户在几分钟内快速部署全面的最佳实践配置。</description>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Toxic combinations: when small signals add up to a security incident】有毒组合：当小信号累积起来导致安全事件时</title>
-      <link>https://blog.cloudflare.com/toxic-combinations-security/</link>
-      <description>【 Minor misconfigurations or request anomalies often seem harmless in isolation. But when these small signals converge, they can trigger a security incident known as a toxic combination. Here’s how to spot the signs.  】轻微的配置错误或请求异常通常看起来是无害的。但当这些小信号汇聚在一起时，它们可能会引发被称为有毒组合的安全事件。以下是如何发现这些迹象。</description>
-      <pubDate>Fri, 27 Feb 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【We deserve a better streams API for JavaScript】我们应该有一个更好的 JavaScript 流 API</title>
-      <link>https://blog.cloudflare.com/a-better-web-streams-api/</link>
-      <description>【 The Web streams API has become ubiquitous in JavaScript runtimes but was designed for a different era. Here&#39;s what a modern streaming API could (should?) look like. 】Web 流 API 在 JavaScript 运行时中已经无处不在，但它是为不同的时代而设计的。这是现代流 API 可能（应该？）的样子。</description>
-      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
