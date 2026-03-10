@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Insiders (version 1.111)】内部人员（版本 1.111）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/insiders-(version-1.111)</link>
-      <description>【Learn what is new in Visual Studio Code 1.111 (Insiders) Read the full article】了解 Visual Studio Code 1.111 中的新增功能（内部人士） 阅读全文</description>
-      <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【Extend your coding agent with .NET Skills】使用 .NET 技能扩展您的编码代理</title>
+      <link>https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills</link>
+      <description>【Coding agents are becoming part of everyday development, but quality of responses and usefulness still depends on the best context as input. That context comes in different forms starting from your environment, the code in the workspace, the model training knowledge, previous memory, agent instructions, and of course your own starting prom】编码代理正在成为日常开发的一部分，但响应的质量和有用性仍然取决于作为输入的最佳上下文。该上下文有不同的形式，包括您的环境、工作区中的代码、模型训练知识、以前的记忆、代理指令，当然还有您自己的起始舞会</description>
+      <pubDate>Mon, 09 Mar 2026 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the Azure Skills Plugin】宣布推出 Azure 技能插件</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/announcing-the-azure-skills-plugin</link>
+      <description>【Part 1 of the Azure Skills Plugin series Coding agents like GitHub Copilot and Claude Code are great at code, but getting your app to production on Azure is not just about writing co】Azure 技能插件系列第 1 部分 GitHub Copilot 和 Claude Code 等编码代理非常擅长编写代码，但在 Azure 上将应用程序投入生产并不仅仅是编写代码</description>
+      <pubDate>Mon, 09 Mar 2026 20:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【March 2026 (version 1.111)】2026 年 3 月（版本 1.111）</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/march-2026-(version-1.111)</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.111 Read the full article】了解 Visual Studio Code 1.111 中的新增功能 阅读全文</description>
+      <pubDate>Mon, 09 Mar 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build a real-world example with Microsoft Agent Framework, Microsoft Foundry, MCP and Aspire】使用 Microsoft Agent Framework、Microsoft Foundry、MCP 和 Aspire 构建真实示例</title>
+      <link>https://devblogs.microsoft.com/blog/build-a-real-world-example-with-microsoft-agent-framework-microsoft-foundry-mcp-and-aspire</link>
+      <description>【Building AI agents is getting easier. Deploying them as part of a real application, with multiple services, persistent state, and production infrastructure, is where things get complicated. Developers from the .NET community have requested whether a real-world example that shows running on local machine as well as on the cloud in a cloud-nativ】构建人工智能代理变得越来越容易。将它们部署为具有多个服务、持久状态和生产基础设施的真实应用程序的一部分，是事情变得复杂的地方。来自 .NET 社区的开发人员询问是否有一个真实的示例来显示在本地计算机上以及在云原生中的云上运行</description>
+      <pubDate>Mon, 09 Mar 2026 16:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio Dev Essentials: Free, Practical Tools for Every Developer】Visual Studio Dev Essentials：适合每个开发人员的免费实用工具</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer</link>
+      <description>【When I first found Visual Studio Dev Essentials, it felt like discovering a hidden door in the developer toolkit world. I’d heard about free tools and cloud credits, but I wasn’t sure if it would really matter in day-to-day coding】当我第一次发现 Visual Studio Dev Essentials 时，感觉就像在开发人员工具包世界中发现了一扇隐藏的门。 我听说过免费工具和云积分，但我不确定这在日常编码中是否真的很重要</description>
+      <pubDate>Mon, 09 Mar 2026 15:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【General Availability: Email and SMS OTP as Second‑Factor MFA for Native Authentication in Entra External ID】全面上市：电子邮件和短信 OTP 作为 Entra 外部 ID 中本机身份验证的第二因素 MFA</title>
+      <link>https://devblogs.microsoft.com/identity/native-auth-mfa-ga</link>
+      <description>【Today we’re announcing the general availability of Email and SMS one‑time passcode (OTP) as second‑factor MFA for Native Authentication in Microsoft Entra External ID. This enables developers to add step‑up security to native sign‑in and sign‑up flows while keeping users fully inside their applications. This release focu】今天，我们宣布全面推出电子邮件和短信一次性密码 (OTP)，作为 Microsoft Entra 外部 ID 中本机身份验证的第二因素 MFA。这使得开发人员能够向本机登录和注册流程添加增强的安全性，同时让用户完全留在其应用程序中。本次发布重点</description>
+      <pubDate>Mon, 09 Mar 2026 14:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The fine print giveth and the bold print taketh away: The countdown timer】细则给予，粗体则取消：倒计时器</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120</link>
+      <description>【Some time ago, I was purchasing online tickets to an event. When I got to the end of the checkout flow, I got this:   Your seats will be held for only a limited time. If you do not complete your transaction in time, your seats will be relea】前段时间，我在网上购买一个活动的门票。当我完成结账流程时，我得到了这样的信息：您的座位将仅在有限的时间内保留。如果您未及时完成交易，您的席位将被释放</description>
+      <pubDate>Mon, 09 Mar 2026 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learning to read C++ compiler errors: Ambiguous overloaded operator】学习读取 C++ 编译器错误：不明确的重载运算符</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260309-00/?p=112118</link>
+      <description>【A customer was adding a feature to an old C++ code base, and the most convenient way to consume the feature was to use C++/WinRT. However, once they added C++/WinRT to their project, they ran into compiler errors in parts of their code that hadn&#39;t changed in decades. As an added wrinkle, the problem occurred only in 32-bit builds.】客户正在向旧的 C++ 代码库添加一项功能，使用该功能的最便捷方法是使用 C++/WinRT。然而，一旦他们将 C++/WinRT 添加到项目中，他们的部分代码就会遇到编译器错误，而这些代码几十年来都没有改变。另一个问题是，该问题仅出现在 32 位版本中。</description>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Build business understanding with Dataverse in Microsoft 365 Copilot】使用 Microsoft 365 Copilot 中的 Dataverse 建立业务理解</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/build-business-understanding-with-dataverse-in-microsoft-365-copilot</link>
+      <description>【Business applications hold some of the most valuable data in an organization—customer’s financial records, sales pipeline, support cases, inventory orders—but that data has traditionally been locked behind app-specific experiences. Users switch between Dynamics 365, Power Apps, Outlook, and Teams to piece toget】业务应用程序保存着组织中一些最有价值的数据——客户的财务记录、销售渠道、支持案例、库存订单——但这些数据传统上被锁定在特定于应用程序的体验后面。用户在 Dynamics 365、Power Apps、Outlook 和 Teams 之间切换以进行整合</description>
+      <pubDate>Mon, 09 Mar 2026 12:45:27 +0000</pubDate>
     </item>
     <item>
       <title>【What&#39;s new in Microsoft Foundry | February 2026】Microsoft Foundry 的新增功能 | 2026 年 2 月</title>
       <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-feb-2026</link>
-      <description>【TL;DR Claude Opus 4.6 + Sonnet 4.6: Anthropic&#39;s frontier models arrive in Foundry with 1M-token context (beta), adaptive thinking, and context compaction — Opus for deep reasoning, Sonnet for cost-efficient scale. GPT-Realtime-1.5 &amp;amp; GPT-Audio-1.5: Next-gen audio models w】TL;DR Claude Opus 4.6 + Sonnet 4.6：Anthropic 的前沿模型抵达 Foundry，具有 1M 代币上下文（测试版）、自适应思维和上下文压缩——Opus 用于深度推理，Sonnet 用于经济高效的规模。 GPT-Realtime-1.5 和 GPT-Audio-1.5：下一代音频模型</description>
+      <description>【Editor&#39;s note (March 9, 2026): This post was updated to correct Claude model availability (Global Standard deployment in East US 2 and Sweden Central only, preview status) and to clarify the relationship between the /openai/v1/ REST route prefix and the 2.x Foundry SDK package versions】编者注（2026 年 3 月 9 日）：本文已更新，以更正 Claude 模型的可用性（仅限美国东部 2 和瑞典中部的全球标准部署，预览状态），并澄清 /openai/v1/ REST 路由前缀与 2.x Foundry SDK 软件包版本之间的关系</description>
       <pubDate>Fri, 06 Mar 2026 23:08:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Prepare your add-in for Outlook ribbon improvements】准备加载项以改进 Outlook 功能区</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/prepare-your-addin-for-outlook-ribbon-improvements</link>
-      <description>【We’re improving how add-ins appear on the ribbon in Outlook on the web and the new Outlook on Windows. These Outlook ribbon updates make add-ins easier to find and align the experience across Outlook clients. Improvements include: Showing the group name specified in your manifest for the add-in’s ribbon button (instead of the】我们正在改进加载项在 Outlook 网页版和新的 Windows 版 Outlook 功能区上的显示方式。这些 Outlook 功能区更新使加载项更易于查找并在 Outlook 客户端之间调整体验。改进包括： 显示在清单中为加载项的功能区按钮指定的组名称（而不是</description>
-      <pubDate>Fri, 06 Mar 2026 21:43:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing TypeScript 6.0 RC】宣布推出 TypeScript 6.0 RC</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc</link>
-      <description>【Today we are excited to announce the Release Candidate (RC) of TypeScript 6.0! To get started using the RC, you can get it through npm with the following command: npm install -D typescript@rc TypeScript 6.0 is a unique release in t】今天，我们很高兴地宣布 TypeScript 6.0 的候选版本 (RC)！要开始使用 RC，您可以使用以下命令通过 npm 获取它： npm install -D typescript@rc TypeScript 6.0 是 t 中的唯一版本</description>
-      <pubDate>Fri, 06 Mar 2026 19:13:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.26.1-1 and 1.25.8-1 Microsoft builds now available】Go 1.26.1-1 和 1.25.8-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-26-1-1-and-1-25-8-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Fri, 06 Mar 2026 16:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【When &lt;CODE&gt;Read­Directory­ChangesW&lt;/CODE&gt; reports that a deletion occurred, how can I learn more about the deleted thing?】当 &lt;CODE&gt;ReadDirectoryChangesW&lt;/CODE&gt; 报告发生删除时，我如何了解有关已删除内容的更多信息？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
-      <description>【A customer was using Read­Directory­ChangesW to monitor changes to a directory. However, they ran into a problem when they received a FILE_ACTION_REMOVED notification: Since the notification is raised when the item is deleted, they can&#39;t do a Get­File­AttributesEx to find out whether】客户正在使用 ReadDirectoryChangesW 来监视目录的更改。但是，当他们收到 FILE_ACTION_REMOVED 通知时，他们遇到了问题：由于删除项目时会引发通知，因此他们无法执行 GetFileAttributesEx 来查明是否</description>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Using Agents to Setup Experiments】使用代理设置实验</title>
-      <link>https://devblogs.microsoft.com/ise/using-agents-to-setup-experiments</link>
-      <description>【Introduction: The Problem In a recent engagement, our team faced a complex challenge. Setting up a machine learning experiment required a long sequence of manual steps. None were individually hard, but together they created a fragile, error‑prone workflow. For example: – Users needed to provide key metadata (experiment name, hy】简介：问题 在最近的一次合作中，我们的团队面临着复杂的挑战。设置机器学习实验需要一系列手动步骤。单独来看，这些工作流程并不困难，但它们一起创建了一个脆弱且容易出错的工作流程。例如： – 用户需要提供关键元数据（实验名称、hy</description>
-      <pubDate>Fri, 06 Mar 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Windows Terminal Preview 1.25 Release】Windows 终端预览版 1.25 发布</title>
-      <link>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-25-release</link>
-      <description>【We briefly paused our quarterly release cycle to focus on reliability and performance, but now we&#39;re back with Windows Terminal 1.25! We are also updating Windows Terminal stable to version 1.24, which will include all of the features from】我们短暂暂停了季度发布周期，以专注于可靠性和性能，但现在我们又带着 Windows Terminal 1.25 回来了！我们还将 Windows Terminal 稳定版更新至 1.24 版，其中包含来自</description>
-      <pubDate>Thu, 05 Mar 2026 22:28:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Release v1.0 of the official MCP C# SDK】发布官方MCP C# SDK v1.0</title>
-      <link>https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk</link>
-      <description>【The Model Context Protocol (MCP) C# SDK has reached its v1.0 milestone, bringing full support for the 2025-11-25 version of the MCP Specifi】模型上下文协议 (MCP) C# SDK 已达到 v1.0 里程碑，全面支持 2025 年 11 月 25 日版本的 MCP 规范</description>
-      <pubDate>Thu, 05 Mar 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio at GDC Festival of Gaming 2026】Visual Studio 出席 2026 年 GDC 游戏节</title>
-      <link>https://devblogs.microsoft.com/cppblog/visual-studio-at-gdc-festival-of-gaming-2026</link>
-      <description>【Join us at GDC Festival of Gaming 2026 for a deep dive into Visual Studio, GitHub Copilot, PowerToys, and the Windows tools that speed up your daily dev workflow. We&#39;ll show how these tools work together to boost】欢迎参加 2026 年 GDC 游戏节，深入了解 Visual Studio、GitHub Copilot、PowerToys 以及可加快日常开发工作流程的 Windows 工具。我们将展示这些工具如何协同工作以促进</description>
-      <pubDate>Thu, 05 Mar 2026 17:16:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

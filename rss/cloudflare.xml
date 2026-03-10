@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Fixing request smuggling vulnerabilities in Pingora OSS deployments】修复 Pingora OSS 部署中的请求走私漏洞</title>
+      <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
+      <description>【 Today we’re disclosing request smuggling vulnerabilities when our open source Pingora service is deployed as an ingress proxy and how we’ve fixed them in Pingora 0.8.0.  】今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。</description>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Active defense: introducing a stateful vulnerability scanner for APIs】主动防御：引入 API 状态漏洞扫描器</title>
+      <link>https://blog.cloudflare.com/vulnerability-scanner/</link>
+      <description>【 Cloudflare’s new Web and API Vulnerability Scanner helps teams proactively find logic flaws. By using AI to build API call graphs, we identify vulnerabilities that standard defensive tools miss. 】Cloudflare 的新 Web 和 API 漏洞扫描程序可帮助团队主动发现逻辑缺陷。通过使用 AI 构建 API 调用图，我们可以识别标准防御工具遗漏的漏洞。</description>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Complexity is a choice. SASE migrations shouldn’t take years.】复杂性是一种选择。 SASE 迁移不会花费数年时间。</title>
+      <link>https://blog.cloudflare.com/complexity-is-a-choice-sase-migrations-shouldnt-take-years/</link>
+      <description>【 Discover how Cloudflare partners TachTech and Adapture are shattering the 18-month migration myth, deploying agile SASE for global enterprises in weeks by treating security as software. 】了解 Cloudflare 合作伙伴 TachTech 和 Adapture 如何打破 18 个月的迁移神话，通过将安全视为软件，在几周内为全球企业部署敏捷的 SASE。</description>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【From the endpoint to the prompt: a unified data security vision in Cloudflare One】从端点到提示：Cloudflare One 中的统一数据安全愿景</title>
       <link>https://blog.cloudflare.com/unified-data-security/</link>
       <description>【 Cloudflare One unifies data security from endpoint to prompt: RDP clipboard controls, operation-mapped logs, on-device DLP, and Microsoft 365 Copilot scanning via API CASB. 】Cloudflare One 统一了从端点到提示的数据安全性：RDP 剪贴板控件、操作映射日志、设备上 DLP 以及通过 API CASB 进行的 Microsoft 365 Copilot 扫描。</description>
@@ -16,15 +34,15 @@
       <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How Automatic Return Routing solves IP overlap】自动返回路由如何解决 IP 重叠问题</title>
-      <link>https://blog.cloudflare.com/automatic-return-routing-ip-overlap/</link>
-      <description>【 Automatic Return Routing (ARR) solves the common enterprise challenge of overlapping private IP addresses by using stateful flow tracking instead of traditional routing tables. This userspace-driven approach ensures return traffic reaches the correct origin tunnel without manual NAT or VRF configuration. 】自动返回路由 (ARR) 通过使用状态流跟踪而不是传统路由表，解决了私有 IP 地址重叠的常见企业挑战。这种用户空间驱动的方法可确保返回流量到达正确的原始隧道，而无需手动 NAT 或 VRF 配置。</description>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【A QUICker SASE client: re-building Proxy Mode】QUICker SASE 客户端：重建代理模式</title>
       <link>https://blog.cloudflare.com/faster-sase-proxy-mode-quic/</link>
       <description>【 By transitioning the Cloudflare One Client to use QUIC streams for Proxy Mode, we eliminated the overhead of user-space TCP stacks, resulting in a 2x increase in throughput and significant latency reduction for end users.  】通过将 Cloudflare One Client 转换为使用 QUIC 流进行代理模式，我们消除了用户空间 TCP 堆栈的开销，从而使最终用户的吞吐量增加了 2 倍，并显着减少了延迟。</description>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Automatic Return Routing solves IP overlap】自动返回路由如何解决 IP 重叠问题</title>
+      <link>https://blog.cloudflare.com/automatic-return-routing-ip-overlap/</link>
+      <description>【 Automatic Return Routing (ARR) solves the common enterprise challenge of overlapping private IP addresses by using stateful flow tracking instead of traditional routing tables. This userspace-driven approach ensures return traffic reaches the correct origin tunnel without manual NAT or VRF configuration. 】自动返回路由 (ARR) 通过使用状态流跟踪而不是传统路由表，解决了私有 IP 地址重叠的常见企业挑战。这种用户空间驱动的方法可确保返回流量到达正确的原始隧道，而无需手动 NAT 或 VRF 配置。</description>
       <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/</link>
       <description>【 Cloudflare One is partnering with Nametag to combat laptop farms and AI-enhanced identity fraud by requiring identity verification during employee onboarding and via continuous authentication. 】Cloudflare One 正在与 Nametag 合作，通过在员工入职期间要求身份验证和持续身份验证来打击笔记本电脑农场和人工智能增强的身份欺诈。</description>
       <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Stop reacting to breaches and start preventing them with User Risk Scoring】停止对违规行为做出反应，并开始通过用户风险评分来预防违规行为</title>
-      <link>https://blog.cloudflare.com/adaptive-access-user-risk-scoring/</link>
-      <description>【 Cloudflare One now incorporates dynamic User Risk Scores into Access policies to enable automated, adaptive security responses. This update allows teams to move beyond binary &#34;allow/deny&#34; rules by evaluating continuous behavior signals from both internal and third-party sources. 】Cloudflare One 现在将动态用户风险评分纳入访问策略中，以实现自动化、自适应安全响应。此更新允许团队通过评估来自内部和第三方来源的连续行为信号来超越二元“允许/拒绝”规则。</description>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Moving from license plates to badges: the Gateway Authorization Proxy】从车牌转向徽章：网关授权代理</title>
-      <link>https://blog.cloudflare.com/gateway-authorization-proxy-identity-aware-policies/</link>
-      <description>【 Cloudflare’s Gateway Authorization Proxy adds support for identity-aware policies for clientless devices, securing virtual desktops, and guest networks without a device client. 】Cloudflare 的网关授权代理增加了对无客户端设备的身份感知策略的支持，保护虚拟桌面和无需设备客户端的访客网络。</description>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing the 2026 Cloudflare Threat Report】2026 年 Cloudflare 威胁报告简介</title>
-      <link>https://blog.cloudflare.com/2026-threat-report/</link>
-      <description>【 There has been a fundamental shift toward industrialized cyber threats, highlighted by a record 31.4 Tbps DDoS attack and sophisticated session token theft. Our new report examines how nation-states and criminal actors have moved beyond traditional exploits to &#34;living off the XaaS&#34; within legitimate enterprise logic. 】工业化网络威胁已发生根本性转变，其中最突出的是创纪录的 31.4 Tbps DDoS 攻击和复杂的会话令牌盗窃。我们的新报告探讨了民族国家和犯罪分子如何超越传统的利用方式，在合法的企业逻辑中“依靠 XaaS 生存”。</description>
-      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

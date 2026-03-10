@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Top AI GitHub Repositories in 2026】2026 年顶级 AI GitHub 存储库</title>
+      <link>https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026</link>
+      <description>【Let&amp;#8217;s look at the most impactful AI repositories trending on GitHub right now, covering what they do, why they matter, and how they fit into the broader AI landscape.】让我们看看 GitHub 上目前最有影响力的人工智能存储库趋势，包括它们的用途、它们为何重要以及它们如何适应更广泛的人工智能领域。</description>
+      <pubDate>Mon, 09 Mar 2026 15:31:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP205: CPU vs GPU vs TPU】EP205：CPU、GPU、TPU</title>
+      <link>https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu</link>
+      <description>【Why does the same code run fast on a GPU, slow on a CPU, and leave both behind on a TPU? The answer is architecture.】为什么相同的代码在 GPU 上运行速度快，在 CPU 上运行速度慢，而在 TPU 上则两者都落后？答案是建筑。</description>
+      <pubDate>Sat, 07 Mar 2026 16:31:24 +0000</pubDate>
+    </item>
+    <item>
       <title>【How to Build High Throughput Systems】如何构建高吞吐量系统</title>
       <link>https://blog.bytebytego.com/p/how-to-build-high-throughput-systems</link>
       <description>【In this article, we will go through the fundamental concepts and practical strategies for building systems that can handle high volumes of work without breaking down under pressure.】在本文中，我们将介绍构建可以处理大量工作而不会在压力下崩溃的系统的基本概念和实用策略。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-uber-reinvented-access-control</link>
       <description>【In this article, we will look at how the Uber engineering team built Charter and the challenges they faced.】在本文中，我们将了解 Uber 工程团队如何构建 Charter 以及他们面临的挑战。</description>
       <pubDate>Tue, 24 Feb 2026 16:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Large Language Models Learn】大型语言模型如何学习</title>
-      <link>https://blog.bytebytego.com/p/how-large-language-models-learn</link>
-      <description>【In this article, we&amp;#8217;ll explore three core concepts that have a key impact on the working of LLM】在本文中，我们将探讨对法学硕士的工作产生关键影响的三个核心概念</description>
-      <pubDate>Mon, 23 Feb 2026 16:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP203: RabbitMQ vs Kafka vs Pulsar】EP203：RabbitMQ、Kafka、Pulsar</title>
-      <link>https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar</link>
-      <description>【RabbitMQ, Kafka, and Pulsar all move messages, but they solve very different problems under the hood.】RabbitMQ、Kafka 和 Pulsar 都会移动消息，但它们在底层解决的问题却截然不同。</description>
-      <pubDate>Sat, 21 Feb 2026 16:30:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
