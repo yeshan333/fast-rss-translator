@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Stateless Architecture: Benefits and Tradeoffs】无状态架构：优点和权衡</title>
+      <link>https://blog.bytebytego.com/p/stateless-architecture-benefits-and</link>
+      <description>【In this article, we will understand the nuances of stateless architecture in more detail.】在本文中，我们将更详细地了解无状态架构的细微差别。</description>
+      <pubDate>Thu, 12 Mar 2026 15:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Vimeo Implemented AI-Powered Subtitles】Vimeo 如何实施人工智能字幕</title>
+      <link>https://blog.bytebytego.com/p/how-vimeo-implemented-ai-powered</link>
+      <description>【In this article, we will look at how the Vimeo engineering team overcame this problem and the decisions it made】在本文中，我们将了解 Vimeo 工程团队如何克服这个问题以及他们做出的决定</description>
+      <pubDate>Wed, 11 Mar 2026 15:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days】Airbnb 如何在 360 天内推出 20 多种本地支付方式</title>
+      <link>https://blog.bytebytego.com/p/how-airbnb-rolled-out-20-local-payment</link>
+      <description>【In this article, we will look at the technical architecture and engineering decisions that made this expansion possible.】在本文中，我们将研究使这种扩展成为可能的技术架构和工程决策。</description>
+      <pubDate>Tue, 10 Mar 2026 15:31:17 +0000</pubDate>
+    </item>
+    <item>
       <title>【Top AI GitHub Repositories in 2026】2026 年顶级 AI GitHub 存储库</title>
       <link>https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026</link>
       <description>【Let&amp;#8217;s look at the most impactful AI repositories trending on GitHub right now, covering what they do, why they matter, and how they fit into the broader AI landscape.】让我们看看 GitHub 上目前最有影响力的人工智能存储库趋势，包括它们的用途、它们为何重要以及它们如何适应更广泛的人工智能领域。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase</link>
       <description>【AI is changing how we work. People who use AI get more done in less time. You do not need to code. You need to know which tool to use and when.】人工智能正在改变我们的工作方式。使用人工智能的人可以在更短的时间内完成更多的工作。您不需要编码。您需要知道使用哪种工具以及何时使用。</description>
       <pubDate>Sat, 28 Feb 2026 16:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Strong Consistency In Databases: Promises and Costs】数据库的强一致性：承诺和成本</title>
-      <link>https://blog.bytebytego.com/p/strong-consistency-in-databases-promises</link>
-      <description>【In this article, we will look at what strong consistency actually means, how systems deliver it, and what it really costs.】在本文中，我们将了解强一致性的实际含义、系统如何实现它以及它的真正成本。</description>
-      <pubDate>Thu, 26 Feb 2026 16:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Algorithm That Powers Your X (Twitter) Post】为您的 X (Twitter) 帖子提供支持的算法</title>
-      <link>https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x</link>
-      <description>【In this article, we will look at what the algorithm does, how its components fit together, and why the xAI Engineering Team made the design choices they did.】在本文中，我们将了解该算法的作用、其组件如何组合在一起，以及 xAI 工程团队为何做出这样的设计选择。</description>
-      <pubDate>Wed, 25 Feb 2026 16:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Uber Reinvented Access Control for Microservices】Uber 如何重塑微服务的访问控制</title>
-      <link>https://blog.bytebytego.com/p/how-uber-reinvented-access-control</link>
-      <description>【In this article, we will look at how the Uber engineering team built Charter and the challenges they faced.】在本文中，我们将了解 Uber 工程团队如何构建 Charter 以及他们面临的挑战。</description>
-      <pubDate>Tue, 24 Feb 2026 16:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

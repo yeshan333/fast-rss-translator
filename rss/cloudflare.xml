@@ -4,6 +4,42 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans】宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
+      <link>https://blog.cloudflare.com/account-abuse-protection/</link>
+      <description>【 Blocking bots isn’t enough anymore. Cloudflare’s new fraud prevention capabilities — now available in Early Access — help stop account abuse before it starts. 】阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。</description>
+      <pubDate>Thu, 12 Mar 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Slashing agent token costs by 98% with RFC 9457-compliant error responses】通过符合 RFC 9457 的错误响应，将代理令牌成本削减 98%</title>
+      <link>https://blog.cloudflare.com/rfc-9457-agent-error-pages/</link>
+      <description>【 Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into efficient control flow. 】Cloudflare 现在将符合 RFC 9457 的结构化 Markdown 和 JSON 错误负载返回给 AI 代理，用机器可读指令替换重量级 HTML 页面。这减少了超过 98% 的令牌使用量，将脆弱的解析转变为高效的控制流。</description>
+      <pubDate>Wed, 11 Mar 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI Security for Apps is now generally available】AI 应用安全现已全面推出</title>
+      <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
+      <description>【 Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help teams find and secure shadow AI deployments. 】Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。</description>
+      <pubDate>Wed, 11 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a security overview dashboard for actionable insights】构建安全概览仪表板以获取可行的见解</title>
+      <link>https://blog.cloudflare.com/security-overview-dashboard/</link>
+      <description>【 Cloudflare&#39;s new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.  】Cloudflare 的新安全概述仪表板将大量的安全数据转化为优先的、可操作的见解，为防御者提供有关漏洞的上下文情报。</description>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Investigating multi-vector attacks in Log Explorer】在 Log Explorer 中调查多向量攻击</title>
+      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
+      <description>【 Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network. 】Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。</description>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Translating risk insights into actionable protection: leveling up security posture with Cloudflare and Mastercard】将风险洞察转化为可行的保护：利用 Cloudflare 和 Mastercard 提升安全态势</title>
+      <link>https://blog.cloudflare.com/attack-surface-intelligence/</link>
+      <description>【 Cloudflare will be integrating Mastercard’s RiskRecon attack surface intelligence capabilities to help you eliminate Internet-facing blind spots while continuously monitoring and closing security gaps. 】Cloudflare 将集成万事达卡的 RiskRecon 攻击面情报功能，帮助您消除面向互联网的盲点，同时持续监控和缩小安全漏洞。</description>
+      <pubDate>Tue, 10 Mar 2026 05:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Fixing request smuggling vulnerabilities in Pingora OSS deployments】修复 Pingora OSS 部署中的请求走私漏洞</title>
       <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
       <description>【 Today we’re disclosing request smuggling vulnerabilities when our open source Pingora service is deployed as an ingress proxy and how we’ve fixed them in Pingora 0.8.0.  】今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。</description>
@@ -26,42 +62,6 @@
       <link>https://blog.cloudflare.com/unified-data-security/</link>
       <description>【 Cloudflare One unifies data security from endpoint to prompt: RDP clipboard controls, operation-mapped logs, on-device DLP, and Microsoft 365 Copilot scanning via API CASB. 】Cloudflare One 统一了从端点到提示的数据安全性：RDP 剪贴板控件、操作映射日志、设备上 DLP 以及通过 API CASB 进行的 Microsoft 365 Copilot 扫描。</description>
       <pubDate>Fri, 06 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Ending the &#34;silent drop&#34;: how Dynamic Path MTU Discovery makes the Cloudflare One Client more resilient】结束“无声丢弃”：动态路径 MTU 发现如何使 Cloudflare One Client 更具弹性</title>
-      <link>https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/</link>
-      <description>【 The Cloudflare One Client now features the ability to actively probe and adjust packet sizes. This update eliminates the problems caused by tunnel layering and MTU differences, providing more stability and resiliency.  】Cloudflare One Client 现在能够主动探测和调整数据包大小。此更新消除了隧道分层和 MTU 差异引起的问题，提供了更高的稳定性和弹性。 </description>
-      <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A QUICker SASE client: re-building Proxy Mode】QUICker SASE 客户端：重建代理模式</title>
-      <link>https://blog.cloudflare.com/faster-sase-proxy-mode-quic/</link>
-      <description>【 By transitioning the Cloudflare One Client to use QUIC streams for Proxy Mode, we eliminated the overhead of user-space TCP stacks, resulting in a 2x increase in throughput and significant latency reduction for end users.  】通过将 Cloudflare One Client 转换为使用 QUIC 流进行代理模式，我们消除了用户空间 TCP 堆栈的开销，从而使最终用户的吞吐量增加了 2 倍，并显着减少了延迟。</description>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Automatic Return Routing solves IP overlap】自动返回路由如何解决 IP 重叠问题</title>
-      <link>https://blog.cloudflare.com/automatic-return-routing-ip-overlap/</link>
-      <description>【 Automatic Return Routing (ARR) solves the common enterprise challenge of overlapping private IP addresses by using stateful flow tracking instead of traditional routing tables. This userspace-driven approach ensures return traffic reaches the correct origin tunnel without manual NAT or VRF configuration. 】自动返回路由 (ARR) 通过使用状态流跟踪而不是传统路由表，解决了私有 IP 地址重叠的常见企业挑战。这种用户空间驱动的方法可确保返回流量到达正确的原始隧道，而无需手动 NAT 或 VRF 配置。</description>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Always-on detections: eliminating the WAF “log versus block” trade-off】始终在线检测：消除 WAF“日志与块”的权衡</title>
-      <link>https://blog.cloudflare.com/attack-signature-detection/</link>
-      <description>【 Cloudflare is introducing Attack Signature Detection and Full-Transaction Detection to provide continuous, high-fidelity security insights without the manual tuning of traditional WAFs. By correlating request payloads with server responses, we can now identify successful exploits and data exfiltration while minimizing false positives. 】Cloudflare 引入了攻击签名检测和全事务检测，以提供持续、高保真的安全洞察，而无需手动调整传统 WAF。通过将请求负载与服务器响应相关联，我们现在可以识别成功的漏洞利用和数据泄露，同时最大限度地减少误报。</description>
-      <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Mind the gap: new tools for continuous enforcement from boot to login】注意差距：从启动到登录持续执行的新工具</title>
-      <link>https://blog.cloudflare.com/mandatory-authentication-mfa/</link>
-      <description>【 Cloudflare’s mandatory authentication and independent MFA protect organizations by ensuring continuous enforcement, from the moment a machine boots until sensitive resources are accessed. 】Cloudflare 的强制身份验证和独立的 MFA 通过确保从计算机启动到访问敏感资源的持续执行来保护组织。</description>
-      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Defeating the deepfake: stopping laptop farms and insider threats】击败深度造假：阻止笔记本电脑农场和内部威胁</title>
-      <link>https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/</link>
-      <description>【 Cloudflare One is partnering with Nametag to combat laptop farms and AI-enhanced identity fraud by requiring identity verification during employee onboarding and via continuous authentication. 】Cloudflare One 正在与 Nametag 合作，通过在员工入职期间要求身份验证和持续身份验证来打击笔记本电脑农场和人工智能增强的身份欺诈。</description>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

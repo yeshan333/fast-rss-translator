@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Extend your coding agent with .NET Skills】使用 .NET 技能扩展您的编码代理</title>
-      <link>https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills</link>
-      <description>【Coding agents are becoming part of everyday development, but quality of responses and usefulness still depends on the best context as input. That context comes in different forms starting from your environment, the code in the workspace, the model training knowledge, previous memory, agent instructions, and of course your own starting prom】编码代理正在成为日常开发的一部分，但响应的质量和有用性仍然取决于作为输入的最佳上下文。该上下文有不同的形式，包括您的环境、工作区中的代码、模型训练知识、以前的记忆、代理指令，当然还有您自己的起始舞会</description>
-      <pubDate>Mon, 09 Mar 2026 20:30:00 +0000</pubDate>
+      <title>【VS Code 1.112 Insiders】VS Code 1.112 内部人员</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/vs-code-1.112-insiders</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.112 (Insiders) Read the full article】了解 Visual Studio Code 1.112 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 18 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Azure Skills Plugin】宣布推出 Azure 技能插件</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/announcing-the-azure-skills-plugin</link>
-      <description>【Part 1 of the Azure Skills Plugin series Coding agents like GitHub Copilot and Claude Code are great at code, but getting your app to production on Azure is not just about writing co】Azure 技能插件系列第 1 部分 GitHub Copilot 和 Claude Code 等编码代理非常擅长编写代码，但在 Azure 上将应用程序投入生产并不仅仅是编写代码</description>
-      <pubDate>Mon, 09 Mar 2026 20:02:13 +0000</pubDate>
+      <title>【Evolving DirectX for the ML Era on Windows】Windows 上的 ML 时代的 DirectX 演进</title>
+      <link>https://devblogs.microsoft.com/directx/evolving-directx-for-the-ml-era-on-windows</link>
+      <description>【At GDC this year, we shared how machine learning is becoming foundational to real time graphics, and how DirectX is evolving to meet that shift across shader level and model level ML. ML is no longer a niche optimization or a postprocess trick. It’s increasingly embedded throughout the graphics pipeline, influencing how frames are generated,】在今年的 GDC 上，我们分享了机器学习如何成为实时图形的基础，以及 DirectX 如何发展以满足着色器级别和模型级别 ML 的转变。机器学习不再是一种利基优化或后处理技巧。它越来越多地嵌入整个图形管道，影响帧的生成方式，</description>
+      <pubDate>Thu, 12 Mar 2026 20:33:24 +0000</pubDate>
     </item>
     <item>
-      <title>【March 2026 (version 1.111)】2026 年 3 月（版本 1.111）</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/march-2026-(version-1.111)</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.111 Read the full article】了解 Visual Studio Code 1.111 中的新增功能 阅读全文</description>
-      <pubDate>Mon, 09 Mar 2026 17:00:00 +0000</pubDate>
+      <title>【Microsoft at JavaOne: Empowering Java developers to lead the next era of AI】微软在 JavaOne：帮助 Java 开发者引领人工智能的下一个时代</title>
+      <link>https://devblogs.microsoft.com/java/microsoft-at-javaone-empowering-java-developers-to-lead-the-next-era-of-ai</link>
+      <description>【Java has powered some of the world’s most mission‑critical systems for decades and that’s a big part of why we’re excited to be back with the community at JavaOne 2026 (March 17–19 in Redwood City). At Microsoft, we get to work with Java teams every day: folks shipping at massive scale, running on tight SLAs, modernizing mature codeb】几十年来，Java 一直为世界上一些最关键的任务系统提供支持，这也是我们很高兴能在 JavaOne 2026（3 月 17 日至 19 日在雷德伍德城）上与社区重聚的一个重要原因。在 Microsoft，我们每天都与 Java 团队合作：大规模交付、按照严格的 SLA 运行、对成熟的代码库进行现代化改造</description>
+      <pubDate>Thu, 12 Mar 2026 20:08:19 +0000</pubDate>
     </item>
     <item>
-      <title>【Build a real-world example with Microsoft Agent Framework, Microsoft Foundry, MCP and Aspire】使用 Microsoft Agent Framework、Microsoft Foundry、MCP 和 Aspire 构建真实示例</title>
-      <link>https://devblogs.microsoft.com/blog/build-a-real-world-example-with-microsoft-agent-framework-microsoft-foundry-mcp-and-aspire</link>
-      <description>【Building AI agents is getting easier. Deploying them as part of a real application, with multiple services, persistent state, and production infrastructure, is where things get complicated. Developers from the .NET community have requested whether a real-world example that shows running on local machine as well as on the cloud in a cloud-nativ】构建人工智能代理变得越来越容易。将它们部署为具有多个服务、持久状态和生产基础设施的真实应用程序的一部分，是事情变得复杂的地方。来自 .NET 社区的开发人员询问是否有一个真实的示例来显示在本地计算机上以及在云原生中的云上运行</description>
-      <pubDate>Mon, 09 Mar 2026 16:00:42 +0000</pubDate>
+      <title>【Agent Harness in Agent Framework】Agent 框架中的 Agent Harness</title>
+      <link>https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework</link>
+      <description>【Agent harness is the layer where model reasoning connects to real execution: shell and filesystem access, approval flows, and context management across long-running sessions. With Agent Framework, these patterns can now be built consistently in both Python and .NET. In this post, we’ll look at three practical building blocks for】代理利用是模型推理与实际执行相连接的层：shell 和文件系统访问、审批流程以及跨长时间运行会话的上下文管理。借助 Agent Framework，现在可以在 Python 和 .NET 中一致地构建这些模式。在这篇文章中，我们将介绍三个实用的构建模块</description>
+      <pubDate>Thu, 12 Mar 2026 19:30:26 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Dev Essentials: Free, Practical Tools for Every Developer】Visual Studio Dev Essentials：适合每个开发人员的免费实用工具</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer</link>
-      <description>【When I first found Visual Studio Dev Essentials, it felt like discovering a hidden door in the developer toolkit world. I’d heard about free tools and cloud credits, but I wasn’t sure if it would really matter in day-to-day coding】当我第一次发现 Visual Studio Dev Essentials 时，感觉就像在开发人员工具包世界中发现了一扇隐藏的门。 我听说过免费工具和云积分，但我不确定这在日常编码中是否真的很重要</description>
-      <pubDate>Mon, 09 Mar 2026 15:35:00 +0000</pubDate>
+      <title>【DirectX: Bringing Console-Level Developer Tools to Windows】DirectX：将控制台级开发人员工具引入 Windows</title>
+      <link>https://devblogs.microsoft.com/directx/directx-bringing-console-level-developer-tools-to-windows</link>
+      <description>【On March 12th, 2026, the DirectX team and our hardware partners hosted DirectX: Br】2026 年 3 月 12 日，DirectX 团队和我们的硬件合作伙伴主办了 DirectX：Br</description>
+      <pubDate>Thu, 12 Mar 2026 19:26:17 +0000</pubDate>
     </item>
     <item>
-      <title>【General Availability: Email and SMS OTP as Second‑Factor MFA for Native Authentication in Entra External ID】全面上市：电子邮件和短信 OTP 作为 Entra 外部 ID 中本机身份验证的第二因素 MFA</title>
-      <link>https://devblogs.microsoft.com/identity/native-auth-mfa-ga</link>
-      <description>【Today we’re announcing the general availability of Email and SMS one‑time passcode (OTP) as second‑factor MFA for Native Authentication in Microsoft Entra External ID. This enables developers to add step‑up security to native sign‑in and sign‑up flows while keeping users fully inside their applications. This release focu】今天，我们宣布全面推出电子邮件和短信一次性密码 (OTP)，作为 Microsoft Entra 外部 ID 中本机身份验证的第二因素 MFA。这使得开发人员能够向本机登录和注册流程添加增强的安全性，同时让用户完全留在其应用程序中。本次发布重点</description>
-      <pubDate>Mon, 09 Mar 2026 14:42:45 +0000</pubDate>
+      <title>【Modernize .NET Anywhere with GitHub Copilot】使用 GitHub Copilot 实现 .NET Anywhere 现代化</title>
+      <link>https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp</link>
+      <description>【Modernizing a .NET application is rarely a single step. It requires understanding the current state of the codebase, evaluating dependencies, identifying potential breaking changes, and sequencing updates carefully. Until recently, GitHub Copilot modernization for .NET ran primarily inside Visual Studio. That worked well for teams st】.NET 应用程序的现代化很少是一步完成的。它需要了解代码库的当前状态，评估依赖关系，识别潜在的重大更改，并仔细排序更新。直到最近，.NET 的 GitHub Copilot 现代化主要在 Visual Studio 内运行。这对团队来说效果很好</description>
+      <pubDate>Thu, 12 Mar 2026 17:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【The fine print giveth and the bold print taketh away: The countdown timer】细则给予，粗体则取消：倒计时器</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120</link>
-      <description>【Some time ago, I was purchasing online tickets to an event. When I got to the end of the checkout flow, I got this:   Your seats will be held for only a limited time. If you do not complete your transaction in time, your seats will be relea】前段时间，我在网上购买一个活动的门票。当我完成结账流程时，我得到了这样的信息：您的座位将仅在有限的时间内保留。如果您未及时完成交易，您的席位将被释放</description>
-      <pubDate>Mon, 09 Mar 2026 14:00:01 +0000</pubDate>
+      <title>【.NET 10.0.5 Out-of-Band Release - macOS Debugger Fix】.NET 10.0.5 带外版本 - macOS 调试器修复</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix</link>
+      <description>【We are releasing .NET 10.0.5 as an out-of-band (OOB) update to address a regression introduced in .NET 10.0.4. What&#39;s the issue? .NET 10.0.4 introduced a regression that causes the debugger to crash when debugging applications on macOS using Visual Studio Code. After installing .NET SDK 10.0.104 or 10.0.200, the debugger could crash】我们将 .NET 10.0.5 作为带外 (OOB) 更新发布，以解决 .NET 10.0.4 中引入的回归问题。有什么问题吗？ .NET 10.0.4 引入了一个回归，当使用 Visual Studio Code 在 macOS 上调试应用程序时，该回归会导致调试器崩溃。安装 .NET SDK 10.0.104 或 10.0.200 后，调试器可能会崩溃</description>
+      <pubDate>Thu, 12 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Learning to read C++ compiler errors: Ambiguous overloaded operator】学习读取 C++ 编译器错误：不明确的重载运算符</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260309-00/?p=112118</link>
-      <description>【A customer was adding a feature to an old C++ code base, and the most convenient way to consume the feature was to use C++/WinRT. However, once they added C++/WinRT to their project, they ran into compiler errors in parts of their code that hadn&#39;t changed in decades. As an added wrinkle, the problem occurred only in 32-bit builds.】客户正在向旧的 C++ 代码库添加一项功能，使用该功能的最便捷方法是使用 C++/WinRT。然而，一旦他们将 C++/WinRT 添加到项目中，他们的部分代码就会遇到编译器错误，而这些代码几十年来都没有改变。另一个问题是，该问题仅出现在 32 位版本中。</description>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
+      <title>【Windows stack limit checking retrospective: x86-32, also known as i386】Windows 堆栈限制检查回顾：x86-32，也称为 i386</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</link>
+      <description>【We start our survey of historical stack limit checking functions on Windows with the 80386 family of processors. This function has actually changed form over the years, so we&#39;ll start with the &#34;original flavor&#34;. Originally, the _chkstk function was called by putting the desired number of bytes in the eax re】我们开始对 Windows 上 80386 系列处理器的历史堆栈限制检查功能进行调查。这个功能多年来实际上已经改变了形式，所以我们将从“原始风味”开始。最初，_chkstk 函数是通过将所需字节数放入 eax re 中来调用的。</description>
+      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Build business understanding with Dataverse in Microsoft 365 Copilot】使用 Microsoft 365 Copilot 中的 Dataverse 建立业务理解</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/build-business-understanding-with-dataverse-in-microsoft-365-copilot</link>
-      <description>【Business applications hold some of the most valuable data in an organization—customer’s financial records, sales pipeline, support cases, inventory orders—but that data has traditionally been locked behind app-specific experiences. Users switch between Dynamics 365, Power Apps, Outlook, and Teams to piece toget】业务应用程序保存着组织中一些最有价值的数据——客户的财务记录、销售渠道、支持案例、库存订单——但这些数据传统上被锁定在特定于应用程序的体验后面。用户在 Dynamics 365、Power Apps、Outlook 和 Teams 之间切换以进行整合</description>
-      <pubDate>Mon, 09 Mar 2026 12:45:27 +0000</pubDate>
+      <title>【Advanced Shader Delivery: What’s New at GDC 2026】高级着色器交付：GDC 2026 的新增功能</title>
+      <link>https://devblogs.microsoft.com/directx/advanced-shader-delivery-whats-new-at-gdc-2026</link>
+      <description>【Today we announced the innovation we’re bringing in solving shader compilation for the ecosystem at our GDC Talk: Advanced Shader Delivery for Windows. Want to find out what this means for solving shader compilation for your title and customers? Read on! State of the Industry Long shader com】今天，我们在 GDC 演讲中宣布了为解决生态系统着色器编译问题而引入的创新：适用于 Windows 的高级着色器交付。想要了解这对于解决您的游戏和客户的着色器编译问题意味着什么？继续阅读！行业现状长着色器 com</description>
+      <pubDate>Thu, 12 Mar 2026 11:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new in Microsoft Foundry | February 2026】Microsoft Foundry 的新增功能 | 2026 年 2 月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-feb-2026</link>
-      <description>【Editor&#39;s note (March 9, 2026): This post was updated to correct Claude model availability (Global Standard deployment in East US 2 and Sweden Central only, preview status) and to clarify the relationship between the /openai/v1/ REST route prefix and the 2.x Foundry SDK package versions】编者注（2026 年 3 月 9 日）：本文已更新，以更正 Claude 模型的可用性（仅限美国东部 2 和瑞典中部的全球标准部署，预览状态），并澄清 /openai/v1/ REST 路由前缀与 2.x Foundry SDK 软件包版本之间的关系</description>
-      <pubDate>Fri, 06 Mar 2026 23:08:31 +0000</pubDate>
+      <title>【Temporary rollback: build identities can access Advanced Security: read alerts again】临时回滚：构建身份可以访问高级安全性：再次读取警报</title>
+      <link>https://devblogs.microsoft.com/devops/temporary-rollback-build-identities-can-access-advanced-security-read-alerts-again</link>
+      <description>【If you use build service identities like Project Collection Build Service to call Advanced Security APIs, the Advanced Security permission changes in Sprint 269 broke that】如果您使用诸如项目集合构建服务之类的构建服务身份来调用高级安全 API，则 Sprint 269 中的高级安全权限更改会打破这一点</description>
+      <pubDate>Wed, 11 Mar 2026 23:46:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

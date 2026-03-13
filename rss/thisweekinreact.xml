@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #272: Astro, Compiler, Next.js, shadcn, Aria, Helmet, Preact | Navigation, Expo Agent, Observe, Widgets, Activity, Evals, MMKV, Hermes | Node.js, Source Maps, TanStack Intent, TypeGPU, TypeScript】本周 React #272：Astro、编译器、Next.js、shadcn、Aria、Helmet、Preact |导航、Expo Agent、观察、小部件、活动、评估、MMKV、Hermes | Node.js、源映射、TanStack 意图、TypeGPU、TypeScript</title>
+      <link>https://thisweekinreact.com/newsletter/272</link>
+      <description>【Hi everyone\! Filip and Tymek from Software Mansion here\! 👋】大家好\！ Software Mansion 的 Filip 和 Tymek 在这里\！ 👋</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #271: Vinext, RSC, Activity, Async React, Next.js, TanStack | Expo 55, Router, Survey, Enriched, Maestro, Metro, Sparkling, Grab, Brownfield | TC39, Temporal, Navigation, npmx, Bun, Deno, Solid】本周 React #271：Vinext、RSC、Activity、Async React、Next.js、TanStack | Expo 55、路由器、调查、丰富、大师、地铁、闪闪发光、抓取、棕地 | TC39、时间、导航、npmx、Bun、Deno、Solid</title>
       <link>https://thisweekinreact.com/newsletter/271</link>
       <description>【Hi everyone\!】大家好\！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/268</link>
       <description>【Hi everyone\!】大家好\！</description>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #267: Bun, Next-Intl, Grab, Aria, ViewTransition, Skills, Gatsby, R3f | Worklets, Teleport, Voltra, AI SDK, Screens, Tamagui, Xcode, Agent-Device | State of JS, Temporal, Babel, Astro, npmx】本周 React #267：Bun、Next-Intl、Grab、Aria、ViewTransition、Skills、Gatsby、R3f | Worklets、Teleport、Voltra、AI SDK、Screens、Tamagui、Xcode、Agent-Device | JS、Temporal、Babel、Astro、npmx 的状态</title>
-      <link>https://thisweekinreact.com/newsletter/267</link>
-      <description>【Hi everyone\!】大家好\！</description>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
