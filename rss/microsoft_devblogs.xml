@@ -10,6 +10,42 @@
       <pubDate>Wed, 18 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【March Patches for Azure DevOps Server】Azure DevOps Server 3 月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-4</link>
+      <description>【We are releasing patches for our self‑hosted product, Azure DevOps Server. We strongly recommend that all customers stay on the latest, most secure version of Azure DevOps Server. The latest release, Azure DevOps Server, is available from the】我们正在为我们的自托管产品 Azure DevOps Server 发布补丁。我们强烈建议所有客户继续使用最新、最安全版本的 Azure DevOps Server。最新版本 Azure DevOps Server 可从</description>
+      <pubDate>Fri, 13 Mar 2026 21:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Human Scale Problem in Platform Engineering】平台工程中的人性化问题</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/the-human-scale-problem-in-platform-engineering</link>
+      <description>【We keep doing this thing where we solve a problem, celebrate the victory, then realize we&#39;ve created three new problems we didn&#39;t even know existed. Remember when manually configuring servers was the bottleneck? So we built containers. Great! Now we&#39;re orchestrating thousands of them. Remember when monolithic deployments were too slow? So w】我们不断地做这件事，解决一个问题，庆祝胜利，然后意识到我们已经创造了三个我们甚至不知道存在的新问题。还记得手动配置服务器曾经是瓶颈吗？所以我们建造了容器。伟大的！现在我们正在策划数千个这样的活动。还记得单体部署太慢的时候吗？所以w</description>
+      <pubDate>Fri, 13 Mar 2026 20:22:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd): Debug hosted AI agents from your terminal】Azure 开发人员 CLI (azd)：从终端调试托管 AI 代理</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azd-ai-agent-logs-status</link>
+      <description>【When a hosted AI agent crashes, azd now shows you the status and streams live logs—right from the CLI. What&#39;s new? The azure.ai.agents extension adds two commands:】当托管 AI 代理崩溃时，azd 现在会直接从 CLI 向您显示状态并流式传输实时日志。什么是新的？ azure.ai.agents 扩展添加了两个命令：</description>
+      <pubDate>Fri, 13 Mar 2026 19:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Windows stack limit checking retrospective: MIPS】Windows 堆栈限制检查回顾：MIPS</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</link>
+      <description>【Last time, we looked at how the 80386 performed stack probing on entry to a function with a large local frame. Today we&#39;ll look at MIPS, which differs in a few ways. ; on entry, t8 = desired sta】上次，我们了解了 80386 如何在具有大型本地帧的函数入口处执行堆栈探测。今天我们将了解 MIPS，它在几个方面有所不同。 ;进入时，t8 = 所需的 sta</description>
+      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What&#39;s New in Agent Skills: Code Skills, Script Execution, and Approval for Python】代理技能的新增功能：代码技能、脚本执行和 Python 批准</title>
+      <link>https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python</link>
+      <description>【Code-Defined Skills, Script Execution, and Approval for Agent Skills in Python When we introduced Agent Skills for Microsoft Agent Framework, you could package domain expertise as file-based s】Python 中的代码定义技能、脚本执行和代理技能审批当我们引入 Microsoft Agent Framework 的代理技能时，您可以将领域专业知识打包为基于文件的技术</description>
+      <pubDate>Fri, 13 Mar 2026 11:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How VS Code Builds with AI】VS Code 如何使用 AI 进行构建</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/how-vs-code-builds-with-ai</link>
+      <description>【Learn how VS Code uses AI across its own development workflow with GitHub Copilot agent mode, automated testing, and AI-powered code review. Read the full article】了解 VS Code 如何通过 GitHub Copilot 代理模式、自动化测试和 AI 支持的代码审查在其自己的开发工作流程中使用 AI。阅读全文</description>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Evolving DirectX for the ML Era on Windows】Windows 上的 ML 时代的 DirectX 演进</title>
       <link>https://devblogs.microsoft.com/directx/evolving-directx-for-the-ml-era-on-windows</link>
       <description>【At GDC this year, we shared how machine learning is becoming foundational to real time graphics, and how DirectX is evolving to meet that shift across shader level and model level ML. ML is no longer a niche optimization or a postprocess trick. It’s increasingly embedded throughout the graphics pipeline, influencing how frames are generated,】在今年的 GDC 上，我们分享了机器学习如何成为实时图形的基础，以及 DirectX 如何发展以满足着色器级别和模型级别 ML 的转变。机器学习不再是一种利基优化或后处理技巧。它越来越多地嵌入整个图形管道，影响帧的生成方式，</description>
@@ -26,42 +62,6 @@
       <link>https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework</link>
       <description>【Agent harness is the layer where model reasoning connects to real execution: shell and filesystem access, approval flows, and context management across long-running sessions. With Agent Framework, these patterns can now be built consistently in both Python and .NET. In this post, we’ll look at three practical building blocks for】代理利用是模型推理与实际执行相连接的层：shell 和文件系统访问、审批流程以及跨长时间运行会话的上下文管理。借助 Agent Framework，现在可以在 Python 和 .NET 中一致地构建这些模式。在这篇文章中，我们将介绍三个实用的构建模块</description>
       <pubDate>Thu, 12 Mar 2026 19:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DirectX: Bringing Console-Level Developer Tools to Windows】DirectX：将控制台级开发人员工具引入 Windows</title>
-      <link>https://devblogs.microsoft.com/directx/directx-bringing-console-level-developer-tools-to-windows</link>
-      <description>【On March 12th, 2026, the DirectX team and our hardware partners hosted DirectX: Br】2026 年 3 月 12 日，DirectX 团队和我们的硬件合作伙伴主办了 DirectX：Br</description>
-      <pubDate>Thu, 12 Mar 2026 19:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Modernize .NET Anywhere with GitHub Copilot】使用 GitHub Copilot 实现 .NET Anywhere 现代化</title>
-      <link>https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp</link>
-      <description>【Modernizing a .NET application is rarely a single step. It requires understanding the current state of the codebase, evaluating dependencies, identifying potential breaking changes, and sequencing updates carefully. Until recently, GitHub Copilot modernization for .NET ran primarily inside Visual Studio. That worked well for teams st】.NET 应用程序的现代化很少是一步完成的。它需要了解代码库的当前状态，评估依赖关系，识别潜在的重大更改，并仔细排序更新。直到最近，.NET 的 GitHub Copilot 现代化主要在 Visual Studio 内运行。这对团队来说效果很好</description>
-      <pubDate>Thu, 12 Mar 2026 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET 10.0.5 Out-of-Band Release - macOS Debugger Fix】.NET 10.0.5 带外版本 - macOS 调试器修复</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix</link>
-      <description>【We are releasing .NET 10.0.5 as an out-of-band (OOB) update to address a regression introduced in .NET 10.0.4. What&#39;s the issue? .NET 10.0.4 introduced a regression that causes the debugger to crash when debugging applications on macOS using Visual Studio Code. After installing .NET SDK 10.0.104 or 10.0.200, the debugger could crash】我们将 .NET 10.0.5 作为带外 (OOB) 更新发布，以解决 .NET 10.0.4 中引入的回归问题。有什么问题吗？ .NET 10.0.4 引入了一个回归，当使用 Visual Studio Code 在 macOS 上调试应用程序时，该回归会导致调试器崩溃。安装 .NET SDK 10.0.104 或 10.0.200 后，调试器可能会崩溃</description>
-      <pubDate>Thu, 12 Mar 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Windows stack limit checking retrospective: x86-32, also known as i386】Windows 堆栈限制检查回顾：x86-32，也称为 i386</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</link>
-      <description>【We start our survey of historical stack limit checking functions on Windows with the 80386 family of processors. This function has actually changed form over the years, so we&#39;ll start with the &#34;original flavor&#34;. Originally, the _chkstk function was called by putting the desired number of bytes in the eax re】我们开始对 Windows 上 80386 系列处理器的历史堆栈限制检查功能进行调查。这个功能多年来实际上已经改变了形式，所以我们将从“原始风味”开始。最初，_chkstk 函数是通过将所需字节数放入 eax re 中来调用的。</description>
-      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Advanced Shader Delivery: What’s New at GDC 2026】高级着色器交付：GDC 2026 的新增功能</title>
-      <link>https://devblogs.microsoft.com/directx/advanced-shader-delivery-whats-new-at-gdc-2026</link>
-      <description>【Today we announced the innovation we’re bringing in solving shader compilation for the ecosystem at our GDC Talk: Advanced Shader Delivery for Windows. Want to find out what this means for solving shader compilation for your title and customers? Read on! State of the Industry Long shader com】今天，我们在 GDC 演讲中宣布了为解决生态系统着色器编译问题而引入的创新：适用于 Windows 的高级着色器交付。想要了解这对于解决您的游戏和客户的着色器编译问题意味着什么？继续阅读！行业现状长着色器 com</description>
-      <pubDate>Thu, 12 Mar 2026 11:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Temporary rollback: build identities can access Advanced Security: read alerts again】临时回滚：构建身份可以访问高级安全性：再次读取警报</title>
-      <link>https://devblogs.microsoft.com/devops/temporary-rollback-build-identities-can-access-advanced-security-read-alerts-again</link>
-      <description>【If you use build service identities like Project Collection Build Service to call Advanced Security APIs, the Advanced Security permission changes in Sprint 269 broke that】如果您使用诸如项目集合构建服务之类的构建服务身份来调用高级安全 API，则 Sprint 269 中的高级安全权限更改会打破这一点</description>
-      <pubDate>Wed, 11 Mar 2026 23:46:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

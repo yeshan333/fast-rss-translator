@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP206: Git Workflow: Essential Commands】EP206：Git 工作流程：基本命令</title>
+      <link>https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands</link>
+      <description>【Git has a lot of commands. Most workflows use a fraction of them.】Git 有很多命令。大多数工作流程只使用其中的一小部分。</description>
+      <pubDate>Sat, 14 Mar 2026 15:30:58 +0000</pubDate>
+    </item>
+    <item>
       <title>【Stateless Architecture: Benefits and Tradeoffs】无状态架构：优点和权衡</title>
       <link>https://blog.bytebytego.com/p/stateless-architecture-benefits-and</link>
       <description>【In this article, we will understand the nuances of stateless architecture in more detail.】在本文中，我们将更详细地了解无状态架构的细微差别。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/the-architecture-behind-open-source</link>
       <description>【In this article, we will cover various open-source models and the engineering bets that define each one.】在本文中，我们将介绍各种开源模型以及定义每个模型的工程赌注。</description>
       <pubDate>Mon, 02 Mar 2026 16:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP204: 11 Ways To Use AI To Increase Your Productivity】EP204：使用人工智能提高生产力的 11 种方法</title>
-      <link>https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase</link>
-      <description>【AI is changing how we work. People who use AI get more done in less time. You do not need to code. You need to know which tool to use and when.】人工智能正在改变我们的工作方式。使用人工智能的人可以在更短的时间内完成更多的工作。您不需要编码。您需要知道使用哪种工具以及何时使用。</description>
-      <pubDate>Sat, 28 Feb 2026 16:30:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
