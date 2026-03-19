@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【I struggled with AI agents until I built an incident response agent 】我一直在与人工智能代理作斗争，直到我构建了一个事件响应代理</title>
+      <link>https://newsletter.systemdesign.one/p/how-do-ai-agents-work</link>
+      <description>【#131: Step-by-step guide to building your first AI agent】#131：构建第一个 AI 代理的分步指南</description>
+      <pubDate>Wed, 18 Mar 2026 14:17:46 +0000</pubDate>
+    </item>
+    <item>
       <title>【21 Reinforcement Learning (RL) Concepts Explained Simply】21 个强化学习 (RL) 概念简单解释</title>
       <link>https://newsletter.systemdesign.one/p/what-is-reinforcement-learning</link>
       <description>【#130: Finally understand RL without getting confused by its fancy math equations】#130：最终理解强化学习，而不会被其奇特的数学方程所困惑</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/system-design-core-concepts</link>
       <description>【#122: Part 2 - websockets, gateway, distributed cache, and 35 others.】#122：第 2 部分 - websockets、网关、分布式缓存和其他 35 个。</description>
       <pubDate>Sat, 14 Feb 2026 16:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Behavioral Interview Playbook for Software Engineers】软件工程师行为面试手册</title>
-      <link>https://newsletter.systemdesign.one/p/common-behavioral-interview-questions</link>
-      <description>【#121: Proven strategies to ace behavioral interviews】#121：行之有效的行为面试策略</description>
-      <pubDate>Thu, 12 Feb 2026 09:21:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

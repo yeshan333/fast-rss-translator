@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How OpenAI Codex Works】OpenAI Codex 的工作原理</title>
+      <link>https://blog.bytebytego.com/p/how-openai-codex-works</link>
+      <description>【In this article, we will look at how OpenAI built the right orchestration layer around the model.】在本文中，我们将了解 OpenAI 如何围绕模型构建正确的编排层。</description>
+      <pubDate>Wed, 18 Mar 2026 15:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Reddit Migrated Petabyte-Scale Kafka from EC2 to Kubernetes】Reddit 如何将 PB 级 Kafka 从 EC2 迁移到 Kubernetes</title>
+      <link>https://blog.bytebytego.com/p/how-reddit-migrated-petabyte-scale</link>
+      <description>【In this article, we will look at the breakdown of this migration, the challenges the engineering team faced, and how they achieved their goal of a successful migration.】在本文中，我们将了解此迁移的详细情况、工程团队面临的挑战以及他们如何实现成功迁移的目标。</description>
+      <pubDate>Tue, 17 Mar 2026 15:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Stripe’s Minions Ship 1,300 PRs a Week】Stripe 的 Minions 如何每周发送 1,300 个 PR</title>
+      <link>https://blog.bytebytego.com/p/how-stripes-minions-ship-1300-prs</link>
+      <description>【Every week, Stripe merges over 1,300 pull requests that contain zero human-written code. Not a single line. These PRs are produced by &amp;#8220;Minions,&amp;#8221; Stripe&amp;#8217;s internal coding agents, which work completely unattended.】每周，Stripe 都会合并超过 1,300 个包含零人工编写代码的拉取请求。没有一行。这些 PR 由 Stripe 的内部编码代理“Minions”生成，完全无人值守。</description>
+      <pubDate>Mon, 16 Mar 2026 15:31:14 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP206: Git Workflow: Essential Commands】EP206：Git 工作流程：基本命令</title>
       <link>https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands</link>
       <description>【Git has a lot of commands. Most workflows use a fraction of them.】Git 有很多命令。大多数工作流程只使用其中的一小部分。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-to-build-high-throughput-systems</link>
       <description>【In this article, we will go through the fundamental concepts and practical strategies for building systems that can handle high volumes of work without breaking down under pressure.】在本文中，我们将介绍构建可以处理大量工作而不会在压力下崩溃的系统的基本概念和实用策略。</description>
       <pubDate>Thu, 05 Mar 2026 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What’s Next in AI: Five Trends to Watch in 2026】人工智能的下一步发展：2026 年值得关注的五个趋势</title>
-      <link>https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch</link>
-      <description>【This article covers five key trends that will likely shape how teams build with AI this year.】本文涵盖了可能影响今年团队如何利用人工智能进行构建的五个关键趋势。</description>
-      <pubDate>Wed, 04 Mar 2026 16:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Agoda Built a Single Source of Truth for Financial Data】Agoda 如何构建财务数据的单一真实来源</title>
-      <link>https://blog.bytebytego.com/p/how-agoda-built-a-single-source-of</link>
-      <description>【In this article, we will look at how the Agoda engineering team built a single source of truth for its financial data and the challenges encountered.】在本文中，我们将了解 Agoda 工程团队如何为其财务数据构建单一事实来源以及遇到的挑战。</description>
-      <pubDate>Tue, 03 Mar 2026 16:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Architecture Behind Open-Source LLMs】开源法学硕士背后的架构</title>
-      <link>https://blog.bytebytego.com/p/the-architecture-behind-open-source</link>
-      <description>【In this article, we will cover various open-source models and the engineering bets that define each one.】在本文中，我们将介绍各种开源模型以及定义每个模型的工程赌注。</description>
-      <pubDate>Mon, 02 Mar 2026 16:30:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

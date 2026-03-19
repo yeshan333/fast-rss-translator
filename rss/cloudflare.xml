@@ -4,10 +4,22 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Introducing Custom Regions for precision data control】引入自定义区域以实现精确数据控制</title>
+      <link>https://blog.cloudflare.com/custom-regions/</link>
+      <description>【 We are expanding Regional Services with new pre-defined regions and the launch of Custom Regions. Customers can now define precise geographical boundaries for data processing, tailored to meet their compliance and performance needs. 】我们正在通过新的预定义区域和自定义区域的推出来扩展区域服务。客户现在可以定义精确的数据处理地理边界，以满足其合规性和性能需求。</description>
+      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Standing up for the open Internet: why we appealed Italy’s &#34;Piracy Shield&#34; fine】捍卫开放互联网：我们为何对意大利的“盗版盾”罚款提出上诉</title>
+      <link>https://blog.cloudflare.com/standing-up-for-the-open-internet/</link>
+      <description>【 Cloudflare is appealing a €14 million fine from Italian regulators over &#34;Piracy Shield,&#34; a system that forces providers to block content without oversight. We are challenging this framework to protect the Internet from disproportionate overblocking and lack of due process. 】Cloudflare 对意大利监管机构就“盗版盾”罚款 1400 万欧元提出上诉，该系统迫使提供商在没有监督的情况下屏蔽内容。我们正在挑战这一框架，以保护互联网免受不成比例的过度封锁和缺乏正当程序的影响。</description>
+      <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【From legacy architecture to Cloudflare One】从遗留架构到 Cloudflare One</title>
       <link>https://blog.cloudflare.com/legacy-to-agile-sase/</link>
       <description>【 Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project. 】了解 Cloudflare 和 CDW 如何通过将遗留债务视为应用程序现代化项目的蓝图来降低 SASE 迁移风险。</description>
-      <pubDate>Fri, 13 Mar 2026 05:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans】宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
@@ -28,15 +40,15 @@
       <pubDate>Wed, 11 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building a security overview dashboard for actionable insights】构建安全概览仪表板以获取可行的见解</title>
-      <link>https://blog.cloudflare.com/security-overview-dashboard/</link>
-      <description>【 Cloudflare&#39;s new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.  】Cloudflare 的新安全概述仪表板将大量的安全数据转化为优先的、可操作的见解，为防御者提供有关漏洞的上下文情报。</description>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Investigating multi-vector attacks in Log Explorer】在 Log Explorer 中调查多向量攻击</title>
       <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
       <description>【 Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network. 】Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。</description>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a security overview dashboard for actionable insights】构建安全概览仪表板以获取可行的见解</title>
+      <link>https://blog.cloudflare.com/security-overview-dashboard/</link>
+      <description>【 Cloudflare&#39;s new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.  】Cloudflare 的新安全概述仪表板将大量的安全数据转化为优先的、可操作的见解，为防御者提供有关漏洞的上下文情报。</description>
       <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
       <description>【 Today we’re disclosing request smuggling vulnerabilities when our open source Pingora service is deployed as an ingress proxy and how we’ve fixed them in Pingora 0.8.0.  】今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。</description>
       <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Active defense: introducing a stateful vulnerability scanner for APIs】主动防御：引入 API 状态漏洞扫描器</title>
-      <link>https://blog.cloudflare.com/vulnerability-scanner/</link>
-      <description>【 Cloudflare’s new Web and API Vulnerability Scanner helps teams proactively find logic flaws. By using AI to build API call graphs, we identify vulnerabilities that standard defensive tools miss. 】Cloudflare 的新 Web 和 API 漏洞扫描程序可帮助团队主动发现逻辑缺陷。通过使用 AI 构建 API 调用图，我们可以识别标准防御工具遗漏的漏洞。</description>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Complexity is a choice. SASE migrations shouldn’t take years.】复杂性是一种选择。 SASE 迁移不会花费数年时间。</title>
-      <link>https://blog.cloudflare.com/complexity-is-a-choice-sase-migrations-shouldnt-take-years/</link>
-      <description>【 Discover how Cloudflare partners TachTech and Adapture are shattering the 18-month migration myth, deploying agile SASE for global enterprises in weeks by treating security as software. 】了解 Cloudflare 合作伙伴 TachTech 和 Adapture 如何打破 18 个月的迁移神话，通过将安全视为软件，在几周内为全球企业部署敏捷的 SASE。</description>
-      <pubDate>Mon, 09 Mar 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

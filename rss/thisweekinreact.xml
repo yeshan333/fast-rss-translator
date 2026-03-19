@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #273: ⚛️ RedwoodSDK, Next.js, TanStack, RSC, Async React, SSR, Base UI, AI | 📱 Expo UI, Ease, Expo APIs, Keyboard, Flow, DnD, AI | 🔀 TC39, Temporal, Vite, Vite+, Vitest, Oxlint, Node.js, Bun】本周 React #273：⚛️ RedwoodSDK、Next.js、TanStack、RSC、Async React、SSR、Base UI、AI | 📱 Expo UI、Ease、Expo API、键盘、Flow、DnD、AI | 🔀 TC39、Temporal、Vite、Vite+、Vitest、Oxlint、Node.js、Bun</title>
+      <link>https://thisweekinreact.com/newsletter/273</link>
+      <description>【Hi everyone, Seb and Jan here 👋!】大家好，这里是 Seb 和 Jan 👋！</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #272: Astro, Compiler, Next.js, shadcn, Aria, Helmet, Preact | Navigation, Expo Agent, Observe, Widgets, Activity, Evals, MMKV, Hermes | Node.js, Source Maps, TanStack Intent, TypeGPU, TypeScript】本周 React #272：Astro、编译器、Next.js、shadcn、Aria、Helmet、Preact |导航、Expo Agent、观察、小部件、活动、评估、MMKV、Hermes | Node.js、源映射、TanStack 意图、TypeGPU、TypeScript</title>
       <link>https://thisweekinreact.com/newsletter/272</link>
       <description>【Hi everyone\! Filip and Tymek from Software Mansion here\! 👋】大家好\！ Software Mansion 的 Filip 和 Tymek 在这里\！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/269</link>
       <description>【Hi everyone!】大家好！</description>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #268: Bulletproof Comps, Render Types, Tambo, Logo Soup, React Compiler, Ink, Streamdown | RN 0.84, Gestures, Rozenite, Storybook, JSON Render, Targets, TrueSheet | TypeScript, ESLint, Webpack, Vitest, VSCode】本周 React #268：Bulletproof Comps、渲染类型、Tambo、Logo Soup、React 编译器、Ink、Streamdown | RN 0.84、手势、Rozenite、故事书、JSON 渲染、目标、TrueSheet | TypeScript、ESLint、Webpack、Vitest、VSCode</title>
-      <link>https://thisweekinreact.com/newsletter/268</link>
-      <description>【Hi everyone\!】大家好\！</description>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
