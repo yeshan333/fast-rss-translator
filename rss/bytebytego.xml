@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP207: Top 12 GitHub AI Repositories】EP207：12 个 GitHub 人工智能存储库</title>
+      <link>https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories</link>
+      <description>【These repositories were selected based on their overall popularity and GitHub stars.】这些存储库是根据其整体受欢迎程度和 GitHub 星级来选择的。</description>
+      <pubDate>Sat, 21 Mar 2026 15:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Event Sourcing Explained: Benefits and Use Cases】事件溯源解释：优点和用例</title>
+      <link>https://blog.bytebytego.com/p/event-sourcing-explained-benefits</link>
+      <description>【In this article, we will look at Event Sourcing along with its benefits and trade-offs.】在本文中，我们将研究事件溯源及其优点和权衡。</description>
+      <pubDate>Thu, 19 Mar 2026 15:30:59 +0000</pubDate>
+    </item>
+    <item>
       <title>【How OpenAI Codex Works】OpenAI Codex 的工作原理</title>
       <link>https://blog.bytebytego.com/p/how-openai-codex-works</link>
       <description>【In this article, we will look at how OpenAI built the right orchestration layer around the model.】在本文中，我们将了解 OpenAI 如何围绕模型构建正确的编排层。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026</link>
       <description>【Let&amp;#8217;s look at the most impactful AI repositories trending on GitHub right now, covering what they do, why they matter, and how they fit into the broader AI landscape.】让我们看看 GitHub 上目前最有影响力的人工智能存储库趋势，包括它们的用途、它们为何重要以及它们如何适应更广泛的人工智能领域。</description>
       <pubDate>Mon, 09 Mar 2026 15:31:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP205: CPU vs GPU vs TPU】EP205：CPU、GPU、TPU</title>
-      <link>https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu</link>
-      <description>【Why does the same code run fast on a GPU, slow on a CPU, and leave both behind on a TPU? The answer is architecture.】为什么相同的代码在 GPU 上运行速度快，在 CPU 上运行速度慢，而在 TPU 上则两者都落后？答案是建筑。</description>
-      <pubDate>Sat, 07 Mar 2026 16:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to Build High Throughput Systems】如何构建高吞吐量系统</title>
-      <link>https://blog.bytebytego.com/p/how-to-build-high-throughput-systems</link>
-      <description>【In this article, we will go through the fundamental concepts and practical strategies for building systems that can handle high volumes of work without breaking down under pressure.】在本文中，我们将介绍构建可以处理大量工作而不会在压力下崩溃的系统的基本概念和实用策略。</description>
-      <pubDate>Thu, 05 Mar 2026 16:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

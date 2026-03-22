@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Powering the agents: Workers AI now runs large models, starting with Kimi K2.5】为代理提供动力：Workers AI 现在运行大型模型，从 Kimi K2.5 开始</title>
+      <link>https://blog.cloudflare.com/workers-ai-large-models/</link>
+      <description>【 Kimi K2.5 is now on Workers AI, helping you power agents entirely on Cloudflare’s Developer Platform. Learn how we optimized our inference stack and reduced inference costs for internal agent use cases.  】Kimi K2.5 现已加入 Workers AI，帮助您完全在 Cloudflare 的开发者平台上为代理提供支持。了解我们如何优化推理堆栈并降低内部代理用例的推理成本。</description>
+      <pubDate>Thu, 19 Mar 2026 19:53:16 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing Custom Regions for precision data control】引入自定义区域以实现精确数据控制</title>
       <link>https://blog.cloudflare.com/custom-regions/</link>
       <description>【 We are expanding Regional Services with new pre-defined regions and the launch of Custom Regions. Customers can now define precise geographical boundaries for data processing, tailored to meet their compliance and performance needs. 】我们正在通过新的预定义区域和自定义区域的推出来扩展区域服务。客户现在可以定义精确的数据处理地理边界，以满足其合规性和性能需求。</description>
@@ -40,15 +46,15 @@
       <pubDate>Wed, 11 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Investigating multi-vector attacks in Log Explorer】在 Log Explorer 中调查多向量攻击</title>
-      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
-      <description>【 Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network. 】Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。</description>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Building a security overview dashboard for actionable insights】构建安全概览仪表板以获取可行的见解</title>
       <link>https://blog.cloudflare.com/security-overview-dashboard/</link>
       <description>【 Cloudflare&#39;s new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.  】Cloudflare 的新安全概述仪表板将大量的安全数据转化为优先的、可操作的见解，为防御者提供有关漏洞的上下文情报。</description>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Investigating multi-vector attacks in Log Explorer】在 Log Explorer 中调查多向量攻击</title>
+      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
+      <description>【 Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network. 】Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。</description>
       <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/attack-surface-intelligence/</link>
       <description>【 Cloudflare will be integrating Mastercard’s RiskRecon attack surface intelligence capabilities to help you eliminate Internet-facing blind spots while continuously monitoring and closing security gaps. 】Cloudflare 将集成万事达卡的 RiskRecon 攻击面情报功能，帮助您消除面向互联网的盲点，同时持续监控和缩小安全漏洞。</description>
       <pubDate>Tue, 10 Mar 2026 05:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Fixing request smuggling vulnerabilities in Pingora OSS deployments】修复 Pingora OSS 部署中的请求走私漏洞</title>
-      <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
-      <description>【 Today we’re disclosing request smuggling vulnerabilities when our open source Pingora service is deployed as an ingress proxy and how we’ve fixed them in Pingora 0.8.0.  】今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。</description>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
