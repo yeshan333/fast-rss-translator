@@ -5,7 +5,25 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP207: Top 12 GitHub AI Repositories】EP207：12 个 GitHub 人工智能存储库</title>
+      <title>【How Netflix Live Streams to 100 Million Devices in 60 Seconds】Netflix 如何在 60 秒内向 1 亿台设备进行直播</title>
+      <link>https://blog.bytebytego.com/p/how-netflix-live-streams-to-100-million</link>
+      <description>【In this article, we will look at the architecture of this system and the challenges Netflix faced while building it.】在本文中，我们将了解该系统的架构以及 Netflix 在构建该系统时面临的挑战。</description>
+      <pubDate>Tue, 24 Mar 2026 15:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Agentic RAG Works?】Agentic RAG 是如何工作的？</title>
+      <link>https://blog.bytebytego.com/p/how-agentic-rag-works</link>
+      <description>【In this article, we will look at how agentic RAG works, how it improves upon standard RAG, and the trade-offs that should be considered.】在本文中，我们将了解代理 RAG 的工作原理、它如何改进标准 RAG，以及应考虑的权衡。</description>
+      <pubDate>Mon, 23 Mar 2026 15:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course】最后报名机会 |成为一名人工智能工程师 |队列课程</title>
+      <link>https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai-2ca</link>
+      <description>【Our 5th cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第五批“成为人工智能工程师”课程将在不到一周的时间内开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
+      <pubDate>Sun, 22 Mar 2026 15:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP207: Top 12 GitHub AI Repositories】EP207：前 12 个 GitHub AI 存储库</title>
       <link>https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories</link>
       <description>【These repositories were selected based on their overall popularity and GitHub stars.】这些存储库是根据其整体受欢迎程度和 GitHub 星级来选择的。</description>
       <pubDate>Sat, 21 Mar 2026 15:31:00 +0000</pubDate>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/stateless-architecture-benefits-and</link>
       <description>【In this article, we will understand the nuances of stateless architecture in more detail.】在本文中，我们将更详细地了解无状态架构的细微差别。</description>
       <pubDate>Thu, 12 Mar 2026 15:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Vimeo Implemented AI-Powered Subtitles】Vimeo 如何实施人工智能字幕</title>
-      <link>https://blog.bytebytego.com/p/how-vimeo-implemented-ai-powered</link>
-      <description>【In this article, we will look at how the Vimeo engineering team overcame this problem and the decisions it made】在本文中，我们将了解 Vimeo 工程团队如何克服这个问题以及他们做出的决定</description>
-      <pubDate>Wed, 11 Mar 2026 15:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days】Airbnb 如何在 360 天内推出 20 多种本地支付方式</title>
-      <link>https://blog.bytebytego.com/p/how-airbnb-rolled-out-20-local-payment</link>
-      <description>【In this article, we will look at the technical architecture and engineering decisions that made this expansion possible.】在本文中，我们将研究使这种扩展成为可能的技术架构和工程决策。</description>
-      <pubDate>Tue, 10 Mar 2026 15:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Top AI GitHub Repositories in 2026】2026 年顶级 AI GitHub 存储库</title>
-      <link>https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026</link>
-      <description>【Let&amp;#8217;s look at the most impactful AI repositories trending on GitHub right now, covering what they do, why they matter, and how they fit into the broader AI landscape.】让我们看看 GitHub 上目前最有影响力的人工智能存储库趋势，包括它们的用途、它们为何重要以及它们如何适应更广泛的人工智能领域。</description>
-      <pubDate>Mon, 09 Mar 2026 15:31:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

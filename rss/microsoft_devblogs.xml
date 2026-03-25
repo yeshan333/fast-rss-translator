@@ -5,63 +5,63 @@
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
       <title>【Visual Studio Code 1.113】Visual Studio 代码 1.113</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.113-</link>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.113</link>
       <description>【Learn what&#39;s new in Visual Studio Code 1.113 (Insiders) Read the full article】了解 Visual Studio Code 1.113 中的新增功能（内部人士） 阅读全文</description>
       <pubDate>Wed, 25 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows stack limit checking retrospective: arm64, also known as AArch64】Windows 堆栈限制检查回顾：arm64，也称为 AArch64</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
-      <description>【Our survey of stack limit checking wraps up with arm64, also known as AArch64. The stack limit checking takes two forms, one simple version for pure arm64 processes, and a more complex version for Arm64EC. I&#39;m going to look at the simple version. The complex version differs in that it has to check whether the code is running on the】我们对堆栈限制检查的调查以arm64（也称为AArch64）结束。堆栈限制检查采用两种形式，一种是针对纯 arm64 进程的简单版本，另一种是针对 Arm64EC 的更复杂版本。我要看看简单的版本。复杂版本的不同之处在于它必须检查代码是否在</description>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
+      <title>【Your Entire Engineering Floor Just Stopped Coding】您的整个工程车间刚刚停止编码</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/your-entire-engineering-floor-just-stopped-coding</link>
+      <description>【And the developers running Claude Code and GitHub Copilot CLI didn&#39;t notice... Status Page Says &#39;Operational.&#39; Your Subagents Say Otherwise. If you&#39;re running autonomous agents in any serious capacity, you&#39;ve experienced this: 】运行 Claude Code 和 GitHub Copilot CLI 的开发人员没有注意到……状态页面显示“可操作”。您的子代理另有说法。如果您正在以任何严肃的身份运行自主代理，您就会经历过以下情况： </description>
+      <pubDate>Wed, 25 Mar 2026 03:38:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Accelerating .NET MAUI Development with AI Agents】使用 AI 代理加速 .NET MAUI 开发</title>
-      <link>https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents</link>
-      <description>【This is a guest blog from Syncfusion. Learn more about the free, open-source Syncfusion Toolkit for .NET MAUI. As a proud partner with the .NET MAUI team, Syncfusion is excited to share how custom-built AI agents are dramatically improvin】这是 Syncfusion 的客座博客。了解有关适用于 .NET MAUI 的免费开源 Syncfusion Toolkit 的更多信息。作为 .NET MAUI 团队的自豪合作伙伴，Syncfusion 很高兴分享定制的 AI 代理如何显着改进</description>
-      <pubDate>Thu, 19 Mar 2026 21:12:42 +0000</pubDate>
+      <title>【Designing for Eventual Consistency for Microsoft Entra】为 Microsoft Entra 的最终一致性进行设计</title>
+      <link>https://devblogs.microsoft.com/identity/designing-for-eventual-consistency-for-microsoft-entra</link>
+      <description>【Microsoft Entra is a globally distributed service that provides identity and access management to millions of customers world-wide. To scale reliably and remain resilient during failures, Microsoft Entra uses an eventually consistent directory model. Key takeaway A successful write to Microsoft Entra does not guarantee tha】Microsoft Entra 是一项全球分布式服务，为全球数百万客户提供身份和访问管理。为了可靠地扩展并在故障期间保持弹性，Microsoft Entra 使用最终一致的目录模型。要点 成功写入 Microsoft Entra 并不能保证</description>
+      <pubDate>Wed, 25 Mar 2026 02:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>【Remote MCP Server preview in Microsoft Foundry】Microsoft Foundry 中的远程 MCP 服务器预览</title>
-      <link>https://devblogs.microsoft.com/devops/remote-mcp-server-preview-in-microsoft-foundry</link>
-      <description>【Earlier this week we release the public preview for our Azure DevOps MCP Server. Today we are excited to let you know that the Azure DevOps MCP Server is now available to use in Microsoft Foundry. For those who are new to Foundry, Micro】本周早些时候，我们发布了 Azure DevOps MCP 服务器的公共预览版。今天，我们很高兴地通知您，Azure DevOps MCP 服务器现已可在 Microsoft Foundry 中使用。对于那些刚刚接触 Foundry、Micro 的人</description>
-      <pubDate>Thu, 19 Mar 2026 17:48:10 +0000</pubDate>
+      <title>【Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers】在您的开发工作流程中释放更多力量：适用于 Visual Studio 订阅者的 Syncfusion</title>
+      <link>https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio</link>
+      <description>【A few months ago, I was talking with a developer who said something that stuck with me:  “I love building apps. I just don’t love rebuilding the same UI controls over and over again.” 】几个月前，我与一位开发人员交谈，他说了一句话让我印象深刻：“我喜欢构建应用程序。我只是不喜欢一遍又一遍地重建相同的 UI 控件。” </description>
+      <pubDate>Tue, 24 Mar 2026 15:00:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Windows stack limit checking retrospective: amd64, also known as x86-64】Windows 堆栈限制检查回顾：amd64，也称为 x86-64</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152</link>
-      <description>【Our survey of stack limit checking reaches the modern day with amd64, also known as x86-64. This time, there are two versions of the function, one for user mode and one for kernel mode. We&#39;ll look at the user mode version. Actually, there are two user mode versions. One is in msvcrt, the legacy runtime. ; on entry】我们对堆栈限制检查的调查已扩展到现代的 amd64（也称为 x86-64）。这次，该函数有两个版本，一种用于用户模式，一种用于内核模式。我们将看看用户模式版本。实际上，有两个用户模式版本。其中之一是在遗留运行时 msvcrt 中。 ;进入时</description>
-      <pubDate>Thu, 19 Mar 2026 14:00:00 +0000</pubDate>
+      <title>【Windows 95 defenses against installers that overwrite a file with an older version】Windows 95 防御安装程序用旧版本覆盖文件</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159</link>
+      <description>【Back in the days of 16-bit Windows, many system components were redistributable, meaning that programs that used those components could include a copy of those system components and install them onto the system as part of the program&#39;s installer. The guidance for installing the system components was that if the installer finds a copy of the】早在 16 位 Windows 时代，许多系统组件都是可重新分发的，这意味着使用这些组件的程序可以包含这些系统组件的副本，并将它们作为程序安装程序的一部分安装到系统上。安装系统组件的指导是，如果安装程序找到</description>
+      <pubDate>Tue, 24 Mar 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From Azure IoT Operations Data Processor Pipelines to Dataflows】从 Azure IoT 操作数据处理器管道到数据流</title>
-      <link>https://devblogs.microsoft.com/ise/aio-data-processor-pipelines-to-dataflow-processing-data-in-the-edge</link>
-      <description>【We recently completed an 18-month journey building an event detection system at the edge with Azure IoT Operations (AIO). The goal was simple to describe but complex to execute: use a Vision Model to detect real-world events, then raise confidence by correlating that signal with other data sources—from indu】我们最近完成了为期 18 个月的旅程，使用 Azure IoT Operations (AIO) 在边缘构建事件检测系统。目标描述起来很简单，但执行起来很复杂：使用视觉模型来检测现实世界的事件，然后通过将该信号与来自工业界的其他数据源相关联来提高置信度。</description>
-      <pubDate>Thu, 19 Mar 2026 07:00:00 +0000</pubDate>
+      <title>【📢LangChain4j got a new video series】📢LangChain4j 有了新的视频系列</title>
+      <link>https://devblogs.microsoft.com/java/%f0%9f%93%a2langchain4j-got-a-new-video-series</link>
+      <description>【We recently released a step-by-step course f】我们最近发布了分步课程</description>
+      <pubDate>Tue, 24 Mar 2026 07:28:32 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing PowerShell 7.6 (LTS) GA Release】宣布推出 PowerShell 7.6 (LTS) GA 版本</title>
-      <link>https://devblogs.microsoft.com/powershell/announcing-powershell-7-6</link>
-      <description>【We&#39;re excited to announce the General Availability of PowerShell 7.6, the next Long Term Support (LTS) release of PowerShell. PowerShell 7.6 is built on .NET 10 (LTS), continuing the alignment between PowerShell and the modern .NET platform. PowerShell 7.6 includes reliability improvements across the】我们很高兴地宣布 PowerShell 7.6 全面上市，这是 PowerShell 的下一个长期支持 (LTS) 版本。 PowerShell 7.6 基于 .NET 10 (LTS) 构建，继续保持 PowerShell 与现代 .NET 平台之间的一致性。 PowerShell 7.6 包括跨领域的可靠性改进</description>
-      <pubDate>Wed, 18 Mar 2026 21:47:31 +0000</pubDate>
+      <title>【SQL code analysis in VS Code: Configure rules without editing your project file】VS Code 中的 SQL 代码分析：无需编辑项目文件即可配置规则</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-code-analysis-in-vs-code-configure-rules-without-editing-your-project-file</link>
+      <description>【SQL code analysis has been part of the SSDT workflow for a long time. Before deploying a schema change, you could run a set of static analysis rules against your project to catch potential issues, things like missing primary keys, deprecated syntax, or objects tha】SQL 代码分析长期以来一直是 SSDT 工作流程的一部分。在部署架构更改之前，您可以针对项目运行一组静态分析规则以捕获潜在问题，例如缺少主键、不推荐使用的语法或不正确的对象。</description>
+      <pubDate>Tue, 24 Mar 2026 03:30:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Code 1.112】Visual Studio 代码 1.112</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.112</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.112 Read the full article】了解 Visual Studio Code 1.112 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 18 Mar 2026 17:00:00 +0000</pubDate>
+      <title>【Manage SQL database schemas in VS Code: Publish dialog and item templates】在 VS Code 中管理 SQL 数据库架构：发布对话框和项目模板</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates</link>
+      <description>【Making schema changes often means jumping between tools. You write code in VS Code, then switch to a separate tool to deploy your changes : exporting a script, running it manually, or copy-pasting into a query editor. Either way, it pulls you out of your flow.】更改架构通常意味着在工具之间跳转。您在 VS Code 中编写代码，然后切换到单独的工具来部署更改：导出脚本、手动运行它或复制粘贴到查询编辑器中。不管怎样，它都会把你从你的流程中拉出来。</description>
+      <pubDate>Tue, 24 Mar 2026 00:39:44 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Code 1.112】Visual Studio 代码 1.112</title>
-      <link>https://devblogs.microsoft.com/external-blogs/vs-code-1-112-insiders</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.112 Read the full article】了解 Visual Studio Code 1.112 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 18 Mar 2026 17:00:00 +0000</pubDate>
+      <title>【Agentic Platform Engineering with GitHub Copilot】使用 GitHub Copilot 进行代理平台工程</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/agentic-platform-engineering-with-github-copilot</link>
+      <description>【We&#39;ve talked about the human scale problem and what happens when infrastructure scales but understandin】我们已经讨论了人力规模问题以及基础设施规模扩大时会发生什么，但了解</description>
+      <pubDate>Mon, 23 Mar 2026 19:26:27 +0000</pubDate>
     </item>
     <item>
-      <title>【When Infrastructure Scales But Understanding Doesn&#39;t】当基础设施扩展但理解却无法扩展时</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/when-infrastructure-scales-but-understanding-doesnt</link>
-      <description>【We all know this, even if we don&#39;t like to admit it: modern infrastructure can scale infinitely, but human understanding doesn&#39;t. We&#39;ve all seen it happen - organizations going from managing dozens of servers to thousands of containers, from deploying weekly to deploying hundreds of times per day, from serving thousands of users to millions】我们都知道这一点，即使我们不愿意承认：现代基础设施可以无限扩展，但人类的理解却不能。我们都见过这种情况的发生 - 组织从管理数十台服务器到数千个容器，从每周部署到每天部署数百次，从服务数千用户到数百万用户</description>
-      <pubDate>Wed, 18 Mar 2026 16:22:59 +0000</pubDate>
+      <title>【Generative AI for Beginners .NET: Version 2 on .NET 10】.NET 初学者生成式 AI：.NET 10 上的版本 2</title>
+      <link>https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10</link>
+      <description>【Today we&#39;re releasing Version 2 of Generative AI for Beginners .NET, our free, open-source course for building AI-powered .NET applications. If you want to understand and build generative AI applications, from core concepts to production-ready patterns, this is you】今天，我们发布了面向初学者 .NET 的生成式 AI 第 2 版，这是我们用于构建 AI 驱动的 .NET 应用程序的免费开源课程。如果您想了解和构建生成式人工智能应用程序，从核心概念到生产就绪模式，这就是您</description>
+      <pubDate>Mon, 23 Mar 2026 17:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

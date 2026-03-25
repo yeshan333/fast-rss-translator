@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Sandboxing AI agents, 100x faster】沙盒 AI 代理，速度提高 100 倍</title>
+      <link>https://blog.cloudflare.com/dynamic-workers/</link>
+      <description>【 We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing. 】我们正在引入动态工作人员，它允许您在安全、轻量级的隔离中执行人工智能生成的代码。这种方法比传统容器快 100 倍，使 AI 代理沙箱的启动时间达到毫秒级。</description>
+      <pubDate>Tue, 24 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Inside Gen 13: how we built our most powerful server yet】Gen 13 内部：我们如何构建迄今为止最强大的服务器</title>
+      <link>https://blog.cloudflare.com/gen13-config/</link>
+      <description>【 Cloudflare&#39;s Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each major component selection. 】Cloudflare 的第 13 代服务器引入了 AMD EPYC™ Turin 9965 处理器并过渡到 100 GbE 网络，以满足不断增长的流量需求。在本次技术深入探讨中，我们解释了每个主要组件选择背后的工程原理。</description>
+      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心以获得 2 倍边缘计算性能</title>
+      <link>https://blog.cloudflare.com/gen13-launch/</link>
+      <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
+      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Powering the agents: Workers AI now runs large models, starting with Kimi K2.5】为代理提供动力：Workers AI 现在运行大型模型，从 Kimi K2.5 开始</title>
       <link>https://blog.cloudflare.com/workers-ai-large-models/</link>
       <description>【 Kimi K2.5 is now on Workers AI, helping you power agents entirely on Cloudflare’s Developer Platform. Learn how we optimized our inference stack and reduced inference costs for internal agent use cases.  】Kimi K2.5 现已加入 Workers AI，帮助您完全在 Cloudflare 的开发者平台上为代理提供支持。了解我们如何优化推理堆栈并降低内部代理用例的推理成本。</description>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
       <description>【 Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help teams find and secure shadow AI deployments. 】Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。</description>
       <pubDate>Wed, 11 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building a security overview dashboard for actionable insights】构建安全概览仪表板以获取可行的见解</title>
-      <link>https://blog.cloudflare.com/security-overview-dashboard/</link>
-      <description>【 Cloudflare&#39;s new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.  】Cloudflare 的新安全概述仪表板将大量的安全数据转化为优先的、可操作的见解，为防御者提供有关漏洞的上下文情报。</description>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Investigating multi-vector attacks in Log Explorer】在 Log Explorer 中调查多向量攻击</title>
-      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
-      <description>【 Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network. 】Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。</description>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Translating risk insights into actionable protection: leveling up security posture with Cloudflare and Mastercard】将风险洞察转化为可行的保护：利用 Cloudflare 和 Mastercard 提升安全态势</title>
-      <link>https://blog.cloudflare.com/attack-surface-intelligence/</link>
-      <description>【 Cloudflare will be integrating Mastercard’s RiskRecon attack surface intelligence capabilities to help you eliminate Internet-facing blind spots while continuously monitoring and closing security gaps. 】Cloudflare 将集成万事达卡的 RiskRecon 攻击面情报功能，帮助您消除面向互联网的盲点，同时持续监控和缩小安全漏洞。</description>
-      <pubDate>Tue, 10 Mar 2026 05:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,18 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【The Mobile Engineer&#39;s Guide to System Design Interviews】移动工程师系统设计面试指南</title>
+      <link>https://newsletter.systemdesign.one/p/mobile-system-design-interview</link>
+      <description>【#134: Mobile System Design Interview】#134：移动系统设计面试</description>
+      <pubDate>Tue, 24 Mar 2026 13:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【RAG - A Deep Dive】RAG - 深入探讨</title>
+      <link>https://newsletter.systemdesign.one/p/how-rag-works</link>
+      <description>【#133: Understanding Retrieval-Augmented Generation】#133：了解检索增强生成</description>
+      <pubDate>Mon, 23 Mar 2026 11:45:50 +0000</pubDate>
+    </item>
+    <item>
       <title>【I struggled with AI agents until I built an incident response agent 】我一直在与人工智能代理作斗争，直到我构建了一个事件响应代理</title>
       <link>https://newsletter.systemdesign.one/p/how-do-ai-agents-work</link>
       <description>【#131: Step-by-step guide to building your first AI agent】#131：构建第一个 AI 代理的分步指南</description>
@@ -51,18 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/web-crawler-system-design</link>
       <description>【#124: System Design Interview】＃124：系统设计面试</description>
       <pubDate>Sat, 21 Feb 2026 11:45:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Timsort Algorithm - A Deep Dive】Timsort 算法 - 深入探讨</title>
-      <link>https://newsletter.systemdesign.one/p/timsort-algorithm</link>
-      <description>【#123: The Fastest Real-World Sorting Algorithm】#123：现实世界中最快的排序算法</description>
-      <pubDate>Thu, 19 Feb 2026 11:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【I struggled with system design until I learned these 114 concepts】我在系统设计上很挣扎，直到我学会了这 114 个概念</title>
-      <link>https://newsletter.systemdesign.one/p/system-design-core-concepts</link>
-      <description>【#122: Part 2 - websockets, gateway, distributed cache, and 35 others.】#122：第 2 部分 - websockets、网关、分布式缓存和其他 35 个。</description>
-      <pubDate>Sat, 14 Feb 2026 16:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

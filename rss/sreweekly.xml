@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #509】SRE 周刊第 509 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-509/</link>
+      <description>【View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and [&amp;#8230;]】查看 sreweekly.com SRE 周刊回来了！我的伴侣做得很好，感谢所有善意的话语和良好的祝愿。来自我们的赞助商 Costory 的消息：跟踪 AWS、GCP 和 Datadog 之间的云和 AI 成本不需要三个仪表板和一个电子表格。Costory 将成本、使用情况和部署数据关联起来。解释发生了什么变化并且[...]</description>
+      <pubDate>Mon, 23 Mar 2026 03:51:27 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #508】SRE 周刊第 #508 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-508/</link>
       <description>【View on sreweekly.com SRE Weekly will be going on hiatus for 6 weeks, while I&amp;#8217;m on leave caring for my partner after her kidney transplant surgery this week. It&amp;#8217;s incredible that the National Kidney Registry&amp;#8217;s Paired Exchange program allowed me to donate a kidney to help her even though we don&amp;#8217;t have matching blood types! [&amp;#8230;]】在 sreweekly.com 上查看 SRE Weekly 将暂停 6 周，而本周我将休假照顾我的伴侣，她接受了肾移植手术。令人难以置信的是，国家肾脏登记处的配对交换计划允许我捐献肾脏来帮助她，尽管我们的血型不匹配！ […]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-505/</link>
       <description>【View on sreweekly.com A message from our sponsor, Hopp: Paging at 2am? 🚨 Make incident triage feel like you’re at the same keyboard with Hopp. crisp, readable screen-sharing no more &amp;#8220;can you zoom in?&amp;#8221; click + type together bring the incident bridge into one session Start pair programming: https://www.gethopp.app/?via=sreweekly 2013–09–17 Outage Postmortem An incident write-up [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Hopp 的消息：凌晨 2 点寻呼？ 🚨 让事件分类感觉就像您与 Hopp 在同一个键盘上一样。清晰易读的屏幕共享不再需要“你能放大吗？”单击 + 一起键入将事件桥纳入一个会话开始结对编程：https://www.gethop.app/?via=sreweekly 2013–09–17 停电事后分析事件记录 [...]</description>
       <pubDate>Mon, 12 Jan 2026 01:42:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #504】SRE 周刊第 504 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-504/</link>
-      <description>【View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare&amp;#8217;s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction [&amp;#8230;]】查看 sreweekly.com 在一堆盐中寻找沙粒 Salt 是 Cloudflare 的配置管理工具。当您在 15 分钟内对数千台服务器进行数百次更改的峰值时，如何找到配置管理失败的根本原因？这样做的结果是减少了[…]</description>
-      <pubDate>Mon, 05 Jan 2026 01:51:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
