@@ -4,21 +4,27 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【A one-line Kubernetes fix that saved 600 hours a year】一条 Kubernetes 修复方案一年节省了 600 个小时</title>
+      <link>https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/</link>
+      <description>【 When we investigated why our Atlantis instance took 30 minutes to restart, we discovered a bottleneck in how Kubernetes handles volume permissions. By adjusting the fsGroupChangePolicy, we reduced restart times to 30 seconds. 】当我们调查为什么 Atlantis 实例需要 30 分钟才能重新启动时，我们发现 Kubernetes 处理卷权限的方式存在瓶颈。通过调整 fsGroupChangePolicy，我们将重启时间减少到 30 秒。</description>
+      <pubDate>Thu, 26 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Sandboxing AI agents, 100x faster】沙盒 AI 代理，速度提高 100 倍</title>
       <link>https://blog.cloudflare.com/dynamic-workers/</link>
       <description>【 We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing. 】我们正在引入动态工作人员，它允许您在安全、轻量级的隔离中执行人工智能生成的代码。这种方法比传统容器快 100 倍，使 AI 代理沙箱的启动时间达到毫秒级。</description>
       <pubDate>Tue, 24 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Inside Gen 13: how we built our most powerful server yet】Gen 13 内部：我们如何构建迄今为止最强大的服务器</title>
-      <link>https://blog.cloudflare.com/gen13-config/</link>
-      <description>【 Cloudflare&#39;s Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each major component selection. 】Cloudflare 的第 13 代服务器引入了 AMD EPYC™ Turin 9965 处理器并过渡到 100 GbE 网络，以满足不断增长的流量需求。在本次技术深入探讨中，我们解释了每个主要组件选择背后的工程原理。</description>
-      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心以获得 2 倍边缘计算性能</title>
       <link>https://blog.cloudflare.com/gen13-launch/</link>
       <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
+      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Inside Gen 13: how we built our most powerful server yet】Gen 13 内部：我们如何构建迄今为止最强大的服务器</title>
+      <link>https://blog.cloudflare.com/gen13-config/</link>
+      <description>【 Cloudflare&#39;s Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each major component selection. 】Cloudflare 的第 13 代服务器引入了 AMD EPYC™ Turin 9965 处理器并过渡到 100 GbE 网络，以满足不断增长的流量需求。在本次技术深入探讨中，我们解释了每个主要组件选择背后的工程原理。</description>
       <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/rfc-9457-agent-error-pages/</link>
       <description>【 Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into efficient control flow. 】Cloudflare 现在将符合 RFC 9457 的结构化 Markdown 和 JSON 错误负载返回给 AI 代理，用机器可读指令替换重量级 HTML 页面。这减少了超过 98% 的令牌使用量，将脆弱的解析转变为高效的控制流。</description>
       <pubDate>Wed, 11 Mar 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI Security for Apps is now generally available】AI 应用安全现已全面推出</title>
-      <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
-      <description>【 Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help teams find and secure shadow AI deployments. 】Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。</description>
-      <pubDate>Wed, 11 Mar 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

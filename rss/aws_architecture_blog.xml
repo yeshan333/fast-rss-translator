@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>AWS 上的代理 AI 开发架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/</link>
+      <description></description>
+      <pubDate>Thu, 26 Mar 2026 17:29:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Generali Malaysia 如何利用 Amazon EKS 优化运营</title>
       <link>https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/</link>
       <description></description>
       <pubDate>Thu, 29 Jan 2026 17:06:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforce 如何在其 1,000 个 EKS 集群中从 Cluster Autoscaler 迁移到 Karpenter</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/</link>
-      <description></description>
-      <pubDate>Mon, 12 Jan 2026 20:03:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

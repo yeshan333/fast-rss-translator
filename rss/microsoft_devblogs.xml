@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Visual Studio Code 1.114】Visual Studio 代码 1.114</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.114</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.114 (Insiders) Read the full article】了解 Visual Studio Code 1.114 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 01 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What if a dialog wants to intercept its own message loop?】如果对话框想要拦截自己的消息循环怎么办？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</link>
+      <description>【So far, we&#39;ve been looking at how a dialog box owner can customize the dialog message loop. But what about the dialog itself? Can the dialog customize its own dialog message loop? Sure. It just has to steal the messages from its owner. The dialog box can subclass its owner and grab the WM_ENTER­IDLE mess】到目前为止，我们一直在研究对话框所有者如何自定义对话框消息循环。但是对话框本身呢？对话框可以自定义自己的对话框消息循环吗？当然。它只需要窃取其所有者的消息即可。对话框可以子类化它的所有者并抓住 WM_ENTERIDLE 的混乱</description>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure SDK Release (March 2026)】Azure SDK 版本（2026 年 3 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2026</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
+      <pubDate>Thu, 26 Mar 2026 20:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Breaking Change Ahead: Graph API Updates to Sensitive Email Properties】突破性变革：敏感电子邮件属性的 Graph API 更新</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/graph-api-updates-to-sensitive-email-properties</link>
+      <description>【We&#39;re implementing a significant update in our service affecting applications that modify sensitive email properties on non-draft email messages. These sensitive email properties include the subject, body, recipients, and a number of other properties when changed using any of the】我们正在服务中实施一项重大更新，该更新会影响修改非草稿电子邮件上的敏感电子邮件属性的应用程序。这些敏感电子邮件属性包括主题、正文、收件人以及使用任何更改后的许多其他属性。</description>
+      <pubDate>Thu, 26 Mar 2026 18:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【TypeScript AppHost in Aspire 13.2: same app model, different syntax】Aspire 13.2 中的 TypeScript AppHost：相同的应用程序模型，不同的语法</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-typescript-apphost</link>
+      <description>【Aspire 13.2 brings TypeScript AppHost support to the same application model that existing Aspire users already know. You still define resources, references, startup dependencies, endpoints, and deployment intent in code. You still get the same dashboard, service disc】Aspire 13.2 为现有 Aspire 用户已经了解的相同应用程序模型提供了 TypeScript AppHost 支持。您仍然可以在代码中定义资源、引用、启动依赖项、端点和部署意图。您仍然可以获得相同的仪表板、服务光盘</description>
+      <pubDate>Thu, 26 Mar 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Why doesn&#39;t &lt;CODE&gt;WM_&lt;WBR&gt;ENTER­IDLE&lt;/CODE&gt; work if the dialog box is a &lt;CODE&gt;Message­Box&lt;/CODE&gt;?】如果对话框是 &lt;CODE&gt;MessageBox&lt;/CODE&gt;，为什么 &lt;CODE&gt;WM_&lt;WBR&gt;ENTERIDLE&lt;/CODE&gt; 不起作用？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167</link>
+      <description>【Last time, we looked at how the owner of a dialog can take control just before the dialog box message loop goes idle. I said that I pulled a trick】上次，我们研究了对话框的所有者如何在对话框消息循环空闲之前进行控制。我说我耍了把戏</description>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building Search-Enabled Agents with Azure AI Foundry and Semantic Kernel and A2A】使用 Azure AI Foundry、语义内核和 A2A 构建支持搜索的代理</title>
+      <link>https://devblogs.microsoft.com/ise/building-bing-search-enabled-agent-with-microsoft-foundry-and-semantic-kernel</link>
+      <description>【The landscape of AI development has evolved dramatically. Modern intelligent agents require real-time web access to provide accurate, grounded responses. With the retirement of direct Bing Search API access, developers must transition from direct】人工智能的发展格局已经发生了巨大的变化。现代智能代理需要实时网络访问才能提供准确、可靠的响应。随着直接 Bing 搜索 API 访问的退役，开发人员必须从直接访问转变为</description>
+      <pubDate>Thu, 26 Mar 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PIX 2603.25 - misc bug fixes and improvements】PIX 2603.25 - 其他错误修复和改进</title>
+      <link>https://devblogs.microsoft.com/pix/pix-2603-25</link>
+      <description>【Today we released PIX 2603.25 which can be downloaded here. These releases include everything in the previous 2602.25 release, plus the following bug fixes: Fix capture layer issue corrupting tiled resources in】今天我们发布了 PIX 2603.25，可以在此处下载。这些版本包含之前 2602.25 版本中的所有内容，以及以下错误修复： 修复捕获层问题，破坏平铺资源</description>
+      <pubDate>Wed, 25 Mar 2026 23:43:01 +0000</pubDate>
+    </item>
+    <item>
       <title>【Visual Studio Code 1.113】Visual Studio 代码 1.113</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.113</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.113 (Insiders) Read the full article】了解 Visual Studio Code 1.113 中的新增功能（内部人士） 阅读全文</description>
+      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-113</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.113 Read the full article】了解 Visual Studio Code 1.113 中的新增功能 阅读全文</description>
       <pubDate>Wed, 25 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Your Entire Engineering Floor Just Stopped Coding】您的整个工程车间刚刚停止编码</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/your-entire-engineering-floor-just-stopped-coding</link>
-      <description>【And the developers running Claude Code and GitHub Copilot CLI didn&#39;t notice... Status Page Says &#39;Operational.&#39; Your Subagents Say Otherwise. If you&#39;re running autonomous agents in any serious capacity, you&#39;ve experienced this: 】运行 Claude Code 和 GitHub Copilot CLI 的开发人员没有注意到……状态页面显示“可操作”。您的子代理另有说法。如果您正在以任何严肃的身份运行自主代理，您就会经历过以下情况： </description>
-      <pubDate>Wed, 25 Mar 2026 03:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Designing for Eventual Consistency for Microsoft Entra】为 Microsoft Entra 的最终一致性进行设计</title>
-      <link>https://devblogs.microsoft.com/identity/designing-for-eventual-consistency-for-microsoft-entra</link>
-      <description>【Microsoft Entra is a globally distributed service that provides identity and access management to millions of customers world-wide. To scale reliably and remain resilient during failures, Microsoft Entra uses an eventually consistent directory model. Key takeaway A successful write to Microsoft Entra does not guarantee tha】Microsoft Entra 是一项全球分布式服务，为全球数百万客户提供身份和访问管理。为了可靠地扩展并在故障期间保持弹性，Microsoft Entra 使用最终一致的目录模型。要点 成功写入 Microsoft Entra 并不能保证</description>
-      <pubDate>Wed, 25 Mar 2026 02:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers】在您的开发工作流程中释放更多力量：适用于 Visual Studio 订阅者的 Syncfusion</title>
-      <link>https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio</link>
-      <description>【A few months ago, I was talking with a developer who said something that stuck with me:  “I love building apps. I just don’t love rebuilding the same UI controls over and over again.” 】几个月前，我与一位开发人员交谈，他说了一句话让我印象深刻：“我喜欢构建应用程序。我只是不喜欢一遍又一遍地重建相同的 UI 控件。” </description>
-      <pubDate>Tue, 24 Mar 2026 15:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Windows 95 defenses against installers that overwrite a file with an older version】Windows 95 防御安装程序用旧版本覆盖文件</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159</link>
-      <description>【Back in the days of 16-bit Windows, many system components were redistributable, meaning that programs that used those components could include a copy of those system components and install them onto the system as part of the program&#39;s installer. The guidance for installing the system components was that if the installer finds a copy of the】早在 16 位 Windows 时代，许多系统组件都是可重新分发的，这意味着使用这些组件的程序可以包含这些系统组件的副本，并将它们作为程序安装程序的一部分安装到系统上。安装系统组件的指导是，如果安装程序找到</description>
-      <pubDate>Tue, 24 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【📢LangChain4j got a new video series】📢LangChain4j 有了新的视频系列</title>
-      <link>https://devblogs.microsoft.com/java/%f0%9f%93%a2langchain4j-got-a-new-video-series</link>
-      <description>【We recently released a step-by-step course f】我们最近发布了分步课程</description>
-      <pubDate>Tue, 24 Mar 2026 07:28:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SQL code analysis in VS Code: Configure rules without editing your project file】VS Code 中的 SQL 代码分析：无需编辑项目文件即可配置规则</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-code-analysis-in-vs-code-configure-rules-without-editing-your-project-file</link>
-      <description>【SQL code analysis has been part of the SSDT workflow for a long time. Before deploying a schema change, you could run a set of static analysis rules against your project to catch potential issues, things like missing primary keys, deprecated syntax, or objects tha】SQL 代码分析长期以来一直是 SSDT 工作流程的一部分。在部署架构更改之前，您可以针对项目运行一组静态分析规则以捕获潜在问题，例如缺少主键、不推荐使用的语法或不正确的对象。</description>
-      <pubDate>Tue, 24 Mar 2026 03:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Manage SQL database schemas in VS Code: Publish dialog and item templates】在 VS Code 中管理 SQL 数据库架构：发布对话框和项目模板</title>
-      <link>https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates</link>
-      <description>【Making schema changes often means jumping between tools. You write code in VS Code, then switch to a separate tool to deploy your changes : exporting a script, running it manually, or copy-pasting into a query editor. Either way, it pulls you out of your flow.】更改架构通常意味着在工具之间跳转。您在 VS Code 中编写代码，然后切换到单独的工具来部署更改：导出脚本、手动运行它或复制粘贴到查询编辑器中。不管怎样，它都会把你从你的流程中拉出来。</description>
-      <pubDate>Tue, 24 Mar 2026 00:39:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agentic Platform Engineering with GitHub Copilot】使用 GitHub Copilot 进行代理平台工程</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/agentic-platform-engineering-with-github-copilot</link>
-      <description>【We&#39;ve talked about the human scale problem and what happens when infrastructure scales but understandin】我们已经讨论了人力规模问题以及基础设施规模扩大时会发生什么，但了解</description>
-      <pubDate>Mon, 23 Mar 2026 19:26:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Generative AI for Beginners .NET: Version 2 on .NET 10】.NET 初学者生成式 AI：.NET 10 上的版本 2</title>
-      <link>https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10</link>
-      <description>【Today we&#39;re releasing Version 2 of Generative AI for Beginners .NET, our free, open-source course for building AI-powered .NET applications. If you want to understand and build generative AI applications, from core concepts to production-ready patterns, this is you】今天，我们发布了面向初学者 .NET 的生成式 AI 第 2 版，这是我们用于构建 AI 驱动的 .NET 应用程序的免费开源课程。如果您想了解和构建生成式人工智能应用程序，从核心概念到生产就绪模式，这就是您</description>
-      <pubDate>Mon, 23 Mar 2026 17:05:00 +0000</pubDate>
+      <title>【Visual Studio Code 1.113】Visual Studio 代码 1.113</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.113</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.113 Read the full article】了解 Visual Studio Code 1.113 中的新增功能 阅读全文</description>
+      <pubDate>Wed, 25 Mar 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

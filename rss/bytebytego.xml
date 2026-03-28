@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 5 】最后报名：成为人工智能工程师 - 第 5 组</title>
+      <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-4da</link>
+      <description>【Our 5th cohort of Becoming an AI Engineer starts tomorrow, March 28. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第五期“成为人工智能工程师”课程将于明天 3 月 28 日开始。这是一门基于群组的实时课程，与畅销书作家 Ali Aminian 合作创建，由 ByteByteGo 出版。</description>
+      <pubDate>Fri, 27 Mar 2026 15:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How to Implement API Security】如何实施 API 安全</title>
+      <link>https://blog.bytebytego.com/p/how-to-implement-api-security</link>
+      <description>【Most APIs that ship to production have some security in place. Most of the time, HTTPS is enabled, an API key is required, and maybe there&amp;#8217;s even a quick code review before deployment.】大多数交付到生产环境的 API 都具有一定的安全性。大多数时候，启用 HTTPS，需要 API 密钥，甚至可能在部署之前进行快速代码审查。</description>
+      <pubDate>Thu, 26 Mar 2026 15:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Anthropic’s Claude Thinks】Anthropic 的克劳德是如何思考的</title>
+      <link>https://blog.bytebytego.com/p/how-anthropics-claude-thinks</link>
+      <description>【In this article, we will look at what the Claude researchers found.】在本文中，我们将看看克劳德研究人员的发现。</description>
+      <pubDate>Wed, 25 Mar 2026 15:31:03 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Netflix Live Streams to 100 Million Devices in 60 Seconds】Netflix 如何在 60 秒内向 1 亿台设备进行直播</title>
       <link>https://blog.bytebytego.com/p/how-netflix-live-streams-to-100-million</link>
       <description>【In this article, we will look at the architecture of this system and the challenges Netflix faced while building it.】在本文中，我们将了解该系统的架构以及 Netflix 在构建该系统时面临的挑战。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-reddit-migrated-petabyte-scale</link>
       <description>【In this article, we will look at the breakdown of this migration, the challenges the engineering team faced, and how they achieved their goal of a successful migration.】在本文中，我们将了解此迁移的详细情况、工程团队面临的挑战以及他们如何实现成功迁移的目标。</description>
       <pubDate>Tue, 17 Mar 2026 15:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Stripe’s Minions Ship 1,300 PRs a Week】Stripe 的 Minions 如何每周发送 1,300 个 PR</title>
-      <link>https://blog.bytebytego.com/p/how-stripes-minions-ship-1300-prs</link>
-      <description>【Every week, Stripe merges over 1,300 pull requests that contain zero human-written code. Not a single line. These PRs are produced by &amp;#8220;Minions,&amp;#8221; Stripe&amp;#8217;s internal coding agents, which work completely unattended.】每周，Stripe 都会合并超过 1,300 个包含零人工编写代码的拉取请求。没有一行。这些 PR 由 Stripe 的内部编码代理“Minions”生成，完全无人值守。</description>
-      <pubDate>Mon, 16 Mar 2026 15:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP206: Git Workflow: Essential Commands】EP206：Git 工作流程：基本命令</title>
-      <link>https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands</link>
-      <description>【Git has a lot of commands. Most workflows use a fraction of them.】Git 有很多命令。大多数工作流程只使用其中的一小部分。</description>
-      <pubDate>Sat, 14 Mar 2026 15:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Stateless Architecture: Benefits and Tradeoffs】无状态架构：优点和权衡</title>
-      <link>https://blog.bytebytego.com/p/stateless-architecture-benefits-and</link>
-      <description>【In this article, we will understand the nuances of stateless architecture in more detail.】在本文中，我们将更详细地了解无状态架构的细微差别。</description>
-      <pubDate>Thu, 12 Mar 2026 15:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

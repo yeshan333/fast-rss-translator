@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #274: ⚛️ Next.js, React Router, Storybook, HeroUI, Remotion, Lucide, useEffect | 📱 Reanimated, Worklets, Nitro Fetch, Navigation, Rozenite, MMKV, Windows, Swift | 🔀 TypeScript, Signals, Zero, Valibot】本周 React #274：⚛️ Next.js、React Router、Storybook、HeroUI、Remotion、Lucide、useEffect | 📱 Reanimated、Worklets、Nitro Fetch、导航、Rozenite、MMKV、Windows、Swift | 🔀 TypeScript、信号、零、Valibot</title>
+      <link>https://thisweekinreact.com/newsletter/274</link>
+      <description>【Hi everyone, Seb here 👋\!】大家好，这里是Seb👋\！</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #273: ⚛️ RedwoodSDK, Next.js, TanStack, RSC, Async React, SSR, Base UI, AI | 📱 Expo UI, Ease, Expo APIs, Keyboard, Flow, DnD, AI | 🔀 TC39, Temporal, Vite, Vite+, Vitest, Oxlint, Node.js, Bun】本周 React #273：⚛️ RedwoodSDK、Next.js、TanStack、RSC、Async React、SSR、Base UI、AI | 📱 Expo UI、Ease、Expo API、键盘、Flow、DnD、AI | 🔀 TC39、Temporal、Vite、Vite+、Vitest、Oxlint、Node.js、Bun</title>
       <link>https://thisweekinreact.com/newsletter/273</link>
       <description>【Hi everyone, Seb and Jan here 👋!】大家好，这里是 Seb 和 Jan 👋！</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/270</link>
       <description>【Hello everyone, Krzysztof and Kacper from Software Mansion here 👋】大家好，这里是 Software Mansion 的 Krzysztof 和 Kacper 👋</description>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #269: State of React, TanStack, Next.js, Tailwind, Base UI, Doctor | Hermes, Sparkling, Yoga, Enriched, Voltra, AI | Interop, Electrobun, Module Federation, Biome, pnpm】本周 React #269：React 状态、TanStack、Next.js、Tailwind、Base UI、Doctor | Hermes、Sparkling、Yoga、Enriched、Voltra、AI | Interop、Electrobun、模块联盟、Biome、pnpm</title>
-      <link>https://thisweekinreact.com/newsletter/269</link>
-      <description>【Hi everyone!】大家好！</description>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
