@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds】Roblox 如何利用 AI 在 100 毫秒内翻译 16 种语言</title>
+      <link>https://blog.bytebytego.com/p/how-roblox-uses-ai-to-translate-16</link>
+      <description>【In this article, we will look at what Roblox built and the trade-offs they made.】在本文中，我们将了解 Roblox 的构建以及他们所做的权衡。</description>
+      <pubDate>Mon, 30 Mar 2026 15:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP208: Load Balancer vs API Gateway】EP208：负载均衡器与 API 网关</title>
+      <link>https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway</link>
+      <description>【Load balancers and API gateways both sit between your clients and backend servers.】负载均衡器和 API 网关都位于客户端和后端服务器之间。</description>
+      <pubDate>Sat, 28 Mar 2026 15:31:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 5 】最后报名：成为人工智能工程师 - 第 5 组</title>
       <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-4da</link>
       <description>【Our 5th cohort of Becoming an AI Engineer starts tomorrow, March 28. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第五期“成为人工智能工程师”课程将于明天 3 月 28 日开始。这是一门基于群组的实时课程，与畅销书作家 Ali Aminian 合作创建，由 ByteByteGo 出版。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/event-sourcing-explained-benefits</link>
       <description>【In this article, we will look at Event Sourcing along with its benefits and trade-offs.】在本文中，我们将研究事件溯源及其优点和权衡。</description>
       <pubDate>Thu, 19 Mar 2026 15:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How OpenAI Codex Works】OpenAI Codex 的工作原理</title>
-      <link>https://blog.bytebytego.com/p/how-openai-codex-works</link>
-      <description>【In this article, we will look at how OpenAI built the right orchestration layer around the model.】在本文中，我们将了解 OpenAI 如何围绕模型构建正确的编排层。</description>
-      <pubDate>Wed, 18 Mar 2026 15:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Reddit Migrated Petabyte-Scale Kafka from EC2 to Kubernetes】Reddit 如何将 PB 级 Kafka 从 EC2 迁移到 Kubernetes</title>
-      <link>https://blog.bytebytego.com/p/how-reddit-migrated-petabyte-scale</link>
-      <description>【In this article, we will look at the breakdown of this migration, the challenges the engineering team faced, and how they achieved their goal of a successful migration.】在本文中，我们将了解此迁移的详细情况、工程团队面临的挑战以及他们如何实现成功迁移的目标。</description>
-      <pubDate>Tue, 17 Mar 2026 15:30:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

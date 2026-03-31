@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>Aigen 如何利用 Amazon SageMaker AI 改造农业机器人以实现可持续农业</title>
+      <link>https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/</link>
+      <description></description>
+      <pubDate>Mon, 30 Mar 2026 15:36:36 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS 上的代理 AI 开发架构</title>
       <link>https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/</link>
       <description></description>
       <pubDate>Fri, 30 Jan 2026 19:09:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artera 如何使用 AWS 增强前列腺癌诊断</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/</link>
-      <description></description>
-      <pubDate>Thu, 29 Jan 2026 17:06:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

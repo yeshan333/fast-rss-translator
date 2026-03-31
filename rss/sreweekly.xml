@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #510】SRE 周刊第 #510 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-510/</link>
+      <description>【View on sreweekly.com A message from our sponsor, Clickhouse: AI isn&amp;#8217;t replacing SREs. It&amp;#8217;s changing how they work. The near future of observability isn&amp;#8217;t autonomous agents, it&amp;#8217;s collaboration. ClickHouse&amp;#8217;s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Clickhouse 的消息：人工智能不会取代 SRE。它正在改变他们的工作方式。可观察性的不久的将来不是自主代理，而是协作。 ClickHouse 的 ClickStack Notebooks 将 SRE 和 AI 引入共享的研究工作区，将人类直觉与结构化、可靠的工具相结合，以更快地调试并更清晰地思考。读 […]</description>
+      <pubDate>Mon, 30 Mar 2026 02:43:07 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #509】SRE 周刊第 509 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-509/</link>
       <description>【View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and [&amp;#8230;]】查看 sreweekly.com SRE 周刊回来了！我的伴侣做得很好，感谢所有善意的话语和良好的祝愿。来自我们的赞助商 Costory 的消息：跟踪 AWS、GCP 和 Datadog 之间的云和 AI 成本不需要三个仪表板和一个电子表格。Costory 将成本、使用情况和部署数据关联起来。解释发生了什么变化并且[...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-506/</link>
       <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io What came first- the CNAME [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有注册进行 FinOps。Costory 会自动解释您的云成本变化的原因，并直接向 Slack 报告。专为想要编码而不是与电子表格搏斗的 SRE 构建。现在在 AWS 和 GCP Marketplaces 上。在 costory.io 开始免费试用 首先出现的是 CNAME [...]</description>
       <pubDate>Mon, 19 Jan 2026 02:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #505】SRE 周刊第 #505 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-505/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Hopp: Paging at 2am? 🚨 Make incident triage feel like you’re at the same keyboard with Hopp. crisp, readable screen-sharing no more &amp;#8220;can you zoom in?&amp;#8221; click + type together bring the incident bridge into one session Start pair programming: https://www.gethopp.app/?via=sreweekly 2013–09–17 Outage Postmortem An incident write-up [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Hopp 的消息：凌晨 2 点寻呼？ 🚨 让事件分类感觉就像您与 Hopp 在同一个键盘上一样。清晰易读的屏幕共享不再需要“你能放大吗？”单击 + 一起键入将事件桥纳入一个会话开始结对编程：https://www.gethop.app/?via=sreweekly 2013–09–17 停电事后分析事件记录 [...]</description>
-      <pubDate>Mon, 12 Jan 2026 01:42:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Cloudflare Client-Side Security: smarter detection, now open to everyone】Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
+      <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
+      <description>【 We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we&#39;ve reduced false positives by up to 200x while catching sophisticated zero-day exploits. 】我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。</description>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams 】我们如何使用抽象语法树（AST）将工作流程代码转换为可视化图表</title>
+      <link>https://blog.cloudflare.com/workflow-diagrams/</link>
+      <description>【 Workflows are now visualized via step diagrams in the dashboard. Here’s how we translate your TypeScript code into a visual representation of the workflow.  】现在，工作流程通过仪表板中的步骤图进行可视化。以下是我们如何将您的 TypeScript 代码转换为工作流程的可视化表示。</description>
+      <pubDate>Fri, 27 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A one-line Kubernetes fix that saved 600 hours a year】一条 Kubernetes 修复方案一年节省了 600 个小时</title>
       <link>https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/</link>
       <description>【 When we investigated why our Atlantis instance took 30 minutes to restart, we discovered a bottleneck in how Kubernetes handles volume permissions. By adjusting the fsGroupChangePolicy, we reduced restart times to 30 seconds. 】当我们调查为什么 Atlantis 实例需要 30 分钟才能重新启动时，我们发现 Kubernetes 处理卷权限的方式存在瓶颈。通过调整 fsGroupChangePolicy，我们将重启时间减少到 30 秒。</description>
@@ -16,7 +28,7 @@
       <pubDate>Tue, 24 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心以获得 2 倍边缘计算性能</title>
+      <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心，以获得 2 倍边缘计算性能</title>
       <link>https://blog.cloudflare.com/gen13-launch/</link>
       <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
       <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/legacy-to-agile-sase/</link>
       <description>【 Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project. 】了解 Cloudflare 和 CDW 如何通过将遗留债务视为应用程序现代化项目的蓝图来降低 SASE 迁移风险。</description>
       <pubDate>Fri, 13 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans】宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
-      <link>https://blog.cloudflare.com/account-abuse-protection/</link>
-      <description>【 Blocking bots isn’t enough anymore. Cloudflare’s new fraud prevention capabilities — now available in Early Access — help stop account abuse before it starts. 】阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。</description>
-      <pubDate>Thu, 12 Mar 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Slashing agent token costs by 98% with RFC 9457-compliant error responses】通过符合 RFC 9457 的错误响应，将代理令牌成本削减 98%</title>
-      <link>https://blog.cloudflare.com/rfc-9457-agent-error-pages/</link>
-      <description>【 Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into efficient control flow. 】Cloudflare 现在将符合 RFC 9457 的结构化 Markdown 和 JSON 错误负载返回给 AI 代理，用机器可读指令替换重量级 HTML 页面。这减少了超过 98% 的令牌使用量，将脆弱的解析转变为高效的控制流。</description>
-      <pubDate>Wed, 11 Mar 2026 13:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
