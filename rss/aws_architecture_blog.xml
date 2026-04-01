@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>简化对 AWS 强大灾难恢复功能的访问</title>
+      <link>https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/</link>
+      <description></description>
+      <pubDate>Tue, 31 Mar 2026 18:00:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Aigen 如何利用 Amazon SageMaker AI 改造农业机器人以实现可持续农业</title>
       <link>https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/</link>
       <description></description>
       <pubDate>Wed, 04 Feb 2026 15:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>主权故障转移 – 使用 AWS 欧洲主权云设计数字主权</title>
-      <link>https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/</link>
-      <description></description>
-      <pubDate>Fri, 30 Jan 2026 19:09:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

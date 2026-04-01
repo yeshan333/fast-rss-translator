@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers】推出可编程流量保护：为 Magic Transit 客户定制 DDoS 缓解逻辑</title>
+      <link>https://blog.cloudflare.com/programmable-flow-protection/</link>
+      <description>【 Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. This enables precise, stateful mitigation for custom and proprietary UDP protocols. 】Magic Transit 客户现在可以编写自己的 DDoS 缓解逻辑，并将其部署在 Cloudflare 的全球网络中。这可以为自定义和专有 UDP 协议提供精确、有状态的缓解。</description>
+      <pubDate>Tue, 31 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Cloudflare Client-Side Security: smarter detection, now open to everyone】Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
       <description>【 We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we&#39;ve reduced false positives by up to 200x while catching sophisticated zero-day exploits. 】我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。</description>
@@ -28,15 +34,15 @@
       <pubDate>Tue, 24 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心，以获得 2 倍边缘计算性能</title>
-      <link>https://blog.cloudflare.com/gen13-launch/</link>
-      <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
-      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Inside Gen 13: how we built our most powerful server yet】Gen 13 内部：我们如何构建迄今为止最强大的服务器</title>
       <link>https://blog.cloudflare.com/gen13-config/</link>
       <description>【 Cloudflare&#39;s Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each major component selection. 】Cloudflare 的第 13 代服务器引入了 AMD EPYC™ Turin 9965 处理器并过渡到 100 GbE 网络，以满足不断增长的流量需求。在本次技术深入探讨中，我们解释了每个主要组件选择背后的工程原理。</description>
+      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心以获得 2 倍边缘计算性能</title>
+      <link>https://blog.cloudflare.com/gen13-launch/</link>
+      <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
       <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/standing-up-for-the-open-internet/</link>
       <description>【 Cloudflare is appealing a €14 million fine from Italian regulators over &#34;Piracy Shield,&#34; a system that forces providers to block content without oversight. We are challenging this framework to protect the Internet from disproportionate overblocking and lack of due process. 】Cloudflare 对意大利监管机构就“盗版盾”罚款 1400 万欧元提出上诉，该系统迫使提供商在没有监督的情况下屏蔽内容。我们正在挑战这一框架，以保护互联网免受不成比例的过度封锁和缺乏正当程序的影响。</description>
       <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【From legacy architecture to Cloudflare One】从遗留架构到 Cloudflare One</title>
-      <link>https://blog.cloudflare.com/legacy-to-agile-sase/</link>
-      <description>【 Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project. 】了解 Cloudflare 和 CDW 如何通过将遗留债务视为应用程序现代化项目的蓝图来降低 SASE 迁移风险。</description>
-      <pubDate>Fri, 13 Mar 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

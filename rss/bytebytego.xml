@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Meta Turned Debugging Into a Product】Meta 如何将调试变成产品</title>
+      <link>https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a</link>
+      <description>【In this article, we will look at how DrP works on a high level and the design choices Meta made while building it.】在本文中，我们将了解 DrP 如何在高层次上工作以及 Meta 在构建它时所做的设计选择。</description>
+      <pubDate>Tue, 31 Mar 2026 15:31:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds】Roblox 如何利用 AI 在 100 毫秒内翻译 16 种语言</title>
       <link>https://blog.bytebytego.com/p/how-roblox-uses-ai-to-translate-16</link>
       <description>【In this article, we will look at what Roblox built and the trade-offs they made.】在本文中，我们将了解 Roblox 的构建以及他们所做的权衡。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories</link>
       <description>【These repositories were selected based on their overall popularity and GitHub stars.】这些存储库是根据其整体受欢迎程度和 GitHub 星级来选择的。</description>
       <pubDate>Sat, 21 Mar 2026 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Event Sourcing Explained: Benefits and Use Cases】事件溯源解释：优点和用例</title>
-      <link>https://blog.bytebytego.com/p/event-sourcing-explained-benefits</link>
-      <description>【In this article, we will look at Event Sourcing along with its benefits and trade-offs.】在本文中，我们将研究事件溯源及其优点和权衡。</description>
-      <pubDate>Thu, 19 Mar 2026 15:30:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

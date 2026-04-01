@@ -10,6 +10,30 @@
       <pubDate>Wed, 01 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Building with Azure Skills】使用 Azure 技能进行构建</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/building-with-azure-skills</link>
+      <description>【Part 3 of the Azure Skills Plugin series Previously: How to Install the Azure Plugin You&#39;ve installed the Azure Skills Plugin. The Azure MCP server is running. You have a huge collection of tools and skills at your】Azure 技能插件系列的第 3 部分 以前：如何安装 Azure 插件 您已经安装了 Azure 技能插件。 Azure MCP 服务器正在运行。您拥有大量的工具和技能</description>
+      <pubDate>Tue, 31 Mar 2026 23:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Aspire 13.2: Dashboard Gets Smarter Export and Telemetry】Aspire 13.2：仪表板变得更加智能的导出和遥测</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-dashboard-improvements-export-and-telemetry</link>
+      <description>【Debugging distributed apps is hard. When something goes wrong, the problem could be in any service, and the evidence is scattered across separate log streams, trace collectors, and configuration sources. Aspire makes telemetry a first-class concern by configuring OpenTelemetry by default and collecting all telemetry in the Aspire dashboard.】调试分布式应用程序很困难。当出现问题时，问题可能出现在任何服务中，并且证据分散在单独的日志流、跟踪收集器和配置源中。 Aspire 通过默认配置 OpenTelemetry 并在 Aspire 仪表板中收集所有遥测数据，使遥测成为头等大事。</description>
+      <pubDate>Tue, 31 Mar 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio March Update - Build Your Own Custom Agents】Visual Studio 三月更新 - 构建您自己的自定义代理</title>
+      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-march-update-build-your-own-custom-agents</link>
+      <description>【This month&#39;s Visual Studio update gives you new ways to customize GitHub Copilot. Custom agents allow you to build specialized Copilot agents tailored to your team&#39;s workflow, backed by the tools and knowledge sources that matter to your project. Alongside that, agent skills bring reusable instruction sets, and a new find_symbol tool】本月的 Visual Studio 更新为您提供了自定义 GitHub Copilot 的新方法。自定义代理允许您构建适合您团队工作流程的专业 Copilot 代理，并由对您的项目重要的工具和知识源提供支持。除此之外，代理技能还带来了可重用的指令集和新的 find_symbol 工具</description>
+      <pubDate>Tue, 31 Mar 2026 16:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Before you check if an update caused your problem, check that it wasn&#39;t a problem before the update】在检查更新是否导致您的问题之前，请先检查更新之前是否存在问题</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</link>
+      <description>【My colleagues over in enterprise product support often get corporate customers who report that &#34;Your latest update broke our system.&#34; After studying the problem (which is usually quite laborious because they have to go back and forth with the customer to capture logs and dumps and traces), they eventually conclude that, actually, the system】我在企业产品支持部门的同事经常收到企业客户的报告，“您的最新更新破坏了我们的系统”。在研究了问题之后（这通常是相当费力的，因为他们必须与客户一起来回捕获日志、转储和跟踪），他们最终得出结论，实际上，系统</description>
+      <pubDate>Tue, 31 Mar 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure Developer CLI (azd) - March 2026: Run and Debug AI Agents Locally, GitHub Copilot Integration, &amp; Container App Jobs】Azure 开发人员 CLI (azd) - 2026 年 3 月：本地运行和调试 AI 代理、GitHub Copilot 集成和容器应用作业</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-march-2026</link>
       <description>【The Azure Developer CLI (azd) shipped seven releases in March 2026. Most notably, azd now has a local run-and-debug loop for AI agents, GitHub Copilot–powered project setup, and Container App Jobs deployment. Here&#39;s what&#39;s in versions 1.2】Azure 开发人员 CLI (azd) 于 2026 年 3 月发布了七个版本。最值得注意的是，azd 现在为 AI 代理、GitHub Copilot 支持的项目设置和容器应用程序作业部署提供了本地运行和调试循环。这是 1.2 版本中的内容</description>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-march-2026</link>
       <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
       <pubDate>Thu, 26 Mar 2026 20:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Breaking Change Ahead: Graph API Updates to Sensitive Email Properties】突破性变革：敏感电子邮件属性的 Graph API 更新</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/graph-api-updates-to-sensitive-email-properties</link>
-      <description>【We&#39;re implementing a significant update in our service affecting applications that modify sensitive email properties on non-draft email messages. These sensitive email properties include the subject, body, recipients, and a number of other properties when changed using any of the】我们正在服务中实施一项重大更新，该更新会影响修改非草稿电子邮件上的敏感电子邮件属性的应用程序。这些敏感电子邮件属性包括主题、正文、收件人以及使用任何更改后的许多其他属性。</description>
-      <pubDate>Thu, 26 Mar 2026 18:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【TypeScript AppHost in Aspire 13.2: same app model, different syntax】Aspire 13.2 中的 TypeScript AppHost：相同的应用程序模型，不同的语法</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-typescript-apphost</link>
-      <description>【Aspire 13.2 brings TypeScript AppHost support to the same application model that existing Aspire users already know. You still define resources, references, startup dependencies, endpoints, and deployment intent in code. You still get the same dashboard, service disc】Aspire 13.2 为现有 Aspire 用户已经了解的相同应用程序模型提供了 TypeScript AppHost 支持。您仍然可以在代码中定义资源、引用、启动依赖项、端点和部署意图。您仍然可以获得相同的仪表板、服务光盘</description>
-      <pubDate>Thu, 26 Mar 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why doesn&#39;t &lt;CODE&gt;WM_&lt;WBR&gt;ENTER­IDLE&lt;/CODE&gt; work if the dialog box is a &lt;CODE&gt;Message­Box&lt;/CODE&gt;?】如果对话框是 &lt;CODE&gt;MessageBox&lt;/CODE&gt;，为什么 &lt;CODE&gt;WM_&lt;WBR&gt;ENTERIDLE&lt;/CODE&gt; 不起作用？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167</link>
-      <description>【Last time, we looked at how the owner of a dialog can take control just before the dialog box message loop goes idle. I said that I pulled a trick】上次，我们研究了对话框的所有者如何在对话框消息循环空闲之前进行控制。我说我耍了把戏</description>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building Search-Enabled Agents with Azure AI Foundry and Semantic Kernel and A2A】使用 Azure AI Foundry、语义内核和 A2A 构建支持搜索的代理</title>
-      <link>https://devblogs.microsoft.com/ise/building-bing-search-enabled-agent-with-microsoft-foundry-and-semantic-kernel</link>
-      <description>【The landscape of AI development has evolved dramatically. Modern intelligent agents require real-time web access to provide accurate, grounded responses. With the retirement of direct Bing Search API access, developers must transition from direct】人工智能的发展格局已经发生了巨大的变化。现代智能代理需要实时网络访问才能提供准确、可靠的响应。随着直接 Bing 搜索 API 访问的退役，开发人员必须从直接访问转变为</description>
-      <pubDate>Thu, 26 Mar 2026 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
