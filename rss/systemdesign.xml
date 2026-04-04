@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【Amazon S3 - A Deep Dive】Amazon S3 - 深入探讨</title>
+      <link>https://newsletter.systemdesign.one/p/aws-s3-system-design</link>
+      <description>【#136: How S3 Actually Works】#136：S3 的实际工作原理</description>
+      <pubDate>Wed, 01 Apr 2026 12:04:35 +0000</pubDate>
+    </item>
+    <item>
       <title>【The 53 Concepts for Highly Effective Mobile System Design】高效移动系统设计的 53 个概念</title>
       <link>https://newsletter.systemdesign.one/p/mobile-system-design</link>
       <description>【#135: Part 1 - Client-Server Architecture, Push Notifications, Offline-First, and 16 others.】#135：第 1 部分 - 客户端-服务器架构、推送通知、离线优先以及其他 16 个。</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/what-is-high-availability</link>
       <description>【#126: What Is High Availability】#126：什么是高可用性</description>
       <pubDate>Sat, 28 Feb 2026 12:57:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【System Design Interview: Design ChatGPT】系统设计访谈：Design ChatGPT</title>
-      <link>https://newsletter.systemdesign.one/p/chatgpt-system-design</link>
-      <description>【#125: System Design Interview】＃125：系统设计面试</description>
-      <pubDate>Wed, 25 Feb 2026 16:30:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

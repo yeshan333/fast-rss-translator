@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Why we&#39;re rethinking cache for the AI era】为什么我们要重新思考人工智能时代的缓存</title>
+      <link>https://blog.cloudflare.com/rethinking-cache-ai-humans/</link>
+      <description>【 The explosion of AI-bot traffic, representing over 10 billion requests per week, has opened up new challenges and opportunities for cache design. We look at some of the ways AI bot traffic differs from humans, how this impacts CDN cache, and some early ideas for how Cloudflare is designing systems to improve the AI and human experience. 】AI 机器人流量的爆炸式增长（每周超过 100 亿个请求）为缓存设计带来了新的挑战和机遇。我们研究了 AI 机器人流量与人类流量不同的一些方式、这如何影响 CDN 缓存，以及 Cloudflare 如何设计系统来改善 AI 和人类体验的一些早期想法。</description>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver】我们对 1.1.1.1 公共 DNS 解析器隐私的持续承诺</title>
+      <link>https://blog.cloudflare.com/1111-privacy-examination-2026/</link>
+      <description>【 Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised. 】八年前，我们推出了 1.1.1.1，以构建更快、更私密的互联网。今天，我们将分享最新独立检查的结果。结果：我们的隐私保护完全按照承诺发挥作用。</description>
+      <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing EmDash — the spiritual successor to WordPress that solves plugin security】隆重推出 EmDash — WordPress 的精神继承者，解决插件安全问题</title>
+      <link>https://blog.cloudflare.com/emdash-wordpress/</link>
+      <description>【 Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates. 】今天，我们推出 EmDash 测试版，这是一个基于 Astro 6.0 构建的全栈无服务器 JavaScript CMS。它将传统 CMS 的功能与现代安全性相结合，在沙盒 Worker 隔离区中运行插件。</description>
+      <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers】推出可编程流量保护：为 Magic Transit 客户定制 DDoS 缓解逻辑</title>
       <link>https://blog.cloudflare.com/programmable-flow-protection/</link>
       <description>【 Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. This enables precise, stateful mitigation for custom and proprietary UDP protocols. 】Magic Transit 客户现在可以编写自己的 DDoS 缓解逻辑，并将其部署在 Cloudflare 的全球网络中。这可以为自定义和专有 UDP 协议提供精确、有状态的缓解。</description>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/gen13-launch/</link>
       <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
       <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Powering the agents: Workers AI now runs large models, starting with Kimi K2.5】为代理提供动力：Workers AI 现在运行大型模型，从 Kimi K2.5 开始</title>
-      <link>https://blog.cloudflare.com/workers-ai-large-models/</link>
-      <description>【 Kimi K2.5 is now on Workers AI, helping you power agents entirely on Cloudflare’s Developer Platform. Learn how we optimized our inference stack and reduced inference costs for internal agent use cases.  】Kimi K2.5 现已加入 Workers AI，帮助您完全在 Cloudflare 的开发者平台上为代理提供支持。了解我们如何优化推理堆栈并降低内部代理用例的推理成本。</description>
-      <pubDate>Thu, 19 Mar 2026 19:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Custom Regions for precision data control】引入自定义区域以实现精确数据控制</title>
-      <link>https://blog.cloudflare.com/custom-regions/</link>
-      <description>【 We are expanding Regional Services with new pre-defined regions and the launch of Custom Regions. Customers can now define precise geographical boundaries for data processing, tailored to meet their compliance and performance needs. 】我们正在通过新的预定义区域和自定义区域的推出来扩展区域服务。客户现在可以定义精确的数据处理地理边界，以满足其合规性和性能需求。</description>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Standing up for the open Internet: why we appealed Italy’s &#34;Piracy Shield&#34; fine】捍卫开放互联网：我们为何对意大利的“盗版盾”罚款提出上诉</title>
-      <link>https://blog.cloudflare.com/standing-up-for-the-open-internet/</link>
-      <description>【 Cloudflare is appealing a €14 million fine from Italian regulators over &#34;Piracy Shield,&#34; a system that forces providers to block content without oversight. We are challenging this framework to protect the Internet from disproportionate overblocking and lack of due process. 】Cloudflare 对意大利监管机构就“盗版盾”罚款 1400 万欧元提出上诉，该系统迫使提供商在没有监督的情况下屏蔽内容。我们正在挑战这一框架，以保护互联网免受不成比例的过度封锁和缺乏正当程序的影响。</description>
-      <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

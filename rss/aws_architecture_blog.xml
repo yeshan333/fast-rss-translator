@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>利用计算机视觉和生成式人工智能实现自动化安全监控</title>
+      <link>https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/</link>
+      <description></description>
+      <pubDate>Wed, 01 Apr 2026 18:59:02 +0000</pubDate>
+    </item>
+    <item>
       <title>简化对 AWS 强大灾难恢复功能的访问</title>
       <link>https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/</link>
       <description></description>
       <pubDate>Thu, 05 Feb 2026 21:21:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>掌控毫秒延迟和数百万个事件：Amazon Key Suite 背后的事件驱动架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/</link>
-      <description></description>
-      <pubDate>Wed, 04 Feb 2026 15:53:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

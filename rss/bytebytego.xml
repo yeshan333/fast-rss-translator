@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Our New Book on Behavioral Interviews Is Now Available on Amazon】我们关于行为访谈的新书现已在亚马逊上发售</title>
+      <link>https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews</link>
+      <description>【The book is written by Steve Huynh and published by ByteByteGo.】该书由 Steve Huynh 撰写，由 ByteByteGo 出版。</description>
+      <pubDate>Fri, 03 Apr 2026 15:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Database Performance Strategies and Their Hidden Costs】数据库性能策略及其隐藏成本</title>
+      <link>https://blog.bytebytego.com/p/database-performance-strategies-and</link>
+      <description>【A feature is deployed, and the database queries run well.】功能已部署，数据库查询运行良好。</description>
+      <pubDate>Thu, 02 Apr 2026 15:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Datadog Redefined Data Replication】Datadog 如何重新定义数据复制</title>
+      <link>https://blog.bytebytego.com/p/how-datadog-redefined-data-replication</link>
+      <description>【In this article, we will look at how Datadog implemented the changes and the challenges they faced.】在本文中，我们将了解 Datadog 如何实施这些变更以及他们面临的挑战。</description>
+      <pubDate>Wed, 01 Apr 2026 15:31:07 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Meta Turned Debugging Into a Product】Meta 如何将调试变成产品</title>
       <link>https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a</link>
       <description>【In this article, we will look at how DrP works on a high level and the design choices Meta made while building it.】在本文中，我们将了解 DrP 如何在高层次上工作以及 Meta 在构建它时所做的设计选择。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-netflix-live-streams-to-100-million</link>
       <description>【In this article, we will look at the architecture of this system and the challenges Netflix faced while building it.】在本文中，我们将了解该系统的架构以及 Netflix 在构建该系统时面临的挑战。</description>
       <pubDate>Tue, 24 Mar 2026 15:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Agentic RAG Works?】Agentic RAG 是如何工作的？</title>
-      <link>https://blog.bytebytego.com/p/how-agentic-rag-works</link>
-      <description>【In this article, we will look at how agentic RAG works, how it improves upon standard RAG, and the trade-offs that should be considered.】在本文中，我们将了解代理 RAG 的工作原理、它如何改进标准 RAG，以及应考虑的权衡。</description>
-      <pubDate>Mon, 23 Mar 2026 15:31:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course】最后报名机会 |成为一名人工智能工程师 |队列课程</title>
-      <link>https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai-2ca</link>
-      <description>【Our 5th cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第五批“成为人工智能工程师”课程将在不到一周的时间内开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
-      <pubDate>Sun, 22 Mar 2026 15:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP207: Top 12 GitHub AI Repositories】EP207：前 12 个 GitHub AI 存储库</title>
-      <link>https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories</link>
-      <description>【These repositories were selected based on their overall popularity and GitHub stars.】这些存储库是根据其整体受欢迎程度和 GitHub 星级来选择的。</description>
-      <pubDate>Sat, 21 Mar 2026 15:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
