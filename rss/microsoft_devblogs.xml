@@ -10,6 +10,30 @@
       <pubDate>Wed, 08 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Agent Academy Spring Drop: Special Ops, Cowork Collective, and a Whole New Look】特工学院春季空投：特别行动、协作集体和全新面貌</title>
+      <link>https://devblogs.microsoft.com/powerplatform/agent-academy-update-special-ops-cowork-collective</link>
+      <description>【We&#39;ve shipped a big round of updates to Agent Academy. Two new sections, a completely redone site experience, and more missions on the way. Here&#39;s what&#39;s changed. Quick recap for anyone new Agent Academy is a free, open-source curriculum for learning how to build agents with Microsoft Copilot Studio. Since launching in Aug】我们已经对特工学院进行了一轮大更新。两个新部分、完全重做的场地体验以及更多任务即将推出。这是改变的内容。任何人都可以快速回顾一下新的 Agent Academy 是一门免费的开源课程，用于学习如何使用 Microsoft Copilot Studio 构建代理。自8月推出以来</description>
+      <pubDate>Mon, 06 Apr 2026 21:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing the end of support for Node.js 20.x in the Azure SDK for JavaScript】宣布 Azure SDK for JavaScript 终止对 Node.js 20.x 的支持</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-the-end-of-support-for-node-js-20-x-in-the-azure-sdk-for-javascript</link>
+      <description>【After July 9, 2026, the Azure SDK for JavaScript will no longer support Node.js 20.x, which reaches end-of-life on April 30, 2026. We encourage you to upgrade to an Active Node.js Long Ter】2026 年 7 月 9 日之后，Azure SDK for JavaScript 将不再支持 Node.js 20.x，该版本将于 2026 年 4 月 30 日终止。我们鼓励您长期升级到活动 Node.js</description>
+      <pubDate>Mon, 06 Apr 2026 20:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【MCP Apps on Azure Functions: Quickstart with TypeScript】Azure Functions 上的 MCP 应用：TypeScript 快速入门</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/mcp-apps-on-azure-functions-quickstart-with-typescript</link>
+      <description>【Azure Functions makes hosting MCP apps simple: build locally, create a secure endpoint, and deploy fast with Azure Developer CLI (azd). This guide shows you how using a weather app example. What are MCP Apps? MCP Apps let MCP servers return interac】Azure Functions 使托管 MCP 应用程序变得简单：本地构建、创建安全终结点并使用 Azure 开发人员 CLI (azd) 快速部署。本指南向您展示如何使用天气应用程序示例。什么是 MCP 应用程序？ MCP 应用程序让 MCP 服务器返回交互信息</description>
+      <pubDate>Mon, 06 Apr 2026 15:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Learning to read C++ compiler errors: Illegal use of &lt;TT&gt;-&gt;&lt;/TT&gt; when there is no &lt;TT&gt;-&gt;&lt;/TT&gt; in sight】学习读取 C++ 编译器错误：在看不到 &lt;TT&gt;-&gt;&lt;/TT&gt; 时非法使用 &lt;TT&gt;-&gt;&lt;/TT&gt;</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</link>
+      <description>【A customer reported a problem with a system header file. When they included ole2.h, the compiler reported an error in oaidl.h: MIDL_INTERFACE(&#34;3127CA40-446E-11CE-8135-00AA004BB851&#34;) IErrorLog : public IUnknown { public: virtual HRESULT STDM】客户报告了系统头文件的问题。当它们包含 ole2.h 时，编译器在 oaidl.h 中报告错误： MIDL_INTERFACE(&#34;3127CA40-446E-11CE-8135-00AA004BB851&#34;) IErrorLog : public IUnknown { public: virtual HRESULT STDM</description>
+      <pubDate>Mon, 06 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Microsoft Agent Framework Version 1.0】微软代理框架版本1.0</title>
       <link>https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0</link>
       <description>【Today, we&#39;re thrilled to announce that Microsoft Agent Framework has reached version 1.0 for both .NET and Python. This is the production-ready release: stable APIs, and a commitment to long-term support. W】今天，我们很高兴地宣布 Microsoft Agent Framework 已达到适用于 .NET 和 Python 的 1.0 版。这是生产就绪版本：稳定的 API，以及对长期支持的承诺。瓦</description>
@@ -22,7 +46,7 @@
       <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【🚀React Native Windows v0.82 is here!!】🚀React Native Windows v0.82 来了！！</title>
+      <title>【🚀React Native Windows v0.82 is here!!】🚀React Native Windows v0.82 来了！</title>
       <link>https://devblogs.microsoft.com/react-native/%f0%9f%9a%80react-native-windows-v0-82-is-here</link>
       <description>【React Native Windows v0.82 is here, marking a major milestone: the legacy Paper architecture has been fully removed. All applications now run exclusively on the New Architecture (Fabric), and this release also unlocks XAML controls for community modules — so Windows apps can seamlessly mix native XAML controls with React components. This】React Native Windows v0.82 现已发布，标志着一个重要的里程碑：遗留的 Paper 架构已被完全删除。现在，所有应用程序都专门在新架构 (Fabric) 上运行，并且此版本还解锁了社区模块的 XAML 控件，因此 Windows 应用程序可以将本机 XAML 控件与 React 组件无缝混合。这</description>
       <pubDate>Fri, 03 Apr 2026 07:53:47 +0000</pubDate>
@@ -38,30 +62,6 @@
       <link>https://devblogs.microsoft.com/aspire/aspire-docs-in-your-terminal</link>
       <description>【You&#39;re three files deep in your Aspire AppHost, and you need to remember exactly which parameters the Redis integration expects. You could alt-tab to your browser, hunt through aspire.dev, squint at the API docs, then come back. Or you could just run a command. Or—better yet—let your AI agent look it up】您的 Aspire AppHost 中有三个文件，您需要准确记住 Redis 集成需要哪些参数。您可以按 alt-tab 键切换到浏览器，浏览 aspire.dev，查看 API 文档，然后返回。或者你可以只运行一个命令。或者——更好的是——让你的人工智能代理来查找它</description>
       <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why doesn&#39;t the system let you declare your own messages to have the same semantics as &lt;CODE&gt;WM_&lt;WBR&gt;COPY­DATA&lt;/CODE&gt;?】为什么系统不允许您声明自己的消息具有与 &lt;CODE&gt;WM_&lt;WBR&gt;COPYDATA&lt;/CODE&gt; 相同的语义？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</link>
-      <description>【In a comment on my discussion on how to return results back from the WM_COPY­DATA message, Jan Ringoš observed that it felt wasteful th】在对我关于如何从 WM_COPYDATA 消息返回结果的讨论的评论中，Jan Ringoš 观察到这感觉很浪费</description>
-      <pubDate>Thu, 02 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python in Visual Studio Code - March 2026 Release】Visual Studio Code 中的 Python - 2026 年 3 月发布</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2026-release</link>
-      <description>【We&#39;re excited to announce that the March 2026 release of the Python extension for Visual Studio Code are now available! This release includes the following announcements: Search Python Symbols in Installed Packages Experimental: Rust-】我们很高兴地宣布，2026 年 3 月发布的 Visual Studio Code Python 扩展现已推出！此版本包括以下公告：在已安装的包中搜索 Python 符号实验：Rust-</description>
-      <pubDate>Thu, 02 Apr 2026 00:27:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio Code 1.114】Visual Studio 代码 1.114</title>
-      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-114</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.114 Read the full article】了解 Visual Studio Code 1.114 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 01 Apr 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio Code 1.114】Visual Studio 代码 1.114</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.114</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.114 Read the full article】了解 Visual Studio Code 1.114 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 01 Apr 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

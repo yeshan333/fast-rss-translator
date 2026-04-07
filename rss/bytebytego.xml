@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【A Guide to Context Engineering for LLMs】法学硕士情境工程指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-context-engineering-for</link>
+      <description>【In this article, we&amp;#8217;ll look at how LLMs actually process the information you give them, what context engineering is, and the strategies that can help with it.】在本文中，我们将了解法学硕士如何实际处理您提供给他们的信息、什么是上下文工程以及可以提供帮助的策略。</description>
+      <pubDate>Mon, 06 Apr 2026 15:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP209: 12 Claude Code Features Every Engineer Should Know】EP209：每个工程师都应该知道的 12 个 Claude 代码功能</title>
+      <link>https://blog.bytebytego.com/p/ep209-12-claude-code-features-every</link>
+      <description>【CLAUDE. md: A project memory file to define custom rules and conventions. Claude reads at the start of every session.】克劳德。 md：用于定义自定义规则和约定的项目内存文件。克劳德在每堂课开始时都会朗读。</description>
+      <pubDate>Sat, 04 Apr 2026 15:30:42 +0000</pubDate>
+    </item>
+    <item>
       <title>【Our New Book on Behavioral Interviews Is Now Available on Amazon】我们关于行为访谈的新书现已在亚马逊上发售</title>
       <link>https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews</link>
       <description>【The book is written by Steve Huynh and published by ByteByteGo.】该书由 Steve Huynh 撰写，由 ByteByteGo 出版。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-to-implement-api-security</link>
       <description>【Most APIs that ship to production have some security in place. Most of the time, HTTPS is enabled, an API key is required, and maybe there&amp;#8217;s even a quick code review before deployment.】大多数交付到生产环境的 API 都具有一定的安全性。大多数时候，启用 HTTPS，需要 API 密钥，甚至可能在部署之前进行快速代码审查。</description>
       <pubDate>Thu, 26 Mar 2026 15:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Anthropic’s Claude Thinks】Anthropic 的克劳德是如何思考的</title>
-      <link>https://blog.bytebytego.com/p/how-anthropics-claude-thinks</link>
-      <description>【In this article, we will look at what the Claude researchers found.】在本文中，我们将看看克劳德研究人员的发现。</description>
-      <pubDate>Wed, 25 Mar 2026 15:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Netflix Live Streams to 100 Million Devices in 60 Seconds】Netflix 如何在 60 秒内向 1 亿台设备进行直播</title>
-      <link>https://blog.bytebytego.com/p/how-netflix-live-streams-to-100-million</link>
-      <description>【In this article, we will look at the architecture of this system and the challenges Netflix faced while building it.】在本文中，我们将了解该系统的架构以及 Netflix 在构建该系统时面临的挑战。</description>
-      <pubDate>Tue, 24 Mar 2026 15:31:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,21 +4,27 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【How we built Organizations to help enterprises manage Cloudflare at scale】我们如何构建组织来帮助企业大规模管理 Cloudflare</title>
+      <link>https://blog.cloudflare.com/organizations-beta/</link>
+      <description>【 Cloudflare Organizations is now in public beta, introducing a new management layer for enterprise customers with multiple accounts. Learn how we consolidated our authorization systems to enable org-wide management.  】Cloudflare Organizations 现已推出公开测试版，为拥有多个帐户的企业客户引入了新的管理层。了解我们如何整合授权系统以实现组织范围内的管理。</description>
+      <pubDate>Mon, 06 Apr 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Why we&#39;re rethinking cache for the AI era】为什么我们要重新思考人工智能时代的缓存</title>
       <link>https://blog.cloudflare.com/rethinking-cache-ai-humans/</link>
       <description>【 The explosion of AI-bot traffic, representing over 10 billion requests per week, has opened up new challenges and opportunities for cache design. We look at some of the ways AI bot traffic differs from humans, how this impacts CDN cache, and some early ideas for how Cloudflare is designing systems to improve the AI and human experience. 】AI 机器人流量的爆炸式增长（每周超过 100 亿个请求）为缓存设计带来了新的挑战和机遇。我们研究了 AI 机器人流量与人类流量不同的一些方式、这如何影响 CDN 缓存，以及 Cloudflare 如何设计系统来改善 AI 和人类体验的一些早期想法。</description>
       <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver】我们对 1.1.1.1 公共 DNS 解析器隐私的持续承诺</title>
-      <link>https://blog.cloudflare.com/1111-privacy-examination-2026/</link>
-      <description>【 Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised. 】八年前，我们推出了 1.1.1.1，以构建更快、更私密的互联网。今天，我们将分享最新独立检查的结果。结果：我们的隐私保护完全按照承诺发挥作用。</description>
-      <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Introducing EmDash — the spiritual successor to WordPress that solves plugin security】隆重推出 EmDash — WordPress 的精神继承者，解决插件安全问题</title>
       <link>https://blog.cloudflare.com/emdash-wordpress/</link>
       <description>【 Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates. 】今天，我们推出 EmDash 测试版，这是一个基于 Astro 6.0 构建的全栈无服务器 JavaScript CMS。它将传统 CMS 的功能与现代安全性相结合，在沙盒 Worker 隔离区中运行插件。</description>
+      <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver】我们对 1.1.1.1 公共 DNS 解析器隐私的持续承诺</title>
+      <link>https://blog.cloudflare.com/1111-privacy-examination-2026/</link>
+      <description>【 Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised. 】八年前，我们推出了 1.1.1.1，以构建更快、更私密的互联网。今天，我们将分享最新独立检查的结果。结果：我们的隐私保护完全按照承诺发挥作用。</description>
       <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -55,12 +61,6 @@
       <title>【Inside Gen 13: how we built our most powerful server yet】Gen 13 内部：我们如何构建迄今为止最强大的服务器</title>
       <link>https://blog.cloudflare.com/gen13-config/</link>
       <description>【 Cloudflare&#39;s Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each major component selection. 】Cloudflare 的第 13 代服务器引入了 AMD EPYC™ Turin 9965 处理器并过渡到 100 GbE 网络，以满足不断增长的流量需求。在本次技术深入探讨中，我们解释了每个主要组件选择背后的工程原理。</description>
-      <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance】推出 Cloudflare 第 13 代服务器：用缓存换取核心以获得 2 倍边缘计算性能</title>
-      <link>https://blog.cloudflare.com/gen13-launch/</link>
-      <description>【 Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL2 stack, we completely mitigated the latency penalty to unlock twice the performance. 】Cloudflare 的第 13 代服务器通过重新考虑缓存和核心之间的平衡，使我们的计算吞吐量翻倍。转向高核心数 AMD EPYC™ Turin CPU，我们用大型 L3 缓存换取原始计算密度。通过运行我们新的基于 Rust 的 FL2 堆栈，我们完全减轻了延迟损失，从而实现了两倍的性能。</description>
       <pubDate>Mon, 23 Mar 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>

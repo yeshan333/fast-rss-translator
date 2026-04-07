@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>解锁高效的模型部署：简化 Amazon SageMaker HyperPod 上的推理操作器设置</title>
+      <link>https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/</link>
+      <description></description>
+      <pubDate>Mon, 06 Apr 2026 21:14:13 +0000</pubDate>
+    </item>
+    <item>
       <title>利用计算机视觉和生成式人工智能实现自动化安全监控</title>
       <link>https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/</link>
       <description></description>
       <pubDate>Wed, 25 Feb 2026 19:47:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Convera 如何使用 Amazon Verified Permissions 构建细粒度 API 授权</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/</link>
-      <description></description>
-      <pubDate>Thu, 05 Feb 2026 21:21:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

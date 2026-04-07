@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #511】SRE 周刊第 #511 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-511/</link>
+      <description>【View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don&amp;#8217;t. They&amp;#8217;re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Depot 的消息：CI 是为在等待时进行上下文切换的人而设计的。代理商则不然。他们只是被封锁了。 Depot 首席执行官 Kyle Galbraith 讲述了他们如何重新构想 Depot CI 来关闭循环：针对本地补丁运行，重新运行单个作业，通过 SSH 连接到运行程序以检查实际情况。按秒计费，无 [...]</description>
+      <pubDate>Mon, 06 Apr 2026 02:15:32 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #510】SRE 周刊第 #510 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-510/</link>
       <description>【View on sreweekly.com A message from our sponsor, Clickhouse: AI isn&amp;#8217;t replacing SREs. It&amp;#8217;s changing how they work. The near future of observability isn&amp;#8217;t autonomous agents, it&amp;#8217;s collaboration. ClickHouse&amp;#8217;s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Clickhouse 的消息：人工智能不会取代 SRE。它正在改变他们的工作方式。可观察性的不久的将来不是自主代理，而是协作。 ClickHouse 的 ClickStack Notebooks 将 SRE 和 AI 引入共享的研究工作区，将人类直觉与结构化、可靠的工具相结合，以更快地调试并更清晰地思考。读 […]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-507/</link>
       <description>【View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：incident.io 存在于 Slack 和 Microsoft Teams 中，将紧急情况分解为可行的解决步骤。警报自动创建渠道，对正确的人员进行 ping 操作，实时记录操作，并生成具有完整上下文的事后分析。当您破坏事物时快速行动，并在您的团队已经使用的工具中保持井然有序[...]</description>
       <pubDate>Mon, 26 Jan 2026 02:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #506】SRE 周刊第 506 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-506/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS &amp;#38; GCP Marketplaces. Start your free trial at costory.io What came first- the CNAME [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Costory 的消息：您没有注册进行 FinOps。Costory 会自动解释您的云成本变化的原因，并直接向 Slack 报告。专为想要编码而不是与电子表格搏斗的 SRE 构建。现在在 AWS 和 GCP Marketplaces 上。在 costory.io 开始免费试用 首先出现的是 CNAME [...]</description>
-      <pubDate>Mon, 19 Jan 2026 02:50:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
