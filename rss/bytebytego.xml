@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Must-Know Cross-Cutting Concerns in API Development】API 开发中必须了解的跨领域问题</title>
+      <link>https://blog.bytebytego.com/p/must-know-cross-cutting-concerns</link>
+      <description>【What do authentication, logging, rate limiting, and input validation have in common?】身份验证、日志记录、速率限制和输入验证有什么共同点？</description>
+      <pubDate>Thu, 09 Apr 2026 15:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Spotify Ships to 675 Million Users Every Week Without Breaking Things】Spotify 如何在不损坏设备的情况下每周向 6.75 亿用户发货</title>
+      <link>https://blog.bytebytego.com/p/how-spotify-ships-to-675-million</link>
+      <description>【In this article, we will take a look at this process in detail and attempt to derive learnings.】在本文中，我们将详细研究这个过程并尝试从中吸取教训。</description>
+      <pubDate>Wed, 08 Apr 2026 15:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Nextdoor’s Database Evolution: A Scaling Ladder】Nextdoor 的数据库演变：阶梯</title>
+      <link>https://blog.bytebytego.com/p/nextdoors-database-evolution-a-scaling</link>
+      <description>【Nextdoor operates as a hyper-local social networking service that connects neighbors based on their geographic location.】Nextdoor 作为超本地社交网络服务运营，根据邻居的地理位置将邻居连接起来。</description>
+      <pubDate>Tue, 07 Apr 2026 15:32:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Guide to Context Engineering for LLMs】法学硕士情境工程指南</title>
       <link>https://blog.bytebytego.com/p/a-guide-to-context-engineering-for</link>
       <description>【In this article, we&amp;#8217;ll look at how LLMs actually process the information you give them, what context engineering is, and the strategies that can help with it.】在本文中，我们将了解法学硕士如何实际处理您提供给他们的信息、什么是上下文工程以及可以提供帮助的策略。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-roblox-uses-ai-to-translate-16</link>
       <description>【In this article, we will look at what Roblox built and the trade-offs they made.】在本文中，我们将了解 Roblox 的构建以及他们所做的权衡。</description>
       <pubDate>Mon, 30 Mar 2026 15:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP208: Load Balancer vs API Gateway】EP208：负载均衡器与 API 网关</title>
-      <link>https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway</link>
-      <description>【Load balancers and API gateways both sit between your clients and backend servers.】负载均衡器和 API 网关都位于客户端和后端服务器之间。</description>
-      <pubDate>Sat, 28 Mar 2026 15:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 5 】最后报名：成为人工智能工程师 - 第 5 组</title>
-      <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-4da</link>
-      <description>【Our 5th cohort of Becoming an AI Engineer starts tomorrow, March 28. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第五期“成为人工智能工程师”课程将于明天 3 月 28 日开始。这是一门基于群组的实时课程，与畅销书作家 Ali Aminian 合作创建，由 ByteByteGo 出版。</description>
-      <pubDate>Fri, 27 Mar 2026 15:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How to Implement API Security】如何实施 API 安全</title>
-      <link>https://blog.bytebytego.com/p/how-to-implement-api-security</link>
-      <description>【Most APIs that ship to production have some security in place. Most of the time, HTTPS is enabled, an API key is required, and maybe there&amp;#8217;s even a quick code review before deployment.】大多数交付到生产环境的 API 都具有一定的安全性。大多数时候，启用 HTTPS，需要 API 密钥，甚至可能在部署之前进行快速代码审查。</description>
-      <pubDate>Thu, 26 Mar 2026 15:31:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

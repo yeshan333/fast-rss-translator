@@ -5,6 +5,18 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【11 AI Concepts Explained, Simply】11 个人工智能概念的简单解释</title>
+      <link>https://newsletter.systemdesign.one/p/ai-concepts</link>
+      <description>【#138: Break into AI Engineering】＃138：闯入人工智能工程</description>
+      <pubDate>Thu, 09 Apr 2026 09:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Everything You Need to Know to Design GenAI Systems From Scratch】从头开始设计 GenAI 系统所需了解的一切</title>
+      <link>https://newsletter.systemdesign.one/p/generative-ai-system-design</link>
+      <description>【#137: Part 1 - Generative AI Masterclass】#137：第 1 部分 - 生成式 AI 大师班</description>
+      <pubDate>Tue, 07 Apr 2026 12:33:42 +0000</pubDate>
+    </item>
+    <item>
       <title>【Amazon S3 - A Deep Dive】Amazon S3 - 深入探讨</title>
       <link>https://newsletter.systemdesign.one/p/aws-s3-system-design</link>
       <description>【#136: How S3 Actually Works】#136：S3 的实际工作原理</description>
@@ -51,18 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/how-to-prepare-for-system-design-interview</link>
       <description>【#128: From Someone Who Failed and Then Passed】＃128：来自失败然后通过的人</description>
       <pubDate>Sat, 07 Mar 2026 12:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Context Engineering vs Prompt Engineering】情境工程与即时工程</title>
-      <link>https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering</link>
-      <description>【#127: A Developer&amp;#8217;s Guide to Writing Better Prompts and Building Better Context】#127：编写更好的提示和构建更好的上下文的开发人员指南</description>
-      <pubDate>Tue, 03 Mar 2026 09:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Crash Course on High Availability】高可用性速成课程</title>
-      <link>https://newsletter.systemdesign.one/p/what-is-high-availability</link>
-      <description>【#126: What Is High Availability】#126：什么是高可用性</description>
-      <pubDate>Sat, 28 Feb 2026 12:57:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

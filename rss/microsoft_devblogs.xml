@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.116</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.116 (Insiders) Read the full article】了解 Visual Studio Code 1.116 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Putting Agentic Platform Engineering to the test】对代理平台工程进行测试</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/putting-agentic-platform-engineering-to-the-test</link>
+      <description>【In Part 1 of this blog series set the stage for why platform engineering is being reshaped by agentic AI. (read it here) Basically we outline how instead of humans translating intent through layers of CLIs, SDKs, and b】在本博客系列的第 1 部分中，我们为为什么代理人工智能正在重塑平台工程奠定了基础。 （在此处阅读）基本上，我们概述了如何代替人类通过 CLI、SDK 和 b 层来翻译意图</description>
+      <pubDate>Fri, 10 Apr 2026 01:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What&#39;s new in Microsoft Foundry | March 2026】Microsoft Foundry 的新增功能 | 2026 年 3 月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-mar-2026</link>
+      <description>【TL;DR Foundry Agent Service (GA): The next-gen agent runtime is production-ready — Responses API-based, end-to-end private networking, MCP auth expansion (including OAuth passthrough), Voice Live preview, and hosted agents in 6 new regions. GPT-5.4 + GPT-5.4 Pro (GA): Produc】TL;DR Foundry 代理服务 (GA)：下一代代理运行时已做好生产准备 — 基于响应 API、端到端专用网络、MCP 身份验证扩展（包括 OAuth 直通）、语音实时预览以及 6 个新区域中的托管代理。 GPT-5.4 + GPT-5.4 Pro (GA)：产品</description>
+      <pubDate>Thu, 09 Apr 2026 23:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【C++23 Support in MSVC Build Tools 14.51】MSVC 构建工具 14.51 中的 C++23 支持</title>
+      <link>https://devblogs.microsoft.com/cppblog/c23-support-in-msvc-build-tools-14-51</link>
+      <description>【We’re pleased to provide an update on C++23 support in the Microsoft C++ (MSVC) Build Tools. This blog post will cover the feature additions in MSVC Build Tools version 14.51, including C++23 language features, libraries, and ISO C++ Core Working Group (CWG) and Library Working Group (LWG) Issue resolutions. We’ll also discuss the plans fo】我们很高兴在 Microsoft C++ (MSVC) 构建工具中提供 C++23 支持的更新。本博文将介绍 MSVC 构建工具版本 14.51 中新增的功能，包括 C++23 语言功能、库以及 ISO C++ 核心工作组 (CWG) 和库工作组 (LWG) 问题解决方案。我们还将讨论以下计划</description>
+      <pubDate>Thu, 09 Apr 2026 19:03:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Foundry Local is now Generally Available】Foundry Local 现已全面上市</title>
+      <link>https://devblogs.microsoft.com/foundry/foundry-local-ga</link>
+      <description>【Today we’re thrilled to announce the General Availability (GA) of Foundry Local — Microsoft’s cross-platform local AI solution that lets developers bring AI directly into their applications across modalities like chat and audio, with no cloud dependency, no network laten】今天，我们很高兴地宣布 Foundry Local 全面上市 (GA)，这是 Microsoft 的跨平台本地 AI 解决方案，可让开发人员通过聊天和音频等方式将 AI 直接引入他们的应用程序，不依赖于云，也没有网络延迟</description>
+      <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Running Multiple Instances of an Aspire AppHost Without Port Conflicts】运行 Aspire AppHost 的多个实例而不发生端口冲突</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-isolated-mode-parallel-development</link>
+      <description>【Running multiple instances of the same source code in parallel is increasingly common — especially with agentic development. Tools like VS Code Copilot&#39;s background agent create git worktrees to work on your code independently, AI agents spin up separate environments to test different approaches, and developers use multiple checkouts to w】并行运行同一源代码的多个实例越来越常见——尤其是在代理开发中。 VS Code Copilot 的后台代理等工具创建 git 工作树来独立处理代码，AI 代理启动单独的环境来测试不同的方法，开发人员使用多个签出来工作</description>
+      <pubDate>Thu, 09 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How do you add or remove a handle from an active &lt;CODE&gt;Wait­For­Multiple­Objects&lt;/CODE&gt;?】如何从活动的 &lt;CODE&gt;WaitForMultipleObjects&lt;/CODE&gt; 添加或删除句柄？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</link>
+      <description>【Last time, we looked at adding or removing a handle from an active Msg­Wait­For­Multiple­Objects, and observed that we could send a message to both break】上次，我们研究了从活动的 MsgWaitForMultipleObjects 添加或删除句柄，并观察到我们可以向两个中断发送消息</description>
+      <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Go 1.26.2-1 and 1.25.9-1 Microsoft builds now available】Go 1.26.2-1 和 1.25.9-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-26-2-1-and-1-25-9-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Wed, 08 Apr 2026 17:27:44 +0000</pubDate>
+    </item>
+    <item>
       <title>【Visual Studio Code 1.115】Visual Studio 代码 1.115</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.115</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.115 (Insiders) Read the full article】了解 Visual Studio Code 1.115 中的新增功能（内部人士） 阅读全文</description>
+      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-115</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.115 Read the full article】了解 Visual Studio Code 1.115 中的新增功能 阅读全文</description>
       <pubDate>Wed, 08 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Agent Academy Spring Drop: Special Ops, Cowork Collective, and a Whole New Look】特工学院春季空投：特别行动、协作集体和全新面貌</title>
-      <link>https://devblogs.microsoft.com/powerplatform/agent-academy-update-special-ops-cowork-collective</link>
-      <description>【We&#39;ve shipped a big round of updates to Agent Academy. Two new sections, a completely redone site experience, and more missions on the way. Here&#39;s what&#39;s changed. Quick recap for anyone new Agent Academy is a free, open-source curriculum for learning how to build agents with Microsoft Copilot Studio. Since launching in Aug】我们已经对特工学院进行了一轮大更新。两个新部分、完全重做的场地体验以及更多任务即将推出。这是改变的内容。任何人都可以快速回顾一下新的 Agent Academy 是一门免费的开源课程，用于学习如何使用 Microsoft Copilot Studio 构建代理。自8月推出以来</description>
-      <pubDate>Mon, 06 Apr 2026 21:26:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing the end of support for Node.js 20.x in the Azure SDK for JavaScript】宣布 Azure SDK for JavaScript 终止对 Node.js 20.x 的支持</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/announcing-the-end-of-support-for-node-js-20-x-in-the-azure-sdk-for-javascript</link>
-      <description>【After July 9, 2026, the Azure SDK for JavaScript will no longer support Node.js 20.x, which reaches end-of-life on April 30, 2026. We encourage you to upgrade to an Active Node.js Long Ter】2026 年 7 月 9 日之后，Azure SDK for JavaScript 将不再支持 Node.js 20.x，该版本将于 2026 年 4 月 30 日终止。我们鼓励您长期升级到活动 Node.js</description>
-      <pubDate>Mon, 06 Apr 2026 20:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【MCP Apps on Azure Functions: Quickstart with TypeScript】Azure Functions 上的 MCP 应用：TypeScript 快速入门</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/mcp-apps-on-azure-functions-quickstart-with-typescript</link>
-      <description>【Azure Functions makes hosting MCP apps simple: build locally, create a secure endpoint, and deploy fast with Azure Developer CLI (azd). This guide shows you how using a weather app example. What are MCP Apps? MCP Apps let MCP servers return interac】Azure Functions 使托管 MCP 应用程序变得简单：本地构建、创建安全终结点并使用 Azure 开发人员 CLI (azd) 快速部署。本指南向您展示如何使用天气应用程序示例。什么是 MCP 应用程序？ MCP 应用程序让 MCP 服务器返回交互信息</description>
-      <pubDate>Mon, 06 Apr 2026 15:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Learning to read C++ compiler errors: Illegal use of &lt;TT&gt;-&gt;&lt;/TT&gt; when there is no &lt;TT&gt;-&gt;&lt;/TT&gt; in sight】学习读取 C++ 编译器错误：在看不到 &lt;TT&gt;-&gt;&lt;/TT&gt; 时非法使用 &lt;TT&gt;-&gt;&lt;/TT&gt;</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</link>
-      <description>【A customer reported a problem with a system header file. When they included ole2.h, the compiler reported an error in oaidl.h: MIDL_INTERFACE(&#34;3127CA40-446E-11CE-8135-00AA004BB851&#34;) IErrorLog : public IUnknown { public: virtual HRESULT STDM】客户报告了系统头文件的问题。当它们包含 ole2.h 时，编译器在 oaidl.h 中报告错误： MIDL_INTERFACE(&#34;3127CA40-446E-11CE-8135-00AA004BB851&#34;) IErrorLog : public IUnknown { public: virtual HRESULT STDM</description>
-      <pubDate>Mon, 06 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Agent Framework Version 1.0】微软代理框架版本1.0</title>
-      <link>https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0</link>
-      <description>【Today, we&#39;re thrilled to announce that Microsoft Agent Framework has reached version 1.0 for both .NET and Python. This is the production-ready release: stable APIs, and a commitment to long-term support. W】今天，我们很高兴地宣布 Microsoft Agent Framework 已达到适用于 .NET 和 Python 的 1.0 版。这是生产就绪版本：稳定的 API，以及对长期支持的承诺。瓦</description>
-      <pubDate>Fri, 03 Apr 2026 17:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How can I use &lt;CODE&gt;Read­Directory­ChangesW&lt;/CODE&gt; to know when someone is copying a file out of the directory?】如何使用 &lt;CODE&gt;ReadDirectoryChangesW&lt;/CODE&gt; 了解某人何时将文件复制出目录？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</link>
-      <description>【A customer was using Read­Directory­ChangesW in the hopes of receiving a notification when a file was copied. They found that when a file was copied, they received a FILE_NOTIFY_CHANGE_LAST_ACCESS, but】客户使用 ReadDirectoryChangesW 希望在复制文件时收到通知。他们发现，当复制文件时，他们收到了 FILE_NOTIFY_CHANGE_LAST_ACCESS，但是</description>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【🚀React Native Windows v0.82 is here!!】🚀React Native Windows v0.82 来了！</title>
-      <link>https://devblogs.microsoft.com/react-native/%f0%9f%9a%80react-native-windows-v0-82-is-here</link>
-      <description>【React Native Windows v0.82 is here, marking a major milestone: the legacy Paper architecture has been fully removed. All applications now run exclusively on the New Architecture (Fabric), and this release also unlocks XAML controls for community modules — so Windows apps can seamlessly mix native XAML controls with React components. This】React Native Windows v0.82 现已发布，标志着一个重要的里程碑：遗留的 Paper 架构已被完全删除。现在，所有应用程序都专门在新架构 (Fabric) 上运行，并且此版本还解锁了社区模块的 XAML 控件，因此 Windows 应用程序可以将本机 XAML 控件与 React 组件无缝混合。这</description>
-      <pubDate>Fri, 03 Apr 2026 07:53:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Explore union types in C# 15】探索 C# 15 中的联合类型</title>
-      <link>https://devblogs.microsoft.com/dotnet/csharp-15-union-types</link>
-      <description>【Union types have been frequently requested for C#, and they&#39;re here. Starting with .NET 11 Preview 2, C# 15 introduces the union keyword. The union keyword declares that a value is exactly one of a fixed set of types with compiler-enforced exhaustive pattern matching. If you&#39;ve used discriminated unions in F# or simil】C# 经常需要联合类型，它们就在这里。从 .NET 11 Preview 2 开始，C# 15 引入了 union 关键字。 union 关键字声明一个值恰好是具有编译器强制的详尽模式匹配的一组固定类型之一。如果您在 F# 或 simil 中使用过可区分联合</description>
-      <pubDate>Thu, 02 Apr 2026 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Aspire Docs in Your Terminal (and Your AI&#39;s Brain)】您的终端（和您的人工智能大脑）中的 Aspire 文档</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-docs-in-your-terminal</link>
-      <description>【You&#39;re three files deep in your Aspire AppHost, and you need to remember exactly which parameters the Redis integration expects. You could alt-tab to your browser, hunt through aspire.dev, squint at the API docs, then come back. Or you could just run a command. Or—better yet—let your AI agent look it up】您的 Aspire AppHost 中有三个文件，您需要准确记住 Redis 集成需要哪些参数。您可以按 alt-tab 键切换到浏览器，浏览 aspire.dev，查看 API 文档，然后返回。或者你可以只运行一个命令。或者——更好的是——让你的人工智能代理来查找它</description>
-      <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【Visual Studio Code 1.115】Visual Studio 代码 1.115</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.115</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.115 Read the full article】了解 Visual Studio Code 1.115 中的新增功能 阅读全文</description>
+      <pubDate>Wed, 08 Apr 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
