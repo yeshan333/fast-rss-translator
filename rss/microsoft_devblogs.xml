@@ -10,6 +10,24 @@
       <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Announcing Azure MCP Server 2.0 Stable Release for Self-Hosted Agentic Cloud Automation】宣布推出适用于自托管代理云自动化的 Azure MCP Server 2.0 稳定版</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/announcing-azure-mcp-server-2-0-stable-release</link>
+      <description>【We&#39;re excited to announce the stable release of Azure MCP Server 2.0, a significant milestone for building secure and flexible agentic workflows on Azure. Azure MCP Server is open-source software that implements the Model Context Protocol specification and enables AI agen】我们很高兴地宣布 Azure MCP Server 2.0 的稳定版本发布，这是在 Azure 上构建安全、灵活的代理工作流的一个重要里程碑。 Azure MCP 服务器是开源软件，实现模型上下文协议规范并启用 AI agen</description>
+      <pubDate>Fri, 10 Apr 2026 17:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【PowerShell MSI package deprecation and preview updates】PowerShell MSI 包弃用和预览更新</title>
+      <link>https://devblogs.microsoft.com/powershell/powershell-msi-deprecation</link>
+      <description>【Beginning with PowerShell 7.7-preview.1 (April 2026), the MSIX package will be the primary installation method for PowerShell on Windows. We will no longer ship the MSI installer package for new PowerShell releases. For existing releases, including PowerShell 7.6, we will continue to provide MSI pack】从 PowerShell 7.7-preview.1（2026 年 4 月）开始，MSIX 包将成为 Windows 上 PowerShell 的主要安装方法。我们将不再为新的 PowerShell 版本提供 MSI 安装程序包。对于现有版本，包括 PowerShell 7.6，我们将继续提供 MSI 包</description>
+      <pubDate>Fri, 10 Apr 2026 14:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How do you add or remove a handle from an active &lt;CODE&gt;Wait­For­Multiple­Objects&lt;/CODE&gt;?, part 2】如何从活动 &lt;CODE&gt;WaitForMultipleObjects&lt;/CODE&gt; 添加或删除句柄？，第 2 部分</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</link>
+      <description>【Last time, we looked at adding or removing a handle from an active Wait­For­Multiple­Objects, and we developed an asynchronous mechanism that requests that the】上次，我们研究了从活动的 WaitForMultipleObjects 添加或删除句柄，并且我们开发了一种异步机制，该机制请求</description>
+      <pubDate>Fri, 10 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Putting Agentic Platform Engineering to the test】对代理平台工程进行测试</title>
       <link>https://devblogs.microsoft.com/all-things-azure/putting-agentic-platform-engineering-to-the-test</link>
       <description>【In Part 1 of this blog series set the stage for why platform engineering is being reshaped by agentic AI. (read it here) Basically we outline how instead of humans translating intent through layers of CLIs, SDKs, and b】在本博客系列的第 1 部分中，我们为为什么代理人工智能正在重塑平台工程奠定了基础。 （在此处阅读）基本上，我们概述了如何代替人类通过 CLI、SDK 和 b 层来翻译意图</description>
@@ -44,24 +62,6 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</link>
       <description>【Last time, we looked at adding or removing a handle from an active Msg­Wait­For­Multiple­Objects, and observed that we could send a message to both break】上次，我们研究了从活动的 MsgWaitForMultipleObjects 添加或删除句柄，并观察到我们可以向两个中断发送消息</description>
       <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Go 1.26.2-1 and 1.25.9-1 Microsoft builds now available】Go 1.26.2-1 和 1.25.9-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-26-2-1-and-1-25-9-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Wed, 08 Apr 2026 17:27:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio Code 1.115】Visual Studio 代码 1.115</title>
-      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-115</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.115 Read the full article】了解 Visual Studio Code 1.115 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 08 Apr 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio Code 1.115】Visual Studio 代码 1.115</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.115</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.115 Read the full article】了解 Visual Studio Code 1.115 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 08 Apr 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

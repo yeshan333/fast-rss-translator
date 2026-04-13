@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP210: Monolithic vs Microservices vs Serverless】EP210：单体、微服务、无服务器</title>
+      <link>https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices</link>
+      <description>【A monolith is usually one codebase, one database, and one deployment.】整体架构通常由一个代码库、一个数据库和一个部署组成。</description>
+      <pubDate>Sat, 11 Apr 2026 15:30:48 +0000</pubDate>
+    </item>
+    <item>
       <title>【Must-Know Cross-Cutting Concerns in API Development】API 开发中必须了解的跨领域问题</title>
       <link>https://blog.bytebytego.com/p/must-know-cross-cutting-concerns</link>
       <description>【What do authentication, logging, rate limiting, and input validation have in common?】身份验证、日志记录、速率限制和输入验证有什么共同点？</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a</link>
       <description>【In this article, we will look at how DrP works on a high level and the design choices Meta made while building it.】在本文中，我们将了解 DrP 如何在高层次上工作以及 Meta 在构建它时所做的设计选择。</description>
       <pubDate>Tue, 31 Mar 2026 15:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds】Roblox 如何利用 AI 在 100 毫秒内翻译 16 种语言</title>
-      <link>https://blog.bytebytego.com/p/how-roblox-uses-ai-to-translate-16</link>
-      <description>【In this article, we will look at what Roblox built and the trade-offs they made.】在本文中，我们将了解 Roblox 的构建以及他们所做的权衡。</description>
-      <pubDate>Mon, 30 Mar 2026 15:33:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

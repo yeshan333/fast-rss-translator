@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #512】SRE 周刊第 #512 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-512/</link>
+      <description>【View on sreweekly.com A message from our sponsor, Archera: AI workloads are unpredictable, which makes cloud commitments feel like a gamble. Archera insures your commitments against underutilization, so you can push coverage higher without the risk of getting stuck. If usage drops, Archera covers the downside. Commitment Release Guarantee included. Start Saving Ashby taught us [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 Archera 的消息：人工智能工作负载是不可预测的，这使得云承诺感觉像是一场赌博。 Archera 确保您的承诺不会被未充分利用，因此您可以提高覆盖范围，而不会陷入困境。如果使用量下降，Archera 可以弥补这一损失。包括承诺解除保证。开始拯救阿什比教给我们[...]</description>
+      <pubDate>Sun, 12 Apr 2026 20:31:10 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #511】SRE 周刊第 #511 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-511/</link>
       <description>【View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don&amp;#8217;t. They&amp;#8217;re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Depot 的消息：CI 是为在等待时进行上下文切换的人而设计的。代理商则不然。他们只是被封锁了。 Depot 首席执行官 Kyle Galbraith 讲述了他们如何重新构想 Depot CI 来关闭循环：针对本地补丁运行，重新运行单个作业，通过 SSH 连接到运行程序以检查实际情况。按秒计费，无 [...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-508/</link>
       <description>【View on sreweekly.com SRE Weekly will be going on hiatus for 6 weeks, while I&amp;#8217;m on leave caring for my partner after her kidney transplant surgery this week. It&amp;#8217;s incredible that the National Kidney Registry&amp;#8217;s Paired Exchange program allowed me to donate a kidney to help her even though we don&amp;#8217;t have matching blood types! [&amp;#8230;]】在 sreweekly.com 上查看 SRE Weekly 将暂停 6 周，而本周我将休假照顾我的伴侣，她接受了肾移植手术。令人难以置信的是，国家肾脏登记处的配对交换计划允许我捐献肾脏来帮助她，尽管我们的血型不匹配！ […]</description>
       <pubDate>Mon, 02 Feb 2026 04:01:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #507】SRE 周刊第 #507 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-507/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：incident.io 存在于 Slack 和 Microsoft Teams 中，将紧急情况分解为可行的解决步骤。警报自动创建渠道，对正确的人员进行 ping 操作，实时记录操作，并生成具有完整上下文的事后分析。当您破坏事物时快速行动，并在您的团队已经使用的工具中保持井然有序[...]</description>
-      <pubDate>Mon, 26 Jan 2026 02:18:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
