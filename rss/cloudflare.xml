@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【500 Tbps of capacity: 16 years of scaling our global network】500 Tbps 容量：16 年扩展我们的全球网络</title>
-      <link>https://blog.cloudflare.com/500-tbps-of-capacity/</link>
-      <description>【 Cloudflare’s global network has officially crossed 500 Tbps of external capacity, enough to route more than 20% of the web and absorb the largest DDoS attacks ever recorded. 】Cloudflare 的全球网络外部容量已正式突破 500 Tbps，足以路由超过 20% 的网络并吸收有史以来最大规模的 DDoS 攻击。</description>
-      <pubDate>Fri, 10 Apr 2026 18:00:05 +0000</pubDate>
+      <title>【Browser Run: give your agents a browser】浏览器运行：为您的代理提供浏览器</title>
+      <link>https://blog.cloudflare.com/browser-run-for-ai-agents/</link>
+      <description>【 Browser Rendering is now Browser Run, with Live View, Human in the Loop, CDP access, session recordings, and 4x higher concurrency limits for AI agents. 】浏览器渲染现在是浏览器运行，具有实时视图、人在循环、CDP 访问、会话记录以及 AI 代理的 4 倍高并发限制。</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【From bytecode to bytes: automated magic packet generation】从字节码到字节：自动生成魔包</title>
-      <link>https://blog.cloudflare.com/from-bpf-to-packet/</link>
-      <description>【 By applying symbolic execution and the Z3 theorem prover to BPF bytecode, we’ve automated the generation of malware trigger packets, cutting analysis time from hours to seconds. 】通过将符号执行和 Z3 定理证明器应用于 BPF 字节码，我们自动生成了恶意软件触发数据包，将分析时间从几小时缩短到几秒钟。</description>
-      <pubDate>Wed, 08 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Register domains wherever you build: Cloudflare Registrar API now in beta】无论您在何处构建，都可以注册域名：Cloudflare Registrar API 现已推出测试版</title>
+      <link>https://blog.cloudflare.com/registrar-api-beta/</link>
+      <description>【 The Cloudflare Registrar API is now in beta. Developers and AI agents can search, check availability, and register domains at cost directly from their editor, their terminal, or their agent — without leaving their workflow. 】Cloudflare Registrar API 现已处于测试阶段。开发人员和人工智能代理可以直接从编辑器、终端或代理搜索、检查可用性和注册域名，而无需离开他们的工作流程。</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare targets 2029 for full post-quantum security】Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
-      <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
-      <description>【 Recent advances in quantum hardware and software have accelerated the timeline on which quantum attack might happen. Cloudflare is responding by moving our target for full post-quantum security to 2029. 】量子硬件和软件的最新进展加快了量子攻击可能发生的时间。 Cloudflare 的回应是将我们的全面后量子安全目标推迟到 2029 年。</description>
-      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+      <title>【Rearchitecting the Workflows control plane for the agentic era】为代理时代重新构建工作流控制平面</title>
+      <link>https://blog.cloudflare.com/workflows-v2/</link>
+      <description>【 Cloudflare Workflows, a durable execution engine for multi-step applications, now supports higher concurrency and creation rate limits through a rearchitectured control plane, helping scale to meet the use cases for durable background agents.&#xA; 】Cloudflare Workflows 是用于多步骤应用程序的持久执行引擎，现在通过重新架构的控制平面支持更高的并发性和创建速率限制，有助于扩展以满足持久后台代理的用例。</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【How we built Organizations to help enterprises manage Cloudflare at scale】我们如何构建组织来帮助企业大规模管理 Cloudflare</title>
-      <link>https://blog.cloudflare.com/organizations-beta/</link>
-      <description>【 Cloudflare Organizations is now in public beta, introducing a new management layer for enterprise customers with multiple accounts. Learn how we consolidated our authorization systems to enable org-wide management.  】Cloudflare Organizations 现已推出公开测试版，为拥有多个帐户的企业客户引入了新的管理层。了解我们如何整合授权系统以实现组织范围内的管理。</description>
-      <pubDate>Mon, 06 Apr 2026 21:00:00 +0000</pubDate>
+      <title>【Introducing Agent Lee - a new interface to the Cloudflare stack】Agent Lee 简介 - Cloudflare 堆栈的新界面</title>
+      <link>https://blog.cloudflare.com/introducing-agent-lee/</link>
+      <description>【 Agent Lee is an in-dashboard agent that shifts Cloudflare’s interface from manual tab-switching to a single prompt. Using sandboxed TypeScript, it helps you troubleshoot and manage your stack as a grounded technical collaborator.&#xA; 】Agent Lee 是一个仪表板内代理，它将 Cloudflare 的界面从手动选项卡切换转变为单个提示。使用沙盒 TypeScript，它可以帮助您作为扎根的技术协作者排除故障并管理堆栈。</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why we&#39;re rethinking cache for the AI era】为什么我们要重新思考人工智能时代的缓存</title>
-      <link>https://blog.cloudflare.com/rethinking-cache-ai-humans/</link>
-      <description>【 The explosion of AI-bot traffic, representing over 10 billion requests per week, has opened up new challenges and opportunities for cache design. We look at some of the ways AI bot traffic differs from humans, how this impacts CDN cache, and some early ideas for how Cloudflare is designing systems to improve the AI and human experience. 】AI 机器人流量的爆炸式增长（每周超过 100 亿个请求）为缓存设计带来了新的挑战和机遇。我们研究了 AI 机器人流量与人类流量不同的一些方式、这如何影响 CDN 缓存，以及 Cloudflare 如何设计系统来改善 AI 和人类体验的一些早期想法。</description>
-      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Project Think: building the next generation of AI agents on Cloudflare】Project Think：在 Cloudflare 上构建下一代 AI 代理</title>
+      <link>https://blog.cloudflare.com/project-think/</link>
+      <description>【 Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.&#xA; 】宣布推出下一版 Agents SDK 预览版——从轻量级原语到包含电池的 AI 代理平台，能够思考、行动和坚持。</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing EmDash — the spiritual successor to WordPress that solves plugin security】隆重推出 EmDash — WordPress 的精神继承者，解决插件安全问题</title>
-      <link>https://blog.cloudflare.com/emdash-wordpress/</link>
-      <description>【 Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates. 】今天，我们推出 EmDash 测试版，这是一个基于 Astro 6.0 构建的全栈无服务器 JavaScript CMS。它将传统 CMS 的功能与现代安全性相结合，在沙盒 Worker 隔离区中运行插件。</description>
-      <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Add voice to your agent】为您的代理添加声音</title>
+      <link>https://blog.cloudflare.com/voice-agents/</link>
+      <description>【 An experimental voice pipeline for the Agents SDK enables real-time voice interactions over WebSockets. Developers can now build agents with continuous STT and TTS in just ~30 lines of server-side code.&#xA; 】Agents SDK 的实验性语音管道支持通过 WebSocket 进行实时语音交互。开发人员现在只需大约 30 行服务器端代码即可构建具有连续 STT 和 TTS 的代理。</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver】我们对 1.1.1.1 公共 DNS 解析器隐私的持续承诺</title>
-      <link>https://blog.cloudflare.com/1111-privacy-examination-2026/</link>
-      <description>【 Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised. 】八年前，我们推出了 1.1.1.1，以构建更快、更私密的互联网。今天，我们将分享最新独立检查的结果。结果：我们的隐私保护完全按照承诺发挥作用。</description>
-      <pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Managed OAuth for Access: make internal apps agent-ready in one click】用于访问的托管 OAuth：一键使内部应用程序代理就绪</title>
+      <link>https://blog.cloudflare.com/managed-oauth-for-access/</link>
+      <description>【 Managed OAuth for Cloudflare Access helps AI agents securely navigate internal applications. By adopting RFC 9728, agents can authenticate on behalf of users without using insecure service accounts. 】Cloudflare Access 的托管 OAuth 可帮助 AI 代理安全地导航内部应用程序。通过采用 RFC 9728，代理可以代表用户进行身份验证，而无需使用不安全的服务帐户。</description>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers】推出可编程流量保护：为 Magic Transit 客户定制 DDoS 缓解逻辑</title>
-      <link>https://blog.cloudflare.com/programmable-flow-protection/</link>
-      <description>【 Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. This enables precise, stateful mitigation for custom and proprietary UDP protocols. 】Magic Transit 客户现在可以编写自己的 DDoS 缓解逻辑，并将其部署在 Cloudflare 的全球网络中。这可以为自定义和专有 UDP 协议提供精确、有状态的缓解。</description>
-      <pubDate>Tue, 31 Mar 2026 13:00:00 +0000</pubDate>
+      <title>【Securing non-human identities: automated revocation, OAuth, and scoped permissions】保护非人类身份：自动撤销、OAuth 和范围权限</title>
+      <link>https://blog.cloudflare.com/improved-developer-security/</link>
+      <description>【 Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage.&#xA; 】Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。</description>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare Client-Side Security: smarter detection, now open to everyone】Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
-      <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description>【 We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we&#39;ve reduced false positives by up to 200x while catching sophisticated zero-day exploits. 】我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了高达 200 倍，同时捕获了复杂的零日漏洞。</description>
-      <pubDate>Mon, 30 Mar 2026 06:00:00 +0000</pubDate>
+      <title>【Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP】扩大 MCP 的采用：我们的参考架构可实现更简单、更安全和更便宜的 MCP 企业部署</title>
+      <link>https://blog.cloudflare.com/enterprise-mcp/</link>
+      <description>【 We share Cloudflare&#39;s internal strategy for governing MCP using Access, AI Gateway, and MCP server portals. We also launch Code Mode to slash token costs and recommend new rules for detecting Shadow MCP in Cloudflare Gateway.&#xA; 】我们分享 Cloudflare 使用 Access、AI 网关和 MCP 服务器门户管理 MCP 的内部策略。我们还推出了代码模式来削减代币成本，并推荐了在 Cloudflare Gateway 中检测 Shadow MCP 的新规则。</description>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>【How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams 】我们如何使用抽象语法树（AST）将工作流程代码转换为可视化图表</title>
-      <link>https://blog.cloudflare.com/workflow-diagrams/</link>
-      <description>【 Workflows are now visualized via step diagrams in the dashboard. Here’s how we translate your TypeScript code into a visual representation of the workflow.  】现在，工作流程通过仪表板中的步骤图进行可视化。以下是我们如何将您的 TypeScript 代码转换为工作流程的可视化表示。</description>
-      <pubDate>Fri, 27 Mar 2026 13:00:00 +0000</pubDate>
+      <title>【Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh】为每个人提供安全的私有网络：用户、节点、代理、工作人员 — 引入 Cloudflare Mesh</title>
+      <link>https://blog.cloudflare.com/mesh/</link>
+      <description>【 Cloudflare Mesh provides secure, private network access for users, nodes, and autonomous AI agents. By integrating with Workers VPC, developers can now grant agents scoped access to private databases and APIs without manual tunnels.&#xA; 】Cloudflare Mesh 为用户、节点和自主 AI 代理提供安全的专用网络访问。通过与 Workers VPC 集成，开发人员现在可以授予代理对私有数据库和 API 的范围内访问权限，而无需手动隧道。</description>
+      <pubDate>Tue, 14 Apr 2026 13:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

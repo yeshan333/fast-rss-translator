@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【Figma Design to Code, Code to Design: Clearly Explained】Figma 从设计到代码，从代码到设计：清晰解释</title>
+      <link>https://blog.bytebytego.com/p/figma-design-to-code-code-to-design</link>
+      <description>【This article covers how Figma&amp;#8217;s design-to-code and code-to-design workflows actually work, starting with why the obvious approaches fail, how MCP solves them, and the engineering challenges that remain.】本文介绍 Figma 的设计到代码和代码到设计工作流程的实际工作方式，首先介绍为什么明显的方法会失败、MCP 如何解决这些问题以及仍然存在的工程挑战。</description>
+      <pubDate>Tue, 14 Apr 2026 15:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users】LinkedIn Feed 如何利用法学硕士为 13 亿用户提供服务</title>
+      <link>https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve</link>
+      <description>【In this article, we will look at how the LinkedIn engineering team rebuilt the Feed and the challenges they faced.】在本文中，我们将了解 LinkedIn 工程团队如何重建 Feed 以及他们面临的挑战。</description>
+      <pubDate>Mon, 13 Apr 2026 15:31:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP210: Monolithic vs Microservices vs Serverless】EP210：单体、微服务、无服务器</title>
       <link>https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices</link>
       <description>【A monolith is usually one codebase, one database, and one deployment.】整体架构通常由一个代码库、一个数据库和一个部署组成。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/database-performance-strategies-and</link>
       <description>【A feature is deployed, and the database queries run well.】功能已部署，数据库查询运行良好。</description>
       <pubDate>Thu, 02 Apr 2026 15:31:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Datadog Redefined Data Replication】Datadog 如何重新定义数据复制</title>
-      <link>https://blog.bytebytego.com/p/how-datadog-redefined-data-replication</link>
-      <description>【In this article, we will look at how Datadog implemented the changes and the challenges they faced.】在本文中，我们将了解 Datadog 如何实施这些变更以及他们面临的挑战。</description>
-      <pubDate>Wed, 01 Apr 2026 15:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Meta Turned Debugging Into a Product】Meta 如何将调试变成产品</title>
-      <link>https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a</link>
-      <description>【In this article, we will look at how DrP works on a high level and the design choices Meta made while building it.】在本文中，我们将了解 DrP 如何在高层次上工作以及 Meta 在构建它时所做的设计选择。</description>
-      <pubDate>Tue, 31 Mar 2026 15:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

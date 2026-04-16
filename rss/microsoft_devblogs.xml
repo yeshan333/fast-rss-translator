@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Azure MCP tools now ship built into Visual Studio 2022 — no extension required】Azure MCP 工具现已内置于 Visual Studio 2022 中 - 无需扩展</title>
+      <link>https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required</link>
+      <description>【Azure MCP tools now ship built into Visual Studio 2022 — no extension required Azure MCP tools are now built into Visual Studio 2022 as part of the Azure development workload — no separate extension to find, install, or update. You can enable over 230 tools across 45 Azure services directly in GitHub Copilot Chat and m】Azure MCP 工具现已内置于 Visual Studio 2022 中 - 无需扩展 Azure MCP 工具现已内置于 Visual Studio 2022 中，作为 Azure 开发工作负载的一部分 - 无需查找、安装或更新单独的扩展。您可以直接在 GitHub Copilot Chat 和 m 中启用跨 45 个 Azure 服务的 230 多个工具</description>
+      <pubDate>Wed, 15 Apr 2026 17:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
       <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.116</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.116 Read the full article】了解 Visual Studio Code 1.116 中的新增功能 阅读全文</description>
+      <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
+      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-116</link>
       <description>【Learn what&#39;s new in Visual Studio Code 1.116 (Insiders) Read the full article】了解 Visual Studio Code 1.116 中的新增功能（内部人士） 阅读全文</description>
       <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Azure MCP Server 2.0 Stable Release for Self-Hosted Agentic Cloud Automation】宣布推出适用于自托管代理云自动化的 Azure MCP Server 2.0 稳定版</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/announcing-azure-mcp-server-2-0-stable-release</link>
-      <description>【We&#39;re excited to announce the stable release of Azure MCP Server 2.0, a significant milestone for building secure and flexible agentic workflows on Azure. Azure MCP Server is open-source software that implements the Model Context Protocol specification and enables AI agen】我们很高兴地宣布 Azure MCP Server 2.0 的稳定版本发布，这是在 Azure 上构建安全、灵活的代理工作流的一个重要里程碑。 Azure MCP 服务器是开源软件，实现模型上下文协议规范并启用 AI agen</description>
-      <pubDate>Fri, 10 Apr 2026 17:16:10 +0000</pubDate>
+      <title>【Pin Clustering in .NET MAUI Maps】.NET MAUI 地图中的 Pin 聚类</title>
+      <link>https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps</link>
+      <description>【If you&#39;ve ever loaded a map with dozens — or hundreds — of pins, you know the result: an overlapping mess that&#39;s impossible to interact with. Starting in .NET MAUI 11 Preview 3, the Map control supports pin clustering out of the box on Android and iOS/Mac Catalyst.】如果您曾经加载过包含数十个或数百个图钉的地图，您就会知道结果：重叠的混乱，无法进行交互。从 .NET MAUI 11 Preview 3 开始，地图控件在 Android 和 iOS/Mac Catalyst 上支持开箱即用的图钉集群。</description>
+      <pubDate>Wed, 15 Apr 2026 16:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>【PowerShell MSI package deprecation and preview updates】PowerShell MSI 包弃用和预览更新</title>
-      <link>https://devblogs.microsoft.com/powershell/powershell-msi-deprecation</link>
-      <description>【Beginning with PowerShell 7.7-preview.1 (April 2026), the MSIX package will be the primary installation method for PowerShell on Windows. We will no longer ship the MSI installer package for new PowerShell releases. For existing releases, including PowerShell 7.6, we will continue to provide MSI pack】从 PowerShell 7.7-preview.1（2026 年 4 月）开始，MSIX 包将成为 Windows 上 PowerShell 的主要安装方法。我们将不再为新的 PowerShell 版本提供 MSI 安装程序包。对于现有版本，包括 PowerShell 7.6，我们将继续提供 MSI 包</description>
-      <pubDate>Fri, 10 Apr 2026 14:46:23 +0000</pubDate>
+      <title>【Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow】停止寻找错误：了解新的 Visual Studio 调试器代理工作流程</title>
+      <link>https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent</link>
+      <description>【We’ve all been there: a bug report lands in your inbox with a title like &#34;App crashes sometimes&#34; and zero reproduction steps. Your morning, which was supposed to be spent building new features, is now a forensic investigation. You’re 】我们都经历过这样的情况：您的收件箱中会收到一份错误报告，标题为“应用有时崩溃”，并且重现步骤为零。你的早上本来应该用来构建新功能，现在却变成了取证调查。 你是 </description>
+      <pubDate>Wed, 15 Apr 2026 16:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>【How do you add or remove a handle from an active &lt;CODE&gt;Wait­For­Multiple­Objects&lt;/CODE&gt;?, part 2】如何从活动 &lt;CODE&gt;WaitForMultipleObjects&lt;/CODE&gt; 添加或删除句柄？，第 2 部分</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</link>
-      <description>【Last time, we looked at adding or removing a handle from an active Wait­For­Multiple­Objects, and we developed an asynchronous mechanism that requests that the】上次，我们研究了从活动的 WaitForMultipleObjects 添加或删除句柄，并且我们开发了一种异步机制，该机制请求</description>
-      <pubDate>Fri, 10 Apr 2026 14:00:00 +0000</pubDate>
+      <title>【One-click security scanning and org-wide alert triage come to Advanced Security】高级安全性中包含一键式安全扫描和组织范围内的警报分类</title>
+      <link>https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security</link>
+      <description>【We&#39;re shipping two major capabilities that change how security teams enable and act on application security in Azure DevOps: CodeQL default setup makes it possible to enable code scanning across your organization without configuring a single pipeline, and a new combined alerts experience in Security Overview】我们正在提供两项主要功能，这些功能将改变安全团队在 Azure DevOps 中启用和处理应用程序安全性的方式：CodeQL 默认设置使您可以在整个组织中启用代码扫描，而无需配置单个管道，以及安全概述中的新组合警报体验</description>
+      <pubDate>Wed, 15 Apr 2026 15:06:53 +0000</pubDate>
     </item>
     <item>
-      <title>【Putting Agentic Platform Engineering to the test】对代理平台工程进行测试</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/putting-agentic-platform-engineering-to-the-test</link>
-      <description>【In Part 1 of this blog series set the stage for why platform engineering is being reshaped by agentic AI. (read it here) Basically we outline how instead of humans translating intent through layers of CLIs, SDKs, and b】在本博客系列的第 1 部分中，我们为为什么代理人工智能正在重塑平台工程奠定了基础。 （在此处阅读）基本上，我们概述了如何代替人类通过 CLI、SDK 和 b 层来翻译意图</description>
-      <pubDate>Fri, 10 Apr 2026 01:45:08 +0000</pubDate>
+      <title>【Why is there a long delay between a thread exiting and the &lt;CODE&gt;Wait­For­Single­Object&lt;/CODE&gt; returning?】为什么线程退出和 &lt;CODE&gt;WaitForSingleObject&lt;/CODE&gt; 返回之间有很长的延迟？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</link>
+      <description>【A customer reported that they were using the Wait­For­Single­Object function to wait for a thread to exit, but they found that even though the thread had exited, the Wait­For­Single­Object call did not return for over a minute. What could explain this delay in reporting the end of a thread? Can we do somethin】一位客户报告说，他们正在使用 WaitForSingleObject 函数等待线程退出，但他们发现即使线程已经退出，WaitForSingleObject 调用也不会返回超过一分钟。什么可以解释报告线程结束的这种延迟？我们可以做点什么吗</description>
+      <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new in Microsoft Foundry | March 2026】Microsoft Foundry 的新增功能 | 2026 年 3 月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-mar-2026</link>
-      <description>【TL;DR Foundry Agent Service (GA): The next-gen agent runtime is production-ready — Responses API-based, end-to-end private networking, MCP auth expansion (including OAuth passthrough), Voice Live preview, and hosted agents in 6 new regions. GPT-5.4 + GPT-5.4 Pro (GA): Produc】TL;DR Foundry 代理服务 (GA)：下一代代理运行时已做好生产准备 — 基于响应 API、端到端专用网络、MCP 身份验证扩展（包括 OAuth 直通）、语音实时预览以及 6 个新区域中的托管代理。 GPT-5.4 + GPT-5.4 Pro (GA)：产品</description>
-      <pubDate>Thu, 09 Apr 2026 23:33:53 +0000</pubDate>
+      <title>【Choosing the Right Azure Hosting Model for AI Agents: A Deep Dive into Foundry Hosted Agents】为 AI 代理选择正确的 Azure 托管模型：深入探讨 Foundry 托管代理</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/hostedagent</link>
+      <description>【AI agents are quickly moving from experiments to production‑critical components of modern applications. But while many teams know how to build agents, far fewer are confident they’re hosting them on the right foundation.】人工智能代理正在迅速从实验转向现代应用程序的生产关键组件。但是，尽管许多团队知道如何构建代理，但很少有人相信他们在正确的基础上托管代理。</description>
+      <pubDate>Wed, 15 Apr 2026 05:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>【C++23 Support in MSVC Build Tools 14.51】MSVC 构建工具 14.51 中的 C++23 支持</title>
-      <link>https://devblogs.microsoft.com/cppblog/c23-support-in-msvc-build-tools-14-51</link>
-      <description>【We’re pleased to provide an update on C++23 support in the Microsoft C++ (MSVC) Build Tools. This blog post will cover the feature additions in MSVC Build Tools version 14.51, including C++23 language features, libraries, and ISO C++ Core Working Group (CWG) and Library Working Group (LWG) Issue resolutions. We’ll also discuss the plans fo】我们很高兴在 Microsoft C++ (MSVC) 构建工具中提供 C++23 支持的更新。本博文将介绍 MSVC 构建工具版本 14.51 中新增的功能，包括 C++23 语言功能、库以及 ISO C++ 核心工作组 (CWG) 和库工作组 (LWG) 问题解决方案。我们还将讨论以下计划</description>
-      <pubDate>Thu, 09 Apr 2026 19:03:57 +0000</pubDate>
+      <title>【DevOps Playbook for the Agentic Era】代理时代的 DevOps 手册</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/agentic-devops-practices-principles-strategic-direction</link>
+      <description>【Practices, Principles, and Strategic Direction Software delivery has entered a new phase. AI agents are no longer confined to autocomplete suggestions in the editor. They are opening pull requests, generating code across multiple files, proposing infrastructure changes, responding to issues with working implementations, and executing】实践、原则和战略方向 软件交付已进入一个新阶段。人工智能代理不再局限于编辑器中的自动完成建议。他们打开拉取请求，跨多个文件生成代码，提出基础架构更改，响应工作实现的问题，并执行</description>
+      <pubDate>Wed, 15 Apr 2026 00:23:09 +0000</pubDate>
     </item>
     <item>
-      <title>【Foundry Local is now Generally Available】Foundry Local 现已全面上市</title>
-      <link>https://devblogs.microsoft.com/foundry/foundry-local-ga</link>
-      <description>【Today we’re thrilled to announce the General Availability (GA) of Foundry Local — Microsoft’s cross-platform local AI solution that lets developers bring AI directly into their applications across modalities like chat and audio, with no cloud dependency, no network laten】今天，我们很高兴地宣布 Foundry Local 全面上市 (GA)，这是 Microsoft 的跨平台本地 AI 解决方案，可让开发人员通过聊天和音频等方式将 AI 直接引入他们的应用程序，不依赖于云，也没有网络延迟</description>
-      <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Running Multiple Instances of an Aspire AppHost Without Port Conflicts】运行 Aspire AppHost 的多个实例而不发生端口冲突</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-isolated-mode-parallel-development</link>
-      <description>【Running multiple instances of the same source code in parallel is increasingly common — especially with agentic development. Tools like VS Code Copilot&#39;s background agent create git worktrees to work on your code independently, AI agents spin up separate environments to test different approaches, and developers use multiple checkouts to w】并行运行同一源代码的多个实例越来越常见——尤其是在代理开发中。 VS Code Copilot 的后台代理等工具创建 git 工作树来独立处理代码，AI 代理启动单独的环境来测试不同的方法，开发人员使用多个签出来工作</description>
-      <pubDate>Thu, 09 Apr 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How do you add or remove a handle from an active &lt;CODE&gt;Wait­For­Multiple­Objects&lt;/CODE&gt;?】如何从活动的 &lt;CODE&gt;WaitForMultipleObjects&lt;/CODE&gt; 添加或删除句柄？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</link>
-      <description>【Last time, we looked at adding or removing a handle from an active Msg­Wait­For­Multiple­Objects, and observed that we could send a message to both break】上次，我们研究了从活动的 MsgWaitForMultipleObjects 添加或删除句柄，并观察到我们可以向两个中断发送消息</description>
-      <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
+      <title>【.NET and .NET Framework April 2026 servicing releases updates】.NET 和 .NET Framework 2026 年 4 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for April 2026. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of April 14, 2026. This update contains security a】欢迎使用我们 2026 年 4 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述： 安全性改进 .NET 和 .NET Framework 已使用截至 2026 年 4 月 14 日的最新更新进行了刷新。此更新包含安全性和</description>
+      <pubDate>Tue, 14 Apr 2026 19:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
