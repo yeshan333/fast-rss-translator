@@ -4,64 +4,64 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
-      <title>【Browser Run: give your agents a browser】浏览器运行：为您的代理提供浏览器</title>
-      <link>https://blog.cloudflare.com/browser-run-for-ai-agents/</link>
-      <description>【 Browser Rendering is now Browser Run, with Live View, Human in the Loop, CDP access, session recordings, and 4x higher concurrency limits for AI agents. 】浏览器渲染现在是浏览器运行，具有实时视图、人在循环、CDP 访问、会话记录以及 AI 代理的 4 倍高并发限制。</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Introducing the Agent Readiness score. Is your site agent-ready?】介绍代理准备度分数。您的网站代理准备好了吗？</title>
+      <link>https://blog.cloudflare.com/agent-readiness/</link>
+      <description>【 The Agent Readiness score can help site owners understand how well their websites support AI agents. Here we explore new standards, share Radar data, and detail how we made Cloudflare’s docs the most agent-friendly on the web. 】代理就绪度分数可以帮助网站所有者了解他们的网站对 AI 代理的支持程度。在这里，我们探索新标准，共享 Radar 数据，并详细介绍我们如何使 Cloudflare 的文档成为网络上对代理最友好的文档。</description>
+      <pubDate>Fri, 17 Apr 2026 13:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Register domains wherever you build: Cloudflare Registrar API now in beta】无论您在何处构建，都可以注册域名：Cloudflare Registrar API 现已推出测试版</title>
-      <link>https://blog.cloudflare.com/registrar-api-beta/</link>
-      <description>【 The Cloudflare Registrar API is now in beta. Developers and AI agents can search, check availability, and register domains at cost directly from their editor, their terminal, or their agent — without leaving their workflow. 】Cloudflare Registrar API 现已处于测试阶段。开发人员和人工智能代理可以直接从编辑器、终端或代理搜索、检查可用性和注册域名，而无需离开他们的工作流程。</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Shared Dictionaries: compression that keeps up with the agentic web】共享词典：紧跟代理网络的压缩</title>
+      <link>https://blog.cloudflare.com/shared-dictionaries/</link>
+      <description>【 Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves page load times, and reveal when you’ll be able to try the beta yourself. &#xA; 】今天，我们很高兴让您先睹为快，了解我们对共享压缩字典的支持，向您展示它如何缩短页面加载时间，并透露您何时可以亲自尝试测试版。</description>
+      <pubDate>Fri, 17 Apr 2026 13:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Rearchitecting the Workflows control plane for the agentic era】为代理时代重新构建工作流控制平面</title>
-      <link>https://blog.cloudflare.com/workflows-v2/</link>
-      <description>【 Cloudflare Workflows, a durable execution engine for multi-step applications, now supports higher concurrency and creation rate limits through a rearchitectured control plane, helping scale to meet the use cases for durable background agents.&#xA; 】Cloudflare Workflows 是用于多步骤应用程序的持久执行引擎，现在通过重新架构的控制平面支持更高的并发性和创建速率限制，有助于扩展以满足持久后台代理的用例。</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Unweight: how we compressed an LLM 22% without sacrificing quality】减轻重量：我们如何在不牺牲质量的情况下将法学硕士课程压缩 22%</title>
+      <link>https://blog.cloudflare.com/unweight-tensor-compression/</link>
+      <description>【 Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction, so that we can deliver faster and cheaper inference than ever before. 】在 Cloudflare 网络上运行 LLM 需要我们在 GPU 内存带宽方面更加智能和高效。这就是我们开发 Unweight 的原因，这是一种无损推理时间压缩系统，可将模型占用空间减少高达 22%，从而使我们能够提供比以往更快、更便宜的推理。</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing Agent Lee - a new interface to the Cloudflare stack】Agent Lee 简介 - Cloudflare 堆栈的新界面</title>
-      <link>https://blog.cloudflare.com/introducing-agent-lee/</link>
-      <description>【 Agent Lee is an in-dashboard agent that shifts Cloudflare’s interface from manual tab-switching to a single prompt. Using sandboxed TypeScript, it helps you troubleshoot and manage your stack as a grounded technical collaborator.&#xA; 】Agent Lee 是一个仪表板内代理，它将 Cloudflare 的界面从手动选项卡切换转变为单个提示。使用沙盒 TypeScript，它可以帮助您作为扎根的技术协作者排除故障并管理堆栈。</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Introducing Flagship: feature flags built for the age of AI】旗舰简介：为人工智能时代打造的功能标志</title>
+      <link>https://blog.cloudflare.com/flagship/</link>
+      <description>【 We are launching Flagship, a native feature flag service built on Cloudflare’s global network to eliminate the latency of third-party providers. By using KV and Durable Objects, Flagship allows for sub-millisecond flag evaluation. 】我们正在推出 Flagship，这是一项基于 Cloudflare 全球网络构建的本机功能标记服务，旨在消除第三方提供商的延迟。通过使用 KV 和持久对象，Flagship 允许进行亚毫秒级的标志评估。</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Project Think: building the next generation of AI agents on Cloudflare】Project Think：在 Cloudflare 上构建下一代 AI 代理</title>
-      <link>https://blog.cloudflare.com/project-think/</link>
-      <description>【 Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.&#xA; 】宣布推出下一版 Agents SDK 预览版——从轻量级原语到包含电池的 AI 代理平台，能够思考、行动和坚持。</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Redirects for AI Training enforces canonical content】AI 培训重定向强制执行规范内容</title>
+      <link>https://blog.cloudflare.com/ai-redirects/</link>
+      <description>【 Soft directives don’t stop crawlers from ingesting deprecated content. Redirects for AI Training allows anybody on Cloudflare to redirect verified crawlers to canonical pages with one toggle and no origin changes. 】软指令不会阻止爬虫摄取已弃用的内容。 AI Training 重定向允许 Cloudflare 上的任何人通过一次切换将经过验证的爬虫重定向到规范页面，并且无需更改来源。</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Add voice to your agent】为您的代理添加声音</title>
-      <link>https://blog.cloudflare.com/voice-agents/</link>
-      <description>【 An experimental voice pipeline for the Agents SDK enables real-time voice interactions over WebSockets. Developers can now build agents with continuous STT and TTS in just ~30 lines of server-side code.&#xA; 】Agents SDK 的实验性语音管道支持通过 WebSocket 进行实时语音交互。开发人员现在只需大约 30 行服务器端代码即可构建具有连续 STT 和 TTS 的代理。</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+      <title>【Agents that remember: introducing Agent Memory】具有记忆功能的智能体：引入智能体记忆</title>
+      <link>https://blog.cloudflare.com/introducing-agent-memory/</link>
+      <description>【 Cloudflare Agent Memory is a managed service that gives AI agents persistent memory, allowing them to recall what matters, forget what doesn&#39;t, and get smarter over time. 】Cloudflare Agent Memory 是一项托管服务，可为 AI 代理提供持久记忆，使他们能够回忆起重要的事情，忘记不重要的事情，并随着时间的推移变得更加聪明。</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Managed OAuth for Access: make internal apps agent-ready in one click】用于访问的托管 OAuth：一键使内部应用程序代理就绪</title>
-      <link>https://blog.cloudflare.com/managed-oauth-for-access/</link>
-      <description>【 Managed OAuth for Cloudflare Access helps AI agents securely navigate internal applications. By adopting RFC 9728, agents can authenticate on behalf of users without using insecure service accounts. 】Cloudflare Access 的托管 OAuth 可帮助 AI 代理安全地导航内部应用程序。通过采用 RFC 9728，代理可以代表用户进行身份验证，而无需使用不安全的服务帐户。</description>
-      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
+      <title>【Agents Week: network performance update】代理周：网络性能更新</title>
+      <link>https://blog.cloudflare.com/network-performance-agents-week/</link>
+      <description>【 By migrating our request handling layer to a Rust-based architecture called FL2, Cloudflare has increased its performance lead to 60% of the world’s top networks. We use real-user measurements and connection trimeans to ensure our data reflects the actual experience of people on the Internet. 】通过将我们的请求处理层迁移到基于 Rust 的架构（称为 FL2），Cloudflare 的性能已提高到世界顶级网络的 60%。我们使用真实用户测量和连接三均值来确保我们的数据反映人们在互联网上的实际体验。</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Securing non-human identities: automated revocation, OAuth, and scoped permissions】保护非人类身份：自动撤销、OAuth 和范围权限</title>
-      <link>https://blog.cloudflare.com/improved-developer-security/</link>
-      <description>【 Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage.&#xA; 】Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。</description>
-      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
+      <title>【Cloudflare’s AI Platform: an inference layer designed for agents】Cloudflare 的 AI 平台：专为代理设计的推理层</title>
+      <link>https://blog.cloudflare.com/ai-platform/</link>
+      <description>【 We&#39;re building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.&#xA; 】我们正在将 AI Gateway 构建为 AI 的统一推理层，让开发人员可以调用来自 14 个以上提供商的模型。新功能包括 Workers AI 绑定集成和具有多模式模型的扩展目录。</description>
+      <pubDate>Thu, 16 Apr 2026 14:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP】扩大 MCP 的采用：我们的参考架构可实现更简单、更安全和更便宜的 MCP 企业部署</title>
-      <link>https://blog.cloudflare.com/enterprise-mcp/</link>
-      <description>【 We share Cloudflare&#39;s internal strategy for governing MCP using Access, AI Gateway, and MCP server portals. We also launch Code Mode to slash token costs and recommend new rules for detecting Shadow MCP in Cloudflare Gateway.&#xA; 】我们分享 Cloudflare 使用 Access、AI 网关和 MCP 服务器门户管理 MCP 的内部策略。我们还推出了代码模式来削减代币成本，并推荐了在 Cloudflare Gateway 中检测 Shadow MCP 的新规则。</description>
-      <pubDate>Tue, 14 Apr 2026 13:00:10 +0000</pubDate>
+      <title>【Building the foundation for running extra-large language models】为运行超大型语言模型奠定基础</title>
+      <link>https://blog.cloudflare.com/high-performance-llms/</link>
+      <description>【 We built a custom technology stack to run fast large language models on Cloudflare’s infrastructure. This post explores the engineering trade-offs and technical optimizations required to make high-performance AI inference accessible. 】我们构建了一个自定义技术堆栈，以便在 Cloudflare 基础设施上快速运行大型语言模型。这篇文章探讨了实现高性能人工智能推理所需的工程权衡和技术优化。</description>
+      <pubDate>Thu, 16 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh】为每个人提供安全的私有网络：用户、节点、代理、工作人员 — 引入 Cloudflare Mesh</title>
-      <link>https://blog.cloudflare.com/mesh/</link>
-      <description>【 Cloudflare Mesh provides secure, private network access for users, nodes, and autonomous AI agents. By integrating with Workers VPC, developers can now grant agents scoped access to private databases and APIs without manual tunnels.&#xA; 】Cloudflare Mesh 为用户、节点和自主 AI 代理提供安全的专用网络访问。通过与 Workers VPC 集成，开发人员现在可以授予代理对私有数据库和 API 的范围内访问权限，而无需手动隧道。</description>
-      <pubDate>Tue, 14 Apr 2026 13:00:09 +0000</pubDate>
+      <title>【Artifacts: versioned storage that speaks Git】Artifacts：使用 Git 的版本化存储</title>
+      <link>https://blog.cloudflare.com/artifacts-git-for-agents-beta/</link>
+      <description>【 Give your agents, developers, and automations a home for code and data. We’ve just launched Artifacts: Git-compatible versioned storage built for agents. Create tens of millions of repos, fork from any remote, and hand off a URL to any Git client.&#xA; 】为您的代理、开发人员和自动化提供代码和数据的家。我们刚刚推出了 Artifacts：为代理构建的与 Git 兼容的版本化存储。创建数千万个存储库，从任何远程分支，并将 URL 传递给任何 Git 客户端。</description>
+      <pubDate>Thu, 16 Apr 2026 13:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

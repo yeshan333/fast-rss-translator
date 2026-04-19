@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP211: How the JVM Works】EP211：JVM 如何工作</title>
+      <link>https://blog.bytebytego.com/p/ep211-how-the-jvm-works</link>
+      <description>【We compile, run, and debug Java code all the time. But what exactly does the JVM do between compile and run?】我们一直在编译、运行和调试 Java 代码。但是 JVM 在编译和运行之间到底做了什么？</description>
+      <pubDate>Sat, 18 Apr 2026 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide to Relational Database Design】关系数据库设计指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-relational-database-design</link>
+      <description>【In this article, we cover the core concepts that inform those decisions. We&amp;#8217;ll look at tables, keys, relationships, normalization, and joins, with each concept building on the last.】在本文中，我们将介绍影响这些决策的核心概念。我们将研究表、键、关系、规范化和连接，每个概念都建立在最后一个概念的基础上。</description>
+      <pubDate>Thu, 16 Apr 2026 15:31:26 +0000</pubDate>
+    </item>
+    <item>
       <title>【Figma Design to Code, Code to Design: Clearly Explained】Figma 从设计到代码，从代码到设计：清晰解释</title>
       <link>https://blog.bytebytego.com/p/figma-design-to-code-code-to-design</link>
       <description>【This article covers how Figma&amp;#8217;s design-to-code and code-to-design workflows actually work, starting with why the obvious approaches fail, how MCP solves them, and the engineering challenges that remain.】本文介绍 Figma 的设计到代码和代码到设计工作流程的实际工作方式，首先介绍为什么明显的方法会失败、MCP 如何解决这些问题以及仍然存在的工程挑战。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep209-12-claude-code-features-every</link>
       <description>【CLAUDE. md: A project memory file to define custom rules and conventions. Claude reads at the start of every session.】克劳德。 md：用于定义自定义规则和约定的项目内存文件。克劳德在每堂课开始时都会朗读。</description>
       <pubDate>Sat, 04 Apr 2026 15:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Our New Book on Behavioral Interviews Is Now Available on Amazon】我们关于行为访谈的新书现已在亚马逊上发售</title>
-      <link>https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews</link>
-      <description>【The book is written by Steve Huynh and published by ByteByteGo.】该书由 Steve Huynh 撰写，由 ByteByteGo 出版。</description>
-      <pubDate>Fri, 03 Apr 2026 15:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Database Performance Strategies and Their Hidden Costs】数据库性能策略及其隐藏成本</title>
-      <link>https://blog.bytebytego.com/p/database-performance-strategies-and</link>
-      <description>【A feature is deployed, and the database queries run well.】功能已部署，数据库查询运行良好。</description>
-      <pubDate>Thu, 02 Apr 2026 15:31:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

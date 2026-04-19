@@ -4,6 +4,48 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Visual Studio Code 1.117】Visual Studio 代码 1.117</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.117</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.117 (Insiders) Read the full article】了解 Visual Studio Code 1.117 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 22 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Forgotten message from the past: &lt;CODE&gt;LB_&lt;WBR&gt;INIT­STORAGE&lt;/CODE&gt;】忘记了过去的消息：&lt;CODE&gt;LB_&lt;WBR&gt;INITSTORAGE&lt;/CODE&gt;</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</link>
+      <description>【The classic Win32 list box control lets you preallocate memory in anticipation of adding a large number of items. The documentation recommends doing this for cases where you are adding more than 100 items to a list box.¹ What is being preallocated here? The list box internally tracks the items as an array of structures and a separa】经典的 Win32 列表框控件允许您在预期添加大量项目时预先分配内存。文档建议您在向列表框中添加超过 100 个项目的情况下执行此操作。¹ 这里预分配的是什么？列表框在内部将项目作为结构数组和单独的数组进行跟踪</description>
+      <pubDate>Fri, 17 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Best of Both Worlds for Agentic Refactoring: GitHub Copilot + MicroVMs via Docker Sandbox】代理重构的两全其美：GitHub Copilot + 通过 Docker Sandbox 的 MicroVM</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/best-of-both-worlds-for-agentic-refactoring-github-copilot-microvms-via-docker-sandbox</link>
+      <description>【Legacy codebases frequently contain hardcoded logic and complex build scripts that depend on specific filesystem structures, making them notoriously difficult to modernize in isolated environments. Docker Sandbox addresses this challenge through a bidirectional workspace】遗留代码库经常包含硬编码逻辑和依赖于特定文件系统结构的复杂构建脚本，这使得它们在隔离环境中很难实现现代化。 Docker Sandbox 通过双向工作空间解决了这一挑战</description>
+      <pubDate>Thu, 16 Apr 2026 22:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What&#39;s New in Microsoft Foundry Fine-Tuning | April 2026】Microsoft Foundry 微调中的新增功能 | 2026 年 4 月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-foundry-finetune-april-2026</link>
+      <description>【This month we&#39;re shipping three updates that make Reinforcement Fine-Tuning (RFT) more accessible, more powerful, and easier to get right: Global Training for o4-mini — train from 13+ Azure regions at lower per-token rates. New model graders — GPT-4.1, GPT-4.1-mini, and GPT-4.1-nan】本月，我们将发布三个更新，使强化微调 (RFT) 更易于访问、更强大且更容易正确执行： o4-mini 的全球培训 — 以更低的每个代币费率从 13 个以上的 Azure 区域进行培训。新型号平地机 — GPT-4.1、GPT-4.1-mini 和 GPT-4.1-nan</description>
+      <pubDate>Thu, 16 Apr 2026 19:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Free Your Terminal with Detached Mode in Aspire 13.2】在 Aspire 13.2 中使用分离模式释放您的终端</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-detached-mode-and-process-management</link>
+      <description>【Running Aspire apps from the CLI has a friction point: your terminal is locked to the AppHost process. While the app is running, you can&#39;t use the terminal to check logs or telemetry. You must open a new terminal window. Worse, if an agent has started your Aspire app to test a feature, the agent may decide to kill the app to free the termin】从 CLI 运行 Aspire 应用程序有一个摩擦点：您的终端被锁定到 AppHost 进程。应用程序运行时，您无法使用终端检查日志或遥测数据。您必须打开一个新的终端窗口。更糟糕的是，如果代理启动了您的 Aspire 应用程序来测试某项功能，代理可能会决定终止该应用程序以释放术语</description>
+      <pubDate>Thu, 16 Apr 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【From AI to .NET: 20 VS Live! Las Vegas Sessions You Can Watch Now】从 AI 到 .NET：20 VS Live！您现在可以观看拉斯维加斯会议</title>
+      <link>https://devblogs.microsoft.com/visualstudio/from-ai-to-net-20-vs-live-las-vegas-sessions-you-can-watch-now</link>
+      <description>【In March 2026, developers came together at VS Live! Las Vegas for a full week of technical learning, hands-on exploration, and a lot of great conversations about where software development is headed next. From AI-assisted development to modern .NET, cloud-native apps, and developer productivity, one thing was】2026 年 3 月，开发者齐聚 VS Live！拉斯维加斯为期一周的技术学习、实践探索以及关于软件开发下一步发展方向的大量精彩对话。从 AI 辅助开发到现代 .NET、云原生应用程序和开发人员生产力，有一件事是</description>
+      <pubDate>Thu, 16 Apr 2026 15:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【What&#39;s up with window message &lt;CODE&gt;0x0091&lt;/CODE&gt;? We&#39;re getting it with unexpected parameters】窗口消息 &lt;CODE&gt;0x0091&lt;/CODE&gt; 是怎么回事？我们得到了意想不到的参数</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</link>
+      <description>【A customer, via their customer liaison, reported quite some time ago that their program stopped working on Windows XP. (I told you it was quite some time ago.) The customer&#39;s investigations revealed that the problem occurred because their window was receiving message 0x0091, and the parameters are wrong. Who is sending】一位客户很久以前通过他们的客户联络人报告说，他们的程序在 Windows XP 上停止运行。 （我告诉过你那是很久以前的事了。） 客户调查发现，问题的发生是因为他们的窗口收到了消息0x0091，参数错误。谁发送</description>
+      <pubDate>Thu, 16 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure MCP tools now ship built into Visual Studio 2022 — no extension required】Azure MCP 工具现已内置于 Visual Studio 2022 中 - 无需扩展</title>
       <link>https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required</link>
       <description>【Azure MCP tools now ship built into Visual Studio 2022 — no extension required Azure MCP tools are now built into Visual Studio 2022 as part of the Azure development workload — no separate extension to find, install, or update. You can enable over 230 tools across 45 Azure services directly in GitHub Copilot Chat and m】Azure MCP 工具现已内置于 Visual Studio 2022 中 - 无需扩展 Azure MCP 工具现已内置于 Visual Studio 2022 中，作为 Azure 开发工作负载的一部分 - 无需查找、安装或更新单独的扩展。您可以直接在 GitHub Copilot Chat 和 m 中启用跨 45 个 Azure 服务的 230 多个工具</description>
@@ -11,57 +53,15 @@
     </item>
     <item>
       <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.116</link>
+      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-116</link>
       <description>【Learn what&#39;s new in Visual Studio Code 1.116 Read the full article】了解 Visual Studio Code 1.116 中的新增功能 阅读全文</description>
       <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
-      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-116</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.116 (Insiders) Read the full article】了解 Visual Studio Code 1.116 中的新增功能（内部人士） 阅读全文</description>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.116</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.116 Read the full article】了解 Visual Studio Code 1.116 中的新增功能 阅读全文</description>
       <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Pin Clustering in .NET MAUI Maps】.NET MAUI 地图中的 Pin 聚类</title>
-      <link>https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps</link>
-      <description>【If you&#39;ve ever loaded a map with dozens — or hundreds — of pins, you know the result: an overlapping mess that&#39;s impossible to interact with. Starting in .NET MAUI 11 Preview 3, the Map control supports pin clustering out of the box on Android and iOS/Mac Catalyst.】如果您曾经加载过包含数十个或数百个图钉的地图，您就会知道结果：重叠的混乱，无法进行交互。从 .NET MAUI 11 Preview 3 开始，地图控件在 Android 和 iOS/Mac Catalyst 上支持开箱即用的图钉集群。</description>
-      <pubDate>Wed, 15 Apr 2026 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow】停止寻找错误：了解新的 Visual Studio 调试器代理工作流程</title>
-      <link>https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent</link>
-      <description>【We’ve all been there: a bug report lands in your inbox with a title like &#34;App crashes sometimes&#34; and zero reproduction steps. Your morning, which was supposed to be spent building new features, is now a forensic investigation. You’re 】我们都经历过这样的情况：您的收件箱中会收到一份错误报告，标题为“应用有时崩溃”，并且重现步骤为零。你的早上本来应该用来构建新功能，现在却变成了取证调查。 你是 </description>
-      <pubDate>Wed, 15 Apr 2026 16:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【One-click security scanning and org-wide alert triage come to Advanced Security】高级安全性中包含一键式安全扫描和组织范围内的警报分类</title>
-      <link>https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security</link>
-      <description>【We&#39;re shipping two major capabilities that change how security teams enable and act on application security in Azure DevOps: CodeQL default setup makes it possible to enable code scanning across your organization without configuring a single pipeline, and a new combined alerts experience in Security Overview】我们正在提供两项主要功能，这些功能将改变安全团队在 Azure DevOps 中启用和处理应用程序安全性的方式：CodeQL 默认设置使您可以在整个组织中启用代码扫描，而无需配置单个管道，以及安全概述中的新组合警报体验</description>
-      <pubDate>Wed, 15 Apr 2026 15:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Why is there a long delay between a thread exiting and the &lt;CODE&gt;Wait­For­Single­Object&lt;/CODE&gt; returning?】为什么线程退出和 &lt;CODE&gt;WaitForSingleObject&lt;/CODE&gt; 返回之间有很长的延迟？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</link>
-      <description>【A customer reported that they were using the Wait­For­Single­Object function to wait for a thread to exit, but they found that even though the thread had exited, the Wait­For­Single­Object call did not return for over a minute. What could explain this delay in reporting the end of a thread? Can we do somethin】一位客户报告说，他们正在使用 WaitForSingleObject 函数等待线程退出，但他们发现即使线程已经退出，WaitForSingleObject 调用也不会返回超过一分钟。什么可以解释报告线程结束的这种延迟？我们可以做点什么吗</description>
-      <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Choosing the Right Azure Hosting Model for AI Agents: A Deep Dive into Foundry Hosted Agents】为 AI 代理选择正确的 Azure 托管模型：深入探讨 Foundry 托管代理</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/hostedagent</link>
-      <description>【AI agents are quickly moving from experiments to production‑critical components of modern applications. But while many teams know how to build agents, far fewer are confident they’re hosting them on the right foundation.】人工智能代理正在迅速从实验转向现代应用程序的生产关键组件。但是，尽管许多团队知道如何构建代理，但很少有人相信他们在正确的基础上托管代理。</description>
-      <pubDate>Wed, 15 Apr 2026 05:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DevOps Playbook for the Agentic Era】代理时代的 DevOps 手册</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/agentic-devops-practices-principles-strategic-direction</link>
-      <description>【Practices, Principles, and Strategic Direction Software delivery has entered a new phase. AI agents are no longer confined to autocomplete suggestions in the editor. They are opening pull requests, generating code across multiple files, proposing infrastructure changes, responding to issues with working implementations, and executing】实践、原则和战略方向 软件交付已进入一个新阶段。人工智能代理不再局限于编辑器中的自动完成建议。他们打开拉取请求，跨多个文件生成代码，提出基础架构更改，响应工作实现的问题，并执行</description>
-      <pubDate>Wed, 15 Apr 2026 00:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【.NET and .NET Framework April 2026 servicing releases updates】.NET 和 .NET Framework 2026 年 4 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for April 2026. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework has been refreshed with the latest update as of April 14, 2026. This update contains security a】欢迎使用我们 2026 年 4 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述： 安全性改进 .NET 和 .NET Framework 已使用截至 2026 年 4 月 14 日的最新更新进行了刷新。此更新包含安全性和</description>
-      <pubDate>Tue, 14 Apr 2026 19:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
