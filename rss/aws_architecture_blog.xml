@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>实时分析：Oldcastle 将 Infor 与 Amazon Aurora 和 Amazon Quick Sight 集成</title>
+      <link>https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight/</link>
+      <description></description>
+      <pubDate>Tue, 21 Apr 2026 16:37:12 +0000</pubDate>
+    </item>
+    <item>
       <title>使用标记存储模式构建多租户配置系统</title>
       <link>https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/</link>
       <description></description>
       <pubDate>Tue, 03 Mar 2026 16:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>桑坦德银行的数字化转型：平台工程如何彻底改变云基础设施</title>
-      <link>https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/</link>
-      <description></description>
-      <pubDate>Thu, 26 Feb 2026 17:54:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

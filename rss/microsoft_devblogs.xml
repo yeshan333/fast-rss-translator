@@ -10,58 +10,58 @@
       <pubDate>Wed, 22 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Forgotten message from the past: &lt;CODE&gt;LB_&lt;WBR&gt;INIT­STORAGE&lt;/CODE&gt;】忘记了过去的消息：&lt;CODE&gt;LB_&lt;WBR&gt;INITSTORAGE&lt;/CODE&gt;</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</link>
-      <description>【The classic Win32 list box control lets you preallocate memory in anticipation of adding a large number of items. The documentation recommends doing this for cases where you are adding more than 100 items to a list box.¹ What is being preallocated here? The list box internally tracks the items as an array of structures and a separa】经典的 Win32 列表框控件允许您在预期添加大量项目时预先分配内存。文档建议您在向列表框中添加超过 100 个项目的情况下执行此操作。¹ 这里预分配的是什么？列表框在内部将项目作为结构数组和单独的数组进行跟踪</description>
-      <pubDate>Fri, 17 Apr 2026 14:00:00 +0000</pubDate>
+      <title>【Azure SDK Release (April 2026)】Azure SDK 版本（2026 年 4 月）</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2026</link>
+      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
+      <pubDate>Tue, 21 Apr 2026 23:13:33 +0000</pubDate>
     </item>
     <item>
-      <title>【Best of Both Worlds for Agentic Refactoring: GitHub Copilot + MicroVMs via Docker Sandbox】代理重构的两全其美：GitHub Copilot + 通过 Docker Sandbox 的 MicroVM</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/best-of-both-worlds-for-agentic-refactoring-github-copilot-microvms-via-docker-sandbox</link>
-      <description>【Legacy codebases frequently contain hardcoded logic and complex build scripts that depend on specific filesystem structures, making them notoriously difficult to modernize in isolated environments. Docker Sandbox addresses this challenge through a bidirectional workspace】遗留代码库经常包含硬编码逻辑和依赖于特定文件系统结构的复杂构建脚本，这使得它们在隔离环境中很难实现现代化。 Docker Sandbox 通过双向工作空间解决了这一挑战</description>
-      <pubDate>Thu, 16 Apr 2026 22:09:53 +0000</pubDate>
+      <title>【The Polyglot tax – Part 4】多语言税 – 第 4 部分</title>
+      <link>https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4</link>
+      <description>【The Agent-Ready Database: Security, Backup, and MCP Part 4 of 4 – The Multi-Model Database Series This is the final post in a four-part series on multi-model databases in SQL Server 2025 and Azure SQL - exploring how the optimizer, storage engine, and security layer treat each data model as a first-class ci】代理就绪数据库：安全性、备份和 MCP 第 4 部分（共 4 部分）——多模型数据库系列 这是有关 SQL Server 2025 和 Azure SQL 中多模型数据库的四部分系列的最后一篇文章 - 探讨优化器、存储引擎和安全层如何将每个数据模型视为一流的 ci</description>
+      <pubDate>Tue, 21 Apr 2026 18:52:07 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s New in Microsoft Foundry Fine-Tuning | April 2026】Microsoft Foundry 微调中的新增功能 | 2026 年 4 月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-foundry-finetune-april-2026</link>
-      <description>【This month we&#39;re shipping three updates that make Reinforcement Fine-Tuning (RFT) more accessible, more powerful, and easier to get right: Global Training for o4-mini — train from 13+ Azure regions at lower per-token rates. New model graders — GPT-4.1, GPT-4.1-mini, and GPT-4.1-nan】本月，我们将发布三个更新，使强化微调 (RFT) 更易于访问、更强大且更容易正确执行： o4-mini 的全球培训 — 以更低的每个代币费率从 13 个以上的 Azure 区域进行培训。新型号平地机 — GPT-4.1、GPT-4.1-mini 和 GPT-4.1-nan</description>
-      <pubDate>Thu, 16 Apr 2026 19:34:46 +0000</pubDate>
+      <title>【.NET 10.0.7 Out-of-Band Security Update】.NET 10.0.7 带外安全更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update</link>
+      <description>【We are releasing .NET 10.0.7 as an out-of-band (OOB) update to address a security issue introduced in Microsoft.AspNetCore.DataProtection Security update details This release includes a fix for】我们将 .NET 10.0.7 作为带外 (OOB) 更新发布，以解决 Microsoft.AspNetCore.DataProtection 中引入的安全问题 安全更新详细信息 此版本包含以下修复：</description>
+      <pubDate>Tue, 21 Apr 2026 18:48:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Free Your Terminal with Detached Mode in Aspire 13.2】在 Aspire 13.2 中使用分离模式释放您的终端</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-detached-mode-and-process-management</link>
-      <description>【Running Aspire apps from the CLI has a friction point: your terminal is locked to the AppHost process. While the app is running, you can&#39;t use the terminal to check logs or telemetry. You must open a new terminal window. Worse, if an agent has started your Aspire app to test a feature, the agent may decide to kill the app to free the termin】从 CLI 运行 Aspire 应用程序有一个摩擦点：您的终端被锁定到 AppHost 进程。应用程序运行时，您无法使用终端检查日志或遥测数据。您必须打开一个新的终端窗口。更糟糕的是，如果代理启动了您的 Aspire 应用程序来测试某项功能，代理可能会决定终止该应用程序以释放术语</description>
-      <pubDate>Thu, 16 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【Announcing TypeScript 7.0 Beta】宣布推出 TypeScript 7.0 Beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta</link>
+      <description>【Today we are absolutely thrilled to announce the release of TypeScript 7.0 Beta! If you haven&#39;t been following TypeScript 7.0&#39;s development, this release is significant in that it is built on a completely new foundation. Over the past year, we have been porting the existing TypeScript codebase from TypeScript (as a bootstrapped codebase th】今天，我们非常高兴地宣布 TypeScript 7.0 Beta 发布！如果您还没有关注 TypeScript 7.0 的开发，那么这个版本的意义重大，因为它建立在全新的基础上。在过去的一年里，我们一直在从 TypeScript 移植现有的 TypeScript 代码库（作为引导代码库）</description>
+      <pubDate>Tue, 21 Apr 2026 18:24:17 +0000</pubDate>
     </item>
     <item>
-      <title>【From AI to .NET: 20 VS Live! Las Vegas Sessions You Can Watch Now】从 AI 到 .NET：20 VS Live！您现在可以观看拉斯维加斯会议</title>
-      <link>https://devblogs.microsoft.com/visualstudio/from-ai-to-net-20-vs-live-las-vegas-sessions-you-can-watch-now</link>
-      <description>【In March 2026, developers came together at VS Live! Las Vegas for a full week of technical learning, hands-on exploration, and a lot of great conversations about where software development is headed next. From AI-assisted development to modern .NET, cloud-native apps, and developer productivity, one thing was】2026 年 3 月，开发者齐聚 VS Live！拉斯维加斯为期一周的技术学习、实践探索以及关于软件开发下一步发展方向的大量精彩对话。从 AI 辅助开发到现代 .NET、云原生应用程序和开发人员生产力，有一件事是</description>
-      <pubDate>Thu, 16 Apr 2026 15:00:04 +0000</pubDate>
+      <title>【I Wasted 68 Minutes a Day Re-Explaining My Code. Then I Built auto-memory.】我每天浪费 68 分钟重新解释我的代码。然后我建立了自动记忆。</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/i-wasted-68-minutes-a-day-re-explaining-my-code-then-i-built-auto-memory</link>
+      <description>【~1,900 lines of Python. Zero dependencies. Saves you an hour a day. GitHub → · pip install auto-memory Now give Copilot CLI enhanced context recall. Point it at】约 1,900 行 Python 代码。零依赖。每天为您节省一个小时。 GitHub → · pip install auto-memory 现在为 Copilot CLI 提供增强的上下文调用。将其指向</description>
+      <pubDate>Tue, 21 Apr 2026 18:06:24 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s up with window message &lt;CODE&gt;0x0091&lt;/CODE&gt;? We&#39;re getting it with unexpected parameters】窗口消息 &lt;CODE&gt;0x0091&lt;/CODE&gt; 是怎么回事？我们得到了意想不到的参数</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</link>
-      <description>【A customer, via their customer liaison, reported quite some time ago that their program stopped working on Windows XP. (I told you it was quite some time ago.) The customer&#39;s investigations revealed that the problem occurred because their window was receiving message 0x0091, and the parameters are wrong. Who is sending】一位客户很久以前通过他们的客户联络人报告说，他们的程序在 Windows XP 上停止运行。 （我告诉过你那是很久以前的事了。） 客户调查发现，问题的发生是因为他们的窗口收到了消息0x0091，参数错误。谁发送</description>
-      <pubDate>Thu, 16 Apr 2026 14:00:00 +0000</pubDate>
+      <title>【General Availability: Dynamic Data Masking for Azure Cosmos DB】正式发布：Azure Cosmos DB 的动态数据脱敏</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/general-availability-dynamic-data-masking-for-azure-cosmos-db</link>
+      <description>【Protecting sensitive data is a foundational requirement for modern applications. As organizations scale their use of Azure Cosmos DB across teams, environments, and workloads, controlling who can see sensitive information becomes increasingly important. Today, we are excited to announce the general availability of Dynamic Data Masking (DDM)】保护敏感数据是现代应用程序的基本要求。随着组织跨团队、环境和工作负载扩展 Azure Cosmos DB 的使用，控制谁可以查看敏感信息变得越来越重要。今天，我们很高兴地宣布动态数据脱敏 (DDM) 全面上市</description>
+      <pubDate>Tue, 21 Apr 2026 17:00:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure MCP tools now ship built into Visual Studio 2022 — no extension required】Azure MCP 工具现已内置于 Visual Studio 2022 中 - 无需扩展</title>
-      <link>https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required</link>
-      <description>【Azure MCP tools now ship built into Visual Studio 2022 — no extension required Azure MCP tools are now built into Visual Studio 2022 as part of the Azure development workload — no separate extension to find, install, or update. You can enable over 230 tools across 45 Azure services directly in GitHub Copilot Chat and m】Azure MCP 工具现已内置于 Visual Studio 2022 中 - 无需扩展 Azure MCP 工具现已内置于 Visual Studio 2022 中，作为 Azure 开发工作负载的一部分 - 无需查找、安装或更新单独的扩展。您可以直接在 GitHub Copilot Chat 和 m 中启用跨 45 个 Azure 服务的 230 多个工具</description>
-      <pubDate>Wed, 15 Apr 2026 17:30:28 +0000</pubDate>
+      <title>【Aspire 13.2: Bun Support and Container Enhancements】Aspire 13.2：Bun 支持和容器增强</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-bun-support-and-container-enhancements</link>
+      <description>【If you&#39;ve been following the JavaScript story in Aspire, 13.2 is the kind of release you want to see. Focused, deliberate, and packed with improvements that make a real difference. Bun support lands for Vite apps. Yarn gets more reliable. Container publishing becom】如果您一直在关注 Aspire 中的 JavaScript 故事，那么 13.2 就是您希望看到的版本。专注、深思熟虑，并进行了一系列能够带来真正改变的改进。 Bun 支持 Vite 应用程序。纱线变得更加可靠。容器发布成为</description>
+      <pubDate>Tue, 21 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
-      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-116</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.116 Read the full article】了解 Visual Studio Code 1.116 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【Sure, xor&#39;ing a register with itself is the idiom for zeroing it out, but why not sub?】当然，将寄存器与自身进行异或是将其清零的习惯用法，但为什么不使用 sub 呢？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247</link>
+      <description>【Matt Godbolt, probably best known for being the proprietor of Compiler Explorer, wrote a brief article on why x86 compilers love the xor eax, eax instruction.】Matt Godbolt（可能因 Compiler Explorer 的所有者而闻名）写了一篇简短的文章，介绍为什么 x86 编译器喜欢 xor eax、eax 指令。</description>
+      <pubDate>Tue, 21 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Code 1.116】Visual Studio 代码 1.116</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.116</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.116 Read the full article】了解 Visual Studio Code 1.116 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 15 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【Getting Started with Agentic DevOps – Part 1: Foundations】Agentic DevOps 入门 – 第 1 部分：基础</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/getting-started-with-agentic-devops-part-1-foundations</link>
+      <description>【This post is the first in a 3-part series: Foundations (this post) Start shipping (context engineering, MCP servers, orchestration) App modernization (Java, .NET, PHP, microservices) Bookmark this post for quick reference as you start exploring Agentic DevOps. It will be updated as the 3 parts】这篇文章是由 3 部分组成的系列中的第一篇：基础（本文）开始交付（上下文工程、MCP 服务器、编排）应用程序现代化（Java、.NET、PHP、微服务）将此文章添加为书签，以便在您开始探索 Agentic DevOps 时快速参考。它将更新为3部分</description>
+      <pubDate>Tue, 21 Apr 2026 13:25:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

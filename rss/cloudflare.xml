@@ -4,6 +4,30 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Moving past bots vs. humans】超越机器人与人类</title>
+      <link>https://blog.cloudflare.com/past-bots-and-humans/</link>
+      <description>【 As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous credentials is key to preserving user privacy while protecting origins from abuse. 】随着人工智能助手和隐私代理挑战传统机器人检测的能力，网络需要新的问责模型。我们认为控制权应保留在客户手中，并且匿名凭证的开放生态系统是保护用户隐私同时保护来源免遭滥用的关键。</description>
+      <pubDate>Tue, 21 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building the agentic cloud: everything we launched during Agents Week 2026】构建代理云：我们在 2026 年代理周期间推出的所有内容</title>
+      <link>https://blog.cloudflare.com/agents-week-in-review/</link>
+      <description>【 Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.&#xA; 】2026 年特工周已圆满结束。让我们来看看我们宣布的所有内容，从计算和安全性到代理工具箱、平台工具和新兴的代理网络。我们为代理云提供的所有内容。</description>
+      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Orchestrating AI Code Review at scale】大规模协调 AI 代码审查</title>
+      <link>https://blog.cloudflare.com/ai-code-review/</link>
+      <description>【 Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code. 】了解我们如何使用 OpenCode 构建 CI 原生 AI 代码审查器，帮助我们的工程师交付更好、更安全的代码。</description>
+      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The AI engineering stack we built internally — on the platform we ship】我们在我们发布的平台上内部构建的人工智能工程堆栈</title>
+      <link>https://blog.cloudflare.com/internal-ai-engineering-stack/</link>
+      <description>【 We built our internal AI engineering stack on the same products we ship. That means 20 million requests routed through AI Gateway, 241 billion tokens processed, and inference running on Workers AI, serving more than 3,683 internal users. Here&#39;s how we did it.&#xA; 】我们在我们发布的相同产品上构建了内部人工智能工程堆栈。这意味着通过 AI Gateway 路由了 2000 万个请求，处理了 2410 亿个令牌，并在 Workers AI 上运行推理，为超过 3,683 个内部用户提供服务。我们是这样做的。</description>
+      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Introducing the Agent Readiness score. Is your site agent-ready?】介绍代理准备度分数。您的网站代理准备好了吗？</title>
       <link>https://blog.cloudflare.com/agent-readiness/</link>
       <description>【 The Agent Readiness score can help site owners understand how well their websites support AI agents. Here we explore new standards, share Radar data, and detail how we made Cloudflare’s docs the most agent-friendly on the web. 】代理就绪度分数可以帮助网站所有者了解他们的网站对 AI 代理的支持程度。在这里，我们探索新标准，共享 Radar 数据，并详细介绍我们如何使 Cloudflare 的文档成为网络上对代理最友好的文档。</description>
@@ -14,18 +38,6 @@
       <link>https://blog.cloudflare.com/shared-dictionaries/</link>
       <description>【 Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves page load times, and reveal when you’ll be able to try the beta yourself. &#xA; 】今天，我们很高兴让您先睹为快，了解我们对共享压缩字典的支持，向您展示它如何缩短页面加载时间，并透露您何时可以亲自尝试测试版。</description>
       <pubDate>Fri, 17 Apr 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unweight: how we compressed an LLM 22% without sacrificing quality】减轻重量：我们如何在不牺牲质量的情况下将法学硕士课程压缩 22%</title>
-      <link>https://blog.cloudflare.com/unweight-tensor-compression/</link>
-      <description>【 Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction, so that we can deliver faster and cheaper inference than ever before. 】在 Cloudflare 网络上运行 LLM 需要我们在 GPU 内存带宽方面更加智能和高效。这就是我们开发 Unweight 的原因，这是一种无损推理时间压缩系统，可将模型占用空间减少高达 22%，从而使我们能够提供比以往更快、更便宜的推理。</description>
-      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing Flagship: feature flags built for the age of AI】旗舰简介：为人工智能时代打造的功能标志</title>
-      <link>https://blog.cloudflare.com/flagship/</link>
-      <description>【 We are launching Flagship, a native feature flag service built on Cloudflare’s global network to eliminate the latency of third-party providers. By using KV and Durable Objects, Flagship allows for sub-millisecond flag evaluation. 】我们正在推出 Flagship，这是一项基于 Cloudflare 全球网络构建的本机功能标记服务，旨在消除第三方提供商的延迟。通过使用 KV 和持久对象，Flagship 允许进行亚毫秒级的标志评估。</description>
-      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Redirects for AI Training enforces canonical content】AI 培训重定向强制执行规范内容</title>
@@ -46,22 +58,10 @@
       <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Cloudflare’s AI Platform: an inference layer designed for agents】Cloudflare 的 AI 平台：专为代理设计的推理层</title>
-      <link>https://blog.cloudflare.com/ai-platform/</link>
-      <description>【 We&#39;re building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.&#xA; 】我们正在将 AI Gateway 构建为 AI 的统一推理层，让开发人员可以调用来自 14 个以上提供商的模型。新功能包括 Workers AI 绑定集成和具有多模式模型的扩展目录。</description>
-      <pubDate>Thu, 16 Apr 2026 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building the foundation for running extra-large language models】为运行超大型语言模型奠定基础</title>
-      <link>https://blog.cloudflare.com/high-performance-llms/</link>
-      <description>【 We built a custom technology stack to run fast large language models on Cloudflare’s infrastructure. This post explores the engineering trade-offs and technical optimizations required to make high-performance AI inference accessible. 】我们构建了一个自定义技术堆栈，以便在 Cloudflare 基础设施上快速运行大型语言模型。这篇文章探讨了实现高性能人工智能推理所需的工程权衡和技术优化。</description>
-      <pubDate>Thu, 16 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Artifacts: versioned storage that speaks Git】Artifacts：使用 Git 的版本化存储</title>
-      <link>https://blog.cloudflare.com/artifacts-git-for-agents-beta/</link>
-      <description>【 Give your agents, developers, and automations a home for code and data. We’ve just launched Artifacts: Git-compatible versioned storage built for agents. Create tens of millions of repos, fork from any remote, and hand off a URL to any Git client.&#xA; 】为您的代理、开发人员和自动化提供代码和数据的家。我们刚刚推出了 Artifacts：为代理构建的与 Git 兼容的版本化存储。创建数千万个存储库，从任何远程分支，并将 URL 传递给任何 Git 客户端。</description>
-      <pubDate>Thu, 16 Apr 2026 13:01:00 +0000</pubDate>
+      <title>【Unweight: how we compressed an LLM 22% without sacrificing quality】减轻重量：我们如何在不牺牲质量的情况下将法学硕士课程压缩 22%</title>
+      <link>https://blog.cloudflare.com/unweight-tensor-compression/</link>
+      <description>【 Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction, so that we can deliver faster and cheaper inference than ever before. 】在 Cloudflare 网络上运行 LLM 需要我们在 GPU 内存带宽方面更加智能和高效。这就是我们开发 Unweight 的原因，这是一种无损推理时间压缩系统，可将模型占用空间减少高达 22%，从而使我们能够提供比以往更快、更便宜的推理。</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

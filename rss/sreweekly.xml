@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #513】SRE 周刊第 #513 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-513/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io&amp;#8217;s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：“提升和转移”新工具的噪音只会为同样的倦怠购买不同的 UI。 event.io 的迁移框架优先考虑服务编目和库存，以固定所有权，防止团队在过渡到可扩展的待命系统期间发生摩擦。组织二次打击综合症以前未发表的文章[...]</description>
+      <pubDate>Mon, 20 Apr 2026 02:03:38 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #512】SRE 周刊第 #512 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-512/</link>
       <description>【View on sreweekly.com A message from our sponsor, Archera: AI workloads are unpredictable, which makes cloud commitments feel like a gamble. Archera insures your commitments against underutilization, so you can push coverage higher without the risk of getting stuck. If usage drops, Archera covers the downside. Commitment Release Guarantee included. Start Saving Ashby taught us [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 Archera 的消息：人工智能工作负载是不可预测的，这使得云承诺感觉像是一场赌博。 Archera 确保您的承诺不会被未充分利用，因此您可以提高覆盖范围，而不会陷入困境。如果使用量下降，Archera 可以弥补这一损失。包括承诺解除保证。开始拯救阿什比教给我们[...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-509/</link>
       <description>【View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and [&amp;#8230;]】查看 sreweekly.com SRE 周刊回来了！我的伴侣做得很好，感谢所有善意的话语和良好的祝愿。来自我们的赞助商 Costory 的消息：跟踪 AWS、GCP 和 Datadog 之间的云和 AI 成本不需要三个仪表板和一个电子表格。Costory 将成本、使用情况和部署数据关联起来。解释发生了什么变化并且[...]</description>
       <pubDate>Mon, 23 Mar 2026 03:51:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #508】SRE 周刊第 #508 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-508/</link>
-      <description>【View on sreweekly.com SRE Weekly will be going on hiatus for 6 weeks, while I&amp;#8217;m on leave caring for my partner after her kidney transplant surgery this week. It&amp;#8217;s incredible that the National Kidney Registry&amp;#8217;s Paired Exchange program allowed me to donate a kidney to help her even though we don&amp;#8217;t have matching blood types! [&amp;#8230;]】在 sreweekly.com 上查看 SRE Weekly 将暂停 6 周，而本周我将休假照顾我的伴侣，她接受了肾移植手术。令人难以置信的是，国家肾脏登记处的配对交换计划允许我捐献肾脏来帮助她，尽管我们的血型不匹配！ […]</description>
-      <pubDate>Mon, 02 Feb 2026 04:01:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

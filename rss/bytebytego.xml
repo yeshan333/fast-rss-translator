@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How DoorDash Launches a New Country in One Week】DoorDash 如何在一周内推出一个新国家/地区</title>
+      <link>https://blog.bytebytego.com/p/how-doordash-launches-a-new-country</link>
+      <description>【In this article, we will look at how this architecture was designed and the challenges they faced.】在本文中，我们将了解该架构是如何设计的以及他们面临的挑战。</description>
+      <pubDate>Tue, 21 Apr 2026 15:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The Security Architecture of GitHub Agentic Workflow】GitHub代理工作流的安全架构</title>
+      <link>https://blog.bytebytego.com/p/the-security-architecture-of-github</link>
+      <description>【In this article, we will look at how GitHub built a security architecture that assumes the agent is already compromised.】在本文中，我们将了解 GitHub 如何构建假设代理已受到威胁的安全架构。</description>
+      <pubDate>Mon, 20 Apr 2026 15:30:47 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP211: How the JVM Works】EP211：JVM 如何工作</title>
       <link>https://blog.bytebytego.com/p/ep211-how-the-jvm-works</link>
       <description>【We compile, run, and debug Java code all the time. But what exactly does the JVM do between compile and run?】我们一直在编译、运行和调试 Java 代码。但是 JVM 在编译和运行之间到底做了什么？</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/nextdoors-database-evolution-a-scaling</link>
       <description>【Nextdoor operates as a hyper-local social networking service that connects neighbors based on their geographic location.】Nextdoor 作为超本地社交网络服务运营，根据邻居的地理位置将邻居连接起来。</description>
       <pubDate>Tue, 07 Apr 2026 15:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Context Engineering for LLMs】法学硕士情境工程指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-context-engineering-for</link>
-      <description>【In this article, we&amp;#8217;ll look at how LLMs actually process the information you give them, what context engineering is, and the strategies that can help with it.】在本文中，我们将了解法学硕士如何实际处理您提供给他们的信息、什么是上下文工程以及可以提供帮助的策略。</description>
-      <pubDate>Mon, 06 Apr 2026 15:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP209: 12 Claude Code Features Every Engineer Should Know】EP209：每个工程师都应该知道的 12 个 Claude 代码功能</title>
-      <link>https://blog.bytebytego.com/p/ep209-12-claude-code-features-every</link>
-      <description>【CLAUDE. md: A project memory file to define custom rules and conventions. Claude reads at the start of every session.】克劳德。 md：用于定义自定义规则和约定的项目内存文件。克劳德在每堂课开始时都会朗读。</description>
-      <pubDate>Sat, 04 Apr 2026 15:30:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
