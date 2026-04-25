@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Visual Studio Code 1.117】Visual Studio 代码 1.117</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.117</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.117 (Insiders) Read the full article】了解 Visual Studio Code 1.117 中的新增功能（内部人士） 阅读全文</description>
-      <pubDate>Wed, 22 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【Visual Studio Code 1.118】Visual Studio 代码 1.118</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.118</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.118 (Insiders) Read the full article】了解 Visual Studio Code 1.118 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure SDK Release (April 2026)】Azure SDK 版本（2026 年 4 月）</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2026</link>
-      <description>【Thank you for your interest in the new Azure SDKs! We release new features, improvements, and bug fixes every month. Subscribe to our Azure SDK Blog RSS Feed to get notified when a new release is available. You can find links to packages, code, and docs on our】感谢您对新的 Azure SDK 的兴趣！我们每月都会发布新功能、改进和错误修复。订阅我们的 Azure SDK 博客 RSS 源，以便在新版本可用时收到通知。您可以在我们的网站上找到包、代码和文档的链接</description>
-      <pubDate>Tue, 21 Apr 2026 23:13:33 +0000</pubDate>
+      <title>【Azure MCP Server now available as an MCP Bundle (.mcpb)】Azure MCP 服务器现在作为 MCP 捆绑包 (.mcpb) 提供</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-mcpb-support</link>
+      <description>【We&#39;re excited to announce that the Azure MCP Server is now available as an MCP Bundle (.mcpb). This means you can install the Azure MCP Server into Claude Desktop and other MCP-compatible clients】我们很高兴地宣布，Azure MCP 服务器现已作为 MCP 捆绑包 (.mcpb) 提供。这意味着您可以将 Azure MCP 服务器安装到 Claude Desktop 和其他 MCP 兼容客户端中</description>
+      <pubDate>Fri, 24 Apr 2026 20:32:49 +0000</pubDate>
     </item>
     <item>
-      <title>【The Polyglot tax – Part 4】多语言税 – 第 4 部分</title>
-      <link>https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4</link>
-      <description>【The Agent-Ready Database: Security, Backup, and MCP Part 4 of 4 – The Multi-Model Database Series This is the final post in a four-part series on multi-model databases in SQL Server 2025 and Azure SQL - exploring how the optimizer, storage engine, and security layer treat each data model as a first-class ci】代理就绪数据库：安全性、备份和 MCP 第 4 部分（共 4 部分）——多模型数据库系列 这是有关 SQL Server 2025 和 Azure SQL 中多模型数据库的四部分系列的最后一篇文章 - 探讨优化器、存储引擎和安全层如何将每个数据模型视为一流的 ci</description>
-      <pubDate>Tue, 21 Apr 2026 18:52:07 +0000</pubDate>
+      <title>【Chat History Storage Patterns in Microsoft Agent Framework】Microsoft Agent Framework 中的聊天历史记录存储模式</title>
+      <link>https://devblogs.microsoft.com/agent-framework/chat-history-storage-patterns-in-microsoft-agent-framework</link>
+      <description>【When people talk about building AI agents, they usually focus on models, tools, and prompts. In practice, one of the most important architectural decisions is much simpler: where does the conversation history live? Imagine a user asks your agent a complex question, clicks “try again,” explores tw】当人们谈论构建人工智能代理时，他们通常关注模型、工具和提示。在实践中，最重要的架构决策之一要简单得多：对话历史记录位于哪里？想象一下，用户向您的代理询问一个复杂的问题，单击“重试”，然后探索两个问题</description>
+      <pubDate>Fri, 24 Apr 2026 15:00:14 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 10.0.7 Out-of-Band Security Update】.NET 10.0.7 带外安全更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update</link>
-      <description>【We are releasing .NET 10.0.7 as an out-of-band (OOB) update to address a security issue introduced in Microsoft.AspNetCore.DataProtection Security update details This release includes a fix for】我们将 .NET 10.0.7 作为带外 (OOB) 更新发布，以解决 Microsoft.AspNetCore.DataProtection 中引入的安全问题 安全更新详细信息 此版本包含以下修复：</description>
-      <pubDate>Tue, 21 Apr 2026 18:48:34 +0000</pubDate>
+      <title>【Defending against exceptions in a &lt;CODE&gt;scope_exit&lt;/CODE&gt; RAII type】防御 &lt;CODE&gt;scope_exit&lt;/CODE&gt; RAII 类型中的异常</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
+      <description>【One of the handy helpers in the Windows Implementation Library (WIL) is wil::scope_exit. We&#39;ve used it to】Windows 实现库 (WIL) 中方便的助手之一是 wil::scope_exit。我们已经用它来</description>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing TypeScript 7.0 Beta】宣布推出 TypeScript 7.0 Beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta</link>
-      <description>【Today we are absolutely thrilled to announce the release of TypeScript 7.0 Beta! If you haven&#39;t been following TypeScript 7.0&#39;s development, this release is significant in that it is built on a completely new foundation. Over the past year, we have been porting the existing TypeScript codebase from TypeScript (as a bootstrapped codebase th】今天，我们非常高兴地宣布 TypeScript 7.0 Beta 发布！如果您还没有关注 TypeScript 7.0 的开发，那么这个版本的意义重大，因为它建立在全新的基础上。在过去的一年里，我们一直在从 TypeScript 移植现有的 TypeScript 代码库（作为引导代码库）</description>
-      <pubDate>Tue, 21 Apr 2026 18:24:17 +0000</pubDate>
+      <title>【Axios npm Supply Chain Compromise – Guidance for Azure Pipelines Customers】Axios npm 供应链妥协 – Azure Pipelines 客户指南</title>
+      <link>https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers</link>
+      <description>【On March 31, 2026, malicious versions of the widely used JavaScript HTTP client library Axios were briefly published to the npm registry as part of a supply chain attack. The affected versions — 1&amp;#46;14.1 and 0&amp;#46;30.4 — included a hidden malicious dependency】2026 年 3 月 31 日，作为供应链攻击的一部分，广泛使用的 JavaScript HTTP 客户端库 Axios 的恶意版本被短暂发布到 npm 注册表。受影响的版本 - 1.14.1 和 0.30.4 - 包含隐藏的恶意依赖项</description>
+      <pubDate>Fri, 24 Apr 2026 10:40:43 +0000</pubDate>
     </item>
     <item>
-      <title>【I Wasted 68 Minutes a Day Re-Explaining My Code. Then I Built auto-memory.】我每天浪费 68 分钟重新解释我的代码。然后我建立了自动记忆。</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/i-wasted-68-minutes-a-day-re-explaining-my-code-then-i-built-auto-memory</link>
-      <description>【~1,900 lines of Python. Zero dependencies. Saves you an hour a day. GitHub → · pip install auto-memory Now give Copilot CLI enhanced context recall. Point it at】约 1,900 行 Python 代码。零依赖。每天为您节省一个小时。 GitHub → · pip install auto-memory 现在为 Copilot CLI 提供增强的上下文调用。将其指向</description>
-      <pubDate>Tue, 21 Apr 2026 18:06:24 +0000</pubDate>
+      <title>【What&#39;s new for .NET in Ubuntu 26.04】Ubuntu 26.04 中 .NET 的新增功能</title>
+      <link>https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604</link>
+      <description>【Today is launch day for Ubuntu 26.04 (Resolute Raccoon). Congratulations on the release to our friends at Canonical. Each new Ubuntu LTS comes with the latest .NET LTS so that you ca】今天是 Ubuntu 26.04 (Resolute Raccoon) 的发布日。祝贺 Canonical 的朋友们发布了该版本。每个新的 Ubuntu LTS 都附带最新的 .NET LTS，以便您可以</description>
+      <pubDate>Thu, 23 Apr 2026 17:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>【General Availability: Dynamic Data Masking for Azure Cosmos DB】正式发布：Azure Cosmos DB 的动态数据脱敏</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/general-availability-dynamic-data-masking-for-azure-cosmos-db</link>
-      <description>【Protecting sensitive data is a foundational requirement for modern applications. As organizations scale their use of Azure Cosmos DB across teams, environments, and workloads, controlling who can see sensitive information becomes increasingly important. Today, we are excited to announce the general availability of Dynamic Data Masking (DDM)】保护敏感数据是现代应用程序的基本要求。随着组织跨团队、环境和工作负载扩展 Azure Cosmos DB 的使用，控制谁可以查看敏感信息变得越来越重要。今天，我们很高兴地宣布动态数据脱敏 (DDM) 全面上市</description>
-      <pubDate>Tue, 21 Apr 2026 17:00:14 +0000</pubDate>
+      <title>【LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript】LangChain.js 初学者：使用 JavaScript 构建代理 AI 应用程序的免费课程</title>
+      <link>https://devblogs.microsoft.com/blog/langchainjs-for-beginners</link>
+      <description>【Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for Beginners is 8 cha】想要使用 JavaScript 构建超越基本聊天完成功能的 AI 代理吗？智能体能够自行推理、调用工具并从知识库中提取信息？我们整理了一个免费的开源课程来帮助您实现这一目标。 LangChain.js 初学者版 8 章</description>
+      <pubDate>Thu, 23 Apr 2026 17:00:14 +0000</pubDate>
     </item>
     <item>
-      <title>【Aspire 13.2: Bun Support and Container Enhancements】Aspire 13.2：Bun 支持和容器增强</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-bun-support-and-container-enhancements</link>
-      <description>【If you&#39;ve been following the JavaScript story in Aspire, 13.2 is the kind of release you want to see. Focused, deliberate, and packed with improvements that make a real difference. Bun support lands for Vite apps. Yarn gets more reliable. Container publishing becom】如果您一直在关注 Aspire 中的 JavaScript 故事，那么 13.2 就是您希望看到的版本。专注、深思熟虑，并进行了一系列能够带来真正改变的改进。 Bun 支持 Vite 应用程序。纱线变得更加可靠。容器发布成为</description>
-      <pubDate>Tue, 21 Apr 2026 17:00:00 +0000</pubDate>
+      <title>【General Availability: Single Sign-On (SSO) from Native Apps to Embedded Web Views in Microsoft Entra External ID Native Authentication】全面上市：从本机应用程序到 Microsoft Entra 外部 ID 本机身份验证中的嵌入式 Web 视图的单点登录 (SSO)</title>
+      <link>https://devblogs.microsoft.com/identity/native-auth-sso-ga</link>
+      <description>【We’re excited to announce the General Availability (GA) of Single Sign-On (SSO) from Native Apps to Embedded Web Views for Microsoft Entra External ID (EEID) Native Authentication. This release marks a major milestone in delivering end-to-end seamless authentication experiences for modern CIAM applications bridging the gap between】我们很高兴地宣布，从本机应用程序到嵌入式 Web 视图的单点登录 (SSO) 全面可用 (GA)，以实现 Microsoft Entra 外部 ID (EEID) 本机身份验证。此版本标志着为现代 CIAM 应用程序提供端到端无缝身份验证体验的一个重要里程碑，弥合了</description>
+      <pubDate>Thu, 23 Apr 2026 16:51:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Sure, xor&#39;ing a register with itself is the idiom for zeroing it out, but why not sub?】当然，将寄存器与自身进行异或是将其清零的习惯用法，但为什么不使用 sub 呢？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247</link>
-      <description>【Matt Godbolt, probably best known for being the proprietor of Compiler Explorer, wrote a brief article on why x86 compilers love the xor eax, eax instruction.】Matt Godbolt（可能因 Compiler Explorer 的所有者而闻名）写了一篇简短的文章，介绍为什么 x86 编译器喜欢 xor eax、eax 指令。</description>
-      <pubDate>Tue, 21 Apr 2026 14:00:00 +0000</pubDate>
+      <title>【CodeAct in Agent Framework: Faster Agents with Fewer Model Turns】Agent 框架中的 CodeAct：更快的代理，更少的模型轮次</title>
+      <link>https://devblogs.microsoft.com/agent-framework/codeact-with-hyperlight</link>
+      <description>【Modern AI agents often aren&#39;t bottlenecked by model quality, they are bottlenecked by orchestration overhead. When an agent chains together many small tool calls, each step typically requires a new model turn, driving up latency and token usage. With CodeAct sup】现代人工智能代理通常不会受到模型质量的瓶颈，而是会受到编排开销的瓶颈。当代理将许多小工具调用链接在一起时，每个步骤通常都需要一个新的模型转变，从而增加延迟和令牌使用。通过 CodeAct 支持</description>
+      <pubDate>Thu, 23 Apr 2026 14:24:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Getting Started with Agentic DevOps – Part 1: Foundations】Agentic DevOps 入门 – 第 1 部分：基础</title>
-      <link>https://devblogs.microsoft.com/all-things-azure/getting-started-with-agentic-devops-part-1-foundations</link>
-      <description>【This post is the first in a 3-part series: Foundations (this post) Start shipping (context engineering, MCP servers, orchestration) App modernization (Java, .NET, PHP, microservices) Bookmark this post for quick reference as you start exploring Agentic DevOps. It will be updated as the 3 parts】这篇文章是由 3 部分组成的系列中的第一篇：基础（本文）开始交付（上下文工程、MCP 服务器、编排）应用程序现代化（Java、.NET、PHP、微服务）将此文章添加为书签，以便在您开始探索 Agentic DevOps 时快速参考。它将更新为3部分</description>
-      <pubDate>Tue, 21 Apr 2026 13:25:20 +0000</pubDate>
+      <title>【Another crash caused by uninstaller code injection into Explorer】卸载程序代码注入资源管理器导致的另一次崩溃</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</link>
+      <description>【Some time ago, I noted that any sufficiently advanced uninstaller is indistinguishable from malware.¹ During one of our regular debugging chats, a colleague of mine mentione】前一段时间，我注意到任何足够先进的卸载程序都与恶意软件无法区分。在我们的一次定期调试聊天中，我的一位同事提到</description>
+      <pubDate>Thu, 23 Apr 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

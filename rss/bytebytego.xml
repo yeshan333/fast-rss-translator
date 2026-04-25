@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【B-Trees vs LSM Trees: Comparison and Trade-Offs】B 树与 LSM 树：比较和权衡</title>
+      <link>https://blog.bytebytego.com/p/b-trees-vs-lsm-trees-comparison-and</link>
+      <description>【In this article, we will look at B-Trees and LSM trees in detail, along with the trade-offs associated with each of them.】在本文中，我们将详细介绍 B 树和 LSM 树，以及与它们相关的权衡。</description>
+      <pubDate>Thu, 23 Apr 2026 15:30:59 +0000</pubDate>
+    </item>
+    <item>
       <title>【How DoorDash Launches a New Country in One Week】DoorDash 如何在一周内推出一个新国家/地区</title>
       <link>https://blog.bytebytego.com/p/how-doordash-launches-a-new-country</link>
       <description>【In this article, we will look at how this architecture was designed and the challenges they faced.】在本文中，我们将了解该架构是如何设计的以及他们面临的挑战。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-spotify-ships-to-675-million</link>
       <description>【In this article, we will take a look at this process in detail and attempt to derive learnings.】在本文中，我们将详细研究这个过程并尝试从中吸取教训。</description>
       <pubDate>Wed, 08 Apr 2026 15:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Nextdoor’s Database Evolution: A Scaling Ladder】Nextdoor 的数据库演变：阶梯</title>
-      <link>https://blog.bytebytego.com/p/nextdoors-database-evolution-a-scaling</link>
-      <description>【Nextdoor operates as a hyper-local social networking service that connects neighbors based on their geographic location.】Nextdoor 作为超本地社交网络服务运营，根据邻居的地理位置将邻居连接起来。</description>
-      <pubDate>Tue, 07 Apr 2026 15:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

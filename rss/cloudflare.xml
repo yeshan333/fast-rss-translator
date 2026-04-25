@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen】让 Rust Workers 可靠：wasm-bindgen 中的恐慌和中止恢复</title>
+      <link>https://blog.cloudflare.com/making-rust-workers-reliable/</link>
+      <description>【 Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Exception Handling. 】Rust Workers 的恐慌在历史上是致命的，毒害了整个实例。通过与 wasm-bindgen 项目上游合作，Rust Workers 现在支持弹性关键错误恢复，包括使用 WebAssembly 异常处理进行恐慌解除。</description>
+      <pubDate>Wed, 22 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Moving past bots vs. humans】超越机器人与人类</title>
       <link>https://blog.cloudflare.com/past-bots-and-humans/</link>
       <description>【 As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous credentials is key to preserving user privacy while protecting origins from abuse. 】随着人工智能助手和隐私代理挑战传统机器人检测的能力，网络需要新的问责模型。我们认为控制权应保留在客户手中，并且匿名凭证的开放生态系统是保护用户隐私同时保护来源免遭滥用的关键。</description>
@@ -49,12 +55,6 @@
       <title>【Agents that remember: introducing Agent Memory】具有记忆功能的智能体：引入智能体记忆</title>
       <link>https://blog.cloudflare.com/introducing-agent-memory/</link>
       <description>【 Cloudflare Agent Memory is a managed service that gives AI agents persistent memory, allowing them to recall what matters, forget what doesn&#39;t, and get smarter over time. 】Cloudflare Agent Memory 是一项托管服务，可为 AI 代理提供持久记忆，使他们能够回忆起重要的事情，忘记不重要的事情，并随着时间的推移变得更加聪明。</description>
-      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agents Week: network performance update】代理周：网络性能更新</title>
-      <link>https://blog.cloudflare.com/network-performance-agents-week/</link>
-      <description>【 By migrating our request handling layer to a Rust-based architecture called FL2, Cloudflare has increased its performance lead to 60% of the world’s top networks. We use real-user measurements and connection trimeans to ensure our data reflects the actual experience of people on the Internet. 】通过将我们的请求处理层迁移到基于 Rust 的架构（称为 FL2），Cloudflare 的性能已提高到世界顶级网络的 60%。我们使用真实用户测量和连接三均值来确保我们的数据反映人们在互联网上的实际体验。</description>
       <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>

@@ -4,6 +4,18 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>使用 AWS 无服务器解决方案和金融服务代理 AI 实现 KYC 现代化</title>
+      <link>https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/</link>
+      <description></description>
+      <pubDate>Thu, 23 Apr 2026 13:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC 使用 AWS 在 Catena-X 数据空间上实现多租户、主权产品碳足迹交换</title>
+      <link>https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws/</link>
+      <description></description>
+      <pubDate>Wed, 22 Apr 2026 15:33:54 +0000</pubDate>
+    </item>
+    <item>
       <title>实时分析：Oldcastle 将 Infor 与 Amazon Aurora 和 Amazon Quick Sight 集成</title>
       <link>https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight/</link>
       <description></description>
@@ -50,18 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/</link>
       <description></description>
       <pubDate>Mon, 23 Mar 2026 22:51:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon EKS 由 AI 驱动的事件响应</title>
-      <link>https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/</link>
-      <description></description>
-      <pubDate>Wed, 18 Mar 2026 18:23:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>隐藏的价格标签：使用 AWS 架构完善的框架揭示云架构中的隐藏成本</title>
-      <link>https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/</link>
-      <description></description>
-      <pubDate>Tue, 03 Mar 2026 16:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
