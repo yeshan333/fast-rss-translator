@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Stripe Detects Fraudulent Transactions Within 100 ms】Stripe 如何在 100 毫秒内检测欺诈交易</title>
+      <link>https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions</link>
+      <description>【In this article, we will look at how Stripe&amp;#8217;s Radar does this effectively and the architectural decisions the team took while building it.】在本文中，我们将了解 Stripe 的 Radar 如何有效地做到这一点，以及团队在构建它时采取的架构决策。</description>
+      <pubDate>Tue, 28 Apr 2026 03:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Amazon Uses LLMs to Recommend Products】亚马逊如何利用法学硕士来推荐产品</title>
+      <link>https://blog.bytebytego.com/p/how-amazon-uses-llms-to-recommend</link>
+      <description>【In this article, we will look at how COSMO works and the challenges the engineering team faced.】在本文中，我们将了解 COSMO 的工作原理以及工程团队面临的挑战。</description>
+      <pubDate>Mon, 27 Apr 2026 15:30:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP212: Data Warehouse vs Data Lake vs Data Mesh】EP212：数据仓库、数据湖、数据网格</title>
+      <link>https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake</link>
+      <description>【Storing data is the easy part. Deciding where and how to organize it is the real challenge.】存储数据是最简单的部分。决定在哪里以及如何组织它是真正的挑战。</description>
+      <pubDate>Sat, 25 Apr 2026 15:30:59 +0000</pubDate>
+    </item>
+    <item>
       <title>【B-Trees vs LSM Trees: Comparison and Trade-Offs】B 树与 LSM 树：比较和权衡</title>
       <link>https://blog.bytebytego.com/p/b-trees-vs-lsm-trees-comparison-and</link>
       <description>【In this article, we will look at B-Trees and LSM trees in detail, along with the trade-offs associated with each of them.】在本文中，我们将详细介绍 B 树和 LSM 树，以及与它们相关的权衡。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve</link>
       <description>【In this article, we will look at how the LinkedIn engineering team rebuilt the Feed and the challenges they faced.】在本文中，我们将了解 LinkedIn 工程团队如何重建 Feed 以及他们面临的挑战。</description>
       <pubDate>Mon, 13 Apr 2026 15:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP210: Monolithic vs Microservices vs Serverless】EP210：单体、微服务、无服务器</title>
-      <link>https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices</link>
-      <description>【A monolith is usually one codebase, one database, and one deployment.】整体架构通常由一个代码库、一个数据库和一个部署组成。</description>
-      <pubDate>Sat, 11 Apr 2026 15:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Must-Know Cross-Cutting Concerns in API Development】API 开发中必须了解的跨领域问题</title>
-      <link>https://blog.bytebytego.com/p/must-know-cross-cutting-concerns</link>
-      <description>【What do authentication, logging, rate limiting, and input validation have in common?】身份验证、日志记录、速率限制和输入验证有什么共同点？</description>
-      <pubDate>Thu, 09 Apr 2026 15:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Spotify Ships to 675 Million Users Every Week Without Breaking Things】Spotify 如何在不损坏设备的情况下每周向 6.75 亿用户发货</title>
-      <link>https://blog.bytebytego.com/p/how-spotify-ships-to-675-million</link>
-      <description>【In this article, we will take a look at this process in detail and attempt to derive learnings.】在本文中，我们将详细研究这个过程并尝试从中吸取教训。</description>
-      <pubDate>Wed, 08 Apr 2026 15:30:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

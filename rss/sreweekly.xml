@@ -4,9 +4,15 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #514】SRE 周刊第 #514 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-514/</link>
+      <description>【View on sreweekly.com How we built a real-world evaluation platform for autonomous SRE agents at scale Finally! Someone actually explaining how they test their SRE agent. Having a testing methodology is table stakes. Showing their work helps us decide whether we can trust the tool. With so many SRE agents floating around, it&amp;#8217;s quite surprising [&amp;#8230;]】在 sreweekly.com 上查看我们如何为大规模自主 SRE 代理构建真实世界的评估平台 最后！有人实际上解释了他们如何测试他们的 SRE 代理。拥有测试方法是赌注。展示他们的工作有助于我们决定是否可以信任该工具。有如此多的 SRE 代理，这非常令人惊讶 [...]</description>
+      <pubDate>Mon, 27 Apr 2026 01:32:25 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #513】SRE 周刊第 #513 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-513/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io&amp;#8217;s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：“提升和转移”新工具的噪音只会为同样的倦怠购买不同的 UI。 event.io 的迁移框架优先考虑服务编目和库存，以固定所有权，防止团队在过渡到可扩展的待命系统期间发生摩擦。组织二次打击综合症以前未发表的文章[…]</description>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io&amp;#8217;s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：“提升和转移”新工具的噪音只会为同样的倦怠购买不同的 UI。 event.io 的迁移框架优先考虑服务编目和库存，以固定所有权，防止团队在过渡到可扩展的待命系统期间发生摩擦。组织二次打击综合症以前未发表的文章[...]</description>
       <pubDate>Mon, 20 Apr 2026 02:03:38 +0000</pubDate>
     </item>
     <item>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-510/</link>
       <description>【View on sreweekly.com A message from our sponsor, Clickhouse: AI isn&amp;#8217;t replacing SREs. It&amp;#8217;s changing how they work. The near future of observability isn&amp;#8217;t autonomous agents, it&amp;#8217;s collaboration. ClickHouse&amp;#8217;s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Clickhouse 的消息：人工智能不会取代 SRE。它正在改变他们的工作方式。可观察性的不久的将来不是自主代理，而是协作。 ClickHouse 的 ClickStack Notebooks 将 SRE 和 AI 引入共享的研究工作区，将人类直觉与结构化、可靠的工具相结合，以更快地调试并更清晰地思考。读 […]</description>
       <pubDate>Mon, 30 Mar 2026 02:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #509】SRE 周刊第 509 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-509/</link>
-      <description>【View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and [&amp;#8230;]】查看 sreweekly.com SRE 周刊回来了！我的伴侣做得很好，感谢所有善意的话语和良好的祝愿。来自我们的赞助商 Costory 的消息：跟踪 AWS、GCP 和 Datadog 之间的云和 AI 成本不需要三个仪表板和一个电子表格。Costory 将成本、使用情况和部署数据关联起来。解释发生了什么变化并且[...]</description>
-      <pubDate>Mon, 23 Mar 2026 03:51:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

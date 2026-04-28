@@ -10,6 +10,36 @@
       <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Python Environments Extension for VS Code- April Update】VS Code 的 Python 环境扩展 - 4 月更新</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2026-release</link>
+      <description>【Python Environments — April 2026 Release We&#39;re excited to announce the latest update to the Python Environments extension for Visual Studio Code. This release focuses on startup performance, reliability,】Python 环境 — 2026 年 4 月发布 我们很高兴地宣布 Visual Studio Code 的 Python 环境扩展的最新更新。此版本重点关注启动性能、可靠性、</description>
+      <pubDate>Mon, 27 Apr 2026 20:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Data Studio is retired: Move your Azure SQL workflow to VS Code in 10 minutes】Azure Data Studio 已停用：10 分钟内将 Azure SQL 工作流移至 VS Code</title>
+      <link>https://devblogs.microsoft.com/azure-sql/azure-data-studio-is-retired-move-your-azure-sql-workflow-to-vs-code-in-10-minutes</link>
+      <description>【Azure Data Studio (ADS) retired on February 6, 2025, and support ended on February 28, 2026. The recommended path forward is Visual Studio Code with the MSSQL extension. If you used ADS daily, this guide gets you productive quickly in VS Code. The focus is on importing your existing setup, restoring familiar shortcuts like F5, and getting SQL】Azure Data Studio (ADS) 于 2025 年 2 月 6 日停用，支持于 2026 年 2 月 28 日结束。建议的前进路径是带有 MSSQL 扩展的 Visual Studio Code。如果您每天使用 ADS，本指南可帮助您在 VS Code 中快速提高工作效率。重点是导入现有设置、恢复熟悉的快捷键（如 F5）以及获取 SQL</description>
+      <pubDate>Mon, 27 Apr 2026 18:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing Shader Model 6.10 Preview and AgilitySDK 720 Preview】宣布推出 Shader Model 6.10 预览版和 AgilitySDK 720 预览版</title>
+      <link>https://devblogs.microsoft.com/directx/shader-model-6-10-agilitysdk-720-preview</link>
+      <description>【Overview Today, we are pleased to announce that Shader Model 6.10 and other features have been officially released with Agility SDK 1.720-preview and complementary DXC 1.10.2605.2. AgilitySDK 1.720-preview exposes the following features. There&#39;s more de】概述 今天，我们很高兴地宣布 Shader Model 6.10 和其他功能已随 Agility SDK 1.720 预览版和补充版 DXC 1.10.2605.2 正式发布。 AgilitySDK 1.720 预览版公开了以下功能。还有更多德</description>
+      <pubDate>Mon, 27 Apr 2026 17:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【D3D12 LinAlg Matrix Preview】D3D12 LinAlg 矩阵预览</title>
+      <link>https://devblogs.microsoft.com/directx/d3d12-linalg-preview</link>
+      <description>【Welcome to the D3D12 LinAlg Matrix Preview release! Today, we are excited to announce the preview release for the D3D12 Linear Algebra APIs! This feature set unlocks comprehensive hardware acceleration for Matrix-oriented operations across various use cases. Previously, we announced the】欢迎使用 D3D12 LinAlg 矩阵预览版！今天，我们很高兴地宣布推出 D3D12 线性代数 API 预览版！该功能集为跨各种用例的面向矩阵的操作解锁了全面的硬件加速。此前，我们曾宣布</description>
+      <pubDate>Mon, 27 Apr 2026 17:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Looking at consequences of passing too few register parameters to a C function on various architectures】查看在各种架构上向 C 函数传递过少寄存器参数的后果</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</link>
+      <description>【In our exploration of calling conventions for various processors on Windows, we learned that in many cases, some of the parameters are passed in registers. Suppose that there is a function that takes two parameters, but you know that the function ignores the second parameter if the first parameter is positive. What happens if you ca】在探索 Windows 上各种处理器的调用约定时，我们了解到，在许多情况下，某些参数是在寄存器中传递的。假设有一个带有两个参数的函数，但您知道如果第一个参数为正，则该函数将忽略第二个参数。如果您不能</description>
+      <pubDate>Mon, 27 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure MCP Server now available as an MCP Bundle (.mcpb)】Azure MCP 服务器现在作为 MCP 捆绑包 (.mcpb) 提供</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-mcpb-support</link>
       <description>【We&#39;re excited to announce that the Azure MCP Server is now available as an MCP Bundle (.mcpb). This means you can install the Azure MCP Server into Claude Desktop and other MCP-compatible clients】我们很高兴地宣布，Azure MCP 服务器现已作为 MCP 捆绑包 (.mcpb) 提供。这意味着您可以将 Azure MCP 服务器安装到 Claude Desktop 和其他 MCP 兼容客户端中</description>
@@ -32,36 +62,6 @@
       <link>https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers</link>
       <description>【On March 31, 2026, malicious versions of the widely used JavaScript HTTP client library Axios were briefly published to the npm registry as part of a supply chain attack. The affected versions — 1&amp;#46;14.1 and 0&amp;#46;30.4 — included a hidden malicious dependency】2026 年 3 月 31 日，作为供应链攻击的一部分，广泛使用的 JavaScript HTTP 客户端库 Axios 的恶意版本被短暂发布到 npm 注册表。受影响的版本 - 1.14.1 和 0.30.4 - 包含隐藏的恶意依赖项</description>
       <pubDate>Fri, 24 Apr 2026 10:40:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What&#39;s new for .NET in Ubuntu 26.04】Ubuntu 26.04 中 .NET 的新增功能</title>
-      <link>https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604</link>
-      <description>【Today is launch day for Ubuntu 26.04 (Resolute Raccoon). Congratulations on the release to our friends at Canonical. Each new Ubuntu LTS comes with the latest .NET LTS so that you ca】今天是 Ubuntu 26.04 (Resolute Raccoon) 的发布日。祝贺 Canonical 的朋友们发布了该版本。每个新的 Ubuntu LTS 都附带最新的 .NET LTS，以便您可以</description>
-      <pubDate>Thu, 23 Apr 2026 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript】LangChain.js 初学者：使用 JavaScript 构建代理 AI 应用程序的免费课程</title>
-      <link>https://devblogs.microsoft.com/blog/langchainjs-for-beginners</link>
-      <description>【Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for Beginners is 8 cha】想要使用 JavaScript 构建超越基本聊天完成功能的 AI 代理吗？智能体能够自行推理、调用工具并从知识库中提取信息？我们整理了一个免费的开源课程来帮助您实现这一目标。 LangChain.js 初学者版 8 章</description>
-      <pubDate>Thu, 23 Apr 2026 17:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【General Availability: Single Sign-On (SSO) from Native Apps to Embedded Web Views in Microsoft Entra External ID Native Authentication】全面上市：从本机应用程序到 Microsoft Entra 外部 ID 本机身份验证中的嵌入式 Web 视图的单点登录 (SSO)</title>
-      <link>https://devblogs.microsoft.com/identity/native-auth-sso-ga</link>
-      <description>【We’re excited to announce the General Availability (GA) of Single Sign-On (SSO) from Native Apps to Embedded Web Views for Microsoft Entra External ID (EEID) Native Authentication. This release marks a major milestone in delivering end-to-end seamless authentication experiences for modern CIAM applications bridging the gap between】我们很高兴地宣布，从本机应用程序到嵌入式 Web 视图的单点登录 (SSO) 全面可用 (GA)，以实现 Microsoft Entra 外部 ID (EEID) 本机身份验证。此版本标志着为现代 CIAM 应用程序提供端到端无缝身份验证体验的一个重要里程碑，弥合了</description>
-      <pubDate>Thu, 23 Apr 2026 16:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>【CodeAct in Agent Framework: Faster Agents with Fewer Model Turns】Agent 框架中的 CodeAct：更快的代理，更少的模型轮次</title>
-      <link>https://devblogs.microsoft.com/agent-framework/codeact-with-hyperlight</link>
-      <description>【Modern AI agents often aren&#39;t bottlenecked by model quality, they are bottlenecked by orchestration overhead. When an agent chains together many small tool calls, each step typically requires a new model turn, driving up latency and token usage. With CodeAct sup】现代人工智能代理通常不会受到模型质量的瓶颈，而是会受到编排开销的瓶颈。当代理将许多小工具调用链接在一起时，每个步骤通常都需要一个新的模型转变，从而增加延迟和令牌使用。通过 CodeAct 支持</description>
-      <pubDate>Thu, 23 Apr 2026 14:24:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Another crash caused by uninstaller code injection into Explorer】卸载程序代码注入资源管理器导致的另一次崩溃</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</link>
-      <description>【Some time ago, I noted that any sufficiently advanced uninstaller is indistinguishable from malware.¹ During one of our regular debugging chats, a colleague of mine mentione】前一段时间，我注意到任何足够先进的卸载程序都与恶意软件无法区分。在我们的一次定期调试聊天中，我的一位同事提到</description>
-      <pubDate>Thu, 23 Apr 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

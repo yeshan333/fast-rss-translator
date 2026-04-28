@@ -4,6 +4,12 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>Deloitte 使用 Amazon EKS 和 vCluster 优化 EKS 环境配置并实现测试环境速度提高 89%</title>
+      <link>https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 17:47:34 +0000</pubDate>
+    </item>
+    <item>
       <title>使用 AWS 无服务器解决方案和金融服务代理 AI 实现 KYC 现代化</title>
       <link>https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/</link>
       <description></description>
@@ -56,12 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/</link>
       <description></description>
       <pubDate>Thu, 26 Mar 2026 17:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generali Malaysia 如何利用 Amazon EKS 优化运营</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/</link>
-      <description></description>
-      <pubDate>Mon, 23 Mar 2026 22:51:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
