@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【Multi-Agent Architectures, Clearly Explained】清晰解释的多代理架构</title>
+      <link>https://newsletter.systemdesign.one/p/multi-agent-system</link>
+      <description>【#143: Coordination architectures, protocols connecting them, and how to pick the right one before you write any code.】#143：协调架构、连接它们的协议，以及如何在编写任何代码之前选择正确的架构。</description>
+      <pubDate>Thu, 30 Apr 2026 07:57:47 +0000</pubDate>
+    </item>
+    <item>
       <title>【29 LLM Evaluation Concepts Every Engineer Needs to Know】每个工程师都需要了解的 29 个 LLM 评估概念</title>
       <link>https://newsletter.systemdesign.one/p/llm-evals</link>
       <description>【#142: From &amp;#8220;it looked fine in testing&amp;#8221; to a system you can actually trust】＃142：从“测试中看起来不错”到您真正可以信任的系统</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/mobile-system-design-interview</link>
       <description>【#134: Mobile System Design Interview】#134：移动系统设计面试</description>
       <pubDate>Tue, 24 Mar 2026 13:40:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【RAG - A Deep Dive】RAG - 深入探讨</title>
-      <link>https://newsletter.systemdesign.one/p/how-rag-works</link>
-      <description>【#133: Understanding Retrieval-Augmented Generation】#133：了解检索增强生成</description>
-      <pubDate>Mon, 23 Mar 2026 11:45:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
+      <title>【Visual Studio Code 1.119】Visual Studio 代码 1.119</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.119</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.119 (Insiders) Read the full article】了解 Visual Studio Code 1.119 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Azure Developer CLI (azd) - April 2026】Azure 开发人员 CLI (azd) - 2026 年 4 月</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2026</link>
+      <description>【The Azure Developer CLI (azd) shipped five releases in April 2026. The biggest theme this month is multi-language hook support: write azd hooks in Python, JavaScript, TypeScript, or .NET alongside the existing Bash and PowerShell options. Here&#39;s what&#39;s in versions】Azure 开发人员 CLI (azd) 于 2026 年 4 月发布了五个版本。本月最大的主题是多语言挂钩支持：使用 Python、JavaScript、TypeScript 或 .NET 以及现有的 Bash 和 PowerShell 选项编写 azd 挂钩。这是版本中的内容</description>
+      <pubDate>Fri, 01 May 2026 00:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3】TypeScript 7 Beta 现在在 Visual Studio 2026 18.6 Insiders 3 中默认启用</title>
+      <link>https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3</link>
+      <description>【TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3 In Visual Studio 2026 18.6 Insiders 3 we have updated the built-in TypeScript SDK to TypeScript 7 Beta (native preview). The TypeScript SDK provides the compiler and language service used for TypeScript and JavaScript support in Visual Studio. T】现在 Visual Studio 2026 18.6 Insiders 3 中默认启用 TypeScript 7 Beta 在 Visual Studio 2026 18.6 Insiders 3 中，我们已将内置 TypeScript SDK 更新为 TypeScript 7 Beta（本机预览版）。 TypeScript SDK 提供用于 Visual Studio 中的 TypeScript 和 JavaScript 支持的编译器和语言服务。时间</description>
+      <pubDate>Thu, 30 Apr 2026 17:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building an AI-Powered Conference App with .NET&#39;s Composable AI Stack】使用 .NET 的可组合 AI 堆栈构建 AI 驱动的会议应用程序</title>
+      <link>https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack</link>
+      <description>【Building AI features into .NET applications often means stitching together models, vector databases, ingestion pipelines, and agent frameworks from different ecosystems. Each one has its own patterns, its own client libraries, and its own breaking changes when the next version ships. We&#39;ve been working on a set of composable, extensible buildi】将 AI 功能构建到 .NET 应用程序中通常意味着将来自不同生态系统的模型、矢量数据库、摄取管道和代理框架拼接在一起。每个版本都有自己的模式、自己的客户端库以及下一版本发布时的重大更改。我们一直致力于开发一套可组合、可扩展的构建</description>
+      <pubDate>Thu, 30 Apr 2026 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dataverse Plugin Is Now on the Claude Marketplace】Dataverse 插件现已登陆 Claude Marketplace</title>
+      <link>https://devblogs.microsoft.com/powerplatform/dataverse-plugin-claude-marketplace</link>
+      <description>【Dataverse gives developers a powerful platform for building enterprise applications — but getting from zero to a connected, working environment has always involved multiple tools, authentication flows, and configuration steps. The Dataverse plugin was built to accelerate that journey by letting AI coding agents handle the setup orchestrat】Dataverse 为开发人员提供了一个用于构建企业应用程序的强大平台，但从零到互联的工作环境始终涉及多种工具、身份验证流程和配置步骤。 Dataverse 插件的构建是为了通过让 AI 编码代理处理设置编排来加速这一过程</description>
+      <pubDate>Thu, 30 Apr 2026 16:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Automatic Super Resolution Preview Comes to the ROG Xbox Ally X for Docked Play】ROG Xbox Ally X 配备自动超分辨率预览功能，可通过底座畅玩</title>
+      <link>https://devblogs.microsoft.com/directx/autosrpreview</link>
+      <description>【We previously introduced Automatic Super Resolution (Auto SR) on select Windows 11 Copilot+ PCs, to make games look sharper and play smoother. Today, we&#39;re excited to give Xbox Insiders the opportunity to he】我们之前在部分 Windows 11 Copilot+ 电脑上引入了自动超分辨率 (Auto SR)，以使游戏看起来更清晰、玩起来更流畅。 今天，我们很高兴为 Xbox Insider 提供机会</description>
+      <pubDate>Thu, 30 Apr 2026 16:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Developing a cross-process reader/writer lock with limited readers, part 3: Fairness】开发具有有限读取器的跨进程读取器/写入器锁，第 3 部分：公平性</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288</link>
+      <description>【We&#39;ve been building a cross-process reader/writer lock with a cap on the number of readers, we concluded our investigation last time by noting that thr】我们一直在构建一个跨进程的读取器/写入器锁，并对读取器的数量进行限制，我们上次的调查结束时指出，</description>
+      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Propagating SharePoint Document Permissions to AI Search and RAG Pipelines】将 SharePoint 文档权限传播到 AI 搜索和 RAG 管道</title>
+      <link>https://devblogs.microsoft.com/ise/sharepoint-doc-level-access</link>
+      <description>【Executive Summary When integrating SharePoint content into downstream systems such as Azure AI Search, RAG pipelines, or Copilot extensions, preserving document-level access control is critical—especially for highly sensitive content. This post describes a security-first】执行摘要 将 SharePoint 内容集成到下游系统（例如 Azure AI 搜索、RAG 管道或 Copilot 扩展）时，保留文档级访问控制至关重要，尤其是对于高度敏感的内容。这篇文章描述了安全第一</description>
+      <pubDate>Thu, 30 Apr 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Visual Studio Code 1.118】Visual Studio 代码 1.118</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.118</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.118 (Insiders) Read the full article】了解 Visual Studio Code 1.118 中的新增功能（内部人士） 阅读全文</description>
+      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-118</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.118 Read the full article】了解 Visual Studio Code 1.118 中的新增功能 阅读全文</description>
       <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Python Environments Extension for VS Code- April Update】VS Code 的 Python 环境扩展 - 4 月更新</title>
-      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2026-release</link>
-      <description>【Python Environments — April 2026 Release We&#39;re excited to announce the latest update to the Python Environments extension for Visual Studio Code. This release focuses on startup performance, reliability,】Python 环境 — 2026 年 4 月发布 我们很高兴地宣布 Visual Studio Code 的 Python 环境扩展的最新更新。此版本重点关注启动性能、可靠性、</description>
-      <pubDate>Mon, 27 Apr 2026 20:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Data Studio is retired: Move your Azure SQL workflow to VS Code in 10 minutes】Azure Data Studio 已停用：10 分钟内将 Azure SQL 工作流移至 VS Code</title>
-      <link>https://devblogs.microsoft.com/azure-sql/azure-data-studio-is-retired-move-your-azure-sql-workflow-to-vs-code-in-10-minutes</link>
-      <description>【Azure Data Studio (ADS) retired on February 6, 2025, and support ended on February 28, 2026. The recommended path forward is Visual Studio Code with the MSSQL extension. If you used ADS daily, this guide gets you productive quickly in VS Code. The focus is on importing your existing setup, restoring familiar shortcuts like F5, and getting SQL】Azure Data Studio (ADS) 于 2025 年 2 月 6 日停用，支持于 2026 年 2 月 28 日结束。建议的前进路径是带有 MSSQL 扩展的 Visual Studio Code。如果您每天使用 ADS，本指南可帮助您在 VS Code 中快速提高工作效率。重点是导入现有设置、恢复熟悉的快捷键（如 F5）以及获取 SQL</description>
-      <pubDate>Mon, 27 Apr 2026 18:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing Shader Model 6.10 Preview and AgilitySDK 720 Preview】宣布推出 Shader Model 6.10 预览版和 AgilitySDK 720 预览版</title>
-      <link>https://devblogs.microsoft.com/directx/shader-model-6-10-agilitysdk-720-preview</link>
-      <description>【Overview Today, we are pleased to announce that Shader Model 6.10 and other features have been officially released with Agility SDK 1.720-preview and complementary DXC 1.10.2605.2. AgilitySDK 1.720-preview exposes the following features. There&#39;s more de】概述 今天，我们很高兴地宣布 Shader Model 6.10 和其他功能已随 Agility SDK 1.720 预览版和补充版 DXC 1.10.2605.2 正式发布。 AgilitySDK 1.720 预览版公开了以下功能。还有更多德</description>
-      <pubDate>Mon, 27 Apr 2026 17:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>【D3D12 LinAlg Matrix Preview】D3D12 LinAlg 矩阵预览</title>
-      <link>https://devblogs.microsoft.com/directx/d3d12-linalg-preview</link>
-      <description>【Welcome to the D3D12 LinAlg Matrix Preview release! Today, we are excited to announce the preview release for the D3D12 Linear Algebra APIs! This feature set unlocks comprehensive hardware acceleration for Matrix-oriented operations across various use cases. Previously, we announced the】欢迎使用 D3D12 LinAlg 矩阵预览版！今天，我们很高兴地宣布推出 D3D12 线性代数 API 预览版！该功能集为跨各种用例的面向矩阵的操作解锁了全面的硬件加速。此前，我们曾宣布</description>
-      <pubDate>Mon, 27 Apr 2026 17:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Looking at consequences of passing too few register parameters to a C function on various architectures】查看在各种架构上向 C 函数传递过少寄存器参数的后果</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</link>
-      <description>【In our exploration of calling conventions for various processors on Windows, we learned that in many cases, some of the parameters are passed in registers. Suppose that there is a function that takes two parameters, but you know that the function ignores the second parameter if the first parameter is positive. What happens if you ca】在探索 Windows 上各种处理器的调用约定时，我们了解到，在许多情况下，某些参数是在寄存器中传递的。假设有一个带有两个参数的函数，但您知道如果第一个参数为正，则该函数将忽略第二个参数。如果您不能</description>
-      <pubDate>Mon, 27 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure MCP Server now available as an MCP Bundle (.mcpb)】Azure MCP 服务器现在作为 MCP 捆绑包 (.mcpb) 提供</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-mcpb-support</link>
-      <description>【We&#39;re excited to announce that the Azure MCP Server is now available as an MCP Bundle (.mcpb). This means you can install the Azure MCP Server into Claude Desktop and other MCP-compatible clients】我们很高兴地宣布，Azure MCP 服务器现已作为 MCP 捆绑包 (.mcpb) 提供。这意味着您可以将 Azure MCP 服务器安装到 Claude Desktop 和其他 MCP 兼容客户端中</description>
-      <pubDate>Fri, 24 Apr 2026 20:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Chat History Storage Patterns in Microsoft Agent Framework】Microsoft Agent Framework 中的聊天历史记录存储模式</title>
-      <link>https://devblogs.microsoft.com/agent-framework/chat-history-storage-patterns-in-microsoft-agent-framework</link>
-      <description>【When people talk about building AI agents, they usually focus on models, tools, and prompts. In practice, one of the most important architectural decisions is much simpler: where does the conversation history live? Imagine a user asks your agent a complex question, clicks “try again,” explores tw】当人们谈论构建人工智能代理时，他们通常关注模型、工具和提示。在实践中，最重要的架构决策之一要简单得多：对话历史记录位于哪里？想象一下，用户向您的代理询问一个复杂的问题，单击“重试”，然后探索两个问题</description>
-      <pubDate>Fri, 24 Apr 2026 15:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Defending against exceptions in a &lt;CODE&gt;scope_exit&lt;/CODE&gt; RAII type】防御 &lt;CODE&gt;scope_exit&lt;/CODE&gt; RAII 类型中的异常</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <description>【One of the handy helpers in the Windows Implementation Library (WIL) is wil::scope_exit. We&#39;ve used it to】Windows 实现库 (WIL) 中方便的助手之一是 wil::scope_exit。我们已经用它来</description>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Axios npm Supply Chain Compromise – Guidance for Azure Pipelines Customers】Axios npm 供应链妥协 – Azure Pipelines 客户指南</title>
-      <link>https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers</link>
-      <description>【On March 31, 2026, malicious versions of the widely used JavaScript HTTP client library Axios were briefly published to the npm registry as part of a supply chain attack. The affected versions — 1&amp;#46;14.1 and 0&amp;#46;30.4 — included a hidden malicious dependency】2026 年 3 月 31 日，作为供应链攻击的一部分，广泛使用的 JavaScript HTTP 客户端库 Axios 的恶意版本被短暂发布到 npm 注册表。受影响的版本 - 1.14.1 和 0.30.4 - 包含隐藏的恶意依赖项</description>
-      <pubDate>Fri, 24 Apr 2026 10:40:43 +0000</pubDate>
+      <title>【Visual Studio Code 1.118】Visual Studio 代码 1.118</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.118</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.118 Read the full article】了解 Visual Studio Code 1.118 中的新增功能 阅读全文</description>
+      <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

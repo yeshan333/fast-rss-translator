@@ -4,6 +4,24 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Post-quantum encryption for Cloudflare IPsec is generally available】Cloudflare IPsec 的后量子加密已普遍可用</title>
+      <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
+      <description>【 Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet. 】Cloudflare IPsec 现在普遍支持通过混合 ML-KEM 进行后量子加密。我们已确认与 Cisco 和 Fortinet 的互操作性。</description>
+      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Agents can now create Cloudflare accounts, buy domains, and deploy】代理现在可以创建 Cloudflare 帐户、购买域名和部署</title>
+      <link>https://blog.cloudflare.com/agents-stripe-projects/</link>
+      <description>【 Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.  】从今天开始，代理现在可以成为 Cloudflare 客户。他们可以创建 Cloudflare 帐户、启动付费订阅、注册域并获取 API 令牌以立即部署代码。人类可以在循环中授予权限，但无需转到仪表板、复制和粘贴 API 令牌或输入信用卡详细信息。</description>
+      <pubDate>Thu, 30 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions】关闭、断电和冲突：2026 年第一季度互联网中断回顾</title>
+      <link>https://blog.cloudflare.com/q1-2026-internet-disruption-summary/</link>
+      <description>【 The first quarter of 2026 saw a surge in Internet disruptions, from nationwide shutdowns in Uganda and Iran to unprecedented drone strikes on cloud infrastructure. We explore the data behind these events using Cloudflare Radar. 】2026 年第一季度，互联网中断激增，从乌干达和伊朗全国范围内的关闭到云基础设施遭受前所未有的无人机袭击。我们使用 Cloudflare Radar 探索这些事件背后的数据。</description>
+      <pubDate>Tue, 28 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen】让 Rust Workers 可靠：wasm-bindgen 中的恐慌和中止恢复</title>
       <link>https://blog.cloudflare.com/making-rust-workers-reliable/</link>
       <description>【 Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Exception Handling. 】Rust Workers 的恐慌在历史上是致命的，毒害了整个实例。通过与 wasm-bindgen 项目上游合作，Rust Workers 现在支持弹性关键错误恢复，包括使用 WebAssembly 异常处理进行恐慌解除。</description>
@@ -16,15 +34,15 @@
       <pubDate>Tue, 21 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Orchestrating AI Code Review at scale】大规模协调 AI 代码审查</title>
-      <link>https://blog.cloudflare.com/ai-code-review/</link>
-      <description>【 Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code. 】了解我们如何使用 OpenCode 构建 CI 原生 AI 代码审查器，帮助我们的工程师交付更好、更安全的代码。</description>
-      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Building the agentic cloud: everything we launched during Agents Week 2026】构建代理云：我们在 2026 年代理周期间推出的所有内容</title>
       <link>https://blog.cloudflare.com/agents-week-in-review/</link>
       <description>【 Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.&#xA; 】2026 年特工周已圆满结束。让我们来看看我们宣布的所有内容，从计算和安全性到代理工具箱、平台工具和新兴的代理网络。我们为代理云提供的所有内容。</description>
+      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Orchestrating AI Code Review at scale】大规模协调 AI 代码审查</title>
+      <link>https://blog.cloudflare.com/ai-code-review/</link>
+      <description>【 Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code. 】了解我们如何使用 OpenCode 构建 CI 原生 AI 代码审查器，帮助我们的工程师交付更好、更安全的代码。</description>
       <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,24 +62,6 @@
       <link>https://blog.cloudflare.com/shared-dictionaries/</link>
       <description>【 Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves page load times, and reveal when you’ll be able to try the beta yourself. &#xA; 】今天，我们很高兴让您先睹为快，了解我们对共享压缩字典的支持，向您展示它如何缩短页面加载时间，并透露您何时可以亲自尝试测试版。</description>
       <pubDate>Fri, 17 Apr 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Redirects for AI Training enforces canonical content】AI 培训重定向强制执行规范内容</title>
-      <link>https://blog.cloudflare.com/ai-redirects/</link>
-      <description>【 Soft directives don’t stop crawlers from ingesting deprecated content. Redirects for AI Training allows anybody on Cloudflare to redirect verified crawlers to canonical pages with one toggle and no origin changes. 】软指令不会阻止爬虫摄取已弃用的内容。 AI Training 重定向允许 Cloudflare 上的任何人通过一次切换将经过验证的爬虫重定向到规范页面，并且无需更改来源。</description>
-      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Agents that remember: introducing Agent Memory】具有记忆功能的智能体：引入智能体记忆</title>
-      <link>https://blog.cloudflare.com/introducing-agent-memory/</link>
-      <description>【 Cloudflare Agent Memory is a managed service that gives AI agents persistent memory, allowing them to recall what matters, forget what doesn&#39;t, and get smarter over time. 】Cloudflare Agent Memory 是一项托管服务，可为 AI 代理提供持久记忆，使他们能够回忆起重要的事情，忘记不重要的事情，并随着时间的推移变得更加聪明。</description>
-      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Unweight: how we compressed an LLM 22% without sacrificing quality】减轻重量：我们如何在不牺牲质量的情况下将法学硕士课程压缩 22%</title>
-      <link>https://blog.cloudflare.com/unweight-tensor-compression/</link>
-      <description>【 Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction, so that we can deliver faster and cheaper inference than ever before. 】在 Cloudflare 网络上运行 LLM 需要我们在 GPU 内存带宽方面更加智能和高效。这就是我们开发 Unweight 的原因，这是一种无损推理时间压缩系统，可将模型占用空间减少高达 22%，从而使我们能够提供比以往更快、更便宜的推理。</description>
-      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
