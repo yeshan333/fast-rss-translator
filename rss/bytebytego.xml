@@ -5,6 +5,12 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP213: MCP vs Skills, Clearly Explained】EP213：MCP vs 技能，解释清楚</title>
+      <link>https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained</link>
+      <description>【Both MCP and Skills extend what an agent can do. But they solve different problems, and picking the wrong one adds cost or complexity you don&#39;t need.】MCP 和技能都扩展了代理的能力。但它们解决的是不同的问题，选择错误的问题会增加您不需要的成本或复杂性。</description>
+      <pubDate>Sat, 02 May 2026 15:30:52 +0000</pubDate>
+    </item>
+    <item>
       <title>【A Beginner’s Guide to Kubernetes】Kubernetes 初学者指南</title>
       <link>https://blog.bytebytego.com/p/a-beginners-guide-to-kubernetes</link>
       <description>【In this article, we will learn how Kubernetes is a system of promises, and that every piece of it is a small program keeping one of those promises.】在本文中，我们将了解 Kubernetes 如何成为一个承诺系统，并且它的每个部分都是一个遵守其中一个承诺的小程序。</description>
@@ -57,12 +63,6 @@
       <link>https://blog.bytebytego.com/p/ep211-how-the-jvm-works</link>
       <description>【We compile, run, and debug Java code all the time. But what exactly does the JVM do between compile and run?】我们一直在编译、运行和调试 Java 代码。但是 JVM 在编译和运行之间到底做了什么？</description>
       <pubDate>Sat, 18 Apr 2026 15:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Guide to Relational Database Design】关系数据库设计指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-relational-database-design</link>
-      <description>【In this article, we cover the core concepts that inform those decisions. We&amp;#8217;ll look at tables, keys, relationships, normalization, and joins, with each concept building on the last.】在本文中，我们将介绍影响这些决策的核心概念。我们将研究表、键、关系、规范化和连接，每个概念都建立在最后一个概念的基础上。</description>
-      <pubDate>Thu, 16 Apr 2026 15:31:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

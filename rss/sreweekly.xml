@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #515】SRE 周刊第 #515 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-515/</link>
+      <description>【View on sreweekly.com A message from our sponsor, atscaleconference.com: Building scalable, high-performance infrastructure for AI is one of today’s toughest challenges. Join @Scale: Systems &amp;#38; Reliability on June 25 in Bellevue, WA to learn how leading engineers are solving it. Secure your seat today! The Silent Failure of Reliability Metrics at Scale: Lessons Learned from [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 atscaleconference.com 的消息：为人工智能构建可扩展、高性能的基础设施是当今最严峻的挑战之一。参加 6 月 25 日在华盛顿州贝尔维尤举行的 @Scale：系统与可靠性，了解领先的工程师如何解决这个问题。今天就锁定座位吧！大规模可靠性指标的无声失败：从[…]中吸取的教训</description>
+      <pubDate>Mon, 04 May 2026 01:55:08 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #514】SRE 周刊第 #514 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-514/</link>
       <description>【View on sreweekly.com How we built a real-world evaluation platform for autonomous SRE agents at scale Finally! Someone actually explaining how they test their SRE agent. Having a testing methodology is table stakes. Showing their work helps us decide whether we can trust the tool. With so many SRE agents floating around, it&amp;#8217;s quite surprising [&amp;#8230;]】在 sreweekly.com 上查看我们如何为大规模自主 SRE 代理构建真实世界的评估平台 最后！有人实际上解释了他们如何测试他们的 SRE 代理。拥有测试方法是赌注。展示他们的工作有助于我们决定是否可以信任该工具。有如此多的 SRE 代理，这非常令人惊讶 [...]</description>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-511/</link>
       <description>【View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don&amp;#8217;t. They&amp;#8217;re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Depot 的消息：CI 是为在等待时进行上下文切换的人而设计的。代理商则不然。他们只是被封锁了。 Depot 首席执行官 Kyle Galbraith 讲述了他们如何重新构想 Depot CI 来关闭循环：针对本地补丁运行，重新运行单个作业，通过 SSH 连接到运行程序以检查实际情况。按秒计费，无 [...]</description>
       <pubDate>Mon, 06 Apr 2026 02:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #510】SRE 周刊第 #510 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-510/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Clickhouse: AI isn&amp;#8217;t replacing SREs. It&amp;#8217;s changing how they work. The near future of observability isn&amp;#8217;t autonomous agents, it&amp;#8217;s collaboration. ClickHouse&amp;#8217;s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Clickhouse 的消息：人工智能不会取代 SRE。它正在改变他们的工作方式。可观察性的不久的将来不是自主代理，而是协作。 ClickHouse 的 ClickStack Notebooks 将 SRE 和 AI 引入共享的研究工作区，将人类直觉与结构化、可靠的工具相结合，以更快地调试并更清晰地思考。读 […]</description>
-      <pubDate>Mon, 30 Mar 2026 02:43:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

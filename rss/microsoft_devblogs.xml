@@ -10,58 +10,58 @@
       <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【Removing The Monkey Work of Migration】消除迁移的麻烦工作</title>
+      <link>https://devblogs.microsoft.com/all-things-azure/removing-the-monkey-work-of-migration-using-agentic-platform-engineering</link>
+      <description>【Removing The Monkey Work of Migration; in this post we show how Git-Ape ana】消除迁移的猴子工作；在这篇文章中，我们展示了 Git-Ape 如何</description>
+      <pubDate>Sun, 03 May 2026 22:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Python support for the Microsoft Teams SDK is now generally available】Microsoft Teams SDK 的 Python 支持现已普遍可用</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/python-support-for-the-microsoft-teams-sdk-is-now-generally-available</link>
+      <description>【Today we’re announcing the general availability (GA) of Python support in the Microsoft Teams SDK. Python developers can now build Teams-native apps and agents using the same SDK surface that powers modern Teams experiences across our Type】今天，我们宣布 Microsoft Teams SDK 全面支持 Python（GA）。 Python 开发人员现在可以使用相同的 SDK 界面构建 Teams 原生应用和代理，为我们的类型提供现代 Teams 体验</description>
+      <pubDate>Fri, 01 May 2026 20:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Sponsor group type requirements for agent identities】代理身份的保荐人团体类型要求</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/sponsor-group-type-requirements-for-agent-identities</link>
+      <description>【As part of moving to general availability (GA) for Entra Agent ID, agent blueprints, agent blueprint principals, and agent identities only accept dynamic membership groups and Microsoft 365 groups】作为 Entra 代理 ID 全面可用性 (GA) 的一部分，代理蓝图、代理蓝图主体和代理身份仅接受动态成员资格组和 Microsoft 365 组</description>
+      <pubDate>Fri, 01 May 2026 17:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【The new Run dialog: faster, cleaner, and more capable】新的“运行”对话框：更快、更干净、更强大</title>
+      <link>https://devblogs.microsoft.com/commandline/the-new-run-dialog-faster-cleaner-and-more-capable</link>
+      <description>【We&#39;ve shipped the new Run dialog - and we want to say thanks. As the team behind Windows Terminal and PowerToys, we&#39;re excited to bring this to Windows 11, and your feedback helped shape it!】我们已经发布了新的“运行”对话框 - 我们想说声谢谢。作为 Windows Terminal 和 PowerToys 背后的团队，我们很高兴将其引入 Windows 11，您的反馈帮助塑造了它！</description>
+      <pubDate>Fri, 01 May 2026 17:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing langchain-azure-cosmosdb: Build Agentic Apps and RAG with One Database】langchain-azure-cosmosdb 简介：使用一个数据库构建代理应用程序和 RAG</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/langchain-azure-cosmos-db-agents-rag</link>
+      <description>【Build AI Agents and RAG Applications with the New LangChain + LangGraph Connector for Azure Cosmos DB Building AI agents and RAG applications today means stitching together half a dozen services, a vector database, a chat history store, a checkpointer for agent state, a semantic cache, a long-term memory layer. Each adds operational】使用适用于 Azure Cosmos DB 的新 LangChain + LangGraph 连接器构建 AI 代理和 RAG 应用程序 如今构建 AI 代理和 RAG 应用程序意味着将六个服务、一个矢量数据库、一个聊天历史存储、一个代理状态检查点、一个语义缓存、一个长期内存层拼接在一起。每个都增加了可操作的</description>
+      <pubDate>Fri, 01 May 2026 16:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment】开发具有有限读取器的跨进程读取器/写入器锁，第 4 部分：放弃</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <description>【We&#39;ve been building a cross-process reader/writer lock with a cap on the number of readers, we concluded our investigation last time by noting that there is a serious proble】我们一直在构建一个跨进程的读取器/写入器锁，并对读取器的数量进行限制，我们上次的调查结束时指出存在一个严重的问题</description>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Announcing WinUI 3 Gallery 2.9】发布 WinUI 3 Gallery 2.9</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-winui-3-gallery-2-9</link>
+      <description>【】</description>
+      <pubDate>Fri, 01 May 2026 06:07:55 +0000</pubDate>
+    </item>
+    <item>
       <title>【Azure Developer CLI (azd) - April 2026】Azure 开发人员 CLI (azd) - 2026 年 4 月</title>
       <link>https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2026</link>
       <description>【The Azure Developer CLI (azd) shipped five releases in April 2026. The biggest theme this month is multi-language hook support: write azd hooks in Python, JavaScript, TypeScript, or .NET alongside the existing Bash and PowerShell options. Here&#39;s what&#39;s in versions】Azure 开发人员 CLI (azd) 于 2026 年 4 月发布了五个版本。本月最大的主题是多语言挂钩支持：使用 Python、JavaScript、TypeScript 或 .NET 以及现有的 Bash 和 PowerShell 选项编写 azd 挂钩。这是版本中的内容</description>
       <pubDate>Fri, 01 May 2026 00:53:08 +0000</pubDate>
     </item>
     <item>
-      <title>【TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3】TypeScript 7 Beta 现在在 Visual Studio 2026 18.6 Insiders 3 中默认启用</title>
-      <link>https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3</link>
-      <description>【TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3 In Visual Studio 2026 18.6 Insiders 3 we have updated the built-in TypeScript SDK to TypeScript 7 Beta (native preview). The TypeScript SDK provides the compiler and language service used for TypeScript and JavaScript support in Visual Studio. T】现在 Visual Studio 2026 18.6 Insiders 3 中默认启用 TypeScript 7 Beta 在 Visual Studio 2026 18.6 Insiders 3 中，我们已将内置 TypeScript SDK 更新为 TypeScript 7 Beta（本机预览版）。 TypeScript SDK 提供用于 Visual Studio 中的 TypeScript 和 JavaScript 支持的编译器和语言服务。时间</description>
-      <pubDate>Thu, 30 Apr 2026 17:08:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building an AI-Powered Conference App with .NET&#39;s Composable AI Stack】使用 .NET 的可组合 AI 堆栈构建 AI 驱动的会议应用程序</title>
-      <link>https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack</link>
-      <description>【Building AI features into .NET applications often means stitching together models, vector databases, ingestion pipelines, and agent frameworks from different ecosystems. Each one has its own patterns, its own client libraries, and its own breaking changes when the next version ships. We&#39;ve been working on a set of composable, extensible buildi】将 AI 功能构建到 .NET 应用程序中通常意味着将来自不同生态系统的模型、矢量数据库、摄取管道和代理框架拼接在一起。每个版本都有自己的模式、自己的客户端库以及下一版本发布时的重大更改。我们一直致力于开发一套可组合、可扩展的构建</description>
-      <pubDate>Thu, 30 Apr 2026 17:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Dataverse Plugin Is Now on the Claude Marketplace】Dataverse 插件现已登陆 Claude Marketplace</title>
       <link>https://devblogs.microsoft.com/powerplatform/dataverse-plugin-claude-marketplace</link>
       <description>【Dataverse gives developers a powerful platform for building enterprise applications — but getting from zero to a connected, working environment has always involved multiple tools, authentication flows, and configuration steps. The Dataverse plugin was built to accelerate that journey by letting AI coding agents handle the setup orchestrat】Dataverse 为开发人员提供了一个用于构建企业应用程序的强大平台，但从零到互联的工作环境始终涉及多种工具、身份验证流程和配置步骤。 Dataverse 插件的构建是为了通过让 AI 编码代理处理设置编排来加速这一过程</description>
       <pubDate>Thu, 30 Apr 2026 16:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Automatic Super Resolution Preview Comes to the ROG Xbox Ally X for Docked Play】ROG Xbox Ally X 配备自动超分辨率预览功能，可通过底座畅玩</title>
-      <link>https://devblogs.microsoft.com/directx/autosrpreview</link>
-      <description>【We previously introduced Automatic Super Resolution (Auto SR) on select Windows 11 Copilot+ PCs, to make games look sharper and play smoother. Today, we&#39;re excited to give Xbox Insiders the opportunity to he】我们之前在部分 Windows 11 Copilot+ 电脑上引入了自动超分辨率 (Auto SR)，以使游戏看起来更清晰、玩起来更流畅。 今天，我们很高兴为 Xbox Insider 提供机会</description>
-      <pubDate>Thu, 30 Apr 2026 16:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Developing a cross-process reader/writer lock with limited readers, part 3: Fairness】开发具有有限读取器的跨进程读取器/写入器锁，第 3 部分：公平性</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288</link>
-      <description>【We&#39;ve been building a cross-process reader/writer lock with a cap on the number of readers, we concluded our investigation last time by noting that thr】我们一直在构建一个跨进程的读取器/写入器锁，并对读取器的数量进行限制，我们上次的调查结束时指出，</description>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Propagating SharePoint Document Permissions to AI Search and RAG Pipelines】将 SharePoint 文档权限传播到 AI 搜索和 RAG 管道</title>
-      <link>https://devblogs.microsoft.com/ise/sharepoint-doc-level-access</link>
-      <description>【Executive Summary When integrating SharePoint content into downstream systems such as Azure AI Search, RAG pipelines, or Copilot extensions, preserving document-level access control is critical—especially for highly sensitive content. This post describes a security-first】执行摘要 将 SharePoint 内容集成到下游系统（例如 Azure AI 搜索、RAG 管道或 Copilot 扩展）时，保留文档级访问控制至关重要，尤其是对于高度敏感的内容。这篇文章描述了安全第一</description>
-      <pubDate>Thu, 30 Apr 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio Code 1.118】Visual Studio 代码 1.118</title>
-      <link>https://devblogs.microsoft.com/external-blogs/visual-studio-code-1-118</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.118 Read the full article】了解 Visual Studio Code 1.118 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Visual Studio Code 1.118】Visual Studio 代码 1.118</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.118</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.118 Read the full article】了解 Visual Studio Code 1.118 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

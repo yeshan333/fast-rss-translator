@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Code Orange: Fail Small is complete. The result is a stronger Cloudflare network】橙色代码：小失败已完成。结果是更强大的 Cloudflare 网络</title>
+      <link>https://blog.cloudflare.com/code-orange-fail-small-complete/</link>
+      <description>【 We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we&#39;ve implemented safer configuration changes and automated best practices to prevent future incidents. 】我们已经完成了大量的工程工作，使我们的基础设施更具弹性。通过 Snapstone 和 Engineering Codex 等新工具，我们实施了更安全的配置更改和自动化最佳实践，以防止未来发生事故。</description>
+      <pubDate>Fri, 01 May 2026 21:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Dynamic Workflows: durable execution that follows the tenant】引入动态工作流程：遵循租户的持久执行</title>
+      <link>https://blog.cloudflare.com/dynamic-workflows/</link>
+      <description>【 Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost. 】动态工作流是一个库，可让您动态地将持久执行路由到租户提供的代码。它建立在动态工作人员的基础上，使平台能够以接近零的闲置成本为数百万个独特的工作流程提供服务。</description>
+      <pubDate>Fri, 01 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Post-quantum encryption for Cloudflare IPsec is generally available】Cloudflare IPsec 的后量子加密已普遍可用</title>
       <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
       <description>【 Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet. 】Cloudflare IPsec 现在普遍支持通过混合 ML-KEM 进行后量子加密。我们已确认与 Cisco 和 Fortinet 的互操作性。</description>
@@ -34,15 +46,15 @@
       <pubDate>Tue, 21 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Building the agentic cloud: everything we launched during Agents Week 2026】构建代理云：我们在 2026 年代理周期间推出的所有内容</title>
-      <link>https://blog.cloudflare.com/agents-week-in-review/</link>
-      <description>【 Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.&#xA; 】2026 年特工周已圆满结束。让我们来看看我们宣布的所有内容，从计算和安全性到代理工具箱、平台工具和新兴的代理网络。我们为代理云提供的所有内容。</description>
-      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>【Orchestrating AI Code Review at scale】大规模协调 AI 代码审查</title>
       <link>https://blog.cloudflare.com/ai-code-review/</link>
       <description>【 Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code. 】了解我们如何使用 OpenCode 构建 CI 原生 AI 代码审查器，帮助我们的工程师交付更好、更安全的代码。</description>
+      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building the agentic cloud: everything we launched during Agents Week 2026】构建代理云：我们在 2026 年代理周期间推出的所有内容</title>
+      <link>https://blog.cloudflare.com/agents-week-in-review/</link>
+      <description>【 Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.&#xA; 】2026 年特工周已圆满结束。让我们来看看我们宣布的所有内容，从计算和安全性到代理工具箱、平台工具和新兴的代理网络。我们为代理云提供的所有内容。</description>
       <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/internal-ai-engineering-stack/</link>
       <description>【 We built our internal AI engineering stack on the same products we ship. That means 20 million requests routed through AI Gateway, 241 billion tokens processed, and inference running on Workers AI, serving more than 3,683 internal users. Here&#39;s how we did it.&#xA; 】我们在我们发布的相同产品上构建了内部人工智能工程堆栈。这意味着通过 AI Gateway 路由了 2000 万个请求，处理了 2410 亿个令牌，并在 Workers AI 上运行推理，为超过 3,683 个内部用户提供服务。我们是这样做的。</description>
       <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Introducing the Agent Readiness score. Is your site agent-ready?】介绍代理准备度分数。您的网站代理准备好了吗？</title>
-      <link>https://blog.cloudflare.com/agent-readiness/</link>
-      <description>【 The Agent Readiness score can help site owners understand how well their websites support AI agents. Here we explore new standards, share Radar data, and detail how we made Cloudflare’s docs the most agent-friendly on the web. 】代理就绪度分数可以帮助网站所有者了解他们的网站对 AI 代理的支持程度。在这里，我们探索新标准，共享 Radar 数据，并详细介绍我们如何使 Cloudflare 的文档成为网络上对代理最友好的文档。</description>
-      <pubDate>Fri, 17 Apr 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Shared Dictionaries: compression that keeps up with the agentic web】共享词典：紧跟代理网络的压缩</title>
-      <link>https://blog.cloudflare.com/shared-dictionaries/</link>
-      <description>【 Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves page load times, and reveal when you’ll be able to try the beta yourself. &#xA; 】今天，我们很高兴让您先睹为快，了解我们对共享压缩字典的支持，向您展示它如何缩短页面加载时间，并透露您何时可以亲自尝试测试版。</description>
-      <pubDate>Fri, 17 Apr 2026 13:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
