@@ -4,6 +4,12 @@
     <link></link>
     <description>Weekly issues of the This Week In React curation newsletter</description>
     <item>
+      <title>【This Week In React #280: TanStack, Remotion, React Router, Remix, Trees, Pracht, shadcn | Expo Go, Ease, Screen Transitions, LegendList, JSI, Gradle, Radon, Baguette, Rozenite, AI | Node.js, Datatype, tsz, Astro】本周 React #280：TanStack、Remotion、React Router、Remix、Trees、Pracht、shadcn | Expo Go、Ease、屏幕过渡、LegendList、JSI、Gradle、Radon、Baguette、Rozenite、AI | Node.js、数据类型、tsz、Astro</title>
+      <link>https://thisweekinreact.com/newsletter/280</link>
+      <description>【Hi everyone, Seb and Jan here 👋\!】大家好，这里是 Seb 和 Jan 👋\！</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【This Week In React #279: Compiler, TSRX, StyleX, XState, Hook Form, TanStack, shadcn, Chakra, Inertia, Mantine | SPM, SimCam, Enriched Markdown, Agent Device, Navigation SDK, JSI, Paste Input, Crypto, MLX, Jail Monkey | pnpm, Aube, Fresh, Node.js】本周 React #279：编译器、TSRX、StyleX、XState、Hook Form、TanStack、shadcn、Chakra、Inertia、Mantine | SPM、SimCam、Enriched Markdown、代理设备、导航 SDK、JSI、粘贴输入、加密、MLX、Jail Monkey | pnpm、Aube、Fresh、Node.js</title>
       <link>https://thisweekinreact.com/newsletter/279</link>
       <description>【Hi everyone, Konrad and Kacper from Software Mansion here\! 👋】大家好，这里是 Software Mansion 的 Konrad 和 Kacper！ 👋</description>
@@ -26,12 +32,6 @@
       <link>https://thisweekinreact.com/newsletter/276</link>
       <description>【Hi there, Seb and Jan here 👋\!】大家好，Seb 和 Jan 这里是👋\！</description>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【This Week In React #275: ⚛️ Next.js, TanStack RSC, React Compiler, Inertia, Astro, Trusted Types, Signals | 📱 ExecuTorch, Unistyles, RN.run, Preflight, Confetti, AI, Lynx | 🔀 Pretext, Axios, Node, Playwright, Turborepo】本周 React #275：⚛️ Next.js、TanStack RSC、React 编译器、Inertia、Astro、可信类型、信号 | 📱 ExecuTorch、Unistyles、RN.run、预检、五彩纸屑、AI、Lynx | 🔀 借口、Axios、Node、Playwright、Turborepo</title>
-      <link>https://thisweekinreact.com/newsletter/275</link>
-      <description>【Hi everyone, Seb and Jan here 👋\!】大家好，这里是 Seb 和 Jan 👋\！</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

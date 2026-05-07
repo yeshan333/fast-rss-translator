@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【When DNSSEC goes wrong: how we responded to the .de TLD outage】当 DNSSEC 出错时：我们如何应对 .de TLD 中断</title>
+      <link>https://blog.cloudflare.com/de-tld-outage-dnssec/</link>
+      <description>【 On May 5, 2026, DENIC published broken DNSSEC signatures for the .de TLD, making millions of domains unreachable. Here&#39;s what 1.1.1.1 saw, how serve stale cushioned the impact, and how we restored resolution. 】2026 年 5 月 5 日，DENIC 发布了 .de TLD 的损坏的 DNSSEC 签名，导致数百万个域名无法访问。以下是 1.1.1.1 中看到的情况、服务陈旧如何缓冲影响以及我们如何恢复分辨率。</description>
+      <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Code Orange: Fail Small is complete. The result is a stronger Cloudflare network】橙色代码：小失败已完成。结果是更强大的 Cloudflare 网络</title>
       <link>https://blog.cloudflare.com/code-orange-fail-small-complete/</link>
       <description>【 We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we&#39;ve implemented safer configuration changes and automated best practices to prevent future incidents. 】我们已经完成了大量的工程工作，使我们的基础设施更具弹性。通过 Snapstone 和 Engineering Codex 等新工具，我们实施了更安全的配置更改和自动化最佳实践，以防止未来发生事故。</description>
@@ -44,12 +50,6 @@
       <link>https://blog.cloudflare.com/past-bots-and-humans/</link>
       <description>【 As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous credentials is key to preserving user privacy while protecting origins from abuse. 】随着人工智能助手和隐私代理挑战传统机器人检测的能力，网络需要新的问责模型。我们认为控制权应保留在客户手中，并且匿名凭证的开放生态系统是保护用户隐私同时保护来源免遭滥用的关键。</description>
       <pubDate>Tue, 21 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Orchestrating AI Code Review at scale】大规模协调 AI 代码审查</title>
-      <link>https://blog.cloudflare.com/ai-code-review/</link>
-      <description>【 Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code. 】了解我们如何使用 OpenCode 构建 CI 原生 AI 代码审查器，帮助我们的工程师交付更好、更安全的代码。</description>
-      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【Building the agentic cloud: everything we launched during Agents Week 2026】构建代理云：我们在 2026 年代理周期间推出的所有内容</title>
