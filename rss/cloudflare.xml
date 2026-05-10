@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Building for the future】为未来而建设</title>
+      <link>https://blog.cloudflare.com/building-for-the-future/</link>
+      <description>【 This afternoon, we sent the following email to our global team. One of our core values at Cloudflare is transparency, and we believe it&#39;s important that you hear this directly from us because it’s a major moment at Cloudflare. &#xA; 】今天下午，我们向我们的全球团队发送了以下电子邮件。 Cloudflare 的核心价值观之一是透明度，我们相信您直接从我们这里听到这一点非常重要，因为这是 Cloudflare 的一个重要时刻。</description>
+      <pubDate>Thu, 07 May 2026 20:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Cloudflare responded to the “Copy Fail” Linux vulnerability】Cloudflare 如何应对“复制失败”Linux 漏洞</title>
+      <link>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</link>
+      <description>【 When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare&#39;s security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malicious exploitation. 】当关键的 Linux 内核权限升级被公开披露时，Cloudflare 的安全和工程团队检测、调查并缓解了我们全球机群中的威胁，确认客户影响为零且没有恶意利用。</description>
+      <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【When DNSSEC goes wrong: how we responded to the .de TLD outage】当 DNSSEC 出错时：我们如何应对 .de TLD 中断</title>
       <link>https://blog.cloudflare.com/de-tld-outage-dnssec/</link>
       <description>【 On May 5, 2026, DENIC published broken DNSSEC signatures for the .de TLD, making millions of domains unreachable. Here&#39;s what 1.1.1.1 saw, how serve stale cushioned the impact, and how we restored resolution. 】2026 年 5 月 5 日，DENIC 发布了 .de TLD 的损坏的 DNSSEC 签名，导致数百万个域名无法访问。以下是 1.1.1.1 中看到的情况、服务陈旧如何缓冲影响以及我们如何恢复分辨率。</description>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/past-bots-and-humans/</link>
       <description>【 As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous credentials is key to preserving user privacy while protecting origins from abuse. 】随着人工智能助手和隐私代理挑战传统机器人检测的能力，网络需要新的问责模型。我们认为控制权应保留在客户手中，并且匿名凭证的开放生态系统是保护用户隐私同时保护来源免遭滥用的关键。</description>
       <pubDate>Tue, 21 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Building the agentic cloud: everything we launched during Agents Week 2026】构建代理云：我们在 2026 年代理周期间推出的所有内容</title>
-      <link>https://blog.cloudflare.com/agents-week-in-review/</link>
-      <description>【 Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.&#xA; 】2026 年特工周已圆满结束。让我们来看看我们宣布的所有内容，从计算和安全性到代理工具箱、平台工具和新兴的代理网络。我们为代理云提供的所有内容。</description>
-      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The AI engineering stack we built internally — on the platform we ship】我们在我们发布的平台上内部构建的人工智能工程堆栈</title>
-      <link>https://blog.cloudflare.com/internal-ai-engineering-stack/</link>
-      <description>【 We built our internal AI engineering stack on the same products we ship. That means 20 million requests routed through AI Gateway, 241 billion tokens processed, and inference running on Workers AI, serving more than 3,683 internal users. Here&#39;s how we did it.&#xA; 】我们在我们发布的相同产品上构建了内部人工智能工程堆栈。这意味着通过 AI Gateway 路由了 2000 万个请求，处理了 2410 亿个令牌，并在 Workers AI 上运行推理，为超过 3,683 个内部用户提供服务。我们是这样做的。</description>
-      <pubDate>Mon, 20 Apr 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

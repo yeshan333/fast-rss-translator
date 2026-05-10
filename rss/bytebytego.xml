@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【EP214: Claude Code vs. OpenClaw: 5 Design Dimensions】EP214：Claude Code 与 OpenClaw：5 个设计维度</title>
+      <link>https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design</link>
+      <description>【Both are highly capable, but they have key architectural differences.】两者都具有很强的能力，但它们在架构上存在关键差异。</description>
+      <pubDate>Sat, 09 May 2026 15:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Become an AI Engineer | Enrollment Ends Soon 】成为一名人工智能工程师 |报名即将结束</title>
+      <link>https://blog.bytebytego.com/p/enrollment-ends-soon-become-an-ai</link>
+      <description>【Our 6th cohort of Becoming an AI Engineer starts in about a week.】我们的第六期成为人工智能工程师课程将在大约一周后开始。</description>
+      <pubDate>Fri, 08 May 2026 15:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Container Design Patterns for Distributed Systems】分布式系统的容器设计模式</title>
+      <link>https://blog.bytebytego.com/p/container-design-patterns-for-distributed</link>
+      <description>【In this article, we&amp;#8217;ll walk through the patterns that have crystallized over the past decade, organized by the scope of their coordination.】在本文中，我们将按协调范围组织介绍过去十年中具体化的模式。</description>
+      <pubDate>Thu, 07 May 2026 15:31:08 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Instacart Built a Search for Billions of Products】Instacart 如何构建数十亿种产品的搜索</title>
       <link>https://blog.bytebytego.com/p/how-instacart-built-a-search-for</link>
       <description>【In this article, we will learn how Instacart&amp;#8217;s search infrastructure evolved over the years and the challenges its engineering team faced.】在本文中，我们将了解 Instacart 的搜索基础设施多年来如何发展以及其工程团队面临的挑战。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/how-amazon-uses-llms-to-recommend</link>
       <description>【In this article, we will look at how COSMO works and the challenges the engineering team faced.】在本文中，我们将了解 COSMO 的工作原理以及工程团队面临的挑战。</description>
       <pubDate>Mon, 27 Apr 2026 15:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP212: Data Warehouse vs Data Lake vs Data Mesh】EP212：数据仓库、数据湖、数据网格</title>
-      <link>https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake</link>
-      <description>【Storing data is the easy part. Deciding where and how to organize it is the real challenge.】存储数据是最简单的部分。决定在哪里以及如何组织它是真正的挑战。</description>
-      <pubDate>Sat, 25 Apr 2026 15:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【B-Trees vs LSM Trees: Comparison and Trade-Offs】B 树与 LSM 树：比较和权衡</title>
-      <link>https://blog.bytebytego.com/p/b-trees-vs-lsm-trees-comparison-and</link>
-      <description>【In this article, we will look at B-Trees and LSM trees in detail, along with the trade-offs associated with each of them.】在本文中，我们将详细介绍 B 树和 LSM 树，以及与它们相关的权衡。</description>
-      <pubDate>Thu, 23 Apr 2026 15:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How DoorDash Launches a New Country in One Week】DoorDash 如何在一周内推出一个新国家/地区</title>
-      <link>https://blog.bytebytego.com/p/how-doordash-launches-a-new-country</link>
-      <description>【In this article, we will look at how this architecture was designed and the challenges they faced.】在本文中，我们将了解该架构是如何设计的以及他们面临的挑战。</description>
-      <pubDate>Tue, 21 Apr 2026 15:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

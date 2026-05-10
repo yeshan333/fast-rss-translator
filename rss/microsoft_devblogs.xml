@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【From Local to Production: Deploy Your Microsoft Agent Framework Agent with Foundry Hosted Agents】从本地到生产：使用 Foundry 托管代理部署 Microsoft Agent Framework 代理</title>
-      <link>https://devblogs.microsoft.com/agent-framework/from-local-to-production-deploy-your-microsoft-agent-framework-agent-with-foundry-hosted-agents</link>
-      <description>【Once you have your Microsoft Agent Framework (MAF) agent or workflow happily running locally on your dev machine, it&#39;s time to decide how to deploy your agent to production, monitor it, evaluate it and version it. These decisions are just as important as getting the agent running.】一旦您的 Microsoft Agent Framework (MAF) 代理或工作流在您的开发计算机上顺利本地运行，就可以决定如何将代理部署到生产环境、监视它、评估它并对其进行版本控制。这些决定与让代理运行同样重要。</description>
-      <pubDate>Wed, 06 May 2026 19:30:33 +0000</pubDate>
+      <title>【Visual Studio Code 1.120】Visual Studio 代码 1.120</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.120</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.120 (Insiders) Read the full article】了解 Visual Studio Code 1.120 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 13 May 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Durable Workflows in the Microsoft Agent Framework】Microsoft Agent 框架中的持久工作流</title>
-      <link>https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework</link>
-      <description>【The Microsoft Agent Framework (MAF) is an open-source, multi-language framework for building, orchestrating, and deploying AI agents. Since its preview announcement, the framework has】Microsoft 代理框架 (MAF) 是一个开源多语言框架，用于构建、编排和部署 AI 代理。自发布预览版以来，该框架已</description>
-      <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
+      <title>【Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL】Azure SQL 中现已普遍提供生成嵌入函数和外部模型对象支持</title>
+      <link>https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql</link>
+      <description>【We are excited to announce the General Availability (GA) of AI_GENERATE_EMBEDDINGS and CREATE】我们很高兴地宣布 AI_GENERATE_EMBEDDINGS 和 CREATE 全面上市 (GA)</description>
+      <pubDate>Fri, 08 May 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Visual Studio Code 1.119】Visual Studio 代码 1.119</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.119</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.119 Read the full article】了解 Visual Studio Code 1.119 中的新增功能 阅读全文</description>
-      <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
+      <title>【Announcing the public preview of the Microsoft 365 Copilot Agent Evaluations tool】宣布推出 Microsoft 365 Copilot Agent 评估工具的公共预览版</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-public-preview-of-the-microsoft-365-copilot-agent-evaluations-tool</link>
+      <description>【Today we&#39;re announcing the public preview of the Microsoft 365 Copilot Agent Evaluations tool. The Agent Evaluations CLI tool helps developer】今天，我们宣布推出 Microsoft 365 Copilot Agent 评估工具的公共预览版。代理评估 CLI 工具可帮助开发人员</description>
+      <pubDate>Fri, 08 May 2026 20:51:57 +0000</pubDate>
     </item>
     <item>
-      <title>【GitHub Copilot Modernize 101 is live on the Microsoft Developer Channel】GitHub Copilot Modernize 101 已在 Microsoft 开发者频道上线</title>
-      <link>https://devblogs.microsoft.com/java/github-copilot-modernize-101-is-live-on-the-microsoft-developer-channel</link>
-      <description>【Modernization used to be something you avoided until you couldn’t anymore. A big rewrite. A long migration plan. A risky cutover. Something you’d maybe do once every few years—if you had to. That mod】现代化曾经是你回避的事情，直到你再也无法回避为止。一个大重写。一个漫长的迁移计划。一次危险的切换。如果必须的话，你可能每隔几年就会做一次。那个模组</description>
-      <pubDate>Wed, 06 May 2026 16:14:13 +0000</pubDate>
+      <title>【Go 1.26.3-1 and 1.25.10-1 Microsoft builds now available】Go 1.26.3-1 和 1.25.10-1 Microsoft 版本现已推出</title>
+      <link>https://devblogs.microsoft.com/go/go-1-26-3-1-and-1-25-10-1-microsoft-builds-now-available</link>
+      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
+      <pubDate>Fri, 08 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the Public Preview of Azure Cosmos DB Shell: Open-Source Power Meets AI-Driven Database Automation】宣布推出 Azure Cosmos DB Shell 公共预览版：开源力量与 AI 驱动的数据库自动化的结合</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-shell-public-preview-ai-mcp-cli</link>
-      <description>【 Today, we&#39;re thrilled to announce the public preview of Azure Cosmos DB Shell – a powerful, open-source command-line interface that revolutionizes how developers interact with their Azure Cosmos DB databases. With integrated Model Context Protocol (MCP) server support, native agentic capabilities, and bash】 今天，我们很高兴地宣布推出 Azure Cosmos DB Shell 的公共预览版，这是一个功能强大的开源命令行界面，彻底改变了开发人员与其 Azure Cosmos DB 数据库交互的方式。具有集成模型上下文协议 (MCP) 服务器支持、本机代理功能和 bash</description>
-      <pubDate>Wed, 06 May 2026 16:00:29 +0000</pubDate>
+      <title>【Developing more confidence when tracking renames via &lt;CODE&gt;Read­Directory­ChangesW&lt;/CODE&gt;】通过 &lt;CODE&gt;ReadDirectoryChangesW&lt;/CODE&gt; 跟踪重命名时增强信心</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <description>【A customer was using Read­Directory­ChangesW to monitor the contents of a directory, and they were concerned about the FILE_ACTION_RENAMED_OLD_FILE and FILE_ACTION_RENAMED_NEW_FILE pair of actions. The documentation doesn&#39;t guarantee that the tw】客户正在使用 ReadDirectoryChangesW 监视目录的内容，他们担心 FILE_ACTION_RENAMED_OLD_FILE 和 FILE_ACTION_RENAMED_NEW_FILE 这对操作。该文档不保证 tw</description>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Why not have changes in API behavior depend on the SDK you link against?】为什么 API 行为的变化不取决于您链接的 SDK？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</link>
-      <description>【Some time ago, I noted that the Co­Initialize­Security function demands an absolute security descriptor, even though many functions in Windows produce self-relat】前段时间，我注意到 CoInitializeSecurity 函数需要一个绝对的安全描述符，尽管 Windows 中的许多函数都会产生自相关</description>
-      <pubDate>Wed, 06 May 2026 14:00:00 +0000</pubDate>
+      <title>【A Tour of Handoff Orchestration Pattern】切换编排模式概览</title>
+      <link>https://devblogs.microsoft.com/agent-framework/a-tour-of-handoff-orchestration-pattern</link>
+      <description>【A Tour of the Handoff Orchestration Pattern Most multi-agent systems start out simple: a router agent receives a user request, picks the right specialist, and forwards the conversation. As long as each specialist can complete its task in one pass, that model wor】切换编排模式概览 大多数多代理系统一开始都很简单：路由器代理接收用户请求，选择合适的专家，然后转发对话。只要每个专家都能一次完成其任务，该模型就可以工作</description>
+      <pubDate>Fri, 08 May 2026 00:58:12 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Conf 2026 Recap: Lessons from Production】Azure Cosmos DB Conf 2026 回顾：生产经验教训</title>
-      <link>https://devblogs.microsoft.com/blog/azure-cosmos-db-conf-2026-recap-lessons-from-production</link>
-      <description>【A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing more than 80% of traffic. After fixing the data model—without scaling the database—RU utilization】一个团队以 100% RU 利用率运行。节流阀正在复合重试。 P99 潜伏期正在恶化。假设很明显：提供更多吞吐量。他们没有。相反，他们发现单个逻辑分区吸收了超过 80% 的流量。修复数据模型后（不扩展数据库）RU 利用率</description>
-      <pubDate>Tue, 05 May 2026 19:30:25 +0000</pubDate>
+      <title>【Announcing general availability of the mailbox import and export Microsoft Graph APIs】宣布全面推出邮箱导入和导出 Microsoft Graph API</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-the-mailbox-import-and-export-microsoft-graph-apis</link>
+      <description>【We&#39;re excited to announce the general availability (GA) of the mailbox import and export Microsoft Graph APIs. After a successful public preview period, these APIs are now ready for production use, enabling organizations and developers worldwide to efficiently manage, migrate, and integrate mailbox data in Exchange O】我们很高兴地宣布邮箱导入和导出 Microsoft Graph API 全面上市 (GA)。经过成功的公共预览期后，这些 API 现在已可供生产使用，使世界各地的组织和开发人员能够高效管理、迁移和集成 Exchange O 中的邮箱数据</description>
+      <pubDate>Thu, 07 May 2026 21:36:01 +0000</pubDate>
     </item>
     <item>
-      <title>【A dispute over the &lt;KBD&gt;TAB&lt;/KBD&gt; key highlights a mismatch between Microsoft and IBM organizational structures】关于 &lt;KBD&gt;TAB&lt;/KBD&gt; 键的争议凸显了 Microsoft 和 IBM 组织结构之间的不匹配</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</link>
-      <description>【I&#39;ve written in the past about the cultural mismatch between Microsoft and IBM during the collaboration on OS/2, with the Microsofties viewing their IBM col】我过去曾写过关于 OS/2 合作过程中 Microsoft 和 IBM 之间的文化不匹配的文章，其中 Microsoft 认为他们的 IBM 合作</description>
-      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
+      <title>【Least privilege AI agents: A new azd template from Curity and Microsoft】最小权限 AI 代理：来自 Curity 和 Microsoft 的新 azd 模板</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/azd-curity-least-privilege-ai-agents</link>
+      <description>【If you ever built an AI agent demo, you probably had this moment. Everything works: the agent interprets natural language, calls the right tools, and returns the right data. Then you start designing for the real users of the app. You think about data boundaries: what if someone tries to get data they&#39;re not supposed to see? For example, ima】如果您曾经构建过人工智能代理演示，那么您可能有过这样的时刻。一切正常：代理解释自然语言，调用正确的工具，并返回正确的数据。然后你开始为应用程序的真实用户进行设计。您会考虑数据边界：如果有人试图获取他们不应该看到的数据怎么办？例如，我</description>
+      <pubDate>Thu, 07 May 2026 21:26:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the WinApp VS Code Extension — Run, Debug, and Package Windows Apps in VS Code】宣布推出 WinApp VS Code 扩展 - 在 VS Code 中运行、调试和打包 Windows 应用</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/announcing-the-winapp-vs-code-extension-run-debug-and-package-windows-apps-in-vs-code</link>
-      <description>【VS Code is where m】VS Code 的位置是 m</description>
-      <pubDate>Mon, 04 May 2026 23:19:17 +0000</pubDate>
+      <title>【Project-Specific Build Optimizations with GitHub Copilot】使用 GitHub Copilot 进行特定于项目的构建优化</title>
+      <link>https://devblogs.microsoft.com/cppblog/project-specific-build-optimizations-with-github-copilot</link>
+      <description>【We are excited to announce that GitHub Copilot build performance for Windows now supports project-specific builds! Available in the latest Visual Studio Insiders, you can target a single MSBuild project or CMake target instead of analyzing your entire solution. For game developers and teams working with】我们很高兴地宣布，Windows 版 GitHub Copilot 构建性能现在支持特定于项目的构建！在最新的 Visual Studio Insiders 中可用，您可以针对单个 MSBuild 项目或 CMake 目标，而不是分析整个解决方案。对于游戏开发者和团队来说</description>
+      <pubDate>Thu, 07 May 2026 16:42:45 +0000</pubDate>
     </item>
     <item>
-      <title>【Giving Copilot more C++ context using custom instructions in VS Code】使用 VS Code 中的自定义指令为 Copilot 提供更多 C++ 上下文</title>
-      <link>https://devblogs.microsoft.com/cppblog/giving-copilot-more-c-context-using-custom-instructions-in-vs-code</link>
-      <description>【In February, we announced how GitHub Copilot can now use C++ symbol context and CMake build configuration awareness to deliver smarter suggestions in Visual Studio Code. Today, we&#39;re excited to share new】今年 2 月，我们宣布 GitHub Copilot 现在如何使用 C++ 符号上下文和 CMake 构建配置感知在 Visual Studio Code 中提供更智能的建议。今天，我们很高兴与大家分享新的</description>
-      <pubDate>Mon, 04 May 2026 15:23:25 +0000</pubDate>
+      <title>【What&#39;s New in vcpkg (Apr 2026)】vcpkg 的新增功能（2026 年 4 月）</title>
+      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-apr-2026</link>
+      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2026.04.27 registry release and the 2026-04-06 and】这篇博文总结了 vcpkg 包管理器的更改，作为 2026.04.27 注册表版本以及 2026-04-06 和</description>
+      <pubDate>Thu, 07 May 2026 16:32:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【I struggled with mobile system design until I learned these 53 concepts】在学习这 53 个概念之前，我一直在移动系统设计方面苦苦挣扎</title>
+      <link>https://newsletter.systemdesign.one/p/mobile-system-design-concepts</link>
+      <description>【#145: Part 2 - Conflict resolution, certificate pinning, rendering performance, and 17 others.】#145：第 2 部分 - 冲突解决、证书固定、渲染性能以及其他 17 个内容。</description>
+      <pubDate>Thu, 07 May 2026 09:22:29 +0000</pubDate>
+    </item>
+    <item>
       <title>【Design a personal AI chat assistant】设计个人AI聊天助手</title>
       <link>https://newsletter.systemdesign.one/p/ai-chat-assistant</link>
       <description>【#144: Part 2 - Generative AI Masterclass】#144：第 2 部分 - 生成式 AI 大师班</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/aws-s3-system-design</link>
       <description>【#136: How S3 Actually Works】#136：S3 的实际工作原理</description>
       <pubDate>Wed, 01 Apr 2026 12:04:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The 53 Concepts for Highly Effective Mobile System Design】高效移动系统设计的 53 个概念</title>
-      <link>https://newsletter.systemdesign.one/p/mobile-system-design</link>
-      <description>【#135: Part 1 - Client-Server Architecture, Push Notifications, Offline-First, and 16 others.】#135：第 1 部分 - 客户端-服务器架构、推送通知、离线优先以及其他 16 个。</description>
-      <pubDate>Wed, 25 Mar 2026 15:28:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
