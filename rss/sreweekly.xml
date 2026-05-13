@@ -4,6 +4,12 @@
     <link>https://sreweekly.com/feed/</link>
     <description>scalability, availability, incident response, automation</description>
     <item>
+      <title>【SRE Weekly Issue #516】SRE 周刊第 #516 期</title>
+      <link>https://sreweekly.com/sre-weekly-issue-516/</link>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: Paging is just 10% of your incident workflow. incident.io&amp;#8217;s 4-step framework turns migration into a forcing function for the other 90%: cut alert noise, fix service ownership, and build the on-call program your team actually deserves. Not all index scans are equal: How we cut query [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Incident.io 的消息：寻呼仅占事件工作流程的 10%。 event.io 的 4 步框架将迁移变成了另外 90% 的强制功能：减少警报噪音、修复服务所有权以及构建您的团队真正应得的待命程序。并非所有索引扫描都是相同的：我们如何削减查询 [...]</description>
+      <pubDate>Mon, 11 May 2026 01:39:21 +0000</pubDate>
+    </item>
+    <item>
       <title>【SRE Weekly Issue #515】SRE 周刊第 #515 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-515/</link>
       <description>【View on sreweekly.com A message from our sponsor, atscaleconference.com: Building scalable, high-performance infrastructure for AI is one of today’s toughest challenges. Join @Scale: Systems &amp;#38; Reliability on June 25 in Bellevue, WA to learn how leading engineers are solving it. Secure your seat today! The Silent Failure of Reliability Metrics at Scale: Lessons Learned from [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 atscaleconference.com 的消息：为人工智能构建可扩展、高性能的基础设施是当今最严峻的挑战之一。参加 6 月 25 日在华盛顿州贝尔维尤举行的 @Scale：系统与可靠性，了解领先的工程师如何解决这个问题。今天就锁定座位吧！大规模可靠性指标的无声失败：从[…]中吸取的教训</description>
@@ -18,7 +24,7 @@
     <item>
       <title>【SRE Weekly Issue #513】SRE 周刊第 #513 期</title>
       <link>https://sreweekly.com/sre-weekly-issue-513/</link>
-      <description>【View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io&amp;#8217;s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：“提升和转移”新工具的噪音只会为同样的倦怠购买不同的 UI。 event.io 的迁移框架优先考虑服务编目和库存，以固定所有权，防止团队在过渡到可扩展的待命系统期间发生摩擦。组织二次打击综合症以前未发表的文章[…]</description>
+      <description>【View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io&amp;#8217;s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 event.io 的消息：“提升和转移”新工具的噪音只会为同样的倦怠购买不同的 UI。 event.io 的迁移框架优先考虑服务编目和库存，以固定所有权，防止团队在过渡到可扩展的待命系统期间发生摩擦。组织二次打击综合症以前未发表的文章[...]</description>
       <pubDate>Mon, 20 Apr 2026 02:03:38 +0000</pubDate>
     </item>
     <item>
@@ -26,12 +32,6 @@
       <link>https://sreweekly.com/sre-weekly-issue-512/</link>
       <description>【View on sreweekly.com A message from our sponsor, Archera: AI workloads are unpredictable, which makes cloud commitments feel like a gamble. Archera insures your commitments against underutilization, so you can push coverage higher without the risk of getting stuck. If usage drops, Archera covers the downside. Commitment Release Guarantee included. Start Saving Ashby taught us [&amp;#8230;]】查看 sreweekly.com 来自我们的赞助商 Archera 的消息：人工智能工作负载是不可预测的，这使得云承诺感觉像是一场赌博。 Archera 确保您的承诺不会被未充分利用，因此您可以提高覆盖范围，而不会陷入困境。如果使用量下降，Archera 可以弥补这一损失。包括承诺解除保证。开始拯救阿什比教给我们[...]</description>
       <pubDate>Sun, 12 Apr 2026 20:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE Weekly Issue #511】SRE 周刊第 #511 期</title>
-      <link>https://sreweekly.com/sre-weekly-issue-511/</link>
-      <description>【View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don&amp;#8217;t. They&amp;#8217;re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no [&amp;#8230;]】在 sreweekly.com 上查看 来自我们的赞助商 Depot 的消息：CI 是为在等待时进行上下文切换的人而设计的。代理商则不然。他们只是被封锁了。 Depot 首席执行官 Kyle Galbraith 讲述了他们如何重新构想 Depot CI 来关闭循环：针对本地补丁运行，重新运行单个作业，通过 SSH 连接到运行程序以检查实际情况。按秒计费，无 [...]</description>
-      <pubDate>Mon, 06 Apr 2026 02:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

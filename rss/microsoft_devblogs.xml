@@ -10,58 +10,58 @@
       <pubDate>Wed, 13 May 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL】Azure SQL 中现已普遍提供生成嵌入函数和外部模型对象支持</title>
-      <link>https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql</link>
-      <description>【We are excited to announce the General Availability (GA) of AI_GENERATE_EMBEDDINGS and CREATE】我们很高兴地宣布 AI_GENERATE_EMBEDDINGS 和 CREATE 全面上市 (GA)</description>
-      <pubDate>Fri, 08 May 2026 21:42:36 +0000</pubDate>
+      <title>【.NET 11 Preview 4 is now available!】.NET 11 预览版 4 现已推出！</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4</link>
+      <description>【Today, we are excited to announce the fourth preview release of .NET 11! This release includes improvements across the .NET Runtime, SDK, libraries, ASP.NET Core, .NET MAUI, C#, Entity Framework Core, and more. Check out the linked release notes below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 11 Preview 4&#34; url=&#34;h】今天，我们很高兴地宣布 .NET 11 的第四个预览版！此版本包括 .NET 运行时、SDK、库、ASP.NET Core、.NET MAUI、C#、Entity Framework Core 等方面的改进。查看下面链接的发行说明并立即开始。 [cta-buttonalign=“center”text=“下载.NET 11 Preview 4”url=“h”</description>
+      <pubDate>Tue, 12 May 2026 22:25:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing the public preview of the Microsoft 365 Copilot Agent Evaluations tool】宣布推出 Microsoft 365 Copilot Agent 评估工具的公共预览版</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-the-public-preview-of-the-microsoft-365-copilot-agent-evaluations-tool</link>
-      <description>【Today we&#39;re announcing the public preview of the Microsoft 365 Copilot Agent Evaluations tool. The Agent Evaluations CLI tool helps developer】今天，我们宣布推出 Microsoft 365 Copilot Agent 评估工具的公共预览版。代理评估 CLI 工具可帮助开发人员</description>
-      <pubDate>Fri, 08 May 2026 20:51:57 +0000</pubDate>
+      <title>【Is This a Packaged Process?】这是一个打包的过程吗？</title>
+      <link>https://devblogs.microsoft.com/insidemsix/is-this-a-packaged-process</link>
+      <description>【Sometimes you need to know whether the current process has package identity. Certain Windows features require it, and behaviors can differ—both technically and culturally. For example, classic Windows applications often store settings in the registry, whereas packaged applications typically use】有时你需要知道当前进程是否具有包标识。某些 Windows 功能需要它，并且行为在技术和文化上可能有所不同。例如，经典的 Windows 应用程序通常将设置存储在注册表中，而打包的应用程序通常使用</description>
+      <pubDate>Tue, 12 May 2026 20:20:48 +0000</pubDate>
     </item>
     <item>
-      <title>【Go 1.26.3-1 and 1.25.10-1 Microsoft builds now available】Go 1.26.3-1 和 1.25.10-1 Microsoft 版本现已推出</title>
-      <link>https://devblogs.microsoft.com/go/go-1-26-3-1-and-1-25-10-1-microsoft-builds-now-available</link>
-      <description>【A new release of the Microsoft build of Go including security fixes is now available for download. For more information about this release and the changes included, see the table below: Microsoft Release Upstream Tag】包含安全修复程序的 Microsoft Go 版本新版本现已可供下载。有关此版本及其所包含更改的更多信息，请参阅下表： Microsoft 版本上游标签</description>
-      <pubDate>Fri, 08 May 2026 17:25:23 +0000</pubDate>
+      <title>【.NET and .NET Framework May 2026 servicing releases updates】.NET 和 .NET Framework 2026 年 5 月服务版本更新</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates</link>
+      <description>【Welcome to our combined .NET servicing updates for May 2026. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework have been refreshed with the latest update as of May 12, 2026. This update contains security and】欢迎使用 2026 年 5 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述： 安全性改进 .NET 和 .NET Framework 已使用截至 2026 年 5 月 12 日的最新更新进行了刷新。此更新包含安全性和</description>
+      <pubDate>Tue, 12 May 2026 18:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Developing more confidence when tracking renames via &lt;CODE&gt;Read­Directory­ChangesW&lt;/CODE&gt;】通过 &lt;CODE&gt;ReadDirectoryChangesW&lt;/CODE&gt; 跟踪重命名时增强信心</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <description>【A customer was using Read­Directory­ChangesW to monitor the contents of a directory, and they were concerned about the FILE_ACTION_RENAMED_OLD_FILE and FILE_ACTION_RENAMED_NEW_FILE pair of actions. The documentation doesn&#39;t guarantee that the tw】客户正在使用 ReadDirectoryChangesW 监视目录的内容，他们担心 FILE_ACTION_RENAMED_OLD_FILE 和 FILE_ACTION_RENAMED_NEW_FILE 这对操作。该文档不保证 tw</description>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <title>【Foundry Local 1.1: Live Transcription, Embeddings, and Responses API】Foundry Local 1.1：实时转录、嵌入和响应 API</title>
+      <link>https://devblogs.microsoft.com/foundry/foundry-local-v1-1</link>
+      <description>【Today we&#39;re announcing the 1.1.0 release of Foundry Local — Microsoft&#39;s cross-platform local AI solution that lets developers bring AI directly into their applications with no cloud dependency, no network latency, and no per-token costs. This release adds the following: Live audio tra】今天，我们宣布发布 Foundry Local 1.1.0 版本，这是 Microsoft 的跨平台本地 AI 解决方案，可让开发人员将 AI 直接引入他们的应用程序，不依赖于云，没有网络延迟，也没有每个代币的成本。此版本添加了以下内容： 现场音频传输</description>
+      <pubDate>Tue, 12 May 2026 16:51:39 +0000</pubDate>
     </item>
     <item>
-      <title>【A Tour of Handoff Orchestration Pattern】切换编排模式概览</title>
-      <link>https://devblogs.microsoft.com/agent-framework/a-tour-of-handoff-orchestration-pattern</link>
-      <description>【A Tour of the Handoff Orchestration Pattern Most multi-agent systems start out simple: a router agent receives a user request, picks the right specialist, and forwards the conversation. As long as each specialist can complete its task in one pass, that model wor】切换编排模式概览 大多数多代理系统一开始都很简单：路由器代理接收用户请求，选择合适的专家，然后转发对话。只要每个专家都能一次完成其任务，该模型就可以工作</description>
-      <pubDate>Fri, 08 May 2026 00:58:12 +0000</pubDate>
+      <title>【MSVC Build Tools version 14.51 (GA) now available】MSVC 构建工具版本 14.51 (GA) 现已推出</title>
+      <link>https://devblogs.microsoft.com/cppblog/msvc-version-1451-available</link>
+      <description>【Microsoft C++ (MSVC) Build Tools version 14.51 is now generally available. It is the default compiler starting with Visual Studio 2026 18.6 and will receive 9 months of servicing fixes, as described in New release cadence and suppor】Microsoft C++ (MSVC) 构建工具版本 14.51 现已全面发布。它是从 Visual Studio 2026 18.6 开始的默认编译器，并将获得 9 个月的服务修复，如新版本节奏和支持中所述</description>
+      <pubDate>Tue, 12 May 2026 16:38:39 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing general availability of the mailbox import and export Microsoft Graph APIs】宣布全面推出邮箱导入和导出 Microsoft Graph API</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-the-mailbox-import-and-export-microsoft-graph-apis</link>
-      <description>【We&#39;re excited to announce the general availability (GA) of the mailbox import and export Microsoft Graph APIs. After a successful public preview period, these APIs are now ready for production use, enabling organizations and developers worldwide to efficiently manage, migrate, and integrate mailbox data in Exchange O】我们很高兴地宣布邮箱导入和导出 Microsoft Graph API 全面上市 (GA)。经过成功的公共预览期后，这些 API 现在已可供生产使用，使世界各地的组织和开发人员能够高效管理、迁移和集成 Exchange O 中的邮箱数据</description>
-      <pubDate>Thu, 07 May 2026 21:36:01 +0000</pubDate>
+      <title>【Introducing dotnet new WinUI templates】引入 dotnet 新 WinUI 模板</title>
+      <link>https://devblogs.microsoft.com/ifdef-windows/introducing-dotnet-new-templates-for-winui</link>
+      <description>【&amp;nbsp; [caption id=&#34;attachment_1143&#34; align=&#34;alignnone&#34; width=&#34;1188&#34;]】  [标题id =“attachment_1143”对齐=“alignnone”宽度=“1188”]</description>
+      <pubDate>Tue, 12 May 2026 10:15:13 +0000</pubDate>
     </item>
     <item>
-      <title>【Least privilege AI agents: A new azd template from Curity and Microsoft】最小权限 AI 代理：来自 Curity 和 Microsoft 的新 azd 模板</title>
-      <link>https://devblogs.microsoft.com/azure-sdk/azd-curity-least-privilege-ai-agents</link>
-      <description>【If you ever built an AI agent demo, you probably had this moment. Everything works: the agent interprets natural language, calls the right tools, and returns the right data. Then you start designing for the real users of the app. You think about data boundaries: what if someone tries to get data they&#39;re not supposed to see? For example, ima】如果您曾经构建过人工智能代理演示，那么您可能有过这样的时刻。一切正常：代理解释自然语言，调用正确的工具，并返回正确的数据。然后你开始为应用程序的真实用户进行设计。您会考虑数据边界：如果有人试图获取他们不应该看到的数据怎么办？例如，我</description>
-      <pubDate>Thu, 07 May 2026 21:26:27 +0000</pubDate>
+      <title>【What&#39;s new in Microsoft Foundry | April 2026】Microsoft Foundry 的新增功能 | 2026 年 4 月</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-apr-2026</link>
+      <description>【TL;DR Foundry Local (generally available, GA): Local model inference is production-ready on Windows, macOS on Apple Silicon, and Linux x64. GPT-5.5: The latest GPT-5 family model is available in Microsoft Foundry, with default quota for Tier 5 and Tier 6 subscriptions.】TL;DR Foundry Local（正式发布，GA）：本地模型推理可在 Windows、Apple Silicon 上的 macOS 和 Linux x64 上进行生产。 GPT-5.5：Microsoft Foundry 中提供了最新的 GPT-5 系列模型，具有第 5 层和第 6 层订阅的默认配额。</description>
+      <pubDate>Tue, 12 May 2026 07:13:15 +0000</pubDate>
     </item>
     <item>
-      <title>【Project-Specific Build Optimizations with GitHub Copilot】使用 GitHub Copilot 进行特定于项目的构建优化</title>
-      <link>https://devblogs.microsoft.com/cppblog/project-specific-build-optimizations-with-github-copilot</link>
-      <description>【We are excited to announce that GitHub Copilot build performance for Windows now supports project-specific builds! Available in the latest Visual Studio Insiders, you can target a single MSBuild project or CMake target instead of analyzing your entire solution. For game developers and teams working with】我们很高兴地宣布，Windows 版 GitHub Copilot 构建性能现在支持特定于项目的构建！在最新的 Visual Studio Insiders 中可用，您可以针对单个 MSBuild 项目或 CMake 目标，而不是分析整个解决方案。对于游戏开发者和团队来说</description>
-      <pubDate>Thu, 07 May 2026 16:42:45 +0000</pubDate>
+      <title>【Publishing VM Applications in a Secure World】在安全环境中发布 VM 应用程序</title>
+      <link>https://devblogs.microsoft.com/azure-vm-runtime/publishing-vm-applications-in-a-secure-world</link>
+      <description>【Many of you who have published VM Applications may have come across a difficult conundrum regarding security. To create an application version, you must upload your application package to a Storage blob, then provide the address of that Storage blob for repl】许多发布了 VM 应用程序的人可能都遇到过有关安全性的难题。要创建应用程序版本，您必须将应用程序包上传到存储 blob，然后提供该存储 blob 的地址以供 repl</description>
+      <pubDate>Mon, 11 May 2026 15:47:59 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s New in vcpkg (Apr 2026)】vcpkg 的新增功能（2026 年 4 月）</title>
-      <link>https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-apr-2026</link>
-      <description>【This blog post summarizes changes to the vcpkg package manager as part of the 2026.04.27 registry release and the 2026-04-06 and】这篇博文总结了 vcpkg 包管理器的更改，作为 2026.04.27 注册表版本以及 2026-04-06 和</description>
-      <pubDate>Thu, 07 May 2026 16:32:31 +0000</pubDate>
+      <title>【Additional notes on controlling which handles are inherited by &lt;CODE&gt;Create­Process&lt;/CODE&gt;】有关控制 &lt;CODE&gt;CreateProcess&lt;/CODE&gt; 继承哪些句柄的附加说明</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</link>
+      <description>【Some time ago, I wrote about programmatically controlling which handles are inherited by new processes in Win32 by using the PROC_THREAD_ATTRIBUTE_】前段时间，我写了一篇关于使用 PROC_THREAD_ATTRIBUTE_ 以编程方式控制 Win32 中的新进程继承哪些句柄的文章</description>
+      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

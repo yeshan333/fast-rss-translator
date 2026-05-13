@@ -4,6 +4,18 @@
     <link>https://aws.amazon.com/blogs/architecture/feed/</link>
     <description>Just another Amazon Web Services site</description>
     <item>
+      <title>在 AWS 上为有状态服务构建混合多租户架构</title>
+      <link>https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/</link>
+      <description></description>
+      <pubDate>Tue, 12 May 2026 13:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>在 AWS Organizations 中的单个或多个组织之间进行选择</title>
+      <link>https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations/</link>
+      <description></description>
+      <pubDate>Mon, 11 May 2026 18:56:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Deloitte 使用 Amazon EKS 和 vCluster 优化 EKS 环境配置并实现测试环境速度提高 89%</title>
       <link>https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/</link>
       <description></description>
@@ -50,18 +62,6 @@
       <link>https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/</link>
       <description></description>
       <pubDate>Tue, 31 Mar 2026 18:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aigen 如何利用 Amazon SageMaker AI 改造农业机器人以实现可持续农业</title>
-      <link>https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/</link>
-      <description></description>
-      <pubDate>Mon, 30 Mar 2026 15:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS 上的代理 AI 开发架构</title>
-      <link>https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/</link>
-      <description></description>
-      <pubDate>Thu, 26 Mar 2026 17:29:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

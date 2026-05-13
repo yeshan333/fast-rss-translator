@@ -5,6 +5,12 @@
     <description>Download my system design playbook on newsletter signup for FREE</description>
     <managingEditor>systemdesignone@substack.com</managingEditor>
     <item>
+      <title>【How ML Systems Actually Work: From Data to Deployment】机器学习系统的实际工作原理：从数据到部署</title>
+      <link>https://newsletter.systemdesign.one/p/machine-learning-system-design-interview</link>
+      <description>【#146: From Embeddings to Feature Stores - 38 Concepts That Power Netflix, Uber, and Spotify】#146：从嵌入到特征存储 - 为 Netflix、Uber 和 Spotify 提供支持的 38 个概念</description>
+      <pubDate>Tue, 12 May 2026 09:02:04 +0000</pubDate>
+    </item>
+    <item>
       <title>【I struggled with mobile system design until I learned these 53 concepts】在学习这 53 个概念之前，我一直在移动系统设计方面苦苦挣扎</title>
       <link>https://newsletter.systemdesign.one/p/mobile-system-design-concepts</link>
       <description>【#145: Part 2 - Conflict resolution, certificate pinning, rendering performance, and 17 others.】#145：第 2 部分 - 冲突解决、证书固定、渲染性能以及其他 17 个内容。</description>
@@ -57,12 +63,6 @@
       <link>https://newsletter.systemdesign.one/p/generative-ai-system-design</link>
       <description>【#137: Part 1 - Generative AI Masterclass】#137：第 1 部分 - 生成式 AI 大师班</description>
       <pubDate>Tue, 07 Apr 2026 12:33:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Amazon S3 - A Deep Dive】Amazon S3 - 深入探讨</title>
-      <link>https://newsletter.systemdesign.one/p/aws-s3-system-design</link>
-      <description>【#136: How S3 Actually Works】#136：S3 的实际工作原理</description>
-      <pubDate>Wed, 01 Apr 2026 12:04:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

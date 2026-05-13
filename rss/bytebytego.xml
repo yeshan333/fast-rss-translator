@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time】Figma 如何将数据管道从多天延迟升级为实时</title>
+      <link>https://blog.bytebytego.com/p/how-figma-upgraded-data-pipeline</link>
+      <description>【In this article, we will learn what happened as Figma grew and how its engineering team handled the growth in terms of the data pipeline issues.】在本文中，我们将了解 Figma 的发展过程中发生了什么，以及其工程团队如何处理数据管道问题的增长。</description>
+      <pubDate>Tue, 12 May 2026 15:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How Pinterest Built a Production MCP Ecosystem】Pinterest 如何构建生产 MCP 生态系统</title>
+      <link>https://blog.bytebytego.com/p/how-pinterest-built-a-production</link>
+      <description>【In this article, we look at how Pinterest designed that ecosystem and what they had to get right beyond the protocol itself.】在本文中，我们将了解 Pinterest 如何设计该生态系统，以及他们必须在协议本身之外实现哪些目标。</description>
+      <pubDate>Mon, 11 May 2026 15:31:17 +0000</pubDate>
+    </item>
+    <item>
       <title>【EP214: Claude Code vs. OpenClaw: 5 Design Dimensions】EP214：Claude Code 与 OpenClaw：5 个设计维度</title>
       <link>https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design</link>
       <description>【Both are highly capable, but they have key architectural differences.】两者都具有很强的能力，但它们在架构上存在关键差异。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/the-tech-stack-powering-wise</link>
       <description>【In 2024, Wise&amp;#8217;s deployment system automatically blocked hundreds of releases that would have caused production incidents.】2024 年，Wise 的部署系统自动阻止了数百个可能导致生产事故的版本。</description>
       <pubDate>Wed, 29 Apr 2026 15:31:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Stripe Detects Fraudulent Transactions Within 100 ms】Stripe 如何在 100 毫秒内检测欺诈交易</title>
-      <link>https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions</link>
-      <description>【In this article, we will look at how Stripe&amp;#8217;s Radar does this effectively and the architectural decisions the team took while building it.】在本文中，我们将了解 Stripe 的 Radar 如何有效地做到这一点，以及团队在构建它时采取的架构决策。</description>
-      <pubDate>Tue, 28 Apr 2026 03:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Amazon Uses LLMs to Recommend Products】亚马逊如何利用法学硕士来推荐产品</title>
-      <link>https://blog.bytebytego.com/p/how-amazon-uses-llms-to-recommend</link>
-      <description>【In this article, we will look at how COSMO works and the challenges the engineering team faced.】在本文中，我们将了解 COSMO 的工作原理以及工程团队面临的挑战。</description>
-      <pubDate>Mon, 27 Apr 2026 15:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,12 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【When &#34;idle&#34; isn&#39;t idle: how a Linux kernel optimization became a QUIC bug】当“空闲”不空闲时：Linux 内核优化如何成为 QUIC bug</title>
+      <link>https://blog.cloudflare.com/quic-death-spiral-fix/</link>
+      <description>【 We investigated a bug where CUBIC&#39;s congestion window became pinned at its minimum floor, causing a performance to plummet. The fix involved correctly measuring idle periods to distinguish RTT wait times from actual application idleness. 】我们调查了一个错误，即 CUBIC 的拥塞窗口被固定在最低层，导致性能直线下降。该修复涉及正确测量空闲时间，以区分 RTT 等待时间和实际应用程序空闲时间。</description>
+      <pubDate>Tue, 12 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Building for the future】为未来而建设</title>
       <link>https://blog.cloudflare.com/building-for-the-future/</link>
       <description>【 This afternoon, we sent the following email to our global team. One of our core values at Cloudflare is transparency, and we believe it&#39;s important that you hear this directly from us because it’s a major moment at Cloudflare. &#xA; 】今天下午，我们向我们的全球团队发送了以下电子邮件。 Cloudflare 的核心价值观之一是透明度，我们相信您直接从我们这里听到这一点非常重要，因为这是 Cloudflare 的一个重要时刻。</description>
@@ -56,12 +62,6 @@
       <link>https://blog.cloudflare.com/making-rust-workers-reliable/</link>
       <description>【 Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Exception Handling. 】Rust Workers 的恐慌在历史上是致命的，毒害了整个实例。通过与 wasm-bindgen 项目上游合作，Rust Workers 现在支持弹性关键错误恢复，包括使用 WebAssembly 异常处理进行恐慌解除。</description>
       <pubDate>Wed, 22 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Moving past bots vs. humans】超越机器人与人类</title>
-      <link>https://blog.cloudflare.com/past-bots-and-humans/</link>
-      <description>【 As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous credentials is key to preserving user privacy while protecting origins from abuse. 】随着人工智能助手和隐私代理挑战传统机器人检测的能力，网络需要新的问责模型。我们认为控制权应保留在客户手中，并且匿名凭证的开放生态系统是保护用户隐私同时保护来源免遭滥用的关键。</description>
-      <pubDate>Tue, 21 Apr 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
