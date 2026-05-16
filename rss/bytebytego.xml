@@ -5,6 +5,24 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 6】最后报名：成为一名人工智能工程师 - 第 6 组</title>
+      <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-a88</link>
+      <description>【Our 6th cohort of Becoming an AI Engineer starts tomorrow, Saturday, May 16. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第 6 期“成为人工智能工程师”课程将于明天（即 5 月 16 日星期六）开始。这是一门与畅销书作家 Ali Aminian 合作创建并由 ByteByteGo 出版的实时、基于群组的课程。</description>
+      <pubDate>Fri, 15 May 2026 15:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>【A Guide To Event-Driven Architectural Patterns】事件驱动架构模式指南</title>
+      <link>https://blog.bytebytego.com/p/a-guide-to-event-driven-architectural</link>
+      <description>【Distributed systems are built out of services that need to communicate, and the simplest way to do that is for one service to call another directly and wait for a response.】分布式系统是由需要通信的服务构建的，最简单的方法是一个服务直接调用另一个服务并等待响应。</description>
+      <pubDate>Thu, 14 May 2026 15:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【High Performance Rate Limiting at Databricks】Databricks 的高性能速率限制</title>
+      <link>https://blog.bytebytego.com/p/high-performance-rate-limiting-at</link>
+      <description>【In this article, we look at how Databricks implemented rate limiting at scale, how they shrank the critical path, and the accuracy tradeoff that shrinking usually requires.】在本文中，我们将了解 Databricks 如何大规模实施速率限制、它们如何缩小关键路径以及缩小通常需要的准确性权衡。</description>
+      <pubDate>Wed, 13 May 2026 15:30:35 +0000</pubDate>
+    </item>
+    <item>
       <title>【How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time】Figma 如何将数据管道从多天延迟升级为实时</title>
       <link>https://blog.bytebytego.com/p/how-figma-upgraded-data-pipeline</link>
       <description>【In this article, we will learn what happened as Figma grew and how its engineering team handled the growth in terms of the data pipeline issues.】在本文中，我们将了解 Figma 的发展过程中发生了什么，以及其工程团队如何处理数据管道问题的增长。</description>
@@ -45,24 +63,6 @@
       <link>https://blog.bytebytego.com/p/connecting-llms-to-the-real-world</link>
       <description>【In this article, we will look at this progression that has happened from basic tool use to function calling to the Model Context Protocol, allowing the LLMs to go from isolated text generation tools to assistants that can do interesting stuff for the end users.】在本文中，我们将研究从基本工具使用到函数调用再到模型上下文协议的这一进展，从而允许法学硕士从孤立的文本生成工具转变为可以为最终用户做有趣事情的助手。</description>
       <pubDate>Mon, 04 May 2026 15:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>【EP213: MCP vs Skills, Clearly Explained】EP213：MCP vs 技能，解释清楚</title>
-      <link>https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained</link>
-      <description>【Both MCP and Skills extend what an agent can do. But they solve different problems, and picking the wrong one adds cost or complexity you don&#39;t need.】MCP 和技能都扩展了代理的能力。但它们解决的是不同的问题，选择错误的问题会增加您不需要的成本或复杂性。</description>
-      <pubDate>Sat, 02 May 2026 15:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A Beginner’s Guide to Kubernetes】Kubernetes 初学者指南</title>
-      <link>https://blog.bytebytego.com/p/a-beginners-guide-to-kubernetes</link>
-      <description>【In this article, we will learn how Kubernetes is a system of promises, and that every piece of it is a small program keeping one of those promises.】在本文中，我们将了解 Kubernetes 如何成为一个承诺系统，并且它的每个部分都是一个遵守其中一个承诺的小程序。</description>
-      <pubDate>Thu, 30 Apr 2026 15:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The Tech Stack Powering Wise】技术堆栈 Power Wise</title>
-      <link>https://blog.bytebytego.com/p/the-tech-stack-powering-wise</link>
-      <description>【In 2024, Wise&amp;#8217;s deployment system automatically blocked hundreds of releases that would have caused production incidents.】2024 年，Wise 的部署系统自动阻止了数百个可能导致生产事故的版本。</description>
-      <pubDate>Wed, 29 Apr 2026 15:31:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

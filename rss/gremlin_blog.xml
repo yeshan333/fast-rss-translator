@@ -4,6 +4,12 @@
     <link>https://www.gremlin.com/blog/rss.xml</link>
     <description>&lt;![CDATA[ Prevent outages, innovate faster, and earn customer trust with Gremlin’s Reliability Management and Chaos Engineering platform. ]]&gt;</description>
     <item>
+      <title>【Why agentic AI development needs reliability guardrails】为什么代理人工智能开发需要可靠性护栏</title>
+      <link>https://www.gremlin.com/blog/why-agentic-ai-development-needs-reliability-guardrails</link>
+      <description>【Companies are moving faster than ever with agentic AI, but that means more risks. Without reliability guardrails, they risk costly outages.】公司在代理人工智能方面的发展速度比以往任何时候都快，但这意味着更多的风险。如果没有可靠性护栏，它们就会面临代价高昂的停电风险。</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【The hidden reliability risks in your agentic AI workflows】代理 AI 工作流程中隐藏的可靠性风险</title>
       <link>https://www.gremlin.com/blog/the-hidden-reliability-risks-in-your-agentic-ai-workflows</link>
       <description>【Prevent AI outages before they impact production. Learn how to discover and mitigate reliability risks in agentic AI systems like network stability, non-deterministic behavior, and third-party dependencies.】在人工智能中断影响生产之前预防它们。了解如何发现和减轻代理 AI 系统中的可靠性风险，例如网络稳定性、非确定性行为和第三方依赖性。</description>
@@ -56,12 +62,6 @@
       <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-cloudflare-outage</link>
       <description>【In November 2025, a misconfigured Cloudflare service led to a partial outage. Learn what happened, and what you can do to reduce the impact of similar outages.】2025 年 11 月，Cloudflare 服务配置错误导致部分中断。了解发生了什么，以及您可以采取哪些措施来减少类似中断的影响。</description>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Reliability lessons from the 2025 Microsoft Azure Front Door outage】2025 年 Microsoft Azure Front Door 故障带来的可靠性教训</title>
-      <link>https://www.gremlin.com/blog/reliability-lessons-from-the-2025-microsoft-azure-front-door-outage</link>
-      <description>【In October 2025, Microsoft Azure Front Door and Content Delivery Network suffered a global outage. Find out what your team can do to minimize the impact of similar outages in the future.】2025 年 10 月，Microsoft Azure Front Door 和内容交付网络遭遇全球中断。了解您的团队可以采取哪些措施来最大程度地减少未来类似中断的影响。</description>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

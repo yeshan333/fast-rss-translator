@@ -4,64 +4,64 @@
     <link>https://devblogs.microsoft.com/landingpage/</link>
     <description>Get the latest information, insights, and news from Microsoft.</description>
     <item>
-      <title>【Visual Studio Code 1.120】Visual Studio 代码 1.120</title>
-      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.120</link>
-      <description>【Learn what&#39;s new in Visual Studio Code 1.120 (Insiders) Read the full article】了解 Visual Studio Code 1.120 中的新增功能（内部人士） 阅读全文</description>
-      <pubDate>Wed, 13 May 2026 17:00:00 +0000</pubDate>
+      <title>【Visual Studio Code 1.121】Visual Studio 代码 1.121</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/visual-studio-code-1.121</link>
+      <description>【Learn what&#39;s new in Visual Studio Code 1.121 (Insiders) Read the full article】了解 Visual Studio Code 1.121 中的新增功能（内部人士） 阅读全文</description>
+      <pubDate>Wed, 20 May 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET 11 Preview 4 is now available!】.NET 11 预览版 4 现已推出！</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4</link>
-      <description>【Today, we are excited to announce the fourth preview release of .NET 11! This release includes improvements across the .NET Runtime, SDK, libraries, ASP.NET Core, .NET MAUI, C#, Entity Framework Core, and more. Check out the linked release notes below and get started today. [cta-button align=&#34;center&#34; text=&#34;Download .NET 11 Preview 4&#34; url=&#34;h】今天，我们很高兴地宣布 .NET 11 的第四个预览版！此版本包括 .NET 运行时、SDK、库、ASP.NET Core、.NET MAUI、C#、Entity Framework Core 等方面的改进。查看下面链接的发行说明并立即开始。 [cta-buttonalign=“center”text=“下载.NET 11 Preview 4”url=“h”</description>
-      <pubDate>Tue, 12 May 2026 22:25:49 +0000</pubDate>
+      <title>【Advanced Shader Delivery expands Public Preview with AMD】Advanced Shader Delivery 与 AMD 一起扩展公共预览版</title>
+      <link>https://devblogs.microsoft.com/directx/advanced-shader-delivery-expands-public-preview-with-amd</link>
+      <description>【Last October, we released Advanced Shader Delivery (ASD) on the ROG Xbox Ally handhelds. Advanced Shader Delivery addresses one of the most frustrating challenges for PC players today – long load times and disruptive stuttering during a game’s first】去年 10 月，我们在 ROG Xbox Ally 手持设备上发布了高级着色器交付 (ASD)。高级着色器交付解决了当今 PC 玩家面临的最令人沮丧的挑战之一——加载时间长以及游戏首次启动时出现的破坏性卡顿</description>
+      <pubDate>Fri, 15 May 2026 14:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>【Is This a Packaged Process?】这是一个打包的过程吗？</title>
-      <link>https://devblogs.microsoft.com/insidemsix/is-this-a-packaged-process</link>
-      <description>【Sometimes you need to know whether the current process has package identity. Certain Windows features require it, and behaviors can differ—both technically and culturally. For example, classic Windows applications often store settings in the registry, whereas packaged applications typically use】有时你需要知道当前进程是否具有包标识。某些 Windows 功能需要它，并且行为在技术和文化上可能有所不同。例如，经典的 Windows 应用程序通常将设置存储在注册表中，而打包的应用程序通常使用</description>
-      <pubDate>Tue, 12 May 2026 20:20:48 +0000</pubDate>
+      <title>【The case of the &lt;CODE&gt;Create­File­Mapping&lt;/CODE&gt; that always reported &lt;CODE&gt;ERROR_&lt;WBR&gt;ALREADY_&lt;WBR&gt;EXISTS&lt;/CODE&gt;】&lt;CODE&gt;CreateFileMapping&lt;/CODE&gt; 始终报告 &lt;CODE&gt;ERROR_&lt;WBR&gt;ALREADY_&lt;WBR&gt;EXISTS&lt;/CODE&gt; 的情况</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327</link>
+      <description>【A customer reported that whenever their program called Create­File­Mapping to create a named file mapping, the call succeeded, but the resulting mapping was not the size they wanted. They requested a 1 megabyte mapping, but the mapping they got back was only 4KB, which they noticed because the program crashed once it accessed】一位客户报告说，每当他们的程序调用 CreateFileMapping 创建命名文件映射时，调用都会成功，但生成的映射不是他们想要的大小。他们请求 1 MB 的映射，但返回的映射只有 4KB，他们注意到这一点是因为程序一旦访问就会崩溃</description>
+      <pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【.NET and .NET Framework May 2026 servicing releases updates】.NET 和 .NET Framework 2026 年 5 月服务版本更新</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates</link>
-      <description>【Welcome to our combined .NET servicing updates for May 2026. Let&#39;s get into the latest release of .NET &amp;amp; .NET Framework, here is a quick overview of what&#39;s new in our servicing releases: Security improvements .NET and .NET Framework have been refreshed with the latest update as of May 12, 2026. This update contains security and】欢迎使用 2026 年 5 月的组合 .NET 服务更新。让我们了解最新版本的 .NET 和 .NET Framework，以下是我们服务版本中的新增功能的快速概述： 安全性改进 .NET 和 .NET Framework 已使用截至 2026 年 5 月 12 日的最新更新进行了刷新。此更新包含安全性和</description>
-      <pubDate>Tue, 12 May 2026 18:36:00 +0000</pubDate>
+      <title>【The Coding Harness Behind GitHub Copilot in VS Code】VS Code 中 GitHub Copilot 背后的编码工具</title>
+      <link>https://devblogs.microsoft.com/vscode-blog/the-coding-harness-behind-github-copilot-in-vs-code</link>
+      <description>【Learn why the coding harness around GitHub Copilot in VS Code matters as models, tools, agents, and providers evolve. Read the full article】了解为什么随着模型、工具、代理和提供程序的发展，VS Code 中围绕 GitHub Copilot 的编码工具很重要。阅读全文</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Foundry Local 1.1: Live Transcription, Embeddings, and Responses API】Foundry Local 1.1：实时转录、嵌入和响应 API</title>
-      <link>https://devblogs.microsoft.com/foundry/foundry-local-v1-1</link>
-      <description>【Today we&#39;re announcing the 1.1.0 release of Foundry Local — Microsoft&#39;s cross-platform local AI solution that lets developers bring AI directly into their applications with no cloud dependency, no network latency, and no per-token costs. This release adds the following: Live audio tra】今天，我们宣布发布 Foundry Local 1.1.0 版本，这是 Microsoft 的跨平台本地 AI 解决方案，可让开发人员将 AI 直接引入他们的应用程序，不依赖于云，没有网络延迟，也没有每个代币的成本。此版本添加了以下内容： 现场音频传输</description>
-      <pubDate>Tue, 12 May 2026 16:51:39 +0000</pubDate>
+      <title>【Exponential backoff and circuit breaker for Service Bus-triggered Azure Functions】用于服务总线触发的 Azure Functions 的指数退避和断路器</title>
+      <link>https://devblogs.microsoft.com/azure-sdk/exponential-backoff-circuit-breaker-azure-functions</link>
+      <description>【Modern distributed systems fail in partial, uneven ways. A downstream API slows down, a database starts timing out, or a burst of messages arrives faster than a dependency can absorb. If every Azure Function instance retries immediately and indefinitely, the system creates its own backpressure and turns a transient fault into a wider outage.】现代分布式系统会以部分、不均匀的方式失败。下游 API 速度变慢，数据库开始超时，或者突发消息到达的速度快于依赖项可以吸收的速度。如果每个 Azure Function 实例立即无限期地重试，系统会产生自己的背压，并将暂时性故障转变为更广泛的中断。</description>
+      <pubDate>Thu, 14 May 2026 23:04:41 +0000</pubDate>
     </item>
     <item>
-      <title>【MSVC Build Tools version 14.51 (GA) now available】MSVC 构建工具版本 14.51 (GA) 现已推出</title>
-      <link>https://devblogs.microsoft.com/cppblog/msvc-version-1451-available</link>
-      <description>【Microsoft C++ (MSVC) Build Tools version 14.51 is now generally available. It is the default compiler starting with Visual Studio 2026 18.6 and will receive 9 months of servicing fixes, as described in New release cadence and suppor】Microsoft C++ (MSVC) 构建工具版本 14.51 现已全面发布。它是从 Visual Studio 2026 18.6 开始的默认编译器，并将获得 9 个月的服务修复，如新版本节奏和支持中所述</description>
-      <pubDate>Tue, 12 May 2026 16:38:39 +0000</pubDate>
+      <title>【Considering NL2SQL? Should your database really be the prompt? How can SQL MCP Server help?】考虑NL2SQL？你的数据库真的应该是提示吗？ SQL MCP Server 如何提供帮助？</title>
+      <link>https://devblogs.microsoft.com/azure-sql/sql-mcp-server-nl2sql</link>
+      <description>【You’ve probably experienced both of these, perhaps at the same time. First, that desire to let an agent get at your data. It’s driven by simplification and better experiences for the user and for you: fewer screens, fewer queries, fewer reports, and less code overall. Second, and perhaps more importantly, that unrelenting reluctance and】您可能同时经历过这两种情况。首先，希望让代理获取您的数据。它是由简化和为用户和您带来更好的体验驱动的：更少的屏幕、更少的查询、更少的报告和更少的代码。其次，也许更重要的是，这种不屈不挠的不情愿和</description>
+      <pubDate>Thu, 14 May 2026 19:20:34 +0000</pubDate>
     </item>
     <item>
-      <title>【Introducing dotnet new WinUI templates】引入 dotnet 新 WinUI 模板</title>
-      <link>https://devblogs.microsoft.com/ifdef-windows/introducing-dotnet-new-templates-for-winui</link>
-      <description>【&amp;nbsp; [caption id=&#34;attachment_1143&#34; align=&#34;alignnone&#34; width=&#34;1188&#34;]】  [标题id =“attachment_1143”对齐=“alignnone”宽度=“1188”]</description>
-      <pubDate>Tue, 12 May 2026 10:15:13 +0000</pubDate>
+      <title>【Governance at the Speed of Agents: Microsoft Agent Framework and Agent Governance Toolkit, Better Together】以代理的速度进行治理：Microsoft Agent Framework 和 Agent Governance Toolkit，更好地结合在一起</title>
+      <link>https://devblogs.microsoft.com/agent-framework/governance-at-the-speed-of-agents-microsoft-agent-framework-and-agent-governance-toolkit-better-together</link>
+      <description>【Building powerful AI agents is only half the story, running them safely in production is the real challenge. As customers adopt Microsoft Agent Framework for agent orchestration, a clear need has emerged for robust, built-in governance. In this post, Imran Siddique from the AGT team walks through how Agent Governance To】构建强大的人工智能代理只是故事的一半，在生产中安全运行它们才是真正的挑战。随着客户采用 Microsoft Agent Framework 进行代理编排，出现了对强大的内置治理的明确需求。在这篇文章中，AGT 团队的 Imran Siddique 介绍了代理治理如何</description>
+      <pubDate>Thu, 14 May 2026 18:36:20 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new in Microsoft Foundry | April 2026】Microsoft Foundry 的新增功能 | 2026 年 4 月</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-apr-2026</link>
-      <description>【TL;DR Foundry Local (generally available, GA): Local model inference is production-ready on Windows, macOS on Apple Silicon, and Linux x64. GPT-5.5: The latest GPT-5 family model is available in Microsoft Foundry, with default quota for Tier 5 and Tier 6 subscriptions.】TL;DR Foundry Local（正式发布，GA）：本地模型推理可在 Windows、Apple Silicon 上的 macOS 和 Linux x64 上进行生产。 GPT-5.5：Microsoft Foundry 中提供了最新的 GPT-5 系列模型，具有第 5 层和第 6 层订阅的默认配额。</description>
-      <pubDate>Tue, 12 May 2026 07:13:15 +0000</pubDate>
+      <title>【Securing Azure apps with Aspire enterprise networking】使用 Aspire 企业网络保护 Azure 应用程序的安全</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-azure-enterprise-networking</link>
+      <description>【Network security has a funny way of showing up late. You start with a web app, an API, storage, and Key Vault. The app works. The demo works. Everyone is happy. Then the production checklist shows up: Can storage and secrets be taken off the public internet? Can this app run inside our virtual network?】网络安全有一种很有趣的迟到方式。您从 Web 应用程序、API、存储和 Key Vault 开始。该应用程序有效。演示有效。每个人都很高兴。然后生产清单出现：存储和秘密可以从公共互联网上删除吗？这个应用程序可以在我们的虚拟网络中运行吗？</description>
+      <pubDate>Thu, 14 May 2026 17:23:43 +0000</pubDate>
     </item>
     <item>
-      <title>【Publishing VM Applications in a Secure World】在安全环境中发布 VM 应用程序</title>
-      <link>https://devblogs.microsoft.com/azure-vm-runtime/publishing-vm-applications-in-a-secure-world</link>
-      <description>【Many of you who have published VM Applications may have come across a difficult conundrum regarding security. To create an application version, you must upload your application package to a Storage blob, then provide the address of that Storage blob for repl】许多发布了 VM 应用程序的人可能都遇到过有关安全性的难题。要创建应用程序版本，您必须将应用程序包上传到存储 blob，然后提供该存储 blob 的地址以供 repl</description>
-      <pubDate>Mon, 11 May 2026 15:47:59 +0000</pubDate>
+      <title>【May Patches for Azure DevOps Server】Azure DevOps Server 的 5 月补丁</title>
+      <link>https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3</link>
+      <description>【We are releasing new patches for our self‑hosted product, Azure DevOps Server. We strongly recommend that all customers stay up to date with the latest, most secure version of Azure DevOps Server. The most recent release, Azure DevOps】我们正在为我们的自托管产品 Azure DevOps Server 发布新补丁。我们强烈建议所有客户保持最新、最安全版本的 Azure DevOps Server。最新版本 Azure DevOps</description>
+      <pubDate>Thu, 14 May 2026 17:18:24 +0000</pubDate>
     </item>
     <item>
-      <title>【Additional notes on controlling which handles are inherited by &lt;CODE&gt;Create­Process&lt;/CODE&gt;】有关控制 &lt;CODE&gt;CreateProcess&lt;/CODE&gt; 继承哪些句柄的附加说明</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</link>
-      <description>【Some time ago, I wrote about programmatically controlling which handles are inherited by new processes in Win32 by using the PROC_THREAD_ATTRIBUTE_】前段时间，我写了一篇关于使用 PROC_THREAD_ATTRIBUTE_ 以编程方式控制 Win32 中的新进程继承哪些句柄的文章</description>
-      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
+      <title>【Segment Heap support for C++ projects in Visual Studio】Visual Studio 中 C++ 项目的段堆支持</title>
+      <link>https://devblogs.microsoft.com/cppblog/segment-heap-support-for-c-projects-in-visual-studio</link>
+      <description>【Visual Studio 2026 version 18.6 makes it easier to take advantage of modern Windows memory management improvements. Segment Heap is a modern heap implementation in Windows that delivers stronger protection against common memory vulnerabilities, higher】Visual Studio 2026 版本 18.6 使您可以更轻松地利用现代 Windows 内存管理改进。段堆是 Windows 中的现代堆实现，可针对常见内存漏洞提供更强大的保护，</description>
+      <pubDate>Thu, 14 May 2026 16:09:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

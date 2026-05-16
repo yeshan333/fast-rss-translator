@@ -4,6 +4,18 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse】我们的计费管道突然变慢了。罪魁祸首是 ClickHouse 中隐藏的瓶颈</title>
+      <link>https://blog.cloudflare.com/clickhouse-query-plan-contention/</link>
+      <description>【 When a partitioning change to our petabyte-scale ClickHouse cluster caused critical billing jobs to stall, standard metrics showed no obvious errors. This post explores how we identified severe lock contention in ClickHouse&#39;s query planner and built upstream patches to fix it. 】当我们的 PB 级 ClickHouse 集群的分区更改导致关键计费作业停滞时，标准指标没有显示明显的错误。这篇文章探讨了我们如何在 ClickHouse 的查询规划器中识别严重的锁争用，并构建上游补丁来修复它。</description>
+      <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Browser Run: now running on Cloudflare Containers, it’s faster and more scalable】Browser Run：现在在 Cloudflare Containers 上运行，速度更快、可扩展性更强</title>
+      <link>https://blog.cloudflare.com/browser-run-containers/</link>
+      <description>【 We’ve enabled higher usage limits, faster performance, better reliability, and increased shipping velocity for our Browser Run product by rebuilding on top of Cloudflare’s Containers. Here’s how. 】通过在 Cloudflare 的容器之上进行重建，我们为 Browser Run 产品启用了更高的使用限制、更快的性能、更好的可靠性并提高了运输速度。方法如下。</description>
+      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【When &#34;idle&#34; isn&#39;t idle: how a Linux kernel optimization became a QUIC bug】当“空闲”不空闲时：Linux 内核优化如何成为 QUIC bug</title>
       <link>https://blog.cloudflare.com/quic-death-spiral-fix/</link>
       <description>【 We investigated a bug where CUBIC&#39;s congestion window became pinned at its minimum floor, causing a performance to plummet. The fix involved correctly measuring idle periods to distinguish RTT wait times from actual application idleness. 】我们调查了一个错误，即 CUBIC 的拥塞窗口被固定在最低层，导致性能直线下降。该修复涉及正确测量空闲时间，以区分 RTT 等待时间和实际应用程序空闲时间。</description>
@@ -50,18 +62,6 @@
       <link>https://blog.cloudflare.com/agents-stripe-projects/</link>
       <description>【 Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.  】从今天开始，代理现在可以成为 Cloudflare 客户。他们可以创建 Cloudflare 帐户、启动付费订阅、注册域并获取 API 令牌以立即部署代码。人类可以在循环中授予权限，但无需转到仪表板、复制和粘贴 API 令牌或输入信用卡详细信息。</description>
       <pubDate>Thu, 30 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions】关闭、断电和冲突：2026 年第一季度互联网中断回顾</title>
-      <link>https://blog.cloudflare.com/q1-2026-internet-disruption-summary/</link>
-      <description>【 The first quarter of 2026 saw a surge in Internet disruptions, from nationwide shutdowns in Uganda and Iran to unprecedented drone strikes on cloud infrastructure. We explore the data behind these events using Cloudflare Radar. 】2026 年第一季度，互联网中断激增，从乌干达和伊朗全国范围内的关闭到云基础设施遭受前所未有的无人机袭击。我们使用 Cloudflare Radar 探索这些事件背后的数据。</description>
-      <pubDate>Tue, 28 Apr 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen】让 Rust Workers 可靠：wasm-bindgen 中的恐慌和中止恢复</title>
-      <link>https://blog.cloudflare.com/making-rust-workers-reliable/</link>
-      <description>【 Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Exception Handling. 】Rust Workers 的恐慌在历史上是致命的，毒害了整个实例。通过与 wasm-bindgen 项目上游合作，Rust Workers 现在支持弹性关键错误恢复，包括使用 WebAssembly 异常处理进行恐慌解除。</description>
-      <pubDate>Wed, 22 Apr 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
