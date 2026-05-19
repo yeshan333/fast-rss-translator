@@ -10,6 +10,24 @@
       <pubDate>Wed, 20 May 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【NuGet PackageReference for C++ Projects in Visual Studio】Visual Studio 中 C++ 项目的 NuGet PackageReference</title>
+      <link>https://devblogs.microsoft.com/cppblog/nuget-packagereference-for-c-projects-in-visual-studio</link>
+      <description>【Native C++ projects in Visual Studio now support &amp;lt;PackageReference&amp;gt;, the modern, MSBuild-native way to declare NuGet package dependencies directly in your project file. This support is available experimentally for .vcxproj projects in the Visual Studio Insiders Channel starting with version 18.7. This feature】Visual Studio 中的本机 C++ 项目现在支持 &lt;PackageReference&gt;，这是直接在项目文件中声明 NuGet 包依赖项的现代 MSBuild 本机方式。从版本 18.7 开始，Visual Studio Insiders Channel 中的 .vcxproj 项目可以实验性地获得此支持。此功能</description>
+      <pubDate>Tue, 19 May 2026 01:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports】NuGet 包修剪：更清晰的依赖关系和可操作的漏洞报告</title>
+      <link>https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10</link>
+      <description>【If you&#39;ve run NuGet Audit or a vulnerability scanner on a .NET project, you&#39;ve likely seen warnings for transitive packages you never explicitly installed. In many cases, those packages — such as System.Text.Json or System.Text.Encodings.Web — are already provided at a newer version by the .NET Runtime Libraries,】如果您在 .NET 项目上运行 NuGet Audit 或漏洞扫描器，您可能会看到针对从未明确安装的传递包的警告。在许多情况下，这些包（例如 System.Text.Json 或 System.Text.Encodings.Web）已由 .NET 运行时库在较新版本中提供，</description>
+      <pubDate>Mon, 18 May 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Just shows that nobody cares about debugging the parity flag any more】只是表明没有人再关心调试奇偶校验标志</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</link>
+      <description>【The x86-64 architecture inherited the parity flag (PF) from the x86-32, which in turn inherited it from the 8080, which inherited it from the 8008, which implemented it because it was the processor for the Datapoint 2200 serial terminal. The parity flag also has a secondary purpose of being a place for the FXAM (x87) an】x86-64 架构从 x86-32 继承了奇偶校验标志 (PF)，而 x86-32 又从 8080 继承了奇偶校验标志 (PF)，而 8080 又从 8008 继承了奇偶校验标志 (PF)，而 8008 实现了它，因为它是 Datapoint 2200 串行终端的处理器。奇偶校验标志还有一个次要目的，即作为 FXAM (x87) 的位置</description>
+      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Advanced Shader Delivery expands Public Preview with AMD】Advanced Shader Delivery 与 AMD 一起扩展公共预览版</title>
       <link>https://devblogs.microsoft.com/directx/advanced-shader-delivery-expands-public-preview-with-amd</link>
       <description>【Last October, we released Advanced Shader Delivery (ASD) on the ROG Xbox Ally handhelds. Advanced Shader Delivery addresses one of the most frustrating challenges for PC players today – long load times and disruptive stuttering during a game’s first】去年 10 月，我们在 ROG Xbox Ally 手持设备上发布了高级着色器交付 (ASD)。高级着色器交付解决了当今 PC 玩家面临的最令人沮丧的挑战之一——加载时间长以及游戏首次启动时出现的破坏性卡顿</description>
@@ -38,24 +56,6 @@
       <link>https://devblogs.microsoft.com/azure-sql/sql-mcp-server-nl2sql</link>
       <description>【You’ve probably experienced both of these, perhaps at the same time. First, that desire to let an agent get at your data. It’s driven by simplification and better experiences for the user and for you: fewer screens, fewer queries, fewer reports, and less code overall. Second, and perhaps more importantly, that unrelenting reluctance and】您可能同时经历过这两种情况。首先，希望让代理获取您的数据。它是由简化和为用户和您带来更好的体验驱动的：更少的屏幕、更少的查询、更少的报告和更少的代码。其次，也许更重要的是，这种不屈不挠的不情愿和</description>
       <pubDate>Thu, 14 May 2026 19:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Governance at the Speed of Agents: Microsoft Agent Framework and Agent Governance Toolkit, Better Together】以代理的速度进行治理：Microsoft Agent Framework 和 Agent Governance Toolkit，更好地结合在一起</title>
-      <link>https://devblogs.microsoft.com/agent-framework/governance-at-the-speed-of-agents-microsoft-agent-framework-and-agent-governance-toolkit-better-together</link>
-      <description>【Building powerful AI agents is only half the story, running them safely in production is the real challenge. As customers adopt Microsoft Agent Framework for agent orchestration, a clear need has emerged for robust, built-in governance. In this post, Imran Siddique from the AGT team walks through how Agent Governance To】构建强大的人工智能代理只是故事的一半，在生产中安全运行它们才是真正的挑战。随着客户采用 Microsoft Agent Framework 进行代理编排，出现了对强大的内置治理的明确需求。在这篇文章中，AGT 团队的 Imran Siddique 介绍了代理治理如何</description>
-      <pubDate>Thu, 14 May 2026 18:36:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Securing Azure apps with Aspire enterprise networking】使用 Aspire 企业网络保护 Azure 应用程序的安全</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-azure-enterprise-networking</link>
-      <description>【Network security has a funny way of showing up late. You start with a web app, an API, storage, and Key Vault. The app works. The demo works. Everyone is happy. Then the production checklist shows up: Can storage and secrets be taken off the public internet? Can this app run inside our virtual network?】网络安全有一种很有趣的迟到方式。您从 Web 应用程序、API、存储和 Key Vault 开始。该应用程序有效。演示有效。每个人都很高兴。然后生产清单出现：存储和秘密可以从公共互联网上删除吗？这个应用程序可以在我们的虚拟网络中运行吗？</description>
-      <pubDate>Thu, 14 May 2026 17:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【May Patches for Azure DevOps Server】Azure DevOps Server 的 5 月补丁</title>
-      <link>https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3</link>
-      <description>【We are releasing new patches for our self‑hosted product, Azure DevOps Server. We strongly recommend that all customers stay up to date with the latest, most secure version of Azure DevOps Server. The most recent release, Azure DevOps】我们正在为我们的自托管产品 Azure DevOps Server 发布新补丁。我们强烈建议所有客户保持最新、最安全版本的 Azure DevOps Server。最新版本 Azure DevOps</description>
-      <pubDate>Thu, 14 May 2026 17:18:24 +0000</pubDate>
     </item>
     <item>
       <title>【Segment Heap support for C++ projects in Visual Studio】Visual Studio 中 C++ 项目的段堆支持</title>

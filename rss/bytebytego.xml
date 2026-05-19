@@ -5,6 +5,18 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
+      <title>【How Grab is Using AI Agents to Boost Team Productivity】Grab 如何使用人工智能代理来提高团队生产力</title>
+      <link>https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost</link>
+      <description>【Grab&amp;#8217;s data engineering team had a problem that looks familiar to anyone who&amp;#8217;s maintained shared infrastructure.】Grab 的数据工程团队遇到了一个对于任何维护共享基础设施的人来说都很熟悉的问题。</description>
+      <pubDate>Mon, 18 May 2026 15:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EP215: The Anatomy of an AI Agent】EP215：人工智能代理的剖析</title>
+      <link>https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent</link>
+      <description>【An AI agent can be thought of as a simple While-loop.】AI 代理可以被认为是一个简单的 While 循环。</description>
+      <pubDate>Sat, 16 May 2026 15:31:01 +0000</pubDate>
+    </item>
+    <item>
       <title>【LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 6】最后报名：成为一名人工智能工程师 - 第 6 组</title>
       <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-a88</link>
       <description>【Our 6th cohort of Becoming an AI Engineer starts tomorrow, Saturday, May 16. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第 6 期“成为人工智能工程师”课程将于明天（即 5 月 16 日星期六）开始。这是一门与畅销书作家 Ali Aminian 合作创建并由 ByteByteGo 出版的实时、基于群组的课程。</description>
@@ -51,18 +63,6 @@
       <link>https://blog.bytebytego.com/p/container-design-patterns-for-distributed</link>
       <description>【In this article, we&amp;#8217;ll walk through the patterns that have crystallized over the past decade, organized by the scope of their coordination.】在本文中，我们将按协调范围组织介绍过去十年中具体化的模式。</description>
       <pubDate>Thu, 07 May 2026 15:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Instacart Built a Search for Billions of Products】Instacart 如何构建数十亿种产品的搜索</title>
-      <link>https://blog.bytebytego.com/p/how-instacart-built-a-search-for</link>
-      <description>【In this article, we will learn how Instacart&amp;#8217;s search infrastructure evolved over the years and the challenges its engineering team faced.】在本文中，我们将了解 Instacart 的搜索基础设施多年来如何发展以及其工程团队面临的挑战。</description>
-      <pubDate>Tue, 05 May 2026 15:31:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Connecting LLMs to the Real World: Tool Use, Function Calling, and MCP】将法学硕士与现实世界联系起来：工具使用、函数调用和 MCP</title>
-      <link>https://blog.bytebytego.com/p/connecting-llms-to-the-real-world</link>
-      <description>【In this article, we will look at this progression that has happened from basic tool use to function calling to the Model Context Protocol, allowing the LLMs to go from isolated text generation tools to assistants that can do interesting stuff for the end users.】在本文中，我们将研究从基本工具使用到函数调用再到模型上下文协议的这一进展，从而允许法学硕士从孤立的文本生成工具转变为可以为最终用户做有趣事情的助手。</description>
-      <pubDate>Mon, 04 May 2026 15:30:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
